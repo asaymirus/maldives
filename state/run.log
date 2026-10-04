@@ -21,3 +21,124 @@
 2026-10-04 22:33:25,353 INFO queue: 25 candidates to process
 2026-10-04 22:33:40,205 INFO progress 25/25 {'unmatched': 21, 'stored': 4}
 2026-10-04 22:33:40,213 INFO queue done: {'unmatched': 21, 'stored': 4}
+2026-10-04 22:41:17,755 INFO === Phase B batch 1-20
+2026-10-04 22:41:18,368 INFO BLOCKED www.sixsenses.com (403)
+2026-10-04 22:41:18,599 INFO BLOCKED www.ozenreservebolifushi.com (403)
+2026-10-04 22:41:33,472 INFO render fail https://www.sixsenses.com/en/resorts/laamu Cannot switch to a different thread
+	Current:  <greenlet.greenlet object at 0x7f369ddf2fc0 (otid=0x7f36a80c2320) current
+2026-10-04 22:41:33,475 INFO render fail https://www.ozenreservebolifushi.com/ Cannot switch to a different thread
+	Current:  <greenlet.greenlet object at 0x7f369ddf3880 (otid=0x7f3694193680) current
+2026-10-04 22:41:33,475 INFO B official   1 Six Senses Laamu                         blocked    pages=0 pdfs=0 js=False
+2026-10-04 22:41:33,478 INFO B official   5 Bolifushi Island Resort                  blocked    pages=0 pdfs=0 js=False
+2026-10-04 22:41:33,693 INFO BLOCKED forsale.godaddy.com (403)
+2026-10-04 22:41:33,709 ERROR Exception in callback SyncBase._sync.<locals>.<lambda>(<Task finishe...1.0.7390.37>>>) at /usr/local/lib/python3.11/dist-packages/playwright/_impl/_sync_base.py:111
+handle: <Handle SyncBase._sync.<locals>.<lambda>(<Task finishe...1.0.7390.37>>>) at /usr/local/lib/python3.11/dist-packages/playwright/_impl/_sync_base.py:111>
+Traceback (most recent call last):
+  File "/usr/lib/python3.11/asyncio/events.py", line 84, in _run
+    self._context.run(self._callback, *self._args)
+  File "/usr/local/lib/python3.11/dist-packages/playwright/_impl/_sync_base.py", line 111, in <lambda>
+    task.add_done_callback(lambda _: g_self.switch())
+                                     ^^^^^^^^^^^^^^^
+greenlet.error: Cannot switch to a different thread
+	Current:  <greenlet.greenlet object at 0x7f36ac0cbd00 (otid=0x7f36a012ef70) suspended active started main>
+	Expected: <greenlet.greenlet object at 0x7f369ddf2fc0 (otid=0x7f36a80c2320) suspended active started main>
+2026-10-04 22:41:33,711 ERROR Exception in callback SyncBase._sync.<locals>.<lambda>(<Task finishe...1.0.7390.37>>>) at /usr/local/lib/python3.11/dist-packages/playwright/_impl/_sync_base.py:111
+handle: <Handle SyncBase._sync.<locals>.<lambda>(<Task finishe...1.0.7390.37>>>) at /usr/local/lib/python3.11/dist-packages/playwright/_impl/_sync_base.py:111>
+Traceback (most recent call last):
+  File "/usr/lib/python3.11/asyncio/events.py", line 84, in _run
+    self._context.run(self._callback, *self._args)
+  File "/usr/local/lib/python3.11/dist-packages/playwright/_impl/_sync_base.py", line 111, in <lambda>
+    task.add_done_callback(lambda _: g_self.switch())
+                                     ^^^^^^^^^^^^^^^
+greenlet.error: Cannot switch to a different thread
+	Current:  <greenlet.greenlet object at 0x7f36ac0cbd00 (otid=0x7f36a012ef70) suspended active started main>
+	Expected: <greenlet.greenlet object at 0x7f369ddf3880 (otid=0x7f3694193680) suspended active started main>
+2026-10-04 22:41:40,672 INFO B official   2 Filitheyo Island Resort                  ok         pages=1 pdfs=0 js=True
+2026-10-04 22:41:40,838 INFO B official   7 Joali Muravandhoo                        unreachable pages=0 pdfs=0 js=False
+2026-10-04 22:41:41,303 INFO B official   6 Joali Being Bodufushi                    unreachable pages=0 pdfs=0 js=False
+2026-10-04 22:42:23,525 INFO B official   4 Ayada Maldives                           ok         pages=70 pdfs=30 js=False
+2026-10-04 22:42:24,126 INFO B official   3 Adaaran Select Hudhuranfushi             ok         pages=46 pdfs=37 js=False
+2026-10-04 22:42:34,764 INFO B official   8 Hilton Maldives Amingiri Resort & Spa    unverified pages=0 pdfs=0 js=True
+2026-10-04 22:42:44,675 INFO B official  13 Sandies Bathala                          unreachable pages=0 pdfs=0 js=False
+2026-10-04 22:42:45,068 INFO BLOCKED www.baglionihotels.com (403)
+2026-10-04 22:42:50,400 INFO B official   9 Amilla Fushi                             ok         pages=40 pdfs=94 js=False
+2026-10-04 22:43:06,535 INFO render fail https://www.alilahotels.com/kothaifaru Cannot switch to a different thread
+	Current:  <greenlet.greenlet object at 0x7f369ddf3880 (otid=0x7f3694193680) current
+2026-10-04 22:43:06,591 INFO B official  10 Dreamland - The Unique Sea & Lake Resort ok         pages=24 pdfs=35 js=False
+2026-10-04 22:43:06,608 INFO render fail https://www.hyatt.com/alila/mleal-alila-kothaifaru-maldives Cannot switch to a different thread
+	Current:  <greenlet.greenlet object at 0x7f369ddf3880 (otid=0x7f3694193680) current
+2026-10-04 22:43:06,608 INFO B official  15 Alila Kothaifaru Maldives                blocked    pages=0 pdfs=0 js=False
+2026-10-04 22:43:06,625 INFO BLOCKED www.baglionihotels.com (403)
+2026-10-04 22:43:06,760 INFO B official  14 Baglioni Resort Maldives                 blocked-partial pages=1 pdfs=0 js=True
+2026-10-04 22:43:06,945 INFO BLOCKED www.marriott.com (403)
+2026-10-04 22:43:06,946 INFO render fail https://www.marriott.com/en-us/hotels/mlejk-jw-marriott-kaafu-atoll-island-resort/overview/ Cannot switch to a different thread
+	Current:  <greenlet.greenlet object at 0x7f369ddf2fc0 (otid=0x7f36a80c2320) current
+2026-10-04 22:43:06,948 INFO B official  16 JW Marriott Kaafu Atoll Island Resort    blocked    pages=0 pdfs=0 js=False
+2026-10-04 22:43:07,270 INFO BLOCKED expireddomains.com (403)
+2026-10-04 22:43:07,291 INFO render fail https://expireddomains.com/domain/rihivelimaldives.com?utm_source=redi Cannot switch to a different thread
+	Current:  <greenlet.greenlet object at 0x7f369ddf3880 (otid=0x7f3694193680) current
+2026-10-04 22:43:07,334 INFO B official  17 Rihiveli Maldives Resort                 ok         pages=1 pdfs=0 js=False
+2026-10-04 22:43:07,799 INFO BLOCKED www.marriott.com (403)
+2026-10-04 22:43:07,818 ERROR Exception in callback SyncBase._sync.<locals>.<lambda>(<Task finishe...1.0.7390.37>>>) at /usr/local/lib/python3.11/dist-packages/playwright/_impl/_sync_base.py:111
+handle: <Handle SyncBase._sync.<locals>.<lambda>(<Task finishe...1.0.7390.37>>>) at /usr/local/lib/python3.11/dist-packages/playwright/_impl/_sync_base.py:111>
+Traceback (most recent call last):
+  File "/usr/lib/python3.11/asyncio/events.py", line 84, in _run
+    self._context.run(self._callback, *self._args)
+  File "/usr/local/lib/python3.11/dist-packages/playwright/_impl/_sync_base.py", line 111, in <lambda>
+    task.add_done_callback(lambda _: g_self.switch())
+                                     ^^^^^^^^^^^^^^^
+greenlet.error: Cannot switch to a different thread
+	Current:  <greenlet.greenlet object at 0x7f36ac0cbd00 (otid=0x7f36a012ef70) suspended active started main>
+	Expected: <greenlet.greenlet object at 0x7f369ddf3880 (otid=0x7f3694193680) suspended active started main>
+2026-10-04 22:43:07,819 ERROR Exception in callback SyncBase._sync.<locals>.<lambda>(<Task finishe...1.0.7390.37>>>) at /usr/local/lib/python3.11/dist-packages/playwright/_impl/_sync_base.py:111
+handle: <Handle SyncBase._sync.<locals>.<lambda>(<Task finishe...1.0.7390.37>>>) at /usr/local/lib/python3.11/dist-packages/playwright/_impl/_sync_base.py:111>
+Traceback (most recent call last):
+  File "/usr/lib/python3.11/asyncio/events.py", line 84, in _run
+    self._context.run(self._callback, *self._args)
+  File "/usr/local/lib/python3.11/dist-packages/playwright/_impl/_sync_base.py", line 111, in <lambda>
+    task.add_done_callback(lambda _: g_self.switch())
+                                     ^^^^^^^^^^^^^^^
+greenlet.error: Cannot switch to a different thread
+	Current:  <greenlet.greenlet object at 0x7f36ac0cbd00 (otid=0x7f36a012ef70) suspended active started main>
+	Expected: <greenlet.greenlet object at 0x7f369ddf3880 (otid=0x7f3694193680) suspended active started main>
+2026-10-04 22:43:07,820 ERROR Exception in callback SyncBase._sync.<locals>.<lambda>(<Task finishe...1.0.7390.37>>>) at /usr/local/lib/python3.11/dist-packages/playwright/_impl/_sync_base.py:111
+handle: <Handle SyncBase._sync.<locals>.<lambda>(<Task finishe...1.0.7390.37>>>) at /usr/local/lib/python3.11/dist-packages/playwright/_impl/_sync_base.py:111>
+Traceback (most recent call last):
+  File "/usr/lib/python3.11/asyncio/events.py", line 84, in _run
+    self._context.run(self._callback, *self._args)
+  File "/usr/local/lib/python3.11/dist-packages/playwright/_impl/_sync_base.py", line 111, in <lambda>
+    task.add_done_callback(lambda _: g_self.switch())
+                                     ^^^^^^^^^^^^^^^
+greenlet.error: Cannot switch to a different thread
+	Current:  <greenlet.greenlet object at 0x7f36ac0cbd00 (otid=0x7f36a012ef70) suspended active started main>
+	Expected: <greenlet.greenlet object at 0x7f369ddf2fc0 (otid=0x7f36a80c2320) suspended active started main>
+2026-10-04 22:43:07,821 ERROR Exception in callback SyncBase._sync.<locals>.<lambda>(<Task finishe...1.0.7390.37>>>) at /usr/local/lib/python3.11/dist-packages/playwright/_impl/_sync_base.py:111
+handle: <Handle SyncBase._sync.<locals>.<lambda>(<Task finishe...1.0.7390.37>>>) at /usr/local/lib/python3.11/dist-packages/playwright/_impl/_sync_base.py:111>
+Traceback (most recent call last):
+  File "/usr/lib/python3.11/asyncio/events.py", line 84, in _run
+    self._context.run(self._callback, *self._args)
+  File "/usr/local/lib/python3.11/dist-packages/playwright/_impl/_sync_base.py", line 111, in <lambda>
+    task.add_done_callback(lambda _: g_self.switch())
+                                     ^^^^^^^^^^^^^^^
+greenlet.error: Cannot switch to a different thread
+	Current:  <greenlet.greenlet object at 0x7f36ac0cbd00 (otid=0x7f36a012ef70) suspended active started main>
+	Expected: <greenlet.greenlet object at 0x7f369ddf3880 (otid=0x7f3694193680) suspended active started main>
+2026-10-04 22:43:09,182 INFO B official  20 The Residence Maldives At Dhigurah       unreachable pages=0 pdfs=0 js=False
+2026-10-04 22:43:09,192 INFO B official  19 The Residence Maldives                   unreachable pages=0 pdfs=0 js=False
+2026-10-04 22:43:19,443 INFO B official  18 JW Marriott Maldives Resort & Spa        blocked    pages=0 pdfs=0 js=False
+2026-10-04 22:43:32,110 INFO B official  12 Thulhagiri Island Resort & Spa           ok         pages=40 pdfs=43 js=False
+2026-10-04 22:43:52,880 INFO B official  11 Angaga Island Resort and Spa             ok         pages=41 pdfs=71 js=False
+2026-10-04 22:43:52,891 INFO queue: 310 candidates to process
+2026-10-04 22:44:07,016 INFO progress 25/310 {'stored': 25}
+2026-10-04 22:44:22,143 INFO progress 50/310 {'stored': 49, 'duplicate': 1}
+2026-10-04 22:44:41,852 INFO progress 75/310 {'stored': 73, 'duplicate': 2}
+2026-10-04 22:45:00,258 INFO progress 100/310 {'stored': 97, 'duplicate': 3}
+2026-10-04 22:45:20,269 INFO progress 125/310 {'stored': 122, 'duplicate': 3}
+2026-10-04 22:45:35,531 INFO progress 150/310 {'stored': 147, 'duplicate': 3}
+2026-10-04 22:45:54,193 INFO progress 175/310 {'stored': 163, 'duplicate': 10, 'excluded': 2}
+2026-10-04 22:46:03,134 INFO progress 200/310 {'stored': 183, 'duplicate': 13, 'excluded': 2, 'failed': 2}
+2026-10-04 22:46:21,880 INFO progress 225/310 {'stored': 197, 'duplicate': 22, 'excluded': 4, 'failed': 2}
+2026-10-04 22:46:37,721 INFO progress 250/310 {'stored': 212, 'duplicate': 30, 'excluded': 4, 'failed': 3, 'unmatched': 1}
+2026-10-04 22:46:56,182 INFO progress 275/310 {'stored': 225, 'duplicate': 36, 'excluded': 4, 'failed': 9, 'unmatched': 1}
+2026-10-04 22:47:11,820 INFO progress 300/310 {'stored': 225, 'duplicate': 59, 'excluded': 5, 'failed': 10, 'unmatched': 1}
+2026-10-04 22:47:21,374 INFO queue done: {'stored': 225, 'duplicate': 69, 'excluded': 5, 'failed': 10, 'unmatched': 1}
