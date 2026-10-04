@@ -511,3 +511,5 @@ Traceback (most recent call last):
   File "/usr/local/lib/python3.11/dist-packages/openpyxl/cell/cell.py", line 165, in check_string
     raise IllegalCharacterError(f"{value} cannot be used in worksheets.")
 openpyxl.utils.exceptions.IllegalCharacterError:  IN-ROOM DINING POUR COMMANDER, CONTACTEZ IN-ROOM DINING READY TO ORDER, JUST DIAL IN-ROOM DINING PICNIC POUR COMMANDER, CONTACTEZ IN-ROOM DINING   cannot be used in worksheets.
+2026-10-04 23:43:07,237 INFO === Phase B batch 81-100
+2026-10-04 23:43:12,137 INFO C agency https://www.holidayplace.co.uk/               ok           pages=150 pdfs=0
