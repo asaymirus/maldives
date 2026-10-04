@@ -201,3 +201,11 @@ Traceback (most recent call last):
   File "/usr/local/lib/python3.11/dist-packages/openpyxl/cell/cell.py", line 165, in check_string
     raise IllegalCharacterError(f"{value} cannot be used in worksheets.")
 openpyxl.utils.exceptions.IllegalCharacterError:  IN-ROOM DINING POUR COMMANDER, CONTACTEZ IN-ROOM DINING READY TO ORDER, JUST DIAL IN-ROOM DINING PICNIC POUR COMMANDER, CONTACTEZ IN-ROOM DINING   cannot be used in worksheets.
+2026-10-04 23:50:10,735 INFO === Phase B batch 101-120
+2026-10-04 23:50:11,054 INFO BLOCKED www.marriott.com (403)
+2026-10-04 23:50:12,018 INFO BLOCKED www.marriott.com (403)
+2026-10-04 23:50:12,967 INFO B official 101 Club Med Finolhu Villas                  unreachable pages=0 pdfs=0 js=False
+2026-10-04 23:50:13,343 INFO BLOCKED www.anantara.com (403)
+2026-10-04 23:50:16,493 INFO B official 102 W Maldives                               blocked    pages=0 pdfs=0 js=False
+2026-10-04 23:50:16,500 INFO B official 107 The Westin Maldives Miriandhoo Resort    blocked    pages=0 pdfs=0 js=False
+2026-10-04 23:50:21,913 INFO B official 103 Sheraton Maldives Full Moon Resort & Spa blocked    pages=0 pdfs=0 js=False
