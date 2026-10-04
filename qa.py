@@ -59,7 +59,7 @@ def recalc_workbook():
     for ws in wb.worksheets:
         for row in ws.iter_rows():
             for c in row:
-                if isinstance(c.value, str) and c.value.startswith("#") and c.value.rstrip("!?/0ADEIVLMNRU") in ("#",) or (isinstance(c.value, str) and c.value in ("#REF!", "#VALUE!", "#NAME?", "#DIV/0!", "#N/A", "#NUM!", "#NULL!", "Err:502", "Err:504", "Err:508", "Err:511")):
+                if isinstance(c.value, str) and c.value in ("#REF!", "#VALUE!", "#NAME?", "#DIV/0!", "#N/A", "#NUM!", "#NULL!", "Err:502", "Err:504", "Err:508", "Err:511"):
                     errors.append((ws.title, c.coordinate, c.value))
     cov = wb["Coverage"]
     sample = [[c.value for c in r] for r in cov.iter_rows(min_row=1, max_row=4)]

@@ -1,6 +1,6 @@
 # Affordable Maldives Resorts | Equator Village Maldives Official Site
 
-Source: https://equatorvillage.com
+Source: https://equatorvillage.com/
 Scraped: 2026-10-04
 Resort: Equator Village
 Page type: diving

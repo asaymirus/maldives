@@ -296,6 +296,17 @@ FOREIGN_SISTER_HINTS = [
 ]
 
 
+# Properties that are NOT in the list but share sources/groups with listed ones; their files go to "Extra resorts".
+EXTRA_RESORT_TERMS = ["nala maldives", "nalamaldives", "kihaa", "ailafushi", "rah gili", "oblu xperience", "sun siyam pasikudah",
+                      "siyam pasikudah", "olhuveli beach", "kanuhura sri", "ritz carlton langkawi", "cinnamon bentota", "cinnamon lakeside",
+                      "hudhuranfushi surf", "amari havodda sri"]
+
+
+def is_extra_resort(text):
+    t = norm(text).replace(" ", "")
+    return [e for e in EXTRA_RESORT_TERMS if e.replace(" ", "") in t]
+
+
 def looks_foreign(text, url=""):
     t = norm(text)[:4000] + " " + norm(url)
     hits = [h for h in FOREIGN_SISTER_HINTS if f" {h} " in f" {t} "]

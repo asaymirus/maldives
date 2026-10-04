@@ -46,6 +46,33 @@ def reprocess(move=True):
     log.info("reprocessed %d docs, %d changed", len(docs), changed)
 
 
+def purge_extras_and_foreign():
+    """Remove stored docs that belong to extra (non-listed) resorts or foreign sister properties."""
+    from resorts import is_extra_resort, looks_foreign, match_resort, norm
+    docs = load_docs()
+    removed = 0
+    for h, d in list(docs.items()):
+        orig = d["file_name"].split("_", 1)[-1]
+        first = pdftotext(os.path.join(ROOT, d["local_path"]), 1, 2) if os.path.exists(os.path.join(ROOT, d["local_path"])) else ""
+        extra = is_extra_resort(f"{orig} {d.get('title', '')} {first[:600]}")
+        direct = match_resort(f"{orig} {d.get('title', '')}")[0]
+        _, fhits = looks_foreign(f"{orig} {d.get('title', '')} {first[:3000]}", "")
+        strong = [norm(a) for i in (d.get("resort_ids") or [d["resort_id"]]) for a in BY_ID[i]["aliases"] + [BY_ID[i]["name"]] if len(norm(a)) >= 5]
+        fn_ti = norm(orig + " " + d.get("title", "")).replace(" ", "")
+        foreign = fhits and not any(a.replace(" ", "") in fn_ti for a in strong) and not any(a.replace(" ", "") in norm(first[:1500]).replace(" ", "") for a in strong)
+        if (extra and not direct) or foreign:
+            lib.jsonl_append(lib.EXTRAS, {"url": d["url"], "title": d.get("title", ""), "sha256": h, "date": lib.TODAY,
+                                          "note": f"purged: {'extra resort ' + extra[0] if extra else 'foreign ' + ','.join(fhits)}"})
+            p = os.path.join(ROOT, d["local_path"])
+            if os.path.exists(p):
+                os.remove(p)
+            del docs[h]
+            removed += 1
+    mark_latest(docs)
+    save_docs(docs)
+    log.info("purged %d extra/foreign docs", removed)
+
+
 def requeue_unmatched():
     rows = lib.jsonl_read(lib.RESULTS)
     keep = [r for r in rows if not (r.get("status") in ("unmatched",) or str(r.get("status", "")).startswith("failed-blocked"))]
@@ -58,5 +85,7 @@ def requeue_unmatched():
 if __name__ == "__main__":
     if "requeue" in sys.argv:
         requeue_unmatched()
+    elif "purge" in sys.argv:
+        purge_extras_and_foreign()
     else:
         reprocess()

@@ -1,6 +1,6 @@
 # Privacy Policy | Data Privacy and Security at Equator Village
 
-Source: https://www.equatorvillage.com/privacy-policy
+Source: https://equatorvillage.com/privacy-policy
 Scraped: 2026-10-04
 Resort: Equator Village
 Page type: villas

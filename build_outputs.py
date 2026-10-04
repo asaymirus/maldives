@@ -105,7 +105,7 @@ def build_workbook(docs, rows):
         rid = r["resort_id"]
         row = [rid, r["name"], (sites.get(f"official:{rid}") or {}).get("status", "not crawled")]
         for t in DOC_TYPES:
-            row.append(f'=IFERROR(IF(MAXIFS({rng("edition_year")},{rng("resort_id")},$A{wsc.max_row + 1},{rng("doc_type")},"{t}")=0,"",MAXIFS({rng("edition_year")},{rng("resort_id")},$A{wsc.max_row + 1},{rng("doc_type")},"{t}")),"")')
+            row.append(f'=IFERROR(IF(_xlfn.MAXIFS({rng("edition_year")},{rng("resort_id")},$A{wsc.max_row + 1},{rng("doc_type")},"{t}")=0,"",_xlfn.MAXIFS({rng("edition_year")},{rng("resort_id")},$A{wsc.max_row + 1},{rng("doc_type")},"{t}")),"")')
         n = wsc.max_row + 1
         row.append(f'=COUNTIFS({rng("resort_id")},$A{n})')
         row.append(f'=COUNTIFS({rng("resort_id")},$A{n},{rng("status")},"current")')

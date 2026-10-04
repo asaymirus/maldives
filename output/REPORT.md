@@ -207,14 +207,14 @@
 | 58 | Sirru Fen Fushi | wedding, events | unverified |
 | 59 | Jumeirah Maldives Olhahali Island | wedding, events | ok |
 | 60 | Reethi Beach Resort | factsheet, wedding, events | unverified |
-| 61 | Equator Village | factsheet, wedding, events | - |
+| 61 | Equator Village | factsheet, wedding, events | ok |
 | 62 | Cora Cora Maldives | wedding, events | - |
-| 63 | Hondaafushi Island Resort | factsheet, wedding, events | - |
+| 63 | Hondaafushi Island Resort | factsheet, wedding, events | ok |
 | 64 | Radisson Blu Resort Maldives | factsheet, wedding, events | unverified |
-| 65 | Cheval Blanc Randheli | wedding, events | - |
-| 66 | Como Maalifushi | wedding, events | - |
+| 65 | Cheval Blanc Randheli | wedding, events | ok |
+| 66 | Como Maalifushi | wedding, events | ok |
 | 67 | Waldorf Astoria Maldives Ithaafushi | wedding, events | - |
-| 68 | JA Manafaru | wedding, events | - |
+| 68 | JA Manafaru | wedding, events | ok |
 | 69 | Adaaran Club Rannalhi | wedding, events | - |
 | 70 | Joy Island | wedding, events | - |
 | 71 | Kagi Maldives Resort and Spa | wedding, events | - |

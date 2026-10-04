@@ -9,7 +9,7 @@ from collections import defaultdict
 import requests
 from bs4 import BeautifulSoup
 
-from resorts import RESORTS, BY_ID, match_resort, looks_foreign, norm
+from resorts import RESORTS, BY_ID, match_resort, looks_foreign, norm, is_extra_resort
 
 ROOT = os.path.dirname(os.path.abspath(__file__))
 STATE = os.path.join(ROOT, "state")
@@ -552,6 +552,14 @@ def process_candidate(item, docs, source_rank):
     hint = item.get("resort_hint")
     hints = [hint] if isinstance(hint, int) else (hint or [])
     match_text = f"{url} {fname} {title} {item.get('context', '')} {first[:4000]}"
+    extra_hits = is_extra_resort(f"{fname} {title} {first[:600]}")
+    if extra_hits and not match_resort(f"{fname} {title}")[0]:
+        res["status"] = "unmatched"
+        res["title"] = title
+        jsonl_append(EXTRAS, {"url": url, "title": title, "sha256": h, "note": f"extra resort: {extra_hits[0]}", "date": TODAY,
+                              "snippet": re.sub(r"\s+", " ", first[:300])})
+        os.remove(cache)
+        return res
     ids, review = match_resort(match_text, hints)
     foreign, fhits = looks_foreign(f"{fname} {title} {first[:3000]}", url)
     if not ids:

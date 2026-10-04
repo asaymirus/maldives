@@ -1,6 +1,6 @@
 # GDPR Compliance | Equator Village
 
-Source: https://www.equatorvillage.com/gdpr-compliance
+Source: https://equatorvillage.com/gdpr-compliance
 Scraped: 2026-10-04
 Resort: Equator Village
 Page type: villas
