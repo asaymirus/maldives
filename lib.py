@@ -152,10 +152,15 @@ def load_docs():
     return {}
 
 
+DOCS_LOCK = threading.RLock()
+
+
 def save_docs(docs):
     tmp = DOCS + ".tmp"
+    with DOCS_LOCK:
+        payload = json.dumps(docs, ensure_ascii=False, indent=0)
     with open(tmp, "w", encoding="utf-8") as f:
-        json.dump(docs, f, ensure_ascii=False, indent=0)
+        f.write(payload)
     os.replace(tmp, DOCS)
 
 
@@ -460,7 +465,7 @@ def detect_edition(filename, text, info, last_modified):
     if m:
         return int(max(m)), "filename", None, None
     # explicit season / validity ranges in text
-    t = (text or "")[:6000]
+    t = (text or "")[:60000]
     rng = re.search(r"(?:valid|season|edition|rates?|from|effective)\D{0,40}(20[12]\d)\D{0,40}?(?:to|-|–|until|till)\D{0,20}(20[12]\d)", t, re.I)
     if rng:
         return int(rng.group(1)), "text-validity", None, None
@@ -513,16 +518,17 @@ def process_candidate(item, docs, source_rank):
     h = sha256(data)
     res["sha256"] = h
     res["size_kb"] = round(len(data) / 1024)
-    if h in docs:
-        d = docs[h]
-        if url not in d["all_urls"]:
-            d["all_urls"].append(url)
-        # official copy wins as primary
-        if source_rank.get(item.get("source_type"), 9) < source_rank.get(d.get("source_type"), 9):
-            d["url"], d["source"], d["source_type"] = url, item.get("source"), item.get("source_type")
-        res["status"] = "duplicate"
-        res["doc"] = h
-        return res
+    with DOCS_LOCK:
+        if h in docs:
+            d = docs[h]
+            if url not in d["all_urls"]:
+                d["all_urls"].append(url)
+            # official copy wins as primary
+            if source_rank.get(item.get("source_type"), 9) < source_rank.get(d.get("source_type"), 9):
+                d["url"], d["source"], d["source_type"] = url, item.get("source"), item.get("source_type")
+            res["status"] = "duplicate"
+            res["doc"] = h
+            return res
     cache = os.path.join(STATE, "pdfcache", h + ".pdf")
     with open(cache, "wb") as f:
         f.write(data)
@@ -531,6 +537,10 @@ def process_candidate(item, docs, source_rank):
     text_layer = len(re.sub(r"\s", "", first)) > 80
     full = pdftotext(cache) if text_layer else first
     fname = safe_filename(url)
+    if item.get("filename"):
+        fname = re.sub(r"[^A-Za-z0-9._ -]+", "_", item["filename"])[:120]
+        if not fname.lower().endswith(".pdf"):
+            fname += ".pdf"
     title = info.get("Title", "")
     # trade-only screen
     tl = (fname + " " + title + " " + full[:5000]).lower()
@@ -541,7 +551,7 @@ def process_candidate(item, docs, source_rank):
     # property match
     hint = item.get("resort_hint")
     hints = [hint] if isinstance(hint, int) else (hint or [])
-    match_text = f"{url} {fname} {title} {first[:4000]}"
+    match_text = f"{url} {fname} {title} {item.get('context', '')} {first[:4000]}"
     ids, review = match_resort(match_text, hints)
     foreign, fhits = looks_foreign(f"{fname} {title} {first[:3000]}", url)
     if not ids:
@@ -556,11 +566,17 @@ def process_candidate(item, docs, source_rank):
             jsonl_append(EXTRAS, {"url": url, "title": title, "sha256": h, "foreign_hits": fhits, "date": TODAY,
                                   "snippet": re.sub(r"\s+", " ", first[:300])})
             return res
-    if foreign and not any(f" {norm(BY_ID[i]['aliases'][0] if BY_ID[i]['aliases'] else BY_ID[i]['name'])} " in f" {norm(match_text)} " for i in ids):
-        res["status"] = "rejected-foreign"
-        res["foreign_hits"] = fhits
-        os.remove(cache)
-        return res
+    # Sister-property guard: a foreign place name in the filename/title/first pages means the file belongs to the
+    # resort only if one of its distinctive aliases appears in the filename or title (not merely the host/URL/hint).
+    _, fhits_strict = looks_foreign(f"{fname} {title} {first[:3000]}", "")
+    if fhits_strict:
+        strong = [norm(a) for i in ids for a in BY_ID[i]["aliases"] + [BY_ID[i]["name"]] if len(norm(a)) >= 5 and norm(a) not in ("maldives",)]
+        fn_ti = norm(fname + " " + title).replace(" ", "")
+        if not any(a.replace(" ", "") in fn_ti for a in strong) and not any(a.replace(" ", "") in norm(first[:1500]).replace(" ", "") for a in strong):
+            res["status"] = "rejected-foreign"
+            res["foreign_hits"] = fhits_strict
+            os.remove(cache)
+            return res
     doc_type, how = classify_doc(fname, title, first)
     year, ysrc, vf, vt = detect_edition(fname, full, info, meta.get("last_modified"))
     status = doc_status(doc_type, year, vt)
@@ -583,7 +599,15 @@ def process_candidate(item, docs, source_rank):
         "checked_on": TODAY, "last_modified": meta.get("last_modified"), "pdf_date": info.get("CreationDate"),
         "notes": "" if not review else f"ambiguous match {ids}",
     }
-    docs[h] = doc
+    with DOCS_LOCK:
+        if h in docs:  # another thread stored the same file meanwhile
+            os.remove(dest)
+            if url not in docs[h]["all_urls"]:
+                docs[h]["all_urls"].append(url)
+            res["status"] = "duplicate"
+            res["doc"] = h
+            return res
+        docs[h] = doc
     res["status"] = "stored"
     res["doc"] = h
     res["resort_id"] = rid

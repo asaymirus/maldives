@@ -127,3 +127,108 @@ FileNotFoundError: [Errno 2] No such file or directory: '/home/user/maldives/sta
 
 == coverage: factsheet 112/182  wedding 14  events 4  map 109  nothing 49  docs 949
 
+2026-10-04 23:09:59,988 INFO === Phase B batch 41-60
+2026-10-04 23:10:00,837 INFO BLOCKED www.ozenlifemaadhoo.com (403)
+2026-10-04 23:10:12,344 INFO B official  45 Saii Lagoon Maldives                     ok         pages=1 pdfs=98 js=False
+2026-10-04 23:10:32,557 INFO B official  42 Dhiggiri Tourist Resort                  unverified pages=0 pdfs=0 js=True
+2026-10-04 23:10:44,189 INFO B official  41 Ozen By Atmosphere At Maadhoo            unverified pages=0 pdfs=0 js=True
+2026-10-04 23:10:44,449 INFO BLOCKED www.dusit.com (403)
+2026-10-04 23:11:07,346 INFO B official  43 Dhigufaru Island Resort                  ok         pages=70 pdfs=11 js=False
+2026-10-04 23:11:46,399 INFO B official  48 Dusit Thani Maldives                     unverified pages=0 pdfs=0 js=True
+2026-10-04 23:12:03,705 INFO B official  47 Park Hyatt Maldives, Hadahaa             unverified pages=0 pdfs=0 js=True
+/home/user/maldives/crawl.py:310: XMLParsedAsHTMLWarning: It looks like you're using an HTML parser to parse an XML document.
+
+Assuming this really is an XML document, what you're doing might work, but you should know that using an XML parser will be more reliable. To parse this document as XML, make sure you have the Python package 'lxml' installed, and pass the keyword argument `features="xml"` into the BeautifulSoup constructor.
+
+If you want or need to use an HTML parser on this document, you can make this warning go away by filtering it. To do that, run this code before calling the BeautifulSoup constructor:
+
+    from bs4 import XMLParsedAsHTMLWarning
+    import warnings
+
+    warnings.filterwarnings("ignore", category=XMLParsedAsHTMLWarning)
+
+  if path_prefix and not pu.path.startswith(path_prefix):
+/home/user/maldives/lib.py:242: XMLParsedAsHTMLWarning: It looks like you're using an HTML parser to parse an XML document.
+
+Assuming this really is an XML document, what you're doing might work, but you should know that using an XML parser will be more reliable. To parse this document as XML, make sure you have the Python package 'lxml' installed, and pass the keyword argument `features="xml"` into the BeautifulSoup constructor.
+
+If you want or need to use an HTML parser on this document, you can make this warning go away by filtering it. To do that, run this code before calling the BeautifulSoup constructor:
+
+    from bs4 import XMLParsedAsHTMLWarning
+    import warnings
+
+    warnings.filterwarnings("ignore", category=XMLParsedAsHTMLWarning)
+
+  soup = BeautifulSoup(html, "lxml")
+/home/user/maldives/lib.py:223: XMLParsedAsHTMLWarning: It looks like you're using an HTML parser to parse an XML document.
+
+Assuming this really is an XML document, what you're doing might work, but you should know that using an XML parser will be more reliable. To parse this document as XML, make sure you have the Python package 'lxml' installed, and pass the keyword argument `features="xml"` into the BeautifulSoup constructor.
+
+If you want or need to use an HTML parser on this document, you can make this warning go away by filtering it. To do that, run this code before calling the BeautifulSoup constructor:
+
+    from bs4 import XMLParsedAsHTMLWarning
+    import warnings
+
+    warnings.filterwarnings("ignore", category=XMLParsedAsHTMLWarning)
+
+  soup = BeautifulSoup(html, "lxml")
+/home/user/maldives/crawl.py:133: XMLParsedAsHTMLWarning: It looks like you're using an HTML parser to parse an XML document.
+
+Assuming this really is an XML document, what you're doing might work, but you should know that using an XML parser will be more reliable. To parse this document as XML, make sure you have the Python package 'lxml' installed, and pass the keyword argument `features="xml"` into the BeautifulSoup constructor.
+
+If you want or need to use an HTML parser on this document, you can make this warning go away by filtering it. To do that, run this code before calling the BeautifulSoup constructor:
+
+    from bs4 import XMLParsedAsHTMLWarning
+    import warnings
+
+    warnings.filterwarnings("ignore", category=XMLParsedAsHTMLWarning)
+
+  found.add(u.rstrip(".,);"))
+2026-10-04 23:12:56,856 INFO B official  44 Hard Rock Hotel Maldives                 ok         pages=70 pdfs=68 js=True
+2026-10-04 23:13:09,485 INFO B official  46 SO/ Maldives                             ok         pages=70 pdfs=88 js=False
+2026-10-04 23:13:11,104 INFO B official  49 Vakkaru Maldives                         ok         pages=70 pdfs=32 js=False
+2026-10-04 23:13:15,950 INFO B official  50 Sun Siyam Olhuveli Maldives              ok         pages=70 pdfs=10 js=False
+2026-10-04 23:13:16,025 INFO B official  51 Emerald Maldives Resort & Spa Fasmendho  ok         pages=70 pdfs=16 js=False
+2026-10-04 23:13:16,424 INFO BLOCKED www.fourseasons.com (403)
+2026-10-04 23:13:27,172 INFO B official  53 Cinnamon Hakuraa Huraa Maldives          ok         pages=1 pdfs=0 js=False
+2026-10-04 23:13:29,869 INFO B official  56 Four Seasons Resort Maldives at Kuda Hur blocked    pages=0 pdfs=0 js=False
+2026-10-04 23:13:57,061 INFO B official  55 Fihaalhohi Maldives                      unreachable pages=0 pdfs=0 js=False
+2026-10-04 23:14:03,239 INFO BLOCKED www.fairmont.com (403)
+2026-10-04 23:14:11,098 INFO B official  54 Emerald Faarufushi Resort & Spa          ok         pages=70 pdfs=12 js=False
+2026-10-04 23:14:11,961 INFO BLOCKED www.reethibeach.com (403)
+2026-10-04 23:14:13,756 INFO B official  59 Jumeirah Maldives Olhahali Island        ok         pages=1 pdfs=0 js=False
+2026-10-04 23:14:24,504 INFO B official  57 Fushifaru Maldives                       blocked-partial pages=36 pdfs=32 js=False
+2026-10-04 23:14:58,339 INFO B official  58 Sirru Fen Fushi                          unverified pages=0 pdfs=0 js=True
+2026-10-04 23:15:20,583 INFO B official  60 Reethi Beach Resort                      unverified pages=0 pdfs=0 js=True
+2026-10-04 23:16:07,019 INFO B official  52 Eri Maldives                             ok         pages=70 pdfs=0 js=False
+2026-10-04 23:16:07,052 INFO queue: 523 candidates to process
+2026-10-04 23:16:23,505 INFO progress 25/523 {'stored': 21, 'duplicate': 1, 'unmatched': 3}
+2026-10-04 23:16:42,457 INFO progress 50/523 {'stored': 45, 'duplicate': 1, 'unmatched': 4}
+2026-10-04 23:17:02,750 INFO progress 75/523 {'stored': 66, 'duplicate': 1, 'unmatched': 6, 'rejected': 1, 'failed': 1}
+2026-10-04 23:17:22,883 INFO progress 100/523 {'stored': 84, 'duplicate': 4, 'unmatched': 9, 'rejected': 2, 'failed': 1}
+2026-10-04 23:17:37,858 INFO progress 125/523 {'stored': 101, 'duplicate': 4, 'unmatched': 12, 'rejected': 2, 'failed': 6}
+2026-10-04 23:17:57,924 INFO progress 150/523 {'stored': 116, 'duplicate': 4, 'unmatched': 12, 'rejected': 2, 'failed': 16}
+2026-10-04 23:18:14,467 INFO progress 175/523 {'stored': 129, 'duplicate': 16, 'unmatched': 12, 'rejected': 2, 'failed': 16}
+2026-10-04 23:18:33,012 INFO progress 200/523 {'stored': 141, 'duplicate': 16, 'unmatched': 19, 'rejected': 8, 'failed': 16}
+2026-10-04 23:18:52,972 INFO progress 225/523 {'stored': 154, 'duplicate': 16, 'unmatched': 29, 'rejected': 10, 'failed': 16}
+2026-10-04 23:19:05,291 INFO progress 250/523 {'stored': 178, 'duplicate': 16, 'unmatched': 29, 'rejected': 10, 'failed': 17}
+2026-10-04 23:19:22,572 INFO progress 275/523 {'stored': 202, 'duplicate': 16, 'unmatched': 30, 'rejected': 10, 'failed': 17}
+2026-10-04 23:19:35,375 INFO progress 300/523 {'stored': 226, 'duplicate': 16, 'unmatched': 31, 'rejected': 10, 'failed': 17}
+2026-10-04 23:19:47,365 INFO progress 325/523 {'stored': 248, 'duplicate': 17, 'unmatched': 33, 'rejected': 10, 'failed': 17}
+2026-10-04 23:19:50,585 INFO progress 350/523 {'stored': 252, 'duplicate': 17, 'unmatched': 33, 'rejected': 10, 'failed': 38}
+Traceback (most recent call last):
+  File "/home/user/maldives/phase_b.py", line 143, in <module>
+    end = int(args[1]) if len(args) > 1 else 182
+                ^^^^^^^^^^^^^^^
+  File "/home/user/maldives/lib.py", line 632, in run_queue
+    docs = load_docs()
+                ^^^^^^^
+  File "/home/user/maldives/lib.py", line 158, in save_docs
+    json.dump(docs, f, ensure_ascii=False, indent=0)
+  File "/usr/lib/python3.11/json/__init__.py", line 179, in dump
+    for chunk in iterable:
+  File "/usr/lib/python3.11/json/encoder.py", line 432, in _iterencode
+    yield from _iterencode_dict(o, _current_indent_level)
+  File "/usr/lib/python3.11/json/encoder.py", line 357, in _iterencode_dict
+    for key, value in items:
+RuntimeError: dictionary changed size during iteration

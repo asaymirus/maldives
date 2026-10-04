@@ -88,6 +88,20 @@ def archive_domains():
                 doms.add((h, [rid]))
     for key, (u, ids) in GROUP_SITES.items():
         doms.add((urlparse(u).netloc.lower().replace("www.", ""), ids))
+    # brand CDNs / media libraries (section 4.2) whose HTML front-ends block us
+    doms |= {
+        ("media.sixsenses.com", [1, 90]), ("de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom", [66, 121]),
+        ("sunsiyam.com/media", [50, 118, 147, 148, 179]), ("anantara.com/uploads", [106, 145, 146]), ("avanihotels.com/uploads", [122]),
+        ("nh-hotels.com", [39, 92]), ("nh-collection.com", [39]), ("niyama.com", [117]), ("cdn.bfldr.com", [109, 155]),
+        ("fourseasons.com/alt", [56, 86, 87]), ("fourseasons.com/content/dam", [56, 86, 87]), ("soneva.com", [137, 141, 143]),
+        ("atmospherecore.com", [5, 41, 77, 80, 115, 133, 138]), ("atmosphere-core.com", [5, 41, 77, 80, 115, 133, 138]),
+        ("conradmaldives.com", [99]), ("waldorfastoriamaldives.com", [67]), ("hilton.com/en/hotels/mlehici", [99]), ("hilton.com/en/hotels/mlewawa", [67]),
+        ("hilton.com/en/hotels/mleamhi", [8]), ("marriott.com/en-us/hotels/mlewh", [102]), ("marriott.com/en-us/hotels/mlexr", [134]),
+        ("marriott.com/en-us/hotels/mlejw", [18]), ("marriott.com/en-us/hotels/mlewi", [107]), ("marriott.com/en-us/hotels/mlesi", [103]),
+        ("marriott.com/en-us/hotels/mlemd", [40]), ("ritzcarlton.com/en/hotels/mlerz", [37]), ("marriott.com/en-us/hotels/mlejk", [16]),
+        ("sixsenses.com/en/resorts/laamu", [1]), ("sixsenses.com/en/resorts/kanuhura", [90]), ("joali.com", [6, 7]), ("joalibeing.com", [6]),
+        ("coastlineresidences.com", [36]), ("clubmed.com", [100, 101]), ("robinson.com", [130, 131]), ("riu.com", [129]),
+    }
     return sorted(doms, key=lambda d: d[0])
 
 

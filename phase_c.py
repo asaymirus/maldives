@@ -88,7 +88,9 @@ if __name__ == "__main__":
         log.info("ministry register: %d domains", len(reg))
         domains += [f"https://www.{d}/" for d in reg[:60]]
     run(domains)
-    stats = lib.run_queue()
-    lib.print_progress()
-    lib.run_log("C", f"agency/DMC crawl {len(domains)} domains: {stats}")
-    commit("Phase C: agency/DMC/mirror crawl")
+    lib.run_log("C", f"agency/DMC crawl {len(domains)} domains (crawl)")
+    if "crawl-only" not in sys.argv:
+        stats = lib.run_queue()
+        lib.print_progress()
+        lib.run_log("C", f"agency/DMC queue: {stats}")
+        commit("Phase C: agency/DMC/mirror crawl")

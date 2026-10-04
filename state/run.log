@@ -253,3 +253,126 @@ FileNotFoundError: [Errno 2] No such file or directory: '/home/user/maldives/sta
 2026-10-04 23:09:19,828 INFO progress 375/414 {'stored': 314, 'duplicate': 38, 'rejected': 2, 'error FileNotFoundError': 1, 'unmatched': 17, 'failed': 3}
 2026-10-04 23:09:39,536 INFO progress 400/414 {'stored': 339, 'duplicate': 38, 'rejected': 2, 'error FileNotFoundError': 1, 'unmatched': 17, 'failed': 3}
 2026-10-04 23:09:56,715 INFO queue done: {'stored': 346, 'duplicate': 38, 'rejected': 2, 'error FileNotFoundError': 1, 'unmatched': 17, 'failed': 10}
+2026-10-04 23:09:59,988 INFO === Phase B batch 41-60
+2026-10-04 23:10:00,837 INFO BLOCKED www.ozenlifemaadhoo.com (403)
+2026-10-04 23:10:12,344 INFO B official  45 Saii Lagoon Maldives                     ok         pages=1 pdfs=98 js=False
+2026-10-04 23:10:32,557 INFO B official  42 Dhiggiri Tourist Resort                  unverified pages=0 pdfs=0 js=True
+2026-10-04 23:10:44,189 INFO B official  41 Ozen By Atmosphere At Maadhoo            unverified pages=0 pdfs=0 js=True
+2026-10-04 23:10:44,449 INFO BLOCKED www.dusit.com (403)
+2026-10-04 23:11:07,346 INFO B official  43 Dhigufaru Island Resort                  ok         pages=70 pdfs=11 js=False
+2026-10-04 23:11:46,399 INFO B official  48 Dusit Thani Maldives                     unverified pages=0 pdfs=0 js=True
+2026-10-04 23:12:03,705 INFO B official  47 Park Hyatt Maldives, Hadahaa             unverified pages=0 pdfs=0 js=True
+2026-10-04 23:12:56,856 INFO B official  44 Hard Rock Hotel Maldives                 ok         pages=70 pdfs=68 js=True
+2026-10-04 23:13:09,485 INFO B official  46 SO/ Maldives                             ok         pages=70 pdfs=88 js=False
+2026-10-04 23:13:11,104 INFO B official  49 Vakkaru Maldives                         ok         pages=70 pdfs=32 js=False
+2026-10-04 23:13:15,950 INFO B official  50 Sun Siyam Olhuveli Maldives              ok         pages=70 pdfs=10 js=False
+2026-10-04 23:13:16,025 INFO B official  51 Emerald Maldives Resort & Spa Fasmendho  ok         pages=70 pdfs=16 js=False
+2026-10-04 23:13:16,424 INFO BLOCKED www.fourseasons.com (403)
+2026-10-04 23:13:27,172 INFO B official  53 Cinnamon Hakuraa Huraa Maldives          ok         pages=1 pdfs=0 js=False
+2026-10-04 23:13:29,869 INFO B official  56 Four Seasons Resort Maldives at Kuda Hur blocked    pages=0 pdfs=0 js=False
+2026-10-04 23:13:57,061 INFO B official  55 Fihaalhohi Maldives                      unreachable pages=0 pdfs=0 js=False
+2026-10-04 23:14:03,239 INFO BLOCKED www.fairmont.com (403)
+2026-10-04 23:14:11,098 INFO B official  54 Emerald Faarufushi Resort & Spa          ok         pages=70 pdfs=12 js=False
+2026-10-04 23:14:11,961 INFO BLOCKED www.reethibeach.com (403)
+2026-10-04 23:14:13,756 INFO B official  59 Jumeirah Maldives Olhahali Island        ok         pages=1 pdfs=0 js=False
+2026-10-04 23:14:14,458 INFO DASH pulse/kandima-maldives-official-library 'Kandima Maldives Official Library': 14 pdf documents, 14 queued
+2026-10-04 23:14:15,450 INFO DASH pulse/nova-maldives-official-library 'Nova Maldives Official Library': 30 pdf documents, 30 queued
+2026-10-04 23:14:17,825 INFO DASH pulse/pulse-hotels-and-resorts 'Pulse Hotels & Resorts - Brand Assets': 102 pdf documents, 58 queued
+2026-10-04 23:14:19,734 INFO DASH villaresorts/villa-resorts 'Villa Resorts': 54 pdf documents, 54 queued
+2026-10-04 23:14:20,648 INFO DASH villaresorts/villa-nautica 'Villa Nautica': 15 pdf documents, 0 queued
+2026-10-04 23:14:21,609 INFO DASH villaresorts/villa-park 'Villa Park': 14 pdf documents, 0 queued
+2026-10-04 23:14:22,965 INFO DASH villaresorts/royal-island 'Royal Island': 10 pdf documents, 0 queued
+2026-10-04 23:14:24,361 ERROR dash portal failed soneva/media-library
+Traceback (most recent call last):
+  File "/home/user/maldives/dam_dash.py", line 159, in run
+    res = portal_documents(sub, slug, hint)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/user/maldives/dam_dash.py", line 84, in portal_documents
+    H = {"Authorization": "Bearer " + token(pid), "Content-Type": "application/json"}
+                                      ^^^^^^^^^^
+  File "/home/user/maldives/dam_dash.py", line 52, in token
+    r.raise_for_status()
+  File "/root/.local/lib/python3.11/site-packages/requests/models.py", line 1167, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 403 Client Error: Forbidden for url: https://api-v2.dash.app/portals/ab1fff91-eb7e-466d-9549-5f766d75414f/access-token
+2026-10-04 23:14:24,504 INFO B official  57 Fushifaru Maldives                       blocked-partial pages=36 pdfs=32 js=False
+2026-10-04 23:14:25,470 ERROR dash portal failed soneva/brand-assets
+Traceback (most recent call last):
+  File "/home/user/maldives/dam_dash.py", line 159, in run
+    res = portal_documents(sub, slug, hint)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/user/maldives/dam_dash.py", line 84, in portal_documents
+    H = {"Authorization": "Bearer " + token(pid), "Content-Type": "application/json"}
+                                      ^^^^^^^^^^
+  File "/home/user/maldives/dam_dash.py", line 52, in token
+    r.raise_for_status()
+  File "/root/.local/lib/python3.11/site-packages/requests/models.py", line 1167, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 403 Client Error: Forbidden for url: https://api-v2.dash.app/portals/ffe07b3c-9a64-4b02-8ead-6303edfe37c9/access-token
+2026-10-04 23:14:58,339 INFO B official  58 Sirru Fen Fushi                          unverified pages=0 pdfs=0 js=True
+2026-10-04 23:15:02,319 INFO DASH soneva/media-library 'Media Library': login required (403)
+2026-10-04 23:15:03,486 INFO DASH soneva/brand-assets 'Brand Assets ': login required (403)
+2026-10-04 23:15:20,583 INFO B official  60 Reethi Beach Resort                      unverified pages=0 pdfs=0 js=True
+2026-10-04 23:16:07,019 INFO B official  52 Eri Maldives                             ok         pages=70 pdfs=0 js=False
+2026-10-04 23:16:07,052 INFO queue: 523 candidates to process
+2026-10-04 23:16:23,505 INFO progress 25/523 {'stored': 21, 'duplicate': 1, 'unmatched': 3}
+2026-10-04 23:16:42,457 INFO progress 50/523 {'stored': 45, 'duplicate': 1, 'unmatched': 4}
+2026-10-04 23:17:02,750 INFO progress 75/523 {'stored': 66, 'duplicate': 1, 'unmatched': 6, 'rejected': 1, 'failed': 1}
+2026-10-04 23:17:22,883 INFO progress 100/523 {'stored': 84, 'duplicate': 4, 'unmatched': 9, 'rejected': 2, 'failed': 1}
+2026-10-04 23:17:37,858 INFO progress 125/523 {'stored': 101, 'duplicate': 4, 'unmatched': 12, 'rejected': 2, 'failed': 6}
+2026-10-04 23:17:57,924 INFO progress 150/523 {'stored': 116, 'duplicate': 4, 'unmatched': 12, 'rejected': 2, 'failed': 16}
+2026-10-04 23:18:14,467 INFO progress 175/523 {'stored': 129, 'duplicate': 16, 'unmatched': 12, 'rejected': 2, 'failed': 16}
+2026-10-04 23:18:28,626 INFO BLOCKED www.tourism.gov.mv (403)
+2026-10-04 23:18:33,012 INFO progress 200/523 {'stored': 141, 'duplicate': 16, 'unmatched': 19, 'rejected': 8, 'failed': 16}
+2026-10-04 23:18:52,688 INFO BLOCKED tourism.gov.mv (403)
+2026-10-04 23:18:52,972 INFO progress 225/523 {'stored': 154, 'duplicate': 16, 'unmatched': 29, 'rejected': 10, 'failed': 16}
+2026-10-04 23:18:59,585 INFO ministry register: 0 domains
+2026-10-04 23:19:05,291 INFO progress 250/523 {'stored': 178, 'duplicate': 16, 'unmatched': 29, 'rejected': 10, 'failed': 17}
+2026-10-04 23:19:17,713 INFO C agency https://www.kellyan.co.jp/                    ok           pages=12 pdfs=0
+2026-10-04 23:19:22,572 INFO progress 275/523 {'stored': 202, 'duplicate': 16, 'unmatched': 30, 'rejected': 10, 'failed': 17}
+2026-10-04 23:19:33,866 INFO C agency https://www.awesomegetawaymaldives.com/       ok           pages=10 pdfs=22
+2026-10-04 23:19:35,375 INFO progress 300/523 {'stored': 226, 'duplicate': 16, 'unmatched': 31, 'rejected': 10, 'failed': 17}
+2026-10-04 23:19:47,365 INFO progress 325/523 {'stored': 248, 'duplicate': 17, 'unmatched': 33, 'rejected': 10, 'failed': 17}
+2026-10-04 23:19:47,683 INFO C agency https://www.innermaldives.com/                ok           pages=12 pdfs=0
+2026-10-04 23:19:50,585 INFO progress 350/523 {'stored': 252, 'duplicate': 17, 'unmatched': 33, 'rejected': 10, 'failed': 38}
+2026-10-04 23:20:35,132 INFO C agency https://www.voyagesmaldives.com/              ok           pages=27 pdfs=1
+2026-10-04 23:22:46,411 INFO C agency https://www.unihotel.org/                     ok           pages=150 pdfs=18
+2026-10-04 23:23:18,578 INFO C agency https://www.letsgomaldives.com/               ok           pages=150 pdfs=89
+2026-10-04 23:23:19,045 INFO C agency https://www.hummingbird.travel/               ok           pages=150 pdfs=12
+2026-10-04 23:23:24,603 INFO C agency https://www.travelconnectionmaldives.com/     ok           pages=1 pdfs=0
+2026-10-04 23:23:31,302 INFO C agency https://www.suntravelsmaldives.com/           ok           pages=139 pdfs=0
+2026-10-04 23:23:39,031 INFO C agency https://www.mondomaldive.it/                  ok           pages=150 pdfs=0
+2026-10-04 23:23:45,814 INFO C agency https://www.resortlife.mv/                    unreachable  pages=0 pdfs=0
+2026-10-04 23:23:58,350 INFO C agency https://www.islandsmaldives.com/              ok           pages=2 pdfs=0
+2026-10-04 23:24:10,877 INFO C agency https://www.maldivesdmc.com/                  ok           pages=2 pdfs=0
+2026-10-04 23:24:15,667 INFO C agency https://www.secretparadise.mv/                ok           pages=38 pdfs=7
+2026-10-04 23:24:17,332 INFO C agency https://www.ablemaldives.com/                 unreachable  pages=0 pdfs=0
+2026-10-04 23:24:22,813 INFO C agency https://www.maldives-travel.com/              unreachable  pages=0 pdfs=0
+2026-10-04 23:24:29,431 INFO C agency https://www.maldivestravelspot.com/           unreachable  pages=0 pdfs=0
+2026-10-04 23:24:33,628 INFO reconcile: dropped 12 results, removed 113 orphan files, 0 index entries without file
+2026-10-04 23:24:33,848 INFO === Phase B batch 41-60
+2026-10-04 23:24:33,857 INFO B official  41 Ozen By Atmosphere At Maadhoo            unverified pages=0 pdfs=0 js=True
+2026-10-04 23:24:33,857 INFO B official  43 Dhigufaru Island Resort                  ok         pages=70 pdfs=11 js=False
+2026-10-04 23:24:33,857 INFO B official  44 Hard Rock Hotel Maldives                 ok         pages=70 pdfs=68 js=True
+2026-10-04 23:24:33,858 INFO B official  45 Saii Lagoon Maldives                     ok         pages=1 pdfs=98 js=False
+2026-10-04 23:24:33,858 INFO B official  42 Dhiggiri Tourist Resort                  unverified pages=0 pdfs=0 js=True
+2026-10-04 23:24:33,861 INFO B official  48 Dusit Thani Maldives                     unverified pages=0 pdfs=0 js=True
+2026-10-04 23:24:33,861 INFO B official  49 Vakkaru Maldives                         ok         pages=70 pdfs=32 js=False
+2026-10-04 23:24:33,868 INFO B official  47 Park Hyatt Maldives, Hadahaa             unverified pages=0 pdfs=0 js=True
+2026-10-04 23:24:33,868 INFO B official  52 Eri Maldives                             ok         pages=70 pdfs=0 js=False
+2026-10-04 23:24:33,868 INFO B official  53 Cinnamon Hakuraa Huraa Maldives          ok         pages=1 pdfs=0 js=False
+2026-10-04 23:24:33,869 INFO B official  51 Emerald Maldives Resort & Spa Fasmendho  ok         pages=70 pdfs=16 js=False
+2026-10-04 23:24:33,869 INFO B official  54 Emerald Faarufushi Resort & Spa          ok         pages=70 pdfs=12 js=False
+2026-10-04 23:24:33,869 INFO B official  46 SO/ Maldives                             ok         pages=70 pdfs=88 js=False
+2026-10-04 23:24:33,869 INFO B official  50 Sun Siyam Olhuveli Maldives              ok         pages=70 pdfs=10 js=False
+2026-10-04 23:24:33,872 INFO B official  56 Four Seasons Resort Maldives at Kuda Hur blocked    pages=0 pdfs=0 js=False
+2026-10-04 23:24:33,874 INFO B official  55 Fihaalhohi Maldives                      unreachable pages=0 pdfs=0 js=False
+2026-10-04 23:24:33,874 INFO B official  60 Reethi Beach Resort                      unverified pages=0 pdfs=0 js=True
+2026-10-04 23:24:33,876 INFO B official  58 Sirru Fen Fushi                          unverified pages=0 pdfs=0 js=True
+2026-10-04 23:24:33,876 INFO B official  59 Jumeirah Maldives Olhahali Island        ok         pages=1 pdfs=0 js=False
+2026-10-04 23:24:54,930 INFO C agency https://www.capitaltravel.com/                ok           pages=150 pdfs=0
+2026-10-04 23:25:02,157 INFO C agency https://www.maldivesbookings.com/             unreachable  pages=0 pdfs=0
+2026-10-04 23:25:11,077 INFO C agency https://www.lilyhotels.com/                   ok           pages=4 pdfs=0
+2026-10-04 23:25:24,880 INFO B official  57 Fushifaru Maldives                       blocked-partial pages=34 pdfs=0 js=False
+2026-10-04 23:25:24,904 INFO queue: 311 candidates to process
+2026-10-04 23:25:39,564 INFO progress 25/311 {'stored': 23, 'duplicate': 1, 'failed': 1}
