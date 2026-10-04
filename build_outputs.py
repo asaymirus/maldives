@@ -51,6 +51,21 @@ def write_documents(docs):
     return rows
 
 
+ILLEGAL = re.compile(r"[\x00-\x08\x0b\x0c\x0e-\x1f]")
+
+
+def clean(v):
+    if isinstance(v, str):
+        v = ILLEGAL.sub("", v)
+        if v.startswith(("=", "+", "-", "@")) and not v.startswith(("=IFERROR", "=COUNTIFS", "=HYPERLINK", "=MAXIFS")):
+            v = "'" + v
+    return v
+
+
+def append(ws, row):
+    ws.append([clean(c) for c in row])
+
+
 def style_header(ws):
     for c in ws[1]:
         c.font = Font(bold=True, color="FFFFFF")
@@ -70,9 +85,9 @@ def build_workbook(docs, rows):
     # ---- Documents sheet (source for formulas)
     wsd = wb.active
     wsd.title = "Documents"
-    wsd.append(DOC_FIELDS)
+    append(wsd, DOC_FIELDS)
     for r in rows:
-        wsd.append([r.get(k) if not isinstance(r.get(k), bool) else ("Y" if r.get(k) else "N") for k in DOC_FIELDS])
+        append(wsd, [r.get(k) if not isinstance(r.get(k), bool) else ("Y" if r.get(k) else "N") for k in DOC_FIELDS])
     style_header(wsd)
     autosize(wsd, 50)
     nd = len(rows) + 1
@@ -85,7 +100,7 @@ def build_workbook(docs, rows):
     for rr in lib.jsonl_read(os.path.join(lib.STATE, "renames.jsonl")):
         renames[rr["resort_id"]] = (renames.get(rr["resort_id"], "") + f"; site redirects to {urlparse(rr['to']).netloc}").strip("; ")
     head = ["#", "Resort", "Official site status"] + [f"{t} (latest yr)" for t in DOC_TYPES] + ["Total docs", "Current docs", "Latest factsheet", "Gaps (priority 1)", "Rename notes"]
-    wsc.append(head)
+    append(wsc, head)
     for r in RESORTS:
         rid = r["resort_id"]
         row = [rid, r["name"], (sites.get(f"official:{rid}") or {}).get("status", "not crawled")]
@@ -106,20 +121,20 @@ def build_workbook(docs, rows):
                 gaps.append(t)
         row.append(", ".join(gaps))
         row.append(renames.get(rid, ""))
-        wsc.append(row)
+        append(wsc, row)
     style_header(wsc)
     autosize(wsc, 40)
     wsc.column_dimensions["B"].width = 45
     # ---- Pages
     wsp = wb.create_sheet("Pages")
-    wsp.append(["resort_id", "resort", "url", "page_type", "title", "chars", "scraped_on", "source_type", "path"])
+    append(wsp, ["resort_id", "resort", "url", "page_type", "title", "chars", "scraped_on", "source_type", "path"])
     for p in lib.jsonl_read(lib.PAGES_IDX):
-        wsp.append([p.get("resort_id"), BY_ID[p["resort_id"]]["name"] if p.get("resort_id") else "", p["url"], p["page_type"], p.get("title", "")[:120], p["chars"], p["scraped_on"], p.get("source_type"), p["path"]])
+        append(wsp, [p.get("resort_id"), BY_ID[p["resort_id"]]["name"] if p.get("resort_id") else "", p["url"], p["page_type"], p.get("title", "")[:120], p["chars"], p["scraped_on"], p.get("source_type"), p["path"]])
     style_header(wsp)
     autosize(wsp, 60)
     # ---- Sources (aggregate per domain)
     wss = wb.create_sheet("Sources")
-    wss.append(["domain", "method", "status", "pdf_found", "pdf_matched", "stored_docs", "notes", "date"])
+    append(wss, ["domain", "method", "status", "pdf_found", "pdf_matched", "stored_docs", "notes", "date"])
     stored_by_source = collections.Counter(d["source"] for d in docs.values())
     for a in docs.values():
         for u in a.get("all_urls", []):
@@ -133,52 +148,52 @@ def build_workbook(docs, rows):
         a["status"] = s["status"]
         a["notes"] = s.get("notes", "")
     for (dom, meth), a in sorted(agg.items(), key=lambda kv: -stored_by_source.get(kv[0][0], 0)):
-        wss.append([dom, meth, a["status"], a["pdf_found"], a["pdf_matched"], stored_by_source.get(dom, 0), a.get("notes", ""), a.get("date")])
+        append(wss, [dom, meth, a["status"], a["pdf_found"], a["pdf_matched"], stored_by_source.get(dom, 0), a.get("notes", ""), a.get("date")])
     style_header(wss)
     autosize(wss, 50)
     # ---- Extra resorts
     wse = wb.create_sheet("Extra resorts")
-    wse.append(["url", "title", "note", "snippet", "date"])
+    append(wse, ["url", "title", "note", "snippet", "date"])
     seen = set()
     for e in lib.jsonl_read(lib.EXTRAS):
         if e["url"] in seen:
             continue
         seen.add(e["url"])
-        wse.append([e["url"], e.get("title", ""), e.get("note", ""), e.get("snippet", "")[:200], e.get("date")])
+        append(wse, [e["url"], e.get("title", ""), e.get("note", ""), e.get("snippet", "")[:200], e.get("date")])
     style_header(wse)
     autosize(wse, 60)
     # ---- Blocked
     wsb = wb.create_sheet("Blocked")
-    wsb.append(["domain", "tried", "detail", "resorts", "date"])
+    append(wsb, ["domain", "tried", "detail", "resorts", "date"])
     blocked_sites = collections.OrderedDict()
     for s in lib.jsonl_read(os.path.join(lib.STATE, "sites.jsonl")):
         if s.get("status") in ("blocked", "blocked-partial", "unreachable", "unverified") and s.get("start_url"):
             h = urlparse(s["start_url"]).netloc
             blocked_sites.setdefault((h, s["status"]), set()).update(s.get("resort_ids") or [])
     for (h, st), ids in blocked_sites.items():
-        wsb.append([h, "GET home, sitemap, headless render", st, ", ".join(BY_ID[i]["name"] for i in sorted(ids) if i in BY_ID), lib.TODAY])
+        append(wsb, [h, "GET home, sitemap, headless render", st, ", ".join(BY_ID[i]["name"] for i in sorted(ids) if i in BY_ID), lib.TODAY])
     for b in lib.jsonl_read(lib.BLOCKED):
-        wsb.append([b["domain"], b["tried"], b.get("detail", ""), "", b["date"]])
+        append(wsb, [b["domain"], b["tried"], b.get("detail", ""), "", b["date"]])
     style_header(wsb)
     autosize(wsb, 60)
     # ---- Flipbooks
     flips = [f for f in lib.jsonl_read(os.path.join(lib.STATE, "flipbooks.jsonl")) if f.get("title") != "__search__"]
     if flips:
         wsf = wb.create_sheet("Flipbooks")
-        wsf.append(["platform", "resort_id", "resort", "url", "title", "published", "download", "date"])
+        append(wsf, ["platform", "resort_id", "resort", "url", "title", "published", "download", "date"])
         for f in flips:
-            wsf.append([f["platform"], f["resort_id"], BY_ID[f["resort_id"]]["name"], f["url"], f.get("title"), f.get("published"), f.get("download"), f["date"]])
+            append(wsf, [f["platform"], f["resort_id"], BY_ID[f["resort_id"]]["name"], f["url"], f.get("title"), f.get("published"), f.get("download"), f["date"]])
         style_header(wsf)
         autosize(wsf, 60)
     # ---- Log
     wsl = wb.create_sheet("Log")
-    wsl.append(["date", "phase", "note", "docs total"])
+    append(wsl, ["date", "phase", "note", "docs total"])
     lp = os.path.join(OUT, "run_log.md")
     if os.path.exists(lp):
         for line in open(lp, encoding="utf-8"):
             if line.startswith("| 20"):
                 cells = [c.strip() for c in line.strip().strip("|").split("|")]
-                wsl.append(cells[:4])
+                append(wsl, cells[:4])
     style_header(wsl)
     autosize(wsl, 80)
     wb.save(os.path.join(OUT, "coverage.xlsx"))

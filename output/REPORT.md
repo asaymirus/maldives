@@ -4,16 +4,16 @@
 
 | metric | resorts |
 |---|---|
-| factsheet | 111 / 182 |
-| wedding | 10 / 182 |
-| events | 4 / 182 |
-| spa_menu | 12 / 182 |
-| dining_menu | 13 / 182 |
-| dive_prices | 13 / 182 |
-| map | 108 / 182 |
-| resorts_with_docs | 132 / 182 |
-| nothing | 50 / 182 |
-| documents stored (unique by SHA-256) | 603 |
+| factsheet | 116 / 182 |
+| wedding | 24 / 182 |
+| events | 9 / 182 |
+| spa_menu | 37 / 182 |
+| dining_menu | 35 / 182 |
+| dive_prices | 28 / 182 |
+| map | 114 / 182 |
+| resorts_with_docs | 145 / 182 |
+| nothing | 37 / 182 |
+| documents stored (unique by SHA-256) | 1391 |
 
 ## Resorts without a factsheet
 
@@ -26,10 +26,8 @@
 - 19. The Residence Maldives
 - 20. The Residence Maldives At Dhigurah
 - 24. Canareef Resort Maldives
-- 34. Adaaran Select Meedhupparu
 - 36. Coastline Residences
 - 42. Dhiggiri Tourist Resort
-- 43. Dhigufaru Island Resort
 - 44. Hard Rock Hotel Maldives
 - 47. Park Hyatt Maldives, Hadahaa
 - 51. Emerald Maldives Resort & Spa Fasmendho
@@ -80,13 +78,10 @@
 - 151. Coco Palm Dhunikolhu
 - 152. Makunudu Island
 - 156. Drift Theluveliga Retreat
-- 157. The Nautilus Maldives
 - 161. Ellaidhoo Maldives By Cinnamon
 - 162. The Marina at Crossroads Maldives
 - 167. Milaidhoo Island Maldives
 - 170. Cocogiri Island Resort
-- 176. Villa Park Sun Island
-- 177. Royal Island Resort and Spa
 - 181. Yash Nature Resort
 
 ## Resorts whose newest factsheet is older than 2024
@@ -97,23 +92,17 @@
 - 11. Angaga Island Resort and Spa (2018)
 - 15. Alila Kothaifaru Maldives (2022)
 - 18. JW Marriott Maldives Resort & Spa (2023)
-- 26. Centara Ras Fushi Resort & Spa (2019)
 - 27. Grand Park Kodhipparu Maldives (2022)
 - 30. Hurawalhi Island Resort (2023)
 - 31. Innahura Maldives Resort (2021)
-- 33. Dhigali Maldives (2022)
-- 35. Heritance Aarah (2020)
 - 37. The Ritz Carlton Maldives Fari Islands (2021)
 - 39. NH Collection Maldives Havodda Resort (2018)
 - 40. Le Méridien Maldives Resort and Spa (2022)
-- 49. Vakkaru Maldives (2022)
 - 58. Sirru Fen Fushi (2023)
 - 62. Cora Cora Maldives (2021)
-- 65. Cheval Blanc Randheli (2022)
 - 66. Como Maalifushi (2019)
 - 71. Kagi Maldives Resort and Spa (2023)
 - 74. Kandolhu Island Maldives (2019)
-- 75. Kandima Maldives (2019)
 - 76. Hideaway Beach Resort and Spa at Dhonakulhi Island Maldives (2020)
 - 82. Ifuru Island Maldives (2023)
 - 89. Inter Continental Maldives Maamunagau (2020)
@@ -150,7 +139,6 @@
 - 159. Cinnamon Dhonveli Maldives (2023)
 - 160. Cinnamon Velifushi Maldives (2023)
 - 163. Adaaran Prestige Vadoo (2023)
-- 164. Baros Maldives (2022)
 - 165. Velassaru Maldives (2020)
 - 166. Kuramathi Maldives (2019)
 - 171. Velaa Private Island Maldives (2019)
@@ -181,50 +169,48 @@
 | 18 | JW Marriott Maldives Resort & Spa | wedding, events | blocked |
 | 19 | The Residence Maldives | factsheet | ok |
 | 20 | The Residence Maldives At Dhigurah | factsheet, events | ok |
-| 21 | Brennia Kottefaru | wedding, events | - |
+| 21 | Brennia Kottefaru | wedding, events | ok |
 | 22 | Barceló Whale Lagoon Maldives | wedding, events | unverified |
 | 23 | Nooe Maldives Kunavashi | wedding, events | unreachable |
 | 24 | Canareef Resort Maldives | factsheet, wedding, events | ok |
 | 25 | Raffles Maldives Meradhoo Resort | wedding, events | blocked |
-| 26 | Centara Ras Fushi Resort & Spa | wedding, events | - |
+| 26 | Centara Ras Fushi Resort & Spa | events | ok |
 | 27 | Grand Park Kodhipparu Maldives | wedding, events | ok |
-| 28 | Kudadoo Maldives Private island | wedding, events | - |
-| 29 | Dheruhfinolhu by Jawakara Islands Maldives | wedding, events | - |
-| 30 | Hurawalhi Island Resort | events | - |
-| 31 | Innahura Maldives Resort | wedding, events | - |
-| 32 | Cocoon Maldives | wedding, events | - |
-| 33 | Dhigali Maldives | wedding, events | - |
-| 34 | Adaaran Select Meedhupparu | factsheet, wedding, events | - |
-| 35 | Heritance Aarah | wedding, events | - |
-| 36 | Coastline Residences | factsheet, wedding, events | - |
-| 37 | The Ritz Carlton Maldives Fari Islands | wedding, events | - |
-| 38 | Veligandu Maldives Resort Island | wedding, events | - |
-| 39 | NH Collection Maldives Havodda Resort | wedding, events | - |
-| 40 | Le Méridien Maldives Resort and Spa | wedding, events | - |
-| 41 | Ozen By Atmosphere At Maadhoo | wedding, events | - |
-| 42 | Dhiggiri Tourist Resort | factsheet, wedding, events | - |
-| 43 | Dhigufaru Island Resort | factsheet, wedding, events | - |
-| 44 | Hard Rock Hotel Maldives | factsheet, wedding, events | - |
-| 45 | Saii Lagoon Maldives | wedding, events | - |
-| 46 | SO/ Maldives | wedding, events | - |
-| 47 | Park Hyatt Maldives, Hadahaa | factsheet, wedding, events | - |
-| 48 | Dusit Thani Maldives | wedding, events | - |
-| 49 | Vakkaru Maldives | wedding, events | - |
-| 50 | Sun Siyam Olhuveli Maldives | events | - |
-| 51 | Emerald Maldives Resort & Spa Fasmendho | factsheet, wedding, events | - |
-| 52 | Eri Maldives | wedding, events | - |
-| 53 | Cinnamon Hakuraa Huraa Maldives | factsheet, wedding, events | - |
-| 54 | Emerald Faarufushi Resort & Spa | factsheet, wedding, events | - |
-| 55 | Fihaalhohi Maldives | factsheet, wedding, events | - |
-| 56 | Four Seasons Resort Maldives at Kuda Huraa | factsheet, wedding, events | - |
-| 57 | Fushifaru Maldives | factsheet, wedding, events | - |
-| 58 | Sirru Fen Fushi | wedding, events | - |
-| 59 | Jumeirah Maldives Olhahali Island | wedding, events | - |
-| 60 | Reethi Beach Resort | factsheet, wedding, events | - |
+| 28 | Kudadoo Maldives Private island | wedding, events | ok |
+| 29 | Dheruhfinolhu by Jawakara Islands Maldives | wedding, events | ok |
+| 30 | Hurawalhi Island Resort | events | ok |
+| 31 | Innahura Maldives Resort | wedding, events | unverified |
+| 32 | Cocoon Maldives | wedding, events | ok |
+| 33 | Dhigali Maldives | wedding, events | ok |
+| 34 | Adaaran Select Meedhupparu | events | ok |
+| 35 | Heritance Aarah | events | ok |
+| 36 | Coastline Residences | factsheet, wedding, events | unreachable |
+| 37 | The Ritz Carlton Maldives Fari Islands | wedding, events | unreachable |
+| 38 | Veligandu Maldives Resort Island | events | ok |
+| 39 | NH Collection Maldives Havodda Resort | wedding, events | blocked |
+| 40 | Le Méridien Maldives Resort and Spa | wedding, events | blocked |
+| 41 | Ozen By Atmosphere At Maadhoo | wedding, events | unverified |
+| 42 | Dhiggiri Tourist Resort | factsheet, wedding, events | unverified |
+| 43 | Dhigufaru Island Resort | events | ok |
+| 44 | Hard Rock Hotel Maldives | factsheet, events | ok |
+| 45 | Saii Lagoon Maldives | wedding | ok |
+| 47 | Park Hyatt Maldives, Hadahaa | factsheet, wedding, events | unverified |
+| 48 | Dusit Thani Maldives | wedding, events | unverified |
+| 49 | Vakkaru Maldives | events | ok |
+| 51 | Emerald Maldives Resort & Spa Fasmendho | factsheet, wedding, events | ok |
+| 52 | Eri Maldives | events | ok |
+| 53 | Cinnamon Hakuraa Huraa Maldives | factsheet, wedding, events | ok |
+| 54 | Emerald Faarufushi Resort & Spa | factsheet, wedding, events | ok |
+| 55 | Fihaalhohi Maldives | factsheet, wedding, events | unreachable |
+| 56 | Four Seasons Resort Maldives at Kuda Huraa | factsheet, wedding, events | blocked |
+| 57 | Fushifaru Maldives | factsheet, wedding, events | blocked-partial |
+| 58 | Sirru Fen Fushi | wedding, events | unverified |
+| 59 | Jumeirah Maldives Olhahali Island | wedding, events | ok |
+| 60 | Reethi Beach Resort | factsheet, wedding, events | unverified |
 | 61 | Equator Village | factsheet, wedding, events | - |
 | 62 | Cora Cora Maldives | wedding, events | - |
 | 63 | Hondaafushi Island Resort | factsheet, wedding, events | - |
-| 64 | Radisson Blu Resort Maldives | factsheet, wedding, events | - |
+| 64 | Radisson Blu Resort Maldives | factsheet, wedding, events | unverified |
 | 65 | Cheval Blanc Randheli | wedding, events | - |
 | 66 | Como Maalifushi | wedding, events | - |
 | 67 | Waldorf Astoria Maldives Ithaafushi | wedding, events | - |
@@ -235,7 +221,7 @@
 | 72 | Embudhu Village | factsheet, wedding, events | - |
 | 73 | Summer Island Maldives | factsheet, wedding, events | - |
 | 74 | Kandolhu Island Maldives | wedding, events | - |
-| 75 | Kandima Maldives | wedding, events | - |
+| 75 | Kandima Maldives | events | - |
 | 76 | Hideaway Beach Resort and Spa at Dhonakulhi Island Maldives | wedding, events | - |
 | 77 | Atmosphere Kanifushi Maldives | factsheet, wedding, events | - |
 | 78 | Meeru Maldives Resort Island | wedding, events | - |
@@ -276,7 +262,7 @@
 | 113 | Mercure Maldives Kooddoo | factsheet, wedding, events | - |
 | 114 | Gangehi Island Resort | factsheet, wedding, events | - |
 | 115 | Oblu Select by Atmosphere at Sangeli | factsheet, wedding, events | - |
-| 116 | Nova Maldives | wedding, events | - |
+| 116 | Nova Maldives | events | - |
 | 117 | Niyama Maldives | wedding, events | - |
 | 118 | Sun Siyam Iru Veli Maldives | wedding, events | - |
 | 119 | Outrigger Maldives Maafushivaru Resort | factsheet, wedding, events | - |
@@ -317,7 +303,7 @@
 | 154 | Taj Exotica Resort & Spa Maldives | wedding, events | - |
 | 155 | Constance Halaveli Resort | wedding, events | - |
 | 156 | Drift Theluveliga Retreat | factsheet, wedding, events | - |
-| 157 | The Nautilus Maldives | factsheet, wedding, events | - |
+| 157 | The Nautilus Maldives | events | - |
 | 158 | Patina Maldives, Fari Islands | wedding, events | - |
 | 159 | Cinnamon Dhonveli Maldives | wedding, events | - |
 | 160 | Cinnamon Velifushi Maldives | wedding, events | - |
@@ -335,9 +321,8 @@
 | 172 | Mirihi Island Resort | wedding, events | - |
 | 173 | Kurumba Maldives | wedding, events | - |
 | 174 | Vilamendhoo Island Resort | wedding, events | - |
-| 175 | Villa Nautica Paradise Island | wedding, events | - |
-| 176 | Villa Park Sun Island | factsheet, wedding, events | - |
-| 177 | Royal Island Resort and Spa | factsheet, wedding, events | - |
+| 176 | Villa Park Sun Island | wedding | - |
+| 177 | Royal Island Resort and Spa | events | - |
 | 178 | Diamonds Athuruga Beach & Water Villas | wedding, events | - |
 | 179 | Siyam World Maldives | wedding, events | - |
 | 180 | Lux* South Ari Atoll, Maldives | wedding, events | - |
@@ -348,16 +333,21 @@
 
 | source | docs |
 |---|---|
-| neoscapesmaldives.com | 226 |
+| neoscapesmaldives.com | 224 |
+| heritancehotels.com | 189 |
 | amilla.com | 91 |
+| dhigali.com | 87 |
+| saiiresorts.com | 81 |
 | sales.crownandchamparesorts.com | 75 |
+| pulse.dash.app | 70 |
+| letsgomaldives.com | 63 |
+| so-hotels.com | 59 |
 | planhotel.com | 45 |
-| adaaran.com | 37 |
+| adaaran.com | 44 |
+| veligandu.com | 44 |
+| hardrockhotels.com | 40 |
+| villaresorts.dash.app | 38 |
 | cenizaro.com | 32 |
-| ayadamaldives.com | 29 |
-| angaga.com.mv | 27 |
-| dreamland.com.mv | 22 |
-| thulhagiri.com.mv | 19 |
 
 ## Blocked / unreachable official sites
 
@@ -377,6 +367,20 @@
 | 22 | Barceló Whale Lagoon Maldives | unverified | https://www.barcelo.com/en-ww/barcelo-whale-lagoon-maldives/ |
 | 23 | Nooe Maldives Kunavashi | unreachable | https://www.nooemaldives.com/ |
 | 25 | Raffles Maldives Meradhoo Resort | blocked | https://www.raffles.com/maldives/ |
+| 31 | Innahura Maldives Resort | unverified | https://www.innahura.com/ |
+| 36 | Coastline Residences | unreachable | https://coastlineresidences.com/ |
+| 37 | The Ritz Carlton Maldives Fari Islands | unreachable | https://www.ritzcarlton.com/en/hotels/mlerz-the-ritz-carlton-maldives-fari-islands/overview/ |
+| 39 | NH Collection Maldives Havodda Resort | blocked | https://www.nh-hotels.com/en/hotel/nh-collection-maldives-havodda-resort |
+| 40 | Le Méridien Maldives Resort and Spa | blocked | https://www.marriott.com/en-us/hotels/mlemd-le-meridien-maldives-resort-and-spa/overview/ |
+| 41 | Ozen By Atmosphere At Maadhoo | unverified | https://www.ozenlifemaadhoo.com/ |
+| 42 | Dhiggiri Tourist Resort | unverified | https://dhiggiri.com/ |
+| 47 | Park Hyatt Maldives, Hadahaa | unverified | https://www.hyatt.com/en-US/hotel/maldives/park-hyatt-maldives-hadahaa/mlemh |
+| 48 | Dusit Thani Maldives | unverified | https://www.dusit.com/dusitthani-maldives/ |
+| 55 | Fihaalhohi Maldives | unreachable | https://www.fihalhohi.net/ |
+| 56 | Four Seasons Resort Maldives at Kuda Huraa | blocked | https://www.fourseasons.com/maldiveskh/ |
+| 58 | Sirru Fen Fushi | unverified | https://www.fairmont.com/maldives/ |
+| 60 | Reethi Beach Resort | unverified | https://www.reethibeach.com/ |
+| 64 | Radisson Blu Resort Maldives | unverified | https://www.radissonhotels.com/en-us/hotels/radisson-blu-resort-maldives |
 
 ## Renamed resorts and aliases
 
@@ -404,6 +408,9 @@
 | 83 | Dheruhfinolhu / Mabinhura | Jawakara Islands (shared documents) |
 | 38 | Veligandu Maldives Resort Island | 'Veli' in Crown & Champa filenames |
 | 17 | Rihiveli Maldives Resort | official site now at expireddomains.com (discovered) |
+| 33 | Dhigali Maldives | official site now at www.nivadhigali.com (discovered) |
+| 45 | Saii Lagoon Maldives | official site now at www.saiihotels.com (discovered) |
+| 44 | Hard Rock Hotel Maldives | official site now at hotel.hardrock.com (discovered) |
 
 ## Storage
 
