@@ -1,6 +1,6 @@
 # Ifuru Island Maldives | 5 Star Resort in Maldives
 
-Source: https://www.ifuruisland.com/
+Source: https://www.ifuruisland.com
 Scraped: 2026-10-04
 Resort: Ifuru Island Maldives
 Page type: diving

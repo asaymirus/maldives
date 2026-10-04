@@ -513,3 +513,69 @@ Traceback (most recent call last):
 openpyxl.utils.exceptions.IllegalCharacterError:  IN-ROOM DINING POUR COMMANDER, CONTACTEZ IN-ROOM DINING READY TO ORDER, JUST DIAL IN-ROOM DINING PICNIC POUR COMMANDER, CONTACTEZ IN-ROOM DINING   cannot be used in worksheets.
 2026-10-04 23:43:07,237 INFO === Phase B batch 81-100
 2026-10-04 23:43:12,137 INFO C agency https://www.holidayplace.co.uk/               ok           pages=150 pdfs=0
+2026-10-04 23:43:19,031 INFO B official  81 Kuredu Island Resort                     ok         pages=1 pdfs=0 js=True
+2026-10-04 23:43:19,427 INFO BLOCKED www.fourseasons.com (403)
+2026-10-04 23:43:20,767 INFO B official  84 Alimatha Aquatic Resort                  unreachable pages=0 pdfs=0 js=False
+2026-10-04 23:43:20,770 INFO B official  87 Four Seasons Resort Maldives at Landaa G blocked    pages=0 pdfs=0 js=False
+2026-10-04 23:43:21,122 INFO BLOCKED www.holidayinnresorts.com (403)
+2026-10-04 23:43:44,756 INFO B official  83 Mabinhura by Jawakara Islands Maldives   ok         pages=1 pdfs=0 js=True
+2026-10-04 23:43:50,542 INFO B official  86 Four Seasons Private Island Maldives at  blocked    pages=0 pdfs=0 js=False
+2026-10-04 23:43:50,989 INFO BLOCKED www.sixsenses.com (403)
+2026-10-04 23:43:56,431 INFO BLOCKED www.ihg.com (403)
+2026-10-04 23:44:01,715 INFO B official  90 Six Senses Kanuhura                      blocked    pages=0 pdfs=0 js=False
+2026-10-04 23:44:07,383 INFO B official  88 Holiday Inn Resort Kandooma Maldives     blocked    pages=0 pdfs=0 js=False
+2026-10-04 23:44:07,616 INFO BLOCKED www.nh-hotels.com (403)
+2026-10-04 23:44:21,732 INFO C agency https://www.sunsetmaldives.com/               ok           pages=150 pdfs=0
+2026-10-04 23:44:22,757 INFO B official  82 Ifuru Island Maldives                    ok         pages=58 pdfs=52 js=True
+2026-10-04 23:44:26,128 INFO B official  89 Inter Continental Maldives Maamunagau    blocked-partial pages=37 pdfs=103 js=False
+2026-10-04 23:44:27,517 INFO B official  91 Lily Beach Resort                        ok         pages=1 pdfs=0 js=True
+2026-10-04 23:44:32,928 INFO B official  92 Amaya Kuda Rah Maldives                  unverified pages=0 pdfs=0 js=True
+2026-10-04 23:44:36,396 INFO B official  96 Dhawa Ihuru                              unreachable pages=0 pdfs=0 js=False
+2026-10-04 23:44:37,041 INFO B official  93 Maayafushi Tourist Resort                unreachable pages=0 pdfs=0 js=False
+2026-10-04 23:45:07,244 INFO B official  85 Centara Mirage Lagoon Maldives & Centara ok         pages=42 pdfs=7 js=False
+2026-10-04 23:45:17,026 INFO B official  98 Madifushi Private Island                 ok         pages=32 pdfs=21 js=False
+2026-10-04 23:45:26,569 INFO B official 100 Club Med Kanifinolhu                     ok         pages=2 pdfs=3 js=False
+2026-10-04 23:46:02,705 INFO B official  97 Angsana Resort & Spa Maldives - Velavaru ok         pages=60 pdfs=10 js=False
+2026-10-04 23:46:17,091 INFO C agency https://www.carrier.co.uk/                    ok           pages=150 pdfs=0
+2026-10-04 23:46:18,733 INFO B official  99 Conrad Maldives Rangali Island           ok         pages=70 pdfs=30 js=False
+2026-10-04 23:46:45,802 INFO B official  95 Malahini Kuda Bandos                     ok         pages=41 pdfs=5 js=True
+2026-10-04 23:47:34,398 INFO B official  94 Reethi Faru Resort                       ok         pages=70 pdfs=30 js=False
+2026-10-04 23:47:34,477 INFO queue: 336 candidates to process
+2026-10-04 23:47:43,099 INFO progress 25/336 {'unmatched': 22, 'failed': 2, 'stored': 1}
+2026-10-04 23:47:49,388 INFO progress 50/336 {'unmatched': 23, 'failed': 25, 'stored': 2}
+2026-10-04 23:47:49,429 INFO progress 75/336 {'unmatched': 23, 'failed': 50, 'stored': 2}
+2026-10-04 23:47:49,471 INFO progress 100/336 {'unmatched': 23, 'failed': 75, 'stored': 2}
+2026-10-04 23:47:49,515 INFO progress 125/336 {'unmatched': 23, 'failed': 100, 'stored': 2}
+2026-10-04 23:47:58,291 INFO progress 150/336 {'unmatched': 24, 'failed': 124, 'stored': 2}
+2026-10-04 23:48:14,777 INFO C agency https://www.turisanda.it/                     ok           pages=150 pdfs=10
+2026-10-04 23:48:18,442 INFO progress 175/336 {'unmatched': 24, 'failed': 148, 'stored': 3}
+2026-10-04 23:48:28,781 INFO progress 200/336 {'unmatched': 24, 'failed': 159, 'stored': 17}
+2026-10-04 23:48:49,627 INFO progress 225/336 {'unmatched': 24, 'failed': 169, 'stored': 32}
+2026-10-04 23:49:04,653 INFO progress 250/336 {'unmatched': 26, 'failed': 172, 'stored': 52}
+2026-10-04 23:49:20,590 INFO progress 275/336 {'unmatched': 26, 'failed': 174, 'stored': 69, 'duplicate': 5, 'rejected': 1}
+2026-10-04 23:49:39,671 INFO progress 300/336 {'unmatched': 37, 'failed': 180, 'stored': 75, 'duplicate': 7, 'rejected': 1}
+2026-10-04 23:49:59,416 INFO progress 325/336 {'unmatched': 57, 'failed': 184, 'stored': 76, 'duplicate': 7, 'rejected': 1}
+2026-10-04 23:50:06,602 INFO queue done: {'unmatched': 64, 'failed': 188, 'stored': 76, 'duplicate': 7, 'rejected': 1}
+2026-10-04 23:50:07,371 ERROR build_outputs failed
+Traceback (most recent call last):
+  File "/home/user/maldives/phase_b.py", line 119, in commit
+    build_outputs.build_all()
+  File "/home/user/maldives/build_outputs.py", line 252, in build_all
+    "- PDFs: `library/<NNN>_<slug>/<doc_type>/<year>_<file>.pdf` (git-ignored; private). R2 upload only when `CLOUDFLARE_API_TOKEN`/`CLOUDFLARE_ACCOUNT_ID` are set.",
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/user/maldives/build_outputs.py", line 147, in build_workbook
+    a["pdf_matched"] += s.get("pdf_matched", 0) or 0
+  File "/usr/local/lib/python3.11/dist-packages/openpyxl/worksheet/worksheet.py", line 673, in append
+    cell = Cell(self, row=row_idx, column=col_idx, value=content)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/dist-packages/openpyxl/cell/cell.py", line 119, in __init__
+    self.value = value
+    ^^^^^^^^^^
+  File "/usr/local/lib/python3.11/dist-packages/openpyxl/cell/cell.py", line 218, in value
+    self._bind_value(value)
+  File "/usr/local/lib/python3.11/dist-packages/openpyxl/cell/cell.py", line 197, in _bind_value
+    value = self.check_string(value)
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/dist-packages/openpyxl/cell/cell.py", line 165, in check_string
+    raise IllegalCharacterError(f"{value} cannot be used in worksheets.")
+openpyxl.utils.exceptions.IllegalCharacterError:  IN-ROOM DINING POUR COMMANDER, CONTACTEZ IN-ROOM DINING READY TO ORDER, JUST DIAL IN-ROOM DINING PICNIC POUR COMMANDER, CONTACTEZ IN-ROOM DINING   cannot be used in worksheets.
