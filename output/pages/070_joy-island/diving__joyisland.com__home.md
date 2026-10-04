@@ -1,6 +1,6 @@
 # Joy Island Resort Maldives by Cocoon: A Joyful Escape
 
-Source: https://www.joyisland.com/
+Source: https://www.joyisland.com
 Scraped: 2026-10-04
 Resort: Joy Island
 Page type: diving

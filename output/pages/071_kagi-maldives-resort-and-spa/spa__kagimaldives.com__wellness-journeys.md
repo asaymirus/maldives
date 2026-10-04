@@ -1,6 +1,6 @@
 # Wellness Journeys – KagiMaldives
 
-Source: https://kagimaldives.com/wellness-journeys/
+Source: https://kagimaldives.com/wellness-journeys
 Scraped: 2026-10-04
 Resort: Kagi Maldives Resort and Spa
 Page type: spa

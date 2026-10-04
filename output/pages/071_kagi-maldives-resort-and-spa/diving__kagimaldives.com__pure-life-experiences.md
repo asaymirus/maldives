@@ -1,6 +1,6 @@
 # Pure Life Experiences – KagiMaldives
 
-Source: https://kagimaldives.com/pure-life-experiences/
+Source: https://kagimaldives.com/pure-life-experiences
 Scraped: 2026-10-04
 Resort: Kagi Maldives Resort and Spa
 Page type: diving

@@ -67,3 +67,70 @@ openpyxl.utils.exceptions.IllegalCharacterError:  IN-ROOM DINING POUR COMMANDER,
 2026-10-04 23:30:34,268 INFO B official  66 Como Maalifushi                          ok         pages=70 pdfs=53 js=False
 2026-10-04 23:31:16,794 INFO B official  62 Cora Cora Maldives                       ok         pages=70 pdfs=67 js=False
 2026-10-04 23:31:20,910 INFO B official  69 Adaaran Club Rannalhi                    ok         pages=40 pdfs=9 js=False
+2026-10-04 23:32:17,785 INFO B official  72 Embudhu Village                          ok         pages=52 pdfs=16 js=False
+2026-10-04 23:32:18,655 INFO B official  70 Joy Island                               ok         pages=46 pdfs=2 js=True
+2026-10-04 23:32:22,440 INFO B official  67 Waldorf Astoria Maldives Ithaafushi      ok         pages=70 pdfs=47 js=False
+2026-10-04 23:32:35,336 INFO B official  76 Hideaway Beach Resort and Spa at Dhonaku ok         pages=1 pdfs=0 js=True
+2026-10-04 23:32:43,609 INFO B official  73 Summer Island Maldives                   ok         pages=70 pdfs=23 js=True
+2026-10-04 23:32:57,858 INFO B official  77 Atmosphere Kanifushi Maldives            ok         pages=2 pdfs=0 js=True
+2026-10-04 23:34:04,003 INFO B official  71 Kagi Maldives Resort and Spa             ok         pages=70 pdfs=139 js=False
+2026-10-04 23:34:18,799 INFO B official  75 Kandima Maldives                         ok         pages=70 pdfs=32 js=False
+2026-10-04 23:34:21,938 INFO B official  74 Kandolhu Island Maldives                 ok         pages=70 pdfs=88 js=False
+2026-10-04 23:34:23,461 INFO B official  78 Meeru Maldives Resort Island             ok         pages=70 pdfs=67 js=True
+2026-10-04 23:34:33,104 INFO B official  80 Raaya by Atmosphere                      ok         pages=2 pdfs=0 js=True
+2026-10-04 23:35:27,155 INFO B official  79 Komandoo Island Resort                   ok         pages=54 pdfs=3 js=True
+2026-10-04 23:35:27,191 INFO queue: 662 candidates to process
+2026-10-04 23:35:27,582 INFO BLOCKED www.coloursofoblu.com (403)
+2026-10-04 23:35:38,561 INFO progress 25/662 {'failed': 3, 'stored': 11, 'unmatched': 11}
+2026-10-04 23:35:58,337 INFO progress 50/662 {'failed': 3, 'stored': 24, 'unmatched': 20, 'rejected': 3}
+2026-10-04 23:36:15,665 INFO progress 75/662 {'failed': 5, 'stored': 36, 'unmatched': 31, 'rejected': 3}
+2026-10-04 23:36:24,376 INFO progress 100/662 {'failed': 9, 'stored': 47, 'unmatched': 36, 'rejected': 4, 'duplicate': 4}
+2026-10-04 23:36:42,341 INFO progress 125/662 {'failed': 9, 'stored': 71, 'unmatched': 36, 'rejected': 4, 'duplicate': 5}
+2026-10-04 23:37:02,607 INFO progress 150/662 {'failed': 10, 'stored': 89, 'unmatched': 36, 'rejected': 5, 'duplicate': 10}
+2026-10-04 23:37:14,489 INFO progress 175/662 {'failed': 14, 'stored': 106, 'unmatched': 36, 'rejected': 6, 'duplicate': 13}
+2026-10-04 23:37:33,640 INFO progress 200/662 {'failed': 14, 'stored': 129, 'unmatched': 37, 'rejected': 6, 'duplicate': 14}
+2026-10-04 23:37:47,679 INFO progress 225/662 {'failed': 16, 'stored': 152, 'unmatched': 37, 'rejected': 6, 'duplicate': 14}
+2026-10-04 23:38:04,665 INFO progress 250/662 {'failed': 17, 'stored': 174, 'unmatched': 37, 'rejected': 8, 'duplicate': 14}
+2026-10-04 23:38:22,885 INFO progress 275/662 {'failed': 19, 'stored': 197, 'unmatched': 37, 'rejected': 8, 'duplicate': 14}
+2026-10-04 23:38:43,673 INFO progress 300/662 {'failed': 21, 'stored': 220, 'unmatched': 37, 'rejected': 8, 'duplicate': 14}
+2026-10-04 23:39:02,415 INFO progress 325/662 {'failed': 29, 'stored': 235, 'unmatched': 37, 'rejected': 10, 'duplicate': 14}
+2026-10-04 23:39:23,551 INFO progress 350/662 {'failed': 30, 'stored': 257, 'unmatched': 37, 'rejected': 12, 'duplicate': 14}
+2026-10-04 23:39:42,555 INFO progress 375/662 {'failed': 33, 'stored': 278, 'unmatched': 37, 'rejected': 13, 'duplicate': 14}
+2026-10-04 23:40:05,076 INFO progress 400/662 {'failed': 35, 'stored': 295, 'unmatched': 37, 'rejected': 16, 'duplicate': 15, 'excluded': 2}
+2026-10-04 23:40:16,041 INFO progress 425/662 {'failed': 37, 'stored': 314, 'unmatched': 37, 'rejected': 17, 'duplicate': 17, 'excluded': 3}
+2026-10-04 23:40:30,736 INFO progress 450/662 {'failed': 37, 'stored': 337, 'unmatched': 37, 'rejected': 18, 'duplicate': 18, 'excluded': 3}
+2026-10-04 23:40:47,808 INFO progress 475/662 {'failed': 41, 'stored': 353, 'unmatched': 38, 'rejected': 21, 'duplicate': 19, 'excluded': 3}
+2026-10-04 23:41:05,821 INFO progress 500/662 {'failed': 43, 'stored': 376, 'unmatched': 38, 'rejected': 21, 'duplicate': 19, 'excluded': 3}
+2026-10-04 23:41:23,809 INFO progress 525/662 {'failed': 43, 'stored': 400, 'unmatched': 38, 'rejected': 22, 'duplicate': 19, 'excluded': 3}
+2026-10-04 23:41:43,072 INFO progress 550/662 {'failed': 43, 'stored': 424, 'unmatched': 38, 'rejected': 22, 'duplicate': 20, 'excluded': 3}
+2026-10-04 23:42:04,070 INFO progress 575/662 {'failed': 43, 'stored': 447, 'unmatched': 38, 'rejected': 24, 'duplicate': 20, 'excluded': 3}
+2026-10-04 23:42:17,046 INFO progress 600/662 {'failed': 45, 'stored': 460, 'unmatched': 42, 'rejected': 25, 'duplicate': 25, 'excluded': 3}
+2026-10-04 23:42:36,900 INFO progress 625/662 {'failed': 48, 'stored': 480, 'unmatched': 42, 'rejected': 26, 'duplicate': 26, 'excluded': 3}
+2026-10-04 23:42:56,426 INFO progress 650/662 {'failed': 54, 'stored': 495, 'unmatched': 42, 'rejected': 26, 'duplicate': 30, 'excluded': 3}
+2026-10-04 23:43:02,759 INFO queue done: {'failed': 58, 'stored': 500, 'unmatched': 42, 'rejected': 26, 'duplicate': 33, 'excluded': 3}
+
+== coverage: factsheet 119/182  wedding 32  events 11  map 116  nothing 34  docs 1891
+
+2026-10-04 23:43:03,487 ERROR build_outputs failed
+Traceback (most recent call last):
+  File "/home/user/maldives/phase_b.py", line 119, in commit
+    build_outputs.build_all()
+  File "/home/user/maldives/build_outputs.py", line 252, in build_all
+    "- PDFs: `library/<NNN>_<slug>/<doc_type>/<year>_<file>.pdf` (git-ignored; private). R2 upload only when `CLOUDFLARE_API_TOKEN`/`CLOUDFLARE_ACCOUNT_ID` are set.",
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/user/maldives/build_outputs.py", line 147, in build_workbook
+    a["pdf_matched"] += s.get("pdf_matched", 0) or 0
+  File "/usr/local/lib/python3.11/dist-packages/openpyxl/worksheet/worksheet.py", line 673, in append
+    cell = Cell(self, row=row_idx, column=col_idx, value=content)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/dist-packages/openpyxl/cell/cell.py", line 119, in __init__
+    self.value = value
+    ^^^^^^^^^^
+  File "/usr/local/lib/python3.11/dist-packages/openpyxl/cell/cell.py", line 218, in value
+    self._bind_value(value)
+  File "/usr/local/lib/python3.11/dist-packages/openpyxl/cell/cell.py", line 197, in _bind_value
+    value = self.check_string(value)
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/dist-packages/openpyxl/cell/cell.py", line 165, in check_string
+    raise IllegalCharacterError(f"{value} cannot be used in worksheets.")
+openpyxl.utils.exceptions.IllegalCharacterError:  IN-ROOM DINING POUR COMMANDER, CONTACTEZ IN-ROOM DINING READY TO ORDER, JUST DIAL IN-ROOM DINING PICNIC POUR COMMANDER, CONTACTEZ IN-ROOM DINING   cannot be used in worksheets.

@@ -1,6 +1,6 @@
 # Diving & Water Sports – KagiMaldives
 
-Source: https://kagimaldives.com/diving-water-sports/
+Source: https://kagimaldives.com/diving-water-sports
 Scraped: 2026-10-04
 Resort: Kagi Maldives Resort and Spa
 Page type: diving

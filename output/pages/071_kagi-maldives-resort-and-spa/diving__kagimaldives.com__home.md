@@ -1,6 +1,6 @@
 # KagiMaldives – The Essence of pure life
 
-Source: https://kagimaldives.com/
+Source: https://kagimaldives.com
 Scraped: 2026-10-04
 Resort: Kagi Maldives Resort and Spa
 Page type: diving
