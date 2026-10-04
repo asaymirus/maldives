@@ -1,0 +1,8 @@
+# PDFs are stored privately, never committed to git
+library/
+state/pdfcache/
+*.pdf
+__pycache__/
+*.pyc
+seed/*.zip
+.playwright/
