@@ -6,7 +6,7 @@ from bs4 import BeautifulSoup
 import lib
 from lib import log, get, fetch_text, enqueue, save_page, extract_pdf_links, record_source, record_blocked, jsonl_append
 from official_urls import DAM_HOSTS
-from resorts import BY_ID, norm
+from resorts import BY_ID, norm, match_resort
 
 PAGE_KEYS = re.compile(r"wedd|celebrat|romance|vow|honeymoon|event|meeting|mice|incentive|dining|restaurant|menu|bar\b|"
                        r"spa|wellness|dive|diving|water-?sport|snorkel|excursion|experience|activit|adventure|kids|family|"
@@ -24,25 +24,24 @@ _pw_lock = threading.Lock()
 _pw = {"p": None, "browser": None}
 
 
-def _browser():
-    if _pw["browser"] is None:
-        from playwright.sync_api import sync_playwright
-        _pw["p"] = sync_playwright().start()
-        exe = "/opt/pw-browsers/chromium-1194/chrome-linux/chrome"
-        kw = {"args": ["--no-sandbox"]}
-        if os.path.exists(exe):
-            kw["executable_path"] = exe
-        if os.environ.get("HTTPS_PROXY"):
-            kw["proxy"] = {"server": os.environ["HTTPS_PROXY"]}
-        _pw["browser"] = _pw["p"].chromium.launch(**kw)
-    return _pw["browser"]
+def _launch(p):
+    exe = "/opt/pw-browsers/chromium-1194/chrome-linux/chrome"
+    kw = {"args": ["--no-sandbox"]}
+    if os.path.exists(exe):
+        kw["executable_path"] = exe
+    if os.environ.get("HTTPS_PROXY"):
+        kw["proxy"] = {"server": os.environ["HTTPS_PROXY"]}
+    return p.chromium.launch(**kw)
 
 
 def render(url, wait_ms=2500, click_downloads=True):
-    """Render a page in headless Chromium. Returns (html, final_url, pdf_urls_seen_in_network)."""
-    with _pw_lock:
+    """Render a page in headless Chromium. Returns (html, final_url, pdf_urls_seen_in_network).
+    The sync Playwright API is bound to one thread, so each call starts its own instance under a lock."""
+    from playwright.sync_api import sync_playwright
+    with _pw_lock, sync_playwright() as p:
+        b = None
         try:
-            b = _browser()
+            b = _launch(p)
             ctx = b.new_context(ignore_https_errors=True, user_agent=lib.UA, viewport={"width": 1366, "height": 900},
                                 locale="en-GB")
             page = ctx.new_page()
@@ -87,12 +86,13 @@ def render(url, wait_ms=2500, click_downloads=True):
                             pdfs.add(h)
             except Exception:
                 pass
-            ctx.close()
+            b.close()
             return html, final, pdfs
         except Exception as e:
             log.info("render fail %s %s", url, str(e)[:120])
             try:
-                ctx.close()
+                if b:
+                    b.close()
             except Exception:
                 pass
             return None, url, set()
@@ -191,6 +191,32 @@ def wp_media_pdfs(base_url):
     return out
 
 
+_robots = {}
+
+
+def robots_ok(url):
+    """Respect robots.txt on third-party sites (cached per host)."""
+    from urllib import robotparser
+    p = urlparse(url)
+    root = f"{p.scheme}://{p.netloc}"
+    rp = _robots.get(root)
+    if rp is None:
+        rp = robotparser.RobotFileParser()
+        try:
+            r = get(root + "/robots.txt", timeout=20)
+            if r is not None and r.ok and "text" in r.headers.get("content-type", "html"):
+                rp.parse(r.text.splitlines())
+            else:
+                rp.parse([])
+        except Exception:
+            rp.parse([])
+        _robots[root] = rp
+    try:
+        return rp.can_fetch("*", url)
+    except Exception:
+        return True
+
+
 def site_done(key):
     for s in lib.jsonl_read(SITES):
         if s.get("key") == key and s.get("status") in ("ok", "blocked", "unreachable", "unverified"):
@@ -252,6 +278,8 @@ def crawl_site(start_url, resort_ids, source_type, source_name=None, max_pages=7
     if path_prefix is None and fhost != host.replace("www.", ""):
         pass
     # verify the site is about this resort
+    if verify_terms and any(norm(t).replace(" ", "") in fhost.replace("-", "").replace(".", "") for t in verify_terms if len(norm(t)) >= 5):
+        verify_terms = None  # domain is named after the resort
     if verify_terms:
         page_text = norm(BeautifulSoup(html, "lxml").get_text(" ")[:20000])
         if not any(norm(t) in page_text for t in verify_terms):
@@ -299,6 +327,8 @@ def crawl_site(start_url, resort_ids, source_type, source_name=None, max_pages=7
         if u == final_url:
             page_html = html
         else:
+            if source_type == "dmc-agency" and not robots_ok(u):
+                continue
             page_html, rr = fetch_text(u, timeout=60)
             if page_html is None:
                 if rr is not None and rr.ok and rr.content[:5] == b"%PDF-":
@@ -306,6 +336,15 @@ def crawl_site(start_url, resort_ids, source_type, source_name=None, max_pages=7
                         pdf_count += 1
                 continue
         summary["pages"] += 1
+        # mixed (agency) site: match the page itself to a resort by its URL slug / title
+        page_ids = resort_ids
+        page_hint = rid_hint
+        if not resort_ids:
+            m_ids, m_review = match_resort(urlparse(u).path.replace("-", " ").replace("_", " ").replace("/", " "))
+            if m_ids and not m_review:
+                page_ids, page_hint = m_ids[:1], m_ids[0]
+            elif m_ids:
+                page_hint = m_ids
         # JS fallback: very thin page
         text_len = len(BeautifulSoup(page_html, "lxml").get_text(" ", strip=True))
         if use_render and render_budget > 0 and (text_len < 600 or (d == 0 and len(internal_links(page_html, u, allowed)) < 6)):
@@ -315,19 +354,19 @@ def crawl_site(start_url, resort_ids, source_type, source_name=None, max_pages=7
                 page_html = html2
                 summary["js"] = True
             for pu in pdfs2:
-                if enqueue(pu, source_name, source_type, u, rid_hint):
+                if enqueue(pu, source_name, source_type, u, page_hint):
                     pdf_count += 1
         # save page text
-        if resort_ids:
-            for rid in resort_ids[:2]:
+        if page_ids:
+            for rid in page_ids[:2]:
                 save_page(rid, u, page_html, source_type=source_type)
         for pu in extract_pdf_links(page_html, u):
-            if enqueue(pu, source_name, source_type, u, rid_hint):
+            if enqueue(pu, source_name, source_type, u, page_hint):
                 pdf_count += 1
         for du in dam_links(page_html, u):
             dam.add(du)
             if ".pdf" in du.lower():
-                if enqueue(du, source_name, source_type, u, rid_hint):
+                if enqueue(du, source_name, source_type, u, page_hint):
                     pdf_count += 1
         if d < depth:
             for l in internal_links(page_html, u, allowed):

@@ -142,3 +142,44 @@ greenlet.error: Cannot switch to a different thread
 2026-10-04 22:46:56,182 INFO progress 275/310 {'stored': 225, 'duplicate': 36, 'excluded': 4, 'failed': 9, 'unmatched': 1}
 2026-10-04 22:47:11,820 INFO progress 300/310 {'stored': 225, 'duplicate': 59, 'excluded': 5, 'failed': 10, 'unmatched': 1}
 2026-10-04 22:47:21,374 INFO queue done: {'stored': 225, 'duplicate': 69, 'excluded': 5, 'failed': 10, 'unmatched': 1}
+2026-10-04 22:51:05,573 INFO === Phase B batch 1-20
+2026-10-04 22:51:05,583 INFO B official   5 Bolifushi Island Resort                  blocked    pages=0 pdfs=0 js=False
+2026-10-04 22:51:05,583 INFO B official   1 Six Senses Laamu                         blocked    pages=0 pdfs=0 js=False
+2026-10-04 22:51:05,583 INFO B official   3 Adaaran Select Hudhuranfushi             ok         pages=46 pdfs=37 js=False
+2026-10-04 22:51:05,584 INFO B official   4 Ayada Maldives                           ok         pages=70 pdfs=30 js=False
+2026-10-04 22:51:05,591 INFO B official   9 Amilla Fushi                             ok         pages=40 pdfs=94 js=False
+2026-10-04 22:51:05,593 INFO B official  10 Dreamland - The Unique Sea & Lake Resort ok         pages=24 pdfs=35 js=False
+2026-10-04 22:51:05,593 INFO B official  11 Angaga Island Resort and Spa             ok         pages=41 pdfs=71 js=False
+2026-10-04 22:51:05,594 INFO B official  12 Thulhagiri Island Resort & Spa           ok         pages=40 pdfs=43 js=False
+2026-10-04 22:51:13,013 INFO B official   7 Joali Muravandhoo                        unreachable pages=0 pdfs=0 js=False
+2026-10-04 22:51:13,283 INFO B official   6 Joali Being Bodufushi                    unreachable pages=0 pdfs=0 js=False
+2026-10-04 22:51:13,298 INFO BLOCKED www.baglionihotels.com (403)
+2026-10-04 22:51:14,496 INFO render fail https://www.filitheyo.com/ Page.goto: net::ERR_TOO_MANY_RETRIES at https://www.filitheyo.com/
+Call log:
+  - navigating to "https://www.filitheyo.co
+2026-10-04 22:51:14,601 INFO B official   2 Filitheyo Island Resort                  unverified pages=0 pdfs=0 js=False
+2026-10-04 22:51:14,601 INFO B official  16 JW Marriott Kaafu Atoll Island Resort    blocked    pages=0 pdfs=0 js=False
+2026-10-04 22:51:34,431 INFO render fail https://www.baglionihotels.com/category/baglioni-resort-maldives/ Page.goto: net::ERR_TOO_MANY_RETRIES at https://www.baglionihotels.com/category/baglioni-resort-maldives/
+Call log:
+  - 
+2026-10-04 22:51:34,533 INFO B official  14 Baglioni Resort Maldives                 blocked    pages=0 pdfs=0 js=False
+2026-10-04 22:51:34,534 INFO B official  18 JW Marriott Maldives Resort & Spa        blocked    pages=0 pdfs=0 js=False
+2026-10-04 22:51:53,773 INFO render fail https://www.rihiveli-maldives.com/ Page.goto: net::ERR_TOO_MANY_RETRIES at https://www.rihiveli-maldives.com/
+Call log:
+  - navigating to "https://www.rihi
+2026-10-04 22:51:53,864 INFO B official  17 Rihiveli Maldives Resort                 unverified pages=0 pdfs=0 js=False
+2026-10-04 22:52:33,114 INFO B official   8 Hilton Maldives Amingiri Resort & Spa    unverified pages=0 pdfs=0 js=True
+2026-10-04 22:52:40,707 INFO render fail https://www.cenizaro.com/theresidence/maldives-fm/experiences/cooking-class Page.goto: net::ERR_TOO_MANY_RETRIES at https://www.cenizaro.com/theresidence/maldives-fm/experiences/cooking-class
+Call
+2026-10-04 22:53:18,078 INFO render fail https://www.alilahotels.com/kothaifaru Page.goto: net::ERR_TOO_MANY_RETRIES at https://www.alilahotels.com/kothaifaru
+Call log:
+  - navigating to "https://www.
+2026-10-04 22:53:18,175 INFO B official  15 Alila Kothaifaru Maldives                blocked    pages=0 pdfs=0 js=False
+2026-10-04 22:54:26,903 INFO B official  19 The Residence Maldives                   ok         pages=49 pdfs=16 js=True
+2026-10-04 22:54:31,587 INFO B official  20 The Residence Maldives At Dhigurah       ok         pages=54 pdfs=17 js=True
+2026-10-04 22:55:09,637 INFO B official  13 Sandies Bathala                          ok         pages=70 pdfs=64 js=False
+2026-10-04 22:55:09,648 INFO queue: 97 candidates to process
+2026-10-04 22:55:28,939 INFO progress 25/97 {'stored': 19, 'unmatched': 3, 'duplicate': 3}
+2026-10-04 22:55:47,823 INFO progress 50/97 {'stored': 40, 'unmatched': 6, 'duplicate': 4}
+2026-10-04 22:56:01,918 INFO progress 75/97 {'stored': 64, 'unmatched': 7, 'duplicate': 4}
+2026-10-04 22:56:16,349 INFO queue done: {'stored': 77, 'unmatched': 7, 'duplicate': 13}
