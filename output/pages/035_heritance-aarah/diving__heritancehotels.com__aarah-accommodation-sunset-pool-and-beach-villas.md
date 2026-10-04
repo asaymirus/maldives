@@ -1,0 +1,90 @@
+# Maldives Beach Villa with Private Pool | Heritance Aarah
+
+Source: https://www.heritancehotels.com/aarah/accommodation/sunset-pool-and-beach-villas/
+Scraped: 2026-10-04
+Resort: Heritance Aarah
+Page type: diving
+
+---
+
+Start Your Heritance Story Here
+Book Direct Benefits
+Best Rate Guaranteed on the Premium All Inclusive Offering
+USD 50 Spa Credits per person for all
+30 Min Complimentary Wellness Consultation
+Snorkeling equipment
+Celebration Specials*
+Non-motorized water sports
+1 Child under 12y stay & dine free – Valid for bookings from April to Oct
+Butler Service
+10% Off on the Excursion bill for stays with min. 4Nights
+Floating Breakfast (once per stay at Ocean Suites) for stays with min. 4Nights
+Complementary Domestic Flight + Speedboat Transfers for stays with min. 7Nights from April to October.
+Complementary Seaplane Transfers for stays with min. 14Nights from April to October.”
+Stay 5+ nights: welcome Bottle of Champagne on arrival, plus a complimentary upgrade to the next room category (subject to availability, Beach Villa to Ocean Villa)
+Stay 7+ nights: enjoy a USD 50 Resort Credit
+Stay 14+ nights: enjoy USD 50 Laundry Credit per booking, plus a Private Excursion of your choice (Sunset Cruise or Dolphin Cruise), a complimentary upgrade to the next room category (up to OV), and a VIP Vehicle for both arrival and departure.
+Terms & Conditions
+Children under 12 years stay and eat free (valid during certain periods only. T&Cs apply).
+Children must share the same rooms as parents
+Transfer charges and Green Tax is applicable
+Valid for 1 child per booking
+Eligibility for celebration specials will be validated at the check-in (T&Cs apply).
+Terms & Conditions Apply
+Sunset Pool Beach Villas
+Experience ultimate serenity in our Sunset Pool Beach Villas featuring direct beach access, a private plunge pool and spacious sun decks to enjoy breathtaking Maldivian sunsets. Relax in luxurious indoor and outdoor spaces, unwind in your tropical outdoor shower or explore the island with complimentary excursions, including sunset cruises and snorkeling. This dreamy Maldives beach villa with private pool is perfect for families or couples seeking tranquility, exclusivity, and unforgettable sunsets in paradise
+Number of units
+10 Rooms
+Size
+110 sq.m
+View
+Sunset Beach View
+Sleeps
+03 Adults / 02 Adults + 01 Child / 02 Adults + 2 Children (Below 12 Years
+Beds
+King-sized bed and over-sized daybed
+Bathroom
+Spacious en-suite bath with bathtub and outdoor, tropical shower
+Book now
+Tea & Coffee
+(Two flavours of Nespresso coffee and four varieties of Stassen teas)
+Safety Box
+In-Villa WIFI
+Flat-Screen TV
+Marshall Bluetooth Speaker
+Amenities
+Private outdoor spaces
+Private plunge pool (9 sq. mt.)
+Private sun deck with two sunbeds
+Snorkelling fins and masks
+Two sunbeds on the beach
+Fully stocked mini bar, replenished daily
+Butler services
+*
+Charges are applicable
+Explore Other Villas
+Beach Villas
+51 Units
+Beachfront
+more details
+Book now
+Ocean Villas
+56 Units
+Oceanfront
+more details
+Book now
+Two Bedroom Family Pool Beach Villa
+07 Units
+Beachfront
+more details
+Book now
+Overwater Ocean Suites with Infinity Pool
+25 Units
+Oceanfront
+more details
+Book now
+Ocean Residence with Infinity Lap Pool in Maldives
+01 Unit
+Oceanfront
+more details
+Book now

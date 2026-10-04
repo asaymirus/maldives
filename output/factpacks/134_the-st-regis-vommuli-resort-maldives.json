@@ -1,0 +1,521 @@
+{
+ "resort_id": 134,
+ "name": "The St. Regis Vommuli Resort, Maldives",
+ "current_name": null,
+ "aliases": [
+  "St. Regis Maldives",
+  "St Regis Vommuli",
+  "Vommuli"
+ ],
+ "official_url": null,
+ "official_site_status": null,
+ "operator_brand": "St. Regis",
+ "atoll": "Dhaalu Atoll",
+ "island": "Vommuli",
+ "opened_or_renovated": null,
+ "star_rating": "5-star",
+ "transfer": {
+  "modes": [
+   "seaplane",
+   "yacht"
+  ],
+  "minutes": {
+   "seaplane": 45,
+   "speedboat": null,
+   "domestic flight": null,
+   "yacht": null
+  }
+ },
+ "island_size": null,
+ "villas": {
+  "total": null,
+  "categories": [
+   {
+    "name": "Overwater Villa with Pool",
+    "count": null,
+    "size_sqm": 182,
+    "max_occupancy": null,
+    "pool": true,
+    "overwater": true
+   },
+   {
+    "name": "Villas",
+    "count": 77,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "Bedroom Beach Villa",
+    "count": 2,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "Bedroom Beach Suite",
+    "count": 2,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   }
+  ]
+ },
+ "dining": [
+  {
+   "name": "The Whale Bar Grill",
+   "cuisine": null,
+   "type": "bar"
+  },
+  {
+   "name": "Culinary Experiences The Whale Bar",
+   "cuisine": null,
+   "type": "bar"
+  },
+  {
+   "name": "Magic at sunset, the overwater Whale Bar prepares fresh",
+   "cuisine": null,
+   "type": "bar"
+  },
+  {
+   "name": "Dining",
+   "cuisine": null,
+   "type": "restaurant"
+  },
+  {
+   "name": "Exclusive Private Dining Experiences",
+   "cuisine": null,
+   "type": "restaurant"
+  },
+  {
+   "name": "The Whale Bar",
+   "cuisine": null,
+   "type": "bar"
+  }
+ ],
+ "meal_plans": [],
+ "all_inclusive_details": null,
+ "spa": {
+  "name": "Iridium Spa",
+  "treatment_rooms": null,
+  "signature_treatments": [],
+  "menu_doc": null
+ },
+ "diving_watersports": {
+  "operator": null,
+  "house_reef": "house reef, each Overwater Villa offers a private pool and floor-to-ceiling views of the Indian Ocean",
+  "activities": [
+   "manta",
+   "snorkeling",
+   "scuba diving",
+   "parasailing",
+   "seabob",
+   "fishing",
+   "sunset cruise",
+   "whale shark"
+  ],
+  "price_list_doc": null
+ },
+ "excursions": [
+  "manta",
+  "cinema",
+  "island hopping",
+  "local island",
+  "sandbank",
+  "dolphin",
+  "whale shark",
+  "picnic"
+ ],
+ "kids_family": {
+  "kids_club": null,
+  "age_range": null,
+  "teens": null
+ },
+ "wellness_fitness": [
+  "yoga",
+  "meditation",
+  "tennis",
+  "fitness center",
+  "sauna",
+  "steam"
+ ],
+ "weddings": {
+  "offered": true,
+  "vow_renewal": null,
+  "venues": [],
+  "packages": [],
+  "brochure_doc": null
+ },
+ "events_mice": {
+  "venues": [],
+  "capacity_max": null,
+  "buyout": null,
+  "doc": null
+ },
+ "sustainability": [],
+ "contacts_public": {
+  "reservations_email": "info@neoscapesmaldives.com",
+  "weddings_email": null,
+  "phone": "+960 736 5425"
+ },
+ "documents_latest": {
+  "factsheet": "https://www.neoscapesmaldives.com/wp-content/uploads/The-St.-Regis-Maldives-Fact-Sheet.pdf",
+  "map": null,
+  "wedding": null,
+  "spa_menu": null,
+  "dining_menu": null,
+  "dive_prices": null,
+  "events": null,
+  "calendar": null
+ },
+ "documents_count": 1,
+ "gaps": [
+  "wedding brochure",
+  "events/MICE document",
+  "fact: villas.total",
+  "fact: dive operator",
+  "fact: kids club"
+ ],
+ "sources": {
+  "atoll": [
+   {
+    "value": "Dhaalu Atoll",
+    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/The-St.-Regis-Maldives-Fact-Sheet.pdf",
+    "as_of": 2021
+   },
+   {
+    "value": "Dhaalu Atoll",
+    "source_url": "https://www.neoscapesmaldives.com/resort/the-st-regis-maldives-vommuli-resort/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "transfer.modes": [
+   {
+    "value": "seaplane",
+    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/The-St.-Regis-Maldives-Fact-Sheet.pdf",
+    "as_of": 2021
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.neoscapesmaldives.com/resort/the-st-regis-maldives-vommuli-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yacht",
+    "source_url": "https://www.neoscapesmaldives.com/resort/the-st-regis-maldives-vommuli-resort/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "transfer.minutes.seaplane": [
+   {
+    "value": 45,
+    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/The-St.-Regis-Maldives-Fact-Sheet.pdf",
+    "as_of": 2021
+   },
+   {
+    "value": 45,
+    "source_url": "https://www.neoscapesmaldives.com/resort/the-st-regis-maldives-vommuli-resort/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "villas.categories": [
+   {
+    "value": {
+     "name": "Overwater Villa with Pool",
+     "count": null,
+     "size_sqm": 182,
+     "max_occupancy": null,
+     "pool": true,
+     "overwater": true
+    },
+    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/The-St.-Regis-Maldives-Fact-Sheet.pdf",
+    "as_of": 2021
+   },
+   {
+    "value": {
+     "name": "Villas",
+     "count": 77,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://www.neoscapesmaldives.com/resort/the-st-regis-maldives-vommuli-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Bedroom Beach Villa",
+     "count": 2,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://www.neoscapesmaldives.com/resort/the-st-regis-maldives-vommuli-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Bedroom Beach Suite",
+     "count": 2,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://www.neoscapesmaldives.com/resort/the-st-regis-maldives-vommuli-resort/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "dining": [
+   {
+    "value": {
+     "name": "The Whale Bar Grill",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/The-St.-Regis-Maldives-Fact-Sheet.pdf",
+    "as_of": 2021
+   },
+   {
+    "value": {
+     "name": "Culinary Experiences The Whale Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/The-St.-Regis-Maldives-Fact-Sheet.pdf",
+    "as_of": 2021
+   },
+   {
+    "value": {
+     "name": "Magic at sunset, the overwater Whale Bar prepares fresh",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/The-St.-Regis-Maldives-Fact-Sheet.pdf",
+    "as_of": 2021
+   },
+   {
+    "value": {
+     "name": "Dining",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.neoscapesmaldives.com/resort/the-st-regis-maldives-vommuli-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Dining",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.neoscapesmaldives.com/resort/the-st-regis-maldives-vommuli-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Exclusive Private Dining Experiences",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.neoscapesmaldives.com/resort/the-st-regis-maldives-vommuli-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "The Whale Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.neoscapesmaldives.com/resort/the-st-regis-maldives-vommuli-resort/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "spa.name": [
+   {
+    "value": "Iridium Spa",
+    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/The-St.-Regis-Maldives-Fact-Sheet.pdf",
+    "as_of": 2021
+   },
+   {
+    "value": "Iridium Spa",
+    "source_url": "https://www.neoscapesmaldives.com/resort/the-st-regis-maldives-vommuli-resort/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "diving_watersports.activities": [
+   {
+    "value": "manta",
+    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/The-St.-Regis-Maldives-Fact-Sheet.pdf",
+    "as_of": 2021
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.neoscapesmaldives.com/resort/the-st-regis-maldives-vommuli-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://www.neoscapesmaldives.com/resort/the-st-regis-maldives-vommuli-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "parasailing",
+    "source_url": "https://www.neoscapesmaldives.com/resort/the-st-regis-maldives-vommuli-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "seabob",
+    "source_url": "https://www.neoscapesmaldives.com/resort/the-st-regis-maldives-vommuli-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.neoscapesmaldives.com/resort/the-st-regis-maldives-vommuli-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.neoscapesmaldives.com/resort/the-st-regis-maldives-vommuli-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.neoscapesmaldives.com/resort/the-st-regis-maldives-vommuli-resort/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "excursions": [
+   {
+    "value": "manta",
+    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/The-St.-Regis-Maldives-Fact-Sheet.pdf",
+    "as_of": 2021
+   },
+   {
+    "value": "cinema",
+    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/The-St.-Regis-Maldives-Fact-Sheet.pdf",
+    "as_of": 2021
+   },
+   {
+    "value": "island hopping",
+    "source_url": "https://www.neoscapesmaldives.com/resort/the-st-regis-maldives-vommuli-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "local island",
+    "source_url": "https://www.neoscapesmaldives.com/resort/the-st-regis-maldives-vommuli-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.neoscapesmaldives.com/resort/the-st-regis-maldives-vommuli-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.neoscapesmaldives.com/resort/the-st-regis-maldives-vommuli-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.neoscapesmaldives.com/resort/the-st-regis-maldives-vommuli-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "picnic",
+    "source_url": "https://www.neoscapesmaldives.com/resort/the-st-regis-maldives-vommuli-resort/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "wellness_fitness": [
+   {
+    "value": "yoga",
+    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/The-St.-Regis-Maldives-Fact-Sheet.pdf",
+    "as_of": 2021
+   },
+   {
+    "value": "meditation",
+    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/The-St.-Regis-Maldives-Fact-Sheet.pdf",
+    "as_of": 2021
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/The-St.-Regis-Maldives-Fact-Sheet.pdf",
+    "as_of": 2021
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.neoscapesmaldives.com/resort/the-st-regis-maldives-vommuli-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fitness center",
+    "source_url": "https://www.neoscapesmaldives.com/resort/the-st-regis-maldives-vommuli-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sauna",
+    "source_url": "https://www.neoscapesmaldives.com/resort/the-st-regis-maldives-vommuli-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "steam",
+    "source_url": "https://www.neoscapesmaldives.com/resort/the-st-regis-maldives-vommuli-resort/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "contacts_public.reservations_email": [
+   {
+    "value": "reservations@neoscapesmaldives.com",
+    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/The-St.-Regis-Maldives-Fact-Sheet.pdf",
+    "as_of": 2021
+   },
+   {
+    "value": "info@neoscapesmaldives.com",
+    "source_url": "https://www.neoscapesmaldives.com/resort/the-st-regis-maldives-vommuli-resort/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "island": [
+   {
+    "value": "Vommuli",
+    "source_url": "https://www.neoscapesmaldives.com/resort/the-st-regis-maldives-vommuli-resort/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "star_rating": [
+   {
+    "value": "5-star",
+    "source_url": "https://www.neoscapesmaldives.com/resort/the-st-regis-maldives-vommuli-resort/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "diving_watersports.house_reef": [
+   {
+    "value": "house reef, each Overwater Villa offers a private pool and floor-to-ceiling views of the Indian Ocean",
+    "source_url": "https://www.neoscapesmaldives.com/resort/the-st-regis-maldives-vommuli-resort/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "weddings.offered": [
+   {
+    "value": true,
+    "source_url": "https://www.neoscapesmaldives.com/resort/the-st-regis-maldives-vommuli-resort/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "contacts_public.phone": [
+   {
+    "value": "+960 736 5425",
+    "source_url": "https://www.neoscapesmaldives.com/resort/the-st-regis-maldives-vommuli-resort/",
+    "as_of": "2026-10-04"
+   }
+  ]
+ },
+ "last_updated": "2026-10-04"
+}

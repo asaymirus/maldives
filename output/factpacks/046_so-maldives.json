@@ -1,0 +1,634 @@
+{
+ "resort_id": 46,
+ "name": "SO/ Maldives",
+ "current_name": null,
+ "aliases": [
+  "SO Maldives",
+  "SO/ Maldives",
+  "SO Hotels Maldives"
+ ],
+ "official_url": null,
+ "official_site_status": null,
+ "operator_brand": "SO/",
+ "atoll": "South Male Atoll",
+ "island": null,
+ "opened_or_renovated": null,
+ "star_rating": "5-star",
+ "transfer": {
+  "modes": [
+   "speedboat"
+  ],
+  "minutes": {
+   "seaplane": null,
+   "speedboat": 15,
+   "domestic flight": null,
+   "yacht": null
+  }
+ },
+ "island_size": "184 m x 576 m",
+ "villas": {
+  "total": null,
+  "categories": [
+   {
+    "name": "Arrival Pavilion and Bar",
+    "count": 1,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "RUNWAY ONE Water Villa Collection",
+    "count": 127,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "Resort Clinic RUNWAY THREE Water Villa Collection",
+    "count": 10,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "Total Number of Villas",
+    "count": 80,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "overwater villa aerial so maldives",
+    "count": 11,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": true
+   },
+   {
+    "name": "family beach pool villa with capsule so maldives",
+    "count": 9,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": true,
+    "overwater": null
+   }
+  ]
+ },
+ "dining": [
+  {
+   "name": "Pavilion Bar",
+   "cuisine": null,
+   "type": "bar"
+  },
+  {
+   "name": "In-Villa Dining",
+   "cuisine": null,
+   "type": "restaurant"
+  },
+  {
+   "name": "1 Arrival Pavilion and Bar",
+   "cuisine": null,
+   "type": "bar"
+  },
+  {
+   "name": "Dining",
+   "cuisine": null,
+   "type": "restaurant"
+  },
+  {
+   "name": "In-Villa Dining & Meal Experiences",
+   "cuisine": null,
+   "type": "restaurant"
+  },
+  {
+   "name": "Private Dining",
+   "cuisine": null,
+   "type": "restaurant"
+  }
+ ],
+ "meal_plans": [],
+ "all_inclusive_details": null,
+ "spa": {
+  "name": "Spa",
+  "treatment_rooms": null,
+  "signature_treatments": [],
+  "menu_doc": null
+ },
+ "diving_watersports": {
+  "operator": null,
+  "house_reef": null,
+  "activities": [
+   "snorkeling",
+   "snorkelling",
+   "paddleboard",
+   "jet ski",
+   "fishing"
+  ],
+  "price_list_doc": null
+ },
+ "excursions": [
+  "castaway",
+  "local island",
+  "cinema",
+  "cooking class"
+ ],
+ "kids_family": {
+  "kids_club": "Kids Club",
+  "age_range": null,
+  "teens": "teens programme mentioned"
+ },
+ "wellness_fitness": [
+  "gym",
+  "sauna",
+  "steam",
+  "yoga",
+  "hammam"
+ ],
+ "weddings": {
+  "offered": true,
+  "vow_renewal": null,
+  "venues": [],
+  "packages": [],
+  "brochure_doc": null
+ },
+ "events_mice": {
+  "venues": [],
+  "capacity_max": null,
+  "buyout": null,
+  "doc": null
+ },
+ "sustainability": [
+  "solar",
+  "Green Globe"
+ ],
+ "contacts_public": {
+  "reservations_email": "info@neoscapesmaldives.com",
+  "weddings_email": null,
+  "phone": "+960 736 5425"
+ },
+ "documents_latest": {
+  "factsheet": "https://www.neoscapesmaldives.com/wp-content/uploads/SO-Maldives-Factsheet_Eng.pdf",
+  "map": "https://www.neoscapesmaldives.com/wp-content/uploads/SO_Maldives_Resort_Map_-March-11-2024-Updated-1.pdf",
+  "wedding": null,
+  "spa_menu": null,
+  "dining_menu": null,
+  "dive_prices": null,
+  "events": null,
+  "calendar": null
+ },
+ "documents_count": 2,
+ "gaps": [
+  "wedding brochure",
+  "events/MICE document",
+  "fact: villas.total",
+  "fact: dive operator"
+ ],
+ "sources": {
+  "star_rating": [
+   {
+    "value": "5-star",
+    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/SO-Maldives-Factsheet_Eng.pdf",
+    "as_of": 2025
+   }
+  ],
+  "transfer.modes": [
+   {
+    "value": "speedboat",
+    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/SO-Maldives-Factsheet_Eng.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.neoscapesmaldives.com/resort/so-maldives/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "transfer.minutes.speedboat": [
+   {
+    "value": 15,
+    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/SO-Maldives-Factsheet_Eng.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": 15,
+    "source_url": "https://www.neoscapesmaldives.com/resort/so-maldives/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "dining": [
+   {
+    "value": {
+     "name": "Pavilion Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/SO-Maldives-Factsheet_Eng.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": {
+     "name": "In-Villa Dining",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/SO-Maldives-Factsheet_Eng.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": {
+     "name": "1 Arrival Pavilion and Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/SO_Maldives_Resort_Map_-March-11-2024-Updated-1.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": {
+     "name": "Dining",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.neoscapesmaldives.com/resort/so-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Dining",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.neoscapesmaldives.com/resort/so-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Pavilion Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.neoscapesmaldives.com/resort/so-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "In-Villa Dining & Meal Experiences",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.neoscapesmaldives.com/resort/so-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Private Dining",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.neoscapesmaldives.com/resort/so-maldives/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "diving_watersports.activities": [
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/SO-Maldives-Factsheet_Eng.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.neoscapesmaldives.com/resort/so-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "paddleboard",
+    "source_url": "https://www.neoscapesmaldives.com/resort/so-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "jet ski",
+    "source_url": "https://www.neoscapesmaldives.com/resort/so-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.neoscapesmaldives.com/resort/so-maldives/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "excursions": [
+   {
+    "value": "castaway",
+    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/SO-Maldives-Factsheet_Eng.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "local island",
+    "source_url": "https://www.neoscapesmaldives.com/resort/so-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "cinema",
+    "source_url": "https://www.neoscapesmaldives.com/resort/so-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "cooking class",
+    "source_url": "https://www.neoscapesmaldives.com/resort/so-maldives/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "kids_family.kids_club": [
+   {
+    "value": "Kids Club",
+    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/SO-Maldives-Factsheet_Eng.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "Kids Club",
+    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/SO_Maldives_Resort_Map_-March-11-2024-Updated-1.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "Kids Club",
+    "source_url": "https://www.neoscapesmaldives.com/resort/so-maldives/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "kids_family.teens": [
+   {
+    "value": "teens programme mentioned",
+    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/SO-Maldives-Factsheet_Eng.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "teens programme mentioned",
+    "source_url": "https://www.neoscapesmaldives.com/resort/so-maldives/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "wellness_fitness": [
+   {
+    "value": "gym",
+    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/SO-Maldives-Factsheet_Eng.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "sauna",
+    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/SO-Maldives-Factsheet_Eng.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "steam",
+    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/SO-Maldives-Factsheet_Eng.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "gym",
+    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/SO_Maldives_Resort_Map_-March-11-2024-Updated-1.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.neoscapesmaldives.com/resort/so-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "gym",
+    "source_url": "https://www.neoscapesmaldives.com/resort/so-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "hammam",
+    "source_url": "https://www.neoscapesmaldives.com/resort/so-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sauna",
+    "source_url": "https://www.neoscapesmaldives.com/resort/so-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "steam",
+    "source_url": "https://www.neoscapesmaldives.com/resort/so-maldives/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "sustainability": [
+   {
+    "value": "solar",
+    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/SO-Maldives-Factsheet_Eng.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "Green Globe",
+    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/SO-Maldives-Factsheet_Eng.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "solar",
+    "source_url": "https://www.neoscapesmaldives.com/resort/so-maldives/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "contacts_public.reservations_email": [
+   {
+    "value": "so.maldives.reservations@so-hotels.com",
+    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/SO-Maldives-Factsheet_Eng.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "info@neoscapesmaldives.com",
+    "source_url": "https://www.neoscapesmaldives.com/resort/so-maldives/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "villas.categories": [
+   {
+    "value": {
+     "name": "Arrival Pavilion and Bar",
+     "count": 1,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/SO_Maldives_Resort_Map_-March-11-2024-Updated-1.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": {
+     "name": "RUNWAY ONE Water Villa Collection",
+     "count": 127,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/SO_Maldives_Resort_Map_-March-11-2024-Updated-1.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": {
+     "name": "Resort Clinic RUNWAY THREE Water Villa Collection",
+     "count": 10,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/SO_Maldives_Resort_Map_-March-11-2024-Updated-1.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": {
+     "name": "Total Number of Villas",
+     "count": 80,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://www.neoscapesmaldives.com/resort/so-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "overwater villa aerial so maldives",
+     "count": 11,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": true
+    },
+    "source_url": "https://www.neoscapesmaldives.com/resort/so-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "family beach pool villa with capsule so maldives",
+     "count": 9,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": true,
+     "overwater": null
+    },
+    "source_url": "https://www.neoscapesmaldives.com/resort/so-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "family beach pool villa with capsule so maldives",
+     "count": 8,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": true,
+     "overwater": null
+    },
+    "source_url": "https://www.neoscapesmaldives.com/resort/so-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "family beach pool villa with capsule so maldives",
+     "count": 7,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": true,
+     "overwater": null
+    },
+    "source_url": "https://www.neoscapesmaldives.com/resort/so-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "family beach pool villa with capsule so maldives",
+     "count": 6,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": true,
+     "overwater": null
+    },
+    "source_url": "https://www.neoscapesmaldives.com/resort/so-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "family beach pool villa with capsule so maldives",
+     "count": 5,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": true,
+     "overwater": null
+    },
+    "source_url": "https://www.neoscapesmaldives.com/resort/so-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "family beach pool villa with capsule so maldives",
+     "count": 4,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": true,
+     "overwater": null
+    },
+    "source_url": "https://www.neoscapesmaldives.com/resort/so-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "family beach pool villa with capsule so maldives",
+     "count": 3,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": true,
+     "overwater": null
+    },
+    "source_url": "https://www.neoscapesmaldives.com/resort/so-maldives/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "spa.name": [
+   {
+    "value": "Spa",
+    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/SO_Maldives_Resort_Map_-March-11-2024-Updated-1.pdf",
+    "as_of": 2024
+   }
+  ],
+  "atoll": [
+   {
+    "value": "South Male Atoll",
+    "source_url": "https://www.neoscapesmaldives.com/resort/so-maldives/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "island_size": [
+   {
+    "value": "184 m x 576 m",
+    "source_url": "https://www.neoscapesmaldives.com/resort/so-maldives/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "weddings.offered": [
+   {
+    "value": true,
+    "source_url": "https://www.neoscapesmaldives.com/resort/so-maldives/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "contacts_public.phone": [
+   {
+    "value": "+960 736 5425",
+    "source_url": "https://www.neoscapesmaldives.com/resort/so-maldives/",
+    "as_of": "2026-10-04"
+   }
+  ]
+ },
+ "last_updated": "2026-10-04"
+}

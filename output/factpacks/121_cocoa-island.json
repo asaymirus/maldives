@@ -1,0 +1,634 @@
+{
+ "resort_id": 121,
+ "name": "Cocoa Island",
+ "current_name": null,
+ "aliases": [
+  "Cocoa Island",
+  "COMO Cocoa Island",
+  "Makunufushi"
+ ],
+ "official_url": null,
+ "official_site_status": null,
+ "operator_brand": "COMO",
+ "atoll": "South Malé Atoll",
+ "island": "Guraidhoo",
+ "opened_or_renovated": null,
+ "star_rating": null,
+ "transfer": {
+  "modes": [
+   "speedboat",
+   "seaplane"
+  ],
+  "minutes": {
+   "seaplane": 40,
+   "speedboat": 40,
+   "domestic flight": null,
+   "yacht": null
+  }
+ },
+ "island_size": null,
+ "villas": {
+  "total": null,
+  "categories": [
+   {
+    "name": "Villas",
+    "count": 33,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "h loft villa terrace",
+    "count": 3,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "h loft villa bedroom",
+    "count": 2,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   }
+  ]
+ },
+ "dining": [
+  {
+   "name": "Private Bar",
+   "cuisine": null,
+   "type": "bar"
+  },
+  {
+   "name": "Ufaa Restaurant",
+   "cuisine": null,
+   "type": "restaurant"
+  },
+  {
+   "name": "Ufaa In-room Dining",
+   "cuisine": null,
+   "type": "restaurant"
+  },
+  {
+   "name": "Faru Bar restaurant and from room service.",
+   "cuisine": null,
+   "type": "bar"
+  },
+  {
+   "name": "Faru Bar",
+   "cuisine": null,
+   "type": "bar"
+  },
+  {
+   "name": "Dining",
+   "cuisine": null,
+   "type": "restaurant"
+  },
+  {
+   "name": "Private Dining",
+   "cuisine": null,
+   "type": "restaurant"
+  },
+  {
+   "name": "In-room Dining",
+   "cuisine": null,
+   "type": "restaurant"
+  },
+  {
+   "name": "Dining Experiences",
+   "cuisine": null,
+   "type": "restaurant"
+  }
+ ],
+ "meal_plans": [],
+ "all_inclusive_details": null,
+ "spa": {
+  "name": "World Spa",
+  "treatment_rooms": null,
+  "signature_treatments": [],
+  "menu_doc": null
+ },
+ "diving_watersports": {
+  "operator": null,
+  "house_reef": "House Reef",
+  "activities": [
+   "snorkelling",
+   "windsurfing",
+   "kayaking",
+   "catamaran",
+   "parasailing",
+   "fishing",
+   "sunset cruise",
+   "sailing",
+   "snorkeling",
+   "scuba diving",
+   "surfing"
+  ],
+  "price_list_doc": null
+ },
+ "excursions": [
+  "local island",
+  "sandbank",
+  "dolphin",
+  "sunset fishing",
+  "big game fishing",
+  "turtle",
+  "picnic",
+  "private dinner"
+ ],
+ "kids_family": {
+  "kids_club": "Great House Reef\nKids Club",
+  "age_range": null,
+  "teens": null
+ },
+ "wellness_fitness": [
+  "yoga",
+  "meditation",
+  "fitness centre",
+  "gym",
+  "steam"
+ ],
+ "weddings": {
+  "offered": true,
+  "vow_renewal": null,
+  "venues": [],
+  "packages": [],
+  "brochure_doc": null
+ },
+ "events_mice": {
+  "venues": [],
+  "capacity_max": null,
+  "buyout": null,
+  "doc": null
+ },
+ "sustainability": [
+  "marine biologist"
+ ],
+ "contacts_public": {
+  "reservations_email": "info@neoscapesmaldives.com",
+  "weddings_email": null,
+  "phone": "+960 736 5425"
+ },
+ "documents_latest": {
+  "factsheet": "https://neoscapesmaldives.com/wp-content/uploads/COMO-Cocoa-Island-Fact-Sheet-2019.pdf",
+  "map": "https://neoscapesmaldives.com/wp-content/uploads/COMO-Cocoa-Island-Maldives-Resort-Map.pdf",
+  "wedding": null,
+  "spa_menu": null,
+  "dining_menu": null,
+  "dive_prices": null,
+  "events": null,
+  "calendar": null
+ },
+ "documents_count": 2,
+ "gaps": [
+  "wedding brochure",
+  "events/MICE document",
+  "fact: villas.total",
+  "fact: dive operator"
+ ],
+ "sources": {
+  "transfer.modes": [
+   {
+    "value": "speedboat",
+    "source_url": "https://neoscapesmaldives.com/wp-content/uploads/COMO-Cocoa-Island-Fact-Sheet-2019.pdf",
+    "as_of": 2019
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.neoscapesmaldives.com/resort/como-cocoa-island/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.neoscapesmaldives.com/resort/como-cocoa-island/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "transfer.minutes.speedboat": [
+   {
+    "value": 40,
+    "source_url": "https://neoscapesmaldives.com/wp-content/uploads/COMO-Cocoa-Island-Fact-Sheet-2019.pdf",
+    "as_of": 2019
+   },
+   {
+    "value": 40,
+    "source_url": "https://www.neoscapesmaldives.com/resort/como-cocoa-island/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "dining": [
+   {
+    "value": {
+     "name": "Private Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://neoscapesmaldives.com/wp-content/uploads/COMO-Cocoa-Island-Fact-Sheet-2019.pdf",
+    "as_of": 2019
+   },
+   {
+    "value": {
+     "name": "Ufaa Restaurant",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://neoscapesmaldives.com/wp-content/uploads/COMO-Cocoa-Island-Fact-Sheet-2019.pdf",
+    "as_of": 2019
+   },
+   {
+    "value": {
+     "name": "Ufaa In-room Dining",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://neoscapesmaldives.com/wp-content/uploads/COMO-Cocoa-Island-Fact-Sheet-2019.pdf",
+    "as_of": 2019
+   },
+   {
+    "value": {
+     "name": "Faru Bar restaurant and from room service.",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://neoscapesmaldives.com/wp-content/uploads/COMO-Cocoa-Island-Fact-Sheet-2019.pdf",
+    "as_of": 2019
+   },
+   {
+    "value": {
+     "name": "Faru Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://neoscapesmaldives.com/wp-content/uploads/COMO-Cocoa-Island-Fact-Sheet-2019.pdf",
+    "as_of": 2019
+   },
+   {
+    "value": {
+     "name": "Dining",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.neoscapesmaldives.com/resort/como-cocoa-island/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Dining",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.neoscapesmaldives.com/resort/como-cocoa-island/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Private Dining",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.neoscapesmaldives.com/resort/como-cocoa-island/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Faru Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.neoscapesmaldives.com/resort/como-cocoa-island/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "In-room Dining",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.neoscapesmaldives.com/resort/como-cocoa-island/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Dining Experiences",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.neoscapesmaldives.com/resort/como-cocoa-island/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "spa.name": [
+   {
+    "value": "World Spa",
+    "source_url": "https://neoscapesmaldives.com/wp-content/uploads/COMO-Cocoa-Island-Fact-Sheet-2019.pdf",
+    "as_of": 2019
+   }
+  ],
+  "diving_watersports.house_reef": [
+   {
+    "value": "house reefs",
+    "source_url": "https://neoscapesmaldives.com/wp-content/uploads/COMO-Cocoa-Island-Fact-Sheet-2019.pdf",
+    "as_of": 2019
+   },
+   {
+    "value": "House Reef",
+    "source_url": "https://www.neoscapesmaldives.com/resort/como-cocoa-island/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "diving_watersports.activities": [
+   {
+    "value": "snorkelling",
+    "source_url": "https://neoscapesmaldives.com/wp-content/uploads/COMO-Cocoa-Island-Fact-Sheet-2019.pdf",
+    "as_of": 2019
+   },
+   {
+    "value": "windsurfing",
+    "source_url": "https://neoscapesmaldives.com/wp-content/uploads/COMO-Cocoa-Island-Fact-Sheet-2019.pdf",
+    "as_of": 2019
+   },
+   {
+    "value": "kayaking",
+    "source_url": "https://neoscapesmaldives.com/wp-content/uploads/COMO-Cocoa-Island-Fact-Sheet-2019.pdf",
+    "as_of": 2019
+   },
+   {
+    "value": "catamaran",
+    "source_url": "https://neoscapesmaldives.com/wp-content/uploads/COMO-Cocoa-Island-Fact-Sheet-2019.pdf",
+    "as_of": 2019
+   },
+   {
+    "value": "parasailing",
+    "source_url": "https://neoscapesmaldives.com/wp-content/uploads/COMO-Cocoa-Island-Fact-Sheet-2019.pdf",
+    "as_of": 2019
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://neoscapesmaldives.com/wp-content/uploads/COMO-Cocoa-Island-Fact-Sheet-2019.pdf",
+    "as_of": 2019
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://neoscapesmaldives.com/wp-content/uploads/COMO-Cocoa-Island-Fact-Sheet-2019.pdf",
+    "as_of": 2019
+   },
+   {
+    "value": "sailing",
+    "source_url": "https://neoscapesmaldives.com/wp-content/uploads/COMO-Cocoa-Island-Fact-Sheet-2019.pdf",
+    "as_of": 2019
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.neoscapesmaldives.com/resort/como-cocoa-island/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.neoscapesmaldives.com/resort/como-cocoa-island/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://www.neoscapesmaldives.com/resort/como-cocoa-island/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "windsurfing",
+    "source_url": "https://www.neoscapesmaldives.com/resort/como-cocoa-island/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "surfing",
+    "source_url": "https://www.neoscapesmaldives.com/resort/como-cocoa-island/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "catamaran",
+    "source_url": "https://www.neoscapesmaldives.com/resort/como-cocoa-island/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.neoscapesmaldives.com/resort/como-cocoa-island/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.neoscapesmaldives.com/resort/como-cocoa-island/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sailing",
+    "source_url": "https://www.neoscapesmaldives.com/resort/como-cocoa-island/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "excursions": [
+   {
+    "value": "local island",
+    "source_url": "https://neoscapesmaldives.com/wp-content/uploads/COMO-Cocoa-Island-Fact-Sheet-2019.pdf",
+    "as_of": 2019
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://neoscapesmaldives.com/wp-content/uploads/COMO-Cocoa-Island-Fact-Sheet-2019.pdf",
+    "as_of": 2019
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://neoscapesmaldives.com/wp-content/uploads/COMO-Cocoa-Island-Fact-Sheet-2019.pdf",
+    "as_of": 2019
+   },
+   {
+    "value": "sunset fishing",
+    "source_url": "https://neoscapesmaldives.com/wp-content/uploads/COMO-Cocoa-Island-Fact-Sheet-2019.pdf",
+    "as_of": 2019
+   },
+   {
+    "value": "big game fishing",
+    "source_url": "https://neoscapesmaldives.com/wp-content/uploads/COMO-Cocoa-Island-Fact-Sheet-2019.pdf",
+    "as_of": 2019
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://neoscapesmaldives.com/wp-content/uploads/COMO-Cocoa-Island-Fact-Sheet-2019.pdf",
+    "as_of": 2019
+   },
+   {
+    "value": "picnic",
+    "source_url": "https://neoscapesmaldives.com/wp-content/uploads/COMO-Cocoa-Island-Fact-Sheet-2019.pdf",
+    "as_of": 2019
+   },
+   {
+    "value": "local island",
+    "source_url": "https://www.neoscapesmaldives.com/resort/como-cocoa-island/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.neoscapesmaldives.com/resort/como-cocoa-island/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.neoscapesmaldives.com/resort/como-cocoa-island/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset fishing",
+    "source_url": "https://www.neoscapesmaldives.com/resort/como-cocoa-island/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.neoscapesmaldives.com/resort/como-cocoa-island/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "private dinner",
+    "source_url": "https://www.neoscapesmaldives.com/resort/como-cocoa-island/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "wellness_fitness": [
+   {
+    "value": "yoga",
+    "source_url": "https://neoscapesmaldives.com/wp-content/uploads/COMO-Cocoa-Island-Fact-Sheet-2019.pdf",
+    "as_of": 2019
+   },
+   {
+    "value": "meditation",
+    "source_url": "https://neoscapesmaldives.com/wp-content/uploads/COMO-Cocoa-Island-Fact-Sheet-2019.pdf",
+    "as_of": 2019
+   },
+   {
+    "value": "fitness centre",
+    "source_url": "https://neoscapesmaldives.com/wp-content/uploads/COMO-Cocoa-Island-Fact-Sheet-2019.pdf",
+    "as_of": 2019
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://neoscapesmaldives.com/wp-content/uploads/COMO-Cocoa-Island-Maldives-Resort-Map.pdf",
+    "as_of": 2018
+   },
+   {
+    "value": "gym",
+    "source_url": "https://neoscapesmaldives.com/wp-content/uploads/COMO-Cocoa-Island-Maldives-Resort-Map.pdf",
+    "as_of": 2018
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.neoscapesmaldives.com/resort/como-cocoa-island/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "steam",
+    "source_url": "https://www.neoscapesmaldives.com/resort/como-cocoa-island/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "weddings.offered": [
+   {
+    "value": true,
+    "source_url": "https://neoscapesmaldives.com/wp-content/uploads/COMO-Cocoa-Island-Fact-Sheet-2019.pdf",
+    "as_of": 2019
+   },
+   {
+    "value": true,
+    "source_url": "https://www.neoscapesmaldives.com/resort/como-cocoa-island/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "atoll": [
+   {
+    "value": "South Malé Atoll",
+    "source_url": "https://www.neoscapesmaldives.com/resort/como-cocoa-island/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "island": [
+   {
+    "value": "Guraidhoo",
+    "source_url": "https://www.neoscapesmaldives.com/resort/como-cocoa-island/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "transfer.minutes.seaplane": [
+   {
+    "value": 40,
+    "source_url": "https://www.neoscapesmaldives.com/resort/como-cocoa-island/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "villas.categories": [
+   {
+    "value": {
+     "name": "Villas",
+     "count": 33,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://www.neoscapesmaldives.com/resort/como-cocoa-island/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "h loft villa terrace",
+     "count": 3,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://www.neoscapesmaldives.com/resort/como-cocoa-island/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "h loft villa bedroom",
+     "count": 2,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://www.neoscapesmaldives.com/resort/como-cocoa-island/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "kids_family.kids_club": [
+   {
+    "value": "Great House Reef\nKids Club",
+    "source_url": "https://www.neoscapesmaldives.com/resort/como-cocoa-island/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "sustainability": [
+   {
+    "value": "marine biologist",
+    "source_url": "https://www.neoscapesmaldives.com/resort/como-cocoa-island/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "contacts_public.reservations_email": [
+   {
+    "value": "info@neoscapesmaldives.com",
+    "source_url": "https://www.neoscapesmaldives.com/resort/como-cocoa-island/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "contacts_public.phone": [
+   {
+    "value": "+960 736 5425",
+    "source_url": "https://www.neoscapesmaldives.com/resort/como-cocoa-island/",
+    "as_of": "2026-10-04"
+   }
+  ]
+ },
+ "last_updated": "2026-10-04"
+}

@@ -114,6 +114,11 @@ def dam_followup():
 
 
 def commit(msg):
+    try:
+        import build_outputs
+        build_outputs.build_all()
+    except Exception:
+        log.exception("build_outputs failed")
     subprocess.run(["git", "add", "-A"], cwd=lib.ROOT)
     subprocess.run(["git", "commit", "-q", "-m", msg + "\n\nCo-Authored-By: Claude Fable 5.1 <noreply@anthropic.com>\nClaude-Session: https://claude.ai/code/session_01HuKfdgdkSVamDCtYV6eLkT"], cwd=lib.ROOT)
     subprocess.run(["git", "push", "-q", "-u", "origin", "claude/gallant-johnson-ktui6q"], cwd=lib.ROOT)

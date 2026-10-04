@@ -335,6 +335,13 @@ def download_pdf(url):
     if len(buf) < 5 or bytes(buf[:5]) != b"%PDF-":
         meta["error"] = "not-pdf"
         return None, meta
+    cl = r.headers.get("Content-Length")
+    if cl and cl.isdigit() and int(cl) != len(buf):
+        meta["error"] = "truncated"
+        return None, meta
+    if b"%%EOF" not in bytes(buf[-2048:]) and b"startxref" not in bytes(buf[-4096:]):
+        meta["error"] = "truncated"
+        return None, meta
     return bytes(buf), meta
 
 

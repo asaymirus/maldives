@@ -1,0 +1,601 @@
+{
+ "resort_id": 112,
+ "name": "Nika Island Resort and Spa",
+ "current_name": null,
+ "aliases": [
+  "Nika Island",
+  "Nika Maldives",
+  "Kudafolhudhoo"
+ ],
+ "official_url": null,
+ "official_site_status": null,
+ "operator_brand": null,
+ "atoll": "Ari Atoll",
+ "island": null,
+ "opened_or_renovated": null,
+ "star_rating": null,
+ "transfer": {
+  "modes": [
+   "seaplane"
+  ],
+  "minutes": {
+   "seaplane": 25,
+   "speedboat": null,
+   "domestic flight": null,
+   "yacht": null
+  }
+ },
+ "island_size": null,
+ "villas": {
+  "total": 43,
+  "categories": [
+   {
+    "name": "Number of Villas",
+    "count": 46,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "nika waterbungalows nika island resort",
+    "count": 5,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "nika water villa nika island resort",
+    "count": 64,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "beach villa nika island resort",
+    "count": 120,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "beach villas nika island resort",
+    "count": 2,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   }
+  ]
+ },
+ "dining": [
+  {
+   "name": "Dinners - Bepi Bar",
+   "cuisine": null,
+   "type": "bar"
+  },
+  {
+   "name": "Dining",
+   "cuisine": null,
+   "type": "restaurant"
+  },
+  {
+   "name": "Nika Restaurant",
+   "cuisine": null,
+   "type": "restaurant"
+  },
+  {
+   "name": "Bepi Bar",
+   "cuisine": null,
+   "type": "bar"
+  },
+  {
+   "name": "Dining Experience",
+   "cuisine": null,
+   "type": "restaurant"
+  }
+ ],
+ "meal_plans": [
+  "HB",
+  "FB",
+  "AI"
+ ],
+ "all_inclusive_details": "all-inclusive packages, with a buffet menu alternating with the à la carte menu.",
+ "spa": {
+  "name": "Spa",
+  "treatment_rooms": null,
+  "signature_treatments": [],
+  "menu_doc": null
+ },
+ "diving_watersports": {
+  "operator": "Dive Centre",
+  "house_reef": null,
+  "activities": [
+   "snorkeling",
+   "catamaran",
+   "fishing",
+   "scuba diving",
+   "whale shark",
+   "manta"
+  ],
+  "price_list_doc": null
+ },
+ "excursions": [
+  "local island",
+  "sandbank",
+  "dolphin",
+  "big game fishing",
+  "whale shark",
+  "manta",
+  "turtle",
+  "private dinner"
+ ],
+ "kids_family": {
+  "kids_club": "Kids Club",
+  "age_range": null,
+  "teens": null
+ },
+ "wellness_fitness": [
+  "gym",
+  "tennis",
+  "sauna",
+  "meditation",
+  "fitness center",
+  "ayurveda"
+ ],
+ "weddings": {
+  "offered": true,
+  "vow_renewal": null,
+  "venues": [],
+  "packages": [],
+  "brochure_doc": null
+ },
+ "events_mice": {
+  "venues": [],
+  "capacity_max": null,
+  "buyout": null,
+  "doc": null
+ },
+ "sustainability": [
+  "solar"
+ ],
+ "contacts_public": {
+  "reservations_email": "info@neoscapesmaldives.com",
+  "weddings_email": null,
+  "phone": "+960 736 5425"
+ },
+ "documents_latest": {
+  "factsheet": "https://www.neoscapesmaldives.com/wp-content/uploads/NIKA-FACT-SHEET-Nika-Island-Resort.pdf",
+  "map": "https://www.neoscapesmaldives.com/wp-content/uploads/NIKA-MAP-Nika-Island-Resort.pdf",
+  "wedding": null,
+  "spa_menu": null,
+  "dining_menu": null,
+  "dive_prices": null,
+  "events": null,
+  "calendar": null
+ },
+ "documents_count": 2,
+ "gaps": [
+  "wedding brochure",
+  "events/MICE document"
+ ],
+ "sources": {
+  "atoll": [
+   {
+    "value": "Ari Atoll",
+    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/NIKA-FACT-SHEET-Nika-Island-Resort.pdf",
+    "as_of": 2020
+   },
+   {
+    "value": "Ari Atoll",
+    "source_url": "https://www.neoscapesmaldives.com/resort/nika-island-resort/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "transfer.modes": [
+   {
+    "value": "seaplane",
+    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/NIKA-FACT-SHEET-Nika-Island-Resort.pdf",
+    "as_of": 2020
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.neoscapesmaldives.com/resort/nika-island-resort/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "villas.total": [
+   {
+    "value": 43,
+    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/NIKA-FACT-SHEET-Nika-Island-Resort.pdf",
+    "as_of": 2020
+   }
+  ],
+  "dining": [
+   {
+    "value": {
+     "name": "Dinners - Bepi Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/NIKA-FACT-SHEET-Nika-Island-Resort.pdf",
+    "as_of": 2020
+   },
+   {
+    "value": {
+     "name": "Dining",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.neoscapesmaldives.com/resort/nika-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Dining",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.neoscapesmaldives.com/resort/nika-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Nika Restaurant",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.neoscapesmaldives.com/resort/nika-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Bepi Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.neoscapesmaldives.com/resort/nika-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Dining Experience",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.neoscapesmaldives.com/resort/nika-island-resort/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "spa.name": [
+   {
+    "value": "Spa",
+    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/NIKA-FACT-SHEET-Nika-Island-Resort.pdf",
+    "as_of": 2020
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.neoscapesmaldives.com/resort/nika-island-resort/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "diving_watersports.activities": [
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/NIKA-FACT-SHEET-Nika-Island-Resort.pdf",
+    "as_of": 2020
+   },
+   {
+    "value": "catamaran",
+    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/NIKA-FACT-SHEET-Nika-Island-Resort.pdf",
+    "as_of": 2020
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/NIKA-FACT-SHEET-Nika-Island-Resort.pdf",
+    "as_of": 2020
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.neoscapesmaldives.com/resort/nika-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://www.neoscapesmaldives.com/resort/nika-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.neoscapesmaldives.com/resort/nika-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.neoscapesmaldives.com/resort/nika-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.neoscapesmaldives.com/resort/nika-island-resort/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "excursions": [
+   {
+    "value": "local island",
+    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/NIKA-FACT-SHEET-Nika-Island-Resort.pdf",
+    "as_of": 2020
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/NIKA-FACT-SHEET-Nika-Island-Resort.pdf",
+    "as_of": 2020
+   },
+   {
+    "value": "local island",
+    "source_url": "https://www.neoscapesmaldives.com/resort/nika-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.neoscapesmaldives.com/resort/nika-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.neoscapesmaldives.com/resort/nika-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "big game fishing",
+    "source_url": "https://www.neoscapesmaldives.com/resort/nika-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.neoscapesmaldives.com/resort/nika-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.neoscapesmaldives.com/resort/nika-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.neoscapesmaldives.com/resort/nika-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "private dinner",
+    "source_url": "https://www.neoscapesmaldives.com/resort/nika-island-resort/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "wellness_fitness": [
+   {
+    "value": "gym",
+    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/NIKA-FACT-SHEET-Nika-Island-Resort.pdf",
+    "as_of": 2020
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/NIKA-FACT-SHEET-Nika-Island-Resort.pdf",
+    "as_of": 2020
+   },
+   {
+    "value": "sauna",
+    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/NIKA-FACT-SHEET-Nika-Island-Resort.pdf",
+    "as_of": 2020
+   },
+   {
+    "value": "meditation",
+    "source_url": "https://www.neoscapesmaldives.com/resort/nika-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fitness center",
+    "source_url": "https://www.neoscapesmaldives.com/resort/nika-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "ayurveda",
+    "source_url": "https://www.neoscapesmaldives.com/resort/nika-island-resort/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "weddings.offered": [
+   {
+    "value": true,
+    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/NIKA-FACT-SHEET-Nika-Island-Resort.pdf",
+    "as_of": 2020
+   },
+   {
+    "value": true,
+    "source_url": "https://www.neoscapesmaldives.com/resort/nika-island-resort/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "transfer.minutes.seaplane": [
+   {
+    "value": 25,
+    "source_url": "https://www.neoscapesmaldives.com/resort/nika-island-resort/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "villas.categories": [
+   {
+    "value": {
+     "name": "Number of Villas",
+     "count": 46,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://www.neoscapesmaldives.com/resort/nika-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "nika waterbungalows nika island resort",
+     "count": 5,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://www.neoscapesmaldives.com/resort/nika-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "nika water villa nika island resort",
+     "count": 64,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://www.neoscapesmaldives.com/resort/nika-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "beach villa nika island resort",
+     "count": 120,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://www.neoscapesmaldives.com/resort/nika-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "beach villas nika island resort",
+     "count": 2,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://www.neoscapesmaldives.com/resort/nika-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "beach villas nika island resort",
+     "count": 1,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://www.neoscapesmaldives.com/resort/nika-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "beach villas nika island resort",
+     "count": 9,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://www.neoscapesmaldives.com/resort/nika-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "beach villas nika island resort",
+     "count": 6,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://www.neoscapesmaldives.com/resort/nika-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "beach villas nika island resort",
+     "count": 3,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://www.neoscapesmaldives.com/resort/nika-island-resort/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "meal_plans": [
+   {
+    "value": "HB",
+    "source_url": "https://www.neoscapesmaldives.com/resort/nika-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "FB",
+    "source_url": "https://www.neoscapesmaldives.com/resort/nika-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://www.neoscapesmaldives.com/resort/nika-island-resort/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "all_inclusive_details": [
+   {
+    "value": "all-inclusive packages, with a buffet menu alternating with the à la carte menu.",
+    "source_url": "https://www.neoscapesmaldives.com/resort/nika-island-resort/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "diving_watersports.operator": [
+   {
+    "value": "Dive Centre",
+    "source_url": "https://www.neoscapesmaldives.com/resort/nika-island-resort/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "kids_family.kids_club": [
+   {
+    "value": "Kids Club",
+    "source_url": "https://www.neoscapesmaldives.com/resort/nika-island-resort/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "sustainability": [
+   {
+    "value": "solar",
+    "source_url": "https://www.neoscapesmaldives.com/resort/nika-island-resort/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "contacts_public.reservations_email": [
+   {
+    "value": "info@neoscapesmaldives.com",
+    "source_url": "https://www.neoscapesmaldives.com/resort/nika-island-resort/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "contacts_public.phone": [
+   {
+    "value": "+960 736 5425",
+    "source_url": "https://www.neoscapesmaldives.com/resort/nika-island-resort/",
+    "as_of": "2026-10-04"
+   }
+  ]
+ },
+ "last_updated": "2026-10-04"
+}

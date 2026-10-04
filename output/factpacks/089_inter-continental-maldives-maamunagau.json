@@ -1,0 +1,406 @@
+{
+ "resort_id": 89,
+ "name": "Inter Continental Maldives Maamunagau",
+ "current_name": null,
+ "aliases": [
+  "InterContinental Maldives",
+  "Maamunagau",
+  "Inter Continental Maamunagau"
+ ],
+ "official_url": null,
+ "official_site_status": null,
+ "operator_brand": "InterContinental",
+ "atoll": null,
+ "island": null,
+ "opened_or_renovated": null,
+ "star_rating": null,
+ "transfer": {
+  "modes": [],
+  "minutes": {
+   "seaplane": null,
+   "speedboat": null,
+   "domestic flight": null,
+   "yacht": null
+  }
+ },
+ "island_size": null,
+ "villas": {
+  "total": null,
+  "categories": [
+   {
+    "name": "Beach Pool Villa",
+    "count": 110,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": true,
+    "overwater": null
+   },
+   {
+    "name": "Family Beach Pool Villa",
+    "count": 130,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": true,
+    "overwater": null
+   },
+   {
+    "name": "BEACH One Bedroom Beach Pool Villa",
+    "count": 170,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": true,
+    "overwater": null
+   },
+   {
+    "name": "Two Bedroom Family Beach Pool Villa",
+    "count": 190,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": true,
+    "overwater": null
+   },
+   {
+    "name": "Two Bedroom Beachfront Pool Residence",
+    "count": 460,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": true,
+    "overwater": null
+   },
+   {
+    "name": "Three Bedroom Royal Beachfront Pool Residence",
+    "count": 790,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": true,
+    "overwater": null
+   },
+   {
+    "name": "Sunrise One Bedroom Lagoon Pool Villa",
+    "count": 125,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": true,
+    "overwater": true
+   },
+   {
+    "name": "LAGOON Sunset One Bedroom Lagoon Pool Villa",
+    "count": 125,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": true,
+    "overwater": true
+   },
+   {
+    "name": "Two Bedroom Family Lagoon Pool Villa",
+    "count": 150,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": true,
+    "overwater": true
+   },
+   {
+    "name": "Three Bedroom Lagoon Residence",
+    "count": 500,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": true
+   },
+   {
+    "name": "Sunrise Overwater Pool Villa",
+    "count": 100,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": true,
+    "overwater": true
+   },
+   {
+    "name": "Sunset Overwater Pool Villa",
+    "count": 100,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": true,
+    "overwater": true
+   },
+   {
+    "name": "OVERWATER Two Bedroom Overwater Pool Villa",
+    "count": 300,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": true,
+    "overwater": true
+   },
+   {
+    "name": "Three Bedroom Overwater Residence",
+    "count": 440,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": true
+   }
+  ]
+ },
+ "dining": [],
+ "meal_plans": [],
+ "all_inclusive_details": null,
+ "spa": {
+  "name": null,
+  "treatment_rooms": null,
+  "signature_treatments": [],
+  "menu_doc": null
+ },
+ "diving_watersports": {
+  "operator": null,
+  "house_reef": null,
+  "activities": [],
+  "price_list_doc": null
+ },
+ "excursions": [],
+ "kids_family": {
+  "kids_club": null,
+  "age_range": null,
+  "teens": null
+ },
+ "wellness_fitness": [],
+ "weddings": {
+  "offered": null,
+  "vow_renewal": null,
+  "venues": [],
+  "packages": [],
+  "brochure_doc": null
+ },
+ "events_mice": {
+  "venues": [],
+  "capacity_max": null,
+  "buyout": null,
+  "doc": null
+ },
+ "sustainability": [],
+ "contacts_public": {
+  "reservations_email": null,
+  "weddings_email": null,
+  "phone": null
+ },
+ "documents_latest": {
+  "factsheet": "https://www.neoscapesmaldives.com/wp-content/uploads/InterContinental-Maldives-Maamunagau-Resort-Factsheet-NEO.pdf",
+  "map": null,
+  "wedding": null,
+  "spa_menu": null,
+  "dining_menu": null,
+  "dive_prices": null,
+  "events": null,
+  "calendar": null
+ },
+ "documents_count": 1,
+ "gaps": [
+  "wedding brochure",
+  "events/MICE document",
+  "fact: villas.total",
+  "fact: dining",
+  "fact: transfer",
+  "fact: atoll",
+  "fact: spa",
+  "fact: dive operator",
+  "fact: kids club",
+  "fact: weddings",
+  "fact: contacts"
+ ],
+ "sources": {
+  "villas.categories": [
+   {
+    "value": {
+     "name": "Beach Pool Villa",
+     "count": 110,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": true,
+     "overwater": null
+    },
+    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/InterContinental-Maldives-Maamunagau-Resort-Factsheet-NEO.pdf",
+    "as_of": 2020
+   },
+   {
+    "value": {
+     "name": "Family Beach Pool Villa",
+     "count": 130,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": true,
+     "overwater": null
+    },
+    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/InterContinental-Maldives-Maamunagau-Resort-Factsheet-NEO.pdf",
+    "as_of": 2020
+   },
+   {
+    "value": {
+     "name": "BEACH One Bedroom Beach Pool Villa",
+     "count": 170,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": true,
+     "overwater": null
+    },
+    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/InterContinental-Maldives-Maamunagau-Resort-Factsheet-NEO.pdf",
+    "as_of": 2020
+   },
+   {
+    "value": {
+     "name": "Two Bedroom Family Beach Pool Villa",
+     "count": 190,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": true,
+     "overwater": null
+    },
+    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/InterContinental-Maldives-Maamunagau-Resort-Factsheet-NEO.pdf",
+    "as_of": 2020
+   },
+   {
+    "value": {
+     "name": "Two Bedroom Beachfront Pool Residence",
+     "count": 460,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": true,
+     "overwater": null
+    },
+    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/InterContinental-Maldives-Maamunagau-Resort-Factsheet-NEO.pdf",
+    "as_of": 2020
+   },
+   {
+    "value": {
+     "name": "Three Bedroom Royal Beachfront Pool Residence",
+     "count": 790,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": true,
+     "overwater": null
+    },
+    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/InterContinental-Maldives-Maamunagau-Resort-Factsheet-NEO.pdf",
+    "as_of": 2020
+   },
+   {
+    "value": {
+     "name": "Sunrise One Bedroom Lagoon Pool Villa",
+     "count": 125,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": true,
+     "overwater": true
+    },
+    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/InterContinental-Maldives-Maamunagau-Resort-Factsheet-NEO.pdf",
+    "as_of": 2020
+   },
+   {
+    "value": {
+     "name": "LAGOON Sunset One Bedroom Lagoon Pool Villa",
+     "count": 125,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": true,
+     "overwater": true
+    },
+    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/InterContinental-Maldives-Maamunagau-Resort-Factsheet-NEO.pdf",
+    "as_of": 2020
+   },
+   {
+    "value": {
+     "name": "Two Bedroom Family Lagoon Pool Villa",
+     "count": 150,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": true,
+     "overwater": true
+    },
+    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/InterContinental-Maldives-Maamunagau-Resort-Factsheet-NEO.pdf",
+    "as_of": 2020
+   },
+   {
+    "value": {
+     "name": "Three Bedroom Lagoon Residence",
+     "count": 500,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": true
+    },
+    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/InterContinental-Maldives-Maamunagau-Resort-Factsheet-NEO.pdf",
+    "as_of": 2020
+   },
+   {
+    "value": {
+     "name": "Sunrise Overwater Pool Villa",
+     "count": 100,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": true,
+     "overwater": true
+    },
+    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/InterContinental-Maldives-Maamunagau-Resort-Factsheet-NEO.pdf",
+    "as_of": 2020
+   },
+   {
+    "value": {
+     "name": "Sunset Overwater Pool Villa",
+     "count": 100,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": true,
+     "overwater": true
+    },
+    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/InterContinental-Maldives-Maamunagau-Resort-Factsheet-NEO.pdf",
+    "as_of": 2020
+   },
+   {
+    "value": {
+     "name": "OVERWATER Two Bedroom Overwater Pool Villa",
+     "count": 300,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": true,
+     "overwater": true
+    },
+    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/InterContinental-Maldives-Maamunagau-Resort-Factsheet-NEO.pdf",
+    "as_of": 2020
+   },
+   {
+    "value": {
+     "name": "Three Bedroom Overwater Residence",
+     "count": 440,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": true
+    },
+    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/InterContinental-Maldives-Maamunagau-Resort-Factsheet-NEO.pdf",
+    "as_of": 2020
+   },
+   {
+    "value": {
+     "name": "Beach Pool Villa",
+     "count": 110,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": true,
+     "overwater": null
+    },
+    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/InterContinental-Maldives-Maamunagau-Resort-Factsheet-NEO.pdf",
+    "as_of": 2020
+   },
+   {
+    "value": {
+     "name": "Family Beach Pool Villa",
+     "count": 130,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": true,
+     "overwater": null
+    },
+    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/InterContinental-Maldives-Maamunagau-Resort-Factsheet-NEO.pdf",
+    "as_of": 2020
+   }
+  ]
+ },
+ "last_updated": "2026-10-04"
+}

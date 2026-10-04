@@ -42,3 +42,88 @@ Call log:
 
 == coverage: factsheet 111/182  wedding 10  events 4  map 108  nothing 50  docs 603
 
+2026-10-04 22:56:18,845 INFO === Phase B batch 21-40
+2026-10-04 22:56:19,684 INFO BLOCKED www.halcyonmaldives.com (403)
+2026-10-04 22:56:19,844 INFO BLOCKED www.melia.com (403)
+2026-10-04 22:56:25,619 INFO B official  23 Nooe Maldives Kunavashi                  unreachable pages=0 pdfs=0 js=False
+2026-10-04 22:56:33,432 INFO BLOCKED www.raffles.com (403)
+2026-10-04 22:57:22,977 INFO render fail https://www.raffles.com/maldives/ Page.goto: net::ERR_TOO_MANY_RETRIES at https://www.raffles.com/maldives/
+Call log:
+  - navigating to "https://www.raffl
+2026-10-04 22:57:23,109 INFO B official  25 Raffles Maldives Meradhoo Resort         blocked    pages=0 pdfs=0 js=False
+2026-10-04 22:57:23,588 INFO B official  24 Canareef Resort Maldives                 ok         pages=70 pdfs=5 js=False
+2026-10-04 22:57:28,618 INFO B official  27 Grand Park Kodhipparu Maldives           ok         pages=1 pdfs=0 js=False
+2026-10-04 22:57:31,990 INFO render fail https://www.barcelo.com/en-ww/barcelo-whale-lagoon-maldives/ Page.goto: net::ERR_TOO_MANY_RETRIES at https://www.barcelo.com/en-ww/barcelo-whale-lagoon-maldives/
+Call log:
+  - navig
+2026-10-04 22:57:32,107 INFO B official  22 Barceló Whale Lagoon Maldives            unverified pages=0 pdfs=0 js=False
+2026-10-04 22:58:28,986 INFO B official  21 Brennia Kottefaru                        ok         pages=33 pdfs=8 js=True
+2026-10-04 22:59:03,175 INFO B official  26 Centara Ras Fushi Resort & Spa           ok         pages=42 pdfs=5 js=False
+2026-10-04 22:59:25,064 INFO B official  28 Kudadoo Maldives Private island          ok         pages=1 pdfs=0 js=True
+2026-10-04 22:59:34,102 INFO B official  30 Hurawalhi Island Resort                  ok         pages=1 pdfs=0 js=True
+2026-10-04 22:59:43,009 INFO render fail https://www.innahura.com/ Page.goto: net::ERR_TOO_MANY_RETRIES at https://www.innahura.com/
+Call log:
+  - navigating to "https://www.innahura.com/
+2026-10-04 22:59:43,100 INFO B official  31 Innahura Maldives Resort                 unverified pages=0 pdfs=0 js=False
+2026-10-04 23:00:42,063 INFO B official  34 Adaaran Select Meedhupparu               ok         pages=53 pdfs=8 js=False
+2026-10-04 23:00:42,297 INFO B official  33 Dhigali Maldives                         ok         pages=70 pdfs=104 js=False
+2026-10-04 23:00:55,297 INFO B official  36 Coastline Residences                     unreachable pages=0 pdfs=0 js=False
+2026-10-04 23:00:57,192 INFO B official  37 The Ritz Carlton Maldives Fari Islands   unreachable pages=0 pdfs=0 js=False
+2026-10-04 23:00:57,579 INFO BLOCKED www.nh-collection.com (403)
+2026-10-04 23:01:04,169 INFO B official  35 Heritance Aarah                          ok         pages=70 pdfs=231 js=False
+2026-10-04 23:01:04,695 INFO BLOCKED www.marriott.com (403)
+2026-10-04 23:01:06,386 INFO BLOCKED www.nh-hotels.com (403)
+2026-10-04 23:01:42,650 INFO B official  40 Le Méridien Maldives Resort and Spa      blocked    pages=0 pdfs=0 js=False
+2026-10-04 23:01:53,172 INFO B official  39 NH Collection Maldives Havodda Resort    blocked    pages=0 pdfs=0 js=False
+2026-10-04 23:02:24,461 INFO B official  29 Dheruhfinolhu by Jawakara Islands Maldiv ok         pages=1 pdfs=0 js=True
+/home/user/maldives/crawl.py:310: XMLParsedAsHTMLWarning: It looks like you're using an HTML parser to parse an XML document.
+
+Assuming this really is an XML document, what you're doing might work, but you should know that using an XML parser will be more reliable. To parse this document as XML, make sure you have the Python package 'lxml' installed, and pass the keyword argument `features="xml"` into the BeautifulSoup constructor.
+
+If you want or need to use an HTML parser on this document, you can make this warning go away by filtering it. To do that, run this code before calling the BeautifulSoup constructor:
+
+    from bs4 import XMLParsedAsHTMLWarning
+    import warnings
+
+    warnings.filterwarnings("ignore", category=XMLParsedAsHTMLWarning)
+
+  if u.lower().endswith(".pdf"):
+2026-10-04 23:03:27,263 INFO B official  32 Cocoon Maldives                          ok         pages=50 pdfs=2 js=True
+2026-10-04 23:04:52,596 INFO B official  38 Veligandu Maldives Resort Island         ok         pages=70 pdfs=51 js=True
+2026-10-04 23:04:52,609 INFO queue: 414 candidates to process
+2026-10-04 23:05:03,641 INFO progress 25/414 {'stored': 23, 'duplicate': 1, 'rejected': 1}
+2026-10-04 23:05:23,005 INFO progress 50/414 {'stored': 43, 'duplicate': 6, 'rejected': 1}
+2026-10-04 23:05:45,034 INFO progress 75/414 {'stored': 64, 'duplicate': 10, 'rejected': 1}
+2026-10-04 23:05:45,040 ERROR candidate failed https://www.nivadhigali.com/wp-content/uploads/2026/05/Niva-Dhigali_Festive-2026_web.pdf
+Traceback (most recent call last):
+  File "/home/user/maldives/lib.py", line 624, in run_queue
+    stats = defaultdict(int)
+                      ^^^^^^^
+  File "/usr/lib/python3.11/concurrent/futures/_base.py", line 449, in result
+    return self.__get_result()
+           ^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.11/concurrent/futures/_base.py", line 401, in __get_result
+    raise self._exception
+  File "/usr/lib/python3.11/concurrent/futures/thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/user/maldives/lib.py", line 567, in process_candidate
+    rid = ids[0]
+FileNotFoundError: [Errno 2] No such file or directory: '/home/user/maldives/state/pdfcache/f2674b9b5c1bff3b07e79c584f645fd63a18acf96b0f07e8da3c605452f7dc5a.pdf' -> '/home/user/maldives/library/033_dhigali-maldives/calendar/2026_Niva-Dhigali_Festive-2026_web.pdf'
+2026-10-04 23:06:03,544 INFO progress 100/414 {'stored': 85, 'duplicate': 13, 'rejected': 1, 'error FileNotFoundError': 1}
+2026-10-04 23:06:18,431 INFO progress 125/414 {'stored': 107, 'duplicate': 16, 'rejected': 1, 'error FileNotFoundError': 1}
+2026-10-04 23:06:38,687 INFO progress 150/414 {'stored': 126, 'duplicate': 22, 'rejected': 1, 'error FileNotFoundError': 1}
+2026-10-04 23:06:58,369 INFO progress 175/414 {'stored': 150, 'duplicate': 23, 'rejected': 1, 'error FileNotFoundError': 1}
+2026-10-04 23:07:18,397 INFO progress 200/414 {'stored': 173, 'duplicate': 23, 'rejected': 1, 'error FileNotFoundError': 1, 'unmatched': 2}
+2026-10-04 23:07:38,476 INFO progress 225/414 {'stored': 198, 'duplicate': 23, 'rejected': 1, 'error FileNotFoundError': 1, 'unmatched': 2}
+2026-10-04 23:07:58,433 INFO progress 250/414 {'stored': 215, 'duplicate': 26, 'rejected': 2, 'error FileNotFoundError': 1, 'unmatched': 6}
+2026-10-04 23:08:18,452 INFO progress 275/414 {'stored': 238, 'duplicate': 26, 'rejected': 2, 'error FileNotFoundError': 1, 'unmatched': 8}
+2026-10-04 23:08:38,459 INFO progress 300/414 {'stored': 255, 'duplicate': 29, 'rejected': 2, 'error FileNotFoundError': 1, 'unmatched': 13}
+2026-10-04 23:08:57,533 INFO progress 325/414 {'stored': 275, 'duplicate': 30, 'rejected': 2, 'error FileNotFoundError': 1, 'unmatched': 17}
+2026-10-04 23:09:06,908 INFO progress 350/414 {'stored': 294, 'duplicate': 36, 'rejected': 2, 'error FileNotFoundError': 1, 'unmatched': 17}
+2026-10-04 23:09:19,828 INFO progress 375/414 {'stored': 314, 'duplicate': 38, 'rejected': 2, 'error FileNotFoundError': 1, 'unmatched': 17, 'failed': 3}
+2026-10-04 23:09:39,536 INFO progress 400/414 {'stored': 339, 'duplicate': 38, 'rejected': 2, 'error FileNotFoundError': 1, 'unmatched': 17, 'failed': 3}
+2026-10-04 23:09:56,715 INFO queue done: {'stored': 346, 'duplicate': 38, 'rejected': 2, 'error FileNotFoundError': 1, 'unmatched': 17, 'failed': 10}
+
+== coverage: factsheet 112/182  wedding 14  events 4  map 109  nothing 49  docs 949
+

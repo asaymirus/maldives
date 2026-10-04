@@ -26,7 +26,9 @@ _pw = {"p": None, "browser": None}
 
 def _launch(p):
     exe = "/opt/pw-browsers/chromium-1194/chrome-linux/chrome"
-    kw = {"args": ["--no-sandbox"]}
+    # the session proxy re-signs TLS with its own CA that Chromium cannot see; curl/requests verify against
+    # /root/.ccr/ca-bundle.crt. Chromium needs the flag at launch, otherwise fetch() calls fail with TOO_MANY_RETRIES.
+    kw = {"args": ["--no-sandbox", "--ignore-certificate-errors", "--disable-http2"]}
     if os.path.exists(exe):
         kw["executable_path"] = exe
     if os.environ.get("HTTPS_PROXY"):
