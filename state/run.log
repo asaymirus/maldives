@@ -376,3 +376,54 @@ requests.exceptions.HTTPError: 403 Client Error: Forbidden for url: https://api-
 2026-10-04 23:25:24,880 INFO B official  57 Fushifaru Maldives                       blocked-partial pages=34 pdfs=0 js=False
 2026-10-04 23:25:24,904 INFO queue: 311 candidates to process
 2026-10-04 23:25:39,564 INFO progress 25/311 {'stored': 23, 'duplicate': 1, 'failed': 1}
+2026-10-04 23:25:59,983 INFO progress 50/311 {'stored': 42, 'duplicate': 2, 'failed': 3, 'rejected': 3}
+2026-10-04 23:26:19,290 INFO C agency https://www.maldivesexperts.com/              ok           pages=61 pdfs=5
+2026-10-04 23:26:19,510 INFO progress 75/311 {'stored': 61, 'duplicate': 3, 'failed': 6, 'rejected': 3, 'unmatched': 2}
+2026-10-04 23:26:34,029 INFO C agency https://www.maldivesholidayoffers.com/        ok           pages=72 pdfs=1
+2026-10-04 23:26:39,488 INFO progress 100/311 {'stored': 72, 'duplicate': 3, 'failed': 7, 'rejected': 3, 'unmatched': 15}
+2026-10-04 23:26:42,869 INFO C agency https://www.mymaldives.com/                   ok           pages=150 pdfs=0
+2026-10-04 23:26:56,036 INFO C agency https://www.simplymaldives.co.uk/             ok           pages=150 pdfs=0
+2026-10-04 23:26:59,483 INFO progress 125/311 {'stored': 91, 'duplicate': 3, 'failed': 8, 'rejected': 3, 'unmatched': 20}
+2026-10-04 23:27:03,320 INFO C agency https://www.atollsmaldives.com/               unreachable  pages=0 pdfs=0
+2026-10-04 23:27:09,908 INFO C agency https://www.ocean-maldives.com/               unreachable  pages=0 pdfs=0
+2026-10-04 23:27:20,200 INFO progress 150/311 {'stored': 107, 'duplicate': 4, 'failed': 12, 'rejected': 3, 'unmatched': 24}
+2026-10-04 23:27:22,847 INFO BLOCKED www.maldivesresorts.com (403)
+2026-10-04 23:27:22,849 INFO C agency https://www.maldivesresorts.com/              blocked-partial pages=1 pdfs=0
+2026-10-04 23:27:22,975 INFO C agency https://www.maldivestraveller.mv/             ok           pages=150 pdfs=0
+2026-10-04 23:27:29,095 INFO C agency https://www.maldiveslovers.com/               ok           pages=1 pdfs=0
+2026-10-04 23:27:31,027 INFO progress 175/311 {'stored': 115, 'duplicate': 4, 'failed': 12, 'rejected': 3, 'unmatched': 41}
+2026-10-04 23:27:35,633 INFO BLOCKED www.allmaldives.com (403)
+2026-10-04 23:27:35,635 INFO C agency https://www.allmaldives.com/                  blocked-partial pages=1 pdfs=0
+2026-10-04 23:27:36,228 INFO C agency https://www.maldivesfinest.com/               unreachable  pages=0 pdfs=0
+2026-10-04 23:27:42,332 INFO C agency https://www.maldivesmagazine.com/             unreachable  pages=0 pdfs=0
+2026-10-04 23:27:45,485 INFO progress 200/311 {'stored': 126, 'duplicate': 9, 'failed': 12, 'rejected': 3, 'unmatched': 50}
+2026-10-04 23:27:48,651 INFO C agency https://www.islandhoppers.com.mv/             unreachable  pages=0 pdfs=0
+2026-10-04 23:27:56,196 INFO C agency https://www.triptomaldives.com/               unreachable  pages=0 pdfs=0
+2026-10-04 23:28:02,894 INFO progress 225/311 {'stored': 143, 'duplicate': 12, 'failed': 12, 'rejected': 3, 'unmatched': 55}
+2026-10-04 23:28:23,491 INFO progress 250/311 {'stored': 162, 'duplicate': 13, 'failed': 12, 'rejected': 3, 'unmatched': 60}
+2026-10-04 23:28:36,432 INFO C agency https://www.maldivestourism.net/              ok           pages=139 pdfs=1
+2026-10-04 23:28:42,744 INFO progress 275/311 {'stored': 179, 'duplicate': 15, 'failed': 12, 'rejected': 3, 'unmatched': 66}
+2026-10-04 23:28:54,068 INFO progress 300/311 {'stored': 187, 'duplicate': 15, 'failed': 14, 'rejected': 3, 'unmatched': 81}
+2026-10-04 23:28:56,926 INFO queue done: {'stored': 190, 'duplicate': 15, 'failed': 14, 'rejected': 4, 'unmatched': 88}
+2026-10-04 23:28:57,772 ERROR build_outputs failed
+Traceback (most recent call last):
+  File "/home/user/maldives/phase_b.py", line 119, in commit
+    build_outputs.build_all()
+  File "/home/user/maldives/build_outputs.py", line 252, in build_all
+    build_workbook(docs, rows)
+  File "/home/user/maldives/build_outputs.py", line 147, in build_workbook
+    wse.append([e["url"], e.get("title", ""), e.get("note", ""), e.get("snippet", "")[:200], e.get("date")])
+  File "/usr/local/lib/python3.11/dist-packages/openpyxl/worksheet/worksheet.py", line 673, in append
+    cell = Cell(self, row=row_idx, column=col_idx, value=content)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/dist-packages/openpyxl/cell/cell.py", line 119, in __init__
+    self.value = value
+    ^^^^^^^^^^
+  File "/usr/local/lib/python3.11/dist-packages/openpyxl/cell/cell.py", line 218, in value
+    self._bind_value(value)
+  File "/usr/local/lib/python3.11/dist-packages/openpyxl/cell/cell.py", line 197, in _bind_value
+    value = self.check_string(value)
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/dist-packages/openpyxl/cell/cell.py", line 165, in check_string
+    raise IllegalCharacterError(f"{value} cannot be used in worksheets.")
+openpyxl.utils.exceptions.IllegalCharacterError:  IN-ROOM DINING POUR COMMANDER, CONTACTEZ IN-ROOM DINING READY TO ORDER, JUST DIAL IN-ROOM DINING PICNIC POUR COMMANDER, CONTACTEZ IN-ROOM DINING   cannot be used in worksheets.

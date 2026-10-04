@@ -8,3 +8,4 @@
 | 2026-10-04 22:56 | B | official sites 1-20: {'stored': 77, 'unmatched': 7, 'duplicate': 13} | 603 |
 | 2026-10-04 23:02 | F | fact packs for 182 resorts | 603 |
 | 2026-10-04 23:09 | B | official sites 21-40: {'stored': 346, 'duplicate': 38, 'rejected': 2, 'error FileNotFoundError': 1, 'unmatched': 17, 'failed': 10} | 949 |
+| 2026-10-04 23:28 | B | official sites 41-60: {'stored': 190, 'duplicate': 15, 'failed': 14, 'rejected': 4, 'unmatched': 88} | 1391 |
