@@ -800,3 +800,46 @@ Traceback (most recent call last):
     raise IllegalCharacterError(f"{value} cannot be used in worksheets.")
 openpyxl.utils.exceptions.IllegalCharacterError:  IN-ROOM DINING POUR COMMANDER, CONTACTEZ IN-ROOM DINING READY TO ORDER, JUST DIAL IN-ROOM DINING PICNIC POUR COMMANDER, CONTACTEZ IN-ROOM DINING   cannot be used in worksheets.
 2026-10-05 00:14:04,548 INFO === Phase B batch 161-180
+2026-10-05 00:14:19,912 INFO C agency https://www.pac.ru/                           ok           pages=150 pdfs=2
+2026-10-05 00:14:25,060 INFO B official 161 Ellaidhoo Maldives By Cinnamon           ok         pages=1 pdfs=0 js=False
+2026-10-05 00:14:36,682 INFO B official 166 Kuramathi Maldives                       ok         pages=1 pdfs=0 js=True
+2026-10-05 00:14:45,437 INFO C agency https://www.maldives.ru/                      ok           pages=150 pdfs=44
+2026-10-05 00:15:17,178 INFO B official 163 Adaaran Prestige Vadoo                   ok         pages=38 pdfs=10 js=False
+2026-10-05 00:15:17,608 INFO B official 164 Baros Maldives                           ok         pages=70 pdfs=92 js=False
+2026-10-05 00:15:23,967 INFO C agency https://www.hankyu-travel.com/                ok           pages=150 pdfs=2
+2026-10-05 00:15:39,326 INFO B official 165 Velassaru Maldives                       ok         pages=70 pdfs=86 js=False
+2026-10-05 00:16:21,203 INFO B official 162 The Marina at Crossroads Maldives        ok         pages=70 pdfs=94 js=False
+2026-10-05 00:16:31,938 INFO B official 169 Banyan Tree Maldives Vabbinfaru          ok         pages=47 pdfs=4 js=False
+2026-10-05 00:16:35,869 INFO B official 167 Milaidhoo Island Maldives                ok         pages=70 pdfs=96 js=False
+2026-10-05 00:16:45,748 INFO B official 168 You & Me Maldives                        ok         pages=44 pdfs=2 js=True
+2026-10-05 00:16:50,462 INFO B official 172 Mirihi Island Resort                     ok         pages=1 pdfs=4 js=True
+2026-10-05 00:16:51,796 INFO B official 170 Cocogiri Island Resort                   ok         pages=44 pdfs=11 js=False
+2026-10-05 00:17:45,122 INFO B official 171 Velaa Private Island Maldives            ok         pages=70 pdfs=28 js=False
+2026-10-05 00:18:30,216 INFO B official 173 Kurumba Maldives                         ok         pages=70 pdfs=162 js=False
+2026-10-05 00:18:37,590 INFO B official 178 Diamonds Athuruga Beach & Water Villas   unreachable pages=0 pdfs=0 js=False
+2026-10-05 00:18:55,712 INFO B official 174 Vilamendhoo Island Resort                ok         pages=70 pdfs=105 js=False
+2026-10-05 00:18:56,279 INFO B official 180 Lux* South Ari Atoll, Maldives           unreachable pages=0 pdfs=0 js=False
+2026-10-05 00:19:40,909 INFO B official 179 Siyam World Maldives                     ok         pages=70 pdfs=4 js=False
+2026-10-05 00:20:08,027 INFO B official 175 Villa Nautica Paradise Island            ok         pages=70 pdfs=23 js=False
+2026-10-05 00:20:10,068 INFO B official 176 Villa Park Sun Island                    ok         pages=70 pdfs=1 js=False
+2026-10-05 00:20:26,660 INFO B official 177 Royal Island Resort and Spa              ok         pages=70 pdfs=0 js=False
+2026-10-05 00:20:26,714 INFO queue: 728 candidates to process
+2026-10-05 00:20:42,874 INFO progress 25/728 {'stored': 23, 'unmatched': 2}
+2026-10-05 00:21:02,178 INFO progress 50/728 {'stored': 45, 'unmatched': 2, 'duplicate': 1, 'rejected': 2}
+2026-10-05 00:21:22,550 INFO progress 75/728 {'stored': 68, 'unmatched': 2, 'duplicate': 2, 'rejected': 3}
+2026-10-05 00:21:38,641 INFO progress 100/728 {'stored': 89, 'unmatched': 2, 'duplicate': 4, 'rejected': 4, 'failed': 1}
+2026-10-05 00:21:59,586 INFO progress 125/728 {'stored': 110, 'unmatched': 2, 'duplicate': 5, 'rejected': 7, 'failed': 1}
+2026-10-05 00:22:19,714 INFO progress 150/728 {'stored': 129, 'unmatched': 2, 'duplicate': 5, 'rejected': 13, 'failed': 1}
+2026-10-05 00:22:38,346 INFO progress 175/728 {'stored': 148, 'unmatched': 2, 'duplicate': 5, 'rejected': 18, 'failed': 2}
+2026-10-05 00:22:54,285 INFO progress 200/728 {'stored': 169, 'unmatched': 2, 'duplicate': 7, 'rejected': 20, 'failed': 2}
+2026-10-05 00:23:14,388 INFO progress 225/728 {'stored': 188, 'unmatched': 2, 'duplicate': 12, 'rejected': 21, 'failed': 2}
+2026-10-05 00:23:34,559 INFO progress 250/728 {'stored': 204, 'unmatched': 2, 'duplicate': 21, 'rejected': 21, 'failed': 2}
+2026-10-05 00:23:48,145 INFO progress 275/728 {'stored': 222, 'unmatched': 2, 'duplicate': 23, 'rejected': 24, 'failed': 4}
+2026-10-05 00:24:05,730 INFO progress 300/728 {'stored': 247, 'unmatched': 2, 'duplicate': 23, 'rejected': 24, 'failed': 4}
+2026-10-05 00:24:27,274 INFO progress 325/728 {'stored': 269, 'unmatched': 3, 'duplicate': 23, 'rejected': 26, 'failed': 4}
+2026-10-05 00:24:47,465 INFO progress 350/728 {'stored': 291, 'unmatched': 4, 'duplicate': 25, 'rejected': 26, 'failed': 4}
+2026-10-05 00:24:56,679 INFO progress 375/728 {'stored': 311, 'unmatched': 4, 'duplicate': 28, 'rejected': 26, 'failed': 6}
+2026-10-05 00:25:07,384 INFO progress 400/728 {'stored': 335, 'unmatched': 4, 'duplicate': 28, 'rejected': 26, 'failed': 7}
+2026-10-05 00:25:23,702 INFO progress 425/728 {'stored': 360, 'unmatched': 4, 'duplicate': 28, 'rejected': 26, 'failed': 7}
+2026-10-05 00:25:43,494 INFO progress 450/728 {'stored': 385, 'unmatched': 4, 'duplicate': 28, 'rejected': 26, 'failed': 7}
+2026-10-05 00:26:03,786 INFO progress 475/728 {'stored': 408, 'unmatched': 4, 'duplicate': 29, 'rejected': 27, 'failed': 7}
