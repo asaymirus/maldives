@@ -930,3 +930,10 @@ Coverage sheet, first rows after recalculation:
 
 - ['#', 'Resort', 'Official site status', 'factsheet (latest yr)', 'wedding (latest yr)', 'events (latest yr)', 'map (latest yr)', 'dive_map (latest yr)']
 + git add -A
++ git commit -q -m 'Phases D-G, QA
+
+Co-Authored-By: Claude Fable 5.1 <noreply@anthropic.com>
+Claude-Session: https://claude.ai/code/session_01HuKfdgdkSVamDCtYV6eLkT'
++ git push -q -u origin claude/gallant-johnson-ktui6q
++ echo FOLLOWUP_DONE
+FOLLOWUP_DONE
