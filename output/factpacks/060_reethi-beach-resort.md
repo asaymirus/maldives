@@ -1,8 +1,8 @@
 # 60. Reethi Beach Resort
 
-**Official site:** n/a (None)  
+**Official site:** https://world.nh-hotels.com/en/nh-collection-maldives-reethi (unverified)  
 **Brand:** Reethi  
-**Atoll:** n/a  **Island:** n/a  
+**Atoll:** Baa Atoll  **Island:** n/a  
 **Opened/renovated:** n/a  **Rating:** n/a  
 **Transfer:** n/a; minutes: {}  
 **Island size:** n/a  
@@ -17,8 +17,8 @@ Meal plans: n/a
 
 ## Spa & wellness
 
-- Spa: n/a; treatment rooms: ?; menu: none
-- Wellness/fitness: n/a
+- Spa: Spa; treatment rooms: ?; menu: none
+- Wellness/fitness: yoga
 
 ## Diving, water sports & excursions
 
@@ -72,12 +72,9 @@ Meal plans: n/a
 - fact: villa categories
 - fact: dining
 - fact: transfer
-- fact: atoll
-- fact: spa
 - fact: dive operator
 - fact: kids club
 - fact: weddings
 - fact: contacts
-- no documents or pages collected
 
-_Facts extracted by rules from 0 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-04._
+_Facts extracted by rules from 3 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

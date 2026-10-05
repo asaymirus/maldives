@@ -1,10 +1,10 @@
 # 122. Avani + Fares Maldives
 
-**Official site:** n/a (None)  
+**Official site:** https://www.avanihotels.com/en/fares-maldives (blocked-partial)  
 **Brand:** Avani  
-**Atoll:** n/a  **Island:** n/a  
-**Opened/renovated:** n/a  **Rating:** n/a  
-**Transfer:** n/a; minutes: {}  
+**Atoll:** Baa Atoll  **Island:** n/a  
+**Opened/renovated:** n/a  **Rating:** 5-star  
+**Transfer:** seaplane, speedboat, domestic flight; minutes: {"seaplane": 35, "speedboat": 35, "domestic flight": 35}  
 **Island size:** n/a  
 
 ## Villas (? total)
@@ -12,25 +12,27 @@
 
 ## Dining
 
+- Petit Bistro (restaurant)
 
-Meal plans: n/a
+Meal plans: BB, HB, FB, AI
+All-inclusive: all-inclusive offers.
 
 ## Spa & wellness
 
-- Spa: n/a; treatment rooms: ?; menu: none
-- Wellness/fitness: n/a
+- Spa: Spa; treatment rooms: ?; menu: none
+- Wellness/fitness: fitness centre, tennis, gym
 
 ## Diving, water sports & excursions
 
-- Operator: n/a
-- House reef: n/a
-- Activities: n/a
+- Operator: Dive Centre
+- House reef: House reef teeming with marine life, perfect for
+- Activities: snorkelling, parasailing, fishing, snorkeling, kitesurfing, whale shark, manta
 - Price list: none
-- Excursions: n/a
+- Excursions: sandbank, dolphin, big game fishing, turtle, whale shark, manta
 
 ## Kids & family
 
-- Kids club: n/a; ages: n/a; teens: n/a
+- Kids club: n/a; ages: n/a; teens: teens programme mentioned
 
 ## Weddings
 
@@ -50,7 +52,7 @@ Meal plans: n/a
 
 ## Public contacts
 
-- Reservations: n/a; weddings: n/a; phone: n/a
+- Reservations: fares@avanihotels.com; weddings: n/a; phone: +960 660 1660
 
 ## Latest documents
 
@@ -61,7 +63,7 @@ Meal plans: n/a
 - dining_menu: none
 - dive_prices: none
 - events: none
-- calendar: none
+- calendar: https://letsgomaldives.com/wp-content/uploads/2026/08/Avani-Fares-Maldives-Festive-Brochure-2026-1.pdf
 
 ## Gaps
 
@@ -70,14 +72,7 @@ Meal plans: n/a
 - events/MICE document
 - fact: villas.total
 - fact: villa categories
-- fact: dining
-- fact: transfer
-- fact: atoll
-- fact: spa
-- fact: dive operator
 - fact: kids club
 - fact: weddings
-- fact: contacts
-- no documents or pages collected
 
-_Facts extracted by rules from 0 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-04._
+_Facts extracted by rules from 18 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

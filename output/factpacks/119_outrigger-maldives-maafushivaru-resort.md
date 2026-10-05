@@ -1,10 +1,10 @@
 # 119. Outrigger Maldives Maafushivaru Resort
 
 **Current name / alias:** Lti Maafushivaru (older name)  
-**Official site:** n/a (None)  
+**Official site:** https://www.outrigger.com/hotels-resorts/maldives/outrigger-maldives-maafushivaru-resort (blocked)  
 **Brand:** VARU  
 **Atoll:** Ari Atoll  **Island:** n/a  
-**Opened/renovated:** n/a  **Rating:** n/a  
+**Opened/renovated:** opened 2010  **Rating:** n/a  
 **Transfer:** seaplane; minutes: {"seaplane": 25}  
 **Island size:** n/a  
 
@@ -19,24 +19,22 @@
 - BEACH POOL VILLA Moodhu Grill (restaurant)
 - Water Bar & Cielo (bar)
 - Library Lounge (bar)
-- Dining (restaurant)
 - Moodhu Grill (restaurant)
-- Destination Dining (restaurant)
 
 Meal plans: n/a
 
 ## Spa & wellness
 
-- Spa: Océane Spa; treatment rooms: ?; menu: none
-- Wellness/fitness: yoga, gym, fitness center
+- Spa: Spa; treatment rooms: ?; menu: none
+- Wellness/fitness: yoga, gym, fitness center, sauna
 
 ## Diving, water sports & excursions
 
 - Operator: n/a
 - House reef: house reef that a myriad of tropical fish call home, Outrigger Maldives Maafushivaru Resort is just over 350-metres in length and can be walked in just 10-minutes and a b
-- Activities: snorkelling, snorkeling, wakeboarding, fishing, manta
+- Activities: snorkelling, snorkeling, wakeboarding, fishing, manta, paddleboard, whale shark, scuba diving, windsurfing, catamaran, water skiing, sailing, canoe
 - Price list: none
-- Excursions: big game fishing, manta, turtle, snorkel safari
+- Excursions: big game fishing, manta, turtle, snorkel safari, whale shark
 
 ## Kids & family
 
@@ -81,4 +79,4 @@ Meal plans: n/a
 - fact: dive operator
 - fact: kids club
 
-_Facts extracted by rules from 16 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-04._
+_Facts extracted by rules from 17 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

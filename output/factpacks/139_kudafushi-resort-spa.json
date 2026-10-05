@@ -5,8 +5,8 @@
  "aliases": [
   "Kudafushi"
  ],
- "official_url": null,
- "official_site_status": null,
+ "official_url": "https://kudafushiresort.com/en/",
+ "official_site_status": "ok",
  "operator_brand": null,
  "atoll": "Raa Atoll",
  "island": "Kudafushi",
@@ -78,14 +78,6 @@
     "overwater": null
    },
    {
-    "name": "Number of Villas",
-    "count": 107,
-    "size_sqm": null,
-    "max_occupancy": null,
-    "pool": null,
-    "overwater": null
-   },
-   {
     "name": "Beach Villa with Pool →",
     "count": 32,
     "size_sqm": 102,
@@ -121,34 +113,9 @@
  },
  "dining": [
   {
-   "name": "Lounge Chair X 2 (in Villa) Hangers",
-   "cuisine": null,
-   "type": "bar"
-  },
-  {
    "name": "Mini Bar (replenished daily) Ash Tray",
    "cuisine": null,
    "type": "bar"
-  },
-  {
-   "name": "Restaurant welcomes guest for breakfast, lunch and dinner.",
-   "cuisine": null,
-   "type": "restaurant"
-  },
-  {
-   "name": "The Olive Me Restaurant lies where every day the sun",
-   "cuisine": null,
-   "type": "restaurant"
-  },
-  {
-   "name": "The Sea Edge Bar & Grill Restaurant is the most charming",
-   "cuisine": null,
-   "type": "restaurant"
-  },
-  {
-   "name": "Dining",
-   "cuisine": null,
-   "type": "restaurant"
   },
   {
    "name": "De North Main Restaurant",
@@ -171,13 +138,15 @@
    "type": "bar"
   }
  ],
- "meal_plans": [],
+ "meal_plans": [
+  "AI"
+ ],
  "all_inclusive_details": null,
  "spa": {
-  "name": "Darts\nSpa",
+  "name": "Spa",
   "treatment_rooms": 10,
   "signature_treatments": [],
-  "menu_doc": null
+  "menu_doc": "https://kudafushiresort.com/en/wp-content/uploads/2026/08/K-YOGA-WEEKLY-WELLNESS-PROGRAM_2026.pdf"
  },
  "diving_watersports": {
   "operator": null,
@@ -191,9 +160,11 @@
    "sunset cruise",
    "dolphin cruise",
    "manta",
-   "canoe"
+   "canoe",
+   "windsurfing",
+   "stand-up paddle"
   ],
-  "price_list_doc": null
+  "price_list_doc": "https://kudafushiresort.com/en/wp-content/uploads/2026/08/AQUASOULS_WATERSPORTS.pdf"
  },
  "excursions": [
   "local island",
@@ -201,11 +172,12 @@
   "sunset fishing",
   "manta",
   "turtle",
-  "cinema"
+  "cinema",
+  "sandbank"
  ],
  "kids_family": {
   "kids_club": "Kids Club",
-  "age_range": null,
+  "age_range": "3-12 years",
   "teens": null
  },
  "wellness_fitness": [
@@ -215,14 +187,24 @@
   "badminton",
   "sauna",
   "steam",
+  "yoga",
+  "meditation",
+  "pilates",
   "fitness center"
  ],
  "weddings": {
   "offered": true,
   "vow_renewal": null,
   "venues": [],
-  "packages": [],
-  "brochure_doc": null
+  "packages": [
+   {
+    "name": "Photography Package",
+    "price": "130",
+    "currency": "USD",
+    "as_of": 2026
+   }
+  ],
+  "brochure_doc": "https://kudafushiresort.com/en/wp-content/uploads/2026/08/KUDAFUSHI-WEDDING-PACKAGES.pdf"
  },
  "events_mice": {
   "venues": [],
@@ -232,23 +214,22 @@
  },
  "sustainability": [],
  "contacts_public": {
-  "reservations_email": "info@neoscapesmaldives.com",
+  "reservations_email": "sales@kudafushiresort.com",
   "weddings_email": null,
   "phone": "+960 736 5425"
  },
  "documents_latest": {
   "factsheet": "https://www.neoscapesmaldives.com/wp-content/uploads/KUDAFUSHI_FACTSHEET.pdf",
   "map": "https://www.neoscapesmaldives.com/wp-content/uploads/KUDAFUSHI_MAP.pdf",
-  "wedding": null,
-  "spa_menu": null,
-  "dining_menu": null,
-  "dive_prices": null,
+  "wedding": "https://kudafushiresort.com/en/wp-content/uploads/2026/08/KUDAFUSHI-WEDDING-PACKAGES.pdf",
+  "spa_menu": "https://kudafushiresort.com/en/wp-content/uploads/2026/08/K-YOGA-WEEKLY-WELLNESS-PROGRAM_2026.pdf",
+  "dining_menu": "https://kudafushiresort.com/en/wp-content/uploads/2026/08/JUJU-ALL-DAY-DINING-MENU.pdf",
+  "dive_prices": "https://kudafushiresort.com/en/wp-content/uploads/2026/08/AQUASOULS_WATERSPORTS.pdf",
   "events": null,
-  "calendar": null
+  "calendar": "https://kudafushiresort.com/en/wp-content/uploads/2026/08/PADEL-COURT-RENTAL.pdf"
  },
- "documents_count": 2,
+ "documents_count": 36,
  "gaps": [
-  "wedding brochure",
   "events/MICE document",
   "fact: dive operator"
  ],
@@ -261,7 +242,22 @@
    },
    {
     "value": "Raa Atoll",
+    "source_url": "https://kudafushiresort.com/en/privacy-and-cookie-policy",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Raa Atoll",
     "source_url": "https://www.neoscapesmaldives.com/resort/kudafushi-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Raa Atoll",
+    "source_url": "https://mondomaldive.it/it/villaggio/kudafushi-resort-spa/gallery/maldive-le-foto-di-matteo",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Raa Atoll",
+    "source_url": "https://mondomaldive.it/it/villaggio/kudafushi-resort-spa/recensione/6107",
     "as_of": "2026-10-04"
    }
   ],
@@ -280,6 +276,11 @@
     "value": "domestic flight",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/KUDAFUSHI_FACTSHEET.pdf",
     "as_of": 2019
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://kudafushiresort.com/en/wp-content/uploads/2026/08/AQUASOULS_WATERSPORTS.pdf",
+    "as_of": 2026
    },
    {
     "value": "seaplane",
@@ -415,18 +416,6 @@
    },
    {
     "value": {
-     "name": "Number of Villas",
-     "count": 107,
-     "size_sqm": null,
-     "max_occupancy": null,
-     "pool": null,
-     "overwater": null
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/kudafushi-maldives/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
      "name": "Beach Villas →",
      "count": 40,
      "size_sqm": 92,
@@ -501,66 +490,12 @@
   "dining": [
    {
     "value": {
-     "name": "Lounge Chair X 2 (in Villa) Hangers",
-     "cuisine": null,
-     "type": "bar"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/KUDAFUSHI_FACTSHEET.pdf",
-    "as_of": 2019
-   },
-   {
-    "value": {
      "name": "Mini Bar (replenished daily) Ash Tray",
      "cuisine": null,
      "type": "bar"
     },
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/KUDAFUSHI_FACTSHEET.pdf",
     "as_of": 2019
-   },
-   {
-    "value": {
-     "name": "Restaurant welcomes guest for breakfast, lunch and dinner.",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/KUDAFUSHI_FACTSHEET.pdf",
-    "as_of": 2019
-   },
-   {
-    "value": {
-     "name": "The Olive Me Restaurant lies where every day the sun",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/KUDAFUSHI_FACTSHEET.pdf",
-    "as_of": 2019
-   },
-   {
-    "value": {
-     "name": "The Sea Edge Bar & Grill Restaurant is the most charming",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/KUDAFUSHI_FACTSHEET.pdf",
-    "as_of": 2019
-   },
-   {
-    "value": {
-     "name": "Dining",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/kudafushi-maldives/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Dining",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/kudafushi-maldives/",
-    "as_of": "2026-10-04"
    },
    {
     "value": {
@@ -606,8 +541,28 @@
     "as_of": 2019
    },
    {
+    "value": "Spa",
+    "source_url": "https://kudafushiresort.com/en/wp-content/uploads/2026/08/KUDAFUSHI-WEDDING-PACKAGES.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://kudafushiresort.com/en/privacy-and-cookie-policy",
+    "as_of": "2026-10-04"
+   },
+   {
     "value": "Darts\nSpa",
     "source_url": "https://www.neoscapesmaldives.com/resort/kudafushi-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://mondomaldive.it/it/villaggio/kudafushi-resort-spa/gallery/maldive-le-foto-di-matteo",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://mondomaldive.it/it/villaggio/kudafushi-resort-spa/recensione/6107",
     "as_of": "2026-10-04"
    }
   ],
@@ -677,6 +632,56 @@
     "as_of": 2019
    },
    {
+    "value": "sunset cruise",
+    "source_url": "https://kudafushiresort.com/en/wp-content/uploads/2026/08/KUDAFUSHI-WEDDING-PACKAGES.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://kudafushiresort.com/en/wp-content/uploads/2026/08/AQUASOULS_WATERSPORTS.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "windsurfing",
+    "source_url": "https://kudafushiresort.com/en/wp-content/uploads/2026/08/AQUASOULS_WATERSPORTS.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "stand-up paddle",
+    "source_url": "https://kudafushiresort.com/en/wp-content/uploads/2026/08/AQUASOULS_WATERSPORTS.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "paddleboard",
+    "source_url": "https://kudafushiresort.com/en/wp-content/uploads/2026/08/AQUASOULS_WATERSPORTS.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "jet ski",
+    "source_url": "https://kudafushiresort.com/en/wp-content/uploads/2026/08/AQUASOULS_WATERSPORTS.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://kudafushiresort.com/en/wp-content/uploads/2026/08/AQUASOULS_WATERSPORTS.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "dolphin cruise",
+    "source_url": "https://kudafushiresort.com/en/wp-content/uploads/2026/08/AQUASOULS_WATERSPORTS.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "manta",
+    "source_url": "https://kudafushiresort.com/en/wp-content/uploads/2026/08/AQUASOULS_WATERSPORTS.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "canoe",
+    "source_url": "https://kudafushiresort.com/en/wp-content/uploads/2026/08/AQUASOULS_WATERSPORTS.pdf",
+    "as_of": 2026
+   },
+   {
     "value": "snorkeling",
     "source_url": "https://www.neoscapesmaldives.com/resort/kudafushi-maldives/",
     "as_of": "2026-10-04"
@@ -689,6 +694,11 @@
    {
     "value": "canoe",
     "source_url": "https://www.neoscapesmaldives.com/resort/kudafushi-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://mondomaldive.it/it/villaggio/kudafushi-resort-spa/recensione/6107",
     "as_of": "2026-10-04"
    }
   ],
@@ -722,6 +732,36 @@
     "value": "cinema",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/KUDAFUSHI_FACTSHEET.pdf",
     "as_of": 2019
+   },
+   {
+    "value": "cinema",
+    "source_url": "https://kudafushiresort.com/en/wp-content/uploads/2026/08/Stargazing-Cinema-NEW.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "local island",
+    "source_url": "https://kudafushiresort.com/en/wp-content/uploads/2026/08/AQUASOULS_WATERSPORTS.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://kudafushiresort.com/en/wp-content/uploads/2026/08/AQUASOULS_WATERSPORTS.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://kudafushiresort.com/en/wp-content/uploads/2026/08/AQUASOULS_WATERSPORTS.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "manta",
+    "source_url": "https://kudafushiresort.com/en/wp-content/uploads/2026/08/AQUASOULS_WATERSPORTS.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://kudafushiresort.com/en/wp-content/uploads/2026/08/AQUASOULS_WATERSPORTS.pdf",
+    "as_of": 2026
    }
   ],
   "kids_family.kids_club": [
@@ -768,6 +808,46 @@
     "as_of": 2019
    },
    {
+    "value": "sauna",
+    "source_url": "https://kudafushiresort.com/en/wp-content/uploads/2026/08/KUDAFUSHI-WEDDING-PACKAGES.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "steam",
+    "source_url": "https://kudafushiresort.com/en/wp-content/uploads/2026/08/KUDAFUSHI-WEDDING-PACKAGES.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://kudafushiresort.com/en/wp-content/uploads/2026/08/K-YOGA-WEEKLY-WELLNESS-PROGRAM_2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "meditation",
+    "source_url": "https://kudafushiresort.com/en/wp-content/uploads/2026/08/K-YOGA-WEEKLY-WELLNESS-PROGRAM_2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "pilates",
+    "source_url": "https://kudafushiresort.com/en/wp-content/uploads/2026/08/K-YOGA-WEEKLY-WELLNESS-PROGRAM_2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "steam",
+    "source_url": "https://kudafushiresort.com/en/wp-content/uploads/2026/08/JUJU-ALL-DAY-DINING-MENU.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://kudafushiresort.com/en/yoga-pavillon/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "meditation",
+    "source_url": "https://kudafushiresort.com/en/yoga-pavillon/",
+    "as_of": "2026-10-04"
+   },
+   {
     "value": "fitness center",
     "source_url": "https://www.neoscapesmaldives.com/resort/kudafushi-maldives/",
     "as_of": "2026-10-04"
@@ -796,6 +876,47 @@
    },
    {
     "value": true,
+    "source_url": "https://kudafushiresort.com/en/wp-content/uploads/2026/08/KUDAFUSHI-WEDDING-PACKAGES.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": true,
+    "source_url": "https://www.neoscapesmaldives.com/resort/kudafushi-maldives/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "kids_family.age_range": [
+   {
+    "value": "3-12 years",
+    "source_url": "https://kudafushiresort.com/en/wp-content/uploads/2026/08/LITTLE-BUBBLES-CLUB-ACTIVITIES_2026.pdf",
+    "as_of": 2026
+   }
+  ],
+  "weddings.packages": [
+   {
+    "value": {
+     "name": "Photography Package",
+     "price": "130",
+     "currency": "USD",
+     "as_of": 2026
+    },
+    "source_url": "https://kudafushiresort.com/en/wp-content/uploads/2026/08/Photography-package.pdf",
+    "as_of": 2026
+   }
+  ],
+  "contacts_public.reservations_email": [
+   {
+    "value": "sales@kudafushiresort.com",
+    "source_url": "https://kudafushiresort.com/en/privacy-and-cookie-policy",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sales@kudafushiresort.com",
+    "source_url": "https://kudafushiresort.com/en/privacy-and-cookie-policy",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "info@neoscapesmaldives.com",
     "source_url": "https://www.neoscapesmaldives.com/resort/kudafushi-maldives/",
     "as_of": "2026-10-04"
    }
@@ -807,20 +928,20 @@
     "as_of": "2026-10-04"
    }
   ],
-  "contacts_public.reservations_email": [
-   {
-    "value": "info@neoscapesmaldives.com",
-    "source_url": "https://www.neoscapesmaldives.com/resort/kudafushi-maldives/",
-    "as_of": "2026-10-04"
-   }
-  ],
   "contacts_public.phone": [
    {
     "value": "+960 736 5425",
     "source_url": "https://www.neoscapesmaldives.com/resort/kudafushi-maldives/",
     "as_of": "2026-10-04"
    }
+  ],
+  "meal_plans": [
+   {
+    "value": "AI",
+    "source_url": "https://mondomaldive.it/it/villaggio/kudafushi-resort-spa/recensione/6107",
+    "as_of": "2026-10-04"
+   }
   ]
  },
- "last_updated": "2026-10-04"
+ "last_updated": "2026-10-05"
 }

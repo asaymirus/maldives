@@ -1,6 +1,6 @@
 # 80. Raaya by Atmosphere
 
-**Official site:** n/a (None)  
+**Official site:** https://www.raayamaldives.com/ (ok)  
 **Brand:** Atmosphere  
 **Atoll:** Raa Atoll  **Island:** n/a  
 **Opened/renovated:** n/a  **Rating:** 5-star  
@@ -16,7 +16,6 @@
 - Bedroom Family Beach Villas: count 2, ? sqm, max ?
 - Bedroom Family Beach Villas with Pool: count 2, ? sqm, max ?, pool
 - RAAYA Residence: count 27, ? sqm, max ?
-- Total Number of Villas: count 167, ? sqm, max ?
 - Bed Room Family Beach Villa: count 2, ? sqm, max ?
 - Bed Room Family Beach Villa with Pool: count 2, ? sqm, max ?, pool
 - amari raaya maldives e terior overview ocean villa sunset: count 5, ? sqm, max ?, overwater
@@ -30,20 +29,6 @@
 
 ## Dining
 
-- Dining Experiences (restaurant)
-- RAAYA LIFE (All-Day Dining) Breakfast, Lunch & Dinner (restaurant)
-- Dining experience inclusive of beverages from the RAAYA (restaurant)
-- FULL ACCESS to the RAAYA Hub - Sports Bar; with skate (bar)
-- 2. Lobby 22. SOAQ - Pool Bar (bar)
-- S N 3. Dive Center 23. Mizāj - Speciality Dining (restaurant)
-- 11 22 4. Clinic 24. RAAYA Life - All day Dining (restaurant)
-- 6. Artist Zone 26. Ampers&nd - Speciality Dining & Bar (bar)
-- 3 16. RAAYA HUB - Sports Bar (bar)
-- 16. RAAYA Hub - Sports Bar (bar)
-- 22. SOAQ - Pool Bar (bar)
-- 23. MIZĀJ - Specialty Dining Beach Villa (restaurant)
-- 24. RAAYA Life - All day Dining Beach Villa with Pool (restaurant)
-- Dining (restaurant)
 - SOAQ Pool Bar (bar)
 - AMPERS&ND, Bar & Restaurant (restaurant)
 
@@ -103,4 +88,4 @@ Meal plans: n/a
 - wedding brochure
 - events/MICE document
 
-_Facts extracted by rules from 18 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-04._
+_Facts extracted by rules from 18 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

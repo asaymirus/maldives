@@ -6,15 +6,17 @@
   "Rahaa",
   "Rahaa Maldives"
  ],
- "official_url": null,
- "official_site_status": null,
+ "official_url": "https://rahaaresort.com/",
+ "official_site_status": "ok",
  "operator_brand": null,
- "atoll": null,
+ "atoll": "Laamu Atoll",
  "island": null,
  "opened_or_renovated": null,
- "star_rating": null,
+ "star_rating": "4-star",
  "transfer": {
-  "modes": [],
+  "modes": [
+   "speedboat"
+  ],
   "minutes": {
    "seaplane": null,
    "speedboat": null,
@@ -25,32 +27,81 @@
  "island_size": null,
  "villas": {
   "total": null,
-  "categories": []
+  "categories": [
+   {
+    "name": "sq ft villa with Lake views",
+    "count": 75,
+    "size_sqm": 75,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   }
+  ]
  },
- "dining": [],
+ "dining": [
+  {
+   "name": "Dhirun’Bar",
+   "cuisine": null,
+   "type": "bar"
+  },
+  {
+   "name": "Ko’Bar",
+   "cuisine": null,
+   "type": "bar"
+  }
+ ],
  "meal_plans": [],
  "all_inclusive_details": null,
  "spa": {
-  "name": null,
+  "name": "Rahaa Spa",
   "treatment_rooms": null,
   "signature_treatments": [],
   "menu_doc": null
  },
  "diving_watersports": {
-  "operator": null,
-  "house_reef": null,
-  "activities": [],
+  "operator": "Dive Centre",
+  "house_reef": "house reef in the Maldives, you'll have access to an incredible array of marine life just steps away from your accommodation",
+  "activities": [
+   "sunset cruise",
+   "snorkelling",
+   "snorkeling",
+   "manta",
+   "windsurfing",
+   "fishing",
+   "kayaking",
+   "stand-up paddle",
+   "paddleboard",
+   "water skiing",
+   "wakeboarding",
+   "fun tube",
+   "canoe",
+   "sailing",
+   "dolphin cruise"
+  ],
   "price_list_doc": null
  },
- "excursions": [],
+ "excursions": [
+  "local island",
+  "manta",
+  "turtle",
+  "sunset fishing",
+  "picnic",
+  "dolphin"
+ ],
  "kids_family": {
   "kids_club": null,
   "age_range": null,
   "teens": null
  },
- "wellness_fitness": [],
+ "wellness_fitness": [
+  "tennis",
+  "badminton",
+  "beach volleyball",
+  "fitness centre",
+  "gym"
+ ],
  "weddings": {
-  "offered": null,
+  "offered": true,
   "vow_renewal": null,
   "venues": [],
   "packages": [],
@@ -64,13 +115,13 @@
  },
  "sustainability": [],
  "contacts_public": {
-  "reservations_email": null,
+  "reservations_email": "reservations@rahaaresort.com",
   "weddings_email": null,
-  "phone": null
+  "phone": "+ 960 680-0044"
  },
  "documents_latest": {
   "factsheet": null,
-  "map": null,
+  "map": "https://letsgomaldives.com/wp-content/uploads/2024/03/RAHAA-RESORT-ALL-INCLUSIVE-MEAL-PLAN-2024.pdf",
   "wedding": null,
   "spa_menu": null,
   "dining_menu": null,
@@ -78,23 +129,679 @@
   "events": null,
   "calendar": null
  },
- "documents_count": 0,
+ "documents_count": 1,
  "gaps": [
   "factsheet",
   "wedding brochure",
   "events/MICE document",
   "fact: villas.total",
-  "fact: villa categories",
-  "fact: dining",
-  "fact: transfer",
-  "fact: atoll",
-  "fact: spa",
-  "fact: dive operator",
-  "fact: kids club",
-  "fact: weddings",
-  "fact: contacts",
-  "no documents or pages collected"
+  "fact: kids club"
  ],
- "sources": {},
- "last_updated": "2026-10-04"
+ "sources": {
+  "spa.name": [
+   {
+    "value": "Rahaa Spa",
+    "source_url": "https://rahaaresort.com/the-romantic-travelers/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://rahaaresort.com/ocean-view-villa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Rahaa Spa",
+    "source_url": "https://rahaaresort.com/offers/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://rahaaresort.com/lake-view-villa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Our Rahaa Spa",
+    "source_url": "https://rahaaresort.com/explore-rahaa-maldives/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Your Ultimate Spa",
+    "source_url": "https://rahaaresort.com/explore-rahaa-maldives/experiences/spa-wellness/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Our Rahaa Spa",
+    "source_url": "https://rahaaresort.com/explore-rahaa/experiences/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "diving_watersports.activities": [
+   {
+    "value": "sunset cruise",
+    "source_url": "https://rahaaresort.com/the-romantic-travelers/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://rahaaresort.com/snorkeling/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://rahaaresort.com/snorkeling/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://rahaaresort.com/snorkeling/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://rahaaresort.com/explore-rahaa-maldives/experiences/occasions/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "windsurfing",
+    "source_url": "https://rahaaresort.com/windsurfing/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://rahaaresort.com/sports-fishing/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://rahaaresort.com/offers/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://rahaaresort.com/offers/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://rahaaresort.com/explore-rahaa-maldives/experiences/water-sports/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://rahaaresort.com/explore-rahaa-maldives/experiences/water-sports/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "windsurfing",
+    "source_url": "https://rahaaresort.com/explore-rahaa-maldives/experiences/water-sports/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "kayaking",
+    "source_url": "https://rahaaresort.com/explore-rahaa-maldives/experiences/water-sports/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "stand-up paddle",
+    "source_url": "https://rahaaresort.com/explore-rahaa-maldives/experiences/water-sports/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "paddleboard",
+    "source_url": "https://rahaaresort.com/explore-rahaa-maldives/experiences/water-sports/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "water skiing",
+    "source_url": "https://rahaaresort.com/explore-rahaa-maldives/experiences/water-sports/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "wakeboarding",
+    "source_url": "https://rahaaresort.com/explore-rahaa-maldives/experiences/water-sports/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fun tube",
+    "source_url": "https://rahaaresort.com/explore-rahaa-maldives/experiences/water-sports/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "canoe",
+    "source_url": "https://rahaaresort.com/explore-rahaa-maldives/experiences/water-sports/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sailing",
+    "source_url": "https://rahaaresort.com/moonlight-sailing/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin cruise",
+    "source_url": "https://rahaaresort.com/dolphin-cruise/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://rahaaresort.com/sunset-cruise/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fun tube",
+    "source_url": "https://rahaaresort.com/fun-tube/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://rahaaresort.com/explore-rahaa-maldives/experiences/excursions/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://rahaaresort.com/explore-rahaa-maldives/experiences/excursions/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin cruise",
+    "source_url": "https://rahaaresort.com/explore-rahaa-maldives/experiences/excursions/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sailing",
+    "source_url": "https://rahaaresort.com/explore-rahaa-maldives/experiences/excursions/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "stand-up paddle",
+    "source_url": "https://rahaaresort.com/stand-up-paddle-boarding/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "paddleboard",
+    "source_url": "https://rahaaresort.com/stand-up-paddle-boarding/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://rahaaresort.com/explore-rahaa-maldives/experiences/diving/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://rahaaresort.com/category/offers-category/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://rahaaresort.com/the-explorer-package/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://rahaaresort.com/explore-rahaa-maldives/about-rahaa-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "windsurfing",
+    "source_url": "https://rahaaresort.com/explore-rahaa-maldives/about-rahaa-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "kayaking",
+    "source_url": "https://rahaaresort.com/explore-rahaa-maldives/about-rahaa-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://rahaaresort.com/explore-rahaa-maldives/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "water skiing",
+    "source_url": "https://rahaaresort.com/explore-rahaa-maldives/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "wakeboarding",
+    "source_url": "https://rahaaresort.com/explore-rahaa-maldives/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://rahaaresort.com/explore-rahaa-maldives/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin cruise",
+    "source_url": "https://rahaaresort.com/explore-rahaa-maldives/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://rahaaresort.com/explore-rahaa-maldives/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sailing",
+    "source_url": "https://rahaaresort.com/explore-rahaa-maldives/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "kayaking",
+    "source_url": "https://rahaaresort.com/canoeing-kayaking/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "canoe",
+    "source_url": "https://rahaaresort.com/canoeing-kayaking/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://rahaaresort.com/explore-rahaa/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "water skiing",
+    "source_url": "https://rahaaresort.com/explore-rahaa/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "wakeboarding",
+    "source_url": "https://rahaaresort.com/explore-rahaa/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://rahaaresort.com/explore-rahaa/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin cruise",
+    "source_url": "https://rahaaresort.com/explore-rahaa/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://rahaaresort.com/explore-rahaa/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sailing",
+    "source_url": "https://rahaaresort.com/explore-rahaa/experiences/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "excursions": [
+   {
+    "value": "local island",
+    "source_url": "https://rahaaresort.com/local-island-visits/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://rahaaresort.com/snorkeling/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://rahaaresort.com/snorkeling/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "local island",
+    "source_url": "https://rahaaresort.com/offers/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset fishing",
+    "source_url": "https://rahaaresort.com/offers/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "picnic",
+    "source_url": "https://rahaaresort.com/offers/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://rahaaresort.com/dolphin-cruise/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "local island",
+    "source_url": "https://rahaaresort.com/explore-rahaa-maldives/experiences/excursions/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://rahaaresort.com/explore-rahaa-maldives/experiences/excursions/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://rahaaresort.com/explore-rahaa-maldives/experiences/diving/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://rahaaresort.com/explore-rahaa-maldives/experiences/diving/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "local island",
+    "source_url": "https://rahaaresort.com/category/offers-category/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset fishing",
+    "source_url": "https://rahaaresort.com/category/offers-category/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "picnic",
+    "source_url": "https://rahaaresort.com/category/offers-category/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "local island",
+    "source_url": "https://rahaaresort.com/the-explorer-package/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset fishing",
+    "source_url": "https://rahaaresort.com/the-explorer-package/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "picnic",
+    "source_url": "https://rahaaresort.com/the-explorer-package/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "local island",
+    "source_url": "https://rahaaresort.com/explore-rahaa-maldives/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://rahaaresort.com/explore-rahaa-maldives/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://rahaaresort.com/explore-rahaa-maldives/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://rahaaresort.com/explore-rahaa-maldives/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "local island",
+    "source_url": "https://rahaaresort.com/explore-rahaa/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://rahaaresort.com/explore-rahaa/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://rahaaresort.com/explore-rahaa/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://rahaaresort.com/explore-rahaa/experiences/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "diving_watersports.house_reef": [
+   {
+    "value": "house reef in the Maldives, you'll have access to an incredible array of marine life just steps away from your accommodation",
+    "source_url": "https://rahaaresort.com/snorkeling/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "House Reef Morning Everyday",
+    "source_url": "https://rahaaresort.com/offers/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef in the Maldives, you'll have access to an incredible array of marine life just steps away from your accommodation",
+    "source_url": "https://rahaaresort.com/explore-rahaa-maldives/experiences/water-sports/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "House Reef",
+    "source_url": "https://rahaaresort.com/explore-rahaa-maldives/about-rahaa-resort/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "weddings.offered": [
+   {
+    "value": true,
+    "source_url": "https://rahaaresort.com/explore-rahaa-maldives/experiences/occasions/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://rahaaresort.com/offers/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://rahaaresort.com/wedding-package/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://rahaaresort.com/wedding-package/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "diving_watersports.operator": [
+   {
+    "value": "Dive Centre",
+    "source_url": "https://rahaaresort.com/ocean-view-villa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Dive Centre",
+    "source_url": "https://rahaaresort.com/lake-view-villa/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "villas.categories": [
+   {
+    "value": {
+     "name": "sq ft villa with Lake views",
+     "count": 75,
+     "size_sqm": 75,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://rahaaresort.com/lake-view-villa/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "transfer.modes": [
+   {
+    "value": "speedboat",
+    "source_url": "https://rahaaresort.com/speedboat-cruise/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://rahaaresort.com/category/explore-rahaa/experiences-category/excursions-category/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://rahaaresort.com/explore-rahaa-maldives/experiences/excursions/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://rahaaresort.com/explore-rahaa-maldives/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://rahaaresort.com/explore-rahaa/experiences/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "atoll": [
+   {
+    "value": "Laamu Atoll",
+    "source_url": "https://rahaaresort.com/contact/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Laamu Atoll",
+    "source_url": "https://rahaaresort.com/kaage/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Laamu Atoll",
+    "source_url": "https://rahaaresort.com/explore-rahaa-maldives/about-rahaa-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Laamu Atoll",
+    "source_url": "https://rahaaresort.com/explore-rahaa-maldives/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Laamu Atoll",
+    "source_url": "https://rahaaresort.com/explore-rahaa/experiences/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "star_rating": [
+   {
+    "value": "4-star",
+    "source_url": "https://rahaaresort.com/contact/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "4-star",
+    "source_url": "https://rahaaresort.com/explore-rahaa-maldives/about-rahaa-resort/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "contacts_public.reservations_email": [
+   {
+    "value": "reservations@rahaaresort.com",
+    "source_url": "https://rahaaresort.com/contact/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "reservations@rahaaresort.com",
+    "source_url": "https://rahaaresort.com/privacy-statement/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "contacts_public.phone": [
+   {
+    "value": "+ 960 680-0044",
+    "source_url": "https://rahaaresort.com/contact/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "dining": [
+   {
+    "value": {
+     "name": "Dhirun’Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://rahaaresort.com/explore-rahaa-maldives/dinning/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Ko’Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://rahaaresort.com/explore-rahaa-maldives/dinning/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Ko’Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://rahaaresort.com/kobar/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Ko’Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://rahaaresort.com/kobar/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Dhirun’Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://rahaaresort.com/dhirunbar/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Dhirun’Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://rahaaresort.com/dhirunbar/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "wellness_fitness": [
+   {
+    "value": "tennis",
+    "source_url": "https://rahaaresort.com/explore-rahaa-maldives/experiences/land-sports/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "badminton",
+    "source_url": "https://rahaaresort.com/explore-rahaa-maldives/experiences/land-sports/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "beach volleyball",
+    "source_url": "https://rahaaresort.com/explore-rahaa-maldives/experiences/land-sports/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fitness centre",
+    "source_url": "https://rahaaresort.com/explore-rahaa-maldives/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "gym",
+    "source_url": "https://rahaaresort.com/explore-rahaa-maldives/experiences/spa-wellness/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fitness centre",
+    "source_url": "https://rahaaresort.com/explore-rahaa/experiences/",
+    "as_of": "2026-10-04"
+   }
+  ]
+ },
+ "last_updated": "2026-10-05"
 }

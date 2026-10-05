@@ -6,27 +6,30 @@
   "Banyan Tree Vabbinfaru",
   "Vabbinfaru"
  ],
- "official_url": null,
- "official_site_status": null,
+ "official_url": "https://www.banyantree.com/maldives/vabbinfaru",
+ "official_site_status": "ok",
  "operator_brand": "Banyan Tree",
  "atoll": "North Malé Atoll",
  "island": null,
- "opened_or_renovated": null,
- "star_rating": null,
+ "opened_or_renovated": "opened 2004",
+ "star_rating": "5-star",
  "transfer": {
   "modes": [
-   "speedboat"
+   "speedboat",
+   "seaplane",
+   "domestic flight",
+   "yacht"
   ],
   "minutes": {
-   "seaplane": null,
+   "seaplane": 25,
    "speedboat": 25,
-   "domestic flight": null,
+   "domestic flight": 25,
    "yacht": null
   }
  },
  "island_size": null,
  "villas": {
-  "total": 14,
+  "total": 48,
   "categories": [
    {
     "name": "Villas",
@@ -77,23 +80,47 @@
     "overwater": null
    },
    {
-    "name": "SAFFRON OCEAN VIEW POOL VILLA",
-    "count": 20,
+    "name": "Visages and Villages",
+    "count": 30,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "one- to three-bedroom villas, each either facing the sea",
+    "count": 113,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "Vietnam Hong Po Village Hebei District Fa : +",
+    "count": 611,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "all-pool private beach villas",
+    "count": 48,
     "size_sqm": null,
     "max_occupancy": null,
     "pool": true,
-    "overwater": true
+    "overwater": null
    }
   ]
  },
  "dining": [
   {
-   "name": "Dining",
+   "name": "Saffron Cello Oriente Pastry Kitchen",
    "cuisine": null,
    "type": "restaurant"
   },
   {
-   "name": "Saffron Restaurant",
+   "name": "Restaurants Banyan Lounge • Oceans",
    "cuisine": null,
    "type": "restaurant"
   },
@@ -103,82 +130,189 @@
    "type": "bar"
   },
   {
-   "name": "Destination Dining",
+   "name": "Bar, Snacks",
+   "cuisine": null,
+   "type": "bar"
+  },
+  {
+   "name": "Bar Ryozen",
+   "cuisine": null,
+   "type": "bar"
+  },
+  {
+   "name": "Club Lounge",
+   "cuisine": null,
+   "type": "bar"
+  },
+  {
+   "name": "Club Lounge for exclusive services",
+   "cuisine": null,
+   "type": "bar"
+  },
+  {
+   "name": "Reflections Pool Bar",
+   "cuisine": null,
+   "type": "bar"
+  },
+  {
+   "name": "Restaurant Reservations",
+   "cuisine": null,
+   "type": "restaurant"
+  },
+  {
+   "name": "La Copa Mexican Terrace Bar",
+   "cuisine": null,
+   "type": "bar"
+  },
+  {
+   "name": "Pool Bar",
+   "cuisine": null,
+   "type": "bar"
+  },
+  {
+   "name": "Banyan Lounge",
+   "cuisine": null,
+   "type": "bar"
+  },
+  {
+   "name": "Prince Kitchen",
+   "cuisine": null,
+   "type": "restaurant"
+  },
+  {
+   "name": "Carrots The Vegan Bistro, Bangkok",
+   "cuisine": null,
+   "type": "restaurant"
+  },
+  {
+   "name": "Saffron Restaurant",
    "cuisine": null,
    "type": "restaurant"
   }
  ],
- "meal_plans": [],
- "all_inclusive_details": null,
+ "meal_plans": [
+  "AI",
+  "Dine Around",
+  "BB",
+  "HB",
+  "FB"
+ ],
+ "all_inclusive_details": "all-inclusive package from exclusive dining offers, wellness treatment to Diving & Water sports activities.",
  "spa": {
-  "name": "Banyan Tree Spa",
+  "name": "Spa",
   "treatment_rooms": null,
   "signature_treatments": [],
-  "menu_doc": null
+  "menu_doc": "https://cdn3.me-qr.com/pdf/19798997.pdf?time=1775077089"
  },
  "diving_watersports": {
   "operator": "Dive Centre",
-  "house_reef": "house reef where turtles, reef sharks and rays thrive, Banyan Tree Vabbinfaru is a sanctuary of natural beauty in North Malé Atoll",
+  "house_reef": "house reef just steps from the shore, the resort offers 48 private all-pool beach villas designed for intimacy, wellbeing, and connection with nature",
   "activities": [
    "catamaran",
-   "windsurfing",
-   "wakeboarding",
+   "fishing",
+   "sunset cruise",
    "sailing",
-   "banana boat",
-   "canoe"
+   "stand-up paddle",
+   "paddleboard",
+   "snorkelling",
+   "snorkeling",
+   "scuba diving",
+   "windsurfing",
+   "kayaking",
+   "jet ski",
+   "dolphin cruise",
+   "water skiing",
+   "wakeboarding",
+   "canoe",
+   "manta",
+   "banana boat"
   ],
   "price_list_doc": null
  },
  "excursions": [
+  "cooking class",
   "sandbank",
-  "turtle"
+  "turtle",
+  "dolphin",
+  "manta",
+  "night fishing",
+  "picnic",
+  "stargazing",
+  "cinema"
  ],
  "kids_family": {
-  "kids_club": null,
+  "kids_club": "Golf\nIn-Room Dining\nKids Club",
   "age_range": null,
-  "teens": null
+  "teens": "teens programme mentioned"
  },
  "wellness_fitness": [
   "yoga",
   "fitness centre",
-  "gym"
+  "meditation",
+  "pilates",
+  "gym",
+  "steam",
+  "sound healing",
+  "wellness programme",
+  "tennis",
+  "beach volleyball",
+  "sauna",
+  "fitness center",
+  "padel"
  ],
  "weddings": {
   "offered": true,
-  "vow_renewal": null,
-  "venues": [],
+  "vow_renewal": true,
+  "venues": [
+   "and a wedding chapel that can host intimate",
+   "Beach Wedding",
+   "Lagoon Wedding"
+  ],
   "packages": [],
   "brochure_doc": null
  },
  "events_mice": {
-  "venues": [],
-  "capacity_max": null,
-  "buyout": null,
-  "doc": null
+  "venues": [
+   "Boardroom 32 sqm • • • • 10",
+   "Boardroom Banyan Room Summit Room 17",
+   "Extensive spa facilities, a luxurious ballroom",
+   "Total event space",
+   "Boardroom",
+   "Beyond the Meeting Room"
+  ],
+  "capacity_max": 600,
+  "buyout": true,
+  "doc": "https://www.banyantree.com/assets/2022-06/mice-bt-shanghai.pdf"
  },
  "sustainability": [
-  "marine lab"
+  "marine lab",
+  "single-use plastic",
+  "EarthCheck",
+  "coral restoration",
+  "marine biologist",
+  "plastic-free",
+  "reef restoration",
+  "coral nursery",
+  "solar"
  ],
  "contacts_public": {
-  "reservations_email": "info@neoscapesmaldives.com",
+  "reservations_email": "reservations-vabbinfaru@banyantree.com",
   "weddings_email": null,
-  "phone": "+960 736 5425"
+  "phone": "+960 664 3147"
  },
  "documents_latest": {
   "factsheet": "https://www.neoscapesmaldives.com/wp-content/uploads/Factsheet-Banyan-Tree-Vabbinfaru-compressed.pdf",
-  "map": "https://www.neoscapesmaldives.com/wp-content/uploads/BTMVMV-Resort-Map-5.0-1.pdf",
+  "map": "https://www.banyantree.com/assets/2021-10/bt-shanghai-grand_bund_suite_floor_plan.pdf",
   "wedding": null,
-  "spa_menu": null,
+  "spa_menu": "https://cdn3.me-qr.com/pdf/19798997.pdf?time=1775077089",
   "dining_menu": null,
   "dive_prices": null,
-  "events": null,
+  "events": "https://www.banyantree.com/assets/2022-06/mice-bt-shanghai.pdf",
   "calendar": null
  },
- "documents_count": 2,
+ "documents_count": 27,
  "gaps": [
-  "wedding brochure",
-  "events/MICE document",
-  "fact: kids club"
+  "wedding brochure"
  ],
  "sources": {
   "atoll": [
@@ -186,6 +320,111 @@
     "value": "Kaafu Atoll",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Factsheet-Banyan-Tree-Vabbinfaru-compressed.pdf",
     "as_of": 2025
+   },
+   {
+    "value": "North Malé Atoll",
+    "source_url": "https://www.banyantree.com/assets/2021-11/under-the-banyan-tree-25th-anniversary-issue.pdf",
+    "as_of": 2019
+   },
+   {
+    "value": "North Malé Atoll",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "North Male Atoll",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/spa/banyan-tree-spa-vabbinfaru",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "North Male Atoll",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/sustainability",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "North Male Atoll",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/facilities",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "North Malé Atoll",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/location",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "North Malé Atoll",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/experiences/culture-community",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "North Malé Atoll",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/blog",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "North Malé Atoll",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/offers/sense-of-romance",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "North Malé Atoll",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/wedding-package",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "North Malé Atoll",
+    "source_url": "https://www.banyantree.com/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "North Malé Atoll",
+    "source_url": "http://banyantree.com",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "North Malé Atoll",
+    "source_url": "https://www.banyantree.com/contact-us",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "North Malé Atoll",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "North Malé Atoll",
+    "source_url": "http://banyantree.com/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "North Malé Atoll",
+    "source_url": "http://banyantree.com/maldives/vabbinfaru",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "North Malé Atoll",
+    "source_url": "http://banyantree.com/contact-us",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "North Malé Atoll",
+    "source_url": "http://www.banyantree.com",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "North Malé Atoll",
+    "source_url": "https://www.banyantree.com",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "North Male Atoll",
+    "source_url": "https://www.banyantree.com/cn/contact-us",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "North Malé Atoll",
+    "source_url": "https://www.banyantree.com/ko/contact-us",
+    "as_of": "2026-10-05"
    },
    {
     "value": "North Malé Atoll",
@@ -201,6 +440,96 @@
    },
    {
     "value": "speedboat",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/location",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/blog",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/offers/spring-limited-time-offer",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/blog/beyond-the-treatment-room",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/blog/beyond-the-treatment-room",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "domestic flight",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/blog/beyond-the-treatment-room",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/blog/the-most-romantic-island-in-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/blog/the-most-romantic-island-in-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "domestic flight",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/blog/the-most-romantic-island-in-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "domestic flight",
+    "source_url": "https://www.banyantree.com/terms-and-conditions",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.banyantree.com/thailand/samui",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "yacht",
+    "source_url": "https://www.banyantree.com/mexico/mayakoba/experiences/mayakoba-experiences",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "yacht",
+    "source_url": "https://www.banyantree.com/mexico/mayakoba/gallery",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "domestic flight",
+    "source_url": "http://banyantree.com/terms-and-conditions",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "http://banyantree.com/thailand/samui",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "http://banyantree.com/maldives/vabbinfaru",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "speedboat",
     "source_url": "https://www.neoscapesmaldives.com/resort/banyan-tree-vabbinfaru/",
     "as_of": "2026-10-04"
    }
@@ -213,6 +542,36 @@
    },
    {
     "value": 25,
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 20,
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/location",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 25,
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/blog",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 25,
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/blog/the-most-romantic-island-in-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 25,
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": 25,
+    "source_url": "http://banyantree.com/maldives/vabbinfaru",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": 25,
     "source_url": "https://www.neoscapesmaldives.com/resort/banyan-tree-vabbinfaru/",
     "as_of": "2026-10-04"
    }
@@ -222,6 +581,106 @@
     "value": 14,
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Factsheet-Banyan-Tree-Vabbinfaru-compressed.pdf",
     "as_of": 2025
+   },
+   {
+    "value": 130,
+    "source_url": "https://www.banyantree.com/assets/2022-06/mice-bt-shanghai.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": 158,
+    "source_url": "https://www.banyantree.com/assets/2021-11/under-the-banyan-tree-25th-anniversary-issue.pdf",
+    "as_of": 2019
+   },
+   {
+    "value": 48,
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 52,
+    "source_url": "https://www.banyantree.com/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": 52,
+    "source_url": "http://banyantree.com",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": 52,
+    "source_url": "https://www.banyantree.com/japan/kyoto",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": 72,
+    "source_url": "https://www.banyantree.com/thailand/krabi",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": 48,
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": 217,
+    "source_url": "https://www.banyantree.com/thailand/phuket",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": 159,
+    "source_url": "https://www.banyantree.com/mexico/mayakoba/accommodation",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": 15,
+    "source_url": "https://www.banyantree.com/mexico/mayakoba/meetings-and-events",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": 10,
+    "source_url": "https://www.banyantree.com/china/shanghai-on-the-bund/offers",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": 130,
+    "source_url": "https://www.banyantree.com/china/shanghai-on-the-bund/accommodation",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": 72,
+    "source_url": "http://banyantree.com/thailand/krabi",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": 217,
+    "source_url": "http://banyantree.com/thailand/phuket",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": 52,
+    "source_url": "http://banyantree.com/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": 52,
+    "source_url": "http://banyantree.com/japan/kyoto",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": 48,
+    "source_url": "http://banyantree.com/maldives/vabbinfaru",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": 52,
+    "source_url": "http://www.banyantree.com",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": 52,
+    "source_url": "https://www.banyantree.com",
+    "as_of": "2026-10-05"
    }
   ],
   "villas.categories": [
@@ -323,15 +782,63 @@
    },
    {
     "value": {
-     "name": "SAFFRON OCEAN VIEW POOL VILLA",
-     "count": 20,
+     "name": "Visages and Villages",
+     "count": 30,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://www.banyantree.com/assets/2021-11/under-the-banyan-tree-25th-anniversary-issue.pdf",
+    "as_of": 2019
+   },
+   {
+    "value": {
+     "name": "one- to three-bedroom villas, each either facing the sea",
+     "count": 113,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://www.banyantree.com/assets/2021-11/under-the-banyan-tree-25th-anniversary-issue.pdf",
+    "as_of": 2019
+   },
+   {
+    "value": {
+     "name": "Vietnam Hong Po Village Hebei District Fa : +",
+     "count": 611,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://www.banyantree.com/assets/2021-11/under-the-banyan-tree-25th-anniversary-issue.pdf",
+    "as_of": 2019
+   },
+   {
+    "value": {
+     "name": "all-pool private beach villas",
+     "count": 48,
      "size_sqm": null,
      "max_occupancy": null,
      "pool": true,
-     "overwater": true
+     "overwater": null
     },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/BTMVMV-Resort-Map-5.0-1.pdf",
-    "as_of": 2024
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/private-island-buy-out",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "all-pool private beach villas",
+     "count": 48,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": true,
+     "overwater": null
+    },
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/experiences/private-island-buy-out",
+    "as_of": "2026-10-04"
    },
    {
     "value": {
@@ -353,6 +860,281 @@
     "as_of": 2025
    },
    {
+    "value": "Spa",
+    "source_url": "https://www.banyantree.com/assets/2022-06/mice-bt-shanghai.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://cdn3.me-qr.com/pdf/19798997.pdf?time=1775077089",
+    "as_of": 2026
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://cdn3.me-qr.com/pdf/20435864.pdf?time=1768340980",
+    "as_of": 2026
+   },
+   {
+    "value": "Banyan Tree Spa",
+    "source_url": "https://www.banyantree.com/assets/2021-11/under-the-banyan-tree-25th-anniversary-issue.pdf",
+    "as_of": 2019
+   },
+   {
+    "value": "Banyan Tree Spa",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Book Spa",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/spa/banyan-tree-spa-vabbinfaru",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Banyan Tree Spa",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/experiences/dine-around",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Award-winning Banyan Tree Spa",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/private-island-buy-out",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Award-Winning Spa",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/experiences/private-island-buy-out",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Banyan Tree Spa",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/blog/beyond-the-treatment-room",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "More\nBanyan Tree Spa",
+    "source_url": "https://www.banyantree.com/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Banyan Tree Spa",
+    "source_url": "https://www.banyantree.com/mexico/mayakoba",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Banyan Tree Spa",
+    "source_url": "https://www.banyantree.com/china/shanghai-on-the-bund",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "More\nBanyan Tree Spa",
+    "source_url": "http://banyantree.com",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.banyantree.com/contact-us",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Banyan Tree Spa",
+    "source_url": "https://www.banyantree.com/under-the-banyan-tree",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Gallery\nBanyan Tree Spa",
+    "source_url": "https://www.banyantree.com/vietnam/lang-co",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Banyan Tree Spa",
+    "source_url": "https://www.banyantree.com/indonesia/bintan",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Banyan Tree Spa",
+    "source_url": "https://www.banyantree.com/thailand/krabi",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Banyan Tree Spa",
+    "source_url": "https://www.banyantree.com/spa-wellbeing",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Gallery\nBanyan Tree Spa",
+    "source_url": "https://www.banyantree.com/singapore/mandai-rainforest-resort-by-banyan-tree",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Banyan Tree Spa",
+    "source_url": "https://www.banyantree.com/thailand/bangkok",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Toja Spa",
+    "source_url": "https://www.banyantree.com/banyan-tree-wellbeing-sanctuary",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Banyan Tree Spa",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Gallery\nBanyan Tree Spa",
+    "source_url": "https://www.banyantree.com/thailand/samui",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.banyantree.com/cn",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Best Spa",
+    "source_url": "https://www.banyantree.com/thailand/phuket",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Read More\nSignature Spa",
+    "source_url": "https://www.banyantree.com/mexico/mayakoba/spa/banyan-tree-spa-mayakoba",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Banyan Tree Spa",
+    "source_url": "https://www.banyantree.com/mexico/mayakoba/gallery",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Banyan Tree Spa",
+    "source_url": "https://www.banyantree.com/mexico/mayakoba/offers",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "VIPs\nComplimentary Wi-Fi\nSpa",
+    "source_url": "https://www.banyantree.com/mexico/mayakoba/meetings-and-events",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Couple's Spa",
+    "source_url": "https://www.banyantree.com/china/shanghai-on-the-bund/weddings-honeymoons",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.banyantree.com/china/shanghai-on-the-bund/gallery",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Book Spa",
+    "source_url": "https://www.banyantree.com/spa/banyan-tree-spa-shanghai-on-the-bund",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Banyan Tree Spa",
+    "source_url": "http://banyantree.com/china/shanghai-on-the-bund",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Banyan Tree Spa",
+    "source_url": "http://banyantree.com/thailand/krabi",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Toja Spa",
+    "source_url": "http://banyantree.com/banyan-tree-wellbeing-sanctuary",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Banyan Tree Spa",
+    "source_url": "http://banyantree.com/indonesia/bintan",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Best Spa",
+    "source_url": "http://banyantree.com/thailand/phuket",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Spa",
+    "source_url": "http://banyantree.com/cn",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Banyan Tree Spa",
+    "source_url": "http://banyantree.com/spa-wellbeing",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Gallery\nBanyan Tree Spa",
+    "source_url": "http://banyantree.com/singapore/mandai-rainforest-resort-by-banyan-tree",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Gallery\nBanyan Tree Spa",
+    "source_url": "http://banyantree.com/vietnam/lang-co",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Banyan Tree Spa",
+    "source_url": "http://banyantree.com/mexico/mayakoba",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Gallery\nBanyan Tree Spa",
+    "source_url": "http://banyantree.com/thailand/samui",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Banyan Tree Spa",
+    "source_url": "http://banyantree.com/thailand/bangkok",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Banyan Tree Spa",
+    "source_url": "http://banyantree.com/under-the-banyan-tree",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "More\nBanyan Tree Spa",
+    "source_url": "http://banyantree.com/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Banyan Tree Spa",
+    "source_url": "http://banyantree.com/maldives/vabbinfaru",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Spa",
+    "source_url": "http://banyantree.com/contact-us",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "More\nBanyan Tree Spa",
+    "source_url": "http://www.banyantree.com",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "More\nBanyan Tree Spa",
+    "source_url": "https://www.banyantree.com",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.banyantree.com/cn/contact-us",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Maji Spa",
+    "source_url": "https://www.banyantree.com/the-healer-of-iringa",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Banyan Tree Spa",
+    "source_url": "https://www.banyantree.com/beekeeping-in-urban-singapore-resort",
+    "as_of": "2026-10-05"
+   },
+   {
     "value": "Banyan Tree Spa",
     "source_url": "https://www.neoscapesmaldives.com/resort/banyan-tree-vabbinfaru/",
     "as_of": "2026-10-04"
@@ -363,6 +1145,11 @@
     "value": "Dive Centre",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Factsheet-Banyan-Tree-Vabbinfaru-compressed.pdf",
     "as_of": 2025
+   },
+   {
+    "value": "Dive Centre",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/facilities",
+    "as_of": "2026-10-04"
    }
   ],
   "diving_watersports.activities": [
@@ -370,6 +1157,856 @@
     "value": "catamaran",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Factsheet-Banyan-Tree-Vabbinfaru-compressed.pdf",
     "as_of": 2025
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.banyantree.com/assets/2025-06/bt-mayakoba-gastronomic-guide.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.banyantree.com/assets/2025-06/bt-mayakoba-gastronomic-guide.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "sailing",
+    "source_url": "https://www.banyantree.com/assets/2025-06/bt-mayakoba-gastronomic-guide.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "stand-up paddle",
+    "source_url": "https://cdn3.me-qr.com/pdf/20435864.pdf?time=1768340980",
+    "as_of": 2026
+   },
+   {
+    "value": "paddleboard",
+    "source_url": "https://cdn3.me-qr.com/pdf/20435864.pdf?time=1768340980",
+    "as_of": 2026
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.banyantree.com/assets/2021-11/under-the-banyan-tree-25th-anniversary-issue.pdf",
+    "as_of": 2019
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "windsurfing",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "kayaking",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "stand-up paddle",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "paddleboard",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "catamaran",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "jet ski",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin cruise",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sailing",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/experiences/resort-activities",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/experiences/resort-activities",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "windsurfing",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/experiences/resort-activities",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "kayaking",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/experiences/resort-activities",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "paddleboard",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/experiences/resort-activities",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "catamaran",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/experiences/resort-activities",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "jet ski",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/experiences/resort-activities",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/experiences/resort-activities",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin cruise",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/experiences/resort-activities",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/gallery",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/gallery",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "catamaran",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/gallery",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/gallery",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sailing",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/gallery",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/sustainability",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/facilities",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "windsurfing",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/facilities",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "catamaran",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/facilities",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "water skiing",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/facilities",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "wakeboarding",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/facilities",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sailing",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/facilities",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "canoe",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/facilities",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/location",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sailing",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/accommodation",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/private-island-buy-out",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/experiences/culture-community",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/experiences/culture-community",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/experiences",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/experiences",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/experiences/into-the-blue",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/experiences/into-the-blue",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "windsurfing",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/experiences/into-the-blue",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "kayaking",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/experiences/into-the-blue",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "paddleboard",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/experiences/into-the-blue",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "catamaran",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/experiences/into-the-blue",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "jet ski",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/experiences/into-the-blue",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/experiences/into-the-blue",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin cruise",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/experiences/into-the-blue",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/offers/spring-limited-time-offer",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/offers/stay-more-pay-less",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/offers/banyan-tree-villa-lifestyle",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/offers/banyan-tree-villa-lifestyle",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/offers/banyan-tree-villa-lifestyle",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin cruise",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/offers/banyan-tree-villa-lifestyle",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/offers/festive-celebrations-in-the-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/offers/festive-celebrations-in-the-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/offers/festive-celebrations-in-the-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "canoe",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/offers/festive-celebrations-in-the-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/offers/advance-purchase",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/offers/advance-purchase",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/offers/sense-of-romance",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "catamaran",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/offers/sense-of-romance",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/offers/sense-of-romance",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/offers/banyan-tree-connections",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/offers/banyan-tree-connections",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/experiences/private-island-buy-out",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/experiences/family-vacations",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/blog/the-most-romantic-island-in-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.banyantree.com/mexico/mayakoba",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "kayaking",
+    "source_url": "https://www.banyantree.com/mexico/mayakoba",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "stand-up paddle",
+    "source_url": "https://www.banyantree.com/mexico/mayakoba",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "paddleboard",
+    "source_url": "https://www.banyantree.com/mexico/mayakoba",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.banyantree.com/under-the-banyan-tree",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.banyantree.com/vietnam/lang-co",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://www.banyantree.com/vietnam/lang-co",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "stand-up paddle",
+    "source_url": "https://www.banyantree.com/vietnam/lang-co",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "paddleboard",
+    "source_url": "https://www.banyantree.com/vietnam/lang-co",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "jet ski",
+    "source_url": "https://www.banyantree.com/vietnam/lang-co",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "banana boat",
+    "source_url": "https://www.banyantree.com/vietnam/lang-co",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.banyantree.com/indonesia/bintan",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.banyantree.com/indonesia/bintan",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "kayaking",
+    "source_url": "https://www.banyantree.com/indonesia/bintan",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "stand-up paddle",
+    "source_url": "https://www.banyantree.com/indonesia/bintan",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "paddleboard",
+    "source_url": "https://www.banyantree.com/indonesia/bintan",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.banyantree.com/indonesia/bintan",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "kayaking",
+    "source_url": "https://www.banyantree.com/thailand/krabi",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "stand-up paddle",
+    "source_url": "https://www.banyantree.com/thailand/krabi",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "paddleboard",
+    "source_url": "https://www.banyantree.com/thailand/krabi",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sailing",
+    "source_url": "https://www.banyantree.com/thailand/krabi",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.banyantree.com/our-brand-story",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.banyantree.com/mexico/cabo-marques",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://www.banyantree.com/mexico/cabo-marques",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.banyantree.com/experiences",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "windsurfing",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "kayaking",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "stand-up paddle",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "paddleboard",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "catamaran",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "jet ski",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "dolphin cruise",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sailing",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.banyantree.com/thailand/samui",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.banyantree.com/thailand/samui",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://www.banyantree.com/thailand/samui",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "kayaking",
+    "source_url": "https://www.banyantree.com/thailand/samui",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "stand-up paddle",
+    "source_url": "https://www.banyantree.com/thailand/samui",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "paddleboard",
+    "source_url": "https://www.banyantree.com/thailand/samui",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sailing",
+    "source_url": "https://www.banyantree.com/thailand/samui",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.banyantree.com/mexico/mayakoba/experiences/mayakoba-experiences",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://www.banyantree.com/mexico/mayakoba/experiences/mayakoba-experiences",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "kayaking",
+    "source_url": "https://www.banyantree.com/mexico/mayakoba/gallery",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.banyantree.com/mexico/mayakoba/offers",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.banyantree.com/mexico/mayakoba/dining",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.banyantree.com/mexico/mayakoba/dining",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.banyantree.com/mexico/mayakoba/experiences/discover-the-riviera-mayas-cenotes-ruins",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://www.banyantree.com/mexico/mayakoba/experiences/discover-the-riviera-mayas-cenotes-ruins",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "kayaking",
+    "source_url": "http://banyantree.com/thailand/krabi",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "stand-up paddle",
+    "source_url": "http://banyantree.com/thailand/krabi",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "paddleboard",
+    "source_url": "http://banyantree.com/thailand/krabi",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sailing",
+    "source_url": "http://banyantree.com/thailand/krabi",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "http://banyantree.com/indonesia/bintan",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "http://banyantree.com/indonesia/bintan",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "kayaking",
+    "source_url": "http://banyantree.com/indonesia/bintan",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "stand-up paddle",
+    "source_url": "http://banyantree.com/indonesia/bintan",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "paddleboard",
+    "source_url": "http://banyantree.com/indonesia/bintan",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "http://banyantree.com/indonesia/bintan",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "http://banyantree.com/experiences",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "http://banyantree.com/vietnam/lang-co",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "http://banyantree.com/vietnam/lang-co",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "stand-up paddle",
+    "source_url": "http://banyantree.com/vietnam/lang-co",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "paddleboard",
+    "source_url": "http://banyantree.com/vietnam/lang-co",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "jet ski",
+    "source_url": "http://banyantree.com/vietnam/lang-co",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "banana boat",
+    "source_url": "http://banyantree.com/vietnam/lang-co",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "http://banyantree.com/mexico/mayakoba",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "kayaking",
+    "source_url": "http://banyantree.com/mexico/mayakoba",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "stand-up paddle",
+    "source_url": "http://banyantree.com/mexico/mayakoba",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "paddleboard",
+    "source_url": "http://banyantree.com/mexico/mayakoba",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "http://banyantree.com/thailand/samui",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "http://banyantree.com/thailand/samui",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "http://banyantree.com/thailand/samui",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "kayaking",
+    "source_url": "http://banyantree.com/thailand/samui",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "stand-up paddle",
+    "source_url": "http://banyantree.com/thailand/samui",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "paddleboard",
+    "source_url": "http://banyantree.com/thailand/samui",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sailing",
+    "source_url": "http://banyantree.com/thailand/samui",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "http://banyantree.com/mexico/cabo-marques",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "http://banyantree.com/mexico/cabo-marques",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "fishing",
+    "source_url": "http://banyantree.com/under-the-banyan-tree",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "fishing",
+    "source_url": "http://banyantree.com/our-brand-story",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "http://banyantree.com/maldives/vabbinfaru",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "http://banyantree.com/maldives/vabbinfaru",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "http://banyantree.com/maldives/vabbinfaru",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "windsurfing",
+    "source_url": "http://banyantree.com/maldives/vabbinfaru",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "kayaking",
+    "source_url": "http://banyantree.com/maldives/vabbinfaru",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "stand-up paddle",
+    "source_url": "http://banyantree.com/maldives/vabbinfaru",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "paddleboard",
+    "source_url": "http://banyantree.com/maldives/vabbinfaru",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "catamaran",
+    "source_url": "http://banyantree.com/maldives/vabbinfaru",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "jet ski",
+    "source_url": "http://banyantree.com/maldives/vabbinfaru",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "dolphin cruise",
+    "source_url": "http://banyantree.com/maldives/vabbinfaru",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sailing",
+    "source_url": "http://banyantree.com/maldives/vabbinfaru",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "kayaking",
+    "source_url": "https://www.banyantree.com/article/8-ways-to-live-and-travel-well",
+    "as_of": "2026-10-05"
    },
    {
     "value": "windsurfing",
@@ -414,9 +2051,589 @@
     "as_of": 2025
    },
    {
+    "value": "fitness centre",
+    "source_url": "https://www.banyantree.com/assets/2022-06/mice-bt-shanghai.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://cdn3.me-qr.com/pdf/20435864.pdf?time=1768340980",
+    "as_of": 2026
+   },
+   {
+    "value": "meditation",
+    "source_url": "https://cdn3.me-qr.com/pdf/20435864.pdf?time=1768340980",
+    "as_of": 2026
+   },
+   {
+    "value": "pilates",
+    "source_url": "https://cdn3.me-qr.com/pdf/20435864.pdf?time=1768340980",
+    "as_of": 2026
+   },
+   {
     "value": "gym",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/BTMVMV-Resort-Map-5.0-1.pdf",
-    "as_of": 2024
+    "source_url": "https://www.banyantree.com/assets/2021-11/under-the-banyan-tree-25th-anniversary-issue.pdf",
+    "as_of": 2019
+   },
+   {
+    "value": "steam",
+    "source_url": "https://www.banyantree.com/assets/2021-11/under-the-banyan-tree-25th-anniversary-issue.pdf",
+    "as_of": 2019
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "meditation",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fitness centre",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/spa/banyan-tree-spa-vabbinfaru",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "meditation",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/spa/banyan-tree-spa-vabbinfaru",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fitness centre",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/facilities",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/experiences/wellbeing-retreats",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sound healing",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/experiences/wellbeing-retreats",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/private-island-buy-out",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "meditation",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/private-island-buy-out",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/offers/festive-celebrations-in-the-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "meditation",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/offers/festive-celebrations-in-the-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/offers/banyan-tree-connections",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/experiences/private-island-buy-out",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "meditation",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/experiences/private-island-buy-out",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sound healing",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/blog/beyond-the-treatment-room",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "wellness programme",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/blog/beyond-the-treatment-room",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sound healing",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/blog/the-most-romantic-island-in-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "wellness programme",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/blog/the-most-romantic-island-in-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.banyantree.com/mexico/mayakoba",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "fitness centre",
+    "source_url": "https://www.banyantree.com/mexico/mayakoba",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://www.banyantree.com/mexico/mayakoba",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "pilates",
+    "source_url": "https://www.banyantree.com/mexico/mayakoba",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "fitness centre",
+    "source_url": "https://www.banyantree.com/china/shanghai-on-the-bund",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.banyantree.com/vietnam/lang-co",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "meditation",
+    "source_url": "https://www.banyantree.com/vietnam/lang-co",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "fitness centre",
+    "source_url": "https://www.banyantree.com/vietnam/lang-co",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.banyantree.com/indonesia/bintan",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "beach volleyball",
+    "source_url": "https://www.banyantree.com/indonesia/bintan",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "fitness centre",
+    "source_url": "https://www.banyantree.com/japan/kyoto",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "fitness centre",
+    "source_url": "https://www.banyantree.com/thailand/krabi",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sauna",
+    "source_url": "https://www.banyantree.com/thailand/krabi",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "steam",
+    "source_url": "https://www.banyantree.com/thailand/krabi",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.banyantree.com/spa-wellbeing",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "meditation",
+    "source_url": "https://www.banyantree.com/spa-wellbeing",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sound healing",
+    "source_url": "https://www.banyantree.com/spa-wellbeing",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sauna",
+    "source_url": "https://www.banyantree.com/spa-wellbeing",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "steam",
+    "source_url": "https://www.banyantree.com/spa-wellbeing",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "fitness centre",
+    "source_url": "https://www.banyantree.com/singapore/mandai-rainforest-resort-by-banyan-tree",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.banyantree.com/thailand/bangkok",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.banyantree.com/mexico/cabo-marques",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "gym",
+    "source_url": "https://www.banyantree.com/mexico/cabo-marques",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "fitness centre",
+    "source_url": "https://www.banyantree.com/mexico/cabo-marques",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "fitness center",
+    "source_url": "https://www.banyantree.com/mexico/cabo-marques",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://www.banyantree.com/mexico/cabo-marques",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.banyantree.com/banyan-tree-wellbeing-sanctuary",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "meditation",
+    "source_url": "https://www.banyantree.com/banyan-tree-wellbeing-sanctuary",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.banyantree.com/experiences",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "meditation",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "fitness centre",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.banyantree.com/thailand/samui",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "fitness centre",
+    "source_url": "https://www.banyantree.com/thailand/samui",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sauna",
+    "source_url": "https://www.banyantree.com/thailand/samui",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "steam",
+    "source_url": "https://www.banyantree.com/thailand/samui",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.banyantree.com/thailand/phuket",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "meditation",
+    "source_url": "https://www.banyantree.com/thailand/phuket",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "fitness centre",
+    "source_url": "https://www.banyantree.com/thailand/phuket",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://www.banyantree.com/thailand/phuket",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://www.banyantree.com/mexico/mayakoba/experiences/mayakoba-experiences",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "padel",
+    "source_url": "https://www.banyantree.com/mexico/mayakoba/experiences/mayakoba-experiences",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.banyantree.com/mexico/mayakoba/meetings-and-events",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "fitness centre",
+    "source_url": "https://www.banyantree.com/mexico/mayakoba/meetings-and-events",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://www.banyantree.com/mexico/mayakoba/meetings-and-events",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.banyantree.com/china/shanghai-on-the-bund/weddings-honeymoons",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.banyantree.com/spa/banyan-tree-spa-shanghai-on-the-bund",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "meditation",
+    "source_url": "https://www.banyantree.com/spa/banyan-tree-spa-shanghai-on-the-bund",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sound healing",
+    "source_url": "https://www.banyantree.com/spa/banyan-tree-spa-shanghai-on-the-bund",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "fitness centre",
+    "source_url": "http://banyantree.com/china/shanghai-on-the-bund",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "fitness centre",
+    "source_url": "http://banyantree.com/thailand/krabi",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sauna",
+    "source_url": "http://banyantree.com/thailand/krabi",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "steam",
+    "source_url": "http://banyantree.com/thailand/krabi",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "yoga",
+    "source_url": "http://banyantree.com/banyan-tree-wellbeing-sanctuary",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "meditation",
+    "source_url": "http://banyantree.com/banyan-tree-wellbeing-sanctuary",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "yoga",
+    "source_url": "http://banyantree.com/indonesia/bintan",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "beach volleyball",
+    "source_url": "http://banyantree.com/indonesia/bintan",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "yoga",
+    "source_url": "http://banyantree.com/thailand/phuket",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "meditation",
+    "source_url": "http://banyantree.com/thailand/phuket",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "fitness centre",
+    "source_url": "http://banyantree.com/thailand/phuket",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "tennis",
+    "source_url": "http://banyantree.com/thailand/phuket",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "yoga",
+    "source_url": "http://banyantree.com/spa-wellbeing",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "meditation",
+    "source_url": "http://banyantree.com/spa-wellbeing",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sound healing",
+    "source_url": "http://banyantree.com/spa-wellbeing",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sauna",
+    "source_url": "http://banyantree.com/spa-wellbeing",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "steam",
+    "source_url": "http://banyantree.com/spa-wellbeing",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "fitness centre",
+    "source_url": "http://banyantree.com/singapore/mandai-rainforest-resort-by-banyan-tree",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "yoga",
+    "source_url": "http://banyantree.com/experiences",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "yoga",
+    "source_url": "http://banyantree.com/vietnam/lang-co",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "meditation",
+    "source_url": "http://banyantree.com/vietnam/lang-co",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "fitness centre",
+    "source_url": "http://banyantree.com/vietnam/lang-co",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "yoga",
+    "source_url": "http://banyantree.com/mexico/mayakoba",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "fitness centre",
+    "source_url": "http://banyantree.com/mexico/mayakoba",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "tennis",
+    "source_url": "http://banyantree.com/mexico/mayakoba",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "pilates",
+    "source_url": "http://banyantree.com/mexico/mayakoba",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "yoga",
+    "source_url": "http://banyantree.com/thailand/samui",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "fitness centre",
+    "source_url": "http://banyantree.com/thailand/samui",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sauna",
+    "source_url": "http://banyantree.com/thailand/samui",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "steam",
+    "source_url": "http://banyantree.com/thailand/samui",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "yoga",
+    "source_url": "http://banyantree.com/mexico/cabo-marques",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "gym",
+    "source_url": "http://banyantree.com/mexico/cabo-marques",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "fitness centre",
+    "source_url": "http://banyantree.com/mexico/cabo-marques",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "fitness center",
+    "source_url": "http://banyantree.com/mexico/cabo-marques",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "tennis",
+    "source_url": "http://banyantree.com/mexico/cabo-marques",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "yoga",
+    "source_url": "http://banyantree.com/thailand/bangkok",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "fitness centre",
+    "source_url": "http://banyantree.com/japan/kyoto",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "yoga",
+    "source_url": "http://banyantree.com/maldives/vabbinfaru",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "meditation",
+    "source_url": "http://banyantree.com/maldives/vabbinfaru",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "fitness centre",
+    "source_url": "http://banyantree.com/maldives/vabbinfaru",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.banyantree.com/article/8-ways-to-live-and-travel-well",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "meditation",
+    "source_url": "https://www.banyantree.com/article/8-ways-to-live-and-travel-well",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "gym",
+    "source_url": "https://www.banyantree.com/article/8-ways-to-live-and-travel-well",
+    "as_of": "2026-10-05"
    },
    {
     "value": "fitness centre",
@@ -432,8 +2649,228 @@
    },
    {
     "value": "marine lab",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/BTMVMV-Resort-Map-5.0-1.pdf",
-    "as_of": 2024
+    "source_url": "https://www.banyantree.com/assets/2021-11/under-the-banyan-tree-25th-anniversary-issue.pdf",
+    "as_of": 2019
+   },
+   {
+    "value": "single-use plastic",
+    "source_url": "https://www.banyantree.com/assets/2021-11/under-the-banyan-tree-25th-anniversary-issue.pdf",
+    "as_of": 2019
+   },
+   {
+    "value": "EarthCheck",
+    "source_url": "https://www.banyantree.com/assets/2021-11/under-the-banyan-tree-25th-anniversary-issue.pdf",
+    "as_of": 2019
+   },
+   {
+    "value": "coral restoration",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "marine lab",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "marine biologist",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/experiences/resort-activities",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "marine lab",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/sustainability",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "plastic-free",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/sustainability",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "single-use plastic",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/sustainability",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "EarthCheck",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/sustainability",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "reef restoration",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/sustainability",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "marine lab",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/facilities",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "marine lab",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/private-island-buy-out",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "coral restoration",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/experiences",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "marine biologist",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/experiences",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "marine biologist",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/experiences/into-the-blue",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "coral restoration",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/offers/festive-celebrations-in-the-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "marine lab",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/offers/festive-celebrations-in-the-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "coral restoration",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/experiences/stay-for-good",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "coral nursery",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/experiences/stay-for-good",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "marine biologist",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/experiences/stay-for-good",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "marine lab",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/experiences/stay-for-good",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "marine lab",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/experiences/private-island-buy-out",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "marine biologist",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/blog/beyond-the-treatment-room",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "marine lab",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/blog/beyond-the-treatment-room",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "marine biologist",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/blog/the-most-romantic-island-in-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "marine lab",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/blog/the-most-romantic-island-in-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "solar",
+    "source_url": "https://www.banyantree.com/mexico/mayakoba",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "single-use plastic",
+    "source_url": "https://www.banyantree.com/under-the-banyan-tree",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "EarthCheck",
+    "source_url": "https://www.banyantree.com/sustainability",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "EarthCheck",
+    "source_url": "https://www.banyantree.com/indonesia/bintan",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "coral restoration",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "marine lab",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "solar",
+    "source_url": "https://www.banyantree.com/mexico/mayakoba/spa/banyan-tree-spa-mayakoba",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "coral restoration",
+    "source_url": "https://www.banyantree.com/mexico/mayakoba/experiences/mayakoba-experiences",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "solar",
+    "source_url": "https://www.banyantree.com/mexico/mayakoba/accommodation/two-bedroom-family-residence",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "solar",
+    "source_url": "https://www.banyantree.com/mexico/mayakoba/accommodation",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "single-use plastic",
+    "source_url": "https://www.banyantree.com/mexico/mayakoba/sustainability",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "solar",
+    "source_url": "https://www.banyantree.com/mexico/mayakoba/accommodation/three-bedroom-family-residence",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "EarthCheck",
+    "source_url": "http://banyantree.com/sustainability",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "EarthCheck",
+    "source_url": "http://banyantree.com/indonesia/bintan",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "solar",
+    "source_url": "http://banyantree.com/mexico/mayakoba",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "single-use plastic",
+    "source_url": "http://banyantree.com/under-the-banyan-tree",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "coral restoration",
+    "source_url": "http://banyantree.com/maldives/vabbinfaru",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "marine lab",
+    "source_url": "http://banyantree.com/maldives/vabbinfaru",
+    "as_of": "2026-10-05"
    },
    {
     "value": "marine lab",
@@ -444,21 +2881,174 @@
   "dining": [
    {
     "value": {
-     "name": "Dining",
+     "name": "Saffron Cello Oriente Pastry Kitchen",
      "cuisine": null,
      "type": "restaurant"
     },
-    "source_url": "https://www.neoscapesmaldives.com/resort/banyan-tree-vabbinfaru/",
+    "source_url": "https://www.banyantree.com/assets/2025-06/bt-mayakoba-gastronomic-guide.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": {
+     "name": "Restaurants Banyan Lounge • Oceans",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.banyantree.com/assets/2022-06/mice-bt-shanghai.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Naiboli Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/dining",
     "as_of": "2026-10-04"
    },
    {
     "value": {
-     "name": "Dining",
+     "name": "Naiboli Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/dining/naiboli-bar",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Bar, Snacks",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/dining/naiboli-bar",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Bar Ryozen",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.banyantree.com/japan/kyoto",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": {
+     "name": "Club Lounge",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.banyantree.com/thailand/bangkok",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": {
+     "name": "Club Lounge for exclusive services",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.banyantree.com/thailand/bangkok",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": {
+     "name": "Reflections Pool Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.banyantree.com/mexico/mayakoba/gallery",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": {
+     "name": "Restaurant Reservations",
      "cuisine": null,
      "type": "restaurant"
     },
-    "source_url": "https://www.neoscapesmaldives.com/resort/banyan-tree-vabbinfaru/",
-    "as_of": "2026-10-04"
+    "source_url": "https://www.banyantree.com/mexico/mayakoba/dining",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": {
+     "name": "La Copa Mexican Terrace Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.banyantree.com/mexico/mayakoba/dining",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": {
+     "name": "Pool Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.banyantree.com/mexico/mayakoba/dining",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": {
+     "name": "Reflections Pool Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.banyantree.com/mexico/mayakoba/dining",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": {
+     "name": "Banyan Lounge",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.banyantree.com/china/shanghai-on-the-bund/dining",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": {
+     "name": "Prince Kitchen",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.banyantree.com/china/shanghai-on-the-bund/dining",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": {
+     "name": "Club Lounge",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "http://banyantree.com/thailand/bangkok",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": {
+     "name": "Club Lounge for exclusive services",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "http://banyantree.com/thailand/bangkok",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": {
+     "name": "Bar Ryozen",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "http://banyantree.com/japan/kyoto",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": {
+     "name": "Carrots The Vegan Bistro, Bangkok",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.banyantree.com/article/festive-feasts-for-everyone",
+    "as_of": "2026-10-05"
    },
    {
     "value": {
@@ -477,34 +3067,279 @@
     },
     "source_url": "https://www.neoscapesmaldives.com/resort/banyan-tree-vabbinfaru/",
     "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Destination Dining",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/banyan-tree-vabbinfaru/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Destination Dining",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/banyan-tree-vabbinfaru/",
-    "as_of": "2026-10-04"
-   }
-  ],
-  "diving_watersports.house_reef": [
-   {
-    "value": "house reef where turtles, reef sharks and rays thrive, Banyan Tree Vabbinfaru is a sanctuary of natural beauty in North Malé Atoll",
-    "source_url": "https://www.neoscapesmaldives.com/resort/banyan-tree-vabbinfaru/",
-    "as_of": "2026-10-04"
    }
   ],
   "excursions": [
+   {
+    "value": "cooking class",
+    "source_url": "https://www.banyantree.com/assets/2025-06/bt-mayakoba-gastronomic-guide.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "cooking class",
+    "source_url": "https://cdn3.me-qr.com/pdf/20435864.pdf?time=1768340980",
+    "as_of": 2026
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.banyantree.com/assets/2021-11/under-the-banyan-tree-25th-anniversary-issue.pdf",
+    "as_of": 2019
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.banyantree.com/assets/2021-11/under-the-banyan-tree-25th-anniversary-issue.pdf",
+    "as_of": 2019
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/experiences/resort-activities",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "cooking class",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/experiences/destination-dining",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/private-island-buy-out",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/experiences/culture-community",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "cooking class",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/experiences/culture-community",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/weddings-honeymoons",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/experiences/into-the-blue",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/offers/banyan-tree-villa-lifestyle",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "night fishing",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/offers/banyan-tree-villa-lifestyle",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/offers/festive-celebrations-in-the-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/offers/sense-of-romance",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "cooking class",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/offers/banyan-tree-connections",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/experiences/private-island-buy-out",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "night fishing",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/experiences/family-vacations",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/experiences/family-vacations",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "cooking class",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/experiences/family-vacations",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/wedding-venues",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "cooking class",
+    "source_url": "https://www.banyantree.com/mexico/mayakoba",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "night fishing",
+    "source_url": "https://www.banyantree.com/under-the-banyan-tree",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "picnic",
+    "source_url": "https://www.banyantree.com/under-the-banyan-tree",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "stargazing",
+    "source_url": "https://www.banyantree.com/under-the-banyan-tree",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.banyantree.com/indonesia/bintan",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "cooking class",
+    "source_url": "https://www.banyantree.com/thailand/krabi",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.banyantree.com/mexico/cabo-marques",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "cooking class",
+    "source_url": "https://www.banyantree.com/mexico/cabo-marques",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "cinema",
+    "source_url": "https://www.banyantree.com/experiences",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.banyantree.com/thailand/samui",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "cooking class",
+    "source_url": "https://www.banyantree.com/thailand/phuket",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "cooking class",
+    "source_url": "https://www.banyantree.com/mexico/mayakoba/experiences/mayakoba-experiences",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "cooking class",
+    "source_url": "https://www.banyantree.com/mexico/mayakoba/dining",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.banyantree.com/mexico/mayakoba/experiences/discover-the-riviera-mayas-cenotes-ruins",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.banyantree.com/mexico/mayakoba/sustainability",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "cooking class",
+    "source_url": "https://www.banyantree.com/mexico/mayakoba/meetings-and-events",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "cooking class",
+    "source_url": "http://banyantree.com/thailand/krabi",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "turtle",
+    "source_url": "http://banyantree.com/indonesia/bintan",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "cooking class",
+    "source_url": "http://banyantree.com/thailand/phuket",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "cinema",
+    "source_url": "http://banyantree.com/experiences",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "cooking class",
+    "source_url": "http://banyantree.com/mexico/mayakoba",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "turtle",
+    "source_url": "http://banyantree.com/thailand/samui",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "http://banyantree.com/mexico/cabo-marques",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "cooking class",
+    "source_url": "http://banyantree.com/mexico/cabo-marques",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "night fishing",
+    "source_url": "http://banyantree.com/under-the-banyan-tree",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "picnic",
+    "source_url": "http://banyantree.com/under-the-banyan-tree",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "stargazing",
+    "source_url": "http://banyantree.com/under-the-banyan-tree",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "http://banyantree.com/maldives/vabbinfaru",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "picnic",
+    "source_url": "https://www.banyantree.com/article/experience-alula",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "stargazing",
+    "source_url": "https://www.banyantree.com/article/experience-alula",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "cooking class",
+    "source_url": "https://www.banyantree.com/article/a-weeks-itinerary-in-bali",
+    "as_of": "2026-10-05"
+   },
    {
     "value": "sandbank",
     "source_url": "https://www.neoscapesmaldives.com/resort/banyan-tree-vabbinfaru/",
@@ -516,27 +3351,1310 @@
     "as_of": "2026-10-04"
    }
   ],
+  "events_mice.venues": [
+   {
+    "value": "Boardroom 32 sqm • • • • 10",
+    "source_url": "https://www.banyantree.com/assets/2022-06/mice-bt-shanghai.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": "Boardroom Banyan Room Summit Room 17",
+    "source_url": "https://www.banyantree.com/assets/2022-06/mice-bt-shanghai.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": "Extensive spa facilities, a luxurious ballroom",
+    "source_url": "https://www.banyantree.com/assets/2021-11/under-the-banyan-tree-25th-anniversary-issue.pdf",
+    "as_of": 2019
+   },
+   {
+    "value": "Total event space",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/wedding-venues",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Total event space",
+    "source_url": "https://www.banyantree.com/mexico/mayakoba/meetings-and-events",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Boardroom",
+    "source_url": "https://www.banyantree.com/mexico/mayakoba/meetings-and-events",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Boardroom",
+    "source_url": "https://www.banyantree.com/mexico/mayakoba/meetings-and-events",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Boardroom",
+    "source_url": "https://www.banyantree.com/mexico/mayakoba/meetings-and-events",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Boardroom",
+    "source_url": "https://www.banyantree.com/mexico/mayakoba/meetings-and-events",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Beyond the Meeting Room",
+    "source_url": "https://www.banyantree.com/mexico/mayakoba/meetings-and-events",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Total event space",
+    "source_url": "https://www.banyantree.com/china/shanghai-on-the-bund/meetings-and-events",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Boardroom",
+    "source_url": "https://www.banyantree.com/china/shanghai-on-the-bund/meetings-and-events",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Boardroom",
+    "source_url": "https://www.banyantree.com/china/shanghai-on-the-bund/meetings-and-events",
+    "as_of": "2026-10-05"
+   }
+  ],
+  "kids_family.teens": [
+   {
+    "value": "teens programme mentioned",
+    "source_url": "https://cdn3.me-qr.com/pdf/20435864.pdf?time=1768340980",
+    "as_of": 2026
+   }
+  ],
+  "opened_or_renovated": [
+   {
+    "value": "opened 2008",
+    "source_url": "https://www.banyantree.com/assets/2021-11/under-the-banyan-tree-25th-anniversary-issue.pdf",
+    "as_of": 2019
+   },
+   {
+    "value": "opened 2004",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "opened 1995",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/blog",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "opened 1991",
+    "source_url": "https://www.banyantree.com/vietnam/lang-co",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "opened 2024",
+    "source_url": "https://www.banyantree.com/singapore/mandai-rainforest-resort-by-banyan-tree",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "opened 2004",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "opened 2024",
+    "source_url": "http://banyantree.com/singapore/mandai-rainforest-resort-by-banyan-tree",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "opened 1991",
+    "source_url": "http://banyantree.com/vietnam/lang-co",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "opened 2004",
+    "source_url": "http://banyantree.com/maldives/vabbinfaru",
+    "as_of": "2026-10-05"
+   }
+  ],
   "weddings.offered": [
+   {
+    "value": true,
+    "source_url": "https://www.banyantree.com/assets/2021-11/under-the-banyan-tree-25th-anniversary-issue.pdf",
+    "as_of": 2019
+   },
+   {
+    "value": true,
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/facilities",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/private-island-buy-out",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/experiences",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/weddings-honeymoons",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/weddings-honeymoons",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/blog",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/offers/festive-celebrations-in-the-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/offers/sense-of-romance",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/experiences/private-island-buy-out",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/wedding-venues",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/wedding-venues",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/wedding-package",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/wedding-package",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/honeymoons",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/honeymoons",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/blog/the-most-romantic-island-in-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/blog/the-most-romantic-island-in-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.banyantree.com/mexico/mayakoba",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.banyantree.com/under-the-banyan-tree",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.banyantree.com/thailand/bangkok",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.banyantree.com/mexico/cabo-marques",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.banyantree.com/experiences",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.banyantree.com/mexico/mayakoba/destinations-weddings",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.banyantree.com/mexico/mayakoba/destinations-weddings",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.banyantree.com/mexico/mayakoba/experiences/mayakoba-experiences",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.banyantree.com/mexico/mayakoba/meetings-and-events",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.banyantree.com/china/shanghai-on-the-bund/weddings-honeymoons",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.banyantree.com/china/shanghai-on-the-bund/weddings-honeymoons",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.banyantree.com/china/shanghai-on-the-bund/gallery",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": true,
+    "source_url": "http://banyantree.com/experiences",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": true,
+    "source_url": "http://banyantree.com/mexico/mayakoba",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": true,
+    "source_url": "http://banyantree.com/mexico/cabo-marques",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": true,
+    "source_url": "http://banyantree.com/thailand/bangkok",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": true,
+    "source_url": "http://banyantree.com/under-the-banyan-tree",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": true,
+    "source_url": "http://banyantree.com/maldives/vabbinfaru",
+    "as_of": "2026-10-05"
+   },
    {
     "value": true,
     "source_url": "https://www.neoscapesmaldives.com/resort/banyan-tree-vabbinfaru/",
     "as_of": "2026-10-04"
    }
   ],
+  "weddings.venues": [
+   {
+    "value": "and a wedding chapel that can host intimate",
+    "source_url": "https://www.banyantree.com/assets/2021-11/under-the-banyan-tree-25th-anniversary-issue.pdf",
+    "as_of": 2019
+   },
+   {
+    "value": "Beach Wedding",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/wedding-venues",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Lagoon Wedding",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/wedding-venues",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "contacts_public.phone": [
+   {
+    "value": "+960 664 3147",
+    "source_url": "https://www.banyantree.com/assets/2021-11/under-the-banyan-tree-25th-anniversary-issue.pdf",
+    "as_of": 2019
+   },
+   {
+    "value": "+960 664 3147",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 664 3147",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/spa/banyan-tree-spa-vabbinfaru",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 664 3147",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/experiences/destination-dining",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 665 8265",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/private-island-buy-out",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 665 8272",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/experiences/stay-for-good",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 665 8265",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/experiences/private-island-buy-out",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 664 3147",
+    "source_url": "https://www.banyantree.com/contact-us",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "+960 664 3147",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "+960 664 3147",
+    "source_url": "http://banyantree.com/maldives/vabbinfaru",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "+960 664 3147",
+    "source_url": "http://banyantree.com/contact-us",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "+960 664 3147",
+    "source_url": "https://www.banyantree.com/cn/contact-us",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "+960 664 3147",
+    "source_url": "https://www.banyantree.com/ko/contact-us",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "+960 736 5425",
+    "source_url": "https://www.neoscapesmaldives.com/resort/banyan-tree-vabbinfaru/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "diving_watersports.house_reef": [
+   {
+    "value": "house reef just steps from the shore, the resort offers 48 private all-pool beach villas designed for intimacy, wellbeing, and connection with nature",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef of Banyan Tree Vabbinfaru",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/sustainability",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef or to nearly 40 dive sites in the region, to immerse yourself in the true beauty of the Maldives",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/private-island-buy-out",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reefs and joining our marine biologists in hands-on coral restoration",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/experiences",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef access, it offers couples a beautiful space to slow down and stay fully present together",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/blog",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef and guided marine experiences",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/offers/festive-celebrations-in-the-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reefs and joining our marine biologists in hands-on coral restoration",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/experiences/stay-for-good",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef or to nearly 40 dive sites in the region, to immerse yourself in the true beauty of the Maldives",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/experiences/private-island-buy-out",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef ecosystem",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/blog/beyond-the-treatment-room",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef just steps from the shore, the resort offers 48 private all-pool beach villas designed for intimacy, wellbeing, and connection with nature",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "house reef in our bay, which is accessible from our private beach",
+    "source_url": "https://www.banyantree.com/thailand/samui",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "house reef in our bay, which is accessible from our private beach",
+    "source_url": "http://banyantree.com/thailand/samui",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "house reef just steps from the shore, the resort offers 48 private all-pool beach villas designed for intimacy, wellbeing, and connection with nature",
+    "source_url": "http://banyantree.com/maldives/vabbinfaru",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "house reef where turtles, reef sharks and rays thrive, Banyan Tree Vabbinfaru is a sanctuary of natural beauty in North Malé Atoll",
+    "source_url": "https://www.neoscapesmaldives.com/resort/banyan-tree-vabbinfaru/",
+    "as_of": "2026-10-04"
+   }
+  ],
   "contacts_public.reservations_email": [
+   {
+    "value": "reservations-vabbinfaru@banyantree.com",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "reservations-vabbinfaru@banyantree.com",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/experiences/destination-dining",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "reservations-vabbinfaru@banyantree.com",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/private-island-buy-out",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "reservations-vabbinfaru@banyantree.com",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/weddings-honeymoons",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "reservations-vabbinfaru@banyantree.com",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/experiences/private-island-buy-out",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "reservations-vabbinfaru@banyantree.com",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/wedding-venues",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "reservations-vabbinfaru@banyantree.com",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/wedding-package",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "reservations-mayakoba@banyantree.com",
+    "source_url": "https://www.banyantree.com/mexico/mayakoba",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "reservationsbt@mayakobaexperiences.com",
+    "source_url": "https://www.banyantree.com/mexico/mayakoba",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "puebla-reservations@banyantree.com",
+    "source_url": "https://www.banyantree.com/contact-us",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "reservations-bintan@banyantree.com",
+    "source_url": "https://www.banyantree.com/contact-us",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "reservations-vabbinfaru@banyantree.com",
+    "source_url": "https://www.banyantree.com/contact-us",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "reservation@banyantreemacau.com",
+    "source_url": "https://www.banyantree.com/contact-us",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "reservations-mamulaisland@banyantree.com",
+    "source_url": "https://www.banyantree.com/contact-us",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "reservations@banyantree.com",
+    "source_url": "https://www.banyantree.com/contact-us",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "reservations-krabi@banyantree.com",
+    "source_url": "https://www.banyantree.com/contact-us",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "reservations-langco@banyantree.com",
+    "source_url": "https://www.banyantree.com/contact-us",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "reservations.buahan@banyantree.com",
+    "source_url": "https://www.banyantree.com/contact-us",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "reservations-mandairainforest@banyantree.com",
+    "source_url": "https://www.banyantree.com/contact-us",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "reservations.shishan@groupbanyan.com",
+    "source_url": "https://www.banyantree.com/contact-us",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sales-london@banyantree.com",
+    "source_url": "https://www.banyantree.com/contact-us",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "reservations-yangshuo@banyantree.com",
+    "source_url": "https://www.banyantree.com/contact-us",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "reservations-dubai@banyantree.com",
+    "source_url": "https://www.banyantree.com/contact-us",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "info-doha@banyantree.com",
+    "source_url": "https://www.banyantree.com/contact-us",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sales-tokyo@groupbanyan.com",
+    "source_url": "https://www.banyantree.com/contact-us",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "reservations-emei@banyantree.com",
+    "source_url": "https://www.banyantree.com/contact-us",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "reservations.alula@banyantree.com",
+    "source_url": "https://www.banyantree.com/contact-us",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "reservations-dongguan@banyantree.com",
+    "source_url": "https://www.banyantree.com/contact-us",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "reservations-tamoudabay@banyantree.com",
+    "source_url": "https://www.banyantree.com/contact-us",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "reservations-mayakoba@banyantree.com",
+    "source_url": "https://www.banyantree.com/contact-us",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "reservations-langco@banyantree.com",
+    "source_url": "https://www.banyantree.com/vietnam/lang-co",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "reservations-bintan@banyantree.com",
+    "source_url": "https://www.banyantree.com/indonesia/bintan",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "spa-mandairainforest@banyantree.com",
+    "source_url": "https://www.banyantree.com/singapore/mandai-rainforest-resort-by-banyan-tree",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "concierge-mandairainforest@banyantree.com",
+    "source_url": "https://www.banyantree.com/singapore/mandai-rainforest-resort-by-banyan-tree",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "reservations-mandairainforest@banyantree.com",
+    "source_url": "https://www.banyantree.com/singapore/mandai-rainforest-resort-by-banyan-tree",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "reservations-cabomarques@banyantree.com",
+    "source_url": "https://www.banyantree.com/mexico/cabo-marques",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "reservations-vabbinfaru@banyantree.com",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "reservations-phuket@banyantree.com",
+    "source_url": "https://www.banyantree.com/thailand/phuket",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "reservations-bintan@banyantree.com",
+    "source_url": "http://banyantree.com/indonesia/bintan",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "reservations-phuket@banyantree.com",
+    "source_url": "http://banyantree.com/thailand/phuket",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "spa-mandairainforest@banyantree.com",
+    "source_url": "http://banyantree.com/singapore/mandai-rainforest-resort-by-banyan-tree",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "concierge-mandairainforest@banyantree.com",
+    "source_url": "http://banyantree.com/singapore/mandai-rainforest-resort-by-banyan-tree",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "reservations-mandairainforest@banyantree.com",
+    "source_url": "http://banyantree.com/singapore/mandai-rainforest-resort-by-banyan-tree",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "reservations-langco@banyantree.com",
+    "source_url": "http://banyantree.com/vietnam/lang-co",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "reservations-mayakoba@banyantree.com",
+    "source_url": "http://banyantree.com/mexico/mayakoba",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "reservationsbt@mayakobaexperiences.com",
+    "source_url": "http://banyantree.com/mexico/mayakoba",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "reservations-cabomarques@banyantree.com",
+    "source_url": "http://banyantree.com/mexico/cabo-marques",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "reservations-vabbinfaru@banyantree.com",
+    "source_url": "http://banyantree.com/maldives/vabbinfaru",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "puebla-reservations@banyantree.com",
+    "source_url": "http://banyantree.com/contact-us",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "reservations-bintan@banyantree.com",
+    "source_url": "http://banyantree.com/contact-us",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "reservations-vabbinfaru@banyantree.com",
+    "source_url": "http://banyantree.com/contact-us",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "reservation@banyantreemacau.com",
+    "source_url": "http://banyantree.com/contact-us",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "reservations-mamulaisland@banyantree.com",
+    "source_url": "http://banyantree.com/contact-us",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "reservations@banyantree.com",
+    "source_url": "http://banyantree.com/contact-us",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "reservations-krabi@banyantree.com",
+    "source_url": "http://banyantree.com/contact-us",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "reservations-langco@banyantree.com",
+    "source_url": "http://banyantree.com/contact-us",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "reservations.buahan@banyantree.com",
+    "source_url": "http://banyantree.com/contact-us",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "reservations-mandairainforest@banyantree.com",
+    "source_url": "http://banyantree.com/contact-us",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "reservations.shishan@groupbanyan.com",
+    "source_url": "http://banyantree.com/contact-us",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sales-london@banyantree.com",
+    "source_url": "http://banyantree.com/contact-us",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "reservations-yangshuo@banyantree.com",
+    "source_url": "http://banyantree.com/contact-us",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "reservations-dubai@banyantree.com",
+    "source_url": "http://banyantree.com/contact-us",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "info-doha@banyantree.com",
+    "source_url": "http://banyantree.com/contact-us",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sales-tokyo@groupbanyan.com",
+    "source_url": "http://banyantree.com/contact-us",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "reservations-emei@banyantree.com",
+    "source_url": "http://banyantree.com/contact-us",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "reservations.alula@banyantree.com",
+    "source_url": "http://banyantree.com/contact-us",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "reservations-dongguan@banyantree.com",
+    "source_url": "http://banyantree.com/contact-us",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "reservations-tamoudabay@banyantree.com",
+    "source_url": "http://banyantree.com/contact-us",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "reservations-mayakoba@banyantree.com",
+    "source_url": "http://banyantree.com/contact-us",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "puebla-reservations@banyantree.com",
+    "source_url": "https://www.banyantree.com/cn/contact-us",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "reservations-bintan@banyantree.com",
+    "source_url": "https://www.banyantree.com/cn/contact-us",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "reservations-vabbinfaru@banyantree.com",
+    "source_url": "https://www.banyantree.com/cn/contact-us",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "reservation@banyantreemacau.com",
+    "source_url": "https://www.banyantree.com/cn/contact-us",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "reservations-mamulaisland@banyantree.com",
+    "source_url": "https://www.banyantree.com/cn/contact-us",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "reservations@banyantree.com",
+    "source_url": "https://www.banyantree.com/cn/contact-us",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "reservations-krabi@banyantree.com",
+    "source_url": "https://www.banyantree.com/cn/contact-us",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "reservations-langco@banyantree.com",
+    "source_url": "https://www.banyantree.com/cn/contact-us",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "reservations.buahan@banyantree.com",
+    "source_url": "https://www.banyantree.com/cn/contact-us",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "reservations-mandairainforest@banyantree.com",
+    "source_url": "https://www.banyantree.com/cn/contact-us",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "reservations.shishan@groupbanyan.com",
+    "source_url": "https://www.banyantree.com/cn/contact-us",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sales-london@banyantree.com",
+    "source_url": "https://www.banyantree.com/cn/contact-us",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "reservations-yangshuo@banyantree.com",
+    "source_url": "https://www.banyantree.com/cn/contact-us",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "reservations-dubai@banyantree.com",
+    "source_url": "https://www.banyantree.com/cn/contact-us",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "info-doha@banyantree.com",
+    "source_url": "https://www.banyantree.com/cn/contact-us",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sales-tokyo@groupbanyan.com",
+    "source_url": "https://www.banyantree.com/cn/contact-us",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "reservations-emei@banyantree.com",
+    "source_url": "https://www.banyantree.com/cn/contact-us",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "reservations.alula@banyantree.com",
+    "source_url": "https://www.banyantree.com/cn/contact-us",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "reservations-dongguan@banyantree.com",
+    "source_url": "https://www.banyantree.com/cn/contact-us",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "reservations-tamoudabay@banyantree.com",
+    "source_url": "https://www.banyantree.com/cn/contact-us",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "reservations-mayakoba@banyantree.com",
+    "source_url": "https://www.banyantree.com/cn/contact-us",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "puebla-reservations@banyantree.com",
+    "source_url": "https://www.banyantree.com/ko/contact-us",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "reservations-bintan@banyantree.com",
+    "source_url": "https://www.banyantree.com/ko/contact-us",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "reservations-vabbinfaru@banyantree.com",
+    "source_url": "https://www.banyantree.com/ko/contact-us",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "reservation@banyantreemacau.com",
+    "source_url": "https://www.banyantree.com/ko/contact-us",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "reservations@banyantree.com",
+    "source_url": "https://www.banyantree.com/ko/contact-us",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "reservations-krabi@banyantree.com",
+    "source_url": "https://www.banyantree.com/ko/contact-us",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "reservations-langco@banyantree.com",
+    "source_url": "https://www.banyantree.com/ko/contact-us",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sales-tokyo@banyantree.com",
+    "source_url": "https://www.banyantree.com/ko/contact-us",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "reservations-mandairainforest@banyantree.com",
+    "source_url": "https://www.banyantree.com/ko/contact-us",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "reservations.shishan@groupbanyan.com",
+    "source_url": "https://www.banyantree.com/ko/contact-us",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sales-london@banyantree.com",
+    "source_url": "https://www.banyantree.com/ko/contact-us",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "reservations-yangshuo@banyantree.com",
+    "source_url": "https://www.banyantree.com/ko/contact-us",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "reservations-dubai@banyantree.com",
+    "source_url": "https://www.banyantree.com/ko/contact-us",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "info-doha@banyantree.com",
+    "source_url": "https://www.banyantree.com/ko/contact-us",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "reservations-emei@banyantree.com",
+    "source_url": "https://www.banyantree.com/ko/contact-us",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "reservations.alula@banyantree.com",
+    "source_url": "https://www.banyantree.com/ko/contact-us",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "reservations-dongguan@banyantree.com",
+    "source_url": "https://www.banyantree.com/ko/contact-us",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "reservations-tamoudabay@banyantree.com",
+    "source_url": "https://www.banyantree.com/ko/contact-us",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "reservations-mayakoba@banyantree.com",
+    "source_url": "https://www.banyantree.com/ko/contact-us",
+    "as_of": "2026-10-05"
+   },
    {
     "value": "info@neoscapesmaldives.com",
     "source_url": "https://www.neoscapesmaldives.com/resort/banyan-tree-vabbinfaru/",
     "as_of": "2026-10-04"
    }
   ],
-  "contacts_public.phone": [
+  "meal_plans": [
    {
-    "value": "+960 736 5425",
-    "source_url": "https://www.neoscapesmaldives.com/resort/banyan-tree-vabbinfaru/",
+    "value": "AI",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/dining",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "Dine Around",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/dining",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/offers",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "BB",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/experiences/dine-around",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "HB",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/experiences/dine-around",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "FB",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/experiences/dine-around",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/experiences/dine-around",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Dine Around",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/experiences",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/weddings-honeymoons",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://www.banyantree.com/offers",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://www.banyantree.com/banyan-tree-wellbeing-sanctuary",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://www.banyantree.com/hotels",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://www.banyantree.com/mexico/mayakoba/meetings-and-events",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "AI",
+    "source_url": "http://banyantree.com/banyan-tree-wellbeing-sanctuary",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "AI",
+    "source_url": "http://banyantree.com/hotels",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "AI",
+    "source_url": "http://banyantree.com/offers",
+    "as_of": "2026-10-05"
+   }
+  ],
+  "all_inclusive_details": [
+   {
+    "value": "all-inclusive package from exclusive dining offers, wellness treatment to Diving & Water sports activities.",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/dining",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "all-inclusive stay, where every meal, every moment, every experience is thoughtfully curated for you.",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/offers",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "all-inclusive resort is the idyllic place for weddings and honeymoons.",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/weddings-honeymoons",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "all-inclusive villa stay designed with this in mind.",
+    "source_url": "https://www.banyantree.com/offers",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "all-inclusive sanctuary stay, designed for the wellbeing of your whole self.",
+    "source_url": "https://www.banyantree.com/banyan-tree-wellbeing-sanctuary",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "all-inclusive packages, including Wellbeing Sanctuary stays at Banyan Tree Phuket, Samui, Krabi, Lang Co, Anji, and AlUla.",
+    "source_url": "https://www.banyantree.com/hotels",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "all-inclusive sanctuary stay, designed for the wellbeing of your whole self.",
+    "source_url": "http://banyantree.com/banyan-tree-wellbeing-sanctuary",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "all-inclusive packages, including Wellbeing Sanctuary stays at Banyan Tree Phuket, Samui, Krabi, Lang Co, Anji, and AlUla.",
+    "source_url": "http://banyantree.com/hotels",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "all-inclusive villa stay designed with this in mind.",
+    "source_url": "http://banyantree.com/offers",
+    "as_of": "2026-10-05"
+   }
+  ],
+  "star_rating": [
+   {
+    "value": "5-star",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/facilities",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "5-star",
+    "source_url": "https://www.banyantree.com/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "5-star",
+    "source_url": "http://banyantree.com",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "5-star",
+    "source_url": "https://www.banyantree.com/thailand/krabi",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "5-star",
+    "source_url": "https://www.banyantree.com/thailand/phuket",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "5-star",
+    "source_url": "http://banyantree.com/thailand/krabi",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "5-star",
+    "source_url": "http://banyantree.com/thailand/phuket",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "5-star",
+    "source_url": "http://banyantree.com/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "5-star",
+    "source_url": "http://www.banyantree.com",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "5-star",
+    "source_url": "https://www.banyantree.com",
+    "as_of": "2026-10-05"
+   }
+  ],
+  "events_mice.buyout": [
+   {
+    "value": true,
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/private-island-buy-out",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/experiences",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/experiences/private-island-buy-out",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "weddings.vow_renewal": [
+   {
+    "value": true,
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/wedding-package",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "transfer.minutes.seaplane": [
+   {
+    "value": 25,
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/blog/beyond-the-treatment-room",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 25,
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/blog/the-most-romantic-island-in-maldives",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "transfer.minutes.domestic flight": [
+   {
+    "value": 25,
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/blog/beyond-the-treatment-room",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 25,
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru/blog/the-most-romantic-island-in-maldives",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "kids_family.kids_club": [
+   {
+    "value": "Golf\nIn-Room Dining\nKids Club",
+    "source_url": "https://www.banyantree.com/mexico/mayakoba",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Dining\nFitness Centre\nKids Club",
+    "source_url": "https://www.banyantree.com/thailand/krabi",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Pool\nTennis\nTerra Kids Club",
+    "source_url": "https://www.banyantree.com/thailand/phuket",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Golf\nIn-Room Dining\nKids Club",
+    "source_url": "https://www.banyantree.com/mexico/mayakoba/meetings-and-events",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Dining\nFitness Centre\nKids Club",
+    "source_url": "http://banyantree.com/thailand/krabi",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Pool\nTennis\nTerra Kids Club",
+    "source_url": "http://banyantree.com/thailand/phuket",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Golf\nIn-Room Dining\nKids Club",
+    "source_url": "http://banyantree.com/mexico/mayakoba",
+    "as_of": "2026-10-05"
+   }
+  ],
+  "events_mice.capacity_max": [
+   {
+    "value": 600,
+    "source_url": "https://www.banyantree.com/mexico/mayakoba/meetings-and-events",
+    "as_of": "2026-10-05"
    }
   ]
  },
- "last_updated": "2026-10-04"
+ "last_updated": "2026-10-05"
 }

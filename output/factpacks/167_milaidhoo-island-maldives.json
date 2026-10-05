@@ -5,18 +5,19 @@
  "aliases": [
   "Milaidhoo"
  ],
- "official_url": null,
- "official_site_status": null,
+ "official_url": "https://www.milaidhoo.com/",
+ "official_site_status": "ok",
  "operator_brand": "Milaidhoo",
  "atoll": "Baa Atoll",
- "island": null,
+ "island": "Kudarikilu",
  "opened_or_renovated": "opened 2016",
- "star_rating": null,
+ "star_rating": "5-star",
  "transfer": {
   "modes": [
    "seaplane",
    "speedboat",
-   "domestic flight"
+   "domestic flight",
+   "yacht"
   ],
   "minutes": {
    "seaplane": 15,
@@ -27,16 +28,8 @@
  },
  "island_size": "300 m x 180 m",
  "villas": {
-  "total": null,
+  "total": 50,
   "categories": [
-   {
-    "name": "Number of Villas",
-    "count": 50,
-    "size_sqm": null,
-    "max_occupancy": null,
-    "pool": null,
-    "overwater": null
-   },
    {
     "name": "beach residence living room milaidhoo island maldives",
     "count": 8,
@@ -57,9 +50,14 @@
  },
  "dining": [
   {
-   "name": "Dining",
+   "name": "Café Latte",
    "cuisine": null,
    "type": "restaurant"
+  },
+  {
+   "name": "Compass Pool Bar",
+   "cuisine": null,
+   "type": "bar"
   },
   {
    "name": "The Shoreline Grill",
@@ -82,47 +80,82 @@
    "type": "restaurant"
   },
   {
-   "name": "Compass Pool Bar",
+   "name": "Shoreline Grill",
+   "cuisine": null,
+   "type": "restaurant"
+  },
+  {
+   "name": "The Compass Pool Bar",
    "cuisine": null,
    "type": "bar"
   },
   {
-   "name": "In-Villa Dining",
+   "name": "Ba’theli Lounge & Restaurant",
    "cuisine": null,
    "type": "restaurant"
+  },
+  {
+   "name": "AZURE Restaurant",
+   "cuisine": null,
+   "type": "restaurant"
+  },
+  {
+   "name": "Wine Cellar",
+   "cuisine": null,
+   "type": "bar"
+  },
+  {
+   "name": "Airport Lounge",
+   "cuisine": null,
+   "type": "bar"
   }
  ],
  "meal_plans": [
-  "Dine Around"
+  "HB",
+  "Dine Around",
+  "AI"
  ],
  "all_inclusive_details": null,
  "spa": {
-  "name": "Facilities\nThe Serenity Spa",
+  "name": "Spa",
   "treatment_rooms": null,
   "signature_treatments": [],
-  "menu_doc": null
+  "menu_doc": "https://d1l3wviaauwkfu.cloudfront.net/2026/08/Dr-Lim-14-20-September-Pamphlet-2.pdf"
  },
  "diving_watersports": {
   "operator": null,
-  "house_reef": "house reef",
+  "house_reef": "house reef to meet its colourful residents",
   "activities": [
-   "snorkelling",
-   "catamaran",
    "fishing",
-   "whale shark",
+   "dolphin cruise",
+   "snorkelling",
+   "sailing",
+   "scuba diving",
+   "windsurfing",
+   "catamaran",
    "manta",
-   "sailing"
+   "whale shark",
+   "stand-up paddle",
+   "sunset cruise",
+   "snorkeling"
   ],
-  "price_list_doc": null
+  "price_list_doc": "https://d1l3wviaauwkfu.cloudfront.net/2019/01/OceanStories_July-2025.pdf"
  },
  "excursions": [
+  "local island",
   "sandbank",
   "dolphin",
-  "big game fishing",
-  "whale shark",
+  "turtle",
+  "picnic",
   "manta",
+  "whale shark",
+  "castaway",
+  "private dinner",
   "cinema",
-  "cooking class"
+  "island hopping",
+  "stargazing",
+  "cooking class",
+  "big game fishing"
  ],
  "kids_family": {
   "kids_club": "Kids Club",
@@ -132,6 +165,9 @@
  "wellness_fitness": [
   "yoga",
   "meditation",
+  "sound healing",
+  "ayurveda",
+  "steam",
   "gym",
   "fitness center"
  ],
@@ -140,7 +176,7 @@
   "vow_renewal": null,
   "venues": [],
   "packages": [],
-  "brochure_doc": null
+  "brochure_doc": "https://d1l3wviaauwkfu.cloudfront.net/2026/03/Greg-Finck-to-Host-Exclusive-Photography-Workshop-at-Milaidhoo-Maldives.pdf"
  },
  "events_mice": {
   "venues": [],
@@ -149,47 +185,2528 @@
   "doc": null
  },
  "sustainability": [
-  "marine biologist"
+  "marine biologist",
+  "coral regeneration",
+  "composting",
+  "reef restoration",
+  "coral nursery"
  ],
  "contacts_public": {
-  "reservations_email": "info@neoscapesmaldives.com",
+  "reservations_email": "reservations@milaidhoo.com",
   "weddings_email": null,
-  "phone": "+960 736 5425"
+  "phone": "+960 660 77 88"
  },
  "documents_latest": {
   "factsheet": null,
-  "map": "https://www.neoscapesmaldives.com/wp-content/uploads/Island-Map-Milaidhoo-Island-Maldives.pdf",
-  "wedding": null,
-  "spa_menu": null,
-  "dining_menu": null,
-  "dive_prices": null,
+  "map": "https://d1l3wviaauwkfu.cloudfront.net/2026/04/Compass-Gourmet-Plan.pdf",
+  "wedding": "https://d1l3wviaauwkfu.cloudfront.net/2026/03/Greg-Finck-to-Host-Exclusive-Photography-Workshop-at-Milaidhoo-Maldives.pdf",
+  "spa_menu": "https://d1l3wviaauwkfu.cloudfront.net/2026/08/Dr-Lim-14-20-September-Pamphlet-2.pdf",
+  "dining_menu": "https://d1l3wviaauwkfu.cloudfront.net/2026/04/IVD-Food-2026.pdf",
+  "dive_prices": "https://d1l3wviaauwkfu.cloudfront.net/2019/01/OceanStories_July-2025.pdf",
   "events": null,
-  "calendar": null
+  "calendar": "https://d1l3wviaauwkfu.cloudfront.net/2026/07/Festive27-Digital_2.pdf"
  },
- "documents_count": 1,
+ "documents_count": 90,
  "gaps": [
   "factsheet",
-  "wedding brochure",
   "events/MICE document",
-  "fact: villas.total",
   "fact: dive operator"
  ],
  "sources": {
   "atoll": [
    {
     "value": "Baa Atoll",
+    "source_url": "https://d1l3wviaauwkfu.cloudfront.net/2026/05/10th-anniversary-Brochure_DigitalPages-for-flipbook-1.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "Baa Atoll",
+    "source_url": "https://d1l3wviaauwkfu.cloudfront.net/2026/03/Greg-Finck-to-Host-Exclusive-Photography-Workshop-at-Milaidhoo-Maldives.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "Baa Atoll",
+    "source_url": "https://www.milaidhoo.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Baa Atoll",
+    "source_url": "https://www.milaidhoo.com/romantic-escapes",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Baa Atoll",
+    "source_url": "https://www.milaidhoo.com/ja/blog.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Baa Atoll",
+    "source_url": "https://www.milaidhoo.com/de/your-stay.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Baa Atoll",
+    "source_url": "https://www.milaidhoo.com/blog",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Baa Atoll",
+    "source_url": "https://www.milaidhoo.com/ru/hanifaru-heaven-for-animal-lovers.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Baa Atoll",
+    "source_url": "https://www.milaidhoo.com/accommodation.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Baa Atoll",
+    "source_url": "https://www.milaidhoo.com/de/the-manta-rays-are-back-in-baa.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Baa Atoll",
+    "source_url": "https://www.milaidhoo.com/luxury-reinvented-10-irresistible-reasons-to-visit-milaidhoo-maldives.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Baa Atoll",
+    "source_url": "https://www.milaidhoo.com/de/hanifaru-heaven-for-animal-lovers.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Baa Atoll",
+    "source_url": "https://www.milaidhoo.com/special-offers/vitamin-sea.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Baa Atoll",
+    "source_url": "https://www.milaidhoo.com/de/amazing-day-at-hanifaru-bay.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Baa Atoll",
+    "source_url": "https://www.milaidhoo.com/accommodation/ocean-residence.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Baa Atoll",
+    "source_url": "https://www.milaidhoo.com/stories/lucy-watson-holidays-at-milaidhoo.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Baa Atoll",
+    "source_url": "https://www.milaidhoo.com/enchanting-easter-escape-at-milaidhoo-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Baa Atoll",
+    "source_url": "https://www.milaidhoo.com/things-to-do/diving.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Baa Atoll",
+    "source_url": "https://www.neoscapesmaldives.com/resort/milaidhoo-island-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Baa Atoll",
+    "source_url": "https://letsgomaldives.com/news/milaidhoo-maldives-elevates-culinary-travel-with-a-chateau-minuty-wine-pairing-dinner/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "North Male Atoll",
+    "source_url": "https://hummingbird.travel/property/milaidhoo-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Baa Atoll",
+    "source_url": "https://www.mymaldives.com/blog/the-story-of-raajje-milaidhoo-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Baa Atoll",
+    "source_url": "https://www.maldivesholidayoffers.com/blogs/blog-detail/alena-lavdovskaya-milaidhoo-return/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Baa Atoll",
+    "source_url": "https://www.mymaldives.com/resort-guide/milaidhoo-island-maldives/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "island": [
+   {
+    "value": "Kudarikilu",
+    "source_url": "https://d1l3wviaauwkfu.cloudfront.net/2026/05/10th-anniversary-Brochure_DigitalPages-for-flipbook-1.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "Milaidhoo",
+    "source_url": "https://www.milaidhoo.com/ar/a-new-chapter-begins-at-milaidhoo-island-maldives.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Milaidhoo",
+    "source_url": "https://www.milaidhoo.com/ar/dolphins-on-the-house-reef.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Milaidhoo",
+    "source_url": "https://www.milaidhoo.com/de/your-bespoke-festive-story-at-milaidhoo-island-maldives.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Milaidhoo",
+    "source_url": "https://www.milaidhoo.com/ar/nudibranchs-on-the-milaidhoo-house-reef.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Milaidhoo",
+    "source_url": "https://www.milaidhoo.com/ru/babymoon-at-milaidhoo-island-maldives.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Milaidhoo",
+    "source_url": "https://www.milaidhoo.com/ru/hanifaru-heaven-for-animal-lovers.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Milaidhoo",
+    "source_url": "https://www.milaidhoo.com/ja/babymoon-at-milaidhoo-island-maldives.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Milaidhoo",
+    "source_url": "https://www.milaidhoo.com/de/the-manta-rays-are-back-in-baa.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Milaidhoo",
+    "source_url": "https://www.milaidhoo.com/ru/see-how-our-coral-nursery-is-growing.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Milaidhoo",
+    "source_url": "https://www.milaidhoo.com/ru/what-would-you-name-a-star.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Milaidhoo",
+    "source_url": "https://www.milaidhoo.com/de/hanifaru-heaven-for-animal-lovers.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Milaidhoo",
+    "source_url": "https://www.milaidhoo.com/ja/lobsters-in-the-dark.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Milaidhoo",
+    "source_url": "https://www.milaidhoo.com/de/surgeonfish-mating-behaviour.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Milaidhoo",
+    "source_url": "https://www.milaidhoo.com/ru/reinventing-luxury.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Milaidhoo",
+    "source_url": "https://www.milaidhoo.com/ja/what-would-you-name-a-star.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Milaidhoo",
+    "source_url": "https://www.milaidhoo.com/de/hello-there-octopus.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Milaidhoo",
+    "source_url": "https://www.milaidhoo.com/de/amazing-day-at-hanifaru-bay.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Milaidhoo",
+    "source_url": "https://www.milaidhoo.com/ja/see-how-our-coral-nursery-is-growing.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Milaidhoo",
+    "source_url": "https://www.milaidhoo.com/ja/a-new-chapter-begins-at-milaidhoo-island-maldives.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Milaidhoo",
+    "source_url": "https://www.milaidhoo.com/ar/fluorescence-in-the-ocean-at-milaidhoo-island-maldives.html",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "spa.name": [
+   {
+    "value": "Spa",
+    "source_url": "https://d1l3wviaauwkfu.cloudfront.net/2026/05/10th-anniversary-Brochure_DigitalPages-for-flipbook-1.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "Serenity Spa",
+    "source_url": "https://d1l3wviaauwkfu.cloudfront.net/2026/01/Janaury-Offer-3-Day-Detox.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "Couples Spa",
+    "source_url": "https://www.milaidhoo.com/romantic-escapes",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Serenity Spa",
+    "source_url": "https://www.milaidhoo.com/just-breathe-mindful-breathing-at-milaidhoo.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Serenity Spa",
+    "source_url": "https://www.milaidhoo.com/ru/babymoon-at-milaidhoo-island-maldives.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Sustainability\nSerenity Spa",
+    "source_url": "https://www.milaidhoo.com/blog",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Serenity Spa",
+    "source_url": "https://www.milaidhoo.com/ja/stories/milaidhoo-an-authentic-maldivian-island-full-of-stars-and-warm-hearted-details.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Serenity Spa",
+    "source_url": "https://www.milaidhoo.com/ja/babymoon-at-milaidhoo-island-maldives.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.milaidhoo.com/blog/me-time-at-milaidhoo.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Serenity Spa",
+    "source_url": "https://www.milaidhoo.com/enchanting-easter-escape-at-milaidhoo-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Facilities\nThe Serenity Spa",
+    "source_url": "https://www.neoscapesmaldives.com/resort/milaidhoo-island-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://hummingbird.travel/property/milaidhoo-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Serenity Spa",
+    "source_url": "https://www.maldivesholidayoffers.com/blogs/blog-detail/alena-lavdovskaya-milaidhoo-return/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.mymaldives.com/resort-guide/milaidhoo-island-maldives/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "diving_watersports.house_reef": [
+   {
+    "value": "house reef to meet its colourful residents",
+    "source_url": "https://d1l3wviaauwkfu.cloudfront.net/2026/05/10th-anniversary-Brochure_DigitalPages-for-flipbook-1.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "house reef",
+    "source_url": "https://d1l3wviaauwkfu.cloudfront.net/2026/03/Greg-Finck-to-Host-Exclusive-Photography-Workshop-at-Milaidhoo-Maldives.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "House Reef dive per dive $ 60 $ 85",
+    "source_url": "https://d1l3wviaauwkfu.cloudfront.net/2019/01/OceanStories_July-2025.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "house reef, it’s a haven for snorkelling, diving and connecting with the beauty of the ocean",
+    "source_url": "https://www.milaidhoo.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef you can depend on Milaidhoo to work her magic",
+    "source_url": "https://www.milaidhoo.com/romantic-escapes",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef and radical rest",
+    "source_url": "https://www.milaidhoo.com/eagle-rays-at-milaidhoo.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef and radical rest",
+    "source_url": "https://www.milaidhoo.com/see-how-our-coral-nursery-is-growing.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef and radical rest",
+    "source_url": "https://www.milaidhoo.com/just-breathe-mindful-breathing-at-milaidhoo.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef last December, just before Christmas",
+    "source_url": "https://www.milaidhoo.com/surgeonfish-mating-behaviour.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "House Reef",
+    "source_url": "https://www.milaidhoo.com/ar/a-new-chapter-begins-at-milaidhoo-island-maldives.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "House Reef",
+    "source_url": "https://www.milaidhoo.com/ja/blog.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef",
+    "source_url": "https://www.milaidhoo.com/ar/dolphins-on-the-house-reef.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "House Reef",
+    "source_url": "https://www.milaidhoo.com/de/your-bespoke-festive-story-at-milaidhoo-island-maldives.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "House Reef",
+    "source_url": "https://www.milaidhoo.com/ar/nudibranchs-on-the-milaidhoo-house-reef.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef",
+    "source_url": "https://www.milaidhoo.com/ru/babymoon-at-milaidhoo-island-maldives.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "House Reef",
+    "source_url": "https://www.milaidhoo.com/blog",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "House Reef",
+    "source_url": "https://www.milaidhoo.com/ru/hanifaru-heaven-for-animal-lovers.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef and radical rest",
+    "source_url": "https://www.milaidhoo.com/sup-at-sunset.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef",
+    "source_url": "https://www.milaidhoo.com/ja/babymoon-at-milaidhoo-island-maldives.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "House Reef",
+    "source_url": "https://www.milaidhoo.com/de/the-manta-rays-are-back-in-baa.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef and radical rest",
+    "source_url": "https://www.milaidhoo.com/sleep-under-the-stars-on-your-private-sandbank.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef and radical rest",
+    "source_url": "https://www.milaidhoo.com/what-would-you-name-a-star.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "House Reef",
+    "source_url": "https://www.milaidhoo.com/ru/see-how-our-coral-nursery-is-growing.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "House Reef",
+    "source_url": "https://www.milaidhoo.com/ru/what-would-you-name-a-star.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef diving, boat diving, private diving, night diving, fluo night dives, Manta Ray snorkelling and nitrox",
+    "source_url": "https://www.milaidhoo.com/luxury-reinvented-10-irresistible-reasons-to-visit-milaidhoo-maldives.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "House Reef Snorkelling Trip or Turtle Excursion",
+    "source_url": "https://www.milaidhoo.com/blog/me-time-at-milaidhoo.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "House Reef",
+    "source_url": "https://www.milaidhoo.com/de/hanifaru-heaven-for-animal-lovers.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef recently, we spotted this little fellow: a painted spiny lobster",
+    "source_url": "https://www.milaidhoo.com/ja/lobsters-in-the-dark.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef last December, just before Christmas",
+    "source_url": "https://www.milaidhoo.com/de/surgeonfish-mating-behaviour.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "House Reef",
+    "source_url": "https://www.milaidhoo.com/ru/reinventing-luxury.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "House Reef",
+    "source_url": "https://www.milaidhoo.com/ja/what-would-you-name-a-star.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "House Reef",
+    "source_url": "https://www.milaidhoo.com/de/hello-there-octopus.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "House Reef",
+    "source_url": "https://www.milaidhoo.com/de/amazing-day-at-hanifaru-bay.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "House Reef",
+    "source_url": "https://www.milaidhoo.com/ja/see-how-our-coral-nursery-is-growing.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef and radical rest",
+    "source_url": "https://www.milaidhoo.com/milaidhoo-sees-stars.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef, it’s a haven for snorkelling, diving and connecting with the beauty of the ocean",
+    "source_url": "https://www.milaidhoo.com/stories/lucy-watson-holidays-at-milaidhoo.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef and radical rest",
+    "source_url": "https://www.milaidhoo.com/blog/Tequila-Classics-and-Paleta",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef close to shore so you can discover what is going on underwater near the resort before you head out on snorkelling excursions",
+    "source_url": "https://www.milaidhoo.com/maldives-bucket-list-5-must-dos-when-travelling-to-maldives.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "House Reef",
+    "source_url": "https://www.milaidhoo.com/ja/a-new-chapter-begins-at-milaidhoo-island-maldives.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef snorkelling",
+    "source_url": "https://www.milaidhoo.com/enchanting-easter-escape-at-milaidhoo-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef include lobsters, crabs, shrimps, many species of shellfish, several colourful fish, anemones and naturally, corals",
+    "source_url": "https://www.milaidhoo.com/ar/fluorescence-in-the-ocean-at-milaidhoo-island-maldives.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef diving, boat diving, private dives, night dives, fluo night dives, Manta Ray encounters and nitrox options",
+    "source_url": "https://www.milaidhoo.com/things-to-do/diving.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef",
+    "source_url": "https://www.neoscapesmaldives.com/resort/milaidhoo-island-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "House Reef",
+    "source_url": "https://hummingbird.travel/property/milaidhoo-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef",
+    "source_url": "https://www.mymaldives.com/resort-guide/milaidhoo-island-maldives/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "diving_watersports.activities": [
+   {
+    "value": "fishing",
+    "source_url": "https://d1l3wviaauwkfu.cloudfront.net/2026/05/10th-anniversary-Brochure_DigitalPages-for-flipbook-1.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "dolphin cruise",
+    "source_url": "https://d1l3wviaauwkfu.cloudfront.net/2026/05/10th-anniversary-Brochure_DigitalPages-for-flipbook-1.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://d1l3wviaauwkfu.cloudfront.net/2026/03/Greg-Finck-to-Host-Exclusive-Photography-Workshop-at-Milaidhoo-Maldives.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "dolphin cruise",
+    "source_url": "https://d1l3wviaauwkfu.cloudfront.net/2026/03/Greg-Finck-to-Host-Exclusive-Photography-Workshop-at-Milaidhoo-Maldives.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "sailing",
+    "source_url": "https://d1l3wviaauwkfu.cloudfront.net/2026/03/Greg-Finck-to-Host-Exclusive-Photography-Workshop-at-Milaidhoo-Maldives.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://d1l3wviaauwkfu.cloudfront.net/2019/01/OceanStories_July-2025.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://d1l3wviaauwkfu.cloudfront.net/2019/01/OceanStories_July-2025.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "windsurfing",
+    "source_url": "https://d1l3wviaauwkfu.cloudfront.net/2019/01/OceanStories_July-2025.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "catamaran",
+    "source_url": "https://d1l3wviaauwkfu.cloudfront.net/2019/01/OceanStories_July-2025.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "manta",
+    "source_url": "https://d1l3wviaauwkfu.cloudfront.net/2019/01/OceanStories_July-2025.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "sailing",
+    "source_url": "https://d1l3wviaauwkfu.cloudfront.net/2019/01/OceanStories_July-2025.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.milaidhoo.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.milaidhoo.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.milaidhoo.com/romantic-escapes",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://www.milaidhoo.com/romantic-escapes",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sailing",
+    "source_url": "https://www.milaidhoo.com/romantic-escapes",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.milaidhoo.com/ar/a-new-chapter-begins-at-milaidhoo-island-maldives.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.milaidhoo.com/ar/a-new-chapter-begins-at-milaidhoo-island-maldives.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.milaidhoo.com/ar/a-new-chapter-begins-at-milaidhoo-island-maldives.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.milaidhoo.com/ja/blog.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "stand-up paddle",
+    "source_url": "https://www.milaidhoo.com/ja/blog.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.milaidhoo.com/ja/blog.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.milaidhoo.com/ja/blog.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.milaidhoo.com/ar/dolphins-on-the-house-reef.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.milaidhoo.com/ar/dolphins-on-the-house-reef.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.milaidhoo.com/ar/dolphins-on-the-house-reef.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.milaidhoo.com/de/your-bespoke-festive-story-at-milaidhoo-island-maldives.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.milaidhoo.com/de/your-bespoke-festive-story-at-milaidhoo-island-maldives.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.milaidhoo.com/de/your-bespoke-festive-story-at-milaidhoo-island-maldives.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.milaidhoo.com/de/your-bespoke-festive-story-at-milaidhoo-island-maldives.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sailing",
+    "source_url": "https://www.milaidhoo.com/de/your-bespoke-festive-story-at-milaidhoo-island-maldives.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.milaidhoo.com/ar/nudibranchs-on-the-milaidhoo-house-reef.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.milaidhoo.com/ar/nudibranchs-on-the-milaidhoo-house-reef.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.milaidhoo.com/ar/nudibranchs-on-the-milaidhoo-house-reef.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.milaidhoo.com/special-offers/a-love-story.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.milaidhoo.com/special-offers/a-love-story.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.milaidhoo.com/ru/babymoon-at-milaidhoo-island-maldives.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.milaidhoo.com/ru/babymoon-at-milaidhoo-island-maldives.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.milaidhoo.com/ru/babymoon-at-milaidhoo-island-maldives.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.milaidhoo.com/blog",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "stand-up paddle",
+    "source_url": "https://www.milaidhoo.com/blog",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.milaidhoo.com/blog",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.milaidhoo.com/blog",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.milaidhoo.com/blog",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.milaidhoo.com/ru/hanifaru-heaven-for-animal-lovers.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.milaidhoo.com/ru/hanifaru-heaven-for-animal-lovers.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.milaidhoo.com/ru/hanifaru-heaven-for-animal-lovers.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.milaidhoo.com/ja/stories/milaidhoo-an-authentic-maldivian-island-full-of-stars-and-warm-hearted-details.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "stand-up paddle",
+    "source_url": "https://www.milaidhoo.com/sup-at-sunset.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.milaidhoo.com/ja/babymoon-at-milaidhoo-island-maldives.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.milaidhoo.com/ja/babymoon-at-milaidhoo-island-maldives.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.milaidhoo.com/ja/babymoon-at-milaidhoo-island-maldives.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.milaidhoo.com/de/the-manta-rays-are-back-in-baa.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.milaidhoo.com/de/the-manta-rays-are-back-in-baa.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.milaidhoo.com/de/the-manta-rays-are-back-in-baa.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin cruise",
+    "source_url": "https://www.milaidhoo.com/sleep-under-the-stars-on-your-private-sandbank.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sailing",
+    "source_url": "https://www.milaidhoo.com/sleep-under-the-stars-on-your-private-sandbank.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.milaidhoo.com/ru/see-how-our-coral-nursery-is-growing.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.milaidhoo.com/ru/see-how-our-coral-nursery-is-growing.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.milaidhoo.com/ru/see-how-our-coral-nursery-is-growing.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.milaidhoo.com/ru/what-would-you-name-a-star.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.milaidhoo.com/ru/what-would-you-name-a-star.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.milaidhoo.com/ru/what-would-you-name-a-star.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.milaidhoo.com/luxury-reinvented-10-irresistible-reasons-to-visit-milaidhoo-maldives.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.milaidhoo.com/luxury-reinvented-10-irresistible-reasons-to-visit-milaidhoo-maldives.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.milaidhoo.com/things-to-do.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.milaidhoo.com/things-to-do.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sailing",
+    "source_url": "https://www.milaidhoo.com/things-to-do.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.milaidhoo.com/blog/me-time-at-milaidhoo.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.milaidhoo.com/blog/me-time-at-milaidhoo.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.milaidhoo.com/blog/me-time-at-milaidhoo.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.milaidhoo.com/de/hanifaru-heaven-for-animal-lovers.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.milaidhoo.com/de/hanifaru-heaven-for-animal-lovers.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.milaidhoo.com/de/hanifaru-heaven-for-animal-lovers.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.milaidhoo.com/special-offers/vitamin-sea.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.milaidhoo.com/ja/lobsters-in-the-dark.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.milaidhoo.com/ja/lobsters-in-the-dark.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.milaidhoo.com/ja/lobsters-in-the-dark.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.milaidhoo.com/ja/lobsters-in-the-dark.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.milaidhoo.com/de/surgeonfish-mating-behaviour.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.milaidhoo.com/de/surgeonfish-mating-behaviour.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.milaidhoo.com/de/surgeonfish-mating-behaviour.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.milaidhoo.com/ru/reinventing-luxury.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.milaidhoo.com/ru/reinventing-luxury.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.milaidhoo.com/ru/reinventing-luxury.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.milaidhoo.com/ja/what-would-you-name-a-star.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.milaidhoo.com/ja/what-would-you-name-a-star.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.milaidhoo.com/ja/what-would-you-name-a-star.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.milaidhoo.com/de/hello-there-octopus.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.milaidhoo.com/de/hello-there-octopus.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.milaidhoo.com/de/hello-there-octopus.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.milaidhoo.com/de/amazing-day-at-hanifaru-bay.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.milaidhoo.com/de/amazing-day-at-hanifaru-bay.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.milaidhoo.com/de/amazing-day-at-hanifaru-bay.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.milaidhoo.com/ja/see-how-our-coral-nursery-is-growing.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.milaidhoo.com/ja/see-how-our-coral-nursery-is-growing.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.milaidhoo.com/ja/see-how-our-coral-nursery-is-growing.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.milaidhoo.com/accommodation/ocean-residence.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.milaidhoo.com/stories/lucy-watson-holidays-at-milaidhoo.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.milaidhoo.com/stories/lucy-watson-holidays-at-milaidhoo.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.milaidhoo.com/maldives-bucket-list-5-must-dos-when-travelling-to-maldives.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.milaidhoo.com/maldives-bucket-list-5-must-dos-when-travelling-to-maldives.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.milaidhoo.com/maldives-bucket-list-5-must-dos-when-travelling-to-maldives.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin cruise",
+    "source_url": "https://www.milaidhoo.com/maldives-bucket-list-5-must-dos-when-travelling-to-maldives.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.milaidhoo.com/maldives-bucket-list-5-must-dos-when-travelling-to-maldives.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.milaidhoo.com/maldives-bucket-list-5-must-dos-when-travelling-to-maldives.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.milaidhoo.com/ja/a-new-chapter-begins-at-milaidhoo-island-maldives.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.milaidhoo.com/ja/a-new-chapter-begins-at-milaidhoo-island-maldives.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.milaidhoo.com/ja/a-new-chapter-begins-at-milaidhoo-island-maldives.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.milaidhoo.com/enchanting-easter-escape-at-milaidhoo-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.milaidhoo.com/enchanting-easter-escape-at-milaidhoo-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.milaidhoo.com/enchanting-easter-escape-at-milaidhoo-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin cruise",
+    "source_url": "https://www.milaidhoo.com/enchanting-easter-escape-at-milaidhoo-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.milaidhoo.com/ar/fluorescence-in-the-ocean-at-milaidhoo-island-maldives.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://www.milaidhoo.com/ar/fluorescence-in-the-ocean-at-milaidhoo-island-maldives.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.milaidhoo.com/ar/fluorescence-in-the-ocean-at-milaidhoo-island-maldives.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.milaidhoo.com/ar/fluorescence-in-the-ocean-at-milaidhoo-island-maldives.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://www.milaidhoo.com/things-to-do/diving.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.milaidhoo.com/things-to-do/diving.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.neoscapesmaldives.com/resort/milaidhoo-island-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "catamaran",
+    "source_url": "https://www.neoscapesmaldives.com/resort/milaidhoo-island-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.neoscapesmaldives.com/resort/milaidhoo-island-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.neoscapesmaldives.com/resort/milaidhoo-island-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.neoscapesmaldives.com/resort/milaidhoo-island-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sailing",
+    "source_url": "https://www.neoscapesmaldives.com/resort/milaidhoo-island-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://hummingbird.travel/property/milaidhoo-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://hummingbird.travel/property/milaidhoo-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://hummingbird.travel/property/milaidhoo-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sailing",
+    "source_url": "https://hummingbird.travel/property/milaidhoo-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.mymaldives.com/resort-guide/milaidhoo-island-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://www.mymaldives.com/resort-guide/milaidhoo-island-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.mymaldives.com/resort-guide/milaidhoo-island-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin cruise",
+    "source_url": "https://www.mymaldives.com/resort-guide/milaidhoo-island-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sailing",
+    "source_url": "https://www.mymaldives.com/resort-guide/milaidhoo-island-maldives/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "excursions": [
+   {
+    "value": "local island",
+    "source_url": "https://d1l3wviaauwkfu.cloudfront.net/2026/05/10th-anniversary-Brochure_DigitalPages-for-flipbook-1.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://d1l3wviaauwkfu.cloudfront.net/2026/05/10th-anniversary-Brochure_DigitalPages-for-flipbook-1.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://d1l3wviaauwkfu.cloudfront.net/2026/05/10th-anniversary-Brochure_DigitalPages-for-flipbook-1.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://d1l3wviaauwkfu.cloudfront.net/2026/05/10th-anniversary-Brochure_DigitalPages-for-flipbook-1.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "local island",
+    "source_url": "https://d1l3wviaauwkfu.cloudfront.net/2026/03/Greg-Finck-to-Host-Exclusive-Photography-Workshop-at-Milaidhoo-Maldives.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://d1l3wviaauwkfu.cloudfront.net/2026/03/Greg-Finck-to-Host-Exclusive-Photography-Workshop-at-Milaidhoo-Maldives.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://d1l3wviaauwkfu.cloudfront.net/2026/03/Greg-Finck-to-Host-Exclusive-Photography-Workshop-at-Milaidhoo-Maldives.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "picnic",
+    "source_url": "https://d1l3wviaauwkfu.cloudfront.net/2026/03/Greg-Finck-to-Host-Exclusive-Photography-Workshop-at-Milaidhoo-Maldives.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "manta",
+    "source_url": "https://d1l3wviaauwkfu.cloudfront.net/2019/01/OceanStories_July-2025.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://d1l3wviaauwkfu.cloudfront.net/2019/01/OceanStories_July-2025.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.milaidhoo.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.milaidhoo.com/romantic-escapes",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.milaidhoo.com/romantic-escapes",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.milaidhoo.com/romantic-escapes",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "picnic",
+    "source_url": "https://www.milaidhoo.com/romantic-escapes",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.milaidhoo.com/just-breathe-mindful-breathing-at-milaidhoo.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.milaidhoo.com/ar/a-new-chapter-begins-at-milaidhoo-island-maldives.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.milaidhoo.com/ar/a-new-chapter-begins-at-milaidhoo-island-maldives.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.milaidhoo.com/ar/a-new-chapter-begins-at-milaidhoo-island-maldives.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.milaidhoo.com/ar/a-new-chapter-begins-at-milaidhoo-island-maldives.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "castaway",
+    "source_url": "https://www.milaidhoo.com/ar/a-new-chapter-begins-at-milaidhoo-island-maldives.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.milaidhoo.com/ja/blog.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.milaidhoo.com/ja/blog.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.milaidhoo.com/ja/blog.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.milaidhoo.com/ja/blog.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.milaidhoo.com/ja/blog.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.milaidhoo.com/ar/dolphins-on-the-house-reef.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.milaidhoo.com/ar/dolphins-on-the-house-reef.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.milaidhoo.com/ar/dolphins-on-the-house-reef.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.milaidhoo.com/ar/dolphins-on-the-house-reef.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.milaidhoo.com/ar/dolphins-on-the-house-reef.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "castaway",
+    "source_url": "https://www.milaidhoo.com/ar/dolphins-on-the-house-reef.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "local island",
+    "source_url": "https://www.milaidhoo.com/de/your-bespoke-festive-story-at-milaidhoo-island-maldives.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.milaidhoo.com/de/your-bespoke-festive-story-at-milaidhoo-island-maldives.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.milaidhoo.com/de/your-bespoke-festive-story-at-milaidhoo-island-maldives.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.milaidhoo.com/de/your-bespoke-festive-story-at-milaidhoo-island-maldives.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.milaidhoo.com/de/your-bespoke-festive-story-at-milaidhoo-island-maldives.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.milaidhoo.com/de/your-bespoke-festive-story-at-milaidhoo-island-maldives.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "castaway",
+    "source_url": "https://www.milaidhoo.com/de/your-bespoke-festive-story-at-milaidhoo-island-maldives.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.milaidhoo.com/ar/nudibranchs-on-the-milaidhoo-house-reef.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.milaidhoo.com/ar/nudibranchs-on-the-milaidhoo-house-reef.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.milaidhoo.com/ar/nudibranchs-on-the-milaidhoo-house-reef.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.milaidhoo.com/ar/nudibranchs-on-the-milaidhoo-house-reef.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "castaway",
+    "source_url": "https://www.milaidhoo.com/ar/nudibranchs-on-the-milaidhoo-house-reef.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.milaidhoo.com/special-offers/a-love-story.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "picnic",
+    "source_url": "https://www.milaidhoo.com/special-offers/a-love-story.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "private dinner",
+    "source_url": "https://www.milaidhoo.com/special-offers/a-love-story.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.milaidhoo.com/ru/babymoon-at-milaidhoo-island-maldives.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.milaidhoo.com/ru/babymoon-at-milaidhoo-island-maldives.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.milaidhoo.com/ru/babymoon-at-milaidhoo-island-maldives.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.milaidhoo.com/ru/babymoon-at-milaidhoo-island-maldives.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "castaway",
+    "source_url": "https://www.milaidhoo.com/ru/babymoon-at-milaidhoo-island-maldives.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "cinema",
+    "source_url": "https://www.milaidhoo.com/ru/babymoon-at-milaidhoo-island-maldives.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "island hopping",
+    "source_url": "https://www.milaidhoo.com/blog",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "local island",
+    "source_url": "https://www.milaidhoo.com/blog",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.milaidhoo.com/blog",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.milaidhoo.com/blog",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.milaidhoo.com/blog",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.milaidhoo.com/blog",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.milaidhoo.com/ru/hanifaru-heaven-for-animal-lovers.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.milaidhoo.com/ru/hanifaru-heaven-for-animal-lovers.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.milaidhoo.com/ru/hanifaru-heaven-for-animal-lovers.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.milaidhoo.com/ru/hanifaru-heaven-for-animal-lovers.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "castaway",
+    "source_url": "https://www.milaidhoo.com/ru/hanifaru-heaven-for-animal-lovers.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.milaidhoo.com/ja/stories/milaidhoo-an-authentic-maldivian-island-full-of-stars-and-warm-hearted-details.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "cinema",
+    "source_url": "https://www.milaidhoo.com/ja/stories/milaidhoo-an-authentic-maldivian-island-full-of-stars-and-warm-hearted-details.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.milaidhoo.com/ja/babymoon-at-milaidhoo-island-maldives.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.milaidhoo.com/ja/babymoon-at-milaidhoo-island-maldives.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.milaidhoo.com/ja/babymoon-at-milaidhoo-island-maldives.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.milaidhoo.com/ja/babymoon-at-milaidhoo-island-maldives.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "castaway",
+    "source_url": "https://www.milaidhoo.com/ja/babymoon-at-milaidhoo-island-maldives.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "cinema",
+    "source_url": "https://www.milaidhoo.com/ja/babymoon-at-milaidhoo-island-maldives.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.milaidhoo.com/de/the-manta-rays-are-back-in-baa.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.milaidhoo.com/de/the-manta-rays-are-back-in-baa.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.milaidhoo.com/de/the-manta-rays-are-back-in-baa.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.milaidhoo.com/de/the-manta-rays-are-back-in-baa.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "castaway",
+    "source_url": "https://www.milaidhoo.com/de/the-manta-rays-are-back-in-baa.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.milaidhoo.com/sleep-under-the-stars-on-your-private-sandbank.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.milaidhoo.com/sleep-under-the-stars-on-your-private-sandbank.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "castaway",
+    "source_url": "https://www.milaidhoo.com/sleep-under-the-stars-on-your-private-sandbank.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.milaidhoo.com/ru/see-how-our-coral-nursery-is-growing.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.milaidhoo.com/ru/see-how-our-coral-nursery-is-growing.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.milaidhoo.com/ru/see-how-our-coral-nursery-is-growing.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.milaidhoo.com/ru/see-how-our-coral-nursery-is-growing.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "castaway",
+    "source_url": "https://www.milaidhoo.com/ru/see-how-our-coral-nursery-is-growing.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.milaidhoo.com/ru/what-would-you-name-a-star.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.milaidhoo.com/ru/what-would-you-name-a-star.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.milaidhoo.com/ru/what-would-you-name-a-star.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.milaidhoo.com/ru/what-would-you-name-a-star.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "castaway",
+    "source_url": "https://www.milaidhoo.com/ru/what-would-you-name-a-star.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.milaidhoo.com/luxury-reinvented-10-irresistible-reasons-to-visit-milaidhoo-maldives.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.milaidhoo.com/luxury-reinvented-10-irresistible-reasons-to-visit-milaidhoo-maldives.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.milaidhoo.com/things-to-do.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "stargazing",
+    "source_url": "https://www.milaidhoo.com/things-to-do.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.milaidhoo.com/blog/me-time-at-milaidhoo.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.milaidhoo.com/blog/me-time-at-milaidhoo.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.milaidhoo.com/blog/me-time-at-milaidhoo.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.milaidhoo.com/blog/me-time-at-milaidhoo.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "cooking class",
+    "source_url": "https://www.milaidhoo.com/blog/me-time-at-milaidhoo.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.milaidhoo.com/de/hanifaru-heaven-for-animal-lovers.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.milaidhoo.com/de/hanifaru-heaven-for-animal-lovers.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.milaidhoo.com/de/hanifaru-heaven-for-animal-lovers.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.milaidhoo.com/de/hanifaru-heaven-for-animal-lovers.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "castaway",
+    "source_url": "https://www.milaidhoo.com/de/hanifaru-heaven-for-animal-lovers.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.milaidhoo.com/ja/lobsters-in-the-dark.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.milaidhoo.com/ja/lobsters-in-the-dark.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.milaidhoo.com/ja/lobsters-in-the-dark.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.milaidhoo.com/ja/lobsters-in-the-dark.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "castaway",
+    "source_url": "https://www.milaidhoo.com/ja/lobsters-in-the-dark.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.milaidhoo.com/de/surgeonfish-mating-behaviour.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.milaidhoo.com/de/surgeonfish-mating-behaviour.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.milaidhoo.com/de/surgeonfish-mating-behaviour.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.milaidhoo.com/de/surgeonfish-mating-behaviour.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "castaway",
+    "source_url": "https://www.milaidhoo.com/de/surgeonfish-mating-behaviour.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.milaidhoo.com/ru/reinventing-luxury.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.milaidhoo.com/ru/reinventing-luxury.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.milaidhoo.com/ru/reinventing-luxury.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.milaidhoo.com/ru/reinventing-luxury.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "castaway",
+    "source_url": "https://www.milaidhoo.com/ru/reinventing-luxury.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.milaidhoo.com/ja/what-would-you-name-a-star.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.milaidhoo.com/ja/what-would-you-name-a-star.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.milaidhoo.com/ja/what-would-you-name-a-star.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.milaidhoo.com/ja/what-would-you-name-a-star.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "castaway",
+    "source_url": "https://www.milaidhoo.com/ja/what-would-you-name-a-star.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.milaidhoo.com/de/hello-there-octopus.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.milaidhoo.com/de/hello-there-octopus.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.milaidhoo.com/de/hello-there-octopus.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.milaidhoo.com/de/hello-there-octopus.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "castaway",
+    "source_url": "https://www.milaidhoo.com/de/hello-there-octopus.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.milaidhoo.com/de/amazing-day-at-hanifaru-bay.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.milaidhoo.com/de/amazing-day-at-hanifaru-bay.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.milaidhoo.com/de/amazing-day-at-hanifaru-bay.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.milaidhoo.com/de/amazing-day-at-hanifaru-bay.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "castaway",
+    "source_url": "https://www.milaidhoo.com/de/amazing-day-at-hanifaru-bay.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.milaidhoo.com/ja/see-how-our-coral-nursery-is-growing.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.milaidhoo.com/ja/see-how-our-coral-nursery-is-growing.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.milaidhoo.com/ja/see-how-our-coral-nursery-is-growing.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.milaidhoo.com/ja/see-how-our-coral-nursery-is-growing.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "castaway",
+    "source_url": "https://www.milaidhoo.com/ja/see-how-our-coral-nursery-is-growing.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "private dinner",
+    "source_url": "https://www.milaidhoo.com/accommodation/ocean-residence.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "cinema",
+    "source_url": "https://www.milaidhoo.com/accommodation/ocean-residence.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.milaidhoo.com/stories/lucy-watson-holidays-at-milaidhoo.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.milaidhoo.com/maldives-bucket-list-5-must-dos-when-travelling-to-maldives.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.milaidhoo.com/maldives-bucket-list-5-must-dos-when-travelling-to-maldives.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.milaidhoo.com/maldives-bucket-list-5-must-dos-when-travelling-to-maldives.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.milaidhoo.com/maldives-bucket-list-5-must-dos-when-travelling-to-maldives.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.milaidhoo.com/maldives-bucket-list-5-must-dos-when-travelling-to-maldives.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.milaidhoo.com/ja/a-new-chapter-begins-at-milaidhoo-island-maldives.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.milaidhoo.com/ja/a-new-chapter-begins-at-milaidhoo-island-maldives.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.milaidhoo.com/ja/a-new-chapter-begins-at-milaidhoo-island-maldives.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.milaidhoo.com/ja/a-new-chapter-begins-at-milaidhoo-island-maldives.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "castaway",
+    "source_url": "https://www.milaidhoo.com/ja/a-new-chapter-begins-at-milaidhoo-island-maldives.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "local island",
+    "source_url": "https://www.milaidhoo.com/enchanting-easter-escape-at-milaidhoo-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.milaidhoo.com/enchanting-easter-escape-at-milaidhoo-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.milaidhoo.com/enchanting-easter-escape-at-milaidhoo-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "cinema",
+    "source_url": "https://www.milaidhoo.com/enchanting-easter-escape-at-milaidhoo-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.milaidhoo.com/ar/fluorescence-in-the-ocean-at-milaidhoo-island-maldives.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.milaidhoo.com/ar/fluorescence-in-the-ocean-at-milaidhoo-island-maldives.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.milaidhoo.com/ar/fluorescence-in-the-ocean-at-milaidhoo-island-maldives.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.milaidhoo.com/ar/fluorescence-in-the-ocean-at-milaidhoo-island-maldives.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "castaway",
+    "source_url": "https://www.milaidhoo.com/ar/fluorescence-in-the-ocean-at-milaidhoo-island-maldives.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.milaidhoo.com/things-to-do/diving.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.neoscapesmaldives.com/resort/milaidhoo-island-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.neoscapesmaldives.com/resort/milaidhoo-island-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "big game fishing",
+    "source_url": "https://www.neoscapesmaldives.com/resort/milaidhoo-island-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.neoscapesmaldives.com/resort/milaidhoo-island-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.neoscapesmaldives.com/resort/milaidhoo-island-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "cinema",
+    "source_url": "https://www.neoscapesmaldives.com/resort/milaidhoo-island-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "cooking class",
+    "source_url": "https://www.neoscapesmaldives.com/resort/milaidhoo-island-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://hummingbird.travel/property/milaidhoo-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://hummingbird.travel/property/milaidhoo-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "picnic",
+    "source_url": "https://hummingbird.travel/property/milaidhoo-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "local island",
+    "source_url": "https://www.mymaldives.com/blog/the-story-of-raajje-milaidhoo-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.mymaldives.com/blog/the-story-of-raajje-milaidhoo-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "local island",
+    "source_url": "https://www.mymaldives.com/resort-guide/milaidhoo-island-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.mymaldives.com/resort-guide/milaidhoo-island-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.mymaldives.com/resort-guide/milaidhoo-island-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "picnic",
+    "source_url": "https://www.mymaldives.com/resort-guide/milaidhoo-island-maldives/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "wellness_fitness": [
+   {
+    "value": "yoga",
+    "source_url": "https://d1l3wviaauwkfu.cloudfront.net/2026/05/10th-anniversary-Brochure_DigitalPages-for-flipbook-1.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "meditation",
+    "source_url": "https://d1l3wviaauwkfu.cloudfront.net/2026/05/10th-anniversary-Brochure_DigitalPages-for-flipbook-1.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "sound healing",
+    "source_url": "https://d1l3wviaauwkfu.cloudfront.net/2026/05/10th-anniversary-Brochure_DigitalPages-for-flipbook-1.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://d1l3wviaauwkfu.cloudfront.net/2026/03/Greg-Finck-to-Host-Exclusive-Photography-Workshop-at-Milaidhoo-Maldives.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://d1l3wviaauwkfu.cloudfront.net/2026/08/Dr-Lim-14-20-September-Pamphlet-2.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "meditation",
+    "source_url": "https://d1l3wviaauwkfu.cloudfront.net/2026/08/Dr-Lim-14-20-September-Pamphlet-2.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "sound healing",
+    "source_url": "https://d1l3wviaauwkfu.cloudfront.net/2026/08/Dr-Lim-14-20-September-Pamphlet-2.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "ayurveda",
+    "source_url": "https://d1l3wviaauwkfu.cloudfront.net/2026/08/Dr-Lim-14-20-September-Pamphlet-2.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "meditation",
+    "source_url": "https://d1l3wviaauwkfu.cloudfront.net/2026/01/Janaury-Offer-3-Day-Detox.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "sound healing",
+    "source_url": "https://d1l3wviaauwkfu.cloudfront.net/2026/01/Janaury-Offer-3-Day-Detox.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "steam",
+    "source_url": "https://d1l3wviaauwkfu.cloudfront.net/2026/01/Janaury-Offer-3-Day-Detox.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.milaidhoo.com/de/your-bespoke-festive-story-at-milaidhoo-island-maldives.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "meditation",
+    "source_url": "https://www.milaidhoo.com/de/your-bespoke-festive-story-at-milaidhoo-island-maldives.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.milaidhoo.com/de/your-stay.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "meditation",
+    "source_url": "https://www.milaidhoo.com/de/your-stay.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "gym",
+    "source_url": "https://www.milaidhoo.com/ar/nudibranchs-on-the-milaidhoo-house-reef.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.milaidhoo.com/special-offers/a-love-story.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.milaidhoo.com/ru/babymoon-at-milaidhoo-island-maldives.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.milaidhoo.com/blog",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "meditation",
+    "source_url": "https://www.milaidhoo.com/blog",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.milaidhoo.com/ja/stories/milaidhoo-an-authentic-maldivian-island-full-of-stars-and-warm-hearted-details.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.milaidhoo.com/ja/babymoon-at-milaidhoo-island-maldives.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.milaidhoo.com/sleep-under-the-stars-on-your-private-sandbank.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.milaidhoo.com/de/accommodation/beach-residences.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "meditation",
+    "source_url": "https://www.milaidhoo.com/de/accommodation/beach-residences.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.milaidhoo.com/luxury-reinvented-10-irresistible-reasons-to-visit-milaidhoo-maldives.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "meditation",
+    "source_url": "https://www.milaidhoo.com/luxury-reinvented-10-irresistible-reasons-to-visit-milaidhoo-maldives.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.milaidhoo.com/blog/me-time-at-milaidhoo.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "meditation",
+    "source_url": "https://www.milaidhoo.com/blog/me-time-at-milaidhoo.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.milaidhoo.com/special-offers/vitamin-sea.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.milaidhoo.com/de/accommodation/beach-pool-villas.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "meditation",
+    "source_url": "https://www.milaidhoo.com/de/accommodation/beach-pool-villas.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.milaidhoo.com/accommodation/ocean-residence.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "meditation",
+    "source_url": "https://www.milaidhoo.com/accommodation/ocean-residence.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "gym",
+    "source_url": "https://www.milaidhoo.com/accommodation/ocean-residence.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.milaidhoo.com/enchanting-easter-escape-at-milaidhoo-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "meditation",
+    "source_url": "https://www.milaidhoo.com/enchanting-easter-escape-at-milaidhoo-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.neoscapesmaldives.com/resort/milaidhoo-island-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "meditation",
+    "source_url": "https://www.neoscapesmaldives.com/resort/milaidhoo-island-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "gym",
+    "source_url": "https://www.neoscapesmaldives.com/resort/milaidhoo-island-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fitness center",
+    "source_url": "https://www.neoscapesmaldives.com/resort/milaidhoo-island-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://hummingbird.travel/property/milaidhoo-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "gym",
+    "source_url": "https://hummingbird.travel/property/milaidhoo-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.mymaldives.com/resort-guide/milaidhoo-island-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fitness center",
+    "source_url": "https://www.mymaldives.com/resort-guide/milaidhoo-island-maldives/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "sustainability": [
+   {
+    "value": "marine biologist",
+    "source_url": "https://d1l3wviaauwkfu.cloudfront.net/2026/05/10th-anniversary-Brochure_DigitalPages-for-flipbook-1.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "coral regeneration",
+    "source_url": "https://d1l3wviaauwkfu.cloudfront.net/2026/06/Our-Promise-in-Action.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "marine biologist",
+    "source_url": "https://d1l3wviaauwkfu.cloudfront.net/2026/06/Our-Promise-in-Action.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "composting",
+    "source_url": "https://d1l3wviaauwkfu.cloudfront.net/2026/06/Our-Promise-in-Action.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "reef restoration",
+    "source_url": "https://d1l3wviaauwkfu.cloudfront.net/2026/06/Our-Promise-in-Action.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "coral nursery",
+    "source_url": "https://www.milaidhoo.com/see-how-our-coral-nursery-is-growing.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "marine biologist",
+    "source_url": "https://www.milaidhoo.com/see-how-our-coral-nursery-is-growing.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "marine biologist",
+    "source_url": "https://www.milaidhoo.com/surgeonfish-mating-behaviour.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "coral nursery",
+    "source_url": "https://www.milaidhoo.com/ja/blog.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "marine biologist",
+    "source_url": "https://www.milaidhoo.com/de/your-bespoke-festive-story-at-milaidhoo-island-maldives.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "coral nursery",
+    "source_url": "https://www.milaidhoo.com/blog",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "coral nursery",
+    "source_url": "https://www.milaidhoo.com/ru/see-how-our-coral-nursery-is-growing.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "marine biologist",
+    "source_url": "https://www.milaidhoo.com/ru/see-how-our-coral-nursery-is-growing.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "marine biologist",
+    "source_url": "https://www.milaidhoo.com/luxury-reinvented-10-irresistible-reasons-to-visit-milaidhoo-maldives.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "marine biologist",
+    "source_url": "https://www.milaidhoo.com/blog/me-time-at-milaidhoo.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "marine biologist",
+    "source_url": "https://www.milaidhoo.com/de/surgeonfish-mating-behaviour.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "coral nursery",
+    "source_url": "https://www.milaidhoo.com/ja/see-how-our-coral-nursery-is-growing.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "marine biologist",
+    "source_url": "https://www.milaidhoo.com/ja/see-how-our-coral-nursery-is-growing.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "marine biologist",
+    "source_url": "https://www.milaidhoo.com/enchanting-easter-escape-at-milaidhoo-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "marine biologist",
     "source_url": "https://www.neoscapesmaldives.com/resort/milaidhoo-island-maldives/",
     "as_of": "2026-10-04"
    }
   ],
-  "opened_or_renovated": [
+  "contacts_public.phone": [
    {
-    "value": "opened 2016",
+    "value": "+960 660 77 88",
+    "source_url": "https://d1l3wviaauwkfu.cloudfront.net/2026/05/10th-anniversary-Brochure_DigitalPages-for-flipbook-1.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "+960 730 2915",
+    "source_url": "https://d1l3wviaauwkfu.cloudfront.net/2026/03/Greg-Finck-to-Host-Exclusive-Photography-Workshop-at-Milaidhoo-Maldives.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "+960 660 04 84",
+    "source_url": "https://www.milaidhoo.com/de/your-bespoke-festive-story-at-milaidhoo-island-maldives.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 660 77 88",
+    "source_url": "https://www.milaidhoo.com/contact-us.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 660 04 84",
+    "source_url": "https://www.milaidhoo.com/sleep-under-the-stars-on-your-private-sandbank.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 736 5425",
     "source_url": "https://www.neoscapesmaldives.com/resort/milaidhoo-island-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 660 77 88",
+    "source_url": "https://www.mymaldives.com/resort-guide/milaidhoo-island-maldives/",
     "as_of": "2026-10-04"
    }
   ],
   "transfer.modes": [
+   {
+    "value": "seaplane",
+    "source_url": "https://d1l3wviaauwkfu.cloudfront.net/2026/03/Greg-Finck-to-Host-Exclusive-Photography-Workshop-at-Milaidhoo-Maldives.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://d1l3wviaauwkfu.cloudfront.net/2026/03/Greg-Finck-to-Host-Exclusive-Photography-Workshop-at-Milaidhoo-Maldives.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "domestic flight",
+    "source_url": "https://d1l3wviaauwkfu.cloudfront.net/2026/03/Greg-Finck-to-Host-Exclusive-Photography-Workshop-at-Milaidhoo-Maldives.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://d1l3wviaauwkfu.cloudfront.net/2019/01/OceanStories_July-2025.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "yacht",
+    "source_url": "https://www.milaidhoo.com/sleep-under-the-stars-on-your-private-sandbank.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.milaidhoo.com/de/amazing-day-at-hanifaru-bay.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yacht",
+    "source_url": "https://www.milaidhoo.com/maldives-bucket-list-5-must-dos-when-travelling-to-maldives.html",
+    "as_of": "2026-10-04"
+   },
    {
     "value": "seaplane",
     "source_url": "https://www.neoscapesmaldives.com/resort/milaidhoo-island-maldives/",
@@ -204,25 +2721,421 @@
     "value": "domestic flight",
     "source_url": "https://www.neoscapesmaldives.com/resort/milaidhoo-island-maldives/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://letsgomaldives.com/news/milaidhoo-maldives-elevates-culinary-travel-with-a-chateau-minuty-wine-pairing-dinner/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://hummingbird.travel/property/milaidhoo-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://hummingbird.travel/property/milaidhoo-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "domestic flight",
+    "source_url": "https://hummingbird.travel/property/milaidhoo-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yacht",
+    "source_url": "https://hummingbird.travel/property/milaidhoo-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.mymaldives.com/blog/the-story-of-raajje-milaidhoo-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.mymaldives.com/blog/the-story-of-raajje-milaidhoo-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "domestic flight",
+    "source_url": "https://www.mymaldives.com/blog/the-story-of-raajje-milaidhoo-resort/",
+    "as_of": "2026-10-04"
    }
   ],
   "transfer.minutes.seaplane": [
    {
     "value": 15,
+    "source_url": "https://d1l3wviaauwkfu.cloudfront.net/2026/03/Greg-Finck-to-Host-Exclusive-Photography-Workshop-at-Milaidhoo-Maldives.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": 15,
     "source_url": "https://www.neoscapesmaldives.com/resort/milaidhoo-island-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 35,
+    "source_url": "https://hummingbird.travel/property/milaidhoo-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 25,
+    "source_url": "https://www.mymaldives.com/blog/the-story-of-raajje-milaidhoo-resort/",
     "as_of": "2026-10-04"
    }
   ],
   "transfer.minutes.speedboat": [
    {
     "value": 15,
+    "source_url": "https://d1l3wviaauwkfu.cloudfront.net/2026/03/Greg-Finck-to-Host-Exclusive-Photography-Workshop-at-Milaidhoo-Maldives.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": 15,
     "source_url": "https://www.neoscapesmaldives.com/resort/milaidhoo-island-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 35,
+    "source_url": "https://hummingbird.travel/property/milaidhoo-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 15,
+    "source_url": "https://www.mymaldives.com/blog/the-story-of-raajje-milaidhoo-resort/",
     "as_of": "2026-10-04"
    }
   ],
   "transfer.minutes.domestic flight": [
    {
     "value": 15,
+    "source_url": "https://d1l3wviaauwkfu.cloudfront.net/2026/03/Greg-Finck-to-Host-Exclusive-Photography-Workshop-at-Milaidhoo-Maldives.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": 15,
+    "source_url": "https://www.neoscapesmaldives.com/resort/milaidhoo-island-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 35,
+    "source_url": "https://hummingbird.travel/property/milaidhoo-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 15,
+    "source_url": "https://www.mymaldives.com/blog/the-story-of-raajje-milaidhoo-resort/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "weddings.offered": [
+   {
+    "value": true,
+    "source_url": "https://d1l3wviaauwkfu.cloudfront.net/2026/03/Greg-Finck-to-Host-Exclusive-Photography-Workshop-at-Milaidhoo-Maldives.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": true,
+    "source_url": "https://www.milaidhoo.com/blog",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.milaidhoo.com/ar/a-love-story/weddings.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.neoscapesmaldives.com/resort/milaidhoo-island-maldives/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "meal_plans": [
+   {
+    "value": "HB",
+    "source_url": "https://d1l3wviaauwkfu.cloudfront.net/2026/04/IVD-Food-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "HB",
+    "source_url": "https://www.milaidhoo.com/special-offers/a-love-story.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "HB",
+    "source_url": "https://www.milaidhoo.com/special-offers/vitamin-sea.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Dine Around",
+    "source_url": "https://www.neoscapesmaldives.com/resort/milaidhoo-island-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://letsgomaldives.com/news/milaidhoo-maldives-elevates-culinary-travel-with-a-chateau-minuty-wine-pairing-dinner/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "dining": [
+   {
+    "value": {
+     "name": "Café Latte",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://d1l3wviaauwkfu.cloudfront.net/2026/04/Compass-Gourmet-Plan.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": {
+     "name": "Compass Pool Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.milaidhoo.com/notes-from-a-chef/compass-pool-bar.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "The Shoreline Grill",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.neoscapesmaldives.com/resort/milaidhoo-island-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Shoreline Grill Chef’s Table",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.neoscapesmaldives.com/resort/milaidhoo-island-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Shoreline Grill Wine Room",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.neoscapesmaldives.com/resort/milaidhoo-island-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Ocean Restaurant",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.neoscapesmaldives.com/resort/milaidhoo-island-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Compass Pool Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.neoscapesmaldives.com/resort/milaidhoo-island-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Shoreline Grill",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://letsgomaldives.com/news/milaidhoo-maldives-elevates-culinary-travel-with-a-chateau-minuty-wine-pairing-dinner/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "The Shoreline Grill",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://letsgomaldives.com/news/milaidhoo-maldives-elevates-culinary-travel-with-a-chateau-minuty-wine-pairing-dinner/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Ocean Restaurant",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://letsgomaldives.com/news/milaidhoo-maldives-elevates-culinary-travel-with-a-chateau-minuty-wine-pairing-dinner/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Shoreline Grill Wine Room",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://letsgomaldives.com/news/milaidhoo-maldives-elevates-culinary-travel-with-a-chateau-minuty-wine-pairing-dinner/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "The Compass Pool Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://hummingbird.travel/property/milaidhoo-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Ocean Restaurant",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://hummingbird.travel/property/milaidhoo-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "The Shoreline Grill",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://hummingbird.travel/property/milaidhoo-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Ba’theli Lounge & Restaurant",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://hummingbird.travel/property/milaidhoo-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "AZURE Restaurant",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://hummingbird.travel/property/milaidhoo-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Wine Cellar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://hummingbird.travel/property/milaidhoo-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Airport Lounge",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://hummingbird.travel/property/milaidhoo-maldives",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "opened_or_renovated": [
+   {
+    "value": "opened 2016",
+    "source_url": "https://www.milaidhoo.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "opened 2016",
+    "source_url": "https://www.milaidhoo.com/stories/lucy-watson-holidays-at-milaidhoo.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "opened 2016",
+    "source_url": "https://www.neoscapesmaldives.com/resort/milaidhoo-island-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "renovated 2020",
+    "source_url": "https://www.mymaldives.com/blog/the-story-of-raajje-milaidhoo-resort/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "villas.total": [
+   {
+    "value": 50,
+    "source_url": "https://www.milaidhoo.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 50,
+    "source_url": "https://www.milaidhoo.com/luxury-reinvented-10-irresistible-reasons-to-visit-milaidhoo-maldives.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 50,
+    "source_url": "https://www.milaidhoo.com/stories/lucy-watson-holidays-at-milaidhoo.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 50,
+    "source_url": "https://hummingbird.travel/property/milaidhoo-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 50,
+    "source_url": "https://www.mymaldives.com/resort-guide/milaidhoo-island-maldives/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "star_rating": [
+   {
+    "value": "5-star",
+    "source_url": "https://www.milaidhoo.com/romantic-escapes",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "5-star",
+    "source_url": "https://hummingbird.travel/property/milaidhoo-maldives",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "contacts_public.reservations_email": [
+   {
+    "value": "reservations@milaidhoo.com",
+    "source_url": "https://www.milaidhoo.com/de/your-bespoke-festive-story-at-milaidhoo-island-maldives.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "reservations@milaidhoo.com",
+    "source_url": "https://www.milaidhoo.com/contact-us.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "reservations@milaidhoo.com",
+    "source_url": "https://www.milaidhoo.com/special-offers/a-love-story.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "reservations@milaidhoo.com",
+    "source_url": "https://www.milaidhoo.com/sleep-under-the-stars-on-your-private-sandbank.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "reservations@milaidhoo.com",
+    "source_url": "https://www.milaidhoo.com/special-offers/vitamin-sea.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "reservations@milaidhoo.com",
+    "source_url": "https://www.milaidhoo.com/ja/special-offers/barefoot-at-milaidhoo.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "info@neoscapesmaldives.com",
     "source_url": "https://www.neoscapesmaldives.com/resort/milaidhoo-island-maldives/",
     "as_of": "2026-10-04"
    }
@@ -230,23 +3143,16 @@
   "island_size": [
    {
     "value": "300 m x 180 m",
+    "source_url": "https://www.milaidhoo.com/de/your-stay.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "300 m x 180 m",
     "source_url": "https://www.neoscapesmaldives.com/resort/milaidhoo-island-maldives/",
     "as_of": "2026-10-04"
    }
   ],
   "villas.categories": [
-   {
-    "value": {
-     "name": "Number of Villas",
-     "count": 50,
-     "size_sqm": null,
-     "max_occupancy": null,
-     "pool": null,
-     "overwater": null
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/milaidhoo-island-maldives/",
-    "as_of": "2026-10-04"
-   },
    {
     "value": {
      "name": "beach residence living room milaidhoo island maldives",
@@ -308,227 +3214,13 @@
     "as_of": "2026-10-04"
    }
   ],
-  "dining": [
-   {
-    "value": {
-     "name": "Dining",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/milaidhoo-island-maldives/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Dining",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/milaidhoo-island-maldives/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "The Shoreline Grill",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/milaidhoo-island-maldives/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Shoreline Grill Chef’s Table",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/milaidhoo-island-maldives/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Shoreline Grill Wine Room",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/milaidhoo-island-maldives/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Ocean Restaurant",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/milaidhoo-island-maldives/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Compass Pool Bar",
-     "cuisine": null,
-     "type": "bar"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/milaidhoo-island-maldives/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "In-Villa Dining",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/milaidhoo-island-maldives/",
-    "as_of": "2026-10-04"
-   }
-  ],
-  "meal_plans": [
-   {
-    "value": "Dine Around",
-    "source_url": "https://www.neoscapesmaldives.com/resort/milaidhoo-island-maldives/",
-    "as_of": "2026-10-04"
-   }
-  ],
-  "spa.name": [
-   {
-    "value": "Facilities\nThe Serenity Spa",
-    "source_url": "https://www.neoscapesmaldives.com/resort/milaidhoo-island-maldives/",
-    "as_of": "2026-10-04"
-   }
-  ],
-  "diving_watersports.house_reef": [
-   {
-    "value": "house reef",
-    "source_url": "https://www.neoscapesmaldives.com/resort/milaidhoo-island-maldives/",
-    "as_of": "2026-10-04"
-   }
-  ],
-  "diving_watersports.activities": [
-   {
-    "value": "snorkelling",
-    "source_url": "https://www.neoscapesmaldives.com/resort/milaidhoo-island-maldives/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": "catamaran",
-    "source_url": "https://www.neoscapesmaldives.com/resort/milaidhoo-island-maldives/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": "fishing",
-    "source_url": "https://www.neoscapesmaldives.com/resort/milaidhoo-island-maldives/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": "whale shark",
-    "source_url": "https://www.neoscapesmaldives.com/resort/milaidhoo-island-maldives/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": "manta",
-    "source_url": "https://www.neoscapesmaldives.com/resort/milaidhoo-island-maldives/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": "sailing",
-    "source_url": "https://www.neoscapesmaldives.com/resort/milaidhoo-island-maldives/",
-    "as_of": "2026-10-04"
-   }
-  ],
-  "excursions": [
-   {
-    "value": "sandbank",
-    "source_url": "https://www.neoscapesmaldives.com/resort/milaidhoo-island-maldives/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": "dolphin",
-    "source_url": "https://www.neoscapesmaldives.com/resort/milaidhoo-island-maldives/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": "big game fishing",
-    "source_url": "https://www.neoscapesmaldives.com/resort/milaidhoo-island-maldives/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": "whale shark",
-    "source_url": "https://www.neoscapesmaldives.com/resort/milaidhoo-island-maldives/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": "manta",
-    "source_url": "https://www.neoscapesmaldives.com/resort/milaidhoo-island-maldives/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": "cinema",
-    "source_url": "https://www.neoscapesmaldives.com/resort/milaidhoo-island-maldives/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": "cooking class",
-    "source_url": "https://www.neoscapesmaldives.com/resort/milaidhoo-island-maldives/",
-    "as_of": "2026-10-04"
-   }
-  ],
   "kids_family.kids_club": [
    {
     "value": "Kids Club",
     "source_url": "https://www.neoscapesmaldives.com/resort/milaidhoo-island-maldives/",
     "as_of": "2026-10-04"
    }
-  ],
-  "wellness_fitness": [
-   {
-    "value": "yoga",
-    "source_url": "https://www.neoscapesmaldives.com/resort/milaidhoo-island-maldives/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": "meditation",
-    "source_url": "https://www.neoscapesmaldives.com/resort/milaidhoo-island-maldives/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": "gym",
-    "source_url": "https://www.neoscapesmaldives.com/resort/milaidhoo-island-maldives/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": "fitness center",
-    "source_url": "https://www.neoscapesmaldives.com/resort/milaidhoo-island-maldives/",
-    "as_of": "2026-10-04"
-   }
-  ],
-  "weddings.offered": [
-   {
-    "value": true,
-    "source_url": "https://www.neoscapesmaldives.com/resort/milaidhoo-island-maldives/",
-    "as_of": "2026-10-04"
-   }
-  ],
-  "sustainability": [
-   {
-    "value": "marine biologist",
-    "source_url": "https://www.neoscapesmaldives.com/resort/milaidhoo-island-maldives/",
-    "as_of": "2026-10-04"
-   }
-  ],
-  "contacts_public.reservations_email": [
-   {
-    "value": "info@neoscapesmaldives.com",
-    "source_url": "https://www.neoscapesmaldives.com/resort/milaidhoo-island-maldives/",
-    "as_of": "2026-10-04"
-   }
-  ],
-  "contacts_public.phone": [
-   {
-    "value": "+960 736 5425",
-    "source_url": "https://www.neoscapesmaldives.com/resort/milaidhoo-island-maldives/",
-    "as_of": "2026-10-04"
-   }
   ]
  },
- "last_updated": "2026-10-04"
+ "last_updated": "2026-10-05"
 }

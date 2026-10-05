@@ -6,13 +6,13 @@
   "Velassaru",
   "NIVA Velassaru"
  ],
- "official_url": null,
- "official_site_status": null,
+ "official_url": "https://www.nivavelassaru.com/",
+ "official_site_status": "ok",
  "operator_brand": "NIVA",
  "atoll": "South Malé Atoll",
  "island": null,
  "opened_or_renovated": null,
- "star_rating": null,
+ "star_rating": "5-star",
  "transfer": {
   "modes": [
    "speedboat",
@@ -27,26 +27,50 @@
  },
  "island_size": null,
  "villas": {
-  "total": null,
+  "total": 129,
   "categories": [
    {
-    "name": "Delu e Bungalows – Water Bungalows with Pool – Pool Villa –",
-    "count": 7,
-    "size_sqm": 70,
-    "max_occupancy": null,
-    "pool": true,
-    "overwater": null
-   },
-   {
-    "name": "Delu e Villas – Water Villas – Water Suite –",
-    "count": 44,
+    "name": "Delu e Villas - Highlights",
+    "count": 49,
     "size_sqm": 75,
     "max_occupancy": null,
     "pool": null,
     "overwater": null
    },
    {
-    "name": "Water Villas with Pool –",
+    "name": "Beach Villas with Pool - ՞ Sleeps adults or",
+    "count": 30,
+    "size_sqm": 116,
+    "max_occupancy": null,
+    "pool": true,
+    "overwater": null
+   },
+   {
+    "name": "Water Bungalows with Pool - Highlights",
+    "count": 17,
+    "size_sqm": 80,
+    "max_occupancy": null,
+    "pool": true,
+    "overwater": null
+   },
+   {
+    "name": "Water Villas- Highlights",
+    "count": 24,
+    "size_sqm": 112,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "Two Bedroom Delu e Villa - ՞ Sleeps adults or",
+    "count": 2,
+    "size_sqm": 150,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "Water Villas with Pool - Highlights",
     "count": 4,
     "size_sqm": 112,
     "max_occupancy": null,
@@ -54,19 +78,27 @@
     "overwater": null
    },
    {
-    "name": "Beach Villas – sq Delu e Villa with Pool –",
-    "count": 14,
+    "name": "Delu e Villa with Pool - Highlights",
+    "count": 1,
     "size_sqm": 110,
     "max_occupancy": null,
     "pool": true,
     "overwater": null
    },
    {
-    "name": "Beach Villas with Pool –",
-    "count": 16,
-    "size_sqm": 116,
+    "name": "Pool Villa - ՞ adults or adults",
+    "count": 1,
+    "size_sqm": 175,
     "max_occupancy": null,
     "pool": true,
+    "overwater": null
+   },
+   {
+    "name": "Water Suite - Highlights",
+    "count": 1,
+    "size_sqm": 270,
+    "max_occupancy": null,
+    "pool": null,
     "overwater": null
    },
    {
@@ -92,39 +124,73 @@
     "max_occupancy": null,
     "pool": null,
     "overwater": null
+   },
+   {
+    "name": "Water Suites",
+    "count": 17,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "Beach Villas",
+    "count": 30,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "Delu e Bungalows",
+    "count": 54,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
    }
   ]
  },
  "dining": [
   {
-   "name": "Services & Facilities • Velassaru Lounge",
+   "name": "Fen Bar Chill Bar",
    "cuisine": null,
    "type": "bar"
   },
   {
-   "name": "Fen Bar Sand Teppanyaki",
+   "name": "From the Sushi Bar",
    "cuisine": null,
    "type": "bar"
   },
   {
-   "name": "Etesian Chill Bar",
+   "name": "Haali Bar",
    "cuisine": null,
    "type": "bar"
   },
   {
-   "name": "Chill Bar Fen Bar",
+   "name": "Lo Brizan Bar",
    "cuisine": null,
    "type": "bar"
   },
   {
-   "name": "Snorkelling Private Dining",
+   "name": "Chill Bar",
+   "cuisine": null,
+   "type": "bar"
+  },
+  {
+   "name": "Laguna Bar",
+   "cuisine": null,
+   "type": "bar"
+  },
+  {
+   "name": "Brasserie Dauban",
    "cuisine": null,
    "type": "restaurant"
   },
   {
-   "name": "Dining",
+   "name": "Fen Bar",
    "cuisine": null,
-   "type": "restaurant"
+   "type": "bar"
   },
   {
    "name": "Japanese with a Twist Teppanyaki",
@@ -137,22 +203,35 @@
    "type": "bar"
   },
   {
-   "name": "Chill Bar",
+   "name": "Teppanyaki",
+   "cuisine": null,
+   "type": "restaurant"
+  },
+  {
+   "name": "Wine Cellar",
+   "cuisine": null,
+   "type": "bar"
+  },
+  {
+   "name": "Chilla Bar and Fen Bar at Velassaru Maldives",
    "cuisine": null,
    "type": "bar"
   }
  ],
- "meal_plans": [],
- "all_inclusive_details": null,
+ "meal_plans": [
+  "AI",
+  "Premium AI"
+ ],
+ "all_inclusive_details": "all-inclusive escape.",
  "spa": {
-  "name": "Tennis Court\nVelassaru Spa",
+  "name": "Spa",
   "treatment_rooms": null,
   "signature_treatments": [],
-  "menu_doc": null
+  "menu_doc": "https://www.nivavelassaru.com/wp-content/uploads/2026/02/LIMEWellbeing_Niva-Velassaru-.pdf"
  },
  "diving_watersports": {
   "operator": "Dive Centre",
-  "house_reef": "House Reef Exploration With Seabob",
+  "house_reef": "house reef, set sail beyond the",
   "activities": [
    "snorkelling",
    "surfing",
@@ -166,39 +245,50 @@
    "fishing",
    "sunset cruise",
    "manta",
+   "banana boat",
+   "fun tube",
+   "flyboard",
    "windsurfing",
    "sailing",
-   "fun tube",
-   "glass-bottom"
+   "glass-bottom",
+   "stand-up paddle",
+   "scuba diving",
+   "snorkeling"
   ],
-  "price_list_doc": null
+  "price_list_doc": "https://www.nivavelassaru.com/wp-content/uploads/2026/01/Bio-Diversity.pdf"
  },
  "excursions": [
-  "sandbank",
   "dolphin",
   "night fishing",
   "big game fishing",
   "manta",
-  "turtle"
+  "turtle",
+  "cinema",
+  "sandbank"
  ],
  "kids_family": {
-  "kids_club": null,
+  "kids_club": "Play Kids Club",
   "age_range": null,
   "teens": null
  },
  "wellness_fitness": [
   "yoga",
-  "gym",
+  "fitness centre",
   "tennis",
+  "pilates",
   "steam",
-  "fitness centre"
+  "cryotherapy",
+  "badminton",
+  "meditation",
+  "beach volleyball",
+  "gym"
  ],
  "weddings": {
   "offered": true,
   "vow_renewal": true,
   "venues": [],
   "packages": [],
-  "brochure_doc": null
+  "brochure_doc": "https://www.nivavelassaru.com/wp-content/uploads/2026/05/Renewal-of-Vows.pdf"
  },
  "events_mice": {
   "venues": [],
@@ -210,45 +300,102 @@
   "marine biologist"
  ],
  "contacts_public": {
-  "reservations_email": "info@neoscapesmaldives.com",
+  "reservations_email": "reservations@nivavelassaru.com",
   "weddings_email": null,
-  "phone": "+960 736 5425"
+  "phone": "+960 665 6100"
  },
  "documents_latest": {
-  "factsheet": "https://www.neoscapesmaldives.com/wp-content/uploads/velasaru_resort_factsheet_rdc.pdf",
-  "map": null,
-  "wedding": null,
-  "spa_menu": null,
-  "dining_menu": null,
-  "dive_prices": null,
+  "factsheet": "https://www.nivavelassaru.com/wp-content/uploads/2026/01/Niva-Velassaru_Factsheet.pdf",
+  "map": "https://www.nivavelassaru.com/wp-content/uploads/2026/01/Sustainability-Management-Plan.pdf",
+  "wedding": "https://www.nivavelassaru.com/wp-content/uploads/2026/05/Renewal-of-Vows.pdf",
+  "spa_menu": "https://www.nivavelassaru.com/wp-content/uploads/2026/02/LIMEWellbeing_Niva-Velassaru-.pdf",
+  "dining_menu": "https://www.nivavelassaru.com/wp-content/uploads/2026/03/LIMESpaMenuWeb89.pdf",
+  "dive_prices": "https://www.nivavelassaru.com/wp-content/uploads/2026/01/Bio-Diversity.pdf",
   "events": null,
-  "calendar": null
+  "calendar": "https://www.nivavelassaru.com/wp-content/uploads/2026/09/Niva-Velassaru_Festive-2026_web.pdf"
  },
- "documents_count": 2,
+ "documents_count": 75,
  "gaps": [
-  "wedding brochure",
-  "events/MICE document",
-  "fact: villas.total",
-  "fact: kids club"
+  "events/MICE document"
  ],
  "sources": {
   "atoll": [
    {
-    "value": "Malé Atoll",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/velasaru_resort_factsheet_rdc.pdf",
-    "as_of": 2020
+    "value": "South Malé Atoll",
+    "source_url": "https://www.nivavelassaru.com/wp-content/uploads/2026/01/Niva-Velassaru_Factsheet.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "Raa Atoll",
+    "source_url": "https://www.nivahotelsandresorts.com/sustainability/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Raa Atoll",
+    "source_url": "https://www.nivahotelsandresorts.com/gallery/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Raa Atoll",
+    "source_url": "https://www.nivahotelsandresorts.com/about/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Raa Atoll",
+    "source_url": "https://www.nivahotelsandresorts.com/thank-you-for-contact/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Raa Atoll",
+    "source_url": "https://www.nivahotelsandresorts.com/property/niva-kurumba-maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Raa Atoll",
+    "source_url": "https://www.nivahotelsandresorts.com/property/niva-velassaru-maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Raa Atoll",
+    "source_url": "https://www.nivahotelsandresorts.com/property/niva-dhigali-maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Raa Atoll",
+    "source_url": "https://www.nivahotelsandresorts.com/property/niva-kuramathi-maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "North Malé Atoll",
+    "source_url": "https://www.nivahotelsandresorts.com/experience/sunset-sports-fishing/",
+    "as_of": "2026-10-05"
    },
    {
     "value": "South Malé Atoll",
     "source_url": "https://www.neoscapesmaldives.com/resort/velassaru-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "South Malé Atoll",
+    "source_url": "https://hummingbird.travel/property/velassaru-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Ari Atoll",
+    "source_url": "https://www.tropicalsky.co.uk/indian-ocean-holidays/maldives/niva-velassaru-maldives-hotel",
     "as_of": "2026-10-04"
    }
   ],
   "transfer.modes": [
    {
     "value": "speedboat",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/velasaru_resort_factsheet_rdc.pdf",
-    "as_of": 2020
+    "source_url": "https://www.nivavelassaru.com/wp-content/uploads/2026/01/Niva-Velassaru_Factsheet.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.nivahotelsandresorts.com/experience/motorised-water-sports-2/",
+    "as_of": "2026-10-05"
    },
    {
     "value": "seaplane",
@@ -259,80 +406,158 @@
     "value": "speedboat",
     "source_url": "https://www.neoscapesmaldives.com/resort/velassaru-maldives/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://hummingbird.travel/property/velassaru-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.maldivestourism.net/resorts/velassaru-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.maldivestourism.net/resorts/velassaru-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.tropicalsky.co.uk/indian-ocean-holidays/maldives/niva-velassaru-maldives-hotel",
+    "as_of": "2026-10-04"
    }
   ],
   "transfer.minutes.speedboat": [
    {
     "value": 25,
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/velasaru_resort_factsheet_rdc.pdf",
-    "as_of": 2020
+    "source_url": "https://www.nivavelassaru.com/wp-content/uploads/2026/01/Niva-Velassaru_Factsheet.pdf",
+    "as_of": 2026
    },
    {
     "value": 25,
     "source_url": "https://www.neoscapesmaldives.com/resort/velassaru-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 25,
+    "source_url": "https://hummingbird.travel/property/velassaru-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 25,
+    "source_url": "https://www.tropicalsky.co.uk/indian-ocean-holidays/maldives/niva-velassaru-maldives-hotel",
     "as_of": "2026-10-04"
    }
   ],
   "villas.categories": [
    {
     "value": {
-     "name": "Delu e Bungalows – Water Bungalows with Pool – Pool Villa –",
-     "count": 7,
-     "size_sqm": 70,
-     "max_occupancy": null,
-     "pool": true,
-     "overwater": null
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/velasaru_resort_factsheet_rdc.pdf",
-    "as_of": 2020
-   },
-   {
-    "value": {
-     "name": "Delu e Villas – Water Villas – Water Suite –",
-     "count": 44,
+     "name": "Delu e Villas - Highlights",
+     "count": 49,
      "size_sqm": 75,
      "max_occupancy": null,
      "pool": null,
      "overwater": null
     },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/velasaru_resort_factsheet_rdc.pdf",
-    "as_of": 2020
+    "source_url": "https://www.nivavelassaru.com/wp-content/uploads/2026/01/Niva-Velassaru_Factsheet.pdf",
+    "as_of": 2026
    },
    {
     "value": {
-     "name": "Water Villas with Pool –",
+     "name": "Beach Villas with Pool - ՞ Sleeps adults or",
+     "count": 30,
+     "size_sqm": 116,
+     "max_occupancy": null,
+     "pool": true,
+     "overwater": null
+    },
+    "source_url": "https://www.nivavelassaru.com/wp-content/uploads/2026/01/Niva-Velassaru_Factsheet.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": {
+     "name": "Water Bungalows with Pool - Highlights",
+     "count": 17,
+     "size_sqm": 80,
+     "max_occupancy": null,
+     "pool": true,
+     "overwater": null
+    },
+    "source_url": "https://www.nivavelassaru.com/wp-content/uploads/2026/01/Niva-Velassaru_Factsheet.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": {
+     "name": "Water Villas- Highlights",
+     "count": 24,
+     "size_sqm": 112,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://www.nivavelassaru.com/wp-content/uploads/2026/01/Niva-Velassaru_Factsheet.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": {
+     "name": "Two Bedroom Delu e Villa - ՞ Sleeps adults or",
+     "count": 2,
+     "size_sqm": 150,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://www.nivavelassaru.com/wp-content/uploads/2026/01/Niva-Velassaru_Factsheet.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": {
+     "name": "Water Villas with Pool - Highlights",
      "count": 4,
      "size_sqm": 112,
      "max_occupancy": null,
      "pool": true,
      "overwater": null
     },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/velasaru_resort_factsheet_rdc.pdf",
-    "as_of": 2020
+    "source_url": "https://www.nivavelassaru.com/wp-content/uploads/2026/01/Niva-Velassaru_Factsheet.pdf",
+    "as_of": 2026
    },
    {
     "value": {
-     "name": "Beach Villas – sq Delu e Villa with Pool –",
-     "count": 14,
+     "name": "Delu e Villa with Pool - Highlights",
+     "count": 1,
      "size_sqm": 110,
      "max_occupancy": null,
      "pool": true,
      "overwater": null
     },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/velasaru_resort_factsheet_rdc.pdf",
-    "as_of": 2020
+    "source_url": "https://www.nivavelassaru.com/wp-content/uploads/2026/01/Niva-Velassaru_Factsheet.pdf",
+    "as_of": 2026
    },
    {
     "value": {
-     "name": "Beach Villas with Pool –",
-     "count": 16,
-     "size_sqm": 116,
+     "name": "Pool Villa - ՞ adults or adults",
+     "count": 1,
+     "size_sqm": 175,
      "max_occupancy": null,
      "pool": true,
      "overwater": null
     },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/velasaru_resort_factsheet_rdc.pdf",
-    "as_of": 2020
+    "source_url": "https://www.nivavelassaru.com/wp-content/uploads/2026/01/Niva-Velassaru_Factsheet.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": {
+     "name": "Water Suite - Highlights",
+     "count": 1,
+     "size_sqm": 270,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://www.nivavelassaru.com/wp-content/uploads/2026/01/Niva-Velassaru_Factsheet.pdf",
+    "as_of": 2026
    },
    {
     "value": {
@@ -369,71 +594,137 @@
     },
     "source_url": "https://www.neoscapesmaldives.com/resort/velassaru-maldives/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Water Villas",
+     "count": 28,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://www.maldivestourism.net/resorts/velassaru-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Water Suites",
+     "count": 17,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://www.maldivestourism.net/resorts/velassaru-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Beach Villas",
+     "count": 30,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://www.maldivestourism.net/resorts/velassaru-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Delu e Bungalows",
+     "count": 54,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://www.maldivestourism.net/resorts/velassaru-maldives/",
+    "as_of": "2026-10-04"
    }
   ],
   "dining": [
    {
     "value": {
-     "name": "Services & Facilities • Velassaru Lounge",
+     "name": "Fen Bar Chill Bar",
      "cuisine": null,
      "type": "bar"
     },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/velasaru_resort_factsheet_rdc.pdf",
-    "as_of": 2020
+    "source_url": "https://www.nivavelassaru.com/wp-content/uploads/2026/01/Niva-Velassaru_Factsheet.pdf",
+    "as_of": 2026
    },
    {
     "value": {
-     "name": "Fen Bar Sand Teppanyaki",
+     "name": "From the Sushi Bar",
      "cuisine": null,
      "type": "bar"
     },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/velasaru_resort_factsheet_rdc.pdf",
-    "as_of": 2020
+    "source_url": "https://www.nivahotelsandresorts.com/dining/kobe/",
+    "as_of": "2026-10-05"
    },
    {
     "value": {
-     "name": "Etesian Chill Bar",
+     "name": "Haali Bar",
      "cuisine": null,
      "type": "bar"
     },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/velasaru_resort_factsheet_rdc.pdf",
-    "as_of": 2020
+    "source_url": "https://www.nivahotelsandresorts.com/dining/haali-bar/",
+    "as_of": "2026-10-05"
    },
    {
     "value": {
-     "name": "Chill Bar Fen Bar",
+     "name": "Lo Brizan Bar",
      "cuisine": null,
      "type": "bar"
     },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/velasaru_resort_factsheet_rdc.pdf",
-    "as_of": 2020
+    "source_url": "https://www.nivahotelsandresorts.com/dining/thila/",
+    "as_of": "2026-10-05"
    },
    {
     "value": {
-     "name": "Snorkelling Private Dining",
+     "name": "Chill Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.nivahotelsandresorts.com/dining/the-reef/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": {
+     "name": "Laguna Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.nivahotelsandresorts.com/dining/island-barbeque/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": {
+     "name": "Brasserie Dauban",
      "cuisine": null,
      "type": "restaurant"
     },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/velasaru_resort_factsheet_rdc.pdf",
-    "as_of": 2020
+    "source_url": "https://www.nivahotelsandresorts.com/dining/brasserie-dauban/",
+    "as_of": "2026-10-05"
    },
    {
     "value": {
-     "name": "Dining",
+     "name": "Lo Brizan Bar",
      "cuisine": null,
-     "type": "restaurant"
+     "type": "bar"
     },
-    "source_url": "https://www.neoscapesmaldives.com/resort/velassaru-maldives/",
-    "as_of": "2026-10-04"
+    "source_url": "https://www.nivahotelsandresorts.com/dining/brasserie-dauban/",
+    "as_of": "2026-10-05"
    },
    {
     "value": {
-     "name": "Dining",
+     "name": "Fen Bar",
      "cuisine": null,
-     "type": "restaurant"
+     "type": "bar"
     },
-    "source_url": "https://www.neoscapesmaldives.com/resort/velassaru-maldives/",
-    "as_of": "2026-10-04"
+    "source_url": "https://www.nivahotelsandresorts.com/dining/faru/",
+    "as_of": "2026-10-05"
    },
    {
     "value": {
@@ -461,13 +752,85 @@
     },
     "source_url": "https://www.neoscapesmaldives.com/resort/velassaru-maldives/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Teppanyaki",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://hummingbird.travel/property/velassaru-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Fen Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://hummingbird.travel/property/velassaru-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Chill Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://hummingbird.travel/property/velassaru-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Wine Cellar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://hummingbird.travel/property/velassaru-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Chilla Bar and Fen Bar at Velassaru Maldives",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.tropicalsky.co.uk/indian-ocean-holidays/maldives/niva-velassaru-maldives-hotel",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Teppanyaki",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.tropicalsky.co.uk/indian-ocean-holidays/maldives/niva-velassaru-maldives-hotel",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Chill Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.tropicalsky.co.uk/indian-ocean-holidays/maldives/niva-velassaru-maldives-hotel",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Fen Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.tropicalsky.co.uk/indian-ocean-holidays/maldives/niva-velassaru-maldives-hotel",
+    "as_of": "2026-10-04"
    }
   ],
   "diving_watersports.operator": [
    {
     "value": "Dive Centre",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/velasaru_resort_factsheet_rdc.pdf",
-    "as_of": 2020
+    "source_url": "https://www.nivavelassaru.com/wp-content/uploads/2026/01/Niva-Velassaru_Factsheet.pdf",
+    "as_of": 2026
    },
    {
     "value": "Dive Centre",
@@ -477,76 +840,306 @@
   ],
   "diving_watersports.house_reef": [
    {
-    "value": "house reef, twice a week",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/velasaru_resort_factsheet_rdc.pdf",
-    "as_of": 2020
+    "value": "house reef, set sail beyond the",
+    "source_url": "https://www.nivavelassaru.com/wp-content/uploads/2026/01/Niva-Velassaru_Factsheet.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "House Reef Snorkelling Lesson",
+    "source_url": "https://www.nivahotelsandresorts.com/experience/tortoise-feeding/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "house reef, you share the water with seven resident sea turtles, each known by name, moving through the lagoon with a rhythm all their own",
+    "source_url": "https://www.nivahotelsandresorts.com/experience/meet-our-resident-sea-turtles/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "house reef, supported by coral nurseries around the island",
+    "source_url": "https://www.nivahotelsandresorts.com/experience/house-lagoon-reef-snorkel/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "House Reef Guided Snorkelling",
+    "source_url": "https://www.nivahotelsandresorts.com/experience/snorkelling-adventure-by-dhoni/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "House Reef Snorkelling Lesson",
+    "source_url": "https://www.nivahotelsandresorts.com/experience/house-reef-snorkelling-lesson/",
+    "as_of": "2026-10-05"
    },
    {
     "value": "House Reef Exploration With Seabob",
     "source_url": "https://www.neoscapesmaldives.com/resort/velassaru-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "House Reef",
+    "source_url": "https://hummingbird.travel/property/velassaru-maldives",
     "as_of": "2026-10-04"
    }
   ],
   "diving_watersports.activities": [
    {
     "value": "snorkelling",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/velasaru_resort_factsheet_rdc.pdf",
-    "as_of": 2020
+    "source_url": "https://www.nivavelassaru.com/wp-content/uploads/2026/01/Niva-Velassaru_Factsheet.pdf",
+    "as_of": 2026
    },
    {
     "value": "surfing",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/velasaru_resort_factsheet_rdc.pdf",
-    "as_of": 2020
+    "source_url": "https://www.nivavelassaru.com/wp-content/uploads/2026/01/Niva-Velassaru_Factsheet.pdf",
+    "as_of": 2026
    },
    {
     "value": "kayaking",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/velasaru_resort_factsheet_rdc.pdf",
-    "as_of": 2020
+    "source_url": "https://www.nivavelassaru.com/wp-content/uploads/2026/01/Niva-Velassaru_Factsheet.pdf",
+    "as_of": 2026
    },
    {
     "value": "paddleboard",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/velasaru_resort_factsheet_rdc.pdf",
-    "as_of": 2020
+    "source_url": "https://www.nivavelassaru.com/wp-content/uploads/2026/01/Niva-Velassaru_Factsheet.pdf",
+    "as_of": 2026
    },
    {
     "value": "catamaran",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/velasaru_resort_factsheet_rdc.pdf",
-    "as_of": 2020
+    "source_url": "https://www.nivavelassaru.com/wp-content/uploads/2026/01/Niva-Velassaru_Factsheet.pdf",
+    "as_of": 2026
    },
    {
     "value": "jet ski",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/velasaru_resort_factsheet_rdc.pdf",
-    "as_of": 2020
+    "source_url": "https://www.nivavelassaru.com/wp-content/uploads/2026/01/Niva-Velassaru_Factsheet.pdf",
+    "as_of": 2026
    },
    {
     "value": "parasailing",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/velasaru_resort_factsheet_rdc.pdf",
-    "as_of": 2020
+    "source_url": "https://www.nivavelassaru.com/wp-content/uploads/2026/01/Niva-Velassaru_Factsheet.pdf",
+    "as_of": 2026
    },
    {
     "value": "wakeboarding",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/velasaru_resort_factsheet_rdc.pdf",
-    "as_of": 2020
+    "source_url": "https://www.nivavelassaru.com/wp-content/uploads/2026/01/Niva-Velassaru_Factsheet.pdf",
+    "as_of": 2026
    },
    {
     "value": "seabob",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/velasaru_resort_factsheet_rdc.pdf",
-    "as_of": 2020
+    "source_url": "https://www.nivavelassaru.com/wp-content/uploads/2026/01/Niva-Velassaru_Factsheet.pdf",
+    "as_of": 2026
    },
    {
     "value": "fishing",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/velasaru_resort_factsheet_rdc.pdf",
-    "as_of": 2020
+    "source_url": "https://www.nivavelassaru.com/wp-content/uploads/2026/01/Niva-Velassaru_Factsheet.pdf",
+    "as_of": 2026
    },
    {
     "value": "sunset cruise",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/velasaru_resort_factsheet_rdc.pdf",
-    "as_of": 2020
+    "source_url": "https://www.nivavelassaru.com/wp-content/uploads/2026/01/Niva-Velassaru_Factsheet.pdf",
+    "as_of": 2026
    },
    {
     "value": "manta",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/velasaru_resort_factsheet_rdc.pdf",
-    "as_of": 2020
+    "source_url": "https://www.nivavelassaru.com/wp-content/uploads/2026/01/Niva-Velassaru_Factsheet.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "banana boat",
+    "source_url": "https://www.nivavelassaru.com/wp-content/uploads/2026/01/Niva-Velassaru_Factsheet.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "fun tube",
+    "source_url": "https://www.nivavelassaru.com/wp-content/uploads/2026/01/Niva-Velassaru_Factsheet.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "flyboard",
+    "source_url": "https://www.nivavelassaru.com/wp-content/uploads/2026/01/Niva-Velassaru_Factsheet.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.nivavelassaru.com/wp-content/uploads/2026/05/Renewal-of-Vows.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.nivahotelsandresorts.com/experience/kids-club-2/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "kayaking",
+    "source_url": "https://www.nivahotelsandresorts.com/experience/kids-club-2/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.nivahotelsandresorts.com/experience/shark-point-snorkelling/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.nivahotelsandresorts.com/experience/shark-point-snorkelling/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.nivahotelsandresorts.com/experience/tortoise-feeding/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.nivahotelsandresorts.com/experience/male-tour/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.nivahotelsandresorts.com/experience/meet-our-resident-sea-turtles/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "windsurfing",
+    "source_url": "https://www.nivahotelsandresorts.com/experience/motorised-water-sports-2/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "jet ski",
+    "source_url": "https://www.nivahotelsandresorts.com/experience/motorised-water-sports-2/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "wakeboarding",
+    "source_url": "https://www.nivahotelsandresorts.com/experience/motorised-water-sports-2/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.nivahotelsandresorts.com/experience/manta-snorkelling-trip/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.nivahotelsandresorts.com/experience/manta-snorkelling-trip/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.nivahotelsandresorts.com/experience/turtle-snorkelling-by-dhoni/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.nivahotelsandresorts.com/experience/turtle-snorkelling-by-dhoni/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "windsurfing",
+    "source_url": "https://www.nivahotelsandresorts.com/experience/windsurfing-2/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sailing",
+    "source_url": "https://www.nivahotelsandresorts.com/experience/windsurfing-2/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.nivahotelsandresorts.com/experience/house-lagoon-reef-snorkel/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "jet ski",
+    "source_url": "https://www.nivahotelsandresorts.com/experience/jetski/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.nivahotelsandresorts.com/experience/jetski/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.nivahotelsandresorts.com/experience/big-game-fishing-2/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.nivahotelsandresorts.com/experience/glass-bottom-boat-experience/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "glass-bottom",
+    "source_url": "https://www.nivahotelsandresorts.com/experience/glass-bottom-boat-experience/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "windsurfing",
+    "source_url": "https://www.nivahotelsandresorts.com/experience/stand-up-paddle-kayak/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "stand-up paddle",
+    "source_url": "https://www.nivahotelsandresorts.com/experience/stand-up-paddle-kayak/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "paddleboard",
+    "source_url": "https://www.nivahotelsandresorts.com/experience/stand-up-paddle-kayak/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.nivahotelsandresorts.com/experience/manta-turtle-dolphin-trip/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.nivahotelsandresorts.com/experience/manta-turtle-dolphin-trip/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.nivahotelsandresorts.com/experience/manta-turtle-dolphin-sandbank-trip/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.nivahotelsandresorts.com/experience/manta-turtle-dolphin-sandbank-trip/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.nivahotelsandresorts.com/experience/snorkelling-adventure-by-dhoni/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "banana boat",
+    "source_url": "https://www.nivahotelsandresorts.com/experience/towable-rides/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "fun tube",
+    "source_url": "https://www.nivahotelsandresorts.com/experience/towable-rides/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "windsurfing",
+    "source_url": "https://www.nivahotelsandresorts.com/experience/pulse-and-flow/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.nivahotelsandresorts.com/experience/sunset-sports-fishing/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.nivahotelsandresorts.com/experience/sunset-sports-fishing/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.nivahotelsandresorts.com/experience/house-reef-snorkelling-lesson/",
+    "as_of": "2026-10-05"
    },
    {
     "value": "snorkelling",
@@ -612,33 +1205,218 @@
     "value": "glass-bottom",
     "source_url": "https://www.neoscapesmaldives.com/resort/velassaru-maldives/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://hummingbird.travel/property/velassaru-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.maldivestourism.net/resorts/velassaru-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.maldivestourism.net/resorts/velassaru-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.tropicalsky.co.uk/indian-ocean-holidays/maldives/niva-velassaru-maldives-hotel",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.tropicalsky.co.uk/indian-ocean-holidays/maldives/niva-velassaru-maldives-hotel",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "kayaking",
+    "source_url": "https://www.tropicalsky.co.uk/indian-ocean-holidays/maldives/niva-velassaru-maldives-hotel",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "catamaran",
+    "source_url": "https://www.tropicalsky.co.uk/indian-ocean-holidays/maldives/niva-velassaru-maldives-hotel",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "parasailing",
+    "source_url": "https://www.tropicalsky.co.uk/indian-ocean-holidays/maldives/niva-velassaru-maldives-hotel",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "wakeboarding",
+    "source_url": "https://www.tropicalsky.co.uk/indian-ocean-holidays/maldives/niva-velassaru-maldives-hotel",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sailing",
+    "source_url": "https://www.tropicalsky.co.uk/indian-ocean-holidays/maldives/niva-velassaru-maldives-hotel",
+    "as_of": "2026-10-04"
    }
   ],
   "excursions": [
    {
-    "value": "sandbank",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/velasaru_resort_factsheet_rdc.pdf",
-    "as_of": 2020
-   },
-   {
     "value": "dolphin",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/velasaru_resort_factsheet_rdc.pdf",
-    "as_of": 2020
+    "source_url": "https://www.nivavelassaru.com/wp-content/uploads/2026/01/Niva-Velassaru_Factsheet.pdf",
+    "as_of": 2026
    },
    {
     "value": "night fishing",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/velasaru_resort_factsheet_rdc.pdf",
-    "as_of": 2020
+    "source_url": "https://www.nivavelassaru.com/wp-content/uploads/2026/01/Niva-Velassaru_Factsheet.pdf",
+    "as_of": 2026
    },
    {
     "value": "big game fishing",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/velasaru_resort_factsheet_rdc.pdf",
-    "as_of": 2020
+    "source_url": "https://www.nivavelassaru.com/wp-content/uploads/2026/01/Niva-Velassaru_Factsheet.pdf",
+    "as_of": 2026
    },
    {
     "value": "manta",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/velasaru_resort_factsheet_rdc.pdf",
-    "as_of": 2020
+    "source_url": "https://www.nivavelassaru.com/wp-content/uploads/2026/01/Niva-Velassaru_Factsheet.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.nivavelassaru.com/wp-content/uploads/2026/01/Niva-Velassaru_Factsheet.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "cinema",
+    "source_url": "https://www.nivavelassaru.com/wp-content/uploads/2026/01/Niva-Velassaru_Factsheet.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.nivahotelsandresorts.com/experience/tortoise-feeding/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.nivahotelsandresorts.com/persona/adventure-seekers/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.nivahotelsandresorts.com/experience/meet-our-resident-sea-turtles/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.nivahotelsandresorts.com/experience/motorised-water-sports-2/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.nivahotelsandresorts.com/experience/manta-snorkelling-trip/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.nivahotelsandresorts.com/experience/manta-snorkelling-trip/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.nivahotelsandresorts.com/experience/manta-snorkelling-trip/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.nivahotelsandresorts.com/experience/turtle-snorkelling-by-dhoni/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.nivahotelsandresorts.com/experience/turtle-snorkelling-by-dhoni/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.nivahotelsandresorts.com/experience/house-lagoon-reef-snorkel/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.nivahotelsandresorts.com/experience/jetski/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.nivahotelsandresorts.com/experience/jetski/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.nivahotelsandresorts.com/experience/jetski/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.nivahotelsandresorts.com/experience/jetski/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "big game fishing",
+    "source_url": "https://www.nivahotelsandresorts.com/experience/big-game-fishing-2/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.nivahotelsandresorts.com/experience/manta-turtle-dolphin-trip/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.nivahotelsandresorts.com/experience/manta-turtle-dolphin-trip/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.nivahotelsandresorts.com/experience/manta-turtle-dolphin-trip/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.nivahotelsandresorts.com/experience/manta-turtle-dolphin-trip/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.nivahotelsandresorts.com/experience/manta-turtle-dolphin-sandbank-trip/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.nivahotelsandresorts.com/experience/manta-turtle-dolphin-sandbank-trip/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.nivahotelsandresorts.com/experience/manta-turtle-dolphin-sandbank-trip/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.nivahotelsandresorts.com/experience/manta-turtle-dolphin-sandbank-trip/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.nivahotelsandresorts.com/experience/snorkelling-adventure-by-dhoni/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.nivahotelsandresorts.com/experience/sunset-sports-fishing/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.nivahotelsandresorts.com/experience/fitness-centre-3/",
+    "as_of": "2026-10-05"
    },
    {
     "value": "sandbank",
@@ -669,28 +1447,163 @@
     "value": "turtle",
     "source_url": "https://www.neoscapesmaldives.com/resort/velassaru-maldives/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "big game fishing",
+    "source_url": "https://www.maldivestourism.net/resorts/velassaru-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.maldivestourism.net/resorts/velassaru-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "cinema",
+    "source_url": "https://www.tropicalsky.co.uk/indian-ocean-holidays/maldives/niva-velassaru-maldives-hotel",
+    "as_of": "2026-10-04"
    }
   ],
   "wellness_fitness": [
    {
     "value": "yoga",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/velasaru_resort_factsheet_rdc.pdf",
-    "as_of": 2020
+    "source_url": "https://www.nivavelassaru.com/wp-content/uploads/2026/01/Niva-Velassaru_Factsheet.pdf",
+    "as_of": 2026
    },
    {
-    "value": "gym",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/velasaru_resort_factsheet_rdc.pdf",
-    "as_of": 2020
+    "value": "fitness centre",
+    "source_url": "https://www.nivavelassaru.com/wp-content/uploads/2026/01/Niva-Velassaru_Factsheet.pdf",
+    "as_of": 2026
    },
    {
     "value": "tennis",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/velasaru_resort_factsheet_rdc.pdf",
-    "as_of": 2020
+    "source_url": "https://www.nivavelassaru.com/wp-content/uploads/2026/01/Niva-Velassaru_Factsheet.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "pilates",
+    "source_url": "https://www.nivavelassaru.com/wp-content/uploads/2026/01/Niva-Velassaru_Factsheet.pdf",
+    "as_of": 2026
    },
    {
     "value": "steam",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/velasaru_resort_factsheet_rdc.pdf",
-    "as_of": 2020
+    "source_url": "https://www.nivavelassaru.com/wp-content/uploads/2026/01/Niva-Velassaru_Factsheet.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.nivavelassaru.com/wp-content/uploads/2026/02/LIMEWellbeing_Niva-Velassaru-.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "steam",
+    "source_url": "https://www.nivavelassaru.com/wp-content/uploads/2026/02/LIMEWellbeing_Niva-Velassaru-.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "cryotherapy",
+    "source_url": "https://www.nivavelassaru.com/wp-content/uploads/2026/02/LIMEWellbeing_Niva-Velassaru-.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.nivavelassaru.com/wp-content/uploads/2026/03/LIMESpaMenuWeb89.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "steam",
+    "source_url": "https://www.nivavelassaru.com/wp-content/uploads/2026/03/LIMESpaMenuWeb89.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "cryotherapy",
+    "source_url": "https://www.nivavelassaru.com/wp-content/uploads/2026/03/LIMESpaMenuWeb89.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.nivavelassaru.com/wp-content/uploads/2026/01/Kids-Club-Program-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "badminton",
+    "source_url": "https://www.nivavelassaru.com/wp-content/uploads/2026/01/Kids-Club-Program-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.nivahotelsandresorts.com/experience/kids-club-2/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "meditation",
+    "source_url": "https://www.nivahotelsandresorts.com/experience/kids-club-2/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://www.nivahotelsandresorts.com/experience/kids-club-2/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "beach volleyball",
+    "source_url": "https://www.nivahotelsandresorts.com/experience/kids-club-2/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "fitness centre",
+    "source_url": "https://www.nivahotelsandresorts.com/experience/meet-our-resident-sea-turtles/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.nivahotelsandresorts.com/spa-wellness/yoga-and-mindfulness/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "meditation",
+    "source_url": "https://www.nivahotelsandresorts.com/spa-wellness/yoga-and-mindfulness/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.nivahotelsandresorts.com/spa-wellness/massage/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "gym",
+    "source_url": "https://www.nivahotelsandresorts.com/experience/recreation-centre/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://www.nivahotelsandresorts.com/experience/recreation-centre/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "badminton",
+    "source_url": "https://www.nivahotelsandresorts.com/experience/recreation-centre/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "fitness centre",
+    "source_url": "https://www.nivahotelsandresorts.com/experience/tennis-3/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://www.nivahotelsandresorts.com/experience/tennis-3/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "fitness centre",
+    "source_url": "https://www.nivahotelsandresorts.com/experience/fitness-centre-3/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://www.nivahotelsandresorts.com/experience/fitness-centre-3/",
+    "as_of": "2026-10-05"
    },
    {
     "value": "fitness centre",
@@ -706,13 +1619,68 @@
     "value": "steam",
     "source_url": "https://www.neoscapesmaldives.com/resort/velassaru-maldives/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "fitness centre",
+    "source_url": "https://letsgomaldives.com/news/velassaru-moments-revealed/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://hummingbird.travel/property/velassaru-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "gym",
+    "source_url": "https://hummingbird.travel/property/velassaru-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://hummingbird.travel/property/velassaru-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fitness centre",
+    "source_url": "https://www.maldivestourism.net/resorts/velassaru-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://www.maldivestourism.net/resorts/velassaru-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.tropicalsky.co.uk/indian-ocean-holidays/maldives/niva-velassaru-maldives-hotel",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fitness centre",
+    "source_url": "https://www.tropicalsky.co.uk/indian-ocean-holidays/maldives/niva-velassaru-maldives-hotel",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://www.tropicalsky.co.uk/indian-ocean-holidays/maldives/niva-velassaru-maldives-hotel",
+    "as_of": "2026-10-04"
    }
   ],
   "weddings.offered": [
    {
     "value": true,
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/velasaru_resort_factsheet_rdc.pdf",
-    "as_of": 2020
+    "source_url": "https://www.nivavelassaru.com/wp-content/uploads/2026/01/Niva-Velassaru_Factsheet.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": true,
+    "source_url": "https://www.nivavelassaru.com/wp-content/uploads/2026/05/Renewal-of-Vows.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": true,
+    "source_url": "https://www.nivahotelsandresorts.com/maldives-special-offers/labriz-romance/",
+    "as_of": "2026-10-05"
    },
    {
     "value": true,
@@ -723,8 +1691,13 @@
   "weddings.vow_renewal": [
    {
     "value": true,
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/velasaru_resort_factsheet_rdc.pdf",
-    "as_of": 2020
+    "source_url": "https://www.nivavelassaru.com/wp-content/uploads/2026/01/Niva-Velassaru_Factsheet.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": true,
+    "source_url": "https://www.nivavelassaru.com/wp-content/uploads/2026/05/Renewal-of-Vows.pdf",
+    "as_of": 2026
    },
    {
     "value": true,
@@ -735,8 +1708,13 @@
   "sustainability": [
    {
     "value": "marine biologist",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/velasaru_resort_factsheet_rdc.pdf",
-    "as_of": 2020
+    "source_url": "https://www.nivavelassaru.com/wp-content/uploads/2026/01/Niva-Velassaru_Factsheet.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "marine biologist",
+    "source_url": "https://www.nivahotelsandresorts.com/experience/meet-our-resident-sea-turtles/",
+    "as_of": "2026-10-05"
    },
    {
     "value": "marine biologist",
@@ -744,32 +1722,212 @@
     "as_of": "2026-10-04"
    }
   ],
-  "contacts_public.phone": [
+  "contacts_public.reservations_email": [
    {
-    "value": "+960 665 6100",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/velasaru_resort_factsheet_rdc.pdf",
-    "as_of": 2020
+    "value": "reservations@nivavelassaru.com",
+    "source_url": "https://www.nivavelassaru.com/wp-content/uploads/2026/01/Niva-Velassaru_Factsheet.pdf",
+    "as_of": 2026
    },
    {
-    "value": "+960 736 5425",
-    "source_url": "https://www.neoscapesmaldives.com/resort/velassaru-maldives/",
-    "as_of": "2026-10-04"
-   }
-  ],
-  "spa.name": [
+    "value": "reservations@velassaru.com",
+    "source_url": "https://www.nivavelassaru.com/wp-content/uploads/2026/05/Renewal-of-Vows.pdf",
+    "as_of": 2026
+   },
    {
-    "value": "Tennis Court\nVelassaru Spa",
-    "source_url": "https://www.neoscapesmaldives.com/resort/velassaru-maldives/",
-    "as_of": "2026-10-04"
-   }
-  ],
-  "contacts_public.reservations_email": [
+    "value": "reservations@nivavelassaru.com",
+    "source_url": "https://www.nivavelassaru.com/wp-content/uploads/2026/05/Renewal-of-Vows.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "sales@nivahotelsandresorts.com",
+    "source_url": "https://www.nivahotelsandresorts.com/contact-us/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "info@mdscollective.com",
+    "source_url": "https://www.nivahotelsandresorts.com/contact-us/",
+    "as_of": "2026-10-05"
+   },
    {
     "value": "info@neoscapesmaldives.com",
     "source_url": "https://www.neoscapesmaldives.com/resort/velassaru-maldives/",
     "as_of": "2026-10-04"
    }
+  ],
+  "contacts_public.phone": [
+   {
+    "value": "+960 665 6100",
+    "source_url": "https://www.nivavelassaru.com/wp-content/uploads/2026/01/Niva-Velassaru_Factsheet.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "+960 665 6100",
+    "source_url": "https://www.nivavelassaru.com/wp-content/uploads/2026/05/Renewal-of-Vows.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "+960 736 5425",
+    "source_url": "https://www.neoscapesmaldives.com/resort/velassaru-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+ 960 664 30 42",
+    "source_url": "https://www.maldivestourism.net/resorts/velassaru-maldives/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "meal_plans": [
+   {
+    "value": "AI",
+    "source_url": "https://www.nivavelassaru.com/wp-content/uploads/2025/09/Untitled-presentation-4.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "AI",
+    "source_url": "https://www.nivahotelsandresorts.com/property/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Premium AI",
+    "source_url": "https://www.nivahotelsandresorts.com/property/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://www.nivahotelsandresorts.com/property-travel-style/family/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Premium AI",
+    "source_url": "https://www.nivahotelsandresorts.com/property-travel-style/family/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://www.nivahotelsandresorts.com/property-travel-style/adventure/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Premium AI",
+    "source_url": "https://www.nivahotelsandresorts.com/property-travel-style/adventure/",
+    "as_of": "2026-10-05"
+   }
+  ],
+  "spa.name": [
+   {
+    "value": "Spa",
+    "source_url": "https://www.nivavelassaru.com/wp-content/uploads/2026/05/Renewal-of-Vows.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "LIME Spa",
+    "source_url": "https://www.nivavelassaru.com/wp-content/uploads/2026/03/LIMESpaMenuWeb89.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.nivahotelsandresorts.com/loyalty/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Tennis Court\nVelassaru Spa",
+    "source_url": "https://www.neoscapesmaldives.com/resort/velassaru-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://letsgomaldives.com/news/velassaru-moments-revealed/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://hummingbird.travel/property/velassaru-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Aquum Spa",
+    "source_url": "https://www.maldivestourism.net/resorts/velassaru-maldives/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "kids_family.kids_club": [
+   {
+    "value": "Play Kids Club",
+    "source_url": "https://www.nivavelassaru.com/wp-content/uploads/2026/01/Kids-Club-Program-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "Jungle\nFun\nKids\nClub",
+    "source_url": "https://www.nivahotelsandresorts.com/events/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Kids Club",
+    "source_url": "https://www.nivahotelsandresorts.com/experience/kids-club-2/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Website\nPrevious Post\nKids Club",
+    "source_url": "https://www.nivahotelsandresorts.com/experience/male-tour/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Centre\nNext Post\nKids Club",
+    "source_url": "https://www.nivahotelsandresorts.com/experience/tennis-3/",
+    "as_of": "2026-10-05"
+   }
+  ],
+  "all_inclusive_details": [
+   {
+    "value": "all-inclusive escape.",
+    "source_url": "https://www.nivahotelsandresorts.com/property/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "All-Inclusive upgrades.",
+    "source_url": "https://www.nivahotelsandresorts.com/maldives-special-offers/best-available-rate/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "all-inclusive escape.",
+    "source_url": "https://www.nivahotelsandresorts.com/property-travel-style/family/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "all-inclusive escape.",
+    "source_url": "https://www.nivahotelsandresorts.com/property-travel-style/adventure/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "All Inclusive 7 nights from £3,379 pp incl.",
+    "source_url": "https://www.tropicalsky.co.uk/indian-ocean-holidays/maldives/niva-velassaru-maldives-hotel",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "star_rating": [
+   {
+    "value": "5-star",
+    "source_url": "https://hummingbird.travel/property/velassaru-maldives",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "villas.total": [
+   {
+    "value": 129,
+    "source_url": "https://hummingbird.travel/property/velassaru-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 129,
+    "source_url": "https://www.tropicalsky.co.uk/indian-ocean-holidays/maldives/niva-velassaru-maldives-hotel",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 129,
+    "source_url": "https://www.tropicalsky.co.uk/indian-ocean-holidays/maldives/niva-velassaru-maldives-hotel",
+    "as_of": "2026-10-04"
+   }
   ]
  },
- "last_updated": "2026-10-04"
+ "last_updated": "2026-10-05"
 }

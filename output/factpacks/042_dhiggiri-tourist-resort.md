@@ -1,32 +1,32 @@
 # 42. Dhiggiri Tourist Resort
 
-**Official site:** n/a (None)  
+**Official site:** https://www.dhiggiri.com/ (ok)  
 **Brand:** n/a  
-**Atoll:** n/a  **Island:** n/a  
+**Atoll:** Vaavu Atoll  **Island:** n/a  
 **Opened/renovated:** n/a  **Rating:** n/a  
-**Transfer:** n/a; minutes: {}  
+**Transfer:** speedboat; minutes: {"speedboat": 90}  
 **Island size:** n/a  
 
-## Villas (? total)
+## Villas (45 total)
 
 
 ## Dining
 
 
-Meal plans: n/a
+Meal plans: AI
 
 ## Spa & wellness
 
-- Spa: n/a; treatment rooms: ?; menu: none
+- Spa: Spa; treatment rooms: ?; menu: none
 - Wellness/fitness: n/a
 
 ## Diving, water sports & excursions
 
 - Operator: n/a
 - House reef: n/a
-- Activities: n/a
+- Activities: scuba diving, windsurfing, catamaran, fishing, sailing, canoe
 - Price list: none
-- Excursions: n/a
+- Excursions: big game fishing
 
 ## Kids & family
 
@@ -68,16 +68,11 @@ Meal plans: n/a
 - factsheet
 - wedding brochure
 - events/MICE document
-- fact: villas.total
 - fact: villa categories
 - fact: dining
-- fact: transfer
-- fact: atoll
-- fact: spa
 - fact: dive operator
 - fact: kids club
 - fact: weddings
 - fact: contacts
-- no documents or pages collected
 
-_Facts extracted by rules from 0 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-04._
+_Facts extracted by rules from 8 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

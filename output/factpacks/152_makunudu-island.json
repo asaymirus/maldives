@@ -6,55 +6,149 @@
   "Makunudu",
   "Makunudhoo"
  ],
- "official_url": null,
- "official_site_status": null,
+ "official_url": "https://makunudu.com/",
+ "official_site_status": "ok",
  "operator_brand": null,
- "atoll": null,
- "island": null,
+ "atoll": "North Male Atoll",
+ "island": "Maldives",
  "opened_or_renovated": null,
  "star_rating": null,
  "transfer": {
-  "modes": [],
+  "modes": [
+   "speedboat"
+  ],
   "minutes": {
    "seaplane": null,
-   "speedboat": null,
+   "speedboat": 45,
    "domestic flight": null,
    "yacht": null
   }
  },
  "island_size": null,
  "villas": {
-  "total": null,
-  "categories": []
+  "total": 36,
+  "categories": [
+   {
+    "name": "BEACH BUNGALOW –",
+    "count": 18,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "BUNGALOWS",
+    "count": null,
+    "size_sqm": 50,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "Beach Bungalows Windsurfing ADAPTOR",
+    "count": 20,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "Delu e Beach Bungalows Stand Up Paddle Boarding V Pin Plug",
+    "count": 16,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "nights accommodation in a Delu e Beach Bungalow for",
+    "count": 4,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   }
+  ]
  },
- "dining": [],
- "meal_plans": [],
+ "dining": [
+  {
+   "name": "Miyaru Bar is also a great place to spot",
+   "cuisine": null,
+   "type": "bar"
+  },
+  {
+   "name": "arranged upon request. Araa Iru Restaurant",
+   "cuisine": null,
+   "type": "restaurant"
+  },
+  {
+   "name": "Sand Bar",
+   "cuisine": null,
+   "type": "bar"
+  },
+  {
+   "name": "Miyaru Bar",
+   "cuisine": null,
+   "type": "bar"
+  },
+  {
+   "name": "Sunset Bar",
+   "cuisine": null,
+   "type": "bar"
+  }
+ ],
+ "meal_plans": [
+  "AI"
+ ],
  "all_inclusive_details": null,
  "spa": {
-  "name": null,
+  "name": "Aavun Spa",
   "treatment_rooms": null,
   "signature_treatments": [],
-  "menu_doc": null
+  "menu_doc": "https://makunudu.com/wp-content/uploads/2026/02/AAVUN-SPA-1.pdf"
  },
  "diving_watersports": {
-  "operator": null,
-  "house_reef": null,
-  "activities": [],
-  "price_list_doc": null
+  "operator": "Dive Ocean",
+  "house_reef": "House Reef Guided Snorkelling $39",
+  "activities": [
+   "snorkelling",
+   "windsurfing",
+   "kayaking",
+   "catamaran",
+   "fishing",
+   "manta",
+   "sailing",
+   "canoe",
+   "snorkeling",
+   "water skiing",
+   "fun tube",
+   "scuba diving"
+  ],
+  "price_list_doc": "https://makunudu.com/wp-content/uploads/2026/05/Dive-Ocean-Price-List.pdf"
  },
- "excursions": [],
+ "excursions": [
+  "sandbank",
+  "manta",
+  "cinema",
+  "turtle"
+ ],
  "kids_family": {
   "kids_club": null,
   "age_range": null,
   "teens": null
  },
- "wellness_fitness": [],
+ "wellness_fitness": [
+  "tennis",
+  "badminton",
+  "ayurveda",
+  "yoga"
+ ],
  "weddings": {
-  "offered": null,
-  "vow_renewal": null,
+  "offered": true,
+  "vow_renewal": true,
   "venues": [],
   "packages": [],
-  "brochure_doc": null
+  "brochure_doc": "https://makunudu.com/wp-content/uploads/2024/05/SimplyRomanticPackage.pdf"
  },
  "events_mice": {
   "venues": [],
@@ -64,37 +158,479 @@
  },
  "sustainability": [],
  "contacts_public": {
-  "reservations_email": null,
+  "reservations_email": "reservations@makunudu.com",
   "weddings_email": null,
-  "phone": null
+  "phone": "+960 664 6464"
  },
  "documents_latest": {
-  "factsheet": null,
+  "factsheet": "https://makunudu.com/wp-content/uploads/2024/11/Maknudu-Factsheet.pdf",
   "map": null,
-  "wedding": null,
-  "spa_menu": null,
-  "dining_menu": null,
-  "dive_prices": null,
+  "wedding": "https://makunudu.com/wp-content/uploads/2024/05/SimplyRomanticPackage.pdf",
+  "spa_menu": "https://makunudu.com/wp-content/uploads/2026/02/AAVUN-SPA-1.pdf",
+  "dining_menu": "https://makunudu.com/wp-content/uploads/2025/05/Watersports-Menu-_-2025-New.pdf",
+  "dive_prices": "https://makunudu.com/wp-content/uploads/2026/05/Dive-Ocean-Price-List.pdf",
   "events": null,
-  "calendar": null
+  "calendar": "https://makunudu.com/wp-content/uploads/2025/11/Makunudu-Festive-2025-2026.pdf"
  },
- "documents_count": 0,
+ "documents_count": 15,
  "gaps": [
-  "factsheet",
-  "wedding brochure",
   "events/MICE document",
-  "fact: villas.total",
-  "fact: villa categories",
-  "fact: dining",
-  "fact: transfer",
-  "fact: atoll",
-  "fact: spa",
-  "fact: dive operator",
-  "fact: kids club",
-  "fact: weddings",
-  "fact: contacts",
-  "no documents or pages collected"
+  "fact: kids club"
  ],
- "sources": {},
- "last_updated": "2026-10-04"
+ "sources": {
+  "atoll": [
+   {
+    "value": "North Malé Atoll",
+    "source_url": "https://makunudu.com/wp-content/uploads/2024/11/Maknudu-Factsheet.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "North Male Atoll",
+    "source_url": "https://makunudu.com/wp-content/uploads/2026/02/AAVUN-SPA-1.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "Kaafu Atoll",
+    "source_url": "https://www.mymaldives.com/resort-guide/makunudu-island/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "transfer.modes": [
+   {
+    "value": "speedboat",
+    "source_url": "https://makunudu.com/wp-content/uploads/2024/11/Maknudu-Factsheet.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://makunudu.com/wp-content/uploads/2024/05/SimplyRomanticPackage.pdf",
+    "as_of": 2023
+   }
+  ],
+  "transfer.minutes.speedboat": [
+   {
+    "value": 45,
+    "source_url": "https://makunudu.com/wp-content/uploads/2024/11/Maknudu-Factsheet.pdf",
+    "as_of": 2024
+   }
+  ],
+  "villas.categories": [
+   {
+    "value": {
+     "name": "BEACH BUNGALOW –",
+     "count": 18,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://makunudu.com/wp-content/uploads/2024/11/Maknudu-Factsheet.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": {
+     "name": "BUNGALOWS",
+     "count": null,
+     "size_sqm": 50,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://makunudu.com/wp-content/uploads/2024/11/Maknudu-Factsheet.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": {
+     "name": "BUNGALOWS",
+     "count": null,
+     "size_sqm": 40,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://makunudu.com/wp-content/uploads/2024/11/Maknudu-Factsheet.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": {
+     "name": "Beach Bungalows Windsurfing ADAPTOR",
+     "count": 20,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://makunudu.com/wp-content/uploads/2024/11/Maknudu-Factsheet.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": {
+     "name": "Delu e Beach Bungalows Stand Up Paddle Boarding V Pin Plug",
+     "count": 16,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://makunudu.com/wp-content/uploads/2024/11/Maknudu-Factsheet.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": {
+     "name": "nights accommodation in a Delu e Beach Bungalow for",
+     "count": 4,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://makunudu.com/wp-content/uploads/2024/05/SimplyRomanticPackage.pdf",
+    "as_of": 2023
+   }
+  ],
+  "dining": [
+   {
+    "value": {
+     "name": "Miyaru Bar is also a great place to spot",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://makunudu.com/wp-content/uploads/2024/11/Maknudu-Factsheet.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": {
+     "name": "arranged upon request. Araa Iru Restaurant",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://makunudu.com/wp-content/uploads/2024/11/Maknudu-Factsheet.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": {
+     "name": "Sand Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://makunudu.com/wp-content/uploads/2024/11/Maknudu-Factsheet.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": {
+     "name": "Miyaru Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://makunudu.com/wp-content/uploads/2024/11/Maknudu-Factsheet.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": {
+     "name": "Sunset Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://makunudu.com/wp-content/uploads/2024/11/Maknudu-Factsheet.pdf",
+    "as_of": 2024
+   }
+  ],
+  "spa.name": [
+   {
+    "value": "Aavun Spa",
+    "source_url": "https://makunudu.com/wp-content/uploads/2024/11/Maknudu-Factsheet.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "Aavun Spa",
+    "source_url": "https://makunudu.com/wp-content/uploads/2026/02/AAVUN-SPA-1.pdf",
+    "as_of": 2026
+   }
+  ],
+  "diving_watersports.activities": [
+   {
+    "value": "snorkelling",
+    "source_url": "https://makunudu.com/wp-content/uploads/2024/11/Maknudu-Factsheet.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "windsurfing",
+    "source_url": "https://makunudu.com/wp-content/uploads/2024/11/Maknudu-Factsheet.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "kayaking",
+    "source_url": "https://makunudu.com/wp-content/uploads/2024/11/Maknudu-Factsheet.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "catamaran",
+    "source_url": "https://makunudu.com/wp-content/uploads/2024/11/Maknudu-Factsheet.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://makunudu.com/wp-content/uploads/2024/11/Maknudu-Factsheet.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "manta",
+    "source_url": "https://makunudu.com/wp-content/uploads/2024/11/Maknudu-Factsheet.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "sailing",
+    "source_url": "https://makunudu.com/wp-content/uploads/2024/11/Maknudu-Factsheet.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "canoe",
+    "source_url": "https://makunudu.com/wp-content/uploads/2024/11/Maknudu-Factsheet.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://makunudu.com/wp-content/uploads/2024/05/SimplyRomanticPackage.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://makunudu.com/wp-content/uploads/2025/05/Watersports-Menu-_-2025-New.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "windsurfing",
+    "source_url": "https://makunudu.com/wp-content/uploads/2025/05/Watersports-Menu-_-2025-New.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "catamaran",
+    "source_url": "https://makunudu.com/wp-content/uploads/2025/05/Watersports-Menu-_-2025-New.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "water skiing",
+    "source_url": "https://makunudu.com/wp-content/uploads/2025/05/Watersports-Menu-_-2025-New.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://makunudu.com/wp-content/uploads/2025/05/Watersports-Menu-_-2025-New.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "manta",
+    "source_url": "https://makunudu.com/wp-content/uploads/2025/05/Watersports-Menu-_-2025-New.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "sailing",
+    "source_url": "https://makunudu.com/wp-content/uploads/2025/05/Watersports-Menu-_-2025-New.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "fun tube",
+    "source_url": "https://makunudu.com/wp-content/uploads/2025/05/Watersports-Menu-_-2025-New.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://mondomaldive.it/it/villaggio/makunudu-island/recensione/6217",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://mondomaldive.it/it/villaggio/makunudu-island/recensione/6494",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://www.mymaldives.com/resort-guide/makunudu-island/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "windsurfing",
+    "source_url": "https://www.mymaldives.com/resort-guide/makunudu-island/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "catamaran",
+    "source_url": "https://www.mymaldives.com/resort-guide/makunudu-island/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sailing",
+    "source_url": "https://www.mymaldives.com/resort-guide/makunudu-island/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "canoe",
+    "source_url": "https://www.mymaldives.com/resort-guide/makunudu-island/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "excursions": [
+   {
+    "value": "sandbank",
+    "source_url": "https://makunudu.com/wp-content/uploads/2024/11/Maknudu-Factsheet.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "manta",
+    "source_url": "https://makunudu.com/wp-content/uploads/2024/11/Maknudu-Factsheet.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "cinema",
+    "source_url": "https://makunudu.com/wp-content/uploads/2024/11/Maknudu-Factsheet.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://makunudu.com/wp-content/uploads/2025/05/Watersports-Menu-_-2025-New.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "manta",
+    "source_url": "https://makunudu.com/wp-content/uploads/2025/05/Watersports-Menu-_-2025-New.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://mondomaldive.it/it/villaggio/makunudu-island/recensione/6217",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://mondomaldive.it/it/villaggio/makunudu-island/recensione/6494",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "wellness_fitness": [
+   {
+    "value": "tennis",
+    "source_url": "https://makunudu.com/wp-content/uploads/2024/11/Maknudu-Factsheet.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "badminton",
+    "source_url": "https://makunudu.com/wp-content/uploads/2024/11/Maknudu-Factsheet.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "ayurveda",
+    "source_url": "https://makunudu.com/wp-content/uploads/2024/11/Maknudu-Factsheet.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://makunudu.com/wp-content/uploads/2025/05/Watersports-Menu-_-2025-New.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://www.mymaldives.com/resort-guide/makunudu-island/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "badminton",
+    "source_url": "https://www.mymaldives.com/resort-guide/makunudu-island/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "weddings.offered": [
+   {
+    "value": true,
+    "source_url": "https://makunudu.com/wp-content/uploads/2024/11/Maknudu-Factsheet.pdf",
+    "as_of": 2024
+   }
+  ],
+  "weddings.vow_renewal": [
+   {
+    "value": true,
+    "source_url": "https://makunudu.com/wp-content/uploads/2024/11/Maknudu-Factsheet.pdf",
+    "as_of": 2024
+   }
+  ],
+  "contacts_public.reservations_email": [
+   {
+    "value": "reservations@makunudu.com",
+    "source_url": "https://makunudu.com/wp-content/uploads/2024/11/Maknudu-Factsheet.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "reservations@makunudu.com",
+    "source_url": "https://makunudu.com/wp-content/uploads/2024/05/SimplyRomanticPackage.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": "info@makunudu.com",
+    "source_url": "https://makunudu.com/wp-content/uploads/2024/05/SimplyRomanticPackage.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": "reservations@makunudu.com",
+    "source_url": "https://makunudu.com/wp-content/uploads/2026/02/AAVUN-SPA-1.pdf",
+    "as_of": 2026
+   }
+  ],
+  "contacts_public.phone": [
+   {
+    "value": "+960 664 6464",
+    "source_url": "https://makunudu.com/wp-content/uploads/2024/11/Maknudu-Factsheet.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "+9606646464",
+    "source_url": "https://makunudu.com/wp-content/uploads/2024/05/SimplyRomanticPackage.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": "+960 664 6464",
+    "source_url": "https://makunudu.com/wp-content/uploads/2026/02/AAVUN-SPA-1.pdf",
+    "as_of": 2026
+   }
+  ],
+  "island": [
+   {
+    "value": "Maldives",
+    "source_url": "https://makunudu.com/wp-content/uploads/2026/02/AAVUN-SPA-1.pdf",
+    "as_of": 2026
+   }
+  ],
+  "diving_watersports.house_reef": [
+   {
+    "value": "House Reef Guided Snorkelling $39",
+    "source_url": "https://makunudu.com/wp-content/uploads/2025/05/Watersports-Menu-_-2025-New.pdf",
+    "as_of": 2025
+   }
+  ],
+  "diving_watersports.operator": [
+   {
+    "value": "Dive Ocean",
+    "source_url": "https://makunudu.com/wp-content/uploads/2026/05/Dive-Ocean-Price-List.pdf",
+    "as_of": 2026
+   }
+  ],
+  "meal_plans": [
+   {
+    "value": "AI",
+    "source_url": "https://mondomaldive.it/it/villaggio/makunudu-island/recensione/6217",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://mondomaldive.it/it/villaggio/makunudu-island/recensione/6494",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "villas.total": [
+   {
+    "value": 36,
+    "source_url": "https://www.mymaldives.com/resort-guide/makunudu-island/",
+    "as_of": "2026-10-04"
+   }
+  ]
+ },
+ "last_updated": "2026-10-05"
 }

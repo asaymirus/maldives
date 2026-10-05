@@ -1,6 +1,6 @@
 # 182. Kuredhivaru Resort and Spa
 
-**Official site:** n/a (None)  
+**Official site:** https://www.kuredhivaru.com/ (ok)  
 **Brand:** VARU  
 **Atoll:** Noonu Atoll  **Island:** n/a  
 **Opened/renovated:** n/a  **Rating:** n/a  
@@ -13,10 +13,6 @@
 
 ## Dining
 
-- Dining (restaurant)
-- Bodumas – Overwater Dining Redefined (restaurant)
-- Latitude 5.5 – Poolside Dining with Ocean Views (restaurant)
-- Destination Dining (restaurant)
 
 Meal plans: n/a
 
@@ -73,6 +69,7 @@ Meal plans: n/a
 - wedding brochure
 - events/MICE document
 - fact: villas.total
+- fact: dining
 - fact: dive operator
 
-_Facts extracted by rules from 14 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-04._
+_Facts extracted by rules from 13 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

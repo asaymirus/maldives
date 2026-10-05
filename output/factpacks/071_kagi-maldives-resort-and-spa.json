@@ -6,18 +6,19 @@
   "Kagi Maldives",
   "Kagi"
  ],
- "official_url": null,
- "official_site_status": null,
+ "official_url": "https://kagimaldives.com/",
+ "official_site_status": "ok",
  "operator_brand": null,
- "atoll": null,
+ "atoll": "North Male Atoll",
  "island": null,
  "opened_or_renovated": null,
- "star_rating": null,
+ "star_rating": "5-star",
  "transfer": {
   "modes": [
    "seaplane",
    "speedboat",
-   "yacht"
+   "yacht",
+   "domestic flight"
   ],
   "minutes": {
    "seaplane": 15,
@@ -31,38 +32,6 @@
   "total": 50,
   "categories": [
    {
-    "name": "Beach Villa",
-    "count": 17,
-    "size_sqm": null,
-    "max_occupancy": null,
-    "pool": null,
-    "overwater": null
-   },
-   {
-    "name": "Water Villa",
-    "count": 18,
-    "size_sqm": null,
-    "max_occupancy": null,
-    "pool": null,
-    "overwater": null
-   },
-   {
-    "name": "General Manager's Villa",
-    "count": 21,
-    "size_sqm": null,
-    "max_occupancy": null,
-    "pool": null,
-    "overwater": null
-   },
-   {
-    "name": "Broadway, Suite",
-    "count": 611,
-    "size_sqm": null,
-    "max_occupancy": null,
-    "pool": null,
-    "overwater": null
-   },
-   {
     "name": "LAGOON POOL VILLAS",
     "count": 32,
     "size_sqm": null,
@@ -71,84 +40,90 @@
     "overwater": true
    },
    {
-    "name": "OCEAN POOL VILLAS",
-    "count": 220,
-    "size_sqm": null,
-    "max_occupancy": null,
-    "pool": true,
-    "overwater": true
-   },
-   {
-    "name": "Arrival Pavilion",
-    "count": 1,
-    "size_sqm": null,
-    "max_occupancy": null,
-    "pool": null,
-    "overwater": null
-   },
-   {
     "name": "Team Village",
     "count": 12,
     "size_sqm": null,
     "max_occupancy": null,
     "pool": null,
     "overwater": null
+   },
+   {
+    "name": "Night BAANI WELLNESS Retreat Program",
+    "count": 5,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "NIGHT RETREAT PROGRAM| COUPLE RETREAT",
+    "count": 7,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "NIGHT RETREAT PROGRAM| YOGA RETREAT​",
+    "count": 7,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "private pool villas",
+    "count": 50,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": true,
+    "overwater": null
    }
   ]
  },
  "dining": [
   {
-   "name": "depth, the Wine Cellar features a vast",
+   "name": "Ke-Un Restaurant (during closed hours)",
+   "cuisine": null,
+   "type": "restaurant"
+  },
+  {
+   "name": "Cellar Wine & Dine",
    "cuisine": null,
    "type": "bar"
   },
   {
-   "name": "3 Restaurant, Bar & Main Kitchen 1 1,300 1,300",
-   "cuisine": null,
-   "type": "restaurant"
-  },
-  {
-   "name": "5 A la Carte Restaurant 1 100 100",
-   "cuisine": null,
-   "type": "restaurant"
-  },
-  {
-   "name": "Kitchen",
-   "cuisine": null,
-   "type": "restaurant"
-  },
-  {
-   "name": "Lounge / Bar",
+   "name": "More About Ufaa Bar",
    "cuisine": null,
    "type": "bar"
   },
   {
-   "name": "Restaurant",
-   "cuisine": null,
-   "type": "restaurant"
-  },
-  {
-   "name": "Bar / Restaurant",
-   "cuisine": null,
-   "type": "restaurant"
-  },
-  {
-   "name": "To Jetty [115 sq.m.] Multi-Purpose Lounge",
+   "name": "Ufaa Pool Bar",
    "cuisine": null,
    "type": "bar"
   },
   {
-   "name": "Beverage from In-Villa Dining and items not listed above",
-   "cuisine": null,
-   "type": "restaurant"
-  },
-  {
-   "name": "03 Hospitality Lounge 14",
+   "name": "Wine Cellar",
    "cuisine": null,
    "type": "bar"
   },
   {
-   "name": "07 NooFaru / Ufaa / Nonna / Wine Cellar 19",
+   "name": "Hospitality Lounge",
+   "cuisine": null,
+   "type": "bar"
+  },
+  {
+   "name": "Ke-un Restaurant",
+   "cuisine": null,
+   "type": "restaurant"
+  },
+  {
+   "name": "Ufaa Bar",
+   "cuisine": null,
+   "type": "bar"
+  },
+  {
+   "name": "The Wine Cellar",
    "cuisine": null,
    "type": "bar"
   }
@@ -156,30 +131,42 @@
  "meal_plans": [
   "Dine Around"
  ],
- "all_inclusive_details": null,
+ "all_inclusive_details": "All Inclusive Plan.",
  "spa": {
   "name": "Baani Spa",
   "treatment_rooms": null,
   "signature_treatments": [],
-  "menu_doc": "https://sales.crownandchamparesorts.com/wp-content/uploads/2020/01/KAGI_BaaniSpaMenu_16Dec2019.pdf"
+  "menu_doc": "https://kagimaldives.com/wp-content/uploads/2026/05/BaaniSpaWellnessMenu_English_110125103126Ver150625.pdf"
  },
  "diving_watersports": {
-  "operator": "Euro-Divers",
-  "house_reef": null,
+  "operator": "Dive Centre",
+  "house_reef": "house reef just a step away",
   "activities": [
    "snorkelling",
+   "snorkeling",
    "scuba diving",
    "windsurfing",
-   "catamaran",
-   "dolphin cruise",
-   "snorkeling"
+   "stand-up paddle",
+   "paddleboard",
+   "sunset cruise",
+   "surfing",
+   "fishing",
+   "manta",
+   "whale shark",
+   "sailing"
   ],
-  "price_list_doc": null
+  "price_list_doc": "https://kagimaldives.com/wp-content/uploads/2026/02/KagiMSTSDivingPriceList120125103126Ver220226.pdf"
  },
  "excursions": [
   "sandbank",
   "dolphin",
-  "turtle"
+  "turtle",
+  "castaway",
+  "local island",
+  "manta",
+  "whale shark",
+  "picnic",
+  "private dinner"
  ],
  "kids_family": {
   "kids_club": null,
@@ -194,671 +181,1499 @@
   "tennis",
   "steam",
   "sound healing",
+  "badminton",
   "sauna",
-  "badminton"
+  "pilates"
  ],
  "weddings": {
   "offered": true,
-  "vow_renewal": null,
-  "venues": [],
-  "packages": [],
-  "brochure_doc": null
+  "vow_renewal": true,
+  "venues": [
+   "1. AUTHENTIC BEACH WEDDING",
+   "Renewal of Wedding Vows set up at the beach"
+  ],
+  "packages": [
+   {
+    "name": "Forever Photography Package",
+    "price": "350",
+    "currency": "USD",
+    "as_of": 2021
+   },
+   {
+    "name": "Pure Photography Package",
+    "price": "200",
+    "currency": "USD",
+    "as_of": 2021
+   },
+   {
+    "name": "Fly Drone Photography Package",
+    "price": "200",
+    "currency": "USD",
+    "as_of": 2021
+   },
+   {
+    "name": "Fly Drone Video Package",
+    "price": "350",
+    "currency": "USD",
+    "as_of": 2021
+   }
+  ],
+  "brochure_doc": "https://kagimaldives.com/wp-content/uploads/2021/01/Kagi_PureRomanceWeddings2021.pdf"
  },
  "events_mice": {
   "venues": [],
-  "capacity_max": null,
+  "capacity_max": 12,
   "buyout": null,
   "doc": null
  },
  "sustainability": [
-  "desalination"
+  "Travelife",
+  "solar",
+  "single-use plastic",
+  "desalination",
+  "carbon neutral",
+  "composting",
+  "coral nursery"
  ],
  "contacts_public": {
   "reservations_email": "reservations@kagimaldives.com",
   "weddings_email": null,
-  "phone": null
+  "phone": "+960 6640123"
  },
  "documents_latest": {
-  "factsheet": "https://sales.crownandchamparesorts.com/wp-content/uploads/2023/08/FactSheetKagi11012210312322Rev011122_compressed-1.pdf",
-  "map": "https://sales.crownandchamparesorts.com/wp-content/uploads/2025/08/Kagi_Map_Rev22082025.pdf",
-  "wedding": null,
-  "spa_menu": "https://sales.crownandchamparesorts.com/wp-content/uploads/2020/01/KAGI_BaaniSpaMenu_16Dec2019.pdf",
-  "dining_menu": "https://sales.crownandchamparesorts.com/wp-content/uploads/2019/02/KagiConcept.pdf",
-  "dive_prices": null,
+  "factsheet": "https://kagimaldives.com/wp-content/uploads/2026/07/FactSheetKagi110126103127Ver120726.pdf",
+  "map": "https://kagimaldives.com/wp-content/uploads/2026/07/Kagi-Map.pdf",
+  "wedding": "https://kagimaldives.com/wp-content/uploads/2021/01/Kagi_PureRomanceWeddings2021.pdf",
+  "spa_menu": "https://kagimaldives.com/wp-content/uploads/2026/05/BaaniSpaWellnessMenu_English_110125103126Ver150625.pdf",
+  "dining_menu": "https://www.saiihotels.com/wp-content/uploads/2026/07/SunRay_Drink_AllDay_297x105mm_05.pdf",
+  "dive_prices": "https://kagimaldives.com/wp-content/uploads/2026/02/KagiMSTSDivingPriceList120125103126Ver220226.pdf",
   "events": null,
-  "calendar": null
+  "calendar": "https://d2qwq69i2ic1pk.cloudfront.net/2023/11/CCR_2024_Calendar_compressed.pdf"
  },
- "documents_count": 12,
+ "documents_count": 130,
  "gaps": [
-  "wedding brochure",
   "events/MICE document",
-  "fact: atoll",
   "fact: kids club"
  ],
  "sources": {
+  "atoll": [
+   {
+    "value": "North Male Atoll",
+    "source_url": "https://kagimaldives.com/wp-content/uploads/2026/07/FactSheetKagi110126103127Ver120726.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "North Male Atoll",
+    "source_url": "https://kagimaldives.com/wp-content/uploads/2021/01/Kagi_PureRomanceWeddings2021.pdf",
+    "as_of": 2021
+   },
+   {
+    "value": "North Male Atoll",
+    "source_url": "https://kagimaldives.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Kaafu Atoll",
+    "source_url": "https://kagimaldives.com/contact-us/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Kaafu Atoll",
+    "source_url": "https://kagimaldives.com/subscribe-to-newsletter/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "North Male Atoll",
+    "source_url": "https://kagimaldives.com/travel-journeys/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "North Male Atoll",
+    "source_url": "https://kagimaldives.com/home/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Addu Atoll",
+    "source_url": "https://kagimaldives.com/management/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "North Male Atoll",
+    "source_url": "https://kagimaldives.com",
+    "as_of": "2026-10-04"
+   }
+  ],
   "transfer.modes": [
    {
     "value": "seaplane",
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2023/08/FactSheetKagi11012210312322Rev011122_compressed-1.pdf",
-    "as_of": 2023
+    "source_url": "https://kagimaldives.com/wp-content/uploads/2026/07/FactSheetKagi110126103127Ver120726.pdf",
+    "as_of": 2026
    },
    {
     "value": "speedboat",
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2023/08/FactSheetKagi11012210312322Rev011122_compressed-1.pdf",
-    "as_of": 2023
+    "source_url": "https://kagimaldives.com/wp-content/uploads/2026/07/FactSheetKagi110126103127Ver120726.pdf",
+    "as_of": 2026
    },
    {
     "value": "yacht",
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2023/08/FactSheetKagi11012210312322Rev011122_compressed-1.pdf",
-    "as_of": 2023
+    "source_url": "https://kagimaldives.com/wp-content/uploads/2026/07/FactSheetKagi110126103127Ver120726.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "yacht",
+    "source_url": "https://kagimaldives.com/wp-content/uploads/2021/01/Kagi_PureRomanceWeddings2021.pdf",
+    "as_of": 2021
+   },
+   {
+    "value": "seaplane",
+    "source_url": "http://blog.crownandchamparesorts.com/wp-content/uploads/2020/07/CCR_A_Safe_Holiday_Experience_07172020-min.pdf",
+    "as_of": 2020
+   },
+   {
+    "value": "domestic flight",
+    "source_url": "http://blog.crownandchamparesorts.com/wp-content/uploads/2020/07/CCR_A_Safe_Holiday_Experience_07172020-min.pdf",
+    "as_of": 2020
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://kagimaldives.com/wp-content/uploads/2026/04/KagiTransferPolicy110125103126Rev031826.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://kagimaldives.com/wp-content/uploads/2026/04/KagiTransferPolicy110125103126Rev031826.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "yacht",
+    "source_url": "https://kagimaldives.com/wp-content/uploads/2026/04/KagiTransferPolicy110125103126Rev031826.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://kagimaldives.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://kagimaldives.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yacht",
+    "source_url": "https://kagimaldives.com/pure-life-experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://kagimaldives.com/travel-journeys/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://kagimaldives.com/travel-journeys/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yacht",
+    "source_url": "https://kagimaldives.com/travel-journeys/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://kagimaldives.com/home/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://kagimaldives.com/home/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yacht",
+    "source_url": "https://kagimaldives.com/pure-life-experiences",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://kagimaldives.com",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://kagimaldives.com",
+    "as_of": "2026-10-04"
    }
   ],
   "transfer.minutes.seaplane": [
    {
     "value": 15,
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2023/08/FactSheetKagi11012210312322Rev011122_compressed-1.pdf",
-    "as_of": 2023
+    "source_url": "https://kagimaldives.com/wp-content/uploads/2026/07/FactSheetKagi110126103127Ver120726.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": 15,
+    "source_url": "https://kagimaldives.com/wp-content/uploads/2026/04/KagiTransferPolicy110125103126Rev031826.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": 5,
+    "source_url": "https://kagimaldives.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 5,
+    "source_url": "https://kagimaldives.com/home/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 5,
+    "source_url": "https://kagimaldives.com",
+    "as_of": "2026-10-04"
    }
   ],
   "transfer.minutes.speedboat": [
    {
     "value": 15,
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2023/08/FactSheetKagi11012210312322Rev011122_compressed-1.pdf",
-    "as_of": 2023
+    "source_url": "https://kagimaldives.com/wp-content/uploads/2026/07/FactSheetKagi110126103127Ver120726.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": 60,
+    "source_url": "https://kagimaldives.com/wp-content/uploads/2026/04/KagiTransferPolicy110125103126Rev031826.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": 5,
+    "source_url": "https://kagimaldives.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 5,
+    "source_url": "https://kagimaldives.com/home/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 5,
+    "source_url": "https://kagimaldives.com",
+    "as_of": "2026-10-04"
    }
   ],
   "island_size": [
    {
     "value": "4.24 ha",
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2023/08/FactSheetKagi11012210312322Rev011122_compressed-1.pdf",
-    "as_of": 2023
+    "source_url": "https://kagimaldives.com/wp-content/uploads/2026/07/FactSheetKagi110126103127Ver120726.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "4.24 ha",
+    "source_url": "https://kagimaldives.com/travel-journeys/",
+    "as_of": "2026-10-04"
    }
   ],
   "villas.total": [
    {
     "value": 50,
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2023/08/FactSheetKagi11012210312322Rev011122_compressed-1.pdf",
-    "as_of": 2023
+    "source_url": "https://kagimaldives.com/wp-content/uploads/2026/07/FactSheetKagi110126103127Ver120726.pdf",
+    "as_of": 2026
    },
    {
     "value": 50,
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2023/08/FactSheetKagi11012210312322Rev011122_compressed-1.pdf",
-    "as_of": 2023
-   }
-  ],
-  "dining": [
-   {
-    "value": {
-     "name": "depth, the Wine Cellar features a vast",
-     "cuisine": null,
-     "type": "bar"
-    },
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2023/08/FactSheetKagi11012210312322Rev011122_compressed-1.pdf",
-    "as_of": 2023
-   },
-   {
-    "value": {
-     "name": "3 Restaurant, Bar & Main Kitchen 1 1,300 1,300",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2019/02/KagiConcept.pdf",
-    "as_of": 2018
-   },
-   {
-    "value": {
-     "name": "5 A la Carte Restaurant 1 100 100",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2019/02/KagiConcept.pdf",
-    "as_of": 2018
-   },
-   {
-    "value": {
-     "name": "Kitchen",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2019/02/KagiConcept.pdf",
-    "as_of": 2018
-   },
-   {
-    "value": {
-     "name": "Lounge / Bar",
-     "cuisine": null,
-     "type": "bar"
-    },
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2019/02/KagiConcept.pdf",
-    "as_of": 2018
-   },
-   {
-    "value": {
-     "name": "Restaurant",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2019/02/KagiConcept.pdf",
-    "as_of": 2018
-   },
-   {
-    "value": {
-     "name": "Bar / Restaurant",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2019/02/KagiConcept.pdf",
-    "as_of": 2018
-   },
-   {
-    "value": {
-     "name": "Bar / Restaurant",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2019/02/KagiConcept.pdf",
-    "as_of": 2018
-   },
-   {
-    "value": {
-     "name": "To Jetty [115 sq.m.] Multi-Purpose Lounge",
-     "cuisine": null,
-     "type": "bar"
-    },
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2019/02/KagiConcept.pdf",
-    "as_of": 2018
-   },
-   {
-    "value": {
-     "name": "Beverage from In-Villa Dining and items not listed above",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2023/11/PremiumAllInclusivePlusPackageKagi110123103124Rev010923.pdf",
-    "as_of": 2023
-   },
-   {
-    "value": {
-     "name": "03 Hospitality Lounge 14",
-     "cuisine": null,
-     "type": "bar"
-    },
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2025/08/Kagi_Map_Rev22082025.pdf",
-    "as_of": 2025
-   },
-   {
-    "value": {
-     "name": "07 NooFaru / Ufaa / Nonna / Wine Cellar 19",
-     "cuisine": null,
-     "type": "bar"
-    },
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2025/08/Kagi_Map_Rev22082025.pdf",
-    "as_of": 2025
+    "source_url": "https://kagimaldives.com/wp-content/uploads/2026/07/FactSheetKagi110126103127Ver120726.pdf",
+    "as_of": 2026
    }
   ],
   "meal_plans": [
    {
     "value": "Dine Around",
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2023/08/FactSheetKagi11012210312322Rev011122_compressed-1.pdf",
-    "as_of": 2023
-   },
-   {
-    "value": "Dine Around",
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2023/11/PremiumAllInclusivePlusPackageKagi110123103124Rev010923.pdf",
-    "as_of": 2023
+    "source_url": "https://kagimaldives.com/wp-content/uploads/2026/07/FactSheetKagi110126103127Ver120726.pdf",
+    "as_of": 2026
    }
   ],
   "spa.name": [
    {
+    "value": "Baani Spa",
+    "source_url": "https://kagimaldives.com/wp-content/uploads/2026/07/FactSheetKagi110126103127Ver120726.pdf",
+    "as_of": 2026
+   },
+   {
     "value": "Kagi Maldives Spa",
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2023/08/FactSheetKagi11012210312322Rev011122_compressed-1.pdf",
-    "as_of": 2023
+    "source_url": "https://kagimaldives.com/wp-content/uploads/2021/01/Kagi_PureRomanceWeddings2021.pdf",
+    "as_of": 2021
    },
    {
     "value": "Baani Spa",
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2020/01/KAGI_BaaniSpaMenu_16Dec2019.pdf",
-    "as_of": 2019
-   },
-   {
-    "value": "Spa",
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2019/02/KagiConcept.pdf",
-    "as_of": 2018
-   },
-   {
-    "value": "Spa",
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2023/11/PremiumAllInclusivePlusPackageKagi110123103124Rev010923.pdf",
-    "as_of": 2023
-   },
-   {
-    "value": "Baani Spa",
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2025/08/Kagi_Map_Rev22082025.pdf",
+    "source_url": "https://kagimaldives.com/wp-content/uploads/2026/05/BaaniSpaWellnessMenu_English_110125103126Ver150625.pdf",
     "as_of": 2025
+   },
+   {
+    "value": "Spa",
+    "source_url": "http://blog.crownandchamparesorts.com/wp-content/uploads/2020/07/CCR_A_Safe_Holiday_Experience_07172020-min.pdf",
+    "as_of": 2020
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://kagimaldives.com/wp-content/uploads/2024/07/Kagi-Maldives-Sustainability-Report-2024-min.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "Baani Spa",
+    "source_url": "https://kagimaldives.com/wp-content/uploads/2026/07/Kagi-Map.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://kagimaldives.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://kagimaldives.com/wellness-journeys/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "In Kagi Maldives Spa",
+    "source_url": "https://kagimaldives.com/wellness-journeys/retreats/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Kagi Maldives Spa",
+    "source_url": "https://kagimaldives.com/contact-us/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Kagi Maldives Spa",
+    "source_url": "https://kagimaldives.com/subscribe-to-newsletter/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://kagimaldives.com/gallery/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://kagimaldives.com/culinary-journeys/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://kagimaldives.com/elegant-living-space/beach-pool-villas/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://kagimaldives.com/exclusive-book-direct-offer/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "GO\nThe Baani Spa",
+    "source_url": "https://kagimaldives.com/wellness-journeys/the-baani-spa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Kagi Maldives Spa",
+    "source_url": "https://kagimaldives.com/travel-update/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "The Baani Spa",
+    "source_url": "https://kagimaldives.com/travel-journeys/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://kagimaldives.com/journal/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://kagimaldives.com/category/blog/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Minute Spa",
+    "source_url": "https://kagimaldives.com/elegant-living-space/special-offers/exclusive-packages/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Baani Spa",
+    "source_url": "https://kagimaldives.com/culinary-journeys/the-spa-corner/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://kagimaldives.com/home/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://kagimaldives.com/elegant-living-space/special-offers/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Baani Spa",
+    "source_url": "https://kagimaldives.com/sustainabilty/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://kagimaldives.com/management/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://kagimaldives.com/wellness-journeys",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://kagimaldives.com",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://kagimaldives.com/culinary-journeys",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Baani Spa",
+    "source_url": "https://malediven.de/malediven-hotels/kagi-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Ikonisches Over Water Spa",
+    "source_url": "https://www.airtours.de/kagi-maldives-spa-island/",
+    "as_of": "2026-10-04"
    }
   ],
-  "diving_watersports.operator": [
+  "diving_watersports.house_reef": [
    {
-    "value": "Euro-Divers",
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2023/08/FactSheetKagi11012210312322Rev011122_compressed-1.pdf",
-    "as_of": 2023
+    "value": "house reef just a step away",
+    "source_url": "https://kagimaldives.com/wp-content/uploads/2026/07/FactSheetKagi110126103127Ver120726.pdf",
+    "as_of": 2026
    },
    {
-    "value": "Euro-Divers",
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2025/08/Kagi_Map_Rev22082025.pdf",
-    "as_of": 2025
+    "value": "house reef through",
+    "source_url": "https://kagimaldives.com/wp-content/uploads/2024/07/Kagi-Maldives-Sustainability-Report-2024-min.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "house reef directly from your stairs or submerge into the comfort of your own private pool with panoramic views all around",
+    "source_url": "https://kagimaldives.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef, getting up close to vibrant marine life and beautiful coral gardens",
+    "source_url": "https://kagimaldives.com/diving-water-sports/msts/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "HOUSE REEF",
+    "source_url": "https://kagimaldives.com/diving-water-sports/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef directly from the stairs into the ocean or mesmerize yourself in the comfort of your own private pool over the ocean with panoramic views all around",
+    "source_url": "https://kagimaldives.com/elegant-living-space/ocean-pool-villa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef, the villa offers a seamless connection to the ocean",
+    "source_url": "https://kagimaldives.com/travel-journeys/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef, the island offers an intimate escape where serenity is felt as much as it is seen",
+    "source_url": "https://kagimaldives.com/category/blog/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef, the villa offers a seamless connection to the ocean",
+    "source_url": "https://kagimaldives.com/elegant-living-space/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef just steps from your deck, basking in the warm Maldivian sunshine, or simply unwinding to the soothing rhythm of the waves",
+    "source_url": "https://kagimaldives.com/elegant-living-space/overwater-pool-villa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef directly from your stairs or submerge into the comfort of your own private pool with panoramic views all around",
+    "source_url": "https://kagimaldives.com/home/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "HOUSE REEF AND CORAL PLANTATION",
+    "source_url": "https://kagimaldives.com/sustainabilty/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef, the villa offers a seamless connection to the ocean",
+    "source_url": "https://kagimaldives.com/elegant-living-space",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef directly from your stairs or submerge into the comfort of your own private pool with panoramic views all around",
+    "source_url": "https://kagimaldives.com",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "HOUSE REEF",
+    "source_url": "https://kagimaldives.com/diving-water-sports",
+    "as_of": "2026-10-04"
    }
   ],
   "diving_watersports.activities": [
    {
     "value": "snorkelling",
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2023/08/FactSheetKagi11012210312322Rev011122_compressed-1.pdf",
-    "as_of": 2023
+    "source_url": "https://kagimaldives.com/wp-content/uploads/2026/07/FactSheetKagi110126103127Ver120726.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://kagimaldives.com/wp-content/uploads/2026/07/FactSheetKagi110126103127Ver120726.pdf",
+    "as_of": 2026
    },
    {
     "value": "scuba diving",
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2023/08/FactSheetKagi11012210312322Rev011122_compressed-1.pdf",
-    "as_of": 2023
+    "source_url": "https://kagimaldives.com/wp-content/uploads/2026/07/FactSheetKagi110126103127Ver120726.pdf",
+    "as_of": 2026
    },
    {
     "value": "windsurfing",
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2023/08/FactSheetKagi11012210312322Rev011122_compressed-1.pdf",
-    "as_of": 2023
+    "source_url": "https://kagimaldives.com/wp-content/uploads/2026/07/FactSheetKagi110126103127Ver120726.pdf",
+    "as_of": 2026
    },
    {
-    "value": "catamaran",
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2023/08/FactSheetKagi11012210312322Rev011122_compressed-1.pdf",
-    "as_of": 2023
+    "value": "stand-up paddle",
+    "source_url": "https://kagimaldives.com/wp-content/uploads/2026/07/FactSheetKagi110126103127Ver120726.pdf",
+    "as_of": 2026
    },
    {
-    "value": "dolphin cruise",
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2023/08/FactSheetKagi11012210312322Rev011122_compressed-1.pdf",
-    "as_of": 2023
+    "value": "paddleboard",
+    "source_url": "https://kagimaldives.com/wp-content/uploads/2026/07/FactSheetKagi110126103127Ver120726.pdf",
+    "as_of": 2026
    },
    {
-    "value": "snorkeling",
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2023/11/PremiumAllInclusivePlusPackageKagi110123103124Rev010923.pdf",
-    "as_of": 2023
+    "value": "sunset cruise",
+    "source_url": "https://kagimaldives.com/wp-content/uploads/2026/07/FactSheetKagi110126103127Ver120726.pdf",
+    "as_of": 2026
    },
    {
-    "value": "windsurfing",
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2023/11/PremiumAllInclusivePlusPackageKagi110123103124Rev010923.pdf",
-    "as_of": 2023
+    "value": "surfing",
+    "source_url": "https://www.saiihotels.com/wp-content/uploads/2026/07/SunRay_Drink_AllDay_297x105mm_05.pdf",
+    "as_of": 2026
    },
    {
-    "value": "dolphin cruise",
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2023/11/PremiumAllInclusivePlusPackageKagi110123103124Rev010923.pdf",
-    "as_of": 2023
-   },
-   {
-    "value": "snorkeling",
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2025/08/Kagi_Map_Rev22082025.pdf",
+    "value": "scuba diving",
+    "source_url": "https://kagimaldives.com/wp-content/uploads/2026/02/KagiMSTSDivingPriceList120125103126Ver220226.pdf",
     "as_of": 2025
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://kagimaldives.com/wp-content/uploads/2024/07/Kagi-Maldives-Sustainability-Report-2024-min.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://kagimaldives.com/wp-content/uploads/2024/07/Kagi-Maldives-Sustainability-Report-2024-min.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://kagimaldives.com/wp-content/uploads/2024/07/Kagi-Maldives-Sustainability-Report-2024-min.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "manta",
+    "source_url": "https://kagimaldives.com/wp-content/uploads/2024/07/Kagi-Maldives-Sustainability-Report-2024-min.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://kagimaldives.com/wp-content/uploads/2026/07/Kagi-Map.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://kagimaldives.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://kagimaldives.com/wellness-journeys/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://kagimaldives.com/diving-water-sports/msts/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://kagimaldives.com/diving-water-sports/msts/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://kagimaldives.com/diving-water-sports/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://kagimaldives.com/diving-water-sports/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://kagimaldives.com/diving-water-sports/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://kagimaldives.com/pure-life-experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://kagimaldives.com/pure-life-experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://kagimaldives.com/pure-life-experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://kagimaldives.com/pure-life-experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sailing",
+    "source_url": "https://kagimaldives.com/pure-life-experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://kagimaldives.com/elegant-living-space/beach-pool-villas/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://kagimaldives.com/exclusive-book-direct-offer/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://kagimaldives.com/category/blog/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://kagimaldives.com/category/blog/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://kagimaldives.com/elegant-living-space/special-offers/exclusive-packages/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://kagimaldives.com/home/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://kagimaldives.com/elegant-living-space/special-offers/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://kagimaldives.com/elegant-living-space/special-offers/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://kagimaldives.com/pure-life-experiences/family-experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://kagimaldives.com/pure-life-experiences",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://kagimaldives.com/pure-life-experiences",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://kagimaldives.com/pure-life-experiences",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://kagimaldives.com/pure-life-experiences",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sailing",
+    "source_url": "https://kagimaldives.com/pure-life-experiences",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://kagimaldives.com/wellness-journeys",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://kagimaldives.com",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://kagimaldives.com/diving-water-sports",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://kagimaldives.com/diving-water-sports",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://kagimaldives.com/diving-water-sports",
+    "as_of": "2026-10-04"
    }
   ],
   "excursions": [
    {
     "value": "sandbank",
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2023/08/FactSheetKagi11012210312322Rev011122_compressed-1.pdf",
-    "as_of": 2023
+    "source_url": "https://kagimaldives.com/wp-content/uploads/2026/07/FactSheetKagi110126103127Ver120726.pdf",
+    "as_of": 2026
    },
    {
     "value": "dolphin",
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2023/08/FactSheetKagi11012210312322Rev011122_compressed-1.pdf",
-    "as_of": 2023
+    "source_url": "https://kagimaldives.com/wp-content/uploads/2026/07/FactSheetKagi110126103127Ver120726.pdf",
+    "as_of": 2026
    },
    {
     "value": "turtle",
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2023/08/FactSheetKagi11012210312322Rev011122_compressed-1.pdf",
-    "as_of": 2023
+    "source_url": "https://kagimaldives.com/wp-content/uploads/2026/07/FactSheetKagi110126103127Ver120726.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "castaway",
+    "source_url": "https://www.saiihotels.com/wp-content/uploads/2026/07/SunRay_Drink_AllDay_297x105mm_05.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "local island",
+    "source_url": "http://blog.crownandchamparesorts.com/wp-content/uploads/2020/07/CCR_A_Safe_Holiday_Experience_07172020-min.pdf",
+    "as_of": 2020
+   },
+   {
+    "value": "manta",
+    "source_url": "https://kagimaldives.com/wp-content/uploads/2024/07/Kagi-Maldives-Sustainability-Report-2024-min.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://kagimaldives.com/wp-content/uploads/2024/07/Kagi-Maldives-Sustainability-Report-2024-min.pdf",
+    "as_of": 2024
    },
    {
     "value": "dolphin",
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2023/11/PremiumAllInclusivePlusPackageKagi110123103124Rev010923.pdf",
-    "as_of": 2023
+    "source_url": "https://kagimaldives.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://kagimaldives.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://kagimaldives.com/diving-water-sports/msts/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://kagimaldives.com/diving-water-sports/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://kagimaldives.com/diving-water-sports/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://kagimaldives.com/pure-life-experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://kagimaldives.com/pure-life-experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://kagimaldives.com/pure-life-experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://kagimaldives.com/pure-life-experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://kagimaldives.com/pure-life-experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "picnic",
+    "source_url": "https://kagimaldives.com/pure-life-experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "private dinner",
+    "source_url": "https://kagimaldives.com/exclusive-book-direct-offer/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://kagimaldives.com/travel-journeys/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://kagimaldives.com/category/blog/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://kagimaldives.com/home/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://kagimaldives.com/home/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "private dinner",
+    "source_url": "https://kagimaldives.com/elegant-living-space/special-offers/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://kagimaldives.com/pure-life-experiences",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://kagimaldives.com/pure-life-experiences",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://kagimaldives.com/pure-life-experiences",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://kagimaldives.com/pure-life-experiences",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://kagimaldives.com/pure-life-experiences",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "picnic",
+    "source_url": "https://kagimaldives.com/pure-life-experiences",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://kagimaldives.com",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://kagimaldives.com",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://kagimaldives.com/diving-water-sports",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://kagimaldives.com/diving-water-sports",
+    "as_of": "2026-10-04"
    }
   ],
   "wellness_fitness": [
    {
     "value": "yoga",
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2023/08/FactSheetKagi11012210312322Rev011122_compressed-1.pdf",
-    "as_of": 2023
+    "source_url": "https://kagimaldives.com/wp-content/uploads/2026/07/FactSheetKagi110126103127Ver120726.pdf",
+    "as_of": 2026
    },
    {
     "value": "meditation",
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2023/08/FactSheetKagi11012210312322Rev011122_compressed-1.pdf",
-    "as_of": 2023
+    "source_url": "https://kagimaldives.com/wp-content/uploads/2026/07/FactSheetKagi110126103127Ver120726.pdf",
+    "as_of": 2026
    },
    {
     "value": "gym",
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2023/08/FactSheetKagi11012210312322Rev011122_compressed-1.pdf",
-    "as_of": 2023
+    "source_url": "https://kagimaldives.com/wp-content/uploads/2026/07/FactSheetKagi110126103127Ver120726.pdf",
+    "as_of": 2026
    },
    {
     "value": "fitness centre",
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2023/08/FactSheetKagi11012210312322Rev011122_compressed-1.pdf",
-    "as_of": 2023
+    "source_url": "https://kagimaldives.com/wp-content/uploads/2026/07/FactSheetKagi110126103127Ver120726.pdf",
+    "as_of": 2026
    },
    {
     "value": "tennis",
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2023/08/FactSheetKagi11012210312322Rev011122_compressed-1.pdf",
-    "as_of": 2023
+    "source_url": "https://kagimaldives.com/wp-content/uploads/2026/07/FactSheetKagi110126103127Ver120726.pdf",
+    "as_of": 2026
    },
    {
     "value": "steam",
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2023/08/FactSheetKagi11012210312322Rev011122_compressed-1.pdf",
-    "as_of": 2023
+    "source_url": "https://kagimaldives.com/wp-content/uploads/2026/07/FactSheetKagi110126103127Ver120726.pdf",
+    "as_of": 2026
    },
    {
     "value": "yoga",
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2020/01/KAGI_BaaniSpaMenu_16Dec2019.pdf",
-    "as_of": 2019
+    "source_url": "https://kagimaldives.com/wp-content/uploads/2026/05/BaaniSpaWellnessMenu_English_110125103126Ver150625.pdf",
+    "as_of": 2025
    },
    {
     "value": "meditation",
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2020/01/KAGI_BaaniSpaMenu_16Dec2019.pdf",
-    "as_of": 2019
+    "source_url": "https://kagimaldives.com/wp-content/uploads/2026/05/BaaniSpaWellnessMenu_English_110125103126Ver150625.pdf",
+    "as_of": 2025
    },
    {
     "value": "gym",
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2020/01/KAGI_BaaniSpaMenu_16Dec2019.pdf",
-    "as_of": 2019
+    "source_url": "https://kagimaldives.com/wp-content/uploads/2026/05/BaaniSpaWellnessMenu_English_110125103126Ver150625.pdf",
+    "as_of": 2025
    },
    {
     "value": "sound healing",
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2020/01/KAGI_BaaniSpaMenu_16Dec2019.pdf",
-    "as_of": 2019
-   },
-   {
-    "value": "meditation",
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2019/02/KagiConcept.pdf",
-    "as_of": 2018
+    "source_url": "https://kagimaldives.com/wp-content/uploads/2026/05/BaaniSpaWellnessMenu_English_110125103126Ver150625.pdf",
+    "as_of": 2025
    },
    {
     "value": "gym",
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2019/02/KagiConcept.pdf",
-    "as_of": 2018
-   },
-   {
-    "value": "sauna",
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2019/02/KagiConcept.pdf",
-    "as_of": 2018
+    "source_url": "http://blog.crownandchamparesorts.com/wp-content/uploads/2020/07/CCR_A_Safe_Holiday_Experience_07172020-min.pdf",
+    "as_of": 2020
    },
    {
     "value": "yoga",
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2023/11/PremiumAllInclusivePlusPackageKagi110123103124Rev010923.pdf",
-    "as_of": 2023
-   },
-   {
-    "value": "meditation",
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2023/11/PremiumAllInclusivePlusPackageKagi110123103124Rev010923.pdf",
-    "as_of": 2023
-   },
-   {
-    "value": "steam",
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2023/11/PremiumAllInclusivePlusPackageKagi110123103124Rev010923.pdf",
-    "as_of": 2023
-   },
-   {
-    "value": "yoga",
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2025/08/Kagi_Map_Rev22082025.pdf",
-    "as_of": 2025
+    "source_url": "https://kagimaldives.com/wp-content/uploads/2026/07/Kagi-Map.pdf",
+    "as_of": 2026
    },
    {
     "value": "fitness centre",
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2025/08/Kagi_Map_Rev22082025.pdf",
-    "as_of": 2025
+    "source_url": "https://kagimaldives.com/wp-content/uploads/2026/07/Kagi-Map.pdf",
+    "as_of": 2026
    },
    {
     "value": "badminton",
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2025/08/Kagi_Map_Rev22082025.pdf",
-    "as_of": 2025
+    "source_url": "https://kagimaldives.com/wp-content/uploads/2026/07/Kagi-Map.pdf",
+    "as_of": 2026
    },
    {
     "value": "steam",
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2025/08/Kagi_Map_Rev22082025.pdf",
-    "as_of": 2025
+    "source_url": "https://kagimaldives.com/wp-content/uploads/2026/07/Kagi-Map.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://kagimaldives.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://kagimaldives.com/wellness-journeys/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "meditation",
+    "source_url": "https://kagimaldives.com/wellness-journeys/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fitness centre",
+    "source_url": "https://kagimaldives.com/wellness-journeys/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://kagimaldives.com/wellness-journeys/retreats/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://kagimaldives.com/wellness-journeys/fitness/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "gym",
+    "source_url": "https://kagimaldives.com/wellness-journeys/fitness/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fitness centre",
+    "source_url": "https://kagimaldives.com/wellness-journeys/fitness/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sauna",
+    "source_url": "https://kagimaldives.com/wellness-journeys/fitness/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "steam",
+    "source_url": "https://kagimaldives.com/wellness-journeys/fitness/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://kagimaldives.com/exclusive-book-direct-offer/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "meditation",
+    "source_url": "https://kagimaldives.com/exclusive-book-direct-offer/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "gym",
+    "source_url": "https://kagimaldives.com/travel-journeys/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fitness centre",
+    "source_url": "https://kagimaldives.com/travel-journeys/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://kagimaldives.com/category/blog/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sound healing",
+    "source_url": "https://kagimaldives.com/category/blog/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://kagimaldives.com/elegant-living-space/special-offers/exclusive-packages/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://kagimaldives.com/wellness-journeys/kagi-pickleball/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "badminton",
+    "source_url": "https://kagimaldives.com/wellness-journeys/kagi-pickleball/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://kagimaldives.com/home/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://kagimaldives.com/elegant-living-space/special-offers/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://kagimaldives.com/pure-life-experiences/family-experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://kagimaldives.com/wellness-journeys",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "meditation",
+    "source_url": "https://kagimaldives.com/wellness-journeys",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fitness centre",
+    "source_url": "https://kagimaldives.com/wellness-journeys",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://kagimaldives.com",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://malediven.de/malediven-hotels/kagi-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "meditation",
+    "source_url": "https://malediven.de/malediven-hotels/kagi-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "pilates",
+    "source_url": "https://malediven.de/malediven-hotels/kagi-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sauna",
+    "source_url": "https://malediven.de/malediven-hotels/kagi-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://www.airtours.de/kagi-maldives-spa-island/",
+    "as_of": "2026-10-04"
    }
   ],
   "weddings.offered": [
    {
     "value": true,
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2023/08/FactSheetKagi11012210312322Rev011122_compressed-1.pdf",
-    "as_of": 2023
+    "source_url": "https://kagimaldives.com/wp-content/uploads/2026/07/FactSheetKagi110126103127Ver120726.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": true,
+    "source_url": "https://kagimaldives.com/wp-content/uploads/2021/01/Kagi_PureRomanceWeddings2021.pdf",
+    "as_of": 2021
+   },
+   {
+    "value": true,
+    "source_url": "https://kagimaldives.com/pure-life-experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://kagimaldives.com/pure-romance/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://kagimaldives.com/pure-romance/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://kagimaldives.com/privacy-policy/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://kagimaldives.com/pure-life-experiences",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://kagimaldives.com/pure-romance",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://kagimaldives.com/pure-romance",
+    "as_of": "2026-10-04"
    }
   ],
   "contacts_public.reservations_email": [
    {
     "value": "reservations@kagimaldives.com",
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2023/08/FactSheetKagi11012210312322Rev011122_compressed-1.pdf",
-    "as_of": 2023
+    "source_url": "https://kagimaldives.com/wp-content/uploads/2026/07/FactSheetKagi110126103127Ver120726.pdf",
+    "as_of": 2026
    },
    {
     "value": "reservations@kagimaldives.com",
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2020/01/KAGI_BaaniSpaMenu_16Dec2019.pdf",
-    "as_of": 2019
+    "source_url": "https://kagimaldives.com/wp-content/uploads/2026/04/KagiTransferPolicy110125103126Rev031826.pdf",
+    "as_of": 2025
+   }
+  ],
+  "dining": [
+   {
+    "value": {
+     "name": "Ke-Un Restaurant (during closed hours)",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://kagimaldives.com/wp-content/uploads/2021/01/Kagi_PureRomanceWeddings2021.pdf",
+    "as_of": 2021
    },
    {
-    "value": "reservations@kagimaldives.com",
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2023/11/PremiumAllInclusivePlusPackageKagi110123103124Rev010923.pdf",
-    "as_of": 2023
+    "value": {
+     "name": "Cellar Wine & Dine",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://kagimaldives.com/wp-content/uploads/2021/01/Kagi_PureRomanceWeddings2021.pdf",
+    "as_of": 2021
+   },
+   {
+    "value": {
+     "name": "More About Ufaa Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://kagimaldives.com/culinary-journeys/ufaa-bar/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Ufaa Pool Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://kagimaldives.com/gallery/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Wine Cellar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://kagimaldives.com/gallery/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Hospitality Lounge",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://kagimaldives.com/gallery/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Hospitality Lounge",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://kagimaldives.com/travel-journeys/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Ke-un Restaurant",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://kagimaldives.com/travel-journeys/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Ufaa Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://kagimaldives.com/travel-journeys/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "The Wine Cellar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://kagimaldives.com/travel-journeys/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "weddings.vow_renewal": [
+   {
+    "value": true,
+    "source_url": "https://kagimaldives.com/wp-content/uploads/2021/01/Kagi_PureRomanceWeddings2021.pdf",
+    "as_of": 2021
+   },
+   {
+    "value": true,
+    "source_url": "https://kagimaldives.com/pure-romance/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://kagimaldives.com/pure-romance",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "weddings.venues": [
+   {
+    "value": "1. AUTHENTIC BEACH WEDDING",
+    "source_url": "https://kagimaldives.com/wp-content/uploads/2021/01/Kagi_PureRomanceWeddings2021.pdf",
+    "as_of": 2021
+   },
+   {
+    "value": "Renewal of Wedding Vows set up at the beach",
+    "source_url": "https://kagimaldives.com/wp-content/uploads/2021/01/Kagi_PureRomanceWeddings2021.pdf",
+    "as_of": 2021
+   }
+  ],
+  "weddings.packages": [
+   {
+    "value": {
+     "name": "Forever Photography Package",
+     "price": "350",
+     "currency": "USD",
+     "as_of": 2021
+    },
+    "source_url": "https://kagimaldives.com/wp-content/uploads/2021/01/Kagi_PureRomanceWeddings2021.pdf",
+    "as_of": 2021
+   },
+   {
+    "value": {
+     "name": "Pure Photography Package",
+     "price": "200",
+     "currency": "USD",
+     "as_of": 2021
+    },
+    "source_url": "https://kagimaldives.com/wp-content/uploads/2021/01/Kagi_PureRomanceWeddings2021.pdf",
+    "as_of": 2021
+   },
+   {
+    "value": {
+     "name": "Fly Drone Photography Package",
+     "price": "200",
+     "currency": "USD",
+     "as_of": 2021
+    },
+    "source_url": "https://kagimaldives.com/wp-content/uploads/2021/01/Kagi_PureRomanceWeddings2021.pdf",
+    "as_of": 2021
+   },
+   {
+    "value": {
+     "name": "Fly Drone Video Package",
+     "price": "350",
+     "currency": "USD",
+     "as_of": 2021
+    },
+    "source_url": "https://kagimaldives.com/wp-content/uploads/2021/01/Kagi_PureRomanceWeddings2021.pdf",
+    "as_of": 2021
+   }
+  ],
+  "sustainability": [
+   {
+    "value": "Travelife",
+    "source_url": "http://blog.crownandchamparesorts.com/wp-content/uploads/2020/07/CCR_A_Safe_Holiday_Experience_07172020-min.pdf",
+    "as_of": 2020
+   },
+   {
+    "value": "solar",
+    "source_url": "https://kagimaldives.com/wp-content/uploads/2024/07/Kagi-Maldives-Sustainability-Report-2024-min.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "single-use plastic",
+    "source_url": "https://kagimaldives.com/wp-content/uploads/2024/07/Kagi-Maldives-Sustainability-Report-2024-min.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "desalination",
+    "source_url": "https://kagimaldives.com/wp-content/uploads/2024/07/Kagi-Maldives-Sustainability-Report-2024-min.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "carbon neutral",
+    "source_url": "https://kagimaldives.com/wp-content/uploads/2024/07/Kagi-Maldives-Sustainability-Report-2024-min.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "composting",
+    "source_url": "https://kagimaldives.com/wp-content/uploads/2024/07/Kagi-Maldives-Sustainability-Report-2024-min.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "coral nursery",
+    "source_url": "https://kagimaldives.com/sustainabilty/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "desalination",
+    "source_url": "https://kagimaldives.com/sustainabilty/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "contacts_public.phone": [
+   {
+    "value": "+960 664 0123",
+    "source_url": "https://kagimaldives.com/wp-content/uploads/2026/04/KagiTransferPolicy110125103126Rev031826.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "+960 6640123",
+    "source_url": "https://kagimaldives.com/contact-us/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 6640123",
+    "source_url": "https://kagimaldives.com/subscribe-to-newsletter/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 664 3157",
+    "source_url": "https://kagimaldives.com/terms-condition/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "diving_watersports.operator": [
+   {
+    "value": "Euro-Divers",
+    "source_url": "https://kagimaldives.com/wp-content/uploads/2024/07/Kagi-Maldives-Sustainability-Report-2024-min.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "Dive Centre",
+    "source_url": "https://kagimaldives.com/wp-content/uploads/2026/07/Kagi-Map.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "PADI 5 Star",
+    "source_url": "https://kagimaldives.com/diving-water-sports/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "PADI 5 Star",
+    "source_url": "https://kagimaldives.com/travel-journeys/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Euro Divers",
+    "source_url": "https://kagimaldives.com/category/blog/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "PADI 5 Star",
+    "source_url": "https://kagimaldives.com/diving-water-sports",
+    "as_of": "2026-10-04"
    }
   ],
   "villas.categories": [
-   {
-    "value": {
-     "name": "Beach Villa",
-     "count": 17,
-     "size_sqm": null,
-     "max_occupancy": null,
-     "pool": null,
-     "overwater": null
-    },
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2019/02/KagiConcept.pdf",
-    "as_of": 2018
-   },
-   {
-    "value": {
-     "name": "Water Villa",
-     "count": 18,
-     "size_sqm": null,
-     "max_occupancy": null,
-     "pool": null,
-     "overwater": null
-    },
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2019/02/KagiConcept.pdf",
-    "as_of": 2018
-   },
-   {
-    "value": {
-     "name": "General Manager's Villa",
-     "count": 21,
-     "size_sqm": null,
-     "max_occupancy": null,
-     "pool": null,
-     "overwater": null
-    },
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2019/02/KagiConcept.pdf",
-    "as_of": 2018
-   },
-   {
-    "value": {
-     "name": "Broadway, Suite",
-     "count": 611,
-     "size_sqm": null,
-     "max_occupancy": null,
-     "pool": null,
-     "overwater": null
-    },
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2019/02/KagiConcept.pdf",
-    "as_of": 2018
-   },
-   {
-    "value": {
-     "name": "Broadway, Suite",
-     "count": 611,
-     "size_sqm": null,
-     "max_occupancy": null,
-     "pool": null,
-     "overwater": null
-    },
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2019/02/KagiConcept.pdf",
-    "as_of": 2018
-   },
-   {
-    "value": {
-     "name": "Broadway, Suite",
-     "count": 611,
-     "size_sqm": null,
-     "max_occupancy": null,
-     "pool": null,
-     "overwater": null
-    },
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2019/02/KagiConcept.pdf",
-    "as_of": 2018
-   },
-   {
-    "value": {
-     "name": "Broadway, Suite",
-     "count": 611,
-     "size_sqm": null,
-     "max_occupancy": null,
-     "pool": null,
-     "overwater": null
-    },
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2019/02/KagiConcept.pdf",
-    "as_of": 2018
-   },
-   {
-    "value": {
-     "name": "Broadway, Suite",
-     "count": 611,
-     "size_sqm": null,
-     "max_occupancy": null,
-     "pool": null,
-     "overwater": null
-    },
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2019/02/KagiConcept.pdf",
-    "as_of": 2018
-   },
-   {
-    "value": {
-     "name": "Broadway, Suite",
-     "count": 611,
-     "size_sqm": null,
-     "max_occupancy": null,
-     "pool": null,
-     "overwater": null
-    },
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2019/02/KagiConcept.pdf",
-    "as_of": 2018
-   },
-   {
-    "value": {
-     "name": "Broadway, Suite",
-     "count": 611,
-     "size_sqm": null,
-     "max_occupancy": null,
-     "pool": null,
-     "overwater": null
-    },
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2019/02/KagiConcept.pdf",
-    "as_of": 2018
-   },
-   {
-    "value": {
-     "name": "Broadway, Suite",
-     "count": 611,
-     "size_sqm": null,
-     "max_occupancy": null,
-     "pool": null,
-     "overwater": null
-    },
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2019/02/KagiConcept.pdf",
-    "as_of": 2018
-   },
-   {
-    "value": {
-     "name": "Broadway, Suite",
-     "count": 611,
-     "size_sqm": null,
-     "max_occupancy": null,
-     "pool": null,
-     "overwater": null
-    },
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2019/02/KagiConcept.pdf",
-    "as_of": 2018
-   },
-   {
-    "value": {
-     "name": "Broadway, Suite",
-     "count": 611,
-     "size_sqm": null,
-     "max_occupancy": null,
-     "pool": null,
-     "overwater": null
-    },
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2019/02/KagiConcept.pdf",
-    "as_of": 2018
-   },
-   {
-    "value": {
-     "name": "Broadway, Suite",
-     "count": 611,
-     "size_sqm": null,
-     "max_occupancy": null,
-     "pool": null,
-     "overwater": null
-    },
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2019/02/KagiConcept.pdf",
-    "as_of": 2018
-   },
-   {
-    "value": {
-     "name": "Broadway, Suite",
-     "count": 611,
-     "size_sqm": null,
-     "max_occupancy": null,
-     "pool": null,
-     "overwater": null
-    },
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2019/02/KagiConcept.pdf",
-    "as_of": 2018
-   },
-   {
-    "value": {
-     "name": "Broadway, Suite",
-     "count": 611,
-     "size_sqm": null,
-     "max_occupancy": null,
-     "pool": null,
-     "overwater": null
-    },
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2019/02/KagiConcept.pdf",
-    "as_of": 2018
-   },
-   {
-    "value": {
-     "name": "Broadway, Suite",
-     "count": 611,
-     "size_sqm": null,
-     "max_occupancy": null,
-     "pool": null,
-     "overwater": null
-    },
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2019/02/KagiConcept.pdf",
-    "as_of": 2018
-   },
-   {
-    "value": {
-     "name": "Broadway, Suite",
-     "count": 611,
-     "size_sqm": null,
-     "max_occupancy": null,
-     "pool": null,
-     "overwater": null
-    },
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2019/02/KagiConcept.pdf",
-    "as_of": 2018
-   },
    {
     "value": {
      "name": "LAGOON POOL VILLAS",
@@ -868,32 +1683,8 @@
      "pool": true,
      "overwater": true
     },
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2025/08/Kagi_Map_Rev22082025.pdf",
-    "as_of": 2025
-   },
-   {
-    "value": {
-     "name": "OCEAN POOL VILLAS",
-     "count": 220,
-     "size_sqm": null,
-     "max_occupancy": null,
-     "pool": true,
-     "overwater": true
-    },
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2025/08/Kagi_Map_Rev22082025.pdf",
-    "as_of": 2025
-   },
-   {
-    "value": {
-     "name": "Arrival Pavilion",
-     "count": 1,
-     "size_sqm": null,
-     "max_occupancy": null,
-     "pool": null,
-     "overwater": null
-    },
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2025/08/Kagi_Map_Rev22082025.pdf",
-    "as_of": 2025
+    "source_url": "https://kagimaldives.com/wp-content/uploads/2026/07/Kagi-Map.pdf",
+    "as_of": 2026
    },
    {
     "value": {
@@ -904,17 +1695,114 @@
      "pool": null,
      "overwater": null
     },
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2025/08/Kagi_Map_Rev22082025.pdf",
-    "as_of": 2025
+    "source_url": "https://kagimaldives.com/wp-content/uploads/2026/07/Kagi-Map.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": {
+     "name": "Night BAANI WELLNESS Retreat Program",
+     "count": 5,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://kagimaldives.com/wellness-journeys/retreats/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "NIGHT RETREAT PROGRAM| COUPLE RETREAT",
+     "count": 7,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://kagimaldives.com/wellness-journeys/retreats/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "NIGHT RETREAT PROGRAM| YOGA RETREAT​",
+     "count": 7,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://kagimaldives.com/wellness-journeys/retreats/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "private pool villas",
+     "count": 50,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": true,
+     "overwater": null
+    },
+    "source_url": "https://kagimaldives.com/category/blog/",
+    "as_of": "2026-10-04"
    }
   ],
-  "sustainability": [
+  "star_rating": [
    {
-    "value": "desalination",
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2019/02/KagiConcept.pdf",
-    "as_of": 2018
+    "value": "5-star",
+    "source_url": "https://kagimaldives.com/diving-water-sports/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "5-star",
+    "source_url": "https://kagimaldives.com/pure-life-experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "5-star",
+    "source_url": "https://kagimaldives.com/travel-journeys/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "5-star",
+    "source_url": "https://kagimaldives.com/management/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "5-star",
+    "source_url": "https://kagimaldives.com/pure-life-experiences",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "5-star",
+    "source_url": "https://kagimaldives.com/diving-water-sports",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "all_inclusive_details": [
+   {
+    "value": "All Inclusive Plan.",
+    "source_url": "https://kagimaldives.com/culinary-journeys/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "All Inclusive Plan.",
+    "source_url": "https://kagimaldives.com/journal/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "All Inclusive Plan.",
+    "source_url": "https://kagimaldives.com/culinary-journeys",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "events_mice.capacity_max": [
+   {
+    "value": 12,
+    "source_url": "https://kagimaldives.com/travel-journeys/",
+    "as_of": "2026-10-04"
    }
   ]
  },
- "last_updated": "2026-10-04"
+ "last_updated": "2026-10-05"
 }

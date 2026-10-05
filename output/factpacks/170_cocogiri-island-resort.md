@@ -1,6 +1,6 @@
 # 170. Cocogiri Island Resort
 
-**Official site:** n/a (None)  
+**Official site:** https://cocogiri.com/ (ok)  
 **Brand:** Coco  
 **Atoll:** n/a  **Island:** n/a  
 **Opened/renovated:** n/a  **Rating:** n/a  
@@ -12,20 +12,21 @@
 
 ## Dining
 
+- but es Deli (restaurant)
 
 Meal plans: n/a
 
 ## Spa & wellness
 
-- Spa: n/a; treatment rooms: ?; menu: none
-- Wellness/fitness: n/a
+- Spa: n/a; treatment rooms: ?; menu: https://cocogiri.com/wp-content/uploads/2025/04/Spa-Menu.pdf
+- Wellness/fitness: yoga, steam
 
 ## Diving, water sports & excursions
 
 - Operator: n/a
 - House reef: n/a
-- Activities: n/a
-- Price list: none
+- Activities: scuba diving
+- Price list: https://cocogiri.com/wp-content/uploads/2025/04/Dive-list-1-merged.pdf
 - Excursions: n/a
 
 ## Kids & family
@@ -54,23 +55,21 @@ Meal plans: n/a
 
 ## Latest documents
 
-- factsheet: none
-- map: none
+- factsheet: https://cocogiri.com/wp-content/uploads/2025/04/COCOGIRI-ISLAND-FACTSHEET.pdf
+- map: https://cocogiri.com/wp-content/uploads/2025/07/ALL-INCLUSIVE-MEAL-PLAN.pdf
 - wedding: none
-- spa_menu: none
-- dining_menu: none
-- dive_prices: none
+- spa_menu: https://cocogiri.com/wp-content/uploads/2025/04/Spa-Menu.pdf
+- dining_menu: https://cocogiri.com/wp-content/uploads/2025/04/Candlelight-Dining-Menu.pdf
+- dive_prices: https://cocogiri.com/wp-content/uploads/2025/04/Dive-list-1-merged.pdf
 - events: none
 - calendar: none
 
 ## Gaps
 
-- factsheet
 - wedding brochure
 - events/MICE document
 - fact: villas.total
 - fact: villa categories
-- fact: dining
 - fact: transfer
 - fact: atoll
 - fact: spa
@@ -78,6 +77,5 @@ Meal plans: n/a
 - fact: kids club
 - fact: weddings
 - fact: contacts
-- no documents or pages collected
 
-_Facts extracted by rules from 0 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-04._
+_Facts extracted by rules from 3 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

@@ -1,47 +1,43 @@
 # 106. Anantara Kihavah Villas
 
-**Official site:** n/a (None)  
+**Official site:** https://www.anantara.com/en/kihavah-maldives (blocked-partial)  
 **Brand:** Anantara  
 **Atoll:** Baa Atoll  **Island:** n/a  
 **Opened/renovated:** renovated 2021  **Rating:** n/a  
-**Transfer:** seaplane, yacht; minutes: {"seaplane": 35}  
+**Transfer:** seaplane, yacht, domestic flight; minutes: {"seaplane": 35}  
 **Island size:** 560 m x 270 m  
 
-## Villas (80 total)
+## Villas (89 total)
 
 - FOUR BEDROOM BEACH RESIDENCE: count 14, ? sqm, max ?
 - FAMILY BEACH VILLA: count 15, ? sqm, max ?
-- Total Number of Villas: count 80, ? sqm, max ?
 
 ## Dining
 
-- Seaplane Lounge stocked with complimentary drinks and light (bar)
-- 1 Plates Restaurant (restaurant)
-- 2 Manzaru Restaurant and Swimming Pool (restaurant)
-- Dining (restaurant)
-- Designer Dining by Anantara (restaurant)
+- SKY Bar (bar)
 - Airport Lounge in Malé (bar)
 - SEA Underwater Restaurant (restaurant)
 
-Meal plans: n/a
+Meal plans: AI
+All-inclusive: all-inclusive, five-star resort situated on a secluded island in the Baa Atoll, just a 30-minute seaplane journey from Malé International Airport.
 
 ## Spa & wellness
 
 - Spa: Facilities
 Anantara Spa; treatment rooms: ?; menu: none
-- Wellness/fitness: yoga, gym, fitness centre, tennis, badminton, ayurveda, sauna, steam, padel
+- Wellness/fitness: yoga, gym, fitness centre, tennis, badminton, ayurveda, sauna, steam, padel, meditation, fitness center
 
 ## Diving, water sports & excursions
 
 - Operator: n/a
-- House reef: house reef
-- Activities: snorkelling, scuba diving, windsurfing, kayaking, stand-up paddle, fishing, sunset cruise, whale shark, manta, sailing, flyboard, glass-bottom, canoe, snorkeling
+- House reef: House reef
+- Activities: snorkelling, scuba diving, windsurfing, kayaking, stand-up paddle, fishing, sunset cruise, whale shark, manta, sailing, flyboard, glass-bottom, canoe, snorkeling, paddleboard, catamaran, parasailing, water skiing
 - Price list: none
-- Excursions: local island, sandbank, big game fishing, whale shark, manta, turtle, stargazing, cinema
+- Excursions: local island, sandbank, big game fishing, whale shark, manta, turtle, stargazing, cinema, dolphin, sunset fishing, picnic
 
 ## Kids & family
 
-- Kids club: Kids Club; ages: n/a; teens: n/a
+- Kids club: Kids Club; ages: n/a; teens: teens programme mentioned
 
 ## Weddings
 
@@ -57,11 +53,11 @@ Anantara Spa; treatment rooms: ?; menu: none
 
 ## Sustainability
 
-- marine biologist, organic garden
+- marine biologist, organic garden, solar, single-use plastic, composting, manta trust, Olive Ridley Project
 
 ## Public contacts
 
-- Reservations: info@neoscapesmaldives.com; weddings: n/a; phone: +960 736 5425
+- Reservations: info@neoscapesmaldives.com; weddings: n/a; phone: +960 660 1020
 
 ## Latest documents
 
@@ -80,4 +76,4 @@ Anantara Spa; treatment rooms: ?; menu: none
 - events/MICE document
 - fact: dive operator
 
-_Facts extracted by rules from 18 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-04._
+_Facts extracted by rules from 21 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

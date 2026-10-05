@@ -6,11 +6,11 @@
   "Taj Exotica",
   "Emboodhu Finolhu"
  ],
- "official_url": null,
- "official_site_status": null,
+ "official_url": "https://www.tajhotels.com/en-in/taj/taj-exotica-maldives/",
+ "official_site_status": "blocked",
  "operator_brand": "Taj",
  "atoll": "South Malé Atoll",
- "island": null,
+ "island": "Free",
  "opened_or_renovated": null,
  "star_rating": "5-star",
  "transfer": {
@@ -37,14 +37,6 @@
     "overwater": null
    },
    {
-    "name": "oceanpavilion datenight taj e otica maldives",
-    "count": 12,
-    "size_sqm": null,
-    "max_occupancy": null,
-    "pool": null,
-    "overwater": true
-   },
-   {
     "name": "delu e beach villa with pool taj e otica maldives",
     "count": 8,
     "size_sqm": null,
@@ -56,11 +48,6 @@
  },
  "dining": [
   {
-   "name": "Dining",
-   "cuisine": null,
-   "type": "restaurant"
-  },
-  {
    "name": "Deep End Restaurant",
    "cuisine": null,
    "type": "restaurant"
@@ -71,27 +58,14 @@
    "type": "bar"
   },
   {
-   "name": "24 Degrees Restaurant",
-   "cuisine": null,
-   "type": "restaurant"
-  },
-  {
    "name": "Poolside Bar and Restaurant",
-   "cuisine": null,
-   "type": "restaurant"
-  },
-  {
-   "name": "Private Dining",
-   "cuisine": null,
-   "type": "restaurant"
-  },
-  {
-   "name": "Unique Dining",
    "cuisine": null,
    "type": "restaurant"
   }
  ],
- "meal_plans": [],
+ "meal_plans": [
+  "AI"
+ ],
  "all_inclusive_details": null,
  "spa": {
   "name": "Spa",
@@ -105,12 +79,18 @@
   "activities": [
    "snorkelling",
    "scuba diving",
-   "parasailing"
+   "parasailing",
+   "snorkeling",
+   "kayaking",
+   "manta"
   ],
   "price_list_doc": null
  },
  "excursions": [
-  "picnic"
+  "picnic",
+  "manta",
+  "turtle",
+  "private dinner"
  ],
  "kids_family": {
   "kids_club": "Speedboat\nTaj Kids Club",
@@ -119,7 +99,9 @@
  },
  "wellness_fitness": [
   "yoga",
-  "fitness center"
+  "fitness center",
+  "meditation",
+  "fitness centre"
  ],
  "weddings": {
   "offered": true,
@@ -138,7 +120,10 @@
   "buyout": null,
   "doc": null
  },
- "sustainability": [],
+ "sustainability": [
+  "solar",
+  "single-use plastic"
+ ],
  "contacts_public": {
   "reservations_email": "info@neoscapesmaldives.com",
   "weddings_email": null,
@@ -174,12 +159,27 @@
     "value": "5-star",
     "source_url": "https://www.neoscapesmaldives.com/resort/taj-exotica-resort-spa/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "3-star",
+    "source_url": "https://www.kuoni.co.uk/destinations/asia/india/andaman-islands/hotels/taj-exotica-resort-and-spa/",
+    "as_of": "2026-10-04"
    }
   ],
   "transfer.modes": [
    {
     "value": "speedboat",
     "source_url": "https://www.neoscapesmaldives.com/resort/taj-exotica-resort-spa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://maldivestraveller.mv/de/holidays/maldives-tours/day-tour-to-taj-exotica-resort",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://maldivestraveller.mv/en/holidays/maldives-tours/day-tour-to-taj-exotica-resort",
     "as_of": "2026-10-04"
    }
   ],
@@ -199,18 +199,6 @@
      "max_occupancy": null,
      "pool": null,
      "overwater": null
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/taj-exotica-resort-spa/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "oceanpavilion datenight taj e otica maldives",
-     "count": 12,
-     "size_sqm": null,
-     "max_occupancy": null,
-     "pool": null,
-     "overwater": true
     },
     "source_url": "https://www.neoscapesmaldives.com/resort/taj-exotica-resort-spa/",
     "as_of": "2026-10-04"
@@ -279,24 +267,6 @@
   "dining": [
    {
     "value": {
-     "name": "Dining",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/taj-exotica-resort-spa/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Dining",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/taj-exotica-resort-spa/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
      "name": "Deep End Restaurant",
      "cuisine": null,
      "type": "restaurant"
@@ -315,34 +285,7 @@
    },
    {
     "value": {
-     "name": "24 Degrees Restaurant",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/taj-exotica-resort-spa/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
      "name": "Poolside Bar and Restaurant",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/taj-exotica-resort-spa/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Private Dining",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/taj-exotica-resort-spa/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Unique Dining",
      "cuisine": null,
      "type": "restaurant"
     },
@@ -354,6 +297,21 @@
    {
     "value": "Spa",
     "source_url": "https://www.neoscapesmaldives.com/resort/taj-exotica-resort-spa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Das Spa",
+    "source_url": "https://maldivestraveller.mv/de/holidays/maldives-tours/day-tour-to-taj-exotica-resort",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://maldivestraveller.mv/en/holidays/maldives-tours/day-tour-to-taj-exotica-resort",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.kuoni.co.uk/destinations/asia/india/andaman-islands/hotels/taj-exotica-resort-and-spa/",
     "as_of": "2026-10-04"
    }
   ],
@@ -372,12 +330,57 @@
     "value": "parasailing",
     "source_url": "https://www.neoscapesmaldives.com/resort/taj-exotica-resort-spa/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://maldivestraveller.mv/de/holidays/maldives-tours/day-tour-to-taj-exotica-resort",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://maldivestraveller.mv/it/holidays/maldives-tours/day-tour-to-taj-exotica-resort",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://maldivestraveller.mv/it/holidays/maldives-tours/day-tour-to-taj-exotica-resort",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://maldivestraveller.mv/en/holidays/maldives-tours/day-tour-to-taj-exotica-resort",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "kayaking",
+    "source_url": "https://www.kuoni.co.uk/destinations/asia/india/andaman-islands/hotels/taj-exotica-resort-and-spa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.kuoni.co.uk/destinations/asia/india/andaman-islands/hotels/taj-exotica-resort-and-spa/",
+    "as_of": "2026-10-04"
    }
   ],
   "excursions": [
    {
     "value": "picnic",
     "source_url": "https://www.neoscapesmaldives.com/resort/taj-exotica-resort-spa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.kuoni.co.uk/destinations/asia/india/andaman-islands/hotels/taj-exotica-resort-and-spa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.kuoni.co.uk/destinations/asia/india/andaman-islands/hotels/taj-exotica-resort-and-spa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "private dinner",
+    "source_url": "https://www.kuoni.co.uk/destinations/asia/india/andaman-islands/hotels/taj-exotica-resort-and-spa/",
     "as_of": "2026-10-04"
    }
   ],
@@ -397,6 +400,21 @@
    {
     "value": "fitness center",
     "source_url": "https://www.neoscapesmaldives.com/resort/taj-exotica-resort-spa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.kuoni.co.uk/destinations/asia/india/andaman-islands/hotels/taj-exotica-resort-and-spa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "meditation",
+    "source_url": "https://www.kuoni.co.uk/destinations/asia/india/andaman-islands/hotels/taj-exotica-resort-and-spa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fitness centre",
+    "source_url": "https://www.kuoni.co.uk/destinations/asia/india/andaman-islands/hotels/taj-exotica-resort-and-spa/",
     "as_of": "2026-10-04"
    }
   ],
@@ -445,8 +463,54 @@
     "value": "+960 736 5425",
     "source_url": "https://www.neoscapesmaldives.com/resort/taj-exotica-resort-spa/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "+9607776038",
+    "source_url": "https://maldivestraveller.mv/jp/holidays/maldives-tours/day-tour-to-taj-exotica-resort",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+9607776038",
+    "source_url": "https://maldivestraveller.mv/de/holidays/maldives-tours/day-tour-to-taj-exotica-resort",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+9607776038",
+    "source_url": "https://maldivestraveller.mv/it/holidays/maldives-tours/day-tour-to-taj-exotica-resort",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+9607776038",
+    "source_url": "https://maldivestraveller.mv/en/holidays/maldives-tours/day-tour-to-taj-exotica-resort",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "meal_plans": [
+   {
+    "value": "AI",
+    "source_url": "https://maldivestraveller.mv/it/holidays/maldives-tours/day-tour-to-taj-exotica-resort",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "island": [
+   {
+    "value": "Free",
+    "source_url": "https://maldivestraveller.mv/en/holidays/maldives-tours/day-tour-to-taj-exotica-resort",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "sustainability": [
+   {
+    "value": "solar",
+    "source_url": "https://www.kuoni.co.uk/destinations/asia/india/andaman-islands/hotels/taj-exotica-resort-and-spa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "single-use plastic",
+    "source_url": "https://www.kuoni.co.uk/destinations/asia/india/andaman-islands/hotels/taj-exotica-resort-and-spa/",
+    "as_of": "2026-10-04"
    }
   ]
  },
- "last_updated": "2026-10-04"
+ "last_updated": "2026-10-05"
 }

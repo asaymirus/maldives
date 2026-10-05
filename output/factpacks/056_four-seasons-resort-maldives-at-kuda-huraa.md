@@ -1,19 +1,17 @@
 # 56. Four Seasons Resort Maldives at Kuda Huraa
 
-**Official site:** n/a (None)  
+**Official site:** https://www.fourseasons.com/maldiveskh/ (blocked)  
 **Brand:** Four Seasons  
-**Atoll:** North Malé Atoll  **Island:** Bodu Huraa  
+**Atoll:** Kaafu Atoll  **Island:** Bodu Huraa  
 **Opened/renovated:** opened 1998  **Rating:** n/a  
 **Transfer:** seaplane, speedboat, yacht; minutes: {"speedboat": 35}  
 **Island size:** n/a  
 
-## Villas (? total)
+## Villas (106 total)
 
-- Number of Villas: count 96, ? sqm, max ?
 
 ## Dining
 
-- Dining (restaurant)
 - Restaurant: Baraabaru (restaurant)
 - Restaurant: Reef Club (restaurant)
 - Restaurant: Café Huraa (restaurant)
@@ -22,20 +20,20 @@
 - Cooking classes at Baraabaru Restaurant (restaurant)
 - Lava Lounge (bar)
 
-Meal plans: n/a
+Meal plans: AI
 
 ## Spa & wellness
 
 - Spa: The Island Spa; treatment rooms: ?; menu: https://neoscapesmaldives.com/wp-content/uploads/facts-1.pdf
-- Wellness/fitness: yoga, meditation, gym, tennis
+- Wellness/fitness: yoga, meditation, gym, tennis, sauna
 
 ## Diving, water sports & excursions
 
 - Operator: n/a
 - House reef: n/a
-- Activities: snorkelling, scuba diving, windsurfing, kayaking, catamaran, jet ski, parasailing, water skiing, wakeboarding, fishing, dolphin cruise, surfing, sunset cruise
+- Activities: snorkelling, scuba diving, windsurfing, kayaking, catamaran, jet ski, parasailing, water skiing, wakeboarding, fishing, dolphin cruise, surfing, sunset cruise, sailing, canoe
 - Price list: none
-- Excursions: sandbank, dolphin, turtle, snorkel safari, picnic, cooking class, sunset fishing
+- Excursions: sandbank, dolphin, turtle, snorkel safari, picnic, cooking class, sunset fishing, big game fishing, stargazing
 
 ## Kids & family
 
@@ -77,7 +75,7 @@ Meal plans: n/a
 - factsheet
 - wedding brochure
 - events/MICE document
-- fact: villas.total
+- fact: villa categories
 - fact: dive operator
 
-_Facts extracted by rules from 19 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-04._
+_Facts extracted by rules from 20 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

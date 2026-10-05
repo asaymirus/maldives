@@ -6,16 +6,17 @@
   "Nova Maldives",
   "Vakarufalhi"
  ],
- "official_url": null,
- "official_site_status": null,
+ "official_url": "https://nova-maldives.com/",
+ "official_site_status": "ok",
  "operator_brand": "Nova",
  "atoll": "Ari Atoll",
- "island": null,
+ "island": "Nova Maldives",
  "opened_or_renovated": null,
  "star_rating": null,
  "transfer": {
   "modes": [
-   "seaplane"
+   "seaplane",
+   "speedboat"
   ],
   "minutes": {
    "seaplane": 25,
@@ -26,7 +27,7 @@
  },
  "island_size": null,
  "villas": {
-  "total": 76,
+  "total": 75,
   "categories": [
    {
     "name": "VILLAS",
@@ -125,11 +126,107 @@
     "overwater": null
    },
    {
-    "name": "Total Number of Villas",
-    "count": 76,
+    "name": "Beach Pool Villa",
+    "count": 1,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": true,
+    "overwater": null
+   },
+   {
+    "name": "Sunset Beach Villa with Pool",
+    "count": 4,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": true,
+    "overwater": null
+   },
+   {
+    "name": "Inter-Connected Beach Villa with Jacuzzi",
+    "count": 4,
     "size_sqm": null,
     "max_occupancy": null,
     "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "Sunset Beach Villas with Jacuzzi",
+    "count": 8,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "Water Villas with Jacuzzi",
+    "count": 10,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "Beach Villas",
+    "count": 17,
+    "size_sqm": 80,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "Sunset Beach Villas",
+    "count": 6,
+    "size_sqm": 80,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "Beach Villa with Private Pool",
+    "count": 1,
+    "size_sqm": 160,
+    "max_occupancy": null,
+    "pool": true,
+    "overwater": null
+   },
+   {
+    "name": "Sunset Beach Villa with Private Pool",
+    "count": 4,
+    "size_sqm": 160,
+    "max_occupancy": null,
+    "pool": true,
+    "overwater": null
+   },
+   {
+    "name": "Inter-Connected Beach Villa - ENTRANCE",
+    "count": 4,
+    "size_sqm": 160,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "Water Villas with Pool",
+    "count": 8,
+    "size_sqm": 160,
+    "max_occupancy": null,
+    "pool": true,
+    "overwater": null
+   },
+   {
+    "name": "Two Bedroom Beach Residence with Pool",
+    "count": 1,
+    "size_sqm": 250,
+    "max_occupancy": null,
+    "pool": true,
+    "overwater": null
+   },
+   {
+    "name": "Bedroom Beach Residence with Pool",
+    "count": 2,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": true,
     "overwater": null
    },
    {
@@ -171,30 +268,6 @@
     "max_occupancy": null,
     "pool": null,
     "overwater": null
-   },
-   {
-    "name": "beach villa nova maldives",
-    "count": 6,
-    "size_sqm": null,
-    "max_occupancy": null,
-    "pool": null,
-    "overwater": null
-   },
-   {
-    "name": "beach villa bathroom add nova maldives",
-    "count": 5,
-    "size_sqm": null,
-    "max_occupancy": null,
-    "pool": null,
-    "overwater": null
-   },
-   {
-    "name": "sunset beach villa with jacuzzi nova maldives",
-    "count": 4,
-    "size_sqm": null,
-    "max_occupancy": null,
-    "pool": null,
-    "overwater": null
    }
   ]
  },
@@ -225,12 +298,12 @@
    "type": "bar"
   },
   {
-   "name": "Dining",
+   "name": "Soul Kitchen",
    "cuisine": null,
    "type": "restaurant"
   },
   {
-   "name": "Soul Kitchen - All-day Dining",
+   "name": "Mizu – Overwater Teppanyaki",
    "cuisine": null,
    "type": "restaurant"
   },
@@ -241,32 +314,54 @@
   }
  ],
  "meal_plans": [
-  "AI"
+  "AI",
+  "FB"
  ],
- "all_inclusive_details": "All-Inclusive Community Concept, a laidback place with a soul that sparks joy and is designed for real connection.",
+ "all_inclusive_details": "all-inclusive beverage menu.",
  "spa": {
-  "name": "Facilities\nEskape Spa",
+  "name": "Eskape Spa",
   "treatment_rooms": null,
   "signature_treatments": [],
-  "menu_doc": null
+  "menu_doc": "https://d7h9v39iheghu.cloudfront.net/previews/7837a234-9635-4da8-b132-476aacd9b4c1/46212e2c-adfe-4430-be3c-fcbe795a658e/46212e2c-adfe-4430-be3c-fcbe795a658e?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy83ODM3YTIzNC05NjM1LTRkYTgtYjEzMi00NzZhYWNkOWI0YzEqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjg0MDEwfX19XX0_&Signature=0NCrDHEtg~3Ag4tUAPQa6ilJ6cyZ~w4zVuMSD7cG~r-mqETwrHjP~ymbFvuB7vZlbnPnlWCA1ED5pRAzfLnrljg2GzmBKzehdZ5pgyEdg2DhUh1PdoH9P3mOCEtIvAjK8OJMABLlrsk9l-sKHGYMa1a1Cwv28E-vbs9wjG1faMxEGG67VKe8YrbKJea-zq31p-n-SwDxEgYcBaFhSoyAOtk-LQQh4YnbO4e3Mh1O3qhd1CUPoi~QB1~gR8sul5CK0VJQczSIV5ZAIetLpT6YzKJjTsyOlpvwM1Ndaf6IhiW6ocfSJj45JPk5h8YsmO05fa9p1P7DalJRXVD6AH0o6g__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA"
  },
  "diving_watersports": {
   "operator": null,
-  "house_reef": "house reef brimming with colourful fishes and thriving corals",
+  "house_reef": "house reef and outer atoll channel, where you can encounter an array of colourful aquatic creatures, including the fascinating whale sharks and manta rays",
   "activities": [
    "whale shark",
    "manta",
    "snorkelling",
+   "stand-up paddle",
+   "paddleboard",
+   "jet ski",
+   "sunset cruise",
    "scuba diving",
+   "catamaran",
+   "parasailing",
+   "fishing",
+   "sailing",
+   "kayaking",
+   "dolphin cruise",
+   "snorkeling",
    "windsurfing",
-   "fishing"
+   "canoe"
   ],
-  "price_list_doc": null
+  "price_list_doc": "https://nova-maldives.com/wp-content/uploads/2026/06/Nova-Soulful-tales-2026.pdf"
  },
  "excursions": [
   "whale shark",
   "manta",
-  "turtle"
+  "turtle",
+  "sandbank",
+  "local island",
+  "dolphin",
+  "sunset fishing",
+  "big game fishing",
+  "picnic",
+  "stargazing",
+  "castaway",
+  "cooking class",
+  "island hopping"
  ],
  "kids_family": {
   "kids_club": null,
@@ -277,14 +372,32 @@
   "gym",
   "beach volleyball",
   "yoga",
-  "fitness centre"
+  "meditation",
+  "steam",
+  "fitness centre",
+  "badminton"
  ],
  "weddings": {
   "offered": true,
   "vow_renewal": null,
-  "venues": [],
-  "packages": [],
-  "brochure_doc": null
+  "venues": [
+   "surrounded by the sparkling lagoon - your Maldives wedding"
+  ],
+  "packages": [
+   {
+    "name": "Ceremony",
+    "price": "375",
+    "currency": "USD",
+    "as_of": 2025
+   },
+   {
+    "name": "Wedding",
+    "price": "350",
+    "currency": "USD",
+    "as_of": 2025
+   }
+  ],
+  "brochure_doc": "https://d7h9v39iheghu.cloudfront.net/previews/7837a234-9635-4da8-b132-476aacd9b4c1/3f5ac883-372b-4221-8214-04fc6f0a4991/3f5ac883-372b-4221-8214-04fc6f0a4991?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy83ODM3YTIzNC05NjM1LTRkYTgtYjEzMi00NzZhYWNkOWI0YzEqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjg0MDEwfX19XX0_&Signature=0NCrDHEtg~3Ag4tUAPQa6ilJ6cyZ~w4zVuMSD7cG~r-mqETwrHjP~ymbFvuB7vZlbnPnlWCA1ED5pRAzfLnrljg2GzmBKzehdZ5pgyEdg2DhUh1PdoH9P3mOCEtIvAjK8OJMABLlrsk9l-sKHGYMa1a1Cwv28E-vbs9wjG1faMxEGG67VKe8YrbKJea-zq31p-n-SwDxEgYcBaFhSoyAOtk-LQQh4YnbO4e3Mh1O3qhd1CUPoi~QB1~gR8sul5CK0VJQczSIV5ZAIetLpT6YzKJjTsyOlpvwM1Ndaf6IhiW6ocfSJj45JPk5h8YsmO05fa9p1P7DalJRXVD6AH0o6g__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA"
  },
  "events_mice": {
   "venues": [],
@@ -293,26 +406,29 @@
   "doc": null
  },
  "sustainability": [
-  "plastic-free"
+  "plastic-free",
+  "marine biologist",
+  "coral restoration",
+  "coral nursery",
+  "reef restoration"
  ],
  "contacts_public": {
   "reservations_email": "info@neoscapesmaldives.com",
   "weddings_email": null,
-  "phone": "+960 736 5425"
+  "phone": "+960 66 88 777"
  },
  "documents_latest": {
   "factsheet": "https://www.neoscapesmaldives.com/wp-content/uploads/Factsheet-Nova-Maldives-NEO.pdf",
-  "map": "https://www.neoscapesmaldives.com/wp-content/uploads/Resort-Map-Nova-Maldives.pdf",
-  "wedding": null,
-  "spa_menu": null,
-  "dining_menu": null,
-  "dive_prices": null,
+  "map": "https://d7h9v39iheghu.cloudfront.net/previews/7837a234-9635-4da8-b132-476aacd9b4c1/8780c187-d9ed-4683-8880-d00487729569/90e4d75d-5655-4952-bec3-1a3b61887293?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy83ODM3YTIzNC05NjM1LTRkYTgtYjEzMi00NzZhYWNkOWI0YzEqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjg0MDEwfX19XX0_&Signature=0NCrDHEtg~3Ag4tUAPQa6ilJ6cyZ~w4zVuMSD7cG~r-mqETwrHjP~ymbFvuB7vZlbnPnlWCA1ED5pRAzfLnrljg2GzmBKzehdZ5pgyEdg2DhUh1PdoH9P3mOCEtIvAjK8OJMABLlrsk9l-sKHGYMa1a1Cwv28E-vbs9wjG1faMxEGG67VKe8YrbKJea-zq31p-n-SwDxEgYcBaFhSoyAOtk-LQQh4YnbO4e3Mh1O3qhd1CUPoi~QB1~gR8sul5CK0VJQczSIV5ZAIetLpT6YzKJjTsyOlpvwM1Ndaf6IhiW6ocfSJj45JPk5h8YsmO05fa9p1P7DalJRXVD6AH0o6g__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA",
+  "wedding": "https://d7h9v39iheghu.cloudfront.net/previews/7837a234-9635-4da8-b132-476aacd9b4c1/3f5ac883-372b-4221-8214-04fc6f0a4991/3f5ac883-372b-4221-8214-04fc6f0a4991?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy83ODM3YTIzNC05NjM1LTRkYTgtYjEzMi00NzZhYWNkOWI0YzEqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjg0MDEwfX19XX0_&Signature=0NCrDHEtg~3Ag4tUAPQa6ilJ6cyZ~w4zVuMSD7cG~r-mqETwrHjP~ymbFvuB7vZlbnPnlWCA1ED5pRAzfLnrljg2GzmBKzehdZ5pgyEdg2DhUh1PdoH9P3mOCEtIvAjK8OJMABLlrsk9l-sKHGYMa1a1Cwv28E-vbs9wjG1faMxEGG67VKe8YrbKJea-zq31p-n-SwDxEgYcBaFhSoyAOtk-LQQh4YnbO4e3Mh1O3qhd1CUPoi~QB1~gR8sul5CK0VJQczSIV5ZAIetLpT6YzKJjTsyOlpvwM1Ndaf6IhiW6ocfSJj45JPk5h8YsmO05fa9p1P7DalJRXVD6AH0o6g__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA",
+  "spa_menu": "https://d7h9v39iheghu.cloudfront.net/previews/7837a234-9635-4da8-b132-476aacd9b4c1/46212e2c-adfe-4430-be3c-fcbe795a658e/46212e2c-adfe-4430-be3c-fcbe795a658e?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy83ODM3YTIzNC05NjM1LTRkYTgtYjEzMi00NzZhYWNkOWI0YzEqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjg0MDEwfX19XX0_&Signature=0NCrDHEtg~3Ag4tUAPQa6ilJ6cyZ~w4zVuMSD7cG~r-mqETwrHjP~ymbFvuB7vZlbnPnlWCA1ED5pRAzfLnrljg2GzmBKzehdZ5pgyEdg2DhUh1PdoH9P3mOCEtIvAjK8OJMABLlrsk9l-sKHGYMa1a1Cwv28E-vbs9wjG1faMxEGG67VKe8YrbKJea-zq31p-n-SwDxEgYcBaFhSoyAOtk-LQQh4YnbO4e3Mh1O3qhd1CUPoi~QB1~gR8sul5CK0VJQczSIV5ZAIetLpT6YzKJjTsyOlpvwM1Ndaf6IhiW6ocfSJj45JPk5h8YsmO05fa9p1P7DalJRXVD6AH0o6g__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA",
+  "dining_menu": "https://nova-maldives.com/wp-content/uploads/2026/04/Soulful-tales-2026-2.pdf",
+  "dive_prices": "https://nova-maldives.com/wp-content/uploads/2026/06/Nova-Soulful-tales-2026.pdf",
   "events": null,
-  "calendar": null
+  "calendar": "https://nova-maldives.com/wp-content/uploads/2023/02/MS_Nova-Easter-Press-Release-1.pdf"
  },
- "documents_count": 2,
+ "documents_count": 69,
  "gaps": [
-  "wedding brochure",
   "events/MICE document",
   "fact: dive operator",
   "fact: kids club"
@@ -326,7 +442,122 @@
    },
    {
     "value": "Ari Atoll",
+    "source_url": "https://nova-maldives.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Ari Atoll",
+    "source_url": "https://nova-maldives.com/blog/post/the-ultimate-romantic-escape-in-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Ari Atoll",
+    "source_url": "https://nova-maldives.com/blog/post/discover-manta-rays-whale-sharks-in-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Ari Atoll",
+    "source_url": "https://nova-maldives.com/blog/post/why-the-maldives-is-a-dream-destination/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Ari Atoll",
+    "source_url": "https://nova-maldives.com/blog/post/how-to-plan-the-perfect-maldives-vacation-a-complete-guide/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Ari Atoll",
+    "source_url": "https://nova-maldives.com/blog/post/the-best-time-to-visit-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Ari Atoll",
+    "source_url": "https://nova-maldives.com/blog/post/discover-the-best-dive-sites-in-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Ari Atoll",
+    "source_url": "https://nova-maldives.com/blog/post/when-can-you-see-bioluminescence-in-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Ari Atoll",
+    "source_url": "https://nova-maldives.com/blog/post/celebrating-island-heritage-through-veganuary-and-dry-january/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Ari Atoll",
+    "source_url": "https://nova-maldives.com/blog/post/diving-into-the-depths-of-south-ari-atoll-a-scuba-divers-paradise/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Ari Atoll",
+    "source_url": "https://nova-maldives.com/blog/post/how-to-get-to-nova-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Ari Atoll",
+    "source_url": "https://nova-maldives.com/blog/post/how-to-plan-a-trip-to-the-maldives-your-soulful-guide/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Ari Atoll",
+    "source_url": "https://nova-maldives.com/blog/post/indulge-in-all-inclusive-bliss-at-nova-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Ari Atoll",
+    "source_url": "https://nova-maldives.com/blog/post/must-try-excursions-at-nova-maldives-a-journey-for-the-soul/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Ari Atoll",
+    "source_url": "https://nova-maldives.com/things-to-do/aquaholics/diving/best-diving-sites-maldives-nova-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Ari Atoll",
+    "source_url": "https://nova-maldives.com/blog/post/top-reasons-to-visit-the-maldives-in-the-off-season/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Ari Atoll",
+    "source_url": "https://nova-maldives.com/blog/post/immersive-maldivian-cultural-experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Ari Atoll",
+    "source_url": "https://nova-maldives.com/blog/post/honeymoon-in-the-maldives-a-soulful-romance/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Ari Atoll",
+    "source_url": "https://nova-maldives.com/sustainability/flora-and-fauna/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Ari Atoll",
+    "source_url": "https://nova-maldives.com/blog/post/are-maldives-sharks-dangerous/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Ari Atoll",
     "source_url": "https://www.neoscapesmaldives.com/resort/nova-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Ari Atoll",
+    "source_url": "https://www.mymaldives.com/resort-guide/vakarufalhi-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Ari Atoll",
+    "source_url": "https://www.maldivestourism.net/blog/nova-maldives-is-making-a-difference-on-world-ocean-day/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Ari Atoll",
+    "source_url": "https://www.airtours.de/nova-maldives/",
     "as_of": "2026-10-04"
    }
   ],
@@ -337,8 +568,33 @@
     "as_of": 2022
    },
    {
+    "value": "speedboat",
+    "source_url": "https://d7h9v39iheghu.cloudfront.net/previews/7837a234-9635-4da8-b132-476aacd9b4c1/6fa34e59-2ded-4eb9-8109-5ecfe50c251e/6fa34e59-2ded-4eb9-8109-5ecfe50c251e?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy83ODM3YTIzNC05NjM1LTRkYTgtYjEzMi00NzZhYWNkOWI0YzEqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjg0MDEwfX19XX0_&Signature=0NCrDHEtg~3Ag4tUAPQa6ilJ6cyZ~w4zVuMSD7cG~r-mqETwrHjP~ymbFvuB7vZlbnPnlWCA1ED5pRAzfLnrljg2GzmBKzehdZ5pgyEdg2DhUh1PdoH9P3mOCEtIvAjK8OJMABLlrsk9l-sKHGYMa1a1Cwv28E-vbs9wjG1faMxEGG67VKe8YrbKJea-zq31p-n-SwDxEgYcBaFhSoyAOtk-LQQh4YnbO4e3Mh1O3qhd1CUPoi~QB1~gR8sul5CK0VJQczSIV5ZAIetLpT6YzKJjTsyOlpvwM1Ndaf6IhiW6ocfSJj45JPk5h8YsmO05fa9p1P7DalJRXVD6AH0o6g__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA",
+    "as_of": 2026
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://nova-maldives.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://nova-maldives.com/blog/post/how-to-get-to-nova-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
     "value": "seaplane",
     "source_url": "https://www.neoscapesmaldives.com/resort/nova-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.mymaldives.com/resort-guide/vakarufalhi-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.maldivestourism.net/blog/nova-maldives-is-making-a-difference-on-world-ocean-day/",
     "as_of": "2026-10-04"
    }
   ],
@@ -350,7 +606,22 @@
    },
    {
     "value": 25,
+    "source_url": "https://nova-maldives.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 25,
+    "source_url": "https://nova-maldives.com/blog/post/how-to-get-to-nova-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 25,
     "source_url": "https://www.neoscapesmaldives.com/resort/nova-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 25,
+    "source_url": "https://www.mymaldives.com/resort-guide/vakarufalhi-island-resort/",
     "as_of": "2026-10-04"
    }
   ],
@@ -359,6 +630,16 @@
     "value": 76,
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Factsheet-Nova-Maldives-NEO.pdf",
     "as_of": 2022
+   },
+   {
+    "value": 76,
+    "source_url": "https://d7h9v39iheghu.cloudfront.net/previews/7837a234-9635-4da8-b132-476aacd9b4c1/26004904-089f-43ea-aa21-f3b9faafa77f/26004904-089f-43ea-aa21-f3b9faafa77f?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy83ODM3YTIzNC05NjM1LTRkYTgtYjEzMi00NzZhYWNkOWI0YzEqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjg0MDEwfX19XX0_&Signature=0NCrDHEtg~3Ag4tUAPQa6ilJ6cyZ~w4zVuMSD7cG~r-mqETwrHjP~ymbFvuB7vZlbnPnlWCA1ED5pRAzfLnrljg2GzmBKzehdZ5pgyEdg2DhUh1PdoH9P3mOCEtIvAjK8OJMABLlrsk9l-sKHGYMa1a1Cwv28E-vbs9wjG1faMxEGG67VKe8YrbKJea-zq31p-n-SwDxEgYcBaFhSoyAOtk-LQQh4YnbO4e3Mh1O3qhd1CUPoi~QB1~gR8sul5CK0VJQczSIV5ZAIetLpT6YzKJjTsyOlpvwM1Ndaf6IhiW6ocfSJj45JPk5h8YsmO05fa9p1P7DalJRXVD6AH0o6g__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA",
+    "as_of": 2025
+   },
+   {
+    "value": 75,
+    "source_url": "https://www.mymaldives.com/resort-guide/vakarufalhi-island-resort/",
+    "as_of": "2026-10-04"
    }
   ],
   "villas.categories": [
@@ -520,15 +801,279 @@
    },
    {
     "value": {
-     "name": "Total Number of Villas",
-     "count": 76,
+     "name": "Beach Pool Villa",
+     "count": 1,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": true,
+     "overwater": null
+    },
+    "source_url": "https://d7h9v39iheghu.cloudfront.net/previews/7837a234-9635-4da8-b132-476aacd9b4c1/26004904-089f-43ea-aa21-f3b9faafa77f/26004904-089f-43ea-aa21-f3b9faafa77f?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy83ODM3YTIzNC05NjM1LTRkYTgtYjEzMi00NzZhYWNkOWI0YzEqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjg0MDEwfX19XX0_&Signature=0NCrDHEtg~3Ag4tUAPQa6ilJ6cyZ~w4zVuMSD7cG~r-mqETwrHjP~ymbFvuB7vZlbnPnlWCA1ED5pRAzfLnrljg2GzmBKzehdZ5pgyEdg2DhUh1PdoH9P3mOCEtIvAjK8OJMABLlrsk9l-sKHGYMa1a1Cwv28E-vbs9wjG1faMxEGG67VKe8YrbKJea-zq31p-n-SwDxEgYcBaFhSoyAOtk-LQQh4YnbO4e3Mh1O3qhd1CUPoi~QB1~gR8sul5CK0VJQczSIV5ZAIetLpT6YzKJjTsyOlpvwM1Ndaf6IhiW6ocfSJj45JPk5h8YsmO05fa9p1P7DalJRXVD6AH0o6g__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA",
+    "as_of": 2025
+   },
+   {
+    "value": {
+     "name": "Sunset Beach Villa with Pool",
+     "count": 4,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": true,
+     "overwater": null
+    },
+    "source_url": "https://d7h9v39iheghu.cloudfront.net/previews/7837a234-9635-4da8-b132-476aacd9b4c1/26004904-089f-43ea-aa21-f3b9faafa77f/26004904-089f-43ea-aa21-f3b9faafa77f?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy83ODM3YTIzNC05NjM1LTRkYTgtYjEzMi00NzZhYWNkOWI0YzEqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjg0MDEwfX19XX0_&Signature=0NCrDHEtg~3Ag4tUAPQa6ilJ6cyZ~w4zVuMSD7cG~r-mqETwrHjP~ymbFvuB7vZlbnPnlWCA1ED5pRAzfLnrljg2GzmBKzehdZ5pgyEdg2DhUh1PdoH9P3mOCEtIvAjK8OJMABLlrsk9l-sKHGYMa1a1Cwv28E-vbs9wjG1faMxEGG67VKe8YrbKJea-zq31p-n-SwDxEgYcBaFhSoyAOtk-LQQh4YnbO4e3Mh1O3qhd1CUPoi~QB1~gR8sul5CK0VJQczSIV5ZAIetLpT6YzKJjTsyOlpvwM1Ndaf6IhiW6ocfSJj45JPk5h8YsmO05fa9p1P7DalJRXVD6AH0o6g__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA",
+    "as_of": 2025
+   },
+   {
+    "value": {
+     "name": "Inter-Connected Beach Villa with Jacuzzi",
+     "count": 4,
      "size_sqm": null,
      "max_occupancy": null,
      "pool": null,
      "overwater": null
     },
-    "source_url": "https://www.neoscapesmaldives.com/resort/nova-maldives/",
-    "as_of": "2026-10-04"
+    "source_url": "https://d7h9v39iheghu.cloudfront.net/previews/7837a234-9635-4da8-b132-476aacd9b4c1/26004904-089f-43ea-aa21-f3b9faafa77f/26004904-089f-43ea-aa21-f3b9faafa77f?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy83ODM3YTIzNC05NjM1LTRkYTgtYjEzMi00NzZhYWNkOWI0YzEqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjg0MDEwfX19XX0_&Signature=0NCrDHEtg~3Ag4tUAPQa6ilJ6cyZ~w4zVuMSD7cG~r-mqETwrHjP~ymbFvuB7vZlbnPnlWCA1ED5pRAzfLnrljg2GzmBKzehdZ5pgyEdg2DhUh1PdoH9P3mOCEtIvAjK8OJMABLlrsk9l-sKHGYMa1a1Cwv28E-vbs9wjG1faMxEGG67VKe8YrbKJea-zq31p-n-SwDxEgYcBaFhSoyAOtk-LQQh4YnbO4e3Mh1O3qhd1CUPoi~QB1~gR8sul5CK0VJQczSIV5ZAIetLpT6YzKJjTsyOlpvwM1Ndaf6IhiW6ocfSJj45JPk5h8YsmO05fa9p1P7DalJRXVD6AH0o6g__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA",
+    "as_of": 2025
+   },
+   {
+    "value": {
+     "name": "Sunset Beach Villas with Jacuzzi",
+     "count": 8,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://d7h9v39iheghu.cloudfront.net/previews/7837a234-9635-4da8-b132-476aacd9b4c1/26004904-089f-43ea-aa21-f3b9faafa77f/26004904-089f-43ea-aa21-f3b9faafa77f?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy83ODM3YTIzNC05NjM1LTRkYTgtYjEzMi00NzZhYWNkOWI0YzEqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjg0MDEwfX19XX0_&Signature=0NCrDHEtg~3Ag4tUAPQa6ilJ6cyZ~w4zVuMSD7cG~r-mqETwrHjP~ymbFvuB7vZlbnPnlWCA1ED5pRAzfLnrljg2GzmBKzehdZ5pgyEdg2DhUh1PdoH9P3mOCEtIvAjK8OJMABLlrsk9l-sKHGYMa1a1Cwv28E-vbs9wjG1faMxEGG67VKe8YrbKJea-zq31p-n-SwDxEgYcBaFhSoyAOtk-LQQh4YnbO4e3Mh1O3qhd1CUPoi~QB1~gR8sul5CK0VJQczSIV5ZAIetLpT6YzKJjTsyOlpvwM1Ndaf6IhiW6ocfSJj45JPk5h8YsmO05fa9p1P7DalJRXVD6AH0o6g__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA",
+    "as_of": 2025
+   },
+   {
+    "value": {
+     "name": "BR Beach Residence with Pool",
+     "count": 1,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": true,
+     "overwater": null
+    },
+    "source_url": "https://d7h9v39iheghu.cloudfront.net/previews/7837a234-9635-4da8-b132-476aacd9b4c1/26004904-089f-43ea-aa21-f3b9faafa77f/26004904-089f-43ea-aa21-f3b9faafa77f?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy83ODM3YTIzNC05NjM1LTRkYTgtYjEzMi00NzZhYWNkOWI0YzEqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjg0MDEwfX19XX0_&Signature=0NCrDHEtg~3Ag4tUAPQa6ilJ6cyZ~w4zVuMSD7cG~r-mqETwrHjP~ymbFvuB7vZlbnPnlWCA1ED5pRAzfLnrljg2GzmBKzehdZ5pgyEdg2DhUh1PdoH9P3mOCEtIvAjK8OJMABLlrsk9l-sKHGYMa1a1Cwv28E-vbs9wjG1faMxEGG67VKe8YrbKJea-zq31p-n-SwDxEgYcBaFhSoyAOtk-LQQh4YnbO4e3Mh1O3qhd1CUPoi~QB1~gR8sul5CK0VJQczSIV5ZAIetLpT6YzKJjTsyOlpvwM1Ndaf6IhiW6ocfSJj45JPk5h8YsmO05fa9p1P7DalJRXVD6AH0o6g__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA",
+    "as_of": 2025
+   },
+   {
+    "value": {
+     "name": "Water Villas",
+     "count": 7,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://d7h9v39iheghu.cloudfront.net/previews/7837a234-9635-4da8-b132-476aacd9b4c1/26004904-089f-43ea-aa21-f3b9faafa77f/26004904-089f-43ea-aa21-f3b9faafa77f?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy83ODM3YTIzNC05NjM1LTRkYTgtYjEzMi00NzZhYWNkOWI0YzEqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjg0MDEwfX19XX0_&Signature=0NCrDHEtg~3Ag4tUAPQa6ilJ6cyZ~w4zVuMSD7cG~r-mqETwrHjP~ymbFvuB7vZlbnPnlWCA1ED5pRAzfLnrljg2GzmBKzehdZ5pgyEdg2DhUh1PdoH9P3mOCEtIvAjK8OJMABLlrsk9l-sKHGYMa1a1Cwv28E-vbs9wjG1faMxEGG67VKe8YrbKJea-zq31p-n-SwDxEgYcBaFhSoyAOtk-LQQh4YnbO4e3Mh1O3qhd1CUPoi~QB1~gR8sul5CK0VJQczSIV5ZAIetLpT6YzKJjTsyOlpvwM1Ndaf6IhiW6ocfSJj45JPk5h8YsmO05fa9p1P7DalJRXVD6AH0o6g__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA",
+    "as_of": 2025
+   },
+   {
+    "value": {
+     "name": "Water Villas with Jacuzzi",
+     "count": 10,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://d7h9v39iheghu.cloudfront.net/previews/7837a234-9635-4da8-b132-476aacd9b4c1/26004904-089f-43ea-aa21-f3b9faafa77f/26004904-089f-43ea-aa21-f3b9faafa77f?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy83ODM3YTIzNC05NjM1LTRkYTgtYjEzMi00NzZhYWNkOWI0YzEqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjg0MDEwfX19XX0_&Signature=0NCrDHEtg~3Ag4tUAPQa6ilJ6cyZ~w4zVuMSD7cG~r-mqETwrHjP~ymbFvuB7vZlbnPnlWCA1ED5pRAzfLnrljg2GzmBKzehdZ5pgyEdg2DhUh1PdoH9P3mOCEtIvAjK8OJMABLlrsk9l-sKHGYMa1a1Cwv28E-vbs9wjG1faMxEGG67VKe8YrbKJea-zq31p-n-SwDxEgYcBaFhSoyAOtk-LQQh4YnbO4e3Mh1O3qhd1CUPoi~QB1~gR8sul5CK0VJQczSIV5ZAIetLpT6YzKJjTsyOlpvwM1Ndaf6IhiW6ocfSJj45JPk5h8YsmO05fa9p1P7DalJRXVD6AH0o6g__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA",
+    "as_of": 2025
+   },
+   {
+    "value": {
+     "name": "Water Villa with Pool",
+     "count": 8,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": true,
+     "overwater": null
+    },
+    "source_url": "https://d7h9v39iheghu.cloudfront.net/previews/7837a234-9635-4da8-b132-476aacd9b4c1/26004904-089f-43ea-aa21-f3b9faafa77f/26004904-089f-43ea-aa21-f3b9faafa77f?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy83ODM3YTIzNC05NjM1LTRkYTgtYjEzMi00NzZhYWNkOWI0YzEqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjg0MDEwfX19XX0_&Signature=0NCrDHEtg~3Ag4tUAPQa6ilJ6cyZ~w4zVuMSD7cG~r-mqETwrHjP~ymbFvuB7vZlbnPnlWCA1ED5pRAzfLnrljg2GzmBKzehdZ5pgyEdg2DhUh1PdoH9P3mOCEtIvAjK8OJMABLlrsk9l-sKHGYMa1a1Cwv28E-vbs9wjG1faMxEGG67VKe8YrbKJea-zq31p-n-SwDxEgYcBaFhSoyAOtk-LQQh4YnbO4e3Mh1O3qhd1CUPoi~QB1~gR8sul5CK0VJQczSIV5ZAIetLpT6YzKJjTsyOlpvwM1Ndaf6IhiW6ocfSJj45JPk5h8YsmO05fa9p1P7DalJRXVD6AH0o6g__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA",
+    "as_of": 2025
+   },
+   {
+    "value": {
+     "name": "Beach Villas",
+     "count": 17,
+     "size_sqm": 80,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://d7h9v39iheghu.cloudfront.net/previews/7837a234-9635-4da8-b132-476aacd9b4c1/26004904-089f-43ea-aa21-f3b9faafa77f/26004904-089f-43ea-aa21-f3b9faafa77f?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy83ODM3YTIzNC05NjM1LTRkYTgtYjEzMi00NzZhYWNkOWI0YzEqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjg0MDEwfX19XX0_&Signature=0NCrDHEtg~3Ag4tUAPQa6ilJ6cyZ~w4zVuMSD7cG~r-mqETwrHjP~ymbFvuB7vZlbnPnlWCA1ED5pRAzfLnrljg2GzmBKzehdZ5pgyEdg2DhUh1PdoH9P3mOCEtIvAjK8OJMABLlrsk9l-sKHGYMa1a1Cwv28E-vbs9wjG1faMxEGG67VKe8YrbKJea-zq31p-n-SwDxEgYcBaFhSoyAOtk-LQQh4YnbO4e3Mh1O3qhd1CUPoi~QB1~gR8sul5CK0VJQczSIV5ZAIetLpT6YzKJjTsyOlpvwM1Ndaf6IhiW6ocfSJj45JPk5h8YsmO05fa9p1P7DalJRXVD6AH0o6g__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA",
+    "as_of": 2025
+   },
+   {
+    "value": {
+     "name": "Sunset Beach Villas",
+     "count": 6,
+     "size_sqm": 80,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://d7h9v39iheghu.cloudfront.net/previews/7837a234-9635-4da8-b132-476aacd9b4c1/26004904-089f-43ea-aa21-f3b9faafa77f/26004904-089f-43ea-aa21-f3b9faafa77f?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy83ODM3YTIzNC05NjM1LTRkYTgtYjEzMi00NzZhYWNkOWI0YzEqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjg0MDEwfX19XX0_&Signature=0NCrDHEtg~3Ag4tUAPQa6ilJ6cyZ~w4zVuMSD7cG~r-mqETwrHjP~ymbFvuB7vZlbnPnlWCA1ED5pRAzfLnrljg2GzmBKzehdZ5pgyEdg2DhUh1PdoH9P3mOCEtIvAjK8OJMABLlrsk9l-sKHGYMa1a1Cwv28E-vbs9wjG1faMxEGG67VKe8YrbKJea-zq31p-n-SwDxEgYcBaFhSoyAOtk-LQQh4YnbO4e3Mh1O3qhd1CUPoi~QB1~gR8sul5CK0VJQczSIV5ZAIetLpT6YzKJjTsyOlpvwM1Ndaf6IhiW6ocfSJj45JPk5h8YsmO05fa9p1P7DalJRXVD6AH0o6g__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA",
+    "as_of": 2025
+   },
+   {
+    "value": {
+     "name": "Sunset Beach Villas with Jacuzzi",
+     "count": 8,
+     "size_sqm": 80,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://d7h9v39iheghu.cloudfront.net/previews/7837a234-9635-4da8-b132-476aacd9b4c1/26004904-089f-43ea-aa21-f3b9faafa77f/26004904-089f-43ea-aa21-f3b9faafa77f?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy83ODM3YTIzNC05NjM1LTRkYTgtYjEzMi00NzZhYWNkOWI0YzEqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjg0MDEwfX19XX0_&Signature=0NCrDHEtg~3Ag4tUAPQa6ilJ6cyZ~w4zVuMSD7cG~r-mqETwrHjP~ymbFvuB7vZlbnPnlWCA1ED5pRAzfLnrljg2GzmBKzehdZ5pgyEdg2DhUh1PdoH9P3mOCEtIvAjK8OJMABLlrsk9l-sKHGYMa1a1Cwv28E-vbs9wjG1faMxEGG67VKe8YrbKJea-zq31p-n-SwDxEgYcBaFhSoyAOtk-LQQh4YnbO4e3Mh1O3qhd1CUPoi~QB1~gR8sul5CK0VJQczSIV5ZAIetLpT6YzKJjTsyOlpvwM1Ndaf6IhiW6ocfSJj45JPk5h8YsmO05fa9p1P7DalJRXVD6AH0o6g__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA",
+    "as_of": 2025
+   },
+   {
+    "value": {
+     "name": "Beach Villa with Private Pool",
+     "count": 1,
+     "size_sqm": 160,
+     "max_occupancy": null,
+     "pool": true,
+     "overwater": null
+    },
+    "source_url": "https://d7h9v39iheghu.cloudfront.net/previews/7837a234-9635-4da8-b132-476aacd9b4c1/26004904-089f-43ea-aa21-f3b9faafa77f/26004904-089f-43ea-aa21-f3b9faafa77f?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy83ODM3YTIzNC05NjM1LTRkYTgtYjEzMi00NzZhYWNkOWI0YzEqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjg0MDEwfX19XX0_&Signature=0NCrDHEtg~3Ag4tUAPQa6ilJ6cyZ~w4zVuMSD7cG~r-mqETwrHjP~ymbFvuB7vZlbnPnlWCA1ED5pRAzfLnrljg2GzmBKzehdZ5pgyEdg2DhUh1PdoH9P3mOCEtIvAjK8OJMABLlrsk9l-sKHGYMa1a1Cwv28E-vbs9wjG1faMxEGG67VKe8YrbKJea-zq31p-n-SwDxEgYcBaFhSoyAOtk-LQQh4YnbO4e3Mh1O3qhd1CUPoi~QB1~gR8sul5CK0VJQczSIV5ZAIetLpT6YzKJjTsyOlpvwM1Ndaf6IhiW6ocfSJj45JPk5h8YsmO05fa9p1P7DalJRXVD6AH0o6g__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA",
+    "as_of": 2025
+   },
+   {
+    "value": {
+     "name": "Sunset Beach Villa with Private Pool",
+     "count": 4,
+     "size_sqm": 160,
+     "max_occupancy": null,
+     "pool": true,
+     "overwater": null
+    },
+    "source_url": "https://d7h9v39iheghu.cloudfront.net/previews/7837a234-9635-4da8-b132-476aacd9b4c1/26004904-089f-43ea-aa21-f3b9faafa77f/26004904-089f-43ea-aa21-f3b9faafa77f?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy83ODM3YTIzNC05NjM1LTRkYTgtYjEzMi00NzZhYWNkOWI0YzEqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjg0MDEwfX19XX0_&Signature=0NCrDHEtg~3Ag4tUAPQa6ilJ6cyZ~w4zVuMSD7cG~r-mqETwrHjP~ymbFvuB7vZlbnPnlWCA1ED5pRAzfLnrljg2GzmBKzehdZ5pgyEdg2DhUh1PdoH9P3mOCEtIvAjK8OJMABLlrsk9l-sKHGYMa1a1Cwv28E-vbs9wjG1faMxEGG67VKe8YrbKJea-zq31p-n-SwDxEgYcBaFhSoyAOtk-LQQh4YnbO4e3Mh1O3qhd1CUPoi~QB1~gR8sul5CK0VJQczSIV5ZAIetLpT6YzKJjTsyOlpvwM1Ndaf6IhiW6ocfSJj45JPk5h8YsmO05fa9p1P7DalJRXVD6AH0o6g__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA",
+    "as_of": 2025
+   },
+   {
+    "value": {
+     "name": "Inter-Connected Beach Villa - ENTRANCE",
+     "count": 4,
+     "size_sqm": 160,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://d7h9v39iheghu.cloudfront.net/previews/7837a234-9635-4da8-b132-476aacd9b4c1/26004904-089f-43ea-aa21-f3b9faafa77f/26004904-089f-43ea-aa21-f3b9faafa77f?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy83ODM3YTIzNC05NjM1LTRkYTgtYjEzMi00NzZhYWNkOWI0YzEqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjg0MDEwfX19XX0_&Signature=0NCrDHEtg~3Ag4tUAPQa6ilJ6cyZ~w4zVuMSD7cG~r-mqETwrHjP~ymbFvuB7vZlbnPnlWCA1ED5pRAzfLnrljg2GzmBKzehdZ5pgyEdg2DhUh1PdoH9P3mOCEtIvAjK8OJMABLlrsk9l-sKHGYMa1a1Cwv28E-vbs9wjG1faMxEGG67VKe8YrbKJea-zq31p-n-SwDxEgYcBaFhSoyAOtk-LQQh4YnbO4e3Mh1O3qhd1CUPoi~QB1~gR8sul5CK0VJQczSIV5ZAIetLpT6YzKJjTsyOlpvwM1Ndaf6IhiW6ocfSJj45JPk5h8YsmO05fa9p1P7DalJRXVD6AH0o6g__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA",
+    "as_of": 2025
+   },
+   {
+    "value": {
+     "name": "Inter-Connected Beach Villa with Jacuzzi",
+     "count": 4,
+     "size_sqm": 160,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://d7h9v39iheghu.cloudfront.net/previews/7837a234-9635-4da8-b132-476aacd9b4c1/26004904-089f-43ea-aa21-f3b9faafa77f/26004904-089f-43ea-aa21-f3b9faafa77f?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy83ODM3YTIzNC05NjM1LTRkYTgtYjEzMi00NzZhYWNkOWI0YzEqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjg0MDEwfX19XX0_&Signature=0NCrDHEtg~3Ag4tUAPQa6ilJ6cyZ~w4zVuMSD7cG~r-mqETwrHjP~ymbFvuB7vZlbnPnlWCA1ED5pRAzfLnrljg2GzmBKzehdZ5pgyEdg2DhUh1PdoH9P3mOCEtIvAjK8OJMABLlrsk9l-sKHGYMa1a1Cwv28E-vbs9wjG1faMxEGG67VKe8YrbKJea-zq31p-n-SwDxEgYcBaFhSoyAOtk-LQQh4YnbO4e3Mh1O3qhd1CUPoi~QB1~gR8sul5CK0VJQczSIV5ZAIetLpT6YzKJjTsyOlpvwM1Ndaf6IhiW6ocfSJj45JPk5h8YsmO05fa9p1P7DalJRXVD6AH0o6g__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA",
+    "as_of": 2025
+   },
+   {
+    "value": {
+     "name": "Water Villas",
+     "count": 7,
+     "size_sqm": 125,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://d7h9v39iheghu.cloudfront.net/previews/7837a234-9635-4da8-b132-476aacd9b4c1/26004904-089f-43ea-aa21-f3b9faafa77f/26004904-089f-43ea-aa21-f3b9faafa77f?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy83ODM3YTIzNC05NjM1LTRkYTgtYjEzMi00NzZhYWNkOWI0YzEqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjg0MDEwfX19XX0_&Signature=0NCrDHEtg~3Ag4tUAPQa6ilJ6cyZ~w4zVuMSD7cG~r-mqETwrHjP~ymbFvuB7vZlbnPnlWCA1ED5pRAzfLnrljg2GzmBKzehdZ5pgyEdg2DhUh1PdoH9P3mOCEtIvAjK8OJMABLlrsk9l-sKHGYMa1a1Cwv28E-vbs9wjG1faMxEGG67VKe8YrbKJea-zq31p-n-SwDxEgYcBaFhSoyAOtk-LQQh4YnbO4e3Mh1O3qhd1CUPoi~QB1~gR8sul5CK0VJQczSIV5ZAIetLpT6YzKJjTsyOlpvwM1Ndaf6IhiW6ocfSJj45JPk5h8YsmO05fa9p1P7DalJRXVD6AH0o6g__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA",
+    "as_of": 2025
+   },
+   {
+    "value": {
+     "name": "Water Villas with Jacuzzi",
+     "count": 10,
+     "size_sqm": 125,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://d7h9v39iheghu.cloudfront.net/previews/7837a234-9635-4da8-b132-476aacd9b4c1/26004904-089f-43ea-aa21-f3b9faafa77f/26004904-089f-43ea-aa21-f3b9faafa77f?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy83ODM3YTIzNC05NjM1LTRkYTgtYjEzMi00NzZhYWNkOWI0YzEqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjg0MDEwfX19XX0_&Signature=0NCrDHEtg~3Ag4tUAPQa6ilJ6cyZ~w4zVuMSD7cG~r-mqETwrHjP~ymbFvuB7vZlbnPnlWCA1ED5pRAzfLnrljg2GzmBKzehdZ5pgyEdg2DhUh1PdoH9P3mOCEtIvAjK8OJMABLlrsk9l-sKHGYMa1a1Cwv28E-vbs9wjG1faMxEGG67VKe8YrbKJea-zq31p-n-SwDxEgYcBaFhSoyAOtk-LQQh4YnbO4e3Mh1O3qhd1CUPoi~QB1~gR8sul5CK0VJQczSIV5ZAIetLpT6YzKJjTsyOlpvwM1Ndaf6IhiW6ocfSJj45JPk5h8YsmO05fa9p1P7DalJRXVD6AH0o6g__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA",
+    "as_of": 2025
+   },
+   {
+    "value": {
+     "name": "Water Villas with Pool",
+     "count": 8,
+     "size_sqm": 160,
+     "max_occupancy": null,
+     "pool": true,
+     "overwater": null
+    },
+    "source_url": "https://d7h9v39iheghu.cloudfront.net/previews/7837a234-9635-4da8-b132-476aacd9b4c1/26004904-089f-43ea-aa21-f3b9faafa77f/26004904-089f-43ea-aa21-f3b9faafa77f?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy83ODM3YTIzNC05NjM1LTRkYTgtYjEzMi00NzZhYWNkOWI0YzEqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjg0MDEwfX19XX0_&Signature=0NCrDHEtg~3Ag4tUAPQa6ilJ6cyZ~w4zVuMSD7cG~r-mqETwrHjP~ymbFvuB7vZlbnPnlWCA1ED5pRAzfLnrljg2GzmBKzehdZ5pgyEdg2DhUh1PdoH9P3mOCEtIvAjK8OJMABLlrsk9l-sKHGYMa1a1Cwv28E-vbs9wjG1faMxEGG67VKe8YrbKJea-zq31p-n-SwDxEgYcBaFhSoyAOtk-LQQh4YnbO4e3Mh1O3qhd1CUPoi~QB1~gR8sul5CK0VJQczSIV5ZAIetLpT6YzKJjTsyOlpvwM1Ndaf6IhiW6ocfSJj45JPk5h8YsmO05fa9p1P7DalJRXVD6AH0o6g__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA",
+    "as_of": 2025
+   },
+   {
+    "value": {
+     "name": "Two Bedroom Beach Residence with Pool",
+     "count": 1,
+     "size_sqm": 250,
+     "max_occupancy": null,
+     "pool": true,
+     "overwater": null
+    },
+    "source_url": "https://d7h9v39iheghu.cloudfront.net/previews/7837a234-9635-4da8-b132-476aacd9b4c1/26004904-089f-43ea-aa21-f3b9faafa77f/26004904-089f-43ea-aa21-f3b9faafa77f?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy83ODM3YTIzNC05NjM1LTRkYTgtYjEzMi00NzZhYWNkOWI0YzEqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjg0MDEwfX19XX0_&Signature=0NCrDHEtg~3Ag4tUAPQa6ilJ6cyZ~w4zVuMSD7cG~r-mqETwrHjP~ymbFvuB7vZlbnPnlWCA1ED5pRAzfLnrljg2GzmBKzehdZ5pgyEdg2DhUh1PdoH9P3mOCEtIvAjK8OJMABLlrsk9l-sKHGYMa1a1Cwv28E-vbs9wjG1faMxEGG67VKe8YrbKJea-zq31p-n-SwDxEgYcBaFhSoyAOtk-LQQh4YnbO4e3Mh1O3qhd1CUPoi~QB1~gR8sul5CK0VJQczSIV5ZAIetLpT6YzKJjTsyOlpvwM1Ndaf6IhiW6ocfSJj45JPk5h8YsmO05fa9p1P7DalJRXVD6AH0o6g__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA",
+    "as_of": 2025
+   },
+   {
+    "value": {
+     "name": "Sunset Beach Villa with Pool",
+     "count": 4,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": true,
+     "overwater": null
+    },
+    "source_url": "https://d7h9v39iheghu.cloudfront.net/previews/7837a234-9635-4da8-b132-476aacd9b4c1/8780c187-d9ed-4683-8880-d00487729569/90e4d75d-5655-4952-bec3-1a3b61887293?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy83ODM3YTIzNC05NjM1LTRkYTgtYjEzMi00NzZhYWNkOWI0YzEqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjg0MDEwfX19XX0_&Signature=0NCrDHEtg~3Ag4tUAPQa6ilJ6cyZ~w4zVuMSD7cG~r-mqETwrHjP~ymbFvuB7vZlbnPnlWCA1ED5pRAzfLnrljg2GzmBKzehdZ5pgyEdg2DhUh1PdoH9P3mOCEtIvAjK8OJMABLlrsk9l-sKHGYMa1a1Cwv28E-vbs9wjG1faMxEGG67VKe8YrbKJea-zq31p-n-SwDxEgYcBaFhSoyAOtk-LQQh4YnbO4e3Mh1O3qhd1CUPoi~QB1~gR8sul5CK0VJQczSIV5ZAIetLpT6YzKJjTsyOlpvwM1Ndaf6IhiW6ocfSJj45JPk5h8YsmO05fa9p1P7DalJRXVD6AH0o6g__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA",
+    "as_of": 2024
+   },
+   {
+    "value": {
+     "name": "Water Villas",
+     "count": 6,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://d7h9v39iheghu.cloudfront.net/previews/7837a234-9635-4da8-b132-476aacd9b4c1/8780c187-d9ed-4683-8880-d00487729569/90e4d75d-5655-4952-bec3-1a3b61887293?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy83ODM3YTIzNC05NjM1LTRkYTgtYjEzMi00NzZhYWNkOWI0YzEqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjg0MDEwfX19XX0_&Signature=0NCrDHEtg~3Ag4tUAPQa6ilJ6cyZ~w4zVuMSD7cG~r-mqETwrHjP~ymbFvuB7vZlbnPnlWCA1ED5pRAzfLnrljg2GzmBKzehdZ5pgyEdg2DhUh1PdoH9P3mOCEtIvAjK8OJMABLlrsk9l-sKHGYMa1a1Cwv28E-vbs9wjG1faMxEGG67VKe8YrbKJea-zq31p-n-SwDxEgYcBaFhSoyAOtk-LQQh4YnbO4e3Mh1O3qhd1CUPoi~QB1~gR8sul5CK0VJQczSIV5ZAIetLpT6YzKJjTsyOlpvwM1Ndaf6IhiW6ocfSJj45JPk5h8YsmO05fa9p1P7DalJRXVD6AH0o6g__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA",
+    "as_of": 2024
+   },
+   {
+    "value": {
+     "name": "Water Villas with Pool",
+     "count": 3,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": true,
+     "overwater": null
+    },
+    "source_url": "https://d7h9v39iheghu.cloudfront.net/previews/7837a234-9635-4da8-b132-476aacd9b4c1/8780c187-d9ed-4683-8880-d00487729569/90e4d75d-5655-4952-bec3-1a3b61887293?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy83ODM3YTIzNC05NjM1LTRkYTgtYjEzMi00NzZhYWNkOWI0YzEqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjg0MDEwfX19XX0_&Signature=0NCrDHEtg~3Ag4tUAPQa6ilJ6cyZ~w4zVuMSD7cG~r-mqETwrHjP~ymbFvuB7vZlbnPnlWCA1ED5pRAzfLnrljg2GzmBKzehdZ5pgyEdg2DhUh1PdoH9P3mOCEtIvAjK8OJMABLlrsk9l-sKHGYMa1a1Cwv28E-vbs9wjG1faMxEGG67VKe8YrbKJea-zq31p-n-SwDxEgYcBaFhSoyAOtk-LQQh4YnbO4e3Mh1O3qhd1CUPoi~QB1~gR8sul5CK0VJQczSIV5ZAIetLpT6YzKJjTsyOlpvwM1Ndaf6IhiW6ocfSJj45JPk5h8YsmO05fa9p1P7DalJRXVD6AH0o6g__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA",
+    "as_of": 2024
+   },
+   {
+    "value": {
+     "name": "Bedroom Beach Residence with Pool",
+     "count": 2,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": true,
+     "overwater": null
+    },
+    "source_url": "https://d7h9v39iheghu.cloudfront.net/previews/7837a234-9635-4da8-b132-476aacd9b4c1/8780c187-d9ed-4683-8880-d00487729569/90e4d75d-5655-4952-bec3-1a3b61887293?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy83ODM3YTIzNC05NjM1LTRkYTgtYjEzMi00NzZhYWNkOWI0YzEqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjg0MDEwfX19XX0_&Signature=0NCrDHEtg~3Ag4tUAPQa6ilJ6cyZ~w4zVuMSD7cG~r-mqETwrHjP~ymbFvuB7vZlbnPnlWCA1ED5pRAzfLnrljg2GzmBKzehdZ5pgyEdg2DhUh1PdoH9P3mOCEtIvAjK8OJMABLlrsk9l-sKHGYMa1a1Cwv28E-vbs9wjG1faMxEGG67VKe8YrbKJea-zq31p-n-SwDxEgYcBaFhSoyAOtk-LQQh4YnbO4e3Mh1O3qhd1CUPoi~QB1~gR8sul5CK0VJQczSIV5ZAIetLpT6YzKJjTsyOlpvwM1Ndaf6IhiW6ocfSJj45JPk5h8YsmO05fa9p1P7DalJRXVD6AH0o6g__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA",
+    "as_of": 2024
    },
    {
     "value": {
@@ -711,29 +1256,137 @@
    },
    {
     "value": {
-     "name": "Dining",
+     "name": "Soul Kitchen",
      "cuisine": null,
      "type": "restaurant"
     },
-    "source_url": "https://www.neoscapesmaldives.com/resort/nova-maldives/",
+    "source_url": "https://nova-maldives.com/",
     "as_of": "2026-10-04"
    },
    {
     "value": {
-     "name": "Dining",
+     "name": "Soul Kitchen",
      "cuisine": null,
      "type": "restaurant"
     },
-    "source_url": "https://www.neoscapesmaldives.com/resort/nova-maldives/",
+    "source_url": "https://nova-maldives.com/blog/post/where-can-you-eat-in-the-maldives/",
     "as_of": "2026-10-04"
    },
    {
     "value": {
-     "name": "Soul Kitchen - All-day Dining",
+     "name": "Soul Kitchen",
      "cuisine": null,
      "type": "restaurant"
     },
-    "source_url": "https://www.neoscapesmaldives.com/resort/nova-maldives/",
+    "source_url": "https://nova-maldives.com/blog/post/dive-into-the-maldives-best-all-inclusive-plan/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Soul Kitchen,",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://nova-maldives.com/blog/post/celebrating-island-heritage-through-veganuary-and-dry-january/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Soul Kitchen",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://nova-maldives.com/blog/post/a-fresh-start-for-your-soul-at-nova-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Soul Kitchen",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://nova-maldives.com/blog/post/what-to-expect-when-you-travel-to-the-maldives-in-may/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Soul Kitchen",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://nova-maldives.com/blog/post/your-vegan-honeymoon-at-nova-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Soul Kitchen",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://nova-maldives.com/blog/post/what-are-the-dos-and-donts-of-visiting-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Soul Kitchen",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://nova-maldives.com/blog/post/indulge-your-senses-dining-in-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Mizu – Overwater Teppanyaki",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://nova-maldives.com/blog/post/indulge-your-senses-dining-in-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Soul Kitchen",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://nova-maldives.com/blog/post/veganuary-dry-january-in-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Soul Kitchen",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://nova-maldives.com/blog/post/immersive-maldivian-cultural-experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Soul Kitchen",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://nova-maldives.com/blog/post/find-your-rhythm-how-long-you-should-spend-in-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Soul Kitchen",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://nova-maldives.com/blog/post/the-cultural-side-of-a-maldivian-holiday/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Soul Kitchen",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://nova-maldives.com/blog/post/a-magical-maldivian-night-at-nova-maldives/",
     "as_of": "2026-10-04"
    },
    {
@@ -771,6 +1424,15 @@
     },
     "source_url": "https://www.neoscapesmaldives.com/resort/nova-maldives/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Soul Kitchen",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.airtours.de/nova-maldives/",
+    "as_of": "2026-10-04"
    }
   ],
   "all_inclusive_details": [
@@ -780,8 +1442,68 @@
     "as_of": 2022
    },
    {
+    "value": "all-inclusive beverage menu.",
+    "source_url": "https://d7h9v39iheghu.cloudfront.net/previews/7837a234-9635-4da8-b132-476aacd9b4c1/673003fa-d33f-488f-92a9-e8eee12edbe8/96297ecf-6ff1-4aa7-8710-a8593470da83?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy83ODM3YTIzNC05NjM1LTRkYTgtYjEzMi00NzZhYWNkOWI0YzEqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjg0MDEwfX19XX0_&Signature=0NCrDHEtg~3Ag4tUAPQa6ilJ6cyZ~w4zVuMSD7cG~r-mqETwrHjP~ymbFvuB7vZlbnPnlWCA1ED5pRAzfLnrljg2GzmBKzehdZ5pgyEdg2DhUh1PdoH9P3mOCEtIvAjK8OJMABLlrsk9l-sKHGYMa1a1Cwv28E-vbs9wjG1faMxEGG67VKe8YrbKJea-zq31p-n-SwDxEgYcBaFhSoyAOtk-LQQh4YnbO4e3Mh1O3qhd1CUPoi~QB1~gR8sul5CK0VJQczSIV5ZAIetLpT6YzKJjTsyOlpvwM1Ndaf6IhiW6ocfSJj45JPk5h8YsmO05fa9p1P7DalJRXVD6AH0o6g__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA",
+    "as_of": 2026
+   },
+   {
+    "value": "All Inclusive .",
+    "source_url": "https://d7h9v39iheghu.cloudfront.net/previews/7837a234-9635-4da8-b132-476aacd9b4c1/77424a46-3c12-4c78-9265-793797c79507/77424a46-3c12-4c78-9265-793797c79507?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy83ODM3YTIzNC05NjM1LTRkYTgtYjEzMi00NzZhYWNkOWI0YzEqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjg0MDEwfX19XX0_&Signature=0NCrDHEtg~3Ag4tUAPQa6ilJ6cyZ~w4zVuMSD7cG~r-mqETwrHjP~ymbFvuB7vZlbnPnlWCA1ED5pRAzfLnrljg2GzmBKzehdZ5pgyEdg2DhUh1PdoH9P3mOCEtIvAjK8OJMABLlrsk9l-sKHGYMa1a1Cwv28E-vbs9wjG1faMxEGG67VKe8YrbKJea-zq31p-n-SwDxEgYcBaFhSoyAOtk-LQQh4YnbO4e3Mh1O3qhd1CUPoi~QB1~gR8sul5CK0VJQczSIV5ZAIetLpT6YzKJjTsyOlpvwM1Ndaf6IhiW6ocfSJj45JPk5h8YsmO05fa9p1P7DalJRXVD6AH0o6g__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA",
+    "as_of": 2025
+   },
+   {
+    "value": "All-Inclusive Community Concept, a laidback place that sparks joy and is designed for real connection.",
+    "source_url": "https://nova-maldives.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "all-inclusive escapes to boutique hideaways, there’s something for everyone.",
+    "source_url": "https://nova-maldives.com/blog/post/how-to-plan-the-perfect-maldives-vacation-a-complete-guide/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "all-inclusive perks to make your stay feel effortless.",
+    "source_url": "https://nova-maldives.com/offers/advance-purchase/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "all-inclusive community concept, a place with a soul that sparks joy and is designed for real connection.",
+    "source_url": "https://nova-maldives.com/blog/post/dive-into-the-maldives-best-all-inclusive-plan/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "all-inclusive community where plant-based dining is thoughtful, colourful and crafted to lift your spirit.",
+    "source_url": "https://nova-maldives.com/blog/post/your-vegan-honeymoon-at-nova-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "all-inclusive escape like no other.",
+    "source_url": "https://nova-maldives.com/blog/post/indulge-in-all-inclusive-bliss-at-nova-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "All Inclusive plan.",
+    "source_url": "https://nova-maldives.com/meal-plans/",
+    "as_of": "2026-10-04"
+   },
+   {
     "value": "All-Inclusive Community Concept, a laidback place with a soul that sparks joy and is designed for real connection.",
     "source_url": "https://www.neoscapesmaldives.com/resort/nova-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "All Inclusive Plan option.",
+    "source_url": "https://www.mymaldives.com/resort-guide/vakarufalhi-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "all-inclusive concept that extends beyond the meals and services, welcoming everyone to enjoy what Nova offers.",
+    "source_url": "https://www.maldivestourism.net/blog/nova-maldives-is-making-a-difference-on-world-ocean-day/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "All-Inclusive-Insel, auf der die Tage darauf ausgerichtet sind, sich gut zu fühlen, mit den Menschen um dich herum in Verbindung zu treten und die Malediven auf eine wunderbar entspannte Weise zu genießen.",
+    "source_url": "https://www.airtours.de/nova-maldives/",
     "as_of": "2026-10-04"
    }
   ],
@@ -792,8 +1514,93 @@
     "as_of": 2022
    },
    {
+    "value": "Eskape Spa",
+    "source_url": "https://d7h9v39iheghu.cloudfront.net/previews/7837a234-9635-4da8-b132-476aacd9b4c1/673003fa-d33f-488f-92a9-e8eee12edbe8/96297ecf-6ff1-4aa7-8710-a8593470da83?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy83ODM3YTIzNC05NjM1LTRkYTgtYjEzMi00NzZhYWNkOWI0YzEqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjg0MDEwfX19XX0_&Signature=0NCrDHEtg~3Ag4tUAPQa6ilJ6cyZ~w4zVuMSD7cG~r-mqETwrHjP~ymbFvuB7vZlbnPnlWCA1ED5pRAzfLnrljg2GzmBKzehdZ5pgyEdg2DhUh1PdoH9P3mOCEtIvAjK8OJMABLlrsk9l-sKHGYMa1a1Cwv28E-vbs9wjG1faMxEGG67VKe8YrbKJea-zq31p-n-SwDxEgYcBaFhSoyAOtk-LQQh4YnbO4e3Mh1O3qhd1CUPoi~QB1~gR8sul5CK0VJQczSIV5ZAIetLpT6YzKJjTsyOlpvwM1Ndaf6IhiW6ocfSJj45JPk5h8YsmO05fa9p1P7DalJRXVD6AH0o6g__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA",
+    "as_of": 2026
+   },
+   {
+    "value": "Eskape Spa",
+    "source_url": "https://d7h9v39iheghu.cloudfront.net/previews/7837a234-9635-4da8-b132-476aacd9b4c1/3f5ac883-372b-4221-8214-04fc6f0a4991/3f5ac883-372b-4221-8214-04fc6f0a4991?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy83ODM3YTIzNC05NjM1LTRkYTgtYjEzMi00NzZhYWNkOWI0YzEqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjg0MDEwfX19XX0_&Signature=0NCrDHEtg~3Ag4tUAPQa6ilJ6cyZ~w4zVuMSD7cG~r-mqETwrHjP~ymbFvuB7vZlbnPnlWCA1ED5pRAzfLnrljg2GzmBKzehdZ5pgyEdg2DhUh1PdoH9P3mOCEtIvAjK8OJMABLlrsk9l-sKHGYMa1a1Cwv28E-vbs9wjG1faMxEGG67VKe8YrbKJea-zq31p-n-SwDxEgYcBaFhSoyAOtk-LQQh4YnbO4e3Mh1O3qhd1CUPoi~QB1~gR8sul5CK0VJQczSIV5ZAIetLpT6YzKJjTsyOlpvwM1Ndaf6IhiW6ocfSJj45JPk5h8YsmO05fa9p1P7DalJRXVD6AH0o6g__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA",
+    "as_of": 2025
+   },
+   {
+    "value": "Our\nEskape Spa",
+    "source_url": "https://nova-maldives.com/blog/post/when-is-the-best-time-to-visit-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Eskape Spa",
+    "source_url": "https://nova-maldives.com/blog/post/must-try-spa-treatments-at-nova-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Eskape Spa",
+    "source_url": "https://nova-maldives.com/blog/post/the-ultimate-romantic-escape-in-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Eskape Spa",
+    "source_url": "https://nova-maldives.com/blog/post/where-can-you-eat-in-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spirit\nOur\nEskape Spa",
+    "source_url": "https://nova-maldives.com/blog/post/why-the-maldives-is-a-dream-destination/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Eskape Spa",
+    "source_url": "https://nova-maldives.com/blog/post/a-fresh-start-for-your-soul-at-nova-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Eskape Spa",
+    "source_url": "https://nova-maldives.com/blog/post/embark-on-a-romantic-odyssey-this-valentines-day/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Eskape Spa",
+    "source_url": "https://nova-maldives.com/blog/post/how-to-get-to-nova-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "At\nEskape Spa",
+    "source_url": "https://nova-maldives.com/blog/post/what-are-the-dos-and-donts-of-visiting-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Eskape Spa",
+    "source_url": "https://nova-maldives.com/blog/post/top-5-bucket-list-experiences-at-nova-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Eskape Spa",
+    "source_url": "https://nova-maldives.com/blog/post/honeymoon-in-the-maldives-a-soulful-romance/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Eskape Spa",
+    "source_url": "https://nova-maldives.com/blog/post/find-your-rhythm-how-long-you-should-spend-in-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Eskape Spa",
+    "source_url": "https://nova-maldives.com/blog/post/a-guide-to-soulful-wellness-retreats/",
+    "as_of": "2026-10-04"
+   },
+   {
     "value": "Facilities\nEskape Spa",
     "source_url": "https://www.neoscapesmaldives.com/resort/nova-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.mymaldives.com/resort-guide/vakarufalhi-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Eskape Spa",
+    "source_url": "https://www.airtours.de/nova-maldives/",
     "as_of": "2026-10-04"
    }
   ],
@@ -804,8 +1611,73 @@
     "as_of": 2022
    },
    {
+    "value": "house reef and outer atoll channel, where you can encounter an array of colourful aquatic creatures, including the fascinating whale sharks and manta rays",
+    "source_url": "https://nova-maldives.com/things-to-do/aquaholics/diving/dive-site/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "House Reef with Fluoro-Snorkelling",
+    "source_url": "https://nova-maldives.com/blog/post/when-can-you-see-bioluminescence-in-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef and outer atoll channel, where you can encounter an array of colourful aquatic creatures, including the fascinating whale sharks and manta rays",
+    "source_url": "https://nova-maldives.com/divesites/vilamendhoo-thila/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef is an inner atoll spectacle",
+    "source_url": "https://nova-maldives.com/blog/post/diving-into-the-depths-of-south-ari-atoll-a-scuba-divers-paradise/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef, enhancing the ecosystem and supporting future marine habitats",
+    "source_url": "https://nova-maldives.com/blog/post/the-floating-nursery-at-nova-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef",
+    "source_url": "https://nova-maldives.com/blog/post/soulful-noctourism-adventures-in-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef in the inner atoll, this shipwreck teems with life",
+    "source_url": "https://nova-maldives.com/things-to-do/aquaholics/diving/best-diving-sites-maldives-nova-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef that brings so much life to our island home",
+    "source_url": "https://nova-maldives.com/eventrecaps/coral-conservation-2026/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef with guided dives, where every breath deepens your connection to the sea and witness South Ari’s marine wonders",
+    "source_url": "https://nova-maldives.com/offers/wellness-scuba-diving/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef, minding their own business",
+    "source_url": "https://nova-maldives.com/blog/post/are-maldives-sharks-dangerous/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef, where you can swim alongside manta rays, sea turtles, and colourful schools of fish",
+    "source_url": "https://nova-maldives.com/blog/post/best-time-to-visit-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
     "value": "house reef brimming with colourful fishes and thriving corals",
     "source_url": "https://www.neoscapesmaldives.com/resort/nova-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef in the crystal clear lagoon, scuba Dive with ProDivers and much more! Do nothing at all or join the water sports, activities, excursions and entertainment prog",
+    "source_url": "https://www.mymaldives.com/resort-guide/vakarufalhi-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef clean-up around the natural island to collect any plastic and debris for recycling",
+    "source_url": "https://www.maldivestourism.net/blog/nova-maldives-is-making-a-difference-on-world-ocean-day/",
     "as_of": "2026-10-04"
    }
   ],
@@ -819,6 +1691,501 @@
     "value": "manta",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Factsheet-Nova-Maldives-NEO.pdf",
     "as_of": 2022
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://d7h9v39iheghu.cloudfront.net/previews/7837a234-9635-4da8-b132-476aacd9b4c1/673003fa-d33f-488f-92a9-e8eee12edbe8/96297ecf-6ff1-4aa7-8710-a8593470da83?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy83ODM3YTIzNC05NjM1LTRkYTgtYjEzMi00NzZhYWNkOWI0YzEqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjg0MDEwfX19XX0_&Signature=0NCrDHEtg~3Ag4tUAPQa6ilJ6cyZ~w4zVuMSD7cG~r-mqETwrHjP~ymbFvuB7vZlbnPnlWCA1ED5pRAzfLnrljg2GzmBKzehdZ5pgyEdg2DhUh1PdoH9P3mOCEtIvAjK8OJMABLlrsk9l-sKHGYMa1a1Cwv28E-vbs9wjG1faMxEGG67VKe8YrbKJea-zq31p-n-SwDxEgYcBaFhSoyAOtk-LQQh4YnbO4e3Mh1O3qhd1CUPoi~QB1~gR8sul5CK0VJQczSIV5ZAIetLpT6YzKJjTsyOlpvwM1Ndaf6IhiW6ocfSJj45JPk5h8YsmO05fa9p1P7DalJRXVD6AH0o6g__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA",
+    "as_of": 2026
+   },
+   {
+    "value": "stand-up paddle",
+    "source_url": "https://d7h9v39iheghu.cloudfront.net/previews/7837a234-9635-4da8-b132-476aacd9b4c1/673003fa-d33f-488f-92a9-e8eee12edbe8/96297ecf-6ff1-4aa7-8710-a8593470da83?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy83ODM3YTIzNC05NjM1LTRkYTgtYjEzMi00NzZhYWNkOWI0YzEqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjg0MDEwfX19XX0_&Signature=0NCrDHEtg~3Ag4tUAPQa6ilJ6cyZ~w4zVuMSD7cG~r-mqETwrHjP~ymbFvuB7vZlbnPnlWCA1ED5pRAzfLnrljg2GzmBKzehdZ5pgyEdg2DhUh1PdoH9P3mOCEtIvAjK8OJMABLlrsk9l-sKHGYMa1a1Cwv28E-vbs9wjG1faMxEGG67VKe8YrbKJea-zq31p-n-SwDxEgYcBaFhSoyAOtk-LQQh4YnbO4e3Mh1O3qhd1CUPoi~QB1~gR8sul5CK0VJQczSIV5ZAIetLpT6YzKJjTsyOlpvwM1Ndaf6IhiW6ocfSJj45JPk5h8YsmO05fa9p1P7DalJRXVD6AH0o6g__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA",
+    "as_of": 2026
+   },
+   {
+    "value": "paddleboard",
+    "source_url": "https://d7h9v39iheghu.cloudfront.net/previews/7837a234-9635-4da8-b132-476aacd9b4c1/673003fa-d33f-488f-92a9-e8eee12edbe8/96297ecf-6ff1-4aa7-8710-a8593470da83?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy83ODM3YTIzNC05NjM1LTRkYTgtYjEzMi00NzZhYWNkOWI0YzEqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjg0MDEwfX19XX0_&Signature=0NCrDHEtg~3Ag4tUAPQa6ilJ6cyZ~w4zVuMSD7cG~r-mqETwrHjP~ymbFvuB7vZlbnPnlWCA1ED5pRAzfLnrljg2GzmBKzehdZ5pgyEdg2DhUh1PdoH9P3mOCEtIvAjK8OJMABLlrsk9l-sKHGYMa1a1Cwv28E-vbs9wjG1faMxEGG67VKe8YrbKJea-zq31p-n-SwDxEgYcBaFhSoyAOtk-LQQh4YnbO4e3Mh1O3qhd1CUPoi~QB1~gR8sul5CK0VJQczSIV5ZAIetLpT6YzKJjTsyOlpvwM1Ndaf6IhiW6ocfSJj45JPk5h8YsmO05fa9p1P7DalJRXVD6AH0o6g__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA",
+    "as_of": 2026
+   },
+   {
+    "value": "jet ski",
+    "source_url": "https://d7h9v39iheghu.cloudfront.net/previews/7837a234-9635-4da8-b132-476aacd9b4c1/673003fa-d33f-488f-92a9-e8eee12edbe8/96297ecf-6ff1-4aa7-8710-a8593470da83?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy83ODM3YTIzNC05NjM1LTRkYTgtYjEzMi00NzZhYWNkOWI0YzEqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjg0MDEwfX19XX0_&Signature=0NCrDHEtg~3Ag4tUAPQa6ilJ6cyZ~w4zVuMSD7cG~r-mqETwrHjP~ymbFvuB7vZlbnPnlWCA1ED5pRAzfLnrljg2GzmBKzehdZ5pgyEdg2DhUh1PdoH9P3mOCEtIvAjK8OJMABLlrsk9l-sKHGYMa1a1Cwv28E-vbs9wjG1faMxEGG67VKe8YrbKJea-zq31p-n-SwDxEgYcBaFhSoyAOtk-LQQh4YnbO4e3Mh1O3qhd1CUPoi~QB1~gR8sul5CK0VJQczSIV5ZAIetLpT6YzKJjTsyOlpvwM1Ndaf6IhiW6ocfSJj45JPk5h8YsmO05fa9p1P7DalJRXVD6AH0o6g__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA",
+    "as_of": 2026
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://d7h9v39iheghu.cloudfront.net/previews/7837a234-9635-4da8-b132-476aacd9b4c1/3f5ac883-372b-4221-8214-04fc6f0a4991/3f5ac883-372b-4221-8214-04fc6f0a4991?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy83ODM3YTIzNC05NjM1LTRkYTgtYjEzMi00NzZhYWNkOWI0YzEqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjg0MDEwfX19XX0_&Signature=0NCrDHEtg~3Ag4tUAPQa6ilJ6cyZ~w4zVuMSD7cG~r-mqETwrHjP~ymbFvuB7vZlbnPnlWCA1ED5pRAzfLnrljg2GzmBKzehdZ5pgyEdg2DhUh1PdoH9P3mOCEtIvAjK8OJMABLlrsk9l-sKHGYMa1a1Cwv28E-vbs9wjG1faMxEGG67VKe8YrbKJea-zq31p-n-SwDxEgYcBaFhSoyAOtk-LQQh4YnbO4e3Mh1O3qhd1CUPoi~QB1~gR8sul5CK0VJQczSIV5ZAIetLpT6YzKJjTsyOlpvwM1Ndaf6IhiW6ocfSJj45JPk5h8YsmO05fa9p1P7DalJRXVD6AH0o6g__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA",
+    "as_of": 2025
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://nova-maldives.com/wp-content/uploads/2026/06/Nova-Soulful-tales-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://d7h9v39iheghu.cloudfront.net/previews/7837a234-9635-4da8-b132-476aacd9b4c1/6fa34e59-2ded-4eb9-8109-5ecfe50c251e/6fa34e59-2ded-4eb9-8109-5ecfe50c251e?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy83ODM3YTIzNC05NjM1LTRkYTgtYjEzMi00NzZhYWNkOWI0YzEqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjg0MDEwfX19XX0_&Signature=0NCrDHEtg~3Ag4tUAPQa6ilJ6cyZ~w4zVuMSD7cG~r-mqETwrHjP~ymbFvuB7vZlbnPnlWCA1ED5pRAzfLnrljg2GzmBKzehdZ5pgyEdg2DhUh1PdoH9P3mOCEtIvAjK8OJMABLlrsk9l-sKHGYMa1a1Cwv28E-vbs9wjG1faMxEGG67VKe8YrbKJea-zq31p-n-SwDxEgYcBaFhSoyAOtk-LQQh4YnbO4e3Mh1O3qhd1CUPoi~QB1~gR8sul5CK0VJQczSIV5ZAIetLpT6YzKJjTsyOlpvwM1Ndaf6IhiW6ocfSJj45JPk5h8YsmO05fa9p1P7DalJRXVD6AH0o6g__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA",
+    "as_of": 2026
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://d7h9v39iheghu.cloudfront.net/previews/7837a234-9635-4da8-b132-476aacd9b4c1/6fa34e59-2ded-4eb9-8109-5ecfe50c251e/6fa34e59-2ded-4eb9-8109-5ecfe50c251e?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy83ODM3YTIzNC05NjM1LTRkYTgtYjEzMi00NzZhYWNkOWI0YzEqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjg0MDEwfX19XX0_&Signature=0NCrDHEtg~3Ag4tUAPQa6ilJ6cyZ~w4zVuMSD7cG~r-mqETwrHjP~ymbFvuB7vZlbnPnlWCA1ED5pRAzfLnrljg2GzmBKzehdZ5pgyEdg2DhUh1PdoH9P3mOCEtIvAjK8OJMABLlrsk9l-sKHGYMa1a1Cwv28E-vbs9wjG1faMxEGG67VKe8YrbKJea-zq31p-n-SwDxEgYcBaFhSoyAOtk-LQQh4YnbO4e3Mh1O3qhd1CUPoi~QB1~gR8sul5CK0VJQczSIV5ZAIetLpT6YzKJjTsyOlpvwM1Ndaf6IhiW6ocfSJj45JPk5h8YsmO05fa9p1P7DalJRXVD6AH0o6g__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA",
+    "as_of": 2026
+   },
+   {
+    "value": "catamaran",
+    "source_url": "https://d7h9v39iheghu.cloudfront.net/previews/7837a234-9635-4da8-b132-476aacd9b4c1/6fa34e59-2ded-4eb9-8109-5ecfe50c251e/6fa34e59-2ded-4eb9-8109-5ecfe50c251e?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy83ODM3YTIzNC05NjM1LTRkYTgtYjEzMi00NzZhYWNkOWI0YzEqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjg0MDEwfX19XX0_&Signature=0NCrDHEtg~3Ag4tUAPQa6ilJ6cyZ~w4zVuMSD7cG~r-mqETwrHjP~ymbFvuB7vZlbnPnlWCA1ED5pRAzfLnrljg2GzmBKzehdZ5pgyEdg2DhUh1PdoH9P3mOCEtIvAjK8OJMABLlrsk9l-sKHGYMa1a1Cwv28E-vbs9wjG1faMxEGG67VKe8YrbKJea-zq31p-n-SwDxEgYcBaFhSoyAOtk-LQQh4YnbO4e3Mh1O3qhd1CUPoi~QB1~gR8sul5CK0VJQczSIV5ZAIetLpT6YzKJjTsyOlpvwM1Ndaf6IhiW6ocfSJj45JPk5h8YsmO05fa9p1P7DalJRXVD6AH0o6g__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA",
+    "as_of": 2026
+   },
+   {
+    "value": "jet ski",
+    "source_url": "https://d7h9v39iheghu.cloudfront.net/previews/7837a234-9635-4da8-b132-476aacd9b4c1/6fa34e59-2ded-4eb9-8109-5ecfe50c251e/6fa34e59-2ded-4eb9-8109-5ecfe50c251e?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy83ODM3YTIzNC05NjM1LTRkYTgtYjEzMi00NzZhYWNkOWI0YzEqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjg0MDEwfX19XX0_&Signature=0NCrDHEtg~3Ag4tUAPQa6ilJ6cyZ~w4zVuMSD7cG~r-mqETwrHjP~ymbFvuB7vZlbnPnlWCA1ED5pRAzfLnrljg2GzmBKzehdZ5pgyEdg2DhUh1PdoH9P3mOCEtIvAjK8OJMABLlrsk9l-sKHGYMa1a1Cwv28E-vbs9wjG1faMxEGG67VKe8YrbKJea-zq31p-n-SwDxEgYcBaFhSoyAOtk-LQQh4YnbO4e3Mh1O3qhd1CUPoi~QB1~gR8sul5CK0VJQczSIV5ZAIetLpT6YzKJjTsyOlpvwM1Ndaf6IhiW6ocfSJj45JPk5h8YsmO05fa9p1P7DalJRXVD6AH0o6g__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA",
+    "as_of": 2026
+   },
+   {
+    "value": "parasailing",
+    "source_url": "https://d7h9v39iheghu.cloudfront.net/previews/7837a234-9635-4da8-b132-476aacd9b4c1/6fa34e59-2ded-4eb9-8109-5ecfe50c251e/6fa34e59-2ded-4eb9-8109-5ecfe50c251e?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy83ODM3YTIzNC05NjM1LTRkYTgtYjEzMi00NzZhYWNkOWI0YzEqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjg0MDEwfX19XX0_&Signature=0NCrDHEtg~3Ag4tUAPQa6ilJ6cyZ~w4zVuMSD7cG~r-mqETwrHjP~ymbFvuB7vZlbnPnlWCA1ED5pRAzfLnrljg2GzmBKzehdZ5pgyEdg2DhUh1PdoH9P3mOCEtIvAjK8OJMABLlrsk9l-sKHGYMa1a1Cwv28E-vbs9wjG1faMxEGG67VKe8YrbKJea-zq31p-n-SwDxEgYcBaFhSoyAOtk-LQQh4YnbO4e3Mh1O3qhd1CUPoi~QB1~gR8sul5CK0VJQczSIV5ZAIetLpT6YzKJjTsyOlpvwM1Ndaf6IhiW6ocfSJj45JPk5h8YsmO05fa9p1P7DalJRXVD6AH0o6g__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA",
+    "as_of": 2026
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://d7h9v39iheghu.cloudfront.net/previews/7837a234-9635-4da8-b132-476aacd9b4c1/6fa34e59-2ded-4eb9-8109-5ecfe50c251e/6fa34e59-2ded-4eb9-8109-5ecfe50c251e?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy83ODM3YTIzNC05NjM1LTRkYTgtYjEzMi00NzZhYWNkOWI0YzEqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjg0MDEwfX19XX0_&Signature=0NCrDHEtg~3Ag4tUAPQa6ilJ6cyZ~w4zVuMSD7cG~r-mqETwrHjP~ymbFvuB7vZlbnPnlWCA1ED5pRAzfLnrljg2GzmBKzehdZ5pgyEdg2DhUh1PdoH9P3mOCEtIvAjK8OJMABLlrsk9l-sKHGYMa1a1Cwv28E-vbs9wjG1faMxEGG67VKe8YrbKJea-zq31p-n-SwDxEgYcBaFhSoyAOtk-LQQh4YnbO4e3Mh1O3qhd1CUPoi~QB1~gR8sul5CK0VJQczSIV5ZAIetLpT6YzKJjTsyOlpvwM1Ndaf6IhiW6ocfSJj45JPk5h8YsmO05fa9p1P7DalJRXVD6AH0o6g__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA",
+    "as_of": 2026
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://d7h9v39iheghu.cloudfront.net/previews/7837a234-9635-4da8-b132-476aacd9b4c1/6fa34e59-2ded-4eb9-8109-5ecfe50c251e/6fa34e59-2ded-4eb9-8109-5ecfe50c251e?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy83ODM3YTIzNC05NjM1LTRkYTgtYjEzMi00NzZhYWNkOWI0YzEqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjg0MDEwfX19XX0_&Signature=0NCrDHEtg~3Ag4tUAPQa6ilJ6cyZ~w4zVuMSD7cG~r-mqETwrHjP~ymbFvuB7vZlbnPnlWCA1ED5pRAzfLnrljg2GzmBKzehdZ5pgyEdg2DhUh1PdoH9P3mOCEtIvAjK8OJMABLlrsk9l-sKHGYMa1a1Cwv28E-vbs9wjG1faMxEGG67VKe8YrbKJea-zq31p-n-SwDxEgYcBaFhSoyAOtk-LQQh4YnbO4e3Mh1O3qhd1CUPoi~QB1~gR8sul5CK0VJQczSIV5ZAIetLpT6YzKJjTsyOlpvwM1Ndaf6IhiW6ocfSJj45JPk5h8YsmO05fa9p1P7DalJRXVD6AH0o6g__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA",
+    "as_of": 2026
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://d7h9v39iheghu.cloudfront.net/previews/7837a234-9635-4da8-b132-476aacd9b4c1/6fa34e59-2ded-4eb9-8109-5ecfe50c251e/6fa34e59-2ded-4eb9-8109-5ecfe50c251e?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy83ODM3YTIzNC05NjM1LTRkYTgtYjEzMi00NzZhYWNkOWI0YzEqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjg0MDEwfX19XX0_&Signature=0NCrDHEtg~3Ag4tUAPQa6ilJ6cyZ~w4zVuMSD7cG~r-mqETwrHjP~ymbFvuB7vZlbnPnlWCA1ED5pRAzfLnrljg2GzmBKzehdZ5pgyEdg2DhUh1PdoH9P3mOCEtIvAjK8OJMABLlrsk9l-sKHGYMa1a1Cwv28E-vbs9wjG1faMxEGG67VKe8YrbKJea-zq31p-n-SwDxEgYcBaFhSoyAOtk-LQQh4YnbO4e3Mh1O3qhd1CUPoi~QB1~gR8sul5CK0VJQczSIV5ZAIetLpT6YzKJjTsyOlpvwM1Ndaf6IhiW6ocfSJj45JPk5h8YsmO05fa9p1P7DalJRXVD6AH0o6g__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA",
+    "as_of": 2026
+   },
+   {
+    "value": "manta",
+    "source_url": "https://d7h9v39iheghu.cloudfront.net/previews/7837a234-9635-4da8-b132-476aacd9b4c1/6fa34e59-2ded-4eb9-8109-5ecfe50c251e/6fa34e59-2ded-4eb9-8109-5ecfe50c251e?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy83ODM3YTIzNC05NjM1LTRkYTgtYjEzMi00NzZhYWNkOWI0YzEqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjg0MDEwfX19XX0_&Signature=0NCrDHEtg~3Ag4tUAPQa6ilJ6cyZ~w4zVuMSD7cG~r-mqETwrHjP~ymbFvuB7vZlbnPnlWCA1ED5pRAzfLnrljg2GzmBKzehdZ5pgyEdg2DhUh1PdoH9P3mOCEtIvAjK8OJMABLlrsk9l-sKHGYMa1a1Cwv28E-vbs9wjG1faMxEGG67VKe8YrbKJea-zq31p-n-SwDxEgYcBaFhSoyAOtk-LQQh4YnbO4e3Mh1O3qhd1CUPoi~QB1~gR8sul5CK0VJQczSIV5ZAIetLpT6YzKJjTsyOlpvwM1Ndaf6IhiW6ocfSJj45JPk5h8YsmO05fa9p1P7DalJRXVD6AH0o6g__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA",
+    "as_of": 2026
+   },
+   {
+    "value": "sailing",
+    "source_url": "https://d7h9v39iheghu.cloudfront.net/previews/7837a234-9635-4da8-b132-476aacd9b4c1/6fa34e59-2ded-4eb9-8109-5ecfe50c251e/6fa34e59-2ded-4eb9-8109-5ecfe50c251e?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy83ODM3YTIzNC05NjM1LTRkYTgtYjEzMi00NzZhYWNkOWI0YzEqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjg0MDEwfX19XX0_&Signature=0NCrDHEtg~3Ag4tUAPQa6ilJ6cyZ~w4zVuMSD7cG~r-mqETwrHjP~ymbFvuB7vZlbnPnlWCA1ED5pRAzfLnrljg2GzmBKzehdZ5pgyEdg2DhUh1PdoH9P3mOCEtIvAjK8OJMABLlrsk9l-sKHGYMa1a1Cwv28E-vbs9wjG1faMxEGG67VKe8YrbKJea-zq31p-n-SwDxEgYcBaFhSoyAOtk-LQQh4YnbO4e3Mh1O3qhd1CUPoi~QB1~gR8sul5CK0VJQczSIV5ZAIetLpT6YzKJjTsyOlpvwM1Ndaf6IhiW6ocfSJj45JPk5h8YsmO05fa9p1P7DalJRXVD6AH0o6g__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA",
+    "as_of": 2026
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://d7h9v39iheghu.cloudfront.net/previews/7837a234-9635-4da8-b132-476aacd9b4c1/8780c187-d9ed-4683-8880-d00487729569/90e4d75d-5655-4952-bec3-1a3b61887293?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy83ODM3YTIzNC05NjM1LTRkYTgtYjEzMi00NzZhYWNkOWI0YzEqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjg0MDEwfX19XX0_&Signature=0NCrDHEtg~3Ag4tUAPQa6ilJ6cyZ~w4zVuMSD7cG~r-mqETwrHjP~ymbFvuB7vZlbnPnlWCA1ED5pRAzfLnrljg2GzmBKzehdZ5pgyEdg2DhUh1PdoH9P3mOCEtIvAjK8OJMABLlrsk9l-sKHGYMa1a1Cwv28E-vbs9wjG1faMxEGG67VKe8YrbKJea-zq31p-n-SwDxEgYcBaFhSoyAOtk-LQQh4YnbO4e3Mh1O3qhd1CUPoi~QB1~gR8sul5CK0VJQczSIV5ZAIetLpT6YzKJjTsyOlpvwM1Ndaf6IhiW6ocfSJj45JPk5h8YsmO05fa9p1P7DalJRXVD6AH0o6g__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA",
+    "as_of": 2024
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://nova-maldives.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://nova-maldives.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://nova-maldives.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://nova-maldives.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "kayaking",
+    "source_url": "https://nova-maldives.com/blog/post/when-is-the-best-time-to-visit-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin cruise",
+    "source_url": "https://nova-maldives.com/blog/post/when-is-the-best-time-to-visit-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://nova-maldives.com/blog/post/when-is-the-best-time-to-visit-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://nova-maldives.com/blog/post/the-ultimate-romantic-escape-in-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://nova-maldives.com/blog/post/the-ultimate-romantic-escape-in-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://nova-maldives.com/blog/post/the-ultimate-romantic-escape-in-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://nova-maldives.com/blog/post/discover-manta-rays-whale-sharks-in-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://nova-maldives.com/blog/post/discover-manta-rays-whale-sharks-in-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sailing",
+    "source_url": "https://nova-maldives.com/blog/post/street-food-festival-by-the-beach-at-nova-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://nova-maldives.com/blog/post/festive-celebrations-in-paradise/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://nova-maldives.com/blog/post/festive-celebrations-in-paradise/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://nova-maldives.com/blog/post/festive-celebrations-in-paradise/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://nova-maldives.com/blog/post/where-can-you-eat-in-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://nova-maldives.com/blog/post/how-to-plan-the-perfect-maldives-vacation-a-complete-guide/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://nova-maldives.com/things-to-do/aquaholics/diving/dive-site/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://nova-maldives.com/things-to-do/aquaholics/diving/dive-site/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://nova-maldives.com/things-to-do/aquaholics/diving/dive-site/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://nova-maldives.com/blog/post/the-best-time-to-visit-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://nova-maldives.com/blog/post/the-best-time-to-visit-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://nova-maldives.com/blog/post/the-best-time-to-visit-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://nova-maldives.com/blog/post/discover-the-best-dive-sites-in-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://nova-maldives.com/blog/post/discover-the-best-dive-sites-in-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://nova-maldives.com/divesites/madivaru-rangali-manta-point/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://nova-maldives.com/divesites/madivaru-rangali-manta-point/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://nova-maldives.com/divesites/madivaru-rangali-manta-point/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://nova-maldives.com/blog/post/glowing-beaches-in-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://nova-maldives.com/blog/post/when-can-you-see-bioluminescence-in-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://nova-maldives.com/divesites/vilamendhoo-thila/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://nova-maldives.com/divesites/vilamendhoo-thila/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://nova-maldives.com/divesites/vilamendhoo-thila/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://nova-maldives.com/divesites/vilamendhoo-thila/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://nova-maldives.com/blog/post/what-to-expect-when-you-travel-to-the-maldives-in-may/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://nova-maldives.com/blog/post/what-to-expect-when-you-travel-to-the-maldives-in-may/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://nova-maldives.com/blog/post/what-to-expect-when-you-travel-to-the-maldives-in-may/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://nova-maldives.com/blog/post/diving-into-the-depths-of-south-ari-atoll-a-scuba-divers-paradise/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://nova-maldives.com/blog/post/how-to-get-to-nova-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://nova-maldives.com/blog/post/how-to-get-to-nova-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://nova-maldives.com/divesites/thinfushi-ethere-thila/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://nova-maldives.com/blog/post/what-are-the-dos-and-donts-of-visiting-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://nova-maldives.com/blog/post/what-are-the-dos-and-donts-of-visiting-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://nova-maldives.com/blog/post/how-to-plan-a-trip-to-the-maldives-your-soulful-guide/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://nova-maldives.com/blog/post/soulful-noctourism-adventures-in-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://nova-maldives.com/blog/post/indulge-in-all-inclusive-bliss-at-nova-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "paddleboard",
+    "source_url": "https://nova-maldives.com/blog/post/indulge-in-all-inclusive-bliss-at-nova-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://nova-maldives.com/blog/post/must-try-excursions-at-nova-maldives-a-journey-for-the-soul/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://nova-maldives.com/blog/post/must-try-excursions-at-nova-maldives-a-journey-for-the-soul/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://nova-maldives.com/blog/post/must-try-excursions-at-nova-maldives-a-journey-for-the-soul/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://nova-maldives.com/blog/post/top-5-bucket-list-experiences-at-nova-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin cruise",
+    "source_url": "https://nova-maldives.com/blog/post/top-5-bucket-list-experiences-at-nova-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://nova-maldives.com/blog/post/top-5-bucket-list-experiences-at-nova-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://nova-maldives.com/things-to-do/aquaholics/diving/best-diving-sites-maldives-nova-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://nova-maldives.com/things-to-do/aquaholics/diving/best-diving-sites-maldives-nova-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://nova-maldives.com/blog/post/discover-solo-travel-this-july-at-nova-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://nova-maldives.com/blog/post/discover-solo-travel-this-july-at-nova-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://nova-maldives.com/blog/post/must-have-excursions-in-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://nova-maldives.com/blog/post/must-have-excursions-in-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin cruise",
+    "source_url": "https://nova-maldives.com/blog/post/must-have-excursions-in-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://nova-maldives.com/blog/post/must-have-excursions-in-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://nova-maldives.com/blog/post/top-reasons-to-visit-the-maldives-in-the-off-season/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://nova-maldives.com/blog/post/top-reasons-to-visit-the-maldives-in-the-off-season/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://nova-maldives.com/blog/post/immersive-maldivian-cultural-experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://nova-maldives.com/blog/post/immersive-maldivian-cultural-experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://nova-maldives.com/blog/post/honeymoon-in-the-maldives-a-soulful-romance/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://nova-maldives.com/blog/post/honeymoon-in-the-maldives-a-soulful-romance/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://nova-maldives.com/blog/post/honeymoon-in-the-maldives-a-soulful-romance/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://nova-maldives.com/blog/post/find-your-rhythm-how-long-you-should-spend-in-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://nova-maldives.com/blog/post/find-your-rhythm-how-long-you-should-spend-in-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://nova-maldives.com/blog/post/find-your-rhythm-how-long-you-should-spend-in-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://nova-maldives.com/meal-plans/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "paddleboard",
+    "source_url": "https://nova-maldives.com/meal-plans/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://nova-maldives.com/blog/post/are-maldives-sharks-dangerous/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://nova-maldives.com/blog/post/best-time-to-visit-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "kayaking",
+    "source_url": "https://nova-maldives.com/blog/post/best-time-to-visit-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "paddleboard",
+    "source_url": "https://nova-maldives.com/blog/post/best-time-to-visit-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "jet ski",
+    "source_url": "https://nova-maldives.com/blog/post/best-time-to-visit-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://nova-maldives.com/blog/post/best-time-to-visit-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://nova-maldives.com/blog/post/best-time-to-visit-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://nova-maldives.com/blog/post/best-time-to-visit-maldives/",
+    "as_of": "2026-10-04"
    },
    {
     "value": "snorkelling",
@@ -849,6 +2216,46 @@
     "value": "manta",
     "source_url": "https://www.neoscapesmaldives.com/resort/nova-maldives/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://www.mymaldives.com/resort-guide/vakarufalhi-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "windsurfing",
+    "source_url": "https://www.mymaldives.com/resort-guide/vakarufalhi-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "catamaran",
+    "source_url": "https://www.mymaldives.com/resort-guide/vakarufalhi-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sailing",
+    "source_url": "https://www.mymaldives.com/resort-guide/vakarufalhi-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "canoe",
+    "source_url": "https://www.mymaldives.com/resort-guide/vakarufalhi-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.maldivestourism.net/blog/nova-maldives-is-making-a-difference-on-world-ocean-day/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.maldivestourism.net/blog/nova-maldives-is-making-a-difference-on-world-ocean-day/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.airtours.de/nova-maldives/",
+    "as_of": "2026-10-04"
    }
   ],
   "excursions": [
@@ -868,6 +2275,441 @@
     "as_of": 2022
    },
    {
+    "value": "sandbank",
+    "source_url": "https://d7h9v39iheghu.cloudfront.net/previews/7837a234-9635-4da8-b132-476aacd9b4c1/3f5ac883-372b-4221-8214-04fc6f0a4991/3f5ac883-372b-4221-8214-04fc6f0a4991?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy83ODM3YTIzNC05NjM1LTRkYTgtYjEzMi00NzZhYWNkOWI0YzEqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjg0MDEwfX19XX0_&Signature=0NCrDHEtg~3Ag4tUAPQa6ilJ6cyZ~w4zVuMSD7cG~r-mqETwrHjP~ymbFvuB7vZlbnPnlWCA1ED5pRAzfLnrljg2GzmBKzehdZ5pgyEdg2DhUh1PdoH9P3mOCEtIvAjK8OJMABLlrsk9l-sKHGYMa1a1Cwv28E-vbs9wjG1faMxEGG67VKe8YrbKJea-zq31p-n-SwDxEgYcBaFhSoyAOtk-LQQh4YnbO4e3Mh1O3qhd1CUPoi~QB1~gR8sul5CK0VJQczSIV5ZAIetLpT6YzKJjTsyOlpvwM1Ndaf6IhiW6ocfSJj45JPk5h8YsmO05fa9p1P7DalJRXVD6AH0o6g__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA",
+    "as_of": 2025
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://nova-maldives.com/wp-content/uploads/2026/06/Nova-Soulful-tales-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "local island",
+    "source_url": "https://d7h9v39iheghu.cloudfront.net/previews/7837a234-9635-4da8-b132-476aacd9b4c1/6fa34e59-2ded-4eb9-8109-5ecfe50c251e/6fa34e59-2ded-4eb9-8109-5ecfe50c251e?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy83ODM3YTIzNC05NjM1LTRkYTgtYjEzMi00NzZhYWNkOWI0YzEqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjg0MDEwfX19XX0_&Signature=0NCrDHEtg~3Ag4tUAPQa6ilJ6cyZ~w4zVuMSD7cG~r-mqETwrHjP~ymbFvuB7vZlbnPnlWCA1ED5pRAzfLnrljg2GzmBKzehdZ5pgyEdg2DhUh1PdoH9P3mOCEtIvAjK8OJMABLlrsk9l-sKHGYMa1a1Cwv28E-vbs9wjG1faMxEGG67VKe8YrbKJea-zq31p-n-SwDxEgYcBaFhSoyAOtk-LQQh4YnbO4e3Mh1O3qhd1CUPoi~QB1~gR8sul5CK0VJQczSIV5ZAIetLpT6YzKJjTsyOlpvwM1Ndaf6IhiW6ocfSJj45JPk5h8YsmO05fa9p1P7DalJRXVD6AH0o6g__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA",
+    "as_of": 2026
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://d7h9v39iheghu.cloudfront.net/previews/7837a234-9635-4da8-b132-476aacd9b4c1/6fa34e59-2ded-4eb9-8109-5ecfe50c251e/6fa34e59-2ded-4eb9-8109-5ecfe50c251e?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy83ODM3YTIzNC05NjM1LTRkYTgtYjEzMi00NzZhYWNkOWI0YzEqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjg0MDEwfX19XX0_&Signature=0NCrDHEtg~3Ag4tUAPQa6ilJ6cyZ~w4zVuMSD7cG~r-mqETwrHjP~ymbFvuB7vZlbnPnlWCA1ED5pRAzfLnrljg2GzmBKzehdZ5pgyEdg2DhUh1PdoH9P3mOCEtIvAjK8OJMABLlrsk9l-sKHGYMa1a1Cwv28E-vbs9wjG1faMxEGG67VKe8YrbKJea-zq31p-n-SwDxEgYcBaFhSoyAOtk-LQQh4YnbO4e3Mh1O3qhd1CUPoi~QB1~gR8sul5CK0VJQczSIV5ZAIetLpT6YzKJjTsyOlpvwM1Ndaf6IhiW6ocfSJj45JPk5h8YsmO05fa9p1P7DalJRXVD6AH0o6g__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA",
+    "as_of": 2026
+   },
+   {
+    "value": "sunset fishing",
+    "source_url": "https://d7h9v39iheghu.cloudfront.net/previews/7837a234-9635-4da8-b132-476aacd9b4c1/6fa34e59-2ded-4eb9-8109-5ecfe50c251e/6fa34e59-2ded-4eb9-8109-5ecfe50c251e?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy83ODM3YTIzNC05NjM1LTRkYTgtYjEzMi00NzZhYWNkOWI0YzEqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjg0MDEwfX19XX0_&Signature=0NCrDHEtg~3Ag4tUAPQa6ilJ6cyZ~w4zVuMSD7cG~r-mqETwrHjP~ymbFvuB7vZlbnPnlWCA1ED5pRAzfLnrljg2GzmBKzehdZ5pgyEdg2DhUh1PdoH9P3mOCEtIvAjK8OJMABLlrsk9l-sKHGYMa1a1Cwv28E-vbs9wjG1faMxEGG67VKe8YrbKJea-zq31p-n-SwDxEgYcBaFhSoyAOtk-LQQh4YnbO4e3Mh1O3qhd1CUPoi~QB1~gR8sul5CK0VJQczSIV5ZAIetLpT6YzKJjTsyOlpvwM1Ndaf6IhiW6ocfSJj45JPk5h8YsmO05fa9p1P7DalJRXVD6AH0o6g__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA",
+    "as_of": 2026
+   },
+   {
+    "value": "big game fishing",
+    "source_url": "https://d7h9v39iheghu.cloudfront.net/previews/7837a234-9635-4da8-b132-476aacd9b4c1/6fa34e59-2ded-4eb9-8109-5ecfe50c251e/6fa34e59-2ded-4eb9-8109-5ecfe50c251e?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy83ODM3YTIzNC05NjM1LTRkYTgtYjEzMi00NzZhYWNkOWI0YzEqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjg0MDEwfX19XX0_&Signature=0NCrDHEtg~3Ag4tUAPQa6ilJ6cyZ~w4zVuMSD7cG~r-mqETwrHjP~ymbFvuB7vZlbnPnlWCA1ED5pRAzfLnrljg2GzmBKzehdZ5pgyEdg2DhUh1PdoH9P3mOCEtIvAjK8OJMABLlrsk9l-sKHGYMa1a1Cwv28E-vbs9wjG1faMxEGG67VKe8YrbKJea-zq31p-n-SwDxEgYcBaFhSoyAOtk-LQQh4YnbO4e3Mh1O3qhd1CUPoi~QB1~gR8sul5CK0VJQczSIV5ZAIetLpT6YzKJjTsyOlpvwM1Ndaf6IhiW6ocfSJj45JPk5h8YsmO05fa9p1P7DalJRXVD6AH0o6g__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA",
+    "as_of": 2026
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://d7h9v39iheghu.cloudfront.net/previews/7837a234-9635-4da8-b132-476aacd9b4c1/6fa34e59-2ded-4eb9-8109-5ecfe50c251e/6fa34e59-2ded-4eb9-8109-5ecfe50c251e?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy83ODM3YTIzNC05NjM1LTRkYTgtYjEzMi00NzZhYWNkOWI0YzEqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjg0MDEwfX19XX0_&Signature=0NCrDHEtg~3Ag4tUAPQa6ilJ6cyZ~w4zVuMSD7cG~r-mqETwrHjP~ymbFvuB7vZlbnPnlWCA1ED5pRAzfLnrljg2GzmBKzehdZ5pgyEdg2DhUh1PdoH9P3mOCEtIvAjK8OJMABLlrsk9l-sKHGYMa1a1Cwv28E-vbs9wjG1faMxEGG67VKe8YrbKJea-zq31p-n-SwDxEgYcBaFhSoyAOtk-LQQh4YnbO4e3Mh1O3qhd1CUPoi~QB1~gR8sul5CK0VJQczSIV5ZAIetLpT6YzKJjTsyOlpvwM1Ndaf6IhiW6ocfSJj45JPk5h8YsmO05fa9p1P7DalJRXVD6AH0o6g__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA",
+    "as_of": 2026
+   },
+   {
+    "value": "manta",
+    "source_url": "https://d7h9v39iheghu.cloudfront.net/previews/7837a234-9635-4da8-b132-476aacd9b4c1/6fa34e59-2ded-4eb9-8109-5ecfe50c251e/6fa34e59-2ded-4eb9-8109-5ecfe50c251e?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy83ODM3YTIzNC05NjM1LTRkYTgtYjEzMi00NzZhYWNkOWI0YzEqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjg0MDEwfX19XX0_&Signature=0NCrDHEtg~3Ag4tUAPQa6ilJ6cyZ~w4zVuMSD7cG~r-mqETwrHjP~ymbFvuB7vZlbnPnlWCA1ED5pRAzfLnrljg2GzmBKzehdZ5pgyEdg2DhUh1PdoH9P3mOCEtIvAjK8OJMABLlrsk9l-sKHGYMa1a1Cwv28E-vbs9wjG1faMxEGG67VKe8YrbKJea-zq31p-n-SwDxEgYcBaFhSoyAOtk-LQQh4YnbO4e3Mh1O3qhd1CUPoi~QB1~gR8sul5CK0VJQczSIV5ZAIetLpT6YzKJjTsyOlpvwM1Ndaf6IhiW6ocfSJj45JPk5h8YsmO05fa9p1P7DalJRXVD6AH0o6g__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA",
+    "as_of": 2026
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://d7h9v39iheghu.cloudfront.net/previews/7837a234-9635-4da8-b132-476aacd9b4c1/6fa34e59-2ded-4eb9-8109-5ecfe50c251e/6fa34e59-2ded-4eb9-8109-5ecfe50c251e?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy83ODM3YTIzNC05NjM1LTRkYTgtYjEzMi00NzZhYWNkOWI0YzEqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjg0MDEwfX19XX0_&Signature=0NCrDHEtg~3Ag4tUAPQa6ilJ6cyZ~w4zVuMSD7cG~r-mqETwrHjP~ymbFvuB7vZlbnPnlWCA1ED5pRAzfLnrljg2GzmBKzehdZ5pgyEdg2DhUh1PdoH9P3mOCEtIvAjK8OJMABLlrsk9l-sKHGYMa1a1Cwv28E-vbs9wjG1faMxEGG67VKe8YrbKJea-zq31p-n-SwDxEgYcBaFhSoyAOtk-LQQh4YnbO4e3Mh1O3qhd1CUPoi~QB1~gR8sul5CK0VJQczSIV5ZAIetLpT6YzKJjTsyOlpvwM1Ndaf6IhiW6ocfSJj45JPk5h8YsmO05fa9p1P7DalJRXVD6AH0o6g__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA",
+    "as_of": 2026
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://nova-maldives.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://nova-maldives.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "local island",
+    "source_url": "https://nova-maldives.com/blog/post/7-essential-travel-tips-for-your-trip-to-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://nova-maldives.com/blog/post/when-is-the-best-time-to-visit-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://nova-maldives.com/blog/post/when-is-the-best-time-to-visit-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://nova-maldives.com/blog/post/when-is-the-best-time-to-visit-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "picnic",
+    "source_url": "https://nova-maldives.com/blog/post/when-is-the-best-time-to-visit-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://nova-maldives.com/blog/post/the-ultimate-romantic-escape-in-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://nova-maldives.com/blog/post/the-ultimate-romantic-escape-in-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://nova-maldives.com/blog/post/discover-manta-rays-whale-sharks-in-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://nova-maldives.com/blog/post/discover-manta-rays-whale-sharks-in-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://nova-maldives.com/blog/post/festive-celebrations-in-paradise/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://nova-maldives.com/blog/post/festive-celebrations-in-paradise/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://nova-maldives.com/blog/post/where-can-you-eat-in-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://nova-maldives.com/blog/post/where-can-you-eat-in-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://nova-maldives.com/blog/post/why-the-maldives-is-a-dream-destination/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://nova-maldives.com/blog/post/how-to-plan-the-perfect-maldives-vacation-a-complete-guide/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://nova-maldives.com/things-to-do/aquaholics/diving/dive-site/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://nova-maldives.com/things-to-do/aquaholics/diving/dive-site/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://nova-maldives.com/things-to-do/aquaholics/diving/dive-site/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://nova-maldives.com/blog/post/the-best-time-to-visit-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://nova-maldives.com/blog/post/the-best-time-to-visit-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://nova-maldives.com/blog/post/the-best-time-to-visit-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://nova-maldives.com/blog/post/discover-the-best-dive-sites-in-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://nova-maldives.com/blog/post/discover-the-best-dive-sites-in-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://nova-maldives.com/blog/post/discover-the-best-dive-sites-in-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://nova-maldives.com/divesites/madivaru-rangali-manta-point/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://nova-maldives.com/divesites/madivaru-rangali-manta-point/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://nova-maldives.com/divesites/madivaru-rangali-manta-point/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://nova-maldives.com/blog/post/when-can-you-see-bioluminescence-in-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "stargazing",
+    "source_url": "https://nova-maldives.com/blog/post/when-can-you-see-bioluminescence-in-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://nova-maldives.com/divesites/vilamendhoo-thila/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://nova-maldives.com/divesites/vilamendhoo-thila/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://nova-maldives.com/divesites/vilamendhoo-thila/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://nova-maldives.com/blog/post/what-to-expect-when-you-travel-to-the-maldives-in-may/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://nova-maldives.com/blog/post/what-to-expect-when-you-travel-to-the-maldives-in-may/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://nova-maldives.com/blog/post/diving-into-the-depths-of-south-ari-atoll-a-scuba-divers-paradise/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://nova-maldives.com/blog/post/how-to-get-to-nova-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://nova-maldives.com/divesites/thinfushi-ethere-thila/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://nova-maldives.com/blog/post/soulful-noctourism-adventures-in-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "stargazing",
+    "source_url": "https://nova-maldives.com/blog/post/soulful-noctourism-adventures-in-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "castaway",
+    "source_url": "https://nova-maldives.com/blog/post/indulge-your-senses-dining-in-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://nova-maldives.com/blog/post/must-try-excursions-at-nova-maldives-a-journey-for-the-soul/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://nova-maldives.com/blog/post/must-try-excursions-at-nova-maldives-a-journey-for-the-soul/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://nova-maldives.com/blog/post/must-try-excursions-at-nova-maldives-a-journey-for-the-soul/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://nova-maldives.com/blog/post/must-try-excursions-at-nova-maldives-a-journey-for-the-soul/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://nova-maldives.com/blog/post/top-5-bucket-list-experiences-at-nova-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://nova-maldives.com/blog/post/top-5-bucket-list-experiences-at-nova-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://nova-maldives.com/things-to-do/aquaholics/diving/best-diving-sites-maldives-nova-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://nova-maldives.com/things-to-do/aquaholics/diving/best-diving-sites-maldives-nova-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://nova-maldives.com/things-to-do/aquaholics/diving/best-diving-sites-maldives-nova-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset fishing",
+    "source_url": "https://nova-maldives.com/blog/post/discover-solo-travel-this-july-at-nova-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "cooking class",
+    "source_url": "https://nova-maldives.com/blog/post/discover-solo-travel-this-july-at-nova-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "island hopping",
+    "source_url": "https://nova-maldives.com/blog/post/must-have-excursions-in-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "local island",
+    "source_url": "https://nova-maldives.com/blog/post/must-have-excursions-in-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://nova-maldives.com/blog/post/must-have-excursions-in-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset fishing",
+    "source_url": "https://nova-maldives.com/blog/post/must-have-excursions-in-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://nova-maldives.com/blog/post/must-have-excursions-in-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://nova-maldives.com/blog/post/must-have-excursions-in-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://nova-maldives.com/blog/post/top-reasons-to-visit-the-maldives-in-the-off-season/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://nova-maldives.com/blog/post/top-reasons-to-visit-the-maldives-in-the-off-season/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://nova-maldives.com/blog/post/immersive-maldivian-cultural-experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://nova-maldives.com/blog/post/immersive-maldivian-cultural-experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://nova-maldives.com/blog/post/honeymoon-in-the-maldives-a-soulful-romance/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://nova-maldives.com/blog/post/honeymoon-in-the-maldives-a-soulful-romance/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://nova-maldives.com/blog/post/find-your-rhythm-how-long-you-should-spend-in-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset fishing",
+    "source_url": "https://nova-maldives.com/blog/post/find-your-rhythm-how-long-you-should-spend-in-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://nova-maldives.com/blog/post/find-your-rhythm-how-long-you-should-spend-in-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://nova-maldives.com/blog/post/find-your-rhythm-how-long-you-should-spend-in-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "local island",
+    "source_url": "https://nova-maldives.com/blog/post/what-to-wear-in-maldives-your-guide-to-soulful-style/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "local island",
+    "source_url": "https://nova-maldives.com/blog/post/the-cultural-side-of-a-maldivian-holiday/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "cooking class",
+    "source_url": "https://nova-maldives.com/blog/post/the-cultural-side-of-a-maldivian-holiday/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://nova-maldives.com/blog/post/are-maldives-sharks-dangerous/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://nova-maldives.com/blog/post/best-time-to-visit-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://nova-maldives.com/blog/post/best-time-to-visit-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://nova-maldives.com/blog/post/best-time-to-visit-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://nova-maldives.com/blog/post/best-time-to-visit-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "cooking class",
+    "source_url": "https://nova-maldives.com/blog/post/best-time-to-visit-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
     "value": "whale shark",
     "source_url": "https://www.neoscapesmaldives.com/resort/nova-maldives/",
     "as_of": "2026-10-04"
@@ -875,6 +2717,21 @@
    {
     "value": "manta",
     "source_url": "https://www.neoscapesmaldives.com/resort/nova-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.maldivestourism.net/blog/nova-maldives-is-making-a-difference-on-world-ocean-day/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.maldivestourism.net/blog/nova-maldives-is-making-a-difference-on-world-ocean-day/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.airtours.de/nova-maldives/",
     "as_of": "2026-10-04"
    }
   ],
@@ -891,6 +2748,106 @@
    },
    {
     "value": "yoga",
+    "source_url": "https://d7h9v39iheghu.cloudfront.net/previews/7837a234-9635-4da8-b132-476aacd9b4c1/673003fa-d33f-488f-92a9-e8eee12edbe8/96297ecf-6ff1-4aa7-8710-a8593470da83?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy83ODM3YTIzNC05NjM1LTRkYTgtYjEzMi00NzZhYWNkOWI0YzEqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjg0MDEwfX19XX0_&Signature=0NCrDHEtg~3Ag4tUAPQa6ilJ6cyZ~w4zVuMSD7cG~r-mqETwrHjP~ymbFvuB7vZlbnPnlWCA1ED5pRAzfLnrljg2GzmBKzehdZ5pgyEdg2DhUh1PdoH9P3mOCEtIvAjK8OJMABLlrsk9l-sKHGYMa1a1Cwv28E-vbs9wjG1faMxEGG67VKe8YrbKJea-zq31p-n-SwDxEgYcBaFhSoyAOtk-LQQh4YnbO4e3Mh1O3qhd1CUPoi~QB1~gR8sul5CK0VJQczSIV5ZAIetLpT6YzKJjTsyOlpvwM1Ndaf6IhiW6ocfSJj45JPk5h8YsmO05fa9p1P7DalJRXVD6AH0o6g__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA",
+    "as_of": 2026
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://nova-maldives.com/wp-content/uploads/2026/06/Nova-Soulful-tales-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "gym",
+    "source_url": "https://d7h9v39iheghu.cloudfront.net/previews/7837a234-9635-4da8-b132-476aacd9b4c1/8780c187-d9ed-4683-8880-d00487729569/90e4d75d-5655-4952-bec3-1a3b61887293?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy83ODM3YTIzNC05NjM1LTRkYTgtYjEzMi00NzZhYWNkOWI0YzEqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjg0MDEwfX19XX0_&Signature=0NCrDHEtg~3Ag4tUAPQa6ilJ6cyZ~w4zVuMSD7cG~r-mqETwrHjP~ymbFvuB7vZlbnPnlWCA1ED5pRAzfLnrljg2GzmBKzehdZ5pgyEdg2DhUh1PdoH9P3mOCEtIvAjK8OJMABLlrsk9l-sKHGYMa1a1Cwv28E-vbs9wjG1faMxEGG67VKe8YrbKJea-zq31p-n-SwDxEgYcBaFhSoyAOtk-LQQh4YnbO4e3Mh1O3qhd1CUPoi~QB1~gR8sul5CK0VJQczSIV5ZAIetLpT6YzKJjTsyOlpvwM1Ndaf6IhiW6ocfSJj45JPk5h8YsmO05fa9p1P7DalJRXVD6AH0o6g__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA",
+    "as_of": 2024
+   },
+   {
+    "value": "beach volleyball",
+    "source_url": "https://nova-maldives.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://nova-maldives.com/blog/post/when-is-the-best-time-to-visit-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "meditation",
+    "source_url": "https://nova-maldives.com/blog/post/when-is-the-best-time-to-visit-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://nova-maldives.com/blog/post/must-try-spa-treatments-at-nova-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://nova-maldives.com/offers/advance-purchase/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://nova-maldives.com/blog/post/dive-into-the-maldives-best-all-inclusive-plan/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "steam",
+    "source_url": "https://nova-maldives.com/blog/post/celebrating-island-heritage-through-veganuary-and-dry-january/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://nova-maldives.com/blog/post/a-fresh-start-for-your-soul-at-nova-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://nova-maldives.com/blog/post/what-are-the-dos-and-donts-of-visiting-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "meditation",
+    "source_url": "https://nova-maldives.com/blog/post/what-are-the-dos-and-donts-of-visiting-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://nova-maldives.com/blog/post/indulge-in-all-inclusive-bliss-at-nova-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://nova-maldives.com/blog/post/discover-solo-travel-this-july-at-nova-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "meditation",
+    "source_url": "https://nova-maldives.com/blog/post/discover-solo-travel-this-july-at-nova-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fitness centre",
+    "source_url": "https://nova-maldives.com/blog/post/discover-solo-travel-this-july-at-nova-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fitness centre",
+    "source_url": "https://nova-maldives.com/meal-plans/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://nova-maldives.com/blog/post/best-time-to-visit-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "meditation",
+    "source_url": "https://nova-maldives.com/blog/post/best-time-to-visit-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
     "source_url": "https://www.neoscapesmaldives.com/resort/nova-maldives/",
     "as_of": "2026-10-04"
    },
@@ -903,6 +2860,16 @@
     "value": "fitness centre",
     "source_url": "https://www.neoscapesmaldives.com/resort/nova-maldives/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "badminton",
+    "source_url": "https://www.mymaldives.com/resort-guide/vakarufalhi-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "beach volleyball",
+    "source_url": "https://www.maldivestourism.net/blog/nova-maldives-is-making-a-difference-on-world-ocean-day/",
+    "as_of": "2026-10-04"
    }
   ],
   "sustainability": [
@@ -910,19 +2877,412 @@
     "value": "plastic-free",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Factsheet-Nova-Maldives-NEO.pdf",
     "as_of": 2022
+   },
+   {
+    "value": "marine biologist",
+    "source_url": "https://nova-maldives.com/wp-content/uploads/2026/06/Nova-Soulful-tales-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "plastic-free",
+    "source_url": "https://d7h9v39iheghu.cloudfront.net/previews/7837a234-9635-4da8-b132-476aacd9b4c1/26004904-089f-43ea-aa21-f3b9faafa77f/26004904-089f-43ea-aa21-f3b9faafa77f?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy83ODM3YTIzNC05NjM1LTRkYTgtYjEzMi00NzZhYWNkOWI0YzEqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjg0MDEwfX19XX0_&Signature=0NCrDHEtg~3Ag4tUAPQa6ilJ6cyZ~w4zVuMSD7cG~r-mqETwrHjP~ymbFvuB7vZlbnPnlWCA1ED5pRAzfLnrljg2GzmBKzehdZ5pgyEdg2DhUh1PdoH9P3mOCEtIvAjK8OJMABLlrsk9l-sKHGYMa1a1Cwv28E-vbs9wjG1faMxEGG67VKe8YrbKJea-zq31p-n-SwDxEgYcBaFhSoyAOtk-LQQh4YnbO4e3Mh1O3qhd1CUPoi~QB1~gR8sul5CK0VJQczSIV5ZAIetLpT6YzKJjTsyOlpvwM1Ndaf6IhiW6ocfSJj45JPk5h8YsmO05fa9p1P7DalJRXVD6AH0o6g__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA",
+    "as_of": 2025
+   },
+   {
+    "value": "coral restoration",
+    "source_url": "https://nova-maldives.com/blog/post/the-floating-nursery-at-nova-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "coral nursery",
+    "source_url": "https://nova-maldives.com/blog/post/the-floating-nursery-at-nova-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "marine biologist",
+    "source_url": "https://nova-maldives.com/blog/post/the-floating-nursery-at-nova-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "reef restoration",
+    "source_url": "https://www.maldivestourism.net/blog/nova-maldives-is-making-a-difference-on-world-ocean-day/",
+    "as_of": "2026-10-04"
    }
   ],
   "meal_plans": [
    {
     "value": "AI",
+    "source_url": "https://d7h9v39iheghu.cloudfront.net/previews/7837a234-9635-4da8-b132-476aacd9b4c1/673003fa-d33f-488f-92a9-e8eee12edbe8/96297ecf-6ff1-4aa7-8710-a8593470da83?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy83ODM3YTIzNC05NjM1LTRkYTgtYjEzMi00NzZhYWNkOWI0YzEqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjg0MDEwfX19XX0_&Signature=0NCrDHEtg~3Ag4tUAPQa6ilJ6cyZ~w4zVuMSD7cG~r-mqETwrHjP~ymbFvuB7vZlbnPnlWCA1ED5pRAzfLnrljg2GzmBKzehdZ5pgyEdg2DhUh1PdoH9P3mOCEtIvAjK8OJMABLlrsk9l-sKHGYMa1a1Cwv28E-vbs9wjG1faMxEGG67VKe8YrbKJea-zq31p-n-SwDxEgYcBaFhSoyAOtk-LQQh4YnbO4e3Mh1O3qhd1CUPoi~QB1~gR8sul5CK0VJQczSIV5ZAIetLpT6YzKJjTsyOlpvwM1Ndaf6IhiW6ocfSJj45JPk5h8YsmO05fa9p1P7DalJRXVD6AH0o6g__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA",
+    "as_of": 2026
+   },
+   {
+    "value": "FB",
+    "source_url": "https://d7h9v39iheghu.cloudfront.net/previews/7837a234-9635-4da8-b132-476aacd9b4c1/77424a46-3c12-4c78-9265-793797c79507/77424a46-3c12-4c78-9265-793797c79507?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy83ODM3YTIzNC05NjM1LTRkYTgtYjEzMi00NzZhYWNkOWI0YzEqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjg0MDEwfX19XX0_&Signature=0NCrDHEtg~3Ag4tUAPQa6ilJ6cyZ~w4zVuMSD7cG~r-mqETwrHjP~ymbFvuB7vZlbnPnlWCA1ED5pRAzfLnrljg2GzmBKzehdZ5pgyEdg2DhUh1PdoH9P3mOCEtIvAjK8OJMABLlrsk9l-sKHGYMa1a1Cwv28E-vbs9wjG1faMxEGG67VKe8YrbKJea-zq31p-n-SwDxEgYcBaFhSoyAOtk-LQQh4YnbO4e3Mh1O3qhd1CUPoi~QB1~gR8sul5CK0VJQczSIV5ZAIetLpT6YzKJjTsyOlpvwM1Ndaf6IhiW6ocfSJj45JPk5h8YsmO05fa9p1P7DalJRXVD6AH0o6g__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA",
+    "as_of": 2025
+   },
+   {
+    "value": "AI",
+    "source_url": "https://nova-maldives.com/blog/post/how-to-plan-the-perfect-maldives-vacation-a-complete-guide/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://nova-maldives.com/offers/advance-purchase/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://nova-maldives.com/blog/post/dive-into-the-maldives-best-all-inclusive-plan/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://nova-maldives.com/blog/post/your-vegan-honeymoon-at-nova-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://nova-maldives.com/blog/post/indulge-in-all-inclusive-bliss-at-nova-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "AI",
     "source_url": "https://www.neoscapesmaldives.com/resort/nova-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://www.maldivestourism.net/blog/nova-maldives-is-making-a-difference-on-world-ocean-day/",
     "as_of": "2026-10-04"
    }
   ],
   "weddings.offered": [
    {
     "value": true,
+    "source_url": "https://d7h9v39iheghu.cloudfront.net/previews/7837a234-9635-4da8-b132-476aacd9b4c1/3f5ac883-372b-4221-8214-04fc6f0a4991/3f5ac883-372b-4221-8214-04fc6f0a4991?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy83ODM3YTIzNC05NjM1LTRkYTgtYjEzMi00NzZhYWNkOWI0YzEqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjg0MDEwfX19XX0_&Signature=0NCrDHEtg~3Ag4tUAPQa6ilJ6cyZ~w4zVuMSD7cG~r-mqETwrHjP~ymbFvuB7vZlbnPnlWCA1ED5pRAzfLnrljg2GzmBKzehdZ5pgyEdg2DhUh1PdoH9P3mOCEtIvAjK8OJMABLlrsk9l-sKHGYMa1a1Cwv28E-vbs9wjG1faMxEGG67VKe8YrbKJea-zq31p-n-SwDxEgYcBaFhSoyAOtk-LQQh4YnbO4e3Mh1O3qhd1CUPoi~QB1~gR8sul5CK0VJQczSIV5ZAIetLpT6YzKJjTsyOlpvwM1Ndaf6IhiW6ocfSJj45JPk5h8YsmO05fa9p1P7DalJRXVD6AH0o6g__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA",
+    "as_of": 2025
+   },
+   {
+    "value": true,
+    "source_url": "https://nova-maldives.com/blog/post/festive-celebrations-in-paradise/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://nova-maldives.com/blog/post/celebrating-island-heritage-through-veganuary-and-dry-january/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://nova-maldives.com/blog/post/your-vegan-honeymoon-at-nova-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://nova-maldives.com/blog/post/honeymoon-in-the-maldives-a-soulful-romance/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://nova-maldives.com/blog/post/celebrating-maldivian-language-and-culture/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
     "source_url": "https://www.neoscapesmaldives.com/resort/nova-maldives/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "weddings.venues": [
+   {
+    "value": "surrounded by the sparkling lagoon - your Maldives wedding",
+    "source_url": "https://d7h9v39iheghu.cloudfront.net/previews/7837a234-9635-4da8-b132-476aacd9b4c1/3f5ac883-372b-4221-8214-04fc6f0a4991/3f5ac883-372b-4221-8214-04fc6f0a4991?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy83ODM3YTIzNC05NjM1LTRkYTgtYjEzMi00NzZhYWNkOWI0YzEqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjg0MDEwfX19XX0_&Signature=0NCrDHEtg~3Ag4tUAPQa6ilJ6cyZ~w4zVuMSD7cG~r-mqETwrHjP~ymbFvuB7vZlbnPnlWCA1ED5pRAzfLnrljg2GzmBKzehdZ5pgyEdg2DhUh1PdoH9P3mOCEtIvAjK8OJMABLlrsk9l-sKHGYMa1a1Cwv28E-vbs9wjG1faMxEGG67VKe8YrbKJea-zq31p-n-SwDxEgYcBaFhSoyAOtk-LQQh4YnbO4e3Mh1O3qhd1CUPoi~QB1~gR8sul5CK0VJQczSIV5ZAIetLpT6YzKJjTsyOlpvwM1Ndaf6IhiW6ocfSJj45JPk5h8YsmO05fa9p1P7DalJRXVD6AH0o6g__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA",
+    "as_of": 2025
+   }
+  ],
+  "weddings.packages": [
+   {
+    "value": {
+     "name": "Ceremony",
+     "price": "375",
+     "currency": "USD",
+     "as_of": 2025
+    },
+    "source_url": "https://d7h9v39iheghu.cloudfront.net/previews/7837a234-9635-4da8-b132-476aacd9b4c1/3f5ac883-372b-4221-8214-04fc6f0a4991/3f5ac883-372b-4221-8214-04fc6f0a4991?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy83ODM3YTIzNC05NjM1LTRkYTgtYjEzMi00NzZhYWNkOWI0YzEqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjg0MDEwfX19XX0_&Signature=0NCrDHEtg~3Ag4tUAPQa6ilJ6cyZ~w4zVuMSD7cG~r-mqETwrHjP~ymbFvuB7vZlbnPnlWCA1ED5pRAzfLnrljg2GzmBKzehdZ5pgyEdg2DhUh1PdoH9P3mOCEtIvAjK8OJMABLlrsk9l-sKHGYMa1a1Cwv28E-vbs9wjG1faMxEGG67VKe8YrbKJea-zq31p-n-SwDxEgYcBaFhSoyAOtk-LQQh4YnbO4e3Mh1O3qhd1CUPoi~QB1~gR8sul5CK0VJQczSIV5ZAIetLpT6YzKJjTsyOlpvwM1Ndaf6IhiW6ocfSJj45JPk5h8YsmO05fa9p1P7DalJRXVD6AH0o6g__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA",
+    "as_of": 2025
+   },
+   {
+    "value": {
+     "name": "Ceremony",
+     "price": "800",
+     "currency": "USD",
+     "as_of": 2025
+    },
+    "source_url": "https://d7h9v39iheghu.cloudfront.net/previews/7837a234-9635-4da8-b132-476aacd9b4c1/3f5ac883-372b-4221-8214-04fc6f0a4991/3f5ac883-372b-4221-8214-04fc6f0a4991?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy83ODM3YTIzNC05NjM1LTRkYTgtYjEzMi00NzZhYWNkOWI0YzEqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjg0MDEwfX19XX0_&Signature=0NCrDHEtg~3Ag4tUAPQa6ilJ6cyZ~w4zVuMSD7cG~r-mqETwrHjP~ymbFvuB7vZlbnPnlWCA1ED5pRAzfLnrljg2GzmBKzehdZ5pgyEdg2DhUh1PdoH9P3mOCEtIvAjK8OJMABLlrsk9l-sKHGYMa1a1Cwv28E-vbs9wjG1faMxEGG67VKe8YrbKJea-zq31p-n-SwDxEgYcBaFhSoyAOtk-LQQh4YnbO4e3Mh1O3qhd1CUPoi~QB1~gR8sul5CK0VJQczSIV5ZAIetLpT6YzKJjTsyOlpvwM1Ndaf6IhiW6ocfSJj45JPk5h8YsmO05fa9p1P7DalJRXVD6AH0o6g__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA",
+    "as_of": 2025
+   },
+   {
+    "value": {
+     "name": "Wedding",
+     "price": "350",
+     "currency": "USD",
+     "as_of": 2025
+    },
+    "source_url": "https://d7h9v39iheghu.cloudfront.net/previews/7837a234-9635-4da8-b132-476aacd9b4c1/3f5ac883-372b-4221-8214-04fc6f0a4991/3f5ac883-372b-4221-8214-04fc6f0a4991?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy83ODM3YTIzNC05NjM1LTRkYTgtYjEzMi00NzZhYWNkOWI0YzEqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjg0MDEwfX19XX0_&Signature=0NCrDHEtg~3Ag4tUAPQa6ilJ6cyZ~w4zVuMSD7cG~r-mqETwrHjP~ymbFvuB7vZlbnPnlWCA1ED5pRAzfLnrljg2GzmBKzehdZ5pgyEdg2DhUh1PdoH9P3mOCEtIvAjK8OJMABLlrsk9l-sKHGYMa1a1Cwv28E-vbs9wjG1faMxEGG67VKe8YrbKJea-zq31p-n-SwDxEgYcBaFhSoyAOtk-LQQh4YnbO4e3Mh1O3qhd1CUPoi~QB1~gR8sul5CK0VJQczSIV5ZAIetLpT6YzKJjTsyOlpvwM1Ndaf6IhiW6ocfSJj45JPk5h8YsmO05fa9p1P7DalJRXVD6AH0o6g__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA",
+    "as_of": 2025
+   }
+  ],
+  "contacts_public.phone": [
+   {
+    "value": "+960 66 88 777",
+    "source_url": "https://nova-maldives.com/blog/post/7-essential-travel-tips-for-your-trip-to-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 66 88 777",
+    "source_url": "https://nova-maldives.com/blog/post/when-is-the-best-time-to-visit-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 66 88 777",
+    "source_url": "https://nova-maldives.com/blog/post/must-try-spa-treatments-at-nova-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 66 88 777",
+    "source_url": "https://nova-maldives.com/blog/post/the-ultimate-romantic-escape-in-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 66 88 777",
+    "source_url": "https://nova-maldives.com/blog/post/discover-manta-rays-whale-sharks-in-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 66 88 777",
+    "source_url": "https://nova-maldives.com/blog/post/street-food-festival-by-the-beach-at-nova-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 66 88 777",
+    "source_url": "https://nova-maldives.com/blog/post/festive-celebrations-in-paradise/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 66 88 777",
+    "source_url": "https://nova-maldives.com/blog/post/where-can-you-eat-in-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 66 88 777",
+    "source_url": "https://nova-maldives.com/blog/post/why-the-maldives-is-a-dream-destination/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 66 88 777",
+    "source_url": "https://nova-maldives.com/blog/post/how-to-plan-the-perfect-maldives-vacation-a-complete-guide/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 66 88 777",
+    "source_url": "https://nova-maldives.com/blog/post/dive-into-the-maldives-best-all-inclusive-plan/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 66 88 777",
+    "source_url": "https://nova-maldives.com/blog/post/the-best-time-to-visit-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 66 88 777",
+    "source_url": "https://nova-maldives.com/blog/post/discover-the-best-dive-sites-in-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 66 88 777",
+    "source_url": "https://nova-maldives.com/blog/post/glowing-beaches-in-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 66 88 777",
+    "source_url": "https://nova-maldives.com/blog/post/when-can-you-see-bioluminescence-in-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 66 88 777",
+    "source_url": "https://nova-maldives.com/blog/post/celebrating-island-heritage-through-veganuary-and-dry-january/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 66 88 777",
+    "source_url": "https://nova-maldives.com/blog/post/a-fresh-start-for-your-soul-at-nova-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 66 88 777",
+    "source_url": "https://nova-maldives.com/blog/post/bask-in-nocturnal-light-why-maldives-beaches-glow-at-night/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 66 88 777",
+    "source_url": "https://nova-maldives.com/blog/post/what-to-expect-when-you-travel-to-the-maldives-in-may/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 66 88 777",
+    "source_url": "https://nova-maldives.com/blog/post/diving-into-the-depths-of-south-ari-atoll-a-scuba-divers-paradise/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 66 88 777",
+    "source_url": "https://nova-maldives.com/blog/post/embark-on-a-romantic-odyssey-this-valentines-day/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 66 88 777",
+    "source_url": "https://nova-maldives.com/blog/post/how-to-get-to-nova-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 66 88 777",
+    "source_url": "https://nova-maldives.com/blog/post/the-floating-nursery-at-nova-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 66 88 777",
+    "source_url": "https://nova-maldives.com/blog/post/your-vegan-honeymoon-at-nova-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 66 88 777",
+    "source_url": "https://nova-maldives.com/blog/post/what-are-the-dos-and-donts-of-visiting-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 66 88 777",
+    "source_url": "https://nova-maldives.com/blog/post/how-to-plan-a-trip-to-the-maldives-your-soulful-guide/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 66 88 777",
+    "source_url": "https://nova-maldives.com/blog/post/soulful-noctourism-adventures-in-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 66 88 777",
+    "source_url": "https://nova-maldives.com/blog/post/indulge-in-all-inclusive-bliss-at-nova-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 66 88 777",
+    "source_url": "https://nova-maldives.com/blog/post/indulge-your-senses-dining-in-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 66 88 777",
+    "source_url": "https://nova-maldives.com/blog/post/must-try-excursions-at-nova-maldives-a-journey-for-the-soul/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 66 88 777",
+    "source_url": "https://nova-maldives.com/blog/post/veganuary-dry-january-in-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 66 88 777",
+    "source_url": "https://nova-maldives.com/blog/post/beach-overwater-villas-in-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 66 88 777",
+    "source_url": "https://nova-maldives.com/blog/post/top-5-bucket-list-experiences-at-nova-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 66 88 777",
+    "source_url": "https://nova-maldives.com/blog/post/an-enchanting-eid-al-adha-escape-at-nova-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 66 88 777",
+    "source_url": "https://nova-maldives.com/blog/post/discover-solo-travel-this-july-at-nova-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 66 88 777",
+    "source_url": "https://nova-maldives.com/blog/post/must-have-excursions-in-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 66 88 777",
+    "source_url": "https://nova-maldives.com/blog/post/top-reasons-to-visit-the-maldives-in-the-off-season/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 66 88 777",
+    "source_url": "https://nova-maldives.com/blog/post/immersive-maldivian-cultural-experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 66 88 777",
+    "source_url": "https://nova-maldives.com/blog/post/honeymoon-in-the-maldives-a-soulful-romance/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 66 88 777",
+    "source_url": "https://nova-maldives.com/blog/post/celebrating-maldivian-language-and-culture/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 66 88 777",
+    "source_url": "https://nova-maldives.com/blog/post/find-your-rhythm-how-long-you-should-spend-in-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 66 88 777",
+    "source_url": "https://nova-maldives.com/blog/post/what-to-wear-in-maldives-your-guide-to-soulful-style/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 66 88 777",
+    "source_url": "https://nova-maldives.com/blog/post/the-cultural-side-of-a-maldivian-holiday/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 66 88 777",
+    "source_url": "https://nova-maldives.com/blog/post/a-magical-maldivian-night-at-nova-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 66 88 777",
+    "source_url": "https://nova-maldives.com/blog/post/a-guide-to-soulful-wellness-retreats/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 66 88 777",
+    "source_url": "https://nova-maldives.com/blog/post/are-maldives-sharks-dangerous/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 66 88 777",
+    "source_url": "https://nova-maldives.com/blog/post/best-time-to-visit-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 66 88 777",
+    "source_url": "https://nova-maldives.com/blog/post/what-are-the-best-white-sand-beaches-in-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 736 5425",
+    "source_url": "https://www.neoscapesmaldives.com/resort/nova-maldives/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "island": [
+   {
+    "value": "Nova Maldives",
+    "source_url": "https://nova-maldives.com/blog/post/glowing-beaches-in-the-maldives/",
     "as_of": "2026-10-04"
    }
   ],
@@ -932,14 +3292,7 @@
     "source_url": "https://www.neoscapesmaldives.com/resort/nova-maldives/",
     "as_of": "2026-10-04"
    }
-  ],
-  "contacts_public.phone": [
-   {
-    "value": "+960 736 5425",
-    "source_url": "https://www.neoscapesmaldives.com/resort/nova-maldives/",
-    "as_of": "2026-10-04"
-   }
   ]
  },
- "last_updated": "2026-10-04"
+ "last_updated": "2026-10-05"
 }

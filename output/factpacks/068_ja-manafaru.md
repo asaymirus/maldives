@@ -1,6 +1,6 @@
 # 68. JA Manafaru
 
-**Official site:** n/a (None)  
+**Official site:** https://www.jaresortshotels.com/maldives/ja-manafaru (ok)  
 **Brand:** JA  
 **Atoll:** Haa Alifu Atoll  **Island:** Utheemu  
 **Opened/renovated:** n/a  **Rating:** n/a  
@@ -13,27 +13,40 @@
 - STAY •  Delu e Beach Villas with Family Private Pool –: count ?, 400 sqm, max ?, pool
 - •  Sunrise Water Villas with Infinity Pool: count ?, 135 sqm, max ?, pool
 - •  Sunset Water Villas with Infinity Pool –: count ?, 135 sqm, max ?, pool
-- Number of Villas: count 84, ? sqm, max ?
+- Bedroom Grand Ocean Residence: count 2, ? sqm, max ?, overwater
+- Bedroom Manafaru Beach Residence: count 2, ? sqm, max ?
+- Bedroom Royal Beach Residence: count 3, ? sqm, max ?
 - ja manafaru villa view: count 1, ? sqm, max ?
 
 ## Dining
 
 - Daily breakfast in Kakuni Restaurant (restaurant)
 - Bistro and Pool (restaurant)
-- White Orchid Restaurant, Andiamo Bistro and Pool or Kakuni (restaurant)
-- Restaurant (restaurant)
-- Dining (restaurant)
-- White Orchid Restaurant (restaurant)
-- Ocean Grill (restaurant)
-- The Cellar (bar)
-- Infinity Bar and Pool (bar)
+- Veli Bar (bar)
 - Andiamo Bistro and Pool (restaurant)
+- The Cellar (bar)
+- Ocean Grill (restaurant)
+- Sports Café (restaurant)
+- Steakhouse and Grill (restaurant)
+- Lounge (bar)
+- Sports Bar (bar)
+- Beach Lounge (bar)
+- Rooftop Lounge (bar)
+- Pool Lounge (bar)
+- Café (restaurant)
+- Cellar Entrance (bar)
+- Bar Veli (bar)
+- White Orchid Restaurant (restaurant)
+- Infinity Bar and Pool (bar)
+- {{Restaurant.Description}} (restaurant)
+- Restaurant Type (restaurant)
 
 Meal plans: n/a
+All-inclusive: All Inclusive option.
 
 ## Spa & wellness
 
-- Spa: Calm Spa; treatment rooms: ?; menu: none
+- Spa: Spa; treatment rooms: ?; menu: none
 - Wellness/fitness: yoga, meditation, fitness centre, tennis, badminton, beach volleyball, ayurveda, sauna, steam, gym
 
 ## Diving, water sports & excursions
@@ -46,7 +59,9 @@ Meal plans: n/a
 
 ## Kids & family
 
-- Kids club: Kids Club; ages: n/a; teens: n/a
+- Kids club: Classes
+Reef Diving
+Kids Club; ages: n/a; teens: n/a
 
 ## Weddings
 
@@ -66,7 +81,7 @@ Meal plans: n/a
 
 ## Public contacts
 
-- Reservations: info@neoscapesmaldives.com; weddings: n/a; phone: +960 736 5425
+- Reservations: reservations.manafaru@jaresorts.com; weddings: n/a; phone: +960 6500 456
 
 ## Latest documents
 
@@ -77,7 +92,7 @@ Meal plans: n/a
 - dining_menu: none
 - dive_prices: none
 - events: none
-- calendar: none
+- calendar: https://letsgomaldives.com/wp-content/uploads/2026/08/JA-Manafaru.pdf
 
 ## Gaps
 
@@ -86,4 +101,4 @@ Meal plans: n/a
 - fact: villas.total
 - fact: dive operator
 
-_Facts extracted by rules from 17 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-04._
+_Facts extracted by rules from 18 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

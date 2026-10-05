@@ -1,6 +1,6 @@
 # 101. Club Med Finolhu Villas
 
-**Official site:** n/a (None)  
+**Official site:** https://www.clubmed.co.uk/r/finolhu-villas/y (unreachable)  
 **Brand:** Villa  
 **Atoll:** n/a  **Island:** n/a  
 **Opened/renovated:** n/a  **Rating:** n/a  
@@ -12,19 +12,20 @@
 
 ## Dining
 
+- Ristoranti e Bar (bar)
 
-Meal plans: n/a
+Meal plans: BB
 
 ## Spa & wellness
 
 - Spa: n/a; treatment rooms: ?; menu: none
-- Wellness/fitness: n/a
+- Wellness/fitness: yoga, tennis, badminton
 
 ## Diving, water sports & excursions
 
 - Operator: n/a
 - House reef: n/a
-- Activities: n/a
+- Activities: snorkeling, surfing, catamaran
 - Price list: none
 - Excursions: n/a
 
@@ -70,7 +71,6 @@ Meal plans: n/a
 - events/MICE document
 - fact: villas.total
 - fact: villa categories
-- fact: dining
 - fact: transfer
 - fact: atoll
 - fact: spa
@@ -78,6 +78,5 @@ Meal plans: n/a
 - fact: kids club
 - fact: weddings
 - fact: contacts
-- no documents or pages collected
 
-_Facts extracted by rules from 0 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-04._
+_Facts extracted by rules from 4 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

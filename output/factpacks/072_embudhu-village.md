@@ -1,32 +1,36 @@
 # 72. Embudhu Village
 
-**Official site:** n/a (None)  
+**Official site:** https://www.embuduvillage.com/ (ok)  
 **Brand:** Villa  
-**Atoll:** n/a  **Island:** n/a  
-**Opened/renovated:** n/a  **Rating:** n/a  
-**Transfer:** n/a; minutes: {}  
+**Atoll:** South Malé Atoll  **Island:** n/a  
+**Opened/renovated:** opened 1979  **Rating:** 5-star  
+**Transfer:** speedboat, seaplane, domestic flight; minutes: {"speedboat": 25, "domestic flight": 20}  
 **Island size:** n/a  
 
-## Villas (? total)
+## Villas (118 total)
 
+- Amazing Days in Embudu Village: count 14, ? sqm, max ?
 
 ## Dining
 
+- Main Restaurant (restaurant)
+- Bar & Coffeeshop (bar)
 
-Meal plans: n/a
+Meal plans: FB, AI
+All-inclusive: All Inclusive Package, encompassing meals, snacks and drinks.
 
 ## Spa & wellness
 
-- Spa: n/a; treatment rooms: ?; menu: none
-- Wellness/fitness: n/a
+- Spa: Spa; treatment rooms: ?; menu: https://embuduvillage.eme-devops.com/2024/01/spa-menu.pdf
+- Wellness/fitness: tennis, badminton, gym
 
 ## Diving, water sports & excursions
 
-- Operator: n/a
-- House reef: n/a
-- Activities: n/a
+- Operator: Diverland
+- House reef: house reef is beautiful with lots of fishes, sharks and stingrays
+- Activities: snorkeling, scuba diving, surfing, catamaran, fishing, dolphin cruise, sailing, snorkelling, manta, sunset cruise, kayaking, canoe, stand-up paddle, paddleboard, windsurfing
 - Price list: none
-- Excursions: n/a
+- Excursions: island hopping, dolphin, night fishing, local island, turtle, manta, sunset fishing
 
 ## Kids & family
 
@@ -34,10 +38,10 @@ Meal plans: n/a
 
 ## Weddings
 
-- Offered: None; vow renewal: None
+- Offered: True; vow renewal: True
 - Venues: n/a
 - Packages: n/a
-- Brochure: none
+- Brochure: https://embuduvillage.eme-devops.com/2026/04/Simple-Wedding-Package.pdf
 
 ## Events / MICE
 
@@ -46,38 +50,26 @@ Meal plans: n/a
 
 ## Sustainability
 
-- n/a
+- solar, carbon neutral, coral restoration, Travelife, composting
 
 ## Public contacts
 
-- Reservations: n/a; weddings: n/a; phone: n/a
+- Reservations: sales@embuduvillage.com; weddings: n/a; phone: +960 664 4776
 
 ## Latest documents
 
-- factsheet: none
+- factsheet: https://embuduvillage.eme-devops.com/2023/12/Embudu-Village-Fact-Sheet-2023.pdf
 - map: none
-- wedding: none
-- spa_menu: none
-- dining_menu: none
+- wedding: https://embuduvillage.eme-devops.com/2026/04/Simple-Wedding-Package.pdf
+- spa_menu: https://embuduvillage.eme-devops.com/2024/01/spa-menu.pdf
+- dining_menu: https://embuduvillage.eme-devops.com/2025/10/All-Sea-Food-Menus-from-1.11.-2025.pdf
 - dive_prices: none
 - events: none
 - calendar: none
 
 ## Gaps
 
-- factsheet
-- wedding brochure
 - events/MICE document
-- fact: villas.total
-- fact: villa categories
-- fact: dining
-- fact: transfer
-- fact: atoll
-- fact: spa
-- fact: dive operator
 - fact: kids club
-- fact: weddings
-- fact: contacts
-- no documents or pages collected
 
-_Facts extracted by rules from 0 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-04._
+_Facts extracted by rules from 22 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

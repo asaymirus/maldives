@@ -1,6 +1,6 @@
 # 142. Safari Island
 
-**Official site:** n/a (None)  
+**Official site:** https://safari-island.com/ (ok)  
 **Brand:** n/a  
 **Atoll:** n/a  **Island:** n/a  
 **Opened/renovated:** n/a  **Rating:** n/a  
@@ -13,7 +13,7 @@
 ## Dining
 
 
-Meal plans: n/a
+Meal plans: AI
 
 ## Spa & wellness
 
@@ -23,10 +23,10 @@ Meal plans: n/a
 ## Diving, water sports & excursions
 
 - Operator: n/a
-- House reef: n/a
-- Activities: scuba diving
+- House reef: house reef con squali mai visti altrove, buon diving, gestione 100% maldiviana ma pulita, ristorante dal taglio orientale vario e buono (se piace orientale piccante), tro
+- Activities: scuba diving, snorkeling, fishing
 - Price list: https://dreamland.com.mv/wp-content/uploads/2024/08/DREAMLAND-Diving-FAQs-English.pdf
-- Excursions: n/a
+- Excursions: sunset fishing
 
 ## Kids & family
 
@@ -79,4 +79,4 @@ Meal plans: n/a
 - fact: weddings
 - fact: contacts
 
-_Facts extracted by rules from 1 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-04._
+_Facts extracted by rules from 4 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

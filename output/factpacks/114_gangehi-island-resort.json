@@ -5,13 +5,13 @@
  "aliases": [
   "Gangehi"
  ],
- "official_url": null,
- "official_site_status": null,
+ "official_url": "https://www.gangehi.com/",
+ "official_site_status": "unreachable",
  "operator_brand": null,
- "atoll": null,
+ "atoll": "Ari Atoll",
  "island": null,
- "opened_or_renovated": null,
- "star_rating": null,
+ "opened_or_renovated": "opened 2008",
+ "star_rating": "5-star",
  "transfer": {
   "modes": [],
   "minutes": {
@@ -23,14 +23,110 @@
  },
  "island_size": null,
  "villas": {
-  "total": null,
-  "categories": []
+  "total": 36,
+  "categories": [
+   {
+    "name": "Embudu Village A",
+    "count": 22,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "Equator Village A",
+    "count": 23,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "Mookai Suites A",
+    "count": 26,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "Lu South Ari Atoll Resort & Villas A",
+    "count": 31,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "Amilla Maldives Resort & Residences D",
+    "count": 120,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "Residence Maldives D",
+    "count": 122,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "The Residence Maldives at Dhigurah D",
+    "count": 123,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "TME Retreats Dhigurah E",
+    "count": 131,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "Villa Nautica E . Paradise Island Resort E",
+    "count": 143,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   }
+  ]
  },
- "dining": [],
- "meal_plans": [],
+ "dining": [
+  {
+   "name": "Lounge Lounge",
+   "cuisine": null,
+   "type": "bar"
+  },
+  {
+   "name": "Lounge",
+   "cuisine": null,
+   "type": "bar"
+  },
+  {
+   "name": "Arrival Lounge",
+   "cuisine": null,
+   "type": "bar"
+  },
+  {
+   "name": "No Hotel Name Arr Lounge",
+   "cuisine": null,
+   "type": "bar"
+  }
+ ],
+ "meal_plans": [
+  "AI"
+ ],
  "all_inclusive_details": null,
  "spa": {
-  "name": null,
+  "name": "The Ginger Spa",
   "treatment_rooms": null,
   "signature_treatments": [],
   "menu_doc": null
@@ -38,10 +134,21 @@
  "diving_watersports": {
   "operator": null,
   "house_reef": null,
-  "activities": [],
+  "activities": [
+   "snorkelling",
+   "scuba diving",
+   "fishing",
+   "whale shark",
+   "manta",
+   "canoe"
+  ],
   "price_list_doc": null
  },
- "excursions": [],
+ "excursions": [
+  "big game fishing",
+  "whale shark",
+  "manta"
+ ],
  "kids_family": {
   "kids_club": null,
   "age_range": null,
@@ -69,7 +176,7 @@
  },
  "documents_latest": {
   "factsheet": null,
-  "map": null,
+  "map": "https://maldives.ru/doc/airport-new-counters-map-2023-1.pdf",
   "wedding": null,
   "spa_menu": null,
   "dining_menu": null,
@@ -77,23 +184,306 @@
   "events": null,
   "calendar": null
  },
- "documents_count": 0,
+ "documents_count": 2,
  "gaps": [
   "factsheet",
   "wedding brochure",
   "events/MICE document",
-  "fact: villas.total",
-  "fact: villa categories",
-  "fact: dining",
   "fact: transfer",
-  "fact: atoll",
-  "fact: spa",
   "fact: dive operator",
   "fact: kids club",
   "fact: weddings",
-  "fact: contacts",
-  "no documents or pages collected"
+  "fact: contacts"
  ],
- "sources": {},
- "last_updated": "2026-10-04"
+ "sources": {
+  "atoll": [
+   {
+    "value": "Ari Atoll",
+    "source_url": "https://maldives.ru/doc/airport-new-counters-map-2023-1.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": "Ari Atoll",
+    "source_url": "https://www.mymaldives.com/resort-guide/gangehi-island-resort/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "villas.categories": [
+   {
+    "value": {
+     "name": "Embudu Village A",
+     "count": 22,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://maldives.ru/doc/airport-new-counters-map-2023-1.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": {
+     "name": "Equator Village A",
+     "count": 23,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://maldives.ru/doc/airport-new-counters-map-2023-1.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": {
+     "name": "Mookai Suites A",
+     "count": 26,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://maldives.ru/doc/airport-new-counters-map-2023-1.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": {
+     "name": "Lu South Ari Atoll Resort & Villas A",
+     "count": 31,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://maldives.ru/doc/airport-new-counters-map-2023-1.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": {
+     "name": "Amilla Maldives Resort & Residences D",
+     "count": 120,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://maldives.ru/doc/airport-new-counters-map-2023-1.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": {
+     "name": "Residence Maldives D",
+     "count": 122,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://maldives.ru/doc/airport-new-counters-map-2023-1.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": {
+     "name": "The Residence Maldives at Dhigurah D",
+     "count": 123,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://maldives.ru/doc/airport-new-counters-map-2023-1.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": {
+     "name": "TME Retreats Dhigurah E",
+     "count": 131,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://maldives.ru/doc/airport-new-counters-map-2023-1.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": {
+     "name": "Villa Nautica E . Paradise Island Resort E",
+     "count": 143,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://maldives.ru/doc/airport-new-counters-map-2023-1.pdf",
+    "as_of": 2023
+   }
+  ],
+  "dining": [
+   {
+    "value": {
+     "name": "Lounge Lounge",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://maldives.ru/doc/airport-new-counters-map-2023-1.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": {
+     "name": "Lounge",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://maldives.ru/doc/airport-new-counters-map-2023-1.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": {
+     "name": "Lounge",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://maldives.ru/doc/airport-new-counters-map-2023-1.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": {
+     "name": "Arrival Lounge",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://maldives.ru/doc/airport-new-counters-map-2023-1.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": {
+     "name": "No Hotel Name Arr Lounge",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://maldives.ru/doc/airport-new-counters-map-2023-1.pdf",
+    "as_of": 2023
+   }
+  ],
+  "spa.name": [
+   {
+    "value": "Spa",
+    "source_url": "https://maldives.ru/doc/airport-new-counters-map-2023-1.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": "The Ginger Spa",
+    "source_url": "https://www.mymaldives.com/resort-guide/gangehi-island-resort/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "meal_plans": [
+   {
+    "value": "AI",
+    "source_url": "https://mondomaldive.it/it/villaggio/gangehi-island-resort/recensione/3613",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://mondomaldive.it/it/villaggio/gangehi-island-resort/recensione/4448",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://mondomaldive.it/it/villaggio/gangehi-island-resort/recensione/5827",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://mondomaldive.it/it/villaggio/gangehi-island-resort/recensione/3563",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://mondomaldive.it/it/villaggio/gangehi-island-resort/recensione/5623",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://mondomaldive.it/it/villaggio/gangehi-island-resort/recensione/5949",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "diving_watersports.activities": [
+   {
+    "value": "snorkelling",
+    "source_url": "https://mondomaldive.it/it/villaggio/gangehi-island-resort/recensione/3563",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://mondomaldive.it/it/villaggio/gangehi-island-resort/recensione/5949",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://www.mymaldives.com/resort-guide/gangehi-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.mymaldives.com/resort-guide/gangehi-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.mymaldives.com/resort-guide/gangehi-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.mymaldives.com/resort-guide/gangehi-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "canoe",
+    "source_url": "https://www.mymaldives.com/resort-guide/gangehi-island-resort/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "opened_or_renovated": [
+   {
+    "value": "opened 2008",
+    "source_url": "https://www.mymaldives.com/resort-guide/gangehi-island-resort/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "star_rating": [
+   {
+    "value": "5-star",
+    "source_url": "https://www.mymaldives.com/resort-guide/gangehi-island-resort/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "villas.total": [
+   {
+    "value": 36,
+    "source_url": "https://www.mymaldives.com/resort-guide/gangehi-island-resort/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "excursions": [
+   {
+    "value": "big game fishing",
+    "source_url": "https://www.mymaldives.com/resort-guide/gangehi-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.mymaldives.com/resort-guide/gangehi-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.mymaldives.com/resort-guide/gangehi-island-resort/",
+    "as_of": "2026-10-04"
+   }
+  ]
+ },
+ "last_updated": "2026-10-05"
 }

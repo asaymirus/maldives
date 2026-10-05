@@ -1,7 +1,7 @@
 # 39. NH Collection Maldives Havodda Resort
 
 **Current name / alias:** Amari Havodda (older name)  
-**Official site:** n/a (None)  
+**Official site:** https://www.nh-hotels.com/en/hotel/nh-collection-maldives-havodda-resort (blocked)  
 **Brand:** NH  
 **Atoll:** Dhaalu Atoll  **Island:** Amari Havodda  
 **Opened/renovated:** n/a  **Rating:** 5-star  
@@ -10,19 +10,17 @@
 
 ## Villas (? total)
 
-- Number of Villas: count 120, ? sqm, max ?
 - delu e beach villa amari havodda maldives: count 3, ? sqm, max ?
 
 ## Dining
 
 - STAY Thari Bar (bar)
-- 27 Beach Villa Iru Bar (bar)
-- Dining (restaurant)
 - Ember Grill (restaurant)
 - Thari Bar (bar)
 - Iru Bar (bar)
 
 Meal plans: n/a
+All-inclusive: All-inclusive-Konzept und das große Wassersportangebot.
 
 ## Spa & wellness
 
@@ -78,4 +76,4 @@ Meal plans: n/a
 - events/MICE document
 - fact: villas.total
 
-_Facts extracted by rules from 17 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-04._
+_Facts extracted by rules from 18 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

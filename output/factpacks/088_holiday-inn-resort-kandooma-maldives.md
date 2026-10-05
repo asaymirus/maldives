@@ -1,13 +1,13 @@
 # 88. Holiday Inn Resort Kandooma Maldives
 
-**Official site:** n/a (None)  
+**Official site:** https://www.ihg.com/holidayinnresorts/hotels/us/en/kandooma-maldives/mlemv/hoteldetail (blocked)  
 **Brand:** Holiday Inn  
-**Atoll:** n/a  **Island:** n/a  
+**Atoll:** South Malé Atoll  **Island:** n/a  
 **Opened/renovated:** n/a  **Rating:** n/a  
-**Transfer:** n/a; minutes: {}  
+**Transfer:** speedboat; minutes: {}  
 **Island size:** n/a  
 
-## Villas (? total)
+## Villas (161 total)
 
 
 ## Dining
@@ -17,16 +17,16 @@ Meal plans: n/a
 
 ## Spa & wellness
 
-- Spa: n/a; treatment rooms: ?; menu: none
-- Wellness/fitness: n/a
+- Spa: Kandooma Spa; treatment rooms: ?; menu: none
+- Wellness/fitness: gym, tennis, badminton
 
 ## Diving, water sports & excursions
 
 - Operator: n/a
 - House reef: n/a
-- Activities: n/a
+- Activities: snorkelling, scuba diving, windsurfing, surfing, catamaran, jet ski, water skiing, fishing, sunset cruise, sailing, canoe
 - Price list: none
-- Excursions: n/a
+- Excursions: sandbank, big game fishing
 
 ## Kids & family
 
@@ -68,16 +68,11 @@ Meal plans: n/a
 - factsheet
 - wedding brochure
 - events/MICE document
-- fact: villas.total
 - fact: villa categories
 - fact: dining
-- fact: transfer
-- fact: atoll
-- fact: spa
 - fact: dive operator
 - fact: kids club
 - fact: weddings
 - fact: contacts
-- no documents or pages collected
 
-_Facts extracted by rules from 0 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-04._
+_Facts extracted by rules from 7 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

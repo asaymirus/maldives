@@ -1,9 +1,9 @@
 # 48. Dusit Thani Maldives
 
-**Official site:** n/a (None)  
+**Official site:** https://www.dusit.com/dusitthani-maldives/ (unverified)  
 **Brand:** Dusit Thani  
-**Atoll:** Baa Atoll  **Island:** n/a  
-**Opened/renovated:** n/a  **Rating:** n/a  
+**Atoll:** Baa Atoll  **Island:** Mudhdhoo Island  
+**Opened/renovated:** n/a  **Rating:** 5-star  
 **Transfer:** seaplane, speedboat, domestic flight; minutes: {"seaplane": 35, "speedboat": 10, "domestic flight": 10}  
 **Island size:** 630 m x 280 m  
 
@@ -17,31 +17,28 @@
 - Two Bedrooms Overwater Pool Villa: count 6, ? sqm, max ?, pool, overwater
 - Two Bedrooms Beach Pool Villa: count 6, ? sqm, max ?, pool
 - Two Bedrooms Beach Pool Residence: count 6, ? sqm, max ?, pool
-- Sunset Pool Pavilion: count 223, ? sqm, max ?, pool
-- Bedrooms Beach Pool Villas: count 2, ? sqm, max ?, pool
-- Pool Pavilion: count 201, ? sqm, max ?, pool
-- QǤQLW\ RRO Beach Villas: count 420, ? sqm, max ?
-- Waterfront Pool Villas: count 510, ? sqm, max ?, pool
-- Arrival Jetty Waterfront Pool Villas: count 620, ? sqm, max ?, pool
-- Number of Villas: count 94, ? sqm, max ?
+- Embudu Village A: count 22, ? sqm, max ?
+- Equator Village A: count 23, ? sqm, max ?
+- Mookai Suites A: count 26, ? sqm, max ?
+- Lu South Ari Atoll Resort & Villas A: count 31, ? sqm, max ?
+- Amilla Maldives Resort & Residences D: count 120, ? sqm, max ?
+- Residence Maldives D: count 122, ? sqm, max ?
+- The Residence Maldives at Dhigurah D: count 123, ? sqm, max ?
+- TME Retreats Dhigurah E: count 131, ? sqm, max ?
+- Villa Nautica E . Paradise Island Resort E: count 143, ? sqm, max ?
 - dusit thani maldives beach villa: count 4, ? sqm, max ?
 - dtmd accom beach delu e villa with pool view from terrace: count 2, ? sqm, max ?, pool
 
 ## Dining
 
 - Restaurant. (restaurant)
-- Daily buffet breakfast at The Market Restaurant. (restaurant)
-- Daily dinner at Benjarong or Sea Grill à la carte (restaurant)
-- Daily à la carte lunch at Sea Grill or Benjarong (restaurant)
-- Borderless Dining Experiences. * (restaurant)
-- Dining (restaurant)
 - Restaurant Seats Type Operation time Menu (restaurant)
-- Sala Bar W (bar)
-- Sand Bar (bar)
-- Sea Grill (restaurant)
+- Lounge Lounge (bar)
+- Lounge (bar)
+- Arrival Lounge (bar)
+- No Hotel Name Arr Lounge (bar)
 - Sala Bar (bar)
-- The One Table: Borderless Dining (restaurant)
-- Dining & In-Villa Comforts (restaurant)
+- Sea Grill (restaurant)
 
 Meal plans: n/a
 
@@ -55,9 +52,9 @@ Devarana Spa; treatment rooms: 8; menu: none
 
 - Operator: Dive Centre
 - House reef: house reef and turquoise lagoon,
-- Activities: sunset cruise, snorkelling, snorkeling, scuba diving, jet ski, parasailing, kayaking, paddleboard, wakeboarding, dolphin cruise, whale shark, manta, sailing
+- Activities: sunset cruise, snorkelling, scuba diving, kayaking, paddleboard, jet ski, parasailing, wakeboarding, dolphin cruise, whale shark, manta, sailing, windsurfing, kitesurfing, stand-up paddle, catamaran, seabob
 - Price list: none
-- Excursions: cooking class, cinema, local island, sandbank, dolphin, whale shark, manta
+- Excursions: cooking class, local island, sandbank, dolphin, whale shark, manta
 
 ## Kids & family
 
@@ -77,7 +74,7 @@ Devarana Spa; treatment rooms: 8; menu: none
 
 ## Sustainability
 
-- n/a
+- coral nursery
 
 ## Public contacts
 
@@ -86,17 +83,17 @@ Devarana Spa; treatment rooms: 8; menu: none
 ## Latest documents
 
 - factsheet: https://www.neoscapesmaldives.com/wp-content/uploads/New-Dusit-Thani-Maldives-Property-Fact-Sheet-1.pdf
-- map: https://www.neoscapesmaldives.com/wp-content/uploads/Dusit-Thani-Maldives-Island-Map.pdf
+- map: https://maldives.ru/doc/airport-new-counters-map-2023-1.pdf
 - wedding: none
 - spa_menu: none
 - dining_menu: none
 - dive_prices: none
 - events: none
-- calendar: none
+- calendar: https://letsgomaldives.com/wp-content/uploads/2026/09/Ocean-Carnival-Festive-Celebrations-at-Dusit-Thani-Maldives_LGM.pdf
 
 ## Gaps
 
 - wedding brochure
 - events/MICE document
 
-_Facts extracted by rules from 20 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-04._
+_Facts extracted by rules from 23 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

@@ -5,8 +5,8 @@
  "aliases": [
   "Hondaafushi"
  ],
- "official_url": null,
- "official_site_status": null,
+ "official_url": "https://www.hondaafushi.com/",
+ "official_site_status": "ok",
  "operator_brand": null,
  "atoll": null,
  "island": null,
@@ -30,7 +30,7 @@
  "meal_plans": [],
  "all_inclusive_details": null,
  "spa": {
-  "name": null,
+  "name": "Veli Spa",
   "treatment_rooms": null,
   "signature_treatments": [],
   "menu_doc": null
@@ -77,7 +77,7 @@
   "events": null,
   "calendar": null
  },
- "documents_count": 0,
+ "documents_count": 1,
  "gaps": [
   "factsheet",
   "wedding brochure",
@@ -87,13 +87,19 @@
   "fact: dining",
   "fact: transfer",
   "fact: atoll",
-  "fact: spa",
   "fact: dive operator",
   "fact: kids club",
   "fact: weddings",
-  "fact: contacts",
-  "no documents or pages collected"
+  "fact: contacts"
  ],
- "sources": {},
- "last_updated": "2026-10-04"
+ "sources": {
+  "spa.name": [
+   {
+    "value": "Veli Spa",
+    "source_url": "https://maldives.ru/doc/doc/Hondaafushi%20presentation%202025.pdf",
+    "as_of": 2025
+   }
+  ]
+ },
+ "last_updated": "2026-10-05"
 }

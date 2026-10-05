@@ -1,32 +1,33 @@
 # 47. Park Hyatt Maldives, Hadahaa
 
-**Official site:** n/a (None)  
+**Official site:** https://www.hyatt.com/en-US/hotel/maldives/park-hyatt-maldives-hadahaa/mlemh (unverified)  
 **Brand:** Park Hyatt  
-**Atoll:** n/a  **Island:** n/a  
-**Opened/renovated:** n/a  **Rating:** n/a  
+**Atoll:** Gaafu Alifu Atoll  **Island:** n/a  
+**Opened/renovated:** opened 2009  **Rating:** 5-star  
 **Transfer:** n/a; minutes: {}  
 **Island size:** n/a  
 
-## Villas (? total)
+## Villas (50 total)
 
 
 ## Dining
 
 
 Meal plans: n/a
+All-inclusive: All Inclusive Urlaub und erhalten alle Mahlzeiten, Frühstück, Mittag- und Abendessen sowie alkoholische und nicht alkoholische Getränke.
 
 ## Spa & wellness
 
-- Spa: n/a; treatment rooms: ?; menu: none
-- Wellness/fitness: n/a
+- Spa: Spa; treatment rooms: ?; menu: none
+- Wellness/fitness: yoga, fitness center
 
 ## Diving, water sports & excursions
 
-- Operator: n/a
-- House reef: n/a
-- Activities: n/a
+- Operator: PADI 5 Star
+- House reef: house reef and in and around the atoll at the PADI Five-Star Dive Centre, a Maldivian-inspired Vidhun Spa with five private couples treatment villas as well as authentic
+- Activities: snorkelling, kayaking, sunset cruise, whale shark, snorkeling, scuba diving, windsurfing, catamaran, sailing, canoe
 - Price list: none
-- Excursions: n/a
+- Excursions: dolphin, whale shark, turtle
 
 ## Kids & family
 
@@ -34,7 +35,7 @@ Meal plans: n/a
 
 ## Weddings
 
-- Offered: None; vow renewal: None
+- Offered: True; vow renewal: None
 - Venues: n/a
 - Packages: n/a
 - Brochure: none
@@ -68,16 +69,10 @@ Meal plans: n/a
 - factsheet
 - wedding brochure
 - events/MICE document
-- fact: villas.total
 - fact: villa categories
 - fact: dining
 - fact: transfer
-- fact: atoll
-- fact: spa
-- fact: dive operator
 - fact: kids club
-- fact: weddings
 - fact: contacts
-- no documents or pages collected
 
-_Facts extracted by rules from 0 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-04._
+_Facts extracted by rules from 12 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

@@ -1,10 +1,10 @@
 # 66. Como Maalifushi
 
-**Official site:** n/a (None)  
+**Official site:** https://www.comohotels.com/maldives/como-maalifushi (ok)  
 **Brand:** COMO  
-**Atoll:** Thaa Atoll  **Island:** n/a  
+**Atoll:** Thaa Atoll  **Island:** Lavadhoo  
 **Opened/renovated:** n/a  **Rating:** n/a  
-**Transfer:** seaplane; minutes: {"seaplane": 50}  
+**Transfer:** seaplane, yacht, speedboat; minutes: {"seaplane": 60, "speedboat": 40}  
 **Island size:** n/a  
 
 ## Villas (32 total)
@@ -14,68 +14,61 @@
 
 ## Dining
 
-- Tai Restaurant (restaurant)
-- of island life on COMO Maalifushi. In-room Dining (restaurant)
-- Dining (restaurant)
-- Private Dining (restaurant)
-- In-room Dining (restaurant)
-- Dining Experiences (restaurant)
+- LOCATION Madi Restaurant (restaurant)
 
-Meal plans: n/a
+Meal plans: AI, FB
+All-inclusive: all-inclusive island experience where meals, massages and curated activities come together to create an unforgettable stay.
 
 ## Spa & wellness
 
-- Spa: n/a; treatment rooms: ?; menu: none
-- Wellness/fitness: yoga, gym, fitness centre, steam
+- Spa: Das Spa; treatment rooms: ?; menu: https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/cmf_cs_vp_kimberly_rose_treatment_menu.pdf
+- Wellness/fitness: yoga, meditation, gym, padel, sauna, steam, fitness centre, pilates, tennis, sound healing, beach volleyball, fitness center, ayurveda
 
 ## Diving, water sports & excursions
 
 - Operator: n/a
-- House reef: House Reef
-- Activities: snorkelling, surfing, fishing, dolphin cruise, sailing, manta
-- Price list: none
-- Excursions: dolphin, picnic, manta, turtle, castaway
+- House reef: HOUSE REEF ADVENTURE
+- Activities: snorkelling, scuba diving, windsurfing, kayaking, catamaran, fishing, sailing, manta, sunset cruise, whale shark, surfing, stand-up paddle, paddleboard, wakeboarding, dolphin cruise, snorkeling, water skiing
+- Price list: https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/cmf_light_tackle_and_fly_fishing_rate_sheet.pdf
+- Excursions: local island, dolphin, turtle, picnic, manta, private dinner, castaway, whale shark, sandbank, sunset fishing, cinema
 
 ## Kids & family
 
-- Kids club: Kids Club; ages: n/a; teens: n/a
+- Kids club: COMO Kids Club; ages: 8-10 years; teens: n/a
 
 ## Weddings
 
-- Offered: True; vow renewal: None
-- Venues: n/a
-- Packages: n/a
-- Brochure: none
+- Offered: True; vow renewal: True
+- Venues: Tropical-themed wedding ceremony set up on the beach
+- Packages: Wedding USD 2700 (2024)
+- Brochure: https://de87ve0y4m3tc.cloudfront.net/comohotels.dev.cendynecommerce.com-2459770069/cms/pressroom/cmf_wedding_brochure.pdf
 
 ## Events / MICE
 
-- Venues: n/a; capacity max: n/a; buyout: None
-- Document: none
+- Venues: n/a; capacity max: 150; buyout: True
+- Document: https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/como_maalifushi_brochure_privateislandbuyout.pdf
 
 ## Sustainability
 
-- marine biologist
+- marine biologist, coral restoration, solar, single-use plastic, EarthCheck
 
 ## Public contacts
 
-- Reservations: info@neoscapesmaldives.com; weddings: n/a; phone: +960 736 5425
+- Reservations: info@neoscapesmaldives.com; weddings: n/a; phone: +960 678 0008
 
 ## Latest documents
 
-- factsheet: https://neoscapesmaldives.com/wp-content/uploads/COMO-Maalifushi-Fact-Sheet.pdf
-- map: https://neoscapesmaldives.com/wp-content/uploads/COMO-Maalifushi-Island-Map.pdf
-- wedding: none
-- spa_menu: none
-- dining_menu: none
-- dive_prices: none
-- events: none
-- calendar: none
+- factsheet: https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/cmf_all_inclusive_factsheet.pdf
+- map: https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/como_maalifushi_surfing_map.pdf
+- wedding: https://de87ve0y4m3tc.cloudfront.net/comohotels.dev.cendynecommerce.com-2459770069/cms/pressroom/cmf_wedding_brochure.pdf
+- spa_menu: https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/cmf_cs_vp_kimberly_rose_treatment_menu.pdf
+- dining_menu: https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/cmf_como_compass_activities_menu.pdf
+- dive_prices: https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/cmf_light_tackle_and_fly_fishing_rate_sheet.pdf
+- events: https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/como_maalifushi_brochure_privateislandbuyout.pdf
+- calendar: https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/cmf_festive_programme_dec_24_to_jan_1.pdf
 
 ## Gaps
 
-- wedding brochure
-- events/MICE document
-- fact: spa
 - fact: dive operator
 
-_Facts extracted by rules from 15 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-04._
+_Facts extracted by rules from 26 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

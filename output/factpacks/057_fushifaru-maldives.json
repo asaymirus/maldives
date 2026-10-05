@@ -5,53 +5,213 @@
  "aliases": [
   "Fushifaru"
  ],
- "official_url": null,
- "official_site_status": null,
+ "official_url": "https://www.fushifaru.com/",
+ "official_site_status": "blocked-partial",
  "operator_brand": null,
- "atoll": null,
+ "atoll": "Lhaviyani Atoll",
  "island": null,
- "opened_or_renovated": null,
+ "opened_or_renovated": "opened 2021",
  "star_rating": null,
  "transfer": {
-  "modes": [],
+  "modes": [
+   "seaplane",
+   "speedboat",
+   "domestic flight"
+  ],
   "minutes": {
-   "seaplane": null,
-   "speedboat": null,
-   "domestic flight": null,
+   "seaplane": 35,
+   "speedboat": 15,
+   "domestic flight": 35,
    "yacht": null
   }
  },
  "island_size": null,
  "villas": {
-  "total": null,
-  "categories": []
+  "total": 63,
+  "categories": [
+   {
+    "name": "Beach Villa Sunrise",
+    "count": 3,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "Beach Villa Sunset",
+    "count": 15,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "Pool Beach Villa Sunrise",
+    "count": 10,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": true,
+    "overwater": null
+   },
+   {
+    "name": "Pool Beach Villa Sunset",
+    "count": 10,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": true,
+    "overwater": null
+   },
+   {
+    "name": "Beach Duple Villa",
+    "count": 2,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "Premium Beach Duple Villa",
+    "count": 1,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "Jacuzzi Water Villa",
+    "count": 11,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "Pool Water Villa",
+    "count": 4,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": true,
+    "overwater": null
+   },
+   {
+    "name": "Premium Pool Water Villa",
+    "count": 4,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": true,
+    "overwater": null
+   }
+  ]
  },
- "dining": [],
- "meal_plans": [],
- "all_inclusive_details": null,
+ "dining": [
+  {
+   "name": "Ресторан японской кухни Teppanyaki",
+   "cuisine": null,
+   "type": "restaurant"
+  },
+  {
+   "name": "Fanihandi Pool Bar",
+   "cuisine": null,
+   "type": "bar"
+  },
+  {
+   "name": "Thundi Beach Bar",
+   "cuisine": null,
+   "type": "bar"
+  },
+  {
+   "name": "Raalhu Bar",
+   "cuisine": null,
+   "type": "bar"
+  },
+  {
+   "name": "Pizza Pleasures at Fanihandi Bar",
+   "cuisine": null,
+   "type": "bar"
+  },
+  {
+   "name": "Healthy Indulgences at Thundi Bar",
+   "cuisine": null,
+   "type": "bar"
+  },
+  {
+   "name": "Lunch at Fanihandi Bar",
+   "cuisine": null,
+   "type": "bar"
+  },
+  {
+   "name": "Fanihandhi Pool Bar",
+   "cuisine": null,
+   "type": "bar"
+  }
+ ],
+ "meal_plans": [
+  "AI",
+  "Premium AI"
+ ],
+ "all_inclusive_details": "all-inclusive luxury and iconic experiences.",
  "spa": {
-  "name": null,
+  "name": "Heylhi Spa",
   "treatment_rooms": null,
   "signature_treatments": [],
   "menu_doc": null
  },
  "diving_watersports": {
-  "operator": null,
-  "house_reef": null,
-  "activities": [],
+  "operator": "Dive Centre",
+  "house_reef": "House Reef",
+  "activities": [
+   "snorkelling",
+   "scuba diving",
+   "windsurfing",
+   "surfing",
+   "kayaking",
+   "catamaran",
+   "jet ski",
+   "parasailing",
+   "fishing",
+   "sunset cruise",
+   "manta",
+   "sailing",
+   "snorkeling",
+   "paddleboard",
+   "dolphin cruise",
+   "canoe",
+   "stand-up paddle"
+  ],
   "price_list_doc": null
  },
- "excursions": [],
+ "excursions": [
+  "sandbank",
+  "cooking class",
+  "dolphin",
+  "manta",
+  "turtle",
+  "picnic",
+  "castaway",
+  "local island",
+  "cinema"
+ ],
  "kids_family": {
-  "kids_club": null,
+  "kids_club": "Recreation\nKokko Kids Club",
   "age_range": null,
   "teens": null
  },
- "wellness_fitness": [],
+ "wellness_fitness": [
+  "sauna",
+  "yoga",
+  "steam",
+  "gym",
+  "tennis",
+  "padel"
+ ],
  "weddings": {
-  "offered": null,
+  "offered": true,
   "vow_renewal": null,
-  "venues": [],
+  "venues": [
+   "Private Sandbank Wedding",
+   "Beach Wedding",
+   "Group Sandbank Wedding"
+  ],
   "packages": [],
   "brochure_doc": null
  },
@@ -61,9 +221,13 @@
   "buyout": null,
   "doc": null
  },
- "sustainability": [],
+ "sustainability": [
+  "marine biologist",
+  "coral restoration",
+  "reef restoration"
+ ],
  "contacts_public": {
-  "reservations_email": null,
+  "reservations_email": "reservations@fushifaru.com",
   "weddings_email": null,
   "phone": null
  },
@@ -75,25 +239,1435 @@
   "dining_menu": null,
   "dive_prices": null,
   "events": null,
-  "calendar": null
+  "calendar": "https://letsgomaldives.com/wp-content/uploads/2024/03/Easter-2024-Programme-Fushifaru-Maldives-mail-version-v2.pdf"
  },
- "documents_count": 0,
+ "documents_count": 2,
  "gaps": [
   "factsheet",
   "wedding brochure",
-  "events/MICE document",
-  "fact: villas.total",
-  "fact: villa categories",
-  "fact: dining",
-  "fact: transfer",
-  "fact: atoll",
-  "fact: spa",
-  "fact: dive operator",
-  "fact: kids club",
-  "fact: weddings",
-  "fact: contacts",
-  "no documents or pages collected"
+  "events/MICE document"
  ],
- "sources": {},
- "last_updated": "2026-10-04"
+ "sources": {
+  "villas.categories": [
+   {
+    "value": {
+     "name": "Beach Villa Sunrise",
+     "count": 3,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://maldives.ru/doc/static/Fushifaru%20Presentation%20-%20Russian%20Version.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": {
+     "name": "Beach Villa Sunset",
+     "count": 15,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://maldives.ru/doc/static/Fushifaru%20Presentation%20-%20Russian%20Version.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": {
+     "name": "Pool Beach Villa Sunrise",
+     "count": 10,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": true,
+     "overwater": null
+    },
+    "source_url": "https://maldives.ru/doc/static/Fushifaru%20Presentation%20-%20Russian%20Version.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": {
+     "name": "Pool Beach Villa Sunset",
+     "count": 10,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": true,
+     "overwater": null
+    },
+    "source_url": "https://maldives.ru/doc/static/Fushifaru%20Presentation%20-%20Russian%20Version.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": {
+     "name": "Beach Duple Villa",
+     "count": 2,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://maldives.ru/doc/static/Fushifaru%20Presentation%20-%20Russian%20Version.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": {
+     "name": "Premium Beach Duple Villa",
+     "count": 1,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://maldives.ru/doc/static/Fushifaru%20Presentation%20-%20Russian%20Version.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": {
+     "name": "Jacuzzi Water Villa",
+     "count": 11,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://maldives.ru/doc/static/Fushifaru%20Presentation%20-%20Russian%20Version.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": {
+     "name": "Pool Water Villa",
+     "count": 4,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": true,
+     "overwater": null
+    },
+    "source_url": "https://maldives.ru/doc/static/Fushifaru%20Presentation%20-%20Russian%20Version.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": {
+     "name": "Premium Pool Water Villa",
+     "count": 4,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": true,
+     "overwater": null
+    },
+    "source_url": "https://maldives.ru/doc/static/Fushifaru%20Presentation%20-%20Russian%20Version.pdf",
+    "as_of": 2026
+   }
+  ],
+  "dining": [
+   {
+    "value": {
+     "name": "Ресторан японской кухни Teppanyaki",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://maldives.ru/doc/static/Fushifaru%20Presentation%20-%20Russian%20Version.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": {
+     "name": "Teppanyaki",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.fushifaru.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Fanihandi Pool Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.fushifaru.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Thundi Beach Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.fushifaru.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Raalhu Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.fushifaru.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Raalhu Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.fushifaru.com/dine/raalhu-bar/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Teppanyaki",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.fushifaru.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Fanihandi Pool Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.fushifaru.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Thundi Beach Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.fushifaru.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Raalhu Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.fushifaru.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Pizza Pleasures at Fanihandi Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.fushifaru.com/a-foodies-guide-to-fushifaru/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Healthy Indulgences at Thundi Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.fushifaru.com/a-foodies-guide-to-fushifaru/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Lunch at Fanihandi Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.fushifaru.com/a-day-in-the-life-at-fushifaru-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Teppanyaki",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.fushifaru.com/wine-dine/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Fanihandhi Pool Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.fushifaru.com/wine-dine/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Thundi Beach Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.fushifaru.com/wine-dine/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Raalhu Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.fushifaru.com/wine-dine/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "spa.name": [
+   {
+    "value": "Heylhi Spa",
+    "source_url": "https://maldives.ru/doc/static/Fushifaru%20Presentation%20-%20Russian%20Version.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "Veyoge Spa",
+    "source_url": "https://www.fushifaru.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Heylhi Spa",
+    "source_url": "https://www.fushifaru.com/honeymoon-of-a-lifetime-at-fushifaru-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Heylhi Spa",
+    "source_url": "https://www.fushifaru.com/why-celebrate-easter-2026-at-fushifaru-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Veyoge Spa",
+    "source_url": "https://www.fushifaru.com/spa/veyoge-spa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Veyoge Spa",
+    "source_url": "https://www.fushifaru.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Heylhi Spa",
+    "source_url": "https://www.fushifaru.com/news/fushifaru-maldives-invites-guests-to-rediscover-barefoot-luxury/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "At\nHeylhi Spa",
+    "source_url": "https://www.fushifaru.com/barefoot-luxury-at-fushifaru-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Heylhi Spa",
+    "source_url": "https://www.fushifaru.com/a-day-in-the-life-at-fushifaru-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://letsgomaldives.com/news/celebrate-a-wholesome-tropical-easter-at-fushifaru-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Heylhi Spa",
+    "source_url": "https://malediven.de/malediven-hotels/fushifaru/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "excursions": [
+   {
+    "value": "sandbank",
+    "source_url": "https://maldives.ru/doc/static/Fushifaru%20Presentation%20-%20Russian%20Version.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "cooking class",
+    "source_url": "https://maldives.ru/doc/static/Fushifaru%20Presentation%20-%20Russian%20Version.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.fushifaru.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.fushifaru.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.fushifaru.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.fushifaru.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "picnic",
+    "source_url": "https://www.fushifaru.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.fushifaru.com/honeymoon-of-a-lifetime-at-fushifaru-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.fushifaru.com/honeymoon-of-a-lifetime-at-fushifaru-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "picnic",
+    "source_url": "https://www.fushifaru.com/honeymoon-of-a-lifetime-at-fushifaru-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "castaway",
+    "source_url": "https://www.fushifaru.com/honeymoon-of-a-lifetime-at-fushifaru-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.fushifaru.com/news-press/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "local island",
+    "source_url": "https://www.fushifaru.com/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.fushifaru.com/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "cinema",
+    "source_url": "https://www.fushifaru.com/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "cooking class",
+    "source_url": "https://www.fushifaru.com/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.fushifaru.com/why-boutique-resorts-are-the-maldives-best-kept-secret/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.fushifaru.com/5-unique-experiences-at-fushifaru/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.fushifaru.com/5-unique-experiences-at-fushifaru/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.fushifaru.com/experience-the-magic-of-manta-ray-season/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.fushifaru.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.fushifaru.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.fushifaru.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.fushifaru.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "picnic",
+    "source_url": "https://www.fushifaru.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.fushifaru.com/news/fushifaru-maldives-invites-guests-to-rediscover-barefoot-luxury/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.fushifaru.com/news/fushifaru-maldives-invites-guests-to-rediscover-barefoot-luxury/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.fushifaru.com/news/fushifaru-maldives-invites-guests-to-rediscover-barefoot-luxury/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.fushifaru.com/news/fushifaru-maldives-invites-guests-to-rediscover-barefoot-luxury/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.fushifaru.com/wonderful-wildlife-at-fushifaru-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.fushifaru.com/wonderful-wildlife-at-fushifaru-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.fushifaru.com/wonderful-wildlife-at-fushifaru-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.fushifaru.com/barefoot-luxury-at-fushifaru-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.fushifaru.com/weddings-celebrations/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.fushifaru.com/a-foodies-guide-to-fushifaru/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "picnic",
+    "source_url": "https://www.fushifaru.com/a-foodies-guide-to-fushifaru/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "castaway",
+    "source_url": "https://www.fushifaru.com/a-foodies-guide-to-fushifaru/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.fushifaru.com/a-day-in-the-life-at-fushifaru-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.fushifaru.com/a-day-in-the-life-at-fushifaru-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "cooking class",
+    "source_url": "https://www.fushifaru.com/a-day-in-the-life-at-fushifaru-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.fushifaru.com/experience-the-magic-of-manta-ray-season/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.fushifaru.com/a-wedding-worthy-of-dreams-at-fushifaru/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "local island",
+    "source_url": "https://www.fushifaru.com/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.fushifaru.com/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "cinema",
+    "source_url": "https://www.fushifaru.com/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "cooking class",
+    "source_url": "https://www.fushifaru.com/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://malediven.de/malediven-hotels/fushifaru/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "wellness_fitness": [
+   {
+    "value": "sauna",
+    "source_url": "https://maldives.ru/doc/static/Fushifaru%20Presentation%20-%20Russian%20Version.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.fushifaru.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sauna",
+    "source_url": "https://www.fushifaru.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "steam",
+    "source_url": "https://www.fushifaru.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.fushifaru.com/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "gym",
+    "source_url": "https://www.fushifaru.com/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://www.fushifaru.com/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.fushifaru.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sauna",
+    "source_url": "https://www.fushifaru.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "steam",
+    "source_url": "https://www.fushifaru.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://www.fushifaru.com/news/fushifaru-maldives-invites-guests-to-rediscover-barefoot-luxury/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "padel",
+    "source_url": "https://www.fushifaru.com/news/fushifaru-maldives-invites-guests-to-rediscover-barefoot-luxury/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sauna",
+    "source_url": "https://www.fushifaru.com/spa/steam-sauna/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "steam",
+    "source_url": "https://www.fushifaru.com/spa/steam-sauna/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.fushifaru.com/a-day-in-the-life-at-fushifaru-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.fushifaru.com/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "gym",
+    "source_url": "https://www.fushifaru.com/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://www.fushifaru.com/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://malediven.de/malediven-hotels/fushifaru/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "weddings.offered": [
+   {
+    "value": true,
+    "source_url": "https://maldives.ru/doc/static/Fushifaru%20Presentation%20-%20Russian%20Version.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": true,
+    "source_url": "https://www.fushifaru.com/honeymoon-of-a-lifetime-at-fushifaru-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.fushifaru.com/offer/winter-sun-escape-offer/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.fushifaru.com/why-celebrate-easter-2026-at-fushifaru-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.fushifaru.com/offer/early-bird-2027/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.fushifaru.com/weddings-celebrations/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.fushifaru.com/weddings-celebrations/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.fushifaru.com/a-wedding-worthy-of-dreams-at-fushifaru/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.fushifaru.com/a-wedding-worthy-of-dreams-at-fushifaru/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://letsgomaldives.com/news/celebrate-a-wholesome-tropical-easter-at-fushifaru-maldives/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "meal_plans": [
+   {
+    "value": "AI",
+    "source_url": "https://www.fushifaru.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Premium AI",
+    "source_url": "https://www.fushifaru.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://www.fushifaru.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Premium AI",
+    "source_url": "https://www.fushifaru.com/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "all_inclusive_details": [
+   {
+    "value": "all-inclusive luxury and iconic experiences.",
+    "source_url": "https://www.fushifaru.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "all-inclusive luxury and iconic experiences.",
+    "source_url": "https://www.fushifaru.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "All-Inclusive resort set on a natural island in the Lhaviyani Atoll, surrounded by crystal-clear waters and world-class dive sites.",
+    "source_url": "https://www.fushifaru.com/news/fushifaru-maldives-invites-guests-to-rediscover-barefoot-luxury/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "diving_watersports.activities": [
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.fushifaru.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://www.fushifaru.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "windsurfing",
+    "source_url": "https://www.fushifaru.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "surfing",
+    "source_url": "https://www.fushifaru.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "kayaking",
+    "source_url": "https://www.fushifaru.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "catamaran",
+    "source_url": "https://www.fushifaru.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "jet ski",
+    "source_url": "https://www.fushifaru.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "parasailing",
+    "source_url": "https://www.fushifaru.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.fushifaru.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.fushifaru.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.fushifaru.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sailing",
+    "source_url": "https://www.fushifaru.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.fushifaru.com/honeymoon-of-a-lifetime-at-fushifaru-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.fushifaru.com/honeymoon-of-a-lifetime-at-fushifaru-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "windsurfing",
+    "source_url": "https://www.fushifaru.com/honeymoon-of-a-lifetime-at-fushifaru-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "kayaking",
+    "source_url": "https://www.fushifaru.com/honeymoon-of-a-lifetime-at-fushifaru-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "paddleboard",
+    "source_url": "https://www.fushifaru.com/honeymoon-of-a-lifetime-at-fushifaru-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "jet ski",
+    "source_url": "https://www.fushifaru.com/honeymoon-of-a-lifetime-at-fushifaru-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin cruise",
+    "source_url": "https://www.fushifaru.com/honeymoon-of-a-lifetime-at-fushifaru-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "canoe",
+    "source_url": "https://www.fushifaru.com/honeymoon-of-a-lifetime-at-fushifaru-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.fushifaru.com/offer/winter-sun-escape-offer/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "stand-up paddle",
+    "source_url": "https://www.fushifaru.com/offer/winter-sun-escape-offer/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "paddleboard",
+    "source_url": "https://www.fushifaru.com/offer/winter-sun-escape-offer/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "canoe",
+    "source_url": "https://www.fushifaru.com/offer/winter-sun-escape-offer/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.fushifaru.com/a-hopeful-future-for-our-coral-reefs/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.fushifaru.com/offer/romantic-indulgence/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "stand-up paddle",
+    "source_url": "https://www.fushifaru.com/offer/romantic-indulgence/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "paddleboard",
+    "source_url": "https://www.fushifaru.com/offer/romantic-indulgence/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "canoe",
+    "source_url": "https://www.fushifaru.com/offer/romantic-indulgence/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.fushifaru.com/why-celebrate-easter-2026-at-fushifaru-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "kayaking",
+    "source_url": "https://www.fushifaru.com/why-celebrate-easter-2026-at-fushifaru-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "paddleboard",
+    "source_url": "https://www.fushifaru.com/why-celebrate-easter-2026-at-fushifaru-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.fushifaru.com/why-celebrate-easter-2026-at-fushifaru-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.fushifaru.com/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.fushifaru.com/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.fushifaru.com/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.fushifaru.com/why-boutique-resorts-are-the-maldives-best-kept-secret/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.fushifaru.com/offer/family-offer/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "stand-up paddle",
+    "source_url": "https://www.fushifaru.com/offer/family-offer/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "paddleboard",
+    "source_url": "https://www.fushifaru.com/offer/family-offer/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "canoe",
+    "source_url": "https://www.fushifaru.com/offer/family-offer/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.fushifaru.com/villas/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.fushifaru.com/experience-the-magic-of-manta-ray-season/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.fushifaru.com/experience-the-magic-of-manta-ray-season/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.fushifaru.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://www.fushifaru.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "windsurfing",
+    "source_url": "https://www.fushifaru.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "surfing",
+    "source_url": "https://www.fushifaru.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "kayaking",
+    "source_url": "https://www.fushifaru.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "catamaran",
+    "source_url": "https://www.fushifaru.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "jet ski",
+    "source_url": "https://www.fushifaru.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "parasailing",
+    "source_url": "https://www.fushifaru.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.fushifaru.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.fushifaru.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.fushifaru.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sailing",
+    "source_url": "https://www.fushifaru.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.fushifaru.com/news/fushifaru-maldives-invites-guests-to-rediscover-barefoot-luxury/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.fushifaru.com/news/fushifaru-maldives-invites-guests-to-rediscover-barefoot-luxury/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.fushifaru.com/offer/early-bird-2027/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "stand-up paddle",
+    "source_url": "https://www.fushifaru.com/offer/early-bird-2027/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "paddleboard",
+    "source_url": "https://www.fushifaru.com/offer/early-bird-2027/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "canoe",
+    "source_url": "https://www.fushifaru.com/offer/early-bird-2027/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.fushifaru.com/offer/romantic-indulgence/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "stand-up paddle",
+    "source_url": "https://www.fushifaru.com/offer/romantic-indulgence/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "paddleboard",
+    "source_url": "https://www.fushifaru.com/offer/romantic-indulgence/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "canoe",
+    "source_url": "https://www.fushifaru.com/offer/romantic-indulgence/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.fushifaru.com/wonderful-wildlife-at-fushifaru-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.fushifaru.com/barefoot-luxury-at-fushifaru-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.fushifaru.com/a-day-in-the-life-at-fushifaru-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin cruise",
+    "source_url": "https://www.fushifaru.com/a-day-in-the-life-at-fushifaru-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.fushifaru.com/experience-the-magic-of-manta-ray-season/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.fushifaru.com/experience-the-magic-of-manta-ray-season/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.fushifaru.com/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.fushifaru.com/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.fushifaru.com/experiences/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "kids_family.kids_club": [
+   {
+    "value": "Recreation\nKokko Kids Club",
+    "source_url": "https://www.fushifaru.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Kokko Kids Club",
+    "source_url": "https://www.fushifaru.com/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Recreation\nKokko Kids Club",
+    "source_url": "https://www.fushifaru.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Kokko Kids Club",
+    "source_url": "https://www.fushifaru.com/experiences/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "sustainability": [
+   {
+    "value": "marine biologist",
+    "source_url": "https://www.fushifaru.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "coral restoration",
+    "source_url": "https://www.fushifaru.com/a-hopeful-future-for-our-coral-reefs/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "marine biologist",
+    "source_url": "https://www.fushifaru.com/a-hopeful-future-for-our-coral-reefs/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "reef restoration",
+    "source_url": "https://www.fushifaru.com/a-hopeful-future-for-our-coral-reefs/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "marine biologist",
+    "source_url": "https://www.fushifaru.com/5-unique-experiences-at-fushifaru/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "marine biologist",
+    "source_url": "https://www.fushifaru.com/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "atoll": [
+   {
+    "value": "Lhaviyani Atoll",
+    "source_url": "https://www.fushifaru.com/honeymoon-of-a-lifetime-at-fushifaru-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Lhaviyani Atoll",
+    "source_url": "https://www.fushifaru.com/a-hopeful-future-for-our-coral-reefs/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Lhaviyani Atoll",
+    "source_url": "https://www.fushifaru.com/news-press/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Lhaviyani Atoll",
+    "source_url": "https://www.fushifaru.com/why-boutique-resorts-are-the-maldives-best-kept-secret/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Lhaviyani Atoll",
+    "source_url": "https://www.fushifaru.com/experience-the-magic-of-manta-ray-season/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Lhaviyani Atoll",
+    "source_url": "https://www.fushifaru.com/news/fushifaru-maldives-invites-guests-to-rediscover-barefoot-luxury/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Lhaviyani Atoll",
+    "source_url": "https://www.fushifaru.com/wonderful-wildlife-at-fushifaru-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Lhaviyani Atoll",
+    "source_url": "https://www.fushifaru.com/barefoot-luxury-at-fushifaru-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Lhaviyani Atoll",
+    "source_url": "https://www.fushifaru.com/a-day-in-the-life-at-fushifaru-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Lhaviyani Atoll",
+    "source_url": "https://www.fushifaru.com/experience-the-magic-of-manta-ray-season/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Lhaviyani Atoll",
+    "source_url": "https://www.fushifaru.com/getting-here/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Lhaviyani Atoll",
+    "source_url": "https://letsgomaldives.com/news/fushifaru-maldives-wins-four-awards-at-the-prestigious-luxe-global-awards/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Lhaviyani Atoll",
+    "source_url": "https://malediven.de/malediven-hotels/fushifaru/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "transfer.modes": [
+   {
+    "value": "seaplane",
+    "source_url": "https://www.fushifaru.com/offer/winter-sun-escape-offer/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.fushifaru.com/offer/romantic-indulgence/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.fushifaru.com/offer/family-offer/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.fushifaru.com/news/fushifaru-maldives-invites-guests-to-rediscover-barefoot-luxury/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.fushifaru.com/offer/early-bird-2027/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.fushifaru.com/offer/romantic-indulgence/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.fushifaru.com/getting-here/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.fushifaru.com/getting-here/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "domestic flight",
+    "source_url": "https://www.fushifaru.com/getting-here/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "diving_watersports.house_reef": [
+   {
+    "value": "House Reef",
+    "source_url": "https://www.fushifaru.com/offer/winter-sun-escape-offer/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "House Reef",
+    "source_url": "https://www.fushifaru.com/offer/romantic-indulgence/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "House Reef",
+    "source_url": "https://www.fushifaru.com/offer/family-offer/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef and admiring the variety and diversity of colorful marine life",
+    "source_url": "https://www.fushifaru.com/villas/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef is teeming with a kaleidoscope of marine life, from graceful rays to playful turtles",
+    "source_url": "https://www.fushifaru.com/5-unique-experiences-at-fushifaru/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef offers effortless snorkelling directly from the shore, where colourful coral gardens are home to turtles, reef sharks, eagle rays and countless tropical fish",
+    "source_url": "https://www.fushifaru.com/news/fushifaru-maldives-invites-guests-to-rediscover-barefoot-luxury/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef and underwater playground",
+    "source_url": "https://www.fushifaru.com/offer/early-bird-2027/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "House Reef",
+    "source_url": "https://www.fushifaru.com/offer/romantic-indulgence/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef or opt for an excursion with our Dive Centre that offers tours to the best spots around the Lhaviyani Atoll, ensuring an unforgettable experience",
+    "source_url": "https://www.fushifaru.com/a-day-in-the-life-at-fushifaru-maldives/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "transfer.minutes.seaplane": [
+   {
+    "value": 35,
+    "source_url": "https://www.fushifaru.com/news/fushifaru-maldives-invites-guests-to-rediscover-barefoot-luxury/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 5,
+    "source_url": "https://www.fushifaru.com/getting-here/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "villas.total": [
+   {
+    "value": 63,
+    "source_url": "https://www.fushifaru.com/news/fushifaru-maldives-invites-guests-to-rediscover-barefoot-luxury/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "contacts_public.reservations_email": [
+   {
+    "value": "reservations@fushifaru.com",
+    "source_url": "https://www.fushifaru.com/news/fushifaru-maldives-invites-guests-to-rediscover-barefoot-luxury/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "reservations@fushifaru.com",
+    "source_url": "https://www.fushifaru.com/privacy-policy/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "weddings.venues": [
+   {
+    "value": "Private Sandbank Wedding",
+    "source_url": "https://www.fushifaru.com/weddings-celebrations/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Beach Wedding",
+    "source_url": "https://www.fushifaru.com/a-wedding-worthy-of-dreams-at-fushifaru/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Private Sandbank Wedding",
+    "source_url": "https://www.fushifaru.com/a-wedding-worthy-of-dreams-at-fushifaru/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Group Sandbank Wedding",
+    "source_url": "https://www.fushifaru.com/a-wedding-worthy-of-dreams-at-fushifaru/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "diving_watersports.operator": [
+   {
+    "value": "Dive Centre",
+    "source_url": "https://www.fushifaru.com/a-day-in-the-life-at-fushifaru-maldives/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "transfer.minutes.speedboat": [
+   {
+    "value": 15,
+    "source_url": "https://www.fushifaru.com/getting-here/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "transfer.minutes.domestic flight": [
+   {
+    "value": 35,
+    "source_url": "https://www.fushifaru.com/getting-here/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "opened_or_renovated": [
+   {
+    "value": "opened 2021",
+    "source_url": "https://letsgomaldives.com/news/fushifaru-maldives-wins-four-awards-at-the-prestigious-luxe-global-awards/",
+    "as_of": "2026-10-04"
+   }
+  ]
+ },
+ "last_updated": "2026-10-05"
 }

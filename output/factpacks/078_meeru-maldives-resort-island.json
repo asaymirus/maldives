@@ -6,27 +6,28 @@
   "Meeru",
   "Meerufenfushi"
  ],
- "official_url": null,
- "official_site_status": null,
+ "official_url": "https://www.meeru.com/",
+ "official_site_status": "ok",
  "operator_brand": null,
  "atoll": "Kaafu Atoll",
  "island": "Meerufenfushi",
  "opened_or_renovated": null,
- "star_rating": "5-star",
+ "star_rating": "4-star",
  "transfer": {
   "modes": [
-   "speedboat"
+   "speedboat",
+   "seaplane"
   ],
   "minutes": {
    "seaplane": null,
-   "speedboat": 55,
+   "speedboat": 50,
    "domestic flight": null,
    "yacht": null
   }
  },
  "island_size": "32 ha",
  "villas": {
-  "total": 282,
+  "total": 285,
   "categories": [
    {
     "name": "Water Sports Center Jacuzzi Beach Villas",
@@ -53,7 +54,7 @@
     "overwater": null
    },
    {
-    "name": "OCEAN VILLAS an elegant overwater villa",
+    "name": "OCEAN VILLAS",
     "count": null,
     "size_sqm": 85,
     "max_occupancy": null,
@@ -61,7 +62,7 @@
     "overwater": true
    },
    {
-    "name": "WATER FRONT VILLAS indulge in beach side",
+    "name": "WATER FRONT VILLAS",
     "count": null,
     "size_sqm": 60,
     "max_occupancy": null,
@@ -69,7 +70,7 @@
     "overwater": null
    },
    {
-    "name": "JACUZZI BEACH VILLAS feel the sand",
+    "name": "JACUZZI BEACH VILLAS",
     "count": null,
     "size_sqm": 80,
     "max_occupancy": null,
@@ -77,7 +78,7 @@
     "overwater": null
    },
    {
-    "name": "JACUZZI WATER VILLAS a natural wood",
+    "name": "JACUZZI WATER VILLAS",
     "count": null,
     "size_sqm": 85,
     "max_occupancy": null,
@@ -91,72 +92,48 @@
     "max_occupancy": null,
     "pool": true,
     "overwater": null
+   },
+   {
+    "name": "Residences Powered",
+    "count": 15,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "Villas",
+    "count": 90,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
    }
   ]
  },
  "dining": [
   {
-   "name": "1 Arrival/Departure Jetty 25 Maalan Restaurant",
-   "cuisine": null,
-   "type": "restaurant"
-  },
-  {
-   "name": "Champa Maa Conference Room 28 Pavilion Bar",
-   "cuisine": null,
-   "type": "bar"
-  },
-  {
-   "name": "Dhoni Bar/Meeru Cafe/The Reef 30 Vilu Pool 36",
-   "cuisine": null,
-   "type": "bar"
-  },
-  {
-   "name": "Kakuni Bar/Games Room 31 Ekuveni Staff Center",
-   "cuisine": null,
-   "type": "bar"
-  },
-  {
-   "name": "6 Dhoni Bar Pool/Children's Pool/",
-   "cuisine": null,
-   "type": "bar"
-  },
-  {
-   "name": "of 20 rooms near the Dhoni Bar pool, these modest and",
-   "cuisine": null,
-   "type": "bar"
-  },
-  {
-   "name": "carte choices; room service, Meeru Café near Dhoni Bar pool",
-   "cuisine": null,
-   "type": "bar"
-  },
-  {
-   "name": "Dhoni Bar or Pavilion Bar on the beach; Kakuni Bar, with",
-   "cuisine": null,
-   "type": "bar"
-  },
-  {
-   "name": "of international sporting events. Uthuru Bar, Vilu Bar and",
-   "cuisine": null,
-   "type": "bar"
-  },
-  {
    "name": "drinks at Asian Wok Bar.",
    "cuisine": null,
    "type": "bar"
+  },
+  {
+   "name": "Kitchen), and Selected Events.",
+   "cuisine": null,
+   "type": "restaurant"
   }
  ],
  "meal_plans": [],
- "all_inclusive_details": null,
+ "all_inclusive_details": "All-Inclusive Dine Around Package.",
  "spa": {
   "name": "Duniye Spa",
   "treatment_rooms": null,
   "signature_treatments": [],
-  "menu_doc": null
+  "menu_doc": "https://www.meeru.com/wp-content/uploads/2025/07/DuniyeSpaMenuA3Meeru110124103125Ver070424-English.pdf"
  },
  "diving_watersports": {
-  "operator": "Euro-Divers",
-  "house_reef": "House Reef (with age restriction, equipment not included)",
+  "operator": "Ocean Pro",
+  "house_reef": "House Reef Snorkeling trip (age restrictions apply), as per schedule",
   "activities": [
    "snorkelling",
    "snorkeling",
@@ -168,15 +145,18 @@
    "fishing",
    "sunset cruise",
    "sailing",
-   "fun tube"
+   "fun tube",
+   "scuba diving",
+   "canoe"
   ],
-  "price_list_doc": null
+  "price_list_doc": "https://www.meeru.com/wp-content/uploads/2025/06/MEERU-DIVE-GERMAN.pdf"
  },
  "excursions": [
   "sandbank",
   "turtle",
   "stargazing",
-  "cinema"
+  "cinema",
+  "big game fishing"
  ],
  "kids_family": {
   "kids_club": null,
@@ -191,7 +171,8 @@
   "tennis",
   "padel",
   "badminton",
-  "beach volleyball"
+  "beach volleyball",
+  "steam"
  ],
  "weddings": {
   "offered": true,
@@ -211,77 +192,141 @@
   "buyout": null,
   "doc": null
  },
- "sustainability": [],
+ "sustainability": [
+  "coral restoration",
+  "marine biologist",
+  "solar",
+  "desalination"
+ ],
  "contacts_public": {
-  "reservations_email": null,
+  "reservations_email": "reservations@meeru.com",
   "weddings_email": null,
-  "phone": null
+  "phone": "+960 664 0219"
  },
  "documents_latest": {
-  "factsheet": "https://sales.crownandchamparesorts.com/wp-content/uploads/2025/12/FactSheetMeeru110125103126Ver01022025.pdf",
-  "map": "https://sales.crownandchamparesorts.com/wp-content/uploads/2025/08/MeeruMaldivesColorMap110125103126Ver200425.pdf",
+  "factsheet": "https://www.meeru.com/wp-content/uploads/2025/11/FactSheetMeeru110125103126Ver01022025.pdf",
+  "map": "https://www.meeru.com/wp-content/uploads/2025/11/MeeruMaldivesColorMap110125103126Ver200425.pdf",
   "wedding": null,
-  "spa_menu": null,
-  "dining_menu": null,
-  "dive_prices": null,
+  "spa_menu": "https://www.meeru.com/wp-content/uploads/2025/07/DuniyeSpaMenuA3Meeru110124103125Ver070424-English.pdf",
+  "dining_menu": "https://www.meeru.com/wp-content/uploads/2026/10/ASIAN_WOK_FOOD_MENU.pdf",
+  "dive_prices": "https://www.meeru.com/wp-content/uploads/2025/06/MEERU-DIVE-GERMAN.pdf",
   "events": null,
-  "calendar": null
+  "calendar": "https://d2qwq69i2ic1pk.cloudfront.net/2023/11/CCR_2024_Calendar_compressed.pdf"
  },
- "documents_count": 9,
+ "documents_count": 62,
  "gaps": [
   "wedding brochure",
   "events/MICE document",
-  "fact: kids club",
-  "fact: contacts"
+  "fact: kids club"
  ],
  "sources": {
   "atoll": [
    {
     "value": "Kaafu Atoll",
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2025/12/FactSheetMeeru110125103126Ver01022025.pdf",
+    "source_url": "https://www.meeru.com/wp-content/uploads/2025/11/FactSheetMeeru110125103126Ver01022025.pdf",
     "as_of": 2025
+   },
+   {
+    "value": "Kaafu Atoll",
+    "source_url": "https://www.mymaldives.com/resort-guide/meeru-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Kaafu Atoll",
+    "source_url": "https://malediven.de/malediven-hotels/meeru-island/",
+    "as_of": "2026-10-04"
    }
   ],
   "island": [
    {
     "value": "Meerufenfushi",
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2025/12/FactSheetMeeru110125103126Ver01022025.pdf",
+    "source_url": "https://www.meeru.com/wp-content/uploads/2025/11/FactSheetMeeru110125103126Ver01022025.pdf",
     "as_of": 2025
+   },
+   {
+    "value": "Meerufenfushi",
+    "source_url": "https://www.maldivestourism.net/resorts/meeru-island-resort/",
+    "as_of": "2026-10-04"
    }
   ],
   "star_rating": [
    {
     "value": "5-star",
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2025/12/FactSheetMeeru110125103126Ver01022025.pdf",
+    "source_url": "https://www.meeru.com/wp-content/uploads/2025/11/FactSheetMeeru110125103126Ver01022025.pdf",
     "as_of": 2025
+   },
+   {
+    "value": "4-star",
+    "source_url": "https://www.mymaldives.com/resort-guide/meeru-island-resort/",
+    "as_of": "2026-10-04"
    }
   ],
   "transfer.modes": [
    {
     "value": "speedboat",
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2025/12/FactSheetMeeru110125103126Ver01022025.pdf",
+    "source_url": "https://www.meeru.com/wp-content/uploads/2025/11/FactSheetMeeru110125103126Ver01022025.pdf",
     "as_of": 2025
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.mymaldives.com/resort-guide/meeru-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.maldivestourism.net/resorts/meeru-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.maldivestourism.net/resorts/meeru-island-resort/",
+    "as_of": "2026-10-04"
    }
   ],
   "transfer.minutes.speedboat": [
    {
     "value": 55,
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2025/12/FactSheetMeeru110125103126Ver01022025.pdf",
+    "source_url": "https://www.meeru.com/wp-content/uploads/2025/11/FactSheetMeeru110125103126Ver01022025.pdf",
     "as_of": 2025
+   },
+   {
+    "value": 50,
+    "source_url": "https://www.mymaldives.com/resort-guide/meeru-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 55,
+    "source_url": "https://www.maldivestourism.net/resorts/meeru-island-resort/",
+    "as_of": "2026-10-04"
    }
   ],
   "island_size": [
    {
     "value": "32 ha",
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2025/12/FactSheetMeeru110125103126Ver01022025.pdf",
+    "source_url": "https://www.meeru.com/wp-content/uploads/2025/11/FactSheetMeeru110125103126Ver01022025.pdf",
     "as_of": 2025
    }
   ],
   "villas.total": [
    {
     "value": 282,
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2025/12/FactSheetMeeru110125103126Ver01022025.pdf",
+    "source_url": "https://www.meeru.com/wp-content/uploads/2025/11/FactSheetMeeru110125103126Ver01022025.pdf",
     "as_of": 2025
+   },
+   {
+    "value": 15,
+    "source_url": "https://d2qwq69i2ic1pk.cloudfront.net/2026/02/Sustainablity-Initiatives-Brochure-CCR-2025.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": 285,
+    "source_url": "https://www.mymaldives.com/resort-guide/meeru-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 286,
+    "source_url": "https://www.maldivestourism.net/resorts/meeru-island-resort/",
+    "as_of": "2026-10-04"
    }
   ],
   "villas.categories": [
@@ -294,7 +339,7 @@
      "pool": null,
      "overwater": null
     },
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2025/12/FactSheetMeeru110125103126Ver01022025.pdf",
+    "source_url": "https://www.meeru.com/wp-content/uploads/2025/11/FactSheetMeeru110125103126Ver01022025.pdf",
     "as_of": 2025
    },
    {
@@ -306,7 +351,7 @@
      "pool": true,
      "overwater": null
     },
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2025/12/FactSheetMeeru110125103126Ver01022025.pdf",
+    "source_url": "https://www.meeru.com/wp-content/uploads/2025/11/FactSheetMeeru110125103126Ver01022025.pdf",
     "as_of": 2025
    },
    {
@@ -318,55 +363,55 @@
      "pool": true,
      "overwater": null
     },
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2025/12/FactSheetMeeru110125103126Ver01022025.pdf",
+    "source_url": "https://www.meeru.com/wp-content/uploads/2025/11/FactSheetMeeru110125103126Ver01022025.pdf",
     "as_of": 2025
    },
    {
     "value": {
-     "name": "OCEAN VILLAS an elegant overwater villa",
+     "name": "OCEAN VILLAS",
      "count": null,
      "size_sqm": 85,
      "max_occupancy": null,
      "pool": null,
      "overwater": true
     },
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2025/12/FactSheetMeeru110125103126Ver01022025.pdf",
+    "source_url": "https://www.meeru.com/wp-content/uploads/2025/11/FactSheetMeeru110125103126Ver01022025.pdf",
     "as_of": 2025
    },
    {
     "value": {
-     "name": "WATER FRONT VILLAS indulge in beach side",
+     "name": "WATER FRONT VILLAS",
      "count": null,
      "size_sqm": 60,
      "max_occupancy": null,
      "pool": null,
      "overwater": null
     },
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2025/12/FactSheetMeeru110125103126Ver01022025.pdf",
+    "source_url": "https://www.meeru.com/wp-content/uploads/2025/11/FactSheetMeeru110125103126Ver01022025.pdf",
     "as_of": 2025
    },
    {
     "value": {
-     "name": "JACUZZI BEACH VILLAS feel the sand",
+     "name": "JACUZZI BEACH VILLAS",
      "count": null,
      "size_sqm": 80,
      "max_occupancy": null,
      "pool": null,
      "overwater": null
     },
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2025/12/FactSheetMeeru110125103126Ver01022025.pdf",
+    "source_url": "https://www.meeru.com/wp-content/uploads/2025/11/FactSheetMeeru110125103126Ver01022025.pdf",
     "as_of": 2025
    },
    {
     "value": {
-     "name": "JACUZZI WATER VILLAS a natural wood",
+     "name": "JACUZZI WATER VILLAS",
      "count": null,
      "size_sqm": 85,
      "max_occupancy": null,
      "pool": null,
      "overwater": null
     },
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2025/12/FactSheetMeeru110125103126Ver01022025.pdf",
+    "source_url": "https://www.meeru.com/wp-content/uploads/2025/11/FactSheetMeeru110125103126Ver01022025.pdf",
     "as_of": 2025
    },
    {
@@ -378,7 +423,7 @@
      "pool": true,
      "overwater": null
     },
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2025/12/FactSheetMeeru110125103126Ver01022025.pdf",
+    "source_url": "https://www.meeru.com/wp-content/uploads/2025/11/FactSheetMeeru110125103126Ver01022025.pdf",
     "as_of": 2025
    },
    {
@@ -390,7 +435,91 @@
      "pool": true,
      "overwater": null
     },
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2025/12/FactSheetMeeru110125103126Ver01022025.pdf",
+    "source_url": "https://www.meeru.com/wp-content/uploads/2025/11/FactSheetMeeru110125103126Ver01022025.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": {
+     "name": "Residences Powered",
+     "count": 15,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://d2qwq69i2ic1pk.cloudfront.net/2026/02/Sustainablity-Initiatives-Brochure-CCR-2025.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": {
+     "name": "Villas",
+     "count": 90,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://d2qwq69i2ic1pk.cloudfront.net/2026/02/Sustainablity-Initiatives-Brochure-CCR-2025.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": {
+     "name": "Villas",
+     "count": 100,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://d2qwq69i2ic1pk.cloudfront.net/2026/02/Sustainablity-Initiatives-Brochure-CCR-2025.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": {
+     "name": "Villas",
+     "count": 290,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://d2qwq69i2ic1pk.cloudfront.net/2026/02/Sustainablity-Initiatives-Brochure-CCR-2025.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": {
+     "name": "Villas",
+     "count": 65,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://d2qwq69i2ic1pk.cloudfront.net/2026/02/Sustainablity-Initiatives-Brochure-CCR-2025.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": {
+     "name": "Villas",
+     "count": 284,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://d2qwq69i2ic1pk.cloudfront.net/2026/02/Sustainablity-Initiatives-Brochure-CCR-2025.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": {
+     "name": "Villas",
+     "count": 389,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://d2qwq69i2ic1pk.cloudfront.net/2026/02/Sustainablity-Initiatives-Brochure-CCR-2025.pdf",
     "as_of": 2025
    },
    {
@@ -402,7 +531,7 @@
      "pool": null,
      "overwater": null
     },
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2025/08/MeeruMaldivesColorMap110125103126Ver200425.pdf",
+    "source_url": "https://www.meeru.com/wp-content/uploads/2025/11/MeeruMaldivesColorMap110125103126Ver200425.pdf",
     "as_of": 2025
    },
    {
@@ -414,7 +543,7 @@
      "pool": true,
      "overwater": null
     },
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2025/08/MeeruMaldivesColorMap110125103126Ver200425.pdf",
+    "source_url": "https://www.meeru.com/wp-content/uploads/2025/11/MeeruMaldivesColorMap110125103126Ver200425.pdf",
     "as_of": 2025
    },
    {
@@ -426,399 +555,515 @@
      "pool": true,
      "overwater": null
     },
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2025/08/MeeruMaldivesColorMap110125103126Ver200425.pdf",
+    "source_url": "https://www.meeru.com/wp-content/uploads/2025/11/MeeruMaldivesColorMap110125103126Ver200425.pdf",
     "as_of": 2025
    }
   ],
   "dining": [
    {
     "value": {
-     "name": "1 Arrival/Departure Jetty 25 Maalan Restaurant",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2025/12/FactSheetMeeru110125103126Ver01022025.pdf",
-    "as_of": 2025
-   },
-   {
-    "value": {
-     "name": "Champa Maa Conference Room 28 Pavilion Bar",
-     "cuisine": null,
-     "type": "bar"
-    },
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2025/12/FactSheetMeeru110125103126Ver01022025.pdf",
-    "as_of": 2025
-   },
-   {
-    "value": {
-     "name": "Dhoni Bar/Meeru Cafe/The Reef 30 Vilu Pool 36",
-     "cuisine": null,
-     "type": "bar"
-    },
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2025/12/FactSheetMeeru110125103126Ver01022025.pdf",
-    "as_of": 2025
-   },
-   {
-    "value": {
-     "name": "Kakuni Bar/Games Room 31 Ekuveni Staff Center",
-     "cuisine": null,
-     "type": "bar"
-    },
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2025/12/FactSheetMeeru110125103126Ver01022025.pdf",
-    "as_of": 2025
-   },
-   {
-    "value": {
-     "name": "6 Dhoni Bar Pool/Children's Pool/",
-     "cuisine": null,
-     "type": "bar"
-    },
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2025/12/FactSheetMeeru110125103126Ver01022025.pdf",
-    "as_of": 2025
-   },
-   {
-    "value": {
-     "name": "of 20 rooms near the Dhoni Bar pool, these modest and",
-     "cuisine": null,
-     "type": "bar"
-    },
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2025/12/FactSheetMeeru110125103126Ver01022025.pdf",
-    "as_of": 2025
-   },
-   {
-    "value": {
-     "name": "carte choices; room service, Meeru Café near Dhoni Bar pool",
-     "cuisine": null,
-     "type": "bar"
-    },
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2025/12/FactSheetMeeru110125103126Ver01022025.pdf",
-    "as_of": 2025
-   },
-   {
-    "value": {
-     "name": "Dhoni Bar or Pavilion Bar on the beach; Kakuni Bar, with",
-     "cuisine": null,
-     "type": "bar"
-    },
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2025/12/FactSheetMeeru110125103126Ver01022025.pdf",
-    "as_of": 2025
-   },
-   {
-    "value": {
-     "name": "of international sporting events. Uthuru Bar, Vilu Bar and",
-     "cuisine": null,
-     "type": "bar"
-    },
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2025/12/FactSheetMeeru110125103126Ver01022025.pdf",
-    "as_of": 2025
-   },
-   {
-    "value": {
      "name": "drinks at Asian Wok Bar.",
      "cuisine": null,
      "type": "bar"
     },
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2025/12/FactSheetMeeru110125103126Ver01022025.pdf",
+    "source_url": "https://www.meeru.com/wp-content/uploads/2025/11/FactSheetMeeru110125103126Ver01022025.pdf",
     "as_of": 2025
    },
    {
     "value": {
-     "name": "1 Arrival/Departure Jetty 25 Maalan Restaurant",
+     "name": "Kitchen), and Selected Events.",
      "cuisine": null,
      "type": "restaurant"
     },
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2025/08/MeeruMaldivesColorMap110125103126Ver200425.pdf",
-    "as_of": 2025
-   },
-   {
-    "value": {
-     "name": "Champa Maa Conference Room 28 Pavilion Bar",
-     "cuisine": null,
-     "type": "bar"
-    },
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2025/08/MeeruMaldivesColorMap110125103126Ver200425.pdf",
-    "as_of": 2025
-   },
-   {
-    "value": {
-     "name": "Dhoni Bar/Meeru Cafe/The Reef 30 Vilu Pool 36",
-     "cuisine": null,
-     "type": "bar"
-    },
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2025/08/MeeruMaldivesColorMap110125103126Ver200425.pdf",
-    "as_of": 2025
-   },
-   {
-    "value": {
-     "name": "Kakuni Bar/Games Room 31 Ekuveni Staff Center",
-     "cuisine": null,
-     "type": "bar"
-    },
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2025/08/MeeruMaldivesColorMap110125103126Ver200425.pdf",
-    "as_of": 2025
-   },
-   {
-    "value": {
-     "name": "6 Dhoni Bar Pool/Children's Pool/",
-     "cuisine": null,
-     "type": "bar"
-    },
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2025/08/MeeruMaldivesColorMap110125103126Ver200425.pdf",
-    "as_of": 2025
+    "source_url": "https://www.meeru.com/wp-content/uploads/2025/11/AllInclusiveDineAroundPackageMeeru.pdf",
+    "as_of": 2026
    }
   ],
   "spa.name": [
    {
     "value": "Duniye Spa",
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2025/12/FactSheetMeeru110125103126Ver01022025.pdf",
+    "source_url": "https://www.meeru.com/wp-content/uploads/2025/11/FactSheetMeeru110125103126Ver01022025.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.meeru.com/wp-content/uploads/2025/07/DuniyeSpaMenuA3Meeru110124103125Ver070424-English.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "Duniye Spa",
+    "source_url": "https://www.meeru.com/wp-content/uploads/2025/11/AllInclusiveDineAroundPackageMeeru.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://d2qwq69i2ic1pk.cloudfront.net/2026/02/Sustainablity-Initiatives-Brochure-CCR-2025.pdf",
     "as_of": 2025
    },
    {
     "value": "Duniye Spa",
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2025/08/MeeruMaldivesColorMap110125103126Ver200425.pdf",
+    "source_url": "https://www.meeru.com/wp-content/uploads/2025/11/MeeruMaldivesColorMap110125103126Ver200425.pdf",
     "as_of": 2025
+   },
+   {
+    "value": "Duniye Spa",
+    "source_url": "https://www.mymaldives.com/resort-guide/meeru-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Duniye Spa",
+    "source_url": "https://www.maldivestourism.net/resorts/meeru-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://malediven.de/malediven-hotels/meeru-island/",
+    "as_of": "2026-10-04"
    }
   ],
   "diving_watersports.operator": [
    {
     "value": "Euro-Divers",
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2025/12/FactSheetMeeru110125103126Ver01022025.pdf",
+    "source_url": "https://www.meeru.com/wp-content/uploads/2025/11/FactSheetMeeru110125103126Ver01022025.pdf",
     "as_of": 2025
    },
    {
     "value": "Euro-Divers",
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2025/08/MeeruMaldivesColorMap110125103126Ver200425.pdf",
+    "source_url": "https://www.meeru.com/wp-content/uploads/2025/06/MEERU-DIVE-GERMAN.pdf",
     "as_of": 2025
+   },
+   {
+    "value": "Euro Divers",
+    "source_url": "https://d2qwq69i2ic1pk.cloudfront.net/2026/02/Sustainablity-Initiatives-Brochure-CCR-2025.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "Euro-Divers",
+    "source_url": "https://www.meeru.com/wp-content/uploads/2025/11/MeeruMaldivesColorMap110125103126Ver200425.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "Ocean Pro",
+    "source_url": "https://www.mymaldives.com/resort-guide/meeru-island-resort/",
+    "as_of": "2026-10-04"
    }
   ],
   "diving_watersports.house_reef": [
    {
-    "value": "House Reef (with age restriction, equipment not included)",
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2025/12/FactSheetMeeru110125103126Ver01022025.pdf",
+    "value": "house reef (with age restriction, equipment not included)",
+    "source_url": "https://www.meeru.com/wp-content/uploads/2025/11/FactSheetMeeru110125103126Ver01022025.pdf",
     "as_of": 2025
+   },
+   {
+    "value": "House Reef Snorkeling trip (age restrictions apply), as per schedule",
+    "source_url": "https://www.meeru.com/wp-content/uploads/2025/11/AllInclusiveDineAroundPackageMeeru.pdf",
+    "as_of": 2026
    }
   ],
   "diving_watersports.activities": [
    {
     "value": "snorkelling",
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2025/12/FactSheetMeeru110125103126Ver01022025.pdf",
+    "source_url": "https://www.meeru.com/wp-content/uploads/2025/11/FactSheetMeeru110125103126Ver01022025.pdf",
     "as_of": 2025
    },
    {
     "value": "snorkeling",
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2025/12/FactSheetMeeru110125103126Ver01022025.pdf",
+    "source_url": "https://www.meeru.com/wp-content/uploads/2025/11/FactSheetMeeru110125103126Ver01022025.pdf",
     "as_of": 2025
    },
    {
     "value": "windsurfing",
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2025/12/FactSheetMeeru110125103126Ver01022025.pdf",
+    "source_url": "https://www.meeru.com/wp-content/uploads/2025/11/FactSheetMeeru110125103126Ver01022025.pdf",
     "as_of": 2025
    },
    {
     "value": "kayaking",
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2025/12/FactSheetMeeru110125103126Ver01022025.pdf",
+    "source_url": "https://www.meeru.com/wp-content/uploads/2025/11/FactSheetMeeru110125103126Ver01022025.pdf",
     "as_of": 2025
    },
    {
     "value": "catamaran",
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2025/12/FactSheetMeeru110125103126Ver01022025.pdf",
+    "source_url": "https://www.meeru.com/wp-content/uploads/2025/11/FactSheetMeeru110125103126Ver01022025.pdf",
     "as_of": 2025
    },
    {
     "value": "jet ski",
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2025/12/FactSheetMeeru110125103126Ver01022025.pdf",
+    "source_url": "https://www.meeru.com/wp-content/uploads/2025/11/FactSheetMeeru110125103126Ver01022025.pdf",
     "as_of": 2025
    },
    {
     "value": "water skiing",
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2025/12/FactSheetMeeru110125103126Ver01022025.pdf",
+    "source_url": "https://www.meeru.com/wp-content/uploads/2025/11/FactSheetMeeru110125103126Ver01022025.pdf",
     "as_of": 2025
    },
    {
     "value": "fishing",
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2025/12/FactSheetMeeru110125103126Ver01022025.pdf",
+    "source_url": "https://www.meeru.com/wp-content/uploads/2025/11/FactSheetMeeru110125103126Ver01022025.pdf",
     "as_of": 2025
    },
    {
     "value": "sunset cruise",
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2025/12/FactSheetMeeru110125103126Ver01022025.pdf",
+    "source_url": "https://www.meeru.com/wp-content/uploads/2025/11/FactSheetMeeru110125103126Ver01022025.pdf",
     "as_of": 2025
    },
    {
     "value": "sailing",
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2025/12/FactSheetMeeru110125103126Ver01022025.pdf",
+    "source_url": "https://www.meeru.com/wp-content/uploads/2025/11/FactSheetMeeru110125103126Ver01022025.pdf",
     "as_of": 2025
    },
    {
     "value": "fun tube",
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2025/12/FactSheetMeeru110125103126Ver01022025.pdf",
+    "source_url": "https://www.meeru.com/wp-content/uploads/2025/11/FactSheetMeeru110125103126Ver01022025.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://www.meeru.com/wp-content/uploads/2025/06/MEERU-DIVE-GERMAN.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.meeru.com/wp-content/uploads/2025/11/AllInclusiveDineAroundPackageMeeru.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.meeru.com/wp-content/uploads/2025/11/AllInclusiveDineAroundPackageMeeru.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "windsurfing",
+    "source_url": "https://www.meeru.com/wp-content/uploads/2025/11/AllInclusiveDineAroundPackageMeeru.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.meeru.com/wp-content/uploads/2025/11/AllInclusiveDineAroundPackageMeeru.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://d2qwq69i2ic1pk.cloudfront.net/2026/02/Sustainablity-Initiatives-Brochure-CCR-2025.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://d2qwq69i2ic1pk.cloudfront.net/2026/02/Sustainablity-Initiatives-Brochure-CCR-2025.pdf",
     "as_of": 2025
    },
    {
     "value": "snorkeling",
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2025/08/MeeruMaldivesColorMap110125103126Ver200425.pdf",
+    "source_url": "https://www.meeru.com/wp-content/uploads/2025/11/MeeruMaldivesColorMap110125103126Ver200425.pdf",
     "as_of": 2025
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://www.mymaldives.com/resort-guide/meeru-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "windsurfing",
+    "source_url": "https://www.mymaldives.com/resort-guide/meeru-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "catamaran",
+    "source_url": "https://www.mymaldives.com/resort-guide/meeru-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.mymaldives.com/resort-guide/meeru-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sailing",
+    "source_url": "https://www.mymaldives.com/resort-guide/meeru-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "canoe",
+    "source_url": "https://www.mymaldives.com/resort-guide/meeru-island-resort/",
+    "as_of": "2026-10-04"
    }
   ],
   "excursions": [
    {
     "value": "sandbank",
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2025/12/FactSheetMeeru110125103126Ver01022025.pdf",
+    "source_url": "https://www.meeru.com/wp-content/uploads/2025/11/FactSheetMeeru110125103126Ver01022025.pdf",
     "as_of": 2025
    },
    {
     "value": "turtle",
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2025/12/FactSheetMeeru110125103126Ver01022025.pdf",
+    "source_url": "https://www.meeru.com/wp-content/uploads/2025/11/FactSheetMeeru110125103126Ver01022025.pdf",
     "as_of": 2025
    },
    {
     "value": "stargazing",
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2025/12/FactSheetMeeru110125103126Ver01022025.pdf",
+    "source_url": "https://www.meeru.com/wp-content/uploads/2025/11/FactSheetMeeru110125103126Ver01022025.pdf",
     "as_of": 2025
    },
    {
     "value": "cinema",
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2025/12/FactSheetMeeru110125103126Ver01022025.pdf",
+    "source_url": "https://www.meeru.com/wp-content/uploads/2025/11/FactSheetMeeru110125103126Ver01022025.pdf",
     "as_of": 2025
+   },
+   {
+    "value": "cinema",
+    "source_url": "https://www.meeru.com/wp-content/uploads/2026/07/KPR-Activity-Schedule-2026-2.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://d2qwq69i2ic1pk.cloudfront.net/2026/02/Sustainablity-Initiatives-Brochure-CCR-2025.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "big game fishing",
+    "source_url": "https://www.mymaldives.com/resort-guide/meeru-island-resort/",
+    "as_of": "2026-10-04"
    }
   ],
   "kids_family.teens": [
    {
     "value": "teens programme mentioned",
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2025/12/FactSheetMeeru110125103126Ver01022025.pdf",
+    "source_url": "https://www.meeru.com/wp-content/uploads/2025/11/FactSheetMeeru110125103126Ver01022025.pdf",
     "as_of": 2025
    },
    {
     "value": "teens programme mentioned",
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2025/08/MeeruMaldivesColorMap110125103126Ver200425.pdf",
+    "source_url": "https://www.meeru.com/wp-content/uploads/2025/11/MeeruMaldivesColorMap110125103126Ver200425.pdf",
     "as_of": 2025
    }
   ],
   "wellness_fitness": [
    {
     "value": "yoga",
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2025/12/FactSheetMeeru110125103126Ver01022025.pdf",
+    "source_url": "https://www.meeru.com/wp-content/uploads/2025/11/FactSheetMeeru110125103126Ver01022025.pdf",
     "as_of": 2025
    },
    {
     "value": "gym",
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2025/12/FactSheetMeeru110125103126Ver01022025.pdf",
+    "source_url": "https://www.meeru.com/wp-content/uploads/2025/11/FactSheetMeeru110125103126Ver01022025.pdf",
     "as_of": 2025
    },
    {
     "value": "fitness centre",
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2025/12/FactSheetMeeru110125103126Ver01022025.pdf",
+    "source_url": "https://www.meeru.com/wp-content/uploads/2025/11/FactSheetMeeru110125103126Ver01022025.pdf",
     "as_of": 2025
    },
    {
     "value": "fitness center",
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2025/12/FactSheetMeeru110125103126Ver01022025.pdf",
+    "source_url": "https://www.meeru.com/wp-content/uploads/2025/11/FactSheetMeeru110125103126Ver01022025.pdf",
     "as_of": 2025
    },
    {
     "value": "tennis",
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2025/12/FactSheetMeeru110125103126Ver01022025.pdf",
+    "source_url": "https://www.meeru.com/wp-content/uploads/2025/11/FactSheetMeeru110125103126Ver01022025.pdf",
     "as_of": 2025
    },
    {
     "value": "padel",
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2025/12/FactSheetMeeru110125103126Ver01022025.pdf",
+    "source_url": "https://www.meeru.com/wp-content/uploads/2025/11/FactSheetMeeru110125103126Ver01022025.pdf",
     "as_of": 2025
    },
    {
     "value": "badminton",
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2025/12/FactSheetMeeru110125103126Ver01022025.pdf",
+    "source_url": "https://www.meeru.com/wp-content/uploads/2025/11/FactSheetMeeru110125103126Ver01022025.pdf",
     "as_of": 2025
    },
    {
     "value": "beach volleyball",
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2025/12/FactSheetMeeru110125103126Ver01022025.pdf",
+    "source_url": "https://www.meeru.com/wp-content/uploads/2025/11/FactSheetMeeru110125103126Ver01022025.pdf",
     "as_of": 2025
+   },
+   {
+    "value": "steam",
+    "source_url": "https://www.meeru.com/wp-content/uploads/2026/10/ASIAN_WOK_FOOD_MENU.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.meeru.com/wp-content/uploads/2026/07/KPR-Activity-Schedule-2026-2.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.meeru.com/wp-content/uploads/2025/11/AllInclusiveDineAroundPackageMeeru.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "fitness centre",
+    "source_url": "https://www.meeru.com/wp-content/uploads/2025/11/AllInclusiveDineAroundPackageMeeru.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://www.meeru.com/wp-content/uploads/2025/11/AllInclusiveDineAroundPackageMeeru.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "padel",
+    "source_url": "https://www.meeru.com/wp-content/uploads/2025/11/AllInclusiveDineAroundPackageMeeru.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "badminton",
+    "source_url": "https://www.meeru.com/wp-content/uploads/2025/11/AllInclusiveDineAroundPackageMeeru.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "beach volleyball",
+    "source_url": "https://www.meeru.com/wp-content/uploads/2025/11/AllInclusiveDineAroundPackageMeeru.pdf",
+    "as_of": 2026
    },
    {
     "value": "gym",
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2025/08/MeeruMaldivesColorMap110125103126Ver200425.pdf",
+    "source_url": "https://www.meeru.com/wp-content/uploads/2025/11/MeeruMaldivesColorMap110125103126Ver200425.pdf",
     "as_of": 2025
    },
    {
     "value": "fitness center",
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2025/08/MeeruMaldivesColorMap110125103126Ver200425.pdf",
+    "source_url": "https://www.meeru.com/wp-content/uploads/2025/11/MeeruMaldivesColorMap110125103126Ver200425.pdf",
     "as_of": 2025
    },
    {
     "value": "tennis",
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2025/08/MeeruMaldivesColorMap110125103126Ver200425.pdf",
+    "source_url": "https://www.meeru.com/wp-content/uploads/2025/11/MeeruMaldivesColorMap110125103126Ver200425.pdf",
     "as_of": 2025
    },
    {
     "value": "padel",
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2025/08/MeeruMaldivesColorMap110125103126Ver200425.pdf",
+    "source_url": "https://www.meeru.com/wp-content/uploads/2025/11/MeeruMaldivesColorMap110125103126Ver200425.pdf",
     "as_of": 2025
    },
    {
     "value": "badminton",
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2025/08/MeeruMaldivesColorMap110125103126Ver200425.pdf",
+    "source_url": "https://www.meeru.com/wp-content/uploads/2025/11/MeeruMaldivesColorMap110125103126Ver200425.pdf",
     "as_of": 2025
    },
    {
     "value": "beach volleyball",
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2025/08/MeeruMaldivesColorMap110125103126Ver200425.pdf",
+    "source_url": "https://www.meeru.com/wp-content/uploads/2025/11/MeeruMaldivesColorMap110125103126Ver200425.pdf",
     "as_of": 2025
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://www.mymaldives.com/resort-guide/meeru-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "badminton",
+    "source_url": "https://www.mymaldives.com/resort-guide/meeru-island-resort/",
+    "as_of": "2026-10-04"
    }
   ],
   "weddings.offered": [
    {
     "value": true,
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2025/12/FactSheetMeeru110125103126Ver01022025.pdf",
+    "source_url": "https://www.meeru.com/wp-content/uploads/2025/11/FactSheetMeeru110125103126Ver01022025.pdf",
     "as_of": 2025
    },
    {
     "value": true,
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2025/08/MeeruMaldivesColorMap110125103126Ver200425.pdf",
+    "source_url": "https://www.meeru.com/wp-content/uploads/2025/11/MeeruMaldivesColorMap110125103126Ver200425.pdf",
     "as_of": 2025
    }
   ],
   "weddings.vow_renewal": [
    {
     "value": true,
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2025/12/FactSheetMeeru110125103126Ver01022025.pdf",
+    "source_url": "https://www.meeru.com/wp-content/uploads/2025/11/FactSheetMeeru110125103126Ver01022025.pdf",
     "as_of": 2025
    }
   ],
   "weddings.venues": [
    {
     "value": "8 Euro-Divers Dive Center 36 North Wedding Pavilion/ 27",
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2025/12/FactSheetMeeru110125103126Ver01022025.pdf",
+    "source_url": "https://www.meeru.com/wp-content/uploads/2025/11/FactSheetMeeru110125103126Ver01022025.pdf",
     "as_of": 2025
    },
    {
     "value": "9 Duniye Spa - Land Spa South Wedding Pavilion",
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2025/12/FactSheetMeeru110125103126Ver01022025.pdf",
+    "source_url": "https://www.meeru.com/wp-content/uploads/2025/11/FactSheetMeeru110125103126Ver01022025.pdf",
     "as_of": 2025
    },
    {
     "value": "8 Euro-Divers Dive Center 36 North Wedding Pavilion/ 27",
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2025/08/MeeruMaldivesColorMap110125103126Ver200425.pdf",
+    "source_url": "https://www.meeru.com/wp-content/uploads/2025/11/MeeruMaldivesColorMap110125103126Ver200425.pdf",
     "as_of": 2025
    },
    {
     "value": "9 Duniye Spa - Land Spa South Wedding Pavilion",
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2025/08/MeeruMaldivesColorMap110125103126Ver200425.pdf",
+    "source_url": "https://www.meeru.com/wp-content/uploads/2025/11/MeeruMaldivesColorMap110125103126Ver200425.pdf",
     "as_of": 2025
    }
   ],
   "events_mice.venues": [
    {
     "value": "Champa Maa Conference Room 28 Pavilion Bar",
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2025/12/FactSheetMeeru110125103126Ver01022025.pdf",
+    "source_url": "https://www.meeru.com/wp-content/uploads/2025/11/FactSheetMeeru110125103126Ver01022025.pdf",
     "as_of": 2025
    },
    {
     "value": "Champa Maa Conference Room 28 Pavilion Bar",
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2025/08/MeeruMaldivesColorMap110125103126Ver200425.pdf",
+    "source_url": "https://www.meeru.com/wp-content/uploads/2025/11/MeeruMaldivesColorMap110125103126Ver200425.pdf",
+    "as_of": 2025
+   }
+  ],
+  "all_inclusive_details": [
+   {
+    "value": "All-Inclusive Dine Around Package.",
+    "source_url": "https://www.meeru.com/wp-content/uploads/2025/11/AllInclusiveDineAroundPackageMeeru.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "All Inclusive plan option.",
+    "source_url": "https://www.mymaldives.com/resort-guide/meeru-island-resort/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "contacts_public.reservations_email": [
+   {
+    "value": "reservations@meeru.com",
+    "source_url": "https://www.meeru.com/wp-content/uploads/2025/11/AllInclusiveDineAroundPackageMeeru.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "info@crownandchamparesorts.com",
+    "source_url": "https://d2qwq69i2ic1pk.cloudfront.net/2026/02/Sustainablity-Initiatives-Brochure-CCR-2025.pdf",
+    "as_of": 2025
+   }
+  ],
+  "sustainability": [
+   {
+    "value": "coral restoration",
+    "source_url": "https://d2qwq69i2ic1pk.cloudfront.net/2026/02/Sustainablity-Initiatives-Brochure-CCR-2025.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "marine biologist",
+    "source_url": "https://d2qwq69i2ic1pk.cloudfront.net/2026/02/Sustainablity-Initiatives-Brochure-CCR-2025.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "solar",
+    "source_url": "https://d2qwq69i2ic1pk.cloudfront.net/2026/02/Sustainablity-Initiatives-Brochure-CCR-2025.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "desalination",
+    "source_url": "https://d2qwq69i2ic1pk.cloudfront.net/2026/02/Sustainablity-Initiatives-Brochure-CCR-2025.pdf",
+    "as_of": 2025
+   }
+  ],
+  "contacts_public.phone": [
+   {
+    "value": "+960 664 0219",
+    "source_url": "https://d2qwq69i2ic1pk.cloudfront.net/2026/02/Sustainablity-Initiatives-Brochure-CCR-2025.pdf",
     "as_of": 2025
    }
   ]
  },
- "last_updated": "2026-10-04"
+ "last_updated": "2026-10-05"
 }

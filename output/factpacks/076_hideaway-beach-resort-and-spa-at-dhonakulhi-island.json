@@ -7,11 +7,11 @@
   "Hideaway Maldives",
   "Dhonakulhi"
  ],
- "official_url": null,
- "official_site_status": null,
+ "official_url": "https://www.hideawaybeachmaldives.com/",
+ "official_site_status": "ok",
  "operator_brand": "Hideaway",
  "atoll": "Haa Alifu Atoll",
- "island": null,
+ "island": "Dhonakulhi",
  "opened_or_renovated": null,
  "star_rating": null,
  "transfer": {
@@ -29,10 +29,10 @@
  },
  "island_size": null,
  "villas": {
-  "total": 103,
+  "total": 43,
   "categories": [
    {
-    "name": "DELU E WATER VILLA WITH POOL | units",
+    "name": "DELU E WATER VILLA WITH POOL",
     "count": 7,
     "size_sqm": 190,
     "max_occupancy": null,
@@ -104,14 +104,6 @@
     "overwater": true
    },
    {
-    "name": "Number of Villas",
-    "count": 103,
-    "size_sqm": null,
-    "max_occupancy": null,
-    "pool": null,
-    "overwater": null
-   },
-   {
     "name": "beach residence interior hideaway beach maldives",
     "count": 3,
     "size_sqm": null,
@@ -131,21 +123,6 @@
  },
  "dining": [
   {
-   "name": "Restaurants / Bar / Hotel / Telephone / Internet",
-   "cuisine": null,
-   "type": "restaurant"
-  },
-  {
-   "name": "Hideaway Princess acht harter Sunset Pool Cafe’",
-   "cuisine": null,
-   "type": "restaurant"
-  },
-  {
-   "name": "Dining",
-   "cuisine": null,
-   "type": "restaurant"
-  },
-  {
    "name": "Meeru Bar and Grill",
    "cuisine": null,
    "type": "bar"
@@ -154,20 +131,12 @@
    "name": "Sunset Pool Cafe",
    "cuisine": null,
    "type": "restaurant"
-  },
-  {
-   "name": "Private Dining",
-   "cuisine": null,
-   "type": "restaurant"
-  },
-  {
-   "name": "In-villa Dining",
-   "cuisine": null,
-   "type": "restaurant"
   }
  ],
- "meal_plans": [],
- "all_inclusive_details": null,
+ "meal_plans": [
+  "AI"
+ ],
+ "all_inclusive_details": "all-inclusive luxury in the Maldives.",
  "spa": {
   "name": "Spa",
   "treatment_rooms": null,
@@ -187,7 +156,10 @@
    "sailing",
    "snorkelling",
    "scuba diving",
-   "semi-submarine"
+   "semi-submarine",
+   "windsurfing",
+   "water skiing",
+   "canoe"
   ],
   "price_list_doc": null
  },
@@ -212,11 +184,15 @@
   "tennis",
   "beach volleyball",
   "steam",
-  "meditation"
+  "meditation",
+  "fitness center",
+  "padel",
+  "badminton",
+  "sauna"
  ],
  "weddings": {
   "offered": true,
-  "vow_renewal": null,
+  "vow_renewal": true,
   "venues": [],
   "packages": [],
   "brochure_doc": null
@@ -227,7 +203,11 @@
   "buyout": null,
   "doc": null
  },
- "sustainability": [],
+ "sustainability": [
+  "solar",
+  "desalination",
+  "composting"
+ ],
  "contacts_public": {
   "reservations_email": "info@neoscapesmaldives.com",
   "weddings_email": null,
@@ -259,6 +239,16 @@
    {
     "value": "Haa Alifu Atoll",
     "source_url": "https://www.neoscapesmaldives.com/resort/hideaway-beach-resort-spa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Haa Alifu Atoll",
+    "source_url": "https://www.mymaldives.com/resort-guide/island-hideaway-at-dhonakulhi-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Haa Alifu Atoll",
+    "source_url": "https://malediven.de/malediven-hotels/hideaway-beach/",
     "as_of": "2026-10-04"
    }
   ],
@@ -306,12 +296,17 @@
     "value": 103,
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Factsheet-Hideaway-Beach-Maldives-NEO.pdf",
     "as_of": 2020
+   },
+   {
+    "value": 43,
+    "source_url": "https://www.mymaldives.com/resort-guide/island-hideaway-at-dhonakulhi-maldives/",
+    "as_of": "2026-10-04"
    }
   ],
   "villas.categories": [
    {
     "value": {
-     "name": "DELU E WATER VILLA WITH POOL | units",
+     "name": "DELU E WATER VILLA WITH POOL",
      "count": 7,
      "size_sqm": 190,
      "max_occupancy": null,
@@ -419,18 +414,6 @@
    },
    {
     "value": {
-     "name": "Number of Villas",
-     "count": 103,
-     "size_sqm": null,
-     "max_occupancy": null,
-     "pool": null,
-     "overwater": null
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/hideaway-beach-resort-spa/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
      "name": "beach residence interior hideaway beach maldives",
      "count": 3,
      "size_sqm": null,
@@ -454,80 +437,6 @@
     "as_of": "2026-10-04"
    }
   ],
-  "dining": [
-   {
-    "value": {
-     "name": "Restaurants / Bar / Hotel / Telephone / Internet",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Factsheet-Hideaway-Beach-Maldives-NEO.pdf",
-    "as_of": 2020
-   },
-   {
-    "value": {
-     "name": "Hideaway Princess acht harter Sunset Pool Cafe’",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Resort-Map-Hideaway-Beach-Maldives.pdf",
-    "as_of": 2018
-   },
-   {
-    "value": {
-     "name": "Dining",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/hideaway-beach-resort-spa/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Dining",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/hideaway-beach-resort-spa/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Meeru Bar and Grill",
-     "cuisine": null,
-     "type": "bar"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/hideaway-beach-resort-spa/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Sunset Pool Cafe",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/hideaway-beach-resort-spa/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Private Dining",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/hideaway-beach-resort-spa/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "In-villa Dining",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/hideaway-beach-resort-spa/",
-    "as_of": "2026-10-04"
-   }
-  ],
   "spa.name": [
    {
     "value": "Spa",
@@ -541,7 +450,42 @@
    },
    {
     "value": "Spa",
+    "source_url": "https://lilyhotels.com/ttm-awards-2025-vote",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://lilyhotels.com/hbr-may-awards-2026",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://lilyhotels.com/lbr-may-awards-2026",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Spa",
     "source_url": "https://www.neoscapesmaldives.com/resort/hideaway-beach-resort-spa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.mymaldives.com/resort-guide/island-hideaway-at-dhonakulhi-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.mymaldives.com/blog/hideaway-beach-maldives-opens-fresh-water-bottling-plant/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.airtours.de/hideaway-beach-resort-spa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://malediven.de/malediven-hotels/hideaway-beach/",
     "as_of": "2026-10-04"
    }
   ],
@@ -602,6 +546,11 @@
     "as_of": 2018
    },
    {
+    "value": "sunset cruise",
+    "source_url": "https://lilyhotels.com/ttm-awards-2025-vote",
+    "as_of": "2026-10-05"
+   },
+   {
     "value": "snorkelling",
     "source_url": "https://www.neoscapesmaldives.com/resort/hideaway-beach-resort-spa/",
     "as_of": "2026-10-04"
@@ -629,6 +578,41 @@
    {
     "value": "semi-submarine",
     "source_url": "https://www.neoscapesmaldives.com/resort/hideaway-beach-resort-spa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://www.mymaldives.com/resort-guide/island-hideaway-at-dhonakulhi-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "windsurfing",
+    "source_url": "https://www.mymaldives.com/resort-guide/island-hideaway-at-dhonakulhi-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "catamaran",
+    "source_url": "https://www.mymaldives.com/resort-guide/island-hideaway-at-dhonakulhi-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "water skiing",
+    "source_url": "https://www.mymaldives.com/resort-guide/island-hideaway-at-dhonakulhi-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.mymaldives.com/resort-guide/island-hideaway-at-dhonakulhi-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sailing",
+    "source_url": "https://www.mymaldives.com/resort-guide/island-hideaway-at-dhonakulhi-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "canoe",
+    "source_url": "https://www.mymaldives.com/resort-guide/island-hideaway-at-dhonakulhi-maldives/",
     "as_of": "2026-10-04"
    }
   ],
@@ -697,6 +681,11 @@
     "value": "picnic",
     "source_url": "https://www.neoscapesmaldives.com/resort/hideaway-beach-resort-spa/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "big game fishing",
+    "source_url": "https://www.mymaldives.com/resort-guide/island-hideaway-at-dhonakulhi-maldives/",
+    "as_of": "2026-10-04"
    }
   ],
   "wellness_fitness": [
@@ -741,6 +730,46 @@
     "as_of": 2018
    },
    {
+    "value": "fitness center",
+    "source_url": "https://lilyhotels.com/ttm-awards-2025-vote",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://lilyhotels.com/ttm-awards-2025-vote",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "padel",
+    "source_url": "https://lilyhotels.com/ttm-awards-2025-vote",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "badminton",
+    "source_url": "https://lilyhotels.com/ttm-awards-2025-vote",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://lilyhotels.com/hbr-may-awards-2026",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "padel",
+    "source_url": "https://lilyhotels.com/hbr-may-awards-2026",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "badminton",
+    "source_url": "https://lilyhotels.com/hbr-may-awards-2026",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "beach volleyball",
+    "source_url": "https://lilyhotels.com/hbr-may-awards-2026",
+    "as_of": "2026-10-05"
+   },
+   {
     "value": "yoga",
     "source_url": "https://www.neoscapesmaldives.com/resort/hideaway-beach-resort-spa/",
     "as_of": "2026-10-04"
@@ -748,6 +777,31 @@
    {
     "value": "tennis",
     "source_url": "https://www.neoscapesmaldives.com/resort/hideaway-beach-resort-spa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://www.mymaldives.com/resort-guide/island-hideaway-at-dhonakulhi-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sauna",
+    "source_url": "https://www.mymaldives.com/resort-guide/island-hideaway-at-dhonakulhi-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://www.airtours.de/hideaway-beach-resort-spa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "padel",
+    "source_url": "https://www.airtours.de/hideaway-beach-resort-spa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "badminton",
+    "source_url": "https://www.airtours.de/hideaway-beach-resort-spa/",
     "as_of": "2026-10-04"
    }
   ],
@@ -775,9 +829,50 @@
     "as_of": "2026-10-04"
    }
   ],
+  "weddings.vow_renewal": [
+   {
+    "value": true,
+    "source_url": "https://lilyhotels.com/ttm-awards-2025-vote",
+    "as_of": "2026-10-05"
+   }
+  ],
+  "meal_plans": [
+   {
+    "value": "AI",
+    "source_url": "https://lilyhotels.com/lbr-may-awards-2026",
+    "as_of": "2026-10-05"
+   }
+  ],
+  "all_inclusive_details": [
+   {
+    "value": "all-inclusive luxury in the Maldives.",
+    "source_url": "https://lilyhotels.com/lbr-may-awards-2026",
+    "as_of": "2026-10-05"
+   }
+  ],
   "transfer.minutes.seaplane": [
    {
     "value": 40,
+    "source_url": "https://www.neoscapesmaldives.com/resort/hideaway-beach-resort-spa/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "dining": [
+   {
+    "value": {
+     "name": "Meeru Bar and Grill",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.neoscapesmaldives.com/resort/hideaway-beach-resort-spa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Sunset Pool Cafe",
+     "cuisine": null,
+     "type": "restaurant"
+    },
     "source_url": "https://www.neoscapesmaldives.com/resort/hideaway-beach-resort-spa/",
     "as_of": "2026-10-04"
    }
@@ -802,7 +897,31 @@
     "source_url": "https://www.neoscapesmaldives.com/resort/hideaway-beach-resort-spa/",
     "as_of": "2026-10-04"
    }
+  ],
+  "island": [
+   {
+    "value": "Dhonakulhi",
+    "source_url": "https://www.mymaldives.com/resort-guide/island-hideaway-at-dhonakulhi-maldives/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "sustainability": [
+   {
+    "value": "solar",
+    "source_url": "https://www.mymaldives.com/blog/hideaway-beach-maldives-opens-fresh-water-bottling-plant/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "desalination",
+    "source_url": "https://www.mymaldives.com/blog/hideaway-beach-maldives-opens-fresh-water-bottling-plant/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "composting",
+    "source_url": "https://www.mymaldives.com/blog/hideaway-beach-maldives-opens-fresh-water-bottling-plant/",
+    "as_of": "2026-10-04"
+   }
   ]
  },
- "last_updated": "2026-10-04"
+ "last_updated": "2026-10-05"
 }

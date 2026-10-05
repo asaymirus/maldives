@@ -1,8 +1,8 @@
 # 154. Taj Exotica Resort & Spa Maldives
 
-**Official site:** n/a (None)  
+**Official site:** https://www.tajhotels.com/en-in/taj/taj-exotica-maldives/ (blocked)  
 **Brand:** Taj  
-**Atoll:** South Malé Atoll  **Island:** n/a  
+**Atoll:** South Malé Atoll  **Island:** Free  
 **Opened/renovated:** n/a  **Rating:** 5-star  
 **Transfer:** speedboat; minutes: {"speedboat": 15}  
 **Island size:** n/a  
@@ -10,33 +10,28 @@
 ## Villas (? total)
 
 - Villas: count 64, ? sqm, max ?
-- oceanpavilion datenight taj e otica maldives: count 12, ? sqm, max ?, overwater
 - delu e beach villa with pool taj e otica maldives: count 8, ? sqm, max ?, pool
 
 ## Dining
 
-- Dining (restaurant)
 - Deep End Restaurant (restaurant)
 - Equator Bar (bar)
-- 24 Degrees Restaurant (restaurant)
 - Poolside Bar and Restaurant (restaurant)
-- Private Dining (restaurant)
-- Unique Dining (restaurant)
 
-Meal plans: n/a
+Meal plans: AI
 
 ## Spa & wellness
 
 - Spa: Spa; treatment rooms: ?; menu: none
-- Wellness/fitness: yoga, fitness center
+- Wellness/fitness: yoga, fitness center, meditation, fitness centre
 
 ## Diving, water sports & excursions
 
 - Operator: n/a
 - House reef: n/a
-- Activities: snorkelling, scuba diving, parasailing
+- Activities: snorkelling, scuba diving, parasailing, snorkeling, kayaking, manta
 - Price list: none
-- Excursions: picnic
+- Excursions: picnic, manta, turtle, private dinner
 
 ## Kids & family
 
@@ -57,7 +52,7 @@ Taj Kids Club; ages: n/a; teens: n/a
 
 ## Sustainability
 
-- n/a
+- solar, single-use plastic
 
 ## Public contacts
 
@@ -81,4 +76,4 @@ Taj Kids Club; ages: n/a; teens: n/a
 - fact: villas.total
 - fact: dive operator
 
-_Facts extracted by rules from 17 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-04._
+_Facts extracted by rules from 20 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

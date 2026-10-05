@@ -7,12 +7,12 @@
   "Velifushi",
   "Aarah Vaavu"
  ],
- "official_url": null,
- "official_site_status": null,
+ "official_url": "https://www.cinnamonhotels.com/",
+ "official_site_status": "ok",
  "operator_brand": "Cinnamon",
- "atoll": "Raa Atoll",
+ "atoll": "Ari Atoll",
  "island": null,
- "opened_or_renovated": null,
+ "opened_or_renovated": "opened 2024",
  "star_rating": null,
  "transfer": {
   "modes": [
@@ -28,8 +28,64 @@
  },
  "island_size": "350 m x 120 m",
  "villas": {
-  "total": null,
+  "total": 237,
   "categories": [
+   {
+    "name": "Habarana Village by",
+    "count": 5,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "Village by Cinnamon for the FY /",
+    "count": 25,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "Yala Village Pvt Ltd",
+    "count": 848,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "Yala Village Pvt Ltd Income approach - Rs. , - . % Negative",
+    "count": 406,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "Yala Village Pvt Ltd Sri Lanka Tourism",
+    "count": 184,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "Yala Village Pvt -month SOFR- monthly instalments",
+    "count": 496,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "Habarana Village by Cinnamon",
+    "count": 95,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
    {
     "name": "Villas",
     "count": 90,
@@ -50,11 +106,6 @@
  },
  "dining": [
   {
-   "name": "Restaurants & Dining",
-   "cuisine": null,
-   "type": "restaurant"
-  },
-  {
    "name": "Vah Restaurant (Main)     ",
    "cuisine": null,
    "type": "restaurant"
@@ -68,21 +119,6 @@
    "name": "Mini Bar Items not listed above",
    "cuisine": null,
    "type": "bar"
-  },
-  {
-   "name": "In – Room Dining",
-   "cuisine": null,
-   "type": "restaurant"
-  },
-  {
-   "name": "Dining",
-   "cuisine": null,
-   "type": "restaurant"
-  },
-  {
-   "name": "VAH Global Dining",
-   "cuisine": null,
-   "type": "restaurant"
   },
   {
    "name": "Iru Kitchen & Bar",
@@ -100,8 +136,13 @@
    "type": "bar"
   }
  ],
- "meal_plans": [],
- "all_inclusive_details": null,
+ "meal_plans": [
+  "BB",
+  "HB",
+  "FB",
+  "AI"
+ ],
+ "all_inclusive_details": "all inclusive (AI).",
  "spa": {
   "name": "The Resort\nMandara Spa",
   "treatment_rooms": null,
@@ -110,7 +151,7 @@
  },
  "diving_watersports": {
   "operator": null,
-  "house_reef": null,
+  "house_reef": "house reefs while Cinnamon Hakuraa",
   "activities": [
    "snorkelling",
    "scuba diving",
@@ -118,11 +159,13 @@
    "jet ski",
    "fishing",
    "canoe",
+   "surfing",
    "sunset cruise"
   ],
   "price_list_doc": null
  },
  "excursions": [
+  "turtle",
   "island hopping",
   "sandbank",
   "dolphin",
@@ -137,7 +180,9 @@
  "wellness_fitness": [
   "gym",
   "tennis",
-  "beach volleyball"
+  "beach volleyball",
+  "yoga",
+  "meditation"
  ],
  "weddings": {
   "offered": true,
@@ -154,7 +199,20 @@
   "buyout": null,
   "doc": null
  },
- "sustainability": [],
+ "sustainability": [
+  "coral restoration",
+  "coral nursery",
+  "marine biologist",
+  "solar",
+  "single-use plastic",
+  "EarthCheck",
+  "Travelife",
+  "hydroponic",
+  "composting",
+  "reef restoration",
+  "Olive Ridley Project",
+  "ISO 14001"
+ ],
  "contacts_public": {
   "reservations_email": "info@neoscapesmaldives.com",
   "weddings_email": null,
@@ -165,16 +223,15 @@
   "map": "https://www.neoscapesmaldives.com/wp-content/uploads/English_Hotel-Map_.Velifushi.pdf",
   "wedding": null,
   "spa_menu": null,
-  "dining_menu": null,
+  "dining_menu": "https://d18slle4wlf9ku.cloudfront.net/www.cinnamonhotels.com-1302818674/cms/pressroom/sapphire_dragon_menu.pdf",
   "dive_prices": null,
   "events": null,
-  "calendar": null
+  "calendar": "https://letsgomaldives.com/wp-content/uploads/2026/08/Velifushi_Festive-Brochure-.pdf"
  },
- "documents_count": 2,
+ "documents_count": 22,
  "gaps": [
   "wedding brochure",
   "events/MICE document",
-  "fact: villas.total",
   "fact: dive operator"
  ],
  "sources": {
@@ -183,6 +240,21 @@
     "value": "Vaavu Atoll",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Fact-sheet-Velifushi.pdf",
     "as_of": 2023
+   },
+   {
+    "value": "North Malé Atoll",
+    "source_url": "https://d18slle4wlf9ku.cloudfront.net/www.cinnamonhotels.com-1302818674/cms/pressroom/john_keells_hotels_plc_annual_report_2425.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "North Malé Atoll",
+    "source_url": "https://d18slle4wlf9ku.cloudfront.net/www.cinnamonhotels.com-1302818674/cms/pressroom/john_keells_hotels_plc_integrated_report_2024_25.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "Ari Atoll",
+    "source_url": "https://www.cinnamonhotels.com/",
+    "as_of": "2026-10-04"
    },
    {
     "value": "Raa Atoll",
@@ -251,15 +323,6 @@
   "dining": [
    {
     "value": {
-     "name": "Restaurants & Dining",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Fact-sheet-Velifushi.pdf",
-    "as_of": 2023
-   },
-   {
-    "value": {
      "name": "Vah Restaurant (Main)     ",
      "cuisine": null,
      "type": "restaurant"
@@ -284,51 +347,6 @@
     },
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Fact-sheet-Velifushi.pdf",
     "as_of": 2023
-   },
-   {
-    "value": {
-     "name": "In – Room Dining",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Fact-sheet-Velifushi.pdf",
-    "as_of": 2023
-   },
-   {
-    "value": {
-     "name": "In – Room Dining",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Fact-sheet-Velifushi.pdf",
-    "as_of": 2023
-   },
-   {
-    "value": {
-     "name": "Dining",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/cinnamon-velifushi-maldives/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Dining",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/cinnamon-velifushi-maldives/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "VAH Global Dining",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/cinnamon-velifushi-maldives/",
-    "as_of": "2026-10-04"
    },
    {
     "value": {
@@ -403,6 +421,36 @@
    },
    {
     "value": "snorkelling",
+    "source_url": "https://d18slle4wlf9ku.cloudfront.net/www.cinnamonhotels.com-1302818674/cms/pressroom/john_keells_hotels_plc_annual_report_2425.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "surfing",
+    "source_url": "https://d18slle4wlf9ku.cloudfront.net/www.cinnamonhotels.com-1302818674/cms/pressroom/john_keells_hotels_plc_annual_report_2425.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://d18slle4wlf9ku.cloudfront.net/www.cinnamonhotels.com-1302818674/cms/pressroom/john_keells_hotels_plc_annual_report_2425.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://d18slle4wlf9ku.cloudfront.net/www.cinnamonhotels.com-1302818674/cms/pressroom/john_keells_hotels_plc_integrated_report_2024_25.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "surfing",
+    "source_url": "https://d18slle4wlf9ku.cloudfront.net/www.cinnamonhotels.com-1302818674/cms/pressroom/john_keells_hotels_plc_integrated_report_2024_25.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://d18slle4wlf9ku.cloudfront.net/www.cinnamonhotels.com-1302818674/cms/pressroom/john_keells_hotels_plc_integrated_report_2024_25.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "snorkelling",
     "source_url": "https://www.neoscapesmaldives.com/resort/cinnamon-velifushi-maldives/",
     "as_of": "2026-10-04"
    },
@@ -444,6 +492,36 @@
     "as_of": 2023
    },
    {
+    "value": "yoga",
+    "source_url": "https://d18slle4wlf9ku.cloudfront.net/www.cinnamonhotels.com-1302818674/cms/pressroom/john_keells_hotels_plc_annual_report_2425.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "meditation",
+    "source_url": "https://d18slle4wlf9ku.cloudfront.net/www.cinnamonhotels.com-1302818674/cms/pressroom/john_keells_hotels_plc_annual_report_2425.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "gym",
+    "source_url": "https://d18slle4wlf9ku.cloudfront.net/www.cinnamonhotels.com-1302818674/cms/pressroom/john_keells_hotels_plc_annual_report_2425.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://d18slle4wlf9ku.cloudfront.net/www.cinnamonhotels.com-1302818674/cms/pressroom/john_keells_hotels_plc_integrated_report_2024_25.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "meditation",
+    "source_url": "https://d18slle4wlf9ku.cloudfront.net/www.cinnamonhotels.com-1302818674/cms/pressroom/john_keells_hotels_plc_integrated_report_2024_25.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "gym",
+    "source_url": "https://d18slle4wlf9ku.cloudfront.net/www.cinnamonhotels.com-1302818674/cms/pressroom/john_keells_hotels_plc_integrated_report_2024_25.pdf",
+    "as_of": 2024
+   },
+   {
     "value": "gym",
     "source_url": "https://www.neoscapesmaldives.com/resort/cinnamon-velifushi-maldives/",
     "as_of": "2026-10-04"
@@ -475,14 +553,24 @@
   ],
   "contacts_public.reservations_email": [
    {
+    "value": "info@cinnamonhotels.com",
+    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Fact-sheet-Velifushi.pdf",
+    "as_of": 2023
+   },
+   {
     "value": "sales.mv@cinnamonhotels.com",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Fact-sheet-Velifushi.pdf",
     "as_of": 2023
    },
    {
-    "value": "info@cinnamonhotels.com",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Fact-sheet-Velifushi.pdf",
-    "as_of": 2023
+    "value": "htlres@keells.com",
+    "source_url": "https://d18slle4wlf9ku.cloudfront.net/www.cinnamonhotels.com-1302818674/cms/pressroom/john_keells_hotels_plc_annual_report_2425.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "htlres@keells.com",
+    "source_url": "https://d18slle4wlf9ku.cloudfront.net/www.cinnamonhotels.com-1302818674/cms/pressroom/john_keells_hotels_plc_integrated_report_2024_25.pdf",
+    "as_of": 2024
    },
    {
     "value": "info@neoscapesmaldives.com",
@@ -497,12 +585,272 @@
     "as_of": 2023
    },
    {
+    "value": "+9603336000",
+    "source_url": "https://d18slle4wlf9ku.cloudfront.net/www.cinnamonhotels.com-1302818674/cms/pressroom/john_keells_hotels_plc_annual_report_2425.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "+9603336000",
+    "source_url": "https://d18slle4wlf9ku.cloudfront.net/www.cinnamonhotels.com-1302818674/cms/pressroom/john_keells_hotels_plc_integrated_report_2024_25.pdf",
+    "as_of": 2024
+   },
+   {
     "value": "+960 736 5425",
     "source_url": "https://www.neoscapesmaldives.com/resort/cinnamon-velifushi-maldives/",
     "as_of": "2026-10-04"
    }
   ],
+  "opened_or_renovated": [
+   {
+    "value": "opened 2024",
+    "source_url": "https://d18slle4wlf9ku.cloudfront.net/www.cinnamonhotels.com-1302818674/cms/pressroom/john_keells_hotels_plc_annual_report_2425.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "opened 2024",
+    "source_url": "https://d18slle4wlf9ku.cloudfront.net/www.cinnamonhotels.com-1302818674/cms/pressroom/john_keells_hotels_plc_integrated_report_2024_25.pdf",
+    "as_of": 2024
+   }
+  ],
+  "villas.total": [
+   {
+    "value": 237,
+    "source_url": "https://d18slle4wlf9ku.cloudfront.net/www.cinnamonhotels.com-1302818674/cms/pressroom/john_keells_hotels_plc_annual_report_2425.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": 215,
+    "source_url": "https://d18slle4wlf9ku.cloudfront.net/www.cinnamonhotels.com-1302818674/cms/pressroom/john_keells_hotels_plc_annual_report_2425.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": 237,
+    "source_url": "https://d18slle4wlf9ku.cloudfront.net/www.cinnamonhotels.com-1302818674/cms/pressroom/john_keells_hotels_plc_integrated_report_2024_25.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": 215,
+    "source_url": "https://d18slle4wlf9ku.cloudfront.net/www.cinnamonhotels.com-1302818674/cms/pressroom/john_keells_hotels_plc_integrated_report_2024_25.pdf",
+    "as_of": 2024
+   }
+  ],
   "villas.categories": [
+   {
+    "value": {
+     "name": "Habarana Village by",
+     "count": 5,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://d18slle4wlf9ku.cloudfront.net/www.cinnamonhotels.com-1302818674/cms/pressroom/john_keells_hotels_plc_annual_report_2425.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": {
+     "name": "Village by Cinnamon for the FY /",
+     "count": 25,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://d18slle4wlf9ku.cloudfront.net/www.cinnamonhotels.com-1302818674/cms/pressroom/john_keells_hotels_plc_annual_report_2425.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": {
+     "name": "Yala Village Pvt Ltd",
+     "count": 848,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://d18slle4wlf9ku.cloudfront.net/www.cinnamonhotels.com-1302818674/cms/pressroom/john_keells_hotels_plc_annual_report_2425.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": {
+     "name": "Yala Village Pvt Ltd Income approach - Rs. , - . % Negative",
+     "count": 406,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://d18slle4wlf9ku.cloudfront.net/www.cinnamonhotels.com-1302818674/cms/pressroom/john_keells_hotels_plc_annual_report_2425.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": {
+     "name": "Yala Village Pvt Ltd Sri Lanka Tourism",
+     "count": 184,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://d18slle4wlf9ku.cloudfront.net/www.cinnamonhotels.com-1302818674/cms/pressroom/john_keells_hotels_plc_annual_report_2425.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": {
+     "name": "Yala Village Pvt Ltd . % . % . % . %",
+     "count": 678,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://d18slle4wlf9ku.cloudfront.net/www.cinnamonhotels.com-1302818674/cms/pressroom/john_keells_hotels_plc_annual_report_2425.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": {
+     "name": "Yala Village Pvt -month SOFR- monthly instalments",
+     "count": 496,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://d18slle4wlf9ku.cloudfront.net/www.cinnamonhotels.com-1302818674/cms/pressroom/john_keells_hotels_plc_annual_report_2425.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": {
+     "name": "Yala Village Pvt Ltd",
+     "count": 14,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://d18slle4wlf9ku.cloudfront.net/www.cinnamonhotels.com-1302818674/cms/pressroom/john_keells_hotels_plc_annual_report_2425.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": {
+     "name": "Habarana Village by Cinnamon",
+     "count": 95,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://d18slle4wlf9ku.cloudfront.net/www.cinnamonhotels.com-1302818674/cms/pressroom/john_keells_hotels_plc_annual_report_2425.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": {
+     "name": "Habarana Village by",
+     "count": 5,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://d18slle4wlf9ku.cloudfront.net/www.cinnamonhotels.com-1302818674/cms/pressroom/john_keells_hotels_plc_integrated_report_2024_25.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": {
+     "name": "Village by Cinnamon for the FY /",
+     "count": 25,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://d18slle4wlf9ku.cloudfront.net/www.cinnamonhotels.com-1302818674/cms/pressroom/john_keells_hotels_plc_integrated_report_2024_25.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": {
+     "name": "Yala Village Pvt Ltd",
+     "count": 848,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://d18slle4wlf9ku.cloudfront.net/www.cinnamonhotels.com-1302818674/cms/pressroom/john_keells_hotels_plc_integrated_report_2024_25.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": {
+     "name": "Yala Village Pvt Ltd Income approach - Rs. , - . % Negative",
+     "count": 406,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://d18slle4wlf9ku.cloudfront.net/www.cinnamonhotels.com-1302818674/cms/pressroom/john_keells_hotels_plc_integrated_report_2024_25.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": {
+     "name": "Yala Village Pvt Ltd Sri Lanka Tourism",
+     "count": 184,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://d18slle4wlf9ku.cloudfront.net/www.cinnamonhotels.com-1302818674/cms/pressroom/john_keells_hotels_plc_integrated_report_2024_25.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": {
+     "name": "Yala Village Pvt Ltd . % . % . % . %",
+     "count": 678,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://d18slle4wlf9ku.cloudfront.net/www.cinnamonhotels.com-1302818674/cms/pressroom/john_keells_hotels_plc_integrated_report_2024_25.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": {
+     "name": "Yala Village Pvt -month SOFR- monthly instalments",
+     "count": 496,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://d18slle4wlf9ku.cloudfront.net/www.cinnamonhotels.com-1302818674/cms/pressroom/john_keells_hotels_plc_integrated_report_2024_25.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": {
+     "name": "Yala Village Pvt Ltd",
+     "count": 14,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://d18slle4wlf9ku.cloudfront.net/www.cinnamonhotels.com-1302818674/cms/pressroom/john_keells_hotels_plc_integrated_report_2024_25.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": {
+     "name": "Habarana Village by Cinnamon",
+     "count": 95,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://d18slle4wlf9ku.cloudfront.net/www.cinnamonhotels.com-1302818674/cms/pressroom/john_keells_hotels_plc_integrated_report_2024_25.pdf",
+    "as_of": 2024
+   },
    {
     "value": {
      "name": "Villas",
@@ -600,7 +948,83 @@
     "as_of": "2026-10-04"
    }
   ],
+  "meal_plans": [
+   {
+    "value": "BB",
+    "source_url": "https://d18slle4wlf9ku.cloudfront.net/www.cinnamonhotels.com-1302818674/cms/pressroom/john_keells_hotels_plc_annual_report_2425.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "HB",
+    "source_url": "https://d18slle4wlf9ku.cloudfront.net/www.cinnamonhotels.com-1302818674/cms/pressroom/john_keells_hotels_plc_annual_report_2425.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "FB",
+    "source_url": "https://d18slle4wlf9ku.cloudfront.net/www.cinnamonhotels.com-1302818674/cms/pressroom/john_keells_hotels_plc_annual_report_2425.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "AI",
+    "source_url": "https://d18slle4wlf9ku.cloudfront.net/www.cinnamonhotels.com-1302818674/cms/pressroom/john_keells_hotels_plc_annual_report_2425.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "BB",
+    "source_url": "https://d18slle4wlf9ku.cloudfront.net/www.cinnamonhotels.com-1302818674/cms/pressroom/john_keells_hotels_plc_integrated_report_2024_25.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "HB",
+    "source_url": "https://d18slle4wlf9ku.cloudfront.net/www.cinnamonhotels.com-1302818674/cms/pressroom/john_keells_hotels_plc_integrated_report_2024_25.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "FB",
+    "source_url": "https://d18slle4wlf9ku.cloudfront.net/www.cinnamonhotels.com-1302818674/cms/pressroom/john_keells_hotels_plc_integrated_report_2024_25.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "AI",
+    "source_url": "https://d18slle4wlf9ku.cloudfront.net/www.cinnamonhotels.com-1302818674/cms/pressroom/john_keells_hotels_plc_integrated_report_2024_25.pdf",
+    "as_of": 2024
+   }
+  ],
+  "all_inclusive_details": [
+   {
+    "value": "all inclusive (AI).",
+    "source_url": "https://d18slle4wlf9ku.cloudfront.net/www.cinnamonhotels.com-1302818674/cms/pressroom/john_keells_hotels_plc_annual_report_2425.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "all inclusive (AI).",
+    "source_url": "https://d18slle4wlf9ku.cloudfront.net/www.cinnamonhotels.com-1302818674/cms/pressroom/john_keells_hotels_plc_integrated_report_2024_25.pdf",
+    "as_of": 2024
+   }
+  ],
+  "diving_watersports.house_reef": [
+   {
+    "value": "house reefs while Cinnamon Hakuraa",
+    "source_url": "https://d18slle4wlf9ku.cloudfront.net/www.cinnamonhotels.com-1302818674/cms/pressroom/john_keells_hotels_plc_annual_report_2425.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "house reefs while Cinnamon Hakuraa",
+    "source_url": "https://d18slle4wlf9ku.cloudfront.net/www.cinnamonhotels.com-1302818674/cms/pressroom/john_keells_hotels_plc_integrated_report_2024_25.pdf",
+    "as_of": 2024
+   }
+  ],
   "excursions": [
+   {
+    "value": "turtle",
+    "source_url": "https://d18slle4wlf9ku.cloudfront.net/www.cinnamonhotels.com-1302818674/cms/pressroom/john_keells_hotels_plc_annual_report_2425.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://d18slle4wlf9ku.cloudfront.net/www.cinnamonhotels.com-1302818674/cms/pressroom/john_keells_hotels_plc_integrated_report_2024_25.pdf",
+    "as_of": 2024
+   },
    {
     "value": "island hopping",
     "source_url": "https://www.neoscapesmaldives.com/resort/cinnamon-velifushi-maldives/",
@@ -627,6 +1051,128 @@
     "as_of": "2026-10-04"
    }
   ],
+  "sustainability": [
+   {
+    "value": "coral restoration",
+    "source_url": "https://d18slle4wlf9ku.cloudfront.net/www.cinnamonhotels.com-1302818674/cms/pressroom/john_keells_hotels_plc_annual_report_2425.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "coral nursery",
+    "source_url": "https://d18slle4wlf9ku.cloudfront.net/www.cinnamonhotels.com-1302818674/cms/pressroom/john_keells_hotels_plc_annual_report_2425.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "marine biologist",
+    "source_url": "https://d18slle4wlf9ku.cloudfront.net/www.cinnamonhotels.com-1302818674/cms/pressroom/john_keells_hotels_plc_annual_report_2425.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "solar",
+    "source_url": "https://d18slle4wlf9ku.cloudfront.net/www.cinnamonhotels.com-1302818674/cms/pressroom/john_keells_hotels_plc_annual_report_2425.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "single-use plastic",
+    "source_url": "https://d18slle4wlf9ku.cloudfront.net/www.cinnamonhotels.com-1302818674/cms/pressroom/john_keells_hotels_plc_annual_report_2425.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "EarthCheck",
+    "source_url": "https://d18slle4wlf9ku.cloudfront.net/www.cinnamonhotels.com-1302818674/cms/pressroom/john_keells_hotels_plc_annual_report_2425.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "Travelife",
+    "source_url": "https://d18slle4wlf9ku.cloudfront.net/www.cinnamonhotels.com-1302818674/cms/pressroom/john_keells_hotels_plc_annual_report_2425.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "hydroponic",
+    "source_url": "https://d18slle4wlf9ku.cloudfront.net/www.cinnamonhotels.com-1302818674/cms/pressroom/john_keells_hotels_plc_annual_report_2425.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "composting",
+    "source_url": "https://d18slle4wlf9ku.cloudfront.net/www.cinnamonhotels.com-1302818674/cms/pressroom/john_keells_hotels_plc_annual_report_2425.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "reef restoration",
+    "source_url": "https://d18slle4wlf9ku.cloudfront.net/www.cinnamonhotels.com-1302818674/cms/pressroom/john_keells_hotels_plc_annual_report_2425.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "Olive Ridley Project",
+    "source_url": "https://d18slle4wlf9ku.cloudfront.net/www.cinnamonhotels.com-1302818674/cms/pressroom/john_keells_hotels_plc_annual_report_2425.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "ISO 14001",
+    "source_url": "https://d18slle4wlf9ku.cloudfront.net/www.cinnamonhotels.com-1302818674/cms/pressroom/john_keells_hotels_plc_annual_report_2425.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "coral restoration",
+    "source_url": "https://d18slle4wlf9ku.cloudfront.net/www.cinnamonhotels.com-1302818674/cms/pressroom/john_keells_hotels_plc_integrated_report_2024_25.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "coral nursery",
+    "source_url": "https://d18slle4wlf9ku.cloudfront.net/www.cinnamonhotels.com-1302818674/cms/pressroom/john_keells_hotels_plc_integrated_report_2024_25.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "marine biologist",
+    "source_url": "https://d18slle4wlf9ku.cloudfront.net/www.cinnamonhotels.com-1302818674/cms/pressroom/john_keells_hotels_plc_integrated_report_2024_25.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "solar",
+    "source_url": "https://d18slle4wlf9ku.cloudfront.net/www.cinnamonhotels.com-1302818674/cms/pressroom/john_keells_hotels_plc_integrated_report_2024_25.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "single-use plastic",
+    "source_url": "https://d18slle4wlf9ku.cloudfront.net/www.cinnamonhotels.com-1302818674/cms/pressroom/john_keells_hotels_plc_integrated_report_2024_25.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "EarthCheck",
+    "source_url": "https://d18slle4wlf9ku.cloudfront.net/www.cinnamonhotels.com-1302818674/cms/pressroom/john_keells_hotels_plc_integrated_report_2024_25.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "Travelife",
+    "source_url": "https://d18slle4wlf9ku.cloudfront.net/www.cinnamonhotels.com-1302818674/cms/pressroom/john_keells_hotels_plc_integrated_report_2024_25.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "hydroponic",
+    "source_url": "https://d18slle4wlf9ku.cloudfront.net/www.cinnamonhotels.com-1302818674/cms/pressroom/john_keells_hotels_plc_integrated_report_2024_25.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "composting",
+    "source_url": "https://d18slle4wlf9ku.cloudfront.net/www.cinnamonhotels.com-1302818674/cms/pressroom/john_keells_hotels_plc_integrated_report_2024_25.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "reef restoration",
+    "source_url": "https://d18slle4wlf9ku.cloudfront.net/www.cinnamonhotels.com-1302818674/cms/pressroom/john_keells_hotels_plc_integrated_report_2024_25.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "Olive Ridley Project",
+    "source_url": "https://d18slle4wlf9ku.cloudfront.net/www.cinnamonhotels.com-1302818674/cms/pressroom/john_keells_hotels_plc_integrated_report_2024_25.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "ISO 14001",
+    "source_url": "https://d18slle4wlf9ku.cloudfront.net/www.cinnamonhotels.com-1302818674/cms/pressroom/john_keells_hotels_plc_integrated_report_2024_25.pdf",
+    "as_of": 2024
+   }
+  ],
   "kids_family.kids_club": [
    {
     "value": "Kids Club",
@@ -642,5 +1188,5 @@
    }
   ]
  },
- "last_updated": "2026-10-04"
+ "last_updated": "2026-10-05"
 }

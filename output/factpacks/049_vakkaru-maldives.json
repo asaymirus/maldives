@@ -5,8 +5,8 @@
  "aliases": [
   "Vakkaru"
  ],
- "official_url": null,
- "official_site_status": null,
+ "official_url": "https://www.vakkarumaldives.com/",
+ "official_site_status": "ok",
  "operator_brand": "Vakkaru",
  "atoll": "Baa Atoll",
  "island": null,
@@ -20,7 +20,7 @@
    "yacht"
   ],
   "minutes": {
-   "seaplane": 20,
+   "seaplane": 30,
    "speedboat": 30,
    "domestic flight": 30,
    "yacht": null
@@ -31,73 +31,121 @@
   "total": null,
   "categories": [
    {
-    "name": "Beach Villa with Plunge Pool A + C",
-    "count": null,
-    "size_sqm": 115,
+    "name": "Reception RECREATION BEACH VILLAS AND RESIDENCES",
+    "count": 1,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "Sand & Sea Beach Pool Residence",
+    "count": 2,
+    "size_sqm": null,
     "max_occupancy": null,
     "pool": true,
     "overwater": null
    },
    {
-    "name": "Beach Pool Villa A or A + C",
-    "count": null,
-    "size_sqm": 250,
+    "name": "Clinic Beach Villa with Plunge Pool",
+    "count": 130,
+    "size_sqm": null,
     "max_occupancy": null,
     "pool": true,
     "overwater": null
    },
    {
-    "name": "Beach Family Pool Villa A or A + C",
-    "count": null,
-    "size_sqm": 250,
+    "name": "Amaany Beach Pool Residence",
+    "count": 5,
+    "size_sqm": null,
     "max_occupancy": null,
     "pool": true,
     "overwater": null
    },
    {
-    "name": "One Bedroom Beach Pool Residence A+ C or A+ C",
-    "count": null,
-    "size_sqm": 285,
+    "name": "Overwater Pool Villa",
+    "count": 29,
+    "size_sqm": null,
     "max_occupancy": null,
     "pool": true,
-    "overwater": null
+    "overwater": true
    },
    {
-    "name": "Two Bedroom Beach Pool Residence A or A + C",
-    "count": null,
-    "size_sqm": 290,
-    "max_occupancy": null,
-    "pool": true,
-    "overwater": null
-   },
-   {
-    "name": "Overwater Villa A + C N/A",
-    "count": null,
-    "size_sqm": 140,
+    "name": "Overwater Villa",
+    "count": 25,
+    "size_sqm": null,
     "max_occupancy": null,
     "pool": null,
     "overwater": true
    },
    {
-    "name": "Overwater Pool Villa A + C",
-    "count": null,
-    "size_sqm": 165,
+    "name": "Jungle Cinema Overwater Pool Residence",
+    "count": 12,
+    "size_sqm": null,
     "max_occupancy": null,
     "pool": true,
     "overwater": true
    },
    {
-    "name": "Overwater Family Pool Villa A or A + C",
+    "name": "Beach Villa with Plunge Pool Terrace: A or A + C",
     "count": null,
-    "size_sqm": 165,
+    "size_sqm": 25,
+    "max_occupancy": null,
+    "pool": true,
+    "overwater": null
+   },
+   {
+    "name": "Beach Pool Villa Terrace",
+    "count": null,
+    "size_sqm": 35,
+    "max_occupancy": null,
+    "pool": true,
+    "overwater": null
+   },
+   {
+    "name": "Over Water Pool Villa A or A + C",
+    "count": null,
+    "size_sqm": 35,
     "max_occupancy": null,
     "pool": true,
     "overwater": true
    },
    {
-    "name": "The Vakkaru Overwater Residence A + C or A",
+    "name": "One Bedroom Beach Pool Residence Terrace",
     "count": null,
-    "size_sqm": 950,
+    "size_sqm": 42,
+    "max_occupancy": null,
+    "pool": true,
+    "overwater": null
+   },
+   {
+    "name": "Residence Sunset View Sundeck: or A + C",
+    "count": null,
+    "size_sqm": 77,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "Two Bedroom Beach Pool Residence Terrace: A or A + C",
+    "count": null,
+    "size_sqm": 53,
+    "max_occupancy": null,
+    "pool": true,
+    "overwater": null
+   },
+   {
+    "name": "Three Bedroom Beach Pool Residence A or A + C",
+    "count": null,
+    "size_sqm": 55,
+    "max_occupancy": null,
+    "pool": true,
+    "overwater": null
+   },
+   {
+    "name": "The Vakkaru Over Water Residence A or A + C",
+    "count": null,
+    "size_sqm": 60,
     "max_occupancy": null,
     "pool": null,
     "overwater": true
@@ -159,14 +207,6 @@
     "overwater": null
    },
    {
-    "name": "Gym Over Water Family Pool Villas",
-    "count": 23,
-    "size_sqm": null,
-    "max_occupancy": null,
-    "pool": true,
-    "overwater": true
-   },
-   {
     "name": "Parrotﬁsh Club Over Water Pool Retreats",
     "count": 25,
     "size_sqm": null,
@@ -177,14 +217,6 @@
    {
     "name": "The Residence",
     "count": 25,
-    "size_sqm": null,
-    "max_occupancy": null,
-    "pool": null,
-    "overwater": null
-   },
-   {
-    "name": "Number of Villas",
-    "count": 113,
     "size_sqm": null,
     "max_occupancy": null,
     "pool": null,
@@ -213,42 +245,30 @@
     "max_occupancy": null,
     "pool": true,
     "overwater": null
+   },
+   {
+    "name": "beach and overwater villas and residences",
+    "count": 113,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": true
    }
   ]
  },
  "dining": [
-  {
-   "name": "Teppanyaki",
-   "cuisine": null,
-   "type": "restaurant"
-  },
-  {
-   "name": "Destination Dining",
-   "cuisine": null,
-   "type": "restaurant"
-  },
-  {
-   "name": "7 Lagoon Bar Beach Family Pool Villas",
-   "cuisine": null,
-   "type": "bar"
-  },
-  {
-   "name": "Dining",
-   "cuisine": null,
-   "type": "restaurant"
-  },
   {
    "name": "Lagoon Bar",
    "cuisine": null,
    "type": "bar"
   },
   {
-   "name": "Luxury Destination Dining",
+   "name": "Anguru Teppanyaki",
    "cuisine": null,
    "type": "restaurant"
   },
   {
-   "name": "Organic Garden Dining",
+   "name": "Teppanyaki",
    "cuisine": null,
    "type": "restaurant"
   },
@@ -256,59 +276,89 @@
    "name": "Seaplane Lounge",
    "cuisine": null,
    "type": "bar"
+  },
+  {
+   "name": "Khufu De’ Recreation Lounge",
+   "cuisine": null,
+   "type": "bar"
+  },
+  {
+   "name": "Team Dining at Kaage Restaurant",
+   "cuisine": null,
+   "type": "restaurant"
   }
  ],
- "meal_plans": [],
+ "meal_plans": [
+  "HB",
+  "Dine Around"
+ ],
  "all_inclusive_details": null,
  "spa": {
-  "name": "Spa",
-  "treatment_rooms": null,
+  "name": "Merana Spa",
+  "treatment_rooms": 12,
   "signature_treatments": [],
-  "menu_doc": null
+  "menu_doc": "https://www.vakkarumaldives.com/pdfs/spa-menus/merana-spa_menu_2026.pdf"
  },
  "diving_watersports": {
-  "operator": null,
-  "house_reef": "house reef with unique marine biodiversity",
+  "operator": "Dive Centre",
+  "house_reef": "House reef dive & all equipment)",
   "activities": [
+   "snorkelling",
    "snorkeling",
    "scuba diving",
+   "windsurfing",
+   "surfing",
+   "jet ski",
    "parasailing",
+   "wakeboarding",
    "fishing",
+   "sunset cruise",
    "dolphin cruise",
-   "whale shark",
-   "manta"
+   "manta",
+   "sailing",
+   "kayaking",
+   "whale shark"
   ],
   "price_list_doc": null
  },
  "excursions": [
   "sandbank",
   "picnic",
+  "private dinner",
   "castaway",
-  "cooking class",
+  "cinema",
   "dolphin",
   "sunset fishing",
+  "big game fishing",
+  "manta",
+  "turtle",
+  "local island",
+  "stargazing",
   "whale shark",
-  "manta"
+  "cooking class"
  ],
  "kids_family": {
   "kids_club": "Yes\nKids Club",
   "age_range": null,
-  "teens": null
+  "teens": "teens programme mentioned"
  },
  "wellness_fitness": [
   "yoga",
+  "gym",
   "fitness centre",
   "tennis",
   "padel",
   "beach volleyball",
   "sauna",
   "steam",
-  "wellness programme",
-  "gym",
   "meditation",
-  "fitness center",
+  "ayurveda",
   "badminton",
-  "pilates"
+  "personal trainer",
+  "wellness programme",
+  "pilates",
+  "sound healing",
+  "fitness center"
  ],
  "weddings": {
   "offered": true,
@@ -317,7 +367,7 @@
    "venue by the beach to savour our finest selection of"
   ],
   "packages": [],
-  "brochure_doc": null
+  "brochure_doc": "https://www.vakkarumaldives.com/pdfs/news/valentines-day-2024.pdf"
  },
  "events_mice": {
   "venues": [],
@@ -326,64 +376,314 @@
   "doc": null
  },
  "sustainability": [
+  "organic garden",
   "marine biologist",
-  "organic garden"
+  "single-use plastic",
+  "composting"
  ],
  "contacts_public": {
   "reservations_email": "info@neoscapesmaldives.com",
   "weddings_email": null,
-  "phone": "+960 736 5425"
+  "phone": "+960 660 7404"
  },
  "documents_latest": {
-  "factsheet": "https://www.neoscapesmaldives.com/wp-content/uploads/Vakkaru-Maldives-Fact-Sheet-2022.pdf",
+  "factsheet": "https://www.vakkarumaldives.com/pdfs/vakkaru-maldives-fact-sheet-2025.pdf",
   "map": "https://www.neoscapesmaldives.com/wp-content/uploads/Vakkaru-Maldives-Resort-Map-A4.pdf",
-  "wedding": null,
-  "spa_menu": null,
-  "dining_menu": null,
+  "wedding": "https://www.vakkarumaldives.com/pdfs/news/valentines-day-2024.pdf",
+  "spa_menu": "https://www.vakkarumaldives.com/pdfs/spa-menus/merana-spa_menu_2026.pdf",
+  "dining_menu": "https://www.vakkarumaldives.com/pdfs/dining-restaurant-menus/master-wine-list.-2026.pdf",
   "dive_prices": null,
   "events": null,
-  "calendar": null
+  "calendar": "https://www.vakkarumaldives.com/pdfs/news/easter-brochure-2024.pdf"
  },
- "documents_count": 2,
+ "documents_count": 34,
  "gaps": [
-  "wedding brochure",
   "events/MICE document",
-  "fact: villas.total",
-  "fact: dive operator"
+  "fact: villas.total"
  ],
  "sources": {
   "atoll": [
    {
     "value": "Baa Atoll",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Vakkaru-Maldives-Fact-Sheet-2022.pdf",
-    "as_of": 2022
+    "source_url": "https://www.vakkarumaldives.com/pdfs/vakkaru-maldives-fact-sheet-2025.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "Baa Atoll",
+    "source_url": "https://www.vakkarumaldives.com/pdfs/splash/vakkaru-maldives---splash-brochure.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "Baa Atoll",
+    "source_url": "https://www.vakkarumaldives.com/pdfs/news/valentines-day-2024.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "Baa Atoll",
+    "source_url": "https://www.vakkarumaldives.com/pdfs/vakkaru-maldives-a-timeless-sanctuary-in-unesco-biosphere-reserve.pdf",
+    "as_of": 2017
+   },
+   {
+    "value": "Baa Atoll",
+    "source_url": "https://www.vakkarumaldives.com/pdfs/vakkaru-maldives-irish-daily-mail-22.07.2019.pdf",
+    "as_of": 2019
+   },
+   {
+    "value": "Baa Atoll",
+    "source_url": "https://www.vakkarumaldives.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Baa Atoll",
+    "source_url": "https://www.vakkarumaldives.com/news/2024/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Baa Atoll",
+    "source_url": "https://www.vakkarumaldives.com/things-to-do-in-maldives/diving-courses.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Baa Atoll",
+    "source_url": "https://www.vakkarumaldives.com/index.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Baa Atoll",
+    "source_url": "https://www.vakkarumaldives.com/things-to-do-in-maldives/snorkelling.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Baa Atoll",
+    "source_url": "https://www.vakkarumaldives.com/experiences/parrotfish-club.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Baa Atoll",
+    "source_url": "https://www.vakkarumaldives.com/experiences/sports-fields.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Baa Atoll",
+    "source_url": "https://www.vakkarumaldives.com/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Baa Atoll",
+    "source_url": "https://www.vakkarumaldives.com/things-to-do-in-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Baa Atoll",
+    "source_url": "https://www.vakkarumaldives.com/about/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Baa Atoll",
+    "source_url": "https://www.vakkarumaldives.com/news/celebrations-as-the-maldives-and-vakkaru-maldives-welcome-the-one-millionth-visitor-to-the-island-country.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Baa Atoll",
+    "source_url": "https://www.vakkarumaldives.com/sustainability.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Baa Atoll",
+    "source_url": "https://www.vakkarumaldives.com/privacy-policy.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Baa Atoll",
+    "source_url": "https://www.vakkarumaldives.com/experiences/index.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Baa Atoll",
+    "source_url": "https://www.vakkarumaldives.com/dining/private-destination-dining.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Baa Atoll",
+    "source_url": "https://www.vakkarumaldives.com/contact.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Baa Atoll",
+    "source_url": "https://www.vakkarumaldives.com/dining/the-organic-farm.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Baa Atoll",
+    "source_url": "https://www.vakkarumaldives.com/news/world-leading-luxury-honeymoon-resort.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Baa Atoll",
+    "source_url": "https://www.vakkarumaldives.com/things-to-do-in-maldives/scuba-diving.html",
+    "as_of": "2026-10-04"
    },
    {
     "value": "Baa Atoll",
     "source_url": "https://www.neoscapesmaldives.com/resort/vakkaru-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Baa Atoll",
+    "source_url": "https://mondomaldive.it/it/villaggio/vakkaru-maldives/foto_utenti",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Baa Atoll",
+    "source_url": "https://www.carrier.co.uk/design/hotels/vakkaru-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Baa Atoll",
+    "source_url": "https://malediven.de/malediven-hotels/vakkaru-maldives/",
     "as_of": "2026-10-04"
    }
   ],
   "transfer.modes": [
    {
     "value": "seaplane",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Vakkaru-Maldives-Fact-Sheet-2022.pdf",
-    "as_of": 2022
+    "source_url": "https://www.vakkarumaldives.com/pdfs/vakkaru-maldives-fact-sheet-2025.pdf",
+    "as_of": 2025
    },
    {
     "value": "speedboat",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Vakkaru-Maldives-Fact-Sheet-2022.pdf",
-    "as_of": 2022
+    "source_url": "https://www.vakkarumaldives.com/pdfs/vakkaru-maldives-fact-sheet-2025.pdf",
+    "as_of": 2025
    },
    {
     "value": "domestic flight",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Vakkaru-Maldives-Fact-Sheet-2022.pdf",
-    "as_of": 2022
+    "source_url": "https://www.vakkarumaldives.com/pdfs/vakkaru-maldives-fact-sheet-2025.pdf",
+    "as_of": 2025
    },
    {
     "value": "yacht",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Vakkaru-Maldives-Fact-Sheet-2022.pdf",
-    "as_of": 2022
+    "source_url": "https://www.vakkarumaldives.com/pdfs/vakkaru-maldives-fact-sheet-2025.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.vakkarumaldives.com/pdfs/splash/vakkaru-maldives---splash-brochure.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "yacht",
+    "source_url": "https://www.vakkarumaldives.com/pdfs/splash/vakkaru-maldives---splash-brochure.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "yacht",
+    "source_url": "https://www.vakkarumaldives.com/pdfs/news/valentines-day-2024.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.vakkarumaldives.com/pdfs/vakkaru-maldives-a-timeless-sanctuary-in-unesco-biosphere-reserve.pdf",
+    "as_of": 2017
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.vakkarumaldives.com/pdfs/vakkaru-maldives-irish-daily-mail-22.07.2019.pdf",
+    "as_of": 2019
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.vakkarumaldives.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yacht",
+    "source_url": "https://www.vakkarumaldives.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.vakkarumaldives.com/index.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yacht",
+    "source_url": "https://www.vakkarumaldives.com/index.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.vakkarumaldives.com/offers/index.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yacht",
+    "source_url": "https://www.vakkarumaldives.com/things-to-do-in-maldives/snorkelling.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.vakkarumaldives.com/accommodation/residences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.vakkarumaldives.com/accommodation/villa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.vakkarumaldives.com/about/location.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.vakkarumaldives.com/offers/from-beach-to-beach.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yacht",
+    "source_url": "https://www.vakkarumaldives.com/things-to-do-in-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.vakkarumaldives.com/offers/vakkaru-dream-getaway-exclusive-deal.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.vakkarumaldives.com/about/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.vakkarumaldives.com/about/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "domestic flight",
+    "source_url": "https://www.vakkarumaldives.com/about/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yacht",
+    "source_url": "https://www.vakkarumaldives.com/news/world-leading-luxury-honeymoon-resort.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.vakkarumaldives.com/accommodation/villa/index.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.vakkarumaldives.com/offers/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.vakkarumaldives.com/offers/idyllic-romance-package-at-vakkaru-maldives.html",
+    "as_of": "2026-10-04"
    },
    {
     "value": "seaplane",
@@ -399,25 +699,65 @@
     "value": "domestic flight",
     "source_url": "https://www.neoscapesmaldives.com/resort/vakkaru-maldives/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.carrier.co.uk/design/hotels/vakkaru-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://malediven.de/malediven-hotels/vakkaru-maldives/",
+    "as_of": "2026-10-04"
    }
   ],
   "transfer.minutes.seaplane": [
    {
     "value": 30,
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Vakkaru-Maldives-Fact-Sheet-2022.pdf",
-    "as_of": 2022
+    "source_url": "https://www.vakkarumaldives.com/pdfs/vakkaru-maldives-fact-sheet-2025.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": 25,
+    "source_url": "https://www.vakkarumaldives.com/pdfs/vakkaru-maldives-a-timeless-sanctuary-in-unesco-biosphere-reserve.pdf",
+    "as_of": 2017
+   },
+   {
+    "value": 30,
+    "source_url": "https://www.vakkarumaldives.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 30,
+    "source_url": "https://www.vakkarumaldives.com/index.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 30,
+    "source_url": "https://www.vakkarumaldives.com/about/location.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 30,
+    "source_url": "https://www.vakkarumaldives.com/about/",
+    "as_of": "2026-10-04"
    },
    {
     "value": 20,
     "source_url": "https://www.neoscapesmaldives.com/resort/vakkaru-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 30,
+    "source_url": "https://www.carrier.co.uk/design/hotels/vakkaru-maldives",
     "as_of": "2026-10-04"
    }
   ],
   "transfer.minutes.speedboat": [
    {
     "value": 30,
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Vakkaru-Maldives-Fact-Sheet-2022.pdf",
-    "as_of": 2022
+    "source_url": "https://www.vakkarumaldives.com/pdfs/vakkaru-maldives-fact-sheet-2025.pdf",
+    "as_of": 2025
    },
    {
     "value": 30,
@@ -428,8 +768,8 @@
   "transfer.minutes.domestic flight": [
    {
     "value": 20,
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Vakkaru-Maldives-Fact-Sheet-2022.pdf",
-    "as_of": 2022
+    "source_url": "https://www.vakkarumaldives.com/pdfs/vakkaru-maldives-fact-sheet-2025.pdf",
+    "as_of": 2025
    },
    {
     "value": 30,
@@ -440,111 +780,183 @@
   "villas.categories": [
    {
     "value": {
-     "name": "Beach Villa with Plunge Pool A + C",
-     "count": null,
-     "size_sqm": 115,
+     "name": "Reception RECREATION BEACH VILLAS AND RESIDENCES",
+     "count": 1,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://www.vakkarumaldives.com/pdfs/vakkaru-maldives-fact-sheet-2025.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": {
+     "name": "Sand & Sea Beach Pool Residence",
+     "count": 2,
+     "size_sqm": null,
      "max_occupancy": null,
      "pool": true,
      "overwater": null
     },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Vakkaru-Maldives-Fact-Sheet-2022.pdf",
-    "as_of": 2022
+    "source_url": "https://www.vakkarumaldives.com/pdfs/vakkaru-maldives-fact-sheet-2025.pdf",
+    "as_of": 2025
    },
    {
     "value": {
-     "name": "Beach Pool Villa A or A + C",
-     "count": null,
-     "size_sqm": 250,
+     "name": "Clinic Beach Villa with Plunge Pool",
+     "count": 130,
+     "size_sqm": null,
      "max_occupancy": null,
      "pool": true,
      "overwater": null
     },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Vakkaru-Maldives-Fact-Sheet-2022.pdf",
-    "as_of": 2022
+    "source_url": "https://www.vakkarumaldives.com/pdfs/vakkaru-maldives-fact-sheet-2025.pdf",
+    "as_of": 2025
    },
    {
     "value": {
-     "name": "Beach Family Pool Villa A or A + C",
-     "count": null,
-     "size_sqm": 250,
+     "name": "Amaany Beach Pool Residence",
+     "count": 5,
+     "size_sqm": null,
      "max_occupancy": null,
      "pool": true,
      "overwater": null
     },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Vakkaru-Maldives-Fact-Sheet-2022.pdf",
-    "as_of": 2022
+    "source_url": "https://www.vakkarumaldives.com/pdfs/vakkaru-maldives-fact-sheet-2025.pdf",
+    "as_of": 2025
    },
    {
     "value": {
-     "name": "One Bedroom Beach Pool Residence A+ C or A+ C",
-     "count": null,
-     "size_sqm": 285,
+     "name": "Overwater Pool Villa",
+     "count": 29,
+     "size_sqm": null,
      "max_occupancy": null,
      "pool": true,
-     "overwater": null
+     "overwater": true
     },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Vakkaru-Maldives-Fact-Sheet-2022.pdf",
-    "as_of": 2022
+    "source_url": "https://www.vakkarumaldives.com/pdfs/vakkaru-maldives-fact-sheet-2025.pdf",
+    "as_of": 2025
    },
    {
     "value": {
-     "name": "Two Bedroom Beach Pool Residence A or A + C",
-     "count": null,
-     "size_sqm": 290,
-     "max_occupancy": null,
-     "pool": true,
-     "overwater": null
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Vakkaru-Maldives-Fact-Sheet-2022.pdf",
-    "as_of": 2022
-   },
-   {
-    "value": {
-     "name": "Overwater Villa A + C N/A",
-     "count": null,
-     "size_sqm": 140,
+     "name": "Overwater Villa",
+     "count": 25,
+     "size_sqm": null,
      "max_occupancy": null,
      "pool": null,
      "overwater": true
     },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Vakkaru-Maldives-Fact-Sheet-2022.pdf",
-    "as_of": 2022
+    "source_url": "https://www.vakkarumaldives.com/pdfs/vakkaru-maldives-fact-sheet-2025.pdf",
+    "as_of": 2025
    },
    {
     "value": {
-     "name": "Overwater Pool Villa A + C",
-     "count": null,
-     "size_sqm": 165,
+     "name": "Jungle Cinema Overwater Pool Residence",
+     "count": 12,
+     "size_sqm": null,
      "max_occupancy": null,
      "pool": true,
      "overwater": true
     },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Vakkaru-Maldives-Fact-Sheet-2022.pdf",
-    "as_of": 2022
+    "source_url": "https://www.vakkarumaldives.com/pdfs/vakkaru-maldives-fact-sheet-2025.pdf",
+    "as_of": 2025
    },
    {
     "value": {
-     "name": "Overwater Family Pool Villa A or A + C",
+     "name": "Beach Villa with Plunge Pool Terrace: A or A + C",
      "count": null,
-     "size_sqm": 165,
+     "size_sqm": 25,
+     "max_occupancy": null,
+     "pool": true,
+     "overwater": null
+    },
+    "source_url": "https://www.vakkarumaldives.com/pdfs/vakkaru-maldives-fact-sheet-2025.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": {
+     "name": "Beach Pool Villa Terrace",
+     "count": null,
+     "size_sqm": 35,
+     "max_occupancy": null,
+     "pool": true,
+     "overwater": null
+    },
+    "source_url": "https://www.vakkarumaldives.com/pdfs/vakkaru-maldives-fact-sheet-2025.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": {
+     "name": "Over Water Pool Villa A or A + C",
+     "count": null,
+     "size_sqm": 35,
      "max_occupancy": null,
      "pool": true,
      "overwater": true
     },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Vakkaru-Maldives-Fact-Sheet-2022.pdf",
-    "as_of": 2022
+    "source_url": "https://www.vakkarumaldives.com/pdfs/vakkaru-maldives-fact-sheet-2025.pdf",
+    "as_of": 2025
    },
    {
     "value": {
-     "name": "The Vakkaru Overwater Residence A + C or A",
+     "name": "One Bedroom Beach Pool Residence Terrace",
      "count": null,
-     "size_sqm": 950,
+     "size_sqm": 42,
+     "max_occupancy": null,
+     "pool": true,
+     "overwater": null
+    },
+    "source_url": "https://www.vakkarumaldives.com/pdfs/vakkaru-maldives-fact-sheet-2025.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": {
+     "name": "Residence Sunset View Sundeck: or A + C",
+     "count": null,
+     "size_sqm": 77,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://www.vakkarumaldives.com/pdfs/vakkaru-maldives-fact-sheet-2025.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": {
+     "name": "Two Bedroom Beach Pool Residence Terrace: A or A + C",
+     "count": null,
+     "size_sqm": 53,
+     "max_occupancy": null,
+     "pool": true,
+     "overwater": null
+    },
+    "source_url": "https://www.vakkarumaldives.com/pdfs/vakkaru-maldives-fact-sheet-2025.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": {
+     "name": "Three Bedroom Beach Pool Residence A or A + C",
+     "count": null,
+     "size_sqm": 55,
+     "max_occupancy": null,
+     "pool": true,
+     "overwater": null
+    },
+    "source_url": "https://www.vakkarumaldives.com/pdfs/vakkaru-maldives-fact-sheet-2025.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": {
+     "name": "The Vakkaru Over Water Residence A or A + C",
+     "count": null,
+     "size_sqm": 60,
      "max_occupancy": null,
      "pool": null,
      "overwater": true
     },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Vakkaru-Maldives-Fact-Sheet-2022.pdf",
-    "as_of": 2022
+    "source_url": "https://www.vakkarumaldives.com/pdfs/vakkaru-maldives-fact-sheet-2025.pdf",
+    "as_of": 2025
    },
    {
     "value": {
@@ -656,18 +1068,6 @@
    },
    {
     "value": {
-     "name": "Gym Over Water Family Pool Villas",
-     "count": 23,
-     "size_sqm": null,
-     "max_occupancy": null,
-     "pool": true,
-     "overwater": true
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Vakkaru-Maldives-Resort-Map-A4.pdf",
-    "as_of": 2019
-   },
-   {
-    "value": {
      "name": "Parrotﬁsh Club Over Water Pool Retreats",
      "count": 25,
      "size_sqm": null,
@@ -689,18 +1089,6 @@
     },
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Vakkaru-Maldives-Resort-Map-A4.pdf",
     "as_of": 2019
-   },
-   {
-    "value": {
-     "name": "Number of Villas",
-     "count": 113,
-     "size_sqm": null,
-     "max_occupancy": null,
-     "pool": null,
-     "overwater": null
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/vakkaru-maldives/",
-    "as_of": "2026-10-04"
    },
    {
     "value": {
@@ -737,105 +1125,47 @@
     },
     "source_url": "https://www.neoscapesmaldives.com/resort/vakkaru-maldives/",
     "as_of": "2026-10-04"
-   }
-  ],
-  "dining": [
-   {
-    "value": {
-     "name": "Teppanyaki",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Vakkaru-Maldives-Fact-Sheet-2022.pdf",
-    "as_of": 2022
    },
    {
     "value": {
-     "name": "Destination Dining",
-     "cuisine": null,
-     "type": "restaurant"
+     "name": "beach and overwater villas and residences",
+     "count": 113,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": true
     },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Vakkaru-Maldives-Fact-Sheet-2022.pdf",
-    "as_of": 2022
-   },
-   {
-    "value": {
-     "name": "7 Lagoon Bar Beach Family Pool Villas",
-     "cuisine": null,
-     "type": "bar"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Vakkaru-Maldives-Resort-Map-A4.pdf",
-    "as_of": 2019
-   },
-   {
-    "value": {
-     "name": "Dining",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/vakkaru-maldives/",
+    "source_url": "https://www.carrier.co.uk/design/hotels/vakkaru-maldives",
     "as_of": "2026-10-04"
    },
    {
     "value": {
-     "name": "Dining",
-     "cuisine": null,
-     "type": "restaurant"
+     "name": "beach and overwater villas and residences",
+     "count": 113,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": true
     },
-    "source_url": "https://www.neoscapesmaldives.com/resort/vakkaru-maldives/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Lagoon Bar",
-     "cuisine": null,
-     "type": "bar"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/vakkaru-maldives/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Luxury Destination Dining",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/vakkaru-maldives/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Organic Garden Dining",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/vakkaru-maldives/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Seaplane Lounge",
-     "cuisine": null,
-     "type": "bar"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/vakkaru-maldives/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Seaplane Lounge",
-     "cuisine": null,
-     "type": "bar"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/vakkaru-maldives/",
+    "source_url": "https://www.carrier.co.uk/design/hotels/vakkaru-maldives",
     "as_of": "2026-10-04"
    }
   ],
   "spa.name": [
    {
     "value": "Merana Spa",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Vakkaru-Maldives-Fact-Sheet-2022.pdf",
-    "as_of": 2022
+    "source_url": "https://www.vakkarumaldives.com/pdfs/vakkaru-maldives-fact-sheet-2025.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "Merana Spa",
+    "source_url": "https://www.vakkarumaldives.com/pdfs/spa-menus/merana-spa_menu_2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "Merana Spa",
+    "source_url": "https://www.vakkarumaldives.com/pdfs/vakkaru-maldives-a-timeless-sanctuary-in-unesco-biosphere-reserve.pdf",
+    "as_of": 2017
    },
    {
     "value": "Beach Spa",
@@ -843,16 +1173,118 @@
     "as_of": 2019
    },
    {
+    "value": "Merana Spa",
+    "source_url": "https://www.vakkarumaldives.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Merana Spa",
+    "source_url": "https://www.vakkarumaldives.com/index.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "At Naäma\nMerana Spa",
+    "source_url": "https://www.vakkarumaldives.com/offers/from-beach-to-beach.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Merana Spa",
+    "source_url": "https://www.vakkarumaldives.com/spa-and-wellness/wellness.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Merana Spa",
+    "source_url": "https://www.vakkarumaldives.com/news/world-leading-luxury-honeymoon-resort.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Merana Spa",
+    "source_url": "https://www.vakkarumaldives.com/spa-and-wellness/ayurveda.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Merana Spa",
+    "source_url": "https://www.vakkarumaldives.com/spa-and-wellness/salon.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Merana Spa",
+    "source_url": "https://www.vakkarumaldives.com/spa-and-wellness/merana-spa.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Couple's Spa",
+    "source_url": "https://www.vakkarumaldives.com/news/timeless-romance-valentines-day-celebration-at-vakkaru-maldives.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Merana Spa",
+    "source_url": "https://www.vakkarumaldives.com/offers/idyllic-romance-package-at-vakkaru-maldives.html",
+    "as_of": "2026-10-04"
+   },
+   {
     "value": "Spa",
     "source_url": "https://www.neoscapesmaldives.com/resort/vakkaru-maldives/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "Merana Spa",
+    "source_url": "https://malediven.de/malediven-hotels/vakkaru-maldives/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "spa.treatment_rooms": [
+   {
+    "value": 12,
+    "source_url": "https://www.vakkarumaldives.com/pdfs/vakkaru-maldives-fact-sheet-2025.pdf",
+    "as_of": 2025
    }
   ],
   "diving_watersports.house_reef": [
    {
-    "value": "HOUSE\nREEF 6 2 3",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Vakkaru-Maldives-Fact-Sheet-2022.pdf",
-    "as_of": 2022
+    "value": "HOUSE REEF",
+    "source_url": "https://www.vakkarumaldives.com/pdfs/vakkaru-maldives-fact-sheet-2025.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "House reef dive & all equipment)",
+    "source_url": "https://www.vakkarumaldives.com/pdfs/splash/vakkaru-maldives---splash-brochure.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "house reef with",
+    "source_url": "https://www.vakkarumaldives.com/pdfs/vakkaru-maldives-a-timeless-sanctuary-in-unesco-biosphere-reserve.pdf",
+    "as_of": 2017
+   },
+   {
+    "value": "house reef",
+    "source_url": "https://www.vakkarumaldives.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef dives and night diving in the Baa Atoll, Splash offers a full range of scuba experiences for every level",
+    "source_url": "https://www.vakkarumaldives.com/things-to-do-in-maldives/diving-courses.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef",
+    "source_url": "https://www.vakkarumaldives.com/index.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef snorkelling and night sessions with UV light to turtle encounters and coral garden explorations, the reefs of the Baa Atoll offer some of the most biodiverse m",
+    "source_url": "https://www.vakkarumaldives.com/things-to-do-in-maldives/snorkelling.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reefs, swim alongside sea turtles, visit colourful coral gardens or journey to Hanifaru Bay to witness majestic manta rays in their natural habitat",
+    "source_url": "https://www.vakkarumaldives.com/things-to-do-in-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef",
+    "source_url": "https://www.vakkarumaldives.com/about/",
+    "as_of": "2026-10-04"
    },
    {
     "value": "house reef with unique marine biodiversity",
@@ -863,23 +1295,393 @@
   "excursions": [
    {
     "value": "sandbank",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Vakkaru-Maldives-Fact-Sheet-2022.pdf",
-    "as_of": 2022
+    "source_url": "https://www.vakkarumaldives.com/pdfs/vakkaru-maldives-fact-sheet-2025.pdf",
+    "as_of": 2025
    },
    {
     "value": "picnic",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Vakkaru-Maldives-Fact-Sheet-2022.pdf",
-    "as_of": 2022
+    "source_url": "https://www.vakkarumaldives.com/pdfs/vakkaru-maldives-fact-sheet-2025.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "private dinner",
+    "source_url": "https://www.vakkarumaldives.com/pdfs/vakkaru-maldives-fact-sheet-2025.pdf",
+    "as_of": 2025
    },
    {
     "value": "castaway",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Vakkaru-Maldives-Fact-Sheet-2022.pdf",
-    "as_of": 2022
+    "source_url": "https://www.vakkarumaldives.com/pdfs/vakkaru-maldives-fact-sheet-2025.pdf",
+    "as_of": 2025
    },
    {
-    "value": "cooking class",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Vakkaru-Maldives-Fact-Sheet-2022.pdf",
-    "as_of": 2022
+    "value": "cinema",
+    "source_url": "https://www.vakkarumaldives.com/pdfs/vakkaru-maldives-fact-sheet-2025.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.vakkarumaldives.com/pdfs/splash/vakkaru-maldives---splash-brochure.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.vakkarumaldives.com/pdfs/splash/vakkaru-maldives---splash-brochure.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "sunset fishing",
+    "source_url": "https://www.vakkarumaldives.com/pdfs/splash/vakkaru-maldives---splash-brochure.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "big game fishing",
+    "source_url": "https://www.vakkarumaldives.com/pdfs/splash/vakkaru-maldives---splash-brochure.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.vakkarumaldives.com/pdfs/splash/vakkaru-maldives---splash-brochure.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.vakkarumaldives.com/pdfs/splash/vakkaru-maldives---splash-brochure.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.vakkarumaldives.com/pdfs/news/valentines-day-2024.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "castaway",
+    "source_url": "https://www.vakkarumaldives.com/pdfs/news/valentines-day-2024.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "cinema",
+    "source_url": "https://www.vakkarumaldives.com/pdfs/news/valentines-day-2024.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "local island",
+    "source_url": "https://www.vakkarumaldives.com/pdfs/vakkaru-maldives-a-timeless-sanctuary-in-unesco-biosphere-reserve.pdf",
+    "as_of": 2017
+   },
+   {
+    "value": "local island",
+    "source_url": "https://www.vakkarumaldives.com/pdfs/vakkaru-maldives-irish-daily-mail-22.07.2019.pdf",
+    "as_of": 2019
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.vakkarumaldives.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset fishing",
+    "source_url": "https://www.vakkarumaldives.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.vakkarumaldives.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.vakkarumaldives.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "cinema",
+    "source_url": "https://www.vakkarumaldives.com/accommodation/residences/vakkaru-over-water-residence.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.vakkarumaldives.com/index.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset fishing",
+    "source_url": "https://www.vakkarumaldives.com/index.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.vakkarumaldives.com/index.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.vakkarumaldives.com/index.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.vakkarumaldives.com/news/page3.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.vakkarumaldives.com/things-to-do-in-maldives/snorkelling.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.vakkarumaldives.com/things-to-do-in-maldives/snorkelling.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset fishing",
+    "source_url": "https://www.vakkarumaldives.com/things-to-do-in-maldives/fishing-adventures.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "big game fishing",
+    "source_url": "https://www.vakkarumaldives.com/things-to-do-in-maldives/fishing-adventures.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.vakkarumaldives.com/news/2023/page2.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.vakkarumaldives.com/experiences/parrotfish-club.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "picnic",
+    "source_url": "https://www.vakkarumaldives.com/experiences/parrotfish-club.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "stargazing",
+    "source_url": "https://www.vakkarumaldives.com/experiences/parrotfish-club.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "castaway",
+    "source_url": "https://www.vakkarumaldives.com/experiences/parrotfish-club.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "cinema",
+    "source_url": "https://www.vakkarumaldives.com/experiences/parrotfish-club.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.vakkarumaldives.com/experiences/sports-fields.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "picnic",
+    "source_url": "https://www.vakkarumaldives.com/experiences/sports-fields.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "stargazing",
+    "source_url": "https://www.vakkarumaldives.com/experiences/sports-fields.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "castaway",
+    "source_url": "https://www.vakkarumaldives.com/experiences/sports-fields.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "cinema",
+    "source_url": "https://www.vakkarumaldives.com/experiences/sports-fields.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.vakkarumaldives.com/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "picnic",
+    "source_url": "https://www.vakkarumaldives.com/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "stargazing",
+    "source_url": "https://www.vakkarumaldives.com/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "castaway",
+    "source_url": "https://www.vakkarumaldives.com/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "cinema",
+    "source_url": "https://www.vakkarumaldives.com/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.vakkarumaldives.com/about/location.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.vakkarumaldives.com/things-to-do-in-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset fishing",
+    "source_url": "https://www.vakkarumaldives.com/things-to-do-in-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.vakkarumaldives.com/things-to-do-in-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.vakkarumaldives.com/things-to-do-in-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.vakkarumaldives.com/things-to-do-in-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.vakkarumaldives.com/about/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.vakkarumaldives.com/about/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.vakkarumaldives.com/experiences/index.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "picnic",
+    "source_url": "https://www.vakkarumaldives.com/experiences/index.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "stargazing",
+    "source_url": "https://www.vakkarumaldives.com/experiences/index.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "castaway",
+    "source_url": "https://www.vakkarumaldives.com/experiences/index.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "cinema",
+    "source_url": "https://www.vakkarumaldives.com/experiences/index.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.vakkarumaldives.com/dining/private-destination-dining.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "picnic",
+    "source_url": "https://www.vakkarumaldives.com/dining/private-destination-dining.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "stargazing",
+    "source_url": "https://www.vakkarumaldives.com/dining/private-destination-dining.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "castaway",
+    "source_url": "https://www.vakkarumaldives.com/dining/private-destination-dining.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "cinema",
+    "source_url": "https://www.vakkarumaldives.com/dining/private-destination-dining.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.vakkarumaldives.com/dining/the-organic-farm.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "picnic",
+    "source_url": "https://www.vakkarumaldives.com/dining/the-organic-farm.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "stargazing",
+    "source_url": "https://www.vakkarumaldives.com/dining/the-organic-farm.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "castaway",
+    "source_url": "https://www.vakkarumaldives.com/dining/the-organic-farm.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "cinema",
+    "source_url": "https://www.vakkarumaldives.com/dining/the-organic-farm.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.vakkarumaldives.com/news/world-leading-luxury-honeymoon-resort.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.vakkarumaldives.com/dining/index.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "picnic",
+    "source_url": "https://www.vakkarumaldives.com/dining/index.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "stargazing",
+    "source_url": "https://www.vakkarumaldives.com/dining/index.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "castaway",
+    "source_url": "https://www.vakkarumaldives.com/dining/index.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "cinema",
+    "source_url": "https://www.vakkarumaldives.com/dining/index.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.vakkarumaldives.com/news/2023/05/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.vakkarumaldives.com/news/timeless-romance-valentines-day-celebration-at-vakkaru-maldives.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "castaway",
+    "source_url": "https://www.vakkarumaldives.com/news/timeless-romance-valentines-day-celebration-at-vakkaru-maldives.html",
+    "as_of": "2026-10-04"
    },
    {
     "value": "sandbank",
@@ -920,53 +1722,605 @@
     "value": "cooking class",
     "source_url": "https://www.neoscapesmaldives.com/resort/vakkaru-maldives/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.carrier.co.uk/design/hotels/vakkaru-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.carrier.co.uk/design/hotels/vakkaru-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "castaway",
+    "source_url": "https://www.carrier.co.uk/design/hotels/vakkaru-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://malediven.de/malediven-hotels/vakkaru-maldives/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "kids_family.teens": [
+   {
+    "value": "teens programme mentioned",
+    "source_url": "https://www.vakkarumaldives.com/pdfs/vakkaru-maldives-fact-sheet-2025.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "teens programme mentioned",
+    "source_url": "https://www.vakkarumaldives.com/pdfs/vakkaru-maldives-a-timeless-sanctuary-in-unesco-biosphere-reserve.pdf",
+    "as_of": 2017
+   },
+   {
+    "value": "teens programme mentioned",
+    "source_url": "https://www.vakkarumaldives.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "teens programme mentioned",
+    "source_url": "https://www.vakkarumaldives.com/index.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "teens programme mentioned",
+    "source_url": "https://www.vakkarumaldives.com/experiences/parrotfish-club.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "teens programme mentioned",
+    "source_url": "https://www.vakkarumaldives.com/experiences/sports-fields.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "teens programme mentioned",
+    "source_url": "https://www.vakkarumaldives.com/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "teens programme mentioned",
+    "source_url": "https://www.vakkarumaldives.com/experiences/index.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "teens programme mentioned",
+    "source_url": "https://www.vakkarumaldives.com/dining/private-destination-dining.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "teens programme mentioned",
+    "source_url": "https://www.vakkarumaldives.com/dining/the-organic-farm.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "teens programme mentioned",
+    "source_url": "https://www.carrier.co.uk/design/hotels/vakkaru-maldives",
+    "as_of": "2026-10-04"
    }
   ],
   "wellness_fitness": [
    {
     "value": "yoga",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Vakkaru-Maldives-Fact-Sheet-2022.pdf",
-    "as_of": 2022
+    "source_url": "https://www.vakkarumaldives.com/pdfs/vakkaru-maldives-fact-sheet-2025.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "gym",
+    "source_url": "https://www.vakkarumaldives.com/pdfs/vakkaru-maldives-fact-sheet-2025.pdf",
+    "as_of": 2025
    },
    {
     "value": "fitness centre",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Vakkaru-Maldives-Fact-Sheet-2022.pdf",
-    "as_of": 2022
+    "source_url": "https://www.vakkarumaldives.com/pdfs/vakkaru-maldives-fact-sheet-2025.pdf",
+    "as_of": 2025
    },
    {
     "value": "tennis",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Vakkaru-Maldives-Fact-Sheet-2022.pdf",
-    "as_of": 2022
+    "source_url": "https://www.vakkarumaldives.com/pdfs/vakkaru-maldives-fact-sheet-2025.pdf",
+    "as_of": 2025
    },
    {
     "value": "padel",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Vakkaru-Maldives-Fact-Sheet-2022.pdf",
-    "as_of": 2022
+    "source_url": "https://www.vakkarumaldives.com/pdfs/vakkaru-maldives-fact-sheet-2025.pdf",
+    "as_of": 2025
    },
    {
     "value": "beach volleyball",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Vakkaru-Maldives-Fact-Sheet-2022.pdf",
-    "as_of": 2022
+    "source_url": "https://www.vakkarumaldives.com/pdfs/vakkaru-maldives-fact-sheet-2025.pdf",
+    "as_of": 2025
    },
    {
     "value": "sauna",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Vakkaru-Maldives-Fact-Sheet-2022.pdf",
-    "as_of": 2022
+    "source_url": "https://www.vakkarumaldives.com/pdfs/vakkaru-maldives-fact-sheet-2025.pdf",
+    "as_of": 2025
    },
    {
     "value": "steam",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Vakkaru-Maldives-Fact-Sheet-2022.pdf",
-    "as_of": 2022
+    "source_url": "https://www.vakkarumaldives.com/pdfs/vakkaru-maldives-fact-sheet-2025.pdf",
+    "as_of": 2025
    },
    {
-    "value": "wellness programme",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Vakkaru-Maldives-Fact-Sheet-2022.pdf",
-    "as_of": 2022
+    "value": "meditation",
+    "source_url": "https://www.vakkarumaldives.com/pdfs/news/valentines-day-2024.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "ayurveda",
+    "source_url": "https://www.vakkarumaldives.com/pdfs/news/valentines-day-2024.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.vakkarumaldives.com/pdfs/spa-menus/merana-spa_menu_2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "meditation",
+    "source_url": "https://www.vakkarumaldives.com/pdfs/spa-menus/merana-spa_menu_2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "sauna",
+    "source_url": "https://www.vakkarumaldives.com/pdfs/spa-menus/merana-spa_menu_2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "steam",
+    "source_url": "https://www.vakkarumaldives.com/pdfs/spa-menus/merana-spa_menu_2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.vakkarumaldives.com/pdfs/experience/vakkaru-maldives_parrotfish-activity-schedule.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "gym",
+    "source_url": "https://www.vakkarumaldives.com/pdfs/vakkaru-maldives-a-timeless-sanctuary-in-unesco-biosphere-reserve.pdf",
+    "as_of": 2017
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://www.vakkarumaldives.com/pdfs/vakkaru-maldives-a-timeless-sanctuary-in-unesco-biosphere-reserve.pdf",
+    "as_of": 2017
+   },
+   {
+    "value": "badminton",
+    "source_url": "https://www.vakkarumaldives.com/pdfs/vakkaru-maldives-a-timeless-sanctuary-in-unesco-biosphere-reserve.pdf",
+    "as_of": 2017
    },
    {
     "value": "gym",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Vakkaru-Maldives-Resort-Map-A4.pdf",
     "as_of": 2019
+   },
+   {
+    "value": "fitness centre",
+    "source_url": "https://www.vakkarumaldives.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://www.vakkarumaldives.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "badminton",
+    "source_url": "https://www.vakkarumaldives.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "beach volleyball",
+    "source_url": "https://www.vakkarumaldives.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "ayurveda",
+    "source_url": "https://www.vakkarumaldives.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.vakkarumaldives.com/accommodation/residences/vakkaru-over-water-residence.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fitness centre",
+    "source_url": "https://www.vakkarumaldives.com/index.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://www.vakkarumaldives.com/index.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "badminton",
+    "source_url": "https://www.vakkarumaldives.com/index.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "beach volleyball",
+    "source_url": "https://www.vakkarumaldives.com/index.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "ayurveda",
+    "source_url": "https://www.vakkarumaldives.com/index.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.vakkarumaldives.com/news/page3.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://www.vakkarumaldives.com/news/page3.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "personal trainer",
+    "source_url": "https://www.vakkarumaldives.com/news/page3.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "wellness programme",
+    "source_url": "https://www.vakkarumaldives.com/news/2023/09/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.vakkarumaldives.com/accommodation/residences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "ayurveda",
+    "source_url": "https://www.vakkarumaldives.com/accommodation/residences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://www.vakkarumaldives.com/news/2023/11/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.vakkarumaldives.com/news/2023/page2.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://www.vakkarumaldives.com/news/2023/page2.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "personal trainer",
+    "source_url": "https://www.vakkarumaldives.com/news/2023/page2.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://www.vakkarumaldives.com/experiences/parrotfish-club.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "padel",
+    "source_url": "https://www.vakkarumaldives.com/experiences/parrotfish-club.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "badminton",
+    "source_url": "https://www.vakkarumaldives.com/experiences/parrotfish-club.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "beach volleyball",
+    "source_url": "https://www.vakkarumaldives.com/experiences/parrotfish-club.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://www.vakkarumaldives.com/experiences/sports-fields.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "padel",
+    "source_url": "https://www.vakkarumaldives.com/experiences/sports-fields.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "badminton",
+    "source_url": "https://www.vakkarumaldives.com/experiences/sports-fields.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "beach volleyball",
+    "source_url": "https://www.vakkarumaldives.com/experiences/sports-fields.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://www.vakkarumaldives.com/news/page2.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "wellness programme",
+    "source_url": "https://www.vakkarumaldives.com/news/page2.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://www.vakkarumaldives.com/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "padel",
+    "source_url": "https://www.vakkarumaldives.com/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "badminton",
+    "source_url": "https://www.vakkarumaldives.com/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "beach volleyball",
+    "source_url": "https://www.vakkarumaldives.com/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.vakkarumaldives.com/accommodation/villa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "ayurveda",
+    "source_url": "https://www.vakkarumaldives.com/accommodation/villa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.vakkarumaldives.com/about/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://www.vakkarumaldives.com/about/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "badminton",
+    "source_url": "https://www.vakkarumaldives.com/about/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "beach volleyball",
+    "source_url": "https://www.vakkarumaldives.com/about/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "wellness programme",
+    "source_url": "https://www.vakkarumaldives.com/about/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "personal trainer",
+    "source_url": "https://www.vakkarumaldives.com/about/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.vakkarumaldives.com/spa-and-wellness/wellness.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "meditation",
+    "source_url": "https://www.vakkarumaldives.com/spa-and-wellness/wellness.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "gym",
+    "source_url": "https://www.vakkarumaldives.com/spa-and-wellness/wellness.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fitness centre",
+    "source_url": "https://www.vakkarumaldives.com/spa-and-wellness/wellness.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "pilates",
+    "source_url": "https://www.vakkarumaldives.com/spa-and-wellness/wellness.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sound healing",
+    "source_url": "https://www.vakkarumaldives.com/spa-and-wellness/wellness.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "ayurveda",
+    "source_url": "https://www.vakkarumaldives.com/spa-and-wellness/wellness.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sauna",
+    "source_url": "https://www.vakkarumaldives.com/spa-and-wellness/wellness.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "steam",
+    "source_url": "https://www.vakkarumaldives.com/spa-and-wellness/wellness.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.vakkarumaldives.com/news/2023/02/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "personal trainer",
+    "source_url": "https://www.vakkarumaldives.com/news/2023/02/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://www.vakkarumaldives.com/news/2025/11/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://www.vakkarumaldives.com/experiences/index.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "padel",
+    "source_url": "https://www.vakkarumaldives.com/experiences/index.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "badminton",
+    "source_url": "https://www.vakkarumaldives.com/experiences/index.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "beach volleyball",
+    "source_url": "https://www.vakkarumaldives.com/experiences/index.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://www.vakkarumaldives.com/dining/private-destination-dining.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "padel",
+    "source_url": "https://www.vakkarumaldives.com/dining/private-destination-dining.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "badminton",
+    "source_url": "https://www.vakkarumaldives.com/dining/private-destination-dining.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "beach volleyball",
+    "source_url": "https://www.vakkarumaldives.com/dining/private-destination-dining.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://www.vakkarumaldives.com/dining/the-organic-farm.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "padel",
+    "source_url": "https://www.vakkarumaldives.com/dining/the-organic-farm.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "badminton",
+    "source_url": "https://www.vakkarumaldives.com/dining/the-organic-farm.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "beach volleyball",
+    "source_url": "https://www.vakkarumaldives.com/dining/the-organic-farm.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.vakkarumaldives.com/spa-and-wellness/ayurveda.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "ayurveda",
+    "source_url": "https://www.vakkarumaldives.com/spa-and-wellness/ayurveda.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.vakkarumaldives.com/spa-and-wellness/salon.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "gym",
+    "source_url": "https://www.vakkarumaldives.com/spa-and-wellness/salon.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fitness centre",
+    "source_url": "https://www.vakkarumaldives.com/spa-and-wellness/salon.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "ayurveda",
+    "source_url": "https://www.vakkarumaldives.com/spa-and-wellness/salon.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sauna",
+    "source_url": "https://www.vakkarumaldives.com/spa-and-wellness/salon.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "steam",
+    "source_url": "https://www.vakkarumaldives.com/spa-and-wellness/salon.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://www.vakkarumaldives.com/news/vakkaru-maldives-welcomes-miha-plesnik-as-new-resident-tennis-coach.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.vakkarumaldives.com/spa-and-wellness/merana-spa.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "gym",
+    "source_url": "https://www.vakkarumaldives.com/spa-and-wellness/merana-spa.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fitness centre",
+    "source_url": "https://www.vakkarumaldives.com/spa-and-wellness/merana-spa.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "ayurveda",
+    "source_url": "https://www.vakkarumaldives.com/spa-and-wellness/merana-spa.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sauna",
+    "source_url": "https://www.vakkarumaldives.com/spa-and-wellness/merana-spa.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "steam",
+    "source_url": "https://www.vakkarumaldives.com/spa-and-wellness/merana-spa.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.vakkarumaldives.com/accommodation/villa/index.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "ayurveda",
+    "source_url": "https://www.vakkarumaldives.com/accommodation/villa/index.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "gym",
+    "source_url": "https://www.vakkarumaldives.com/careers/index.html",
+    "as_of": "2026-10-04"
    },
    {
     "value": "yoga",
@@ -1012,32 +2366,102 @@
     "value": "steam",
     "source_url": "https://www.neoscapesmaldives.com/resort/vakkaru-maldives/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "meditation",
+    "source_url": "https://www.carrier.co.uk/design/hotels/vakkaru-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://www.carrier.co.uk/design/hotels/vakkaru-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://malediven.de/malediven-hotels/vakkaru-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "ayurveda",
+    "source_url": "https://malediven.de/malediven-hotels/vakkaru-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sauna",
+    "source_url": "https://malediven.de/malediven-hotels/vakkaru-maldives/",
+    "as_of": "2026-10-04"
    }
   ],
   "weddings.offered": [
    {
     "value": true,
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Vakkaru-Maldives-Fact-Sheet-2022.pdf",
-    "as_of": 2022
+    "source_url": "https://www.vakkarumaldives.com/pdfs/vakkaru-maldives-fact-sheet-2025.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": true,
+    "source_url": "https://www.vakkarumaldives.com/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.vakkarumaldives.com/experiences/event-inquiries.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.vakkarumaldives.com/news/celebrations-as-the-maldives-and-vakkaru-maldives-welcome-the-one-millionth-visitor-to-the-island-country.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.vakkarumaldives.com/experiences/index.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.vakkarumaldives.com/news/world-leading-luxury-honeymoon-resort.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.vakkarumaldives.com/news/timeless-romance-valentines-day-celebration-at-vakkaru-maldives.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.vakkarumaldives.com/offers/idyllic-romance-package-at-vakkaru-maldives.html",
+    "as_of": "2026-10-04"
    },
    {
     "value": true,
     "source_url": "https://www.neoscapesmaldives.com/resort/vakkaru-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://malediven.de/malediven-hotels/vakkaru-maldives/",
     "as_of": "2026-10-04"
    }
   ],
   "weddings.venues": [
    {
     "value": "venue by the beach to savour our finest selection of",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Vakkaru-Maldives-Fact-Sheet-2022.pdf",
-    "as_of": 2022
+    "source_url": "https://www.vakkarumaldives.com/pdfs/vakkaru-maldives-fact-sheet-2025.pdf",
+    "as_of": 2025
    }
   ],
   "contacts_public.reservations_email": [
    {
     "value": "reservations@vakkarumaldives.com",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Vakkaru-Maldives-Fact-Sheet-2022.pdf",
-    "as_of": 2022
+    "source_url": "https://www.vakkarumaldives.com/pdfs/vakkaru-maldives-fact-sheet-2025.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "info@vakkarumaldives.com",
+    "source_url": "https://www.vakkarumaldives.com/pdfs/vakkaru-maldives-a-timeless-sanctuary-in-unesco-biosphere-reserve.pdf",
+    "as_of": 2017
    },
    {
     "value": "info@neoscapesmaldives.com",
@@ -1048,8 +2472,28 @@
   "contacts_public.phone": [
    {
     "value": "+960 660 7000",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Vakkaru-Maldives-Fact-Sheet-2022.pdf",
-    "as_of": 2022
+    "source_url": "https://www.vakkarumaldives.com/pdfs/vakkaru-maldives-fact-sheet-2025.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "+ 960 660 7000",
+    "source_url": "https://www.vakkarumaldives.com/pdfs/vakkaru-maldives-a-timeless-sanctuary-in-unesco-biosphere-reserve.pdf",
+    "as_of": 2017
+   },
+   {
+    "value": "+960 660 7404",
+    "source_url": "https://www.vakkarumaldives.com/offers/from-beach-to-beach.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 761 7113",
+    "source_url": "https://www.vakkarumaldives.com/things-to-do-in-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 660 7404",
+    "source_url": "https://www.vakkarumaldives.com/contact.html",
+    "as_of": "2026-10-04"
    },
    {
     "value": "+960 736 5425",
@@ -1057,7 +2501,419 @@
     "as_of": "2026-10-04"
    }
   ],
+  "diving_watersports.operator": [
+   {
+    "value": "Dive Centre",
+    "source_url": "https://www.vakkarumaldives.com/pdfs/splash/vakkaru-maldives---splash-brochure.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "Dive Centre",
+    "source_url": "https://www.vakkarumaldives.com/pdfs/experience/vakkaru-maldives_parrotfish-activity-schedule.pdf",
+    "as_of": 2026
+   }
+  ],
   "diving_watersports.activities": [
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.vakkarumaldives.com/pdfs/splash/vakkaru-maldives---splash-brochure.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.vakkarumaldives.com/pdfs/splash/vakkaru-maldives---splash-brochure.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://www.vakkarumaldives.com/pdfs/splash/vakkaru-maldives---splash-brochure.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "windsurfing",
+    "source_url": "https://www.vakkarumaldives.com/pdfs/splash/vakkaru-maldives---splash-brochure.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "surfing",
+    "source_url": "https://www.vakkarumaldives.com/pdfs/splash/vakkaru-maldives---splash-brochure.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "jet ski",
+    "source_url": "https://www.vakkarumaldives.com/pdfs/splash/vakkaru-maldives---splash-brochure.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "parasailing",
+    "source_url": "https://www.vakkarumaldives.com/pdfs/splash/vakkaru-maldives---splash-brochure.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "wakeboarding",
+    "source_url": "https://www.vakkarumaldives.com/pdfs/splash/vakkaru-maldives---splash-brochure.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.vakkarumaldives.com/pdfs/splash/vakkaru-maldives---splash-brochure.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.vakkarumaldives.com/pdfs/splash/vakkaru-maldives---splash-brochure.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "dolphin cruise",
+    "source_url": "https://www.vakkarumaldives.com/pdfs/splash/vakkaru-maldives---splash-brochure.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.vakkarumaldives.com/pdfs/splash/vakkaru-maldives---splash-brochure.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "sailing",
+    "source_url": "https://www.vakkarumaldives.com/pdfs/splash/vakkaru-maldives---splash-brochure.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.vakkarumaldives.com/pdfs/news/valentines-day-2024.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.vakkarumaldives.com/pdfs/vakkaru-maldives-a-timeless-sanctuary-in-unesco-biosphere-reserve.pdf",
+    "as_of": 2017
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.vakkarumaldives.com/pdfs/vakkaru-maldives-a-timeless-sanctuary-in-unesco-biosphere-reserve.pdf",
+    "as_of": 2017
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.vakkarumaldives.com/pdfs/vakkaru-maldives-a-timeless-sanctuary-in-unesco-biosphere-reserve.pdf",
+    "as_of": 2017
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.vakkarumaldives.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://www.vakkarumaldives.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "surfing",
+    "source_url": "https://www.vakkarumaldives.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "kayaking",
+    "source_url": "https://www.vakkarumaldives.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "jet ski",
+    "source_url": "https://www.vakkarumaldives.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "parasailing",
+    "source_url": "https://www.vakkarumaldives.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "wakeboarding",
+    "source_url": "https://www.vakkarumaldives.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.vakkarumaldives.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.vakkarumaldives.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.vakkarumaldives.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sailing",
+    "source_url": "https://www.vakkarumaldives.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.vakkarumaldives.com/index.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://www.vakkarumaldives.com/index.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "surfing",
+    "source_url": "https://www.vakkarumaldives.com/index.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "kayaking",
+    "source_url": "https://www.vakkarumaldives.com/index.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "jet ski",
+    "source_url": "https://www.vakkarumaldives.com/index.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "parasailing",
+    "source_url": "https://www.vakkarumaldives.com/index.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "wakeboarding",
+    "source_url": "https://www.vakkarumaldives.com/index.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.vakkarumaldives.com/index.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.vakkarumaldives.com/index.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.vakkarumaldives.com/index.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sailing",
+    "source_url": "https://www.vakkarumaldives.com/index.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.vakkarumaldives.com/news/page3.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.vakkarumaldives.com/things-to-do-in-maldives/snorkelling.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.vakkarumaldives.com/things-to-do-in-maldives/snorkelling.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.vakkarumaldives.com/things-to-do-in-maldives/snorkelling.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.vakkarumaldives.com/things-to-do-in-maldives/fishing-adventures.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.vakkarumaldives.com/news/2023/page2.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.vakkarumaldives.com/experiences/parrotfish-club.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://www.vakkarumaldives.com/experiences/parrotfish-club.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "kayaking",
+    "source_url": "https://www.vakkarumaldives.com/experiences/parrotfish-club.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.vakkarumaldives.com/experiences/sports-fields.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://www.vakkarumaldives.com/experiences/sports-fields.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "kayaking",
+    "source_url": "https://www.vakkarumaldives.com/experiences/sports-fields.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.vakkarumaldives.com/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://www.vakkarumaldives.com/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "kayaking",
+    "source_url": "https://www.vakkarumaldives.com/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.vakkarumaldives.com/offers/from-beach-to-beach.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.vakkarumaldives.com/things-to-do-in-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://www.vakkarumaldives.com/things-to-do-in-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "surfing",
+    "source_url": "https://www.vakkarumaldives.com/things-to-do-in-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "jet ski",
+    "source_url": "https://www.vakkarumaldives.com/things-to-do-in-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "parasailing",
+    "source_url": "https://www.vakkarumaldives.com/things-to-do-in-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "wakeboarding",
+    "source_url": "https://www.vakkarumaldives.com/things-to-do-in-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.vakkarumaldives.com/things-to-do-in-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.vakkarumaldives.com/things-to-do-in-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.vakkarumaldives.com/things-to-do-in-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.vakkarumaldives.com/things-to-do-in-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sailing",
+    "source_url": "https://www.vakkarumaldives.com/things-to-do-in-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.vakkarumaldives.com/about/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.vakkarumaldives.com/about/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.vakkarumaldives.com/experiences/index.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://www.vakkarumaldives.com/experiences/index.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "kayaking",
+    "source_url": "https://www.vakkarumaldives.com/experiences/index.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.vakkarumaldives.com/dining/private-destination-dining.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://www.vakkarumaldives.com/dining/private-destination-dining.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "kayaking",
+    "source_url": "https://www.vakkarumaldives.com/dining/private-destination-dining.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.vakkarumaldives.com/dining/the-organic-farm.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://www.vakkarumaldives.com/dining/the-organic-farm.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "kayaking",
+    "source_url": "https://www.vakkarumaldives.com/dining/the-organic-farm.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://www.vakkarumaldives.com/things-to-do-in-maldives/scuba-diving.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.vakkarumaldives.com/news/2023/05/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "jet ski",
+    "source_url": "https://www.vakkarumaldives.com/offers/idyllic-romance-package-at-vakkaru-maldives.html",
+    "as_of": "2026-10-04"
+   },
    {
     "value": "snorkeling",
     "source_url": "https://www.neoscapesmaldives.com/resort/vakkaru-maldives/",
@@ -1092,16 +2948,319 @@
     "value": "manta",
     "source_url": "https://www.neoscapesmaldives.com/resort/vakkaru-maldives/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.carrier.co.uk/design/hotels/vakkaru-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.carrier.co.uk/design/hotels/vakkaru-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://malediven.de/malediven-hotels/vakkaru-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://malediven.de/malediven-hotels/vakkaru-maldives/",
+    "as_of": "2026-10-04"
    }
   ],
-  "kids_family.kids_club": [
+  "dining": [
    {
-    "value": "Yes\nKids Club",
+    "value": {
+     "name": "Lagoon Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.vakkarumaldives.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Anguru Teppanyaki",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.vakkarumaldives.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Teppanyaki",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.vakkarumaldives.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Lagoon Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.vakkarumaldives.com/index.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Anguru Teppanyaki",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.vakkarumaldives.com/index.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Teppanyaki",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.vakkarumaldives.com/index.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Lagoon Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.vakkarumaldives.com/dining/lagoon-bar.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Seaplane Lounge",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.vakkarumaldives.com/about/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Anguru Teppanyaki",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.vakkarumaldives.com/dining/anguru-teppanyaki.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Teppanyaki",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.vakkarumaldives.com/dining/anguru-teppanyaki.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Lagoon Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.vakkarumaldives.com/dining/index.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Anguru Teppanyaki",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.vakkarumaldives.com/dining/index.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Teppanyaki",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.vakkarumaldives.com/dining/index.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Khufu De’ Recreation Lounge",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.vakkarumaldives.com/careers/index.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Team Dining at Kaage Restaurant",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.vakkarumaldives.com/careers/index.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Lagoon Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
     "source_url": "https://www.neoscapesmaldives.com/resort/vakkaru-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Seaplane Lounge",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.neoscapesmaldives.com/resort/vakkaru-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Seaplane Lounge",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.neoscapesmaldives.com/resort/vakkaru-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Lagoon Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.carrier.co.uk/design/hotels/vakkaru-maldives",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "meal_plans": [
+   {
+    "value": "HB",
+    "source_url": "https://www.vakkarumaldives.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "HB",
+    "source_url": "https://www.vakkarumaldives.com/index.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "HB",
+    "source_url": "https://www.vakkarumaldives.com/offers/index.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "HB",
+    "source_url": "https://www.vakkarumaldives.com/accommodation/residences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "HB",
+    "source_url": "https://www.vakkarumaldives.com/accommodation/villa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "HB",
+    "source_url": "https://www.vakkarumaldives.com/offers/from-beach-to-beach.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "HB",
+    "source_url": "https://www.vakkarumaldives.com/offers/vakkaru-dream-getaway-exclusive-deal.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Dine Around",
+    "source_url": "https://www.vakkarumaldives.com/offers/vakkaru-dream-getaway-exclusive-deal.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "HB",
+    "source_url": "https://www.vakkarumaldives.com/accommodation/villa/index.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "HB",
+    "source_url": "https://www.vakkarumaldives.com/offers/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "HB",
+    "source_url": "https://www.vakkarumaldives.com/offers/idyllic-romance-package-at-vakkaru-maldives.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Dine Around",
+    "source_url": "https://www.vakkarumaldives.com/offers/idyllic-romance-package-at-vakkaru-maldives.html",
     "as_of": "2026-10-04"
    }
   ],
   "sustainability": [
+   {
+    "value": "organic garden",
+    "source_url": "https://www.vakkarumaldives.com/experiences/parrotfish-club.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "organic garden",
+    "source_url": "https://www.vakkarumaldives.com/experiences/sports-fields.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "organic garden",
+    "source_url": "https://www.vakkarumaldives.com/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "marine biologist",
+    "source_url": "https://www.vakkarumaldives.com/offers/from-beach-to-beach.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "single-use plastic",
+    "source_url": "https://www.vakkarumaldives.com/sustainability.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "composting",
+    "source_url": "https://www.vakkarumaldives.com/sustainability.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "organic garden",
+    "source_url": "https://www.vakkarumaldives.com/experiences/index.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "organic garden",
+    "source_url": "https://www.vakkarumaldives.com/dining/private-destination-dining.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "organic garden",
+    "source_url": "https://www.vakkarumaldives.com/dining/the-organic-farm.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "organic garden",
+    "source_url": "https://www.vakkarumaldives.com/news/world-leading-luxury-honeymoon-resort.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "organic garden",
+    "source_url": "https://www.vakkarumaldives.com/dining/index.html",
+    "as_of": "2026-10-04"
+   },
    {
     "value": "marine biologist",
     "source_url": "https://www.neoscapesmaldives.com/resort/vakkaru-maldives/",
@@ -1112,7 +3271,19 @@
     "source_url": "https://www.neoscapesmaldives.com/resort/vakkaru-maldives/",
     "as_of": "2026-10-04"
    }
+  ],
+  "kids_family.kids_club": [
+   {
+    "value": "Yes\nKids Club",
+    "source_url": "https://www.neoscapesmaldives.com/resort/vakkaru-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Der Kids Club",
+    "source_url": "https://malediven.de/malediven-hotels/vakkaru-maldives/",
+    "as_of": "2026-10-04"
+   }
   ]
  },
- "last_updated": "2026-10-04"
+ "last_updated": "2026-10-05"
 }

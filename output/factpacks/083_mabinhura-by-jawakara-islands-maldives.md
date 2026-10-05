@@ -1,35 +1,33 @@
 # 83. Mabinhura by Jawakara Islands Maldives
 
 **Current name / alias:** Jawakara Islands (shared documents)  
-**Official site:** n/a (None)  
+**Official site:** https://www.jawakaraislands.com/ (ok)  
 **Brand:** NH  
-**Atoll:** Lhaviyani Atoll  **Island:** n/a  
+**Atoll:** n/a  **Island:** n/a  
 **Opened/renovated:** n/a  **Rating:** n/a  
-**Transfer:** seaplane, speedboat; minutes: {"seaplane": 35}  
-**Island size:** 10 ha  
+**Transfer:** n/a; minutes: {}  
+**Island size:** n/a  
 
 ## Villas (? total)
 
 
 ## Dining
 
-- warm coastal charm and relaxed elegance, Milos Bar invites (bar)
-- 55 premium spirits/liqueurs, port, sherry (Velu Bar only) (bar)
 
 Meal plans: n/a
 
 ## Spa & wellness
 
-- Spa: Spa; treatment rooms: ?; menu: none
-- Wellness/fitness: yoga, fitness center, tennis, padel, badminton, ayurveda, sauna
+- Spa: n/a; treatment rooms: ?; menu: none
+- Wellness/fitness: n/a
 
 ## Diving, water sports & excursions
 
-- Operator: Prodivers
-- House reef: house reef for snorkeling; pre bookings are required
-- Activities: snorkeling, windsurfing, kayaking, stand-up paddle, paddleboard, catamaran, jet ski, wakeboarding, fishing, sunset cruise, manta, sailing, fun tube, flyboard
+- Operator: n/a
+- House reef: n/a
+- Activities: n/a
 - Price list: none
-- Excursions: dolphin, manta, turtle
+- Excursions: n/a
 
 ## Kids & family
 
@@ -49,30 +47,37 @@ Meal plans: n/a
 
 ## Sustainability
 
-- solar
+- n/a
 
 ## Public contacts
 
-- Reservations: reservations@nalamaldives.com; weddings: n/a; phone: +960 662 9999
+- Reservations: n/a; weddings: n/a; phone: n/a
 
 ## Latest documents
 
-- factsheet: https://sales.crownandchamparesorts.com/wp-content/uploads/2026/04/NalaMaldivesFactsheet011125311026Ver030426.pdf
+- factsheet: none
 - map: https://sales.crownandchamparesorts.com/wp-content/uploads/2023/10/Jawakara_Map_20Oct23.pdf
 - wedding: none
 - spa_menu: none
 - dining_menu: none
 - dive_prices: none
 - events: none
-- calendar: https://sales.crownandchamparesorts.com/wp-content/uploads/2023/10/Jawakara-Transfer-Policy.pdf
+- calendar: https://wp-jawakara.eleanorapp.com/download/Jawa_Festive_Brochure_Final_2025_2026.pdf?t=1757232211
 
 ## Gaps
 
+- factsheet
 - wedding brochure
 - events/MICE document
 - fact: villas.total
 - fact: villa categories
+- fact: dining
+- fact: transfer
+- fact: atoll
+- fact: spa
+- fact: dive operator
 - fact: kids club
 - fact: weddings
+- fact: contacts
 
-_Facts extracted by rules from 14 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-04._
+_Facts extracted by rules from 0 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

@@ -6,8 +6,8 @@
   "JA Manafaru",
   "Manafaru"
  ],
- "official_url": null,
- "official_site_status": null,
+ "official_url": "https://www.jaresortshotels.com/maldives/ja-manafaru",
+ "official_site_status": "ok",
  "operator_brand": "JA",
  "atoll": "Haa Alifu Atoll",
  "island": "Utheemu",
@@ -62,8 +62,24 @@
     "overwater": null
    },
    {
-    "name": "Number of Villas",
-    "count": 84,
+    "name": "Bedroom Grand Ocean Residence",
+    "count": 2,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": true
+   },
+   {
+    "name": "Bedroom Manafaru Beach Residence",
+    "count": 2,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "Bedroom Royal Beach Residence",
+    "count": 3,
     "size_sqm": null,
     "max_occupancy": null,
     "pool": null,
@@ -91,27 +107,12 @@
    "type": "restaurant"
   },
   {
-   "name": "White Orchid Restaurant, Andiamo Bistro and Pool or Kakuni",
+   "name": "Veli Bar",
    "cuisine": null,
-   "type": "restaurant"
+   "type": "bar"
   },
   {
-   "name": "Restaurant",
-   "cuisine": null,
-   "type": "restaurant"
-  },
-  {
-   "name": "Dining",
-   "cuisine": null,
-   "type": "restaurant"
-  },
-  {
-   "name": "White Orchid Restaurant",
-   "cuisine": null,
-   "type": "restaurant"
-  },
-  {
-   "name": "Ocean Grill",
+   "name": "Andiamo Bistro and Pool",
    "cuisine": null,
    "type": "restaurant"
   },
@@ -121,20 +122,85 @@
    "type": "bar"
   },
   {
+   "name": "Ocean Grill",
+   "cuisine": null,
+   "type": "restaurant"
+  },
+  {
+   "name": "Sports Café",
+   "cuisine": null,
+   "type": "restaurant"
+  },
+  {
+   "name": "Steakhouse and Grill",
+   "cuisine": null,
+   "type": "restaurant"
+  },
+  {
+   "name": "Lounge",
+   "cuisine": null,
+   "type": "bar"
+  },
+  {
+   "name": "Sports Bar",
+   "cuisine": null,
+   "type": "bar"
+  },
+  {
+   "name": "Beach Lounge",
+   "cuisine": null,
+   "type": "bar"
+  },
+  {
+   "name": "Rooftop Lounge",
+   "cuisine": null,
+   "type": "bar"
+  },
+  {
+   "name": "Pool Lounge",
+   "cuisine": null,
+   "type": "bar"
+  },
+  {
+   "name": "Café",
+   "cuisine": null,
+   "type": "restaurant"
+  },
+  {
+   "name": "Cellar Entrance",
+   "cuisine": null,
+   "type": "bar"
+  },
+  {
+   "name": "Bar Veli",
+   "cuisine": null,
+   "type": "bar"
+  },
+  {
+   "name": "White Orchid Restaurant",
+   "cuisine": null,
+   "type": "restaurant"
+  },
+  {
    "name": "Infinity Bar and Pool",
    "cuisine": null,
    "type": "bar"
   },
   {
-   "name": "Andiamo Bistro and Pool",
+   "name": "{{Restaurant.Description}}",
+   "cuisine": null,
+   "type": "restaurant"
+  },
+  {
+   "name": "Restaurant Type",
    "cuisine": null,
    "type": "restaurant"
   }
  ],
  "meal_plans": [],
- "all_inclusive_details": null,
+ "all_inclusive_details": "All Inclusive option.",
  "spa": {
-  "name": "Calm Spa",
+  "name": "Spa",
   "treatment_rooms": null,
   "signature_treatments": [],
   "menu_doc": null
@@ -166,7 +232,7 @@
   "private dinner"
  ],
  "kids_family": {
-  "kids_club": "Kids Club",
+  "kids_club": "Classes\nReef Diving\nKids Club",
   "age_range": null,
   "teens": null
  },
@@ -197,9 +263,9 @@
  },
  "sustainability": [],
  "contacts_public": {
-  "reservations_email": "info@neoscapesmaldives.com",
+  "reservations_email": "reservations.manafaru@jaresorts.com",
   "weddings_email": null,
-  "phone": "+960 736 5425"
+  "phone": "+960 6500 456"
  },
  "documents_latest": {
   "factsheet": "https://www.neoscapesmaldives.com/wp-content/uploads/ja-jam-factsheet-digital.pdf",
@@ -209,9 +275,9 @@
   "dining_menu": null,
   "dive_prices": null,
   "events": null,
-  "calendar": null
+  "calendar": "https://letsgomaldives.com/wp-content/uploads/2026/08/JA-Manafaru.pdf"
  },
- "documents_count": 2,
+ "documents_count": 4,
  "gaps": [
   "wedding brochure",
   "events/MICE document",
@@ -227,7 +293,17 @@
    },
    {
     "value": "Haa Alifu Atoll",
+    "source_url": "https://www.jaresortshotels.com/maldives/ja-manafaru",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Haa Alifu Atoll",
     "source_url": "https://www.neoscapesmaldives.com/resort/ja-manafaru-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Haa Alifu Atoll",
+    "source_url": "https://letsgomaldives.com/news/discover-wellness-your-way-at-ja-manafaru/",
     "as_of": "2026-10-04"
    }
   ],
@@ -289,14 +365,38 @@
    },
    {
     "value": {
-     "name": "Number of Villas",
-     "count": 84,
+     "name": "Bedroom Grand Ocean Residence",
+     "count": 2,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": true
+    },
+    "source_url": "https://www.jaresortshotels.com/maldives/ja-manafaru",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Bedroom Manafaru Beach Residence",
+     "count": 2,
      "size_sqm": null,
      "max_occupancy": null,
      "pool": null,
      "overwater": null
     },
-    "source_url": "https://www.neoscapesmaldives.com/resort/ja-manafaru-resort/",
+    "source_url": "https://www.jaresortshotels.com/maldives/ja-manafaru",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Bedroom Royal Beach Residence",
+     "count": 3,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://www.jaresortshotels.com/maldives/ja-manafaru",
     "as_of": "2026-10-04"
    },
    {
@@ -345,38 +445,128 @@
    },
    {
     "value": {
-     "name": "White Orchid Restaurant, Andiamo Bistro and Pool or Kakuni",
+     "name": "Veli Bar",
      "cuisine": null,
-     "type": "restaurant"
+     "type": "bar"
     },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/ja-jam-factsheet-digital.pdf",
-    "as_of": 2024
-   },
-   {
-    "value": {
-     "name": "Restaurant",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/ja-jam-factsheet-digital.pdf",
-    "as_of": 2024
-   },
-   {
-    "value": {
-     "name": "Dining",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/ja-manafaru-resort/",
+    "source_url": "https://www.jaresortshotels.com/maldives/ja-manafaru",
     "as_of": "2026-10-04"
    },
    {
     "value": {
-     "name": "Dining",
+     "name": "Andiamo Bistro and Pool",
      "cuisine": null,
      "type": "restaurant"
     },
-    "source_url": "https://www.neoscapesmaldives.com/resort/ja-manafaru-resort/",
+    "source_url": "https://www.jaresortshotels.com/maldives/ja-manafaru",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "The Cellar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.jaresortshotels.com/maldives/ja-manafaru",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Ocean Grill",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.jaresortshotels.com/maldives/ja-manafaru",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Sports Café",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.jaresortshotels.com/maldives/ja-manafaru/dining",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Steakhouse and Grill",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.jaresortshotels.com/maldives/ja-manafaru/dining",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Lounge",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.jaresortshotels.com/maldives/ja-manafaru/dining",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Sports Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.jaresortshotels.com/maldives/ja-manafaru/dining",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Beach Lounge",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.jaresortshotels.com/maldives/ja-manafaru/dining",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Rooftop Lounge",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.jaresortshotels.com/maldives/ja-manafaru/dining",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Pool Lounge",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.jaresortshotels.com/maldives/ja-manafaru/dining",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Café",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.jaresortshotels.com/maldives/ja-manafaru/dining",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Cellar Entrance",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.jaresortshotels.com/maldives/ja-manafaru/festive",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Bar Veli",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.jaresortshotels.com/maldives/ja-manafaru/festive",
     "as_of": "2026-10-04"
    },
    {
@@ -423,6 +613,24 @@
     },
     "source_url": "https://www.neoscapesmaldives.com/resort/ja-manafaru-resort/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "{{Restaurant.Description}}",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.letsgo2.com/hotels/maldives/ja-manafaru/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Restaurant Type",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.letsgo2.com/hotels/maldives/ja-manafaru/",
+    "as_of": "2026-10-04"
    }
   ],
   "spa.name": [
@@ -432,8 +640,28 @@
     "as_of": 2024
    },
    {
+    "value": "Spa",
+    "source_url": "https://www.jaresortshotels.com/maldives/ja-manafaru",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Calm Spa",
+    "source_url": "https://www.jaresortshotels.com/maldives/ja-manafaru/wellness",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "All Categories\nSpa",
+    "source_url": "https://www.jaresortshotels.com/maldives/ja-manafaru/offers",
+    "as_of": "2026-10-04"
+   },
+   {
     "value": "Calm Spa",
     "source_url": "https://www.neoscapesmaldives.com/resort/ja-manafaru-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://letsgomaldives.com/news/discover-wellness-your-way-at-ja-manafaru/",
     "as_of": "2026-10-04"
    }
   ],
@@ -528,6 +756,11 @@
     "as_of": 2024
    },
    {
+    "value": "castaway",
+    "source_url": "https://www.jaresortshotels.com/maldives/ja-manafaru",
+    "as_of": "2026-10-04"
+   },
+   {
     "value": "dolphin",
     "source_url": "https://www.neoscapesmaldives.com/resort/ja-manafaru-resort/",
     "as_of": "2026-10-04"
@@ -600,6 +833,16 @@
     "as_of": 2024
    },
    {
+    "value": "yoga",
+    "source_url": "https://www.jaresortshotels.com/maldives/ja-manafaru",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://www.jaresortshotels.com/maldives/ja-manafaru",
+    "as_of": "2026-10-04"
+   },
+   {
     "value": "gym",
     "source_url": "https://www.neoscapesmaldives.com/resort/ja-manafaru-resort/",
     "as_of": "2026-10-04"
@@ -644,6 +887,11 @@
     "as_of": 2024
    },
    {
+    "value": "reservations.manafaru@jaresorts.com",
+    "source_url": "https://www.jaresortshotels.com/maldives/ja-manafaru",
+    "as_of": "2026-10-04"
+   },
+   {
     "value": "info@neoscapesmaldives.com",
     "source_url": "https://www.neoscapesmaldives.com/resort/ja-manafaru-resort/",
     "as_of": "2026-10-04"
@@ -656,7 +904,36 @@
     "as_of": 2024
    },
    {
+    "value": "+960 6500 456",
+    "source_url": "https://www.jaresortshotels.com/maldives/ja-manafaru",
+    "as_of": "2026-10-04"
+   },
+   {
     "value": "+960 736 5425",
+    "source_url": "https://www.neoscapesmaldives.com/resort/ja-manafaru-resort/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "kids_family.kids_club": [
+   {
+    "value": "Classes\nReef Diving\nKids Club",
+    "source_url": "https://www.jaresortshotels.com/maldives/ja-manafaru",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Kids Club",
+    "source_url": "https://www.neoscapesmaldives.com/resort/ja-manafaru-resort/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "weddings.offered": [
+   {
+    "value": true,
+    "source_url": "https://www.jaresortshotels.com/maldives/ja-manafaru/meetings-events",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
     "source_url": "https://www.neoscapesmaldives.com/resort/ja-manafaru-resort/",
     "as_of": "2026-10-04"
    }
@@ -687,20 +964,13 @@
     "as_of": "2026-10-04"
    }
   ],
-  "kids_family.kids_club": [
+  "all_inclusive_details": [
    {
-    "value": "Kids Club",
-    "source_url": "https://www.neoscapesmaldives.com/resort/ja-manafaru-resort/",
-    "as_of": "2026-10-04"
-   }
-  ],
-  "weddings.offered": [
-   {
-    "value": true,
-    "source_url": "https://www.neoscapesmaldives.com/resort/ja-manafaru-resort/",
+    "value": "All Inclusive option.",
+    "source_url": "https://letsgomaldives.com/news/the-5-best-dining-options-at-ja-manafaru-island/",
     "as_of": "2026-10-04"
    }
   ]
  },
- "last_updated": "2026-10-04"
+ "last_updated": "2026-10-05"
 }

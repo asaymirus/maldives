@@ -5,15 +5,17 @@
  "aliases": [
   "Medhufushi"
  ],
- "official_url": null,
- "official_site_status": null,
+ "official_url": "https://www.medhufushi.com/",
+ "official_site_status": "blocked-partial",
  "operator_brand": null,
  "atoll": null,
  "island": null,
  "opened_or_renovated": null,
  "star_rating": null,
  "transfer": {
-  "modes": [],
+  "modes": [
+   "seaplane"
+  ],
   "minutes": {
    "seaplane": null,
    "speedboat": null,
@@ -24,19 +26,66 @@
  "island_size": null,
  "villas": {
   "total": null,
-  "categories": []
+  "categories": [
+   {
+    "name": "Beach Villas",
+    "count": 44,
+    "size_sqm": 65,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "Family Villas",
+    "count": 14,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "Beach Suites Villas",
+    "count": 16,
+    "size_sqm": 178,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "Water Villas",
+    "count": 44,
+    "size_sqm": 60,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "Honeymoon Villas",
+    "count": 2,
+    "size_sqm": 152,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   }
+  ]
  },
- "dining": [],
+ "dining": [
+  {
+   "name": "Mini Bar",
+   "cuisine": null,
+   "type": "bar"
+  }
+ ],
  "meal_plans": [],
  "all_inclusive_details": null,
  "spa": {
-  "name": null,
+  "name": "Medhufushi Resort Spa",
   "treatment_rooms": null,
   "signature_treatments": [],
   "menu_doc": null
  },
  "diving_watersports": {
-  "operator": null,
+  "operator": "Werner Lau",
   "house_reef": null,
   "activities": [],
   "price_list_doc": null
@@ -65,7 +114,7 @@
  "contacts_public": {
   "reservations_email": null,
   "weddings_email": null,
-  "phone": null
+  "phone": "+ 960 672 0026"
  },
  "documents_latest": {
   "factsheet": null,
@@ -83,17 +132,113 @@
   "wedding brochure",
   "events/MICE document",
   "fact: villas.total",
-  "fact: villa categories",
-  "fact: dining",
-  "fact: transfer",
   "fact: atoll",
-  "fact: spa",
-  "fact: dive operator",
   "fact: kids club",
   "fact: weddings",
-  "fact: contacts",
-  "no documents or pages collected"
+  "fact: contacts"
  ],
- "sources": {},
- "last_updated": "2026-10-04"
+ "sources": {
+  "transfer.modes": [
+   {
+    "value": "seaplane",
+    "source_url": "https://www.maldivestourism.net/resorts/medhufushi-island-resort/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "villas.categories": [
+   {
+    "value": {
+     "name": "Beach Villas",
+     "count": 44,
+     "size_sqm": 65,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://www.maldivestourism.net/resorts/medhufushi-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Family Villas",
+     "count": 14,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://www.maldivestourism.net/resorts/medhufushi-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Beach Suites Villas",
+     "count": 16,
+     "size_sqm": 178,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://www.maldivestourism.net/resorts/medhufushi-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Water Villas",
+     "count": 44,
+     "size_sqm": 60,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://www.maldivestourism.net/resorts/medhufushi-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Honeymoon Villas",
+     "count": 2,
+     "size_sqm": 152,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://www.maldivestourism.net/resorts/medhufushi-island-resort/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "dining": [
+   {
+    "value": {
+     "name": "Mini Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.maldivestourism.net/resorts/medhufushi-island-resort/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "spa.name": [
+   {
+    "value": "Medhufushi Resort Spa",
+    "source_url": "https://www.maldivestourism.net/resorts/medhufushi-island-resort/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "diving_watersports.operator": [
+   {
+    "value": "Werner Lau",
+    "source_url": "https://www.maldivestourism.net/resorts/medhufushi-island-resort/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "contacts_public.phone": [
+   {
+    "value": "+ 960 672 0026",
+    "source_url": "https://www.maldivestourism.net/resorts/medhufushi-island-resort/",
+    "as_of": "2026-10-04"
+   }
+  ]
+ },
+ "last_updated": "2026-10-05"
 }

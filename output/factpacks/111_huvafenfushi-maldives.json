@@ -6,17 +6,18 @@
   "Huvafen Fushi",
   "Huvafenfushi"
  ],
- "official_url": null,
- "official_site_status": null,
+ "official_url": "https://www.huvafenfushi.com/",
+ "official_site_status": "ok",
  "operator_brand": null,
  "atoll": "North Malé Atoll",
  "island": null,
  "opened_or_renovated": null,
- "star_rating": null,
+ "star_rating": "3-star",
  "transfer": {
   "modes": [
    "speedboat",
-   "seaplane"
+   "seaplane",
+   "yacht"
   ],
   "minutes": {
    "seaplane": null,
@@ -25,16 +26,112 @@
    "yacht": null
   }
  },
- "island_size": null,
+ "island_size": "47 ha",
  "villas": {
-  "total": null,
+  "total": 50,
   "categories": [
    {
-    "name": "Beach Bungalows with Pool –",
-    "count": 8,
-    "size_sqm": 125,
+    "name": "LAGOON BUNGALOWS WITH POOL –",
+    "count": 12,
+    "size_sqm": 130,
     "max_occupancy": null,
     "pool": true,
+    "overwater": true
+   },
+   {
+    "name": "DELU E BEACH BUNGALOWS WITH POOL –",
+    "count": 16,
+    "size_sqm": 196,
+    "max_occupancy": null,
+    "pool": true,
+    "overwater": null
+   },
+   {
+    "name": "OCEAN BUNGALOWS WITH POOL –",
+    "count": 12,
+    "size_sqm": 160,
+    "max_occupancy": null,
+    "pool": true,
+    "overwater": true
+   },
+   {
+    "name": "VILLA ANTINORI ROSSO, MARCHESI ANTINORI TUSCANY, ITALY",
+    "count": 22,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "Embudu Village A",
+    "count": 22,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "Equator Village A",
+    "count": 23,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "Mookai Suites A",
+    "count": 26,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "Lu South Ari Atoll Resort & Villas A",
+    "count": 31,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "Amilla Maldives Resort & Residences D",
+    "count": 120,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "Residence Maldives D",
+    "count": 122,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "The Residence Maldives at Dhigurah D",
+    "count": 123,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "TME Retreats Dhigurah E",
+    "count": 131,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "Villa Nautica E . Paradise Island Resort E",
+    "count": 143,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
     "overwater": null
    },
    {
@@ -65,119 +162,284 @@
  },
  "dining": [
   {
-   "name": "In-bungalow Dining",
+   "name": "Chef’s BBQ Grill menu",
    "cuisine": null,
    "type": "restaurant"
   },
   {
-   "name": "with a ﬂirtatious Latin twist. Destination Dining",
+   "name": "Lounge Lounge",
+   "cuisine": null,
+   "type": "bar"
+  },
+  {
+   "name": "Lounge",
+   "cuisine": null,
+   "type": "bar"
+  },
+  {
+   "name": "Arrival Lounge",
+   "cuisine": null,
+   "type": "bar"
+  },
+  {
+   "name": "No Hotel Name Arr Lounge",
+   "cuisine": null,
+   "type": "bar"
+  },
+  {
+   "name": "World Luxury Restaurant Awards",
    "cuisine": null,
    "type": "restaurant"
   },
   {
-   "name": "Dining",
+   "name": "Daily Breakfast at Celsius Restaurant",
    "cuisine": null,
    "type": "restaurant"
+  },
+  {
+   "name": "Wine Cellar",
+   "cuisine": null,
+   "type": "bar"
   }
  ],
- "meal_plans": [],
+ "meal_plans": [
+  "FB"
+ ],
  "all_inclusive_details": null,
  "spa": {
-  "name": "The Resort\nHuvafen Spa",
+  "name": "Every Huvafen Spa",
   "treatment_rooms": null,
   "signature_treatments": [],
-  "menu_doc": null
+  "menu_doc": "https://www.huvafenfushi.com/wp-content/uploads/2026/07/Huvafen-Spa-Menu-2026_compressed.pdf"
  },
  "diving_watersports": {
   "operator": null,
-  "house_reef": "House Reef",
+  "house_reef": "house reefs",
   "activities": [
    "snorkelling",
-   "scuba diving",
-   "catamaran",
+   "windsurfing",
+   "kayaking",
    "jet ski",
+   "seabob",
+   "fishing",
    "dolphin cruise",
    "whale shark",
    "manta",
    "snorkeling",
-   "parasailing"
+   "scuba diving",
+   "wakeboarding",
+   "sunset cruise",
+   "fun tube",
+   "glass-bottom",
+   "sailing",
+   "parasailing",
+   "catamaran",
+   "water skiing",
+   "canoe"
   ],
-  "price_list_doc": null
+  "price_list_doc": "https://www.huvafenfushi.com/wp-content/uploads/2026/05/Pricelist-Updated-2026.pdf"
  },
  "excursions": [
   "sandbank",
   "dolphin",
+  "sunset fishing",
   "whale shark",
-  "manta"
+  "manta",
+  "big game fishing",
+  "turtle",
+  "local island",
+  "cinema",
+  "picnic",
+  "cooking class"
  ],
  "kids_family": {
   "kids_club": "Great House Reef\nKids Club",
-  "age_range": null,
-  "teens": null
+  "age_range": "6-14 years",
+  "teens": "teens programme mentioned"
  },
  "wellness_fitness": [
   "yoga",
   "gym",
   "sauna",
   "steam",
+  "meditation",
   "fitness centre"
  ],
  "weddings": {
   "offered": true,
-  "vow_renewal": null,
-  "venues": [],
+  "vow_renewal": true,
+  "venues": [
+   "BEACH WEDDING"
+  ],
   "packages": [],
-  "brochure_doc": null
+  "brochure_doc": "https://www.huvafenfushi.com/wp-content/uploads/2026/06/Sand-and-Romance.pdf"
  },
  "events_mice": {
   "venues": [],
   "capacity_max": null,
   "buyout": null,
-  "doc": null
+  "doc": "https://www.huvafenfushi.com/wp-content/uploads/2026/06/HF-Corporate-Social-Responsibility.pdf"
  },
  "sustainability": [
-  "marine biologist"
+  "marine biologist",
+  "coral nursery",
+  "solar",
+  "reef restoration",
+  "desalination",
+  "glass bottling"
  ],
  "contacts_public": {
   "reservations_email": "info@neoscapesmaldives.com",
   "weddings_email": null,
-  "phone": "+960 736 5425"
+  "phone": "+960 664 4222"
  },
  "documents_latest": {
-  "factsheet": "https://www.neoscapesmaldives.com/wp-content/uploads/Huvafen-Fushi-Factsheet-2020-Digital_rdc.pdf",
-  "map": "https://www.neoscapesmaldives.com/wp-content/uploads/Resort-Map.pdf",
-  "wedding": null,
-  "spa_menu": null,
-  "dining_menu": null,
-  "dive_prices": null,
-  "events": null,
-  "calendar": null
+  "factsheet": "https://www.huvafenfushi.com/wp-content/uploads/2026/04/Huvafen-Factsheet-2026.pdf",
+  "map": "https://maldives.ru/doc/airport-new-counters-map-2023-1.pdf",
+  "wedding": "https://www.huvafenfushi.com/wp-content/uploads/2026/06/Sand-and-Romance.pdf",
+  "spa_menu": "https://www.huvafenfushi.com/wp-content/uploads/2026/07/Huvafen-Spa-Menu-2026_compressed.pdf",
+  "dining_menu": "https://www.huvafenfushi.com/wp-content/uploads/2026/07/UMbar-Beverage-Menu-2026-July.pdf",
+  "dive_prices": "https://www.huvafenfushi.com/wp-content/uploads/2026/05/Pricelist-Updated-2026.pdf",
+  "events": "https://www.huvafenfushi.com/wp-content/uploads/2026/06/HF-Corporate-Social-Responsibility.pdf",
+  "calendar": "https://www.huvafenfushi.com/wp-content/uploads/2026/07/Huvafen-Festive-brochure-2026-.pdf"
  },
- "documents_count": 2,
+ "documents_count": 91,
  "gaps": [
-  "wedding brochure",
-  "events/MICE document",
-  "fact: villas.total",
   "fact: dive operator"
  ],
  "sources": {
   "atoll": [
    {
     "value": "North Malé Atoll",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Huvafen-Fushi-Factsheet-2020-Digital_rdc.pdf",
-    "as_of": 2020
+    "source_url": "https://www.huvafenfushi.com/wp-content/uploads/2026/04/Huvafen-Factsheet-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "Kaafu Atoll",
+    "source_url": "https://www.huvafenfushi.com/wp-content/uploads/2026/04/FLOAT-Brochure-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "North Malé Atoll",
+    "source_url": "https://www.huvafenfushi.com/wp-content/uploads/2026/06/HF-Corporate-Social-Responsibility.pdf",
+    "as_of": 2017
+   },
+   {
+    "value": "North Malé Atoll",
+    "source_url": "https://www.huvafenfushi.com/wp-content/uploads/2026/06/HF-Child-Protection-Policy.pdf",
+    "as_of": 2017
+   },
+   {
+    "value": "North Malé Atoll",
+    "source_url": "https://www.huvafenfushi.com/wp-content/uploads/2026/06/HF-Harrassment-Policy.pdf",
+    "as_of": 2017
+   },
+   {
+    "value": "Ari Atoll",
+    "source_url": "https://maldives.ru/doc/airport-new-counters-map-2023-1.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": "North Malé Atoll",
+    "source_url": "https://www.huvafenfushi.com/location",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "North Malé Atoll",
+    "source_url": "https://www.huvafenfushi.com/accommodation/lagoon-pavilion-with-pool",
+    "as_of": "2026-10-04"
    },
    {
     "value": "North Malé Atoll",
     "source_url": "https://www.neoscapesmaldives.com/resort/huvafen-fushi-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "North Malé Atoll",
+    "source_url": "https://hummingbird.travel/property/huvafen-fushi",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Kaafu Atoll",
+    "source_url": "https://www.mymaldives.com/resort-guide/huvafen-fushi-by-per-aquum/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "North Malé Atoll",
+    "source_url": "https://www.turquoiseholidays.co.uk/destinations/indian-ocean/maldives/huvafen-fushi/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Malé Atoll",
+    "source_url": "https://malediven.de/malediven-hotels/huvafen-fushi/",
     "as_of": "2026-10-04"
    }
   ],
   "transfer.modes": [
    {
     "value": "speedboat",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Huvafen-Fushi-Factsheet-2020-Digital_rdc.pdf",
-    "as_of": 2020
+    "source_url": "https://www.huvafenfushi.com/wp-content/uploads/2026/04/Huvafen-Factsheet-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.huvafenfushi.com/wp-content/uploads/2026/04/FLOAT-Brochure-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.huvafenfushi.com/wp-content/uploads/2026/04/FLOAT-Brochure-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "yacht",
+    "source_url": "https://www.huvafenfushi.com/wp-content/uploads/2026/04/FLOAT-Brochure-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.huvafenfushi.com/wp-content/uploads/2026/05/Pricelist-Updated-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "yacht",
+    "source_url": "https://www.huvafenfushi.com/wp-content/uploads/2026/05/Pricelist-Updated-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.huvafenfushi.com/location",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yacht",
+    "source_url": "https://www.huvafenfushi.com/location",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.huvafenfushi.com/useful-information",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.huvafenfushi.com/terms-conditions",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.huvafenfushi.com/privacy-policy",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.huvafenfushi.com/signature-experience/water-adventures",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yacht",
+    "source_url": "https://www.huvafenfushi.com/signature-experience/water-adventures",
+    "as_of": "2026-10-04"
    },
    {
     "value": "seaplane",
@@ -188,32 +450,211 @@
     "value": "speedboat",
     "source_url": "https://www.neoscapesmaldives.com/resort/huvafen-fushi-maldives/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://hummingbird.travel/property/huvafen-fushi",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.turquoiseholidays.co.uk/destinations/indian-ocean/maldives/huvafen-fushi/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yacht",
+    "source_url": "https://malediven.de/malediven-hotels/huvafen-fushi/",
+    "as_of": "2026-10-04"
    }
   ],
   "transfer.minutes.speedboat": [
    {
-    "value": 35,
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Huvafen-Fushi-Factsheet-2020-Digital_rdc.pdf",
-    "as_of": 2020
+    "value": 30,
+    "source_url": "https://www.huvafenfushi.com/wp-content/uploads/2026/04/Huvafen-Factsheet-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": 30,
+    "source_url": "https://www.huvafenfushi.com/location",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 30,
+    "source_url": "https://www.huvafenfushi.com/useful-information",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 30,
+    "source_url": "https://www.huvafenfushi.com/terms-conditions",
+    "as_of": "2026-10-04"
    },
    {
     "value": 30,
     "source_url": "https://www.neoscapesmaldives.com/resort/huvafen-fushi-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 30,
+    "source_url": "https://www.turquoiseholidays.co.uk/destinations/indian-ocean/maldives/huvafen-fushi/",
     "as_of": "2026-10-04"
    }
   ],
   "villas.categories": [
    {
     "value": {
-     "name": "Beach Bungalows with Pool –",
-     "count": 8,
-     "size_sqm": 125,
+     "name": "LAGOON BUNGALOWS WITH POOL –",
+     "count": 12,
+     "size_sqm": 130,
+     "max_occupancy": null,
+     "pool": true,
+     "overwater": true
+    },
+    "source_url": "https://www.huvafenfushi.com/wp-content/uploads/2026/04/Huvafen-Factsheet-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": {
+     "name": "DELU E BEACH BUNGALOWS WITH POOL –",
+     "count": 16,
+     "size_sqm": 196,
      "max_occupancy": null,
      "pool": true,
      "overwater": null
     },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Huvafen-Fushi-Factsheet-2020-Digital_rdc.pdf",
-    "as_of": 2020
+    "source_url": "https://www.huvafenfushi.com/wp-content/uploads/2026/04/Huvafen-Factsheet-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": {
+     "name": "OCEAN BUNGALOWS WITH POOL –",
+     "count": 12,
+     "size_sqm": 160,
+     "max_occupancy": null,
+     "pool": true,
+     "overwater": true
+    },
+    "source_url": "https://www.huvafenfushi.com/wp-content/uploads/2026/04/Huvafen-Factsheet-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": {
+     "name": "VILLA ANTINORI ROSSO, MARCHESI ANTINORI TUSCANY, ITALY",
+     "count": 22,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://www.huvafenfushi.com/wp-content/uploads/2026/07/UMbar-Beverage-Menu-2026-July.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": {
+     "name": "Embudu Village A",
+     "count": 22,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://maldives.ru/doc/airport-new-counters-map-2023-1.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": {
+     "name": "Equator Village A",
+     "count": 23,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://maldives.ru/doc/airport-new-counters-map-2023-1.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": {
+     "name": "Mookai Suites A",
+     "count": 26,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://maldives.ru/doc/airport-new-counters-map-2023-1.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": {
+     "name": "Lu South Ari Atoll Resort & Villas A",
+     "count": 31,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://maldives.ru/doc/airport-new-counters-map-2023-1.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": {
+     "name": "Amilla Maldives Resort & Residences D",
+     "count": 120,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://maldives.ru/doc/airport-new-counters-map-2023-1.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": {
+     "name": "Residence Maldives D",
+     "count": 122,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://maldives.ru/doc/airport-new-counters-map-2023-1.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": {
+     "name": "The Residence Maldives at Dhigurah D",
+     "count": 123,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://maldives.ru/doc/airport-new-counters-map-2023-1.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": {
+     "name": "TME Retreats Dhigurah E",
+     "count": 131,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://maldives.ru/doc/airport-new-counters-map-2023-1.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": {
+     "name": "Villa Nautica E . Paradise Island Resort E",
+     "count": 143,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://maldives.ru/doc/airport-new-counters-map-2023-1.pdf",
+    "as_of": 2023
    },
    {
     "value": {
@@ -264,103 +705,440 @@
     "as_of": "2026-10-04"
    }
   ],
-  "dining": [
-   {
-    "value": {
-     "name": "In-bungalow Dining",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Huvafen-Fushi-Factsheet-2020-Digital_rdc.pdf",
-    "as_of": 2020
-   },
-   {
-    "value": {
-     "name": "with a ﬂirtatious Latin twist. Destination Dining",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Huvafen-Fushi-Factsheet-2020-Digital_rdc.pdf",
-    "as_of": 2020
-   },
-   {
-    "value": {
-     "name": "Dining",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/huvafen-fushi-maldives/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Dining",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/huvafen-fushi-maldives/",
-    "as_of": "2026-10-04"
-   }
-  ],
   "spa.name": [
    {
-    "value": "Underwater Spa",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Huvafen-Fushi-Factsheet-2020-Digital_rdc.pdf",
-    "as_of": 2020
+    "value": "Every Huvafen Spa",
+    "source_url": "https://www.huvafenfushi.com/wp-content/uploads/2026/04/Huvafen-Factsheet-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://maldives.ru/doc/airport-new-counters-map-2023-1.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": "Downloads\nFactsheet\nBrochure\nSpa",
+    "source_url": "https://www.huvafenfushi.com/sitemap",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Most Unique Spa",
+    "source_url": "https://www.huvafenfushi.com/our-story",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Every Huvafen Spa",
+    "source_url": "https://www.huvafenfushi.com/spa",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "World's Best Spa",
+    "source_url": "https://www.huvafenfushi.com/spa-wellness/huvafen-iconics",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.huvafenfushi.com/offers/long-stay-deal",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.huvafenfushi.com/offers/book-direct-for-exclusive-benefits",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Huvafen Spa",
+    "source_url": "https://www.huvafenfushi.com/spa-wellness/margarat-dabbs",
+    "as_of": "2026-10-04"
    },
    {
     "value": "The Resort\nHuvafen Spa",
     "source_url": "https://www.neoscapesmaldives.com/resort/huvafen-fushi-maldives/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://hummingbird.travel/property/huvafen-fushi",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.mymaldives.com/resort-guide/huvafen-fushi-by-per-aquum/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Huvafen Spa",
+    "source_url": "https://www.turquoiseholidays.co.uk/destinations/indian-ocean/maldives/huvafen-fushi/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Unterwasser Spa",
+    "source_url": "https://malediven.de/malediven-hotels/huvafen-fushi/",
+    "as_of": "2026-10-04"
    }
   ],
   "diving_watersports.house_reef": [
    {
-    "value": "house reefs • Two underwater couple’s treatment rooms",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Huvafen-Fushi-Factsheet-2020-Digital_rdc.pdf",
-    "as_of": 2020
+    "value": "house reefs",
+    "source_url": "https://www.huvafenfushi.com/wp-content/uploads/2026/04/Huvafen-Factsheet-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "House Reef dive, extend the aquatic adventure",
+    "source_url": "https://www.huvafenfushi.com/wp-content/uploads/2026/04/FLOAT-Brochure-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "house reef has led to improved growth of our aquatic flora and fauna",
+    "source_url": "https://www.huvafenfushi.com/wp-content/uploads/2026/06/HF-Corporate-Social-Responsibility.pdf",
+    "as_of": 2017
+   },
+   {
+    "value": "House Reef) Shared/Private 200++/240++",
+    "source_url": "https://www.huvafenfushi.com/wp-content/uploads/2026/05/Pricelist-Updated-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "house reef and revel in spectacular Maldivian horizons while expanding your own",
+    "source_url": "https://www.huvafenfushi.com/our-story",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef, which rings the island around 25 metres from shore",
+    "source_url": "https://www.huvafenfushi.com/useful-information",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef that feels entirely yours",
+    "source_url": "https://www.huvafenfushi.com/offers/a-quieter-kind-of-escape",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef snorkeling",
+    "source_url": "https://www.huvafenfushi.com/offers/solo-mind-body-immersion",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef with an orientation dive and two thrilling single-tank dives",
+    "source_url": "https://www.huvafenfushi.com/offers/dive-dine-decompress",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "House Reef dive, join us for a second excursion from our picturesque diving dhoni boat",
+    "source_url": "https://www.huvafenfushi.com/signature-experience/water-adventures",
+    "as_of": "2026-10-04"
    },
    {
     "value": "House Reef",
     "source_url": "https://www.neoscapesmaldives.com/resort/huvafen-fushi-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef, lush greenery, intimate atmosphere and delicious food - but everything now feels fresh, elevated and back where Huvafen belongs",
+    "source_url": "https://hummingbird.travel/property/huvafen-fushi",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "House Reef",
+    "source_url": "https://www.turquoiseholidays.co.uk/destinations/indian-ocean/maldives/huvafen-fushi/",
     "as_of": "2026-10-04"
    }
   ],
   "diving_watersports.activities": [
    {
     "value": "snorkelling",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Huvafen-Fushi-Factsheet-2020-Digital_rdc.pdf",
-    "as_of": 2020
+    "source_url": "https://www.huvafenfushi.com/wp-content/uploads/2026/04/Huvafen-Factsheet-2026.pdf",
+    "as_of": 2026
    },
    {
-    "value": "scuba diving",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Huvafen-Fushi-Factsheet-2020-Digital_rdc.pdf",
-    "as_of": 2020
+    "value": "windsurfing",
+    "source_url": "https://www.huvafenfushi.com/wp-content/uploads/2026/04/Huvafen-Factsheet-2026.pdf",
+    "as_of": 2026
    },
    {
-    "value": "catamaran",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Huvafen-Fushi-Factsheet-2020-Digital_rdc.pdf",
-    "as_of": 2020
+    "value": "kayaking",
+    "source_url": "https://www.huvafenfushi.com/wp-content/uploads/2026/04/Huvafen-Factsheet-2026.pdf",
+    "as_of": 2026
    },
    {
     "value": "jet ski",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Huvafen-Fushi-Factsheet-2020-Digital_rdc.pdf",
-    "as_of": 2020
+    "source_url": "https://www.huvafenfushi.com/wp-content/uploads/2026/04/Huvafen-Factsheet-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "seabob",
+    "source_url": "https://www.huvafenfushi.com/wp-content/uploads/2026/04/Huvafen-Factsheet-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.huvafenfushi.com/wp-content/uploads/2026/04/Huvafen-Factsheet-2026.pdf",
+    "as_of": 2026
    },
    {
     "value": "dolphin cruise",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Huvafen-Fushi-Factsheet-2020-Digital_rdc.pdf",
-    "as_of": 2020
+    "source_url": "https://www.huvafenfushi.com/wp-content/uploads/2026/04/Huvafen-Factsheet-2026.pdf",
+    "as_of": 2026
    },
    {
     "value": "whale shark",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Huvafen-Fushi-Factsheet-2020-Digital_rdc.pdf",
-    "as_of": 2020
+    "source_url": "https://www.huvafenfushi.com/wp-content/uploads/2026/04/Huvafen-Factsheet-2026.pdf",
+    "as_of": 2026
    },
    {
     "value": "manta",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Huvafen-Fushi-Factsheet-2020-Digital_rdc.pdf",
-    "as_of": 2020
+    "source_url": "https://www.huvafenfushi.com/wp-content/uploads/2026/04/Huvafen-Factsheet-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.huvafenfushi.com/wp-content/uploads/2026/04/FLOAT-Brochure-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.huvafenfushi.com/wp-content/uploads/2026/04/FLOAT-Brochure-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://www.huvafenfushi.com/wp-content/uploads/2026/04/FLOAT-Brochure-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "windsurfing",
+    "source_url": "https://www.huvafenfushi.com/wp-content/uploads/2026/04/FLOAT-Brochure-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "jet ski",
+    "source_url": "https://www.huvafenfushi.com/wp-content/uploads/2026/04/FLOAT-Brochure-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "wakeboarding",
+    "source_url": "https://www.huvafenfushi.com/wp-content/uploads/2026/04/FLOAT-Brochure-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "seabob",
+    "source_url": "https://www.huvafenfushi.com/wp-content/uploads/2026/04/FLOAT-Brochure-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.huvafenfushi.com/wp-content/uploads/2026/04/FLOAT-Brochure-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.huvafenfushi.com/wp-content/uploads/2026/04/FLOAT-Brochure-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "dolphin cruise",
+    "source_url": "https://www.huvafenfushi.com/wp-content/uploads/2026/04/FLOAT-Brochure-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.huvafenfushi.com/wp-content/uploads/2026/04/FLOAT-Brochure-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.huvafenfushi.com/wp-content/uploads/2026/04/FLOAT-Brochure-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "fun tube",
+    "source_url": "https://www.huvafenfushi.com/wp-content/uploads/2026/04/FLOAT-Brochure-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "glass-bottom",
+    "source_url": "https://www.huvafenfushi.com/wp-content/uploads/2026/04/FLOAT-Brochure-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.huvafenfushi.com/wp-content/uploads/2026/06/HF-Corporate-Social-Responsibility.pdf",
+    "as_of": 2017
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.huvafenfushi.com/wp-content/uploads/2026/05/Pricelist-Updated-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://www.huvafenfushi.com/wp-content/uploads/2026/05/Pricelist-Updated-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "windsurfing",
+    "source_url": "https://www.huvafenfushi.com/wp-content/uploads/2026/05/Pricelist-Updated-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "kayaking",
+    "source_url": "https://www.huvafenfushi.com/wp-content/uploads/2026/05/Pricelist-Updated-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "jet ski",
+    "source_url": "https://www.huvafenfushi.com/wp-content/uploads/2026/05/Pricelist-Updated-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "wakeboarding",
+    "source_url": "https://www.huvafenfushi.com/wp-content/uploads/2026/05/Pricelist-Updated-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "seabob",
+    "source_url": "https://www.huvafenfushi.com/wp-content/uploads/2026/05/Pricelist-Updated-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.huvafenfushi.com/wp-content/uploads/2026/05/Pricelist-Updated-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "dolphin cruise",
+    "source_url": "https://www.huvafenfushi.com/wp-content/uploads/2026/05/Pricelist-Updated-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.huvafenfushi.com/wp-content/uploads/2026/05/Pricelist-Updated-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.huvafenfushi.com/wp-content/uploads/2026/05/Pricelist-Updated-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.huvafenfushi.com/wp-content/uploads/2024/10/HF-Kids-Activities.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.huvafenfushi.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sailing",
+    "source_url": "https://www.huvafenfushi.com/location",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.huvafenfushi.com/useful-information",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.huvafenfushi.com/useful-information",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.huvafenfushi.com/experiences",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.huvafenfushi.com/experiences",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.huvafenfushi.com/accommodation/deluxe-beach-bungalow-with-pool",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.huvafenfushi.com/offers/solo-mind-body-immersion",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.huvafenfushi.com/privacy-policy",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.huvafenfushi.com/accommodation/lagoon-bungalow-with-pool",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.huvafenfushi.com/offers/a-huvafen-fushi-love-retreat",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.huvafenfushi.com/sustainability",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.huvafenfushi.com/offers/book-direct-for-exclusive-benefits",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.huvafenfushi.com/careers",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.huvafenfushi.com/signature-experience/water-adventures",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://www.huvafenfushi.com/signature-experience/water-adventures",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "windsurfing",
+    "source_url": "https://www.huvafenfushi.com/signature-experience/water-adventures",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "jet ski",
+    "source_url": "https://www.huvafenfushi.com/signature-experience/water-adventures",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "wakeboarding",
+    "source_url": "https://www.huvafenfushi.com/signature-experience/water-adventures",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.huvafenfushi.com/signature-experience/water-adventures",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin cruise",
+    "source_url": "https://www.huvafenfushi.com/signature-experience/water-adventures",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.huvafenfushi.com/signature-experience/water-adventures",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.huvafenfushi.com/offers/soul-sanctuary-beach-house-pavilion",
+    "as_of": "2026-10-04"
    },
    {
     "value": "snorkelling",
@@ -386,28 +1164,248 @@
     "value": "manta",
     "source_url": "https://www.neoscapesmaldives.com/resort/huvafen-fushi-maldives/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://hummingbird.travel/property/huvafen-fushi",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://hummingbird.travel/property/huvafen-fushi",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://www.mymaldives.com/resort-guide/huvafen-fushi-by-per-aquum/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "windsurfing",
+    "source_url": "https://www.mymaldives.com/resort-guide/huvafen-fushi-by-per-aquum/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "catamaran",
+    "source_url": "https://www.mymaldives.com/resort-guide/huvafen-fushi-by-per-aquum/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "jet ski",
+    "source_url": "https://www.mymaldives.com/resort-guide/huvafen-fushi-by-per-aquum/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "parasailing",
+    "source_url": "https://www.mymaldives.com/resort-guide/huvafen-fushi-by-per-aquum/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "water skiing",
+    "source_url": "https://www.mymaldives.com/resort-guide/huvafen-fushi-by-per-aquum/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.mymaldives.com/resort-guide/huvafen-fushi-by-per-aquum/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sailing",
+    "source_url": "https://www.mymaldives.com/resort-guide/huvafen-fushi-by-per-aquum/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "canoe",
+    "source_url": "https://www.mymaldives.com/resort-guide/huvafen-fushi-by-per-aquum/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "catamaran",
+    "source_url": "https://www.turquoiseholidays.co.uk/destinations/indian-ocean/maldives/huvafen-fushi/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sailing",
+    "source_url": "https://www.turquoiseholidays.co.uk/destinations/indian-ocean/maldives/huvafen-fushi/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://malediven.de/malediven-hotels/huvafen-fushi/",
+    "as_of": "2026-10-04"
    }
   ],
   "excursions": [
    {
     "value": "sandbank",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Huvafen-Fushi-Factsheet-2020-Digital_rdc.pdf",
-    "as_of": 2020
+    "source_url": "https://www.huvafenfushi.com/wp-content/uploads/2026/04/Huvafen-Factsheet-2026.pdf",
+    "as_of": 2026
    },
    {
     "value": "dolphin",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Huvafen-Fushi-Factsheet-2020-Digital_rdc.pdf",
-    "as_of": 2020
+    "source_url": "https://www.huvafenfushi.com/wp-content/uploads/2026/04/Huvafen-Factsheet-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "sunset fishing",
+    "source_url": "https://www.huvafenfushi.com/wp-content/uploads/2026/04/Huvafen-Factsheet-2026.pdf",
+    "as_of": 2026
    },
    {
     "value": "whale shark",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Huvafen-Fushi-Factsheet-2020-Digital_rdc.pdf",
-    "as_of": 2020
+    "source_url": "https://www.huvafenfushi.com/wp-content/uploads/2026/04/Huvafen-Factsheet-2026.pdf",
+    "as_of": 2026
    },
    {
     "value": "manta",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Huvafen-Fushi-Factsheet-2020-Digital_rdc.pdf",
-    "as_of": 2020
+    "source_url": "https://www.huvafenfushi.com/wp-content/uploads/2026/04/Huvafen-Factsheet-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.huvafenfushi.com/wp-content/uploads/2026/04/FLOAT-Brochure-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.huvafenfushi.com/wp-content/uploads/2026/04/FLOAT-Brochure-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "sunset fishing",
+    "source_url": "https://www.huvafenfushi.com/wp-content/uploads/2026/04/FLOAT-Brochure-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "big game fishing",
+    "source_url": "https://www.huvafenfushi.com/wp-content/uploads/2026/04/FLOAT-Brochure-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.huvafenfushi.com/wp-content/uploads/2026/04/FLOAT-Brochure-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.huvafenfushi.com/wp-content/uploads/2026/04/FLOAT-Brochure-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.huvafenfushi.com/wp-content/uploads/2026/04/FLOAT-Brochure-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "local island",
+    "source_url": "https://www.huvafenfushi.com/wp-content/uploads/2026/06/HF-Corporate-Social-Responsibility.pdf",
+    "as_of": 2017
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.huvafenfushi.com/wp-content/uploads/2026/05/Pricelist-Updated-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "sunset fishing",
+    "source_url": "https://www.huvafenfushi.com/wp-content/uploads/2026/05/Pricelist-Updated-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "big game fishing",
+    "source_url": "https://www.huvafenfushi.com/wp-content/uploads/2026/05/Pricelist-Updated-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.huvafenfushi.com/wp-content/uploads/2026/05/Pricelist-Updated-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.huvafenfushi.com/wp-content/uploads/2026/05/Pricelist-Updated-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.huvafenfushi.com/wp-content/uploads/2026/05/Pricelist-Updated-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.huvafenfushi.com/sitemap",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "cinema",
+    "source_url": "https://www.huvafenfushi.com/our-story",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "local island",
+    "source_url": "https://www.huvafenfushi.com/useful-information",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.huvafenfushi.com/experiences",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.huvafenfushi.com/dining/sandbank-lunch",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.huvafenfushi.com/dining",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "local island",
+    "source_url": "https://www.huvafenfushi.com/sustainability",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.huvafenfushi.com/signature-experience/water-adventures",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.huvafenfushi.com/signature-experience/water-adventures",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset fishing",
+    "source_url": "https://www.huvafenfushi.com/signature-experience/water-adventures",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "big game fishing",
+    "source_url": "https://www.huvafenfushi.com/signature-experience/water-adventures",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.huvafenfushi.com/signature-experience/water-adventures",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.huvafenfushi.com/signature-experience/water-adventures",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "cinema",
+    "source_url": "https://www.huvafenfushi.com/gallery",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.huvafenfushi.com/dining/sandbank-dinner",
+    "as_of": "2026-10-04"
    },
    {
     "value": "sandbank",
@@ -422,29 +1420,169 @@
    {
     "value": "manta",
     "source_url": "https://www.neoscapesmaldives.com/resort/huvafen-fushi-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "big game fishing",
+    "source_url": "https://www.mymaldives.com/resort-guide/huvafen-fushi-by-per-aquum/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.turquoiseholidays.co.uk/destinations/indian-ocean/maldives/huvafen-fushi/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.turquoiseholidays.co.uk/destinations/indian-ocean/maldives/huvafen-fushi/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "picnic",
+    "source_url": "https://www.turquoiseholidays.co.uk/destinations/indian-ocean/maldives/huvafen-fushi/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "cooking class",
+    "source_url": "https://www.turquoiseholidays.co.uk/destinations/indian-ocean/maldives/huvafen-fushi/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://malediven.de/malediven-hotels/huvafen-fushi/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://malediven.de/malediven-hotels/huvafen-fushi/",
     "as_of": "2026-10-04"
    }
   ],
   "wellness_fitness": [
    {
     "value": "yoga",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Huvafen-Fushi-Factsheet-2020-Digital_rdc.pdf",
-    "as_of": 2020
+    "source_url": "https://www.huvafenfushi.com/wp-content/uploads/2026/04/Huvafen-Factsheet-2026.pdf",
+    "as_of": 2026
    },
    {
     "value": "gym",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Huvafen-Fushi-Factsheet-2020-Digital_rdc.pdf",
-    "as_of": 2020
+    "source_url": "https://www.huvafenfushi.com/wp-content/uploads/2026/04/Huvafen-Factsheet-2026.pdf",
+    "as_of": 2026
    },
    {
     "value": "sauna",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Huvafen-Fushi-Factsheet-2020-Digital_rdc.pdf",
-    "as_of": 2020
+    "source_url": "https://www.huvafenfushi.com/wp-content/uploads/2026/04/Huvafen-Factsheet-2026.pdf",
+    "as_of": 2026
    },
    {
     "value": "steam",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Huvafen-Fushi-Factsheet-2020-Digital_rdc.pdf",
-    "as_of": 2020
+    "source_url": "https://www.huvafenfushi.com/wp-content/uploads/2026/04/Huvafen-Factsheet-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.huvafenfushi.com/wp-content/uploads/2024/10/HF-Kids-Activities.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "gym",
+    "source_url": "https://www.huvafenfushi.com/wp-content/uploads/2024/10/HF-Kids-Activities.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "steam",
+    "source_url": "https://www.huvafenfushi.com/wp-content/uploads/2026/06/Infinity-Food-Sensation.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.huvafenfushi.com/spa",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "gym",
+    "source_url": "https://www.huvafenfushi.com/spa",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.huvafenfushi.com/experiences",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.huvafenfushi.com/accommodation/deluxe-beach-bungalow-with-pool",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.huvafenfushi.com/offers/a-quieter-kind-of-escape",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sauna",
+    "source_url": "https://www.huvafenfushi.com/offers/a-quieter-kind-of-escape",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "steam",
+    "source_url": "https://www.huvafenfushi.com/offers/a-quieter-kind-of-escape",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.huvafenfushi.com/offers/solo-mind-body-immersion",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "meditation",
+    "source_url": "https://www.huvafenfushi.com/offers/solo-mind-body-immersion",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.huvafenfushi.com/accommodation/lagoon-bungalow-with-pool",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.huvafenfushi.com/signature-experience/inspirational-spaces",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "gym",
+    "source_url": "https://www.huvafenfushi.com/signature-experience/inspirational-spaces",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.huvafenfushi.com/spa-wellness/huvafen-iconics",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "meditation",
+    "source_url": "https://www.huvafenfushi.com/spa-wellness/huvafen-iconics",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.huvafenfushi.com/offers/book-direct-for-exclusive-benefits",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.huvafenfushi.com/offers/dive-dine-decompress",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.huvafenfushi.com/signature-experience/water-adventures",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.huvafenfushi.com/offers/soul-sanctuary-beach-house-pavilion",
+    "as_of": "2026-10-04"
    },
    {
     "value": "yoga",
@@ -460,29 +1598,493 @@
     "value": "fitness centre",
     "source_url": "https://www.neoscapesmaldives.com/resort/huvafen-fushi-maldives/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://hummingbird.travel/property/huvafen-fushi",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "gym",
+    "source_url": "https://hummingbird.travel/property/huvafen-fushi",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.mymaldives.com/resort-guide/huvafen-fushi-by-per-aquum/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sauna",
+    "source_url": "https://www.mymaldives.com/resort-guide/huvafen-fushi-by-per-aquum/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sauna",
+    "source_url": "https://malediven.de/malediven-hotels/huvafen-fushi/",
+    "as_of": "2026-10-04"
    }
   ],
   "weddings.offered": [
    {
     "value": true,
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Huvafen-Fushi-Factsheet-2020-Digital_rdc.pdf",
-    "as_of": 2020
+    "source_url": "https://www.huvafenfushi.com/wp-content/uploads/2026/04/Huvafen-Factsheet-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": true,
+    "source_url": "https://www.huvafenfushi.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.huvafenfushi.com/sitemap",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.huvafenfushi.com/experiences",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.huvafenfushi.com/privacy-policy",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.huvafenfushi.com/offers/a-huvafen-fushi-love-retreat",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.huvafenfushi.com/offers/a-huvafen-fushi-love-retreat",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.huvafenfushi.com/signature-experience/weddings",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.huvafenfushi.com/signature-experience/weddings",
+    "as_of": "2026-10-04"
    },
    {
     "value": true,
     "source_url": "https://www.neoscapesmaldives.com/resort/huvafen-fushi-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.turquoiseholidays.co.uk/destinations/indian-ocean/maldives/huvafen-fushi/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://malediven.de/malediven-hotels/huvafen-fushi/",
     "as_of": "2026-10-04"
    }
   ],
   "sustainability": [
    {
     "value": "marine biologist",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Huvafen-Fushi-Factsheet-2020-Digital_rdc.pdf",
-    "as_of": 2020
+    "source_url": "https://www.huvafenfushi.com/wp-content/uploads/2026/04/Huvafen-Factsheet-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "coral nursery",
+    "source_url": "https://www.huvafenfushi.com/wp-content/uploads/2026/04/FLOAT-Brochure-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "marine biologist",
+    "source_url": "https://www.huvafenfushi.com/wp-content/uploads/2026/04/FLOAT-Brochure-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "marine biologist",
+    "source_url": "https://www.huvafenfushi.com/wp-content/uploads/2026/06/HF-Corporate-Social-Responsibility.pdf",
+    "as_of": 2017
+   },
+   {
+    "value": "marine biologist",
+    "source_url": "https://www.huvafenfushi.com/wp-content/uploads/2026/05/Pricelist-Updated-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "solar",
+    "source_url": "https://www.huvafenfushi.com/useful-information",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "marine biologist",
+    "source_url": "https://www.huvafenfushi.com/experiences",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "reef restoration",
+    "source_url": "https://www.huvafenfushi.com/experiences",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "solar",
+    "source_url": "https://www.huvafenfushi.com/sustainability",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "desalination",
+    "source_url": "https://www.huvafenfushi.com/sustainability",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "glass bottling",
+    "source_url": "https://www.huvafenfushi.com/sustainability",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "reef restoration",
+    "source_url": "https://www.huvafenfushi.com/sustainability",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "marine biologist",
+    "source_url": "https://www.huvafenfushi.com/careers",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "marine biologist",
+    "source_url": "https://www.huvafenfushi.com/signature-experience/water-adventures",
+    "as_of": "2026-10-04"
    },
    {
     "value": "marine biologist",
     "source_url": "https://www.neoscapesmaldives.com/resort/huvafen-fushi-maldives/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "island_size": [
+   {
+    "value": "47 ha",
+    "source_url": "https://www.huvafenfushi.com/wp-content/uploads/2026/04/FLOAT-Brochure-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "350 m x 150 m",
+    "source_url": "https://www.huvafenfushi.com/useful-information",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "dining": [
+   {
+    "value": {
+     "name": "Chef’s BBQ Grill menu",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.huvafenfushi.com/wp-content/uploads/2026/06/Sand-and-Romance.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": {
+     "name": "Lounge Lounge",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://maldives.ru/doc/airport-new-counters-map-2023-1.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": {
+     "name": "Lounge",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://maldives.ru/doc/airport-new-counters-map-2023-1.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": {
+     "name": "Lounge",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://maldives.ru/doc/airport-new-counters-map-2023-1.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": {
+     "name": "Arrival Lounge",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://maldives.ru/doc/airport-new-counters-map-2023-1.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": {
+     "name": "No Hotel Name Arr Lounge",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://maldives.ru/doc/airport-new-counters-map-2023-1.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": {
+     "name": "World Luxury Restaurant Awards",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.huvafenfushi.com/our-story",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "World Luxury Restaurant Awards",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.huvafenfushi.com/our-story",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Daily Breakfast at Celsius Restaurant",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.huvafenfushi.com/accommodation/deluxe-beach-bungalow-with-pool",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Daily Breakfast at Celsius Restaurant",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.huvafenfushi.com/accommodation/lagoon-bungalow-with-pool",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Wine Cellar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://hummingbird.travel/property/huvafen-fushi",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "contacts_public.reservations_email": [
+   {
+    "value": "stay@huvafenfushi.com",
+    "source_url": "https://www.huvafenfushi.com/wp-content/uploads/2026/06/HF-Corporate-Social-Responsibility.pdf",
+    "as_of": 2017
+   },
+   {
+    "value": "stay@huvafenfushi.com",
+    "source_url": "https://www.huvafenfushi.com/wp-content/uploads/2026/06/HF-Child-Protection-Policy.pdf",
+    "as_of": 2017
+   },
+   {
+    "value": "stay@huvafenfushi.com",
+    "source_url": "https://www.huvafenfushi.com/wp-content/uploads/2026/06/HF-Harrassment-Policy.pdf",
+    "as_of": 2017
+   },
+   {
+    "value": "info@neoscapesmaldives.com",
+    "source_url": "https://www.neoscapesmaldives.com/resort/huvafen-fushi-maldives/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "contacts_public.phone": [
+   {
+    "value": "+960 664 4222",
+    "source_url": "https://www.huvafenfushi.com/wp-content/uploads/2026/06/HF-Corporate-Social-Responsibility.pdf",
+    "as_of": 2017
+   },
+   {
+    "value": "+960 664 4222",
+    "source_url": "https://www.huvafenfushi.com/wp-content/uploads/2026/06/HF-Child-Protection-Policy.pdf",
+    "as_of": 2017
+   },
+   {
+    "value": "+960 664 4222",
+    "source_url": "https://www.huvafenfushi.com/wp-content/uploads/2026/06/HF-Harrassment-Policy.pdf",
+    "as_of": 2017
+   },
+   {
+    "value": "+960 664 4222",
+    "source_url": "https://www.huvafenfushi.com/spa-wellness/spa-menu-cn",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 664 4222",
+    "source_url": "https://www.huvafenfushi.com/spa-wellness/massage-by-beata-aleksandrowicz",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 664 4222",
+    "source_url": "https://www.huvafenfushi.com/offers/a-quieter-kind-of-escape",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 664 4222",
+    "source_url": "https://www.huvafenfushi.com/offers/family-sanctuary-beach-house-pavilion-escape",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 664 4222",
+    "source_url": "https://www.huvafenfushi.com/spa-wellness/signature-underwater",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 664 4222",
+    "source_url": "https://www.huvafenfushi.com/offers/solo-mind-body-immersion",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 664 4222",
+    "source_url": "https://www.huvafenfushi.com/privacy-policy",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 664 4222",
+    "source_url": "https://www.huvafenfushi.com/spa-wellness/obsidian-for-gentlemen",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 664 4222",
+    "source_url": "https://www.huvafenfushi.com/offers/a-huvafen-fushi-love-retreat",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 664 4222",
+    "source_url": "https://www.huvafenfushi.com/spa-wellness/huvafen-iconics",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 664 4222",
+    "source_url": "https://www.huvafenfushi.com/offers/long-stay-deal",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 664 4222",
+    "source_url": "https://www.huvafenfushi.com/offers/book-direct-for-exclusive-benefits",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 664 4222",
+    "source_url": "https://www.huvafenfushi.com/offers/dive-dine-decompress",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 664 4222",
+    "source_url": "https://www.huvafenfushi.com/spa-wellness/aromatherapy-associates",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 664 4222",
+    "source_url": "https://www.huvafenfushi.com/spa-wellness/dhimaalis-maldivian-experience",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 664 4222",
+    "source_url": "https://www.huvafenfushi.com/offers/eid-serenity-at-huvafen-fushi-cn",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 665 5211",
+    "source_url": "https://www.huvafenfushi.com/terms-conditions-careers",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 664 4222",
+    "source_url": "https://www.huvafenfushi.com/spa-wellness/margarat-dabbs",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 664 4222",
+    "source_url": "https://www.huvafenfushi.com/offers/soul-sanctuary-beach-house-pavilion",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 664 4222",
+    "source_url": "https://www.huvafenfushi.com/offers/flexible-rate",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 664 4222",
+    "source_url": "https://www.huvafenfushi.com/offers/early-booker-deal",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 736 5425",
+    "source_url": "https://www.neoscapesmaldives.com/resort/huvafen-fushi-maldives/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "star_rating": [
+   {
+    "value": "3-star",
+    "source_url": "https://www.huvafenfushi.com/wp-content/uploads/2026/07/UMbar-Beverage-Menu-2026-July.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "5-star",
+    "source_url": "https://www.huvafenfushi.com/accommodation/the-beach-house",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "5-star",
+    "source_url": "https://hummingbird.travel/property/huvafen-fushi",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "kids_family.age_range": [
+   {
+    "value": "6-14 years",
+    "source_url": "https://www.huvafenfushi.com/wp-content/uploads/2024/10/HF-Kids-Activities.pdf",
+    "as_of": 2024
+   }
+  ],
+  "villas.total": [
+   {
+    "value": 50,
+    "source_url": "https://www.huvafenfushi.com/our-story",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 46,
+    "source_url": "https://hummingbird.travel/property/huvafen-fushi",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 44,
+    "source_url": "https://www.mymaldives.com/resort-guide/huvafen-fushi-by-per-aquum/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "weddings.vow_renewal": [
+   {
+    "value": true,
+    "source_url": "https://www.huvafenfushi.com/signature-experience/weddings",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "weddings.venues": [
+   {
+    "value": "BEACH WEDDING",
+    "source_url": "https://www.huvafenfushi.com/signature-experience/weddings",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "meal_plans": [
+   {
+    "value": "FB",
+    "source_url": "https://www.huvafenfushi.com/offers/book-direct-for-exclusive-benefits",
     "as_of": "2026-10-04"
    }
   ],
@@ -493,20 +2095,13 @@
     "as_of": "2026-10-04"
    }
   ],
-  "contacts_public.reservations_email": [
+  "kids_family.teens": [
    {
-    "value": "info@neoscapesmaldives.com",
-    "source_url": "https://www.neoscapesmaldives.com/resort/huvafen-fushi-maldives/",
-    "as_of": "2026-10-04"
-   }
-  ],
-  "contacts_public.phone": [
-   {
-    "value": "+960 736 5425",
-    "source_url": "https://www.neoscapesmaldives.com/resort/huvafen-fushi-maldives/",
+    "value": "teens programme mentioned",
+    "source_url": "https://www.turquoiseholidays.co.uk/destinations/indian-ocean/maldives/huvafen-fushi/",
     "as_of": "2026-10-04"
    }
   ]
  },
- "last_updated": "2026-10-04"
+ "last_updated": "2026-10-05"
 }

@@ -8,16 +8,18 @@
   "Olhuveli Beach",
   "SSO"
  ],
- "official_url": null,
- "official_site_status": null,
+ "official_url": "https://www.sunsiyam.com/sun-siyam-olhuveli/",
+ "official_site_status": "ok",
  "operator_brand": "Sun Siyam",
  "atoll": "South Malé Atoll",
- "island": null,
+ "island": "Romance\nIsland",
  "opened_or_renovated": null,
- "star_rating": "4-star",
+ "star_rating": "5-star",
  "transfer": {
   "modes": [
-   "speedboat"
+   "speedboat",
+   "seaplane",
+   "yacht"
   ],
   "minutes": {
    "seaplane": null,
@@ -28,26 +30,10 @@
  },
  "island_size": "670 m x 100 m",
  "villas": {
-  "total": 49,
+  "total": 888,
   "categories": [
    {
-    "name": "Beach Pavilion + King/Twin",
-    "count": 50,
-    "size_sqm": null,
-    "max_occupancy": null,
-    "pool": null,
-    "overwater": null
-   },
-   {
-    "name": "Sunset Beach Pavilion + King/Twin",
-    "count": 50,
-    "size_sqm": null,
-    "max_occupancy": null,
-    "pool": null,
-    "overwater": null
-   },
-   {
-    "name": "Grand Beach Villa / + King",
+    "name": "Grand Beach Villa King",
     "count": 80,
     "size_sqm": null,
     "max_occupancy": null,
@@ -55,15 +41,7 @@
     "overwater": null
    },
    {
-    "name": "Grand Beach Suite with Pool / + King",
-    "count": 101,
-    "size_sqm": null,
-    "max_occupancy": null,
-    "pool": true,
-    "overwater": null
-   },
-   {
-    "name": "Water Villa / + King",
+    "name": "Water Villa King",
     "count": 64,
     "size_sqm": null,
     "max_occupancy": null,
@@ -71,7 +49,7 @@
     "overwater": null
    },
    {
-    "name": "Delu e Water Villa / + King",
+    "name": "Delu e Water Villa King",
     "count": 82,
     "size_sqm": null,
     "max_occupancy": null,
@@ -79,39 +57,7 @@
     "overwater": null
    },
    {
-    "name": "Prestige Jacuzzi Water Villa / + King",
-    "count": 123,
-    "size_sqm": null,
-    "max_occupancy": null,
-    "pool": null,
-    "overwater": null
-   },
-   {
-    "name": "Bedroom Beach Suite / + King/King",
-    "count": 2,
-    "size_sqm": null,
-    "max_occupancy": null,
-    "pool": null,
-    "overwater": null
-   },
-   {
-    "name": "Presidential Water Suite / + King/Twin",
-    "count": 270,
-    "size_sqm": null,
-    "max_occupancy": null,
-    "pool": null,
-    "overwater": null
-   },
-   {
-    "name": "Grand Beach Villa with Pool / + King",
-    "count": 91,
-    "size_sqm": null,
-    "max_occupancy": null,
-    "pool": true,
-    "overwater": null
-   },
-   {
-    "name": "Grand Water Villa / + King",
+    "name": "Grand Water Villa King",
     "count": 100,
     "size_sqm": null,
     "max_occupancy": null,
@@ -119,40 +65,8 @@
     "overwater": null
    },
    {
-    "name": "Grand Water Villa with Pool / + King",
-    "count": 112,
-    "size_sqm": null,
-    "max_occupancy": null,
-    "pool": true,
-    "overwater": null
-   },
-   {
-    "name": "Two Bedroom Beach Residence / + King",
-    "count": 310,
-    "size_sqm": null,
-    "max_occupancy": null,
-    "pool": null,
-    "overwater": null
-   },
-   {
-    "name": "Namaste Lagoon Bar Two Bedroom Grand Water Villas",
-    "count": 8,
-    "size_sqm": null,
-    "max_occupancy": null,
-    "pool": null,
-    "overwater": true
-   },
-   {
-    "name": "Beach Residence",
-    "count": 552,
-    "size_sqm": null,
-    "max_occupancy": null,
-    "pool": null,
-    "overwater": null
-   },
-   {
     "name": "Romantic Beach Villa",
-    "count": 41,
+    "count": 42,
     "size_sqm": null,
     "max_occupancy": null,
     "pool": null,
@@ -168,14 +82,14 @@
    },
    {
     "name": "Grand Beach Suites",
-    "count": 45,
+    "count": 46,
     "size_sqm": null,
     "max_occupancy": null,
     "pool": null,
     "overwater": null
    },
    {
-    "name": "Villas",
+    "name": "E Villas",
     "count": 338,
     "size_sqm": null,
     "max_occupancy": null,
@@ -183,16 +97,16 @@
     "overwater": null
    },
    {
-    "name": "F J RESIDENCES ZONES",
+    "name": "F Romantic Water Villa with Pool",
     "count": 257,
     "size_sqm": null,
     "max_occupancy": null,
-    "pool": null,
+    "pool": true,
     "overwater": null
    },
    {
-    "name": "Two Bedroom Romantic Water Villa with Pool",
-    "count": 10,
+    "name": "N Romantic Beach Villa with Pool",
+    "count": 471,
     "size_sqm": null,
     "max_occupancy": null,
     "pool": true,
@@ -207,23 +121,7 @@
     "overwater": null
    },
    {
-    "name": "Grand Beach N Romantic Beach Villa with Pool",
-    "count": 471,
-    "size_sqm": null,
-    "max_occupancy": null,
-    "pool": true,
-    "overwater": null
-   },
-   {
-    "name": "K Suites with Pool",
-    "count": 26,
-    "size_sqm": null,
-    "max_occupancy": null,
-    "pool": true,
-    "overwater": null
-   },
-   {
-    "name": "A Beach Pavilion - O Two Bedroom Beach Suite with Pool",
+    "name": "Grand Beach O Two Bedroom Beach Suite with Pool",
     "count": 444,
     "size_sqm": null,
     "max_occupancy": null,
@@ -231,16 +129,16 @@
     "overwater": null
    },
    {
-    "name": "Sunset Beach Pavilion - /",
-    "count": 24,
+    "name": "K Suites with Pool",
+    "count": 27,
     "size_sqm": null,
     "max_occupancy": null,
-    "pool": null,
+    "pool": true,
     "overwater": null
    },
    {
     "name": "B Grand Beach Villas",
-    "count": 840,
+    "count": 25,
     "size_sqm": null,
     "max_occupancy": null,
     "pool": null,
@@ -248,15 +146,23 @@
    },
    {
     "name": "C Grand Beach Villas with Pool",
-    "count": 652,
+    "count": 21,
     "size_sqm": null,
     "max_occupancy": null,
     "pool": true,
     "overwater": null
    },
    {
-    "name": "D Grand Beach Suites with Pool - / Grand Beach Suites - /",
-    "count": 256,
+    "name": "Villas",
+    "count": 8,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "D Grand Beach Suites with Pool - /",
+    "count": 22,
     "size_sqm": null,
     "max_occupancy": null,
     "pool": true,
@@ -264,7 +170,103 @@
    },
    {
     "name": "E Water Villas - /",
-    "count": 1,
+    "count": 122,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "G Grand Water Villas",
+    "count": 24,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "H Grand Water Villas with Pool",
+    "count": 35,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": true,
+    "overwater": null
+   },
+   {
+    "name": "J Presidential Water Suites &",
+    "count": 888,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "Anantara Kihavah Villas Baa Kihavah Huravalhi -Jul",
+    "count": 41,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "Embudhu Village Kaafu Embudhu -Sep",
+    "count": 69,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "Drift Thelu Veliga Retreat Theluveliga -Sep",
+    "count": 77,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "The Residence Maldives Falhumaafushi -Nov",
+    "count": 119,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "Club Med Finolhu Villas Kaafu Gasfinolhu -Dec",
+    "count": 139,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "Equator Village Seenu Gan -Sep",
+    "count": 3,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "Azuvia Beach Retreat Hulhumale' Kaafu Hulhumale' -Dec",
+    "count": 4,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "Vista Beach Retreat Kaafu Hulhumale' -Dec",
+    "count": 8,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "Casa Retreat Kaafu Hulhumale' -Dec",
+    "count": 13,
     "size_sqm": null,
     "max_occupancy": null,
     "pool": null,
@@ -274,92 +276,27 @@
  },
  "dining": [
   {
-   "name": "Sunrise Bar 24/7 Pool bar 50 Beach Front",
+   "name": "Lagoon Bar Dhoni Bar Sunrise Bar Malaafaiy",
    "cuisine": null,
    "type": "bar"
   },
   {
-   "name": "Dhoni Bar Adults only infinity pool bar 40 Beach Front",
+   "name": "Romance Bar Teppanyaki Culinarium The Bite",
    "cuisine": null,
    "type": "bar"
   },
   {
-   "name": "Crust & Flame Pizzeria on the beach 30 Beach Front",
+   "name": "Location: Maghrib Grill Beach",
    "cuisine": null,
    "type": "restaurant"
   },
   {
-   "name": "Dream Bar Infinity pool bar 60 09.00 - 00.00 Beach Front",
+   "name": "Location: Lagoon Bar",
    "cuisine": null,
    "type": "bar"
-  },
-  {
-   "name": "The Olive Family Pool Bar 120 08.00 - 00.00 Beach Front",
-   "cuisine": null,
-   "type": "bar"
-  },
-  {
-   "name": "07 Sunset Restaurant 15 Crust & Flame Romantic Water Villa",
-   "cuisine": null,
-   "type": "restaurant"
-  },
-  {
-   "name": "08 Namaste 16 Lagoon Bar Two Bedroom Grand Water Villas",
-   "cuisine": null,
-   "type": "bar"
-  },
-  {
-   "name": "37 The Restaurant",
-   "cuisine": null,
-   "type": "restaurant"
-  },
-  {
-   "name": "39 Teppanyaki Restaurant",
-   "cuisine": null,
-   "type": "restaurant"
-  },
-  {
-   "name": "11 Malaafaiy Restaurant 19 Dream Bar",
-   "cuisine": null,
-   "type": "restaurant"
-  },
-  {
-   "name": "13 Maghrib Grill 21 Sunken Bar 26 11",
-   "cuisine": null,
-   "type": "bar"
-  },
-  {
-   "name": "44 42 The Bar",
-   "cuisine": null,
-   "type": "bar"
-  },
-  {
-   "name": "N 44 Romance Bar",
-   "cuisine": null,
-   "type": "bar"
-  },
-  {
-   "name": "Dining",
-   "cuisine": null,
-   "type": "restaurant"
-  },
-  {
-   "name": "Sunset Restaurant",
-   "cuisine": null,
-   "type": "restaurant"
   },
   {
    "name": "Dhoni Bar",
-   "cuisine": null,
-   "type": "bar"
-  },
-  {
-   "name": "Lagoon Bar",
-   "cuisine": null,
-   "type": "bar"
-  },
-  {
-   "name": "Sunrise Bar",
    "cuisine": null,
    "type": "bar"
   },
@@ -369,22 +306,12 @@
    "type": "bar"
   },
   {
-   "name": "Romance Bar",
+   "name": "Lagoon Bar",
    "cuisine": null,
    "type": "bar"
   },
   {
-   "name": "Teppanyaki",
-   "cuisine": null,
-   "type": "restaurant"
-  },
-  {
-   "name": "Destination Dining",
-   "cuisine": null,
-   "type": "restaurant"
-  },
-  {
-   "name": "Maghrib Grill – Surf & Turf",
+   "name": "Maghrib Grill",
    "cuisine": null,
    "type": "restaurant"
   },
@@ -392,6 +319,31 @@
    "name": "Olive Bar",
    "cuisine": null,
    "type": "bar"
+  },
+  {
+   "name": "Romance Bar",
+   "cuisine": null,
+   "type": "bar"
+  },
+  {
+   "name": "Sunrise Bar",
+   "cuisine": null,
+   "type": "bar"
+  },
+  {
+   "name": "Sunset Restaurant",
+   "cuisine": null,
+   "type": "restaurant"
+  },
+  {
+   "name": "Teppanyaki",
+   "cuisine": null,
+   "type": "restaurant"
+  },
+  {
+   "name": "The artistry of Teppanyaki",
+   "cuisine": null,
+   "type": "restaurant"
   },
   {
    "name": "The Bar",
@@ -402,130 +354,239 @@
    "name": "The Restaurant",
    "cuisine": null,
    "type": "restaurant"
+  },
+  {
+   "name": "Maghrib Grill – Surf & Turf",
+   "cuisine": null,
+   "type": "restaurant"
   }
  ],
  "meal_plans": [],
- "all_inclusive_details": null,
+ "all_inclusive_details": "All-Inclusive Dine Around across 2 restaurants and 2 bars.",
  "spa": {
-  "name": "Dream Spa",
-  "treatment_rooms": 16,
+  "name": "Beach Suite BLUE Spa",
+  "treatment_rooms": 22,
   "signature_treatments": [],
-  "menu_doc": null
+  "menu_doc": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf"
  },
  "diving_watersports": {
   "operator": "Dive Centre",
-  "house_reef": "house reef or vast lagoon ideal for water sports",
+  "house_reef": "house reef and",
   "activities": [
-   "snorkelling",
+   "windsurfing",
+   "kitesurfing",
    "fishing",
    "whale shark",
    "manta",
-   "snorkeling",
-   "windsurfing",
-   "kitesurfing",
-   "surfing",
-   "kayaking",
-   "jet ski",
-   "parasailing",
+   "sunset cruise",
+   "snorkelling",
    "dolphin cruise",
-   "sailing"
+   "surfing",
+   "sailing",
+   "snorkeling",
+   "jet ski",
+   "kayaking",
+   "canoe",
+   "scuba diving",
+   "catamaran",
+   "stand-up paddle",
+   "paddleboard",
+   "parasailing",
+   "water skiing"
   ],
-  "price_list_doc": null
+  "price_list_doc": "https://www.sunsiyam.com/media/ijlfprg1/oktoberfest-sun-siyam-olhuveli-sep-2026.pdf"
  },
  "excursions": [
-  "local island",
-  "sandbank",
-  "dolphin",
-  "sunset fishing",
   "whale shark",
   "manta",
+  "cinema",
+  "sandbank",
+  "dolphin",
+  "local island",
   "turtle",
+  "sunset fishing",
   "stargazing",
   "island hopping",
-  "night fishing"
+  "night fishing",
+  "big game fishing"
  ],
  "kids_family": {
   "kids_club": "Kids Club",
   "age_range": null,
-  "teens": null
+  "teens": "teens programme mentioned"
  },
  "wellness_fitness": [
   "gym",
   "tennis",
   "badminton",
+  "yoga",
+  "meditation",
+  "beach volleyball",
+  "fitness center",
+  "ayurveda",
   "sauna",
-  "steam"
+  "steam",
+  "fitness centre",
+  "padel",
+  "pilates"
  ],
  "weddings": {
   "offered": true,
-  "vow_renewal": null,
-  "venues": [],
-  "packages": [],
-  "brochure_doc": "https://www.neoscapesmaldives.com/wp-content/uploads/Olhuveli-Dream-Romance-Map-2025-A4-updated-March-2025-final.pdf"
+  "vow_renewal": true,
+  "venues": [
+   "An all-day-dining venue on the beach and over water"
+  ],
+  "packages": [
+   {
+    "name": "Bridal Package",
+    "price": "192",
+    "currency": "USD",
+    "as_of": 2025
+   },
+   {
+    "name": "Wedding",
+    "price": "700",
+    "currency": "USD",
+    "as_of": 2025
+   }
+  ],
+  "brochure_doc": "https://www.sunsiyam.com/media/g0lnezdr/wedding-package-ssom-2024-2025-direct.pdf"
  },
  "events_mice": {
   "venues": [],
-  "capacity_max": null,
-  "buyout": null,
-  "doc": null
+  "capacity_max": 375,
+  "buyout": true,
+  "doc": "https://www.sunsiyam.com/media/gkhhf31k/ssr-mice-digital-book-2026.pdf"
  },
- "sustainability": [],
+ "sustainability": [
+  "marine biologist",
+  "solar",
+  "reef restoration"
+ ],
  "contacts_public": {
-  "reservations_email": "info@neoscapesmaldives.com",
+  "reservations_email": "info.olhuveli@sunsiyam.com",
   "weddings_email": null,
-  "phone": "+960 736 5425"
+  "phone": "+960 664 2788"
  },
  "documents_latest": {
-  "factsheet": "https://www.neoscapesmaldives.com/wp-content/uploads/SSO-Factsheet-EN-24_25.pdf",
-  "map": null,
-  "wedding": "https://www.neoscapesmaldives.com/wp-content/uploads/Olhuveli-Dream-Romance-Map-2025-A4-updated-March-2025-final.pdf",
-  "spa_menu": null,
-  "dining_menu": null,
-  "dive_prices": null,
-  "events": null,
-  "calendar": null
+  "factsheet": "https://www.sunsiyam.com/media/21sbkbn1/factsheet-olhuveli-2026-aug.pdf",
+  "map": "https://www.sunsiyam.com/media/qiflblcy/sso-ai-meal-plan-2026.pdf",
+  "wedding": "https://www.sunsiyam.com/media/g0lnezdr/wedding-package-ssom-2024-2025-direct.pdf",
+  "spa_menu": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+  "dining_menu": "https://www.sunsiyam.com/media/etufj3oc/sun-siyam-olhuveli-diwali.pdf",
+  "dive_prices": "https://www.sunsiyam.com/media/ijlfprg1/oktoberfest-sun-siyam-olhuveli-sep-2026.pdf",
+  "events": "https://www.sunsiyam.com/media/gkhhf31k/ssr-mice-digital-book-2026.pdf",
+  "calendar": "https://www.sunsiyam.com/media/zirlx1ub/carnival-of-the-isles-festive-programme-2026-2027.pdf"
  },
- "documents_count": 2,
- "gaps": [
-  "events/MICE document"
- ],
+ "documents_count": 23,
+ "gaps": [],
  "sources": {
   "atoll": [
    {
     "value": "South Malé Atoll",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/SSO-Factsheet-EN-24_25.pdf",
+    "source_url": "https://www.sunsiyam.com/media/21sbkbn1/factsheet-olhuveli-2026-aug.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "South Malé Atoll",
+    "source_url": "https://www.sunsiyam.com/media/g0lnezdr/wedding-package-ssom-2024-2025-direct.pdf",
     "as_of": 2025
+   },
+   {
+    "value": "Baa Atoll",
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": "South Male Atoll",
+    "source_url": "https://www.sunsiyam.com/media/etufj3oc/sun-siyam-olhuveli-diwali.pdf",
+    "as_of": 2024
    },
    {
     "value": "South Malé Atoll",
     "source_url": "https://www.neoscapesmaldives.com/resort/olhuveli-beach-spa-maldives/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "Kaafu Atoll",
+    "source_url": "https://www.mymaldives.com/resort-guide/olhuveli-beach-spa-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "South Male Atoll",
+    "source_url": "https://www.dnatatravel.com/2-1490933-1/sun-siyam-olhuveli-maldives?oc=true",
+    "as_of": "2026-10-04"
    }
   ],
-  "star_rating": [
+  "island": [
    {
-    "value": "4-star",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/SSO-Factsheet-EN-24_25.pdf",
-    "as_of": 2025
+    "value": "Romance\nIsland",
+    "source_url": "https://www.sunsiyam.com/media/21sbkbn1/factsheet-olhuveli-2026-aug.pdf",
+    "as_of": 2026
    }
   ],
   "transfer.modes": [
    {
     "value": "speedboat",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/SSO-Factsheet-EN-24_25.pdf",
-    "as_of": 2025
+    "source_url": "https://www.sunsiyam.com/media/21sbkbn1/factsheet-olhuveli-2026-aug.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.sunsiyam.com/media/gkhhf31k/ssr-mice-digital-book-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.sunsiyam.com/media/gkhhf31k/ssr-mice-digital-book-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "yacht",
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-olhuveli/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.sunsiyam.com/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-iru-fushi/offers/kids-stay-free-offer/",
+    "as_of": "2026-10-05"
    },
    {
     "value": "speedboat",
     "source_url": "https://www.neoscapesmaldives.com/resort/olhuveli-beach-spa-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.dnatatravel.com/2-1490933-1/sun-siyam-olhuveli-maldives?oc=true",
     "as_of": "2026-10-04"
    }
   ],
   "transfer.minutes.speedboat": [
    {
     "value": 45,
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/SSO-Factsheet-EN-24_25.pdf",
-    "as_of": 2025
+    "source_url": "https://www.sunsiyam.com/media/21sbkbn1/factsheet-olhuveli-2026-aug.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": 45,
+    "source_url": "https://www.sunsiyam.com/media/gkhhf31k/ssr-mice-digital-book-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": 45,
+    "source_url": "https://www.sunsiyam.com/sun-siyam-olhuveli/",
+    "as_of": "2026-10-04"
    },
    {
     "value": 45,
@@ -533,210 +594,88 @@
     "as_of": "2026-10-04"
    }
   ],
+  "villas.total": [
+   {
+    "value": 888,
+    "source_url": "https://www.sunsiyam.com/media/21sbkbn1/factsheet-olhuveli-2026-aug.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": 75,
+    "source_url": "https://www.sunsiyam.com/media/gkhhf31k/ssr-mice-digital-book-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": 481,
+    "source_url": "https://www.sunsiyam.com/sun-siyam-olhuveli/weddings-celebrations/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 134,
+    "source_url": "https://www.mymaldives.com/resort-guide/olhuveli-beach-spa-resort/",
+    "as_of": "2026-10-04"
+   }
+  ],
   "villas.categories": [
    {
     "value": {
-     "name": "Beach Pavilion + King/Twin",
-     "count": 50,
-     "size_sqm": null,
-     "max_occupancy": null,
-     "pool": null,
-     "overwater": null
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/SSO-Factsheet-EN-24_25.pdf",
-    "as_of": 2025
-   },
-   {
-    "value": {
-     "name": "Sunset Beach Pavilion + King/Twin",
-     "count": 50,
-     "size_sqm": null,
-     "max_occupancy": null,
-     "pool": null,
-     "overwater": null
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/SSO-Factsheet-EN-24_25.pdf",
-    "as_of": 2025
-   },
-   {
-    "value": {
-     "name": "Grand Beach Villa / + King",
+     "name": "Grand Beach Villa King",
      "count": 80,
      "size_sqm": null,
      "max_occupancy": null,
      "pool": null,
      "overwater": null
     },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/SSO-Factsheet-EN-24_25.pdf",
-    "as_of": 2025
+    "source_url": "https://www.sunsiyam.com/media/21sbkbn1/factsheet-olhuveli-2026-aug.pdf",
+    "as_of": 2026
    },
    {
     "value": {
-     "name": "Grand Beach Suite with Pool / + King",
-     "count": 101,
-     "size_sqm": null,
-     "max_occupancy": null,
-     "pool": true,
-     "overwater": null
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/SSO-Factsheet-EN-24_25.pdf",
-    "as_of": 2025
-   },
-   {
-    "value": {
-     "name": "Water Villa / + King",
+     "name": "Water Villa King",
      "count": 64,
      "size_sqm": null,
      "max_occupancy": null,
      "pool": null,
      "overwater": null
     },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/SSO-Factsheet-EN-24_25.pdf",
-    "as_of": 2025
+    "source_url": "https://www.sunsiyam.com/media/21sbkbn1/factsheet-olhuveli-2026-aug.pdf",
+    "as_of": 2026
    },
    {
     "value": {
-     "name": "Delu e Water Villa / + King",
+     "name": "Delu e Water Villa King",
      "count": 82,
      "size_sqm": null,
      "max_occupancy": null,
      "pool": null,
      "overwater": null
     },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/SSO-Factsheet-EN-24_25.pdf",
-    "as_of": 2025
+    "source_url": "https://www.sunsiyam.com/media/21sbkbn1/factsheet-olhuveli-2026-aug.pdf",
+    "as_of": 2026
    },
    {
     "value": {
-     "name": "Prestige Jacuzzi Water Villa / + King",
-     "count": 123,
-     "size_sqm": null,
-     "max_occupancy": null,
-     "pool": null,
-     "overwater": null
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/SSO-Factsheet-EN-24_25.pdf",
-    "as_of": 2025
-   },
-   {
-    "value": {
-     "name": "Bedroom Beach Suite / + King/King",
-     "count": 2,
-     "size_sqm": null,
-     "max_occupancy": null,
-     "pool": null,
-     "overwater": null
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/SSO-Factsheet-EN-24_25.pdf",
-    "as_of": 2025
-   },
-   {
-    "value": {
-     "name": "Presidential Water Suite / + King/Twin",
-     "count": 270,
-     "size_sqm": null,
-     "max_occupancy": null,
-     "pool": null,
-     "overwater": null
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/SSO-Factsheet-EN-24_25.pdf",
-    "as_of": 2025
-   },
-   {
-    "value": {
-     "name": "Grand Beach Suite with Pool / + King",
-     "count": 101,
-     "size_sqm": null,
-     "max_occupancy": null,
-     "pool": true,
-     "overwater": null
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/SSO-Factsheet-EN-24_25.pdf",
-    "as_of": 2025
-   },
-   {
-    "value": {
-     "name": "Grand Beach Villa with Pool / + King",
-     "count": 91,
-     "size_sqm": null,
-     "max_occupancy": null,
-     "pool": true,
-     "overwater": null
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/SSO-Factsheet-EN-24_25.pdf",
-    "as_of": 2025
-   },
-   {
-    "value": {
-     "name": "Grand Water Villa / + King",
+     "name": "Grand Water Villa King",
      "count": 100,
      "size_sqm": null,
      "max_occupancy": null,
      "pool": null,
      "overwater": null
     },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/SSO-Factsheet-EN-24_25.pdf",
-    "as_of": 2025
-   },
-   {
-    "value": {
-     "name": "Grand Water Villa with Pool / + King",
-     "count": 112,
-     "size_sqm": null,
-     "max_occupancy": null,
-     "pool": true,
-     "overwater": null
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/SSO-Factsheet-EN-24_25.pdf",
-    "as_of": 2025
-   },
-   {
-    "value": {
-     "name": "Two Bedroom Beach Residence / + King",
-     "count": 310,
-     "size_sqm": null,
-     "max_occupancy": null,
-     "pool": null,
-     "overwater": null
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/SSO-Factsheet-EN-24_25.pdf",
-    "as_of": 2025
-   },
-   {
-    "value": {
-     "name": "Namaste Lagoon Bar Two Bedroom Grand Water Villas",
-     "count": 8,
-     "size_sqm": null,
-     "max_occupancy": null,
-     "pool": null,
-     "overwater": true
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Olhuveli-Dream-Romance-Map-2025-A4-updated-March-2025-final.pdf",
-    "as_of": 2025
-   },
-   {
-    "value": {
-     "name": "Beach Residence",
-     "count": 552,
-     "size_sqm": null,
-     "max_occupancy": null,
-     "pool": null,
-     "overwater": null
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Olhuveli-Dream-Romance-Map-2025-A4-updated-March-2025-final.pdf",
-    "as_of": 2025
+    "source_url": "https://www.sunsiyam.com/media/21sbkbn1/factsheet-olhuveli-2026-aug.pdf",
+    "as_of": 2026
    },
    {
     "value": {
      "name": "Romantic Beach Villa",
-     "count": 41,
+     "count": 42,
      "size_sqm": null,
      "max_occupancy": null,
      "pool": null,
      "overwater": null
     },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Olhuveli-Dream-Romance-Map-2025-A4-updated-March-2025-final.pdf",
-    "as_of": 2025
+    "source_url": "https://www.sunsiyam.com/media/21sbkbn1/factsheet-olhuveli-2026-aug.pdf",
+    "as_of": 2026
    },
    {
     "value": {
@@ -747,8 +686,8 @@
      "pool": null,
      "overwater": null
     },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Olhuveli-Dream-Romance-Map-2025-A4-updated-March-2025-final.pdf",
-    "as_of": 2025
+    "source_url": "https://www.sunsiyam.com/media/21sbkbn1/factsheet-olhuveli-2026-aug.pdf",
+    "as_of": 2026
    },
    {
     "value": {
@@ -759,56 +698,56 @@
      "pool": null,
      "overwater": null
     },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Olhuveli-Dream-Romance-Map-2025-A4-updated-March-2025-final.pdf",
-    "as_of": 2025
+    "source_url": "https://www.sunsiyam.com/media/21sbkbn1/factsheet-olhuveli-2026-aug.pdf",
+    "as_of": 2026
    },
    {
     "value": {
      "name": "Grand Beach Suites",
-     "count": 45,
+     "count": 46,
      "size_sqm": null,
      "max_occupancy": null,
      "pool": null,
      "overwater": null
     },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Olhuveli-Dream-Romance-Map-2025-A4-updated-March-2025-final.pdf",
-    "as_of": 2025
+    "source_url": "https://www.sunsiyam.com/media/21sbkbn1/factsheet-olhuveli-2026-aug.pdf",
+    "as_of": 2026
    },
    {
     "value": {
-     "name": "Villas",
+     "name": "E Villas",
      "count": 338,
      "size_sqm": null,
      "max_occupancy": null,
      "pool": null,
      "overwater": null
     },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Olhuveli-Dream-Romance-Map-2025-A4-updated-March-2025-final.pdf",
-    "as_of": 2025
+    "source_url": "https://www.sunsiyam.com/media/21sbkbn1/factsheet-olhuveli-2026-aug.pdf",
+    "as_of": 2026
    },
    {
     "value": {
-     "name": "F J RESIDENCES ZONES",
+     "name": "F Romantic Water Villa with Pool",
      "count": 257,
-     "size_sqm": null,
-     "max_occupancy": null,
-     "pool": null,
-     "overwater": null
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Olhuveli-Dream-Romance-Map-2025-A4-updated-March-2025-final.pdf",
-    "as_of": 2025
-   },
-   {
-    "value": {
-     "name": "Two Bedroom Romantic Water Villa with Pool",
-     "count": 10,
      "size_sqm": null,
      "max_occupancy": null,
      "pool": true,
      "overwater": null
     },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Olhuveli-Dream-Romance-Map-2025-A4-updated-March-2025-final.pdf",
-    "as_of": 2025
+    "source_url": "https://www.sunsiyam.com/media/21sbkbn1/factsheet-olhuveli-2026-aug.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": {
+     "name": "N Romantic Beach Villa with Pool",
+     "count": 471,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": true,
+     "overwater": null
+    },
+    "source_url": "https://www.sunsiyam.com/media/21sbkbn1/factsheet-olhuveli-2026-aug.pdf",
+    "as_of": 2026
    },
    {
     "value": {
@@ -819,152 +758,116 @@
      "pool": null,
      "overwater": null
     },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Olhuveli-Dream-Romance-Map-2025-A4-updated-March-2025-final.pdf",
-    "as_of": 2025
+    "source_url": "https://www.sunsiyam.com/media/21sbkbn1/factsheet-olhuveli-2026-aug.pdf",
+    "as_of": 2026
    },
    {
     "value": {
-     "name": "Grand Beach N Romantic Beach Villa with Pool",
-     "count": 471,
-     "size_sqm": null,
-     "max_occupancy": null,
-     "pool": true,
-     "overwater": null
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Olhuveli-Dream-Romance-Map-2025-A4-updated-March-2025-final.pdf",
-    "as_of": 2025
-   },
-   {
-    "value": {
-     "name": "K Suites with Pool",
-     "count": 26,
-     "size_sqm": null,
-     "max_occupancy": null,
-     "pool": true,
-     "overwater": null
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Olhuveli-Dream-Romance-Map-2025-A4-updated-March-2025-final.pdf",
-    "as_of": 2025
-   },
-   {
-    "value": {
-     "name": "A Beach Pavilion - O Two Bedroom Beach Suite with Pool",
+     "name": "Grand Beach O Two Bedroom Beach Suite with Pool",
      "count": 444,
      "size_sqm": null,
      "max_occupancy": null,
      "pool": true,
      "overwater": null
     },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Olhuveli-Dream-Romance-Map-2025-A4-updated-March-2025-final.pdf",
-    "as_of": 2025
+    "source_url": "https://www.sunsiyam.com/media/21sbkbn1/factsheet-olhuveli-2026-aug.pdf",
+    "as_of": 2026
    },
    {
     "value": {
-     "name": "Sunset Beach Pavilion - /",
+     "name": "K Suites with Pool",
+     "count": 27,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": true,
+     "overwater": null
+    },
+    "source_url": "https://www.sunsiyam.com/media/21sbkbn1/factsheet-olhuveli-2026-aug.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": {
+     "name": "B Grand Beach Villas",
+     "count": 25,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://www.sunsiyam.com/media/21sbkbn1/factsheet-olhuveli-2026-aug.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": {
+     "name": "C Grand Beach Villas with Pool",
+     "count": 21,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": true,
+     "overwater": null
+    },
+    "source_url": "https://www.sunsiyam.com/media/21sbkbn1/factsheet-olhuveli-2026-aug.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": {
+     "name": "Villas",
+     "count": 8,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://www.sunsiyam.com/media/21sbkbn1/factsheet-olhuveli-2026-aug.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": {
+     "name": "D Grand Beach Suites with Pool - /",
+     "count": 22,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": true,
+     "overwater": null
+    },
+    "source_url": "https://www.sunsiyam.com/media/21sbkbn1/factsheet-olhuveli-2026-aug.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": {
+     "name": "E Water Villas - /",
+     "count": 122,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://www.sunsiyam.com/media/21sbkbn1/factsheet-olhuveli-2026-aug.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": {
+     "name": "G Grand Water Villas",
      "count": 24,
      "size_sqm": null,
      "max_occupancy": null,
      "pool": null,
      "overwater": null
     },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Olhuveli-Dream-Romance-Map-2025-A4-updated-March-2025-final.pdf",
-    "as_of": 2025
-   },
-   {
-    "value": {
-     "name": "Villas",
-     "count": 21,
-     "size_sqm": null,
-     "max_occupancy": null,
-     "pool": null,
-     "overwater": null
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Olhuveli-Dream-Romance-Map-2025-A4-updated-March-2025-final.pdf",
-    "as_of": 2025
-   },
-   {
-    "value": {
-     "name": "B Grand Beach Villas",
-     "count": 840,
-     "size_sqm": null,
-     "max_occupancy": null,
-     "pool": null,
-     "overwater": null
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Olhuveli-Dream-Romance-Map-2025-A4-updated-March-2025-final.pdf",
-    "as_of": 2025
-   },
-   {
-    "value": {
-     "name": "C Grand Beach Villas with Pool",
-     "count": 652,
-     "size_sqm": null,
-     "max_occupancy": null,
-     "pool": true,
-     "overwater": null
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Olhuveli-Dream-Romance-Map-2025-A4-updated-March-2025-final.pdf",
-    "as_of": 2025
-   },
-   {
-    "value": {
-     "name": "Sunset Beach Pavilion",
-     "count": 7,
-     "size_sqm": null,
-     "max_occupancy": null,
-     "pool": null,
-     "overwater": null
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Olhuveli-Dream-Romance-Map-2025-A4-updated-March-2025-final.pdf",
-    "as_of": 2025
-   },
-   {
-    "value": {
-     "name": "D Grand Beach Suites with Pool - / Grand Beach Suites - /",
-     "count": 256,
-     "size_sqm": null,
-     "max_occupancy": null,
-     "pool": true,
-     "overwater": null
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Olhuveli-Dream-Romance-Map-2025-A4-updated-March-2025-final.pdf",
-    "as_of": 2025
-   },
-   {
-    "value": {
-     "name": "E Water Villas - /",
-     "count": 1,
-     "size_sqm": null,
-     "max_occupancy": null,
-     "pool": null,
-     "overwater": null
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Olhuveli-Dream-Romance-Map-2025-A4-updated-March-2025-final.pdf",
-    "as_of": 2025
-   },
-   {
-    "value": {
-     "name": "G Grand Water Villas",
-     "count": 34,
-     "size_sqm": null,
-     "max_occupancy": null,
-     "pool": null,
-     "overwater": null
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Olhuveli-Dream-Romance-Map-2025-A4-updated-March-2025-final.pdf",
-    "as_of": 2025
+    "source_url": "https://www.sunsiyam.com/media/21sbkbn1/factsheet-olhuveli-2026-aug.pdf",
+    "as_of": 2026
    },
    {
     "value": {
      "name": "H Grand Water Villas with Pool",
-     "count": 728,
+     "count": 35,
      "size_sqm": null,
      "max_occupancy": null,
      "pool": true,
      "overwater": null
     },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Olhuveli-Dream-Romance-Map-2025-A4-updated-March-2025-final.pdf",
-    "as_of": 2025
+    "source_url": "https://www.sunsiyam.com/media/21sbkbn1/factsheet-olhuveli-2026-aug.pdf",
+    "as_of": 2026
    },
    {
     "value": {
@@ -975,156 +878,1536 @@
      "pool": null,
      "overwater": null
     },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Olhuveli-Dream-Romance-Map-2025-A4-updated-March-2025-final.pdf",
-    "as_of": 2025
+    "source_url": "https://www.sunsiyam.com/media/21sbkbn1/factsheet-olhuveli-2026-aug.pdf",
+    "as_of": 2026
    },
    {
     "value": {
-     "name": "Number of Villas",
-     "count": 225,
+     "name": "Anantara Kihavah Villas Baa Kihavah Huravalhi -Jul",
+     "count": 41,
      "size_sqm": null,
      "max_occupancy": null,
      "pool": null,
      "overwater": null
     },
-    "source_url": "https://www.neoscapesmaldives.com/resort/olhuveli-beach-spa-maldives/",
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Embudhu Village Kaafu Embudhu -Sep",
+     "count": 69,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Drift Thelu Veliga Retreat Theluveliga -Sep",
+     "count": 77,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "The Residence Maldives Falhumaafushi -Nov",
+     "count": 119,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Club Med Finolhu Villas Kaafu Gasfinolhu -Dec",
+     "count": 139,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Equator Village Seenu Gan -Sep",
+     "count": 3,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Azuvia Beach Retreat Hulhumale' Kaafu Hulhumale' -Dec",
+     "count": 4,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Vista Beach Retreat Kaafu Hulhumale' -Dec",
+     "count": 8,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Casa Retreat Kaafu Hulhumale' -Dec",
+     "count": 13,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Sunny Suites Inn Kaafu Hulhumale' -Dec",
+     "count": 18,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Hulhu Villa Beach Kaafu Hulhumale' -Dec",
+     "count": 21,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Awesome Suite Kaafu Hulhumale' -Jan",
+     "count": 34,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Sala Boutique Residence Kaafu Male' -Jan",
+     "count": 36,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Contento Retreat Kaafu Hulhumale' -Mar",
+     "count": 47,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Turquoise Residence Kaafu Hulhumale' -Mar",
+     "count": 48,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Manaam Residence Haa Alifu Hoarafushi -Sep",
+     "count": 2,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Holiday Home Kelaa Retreat Haa Alifu Kelaa -Dec",
+     "count": 3,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Vilu Veli Holiday Retreat Haa Dhaalu Hanimaadhoo -Jan",
+     "count": 14,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Himeyn Beach Retreat Haa Dhaalu Hanimaadhoo -Aug",
+     "count": 17,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Cerulean View Residence Haa Dhaalu Hanimaadhoo -Nov",
+     "count": 18,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Cliff Retreat Shaviyani Komandoo -Aug",
+     "count": 26,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Sabba Beach Suite Noonu Fodhdhoo -Oct",
+     "count": 27,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Ocean Village Maldives Noonu Holhudhoo -Aug",
+     "count": 28,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": true
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Palm Villa Noonu Velidhoo -Apr",
+     "count": 30,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Pandanus Villa Noonu Velidhoo -Aug",
+     "count": 32,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Manta Retreat Baa Dharavandhoo -Feb",
+     "count": 38,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Aveyla Manta Village Baa Dharavandhoo -Apr",
+     "count": 39,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Tropical Village Baa Fehendhoo -Dec",
+     "count": 46,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Coastline Residences Baa Finolhas -Nov",
+     "count": 48,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Palms Retreat Baa Fulhadhoo -Mar",
+     "count": 51,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Villa Kamadhoo Baa Kamadhoo -Nov",
+     "count": 60,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Sand Inn Residence Baa Kamadhoo -Dec",
+     "count": 62,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Moonshell Residence Baa Maalhos -Jan",
+     "count": 73,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Dhonkamana Beach Villa Baa Thulhaadhoo -Dec",
+     "count": 74,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Crown Beach Villas Kaafu Dhiffushi -Jan",
+     "count": 89,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Nirili Villa Kaafu Dhiffushi -Jan",
+     "count": 91,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Sea Side Villa Kaafu Dhiffushi -Apr",
+     "count": 94,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Kaani Villa Kaafu Dhiffushi -Jun",
+     "count": 96,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Dhiffushi Island Villa Kaafu Dhiffushi -Aug",
+     "count": 98,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Ocean Villa Kaafu Dhiffushi -Sep",
+     "count": 101,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": true
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Pearlshine Retreat Maldives Kaafu Gulhi -Dec",
+     "count": 113,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Beach Walk Villa Kaafu Gulhi -Jan",
+     "count": 120,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Iris Beach Residence Kaafu Guraidhoo -Nov",
+     "count": 128,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Rosy Villa Kaafu Guraidhoo -Dec",
+     "count": 131,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Natural Surf Villa Kaafu Himmafushi -Feb",
+     "count": 150,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Surf Yoga Retreat Kaafu Himmafushi -Aug",
+     "count": 155,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Sunshine Villa Kaafu Huraa -Feb",
+     "count": 170,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Summer Villa Guest House Kaafu Maafushi -Nov",
+     "count": 184,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Kurumba Villa Kaafu Maafushi -Dec",
+     "count": 191,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Crystal Sands Villa Kaafu Maafushi -Dec",
+     "count": 198,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Nala Island Village Kaafu Maafushi -Dec",
+     "count": 199,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Kaani Village Kaafu Maafushi -Feb",
+     "count": 201,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Handhuvaru Villa Kaafu Maafushi -Apr",
+     "count": 206,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Paradise Retreat Kaafu Maafushi -Jul",
+     "count": 210,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Holiday Village Retreat Alifu Alifu Bodufolhudhoo -Jan",
+     "count": 253,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Surf Retreat Alifu Alifu Bodufolhudhoo -Mar",
+     "count": 255,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Villa Rosa Alifu Alifu Feridhoo -Dec",
+     "count": 258,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "The Cast Away Retreat Alifu Alifu Feridhoo -Jan",
+     "count": 259,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Marina Bay Villa Himandhoo Alifu Alifu Himandhoo -Sep",
+     "count": 268,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Ari Villa Seaview Alifu Alifu Mathiveri -Oct",
+     "count": 273,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Palm Residence Alifu Alifu Rasdhoo -Dec",
+     "count": 288,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Rasvillage Alifu Alifu Rasdhoo -Aug",
+     "count": 295,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Lagoon Villa Thoddoo Alifu Alifu Thoddoo -Oct",
+     "count": 314,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": true
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Rela Residence Alifu Alifu Thoddoo -Nov",
+     "count": 316,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Coco Villa Alifu Alifu Thoddoo -Nov",
+     "count": 317,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Thoddoo Dive Villa Alifu Alifu Thoddoo -Nov",
+     "count": 320,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Karaa Village Alifu Alifu Thoddoo -Dec",
+     "count": 325,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Lunara Residence Alifu Alifu Thoddoo -Dec",
+     "count": 330,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Thoddoo Retreat Grand Alifu Alifu Thoddoo -Mar",
+     "count": 336,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Heavenly Residence Alifu Alifu Thoddoo -Feb",
+     "count": 350,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Ukulhas Villa Alifu Alifu Ukulhas -Oct",
+     "count": 354,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Nala Veli Villa Alifu Alifu Ukulhas -Nov",
+     "count": 356,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Trip Villa Alifu Alifu Ukulhas -Nov",
+     "count": 359,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Ukulhas Beach Villa Alifu Alifu Ukulhas -Dec",
+     "count": 364,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Salt Villa Ukulhas Alifu Alifu Ukulhas -Jan",
+     "count": 365,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Sea View Villa Alifu Alifu Ukulhas -Jan",
+     "count": 366,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Coral Villa Ukulhas Alifu Alifu Ukulhas -Jan",
+     "count": 368,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "La Palma Villa Alifu Alifu Ukulhas -Jan",
+     "count": 369,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Shaviyani Retreat Alifu Alifu Ukulhas -Jan",
+     "count": 370,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Paguro Villa Alifu Alifu Ukulhas -Mar",
+     "count": 373,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "New Moon Village Alifu Alifu Ukulhas -Aug",
+     "count": 375,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Banyan Villa Alifu Dhaalu Dhangethi -Dec",
+     "count": 379,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Dhangethi Retreat Alifu Dhaalu Dhangethi -Dec",
+     "count": 387,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "TME Retreats , Dhigurah Alifu Dhaalu Dhigurah -Dec",
+     "count": 399,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Atollkey Beachvilla Alifu Dhaalu Dhigurah -Mar",
+     "count": 402,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Vevu Villa Fenfushi Alifu Dhaalu Fenfushi -Jan",
+     "count": 407,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Noovilu Suites Alifu Dhaalu Mahibadhoo -Feb",
+     "count": 430,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Karanka Villas Alifu Dhaalu Mahibadhoo -Aug",
+     "count": 431,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Wow Retreat Vaavu Felidhoo -Mar",
+     "count": 452,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Kinan Retreat Vaavu Fulidhoo -Oct",
+     "count": 456,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Culture Villa Vaavu Thinadhoo -Apr",
+     "count": 480,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Venus Villa Vaavu Keyodhoo -Nov",
+     "count": 483,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Kandoofa Village Meemu Mulah -Feb",
+     "count": 499,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Mathige Retreat Faafu Magoodhoo -Aug",
+     "count": 502,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Villa Stella Dhaalu Rinbudhoo -Dec",
+     "count": 513,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Villa Buruni Maldives Thaa Buruni -Feb",
+     "count": 514,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Bambukeyo Villa Thaa Gaadhiffushi -Aug",
+     "count": 515,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Finimas Residence Thaa Thimarafushi -Dec",
+     "count": 516,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Reveries Diving Village Laamu Gan -Dec",
+     "count": 519,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Nazaki Residences Laamu Gan -Dec",
+     "count": 520,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Village Life Gaafu Alifu Maamendhoo -Aug",
+     "count": 525,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Vaaruge Residence Gaafu Dhaalu Hoadedhdhoo -Aug",
+     "count": 530,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Ala Fehi Retreat Gnaviyani Fuvahmulah -Dec",
+     "count": 540,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Zero Degree Residence Gnaviyani Fuvahmulah -Dec",
+     "count": 541,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Tiger Shark Residence Gnaviyani Fuvahmulah -Feb",
+     "count": 544,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Millenium Island Residence Gnaviyani Fuvahmulah -Mar",
+     "count": 546,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Veyli Residence Gnaviyani Fuvahmulah -Mar",
+     "count": 548,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Scuba Residence Gnaviyani Fuvahmulah -Mar",
+     "count": 549,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Suffi Retreat Gnaviyani Fuvahmulah -Jan",
+     "count": 552,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Vista Villa Seenu Hithadhoo -Sep",
+     "count": 560,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Turquoise Residence Kaafu Hulhumale' -Jul",
+     "count": 7,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "residence",
+     "count": 310,
+     "size_sqm": 310,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://www.sunsiyam.com/sun-siyam-olhuveli/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "residence",
+     "count": 310,
+     "size_sqm": 310,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://www.sunsiyam.com/sun-siyam-olhuveli/accommodation/",
     "as_of": "2026-10-04"
    }
   ],
   "dining": [
    {
     "value": {
-     "name": "Sunrise Bar 24/7 Pool bar 50 Beach Front",
+     "name": "Lagoon Bar Dhoni Bar Sunrise Bar Malaafaiy",
      "cuisine": null,
      "type": "bar"
     },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/SSO-Factsheet-EN-24_25.pdf",
-    "as_of": 2025
+    "source_url": "https://www.sunsiyam.com/media/21sbkbn1/factsheet-olhuveli-2026-aug.pdf",
+    "as_of": 2026
    },
    {
     "value": {
-     "name": "Dhoni Bar Adults only infinity pool bar 40 Beach Front",
+     "name": "Romance Bar Teppanyaki Culinarium The Bite",
      "cuisine": null,
      "type": "bar"
     },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/SSO-Factsheet-EN-24_25.pdf",
-    "as_of": 2025
+    "source_url": "https://www.sunsiyam.com/media/21sbkbn1/factsheet-olhuveli-2026-aug.pdf",
+    "as_of": 2026
    },
    {
     "value": {
-     "name": "Crust & Flame Pizzeria on the beach 30 Beach Front",
+     "name": "Location: Maghrib Grill Beach",
      "cuisine": null,
      "type": "restaurant"
     },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/SSO-Factsheet-EN-24_25.pdf",
-    "as_of": 2025
+    "source_url": "https://www.sunsiyam.com/media/ijlfprg1/oktoberfest-sun-siyam-olhuveli-sep-2026.pdf",
+    "as_of": 2026
    },
    {
     "value": {
-     "name": "Dream Bar Infinity pool bar 60 09.00 - 00.00 Beach Front",
+     "name": "Location: Lagoon Bar",
      "cuisine": null,
      "type": "bar"
     },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/SSO-Factsheet-EN-24_25.pdf",
-    "as_of": 2025
+    "source_url": "https://www.sunsiyam.com/media/ijlfprg1/oktoberfest-sun-siyam-olhuveli-sep-2026.pdf",
+    "as_of": 2026
    },
    {
     "value": {
-     "name": "The Olive Family Pool Bar 120 08.00 - 00.00 Beach Front",
+     "name": "Location: Lagoon Bar",
      "cuisine": null,
      "type": "bar"
     },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/SSO-Factsheet-EN-24_25.pdf",
-    "as_of": 2025
+    "source_url": "https://www.sunsiyam.com/media/ijlfprg1/oktoberfest-sun-siyam-olhuveli-sep-2026.pdf",
+    "as_of": 2026
    },
    {
     "value": {
-     "name": "07 Sunset Restaurant 15 Crust & Flame Romantic Water Villa",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Olhuveli-Dream-Romance-Map-2025-A4-updated-March-2025-final.pdf",
-    "as_of": 2025
-   },
-   {
-    "value": {
-     "name": "08 Namaste 16 Lagoon Bar Two Bedroom Grand Water Villas",
+     "name": "Location: Lagoon Bar",
      "cuisine": null,
      "type": "bar"
     },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Olhuveli-Dream-Romance-Map-2025-A4-updated-March-2025-final.pdf",
-    "as_of": 2025
+    "source_url": "https://www.sunsiyam.com/media/ijlfprg1/oktoberfest-sun-siyam-olhuveli-sep-2026.pdf",
+    "as_of": 2026
    },
    {
     "value": {
-     "name": "37 The Restaurant",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Olhuveli-Dream-Romance-Map-2025-A4-updated-March-2025-final.pdf",
-    "as_of": 2025
-   },
-   {
-    "value": {
-     "name": "39 Teppanyaki Restaurant",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Olhuveli-Dream-Romance-Map-2025-A4-updated-March-2025-final.pdf",
-    "as_of": 2025
-   },
-   {
-    "value": {
-     "name": "11 Malaafaiy Restaurant 19 Dream Bar",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Olhuveli-Dream-Romance-Map-2025-A4-updated-March-2025-final.pdf",
-    "as_of": 2025
-   },
-   {
-    "value": {
-     "name": "13 Maghrib Grill 21 Sunken Bar 26 11",
+     "name": "Location: Lagoon Bar",
      "cuisine": null,
      "type": "bar"
     },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Olhuveli-Dream-Romance-Map-2025-A4-updated-March-2025-final.pdf",
-    "as_of": 2025
+    "source_url": "https://www.sunsiyam.com/media/ijlfprg1/oktoberfest-sun-siyam-olhuveli-sep-2026.pdf",
+    "as_of": 2026
    },
    {
     "value": {
-     "name": "44 42 The Bar",
+     "name": "Dhoni Bar",
      "cuisine": null,
      "type": "bar"
     },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Olhuveli-Dream-Romance-Map-2025-A4-updated-March-2025-final.pdf",
-    "as_of": 2025
-   },
-   {
-    "value": {
-     "name": "N 44 Romance Bar",
-     "cuisine": null,
-     "type": "bar"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Olhuveli-Dream-Romance-Map-2025-A4-updated-March-2025-final.pdf",
-    "as_of": 2025
-   },
-   {
-    "value": {
-     "name": "Dining",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/olhuveli-beach-spa-maldives/",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-olhuveli/restaurants-bars/",
     "as_of": "2026-10-04"
    },
    {
     "value": {
-     "name": "Dining",
+     "name": "Dream Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.sunsiyam.com/sun-siyam-olhuveli/restaurants-bars/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Lagoon Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.sunsiyam.com/sun-siyam-olhuveli/restaurants-bars/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Maghrib Grill",
      "cuisine": null,
      "type": "restaurant"
     },
-    "source_url": "https://www.neoscapesmaldives.com/resort/olhuveli-beach-spa-maldives/",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-olhuveli/restaurants-bars/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Olive Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.sunsiyam.com/sun-siyam-olhuveli/restaurants-bars/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Romance Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.sunsiyam.com/sun-siyam-olhuveli/restaurants-bars/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Sunrise Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.sunsiyam.com/sun-siyam-olhuveli/restaurants-bars/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Sunset Restaurant",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.sunsiyam.com/sun-siyam-olhuveli/restaurants-bars/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Teppanyaki",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.sunsiyam.com/sun-siyam-olhuveli/restaurants-bars/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "The artistry of Teppanyaki",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.sunsiyam.com/sun-siyam-olhuveli/restaurants-bars/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "The Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.sunsiyam.com/sun-siyam-olhuveli/restaurants-bars/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "The Restaurant",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.sunsiyam.com/sun-siyam-olhuveli/restaurants-bars/",
     "as_of": "2026-10-04"
    },
    {
@@ -1192,15 +2475,6 @@
    },
    {
     "value": {
-     "name": "Destination Dining",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/olhuveli-beach-spa-maldives/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
      "name": "Maghrib Grill – Surf & Turf",
      "cuisine": null,
      "type": "restaurant"
@@ -1236,11 +2510,78 @@
     "as_of": "2026-10-04"
    }
   ],
+  "spa.name": [
+   {
+    "value": "Beach Suite BLUE Spa",
+    "source_url": "https://www.sunsiyam.com/media/21sbkbn1/factsheet-olhuveli-2026-aug.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.sunsiyam.com/media/qiflblcy/sso-ai-meal-plan-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-olhuveli/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-olhuveli/offers/oktoberfest-offer/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-olhuveli/weddings-celebrations/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.sunsiyam.com/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "WELLNESS\nThe Spa",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-pasikudah/spa-wellness/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "BENESSERE\nSpa",
+    "source_url": "https://www.sunsiyam.com/it/sun-siyam-iru-veli/spa-wellness/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Dream Spa",
+    "source_url": "https://www.neoscapesmaldives.com/resort/olhuveli-beach-spa-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.mymaldives.com/resort-guide/olhuveli-beach-spa-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Club\nGym\nRestaurant\nSpa",
+    "source_url": "https://www.dnatatravel.com/2-1490933-1/sun-siyam-olhuveli-maldives?oc=true",
+    "as_of": "2026-10-04"
+   }
+  ],
   "spa.treatment_rooms": [
    {
-    "value": 16,
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/SSO-Factsheet-EN-24_25.pdf",
-    "as_of": 2025
+    "value": 22,
+    "source_url": "https://www.sunsiyam.com/media/21sbkbn1/factsheet-olhuveli-2026-aug.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": 22,
+    "source_url": "https://www.sunsiyam.com/media/gkhhf31k/ssr-mice-digital-book-2026.pdf",
+    "as_of": 2026
    },
    {
     "value": 16,
@@ -1251,20 +2592,35 @@
   "diving_watersports.operator": [
    {
     "value": "Dive Centre",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/SSO-Factsheet-EN-24_25.pdf",
-    "as_of": 2025
+    "source_url": "https://www.sunsiyam.com/media/21sbkbn1/factsheet-olhuveli-2026-aug.pdf",
+    "as_of": 2026
    },
    {
-    "value": "Dive Centre",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Olhuveli-Dream-Romance-Map-2025-A4-updated-March-2025-final.pdf",
-    "as_of": 2025
+    "value": "Fun Azul",
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
    }
   ],
   "diving_watersports.house_reef": [
    {
-    "value": "House Reef",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/SSO-Factsheet-EN-24_25.pdf",
-    "as_of": 2025
+    "value": "house reef and",
+    "source_url": "https://www.sunsiyam.com/media/21sbkbn1/factsheet-olhuveli-2026-aug.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "house reef",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-olhuveli/leisure-activities/diving/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-olhuveli/facilities/diving/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef",
+    "source_url": "https://www.sunsiyam.com/",
+    "as_of": "2026-10-05"
    },
    {
     "value": "house reef or vast lagoon ideal for water sports",
@@ -1274,34 +2630,349 @@
   ],
   "diving_watersports.activities": [
    {
-    "value": "snorkelling",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/SSO-Factsheet-EN-24_25.pdf",
-    "as_of": 2025
+    "value": "windsurfing",
+    "source_url": "https://www.sunsiyam.com/media/21sbkbn1/factsheet-olhuveli-2026-aug.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "kitesurfing",
+    "source_url": "https://www.sunsiyam.com/media/21sbkbn1/factsheet-olhuveli-2026-aug.pdf",
+    "as_of": 2026
    },
    {
     "value": "fishing",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/SSO-Factsheet-EN-24_25.pdf",
-    "as_of": 2025
+    "source_url": "https://www.sunsiyam.com/media/21sbkbn1/factsheet-olhuveli-2026-aug.pdf",
+    "as_of": 2026
    },
    {
     "value": "whale shark",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/SSO-Factsheet-EN-24_25.pdf",
-    "as_of": 2025
+    "source_url": "https://www.sunsiyam.com/media/21sbkbn1/factsheet-olhuveli-2026-aug.pdf",
+    "as_of": 2026
    },
    {
     "value": "manta",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/SSO-Factsheet-EN-24_25.pdf",
+    "source_url": "https://www.sunsiyam.com/media/21sbkbn1/factsheet-olhuveli-2026-aug.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.sunsiyam.com/media/g0lnezdr/wedding-package-ssom-2024-2025-direct.pdf",
     "as_of": 2025
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.sunsiyam.com/media/gkhhf31k/ssr-mice-digital-book-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "dolphin cruise",
+    "source_url": "https://www.sunsiyam.com/media/gkhhf31k/ssr-mice-digital-book-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "surfing",
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": "manta",
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": "sailing",
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
    },
    {
     "value": "fishing",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Olhuveli-Dream-Romance-Map-2025-A4-updated-March-2025-final.pdf",
-    "as_of": 2025
+    "source_url": "https://letsgomaldives.com/wp-content/uploads/2026/08/Sun-Siyam-Olhuveli.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://letsgomaldives.com/wp-content/uploads/2026/08/Sun-Siyam-Olhuveli.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.sunsiyam.com/media/qiflblcy/sso-ai-meal-plan-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.sunsiyam.com/media/qiflblcy/sso-ai-meal-plan-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-olhuveli/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-olhuveli/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-olhuveli/",
+    "as_of": "2026-10-04"
    },
    {
     "value": "manta",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Olhuveli-Dream-Romance-Map-2025-A4-updated-March-2025-final.pdf",
-    "as_of": 2025
+    "source_url": "https://www.sunsiyam.com/sun-siyam-olhuveli/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "jet ski",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-olhuveli/leisure-activities/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "windsurfing",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-olhuveli/leisure-activities/watersports/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "kayaking",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-olhuveli/leisure-activities/watersports/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "jet ski",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-olhuveli/leisure-activities/watersports/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sailing",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-olhuveli/leisure-activities/watersports/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "canoe",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-olhuveli/leisure-activities/watersports/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "jet ski",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-olhuveli/offers/oktoberfest-offer/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-olhuveli/offers/oktoberfest-offer/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-olhuveli/leisure-activities/diving/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-olhuveli/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "jet ski",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-olhuveli/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-olhuveli/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-olhuveli/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-olhuveli/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-olhuveli/leisure-activities/excursions/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-olhuveli/offers/festive-offer/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-olhuveli/weddings-celebrations/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-olhuveli/facilities/excursions/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-olhuveli/experiences/jet-car/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-olhuveli/experiences/jet-car/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "jet ski",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-olhuveli/offers/romance-offer/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "windsurfing",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-olhuveli/facilities/watersports/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "kayaking",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-olhuveli/facilities/watersports/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "jet ski",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-olhuveli/facilities/watersports/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sailing",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-olhuveli/facilities/watersports/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "canoe",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-olhuveli/facilities/watersports/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-olhuveli/facilities/diving/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "jet ski",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-olhuveli/offers/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-olhuveli/offers/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "kayaking",
+    "source_url": "https://www.sunsiyam.com/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "dolphin cruise",
+    "source_url": "https://www.sunsiyam.com/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.sunsiyam.com/it/sun-siyam-olhuveli/experiences/aperitivi-segreti-al-tramonto/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-iru-fushi/offers/kids-stay-free-offer/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-iru-fushi/offers/kids-stay-free-offer/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "windsurfing",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-iru-fushi/offers/kids-stay-free-offer/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "catamaran",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-iru-fushi/offers/kids-stay-free-offer/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sailing",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-iru-fushi/offers/kids-stay-free-offer/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.sunsiyam.com/it/sun-siyam-iru-fushi/experiences/aperitivi-segreti-al-tramonto/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.sunsiyam.com/it/sun-siyam-olhuveli/experiences/pesca-tradizionale/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.sunsiyam.com/facilities/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "windsurfing",
+    "source_url": "https://www.sunsiyam.com/facilities/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "kayaking",
+    "source_url": "https://www.sunsiyam.com/facilities/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "stand-up paddle",
+    "source_url": "https://www.sunsiyam.com/facilities/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "paddleboard",
+    "source_url": "https://www.sunsiyam.com/facilities/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "jet ski",
+    "source_url": "https://www.sunsiyam.com/facilities/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.sunsiyam.com/facilities/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "dolphin cruise",
+    "source_url": "https://www.sunsiyam.com/facilities/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sailing",
+    "source_url": "https://www.sunsiyam.com/facilities/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "jet ski",
+    "source_url": "https://www.sunsiyam.com/siyam-world/leisure-activities/watersports/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.sunsiyam.com/fr/sun-siyam-iru-fushi/experiences/la-lune-de-miel-ultime/",
+    "as_of": "2026-10-05"
    },
    {
     "value": "snorkeling",
@@ -1357,53 +3028,273 @@
     "value": "sailing",
     "source_url": "https://www.neoscapesmaldives.com/resort/olhuveli-beach-spa-maldives/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://www.mymaldives.com/resort-guide/olhuveli-beach-spa-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "windsurfing",
+    "source_url": "https://www.mymaldives.com/resort-guide/olhuveli-beach-spa-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "catamaran",
+    "source_url": "https://www.mymaldives.com/resort-guide/olhuveli-beach-spa-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "parasailing",
+    "source_url": "https://www.mymaldives.com/resort-guide/olhuveli-beach-spa-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "water skiing",
+    "source_url": "https://www.mymaldives.com/resort-guide/olhuveli-beach-spa-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.mymaldives.com/resort-guide/olhuveli-beach-spa-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sailing",
+    "source_url": "https://www.mymaldives.com/resort-guide/olhuveli-beach-spa-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "canoe",
+    "source_url": "https://www.mymaldives.com/resort-guide/olhuveli-beach-spa-resort/",
+    "as_of": "2026-10-04"
    }
   ],
   "excursions": [
    {
-    "value": "local island",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/SSO-Factsheet-EN-24_25.pdf",
-    "as_of": 2025
+    "value": "whale shark",
+    "source_url": "https://www.sunsiyam.com/media/21sbkbn1/factsheet-olhuveli-2026-aug.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.sunsiyam.com/media/21sbkbn1/factsheet-olhuveli-2026-aug.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "cinema",
+    "source_url": "https://www.sunsiyam.com/media/21sbkbn1/factsheet-olhuveli-2026-aug.pdf",
+    "as_of": 2026
    },
    {
     "value": "sandbank",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/SSO-Factsheet-EN-24_25.pdf",
-    "as_of": 2025
+    "source_url": "https://www.sunsiyam.com/media/gkhhf31k/ssr-mice-digital-book-2026.pdf",
+    "as_of": 2026
    },
    {
     "value": "dolphin",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/SSO-Factsheet-EN-24_25.pdf",
-    "as_of": 2025
+    "source_url": "https://www.sunsiyam.com/media/gkhhf31k/ssr-mice-digital-book-2026.pdf",
+    "as_of": 2026
    },
    {
-    "value": "sunset fishing",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/SSO-Factsheet-EN-24_25.pdf",
-    "as_of": 2025
+    "value": "cinema",
+    "source_url": "https://www.sunsiyam.com/media/gkhhf31k/ssr-mice-digital-book-2026.pdf",
+    "as_of": 2026
    },
    {
-    "value": "whale shark",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/SSO-Factsheet-EN-24_25.pdf",
-    "as_of": 2025
+    "value": "local island",
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
    },
    {
     "value": "manta",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/SSO-Factsheet-EN-24_25.pdf",
-    "as_of": 2025
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
    },
    {
     "value": "turtle",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/SSO-Factsheet-EN-24_25.pdf",
-    "as_of": 2025
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
    },
    {
-    "value": "stargazing",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/SSO-Factsheet-EN-24_25.pdf",
-    "as_of": 2025
+    "value": "cinema",
+    "source_url": "https://letsgomaldives.com/wp-content/uploads/2026/08/Sun-Siyam-Olhuveli.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "local island",
+    "source_url": "https://www.sunsiyam.com/media/qiflblcy/sso-ai-meal-plan-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "local island",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-olhuveli/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-olhuveli/",
+    "as_of": "2026-10-04"
    },
    {
     "value": "manta",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Olhuveli-Dream-Romance-Map-2025-A4-updated-March-2025-final.pdf",
-    "as_of": 2025
+    "source_url": "https://www.sunsiyam.com/sun-siyam-olhuveli/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "cinema",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-olhuveli/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "local island",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-olhuveli/leisure-activities/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-olhuveli/leisure-activities/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-olhuveli/leisure-activities/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-olhuveli/leisure-activities/diving/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-olhuveli/leisure-activities/diving/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "local island",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-olhuveli/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-olhuveli/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-olhuveli/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-olhuveli/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "cinema",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-olhuveli/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "local island",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-olhuveli/leisure-activities/excursions/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "local island",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-olhuveli/facilities/excursions/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "local island",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-olhuveli/experiences/jet-car/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "cinema",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-olhuveli/experiences/jet-car/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-olhuveli/facilities/diving/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-olhuveli/facilities/diving/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.sunsiyam.com/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "cinema",
+    "source_url": "https://www.sunsiyam.com/it/sun-siyam-olhuveli/experiences/aperitivi-segreti-al-tramonto/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "cinema",
+    "source_url": "https://www.sunsiyam.com/it/sun-siyam-iru-fushi/experiences/aperitivi-segreti-al-tramonto/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "cinema",
+    "source_url": "https://www.sunsiyam.com/it/sun-siyam-olhuveli/experiences/pesca-tradizionale/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "cinema",
+    "source_url": "https://www.sunsiyam.com/it/sun-siyam-vilu-reef/experiences/pesca-tradizionale/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-iru-veli/experiences/cinema-by-moonlight/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "cinema",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-iru-veli/experiences/cinema-by-moonlight/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "local island",
+    "source_url": "https://www.sunsiyam.com/facilities/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.sunsiyam.com/facilities/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sunset fishing",
+    "source_url": "https://www.sunsiyam.com/facilities/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.sunsiyam.com/facilities/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "stargazing",
+    "source_url": "https://www.sunsiyam.com/facilities/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "cinema",
+    "source_url": "https://www.sunsiyam.com/es/siyam-world/experiences/",
+    "as_of": "2026-10-05"
    },
    {
     "value": "island hopping",
@@ -1439,60 +3330,155 @@
     "value": "stargazing",
     "source_url": "https://www.neoscapesmaldives.com/resort/olhuveli-beach-spa-maldives/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "big game fishing",
+    "source_url": "https://www.mymaldives.com/resort-guide/olhuveli-beach-spa-resort/",
+    "as_of": "2026-10-04"
    }
   ],
   "kids_family.kids_club": [
    {
     "value": "Kids Club",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/SSO-Factsheet-EN-24_25.pdf",
-    "as_of": 2025
+    "source_url": "https://www.sunsiyam.com/media/21sbkbn1/factsheet-olhuveli-2026-aug.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "Kids Club",
+    "source_url": "https://www.sunsiyam.com/media/qiflblcy/sso-ai-meal-plan-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "Kids Club",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-iru-fushi/offers/kids-stay-free-offer/",
+    "as_of": "2026-10-05"
    },
    {
     "value": "Kids Club",
     "source_url": "https://www.neoscapesmaldives.com/resort/olhuveli-beach-spa-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Air Conditioning\nBar\nChildren's Club",
+    "source_url": "https://www.dnatatravel.com/2-1490933-1/sun-siyam-olhuveli-maldives?oc=true",
     "as_of": "2026-10-04"
    }
   ],
   "wellness_fitness": [
    {
     "value": "gym",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/SSO-Factsheet-EN-24_25.pdf",
-    "as_of": 2025
+    "source_url": "https://www.sunsiyam.com/media/21sbkbn1/factsheet-olhuveli-2026-aug.pdf",
+    "as_of": 2026
    },
    {
     "value": "tennis",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/SSO-Factsheet-EN-24_25.pdf",
-    "as_of": 2025
+    "source_url": "https://www.sunsiyam.com/media/21sbkbn1/factsheet-olhuveli-2026-aug.pdf",
+    "as_of": 2026
    },
    {
     "value": "badminton",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/SSO-Factsheet-EN-24_25.pdf",
-    "as_of": 2025
+    "source_url": "https://www.sunsiyam.com/media/21sbkbn1/factsheet-olhuveli-2026-aug.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.sunsiyam.com/media/gkhhf31k/ssr-mice-digital-book-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "meditation",
+    "source_url": "https://www.sunsiyam.com/media/gkhhf31k/ssr-mice-digital-book-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": "beach volleyball",
+    "source_url": "https://www.sunsiyam.com/media/ijlfprg1/oktoberfest-sun-siyam-olhuveli-sep-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "fitness center",
+    "source_url": "https://www.sunsiyam.com/media/qiflblcy/sso-ai-meal-plan-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://www.sunsiyam.com/media/qiflblcy/sso-ai-meal-plan-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "ayurveda",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-pasikudah/spa-wellness/",
+    "as_of": "2026-10-05"
    },
    {
     "value": "sauna",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/SSO-Factsheet-EN-24_25.pdf",
-    "as_of": 2025
+    "source_url": "https://www.sunsiyam.com/sun-siyam-pasikudah/spa-wellness/",
+    "as_of": "2026-10-05"
    },
    {
     "value": "steam",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/SSO-Factsheet-EN-24_25.pdf",
-    "as_of": 2025
+    "source_url": "https://www.sunsiyam.com/sun-siyam-pasikudah/spa-wellness/",
+    "as_of": "2026-10-05"
    },
    {
-    "value": "gym",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Olhuveli-Dream-Romance-Map-2025-A4-updated-March-2025-final.pdf",
-    "as_of": 2025
+    "value": "fitness centre",
+    "source_url": "https://www.sunsiyam.com/facilities/",
+    "as_of": "2026-10-05"
    },
    {
     "value": "tennis",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Olhuveli-Dream-Romance-Map-2025-A4-updated-March-2025-final.pdf",
-    "as_of": 2025
+    "source_url": "https://www.sunsiyam.com/facilities/",
+    "as_of": "2026-10-05"
    },
    {
-    "value": "badminton",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Olhuveli-Dream-Romance-Map-2025-A4-updated-March-2025-final.pdf",
-    "as_of": 2025
+    "value": "yoga",
+    "source_url": "https://www.sunsiyam.com/it/siyam-world/experiences/feste-in-piscina/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://www.sunsiyam.com/it/siyam-world/experiences/feste-in-piscina/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "padel",
+    "source_url": "https://www.sunsiyam.com/it/siyam-world/experiences/feste-in-piscina/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.sunsiyam.com/es/siyam-world/experiences/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.sunsiyam.com/it/sun-siyam-iru-veli/spa-wellness/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "pilates",
+    "source_url": "https://www.sunsiyam.com/it/sun-siyam-iru-veli/spa-wellness/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.sunsiyam.com/siyam-world/experiences/siyam-water-world/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://www.sunsiyam.com/siyam-world/experiences/siyam-water-world/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "padel",
+    "source_url": "https://www.sunsiyam.com/siyam-world/experiences/siyam-water-world/",
+    "as_of": "2026-10-05"
    },
    {
     "value": "gym",
@@ -1507,14 +3493,116 @@
    {
     "value": "badminton",
     "source_url": "https://www.neoscapesmaldives.com/resort/olhuveli-beach-spa-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://www.mymaldives.com/resort-guide/olhuveli-beach-spa-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "badminton",
+    "source_url": "https://www.mymaldives.com/resort-guide/olhuveli-beach-spa-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sauna",
+    "source_url": "https://www.mymaldives.com/resort-guide/olhuveli-beach-spa-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "gym",
+    "source_url": "https://www.dnatatravel.com/2-1490933-1/sun-siyam-olhuveli-maldives?oc=true",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "weddings.offered": [
+   {
+    "value": true,
+    "source_url": "https://www.sunsiyam.com/media/21sbkbn1/factsheet-olhuveli-2026-aug.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": true,
+    "source_url": "https://www.sunsiyam.com/media/g0lnezdr/wedding-package-ssom-2024-2025-direct.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": true,
+    "source_url": "https://www.sunsiyam.com/media/gkhhf31k/ssr-mice-digital-book-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": true,
+    "source_url": "https://www.sunsiyam.com/sun-siyam-olhuveli/accommodation/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.sunsiyam.com/sun-siyam-olhuveli/offers/honeymoon-offer/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.sunsiyam.com/sun-siyam-olhuveli/weddings-celebrations/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.sunsiyam.com/sun-siyam-olhuveli/weddings-celebrations/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.sunsiyam.com/sun-siyam-olhuveli/offers/romance-offer/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.sunsiyam.com/es/sun-siyam-iru-veli/weddings-celebrations/honeymoons/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.sunsiyam.com/es/sun-siyam-iru-veli/weddings-celebrations/honeymoons/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.sunsiyam.com/es/weddings-celebrations/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.neoscapesmaldives.com/resort/olhuveli-beach-spa-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.dnatatravel.com/2-1490933-1/sun-siyam-olhuveli-maldives?oc=true",
     "as_of": "2026-10-04"
    }
   ],
   "contacts_public.reservations_email": [
    {
     "value": "info.olhuveli@sunsiyam.com",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/SSO-Factsheet-EN-24_25.pdf",
+    "source_url": "https://www.sunsiyam.com/media/21sbkbn1/factsheet-olhuveli-2026-aug.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "info.olhuveli@sunsiyam.com",
+    "source_url": "https://www.sunsiyam.com/media/g0lnezdr/wedding-package-ssom-2024-2025-direct.pdf",
     "as_of": 2025
+   },
+   {
+    "value": "info@tourism.gov.mv",
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": "info.olhuveli@sunsiyam.com",
+    "source_url": "https://www.sunsiyam.com/media/etufj3oc/sun-siyam-olhuveli-diwali.pdf",
+    "as_of": 2024
    },
    {
     "value": "info@neoscapesmaldives.com",
@@ -1525,8 +3613,18 @@
   "contacts_public.phone": [
    {
     "value": "+960 664 2788",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/SSO-Factsheet-EN-24_25.pdf",
+    "source_url": "https://www.sunsiyam.com/media/21sbkbn1/factsheet-olhuveli-2026-aug.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "+960 664 2788",
+    "source_url": "https://www.sunsiyam.com/media/g0lnezdr/wedding-package-ssom-2024-2025-direct.pdf",
     "as_of": 2025
+   },
+   {
+    "value": "+960 664 0288",
+    "source_url": "https://www.sunsiyam.com/media/etufj3oc/sun-siyam-olhuveli-diwali.pdf",
+    "as_of": 2024
    },
    {
     "value": "+960 736 5425",
@@ -1534,22 +3632,126 @@
     "as_of": "2026-10-04"
    }
   ],
-  "villas.total": [
+  "weddings.packages": [
    {
-    "value": 49,
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Olhuveli-Dream-Romance-Map-2025-A4-updated-March-2025-final.pdf",
-    "as_of": 2025
-   }
-  ],
-  "spa.name": [
-   {
-    "value": "Beach Suite BLUE Spa",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Olhuveli-Dream-Romance-Map-2025-A4-updated-March-2025-final.pdf",
+    "value": {
+     "name": "Bridal Package",
+     "price": "192",
+     "currency": "USD",
+     "as_of": 2025
+    },
+    "source_url": "https://www.sunsiyam.com/media/g0lnezdr/wedding-package-ssom-2024-2025-direct.pdf",
     "as_of": 2025
    },
    {
-    "value": "Dream Spa",
-    "source_url": "https://www.neoscapesmaldives.com/resort/olhuveli-beach-spa-maldives/",
+    "value": {
+     "name": "Wedding",
+     "price": "700",
+     "currency": "USD",
+     "as_of": 2025
+    },
+    "source_url": "https://www.sunsiyam.com/media/g0lnezdr/wedding-package-ssom-2024-2025-direct.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": {
+     "name": "Wedding",
+     "price": "384",
+     "currency": "USD",
+     "as_of": 2025
+    },
+    "source_url": "https://www.sunsiyam.com/media/g0lnezdr/wedding-package-ssom-2024-2025-direct.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": {
+     "name": "Wedding",
+     "price": "1489",
+     "currency": "USD",
+     "as_of": 2025
+    },
+    "source_url": "https://www.sunsiyam.com/media/g0lnezdr/wedding-package-ssom-2024-2025-direct.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": {
+     "name": "Wedding",
+     "price": "3000",
+     "currency": "USD",
+     "as_of": 2025
+    },
+    "source_url": "https://www.sunsiyam.com/media/g0lnezdr/wedding-package-ssom-2024-2025-direct.pdf",
+    "as_of": 2025
+   }
+  ],
+  "star_rating": [
+   {
+    "value": "5-star",
+    "source_url": "https://www.sunsiyam.com/media/gkhhf31k/ssr-mice-digital-book-2026.pdf",
+    "as_of": 2026
+   }
+  ],
+  "all_inclusive_details": [
+   {
+    "value": "All-Inclusive Dine Around across 2 restaurants and 2 bars.",
+    "source_url": "https://www.sunsiyam.com/media/gkhhf31k/ssr-mice-digital-book-2026.pdf",
+    "as_of": 2026
+   }
+  ],
+  "kids_family.teens": [
+   {
+    "value": "teens programme mentioned",
+    "source_url": "https://www.sunsiyam.com/media/gkhhf31k/ssr-mice-digital-book-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "teens programme mentioned",
+    "source_url": "https://www.sunsiyam.com/it/sun-siyam-iru-veli/spa-wellness/",
+    "as_of": "2026-10-05"
+   }
+  ],
+  "weddings.vow_renewal": [
+   {
+    "value": true,
+    "source_url": "https://www.sunsiyam.com/media/gkhhf31k/ssr-mice-digital-book-2026.pdf",
+    "as_of": 2026
+   }
+  ],
+  "events_mice.capacity_max": [
+   {
+    "value": 375,
+    "source_url": "https://www.sunsiyam.com/media/gkhhf31k/ssr-mice-digital-book-2026.pdf",
+    "as_of": 2026
+   }
+  ],
+  "events_mice.buyout": [
+   {
+    "value": true,
+    "source_url": "https://www.sunsiyam.com/media/gkhhf31k/ssr-mice-digital-book-2026.pdf",
+    "as_of": 2026
+   }
+  ],
+  "sustainability": [
+   {
+    "value": "marine biologist",
+    "source_url": "https://www.sunsiyam.com/media/gkhhf31k/ssr-mice-digital-book-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "solar",
+    "source_url": "https://www.sunsiyam.com/media/gkhhf31k/ssr-mice-digital-book-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "reef restoration",
+    "source_url": "https://www.sunsiyam.com/media/gkhhf31k/ssr-mice-digital-book-2026.pdf",
+    "as_of": 2026
+   }
+  ],
+  "weddings.venues": [
+   {
+    "value": "An all-day-dining venue on the beach and over water",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-olhuveli/restaurants-bars/",
     "as_of": "2026-10-04"
    }
   ],
@@ -1559,14 +3761,7 @@
     "source_url": "https://www.neoscapesmaldives.com/resort/olhuveli-beach-spa-maldives/",
     "as_of": "2026-10-04"
    }
-  ],
-  "weddings.offered": [
-   {
-    "value": true,
-    "source_url": "https://www.neoscapesmaldives.com/resort/olhuveli-beach-spa-maldives/",
-    "as_of": "2026-10-04"
-   }
   ]
  },
- "last_updated": "2026-10-04"
+ "last_updated": "2026-10-05"
 }

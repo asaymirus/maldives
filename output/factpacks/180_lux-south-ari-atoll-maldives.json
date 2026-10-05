@@ -8,11 +8,11 @@
   "LUX* Maldives",
   "Dhidhoofinolhu"
  ],
- "official_url": null,
- "official_site_status": null,
+ "official_url": "https://www.luxresorts.com/en/maldives/hotel/luxsouthariatoll",
+ "official_site_status": "unreachable",
  "operator_brand": "LUX*",
  "atoll": "Ari Atoll",
- "island": null,
+ "island": "Dhidhoofinolhu",
  "opened_or_renovated": null,
  "star_rating": null,
  "transfer": {
@@ -28,16 +28,8 @@
  },
  "island_size": "1500 m x 90 m",
  "villas": {
-  "total": null,
+  "total": 193,
   "categories": [
-   {
-    "name": "Number of Villas",
-    "count": 193,
-    "size_sqm": null,
-    "max_occupancy": null,
-    "pool": null,
-    "overwater": null
-   },
    {
     "name": "lu south ari atoll hlsaaromanticpoolwatervillas",
     "count": 57,
@@ -49,11 +41,6 @@
   ]
  },
  "dining": [
-  {
-   "name": "Dining",
-   "cuisine": null,
-   "type": "restaurant"
-  },
   {
    "name": "Senses Restaurant",
    "cuisine": null,
@@ -70,11 +57,6 @@
    "type": "bar"
   },
   {
-   "name": "Veli Pool Bar – Lagoon Views & Refreshing Sips",
-   "cuisine": null,
-   "type": "bar"
-  },
-  {
    "name": "Café LUX*",
    "cuisine": null,
    "type": "restaurant"
@@ -83,10 +65,15 @@
    "name": "Lagoon Bar – Reggae Beats & Beachfront Vibes",
    "cuisine": null,
    "type": "bar"
+  },
+  {
+   "name": "LUX South Ari Atoll, Cafe Lux and Allegria",
+   "cuisine": null,
+   "type": "restaurant"
   }
  ],
  "meal_plans": [],
- "all_inclusive_details": null,
+ "all_inclusive_details": "All Inclusive.",
  "spa": {
   "name": "Me Spa",
   "treatment_rooms": null,
@@ -105,28 +92,42 @@
    "whale shark",
    "manta",
    "sailing",
-   "flyboard"
+   "flyboard",
+   "scuba diving",
+   "windsurfing",
+   "parasailing",
+   "water skiing",
+   "fishing",
+   "canoe",
+   "sunset cruise",
+   "snorkeling"
   ],
   "price_list_doc": null
  },
  "excursions": [
   "whale shark",
-  "manta"
+  "manta",
+  "big game fishing",
+  "cinema"
  ],
  "kids_family": {
   "kids_club": "Kids Club",
   "age_range": null,
-  "teens": null
+  "teens": "teens programme mentioned"
  },
  "wellness_fitness": [
   "yoga",
   "meditation",
   "fitness centre",
-  "tennis"
+  "tennis",
+  "badminton",
+  "sauna",
+  "gym",
+  "fitness center"
  ],
  "weddings": {
   "offered": true,
-  "vow_renewal": null,
+  "vow_renewal": true,
   "venues": [],
   "packages": [],
   "brochure_doc": null
@@ -153,19 +154,33 @@
   "dining_menu": null,
   "dive_prices": null,
   "events": null,
-  "calendar": null
+  "calendar": "https://letsgomaldives.com/wp-content/uploads/2026/08/LSAA_-FESTIVE-BROCHURE_2627.pdf"
  },
- "documents_count": 2,
+ "documents_count": 4,
  "gaps": [
   "wedding brochure",
-  "events/MICE document",
-  "fact: villas.total"
+  "events/MICE document"
  ],
  "sources": {
   "atoll": [
    {
     "value": "Ari Atoll",
     "source_url": "https://www.neoscapesmaldives.com/resort/lux-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Ari Atoll",
+    "source_url": "https://www.mymaldives.com/resort-guide/lux-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Ari Atoll",
+    "source_url": "https://www.tropicalsky.co.uk/weddings/indian-ocean/maldives/lux-south-ari-atoll-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Ari Atoll",
+    "source_url": "https://www.dnatatravel.com/2-1490749-1/lux-south-ari-atoll?oc=true",
     "as_of": "2026-10-04"
    }
   ],
@@ -193,18 +208,6 @@
   "villas.categories": [
    {
     "value": {
-     "name": "Number of Villas",
-     "count": 193,
-     "size_sqm": null,
-     "max_occupancy": null,
-     "pool": null,
-     "overwater": null
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/lux-maldives/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
      "name": "lu south ari atoll hlsaaromanticpoolwatervillas",
      "count": 57,
      "size_sqm": null,
@@ -217,24 +220,6 @@
    }
   ],
   "dining": [
-   {
-    "value": {
-     "name": "Dining",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/lux-maldives/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Dining",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/lux-maldives/",
-    "as_of": "2026-10-04"
-   },
    {
     "value": {
      "name": "Senses Restaurant",
@@ -264,15 +249,6 @@
    },
    {
     "value": {
-     "name": "Veli Pool Bar – Lagoon Views & Refreshing Sips",
-     "cuisine": null,
-     "type": "bar"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/lux-maldives/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
      "name": "Café LUX*",
      "cuisine": null,
      "type": "restaurant"
@@ -288,12 +264,31 @@
     },
     "source_url": "https://www.neoscapesmaldives.com/resort/lux-maldives/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "LUX South Ari Atoll, Cafe Lux and Allegria",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.tropicalsky.co.uk/weddings/indian-ocean/maldives/lux-south-ari-atoll-maldives",
+    "as_of": "2026-10-04"
    }
   ],
   "spa.name": [
    {
     "value": "Me Spa",
     "source_url": "https://www.neoscapesmaldives.com/resort/lux-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.mymaldives.com/resort-guide/lux-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Club\nGym\nRestaurant\nSpa",
+    "source_url": "https://www.dnatatravel.com/2-1490749-1/lux-south-ari-atoll?oc=true",
     "as_of": "2026-10-04"
    }
   ],
@@ -349,6 +344,116 @@
     "value": "flyboard",
     "source_url": "https://www.neoscapesmaldives.com/resort/lux-maldives/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.mymaldives.com/resort-guide/lux-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://www.mymaldives.com/resort-guide/lux-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "windsurfing",
+    "source_url": "https://www.mymaldives.com/resort-guide/lux-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "catamaran",
+    "source_url": "https://www.mymaldives.com/resort-guide/lux-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "jet ski",
+    "source_url": "https://www.mymaldives.com/resort-guide/lux-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "parasailing",
+    "source_url": "https://www.mymaldives.com/resort-guide/lux-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "water skiing",
+    "source_url": "https://www.mymaldives.com/resort-guide/lux-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.mymaldives.com/resort-guide/lux-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.mymaldives.com/resort-guide/lux-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sailing",
+    "source_url": "https://www.mymaldives.com/resort-guide/lux-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "canoe",
+    "source_url": "https://www.mymaldives.com/resort-guide/lux-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://www.tropicalsky.co.uk/weddings/indian-ocean/maldives/lux-south-ari-atoll-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "jet ski",
+    "source_url": "https://www.tropicalsky.co.uk/weddings/indian-ocean/maldives/lux-south-ari-atoll-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.tropicalsky.co.uk/weddings/indian-ocean/maldives/lux-south-ari-atoll-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.tropicalsky.co.uk/weddings/indian-ocean/maldives/lux-south-ari-atoll-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.dnatatravel.com/2-1490749-1/lux-south-ari-atoll?oc=true",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "surfing",
+    "source_url": "https://www.dnatatravel.com/2-1490749-1/lux-south-ari-atoll?oc=true",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "paddleboard",
+    "source_url": "https://www.dnatatravel.com/2-1490749-1/lux-south-ari-atoll?oc=true",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "parasailing",
+    "source_url": "https://www.dnatatravel.com/2-1490749-1/lux-south-ari-atoll?oc=true",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.dnatatravel.com/2-1490749-1/lux-south-ari-atoll?oc=true",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "flyboard",
+    "source_url": "https://www.dnatatravel.com/2-1490749-1/lux-south-ari-atoll?oc=true",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "canoe",
+    "source_url": "https://www.dnatatravel.com/2-1490749-1/lux-south-ari-atoll?oc=true",
+    "as_of": "2026-10-04"
    }
   ],
   "excursions": [
@@ -361,12 +466,37 @@
     "value": "manta",
     "source_url": "https://www.neoscapesmaldives.com/resort/lux-maldives/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "big game fishing",
+    "source_url": "https://www.mymaldives.com/resort-guide/lux-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.mymaldives.com/resort-guide/lux-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "cinema",
+    "source_url": "https://www.mymaldives.com/resort-guide/lux-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.dnatatravel.com/2-1490749-1/lux-south-ari-atoll?oc=true",
+    "as_of": "2026-10-04"
    }
   ],
   "kids_family.kids_club": [
    {
     "value": "Kids Club",
     "source_url": "https://www.neoscapesmaldives.com/resort/lux-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Childcare\nBar\nChildren's Club",
+    "source_url": "https://www.dnatatravel.com/2-1490749-1/lux-south-ari-atoll?oc=true",
     "as_of": "2026-10-04"
    }
   ],
@@ -390,12 +520,57 @@
     "value": "tennis",
     "source_url": "https://www.neoscapesmaldives.com/resort/lux-maldives/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://www.mymaldives.com/resort-guide/lux-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "badminton",
+    "source_url": "https://www.mymaldives.com/resort-guide/lux-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sauna",
+    "source_url": "https://www.mymaldives.com/resort-guide/lux-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "gym",
+    "source_url": "https://www.dnatatravel.com/2-1490749-1/lux-south-ari-atoll?oc=true",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fitness center",
+    "source_url": "https://www.dnatatravel.com/2-1490749-1/lux-south-ari-atoll?oc=true",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://www.dnatatravel.com/2-1490749-1/lux-south-ari-atoll?oc=true",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "badminton",
+    "source_url": "https://www.dnatatravel.com/2-1490749-1/lux-south-ari-atoll?oc=true",
+    "as_of": "2026-10-04"
    }
   ],
   "weddings.offered": [
    {
     "value": true,
     "source_url": "https://www.neoscapesmaldives.com/resort/lux-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.tropicalsky.co.uk/weddings/indian-ocean/maldives/lux-south-ari-atoll-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.tropicalsky.co.uk/weddings/indian-ocean/maldives/lux-south-ari-atoll-maldives",
     "as_of": "2026-10-04"
    }
   ],
@@ -419,7 +594,52 @@
     "source_url": "https://www.neoscapesmaldives.com/resort/lux-maldives/",
     "as_of": "2026-10-04"
    }
+  ],
+  "island": [
+   {
+    "value": "Dhidhoofinolhu",
+    "source_url": "https://www.mymaldives.com/resort-guide/lux-maldives/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "villas.total": [
+   {
+    "value": 193,
+    "source_url": "https://www.mymaldives.com/resort-guide/lux-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 193,
+    "source_url": "https://www.dnatatravel.com/2-1490749-1/lux-south-ari-atoll?oc=true",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 193,
+    "source_url": "https://www.dnatatravel.com/2-1490749-1/lux-south-ari-atoll?oc=true",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "all_inclusive_details": [
+   {
+    "value": "All Inclusive.",
+    "source_url": "https://www.tropicalsky.co.uk/weddings/indian-ocean/maldives/lux-south-ari-atoll-maldives",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "weddings.vow_renewal": [
+   {
+    "value": true,
+    "source_url": "https://www.tropicalsky.co.uk/weddings/indian-ocean/maldives/lux-south-ari-atoll-maldives",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "kids_family.teens": [
+   {
+    "value": "teens programme mentioned",
+    "source_url": "https://www.dnatatravel.com/2-1490749-1/lux-south-ari-atoll?oc=true",
+    "as_of": "2026-10-04"
+   }
   ]
  },
- "last_updated": "2026-10-04"
+ "last_updated": "2026-10-05"
 }

@@ -7,8 +7,8 @@
   "Full Moon",
   "Furanafushi"
  ],
- "official_url": null,
- "official_site_status": null,
+ "official_url": "https://www.marriott.com/en-us/hotels/mlesi-sheraton-maldives-full-moon-resort-and-spa/overview/",
+ "official_site_status": "blocked",
  "operator_brand": "Sheraton",
  "atoll": "North Malé Atoll",
  "island": null,
@@ -46,7 +46,7 @@
     "overwater": true
    },
    {
-    "name": "Ocean Pool Villa | + of private garden",
+    "name": "Ocean Pool Villa",
     "count": null,
     "size_sqm": 90,
     "max_occupancy": 2,
@@ -70,14 +70,6 @@
     "overwater": true
    },
    {
-    "name": "Welcome Pavilion Feast Orchid Garden / Yoga Pavilion",
-    "count": 1,
-    "size_sqm": null,
-    "max_occupancy": null,
-    "pool": null,
-    "overwater": null
-   },
-   {
     "name": "Villas",
     "count": 176,
     "size_sqm": null,
@@ -87,23 +79,7 @@
    }
   ]
  },
- "dining": [
-  {
-   "name": "Breakfast is served buffet style at Feast Restaurant.",
-   "cuisine": null,
-   "type": "restaurant"
-  },
-  {
-   "name": "Dining",
-   "cuisine": null,
-   "type": "restaurant"
-  },
-  {
-   "name": "Destination Dining – Unforgettable Moments",
-   "cuisine": null,
-   "type": "restaurant"
-  }
- ],
+ "dining": [],
  "meal_plans": [
   "HB",
   "FB",
@@ -128,7 +104,8 @@
    "canoe",
    "snorkelling",
    "jet ski",
-   "dolphin cruise"
+   "dolphin cruise",
+   "kayaking"
   ],
   "price_list_doc": null
  },
@@ -180,12 +157,13 @@
   "dining_menu": null,
   "dive_prices": null,
   "events": null,
-  "calendar": null
+  "calendar": "https://www.finolhu.com/wp-content/uploads/2026/03/finolhu-easter-program-2026.pdf"
  },
- "documents_count": 2,
+ "documents_count": 4,
  "gaps": [
   "wedding brochure",
-  "events/MICE document"
+  "events/MICE document",
+  "fact: dining"
  ],
  "sources": {
   "atoll": [
@@ -209,6 +187,11 @@
    {
     "value": "speedboat",
     "source_url": "https://www.neoscapesmaldives.com/resort/sheraton-maldives-full-moon-resort-spa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://letsgomaldives.com/news/a-festive-escape-at-sheraton-maldives-full-moon-resort-spa/",
     "as_of": "2026-10-04"
    }
   ],
@@ -258,7 +241,7 @@
    },
    {
     "value": {
-     "name": "Ocean Pool Villa | + of private garden",
+     "name": "Ocean Pool Villa",
      "count": null,
      "size_sqm": 90,
      "max_occupancy": 2,
@@ -294,62 +277,12 @@
    },
    {
     "value": {
-     "name": "Welcome Pavilion Feast Orchid Garden / Yoga Pavilion",
-     "count": 1,
-     "size_sqm": null,
-     "max_occupancy": null,
-     "pool": null,
-     "overwater": null
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Resort-Map_EN.pdf",
-    "as_of": 2025
-   },
-   {
-    "value": {
      "name": "Villas",
      "count": 176,
      "size_sqm": null,
      "max_occupancy": null,
      "pool": null,
      "overwater": null
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/sheraton-maldives-full-moon-resort-spa/",
-    "as_of": "2026-10-04"
-   }
-  ],
-  "dining": [
-   {
-    "value": {
-     "name": "Breakfast is served buffet style at Feast Restaurant.",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Fact-Sheet_EN.pdf",
-    "as_of": 2018
-   },
-   {
-    "value": {
-     "name": "Dining",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/sheraton-maldives-full-moon-resort-spa/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Dining",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/sheraton-maldives-full-moon-resort-spa/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Destination Dining – Unforgettable Moments",
-     "cuisine": null,
-     "type": "restaurant"
     },
     "source_url": "https://www.neoscapesmaldives.com/resort/sheraton-maldives-full-moon-resort-spa/",
     "as_of": "2026-10-04"
@@ -369,6 +302,11 @@
    {
     "value": "Spa",
     "source_url": "https://www.neoscapesmaldives.com/resort/sheraton-maldives-full-moon-resort-spa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://letsgomaldives.com/news/a-festive-escape-at-sheraton-maldives-full-moon-resort-spa/",
     "as_of": "2026-10-04"
    }
   ],
@@ -453,6 +391,16 @@
    {
     "value": "canoe",
     "source_url": "https://www.neoscapesmaldives.com/resort/sheraton-maldives-full-moon-resort-spa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://letsgomaldives.com/news/a-festive-escape-at-sheraton-maldives-full-moon-resort-spa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "kayaking",
+    "source_url": "https://letsgomaldives.com/news/a-festive-escape-at-sheraton-maldives-full-moon-resort-spa/",
     "as_of": "2026-10-04"
    }
   ],
@@ -555,6 +503,11 @@
     "value": "tennis",
     "source_url": "https://www.neoscapesmaldives.com/resort/sheraton-maldives-full-moon-resort-spa/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://letsgomaldives.com/news/a-festive-escape-at-sheraton-maldives-full-moon-resort-spa/",
+    "as_of": "2026-10-04"
    }
   ],
   "sustainability": [
@@ -639,5 +592,5 @@
    }
   ]
  },
- "last_updated": "2026-10-04"
+ "last_updated": "2026-10-05"
 }

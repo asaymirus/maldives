@@ -1,76 +1,75 @@
 # 162. The Marina at Crossroads Maldives
 
-**Official site:** n/a (None)  
+**Official site:** https://crossroadsmaldives.com/ (ok)  
 **Brand:** n/a  
-**Atoll:** n/a  **Island:** n/a  
+**Atoll:** South Male Atoll  **Island:** Free  
 **Opened/renovated:** n/a  **Rating:** n/a  
-**Transfer:** n/a; minutes: {}  
+**Transfer:** speedboat, yacht; minutes: {"speedboat": 15}  
 **Island size:** n/a  
 
 ## Villas (? total)
 
-- Pavilion: count 12, ? sqm, max ?
-- Gold Beach Villa & Gold Beach Pool Villa: count 11, ? sqm, max ?, pool
-- Platinum Overwater Villa: count 13, ? sqm, max ?, overwater
-- Platinum Overwater Pool Villa: count 14, ? sqm, max ?, pool, overwater
-- Diamond Overwater Pool Villa: count 7, ? sqm, max ?, pool, overwater
-- Rock Royalty Overwater Pool Villa br: count 16, ? sqm, max ?, pool, overwater
-- Rock Star Villa: count 17, ? sqm, max ?
+- Villa Vercelli Silver: count 135, ? sqm, max ?
+- Villa Vercelli Gold: count 135, ? sqm, max ?
 
 ## Dining
 
-- 12 6 Pool Bar (bar)
-- 19 Hard Rock Cafe Maldives (restaurant)
+- Pool Bar (bar)
+- Hard Rock Cafe (restaurant)
+- Hard Rock Cafe Maldives Day Package (restaurant)
+- Access to Hard Rock Cafe Beach (restaurant)
+- Island Lounge (bar)
+- Hard Rock Café Maldives (restaurant)
 
-Meal plans: n/a
+Meal plans: AI
 
 ## Spa & wellness
 
-- Spa: Rock Spa; treatment rooms: ?; menu: none
-- Wellness/fitness: fitness center
+- Spa: SAii Spa; treatment rooms: ?; menu: https://crossroadsmaldives.com/wp-content/uploads/2026/01/SAii-Spa-Menu.pdf
+- Wellness/fitness: n/a
 
 ## Diving, water sports & excursions
 
-- Operator: n/a
-- House reef: n/a
-- Activities: n/a
-- Price list: none
-- Excursions: n/a
+- Operator: Dive Centre
+- House reef: HOUSE REEF SNORKELING
+- Activities: snorkeling, parasailing, fishing, sunset cruise, dolphin cruise, whale shark, windsurfing, kitesurfing, surfing, catamaran, jet ski, water skiing, seabob, manta, sailing, banana boat, scuba diving, snorkelling
+- Price list: https://www.saiihotels.com/wp-content/uploads/2025/12/2026-Crossroads-Water-sports-catalogue-18-12-25.pdf
+- Excursions: local island, sandbank, dolphin, sunset fishing, big game fishing, Male city tour, whale shark, turtle, manta, stargazing, cinema
 
 ## Kids & family
 
-- Kids club: Roxity Kids Club; ages: n/a; teens: teens programme mentioned
+- Kids club: n/a; ages: n/a; teens: n/a
 
 ## Weddings
 
-- Offered: None; vow renewal: None
+- Offered: True; vow renewal: None
 - Venues: n/a
 - Packages: n/a
 - Brochure: none
 
 ## Events / MICE
 
-- Venues: n/a; capacity max: n/a; buyout: None
+- Venues: n/a; capacity max: 12; buyout: None
 - Document: none
 
 ## Sustainability
 
-- n/a
+- solar, marine biologist, Green Globe, organic garden, coral nursery
 
 ## Public contacts
 
-- Reservations: n/a; weddings: n/a; phone: n/a
+- Reservations: n/a; weddings: n/a; phone: +960 665 1200
 
 ## Latest documents
 
 - factsheet: none
-- map: https://www.neoscapesmaldives.com/wp-content/uploads/Hard-Rock-Hotel-Resort-Map-2023.pdf
+- map: https://crossroadsmaldives.com/wp-content/uploads/2026/06/SAii-Shabu-Shabu-2026-1.pdf
 - wedding: none
-- spa_menu: none
-- dining_menu: none
-- dive_prices: none
+- spa_menu: https://crossroadsmaldives.com/wp-content/uploads/2026/01/SAii-Spa-Menu.pdf
+- dining_menu: https://crossroadsmaldives.com/wp-content/uploads/2026/09/SunRay_Drink_AllDay_297x105mm_01.pdf
+- dive_prices: https://www.saiihotels.com/wp-content/uploads/2025/12/2026-Crossroads-Water-sports-catalogue-18-12-25.pdf
 - events: none
-- calendar: none
+- calendar: https://crossroadsmaldives.com/wp-content/uploads/2026/01/Padel-Tennis-Membership-Programme_2026.pdf
 
 ## Gaps
 
@@ -78,10 +77,7 @@ Meal plans: n/a
 - wedding brochure
 - events/MICE document
 - fact: villas.total
-- fact: transfer
-- fact: atoll
-- fact: dive operator
-- fact: weddings
+- fact: kids club
 - fact: contacts
 
-_Facts extracted by rules from 6 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-04._
+_Facts extracted by rules from 16 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

@@ -1,65 +1,68 @@
 # 118. Sun Siyam Iru Veli Maldives
 
-**Official site:** n/a (None)  
+**Official site:** https://www.sunsiyam.com/sun-siyam-iru-veli/ (ok)  
 **Brand:** Sun Siyam  
-**Atoll:** Dhaalu Atoll  **Island:** n/a  
+**Atoll:** Malé Atoll  **Island:** n/a  
 **Opened/renovated:** n/a  **Rating:** 5-star  
-**Transfer:** seaplane, domestic flight; minutes: {"seaplane": 40, "domestic flight": 40}  
+**Transfer:** seaplane; minutes: {"seaplane": 45}  
 **Island size:** n/a  
 
 ## Villas (125 total)
 
-- Beach Suite with Pool / + King: count 93, ? sqm, max ?, pool
-- Family Suite with Pool / + King: count 97, ? sqm, max ?, pool
-- Sun Aqua Sultan Suite / + King: count 135, ? sqm, max ?
-- Grand Beach Suite / + King: count 194, ? sqm, max ?
-- King Beach Suite / + King: count 643, ? sqm, max ?
-- Ocean Suite with Pool / + King: count 124, ? sqm, max ?, pool, overwater
-- Dolphin Ocean Suite / + King: count 124, ? sqm, max ?, overwater
-- Grand Ocean Suite / + King: count 175, ? sqm, max ?, overwater
-- King Ocean Suite / + King: count 393, ? sqm, max ?, overwater
-- Beach Suite with Pool: count 4, ? sqm, max ?, pool
-- Ocean Suite: count 1, ? sqm, max ?, overwater
+- Beach Villa with Pool King: count 93, ? sqm, max ?, pool
+- Family Beach Villa with Pool King: count 97, ? sqm, max ?, pool
+- Grand Beach Villa with Pool King: count 135, ? sqm, max ?, pool
+- Ocean Villa with Pool King: count 124, ? sqm, max ?, pool, overwater
+- Dolphin Ocean Villa with Pool King: count 124, ? sqm, max ?, pool, overwater
+- Ocean Residence with Pool King: count 175, ? sqm, max ?, pool, overwater
+- Villa with Pool: count 10, ? sqm, max ?, pool
+- residence: count 194, 194 sqm, max ?
 - Villas: count 125, ? sqm, max ?
 - iruveli beach suite with pool sun siyam iru veli: count 4, ? sqm, max ?, pool
 
 ## Dining
 
-- Wine Cellar Wine cellar 19.00 – 22.00 Over water (bar)
-- 5 Wine Cellar 11 Turtle Kids Club 17 Spa (bar)
-- 5 Wine Cellar 11 Turtle Kidz 16 Clinic (bar)
-- Dining (restaurant)
+- Restaurants Bar Dining Experience (restaurant)
+- Grouper Grill Fresh Water (restaurant)
+- Roma Wine Cellar (bar)
+- Teppanyaki (restaurant)
+- lunch served at Chemistry Bar. (bar)
+- Location: Chemistry Bar (bar)
+- Afternoon Tea at Chemistry Bar (bar)
+- Wines. Grill and Roma (restaurant)
+- at Chemistry Bar or Fresh Water Bar. (bar)
 - Grouper Grill (restaurant)
+- Wine Cellar (bar)
 - The Wine Cellar (bar)
 - Fresh Water Pool Bar (bar)
-- Destination Dining (restaurant)
+- Chemistry Bar (bar)
 
-Meal plans: Dine Around
+Meal plans: AI, Dine Around
+All-inclusive: All-Inclusive Dine-Around.
 
 ## Spa & wellness
 
-- Spa: Ocean Spa; treatment rooms: ?; menu: none
-- Wellness/fitness: gym, tennis, badminton, fitness centre
+- Spa: Ocean Spa; treatment rooms: ?; menu: https://www.sunsiyam.com/media/0akcxrid/sun-siyam-iru-veli-spa-menu-2025.pdf
+- Wellness/fitness: yoga, meditation, gym, tennis, pilates, ayurveda, steam, fitness center, sauna, fitness centre, padel, badminton
 
 ## Diving, water sports & excursions
 
-- Operator: PADI 5 Star
-- House reef: house reef, or back on dry land, work up an appetite on the tennis courts or at our fitness centre
-- Activities: snorkelling, snorkeling, windsurfing, catamaran, jet ski, parasailing, fishing, sunset cruise, canoe
-- Price list: none
-- Excursions: dolphin, turtle, sandbank, sunset fishing
+- Operator: Dive Centre
+- House reef: house reef
+- Activities: scuba diving, canoe, whale shark, banana boat, fun tube, snorkelling, sunset cruise, snorkeling, manta, jet ski, kayaking, dolphin cruise, windsurfing, catamaran, sailing, stand-up paddle, paddleboard, fishing, parasailing, water skiing
+- Price list: https://www.sunsiyam.com/media/mz3pv4nj/ssiv-golden-week-gazette-26.pdf
+- Excursions: dolphin, turtle, castaway, cinema, sandbank, whale shark, private dinner, local island, picnic, manta, sunset fishing, stargazing, big game fishing
 
 ## Kids & family
 
-- Kids club: Seaplane
-Kids Club; ages: n/a; teens: n/a
+- Kids club: Kids Club; ages: n/a; teens: teens programme mentioned
 
 ## Weddings
 
 - Offered: True; vow renewal: None
 - Venues: Beach Wedding
 - Packages: n/a
-- Brochure: none
+- Brochure: https://www.sunsiyam.com/media/tbdbylep/ultimate-honeymoon-ssiv.pdf
 
 ## Events / MICE
 
@@ -72,22 +75,21 @@ Kids Club; ages: n/a; teens: n/a
 
 ## Public contacts
 
-- Reservations: info@neoscapesmaldives.com; weddings: n/a; phone: +960 736 5425
+- Reservations: info.iruveli@sunsiyam.com; weddings: n/a; phone: +960 676 0100
 
 ## Latest documents
 
-- factsheet: https://www.neoscapesmaldives.com/wp-content/uploads/Iru-Veli-Factsheet-EN.pdf
-- map: https://www.neoscapesmaldives.com/wp-content/uploads/Sun-Aqua-Iru-Veli-Island-Map.pdf
-- wedding: none
-- spa_menu: none
+- factsheet: https://www.sunsiyam.com/media/z0yluoa4/factsheet-iru-veli-2026.pdf
+- map: https://www.sunsiyam.com/media/nv4ljrub/ssiv_247-all-inclusive-dine-around-meal-plan.pdf
+- wedding: https://www.sunsiyam.com/media/tbdbylep/ultimate-honeymoon-ssiv.pdf
+- spa_menu: https://www.sunsiyam.com/media/0akcxrid/sun-siyam-iru-veli-spa-menu-2025.pdf
 - dining_menu: none
-- dive_prices: none
+- dive_prices: https://www.sunsiyam.com/media/mz3pv4nj/ssiv-golden-week-gazette-26.pdf
 - events: none
-- calendar: none
+- calendar: https://www.sunsiyam.com/media/vmlphvhg/festive-gazette-26_27-prism.pdf
 
 ## Gaps
 
-- wedding brochure
 - events/MICE document
 
-_Facts extracted by rules from 20 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-04._
+_Facts extracted by rules from 21 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

@@ -1,10 +1,10 @@
 # 89. Inter Continental Maldives Maamunagau
 
-**Official site:** n/a (None)  
+**Official site:** https://maldives.intercontinental.com/ (blocked-partial)  
 **Brand:** InterContinental  
-**Atoll:** n/a  **Island:** n/a  
+**Atoll:** Raa Atoll  **Island:** Maamunagau  
 **Opened/renovated:** n/a  **Rating:** n/a  
-**Transfer:** n/a; minutes: {}  
+**Transfer:** seaplane, yacht; minutes: {"seaplane": 35}  
 **Island size:** n/a  
 
 ## Villas (? total)
@@ -26,45 +26,48 @@
 
 ## Dining
 
+- 每日在 Café Umi 享用早餐及多家餐厅晚餐 (restaurant)
+- Private Seaplane Lounge Access (bar)
 
-Meal plans: n/a
+Meal plans: AI
+All-inclusive: All-Inclusive private island escape with breakfast, lunch and dinner, selected beverages and .
 
 ## Spa & wellness
 
-- Spa: n/a; treatment rooms: ?; menu: none
-- Wellness/fitness: n/a
+- Spa: AVI Spa; treatment rooms: ?; menu: none
+- Wellness/fitness: yoga, meditation, sound healing, beach volleyball, fitness centre, personal trainer
 
 ## Diving, water sports & excursions
 
 - Operator: n/a
-- House reef: n/a
-- Activities: n/a
+- House reef: House Reef
+- Activities: sunset cruise, manta, windsurfing, catamaran, sailing, snorkelling, snorkeling, jet ski, surfing, fishing, kayaking, stand-up paddle
 - Price list: none
-- Excursions: n/a
+- Excursions: manta, turtle, sandbank, cooking class, dolphin, local island
 
 ## Kids & family
 
-- Kids club: n/a; ages: n/a; teens: n/a
+- Kids club: Unser Kids Club; ages: 2-12 years; teens: teens programme mentioned
 
 ## Weddings
 
-- Offered: None; vow renewal: None
+- Offered: True; vow renewal: None
 - Venues: n/a
 - Packages: n/a
 - Brochure: none
 
 ## Events / MICE
 
-- Venues: n/a; capacity max: n/a; buyout: None
+- Venues: n/a; capacity max: n/a; buyout: True
 - Document: none
 
 ## Sustainability
 
-- n/a
+- manta trust, solar, single-use plastic, reef restoration
 
 ## Public contacts
 
-- Reservations: n/a; weddings: n/a; phone: n/a
+- Reservations: n/a; weddings: n/a; phone: +960 730 9300
 
 ## Latest documents
 
@@ -82,13 +85,7 @@ Meal plans: n/a
 - wedding brochure
 - events/MICE document
 - fact: villas.total
-- fact: dining
-- fact: transfer
-- fact: atoll
-- fact: spa
 - fact: dive operator
-- fact: kids club
-- fact: weddings
 - fact: contacts
 
-_Facts extracted by rules from 1 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-04._
+_Facts extracted by rules from 20 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

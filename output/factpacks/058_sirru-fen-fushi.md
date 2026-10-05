@@ -1,7 +1,7 @@
 # 58. Sirru Fen Fushi
 
 **Current name / alias:** Fairmont Maldives Sirru Fen Fushi  
-**Official site:** n/a (None)  
+**Official site:** https://www.fairmont-maldives.com/ (ok)  
 **Brand:** Fairmont  
 **Atoll:** Shaviyani Atoll  **Island:** Sirru Fen  
 **Opened/renovated:** n/a  **Rating:** n/a  
@@ -10,31 +10,26 @@
 
 ## Villas (120 total)
 
-- Number of Villas: count 120, ? sqm, max ?
 
 ## Dining
 
-- 1. RAHA MARKET All-Day Dining Restaurant (restaurant)
-- 2. ONU ONU Poolside Bar (bar)
-- 3. KATA Japanese Restaurant (restaurant)
-- 4. AZURE Seafood Restaurant (restaurant)
-- Dining (restaurant)
-- In-Villa Dining (restaurant)
+- Arabian Afternoon Lounge with Shisha (bar)
+- Onu Onu Bar (bar)
 
 Meal plans: n/a
 
 ## Spa & wellness
 
 - Spa: Willow Stream Spa; treatment rooms: ?; menu: none
-- Wellness/fitness: yoga, gym, fitness centre, tennis, beach volleyball
+- Wellness/fitness: yoga, gym, fitness centre, tennis, beach volleyball, badminton
 
 ## Diving, water sports & excursions
 
 - Operator: Dive Centre
 - House reef: house reef with our resident turtles and the never-ending Indian Ocean
-- Activities: kayaking, catamaran, dolphin cruise, manta, sailing, snorkeling
-- Price list: https://neoscapesmaldives.com/wp-content/uploads/Fairmont-Maldives_House-Reef-Snorkeling-and-Diving-Spots.pdf
-- Excursions: dolphin, manta, turtle, picnic, castaway
+- Activities: kayaking, catamaran, dolphin cruise, manta, sailing, snorkeling, jet ski, banana boat, fun tube
+- Price list: https://letsgomaldives.com/wp-content/uploads/2026/03/Eid-Al-Fitr-Sirru-Fen-Fushi.pdf
+- Excursions: dolphin, manta, turtle, stargazing, picnic, castaway
 
 ## Kids & family
 
@@ -58,7 +53,7 @@ Meal plans: n/a
 
 ## Public contacts
 
-- Reservations: info@neoscapesmaldives.com; weddings: n/a; phone: +960 736 5425
+- Reservations: info@sirrufenfushi.com; weddings: n/a; phone: +960 654 8888
 
 ## Latest documents
 
@@ -67,7 +62,7 @@ Meal plans: n/a
 - wedding: none
 - spa_menu: none
 - dining_menu: none
-- dive_prices: https://neoscapesmaldives.com/wp-content/uploads/Fairmont-Maldives_House-Reef-Snorkeling-and-Diving-Spots.pdf
+- dive_prices: https://letsgomaldives.com/wp-content/uploads/2026/03/Eid-Al-Fitr-Sirru-Fen-Fushi.pdf
 - events: none
 - calendar: none
 
@@ -75,5 +70,6 @@ Meal plans: n/a
 
 - wedding brochure
 - events/MICE document
+- fact: villa categories
 
-_Facts extracted by rules from 20 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-04._
+_Facts extracted by rules from 19 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

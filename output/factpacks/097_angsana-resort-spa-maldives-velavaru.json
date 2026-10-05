@@ -6,28 +6,28 @@
   "Angsana Velavaru",
   "Velavaru"
  ],
- "official_url": null,
- "official_site_status": null,
+ "official_url": "https://www.angsana.com/maldives/velavaru",
+ "official_site_status": "ok",
  "operator_brand": "VARU",
  "atoll": "Dhaalu Atoll",
  "island": null,
- "opened_or_renovated": null,
- "star_rating": null,
+ "opened_or_renovated": "opened 2008",
+ "star_rating": "5-star",
  "transfer": {
   "modes": [
    "seaplane",
    "speedboat"
   ],
   "minutes": {
-   "seaplane": 40,
-   "speedboat": null,
+   "seaplane": 5,
+   "speedboat": 5,
    "domestic flight": null,
    "yacht": null
   }
  },
  "island_size": "440 m x 140 m",
  "villas": {
-  "total": null,
+  "total": 113,
   "categories": [
    {
     "name": "and Bedrooms Villas",
@@ -38,12 +38,36 @@
     "overwater": null
    },
    {
-    "name": "Total Number of Villas",
+    "name": "Visages and Villages",
+    "count": 30,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "one- to three-bedroom villas, each either facing the sea",
     "count": 113,
     "size_sqm": null,
     "max_occupancy": null,
     "pool": null,
     "overwater": null
+   },
+   {
+    "name": "Vietnam Hong Po Village Hebei District Fa : +",
+    "count": 611,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "Ocean Villa Delu e- notti- sull'isola- not",
+    "count": 349,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": true
    }
   ]
  },
@@ -64,32 +88,7 @@
    "type": "restaurant"
   },
   {
-   "name": "1 x Additional Dining Experience",
-   "cuisine": null,
-   "type": "restaurant"
-  },
-  {
-   "name": "Destination Dining Discount 20% 20% 50% 20% 50%",
-   "cuisine": null,
-   "type": "restaurant"
-  },
-  {
    "name": "Funa Restaurant Access",
-   "cuisine": null,
-   "type": "restaurant"
-  },
-  {
-   "name": "InVilla Dining for 2 Daily Meals",
-   "cuisine": null,
-   "type": "restaurant"
-  },
-  {
-   "name": "Dining Experiences",
-   "cuisine": null,
-   "type": "restaurant"
-  },
-  {
-   "name": "Cluster, the Mediterranean Restaurant, offering premium",
    "cuisine": null,
    "type": "restaurant"
   },
@@ -99,7 +98,12 @@
    "type": "bar"
   },
   {
-   "name": "Dining",
+   "name": "Saffron Cello Oriente Pastry Kitchen",
+   "cuisine": null,
+   "type": "restaurant"
+  },
+  {
+   "name": "Restaurants Banyan Lounge • Oceans",
    "cuisine": null,
    "type": "restaurant"
   },
@@ -114,27 +118,43 @@
    "type": "bar"
   },
   {
-   "name": "Departure Lounge",
+   "name": "Seaplane Lounge Access",
    "cuisine": null,
    "type": "bar"
   },
   {
-   "name": "Destination Dining Experiences",
+   "name": "Every Friday at Kuredhi Pool Bar",
    "cuisine": null,
-   "type": "restaurant"
+   "type": "bar"
+  },
+  {
+   "name": "Cocktail at Kuredhi Pool Bar",
+   "cuisine": null,
+   "type": "bar"
+  },
+  {
+   "name": "Departure Lounge",
+   "cuisine": null,
+   "type": "bar"
   }
  ],
- "meal_plans": [],
- "all_inclusive_details": null,
+ "meal_plans": [
+  "BB",
+  "HB",
+  "FB",
+  "AI",
+  "Premium AI"
+ ],
+ "all_inclusive_details": "All-Inclusive Packages designed for different types of holidaymakers.",
  "spa": {
-  "name": "Award-winning Spa",
+  "name": "Spa",
   "treatment_rooms": null,
   "signature_treatments": [],
-  "menu_doc": null
+  "menu_doc": "https://cdn3.me-qr.com/pdf/19798997.pdf?time=1775077089"
  },
  "diving_watersports": {
   "operator": "Dive Centre",
-  "house_reef": "House Reef Access",
+  "house_reef": "house reef, encountering a dazzling array of marine wonders and majestic creatures in their natural habitat",
   "activities": [
    "snorkelling",
    "snorkeling",
@@ -153,6 +173,8 @@
    "fun tube",
    "canoe",
    "whale shark",
+   "scuba diving",
+   "banana boat",
    "manta"
   ],
   "price_list_doc": null
@@ -162,69 +184,141 @@
   "dolphin",
   "turtle",
   "cinema",
+  "cooking class",
+  "sandbank",
+  "island hopping",
   "whale shark",
-  "manta"
+  "night fishing",
+  "big game fishing",
+  "manta",
+  "private dinner",
+  "stargazing"
  ],
  "kids_family": {
-  "kids_club": "Kids Club",
+  "kids_club": "Terra Kids Club",
   "age_range": "8-9 years",
-  "teens": null
+  "teens": "teens programme mentioned"
  },
  "wellness_fitness": [
   "gym",
   "beach volleyball",
-  "fitness centre"
+  "fitness centre",
+  "yoga",
+  "meditation",
+  "pilates",
+  "steam",
+  "sound healing",
+  "wellness programme",
+  "badminton"
  ],
  "weddings": {
   "offered": true,
-  "vow_renewal": null,
-  "venues": [],
-  "packages": [],
+  "vow_renewal": true,
+  "venues": [
+   "and a wedding chapel that can host intimate",
+   "Velavaru Beach Wedding White Set up",
+   "Velavaru Pink Beach Wedding Set up",
+   "Beach Pavillion Wedding"
+  ],
+  "packages": [
+   {
+    "name": "Drone Package",
+    "price": "220",
+    "currency": "USD",
+    "as_of": "2026-10-04"
+   }
+  ],
   "brochure_doc": null
  },
  "events_mice": {
   "venues": [
-   "45 minutes from Velana International Meeting Room"
+   "45 minutes from Velana International Meeting Room",
+   "Boardroom 32 sqm • • • • 10",
+   "Boardroom Banyan Room Summit Room 17",
+   "Extensive spa facilities, a luxurious ballroom",
+   "Total event space"
   ],
   "capacity_max": null,
   "buyout": null,
-  "doc": null
+  "doc": "https://www.banyantree.com/assets/2022-06/mice-bt-shanghai.pdf"
  },
  "sustainability": [
   "coral restoration",
-  "marine lab"
+  "marine lab",
+  "single-use plastic",
+  "EarthCheck",
+  "marine biologist",
+  "reef restoration"
  ],
  "contacts_public": {
-  "reservations_email": "info@neoscapesmaldives.com",
+  "reservations_email": "reservations-velavaru@angsana.com",
   "weddings_email": null,
-  "phone": "+960 736 5425"
+  "phone": "+960 676 0028"
  },
  "documents_latest": {
   "factsheet": "https://www.neoscapesmaldives.com/wp-content/uploads/Fact-Sheet-Angsana-Velavaru.pdf",
-  "map": null,
+  "map": "https://www.banyantree.com/assets/2021-10/bt-shanghai-grand_bund_suite_floor_plan.pdf",
   "wedding": null,
-  "spa_menu": null,
+  "spa_menu": "https://cdn3.me-qr.com/pdf/19798997.pdf?time=1775077089",
   "dining_menu": null,
   "dive_prices": null,
-  "events": null,
+  "events": "https://www.banyantree.com/assets/2022-06/mice-bt-shanghai.pdf",
   "calendar": null
  },
- "documents_count": 3,
+ "documents_count": 34,
  "gaps": [
-  "wedding brochure",
-  "events/MICE document",
-  "fact: villas.total"
+  "wedding brochure"
  ],
  "sources": {
   "atoll": [
    {
     "value": "Kaafu Atoll",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Fact-Sheet-Angsana-Velavaru.pdf",
-    "as_of": 2023
+    "as_of": 2024
+   },
+   {
+    "value": "North Malé Atoll",
+    "source_url": "https://www.banyantree.com/assets/2021-11/under-the-banyan-tree-25th-anniversary-issue.pdf",
+    "as_of": 2019
+   },
+   {
+    "value": "Dhaalu Atoll",
+    "source_url": "https://www.angsana.com/maldives/velavaru",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Ari Atoll",
+    "source_url": "https://www.angsana.com/maldives/velavaru/location",
+    "as_of": "2026-10-04"
    },
    {
     "value": "Dhaalu Atoll",
     "source_url": "https://www.neoscapesmaldives.com/resort/angsana-velavaru/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Dhaalu Atoll",
+    "source_url": "https://mondomaldive.it/it/villaggio/angsana-velavaru/recensione/4521",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Dhaalu Atoll",
+    "source_url": "https://mondomaldive.it/it/villaggio/angsana-velavaru/recensione/4279",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Dhaalu Atoll",
+    "source_url": "https://mondomaldive.it/it/villaggio/angsana-velavaru/recensione/6713",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Dhaalu Atoll",
+    "source_url": "https://www.mymaldives.com/resort-guide/angsana-resort-spa-maldives-velavaru/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Dhaalu Atoll",
+    "source_url": "https://www.maldivestourism.net/resorts/angsana-velavaru/",
     "as_of": "2026-10-04"
    }
   ],
@@ -232,16 +326,96 @@
    {
     "value": "seaplane",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Fact-Sheet-Angsana-Velavaru.pdf",
-    "as_of": 2023
+    "as_of": 2024
    },
    {
     "value": "speedboat",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Fact-Sheet-Angsana-Velavaru.pdf",
-    "as_of": 2023
+    "as_of": 2024
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.angsana.com/maldives/velavaru",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.angsana.com/maldives/velavaru",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.angsana.com/maldives/velavaru/offers/come-closer",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.angsana.com/maldives/velavaru/offers/live-for-family-fun",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.angsana.com/maldives/velavaru/offers",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.angsana.com/maldives/velavaru/location",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.angsana.com/maldives/velavaru/location",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.angsana.com/maldives/velavaru/meal-plans",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.angsana.com/maldives/velavaru/experiences/when-is-the-best-time-to-visit-the-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.angsana.com/maldives/velavaru/offers/free-transfer-offer",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.angsana.com/maldives/velavaru/offers/best-available-rate",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.angsana.com/maldives/velavaru/offers/voyage-to-velavaru",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.angsana.com/maldives/velavaru/offers/sun-sea-fishing-in-velavaru",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.angsana.com/maldives/velavaru/offers/advance-purchase-offer",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.angsana.com/maldives/velavaru/offers/stay-more-pay-less",
+    "as_of": "2026-10-04"
    },
    {
     "value": "seaplane",
     "source_url": "https://www.neoscapesmaldives.com/resort/angsana-velavaru/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://letsgomaldives.com/news/escape-to-maldives-with-angsana-velavaru/",
     "as_of": "2026-10-04"
    }
   ],
@@ -249,11 +423,26 @@
    {
     "value": 40,
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Fact-Sheet-Angsana-Velavaru.pdf",
-    "as_of": 2023
+    "as_of": 2024
+   },
+   {
+    "value": 5,
+    "source_url": "https://www.angsana.com/maldives/velavaru",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 45,
+    "source_url": "https://www.angsana.com/maldives/velavaru/location",
+    "as_of": "2026-10-04"
    },
    {
     "value": 40,
     "source_url": "https://www.neoscapesmaldives.com/resort/angsana-velavaru/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 40,
+    "source_url": "https://letsgomaldives.com/news/escape-to-maldives-with-angsana-velavaru/",
     "as_of": "2026-10-04"
    }
   ],
@@ -268,18 +457,54 @@
      "overwater": null
     },
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Fact-Sheet-Angsana-Velavaru.pdf",
-    "as_of": 2023
+    "as_of": 2024
    },
    {
     "value": {
-     "name": "Total Number of Villas",
+     "name": "Visages and Villages",
+     "count": 30,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://www.banyantree.com/assets/2021-11/under-the-banyan-tree-25th-anniversary-issue.pdf",
+    "as_of": 2019
+   },
+   {
+    "value": {
+     "name": "one- to three-bedroom villas, each either facing the sea",
      "count": 113,
      "size_sqm": null,
      "max_occupancy": null,
      "pool": null,
      "overwater": null
     },
-    "source_url": "https://www.neoscapesmaldives.com/resort/angsana-velavaru/",
+    "source_url": "https://www.banyantree.com/assets/2021-11/under-the-banyan-tree-25th-anniversary-issue.pdf",
+    "as_of": 2019
+   },
+   {
+    "value": {
+     "name": "Vietnam Hong Po Village Hebei District Fa : +",
+     "count": 611,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://www.banyantree.com/assets/2021-11/under-the-banyan-tree-25th-anniversary-issue.pdf",
+    "as_of": 2019
+   },
+   {
+    "value": {
+     "name": "Ocean Villa Delu e- notti- sull'isola- not",
+     "count": 349,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": true
+    },
+    "source_url": "https://mondomaldive.it/it/villaggio/angsana-velavaru/recensione/4521",
     "as_of": "2026-10-04"
    }
   ],
@@ -291,7 +516,7 @@
      "type": "restaurant"
     },
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Fact-Sheet-Angsana-Velavaru.pdf",
-    "as_of": 2023
+    "as_of": 2024
    },
    {
     "value": {
@@ -300,7 +525,7 @@
      "type": "bar"
     },
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Fact-Sheet-Angsana-Velavaru.pdf",
-    "as_of": 2023
+    "as_of": 2024
    },
    {
     "value": {
@@ -309,25 +534,7 @@
      "type": "restaurant"
     },
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Fact-Sheet-Angsana-Velavaru.pdf",
-    "as_of": 2023
-   },
-   {
-    "value": {
-     "name": "1 x Additional Dining Experience",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Fact-Sheet-Angsana-Velavaru.pdf",
-    "as_of": 2023
-   },
-   {
-    "value": {
-     "name": "Destination Dining Discount 20% 20% 50% 20% 50%",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Fact-Sheet-Angsana-Velavaru.pdf",
-    "as_of": 2023
+    "as_of": 2024
    },
    {
     "value": {
@@ -336,34 +543,7 @@
      "type": "restaurant"
     },
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Fact-Sheet-Angsana-Velavaru.pdf",
-    "as_of": 2023
-   },
-   {
-    "value": {
-     "name": "InVilla Dining for 2 Daily Meals",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Fact-Sheet-Angsana-Velavaru.pdf",
-    "as_of": 2023
-   },
-   {
-    "value": {
-     "name": "Dining Experiences",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Fact-Sheet-Angsana-Velavaru.pdf",
-    "as_of": 2023
-   },
-   {
-    "value": {
-     "name": "Cluster, the Mediterranean Restaurant, offering premium",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Fact-Sheet-Angsana-Velavaru.pdf",
-    "as_of": 2023
+    "as_of": 2024
    },
    {
     "value": {
@@ -372,24 +552,105 @@
      "type": "bar"
     },
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Fact-Sheet-Angsana-Velavaru.pdf",
-    "as_of": 2023
+    "as_of": 2024
    },
    {
     "value": {
-     "name": "Dining",
+     "name": "Saffron Cello Oriente Pastry Kitchen",
      "cuisine": null,
      "type": "restaurant"
     },
-    "source_url": "https://www.neoscapesmaldives.com/resort/angsana-velavaru/",
+    "source_url": "https://www.banyantree.com/assets/2025-06/bt-mayakoba-gastronomic-guide.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": {
+     "name": "Restaurants Banyan Lounge • Oceans",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.banyantree.com/assets/2022-06/mice-bt-shanghai.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Kaani Restaurant",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.angsana.com/maldives/velavaru/dining",
     "as_of": "2026-10-04"
    },
    {
     "value": {
-     "name": "Dining",
+     "name": "Kuredhi Pool Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.angsana.com/maldives/velavaru/dining",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Seaplane Lounge Access",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.angsana.com/maldives/velavaru/offers/come-closer",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Every Friday at Kuredhi Pool Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.angsana.com/maldives/velavaru/experiences/culture-community",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Cocktail at Kuredhi Pool Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.angsana.com/maldives/velavaru/gallery",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Kaani Restaurant",
      "cuisine": null,
      "type": "restaurant"
     },
-    "source_url": "https://www.neoscapesmaldives.com/resort/angsana-velavaru/",
+    "source_url": "https://www.angsana.com/maldives/velavaru/dining/kaani-restaurant",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Kuredhi Pool Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.angsana.com/maldives/velavaru/dining/kuredhi-pool-bar",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Every Friday at Kuredhi Pool Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.angsana.com/maldives/velavaru/experiences/cultural-immersions",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Seaplane Lounge Access",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.angsana.com/maldives/velavaru/offers/sun-sea-fishing-in-velavaru",
     "as_of": "2026-10-04"
    },
    {
@@ -427,26 +688,102 @@
     },
     "source_url": "https://www.neoscapesmaldives.com/resort/angsana-velavaru/",
     "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Destination Dining Experiences",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/angsana-velavaru/",
-    "as_of": "2026-10-04"
    }
   ],
   "spa.name": [
    {
     "value": "Angsana Spa",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Fact-Sheet-Angsana-Velavaru.pdf",
-    "as_of": 2023
+    "as_of": 2024
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.banyantree.com/assets/2022-06/mice-bt-shanghai.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://cdn3.me-qr.com/pdf/19798997.pdf?time=1775077089",
+    "as_of": 2026
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://cdn3.me-qr.com/pdf/20435864.pdf?time=1768340980",
+    "as_of": 2026
+   },
+   {
+    "value": "Banyan Tree Spa",
+    "source_url": "https://www.banyantree.com/assets/2021-11/under-the-banyan-tree-25th-anniversary-issue.pdf",
+    "as_of": 2019
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.angsana.com/maldives/velavaru",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Angsana Spa",
+    "source_url": "https://www.angsana.com/maldives/velavaru/experiences/101-things-to-do",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Water Sports\nWeddings\nSpa",
+    "source_url": "https://www.angsana.com/maldives/velavaru/facilities",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Angsana Spa",
+    "source_url": "https://www.angsana.com/maldives/velavaru/experiences/family-vacations",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Angsana Spa",
+    "source_url": "https://www.angsana.com/maldives/velavaru/offers/live-for-family-fun",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Angsana Spa",
+    "source_url": "https://www.angsana.com/maldives/velavaru/experiences",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Angsana Spa",
+    "source_url": "https://www.angsana.com/maldives/velavaru/spa",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Angsana Spa",
+    "source_url": "https://www.angsana.com/maldives/velavaru/experiences/resort-activities",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Angsana Spa",
+    "source_url": "https://www.angsana.com/maldives/velavaru/experiences/family-adventures",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Angsana Spa",
+    "source_url": "https://www.angsana.com/maldives/velavaru/experiences/intimate-moments",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.angsana.com/maldives/velavaru/offers/voyage-to-velavaru",
+    "as_of": "2026-10-04"
    },
    {
     "value": "Award-winning Spa",
     "source_url": "https://www.neoscapesmaldives.com/resort/angsana-velavaru/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.mymaldives.com/resort-guide/angsana-resort-spa-maldives-velavaru/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Angsana Spa",
+    "source_url": "https://www.maldivestourism.net/resorts/angsana-velavaru/",
     "as_of": "2026-10-04"
    }
   ],
@@ -454,7 +791,27 @@
    {
     "value": "Dive Centre",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Fact-Sheet-Angsana-Velavaru.pdf",
-    "as_of": 2023
+    "as_of": 2024
+   },
+   {
+    "value": "Dive Centre",
+    "source_url": "https://www.angsana.com/maldives/velavaru/facilities",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Dive Centre",
+    "source_url": "https://www.angsana.com/maldives/velavaru/experiences",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Dive Centre",
+    "source_url": "https://www.angsana.com/maldives/velavaru/location",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Dive Centre",
+    "source_url": "https://www.angsana.com/maldives/velavaru/experiences/when-is-the-best-time-to-visit-the-maldives",
+    "as_of": "2026-10-04"
    },
    {
     "value": "Dive Centre",
@@ -466,11 +823,56 @@
    {
     "value": "house reef and over",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Fact-Sheet-Angsana-Velavaru.pdf",
-    "as_of": 2023
+    "as_of": 2024
+   },
+   {
+    "value": "house reef, encountering a dazzling array of marine wonders and majestic creatures in their natural habitat",
+    "source_url": "https://www.angsana.com/maldives/velavaru/experiences/101-things-to-do",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef snorkelling with gear",
+    "source_url": "https://www.angsana.com/maldives/velavaru/offers/live-for-family-fun",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "House Reef Snorkelling",
+    "source_url": "https://www.angsana.com/maldives/velavaru/experiences/into-the-blue",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "House Reef Snorkelling",
+    "source_url": "https://www.angsana.com/maldives/velavaru/experiences/water-activities",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef and get married under water, or escape to a secluded sandbank prepared just for you",
+    "source_url": "https://www.angsana.com/maldives/velavaru/offers/weddings-at-angsana-velavaru",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef snorkeling",
+    "source_url": "https://www.angsana.com/maldives/velavaru/offers/voyage-to-velavaru",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef snorkeling",
+    "source_url": "https://www.angsana.com/maldives/velavaru/offers/advance-purchase-offer",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef snorkelling",
+    "source_url": "https://www.angsana.com/maldives/velavaru/offers/stay-more-pay-less",
+    "as_of": "2026-10-04"
    },
    {
     "value": "House Reef Access",
     "source_url": "https://www.neoscapesmaldives.com/resort/angsana-velavaru/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef or on a secluded sandbank specially prepared for just the two of you",
+    "source_url": "https://www.mymaldives.com/resort-guide/angsana-resort-spa-maldives-velavaru/",
     "as_of": "2026-10-04"
    }
   ],
@@ -478,82 +880,407 @@
    {
     "value": "snorkelling",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Fact-Sheet-Angsana-Velavaru.pdf",
-    "as_of": 2023
+    "as_of": 2024
    },
    {
     "value": "snorkeling",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Fact-Sheet-Angsana-Velavaru.pdf",
-    "as_of": 2023
+    "as_of": 2024
    },
    {
     "value": "windsurfing",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Fact-Sheet-Angsana-Velavaru.pdf",
-    "as_of": 2023
+    "as_of": 2024
    },
    {
     "value": "surfing",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Fact-Sheet-Angsana-Velavaru.pdf",
-    "as_of": 2023
+    "as_of": 2024
    },
    {
     "value": "kayaking",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Fact-Sheet-Angsana-Velavaru.pdf",
-    "as_of": 2023
+    "as_of": 2024
    },
    {
     "value": "stand-up paddle",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Fact-Sheet-Angsana-Velavaru.pdf",
-    "as_of": 2023
+    "as_of": 2024
    },
    {
     "value": "paddleboard",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Fact-Sheet-Angsana-Velavaru.pdf",
-    "as_of": 2023
+    "as_of": 2024
    },
    {
     "value": "catamaran",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Fact-Sheet-Angsana-Velavaru.pdf",
-    "as_of": 2023
+    "as_of": 2024
    },
    {
     "value": "jet ski",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Fact-Sheet-Angsana-Velavaru.pdf",
-    "as_of": 2023
+    "as_of": 2024
    },
    {
     "value": "water skiing",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Fact-Sheet-Angsana-Velavaru.pdf",
-    "as_of": 2023
+    "as_of": 2024
    },
    {
     "value": "wakeboarding",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Fact-Sheet-Angsana-Velavaru.pdf",
-    "as_of": 2023
+    "as_of": 2024
    },
    {
     "value": "fishing",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Fact-Sheet-Angsana-Velavaru.pdf",
-    "as_of": 2023
+    "as_of": 2024
    },
    {
     "value": "sunset cruise",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Fact-Sheet-Angsana-Velavaru.pdf",
-    "as_of": 2023
+    "as_of": 2024
    },
    {
     "value": "sailing",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Fact-Sheet-Angsana-Velavaru.pdf",
-    "as_of": 2023
+    "as_of": 2024
    },
    {
     "value": "fun tube",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Fact-Sheet-Angsana-Velavaru.pdf",
-    "as_of": 2023
+    "as_of": 2024
    },
    {
     "value": "canoe",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Fact-Sheet-Angsana-Velavaru.pdf",
-    "as_of": 2023
+    "as_of": 2024
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.banyantree.com/assets/2025-06/bt-mayakoba-gastronomic-guide.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.banyantree.com/assets/2025-06/bt-mayakoba-gastronomic-guide.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "sailing",
+    "source_url": "https://www.banyantree.com/assets/2025-06/bt-mayakoba-gastronomic-guide.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "stand-up paddle",
+    "source_url": "https://cdn3.me-qr.com/pdf/20435864.pdf?time=1768340980",
+    "as_of": 2026
+   },
+   {
+    "value": "paddleboard",
+    "source_url": "https://cdn3.me-qr.com/pdf/20435864.pdf?time=1768340980",
+    "as_of": 2026
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.banyantree.com/assets/2021-11/under-the-banyan-tree-25th-anniversary-issue.pdf",
+    "as_of": 2019
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.angsana.com/maldives/velavaru",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "windsurfing",
+    "source_url": "https://www.angsana.com/maldives/velavaru",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "kayaking",
+    "source_url": "https://www.angsana.com/maldives/velavaru",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "paddleboard",
+    "source_url": "https://www.angsana.com/maldives/velavaru",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "jet ski",
+    "source_url": "https://www.angsana.com/maldives/velavaru",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.angsana.com/maldives/velavaru",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.angsana.com/maldives/velavaru",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.angsana.com/maldives/velavaru",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "jet ski",
+    "source_url": "https://www.angsana.com/maldives/velavaru/experiences/101-things-to-do",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.angsana.com/maldives/velavaru/experiences/101-things-to-do",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.angsana.com/maldives/velavaru/facilities",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "windsurfing",
+    "source_url": "https://www.angsana.com/maldives/velavaru/facilities",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "catamaran",
+    "source_url": "https://www.angsana.com/maldives/velavaru/facilities",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "water skiing",
+    "source_url": "https://www.angsana.com/maldives/velavaru/facilities",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "wakeboarding",
+    "source_url": "https://www.angsana.com/maldives/velavaru/facilities",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sailing",
+    "source_url": "https://www.angsana.com/maldives/velavaru/facilities",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "canoe",
+    "source_url": "https://www.angsana.com/maldives/velavaru/facilities",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.angsana.com/maldives/velavaru/experiences/family-vacations",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://www.angsana.com/maldives/velavaru/experiences/family-vacations",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "banana boat",
+    "source_url": "https://www.angsana.com/maldives/velavaru/experiences/family-vacations",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fun tube",
+    "source_url": "https://www.angsana.com/maldives/velavaru/experiences/family-vacations",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.angsana.com/maldives/velavaru/offers/come-closer",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.angsana.com/maldives/velavaru/offers/live-for-family-fun",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "banana boat",
+    "source_url": "https://www.angsana.com/maldives/velavaru/offers/live-for-family-fun",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.angsana.com/maldives/velavaru/experiences/into-the-blue",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "windsurfing",
+    "source_url": "https://www.angsana.com/maldives/velavaru/experiences/into-the-blue",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "kayaking",
+    "source_url": "https://www.angsana.com/maldives/velavaru/experiences/into-the-blue",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "jet ski",
+    "source_url": "https://www.angsana.com/maldives/velavaru/experiences/into-the-blue",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.angsana.com/maldives/velavaru/experiences/into-the-blue",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.angsana.com/maldives/velavaru/experiences/into-the-blue",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.angsana.com/maldives/velavaru/experiences/into-the-blue",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.angsana.com/maldives/velavaru/offers",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.angsana.com/maldives/velavaru/offers",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.angsana.com/maldives/velavaru/location",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.angsana.com/maldives/velavaru/experiences/resort-activities",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.angsana.com/maldives/velavaru/gallery",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.angsana.com/maldives/velavaru/experiences/family-adventures",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://www.angsana.com/maldives/velavaru/experiences/family-adventures",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "banana boat",
+    "source_url": "https://www.angsana.com/maldives/velavaru/experiences/family-adventures",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fun tube",
+    "source_url": "https://www.angsana.com/maldives/velavaru/experiences/family-adventures",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.angsana.com/maldives/velavaru/experiences/when-is-the-best-time-to-visit-the-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "surfing",
+    "source_url": "https://www.angsana.com/maldives/velavaru/experiences/when-is-the-best-time-to-visit-the-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.angsana.com/maldives/velavaru/experiences/when-is-the-best-time-to-visit-the-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.angsana.com/maldives/velavaru/experiences/when-is-the-best-time-to-visit-the-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.angsana.com/maldives/velavaru/experiences/intimate-moments",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.angsana.com/maldives/velavaru/experiences/stay-for-good",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.angsana.com/maldives/velavaru/experiences/water-activities",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "windsurfing",
+    "source_url": "https://www.angsana.com/maldives/velavaru/experiences/water-activities",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "kayaking",
+    "source_url": "https://www.angsana.com/maldives/velavaru/experiences/water-activities",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "jet ski",
+    "source_url": "https://www.angsana.com/maldives/velavaru/experiences/water-activities",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.angsana.com/maldives/velavaru/experiences/water-activities",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.angsana.com/maldives/velavaru/experiences/water-activities",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.angsana.com/maldives/velavaru/experiences/water-activities",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.angsana.com/maldives/velavaru/offers/voyage-to-velavaru",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.angsana.com/maldives/velavaru/offers/voyage-to-velavaru",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.angsana.com/maldives/velavaru/offers/sun-sea-fishing-in-velavaru",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.angsana.com/maldives/velavaru/offers/advance-purchase-offer",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.angsana.com/maldives/velavaru/offers/advance-purchase-offer",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.angsana.com/maldives/velavaru/offers/stay-more-pay-less",
+    "as_of": "2026-10-04"
    },
    {
     "value": "snorkeling",
@@ -578,6 +1305,56 @@
    {
     "value": "manta",
     "source_url": "https://www.neoscapesmaldives.com/resort/angsana-velavaru/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://mondomaldive.it/it/villaggio/angsana-velavaru/recensione/4279",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.mymaldives.com/resort-guide/angsana-resort-spa-maldives-velavaru/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://www.mymaldives.com/resort-guide/angsana-resort-spa-maldives-velavaru/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "windsurfing",
+    "source_url": "https://www.mymaldives.com/resort-guide/angsana-resort-spa-maldives-velavaru/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "catamaran",
+    "source_url": "https://www.mymaldives.com/resort-guide/angsana-resort-spa-maldives-velavaru/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.mymaldives.com/resort-guide/angsana-resort-spa-maldives-velavaru/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sailing",
+    "source_url": "https://www.mymaldives.com/resort-guide/angsana-resort-spa-maldives-velavaru/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "canoe",
+    "source_url": "https://www.mymaldives.com/resort-guide/angsana-resort-spa-maldives-velavaru/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.maldivestourism.net/resorts/angsana-velavaru/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.maldivestourism.net/resorts/angsana-velavaru/",
     "as_of": "2026-10-04"
    }
   ],
@@ -585,22 +1362,212 @@
    {
     "value": "local island",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Fact-Sheet-Angsana-Velavaru.pdf",
-    "as_of": 2023
+    "as_of": 2024
    },
    {
     "value": "dolphin",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Fact-Sheet-Angsana-Velavaru.pdf",
-    "as_of": 2023
+    "as_of": 2024
    },
    {
     "value": "turtle",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Fact-Sheet-Angsana-Velavaru.pdf",
-    "as_of": 2023
+    "as_of": 2024
    },
    {
     "value": "cinema",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Fact-Sheet-Angsana-Velavaru.pdf",
-    "as_of": 2023
+    "as_of": 2024
+   },
+   {
+    "value": "cooking class",
+    "source_url": "https://www.banyantree.com/assets/2025-06/bt-mayakoba-gastronomic-guide.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "cooking class",
+    "source_url": "https://cdn3.me-qr.com/pdf/20435864.pdf?time=1768340980",
+    "as_of": 2026
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.banyantree.com/assets/2021-11/under-the-banyan-tree-25th-anniversary-issue.pdf",
+    "as_of": 2019
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.banyantree.com/assets/2021-11/under-the-banyan-tree-25th-anniversary-issue.pdf",
+    "as_of": 2019
+   },
+   {
+    "value": "island hopping",
+    "source_url": "https://www.angsana.com/maldives/velavaru",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.angsana.com/maldives/velavaru",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.angsana.com/maldives/velavaru",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.angsana.com/maldives/velavaru",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.angsana.com/maldives/velavaru/experiences/101-things-to-do",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.angsana.com/maldives/velavaru/facilities",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "cooking class",
+    "source_url": "https://www.angsana.com/maldives/velavaru/experiences/family-vacations",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "local island",
+    "source_url": "https://www.angsana.com/maldives/velavaru/offers/live-for-family-fun",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "night fishing",
+    "source_url": "https://www.angsana.com/maldives/velavaru/experiences/into-the-blue",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "big game fishing",
+    "source_url": "https://www.angsana.com/maldives/velavaru/experiences/into-the-blue",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.angsana.com/maldives/velavaru/experiences/into-the-blue",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "big game fishing",
+    "source_url": "https://www.angsana.com/maldives/velavaru/offers",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "local island",
+    "source_url": "https://www.angsana.com/maldives/velavaru/location",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.angsana.com/maldives/velavaru/location",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "local island",
+    "source_url": "https://www.angsana.com/maldives/velavaru/experiences/culture-community",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "cooking class",
+    "source_url": "https://www.angsana.com/maldives/velavaru/experiences/culture-community",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.angsana.com/maldives/velavaru/experiences/resort-activities",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "cinema",
+    "source_url": "https://www.angsana.com/maldives/velavaru/experiences/resort-activities",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "night fishing",
+    "source_url": "https://www.angsana.com/maldives/velavaru/gallery",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "cooking class",
+    "source_url": "https://www.angsana.com/maldives/velavaru/experiences/family-adventures",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.angsana.com/maldives/velavaru/experiences/when-is-the-best-time-to-visit-the-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.angsana.com/maldives/velavaru/experiences/when-is-the-best-time-to-visit-the-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.angsana.com/maldives/velavaru/experiences/intimate-moments",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "cinema",
+    "source_url": "https://www.angsana.com/maldives/velavaru/experiences/intimate-moments",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "local island",
+    "source_url": "https://www.angsana.com/maldives/velavaru/experiences/cultural-immersions",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "cooking class",
+    "source_url": "https://www.angsana.com/maldives/velavaru/experiences/cultural-immersions",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "private dinner",
+    "source_url": "https://www.angsana.com/maldives/velavaru/experiences/wedding-proposal",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "stargazing",
+    "source_url": "https://www.angsana.com/maldives/velavaru/experiences/moments-to-come",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.angsana.com/maldives/velavaru/experiences/stay-for-good",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "night fishing",
+    "source_url": "https://www.angsana.com/maldives/velavaru/experiences/water-activities",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "big game fishing",
+    "source_url": "https://www.angsana.com/maldives/velavaru/experiences/water-activities",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.angsana.com/maldives/velavaru/experiences/water-activities",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.angsana.com/maldives/velavaru/offers/weddings-at-angsana-velavaru",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "big game fishing",
+    "source_url": "https://www.angsana.com/maldives/velavaru/offers/sun-sea-fishing-in-velavaru",
+    "as_of": "2026-10-04"
    },
    {
     "value": "whale shark",
@@ -611,13 +1578,73 @@
     "value": "manta",
     "source_url": "https://www.neoscapesmaldives.com/resort/angsana-velavaru/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://letsgomaldives.com/news/escape-to-maldives-with-angsana-velavaru/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "island hopping",
+    "source_url": "https://www.mymaldives.com/resort-guide/angsana-resort-spa-maldives-velavaru/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.mymaldives.com/resort-guide/angsana-resort-spa-maldives-velavaru/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.mymaldives.com/resort-guide/angsana-resort-spa-maldives-velavaru/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "night fishing",
+    "source_url": "https://www.mymaldives.com/resort-guide/angsana-resort-spa-maldives-velavaru/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "big game fishing",
+    "source_url": "https://www.mymaldives.com/resort-guide/angsana-resort-spa-maldives-velavaru/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.maldivestourism.net/resorts/angsana-velavaru/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "night fishing",
+    "source_url": "https://www.maldivestourism.net/resorts/angsana-velavaru/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.maldivestourism.net/resorts/angsana-velavaru/",
+    "as_of": "2026-10-04"
    }
   ],
   "kids_family.kids_club": [
    {
     "value": "Kids Club",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Fact-Sheet-Angsana-Velavaru.pdf",
-    "as_of": 2023
+    "as_of": 2024
+   },
+   {
+    "value": "Terra Kids Club",
+    "source_url": "https://www.angsana.com/maldives/velavaru/experiences/family-vacations",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Terra Kids Club",
+    "source_url": "https://www.angsana.com/maldives/velavaru/offers/live-for-family-fun",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Terra Kids Club",
+    "source_url": "https://www.angsana.com/maldives/velavaru/experiences/family-adventures",
+    "as_of": "2026-10-04"
    },
    {
     "value": "Kids Club",
@@ -629,23 +1656,108 @@
    {
     "value": "8-9 years",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Fact-Sheet-Angsana-Velavaru.pdf",
-    "as_of": 2023
+    "as_of": 2024
    }
   ],
   "wellness_fitness": [
    {
     "value": "gym",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Fact-Sheet-Angsana-Velavaru.pdf",
-    "as_of": 2023
+    "as_of": 2024
    },
    {
     "value": "beach volleyball",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Fact-Sheet-Angsana-Velavaru.pdf",
-    "as_of": 2023
+    "as_of": 2024
+   },
+   {
+    "value": "fitness centre",
+    "source_url": "https://www.banyantree.com/assets/2022-06/mice-bt-shanghai.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://cdn3.me-qr.com/pdf/20435864.pdf?time=1768340980",
+    "as_of": 2026
+   },
+   {
+    "value": "meditation",
+    "source_url": "https://cdn3.me-qr.com/pdf/20435864.pdf?time=1768340980",
+    "as_of": 2026
+   },
+   {
+    "value": "pilates",
+    "source_url": "https://cdn3.me-qr.com/pdf/20435864.pdf?time=1768340980",
+    "as_of": 2026
+   },
+   {
+    "value": "gym",
+    "source_url": "https://www.banyantree.com/assets/2021-11/under-the-banyan-tree-25th-anniversary-issue.pdf",
+    "as_of": 2019
+   },
+   {
+    "value": "steam",
+    "source_url": "https://www.banyantree.com/assets/2021-11/under-the-banyan-tree-25th-anniversary-issue.pdf",
+    "as_of": 2019
+   },
+   {
+    "value": "fitness centre",
+    "source_url": "https://www.angsana.com/maldives/velavaru",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fitness centre",
+    "source_url": "https://www.angsana.com/maldives/velavaru/facilities",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.angsana.com/maldives/velavaru/experiences",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.angsana.com/maldives/velavaru/spa",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fitness centre",
+    "source_url": "https://www.angsana.com/maldives/velavaru/spa",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.angsana.com/maldives/velavaru/experiences/sound-bath-experience",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "meditation",
+    "source_url": "https://www.angsana.com/maldives/velavaru/experiences/sound-bath-experience",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sound healing",
+    "source_url": "https://www.angsana.com/maldives/velavaru/experiences/sound-bath-experience",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sound healing",
+    "source_url": "https://www.angsana.com/maldives/velavaru/experiences/moments-to-come",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "wellness programme",
+    "source_url": "https://www.angsana.com/maldives/velavaru/experiences/moments-to-come",
+    "as_of": "2026-10-04"
    },
    {
     "value": "fitness centre",
     "source_url": "https://www.neoscapesmaldives.com/resort/angsana-velavaru/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "badminton",
+    "source_url": "https://www.mymaldives.com/resort-guide/angsana-resort-spa-maldives-velavaru/",
     "as_of": "2026-10-04"
    }
   ],
@@ -653,11 +1765,106 @@
    {
     "value": true,
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Fact-Sheet-Angsana-Velavaru.pdf",
-    "as_of": 2023
+    "as_of": 2024
+   },
+   {
+    "value": true,
+    "source_url": "https://www.banyantree.com/assets/2021-11/under-the-banyan-tree-25th-anniversary-issue.pdf",
+    "as_of": 2019
+   },
+   {
+    "value": true,
+    "source_url": "https://www.angsana.com/maldives/velavaru",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.angsana.com/maldives/velavaru/facilities",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.angsana.com/maldives/velavaru/experiences",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.angsana.com/maldives/velavaru/offers",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.angsana.com/maldives/velavaru/weddings-honeymoons",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.angsana.com/maldives/velavaru/weddings-honeymoons",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.angsana.com/maldives/velavaru/experiences/when-is-the-best-time-to-visit-the-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.angsana.com/maldives/velavaru/experiences/wedding-proposal",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.angsana.com/maldives/velavaru/experiences/wedding-proposal",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.angsana.com/maldives/velavaru/offers/weddings-at-angsana-velavaru",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.angsana.com/maldives/velavaru/offers/weddings-at-angsana-velavaru",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.angsana.com/maldives/velavaru/wedding-venues",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.angsana.com/maldives/velavaru/wedding-venues",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.angsana.com/maldives/velavaru/wedding-venues/beach-weddings",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.angsana.com/maldives/velavaru/wedding-venues/beach-weddings",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.angsana.com/maldives/velavaru/wedding-venues/beach-pavillion",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.angsana.com/maldives/velavaru/wedding-venues/beach-pavillion",
+    "as_of": "2026-10-04"
    },
    {
     "value": true,
     "source_url": "https://www.neoscapesmaldives.com/resort/angsana-velavaru/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.mymaldives.com/resort-guide/angsana-resort-spa-maldives-velavaru/",
     "as_of": "2026-10-04"
    }
   ],
@@ -665,23 +1872,452 @@
    {
     "value": "45 minutes from Velana International Meeting Room",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Fact-Sheet-Angsana-Velavaru.pdf",
-    "as_of": 2023
+    "as_of": 2024
+   },
+   {
+    "value": "Boardroom 32 sqm • • • • 10",
+    "source_url": "https://www.banyantree.com/assets/2022-06/mice-bt-shanghai.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": "Boardroom Banyan Room Summit Room 17",
+    "source_url": "https://www.banyantree.com/assets/2022-06/mice-bt-shanghai.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": "Extensive spa facilities, a luxurious ballroom",
+    "source_url": "https://www.banyantree.com/assets/2021-11/under-the-banyan-tree-25th-anniversary-issue.pdf",
+    "as_of": 2019
+   },
+   {
+    "value": "Total event space",
+    "source_url": "https://www.angsana.com/maldives/velavaru/meetings-and-events",
+    "as_of": "2026-10-04"
    }
   ],
   "sustainability": [
    {
     "value": "coral restoration",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Fact-Sheet-Angsana-Velavaru.pdf",
-    "as_of": 2023
+    "as_of": 2024
    },
    {
     "value": "marine lab",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Fact-Sheet-Angsana-Velavaru.pdf",
-    "as_of": 2023
+    "as_of": 2024
+   },
+   {
+    "value": "marine lab",
+    "source_url": "https://www.banyantree.com/assets/2021-11/under-the-banyan-tree-25th-anniversary-issue.pdf",
+    "as_of": 2019
+   },
+   {
+    "value": "single-use plastic",
+    "source_url": "https://www.banyantree.com/assets/2021-11/under-the-banyan-tree-25th-anniversary-issue.pdf",
+    "as_of": 2019
+   },
+   {
+    "value": "EarthCheck",
+    "source_url": "https://www.banyantree.com/assets/2021-11/under-the-banyan-tree-25th-anniversary-issue.pdf",
+    "as_of": 2019
+   },
+   {
+    "value": "marine lab",
+    "source_url": "https://www.angsana.com/maldives/velavaru/experiences/101-things-to-do",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "marine lab",
+    "source_url": "https://www.angsana.com/maldives/velavaru/facilities",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "marine lab",
+    "source_url": "https://www.angsana.com/maldives/velavaru/experiences/family-vacations",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "marine lab",
+    "source_url": "https://www.angsana.com/maldives/velavaru/offers/live-for-family-fun",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "marine lab",
+    "source_url": "https://www.angsana.com/maldives/velavaru/sustainability",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "marine lab",
+    "source_url": "https://www.angsana.com/maldives/velavaru/experiences/family-adventures",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "coral restoration",
+    "source_url": "https://www.angsana.com/maldives/velavaru/experiences/stay-for-good",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "marine biologist",
+    "source_url": "https://www.angsana.com/maldives/velavaru/experiences/stay-for-good",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "marine lab",
+    "source_url": "https://www.angsana.com/maldives/velavaru/experiences/stay-for-good",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "reef restoration",
+    "source_url": "https://www.angsana.com/maldives/velavaru/experiences/stay-for-good",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "marine lab",
+    "source_url": "https://www.angsana.com/maldives/velavaru/offers/voyage-to-velavaru",
+    "as_of": "2026-10-04"
    },
    {
     "value": "marine lab",
     "source_url": "https://www.neoscapesmaldives.com/resort/angsana-velavaru/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "villas.total": [
+   {
+    "value": 130,
+    "source_url": "https://www.banyantree.com/assets/2022-06/mice-bt-shanghai.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": 158,
+    "source_url": "https://www.banyantree.com/assets/2021-11/under-the-banyan-tree-25th-anniversary-issue.pdf",
+    "as_of": 2019
+   },
+   {
+    "value": 113,
+    "source_url": "https://www.angsana.com/maldives/velavaru",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 84,
+    "source_url": "https://www.mymaldives.com/resort-guide/angsana-resort-spa-maldives-velavaru/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 79,
+    "source_url": "https://www.maldivestourism.net/resorts/angsana-velavaru/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "kids_family.teens": [
+   {
+    "value": "teens programme mentioned",
+    "source_url": "https://cdn3.me-qr.com/pdf/20435864.pdf?time=1768340980",
+    "as_of": 2026
+   }
+  ],
+  "opened_or_renovated": [
+   {
+    "value": "opened 2008",
+    "source_url": "https://www.banyantree.com/assets/2021-11/under-the-banyan-tree-25th-anniversary-issue.pdf",
+    "as_of": 2019
+   }
+  ],
+  "weddings.venues": [
+   {
+    "value": "and a wedding chapel that can host intimate",
+    "source_url": "https://www.banyantree.com/assets/2021-11/under-the-banyan-tree-25th-anniversary-issue.pdf",
+    "as_of": 2019
+   },
+   {
+    "value": "Velavaru Beach Wedding White Set up",
+    "source_url": "https://www.angsana.com/maldives/velavaru/weddings-honeymoons",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Velavaru Beach Wedding White Set up",
+    "source_url": "https://www.angsana.com/maldives/velavaru/weddings-honeymoons",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Velavaru Beach Wedding White Set up",
+    "source_url": "https://www.angsana.com/maldives/velavaru/weddings-honeymoons",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Velavaru Beach Wedding White Set up",
+    "source_url": "https://www.angsana.com/maldives/velavaru/weddings-honeymoons",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Velavaru Beach Wedding White Set up",
+    "source_url": "https://www.angsana.com/maldives/velavaru/weddings-honeymoons",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Velavaru Beach Wedding White Set up",
+    "source_url": "https://www.angsana.com/maldives/velavaru/weddings-honeymoons",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Velavaru Pink Beach Wedding Set up",
+    "source_url": "https://www.angsana.com/maldives/velavaru/weddings-honeymoons",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Velavaru Pink Beach Wedding Set up",
+    "source_url": "https://www.angsana.com/maldives/velavaru/weddings-honeymoons",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Velavaru Pink Beach Wedding Set up",
+    "source_url": "https://www.angsana.com/maldives/velavaru/weddings-honeymoons",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Velavaru Pink Beach Wedding Set up",
+    "source_url": "https://www.angsana.com/maldives/velavaru/weddings-honeymoons",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Velavaru Pink Beach Wedding Set up",
+    "source_url": "https://www.angsana.com/maldives/velavaru/weddings-honeymoons",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Beach Pavillion Wedding",
+    "source_url": "https://www.angsana.com/maldives/velavaru/wedding-venues/beach-pavillion",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "contacts_public.phone": [
+   {
+    "value": "+960 664 3147",
+    "source_url": "https://www.banyantree.com/assets/2021-11/under-the-banyan-tree-25th-anniversary-issue.pdf",
+    "as_of": 2019
+   },
+   {
+    "value": "+960 676 0028",
+    "source_url": "https://www.angsana.com/maldives/velavaru",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+ 960 996 2660",
+    "source_url": "https://www.angsana.com/maldives/velavaru/experiences/photography-packages",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+ 960 996 2660",
+    "source_url": "https://www.angsana.com/maldives/velavaru/experiences/photography-package",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 676 0028",
+    "source_url": "https://www.angsana.com/maldives/velavaru/experiences/wedding-proposal",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 736 5425",
+    "source_url": "https://www.neoscapesmaldives.com/resort/angsana-velavaru/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 676 0028",
+    "source_url": "https://www.maldivestourism.net/resorts/angsana-velavaru/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "transfer.minutes.speedboat": [
+   {
+    "value": 5,
+    "source_url": "https://www.angsana.com/maldives/velavaru",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 5,
+    "source_url": "https://www.angsana.com/maldives/velavaru/location",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "meal_plans": [
+   {
+    "value": "BB",
+    "source_url": "https://www.angsana.com/maldives/velavaru",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "HB",
+    "source_url": "https://www.angsana.com/maldives/velavaru",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "FB",
+    "source_url": "https://www.angsana.com/maldives/velavaru",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://www.angsana.com/maldives/velavaru",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://www.angsana.com/maldives/velavaru/experiences/101-things-to-do",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Premium AI",
+    "source_url": "https://www.angsana.com/maldives/velavaru/experiences/101-things-to-do",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://www.angsana.com/maldives/velavaru/experiences",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Premium AI",
+    "source_url": "https://www.angsana.com/maldives/velavaru/experiences",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://www.angsana.com/maldives/velavaru/offers",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "HB",
+    "source_url": "https://www.angsana.com/maldives/velavaru/offers/advance-purchase-offer",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "FB",
+    "source_url": "https://www.angsana.com/maldives/velavaru/offers/advance-purchase-offer",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://www.angsana.com/maldives/velavaru/offers/advance-purchase-offer",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://mondomaldive.it/it/villaggio/angsana-velavaru/recensione/4521",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://mondomaldive.it/it/villaggio/angsana-velavaru/recensione/4279",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://mondomaldive.it/it/villaggio/angsana-velavaru/recensione/6713",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "all_inclusive_details": [
+   {
+    "value": "All-Inclusive Packages designed for different types of holidaymakers.",
+    "source_url": "https://www.angsana.com/maldives/velavaru",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "all-inclusive resort, provides the ultimate canvas for you to create cherished memories.",
+    "source_url": "https://www.angsana.com/maldives/velavaru/experiences/101-things-to-do",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "all-inclusive resort provides the ultimate canvas for you to create cherished memories.",
+    "source_url": "https://www.angsana.com/maldives/velavaru/experiences",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "all-inclusive deals for romantic journeys and family holidays above the Indian Ocean.",
+    "source_url": "https://www.angsana.com/maldives/velavaru/offers",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "All-Inclusive options, tailored to elevate your dining experience in paradise.",
+    "source_url": "https://www.angsana.com/maldives/velavaru/meal-plans",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "All Inclusive Dine package, every moment is covered – breakfast by the beach, gourmet dinners, refreshing cocktails, and more.",
+    "source_url": "https://www.angsana.com/maldives/velavaru/offers/advance-purchase-offer",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "contacts_public.reservations_email": [
+   {
+    "value": "reservations-velavaru@angsana.com",
+    "source_url": "https://www.angsana.com/maldives/velavaru",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "reservations-velavaru@angsana.com",
+    "source_url": "https://www.angsana.com/maldives/velavaru/meetings-and-events",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "reservations-velavaru@angsana.com",
+    "source_url": "https://www.angsana.com/maldives/velavaru/weddings-honeymoons",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "reservations.maldive@groupbanyan.com",
+    "source_url": "https://www.angsana.com/maldives/velavaru/experiences/wedding-proposal",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "reservations-velavaru@angsana.com",
+    "source_url": "https://www.angsana.com/maldives/velavaru/offers/weddings-at-angsana-velavaru",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "reservations-velavaru@angsana.com",
+    "source_url": "https://www.angsana.com/maldives/velavaru/wedding-venues",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "info@neoscapesmaldives.com",
+    "source_url": "https://www.neoscapesmaldives.com/resort/angsana-velavaru/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "star_rating": [
+   {
+    "value": "5-star",
+    "source_url": "https://www.angsana.com/maldives/velavaru/facilities",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "5-star",
+    "source_url": "https://www.angsana.com/maldives/velavaru/experiences",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "5-star",
+    "source_url": "https://www.angsana.com/maldives/velavaru/experiences/when-is-the-best-time-to-visit-the-maldives",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "weddings.vow_renewal": [
+   {
+    "value": true,
+    "source_url": "https://www.angsana.com/maldives/velavaru/weddings-honeymoons",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "weddings.packages": [
+   {
+    "value": {
+     "name": "Drone Package",
+     "price": "220",
+     "currency": "USD",
+     "as_of": "2026-10-04"
+    },
+    "source_url": "https://www.angsana.com/maldives/velavaru/experiences/wedding-proposal",
     "as_of": "2026-10-04"
    }
   ],
@@ -691,21 +2327,7 @@
     "source_url": "https://www.neoscapesmaldives.com/resort/angsana-velavaru/",
     "as_of": "2026-10-04"
    }
-  ],
-  "contacts_public.reservations_email": [
-   {
-    "value": "info@neoscapesmaldives.com",
-    "source_url": "https://www.neoscapesmaldives.com/resort/angsana-velavaru/",
-    "as_of": "2026-10-04"
-   }
-  ],
-  "contacts_public.phone": [
-   {
-    "value": "+960 736 5425",
-    "source_url": "https://www.neoscapesmaldives.com/resort/angsana-velavaru/",
-    "as_of": "2026-10-04"
-   }
   ]
  },
- "last_updated": "2026-10-04"
+ "last_updated": "2026-10-05"
 }

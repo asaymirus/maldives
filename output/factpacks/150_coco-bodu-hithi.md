@@ -1,37 +1,36 @@
 # 150. Coco Bodu Hithi
 
-**Official site:** n/a (None)  
+**Official site:** https://www.cococollection.com/bodu-hithi (ok)  
 **Brand:** Coco  
-**Atoll:** North Malé Atoll  **Island:** Coco Bodu  
+**Atoll:** Baa Atoll  **Island:** Coco Bodu  
 **Opened/renovated:** n/a  **Rating:** n/a  
-**Transfer:** seaplane, speedboat; minutes: {"speedboat": 40}  
+**Transfer:** seaplane, speedboat; minutes: {"seaplane": 30, "speedboat": 35}  
 **Island size:** n/a  
 
-## Villas (100 total)
+## Villas (23 total)
 
-- Number of Villas: count 100, ? sqm, max ?
 - coco residence coco bodu hithi resort: count 3, ? sqm, max ?
 
 ## Dining
 
 - Longitude Departure Lounge (bar)
 - Arrival & Departure Lounge AIR (bar)
-- Dining (restaurant)
 
-Meal plans: n/a
+Meal plans: AI
+All-inclusive: All-Inclusive and more festive benefits.
 
 ## Spa & wellness
 
-- Spa: Spa; treatment rooms: ?; menu: none
-- Wellness/fitness: yoga, gym, tennis, fitness centre, fitness center
+- Spa: Palm Dhuni Kolhu Spa; treatment rooms: ?; menu: none
+- Wellness/fitness: yoga, gym, tennis, fitness centre, fitness center, beach volleyball, meditation
 
 ## Diving, water sports & excursions
 
 - Operator: Dive Ocean
-- House reef: house reef →  Indoor and outdoor shower → Private infinity pool  → Sundeck with loungers and daybed → Mini bar → In-villa entertainment system with plasma TV → Espresso m
+- House reef: House Reef meets the open elegance of pristine palm-fringed beaches
 - Activities: snorkelling, windsurfing, catamaran, jet ski, water skiing, fishing, sunset cruise, manta, sailing, banana boat, canoe, snorkeling
 - Price list: none
-- Excursions: sandbank, sunset fishing, big game fishing, manta, picnic, cinema
+- Excursions: sandbank, sunset fishing, big game fishing, manta, picnic, cinema, turtle, dolphin
 
 ## Kids & family
 
@@ -73,4 +72,4 @@ Meal plans: n/a
 - wedding brochure
 - events/MICE document
 
-_Facts extracted by rules from 17 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-04._
+_Facts extracted by rules from 20 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

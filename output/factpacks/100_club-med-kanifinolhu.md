@@ -1,36 +1,42 @@
 # 100. Club Med Kanifinolhu
 
-**Official site:** n/a (None)  
+**Official site:** https://www.clubmed.us/r/kani/y (ok)  
 **Brand:** Club Med  
-**Atoll:** n/a  **Island:** n/a  
-**Opened/renovated:** n/a  **Rating:** n/a  
-**Transfer:** n/a; minutes: {}  
-**Island size:** n/a  
+**Atoll:** North Malé Atoll  **Island:** n/a  
+**Opened/renovated:** opened 2024  **Rating:** n/a  
+**Transfer:** domestic flight, speedboat; minutes: {"speedboat": 25}  
+**Island size:** 60 ha  
 
 ## Villas (? total)
 
 
 ## Dining
 
+- Lounge area, Furnished (bar)
+- Collection Beach Bar (bar)
+- Umbrellas body lotion Bar (bar)
+- Main bar Exclusive Collection Bar (bar)
+- Underwater Restaurant Dining Experience (restaurant)
 
-Meal plans: n/a
+Meal plans: AI
+All-inclusive: All-Inclusive resort in the Maldives is simply paradise.
 
 ## Spa & wellness
 
-- Spa: n/a; treatment rooms: ?; menu: none
-- Wellness/fitness: n/a
+- Spa: Club Med Spa; treatment rooms: ?; menu: none
+- Wellness/fitness: yoga, tennis, padel, badminton, beach volleyball
 
 ## Diving, water sports & excursions
 
 - Operator: n/a
-- House reef: n/a
-- Activities: n/a
+- House reef: house reef directly from the beach and is not recommended for guests primarily interested in snorkelling
+- Activities: snorkeling, scuba diving, surfing, catamaran, manta, sailing, fishing, snorkelling, kayaking, paddleboard, stand-up paddle
 - Price list: none
-- Excursions: n/a
+- Excursions: sandbank, manta, picnic, dolphin, turtle
 
 ## Kids & family
 
-- Kids club: n/a; ages: n/a; teens: n/a
+- Kids club: Teens Club; ages: n/a; teens: teens programme mentioned
 
 ## Weddings
 
@@ -46,15 +52,15 @@ Meal plans: n/a
 
 ## Sustainability
 
-- n/a
+- marine biologist, solar, plastic-free, single-use plastic, desalination, Green Globe
 
 ## Public contacts
 
-- Reservations: n/a; weddings: n/a; phone: n/a
+- Reservations: n/a; weddings: n/a; phone: +9607776038
 
 ## Latest documents
 
-- factsheet: none
+- factsheet: https://factsheets.clubmed/en-us/factsheet_kanc.pdf
 - map: none
 - wedding: none
 - spa_menu: none
@@ -65,19 +71,12 @@ Meal plans: n/a
 
 ## Gaps
 
-- factsheet
 - wedding brochure
 - events/MICE document
 - fact: villas.total
 - fact: villa categories
-- fact: dining
-- fact: transfer
-- fact: atoll
-- fact: spa
 - fact: dive operator
-- fact: kids club
 - fact: weddings
 - fact: contacts
-- no documents or pages collected
 
-_Facts extracted by rules from 0 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-04._
+_Facts extracted by rules from 17 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

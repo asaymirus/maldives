@@ -1,28 +1,34 @@
 # 104. Medhufushi Island Resort
 
-**Official site:** n/a (None)  
+**Official site:** https://www.medhufushi.com/ (blocked-partial)  
 **Brand:** n/a  
 **Atoll:** n/a  **Island:** n/a  
 **Opened/renovated:** n/a  **Rating:** n/a  
-**Transfer:** n/a; minutes: {}  
+**Transfer:** seaplane; minutes: {}  
 **Island size:** n/a  
 
 ## Villas (? total)
 
+- Beach Villas: count 44, 65 sqm, max ?
+- Family Villas: count 14, ? sqm, max ?
+- Beach Suites Villas: count 16, 178 sqm, max ?
+- Water Villas: count 44, 60 sqm, max ?
+- Honeymoon Villas: count 2, 152 sqm, max ?
 
 ## Dining
 
+- Mini Bar (bar)
 
 Meal plans: n/a
 
 ## Spa & wellness
 
-- Spa: n/a; treatment rooms: ?; menu: none
+- Spa: Medhufushi Resort Spa; treatment rooms: ?; menu: none
 - Wellness/fitness: n/a
 
 ## Diving, water sports & excursions
 
-- Operator: n/a
+- Operator: Werner Lau
 - House reef: n/a
 - Activities: n/a
 - Price list: none
@@ -50,7 +56,7 @@ Meal plans: n/a
 
 ## Public contacts
 
-- Reservations: n/a; weddings: n/a; phone: n/a
+- Reservations: n/a; weddings: n/a; phone: + 960 672 0026
 
 ## Latest documents
 
@@ -69,15 +75,9 @@ Meal plans: n/a
 - wedding brochure
 - events/MICE document
 - fact: villas.total
-- fact: villa categories
-- fact: dining
-- fact: transfer
 - fact: atoll
-- fact: spa
-- fact: dive operator
 - fact: kids club
 - fact: weddings
 - fact: contacts
-- no documents or pages collected
 
-_Facts extracted by rules from 0 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-04._
+_Facts extracted by rules from 6 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

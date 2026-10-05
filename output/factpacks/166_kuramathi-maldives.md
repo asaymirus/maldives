@@ -1,32 +1,39 @@
 # 166. Kuramathi Maldives
 
-**Official site:** n/a (None)  
+**Official site:** https://www.kuramathi.com/ (ok)  
 **Brand:** Kuramathi  
-**Atoll:** Alifu Alifu Atoll  **Island:** n/a  
+**Atoll:** Ari Atoll  **Island:** Rasdhoo Atoll  
 **Opened/renovated:** n/a  **Rating:** n/a  
-**Transfer:** seaplane; minutes: {"seaplane": 20}  
+**Transfer:** seaplane, speedboat; minutes: {"seaplane": 20, "speedboat": 75}  
 **Island size:** n/a  
 
 ## Villas (? total)
 
-- Garden Villas - Beach Villas - Beach Villas with Jacuzzi: count 12, 45 sqm, max ?
-- Number of Villas: count 360, ? sqm, max ?
+- Beach Villas - Highlights: count 71, 70 sqm, max ?
+- Beach Bungalows - Highlights: count 33, 90 sqm, max ?
+- Superior Beach Villas - Highlights: count 35, 90 sqm, max ?
+- Delu e Beach Villas - Highlights: count 31, 95 sqm, max ?
+- Water Villas - Highlights: count 50, 90 sqm, max ?
+- Delu e Water Villas - Highlights: count 30, 115 sqm, max ?
+- Pool Villas - Highlights: count 12, 165 sqm, max ?, pool
+- Water Villas with Pool - Highlights: count 33, 142 sqm, max ?, pool
+- Thundi Water Villas with Pool - Highlights: count 16, 142 sqm, max ?, pool
+- Honeymoon Pool Villas - Highlights: count 2, 310 sqm, max ?, pool
 
 ## Dining
 
-- Lounge & Transfer (bar)
-- Lounge with lockers and shower facilities (bar)
-- Fung Bar Pool Bar Sand Bar (bar)
-- Dhoni Bar Havana Club (bar)
-- Laguna Bar (bar)
-- other at Laguna Bar. (bar)
-- Dining (restaurant)
-- Private Dining Experiences (restaurant)
+- Doctors on Site - Lounge with Lockers (bar)
+- Fung Bar Havana Club Wine & Cigar Bar (bar)
+- Dhoni Bar Sand Bar (bar)
+- Laguna Bar Champagne Loft (bar)
+- Sky Bar (bar)
+- pool, and a Pool Bar. (bar)
+- Pizza Bar (bar)
 - Fung Bar (bar)
 - Dhoni Bar (bar)
 - Pool Bar (bar)
-- Sky Bar - Blending privacy and luxury in a sky high setting (bar)
 - Havana Club Wine & Cigar Bar (bar)
+- Laguna Bar (bar)
 - Sand Bar (bar)
 
 Meal plans: AI
@@ -34,28 +41,27 @@ All-inclusive: all inclusive packages.
 
 ## Spa & wellness
 
-- Spa: Fun
-Spa; treatment rooms: 13; menu: none
-- Wellness/fitness: gym, tennis, sauna, steam, fitness center
+- Spa: Spa; treatment rooms: 13; menu: none
+- Wellness/fitness: yoga, gym, fitness centre, tennis, badminton, sauna, steam, fitness center
 
 ## Diving, water sports & excursions
 
-- Operator: n/a
-- House reef: house reef with its colourful myriad of marine life
-- Activities: snorkelling, windsurfing, kayaking, catamaran, parasailing, water skiing, fishing, sunset cruise, manta, sailing, semi-submarine, surfing, stand-up paddle, wakeboarding, fun tube
+- Operator: Dive Centre
+- House reef: house reef directly accessible
+- Activities: snorkelling, windsurfing, surfing, kayaking, paddleboard, catamaran, jet ski, parasailing, wakeboarding, fishing, manta, sailing, semi-submarine, stand-up paddle, water skiing, sunset cruise, fun tube, snorkeling
 - Price list: none
-- Excursions: island hopping, local island, sandbank, night fishing, big game fishing, manta, turtle, snorkel safari
+- Excursions: island hopping, local island, sandbank, dolphin, big game fishing, manta, turtle, snorkel safari, cooking class, cinema
 
 ## Kids & family
 
-- Kids club: Kids Club; ages: n/a; teens: n/a
+- Kids club: Bageecha Kids Club; ages: 3-12 years; teens: n/a
 
 ## Weddings
 
 - Offered: True; vow renewal: True
 - Venues: n/a
-- Packages: n/a
-- Brochure: none
+- Packages: Vow USD 4430 (2026)
+- Brochure: https://www.nivahotelsandresorts.com/wp-content/uploads/2026/05/Renewal-of-Vows-Niva-Kuramathi.pdf
 
 ## Events / MICE
 
@@ -64,28 +70,26 @@ Spa; treatment rooms: 13; menu: none
 
 ## Sustainability
 
-- hydroponic
+- marine biologist
 
 ## Public contacts
 
-- Reservations: info@neoscapesmaldives.com; weddings: n/a; phone: +960 736 5425
+- Reservations: info@nivakuramathi.com; weddings: n/a; phone: +960 736 5425
 
 ## Latest documents
 
-- factsheet: https://www.neoscapesmaldives.com/wp-content/uploads/Factsheet-Kuramathi-Maldives.pdf
+- factsheet: https://www.nivakurumba.com/wp-content/uploads/2026/02/Kuramathi-Fact-Sheet.pdf
 - map: https://www.neoscapesmaldives.com/wp-content/uploads/Map-Kuramathi-Maldives.pdf
-- wedding: none
+- wedding: https://www.nivahotelsandresorts.com/wp-content/uploads/2026/05/Renewal-of-Vows-Niva-Kuramathi.pdf
 - spa_menu: none
-- dining_menu: none
+- dining_menu: https://www.nivahotelsandresorts.com/wp-content/uploads/2026/06/Palm-Dinner-Menu-2.pdf
 - dive_prices: none
 - events: none
-- calendar: none
+- calendar: https://letsgomaldives.com/wp-content/uploads/2026/02/Easter-on-Niva-Kuramathi.pdf
 
 ## Gaps
 
-- wedding brochure
 - events/MICE document
 - fact: villas.total
-- fact: dive operator
 
-_Facts extracted by rules from 19 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-04._
+_Facts extracted by rules from 24 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

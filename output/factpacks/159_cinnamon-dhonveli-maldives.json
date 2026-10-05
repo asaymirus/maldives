@@ -7,16 +7,17 @@
   "Dhonveli",
   "Kanuhuraa"
  ],
- "official_url": null,
- "official_site_status": null,
+ "official_url": "https://www.cinnamonhotels.com/",
+ "official_site_status": "ok",
  "operator_brand": "Cinnamon",
- "atoll": "North Male Atoll",
+ "atoll": "Ari Atoll",
  "island": null,
- "opened_or_renovated": null,
- "star_rating": null,
+ "opened_or_renovated": "opened 2024",
+ "star_rating": "4-star",
  "transfer": {
   "modes": [
-   "speedboat"
+   "speedboat",
+   "yacht"
   ],
   "minutes": {
    "seaplane": null,
@@ -27,11 +28,59 @@
  },
  "island_size": "700 m x 110 m",
  "villas": {
-  "total": null,
+  "total": 146,
   "categories": [
    {
-    "name": "Number of Villas",
-    "count": 152,
+    "name": "Habarana Village by",
+    "count": 5,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "Village by Cinnamon for the FY /",
+    "count": 25,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "Yala Village Pvt Ltd",
+    "count": 848,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "Yala Village Pvt Ltd Income approach - Rs. , - . % Negative",
+    "count": 406,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "Yala Village Pvt Ltd Sri Lanka Tourism",
+    "count": 184,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "Yala Village Pvt -month SOFR- monthly instalments",
+    "count": 496,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "Habarana Village by Cinnamon",
+    "count": 95,
     "size_sqm": null,
     "max_occupancy": null,
     "pool": null,
@@ -41,19 +90,9 @@
  },
  "dining": [
   {
-   "name": "Restaurants & Dining",
-   "cuisine": null,
-   "type": "restaurant"
-  },
-  {
    "name": "Koimala Restaurant MEAL TIMES",
    "cuisine": null,
    "type": "restaurant"
-  },
-  {
-   "name": "Beach Bar * All meals are served buffet-style",
-   "cuisine": null,
-   "type": "bar"
   },
   {
    "name": "Kotmala Restaurant       ",
@@ -76,21 +115,6 @@
    "type": "bar"
   },
   {
-   "name": "Full Mini Bar Entitlements – Refilled once daily",
-   "cuisine": null,
-   "type": "bar"
-  },
-  {
-   "name": "In – Room Dining",
-   "cuisine": null,
-   "type": "restaurant"
-  },
-  {
-   "name": "Dining",
-   "cuisine": null,
-   "type": "restaurant"
-  },
-  {
    "name": "Beach Bar",
    "cuisine": null,
    "type": "bar"
@@ -111,8 +135,13 @@
    "type": "restaurant"
   }
  ],
- "meal_plans": [],
- "all_inclusive_details": null,
+ "meal_plans": [
+  "BB",
+  "HB",
+  "FB",
+  "AI"
+ ],
+ "all_inclusive_details": "all-inclusive con upgrade in o.",
  "spa": {
   "name": "Chavana Spa",
   "treatment_rooms": null,
@@ -121,7 +150,7 @@
  },
  "diving_watersports": {
   "operator": null,
-  "house_reef": null,
+  "house_reef": "house reefs while Cinnamon Hakuraa",
   "activities": [
    "snorkelling",
    "scuba diving",
@@ -132,19 +161,24 @@
    "parasailing",
    "fishing",
    "canoe",
+   "sailing",
+   "fun tube",
    "kayaking",
    "sunset cruise",
    "dolphin cruise",
-   "flyboard"
+   "flyboard",
+   "snorkeling",
+   "water skiing"
   ],
   "price_list_doc": null
  },
  "excursions": [
-  "island hopping",
   "local island",
+  "turtle",
+  "island hopping",
   "dolphin",
   "big game fishing",
-  "turtle"
+  "picnic"
  ],
  "kids_family": {
   "kids_club": "Kids Club",
@@ -157,6 +191,7 @@
   "tennis",
   "badminton",
   "beach volleyball",
+  "meditation",
   "fitness center",
   "steam"
  ],
@@ -175,7 +210,20 @@
   "buyout": null,
   "doc": null
  },
- "sustainability": [],
+ "sustainability": [
+  "coral restoration",
+  "coral nursery",
+  "marine biologist",
+  "solar",
+  "single-use plastic",
+  "EarthCheck",
+  "Travelife",
+  "hydroponic",
+  "composting",
+  "reef restoration",
+  "Olive Ridley Project",
+  "ISO 14001"
+ ],
  "contacts_public": {
   "reservations_email": "info@neoscapesmaldives.com",
   "weddings_email": null,
@@ -186,16 +234,15 @@
   "map": "https://www.neoscapesmaldives.com/wp-content/uploads/Resort-Map_English.pdf",
   "wedding": null,
   "spa_menu": null,
-  "dining_menu": null,
+  "dining_menu": "https://d18slle4wlf9ku.cloudfront.net/www.cinnamonhotels.com-1302818674/cms/pressroom/sapphire_dragon_menu.pdf",
   "dive_prices": null,
   "events": null,
-  "calendar": null
+  "calendar": "https://letsgomaldives.com/wp-content/uploads/2026/08/Dhonveli_Festive-Brochure.pdf"
  },
- "documents_count": 3,
+ "documents_count": 24,
  "gaps": [
   "wedding brochure",
   "events/MICE document",
-  "fact: villas.total",
   "fact: dive operator"
  ],
  "sources": {
@@ -204,12 +251,222 @@
     "value": "North Male Atoll",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Fact-sheet-Dhonveli.pdf",
     "as_of": 2023
+   },
+   {
+    "value": "Dhaalu Atoll",
+    "source_url": "https://visitmaldives.s3.amazonaws.com/eY3VWxw3/o8txtj8h.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": "North Malé Atoll",
+    "source_url": "https://d18slle4wlf9ku.cloudfront.net/www.cinnamonhotels.com-1302818674/cms/pressroom/john_keells_hotels_plc_annual_report_2425.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "North Malé Atoll",
+    "source_url": "https://d18slle4wlf9ku.cloudfront.net/www.cinnamonhotels.com-1302818674/cms/pressroom/john_keells_hotels_plc_integrated_report_2024_25.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "Ari Atoll",
+    "source_url": "https://www.cinnamonhotels.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Ari Atoll",
+    "source_url": "https://www.cinnamonhotels.com/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Ari Atoll",
+    "source_url": "https://www.cinnamonhotels.com/cinnamon-dhonveli-maldives/rooms-suites",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Ari Atoll",
+    "source_url": "https://www.cinnamonhotels.com/trinco-blu-by-cinnamon/dining/captains-deck",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Ari Atoll",
+    "source_url": "https://www.cinnamonhotels.com/book-direct/maldives-resorts",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Ari Atoll",
+    "source_url": "https://www.cinnamonhotels.com/cinnamon-lakeside-colombo/weddings-and-events",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Ari Atoll",
+    "source_url": "https://www.cinnamonhotels.com/trinco-blu-by-cinnamon/dining/the-crab",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Ari Atoll",
+    "source_url": "https://www.cinnamonhotels.com/hikka-tranz-by-cinnamon/dining/the-crab-shack",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Ari Atoll",
+    "source_url": "https://www.cinnamonhotels.com/cinnamon-grand-colombo/dining/the-london-grill",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Ari Atoll",
+    "source_url": "https://www.cinnamonhotels.com/cinnamon-bentota-beach/experiences",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Ari Atoll",
+    "source_url": "https://www.cinnamonhotels.com/cinnamon-bey-beruwala/meetings-events",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Ari Atoll",
+    "source_url": "https://www.cinnamonhotels.com/cinnamon-life-city-of-dreams-sri-lanka/cumulus-ballroom",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Ari Atoll",
+    "source_url": "https://www.cinnamonhotels.com/cinnamon-grand-colombo/dining/nuga-gama",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Ari Atoll",
+    "source_url": "https://www.cinnamonhotels.com/trinco-blu-by-cinnamon/dining/ceylonese-gastronomy",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Ari Atoll",
+    "source_url": "https://www.cinnamonhotels.com/cinnamon-nature-trails/our-excursions",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Ari Atoll",
+    "source_url": "https://www.cinnamonhotels.com/cinnamon-grand-colombo/dining/breeze-bar",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Ari Atoll",
+    "source_url": "https://www.cinnamonhotels.com/cinnamon-lakeside-colombo/dining/pool-bar-bistro",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Ari Atoll",
+    "source_url": "https://www.cinnamonhotels.com/cinnamon-lakeside-colombo/experiences/adventure-in-the-colombo-wetlands",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Ari Atoll",
+    "source_url": "https://www.cinnamonhotels.com/habarana-village-by-cinnamon/experiences/sri-lankan-meal-experience",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Ari Atoll",
+    "source_url": "https://www.cinnamonhotels.com/cinnamon-lodge-habarana/experiences",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Ari Atoll",
+    "source_url": "https://www.cinnamonhotels.com/cinnamon-life-city-of-dreams-sri-lanka/dining/indiya",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Ari Atoll",
+    "source_url": "https://www.cinnamonhotels.com/cinnamon-nature-trails/cinnamon-elephant-programe",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Ari Atoll",
+    "source_url": "https://www.cinnamonhotels.com/cinnamon-lakeside-colombo/dining/goodies",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Ari Atoll",
+    "source_url": "https://www.cinnamonhotels.com/cinnamon-hakuraa-huraa-maldives/dining/vevu-bar-lounge",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Ari Atoll",
+    "source_url": "https://www.cinnamonhotels.com/cinnamon-citadel-kandy/dine-with-us",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Ari Atoll",
+    "source_url": "https://www.cinnamonhotels.com/cinnamon-wild-yala/dining/peacock-bar",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Ari Atoll",
+    "source_url": "https://www.cinnamonhotels.com/cinnamon-hakuraa-huraa-maldives/dining/veli-bar-and-lounge",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Ari Atoll",
+    "source_url": "https://www.cinnamonhotels.com/cinnamon-life-city-of-dreams-sri-lanka/the-podium",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Ari Atoll",
+    "source_url": "https://www.cinnamonhotels.com/cinnamon-life-city-of-dreams-sri-lanka/dining/sapphire-dragon",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Ari Atoll",
+    "source_url": "https://www.cinnamonhotels.com/cinnamon-velifushi-maldives/dining/vah-global-dining",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Ari Atoll",
+    "source_url": "https://www.cinnamonhotels.com/cinnamon-velifushi-maldives/dining/marlin",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Ari Atoll",
+    "source_url": "https://www.cinnamonhotels.com/cinnamon-lakeside-colombo/dining/room-service",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Ari Atoll",
+    "source_url": "https://www.cinnamonhotels.com/cinnamon-hakuraa-huraa-maldives/dining/malaafaiy-restaurant",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Ari Atoll",
+    "source_url": "https://www.cinnamonhotels.com/habarana-village-by-cinnamon/meetings-events",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Ari Atoll",
+    "source_url": "https://www.cinnamonhotels.com/cinnamon-red-colombo/dining/stirred",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Ari Atoll",
+    "source_url": "https://www.cinnamonhotels.com/cinnamon-grand-colombo/dining/room-service",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Kaafu Atoll",
+    "source_url": "https://www.mymaldives.com/resort-guide/cinnamon-dhonveli/",
+    "as_of": "2026-10-04"
    }
   ],
   "transfer.modes": [
    {
     "value": "speedboat",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Fact-sheet-Dhonveli.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://visitmaldives.s3.amazonaws.com/eY3VWxw3/o8txtj8h.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": "yacht",
+    "source_url": "https://visitmaldives.s3.amazonaws.com/eY3VWxw3/o8txtj8h.pdf",
     "as_of": 2023
    },
    {
@@ -233,27 +490,9 @@
   "dining": [
    {
     "value": {
-     "name": "Restaurants & Dining",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Fact-sheet-Dhonveli.pdf",
-    "as_of": 2023
-   },
-   {
-    "value": {
      "name": "Koimala Restaurant MEAL TIMES",
      "cuisine": null,
      "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Fact-sheet-Dhonveli.pdf",
-    "as_of": 2023
-   },
-   {
-    "value": {
-     "name": "Beach Bar * All meals are served buffet-style",
-     "cuisine": null,
-     "type": "bar"
     },
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Fact-sheet-Dhonveli.pdf",
     "as_of": 2023
@@ -296,48 +535,12 @@
    },
    {
     "value": {
-     "name": "Full Mini Bar Entitlements – Refilled once daily",
-     "cuisine": null,
-     "type": "bar"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Fact-sheet-Dhonveli.pdf",
-    "as_of": 2023
-   },
-   {
-    "value": {
      "name": "Mini Bar Items not listed above",
      "cuisine": null,
      "type": "bar"
     },
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Fact-sheet-Dhonveli.pdf",
     "as_of": 2023
-   },
-   {
-    "value": {
-     "name": "In – Room Dining",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Fact-sheet-Dhonveli.pdf",
-    "as_of": 2023
-   },
-   {
-    "value": {
-     "name": "Dining",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/cinnamon-dhonveli-maldives/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Dining",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/cinnamon-dhonveli-maldives/",
-    "as_of": "2026-10-04"
    },
    {
     "value": {
@@ -385,6 +588,11 @@
    {
     "value": "Chavana Spa",
     "source_url": "https://www.neoscapesmaldives.com/resort/cinnamon-dhonveli-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.mymaldives.com/resort-guide/cinnamon-dhonveli/",
     "as_of": "2026-10-04"
    }
   ],
@@ -435,6 +643,51 @@
     "as_of": 2023
    },
    {
+    "value": "scuba diving",
+    "source_url": "https://visitmaldives.s3.amazonaws.com/eY3VWxw3/o8txtj8h.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": "sailing",
+    "source_url": "https://visitmaldives.s3.amazonaws.com/eY3VWxw3/o8txtj8h.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": "fun tube",
+    "source_url": "https://visitmaldives.s3.amazonaws.com/eY3VWxw3/o8txtj8h.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://d18slle4wlf9ku.cloudfront.net/www.cinnamonhotels.com-1302818674/cms/pressroom/john_keells_hotels_plc_annual_report_2425.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "surfing",
+    "source_url": "https://d18slle4wlf9ku.cloudfront.net/www.cinnamonhotels.com-1302818674/cms/pressroom/john_keells_hotels_plc_annual_report_2425.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://d18slle4wlf9ku.cloudfront.net/www.cinnamonhotels.com-1302818674/cms/pressroom/john_keells_hotels_plc_annual_report_2425.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://d18slle4wlf9ku.cloudfront.net/www.cinnamonhotels.com-1302818674/cms/pressroom/john_keells_hotels_plc_integrated_report_2024_25.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "surfing",
+    "source_url": "https://d18slle4wlf9ku.cloudfront.net/www.cinnamonhotels.com-1302818674/cms/pressroom/john_keells_hotels_plc_integrated_report_2024_25.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://d18slle4wlf9ku.cloudfront.net/www.cinnamonhotels.com-1302818674/cms/pressroom/john_keells_hotels_plc_integrated_report_2024_25.pdf",
+    "as_of": 2024
+   },
+   {
     "value": "windsurfing",
     "source_url": "https://www.neoscapesmaldives.com/resort/cinnamon-dhonveli-maldives/",
     "as_of": "2026-10-04"
@@ -478,6 +731,56 @@
     "value": "flyboard",
     "source_url": "https://www.neoscapesmaldives.com/resort/cinnamon-dhonveli-maldives/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://mondomaldive.it/it/villaggio/cinnamon-dhonveli-maldives/racconto/un-altro-mondo-in-questo",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://mondomaldive.it/it/villaggio/cinnamon-dhonveli-maldives/racconti",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://www.mymaldives.com/resort-guide/cinnamon-dhonveli/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "windsurfing",
+    "source_url": "https://www.mymaldives.com/resort-guide/cinnamon-dhonveli/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "surfing",
+    "source_url": "https://www.mymaldives.com/resort-guide/cinnamon-dhonveli/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "catamaran",
+    "source_url": "https://www.mymaldives.com/resort-guide/cinnamon-dhonveli/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "water skiing",
+    "source_url": "https://www.mymaldives.com/resort-guide/cinnamon-dhonveli/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.mymaldives.com/resort-guide/cinnamon-dhonveli/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sailing",
+    "source_url": "https://www.mymaldives.com/resort-guide/cinnamon-dhonveli/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "canoe",
+    "source_url": "https://www.mymaldives.com/resort-guide/cinnamon-dhonveli/",
+    "as_of": "2026-10-04"
    }
   ],
   "wellness_fitness": [
@@ -508,6 +811,41 @@
    },
    {
     "value": "yoga",
+    "source_url": "https://visitmaldives.s3.amazonaws.com/eY3VWxw3/o8txtj8h.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://d18slle4wlf9ku.cloudfront.net/www.cinnamonhotels.com-1302818674/cms/pressroom/john_keells_hotels_plc_annual_report_2425.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "meditation",
+    "source_url": "https://d18slle4wlf9ku.cloudfront.net/www.cinnamonhotels.com-1302818674/cms/pressroom/john_keells_hotels_plc_annual_report_2425.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "gym",
+    "source_url": "https://d18slle4wlf9ku.cloudfront.net/www.cinnamonhotels.com-1302818674/cms/pressroom/john_keells_hotels_plc_annual_report_2425.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://d18slle4wlf9ku.cloudfront.net/www.cinnamonhotels.com-1302818674/cms/pressroom/john_keells_hotels_plc_integrated_report_2024_25.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "meditation",
+    "source_url": "https://d18slle4wlf9ku.cloudfront.net/www.cinnamonhotels.com-1302818674/cms/pressroom/john_keells_hotels_plc_integrated_report_2024_25.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "gym",
+    "source_url": "https://d18slle4wlf9ku.cloudfront.net/www.cinnamonhotels.com-1302818674/cms/pressroom/john_keells_hotels_plc_integrated_report_2024_25.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "yoga",
     "source_url": "https://www.neoscapesmaldives.com/resort/cinnamon-dhonveli-maldives/",
     "as_of": "2026-10-04"
    },
@@ -524,6 +862,21 @@
    {
     "value": "steam",
     "source_url": "https://www.neoscapesmaldives.com/resort/cinnamon-dhonveli-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "badminton",
+    "source_url": "https://mondomaldive.it/it/villaggio/cinnamon-dhonveli-maldives/racconto/un-altro-mondo-in-questo",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://www.mymaldives.com/resort-guide/cinnamon-dhonveli/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "badminton",
+    "source_url": "https://www.mymaldives.com/resort-guide/cinnamon-dhonveli/",
     "as_of": "2026-10-04"
    }
   ],
@@ -553,6 +906,16 @@
     "as_of": 2023
    },
    {
+    "value": "htlres@keells.com",
+    "source_url": "https://d18slle4wlf9ku.cloudfront.net/www.cinnamonhotels.com-1302818674/cms/pressroom/john_keells_hotels_plc_annual_report_2425.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "htlres@keells.com",
+    "source_url": "https://d18slle4wlf9ku.cloudfront.net/www.cinnamonhotels.com-1302818674/cms/pressroom/john_keells_hotels_plc_integrated_report_2024_25.pdf",
+    "as_of": 2024
+   },
+   {
     "value": "info@neoscapesmaldives.com",
     "source_url": "https://www.neoscapesmaldives.com/resort/cinnamon-dhonveli-maldives/",
     "as_of": "2026-10-04"
@@ -565,33 +928,49 @@
     "as_of": 2023
    },
    {
+    "value": "+9603336000",
+    "source_url": "https://d18slle4wlf9ku.cloudfront.net/www.cinnamonhotels.com-1302818674/cms/pressroom/john_keells_hotels_plc_annual_report_2425.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "+9603336000",
+    "source_url": "https://d18slle4wlf9ku.cloudfront.net/www.cinnamonhotels.com-1302818674/cms/pressroom/john_keells_hotels_plc_integrated_report_2024_25.pdf",
+    "as_of": 2024
+   },
+   {
     "value": "+960 736 5425",
     "source_url": "https://www.neoscapesmaldives.com/resort/cinnamon-dhonveli-maldives/",
     "as_of": "2026-10-04"
-   }
-  ],
-  "transfer.minutes.speedboat": [
+   },
    {
-    "value": 20,
-    "source_url": "https://www.neoscapesmaldives.com/resort/cinnamon-dhonveli-maldives/",
+    "value": "+960 3336000",
+    "source_url": "https://www.mymaldives.com/resort-guide/cinnamon-dhonveli/",
     "as_of": "2026-10-04"
    }
   ],
-  "villas.categories": [
+  "star_rating": [
    {
-    "value": {
-     "name": "Number of Villas",
-     "count": 152,
-     "size_sqm": null,
-     "max_occupancy": null,
-     "pool": null,
-     "overwater": null
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/cinnamon-dhonveli-maldives/",
-    "as_of": "2026-10-04"
+    "value": "4-star",
+    "source_url": "https://visitmaldives.s3.amazonaws.com/eY3VWxw3/o8txtj8h.pdf",
+    "as_of": 2023
    }
   ],
   "excursions": [
+   {
+    "value": "local island",
+    "source_url": "https://visitmaldives.s3.amazonaws.com/eY3VWxw3/o8txtj8h.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://d18slle4wlf9ku.cloudfront.net/www.cinnamonhotels.com-1302818674/cms/pressroom/john_keells_hotels_plc_annual_report_2425.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://d18slle4wlf9ku.cloudfront.net/www.cinnamonhotels.com-1302818674/cms/pressroom/john_keells_hotels_plc_integrated_report_2024_25.pdf",
+    "as_of": 2024
+   },
    {
     "value": "island hopping",
     "source_url": "https://www.neoscapesmaldives.com/resort/cinnamon-dhonveli-maldives/",
@@ -616,6 +995,495 @@
     "value": "turtle",
     "source_url": "https://www.neoscapesmaldives.com/resort/cinnamon-dhonveli-maldives/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "picnic",
+    "source_url": "https://mondomaldive.it/it/villaggio/cinnamon-dhonveli-maldives/racconto/un-altro-mondo-in-questo",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "big game fishing",
+    "source_url": "https://www.mymaldives.com/resort-guide/cinnamon-dhonveli/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "opened_or_renovated": [
+   {
+    "value": "opened 2024",
+    "source_url": "https://d18slle4wlf9ku.cloudfront.net/www.cinnamonhotels.com-1302818674/cms/pressroom/john_keells_hotels_plc_annual_report_2425.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "opened 2024",
+    "source_url": "https://d18slle4wlf9ku.cloudfront.net/www.cinnamonhotels.com-1302818674/cms/pressroom/john_keells_hotels_plc_integrated_report_2024_25.pdf",
+    "as_of": 2024
+   }
+  ],
+  "villas.total": [
+   {
+    "value": 237,
+    "source_url": "https://d18slle4wlf9ku.cloudfront.net/www.cinnamonhotels.com-1302818674/cms/pressroom/john_keells_hotels_plc_annual_report_2425.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": 215,
+    "source_url": "https://d18slle4wlf9ku.cloudfront.net/www.cinnamonhotels.com-1302818674/cms/pressroom/john_keells_hotels_plc_annual_report_2425.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": 237,
+    "source_url": "https://d18slle4wlf9ku.cloudfront.net/www.cinnamonhotels.com-1302818674/cms/pressroom/john_keells_hotels_plc_integrated_report_2024_25.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": 215,
+    "source_url": "https://d18slle4wlf9ku.cloudfront.net/www.cinnamonhotels.com-1302818674/cms/pressroom/john_keells_hotels_plc_integrated_report_2024_25.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": 146,
+    "source_url": "https://www.mymaldives.com/resort-guide/cinnamon-dhonveli/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "villas.categories": [
+   {
+    "value": {
+     "name": "Habarana Village by",
+     "count": 5,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://d18slle4wlf9ku.cloudfront.net/www.cinnamonhotels.com-1302818674/cms/pressroom/john_keells_hotels_plc_annual_report_2425.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": {
+     "name": "Village by Cinnamon for the FY /",
+     "count": 25,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://d18slle4wlf9ku.cloudfront.net/www.cinnamonhotels.com-1302818674/cms/pressroom/john_keells_hotels_plc_annual_report_2425.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": {
+     "name": "Yala Village Pvt Ltd",
+     "count": 848,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://d18slle4wlf9ku.cloudfront.net/www.cinnamonhotels.com-1302818674/cms/pressroom/john_keells_hotels_plc_annual_report_2425.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": {
+     "name": "Yala Village Pvt Ltd Income approach - Rs. , - . % Negative",
+     "count": 406,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://d18slle4wlf9ku.cloudfront.net/www.cinnamonhotels.com-1302818674/cms/pressroom/john_keells_hotels_plc_annual_report_2425.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": {
+     "name": "Yala Village Pvt Ltd Sri Lanka Tourism",
+     "count": 184,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://d18slle4wlf9ku.cloudfront.net/www.cinnamonhotels.com-1302818674/cms/pressroom/john_keells_hotels_plc_annual_report_2425.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": {
+     "name": "Yala Village Pvt Ltd . % . % . % . %",
+     "count": 678,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://d18slle4wlf9ku.cloudfront.net/www.cinnamonhotels.com-1302818674/cms/pressroom/john_keells_hotels_plc_annual_report_2425.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": {
+     "name": "Yala Village Pvt -month SOFR- monthly instalments",
+     "count": 496,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://d18slle4wlf9ku.cloudfront.net/www.cinnamonhotels.com-1302818674/cms/pressroom/john_keells_hotels_plc_annual_report_2425.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": {
+     "name": "Yala Village Pvt Ltd",
+     "count": 14,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://d18slle4wlf9ku.cloudfront.net/www.cinnamonhotels.com-1302818674/cms/pressroom/john_keells_hotels_plc_annual_report_2425.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": {
+     "name": "Habarana Village by Cinnamon",
+     "count": 95,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://d18slle4wlf9ku.cloudfront.net/www.cinnamonhotels.com-1302818674/cms/pressroom/john_keells_hotels_plc_annual_report_2425.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": {
+     "name": "Habarana Village by",
+     "count": 5,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://d18slle4wlf9ku.cloudfront.net/www.cinnamonhotels.com-1302818674/cms/pressroom/john_keells_hotels_plc_integrated_report_2024_25.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": {
+     "name": "Village by Cinnamon for the FY /",
+     "count": 25,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://d18slle4wlf9ku.cloudfront.net/www.cinnamonhotels.com-1302818674/cms/pressroom/john_keells_hotels_plc_integrated_report_2024_25.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": {
+     "name": "Yala Village Pvt Ltd",
+     "count": 848,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://d18slle4wlf9ku.cloudfront.net/www.cinnamonhotels.com-1302818674/cms/pressroom/john_keells_hotels_plc_integrated_report_2024_25.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": {
+     "name": "Yala Village Pvt Ltd Income approach - Rs. , - . % Negative",
+     "count": 406,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://d18slle4wlf9ku.cloudfront.net/www.cinnamonhotels.com-1302818674/cms/pressroom/john_keells_hotels_plc_integrated_report_2024_25.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": {
+     "name": "Yala Village Pvt Ltd Sri Lanka Tourism",
+     "count": 184,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://d18slle4wlf9ku.cloudfront.net/www.cinnamonhotels.com-1302818674/cms/pressroom/john_keells_hotels_plc_integrated_report_2024_25.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": {
+     "name": "Yala Village Pvt Ltd . % . % . % . %",
+     "count": 678,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://d18slle4wlf9ku.cloudfront.net/www.cinnamonhotels.com-1302818674/cms/pressroom/john_keells_hotels_plc_integrated_report_2024_25.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": {
+     "name": "Yala Village Pvt -month SOFR- monthly instalments",
+     "count": 496,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://d18slle4wlf9ku.cloudfront.net/www.cinnamonhotels.com-1302818674/cms/pressroom/john_keells_hotels_plc_integrated_report_2024_25.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": {
+     "name": "Yala Village Pvt Ltd",
+     "count": 14,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://d18slle4wlf9ku.cloudfront.net/www.cinnamonhotels.com-1302818674/cms/pressroom/john_keells_hotels_plc_integrated_report_2024_25.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": {
+     "name": "Habarana Village by Cinnamon",
+     "count": 95,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://d18slle4wlf9ku.cloudfront.net/www.cinnamonhotels.com-1302818674/cms/pressroom/john_keells_hotels_plc_integrated_report_2024_25.pdf",
+    "as_of": 2024
+   }
+  ],
+  "meal_plans": [
+   {
+    "value": "BB",
+    "source_url": "https://d18slle4wlf9ku.cloudfront.net/www.cinnamonhotels.com-1302818674/cms/pressroom/john_keells_hotels_plc_annual_report_2425.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "HB",
+    "source_url": "https://d18slle4wlf9ku.cloudfront.net/www.cinnamonhotels.com-1302818674/cms/pressroom/john_keells_hotels_plc_annual_report_2425.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "FB",
+    "source_url": "https://d18slle4wlf9ku.cloudfront.net/www.cinnamonhotels.com-1302818674/cms/pressroom/john_keells_hotels_plc_annual_report_2425.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "AI",
+    "source_url": "https://d18slle4wlf9ku.cloudfront.net/www.cinnamonhotels.com-1302818674/cms/pressroom/john_keells_hotels_plc_annual_report_2425.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "BB",
+    "source_url": "https://d18slle4wlf9ku.cloudfront.net/www.cinnamonhotels.com-1302818674/cms/pressroom/john_keells_hotels_plc_integrated_report_2024_25.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "HB",
+    "source_url": "https://d18slle4wlf9ku.cloudfront.net/www.cinnamonhotels.com-1302818674/cms/pressroom/john_keells_hotels_plc_integrated_report_2024_25.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "FB",
+    "source_url": "https://d18slle4wlf9ku.cloudfront.net/www.cinnamonhotels.com-1302818674/cms/pressroom/john_keells_hotels_plc_integrated_report_2024_25.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "AI",
+    "source_url": "https://d18slle4wlf9ku.cloudfront.net/www.cinnamonhotels.com-1302818674/cms/pressroom/john_keells_hotels_plc_integrated_report_2024_25.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "AI",
+    "source_url": "https://mondomaldive.it/it/villaggio/cinnamon-dhonveli-maldives/racconto/un-altro-mondo-in-questo",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "all_inclusive_details": [
+   {
+    "value": "all inclusive (AI).",
+    "source_url": "https://d18slle4wlf9ku.cloudfront.net/www.cinnamonhotels.com-1302818674/cms/pressroom/john_keells_hotels_plc_annual_report_2425.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "all inclusive (AI).",
+    "source_url": "https://d18slle4wlf9ku.cloudfront.net/www.cinnamonhotels.com-1302818674/cms/pressroom/john_keells_hotels_plc_integrated_report_2024_25.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "all-inclusive con upgrade in o.",
+    "source_url": "https://mondomaldive.it/it/villaggio/cinnamon-dhonveli-maldives/racconto/un-altro-mondo-in-questo",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "diving_watersports.house_reef": [
+   {
+    "value": "house reefs while Cinnamon Hakuraa",
+    "source_url": "https://d18slle4wlf9ku.cloudfront.net/www.cinnamonhotels.com-1302818674/cms/pressroom/john_keells_hotels_plc_annual_report_2425.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "house reefs while Cinnamon Hakuraa",
+    "source_url": "https://d18slle4wlf9ku.cloudfront.net/www.cinnamonhotels.com-1302818674/cms/pressroom/john_keells_hotels_plc_integrated_report_2024_25.pdf",
+    "as_of": 2024
+   }
+  ],
+  "sustainability": [
+   {
+    "value": "coral restoration",
+    "source_url": "https://d18slle4wlf9ku.cloudfront.net/www.cinnamonhotels.com-1302818674/cms/pressroom/john_keells_hotels_plc_annual_report_2425.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "coral nursery",
+    "source_url": "https://d18slle4wlf9ku.cloudfront.net/www.cinnamonhotels.com-1302818674/cms/pressroom/john_keells_hotels_plc_annual_report_2425.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "marine biologist",
+    "source_url": "https://d18slle4wlf9ku.cloudfront.net/www.cinnamonhotels.com-1302818674/cms/pressroom/john_keells_hotels_plc_annual_report_2425.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "solar",
+    "source_url": "https://d18slle4wlf9ku.cloudfront.net/www.cinnamonhotels.com-1302818674/cms/pressroom/john_keells_hotels_plc_annual_report_2425.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "single-use plastic",
+    "source_url": "https://d18slle4wlf9ku.cloudfront.net/www.cinnamonhotels.com-1302818674/cms/pressroom/john_keells_hotels_plc_annual_report_2425.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "EarthCheck",
+    "source_url": "https://d18slle4wlf9ku.cloudfront.net/www.cinnamonhotels.com-1302818674/cms/pressroom/john_keells_hotels_plc_annual_report_2425.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "Travelife",
+    "source_url": "https://d18slle4wlf9ku.cloudfront.net/www.cinnamonhotels.com-1302818674/cms/pressroom/john_keells_hotels_plc_annual_report_2425.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "hydroponic",
+    "source_url": "https://d18slle4wlf9ku.cloudfront.net/www.cinnamonhotels.com-1302818674/cms/pressroom/john_keells_hotels_plc_annual_report_2425.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "composting",
+    "source_url": "https://d18slle4wlf9ku.cloudfront.net/www.cinnamonhotels.com-1302818674/cms/pressroom/john_keells_hotels_plc_annual_report_2425.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "reef restoration",
+    "source_url": "https://d18slle4wlf9ku.cloudfront.net/www.cinnamonhotels.com-1302818674/cms/pressroom/john_keells_hotels_plc_annual_report_2425.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "Olive Ridley Project",
+    "source_url": "https://d18slle4wlf9ku.cloudfront.net/www.cinnamonhotels.com-1302818674/cms/pressroom/john_keells_hotels_plc_annual_report_2425.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "ISO 14001",
+    "source_url": "https://d18slle4wlf9ku.cloudfront.net/www.cinnamonhotels.com-1302818674/cms/pressroom/john_keells_hotels_plc_annual_report_2425.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "coral restoration",
+    "source_url": "https://d18slle4wlf9ku.cloudfront.net/www.cinnamonhotels.com-1302818674/cms/pressroom/john_keells_hotels_plc_integrated_report_2024_25.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "coral nursery",
+    "source_url": "https://d18slle4wlf9ku.cloudfront.net/www.cinnamonhotels.com-1302818674/cms/pressroom/john_keells_hotels_plc_integrated_report_2024_25.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "marine biologist",
+    "source_url": "https://d18slle4wlf9ku.cloudfront.net/www.cinnamonhotels.com-1302818674/cms/pressroom/john_keells_hotels_plc_integrated_report_2024_25.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "solar",
+    "source_url": "https://d18slle4wlf9ku.cloudfront.net/www.cinnamonhotels.com-1302818674/cms/pressroom/john_keells_hotels_plc_integrated_report_2024_25.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "single-use plastic",
+    "source_url": "https://d18slle4wlf9ku.cloudfront.net/www.cinnamonhotels.com-1302818674/cms/pressroom/john_keells_hotels_plc_integrated_report_2024_25.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "EarthCheck",
+    "source_url": "https://d18slle4wlf9ku.cloudfront.net/www.cinnamonhotels.com-1302818674/cms/pressroom/john_keells_hotels_plc_integrated_report_2024_25.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "Travelife",
+    "source_url": "https://d18slle4wlf9ku.cloudfront.net/www.cinnamonhotels.com-1302818674/cms/pressroom/john_keells_hotels_plc_integrated_report_2024_25.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "hydroponic",
+    "source_url": "https://d18slle4wlf9ku.cloudfront.net/www.cinnamonhotels.com-1302818674/cms/pressroom/john_keells_hotels_plc_integrated_report_2024_25.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "composting",
+    "source_url": "https://d18slle4wlf9ku.cloudfront.net/www.cinnamonhotels.com-1302818674/cms/pressroom/john_keells_hotels_plc_integrated_report_2024_25.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "reef restoration",
+    "source_url": "https://d18slle4wlf9ku.cloudfront.net/www.cinnamonhotels.com-1302818674/cms/pressroom/john_keells_hotels_plc_integrated_report_2024_25.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "Olive Ridley Project",
+    "source_url": "https://d18slle4wlf9ku.cloudfront.net/www.cinnamonhotels.com-1302818674/cms/pressroom/john_keells_hotels_plc_integrated_report_2024_25.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "ISO 14001",
+    "source_url": "https://d18slle4wlf9ku.cloudfront.net/www.cinnamonhotels.com-1302818674/cms/pressroom/john_keells_hotels_plc_integrated_report_2024_25.pdf",
+    "as_of": 2024
+   }
+  ],
+  "weddings.offered": [
+   {
+    "value": true,
+    "source_url": "https://www.cinnamonhotels.com/cinnamon-lakeside-colombo/weddings-and-events",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.neoscapesmaldives.com/resort/cinnamon-dhonveli-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.maldives.com/offers/cinnamon-dhonveli-romantic-escape",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "transfer.minutes.speedboat": [
+   {
+    "value": 20,
+    "source_url": "https://www.neoscapesmaldives.com/resort/cinnamon-dhonveli-maldives/",
+    "as_of": "2026-10-04"
    }
   ],
   "kids_family.kids_club": [
@@ -624,14 +1492,7 @@
     "source_url": "https://www.neoscapesmaldives.com/resort/cinnamon-dhonveli-maldives/",
     "as_of": "2026-10-04"
    }
-  ],
-  "weddings.offered": [
-   {
-    "value": true,
-    "source_url": "https://www.neoscapesmaldives.com/resort/cinnamon-dhonveli-maldives/",
-    "as_of": "2026-10-04"
-   }
   ]
  },
- "last_updated": "2026-10-04"
+ "last_updated": "2026-10-05"
 }

@@ -6,10 +6,10 @@
   "Radisson Blu Maldives",
   "Huruelhi"
  ],
- "official_url": null,
- "official_site_status": null,
+ "official_url": "https://www.radissonhotels.com/en-us/hotels/radisson-blu-resort-maldives",
+ "official_site_status": "unverified",
  "operator_brand": "Radisson Blu",
- "atoll": "Alifu Dhaalu Atoll",
+ "atoll": "Ari Atoll",
  "island": null,
  "opened_or_renovated": null,
  "star_rating": null,
@@ -31,14 +31,6 @@
   "total": null,
   "categories": [
    {
-    "name": "Number of Villas",
-    "count": 128,
-    "size_sqm": null,
-    "max_occupancy": null,
-    "pool": null,
-    "overwater": null
-   },
-   {
     "name": "Storey Family Beach Villa - Bedrooms - Pool & Sunset View",
     "count": 2,
     "size_sqm": null,
@@ -56,14 +48,6 @@
    },
    {
     "name": "aerial view south water villas radisson blu resort",
-    "count": 2,
-    "size_sqm": null,
-    "max_occupancy": null,
-    "pool": null,
-    "overwater": null
-   },
-   {
-    "name": "yoga pavilion - radisson blu resort",
     "count": 2,
     "size_sqm": null,
     "max_occupancy": null,
@@ -98,18 +82,19 @@
  },
  "dining": [
   {
-   "name": "Dining",
+   "name": "Mahurab Bar",
    "cuisine": null,
-   "type": "restaurant"
+   "type": "bar"
   },
   {
-   "name": "Mahurab Bar",
+   "name": "Ristoranti e Bar",
    "cuisine": null,
    "type": "bar"
   }
  ],
  "meal_plans": [
-  "FB"
+  "FB",
+  "BB"
  ],
  "all_inclusive_details": null,
  "spa": {
@@ -124,7 +109,10 @@
   "activities": [
    "snorkelling",
    "windsurfing",
-   "whale shark"
+   "whale shark",
+   "snorkeling",
+   "surfing",
+   "catamaran"
   ],
   "price_list_doc": null
  },
@@ -133,14 +121,15 @@
   "castaway"
  ],
  "kids_family": {
-  "kids_club": "Kids Club",
+  "kids_club": "FOR KIDS\nKids Club",
   "age_range": null,
   "teens": null
  },
  "wellness_fitness": [
   "yoga",
   "gym",
-  "fitness centre"
+  "fitness centre",
+  "tennis"
  ],
  "weddings": {
   "offered": true,
@@ -159,7 +148,7 @@
  },
  "sustainability": [],
  "contacts_public": {
-  "reservations_email": "info@neoscapesmaldives.com",
+  "reservations_email": "reservations.maldives@radisson.com",
   "weddings_email": null,
   "phone": "+960 736 5425"
  },
@@ -168,12 +157,12 @@
   "map": "https://www.neoscapesmaldives.com/wp-content/uploads/Radisson-Blu-Resort-Maldives-Map.pdf",
   "wedding": null,
   "spa_menu": null,
-  "dining_menu": null,
+  "dining_menu": "https://letsgomaldives.com/wp-content/uploads/2026/03/Radisson-Blu-Resort-Maldives_Eid_2026.pdf",
   "dive_prices": null,
   "events": null,
   "calendar": null
  },
- "documents_count": 2,
+ "documents_count": 3,
  "gaps": [
   "factsheet",
   "wedding brochure",
@@ -183,7 +172,70 @@
  "sources": {
   "atoll": [
    {
+    "value": "Ari Atoll",
+    "source_url": "https://letsgomaldives.com/wp-content/uploads/2026/03/Radisson-Blu-Resort-Maldives_Eid_2026.pdf",
+    "as_of": 2026
+   },
+   {
     "value": "Alifu Dhaalu Atoll",
+    "source_url": "https://www.neoscapesmaldives.com/resort/radisson-blu-resort-maldives/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "dining": [
+   {
+    "value": {
+     "name": "Mahurab Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://letsgomaldives.com/wp-content/uploads/2026/03/Radisson-Blu-Resort-Maldives_Eid_2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": {
+     "name": "Mahurab Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.neoscapesmaldives.com/resort/radisson-blu-resort-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Ristoranti e Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://mondomaldive.it/it/villaggio/radisson-blu-resort-maldives",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "kids_family.kids_club": [
+   {
+    "value": "FOR KIDS\nKids Club",
+    "source_url": "https://letsgomaldives.com/wp-content/uploads/2026/03/Radisson-Blu-Resort-Maldives_Eid_2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "Kids Club",
+    "source_url": "https://www.neoscapesmaldives.com/resort/radisson-blu-resort-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Dottore\nKids Club",
+    "source_url": "https://mondomaldive.it/it/villaggio/radisson-blu-resort-maldives",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "contacts_public.reservations_email": [
+   {
+    "value": "reservations.maldives@radisson.com",
+    "source_url": "https://letsgomaldives.com/wp-content/uploads/2026/03/Radisson-Blu-Resort-Maldives_Eid_2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "info@neoscapesmaldives.com",
     "source_url": "https://www.neoscapesmaldives.com/resort/radisson-blu-resort-maldives/",
     "as_of": "2026-10-04"
    }
@@ -236,18 +288,6 @@
   "villas.categories": [
    {
     "value": {
-     "name": "Number of Villas",
-     "count": 128,
-     "size_sqm": null,
-     "max_occupancy": null,
-     "pool": null,
-     "overwater": null
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/radisson-blu-resort-maldives/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
      "name": "Storey Family Beach Villa - Bedrooms - Pool & Sunset View",
      "count": 2,
      "size_sqm": null,
@@ -273,18 +313,6 @@
    {
     "value": {
      "name": "aerial view south water villas radisson blu resort",
-     "count": 2,
-     "size_sqm": null,
-     "max_occupancy": null,
-     "pool": null,
-     "overwater": null
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/radisson-blu-resort-maldives/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "yoga pavilion - radisson blu resort",
      "count": 2,
      "size_sqm": null,
      "max_occupancy": null,
@@ -331,39 +359,15 @@
     "as_of": "2026-10-04"
    }
   ],
-  "dining": [
-   {
-    "value": {
-     "name": "Dining",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/radisson-blu-resort-maldives/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Dining",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/radisson-blu-resort-maldives/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Mahurab Bar",
-     "cuisine": null,
-     "type": "bar"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/radisson-blu-resort-maldives/",
-    "as_of": "2026-10-04"
-   }
-  ],
   "meal_plans": [
    {
     "value": "FB",
     "source_url": "https://www.neoscapesmaldives.com/resort/radisson-blu-resort-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "BB",
+    "source_url": "https://mondomaldive.it/it/villaggio/radisson-blu-resort-maldives",
     "as_of": "2026-10-04"
    }
   ],
@@ -396,6 +400,21 @@
     "value": "whale shark",
     "source_url": "https://www.neoscapesmaldives.com/resort/radisson-blu-resort-maldives/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://mondomaldive.it/it/villaggio/radisson-blu-resort-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "surfing",
+    "source_url": "https://mondomaldive.it/it/villaggio/radisson-blu-resort-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "catamaran",
+    "source_url": "https://mondomaldive.it/it/villaggio/radisson-blu-resort-maldives",
+    "as_of": "2026-10-04"
    }
   ],
   "excursions": [
@@ -406,13 +425,6 @@
    },
    {
     "value": "castaway",
-    "source_url": "https://www.neoscapesmaldives.com/resort/radisson-blu-resort-maldives/",
-    "as_of": "2026-10-04"
-   }
-  ],
-  "kids_family.kids_club": [
-   {
-    "value": "Kids Club",
     "source_url": "https://www.neoscapesmaldives.com/resort/radisson-blu-resort-maldives/",
     "as_of": "2026-10-04"
    }
@@ -432,6 +444,16 @@
     "value": "fitness centre",
     "source_url": "https://www.neoscapesmaldives.com/resort/radisson-blu-resort-maldives/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://mondomaldive.it/it/villaggio/radisson-blu-resort-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://mondomaldive.it/it/villaggio/radisson-blu-resort-maldives",
+    "as_of": "2026-10-04"
    }
   ],
   "weddings.offered": [
@@ -448,13 +470,6 @@
     "as_of": "2026-10-04"
    }
   ],
-  "contacts_public.reservations_email": [
-   {
-    "value": "info@neoscapesmaldives.com",
-    "source_url": "https://www.neoscapesmaldives.com/resort/radisson-blu-resort-maldives/",
-    "as_of": "2026-10-04"
-   }
-  ],
   "contacts_public.phone": [
    {
     "value": "+960 736 5425",
@@ -463,5 +478,5 @@
    }
   ]
  },
- "last_updated": "2026-10-04"
+ "last_updated": "2026-10-05"
 }

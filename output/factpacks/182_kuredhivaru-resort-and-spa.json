@@ -8,8 +8,8 @@
   "Movenpick Kuredhivaru",
   "Kuredhivaru Resort"
  ],
- "official_url": null,
- "official_site_status": null,
+ "official_url": "https://www.kuredhivaru.com/",
+ "official_site_status": "ok",
  "operator_brand": "VARU",
  "atoll": "Noonu Atoll",
  "island": null,
@@ -40,28 +40,7 @@
    }
   ]
  },
- "dining": [
-  {
-   "name": "Dining",
-   "cuisine": null,
-   "type": "restaurant"
-  },
-  {
-   "name": "Bodumas – Overwater Dining Redefined",
-   "cuisine": null,
-   "type": "restaurant"
-  },
-  {
-   "name": "Latitude 5.5 – Poolside Dining with Ocean Views",
-   "cuisine": null,
-   "type": "restaurant"
-  },
-  {
-   "name": "Destination Dining",
-   "cuisine": null,
-   "type": "restaurant"
-  }
- ],
+ "dining": [],
  "meal_plans": [],
  "all_inclusive_details": null,
  "spa": {
@@ -132,11 +111,12 @@
   "events": null,
   "calendar": null
  },
- "documents_count": 1,
+ "documents_count": 2,
  "gaps": [
   "wedding brochure",
   "events/MICE document",
   "fact: villas.total",
+  "fact: dining",
   "fact: dive operator"
  ],
  "sources": {
@@ -144,6 +124,11 @@
    {
     "value": "Noonu Atoll",
     "source_url": "https://www.neoscapesmaldives.com/resort/kuredhivaru-resort-and-spa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Noonu Atoll",
+    "source_url": "https://malediven.de/malediven-hotels/kuredhivaru-resort/",
     "as_of": "2026-10-04"
    }
   ],
@@ -175,57 +160,15 @@
     "as_of": "2026-10-04"
    }
   ],
-  "dining": [
-   {
-    "value": {
-     "name": "Dining",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/kuredhivaru-resort-and-spa/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Dining",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/kuredhivaru-resort-and-spa/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Bodumas – Overwater Dining Redefined",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/kuredhivaru-resort-and-spa/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Latitude 5.5 – Poolside Dining with Ocean Views",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/kuredhivaru-resort-and-spa/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Destination Dining",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/kuredhivaru-resort-and-spa/",
-    "as_of": "2026-10-04"
-   }
-  ],
   "spa.name": [
    {
     "value": "Spa",
     "source_url": "https://www.neoscapesmaldives.com/resort/kuredhivaru-resort-and-spa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://malediven.de/malediven-hotels/kuredhivaru-resort/",
     "as_of": "2026-10-04"
    }
   ],
@@ -356,5 +299,5 @@
    }
   ]
  },
- "last_updated": "2026-10-04"
+ "last_updated": "2026-10-05"
 }

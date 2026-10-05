@@ -6,8 +6,8 @@
   "Taj Coral Reef",
   "Hembadhu"
  ],
- "official_url": null,
- "official_site_status": null,
+ "official_url": "https://www.tajhotels.com/en-in/taj/taj-coral-reef-maldives/",
+ "official_site_status": "blocked",
  "operator_brand": "Taj",
  "atoll": "North Male Atoll",
  "island": null,
@@ -26,7 +26,7 @@
  },
  "island_size": null,
  "villas": {
-  "total": null,
+  "total": 66,
   "categories": [
    {
     "name": "Villas",
@@ -64,27 +64,12 @@
  },
  "dining": [
   {
-   "name": "Dining",
-   "cuisine": null,
-   "type": "restaurant"
-  },
-  {
    "name": "Reef Bar",
    "cuisine": null,
    "type": "bar"
   },
   {
    "name": "Pizzeria",
-   "cuisine": null,
-   "type": "restaurant"
-  },
-  {
-   "name": "Sandbank Dining",
-   "cuisine": null,
-   "type": "restaurant"
-  },
-  {
-   "name": "Unique Dining Experiences",
    "cuisine": null,
    "type": "restaurant"
   }
@@ -106,7 +91,13 @@
    "snorkelling",
    "fishing",
    "sunset cruise",
-   "dolphin cruise"
+   "dolphin cruise",
+   "scuba diving",
+   "windsurfing",
+   "parasailing",
+   "water skiing",
+   "sailing",
+   "canoe"
   ],
   "price_list_doc": null
  },
@@ -124,7 +115,9 @@
   "yoga",
   "meditation",
   "gym",
-  "fitness centre"
+  "fitness centre",
+  "tennis",
+  "badminton"
  ],
  "weddings": {
   "offered": true,
@@ -161,7 +154,6 @@
  "gaps": [
   "wedding brochure",
   "events/MICE document",
-  "fact: villas.total",
   "fact: dive operator",
   "fact: kids club"
  ],
@@ -171,12 +163,22 @@
     "value": "North Male Atoll",
     "source_url": "https://www.neoscapesmaldives.com/resort/taj-coral-reef-resort-spa/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "North Male Atoll",
+    "source_url": "https://www.mymaldives.com/resort-guide/taj-coral-reef-resort/",
+    "as_of": "2026-10-04"
    }
   ],
   "transfer.modes": [
    {
     "value": "speedboat",
     "source_url": "https://www.neoscapesmaldives.com/resort/taj-coral-reef-resort-spa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.maldivestourism.net/resorts/taj-coral-reef-resort/",
     "as_of": "2026-10-04"
    }
   ],
@@ -264,24 +266,6 @@
   "dining": [
    {
     "value": {
-     "name": "Dining",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/taj-coral-reef-resort-spa/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Dining",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/taj-coral-reef-resort-spa/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
      "name": "Reef Bar",
      "cuisine": null,
      "type": "bar"
@@ -292,24 +276,6 @@
    {
     "value": {
      "name": "Pizzeria",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/taj-coral-reef-resort-spa/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Sandbank Dining",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/taj-coral-reef-resort-spa/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Unique Dining Experiences",
      "cuisine": null,
      "type": "restaurant"
     },
@@ -336,12 +302,32 @@
     "value": "Spa",
     "source_url": "https://www.neoscapesmaldives.com/resort/taj-coral-reef-resort-spa/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.mymaldives.com/resort-guide/taj-coral-reef-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Jiva Spa",
+    "source_url": "https://www.maldivestourism.net/blog/taj-coral-reef-maldives-relaunched-as-vivanta-by-taj/",
+    "as_of": "2026-10-04"
    }
   ],
   "diving_watersports.house_reef": [
    {
     "value": "house reef to offer environmentally-responsible, all-inclusive vacations",
     "source_url": "https://www.neoscapesmaldives.com/resort/taj-coral-reef-resort-spa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef complete with a shipwreck! Truly a world-class resort, there is something for everyone, from the most active amongst you to those who wish to do nothing more t",
+    "source_url": "https://www.mymaldives.com/resort-guide/taj-coral-reef-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef with its own shipwreck!",
+    "source_url": "https://www.maldivestourism.net/resorts/taj-coral-reef-resort/",
     "as_of": "2026-10-04"
    }
   ],
@@ -365,6 +351,46 @@
     "value": "dolphin cruise",
     "source_url": "https://www.neoscapesmaldives.com/resort/taj-coral-reef-resort-spa/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.mymaldives.com/resort-guide/taj-coral-reef-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://www.mymaldives.com/resort-guide/taj-coral-reef-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "windsurfing",
+    "source_url": "https://www.mymaldives.com/resort-guide/taj-coral-reef-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "parasailing",
+    "source_url": "https://www.mymaldives.com/resort-guide/taj-coral-reef-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "water skiing",
+    "source_url": "https://www.mymaldives.com/resort-guide/taj-coral-reef-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.mymaldives.com/resort-guide/taj-coral-reef-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sailing",
+    "source_url": "https://www.mymaldives.com/resort-guide/taj-coral-reef-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "canoe",
+    "source_url": "https://www.mymaldives.com/resort-guide/taj-coral-reef-resort/",
+    "as_of": "2026-10-04"
    }
   ],
   "excursions": [
@@ -381,6 +407,11 @@
    {
     "value": "big game fishing",
     "source_url": "https://www.neoscapesmaldives.com/resort/taj-coral-reef-resort-spa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "big game fishing",
+    "source_url": "https://www.mymaldives.com/resort-guide/taj-coral-reef-resort/",
     "as_of": "2026-10-04"
    }
   ],
@@ -403,6 +434,16 @@
    {
     "value": "fitness centre",
     "source_url": "https://www.neoscapesmaldives.com/resort/taj-coral-reef-resort-spa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://www.mymaldives.com/resort-guide/taj-coral-reef-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "badminton",
+    "source_url": "https://www.mymaldives.com/resort-guide/taj-coral-reef-resort/",
     "as_of": "2026-10-04"
    }
   ],
@@ -439,8 +480,30 @@
     "value": "+960 736 5425",
     "source_url": "https://www.neoscapesmaldives.com/resort/taj-coral-reef-resort-spa/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 664-1948",
+    "source_url": "https://www.mymaldives.com/resort-guide/taj-coral-reef-resort/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "villas.total": [
+   {
+    "value": 66,
+    "source_url": "https://www.mymaldives.com/resort-guide/taj-coral-reef-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 62,
+    "source_url": "https://www.maldivestourism.net/blog/taj-coral-reef-maldives-relaunched-as-vivanta-by-taj/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 62,
+    "source_url": "https://www.maldivestourism.net/blog/taj-coral-reef-maldives-relaunched-as-vivanta-by-taj/",
+    "as_of": "2026-10-04"
    }
   ]
  },
- "last_updated": "2026-10-04"
+ "last_updated": "2026-10-05"
 }

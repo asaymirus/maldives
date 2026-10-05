@@ -1,56 +1,53 @@
 # 77. Atmosphere Kanifushi Maldives
 
-**Official site:** n/a (None)  
+**Official site:** https://www.atmospherekanifushi.com/ (ok)  
 **Brand:** Atmosphere  
 **Atoll:** Lhaviyani Atoll  **Island:** n/a  
-**Opened/renovated:** n/a  **Rating:** 5-star  
+**Opened/renovated:** opened 2013  **Rating:** 5-star  
 **Transfer:** seaplane; minutes: {"seaplane": 35}  
 **Island size:** 2240 m x 130 m  
 
-## Villas (162 total)
+## Villas (150 total)
 
 - SUNSET BEACH VILLA WATER VILLA: count 34, 100 sqm, max ?
-- SUNSET BEACH VILLA WITH POOL | Pool: count 10, 194 sqm, max ?, pool
+- TWO BEDROOM SUNSET FAMILY BEACH VILLA: count 1, 257 sqm, max ?, pool
+- KANIFUSHI BEACH VILLA WITH POOL: count 29, 146 sqm, max ?, pool
+- SUNSET BEACH VILLA WITH POOL: count 10, 194 sqm, max ?, pool
 - of the over-water villas come with a generous private pool: count 28, 20 sqm, max ?, pool
 - A - KANIFUSHI RESIDENCE WITH POOL: count 7, ? sqm, max ?, pool
 - A - KANIFUSHI BEACH VILLA WITH POOL: count 9, ? sqm, max ?, pool
 - PIER SI & TEPPENYAKI GRILL - CEYLON BLISS A - WATER VILLAS: count 6, ? sqm, max ?
-- Total Number of Villas: count 172, ? sqm, max ?
+- Night Stay in Sunset Beach Villa with Pool: count 7, ? sqm, max ?, pool
+- BEDROOM SUNSET FAMILY BEACH VILLA: count 2, ? sqm, max ?
 
 ## Dining
 
-- Complimentary access to Trans Maldivian Airways VIP Lounge (bar)
-- THE SPICE – Main Restaurant | Breakfast, Lunch and Dinner (restaurant)
-- À la carte breakfast at THE SUNSET Bar (Optional – from (bar)
-- À la carte breakfast at THE SUNSET Restaurant (restaurant)
-- One additional Complimentary Dining per week at THE SUNSET (restaurant)
-- Dining (restaurant)
+- THE SPICE – Main Restaurant (restaurant)
 - The Lantern Bar – Specialty Bar (bar)
-- The Spice – Main Restaurant (restaurant)
 - Just Veg – Pure Vegetarian Restaurant (restaurant)
 - Teppanyaki Grill (restaurant)
 - Pier Six – Overwater Seafood Restaurant (restaurant)
 - The Sunset - Pool Bar (bar)
 
-Meal plans: AI
+Meal plans: AI, Premium AI
 All-inclusive: all-inclusive retreat in the secluded Lhaviyani Atoll.
 
 ## Spa & wellness
 
 - Spa: Spa; treatment rooms: ?; menu: none
-- Wellness/fitness: gym, tennis, steam, yoga
+- Wellness/fitness: gym, tennis, steam, yoga, ayurveda, sauna, beach volleyball
 
 ## Diving, water sports & excursions
 
 - Operator: Dive & Sail
-- House reef: n/a
-- Activities: snorkelling, snorkeling, stand-up paddle, catamaran, fishing, sunset cruise, canoe
+- House reef: house reef
+- Activities: snorkelling, snorkeling, stand-up paddle, catamaran, fishing, sunset cruise, canoe, jet ski, manta, sailing
 - Price list: none
-- Excursions: local island, sunset fishing, turtle, sandbank
+- Excursions: local island, sunset fishing, turtle, sandbank, manta
 
 ## Kids & family
 
-- Kids club: Kids Club; ages: n/a; teens: n/a
+- Kids club: Kids Club; ages: n/a; teens: teens programme mentioned
 
 ## Weddings
 
@@ -81,7 +78,7 @@ All-inclusive: all-inclusive retreat in the secluded Lhaviyani Atoll.
 - dining_menu: none
 - dive_prices: none
 - events: none
-- calendar: none
+- calendar: https://letsgomaldives.com/wp-content/uploads/2023/11/Festive_Calendar_2023_2024_Atmosphere-Kanifushi_Maldives.pdf
 
 ## Gaps
 
@@ -89,4 +86,4 @@ All-inclusive: all-inclusive retreat in the secluded Lhaviyani Atoll.
 - wedding brochure
 - events/MICE document
 
-_Facts extracted by rules from 20 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-04._
+_Facts extracted by rules from 23 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

@@ -9,11 +9,11 @@
   "Maafushi Riu",
   "Kedhigandu"
  ],
- "official_url": null,
- "official_site_status": null,
+ "official_url": "https://www.riu.com/en/hotel/maldives/dhaalu-atoll/hotel-riu-palace-maldivas",
+ "official_site_status": "ok",
  "operator_brand": "RIU",
- "atoll": null,
- "island": null,
+ "atoll": "Dhaalu Atoll",
+ "island": "Kedhigandu\nSpa",
  "opened_or_renovated": null,
  "star_rating": null,
  "transfer": {
@@ -27,14 +27,22 @@
  },
  "island_size": null,
  "villas": {
-  "total": null,
+  "total": 176,
   "categories": []
  },
- "dining": [],
- "meal_plans": [],
+ "dining": [
+  {
+   "name": "Steakhouse",
+   "cuisine": null,
+   "type": "restaurant"
+  }
+ ],
+ "meal_plans": [
+  "AI"
+ ],
  "all_inclusive_details": null,
  "spa": {
-  "name": null,
+  "name": "Spa",
   "treatment_rooms": null,
   "signature_treatments": [],
   "menu_doc": null
@@ -42,7 +50,10 @@
  "diving_watersports": {
   "operator": null,
   "house_reef": null,
-  "activities": [],
+  "activities": [
+   "snorkeling",
+   "sunset cruise"
+  ],
   "price_list_doc": null
  },
  "excursions": [],
@@ -51,7 +62,9 @@
   "age_range": null,
   "teens": null
  },
- "wellness_fitness": [],
+ "wellness_fitness": [
+  "gym"
+ ],
  "weddings": {
   "offered": null,
   "vow_renewal": null,
@@ -69,7 +82,7 @@
  "contacts_public": {
   "reservations_email": null,
   "weddings_email": null,
-  "phone": null
+  "phone": "+960 400 3700"
  },
  "documents_latest": {
   "factsheet": null,
@@ -86,18 +99,91 @@
   "factsheet",
   "wedding brochure",
   "events/MICE document",
-  "fact: villas.total",
   "fact: villa categories",
-  "fact: dining",
   "fact: transfer",
-  "fact: atoll",
-  "fact: spa",
   "fact: dive operator",
   "fact: kids club",
   "fact: weddings",
-  "fact: contacts",
-  "no documents or pages collected"
+  "fact: contacts"
  ],
- "sources": {},
- "last_updated": "2026-10-04"
+ "sources": {
+  "atoll": [
+   {
+    "value": "Dhaalu Atoll",
+    "source_url": "https://www.riu.com/en/hotel/maldives/dhaalu-atoll/hotel-riu-palace-maldivas",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Dhaalu Atoll",
+    "source_url": "https://mondomaldive.it/it/fotografie_villaggio/hotel-riu-atoll",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "island": [
+   {
+    "value": "Kedhigandu\nSpa",
+    "source_url": "https://www.riu.com/en/hotel/maldives/dhaalu-atoll/hotel-riu-palace-maldivas",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "villas.total": [
+   {
+    "value": 176,
+    "source_url": "https://www.riu.com/en/hotel/maldives/dhaalu-atoll/hotel-riu-palace-maldivas",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "meal_plans": [
+   {
+    "value": "AI",
+    "source_url": "https://www.riu.com/en/hotel/maldives/dhaalu-atoll/hotel-riu-palace-maldivas",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "spa.name": [
+   {
+    "value": "Spa",
+    "source_url": "https://www.riu.com/en/hotel/maldives/dhaalu-atoll/hotel-riu-palace-maldivas",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "diving_watersports.activities": [
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.riu.com/en/hotel/maldives/dhaalu-atoll/hotel-riu-palace-maldivas",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.riu.com/en/hotel/maldives/dhaalu-atoll/hotel-riu-palace-maldivas",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "wellness_fitness": [
+   {
+    "value": "gym",
+    "source_url": "https://www.riu.com/en/hotel/maldives/dhaalu-atoll/hotel-riu-palace-maldivas",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "contacts_public.phone": [
+   {
+    "value": "+960 400 3700",
+    "source_url": "https://www.riu.com/en/hotel/maldives/dhaalu-atoll/hotel-riu-palace-maldivas",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "dining": [
+   {
+    "value": {
+     "name": "Steakhouse",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.riu.com/en/hotel/maldives/dhaalu-atoll/hotel-riu-palace-maldivas/gastronomy",
+    "as_of": "2026-10-04"
+   }
+  ]
+ },
+ "last_updated": "2026-10-05"
 }

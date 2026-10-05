@@ -6,8 +6,8 @@
   "Six Senses Kanuhura",
   "Kanuhura"
  ],
- "official_url": null,
- "official_site_status": null,
+ "official_url": "https://www.sixsenses.com/en/resorts/kanuhura",
+ "official_site_status": "blocked",
  "operator_brand": "Six Senses",
  "atoll": "Lhaviyani Atoll",
  "island": "Kanuhura",
@@ -16,12 +16,13 @@
  "transfer": {
   "modes": [
    "seaplane",
-   "speedboat"
+   "speedboat",
+   "domestic flight"
   ],
   "minutes": {
    "seaplane": 40,
-   "speedboat": null,
-   "domestic flight": null,
+   "speedboat": 15,
+   "domestic flight": 15,
    "yacht": null
   }
  },
@@ -54,11 +55,67 @@
     "overwater": null
    },
    {
-    "name": "Number of Villas",
-    "count": 80,
+    "name": "BEACH VILLA WITH POOL",
+    "count": 10,
     "size_sqm": null,
     "max_occupancy": null,
+    "pool": true,
+    "overwater": null
+   },
+   {
+    "name": "Villa features .| , sq.ft",
+    "count": null,
+    "size_sqm": 101,
+    "max_occupancy": null,
     "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "WATER VILLA WITH POOL",
+    "count": 15,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": true,
+    "overwater": null
+   },
+   {
+    "name": "TWO BEDROOM BEACH VILLA WITH POOL .| , sq.ft",
+    "count": 5,
+    "size_sqm": 115,
+    "max_occupancy": null,
+    "pool": true,
+    "overwater": null
+   },
+   {
+    "name": "FAMILY WATER VILLA WITH POOL FAMILY BEACH RETREAT WITH POOL",
+    "count": 4,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": true,
+    "overwater": null
+   },
+   {
+    "name": "TWO BEDROOM WATER VILLA WITH POOL",
+    "count": 1,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": true,
+    "overwater": null
+   },
+   {
+    "name": "sq.ft. TWO BEDROOM BEACH RETREAT WITH POOL",
+    "count": 1,
+    "size_sqm": 305,
+    "max_occupancy": null,
+    "pool": true,
+    "overwater": null
+   },
+   {
+    "name": "BEACH RETREAT WITH POOL",
+    "count": 7,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": true,
     "overwater": null
    },
    {
@@ -76,36 +133,6 @@
    "name": "Boduberu Lounge- Welcome/Arrival Lounge",
    "cuisine": null,
    "type": "bar"
-  },
-  {
-   "name": "6. Deli- café to dine in or take away",
-   "cuisine": null,
-   "type": "restaurant"
-  },
-  {
-   "name": "Retreat family beach pool villa 7. Iru Beach Lounge",
-   "cuisine": null,
-   "type": "bar"
-  },
-  {
-   "name": "23.Fendaa Lounge",
-   "cuisine": null,
-   "type": "bar"
-  },
-  {
-   "name": "24.Boduberu Lounge - Welcome/Arrival lounge",
-   "cuisine": null,
-   "type": "bar"
-  },
-  {
-   "name": "28.Lava Lounge",
-   "cuisine": null,
-   "type": "bar"
-  },
-  {
-   "name": "Dining",
-   "cuisine": null,
-   "type": "restaurant"
   },
   {
    "name": "Bottega Restaurant",
@@ -146,7 +173,7 @@
  "meal_plans": [],
  "all_inclusive_details": null,
  "spa": {
-  "name": "Facilities\nKokaa Spa",
+  "name": "Six Senses Spa",
   "treatment_rooms": null,
   "signature_treatments": [],
   "menu_doc": null
@@ -156,18 +183,20 @@
   "house_reef": null,
   "activities": [
    "snorkeling",
-   "snorkelling",
    "windsurfing",
+   "kayaking",
    "stand-up paddle",
    "paddleboard",
    "catamaran",
+   "fishing",
+   "dolphin cruise",
+   "sailing",
+   "snorkelling",
    "jet ski",
    "water skiing",
    "wakeboarding",
-   "fishing",
    "sunset cruise",
    "manta",
-   "sailing",
    "banana boat",
    "fun tube",
    "canoe"
@@ -178,17 +207,18 @@
   "picnic",
   "castaway",
   "dolphin",
+  "sunset fishing",
+  "turtle",
+  "cinema",
+  "cooking class",
   "big game fishing",
   "manta",
-  "turtle",
-  "private dinner",
-  "cinema",
-  "cooking class"
+  "private dinner"
  ],
  "kids_family": {
   "kids_club": "Kids Club",
   "age_range": null,
-  "teens": null
+  "teens": "teens programme mentioned"
  },
  "wellness_fitness": [
   "yoga",
@@ -214,7 +244,10 @@
   "buyout": null,
   "doc": null
  },
- "sustainability": [],
+ "sustainability": [
+  "organic garden",
+  "hydroponic"
+ ],
  "contacts_public": {
   "reservations_email": "info@neoscapesmaldives.com",
   "weddings_email": null,
@@ -230,7 +263,7 @@
   "events": null,
   "calendar": null
  },
- "documents_count": 1,
+ "documents_count": 2,
  "gaps": [
   "wedding brochure",
   "events/MICE document",
@@ -242,6 +275,11 @@
     "value": "Kaafu Atoll",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Factsheet_2018_NEW.pdf",
     "as_of": 2018
+   },
+   {
+    "value": "Lhaviyani Atoll",
+    "source_url": "https://awesomegetawaymaldives.com/wp-content/uploads/2026/03/Six-Senses-Kanuhura.pdf",
+    "as_of": 2026
    },
    {
     "value": "Lhaviyani Atoll",
@@ -264,6 +302,21 @@
    },
    {
     "value": "seaplane",
+    "source_url": "https://awesomegetawaymaldives.com/wp-content/uploads/2026/03/Six-Senses-Kanuhura.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://awesomegetawaymaldives.com/wp-content/uploads/2026/03/Six-Senses-Kanuhura.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "domestic flight",
+    "source_url": "https://awesomegetawaymaldives.com/wp-content/uploads/2026/03/Six-Senses-Kanuhura.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "seaplane",
     "source_url": "https://www.neoscapesmaldives.com/resort/kanuhura-maldives/",
     "as_of": "2026-10-04"
    },
@@ -278,6 +331,11 @@
     "value": 40,
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Factsheet_2018_NEW.pdf",
     "as_of": 2018
+   },
+   {
+    "value": 40,
+    "source_url": "https://awesomegetawaymaldives.com/wp-content/uploads/2026/03/Six-Senses-Kanuhura.pdf",
+    "as_of": 2026
    },
    {
     "value": 40,
@@ -331,15 +389,99 @@
    },
    {
     "value": {
-     "name": "Number of Villas",
-     "count": 80,
+     "name": "BEACH VILLA WITH POOL",
+     "count": 10,
      "size_sqm": null,
+     "max_occupancy": null,
+     "pool": true,
+     "overwater": null
+    },
+    "source_url": "https://awesomegetawaymaldives.com/wp-content/uploads/2026/03/Six-Senses-Kanuhura.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": {
+     "name": "Villa features .| , sq.ft",
+     "count": null,
+     "size_sqm": 101,
      "max_occupancy": null,
      "pool": null,
      "overwater": null
     },
-    "source_url": "https://www.neoscapesmaldives.com/resort/kanuhura-maldives/",
-    "as_of": "2026-10-04"
+    "source_url": "https://awesomegetawaymaldives.com/wp-content/uploads/2026/03/Six-Senses-Kanuhura.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": {
+     "name": "WATER VILLA WITH POOL",
+     "count": 15,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": true,
+     "overwater": null
+    },
+    "source_url": "https://awesomegetawaymaldives.com/wp-content/uploads/2026/03/Six-Senses-Kanuhura.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": {
+     "name": "TWO BEDROOM BEACH VILLA WITH POOL .| , sq.ft",
+     "count": 5,
+     "size_sqm": 115,
+     "max_occupancy": null,
+     "pool": true,
+     "overwater": null
+    },
+    "source_url": "https://awesomegetawaymaldives.com/wp-content/uploads/2026/03/Six-Senses-Kanuhura.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": {
+     "name": "FAMILY WATER VILLA WITH POOL FAMILY BEACH RETREAT WITH POOL",
+     "count": 4,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": true,
+     "overwater": null
+    },
+    "source_url": "https://awesomegetawaymaldives.com/wp-content/uploads/2026/03/Six-Senses-Kanuhura.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": {
+     "name": "TWO BEDROOM WATER VILLA WITH POOL",
+     "count": 1,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": true,
+     "overwater": null
+    },
+    "source_url": "https://awesomegetawaymaldives.com/wp-content/uploads/2026/03/Six-Senses-Kanuhura.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": {
+     "name": "sq.ft. TWO BEDROOM BEACH RETREAT WITH POOL",
+     "count": 1,
+     "size_sqm": 305,
+     "max_occupancy": null,
+     "pool": true,
+     "overwater": null
+    },
+    "source_url": "https://awesomegetawaymaldives.com/wp-content/uploads/2026/03/Six-Senses-Kanuhura.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": {
+     "name": "BEACH RETREAT WITH POOL",
+     "count": 7,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": true,
+     "overwater": null
+    },
+    "source_url": "https://awesomegetawaymaldives.com/wp-content/uploads/2026/03/Six-Senses-Kanuhura.pdf",
+    "as_of": 2026
    },
    {
     "value": {
@@ -363,69 +505,6 @@
     },
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Factsheet_2018_NEW.pdf",
     "as_of": 2018
-   },
-   {
-    "value": {
-     "name": "6. Deli- café to dine in or take away",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Factsheet_2018_NEW.pdf",
-    "as_of": 2018
-   },
-   {
-    "value": {
-     "name": "Retreat family beach pool villa 7. Iru Beach Lounge",
-     "cuisine": null,
-     "type": "bar"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Factsheet_2018_NEW.pdf",
-    "as_of": 2018
-   },
-   {
-    "value": {
-     "name": "23.Fendaa Lounge",
-     "cuisine": null,
-     "type": "bar"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Factsheet_2018_NEW.pdf",
-    "as_of": 2018
-   },
-   {
-    "value": {
-     "name": "24.Boduberu Lounge - Welcome/Arrival lounge",
-     "cuisine": null,
-     "type": "bar"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Factsheet_2018_NEW.pdf",
-    "as_of": 2018
-   },
-   {
-    "value": {
-     "name": "28.Lava Lounge",
-     "cuisine": null,
-     "type": "bar"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Factsheet_2018_NEW.pdf",
-    "as_of": 2018
-   },
-   {
-    "value": {
-     "name": "Dining",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/kanuhura-maldives/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Dining",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/kanuhura-maldives/",
-    "as_of": "2026-10-04"
    },
    {
     "value": {
@@ -498,6 +577,11 @@
     "as_of": 2018
    },
    {
+    "value": "Six Senses Spa",
+    "source_url": "https://awesomegetawaymaldives.com/wp-content/uploads/2026/03/Six-Senses-Kanuhura.pdf",
+    "as_of": 2026
+   },
+   {
     "value": "Facilities\nKokaa Spa",
     "source_url": "https://www.neoscapesmaldives.com/resort/kanuhura-maldives/",
     "as_of": "2026-10-04"
@@ -508,6 +592,51 @@
     "value": "snorkeling",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Factsheet_2018_NEW.pdf",
     "as_of": 2018
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://awesomegetawaymaldives.com/wp-content/uploads/2026/03/Six-Senses-Kanuhura.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "windsurfing",
+    "source_url": "https://awesomegetawaymaldives.com/wp-content/uploads/2026/03/Six-Senses-Kanuhura.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "kayaking",
+    "source_url": "https://awesomegetawaymaldives.com/wp-content/uploads/2026/03/Six-Senses-Kanuhura.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "stand-up paddle",
+    "source_url": "https://awesomegetawaymaldives.com/wp-content/uploads/2026/03/Six-Senses-Kanuhura.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "paddleboard",
+    "source_url": "https://awesomegetawaymaldives.com/wp-content/uploads/2026/03/Six-Senses-Kanuhura.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "catamaran",
+    "source_url": "https://awesomegetawaymaldives.com/wp-content/uploads/2026/03/Six-Senses-Kanuhura.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://awesomegetawaymaldives.com/wp-content/uploads/2026/03/Six-Senses-Kanuhura.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "dolphin cruise",
+    "source_url": "https://awesomegetawaymaldives.com/wp-content/uploads/2026/03/Six-Senses-Kanuhura.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "sailing",
+    "source_url": "https://awesomegetawaymaldives.com/wp-content/uploads/2026/03/Six-Senses-Kanuhura.pdf",
+    "as_of": 2026
    },
    {
     "value": "snorkelling",
@@ -588,6 +717,11 @@
     "value": "canoe",
     "source_url": "https://www.neoscapesmaldives.com/resort/kanuhura-maldives/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://malediven.de/malediven-hotels/kanuhura/",
+    "as_of": "2026-10-04"
    }
   ],
   "excursions": [
@@ -600,6 +734,41 @@
     "value": "castaway",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Factsheet_2018_NEW.pdf",
     "as_of": 2018
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://awesomegetawaymaldives.com/wp-content/uploads/2026/03/Six-Senses-Kanuhura.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "sunset fishing",
+    "source_url": "https://awesomegetawaymaldives.com/wp-content/uploads/2026/03/Six-Senses-Kanuhura.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://awesomegetawaymaldives.com/wp-content/uploads/2026/03/Six-Senses-Kanuhura.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "picnic",
+    "source_url": "https://awesomegetawaymaldives.com/wp-content/uploads/2026/03/Six-Senses-Kanuhura.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "castaway",
+    "source_url": "https://awesomegetawaymaldives.com/wp-content/uploads/2026/03/Six-Senses-Kanuhura.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "cinema",
+    "source_url": "https://awesomegetawaymaldives.com/wp-content/uploads/2026/03/Six-Senses-Kanuhura.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "cooking class",
+    "source_url": "https://awesomegetawaymaldives.com/wp-content/uploads/2026/03/Six-Senses-Kanuhura.pdf",
+    "as_of": 2026
    },
    {
     "value": "dolphin",
@@ -644,6 +813,11 @@
    {
     "value": "cooking class",
     "source_url": "https://www.neoscapesmaldives.com/resort/kanuhura-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://malediven.de/malediven-hotels/kanuhura/",
     "as_of": "2026-10-04"
    }
   ],
@@ -697,6 +871,31 @@
    },
    {
     "value": "yoga",
+    "source_url": "https://awesomegetawaymaldives.com/wp-content/uploads/2026/03/Six-Senses-Kanuhura.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "gym",
+    "source_url": "https://awesomegetawaymaldives.com/wp-content/uploads/2026/03/Six-Senses-Kanuhura.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://awesomegetawaymaldives.com/wp-content/uploads/2026/03/Six-Senses-Kanuhura.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "sauna",
+    "source_url": "https://awesomegetawaymaldives.com/wp-content/uploads/2026/03/Six-Senses-Kanuhura.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "steam",
+    "source_url": "https://awesomegetawaymaldives.com/wp-content/uploads/2026/03/Six-Senses-Kanuhura.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "yoga",
     "source_url": "https://www.neoscapesmaldives.com/resort/kanuhura-maldives/",
     "as_of": "2026-10-04"
    },
@@ -714,6 +913,54 @@
     "value": "pilates",
     "source_url": "https://www.neoscapesmaldives.com/resort/kanuhura-maldives/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://malediven.de/malediven-hotels/kanuhura/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "meditation",
+    "source_url": "https://malediven.de/malediven-hotels/kanuhura/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sauna",
+    "source_url": "https://malediven.de/malediven-hotels/kanuhura/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "transfer.minutes.speedboat": [
+   {
+    "value": 15,
+    "source_url": "https://awesomegetawaymaldives.com/wp-content/uploads/2026/03/Six-Senses-Kanuhura.pdf",
+    "as_of": 2026
+   }
+  ],
+  "transfer.minutes.domestic flight": [
+   {
+    "value": 15,
+    "source_url": "https://awesomegetawaymaldives.com/wp-content/uploads/2026/03/Six-Senses-Kanuhura.pdf",
+    "as_of": 2026
+   }
+  ],
+  "kids_family.teens": [
+   {
+    "value": "teens programme mentioned",
+    "source_url": "https://awesomegetawaymaldives.com/wp-content/uploads/2026/03/Six-Senses-Kanuhura.pdf",
+    "as_of": 2026
+   }
+  ],
+  "sustainability": [
+   {
+    "value": "organic garden",
+    "source_url": "https://awesomegetawaymaldives.com/wp-content/uploads/2026/03/Six-Senses-Kanuhura.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "hydroponic",
+    "source_url": "https://awesomegetawaymaldives.com/wp-content/uploads/2026/03/Six-Senses-Kanuhura.pdf",
+    "as_of": 2026
    }
   ],
   "island": [
@@ -745,5 +992,5 @@
    }
   ]
  },
- "last_updated": "2026-10-04"
+ "last_updated": "2026-10-05"
 }

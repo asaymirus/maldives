@@ -6,8 +6,8 @@
   "Siyam World",
   "Dhigurah Noonu"
  ],
- "official_url": null,
- "official_site_status": null,
+ "official_url": "https://www.sunsiyam.com/siyam-world/",
+ "official_site_status": "ok",
  "operator_brand": "Siyam World",
  "atoll": "Noonu Atoll",
  "island": null,
@@ -20,8 +20,8 @@
    "domestic flight"
   ],
   "minutes": {
-   "seaplane": 30,
-   "speedboat": 10,
+   "seaplane": 40,
+   "speedboat": 15,
    "domestic flight": 10,
    "yacht": null
   }
@@ -30,6 +30,38 @@
  "villas": {
   "total": 23,
   "categories": [
+   {
+    "name": "Pool Beach Villa child OR Super King",
+    "count": 80,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": true,
+    "overwater": null
+   },
+   {
+    "name": "Lagoon Villa with children OR",
+    "count": 2,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": true
+   },
+   {
+    "name": "Residences are offering an all-inclusive island getaway",
+    "count": 23,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "residence",
+    "count": 213,
+    "size_sqm": 213,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
    {
     "name": "Villas",
     "count": 499,
@@ -66,72 +98,27 @@
  },
  "dining": [
   {
-   "name": "Swim-up Bar • Kids Club",
-   "cuisine": null,
-   "type": "bar"
-  },
-  {
-   "name": "Adults only Bar • Moke rentals",
-   "cuisine": null,
-   "type": "bar"
-  },
-  {
-   "name": "Underground Wine Cellar",
-   "cuisine": null,
-   "type": "bar"
-  },
-  {
-   "name": "The Wahoo Grill Grill restaurant 18.30 to 22.00",
+   "name": "Tempo The Wahoo Grill Together KulhiVaru",
    "cuisine": null,
    "type": "restaurant"
   },
   {
-   "name": "Together Main Bar with Pool 10.30 to 16.00 Lunch",
+   "name": "Maldivian cuisine Indian cuisine Pool Bar",
    "cuisine": null,
    "type": "bar"
   },
   {
-   "name": "Shipwrecked/ Bar & light Lunch 10.30 to 00.00 (Bar)",
+   "name": "Enhanced Mini Bar",
    "cuisine": null,
    "type": "bar"
   },
   {
-   "name": "The Orchid Infinity Pool Bar 10.00 till last guest leaves",
-   "cuisine": null,
-   "type": "bar"
-  },
-  {
-   "name": "10.00 to 18.00 (Bar)",
-   "cuisine": null,
-   "type": "bar"
-  },
-  {
-   "name": "Jungali Pool Bar with lush vegetation",
-   "cuisine": null,
-   "type": "bar"
-  },
-  {
-   "name": "KulhiVaru 24hr Sports Bar 24/7",
-   "cuisine": null,
-   "type": "bar"
-  },
-  {
-   "name": "Good Vibrations Epic Beach Bar 10.00 to 18.30",
-   "cuisine": null,
-   "type": "bar"
-  },
-  {
-   "name": "*In-Villa Dining",
+   "name": "The Wahoo Grill",
    "cuisine": null,
    "type": "restaurant"
   },
   {
-   "name": "Dining",
-   "cuisine": null,
-   "type": "restaurant"
-  },
-  {
-   "name": "Tempo - All-Day Dining",
+   "name": "Teppanyaki",
    "cuisine": null,
    "type": "restaurant"
   },
@@ -142,11 +129,6 @@
   },
   {
    "name": "Kurry Leaf – Indian Restaurant",
-   "cuisine": null,
-   "type": "restaurant"
-  },
-  {
-   "name": "The Wahoo Grill",
    "cuisine": null,
    "type": "restaurant"
   },
@@ -215,9 +197,9 @@
   "AI",
   "Premium AI"
  ],
- "all_inclusive_details": "all-inclusive resort is bursting with energy, surprises, and boundless possibilities.",
+ "all_inclusive_details": "All-Inclusive Meal Plan.",
  "spa": {
-  "name": "Studio\nArt Studio\nSpa",
+  "name": "Veyo Spa",
   "treatment_rooms": null,
   "signature_treatments": [],
   "menu_doc": null
@@ -226,42 +208,49 @@
   "operator": "Dive Centre",
   "house_reef": "house reef just steps away, or unwind at the spa before catching a Maldivian sunset",
   "activities": [
-   "snorkelling",
-   "scuba diving",
-   "dolphin cruise",
-   "manta",
-   "windsurfing",
-   "jet ski",
+   "kitesurfing",
+   "fishing",
    "sunset cruise",
+   "snorkeling",
+   "windsurfing",
+   "canoe",
+   "jet ski",
    "banana boat"
   ],
   "price_list_doc": null
  },
  "excursions": [
-  "dolphin",
-  "manta"
+  "big game fishing",
+  "stargazing",
+  "cinema",
+  "dolphin"
  ],
  "kids_family": {
-  "kids_club": "Seaplane\nKids Club",
+  "kids_club": "Kids Club",
   "age_range": null,
-  "teens": null
+  "teens": "teens programme mentioned"
  },
  "wellness_fitness": [
-  "meditation",
+  "yoga",
   "gym",
   "tennis",
   "padel",
   "badminton",
+  "meditation",
+  "fitness center",
   "beach volleyball",
-  "yoga",
-  "ayurveda"
+  "ayurveda",
+  "sauna",
+  "steam"
  ],
  "weddings": {
   "offered": true,
   "vow_renewal": true,
-  "venues": [],
+  "venues": [
+   "Breakfast venue Spanish cuisine Adult-Only pool bar Beach Bar"
+  ],
   "packages": [],
-  "brochure_doc": null
+  "brochure_doc": "https://www.sunsiyam.com/media/grbf53ce/ultimate-honeymoon-sw.pdf"
  },
  "events_mice": {
   "venues": [],
@@ -269,33 +258,49 @@
   "buyout": null,
   "doc": null
  },
- "sustainability": [],
+ "sustainability": [
+  "marine biologist"
+ ],
  "contacts_public": {
-  "reservations_email": "info@neoscapesmaldives.com",
+  "reservations_email": "info@siyamworld.com",
   "weddings_email": null,
-  "phone": "+960 736 5425"
+  "phone": "+960 656 7777"
  },
  "documents_latest": {
-  "factsheet": "https://www.neoscapesmaldives.com/wp-content/uploads/Siyam-World-Factsheet_02-Nov-2024-31-Oct-25.pdf",
+  "factsheet": "https://www.sunsiyam.com/media/ofahluyo/factsheet-siyam-world-2026.pdf",
   "map": "https://www.neoscapesmaldives.com/wp-content/uploads/SW-main-map-with-categories.pdf",
-  "wedding": null,
+  "wedding": "https://www.sunsiyam.com/media/grbf53ce/ultimate-honeymoon-sw.pdf",
   "spa_menu": null,
-  "dining_menu": null,
+  "dining_menu": "https://letsgomaldives.com/wp-content/uploads/2023/11/SIYAM-WORLD_WOW-INCLUSIVE-W23S24_01-Nov-23.pdf",
   "dive_prices": null,
   "events": null,
   "calendar": null
  },
- "documents_count": 2,
+ "documents_count": 7,
  "gaps": [
-  "wedding brochure",
   "events/MICE document"
  ],
  "sources": {
   "atoll": [
    {
     "value": "Noonu Atoll",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Siyam-World-Factsheet_02-Nov-2024-31-Oct-25.pdf",
-    "as_of": 2024
+    "source_url": "https://www.sunsiyam.com/media/ofahluyo/factsheet-siyam-world-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "Noonu Atoll",
+    "source_url": "https://letsgomaldives.com/wp-content/uploads/2023/11/SIYAM-WORLD_WOW-INCLUSIVE-W23S24_01-Nov-23.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": "Noonu Atoll",
+    "source_url": "https://www.sunsiyam.com/siyam-world/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Noonu Atoll",
+    "source_url": "https://www.sunsiyam.com/siyam-world/leisure-activities/diving/",
+    "as_of": "2026-10-04"
    },
    {
     "value": "Noonu Atoll",
@@ -306,18 +311,33 @@
   "transfer.modes": [
    {
     "value": "seaplane",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Siyam-World-Factsheet_02-Nov-2024-31-Oct-25.pdf",
-    "as_of": 2024
+    "source_url": "https://www.sunsiyam.com/media/ofahluyo/factsheet-siyam-world-2026.pdf",
+    "as_of": 2026
    },
    {
     "value": "speedboat",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Siyam-World-Factsheet_02-Nov-2024-31-Oct-25.pdf",
-    "as_of": 2024
+    "source_url": "https://www.sunsiyam.com/media/ofahluyo/factsheet-siyam-world-2026.pdf",
+    "as_of": 2026
    },
    {
-    "value": "domestic flight",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Siyam-World-Factsheet_02-Nov-2024-31-Oct-25.pdf",
-    "as_of": 2024
+    "value": "seaplane",
+    "source_url": "https://www.sunsiyam.com/media/grbf53ce/ultimate-honeymoon-sw.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.sunsiyam.com/siyam-world/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.sunsiyam.com/siyam-world/offers/fall-into-paradise-offer/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.sunsiyam.com/siyam-world/offers/honeymoon-offer/",
+    "as_of": "2026-10-04"
    },
    {
     "value": "seaplane",
@@ -333,13 +353,18 @@
     "value": "domestic flight",
     "source_url": "https://www.neoscapesmaldives.com/resort/siyam-world-maldives/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://visitmaldives.com/en/news/the-age-of-legends-takes-over-siyam-world-maldives-this-festive-season",
+    "as_of": "2026-10-04"
    }
   ],
   "transfer.minutes.seaplane": [
    {
-    "value": 30,
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Siyam-World-Factsheet_02-Nov-2024-31-Oct-25.pdf",
-    "as_of": 2024
+    "value": 40,
+    "source_url": "https://www.sunsiyam.com/media/ofahluyo/factsheet-siyam-world-2026.pdf",
+    "as_of": 2026
    },
    {
     "value": 30,
@@ -350,40 +375,11 @@
   "transfer.minutes.speedboat": [
    {
     "value": 15,
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Siyam-World-Factsheet_02-Nov-2024-31-Oct-25.pdf",
-    "as_of": 2024
+    "source_url": "https://www.sunsiyam.com/media/ofahluyo/factsheet-siyam-world-2026.pdf",
+    "as_of": 2026
    },
    {
     "value": 10,
-    "source_url": "https://www.neoscapesmaldives.com/resort/siyam-world-maldives/",
-    "as_of": "2026-10-04"
-   }
-  ],
-  "transfer.minutes.domestic flight": [
-   {
-    "value": 15,
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Siyam-World-Factsheet_02-Nov-2024-31-Oct-25.pdf",
-    "as_of": 2024
-   },
-   {
-    "value": 10,
-    "source_url": "https://www.neoscapesmaldives.com/resort/siyam-world-maldives/",
-    "as_of": "2026-10-04"
-   }
-  ],
-  "island_size": [
-   {
-    "value": "54 ha",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Siyam-World-Factsheet_02-Nov-2024-31-Oct-25.pdf",
-    "as_of": 2024
-   },
-   {
-    "value": "401 ha",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/SW-main-map-with-categories.pdf",
-    "as_of": 2025
-   },
-   {
-    "value": "54 ha",
     "source_url": "https://www.neoscapesmaldives.com/resort/siyam-world-maldives/",
     "as_of": "2026-10-04"
    }
@@ -391,144 +387,284 @@
   "villas.total": [
    {
     "value": 23,
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Siyam-World-Factsheet_02-Nov-2024-31-Oct-25.pdf",
-    "as_of": 2024
+    "source_url": "https://www.sunsiyam.com/media/ofahluyo/factsheet-siyam-world-2026.pdf",
+    "as_of": 2026
+   }
+  ],
+  "villas.categories": [
+   {
+    "value": {
+     "name": "Pool Beach Villa child OR Super King",
+     "count": 80,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": true,
+     "overwater": null
+    },
+    "source_url": "https://www.sunsiyam.com/media/ofahluyo/factsheet-siyam-world-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": {
+     "name": "Lagoon Villa with children OR",
+     "count": 2,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": true
+    },
+    "source_url": "https://www.sunsiyam.com/media/ofahluyo/factsheet-siyam-world-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": {
+     "name": "Lagoon Villa with children OR",
+     "count": 3,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": true
+    },
+    "source_url": "https://www.sunsiyam.com/media/ofahluyo/factsheet-siyam-world-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": {
+     "name": "Residences are offering an all-inclusive island getaway",
+     "count": 23,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://www.sunsiyam.com/media/ofahluyo/factsheet-siyam-world-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": {
+     "name": "residence",
+     "count": 213,
+     "size_sqm": 213,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://www.sunsiyam.com/siyam-world/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "residence",
+     "count": 391,
+     "size_sqm": 391,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://www.sunsiyam.com/siyam-world/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "residence",
+     "count": 649,
+     "size_sqm": 649,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://www.sunsiyam.com/siyam-world/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "residence",
+     "count": 712,
+     "size_sqm": 712,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://www.sunsiyam.com/siyam-world/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "residence",
+     "count": 213,
+     "size_sqm": 213,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://www.sunsiyam.com/siyam-world/accommodation/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "residence",
+     "count": 391,
+     "size_sqm": 391,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://www.sunsiyam.com/siyam-world/accommodation/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "residence",
+     "count": 649,
+     "size_sqm": 649,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://www.sunsiyam.com/siyam-world/accommodation/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "residence",
+     "count": 712,
+     "size_sqm": 712,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://www.sunsiyam.com/siyam-world/accommodation/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Villas",
+     "count": 499,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://www.neoscapesmaldives.com/resort/siyam-world-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "two bedroom family pool beach villa siyam world maldives",
+     "count": 1,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": true,
+     "overwater": null
+    },
+    "source_url": "https://www.neoscapesmaldives.com/resort/siyam-world-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "two bedroom family pool beach villa siyam world maldives",
+     "count": 2,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": true,
+     "overwater": null
+    },
+    "source_url": "https://www.neoscapesmaldives.com/resort/siyam-world-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "two bedroom pool beach villa siyam world maldives",
+     "count": 2,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": true,
+     "overwater": null
+    },
+    "source_url": "https://www.neoscapesmaldives.com/resort/siyam-world-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "two bedroom pool beach villa siyam world maldives",
+     "count": 1,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": true,
+     "overwater": null
+    },
+    "source_url": "https://www.neoscapesmaldives.com/resort/siyam-world-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "two bedroom pool beach villa siyam world maldives",
+     "count": 5,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": true,
+     "overwater": null
+    },
+    "source_url": "https://www.neoscapesmaldives.com/resort/siyam-world-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "three bedroom pool beach villa siyam world maldives",
+     "count": 2,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": true,
+     "overwater": null
+    },
+    "source_url": "https://www.neoscapesmaldives.com/resort/siyam-world-maldives/",
+    "as_of": "2026-10-04"
    }
   ],
   "dining": [
    {
     "value": {
-     "name": "Swim-up Bar • Kids Club",
-     "cuisine": null,
-     "type": "bar"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Siyam-World-Factsheet_02-Nov-2024-31-Oct-25.pdf",
-    "as_of": 2024
-   },
-   {
-    "value": {
-     "name": "Adults only Bar • Moke rentals",
-     "cuisine": null,
-     "type": "bar"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Siyam-World-Factsheet_02-Nov-2024-31-Oct-25.pdf",
-    "as_of": 2024
-   },
-   {
-    "value": {
-     "name": "Underground Wine Cellar",
-     "cuisine": null,
-     "type": "bar"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Siyam-World-Factsheet_02-Nov-2024-31-Oct-25.pdf",
-    "as_of": 2024
-   },
-   {
-    "value": {
-     "name": "The Wahoo Grill Grill restaurant 18.30 to 22.00",
+     "name": "Tempo The Wahoo Grill Together KulhiVaru",
      "cuisine": null,
      "type": "restaurant"
     },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Siyam-World-Factsheet_02-Nov-2024-31-Oct-25.pdf",
-    "as_of": 2024
+    "source_url": "https://www.sunsiyam.com/media/ofahluyo/factsheet-siyam-world-2026.pdf",
+    "as_of": 2026
    },
    {
     "value": {
-     "name": "Together Main Bar with Pool 10.30 to 16.00 Lunch",
+     "name": "Maldivian cuisine Indian cuisine Pool Bar",
      "cuisine": null,
      "type": "bar"
     },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Siyam-World-Factsheet_02-Nov-2024-31-Oct-25.pdf",
-    "as_of": 2024
+    "source_url": "https://www.sunsiyam.com/media/ofahluyo/factsheet-siyam-world-2026.pdf",
+    "as_of": 2026
    },
    {
     "value": {
-     "name": "Shipwrecked/ Bar & light Lunch 10.30 to 00.00 (Bar)",
+     "name": "Enhanced Mini Bar",
      "cuisine": null,
      "type": "bar"
     },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Siyam-World-Factsheet_02-Nov-2024-31-Oct-25.pdf",
-    "as_of": 2024
+    "source_url": "https://www.sunsiyam.com/media/ofahluyo/factsheet-siyam-world-2026.pdf",
+    "as_of": 2026
    },
    {
     "value": {
-     "name": "The Orchid Infinity Pool Bar 10.00 till last guest leaves",
-     "cuisine": null,
-     "type": "bar"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Siyam-World-Factsheet_02-Nov-2024-31-Oct-25.pdf",
-    "as_of": 2024
-   },
-   {
-    "value": {
-     "name": "10.00 to 18.00 (Bar)",
-     "cuisine": null,
-     "type": "bar"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Siyam-World-Factsheet_02-Nov-2024-31-Oct-25.pdf",
-    "as_of": 2024
-   },
-   {
-    "value": {
-     "name": "Jungali Pool Bar with lush vegetation",
-     "cuisine": null,
-     "type": "bar"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Siyam-World-Factsheet_02-Nov-2024-31-Oct-25.pdf",
-    "as_of": 2024
-   },
-   {
-    "value": {
-     "name": "KulhiVaru 24hr Sports Bar 24/7",
-     "cuisine": null,
-     "type": "bar"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Siyam-World-Factsheet_02-Nov-2024-31-Oct-25.pdf",
-    "as_of": 2024
-   },
-   {
-    "value": {
-     "name": "Good Vibrations Epic Beach Bar 10.00 to 18.30",
-     "cuisine": null,
-     "type": "bar"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Siyam-World-Factsheet_02-Nov-2024-31-Oct-25.pdf",
-    "as_of": 2024
-   },
-   {
-    "value": {
-     "name": "*In-Villa Dining",
+     "name": "The Wahoo Grill",
      "cuisine": null,
      "type": "restaurant"
     },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Siyam-World-Factsheet_02-Nov-2024-31-Oct-25.pdf",
-    "as_of": 2024
-   },
-   {
-    "value": {
-     "name": "Dining",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/siyam-world-maldives/",
+    "source_url": "https://www.sunsiyam.com/siyam-world/restaurants-bars/",
     "as_of": "2026-10-04"
    },
    {
     "value": {
-     "name": "Dining",
+     "name": "Teppanyaki",
      "cuisine": null,
      "type": "restaurant"
     },
-    "source_url": "https://www.neoscapesmaldives.com/resort/siyam-world-maldives/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Tempo - All-Day Dining",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/siyam-world-maldives/",
+    "source_url": "https://www.sunsiyam.com/siyam-world/restaurants-bars/",
     "as_of": "2026-10-04"
    },
    {
@@ -670,13 +806,13 @@
   "meal_plans": [
    {
     "value": "AI",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Siyam-World-Factsheet_02-Nov-2024-31-Oct-25.pdf",
-    "as_of": 2024
+    "source_url": "https://www.sunsiyam.com/media/ofahluyo/factsheet-siyam-world-2026.pdf",
+    "as_of": 2026
    },
    {
-    "value": "Premium AI",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Siyam-World-Factsheet_02-Nov-2024-31-Oct-25.pdf",
-    "as_of": 2024
+    "value": "AI",
+    "source_url": "https://www.sunsiyam.com/siyam-world/",
+    "as_of": "2026-10-04"
    },
    {
     "value": "AI",
@@ -691,9 +827,24 @@
   ],
   "all_inclusive_details": [
    {
-    "value": "all-inclusive resort unlike any other.",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Siyam-World-Factsheet_02-Nov-2024-31-Oct-25.pdf",
-    "as_of": 2024
+    "value": "All-Inclusive Meal Plan.",
+    "source_url": "https://www.sunsiyam.com/media/ofahluyo/factsheet-siyam-world-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "All-Inclusive are non-transferable.",
+    "source_url": "https://letsgomaldives.com/wp-content/uploads/2023/11/SIYAM-WORLD_WOW-INCLUSIVE-W23S24_01-Nov-23.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": "all-inclusive, endless experiences to be had, and a world where more is more and ordinary doesn’t make the list.",
+    "source_url": "https://www.sunsiyam.com/siyam-world/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "All-inclusive.",
+    "source_url": "https://www.sunsiyam.com/siyam-world/offers/fall-into-paradise-offer/",
+    "as_of": "2026-10-04"
    },
    {
     "value": "all-inclusive resort is bursting with energy, surprises, and boundless possibilities.",
@@ -703,9 +854,34 @@
   ],
   "spa.name": [
    {
+    "value": "Veyo Spa",
+    "source_url": "https://www.sunsiyam.com/media/ofahluyo/factsheet-siyam-world-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "Tandem Spa",
+    "source_url": "https://www.sunsiyam.com/media/grbf53ce/ultimate-honeymoon-sw.pdf",
+    "as_of": 2025
+   },
+   {
     "value": "Spa",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Siyam-World-Factsheet_02-Nov-2024-31-Oct-25.pdf",
-    "as_of": 2024
+    "source_url": "https://letsgomaldives.com/wp-content/uploads/2023/11/SIYAM-WORLD_WOW-INCLUSIVE-W23S24_01-Nov-23.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": "Wellness\nVeyo Spa",
+    "source_url": "https://www.sunsiyam.com/siyam-world/spa-wellness/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.sunsiyam.com/siyam-world/offers/fall-into-paradise-offer/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.sunsiyam.com/siyam-world/offers/honeymoon-offer/",
+    "as_of": "2026-10-04"
    },
    {
     "value": "Studio\nArt Studio\nSpa",
@@ -716,8 +892,8 @@
   "diving_watersports.operator": [
    {
     "value": "Dive Centre",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Siyam-World-Factsheet_02-Nov-2024-31-Oct-25.pdf",
-    "as_of": 2024
+    "source_url": "https://www.sunsiyam.com/media/ofahluyo/factsheet-siyam-world-2026.pdf",
+    "as_of": 2026
    },
    {
     "value": "Dive Centre",
@@ -727,24 +903,59 @@
   ],
   "diving_watersports.activities": [
    {
-    "value": "snorkelling",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Siyam-World-Factsheet_02-Nov-2024-31-Oct-25.pdf",
-    "as_of": 2024
+    "value": "kitesurfing",
+    "source_url": "https://www.sunsiyam.com/media/ofahluyo/factsheet-siyam-world-2026.pdf",
+    "as_of": 2026
    },
    {
-    "value": "scuba diving",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Siyam-World-Factsheet_02-Nov-2024-31-Oct-25.pdf",
-    "as_of": 2024
+    "value": "fishing",
+    "source_url": "https://www.sunsiyam.com/media/ofahluyo/factsheet-siyam-world-2026.pdf",
+    "as_of": 2026
    },
    {
-    "value": "dolphin cruise",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Siyam-World-Factsheet_02-Nov-2024-31-Oct-25.pdf",
-    "as_of": 2024
+    "value": "sunset cruise",
+    "source_url": "https://www.sunsiyam.com/media/ofahluyo/factsheet-siyam-world-2026.pdf",
+    "as_of": 2026
    },
    {
-    "value": "manta",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Siyam-World-Factsheet_02-Nov-2024-31-Oct-25.pdf",
-    "as_of": 2024
+    "value": "snorkeling",
+    "source_url": "https://letsgomaldives.com/wp-content/uploads/2023/11/SIYAM-WORLD_WOW-INCLUSIVE-W23S24_01-Nov-23.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": "windsurfing",
+    "source_url": "https://letsgomaldives.com/wp-content/uploads/2023/11/SIYAM-WORLD_WOW-INCLUSIVE-W23S24_01-Nov-23.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://letsgomaldives.com/wp-content/uploads/2023/11/SIYAM-WORLD_WOW-INCLUSIVE-W23S24_01-Nov-23.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": "canoe",
+    "source_url": "https://letsgomaldives.com/wp-content/uploads/2023/11/SIYAM-WORLD_WOW-INCLUSIVE-W23S24_01-Nov-23.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": "jet ski",
+    "source_url": "https://www.sunsiyam.com/siyam-world/leisure-activities/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "jet ski",
+    "source_url": "https://www.sunsiyam.com/siyam-world/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.sunsiyam.com/siyam-world/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.sunsiyam.com/siyam-world/offers/honeymoon-offer/",
+    "as_of": "2026-10-04"
    },
    {
     "value": "windsurfing",
@@ -769,14 +980,34 @@
   ],
   "excursions": [
    {
-    "value": "dolphin",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Siyam-World-Factsheet_02-Nov-2024-31-Oct-25.pdf",
-    "as_of": 2024
+    "value": "big game fishing",
+    "source_url": "https://www.sunsiyam.com/media/ofahluyo/factsheet-siyam-world-2026.pdf",
+    "as_of": 2026
    },
    {
-    "value": "manta",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Siyam-World-Factsheet_02-Nov-2024-31-Oct-25.pdf",
-    "as_of": 2024
+    "value": "stargazing",
+    "source_url": "https://www.sunsiyam.com/media/ofahluyo/factsheet-siyam-world-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "cinema",
+    "source_url": "https://www.sunsiyam.com/media/ofahluyo/factsheet-siyam-world-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "cinema",
+    "source_url": "https://www.sunsiyam.com/media/grbf53ce/ultimate-honeymoon-sw.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "cinema",
+    "source_url": "https://www.sunsiyam.com/siyam-world/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "cinema",
+    "source_url": "https://www.sunsiyam.com/siyam-world/experiences/",
+    "as_of": "2026-10-04"
    },
    {
     "value": "dolphin",
@@ -787,8 +1018,8 @@
   "kids_family.kids_club": [
    {
     "value": "Kids Club",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Siyam-World-Factsheet_02-Nov-2024-31-Oct-25.pdf",
-    "as_of": 2024
+    "source_url": "https://www.sunsiyam.com/media/ofahluyo/factsheet-siyam-world-2026.pdf",
+    "as_of": 2026
    },
    {
     "value": "Seaplane\nKids Club",
@@ -798,34 +1029,254 @@
   ],
   "wellness_fitness": [
    {
-    "value": "meditation",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Siyam-World-Factsheet_02-Nov-2024-31-Oct-25.pdf",
-    "as_of": 2024
+    "value": "yoga",
+    "source_url": "https://www.sunsiyam.com/media/ofahluyo/factsheet-siyam-world-2026.pdf",
+    "as_of": 2026
    },
    {
     "value": "gym",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Siyam-World-Factsheet_02-Nov-2024-31-Oct-25.pdf",
-    "as_of": 2024
+    "source_url": "https://www.sunsiyam.com/media/ofahluyo/factsheet-siyam-world-2026.pdf",
+    "as_of": 2026
    },
    {
     "value": "tennis",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Siyam-World-Factsheet_02-Nov-2024-31-Oct-25.pdf",
-    "as_of": 2024
+    "source_url": "https://www.sunsiyam.com/media/ofahluyo/factsheet-siyam-world-2026.pdf",
+    "as_of": 2026
    },
    {
     "value": "padel",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Siyam-World-Factsheet_02-Nov-2024-31-Oct-25.pdf",
-    "as_of": 2024
+    "source_url": "https://www.sunsiyam.com/media/ofahluyo/factsheet-siyam-world-2026.pdf",
+    "as_of": 2026
    },
    {
     "value": "badminton",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Siyam-World-Factsheet_02-Nov-2024-31-Oct-25.pdf",
-    "as_of": 2024
+    "source_url": "https://www.sunsiyam.com/media/ofahluyo/factsheet-siyam-world-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://letsgomaldives.com/wp-content/uploads/2023/11/SIYAM-WORLD_WOW-INCLUSIVE-W23S24_01-Nov-23.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": "meditation",
+    "source_url": "https://letsgomaldives.com/wp-content/uploads/2023/11/SIYAM-WORLD_WOW-INCLUSIVE-W23S24_01-Nov-23.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": "gym",
+    "source_url": "https://letsgomaldives.com/wp-content/uploads/2023/11/SIYAM-WORLD_WOW-INCLUSIVE-W23S24_01-Nov-23.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": "fitness center",
+    "source_url": "https://letsgomaldives.com/wp-content/uploads/2023/11/SIYAM-WORLD_WOW-INCLUSIVE-W23S24_01-Nov-23.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://letsgomaldives.com/wp-content/uploads/2023/11/SIYAM-WORLD_WOW-INCLUSIVE-W23S24_01-Nov-23.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": "badminton",
+    "source_url": "https://letsgomaldives.com/wp-content/uploads/2023/11/SIYAM-WORLD_WOW-INCLUSIVE-W23S24_01-Nov-23.pdf",
+    "as_of": 2023
    },
    {
     "value": "beach volleyball",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Siyam-World-Factsheet_02-Nov-2024-31-Oct-25.pdf",
-    "as_of": 2024
+    "source_url": "https://letsgomaldives.com/wp-content/uploads/2023/11/SIYAM-WORLD_WOW-INCLUSIVE-W23S24_01-Nov-23.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.sunsiyam.com/siyam-world/experiences/ultimate-football-camps/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://www.sunsiyam.com/siyam-world/experiences/ultimate-football-camps/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "padel",
+    "source_url": "https://www.sunsiyam.com/siyam-world/experiences/ultimate-football-camps/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.sunsiyam.com/siyam-world/experiences/thrilling-jet-car/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://www.sunsiyam.com/siyam-world/experiences/thrilling-jet-car/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "padel",
+    "source_url": "https://www.sunsiyam.com/siyam-world/experiences/thrilling-jet-car/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "ayurveda",
+    "source_url": "https://www.sunsiyam.com/siyam-world/spa-wellness/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sauna",
+    "source_url": "https://www.sunsiyam.com/siyam-world/spa-wellness/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "steam",
+    "source_url": "https://www.sunsiyam.com/siyam-world/spa-wellness/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.sunsiyam.com/siyam-world/experiences/football-escapes/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://www.sunsiyam.com/siyam-world/experiences/football-escapes/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "padel",
+    "source_url": "https://www.sunsiyam.com/siyam-world/experiences/football-escapes/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.sunsiyam.com/siyam-world/experiences/water-world/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://www.sunsiyam.com/siyam-world/experiences/water-world/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "padel",
+    "source_url": "https://www.sunsiyam.com/siyam-world/experiences/water-world/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.sunsiyam.com/siyam-world/experiences/rent-a-moke/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://www.sunsiyam.com/siyam-world/experiences/rent-a-moke/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "padel",
+    "source_url": "https://www.sunsiyam.com/siyam-world/experiences/rent-a-moke/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://www.sunsiyam.com/siyam-world/leisure-activities/recreation/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "padel",
+    "source_url": "https://www.sunsiyam.com/siyam-world/leisure-activities/recreation/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "badminton",
+    "source_url": "https://www.sunsiyam.com/siyam-world/leisure-activities/recreation/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "beach volleyball",
+    "source_url": "https://www.sunsiyam.com/siyam-world/leisure-activities/recreation/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.sunsiyam.com/siyam-world/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "meditation",
+    "source_url": "https://www.sunsiyam.com/siyam-world/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://www.sunsiyam.com/siyam-world/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "padel",
+    "source_url": "https://www.sunsiyam.com/siyam-world/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.sunsiyam.com/siyam-world/experiences/gaadiya/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://www.sunsiyam.com/siyam-world/experiences/gaadiya/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "padel",
+    "source_url": "https://www.sunsiyam.com/siyam-world/experiences/gaadiya/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.sunsiyam.com/siyam-world/experiences/asana-yoga/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://www.sunsiyam.com/siyam-world/experiences/asana-yoga/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "padel",
+    "source_url": "https://www.sunsiyam.com/siyam-world/experiences/asana-yoga/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.sunsiyam.com/siyam-world/experiences/padel-tennis/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://www.sunsiyam.com/siyam-world/experiences/padel-tennis/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "padel",
+    "source_url": "https://www.sunsiyam.com/siyam-world/experiences/padel-tennis/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.sunsiyam.com/siyam-world/experiences/mokes/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://www.sunsiyam.com/siyam-world/experiences/mokes/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "padel",
+    "source_url": "https://www.sunsiyam.com/siyam-world/experiences/mokes/",
+    "as_of": "2026-10-04"
    },
    {
     "value": "yoga",
@@ -861,8 +1312,13 @@
   "weddings.offered": [
    {
     "value": true,
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Siyam-World-Factsheet_02-Nov-2024-31-Oct-25.pdf",
-    "as_of": 2024
+    "source_url": "https://www.sunsiyam.com/media/ofahluyo/factsheet-siyam-world-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": true,
+    "source_url": "https://www.sunsiyam.com/siyam-world/offers/honeymoon-offer/",
+    "as_of": "2026-10-04"
    },
    {
     "value": true,
@@ -873,15 +1329,22 @@
   "weddings.vow_renewal": [
    {
     "value": true,
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Siyam-World-Factsheet_02-Nov-2024-31-Oct-25.pdf",
-    "as_of": 2024
+    "source_url": "https://www.sunsiyam.com/media/ofahluyo/factsheet-siyam-world-2026.pdf",
+    "as_of": 2026
+   }
+  ],
+  "weddings.venues": [
+   {
+    "value": "Breakfast venue Spanish cuisine Adult-Only pool bar Beach Bar",
+    "source_url": "https://www.sunsiyam.com/media/ofahluyo/factsheet-siyam-world-2026.pdf",
+    "as_of": 2026
    }
   ],
   "contacts_public.reservations_email": [
    {
-    "value": "sales@siyamworld.com",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Siyam-World-Factsheet_02-Nov-2024-31-Oct-25.pdf",
-    "as_of": 2024
+    "value": "info@siyamworld.com",
+    "source_url": "https://www.sunsiyam.com/media/ofahluyo/factsheet-siyam-world-2026.pdf",
+    "as_of": 2026
    },
    {
     "value": "info@neoscapesmaldives.com",
@@ -891,9 +1354,9 @@
   ],
   "contacts_public.phone": [
    {
-    "value": "+960 656 777",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Siyam-World-Factsheet_02-Nov-2024-31-Oct-25.pdf",
-    "as_of": 2024
+    "value": "+960 656 7777",
+    "source_url": "https://www.sunsiyam.com/media/ofahluyo/factsheet-siyam-world-2026.pdf",
+    "as_of": 2026
    },
    {
     "value": "+960 736 5425",
@@ -901,88 +1364,40 @@
     "as_of": "2026-10-04"
    }
   ],
-  "villas.categories": [
+  "kids_family.teens": [
    {
-    "value": {
-     "name": "Villas",
-     "count": 499,
-     "size_sqm": null,
-     "max_occupancy": null,
-     "pool": null,
-     "overwater": null
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/siyam-world-maldives/",
-    "as_of": "2026-10-04"
+    "value": "teens programme mentioned",
+    "source_url": "https://letsgomaldives.com/wp-content/uploads/2023/11/SIYAM-WORLD_WOW-INCLUSIVE-W23S24_01-Nov-23.pdf",
+    "as_of": 2023
+   }
+  ],
+  "sustainability": [
+   {
+    "value": "marine biologist",
+    "source_url": "https://letsgomaldives.com/wp-content/uploads/2023/11/SIYAM-WORLD_WOW-INCLUSIVE-W23S24_01-Nov-23.pdf",
+    "as_of": 2023
    },
    {
-    "value": {
-     "name": "two bedroom family pool beach villa siyam world maldives",
-     "count": 1,
-     "size_sqm": null,
-     "max_occupancy": null,
-     "pool": true,
-     "overwater": null
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/siyam-world-maldives/",
+    "value": "marine biologist",
+    "source_url": "https://www.sunsiyam.com/siyam-world/leisure-activities/diving/",
     "as_of": "2026-10-04"
+   }
+  ],
+  "island_size": [
+   {
+    "value": "401 ha",
+    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/SW-main-map-with-categories.pdf",
+    "as_of": 2025
    },
    {
-    "value": {
-     "name": "two bedroom family pool beach villa siyam world maldives",
-     "count": 2,
-     "size_sqm": null,
-     "max_occupancy": null,
-     "pool": true,
-     "overwater": null
-    },
+    "value": "54 ha",
     "source_url": "https://www.neoscapesmaldives.com/resort/siyam-world-maldives/",
     "as_of": "2026-10-04"
-   },
+   }
+  ],
+  "transfer.minutes.domestic flight": [
    {
-    "value": {
-     "name": "two bedroom pool beach villa siyam world maldives",
-     "count": 2,
-     "size_sqm": null,
-     "max_occupancy": null,
-     "pool": true,
-     "overwater": null
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/siyam-world-maldives/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "two bedroom pool beach villa siyam world maldives",
-     "count": 1,
-     "size_sqm": null,
-     "max_occupancy": null,
-     "pool": true,
-     "overwater": null
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/siyam-world-maldives/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "two bedroom pool beach villa siyam world maldives",
-     "count": 5,
-     "size_sqm": null,
-     "max_occupancy": null,
-     "pool": true,
-     "overwater": null
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/siyam-world-maldives/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "three bedroom pool beach villa siyam world maldives",
-     "count": 2,
-     "size_sqm": null,
-     "max_occupancy": null,
-     "pool": true,
-     "overwater": null
-    },
+    "value": 10,
     "source_url": "https://www.neoscapesmaldives.com/resort/siyam-world-maldives/",
     "as_of": "2026-10-04"
    }
@@ -995,5 +1410,5 @@
    }
   ]
  },
- "last_updated": "2026-10-04"
+ "last_updated": "2026-10-05"
 }

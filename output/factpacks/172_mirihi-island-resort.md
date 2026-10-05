@@ -1,32 +1,35 @@
 # 172. Mirihi Island Resort
 
-**Official site:** n/a (None)  
+**Official site:** https://www.mirihi.com/ (ok)  
 **Brand:** n/a  
-**Atoll:** n/a  **Island:** n/a  
+**Atoll:** Ari Atoll  **Island:** Mirihi
+Welcome  
 **Opened/renovated:** n/a  **Rating:** n/a  
-**Transfer:** n/a; minutes: {}  
+**Transfer:** yacht, seaplane; minutes: {"seaplane": 30}  
 **Island size:** n/a  
 
-## Villas (? total)
+## Villas (36 total)
 
 
 ## Dining
 
 
-Meal plans: n/a
+Meal plans: BB, HB, FB
 
 ## Spa & wellness
 
-- Spa: n/a; treatment rooms: ?; menu: none
-- Wellness/fitness: n/a
+- Spa: Internet
+Resort Facilities
+Spa; treatment rooms: ?; menu: https://www.vvillasmaldivesatmirihi.com/wp-content/uploads/sites/14/2026/03/Wellness-Program.pdf
+- Wellness/fitness: yoga, pilates, badminton
 
 ## Diving, water sports & excursions
 
-- Operator: n/a
-- House reef: n/a
-- Activities: n/a
-- Price list: none
-- Excursions: n/a
+- Operator: Ocean Pro
+- House reef: HOUSE REEF DISCOVERY
+- Activities: scuba diving, snorkeling, fishing, sunset cruise, whale shark, manta, sailing, windsurfing, catamaran, canoe
+- Price list: https://www.vvillasmaldivesatmirihi.com/wp-content/uploads/sites/14/2026/03/Ocean-Pro-Mirihi-Diving-Rates-2026-Revised-14-03-26.pdf
+- Excursions: cooking class, local island, sandbank, dolphin, sunset fishing, whale shark, manta, turtle, picnic, big game fishing
 
 ## Kids & family
 
@@ -57,25 +60,20 @@ Meal plans: n/a
 - factsheet: https://sales.crownandchamparesorts.com/wp-content/uploads/2018/04/mirihi_fact_sheet.pdf
 - map: none
 - wedding: none
-- spa_menu: none
+- spa_menu: https://www.vvillasmaldivesatmirihi.com/wp-content/uploads/sites/14/2026/03/Wellness-Program.pdf
 - dining_menu: none
-- dive_prices: none
+- dive_prices: https://www.vvillasmaldivesatmirihi.com/wp-content/uploads/sites/14/2026/03/Ocean-Pro-Mirihi-Diving-Rates-2026-Revised-14-03-26.pdf
 - events: none
-- calendar: none
+- calendar: https://d2qwq69i2ic1pk.cloudfront.net/2023/11/CCR_2024_Calendar_compressed.pdf
 
 ## Gaps
 
 - wedding brochure
 - events/MICE document
-- fact: villas.total
 - fact: villa categories
 - fact: dining
-- fact: transfer
-- fact: atoll
-- fact: spa
-- fact: dive operator
 - fact: kids club
 - fact: weddings
 - fact: contacts
 
-_Facts extracted by rules from 0 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-04._
+_Facts extracted by rules from 12 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

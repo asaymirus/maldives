@@ -6,8 +6,8 @@
   "Lily Beach",
   "Huvahendhoo"
  ],
- "official_url": null,
- "official_site_status": null,
+ "official_url": "https://www.lilybeachmaldives.com/",
+ "official_site_status": "ok",
  "operator_brand": "Lily",
  "atoll": "Ari Atoll",
  "island": "Huvahendhoo",
@@ -44,28 +44,10 @@
     "max_occupancy": null,
     "pool": null,
     "overwater": null
-   },
-   {
-    "name": "Number of Villas",
-    "count": 125,
-    "size_sqm": null,
-    "max_occupancy": null,
-    "pool": null,
-    "overwater": null
    }
   ]
  },
  "dining": [
-  {
-   "name": "11 • Free access to Lily Lounge in Trans Maldivian",
-   "cuisine": null,
-   "type": "bar"
-  },
-  {
-   "name": "4 • Aqua Pool Bar and Vibes Bar: à la carte lunch.",
-   "cuisine": null,
-   "type": "bar"
-  },
   {
    "name": "Beach Bar with unlimited drinks",
    "cuisine": null,
@@ -78,11 +60,6 @@
   },
   {
    "name": "Teppanyaki à la carte lunch. Infinity pool.",
-   "cuisine": null,
-   "type": "restaurant"
-  },
-  {
-   "name": "Dining",
    "cuisine": null,
    "type": "restaurant"
   },
@@ -110,17 +87,12 @@
    "name": "Internet Café",
    "cuisine": null,
    "type": "restaurant"
-  },
-  {
-   "name": "2 Fresh Water Swimming Pools with Bar",
-   "cuisine": null,
-   "type": "bar"
   }
  ],
  "meal_plans": [
   "AI"
  ],
- "all_inclusive_details": "all-inclusive plans in the Maldives, taking the worry out of eating, drinking and entertainment.",
+ "all_inclusive_details": "all-inclusive luxury in the Maldives.",
  "spa": {
   "name": "Spa",
   "treatment_rooms": null,
@@ -171,7 +143,9 @@
   "pilates",
   "sauna",
   "steam",
-  "fitness center"
+  "fitness center",
+  "padel",
+  "badminton"
  ],
  "weddings": {
   "offered": true,
@@ -212,11 +186,21 @@
    {
     "value": "Ari Atoll",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/LilyBeach-Factsheet-Resort-NEO.pdf",
-    "as_of": 2020
+    "as_of": 2019
    },
    {
     "value": "Ari Atoll",
     "source_url": "https://www.neoscapesmaldives.com/resort/lily-beach-resort-spa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Ari Atoll",
+    "source_url": "https://letsgomaldives.com/news/a-taste-of-italy-in-the-heart-of-the-maldives-chef-igles-corelli-arrives-at-lily-beach/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Ari Atoll",
+    "source_url": "https://www.maldivesholidayoffers.com/accomodation/resorts/lily-beach-resort-and-spa/",
     "as_of": "2026-10-04"
    }
   ],
@@ -224,18 +208,23 @@
    {
     "value": "renovated 2019",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/LilyBeach-Factsheet-Resort-NEO.pdf",
-    "as_of": 2020
+    "as_of": 2019
    }
   ],
   "star_rating": [
    {
     "value": "5-star",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/LilyBeach-Factsheet-Resort-NEO.pdf",
-    "as_of": 2020
+    "as_of": 2019
    },
    {
     "value": "5-star",
     "source_url": "https://www.neoscapesmaldives.com/resort/lily-beach-resort-spa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "5-star",
+    "source_url": "https://www.maldivesholidayoffers.com/accomodation/resorts/lily-beach-resort-and-spa/",
     "as_of": "2026-10-04"
    }
   ],
@@ -243,7 +232,7 @@
    {
     "value": "seaplane",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/LilyBeach-Factsheet-Resort-NEO.pdf",
-    "as_of": 2020
+    "as_of": 2019
    },
    {
     "value": "seaplane",
@@ -254,18 +243,23 @@
     "value": "speedboat",
     "source_url": "https://www.neoscapesmaldives.com/resort/lily-beach-resort-spa/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.maldivesholidayoffers.com/accomodation/resorts/lily-beach-resort-and-spa/",
+    "as_of": "2026-10-04"
    }
   ],
   "villas.total": [
    {
     "value": 125,
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/LilyBeach-Factsheet-Resort-NEO.pdf",
-    "as_of": 2020
+    "as_of": 2019
    },
    {
     "value": 125,
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/LilyBeach-Factsheet-Resort-NEO.pdf",
-    "as_of": 2020
+    "as_of": 2019
    },
    {
     "value": 125,
@@ -284,7 +278,7 @@
      "overwater": null
     },
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/LilyBeach-Factsheet-Resort-NEO.pdf",
-    "as_of": 2020
+    "as_of": 2019
    },
    {
     "value": {
@@ -296,40 +290,10 @@
      "overwater": null
     },
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/LilyBeach-Factsheet-Resort-NEO.pdf",
-    "as_of": 2020
-   },
-   {
-    "value": {
-     "name": "Number of Villas",
-     "count": 125,
-     "size_sqm": null,
-     "max_occupancy": null,
-     "pool": null,
-     "overwater": null
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/lily-beach-resort-spa/",
-    "as_of": "2026-10-04"
+    "as_of": 2019
    }
   ],
   "dining": [
-   {
-    "value": {
-     "name": "11 • Free access to Lily Lounge in Trans Maldivian",
-     "cuisine": null,
-     "type": "bar"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/LilyBeach-Factsheet-Resort-NEO.pdf",
-    "as_of": 2020
-   },
-   {
-    "value": {
-     "name": "4 • Aqua Pool Bar and Vibes Bar: à la carte lunch.",
-     "cuisine": null,
-     "type": "bar"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/LilyBeach-Factsheet-Resort-NEO.pdf",
-    "as_of": 2020
-   },
    {
     "value": {
      "name": "Beach Bar with unlimited drinks",
@@ -337,7 +301,7 @@
      "type": "bar"
     },
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/LilyBeach-Factsheet-Resort-NEO.pdf",
-    "as_of": 2020
+    "as_of": 2019
    },
    {
     "value": {
@@ -346,7 +310,7 @@
      "type": "bar"
     },
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/LilyBeach-Factsheet-Resort-NEO.pdf",
-    "as_of": 2020
+    "as_of": 2019
    },
    {
     "value": {
@@ -355,25 +319,7 @@
      "type": "restaurant"
     },
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/LilyBeach-Factsheet-Resort-NEO.pdf",
-    "as_of": 2020
-   },
-   {
-    "value": {
-     "name": "Dining",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/lily-beach-resort-spa/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Dining",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/lily-beach-resort-spa/",
-    "as_of": "2026-10-04"
+    "as_of": 2019
    },
    {
     "value": {
@@ -419,26 +365,32 @@
     },
     "source_url": "https://www.neoscapesmaldives.com/resort/lily-beach-resort-spa/",
     "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "2 Fresh Water Swimming Pools with Bar",
-     "cuisine": null,
-     "type": "bar"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/lily-beach-resort-spa/",
-    "as_of": "2026-10-04"
    }
   ],
   "all_inclusive_details": [
    {
     "value": "All Inclusive Platinum Plan: first resort to introduce this concept in the • Good balance between families and couples on the island.",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/LilyBeach-Factsheet-Resort-NEO.pdf",
-    "as_of": 2020
+    "as_of": 2019
+   },
+   {
+    "value": "all-inclusive luxury in the Maldives.",
+    "source_url": "https://lilyhotels.com/lbr-may-awards-2026",
+    "as_of": "2026-10-05"
    },
    {
     "value": "all-inclusive plans in the Maldives, taking the worry out of eating, drinking and entertainment.",
     "source_url": "https://www.neoscapesmaldives.com/resort/lily-beach-resort-spa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "All-Inclusive Platinum Plan.",
+    "source_url": "https://www.ideeperviaggiare.it/viaggi/capodanno/offerte/epifania-maldive-lily-beach-da-roma-7-notti-volo-diretto?t=5363&amp;c=9",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "All-Inclusive in der Luxusvariante.",
+    "source_url": "https://malediven.de/malediven-hotels/lily-beach/",
     "as_of": "2026-10-04"
    }
   ],
@@ -446,11 +398,46 @@
    {
     "value": "Spa",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/LilyBeach-Factsheet-Resort-NEO.pdf",
-    "as_of": 2020
+    "as_of": 2019
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://lilyhotels.com/ttm-awards-2025-vote",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://lilyhotels.com/hbr-may-awards-2026",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://lilyhotels.com/lbr-may-awards-2026",
+    "as_of": "2026-10-05"
    },
    {
     "value": "Spa",
     "source_url": "https://www.neoscapesmaldives.com/resort/lily-beach-resort-spa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://letsgomaldives.com/news/a-taste-of-italy-in-the-heart-of-the-maldives-chef-igles-corelli-arrives-at-lily-beach/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Beach Resort And Spa",
+    "source_url": "https://www.maldivesholidayoffers.com/accomodation/resorts/lily-beach-resort-and-spa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.ideeperviaggiare.it/viaggi/capodanno/offerte/epifania-maldive-lily-beach-da-roma-7-notti-volo-diretto?t=5363&amp;c=9",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Tamara Spa",
+    "source_url": "https://malediven.de/malediven-hotels/lily-beach/",
     "as_of": "2026-10-04"
    }
   ],
@@ -458,11 +445,21 @@
    {
     "value": "Prodivers",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/LilyBeach-Factsheet-Resort-NEO.pdf",
-    "as_of": 2020
+    "as_of": 2019
    },
    {
     "value": "Prodivers",
     "source_url": "https://www.neoscapesmaldives.com/resort/lily-beach-resort-spa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Prodivers",
+    "source_url": "https://www.ideeperviaggiare.it/viaggi/capodanno/offerte/epifania-maldive-lily-beach-da-roma-7-notti-volo-diretto?t=5363&amp;c=9",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Ocean Pro",
+    "source_url": "https://malediven.de/malediven-hotels/lily-beach/",
     "as_of": "2026-10-04"
    }
   ],
@@ -470,7 +467,7 @@
    {
     "value": "House reef 10-50 meters from the shore",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/LilyBeach-Factsheet-Resort-NEO.pdf",
-    "as_of": 2020
+    "as_of": 2019
    },
    {
     "value": "HOUSE REEF SNORKELING",
@@ -482,52 +479,57 @@
    {
     "value": "snorkelling",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/LilyBeach-Factsheet-Resort-NEO.pdf",
-    "as_of": 2020
+    "as_of": 2019
    },
    {
     "value": "snorkeling",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/LilyBeach-Factsheet-Resort-NEO.pdf",
-    "as_of": 2020
+    "as_of": 2019
    },
    {
     "value": "catamaran",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/LilyBeach-Factsheet-Resort-NEO.pdf",
-    "as_of": 2020
+    "as_of": 2019
    },
    {
     "value": "fishing",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/LilyBeach-Factsheet-Resort-NEO.pdf",
-    "as_of": 2020
+    "as_of": 2019
    },
    {
     "value": "sunset cruise",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/LilyBeach-Factsheet-Resort-NEO.pdf",
-    "as_of": 2020
+    "as_of": 2019
    },
    {
     "value": "whale shark",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/LilyBeach-Factsheet-Resort-NEO.pdf",
-    "as_of": 2020
+    "as_of": 2019
    },
    {
     "value": "manta",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/LilyBeach-Factsheet-Resort-NEO.pdf",
-    "as_of": 2020
+    "as_of": 2019
    },
    {
     "value": "banana boat",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/LilyBeach-Factsheet-Resort-NEO.pdf",
-    "as_of": 2020
+    "as_of": 2019
    },
    {
     "value": "fun tube",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/LilyBeach-Factsheet-Resort-NEO.pdf",
-    "as_of": 2020
+    "as_of": 2019
    },
    {
     "value": "canoe",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/LilyBeach-Factsheet-Resort-NEO.pdf",
-    "as_of": 2020
+    "as_of": 2019
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://lilyhotels.com/ttm-awards-2025-vote",
+    "as_of": "2026-10-05"
    },
    {
     "value": "snorkelling",
@@ -588,38 +590,53 @@
     "value": "canoe",
     "source_url": "https://www.neoscapesmaldives.com/resort/lily-beach-resort-spa/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://mondomaldive.it/it/villaggio/lily-beach-resort/recensione/3895",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.ideeperviaggiare.it/viaggi/capodanno/offerte/epifania-maldive-lily-beach-da-roma-7-notti-volo-diretto?t=5363&amp;c=9",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "catamaran",
+    "source_url": "https://www.ideeperviaggiare.it/viaggi/capodanno/offerte/epifania-maldive-lily-beach-da-roma-7-notti-volo-diretto?t=5363&amp;c=9",
+    "as_of": "2026-10-04"
    }
   ],
   "excursions": [
    {
     "value": "sandbank",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/LilyBeach-Factsheet-Resort-NEO.pdf",
-    "as_of": 2020
+    "as_of": 2019
    },
    {
     "value": "dolphin",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/LilyBeach-Factsheet-Resort-NEO.pdf",
-    "as_of": 2020
+    "as_of": 2019
    },
    {
     "value": "whale shark",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/LilyBeach-Factsheet-Resort-NEO.pdf",
-    "as_of": 2020
+    "as_of": 2019
    },
    {
     "value": "manta",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/LilyBeach-Factsheet-Resort-NEO.pdf",
-    "as_of": 2020
+    "as_of": 2019
    },
    {
     "value": "turtle",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/LilyBeach-Factsheet-Resort-NEO.pdf",
-    "as_of": 2020
+    "as_of": 2019
    },
    {
     "value": "picnic",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/LilyBeach-Factsheet-Resort-NEO.pdf",
-    "as_of": 2020
+    "as_of": 2019
    },
    {
     "value": "dolphin",
@@ -650,17 +667,32 @@
     "value": "private dinner",
     "source_url": "https://www.neoscapesmaldives.com/resort/lily-beach-resort-spa/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://mondomaldive.it/it/villaggio/lily-beach-resort/recensione/3895",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.ideeperviaggiare.it/viaggi/capodanno/offerte/epifania-maldive-lily-beach-da-roma-7-notti-volo-diretto?t=5363&amp;c=9",
+    "as_of": "2026-10-04"
    }
   ],
   "kids_family.kids_club": [
    {
     "value": "Turtles Kids Club",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/LilyBeach-Factsheet-Resort-NEO.pdf",
-    "as_of": 2020
+    "as_of": 2019
    },
    {
     "value": "Kids Club",
     "source_url": "https://www.neoscapesmaldives.com/resort/lily-beach-resort-spa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Turtles Kids Club",
+    "source_url": "https://www.ideeperviaggiare.it/viaggi/capodanno/offerte/epifania-maldive-lily-beach-da-roma-7-notti-volo-diretto?t=5363&amp;c=9",
     "as_of": "2026-10-04"
    }
   ],
@@ -668,37 +700,77 @@
    {
     "value": "yoga",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/LilyBeach-Factsheet-Resort-NEO.pdf",
-    "as_of": 2020
+    "as_of": 2019
    },
    {
     "value": "gym",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/LilyBeach-Factsheet-Resort-NEO.pdf",
-    "as_of": 2020
+    "as_of": 2019
    },
    {
     "value": "tennis",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/LilyBeach-Factsheet-Resort-NEO.pdf",
-    "as_of": 2020
+    "as_of": 2019
    },
    {
     "value": "beach volleyball",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/LilyBeach-Factsheet-Resort-NEO.pdf",
-    "as_of": 2020
+    "as_of": 2019
    },
    {
     "value": "pilates",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/LilyBeach-Factsheet-Resort-NEO.pdf",
-    "as_of": 2020
+    "as_of": 2019
    },
    {
     "value": "sauna",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/LilyBeach-Factsheet-Resort-NEO.pdf",
-    "as_of": 2020
+    "as_of": 2019
    },
    {
     "value": "steam",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/LilyBeach-Factsheet-Resort-NEO.pdf",
-    "as_of": 2020
+    "as_of": 2019
+   },
+   {
+    "value": "fitness center",
+    "source_url": "https://lilyhotels.com/ttm-awards-2025-vote",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://lilyhotels.com/ttm-awards-2025-vote",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "padel",
+    "source_url": "https://lilyhotels.com/ttm-awards-2025-vote",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "badminton",
+    "source_url": "https://lilyhotels.com/ttm-awards-2025-vote",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://lilyhotels.com/hbr-may-awards-2026",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "padel",
+    "source_url": "https://lilyhotels.com/hbr-may-awards-2026",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "badminton",
+    "source_url": "https://lilyhotels.com/hbr-may-awards-2026",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "beach volleyball",
+    "source_url": "https://lilyhotels.com/hbr-may-awards-2026",
+    "as_of": "2026-10-05"
    },
    {
     "value": "yoga",
@@ -729,13 +801,23 @@
     "value": "steam",
     "source_url": "https://www.neoscapesmaldives.com/resort/lily-beach-resort-spa/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.ideeperviaggiare.it/viaggi/capodanno/offerte/epifania-maldive-lily-beach-da-roma-7-notti-volo-diretto?t=5363&amp;c=9",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://www.ideeperviaggiare.it/viaggi/capodanno/offerte/epifania-maldive-lily-beach-da-roma-7-notti-volo-diretto?t=5363&amp;c=9",
+    "as_of": "2026-10-04"
    }
   ],
   "weddings.offered": [
    {
     "value": true,
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/LilyBeach-Factsheet-Resort-NEO.pdf",
-    "as_of": 2020
+    "as_of": 2019
    },
    {
     "value": true,
@@ -747,7 +829,34 @@
    {
     "value": true,
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/LilyBeach-Factsheet-Resort-NEO.pdf",
-    "as_of": 2020
+    "as_of": 2019
+   },
+   {
+    "value": true,
+    "source_url": "https://lilyhotels.com/ttm-awards-2025-vote",
+    "as_of": "2026-10-05"
+   }
+  ],
+  "meal_plans": [
+   {
+    "value": "AI",
+    "source_url": "https://lilyhotels.com/lbr-may-awards-2026",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://www.neoscapesmaldives.com/resort/lily-beach-resort-spa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://mondomaldive.it/it/villaggio/lily-beach-resort/recensione/3895",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://www.maldivesholidayoffers.com/accomodation/resorts/lily-beach-resort-and-spa/",
+    "as_of": "2026-10-04"
    }
   ],
   "island": [
@@ -762,12 +871,10 @@
     "value": 25,
     "source_url": "https://www.neoscapesmaldives.com/resort/lily-beach-resort-spa/",
     "as_of": "2026-10-04"
-   }
-  ],
-  "meal_plans": [
+   },
    {
-    "value": "AI",
-    "source_url": "https://www.neoscapesmaldives.com/resort/lily-beach-resort-spa/",
+    "value": 40,
+    "source_url": "https://www.maldivesholidayoffers.com/accomodation/resorts/lily-beach-resort-and-spa/",
     "as_of": "2026-10-04"
    }
   ],
@@ -783,8 +890,13 @@
     "value": "+960 736 5425",
     "source_url": "https://www.neoscapesmaldives.com/resort/lily-beach-resort-spa/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 7773 699",
+    "source_url": "https://www.maldivesholidayoffers.com/accomodation/resorts/lily-beach-resort-and-spa/",
+    "as_of": "2026-10-04"
    }
   ]
  },
- "last_updated": "2026-10-04"
+ "last_updated": "2026-10-05"
 }

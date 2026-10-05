@@ -7,18 +7,21 @@
   "Crossroads Maldives",
   "CROSSROADS"
  ],
- "official_url": null,
- "official_site_status": null,
+ "official_url": "https://crossroadsmaldives.com/",
+ "official_site_status": "ok",
  "operator_brand": null,
- "atoll": null,
- "island": null,
+ "atoll": "South Male Atoll",
+ "island": "Free",
  "opened_or_renovated": null,
  "star_rating": null,
  "transfer": {
-  "modes": [],
+  "modes": [
+   "speedboat",
+   "yacht"
+  ],
   "minutes": {
    "seaplane": null,
-   "speedboat": null,
+   "speedboat": 15,
    "domestic flight": null,
    "yacht": null
   }
@@ -28,56 +31,16 @@
   "total": null,
   "categories": [
    {
-    "name": "Pavilion",
-    "count": 12,
+    "name": "Villa Vercelli Silver",
+    "count": 135,
     "size_sqm": null,
     "max_occupancy": null,
     "pool": null,
     "overwater": null
    },
    {
-    "name": "Gold Beach Villa & Gold Beach Pool Villa",
-    "count": 11,
-    "size_sqm": null,
-    "max_occupancy": null,
-    "pool": true,
-    "overwater": null
-   },
-   {
-    "name": "Platinum Overwater Villa",
-    "count": 13,
-    "size_sqm": null,
-    "max_occupancy": null,
-    "pool": null,
-    "overwater": true
-   },
-   {
-    "name": "Platinum Overwater Pool Villa",
-    "count": 14,
-    "size_sqm": null,
-    "max_occupancy": null,
-    "pool": true,
-    "overwater": true
-   },
-   {
-    "name": "Diamond Overwater Pool Villa",
-    "count": 7,
-    "size_sqm": null,
-    "max_occupancy": null,
-    "pool": true,
-    "overwater": true
-   },
-   {
-    "name": "Rock Royalty Overwater Pool Villa br",
-    "count": 16,
-    "size_sqm": null,
-    "max_occupancy": null,
-    "pool": true,
-    "overwater": true
-   },
-   {
-    "name": "Rock Star Villa",
-    "count": 17,
+    "name": "Villa Vercelli Gold",
+    "count": 135,
     "size_sqm": null,
     "max_occupancy": null,
     "pool": null,
@@ -87,41 +50,92 @@
  },
  "dining": [
   {
-   "name": "12 6 Pool Bar",
+   "name": "Pool Bar",
    "cuisine": null,
    "type": "bar"
   },
   {
-   "name": "19 Hard Rock Cafe Maldives",
+   "name": "Hard Rock Cafe",
+   "cuisine": null,
+   "type": "restaurant"
+  },
+  {
+   "name": "Hard Rock Cafe Maldives Day Package",
+   "cuisine": null,
+   "type": "restaurant"
+  },
+  {
+   "name": "Access to Hard Rock Cafe Beach",
+   "cuisine": null,
+   "type": "restaurant"
+  },
+  {
+   "name": "Island Lounge",
+   "cuisine": null,
+   "type": "bar"
+  },
+  {
+   "name": "Hard Rock Café Maldives",
    "cuisine": null,
    "type": "restaurant"
   }
  ],
- "meal_plans": [],
+ "meal_plans": [
+  "AI"
+ ],
  "all_inclusive_details": null,
  "spa": {
-  "name": "Rock Spa",
+  "name": "SAii Spa",
   "treatment_rooms": null,
   "signature_treatments": [],
-  "menu_doc": null
+  "menu_doc": "https://crossroadsmaldives.com/wp-content/uploads/2026/01/SAii-Spa-Menu.pdf"
  },
  "diving_watersports": {
-  "operator": null,
-  "house_reef": null,
-  "activities": [],
-  "price_list_doc": null
+  "operator": "Dive Centre",
+  "house_reef": "HOUSE REEF SNORKELING",
+  "activities": [
+   "snorkeling",
+   "parasailing",
+   "fishing",
+   "sunset cruise",
+   "dolphin cruise",
+   "whale shark",
+   "windsurfing",
+   "kitesurfing",
+   "surfing",
+   "catamaran",
+   "jet ski",
+   "water skiing",
+   "seabob",
+   "manta",
+   "sailing",
+   "banana boat",
+   "scuba diving",
+   "snorkelling"
+  ],
+  "price_list_doc": "https://www.saiihotels.com/wp-content/uploads/2025/12/2026-Crossroads-Water-sports-catalogue-18-12-25.pdf"
  },
- "excursions": [],
- "kids_family": {
-  "kids_club": "Roxity Kids Club",
-  "age_range": null,
-  "teens": "teens programme mentioned"
- },
- "wellness_fitness": [
-  "fitness center"
+ "excursions": [
+  "local island",
+  "sandbank",
+  "dolphin",
+  "sunset fishing",
+  "big game fishing",
+  "Male city tour",
+  "whale shark",
+  "turtle",
+  "manta",
+  "stargazing",
+  "cinema"
  ],
+ "kids_family": {
+  "kids_club": null,
+  "age_range": null,
+  "teens": null
+ },
+ "wellness_fitness": [],
  "weddings": {
-  "offered": null,
+  "offered": true,
   "vow_renewal": null,
   "venues": [],
   "packages": [],
@@ -129,173 +143,682 @@
  },
  "events_mice": {
   "venues": [],
-  "capacity_max": null,
+  "capacity_max": 12,
   "buyout": null,
   "doc": null
  },
- "sustainability": [],
+ "sustainability": [
+  "solar",
+  "marine biologist",
+  "Green Globe",
+  "organic garden",
+  "coral nursery"
+ ],
  "contacts_public": {
   "reservations_email": null,
   "weddings_email": null,
-  "phone": null
+  "phone": "+960 665 1200"
  },
  "documents_latest": {
   "factsheet": null,
-  "map": "https://www.neoscapesmaldives.com/wp-content/uploads/Hard-Rock-Hotel-Resort-Map-2023.pdf",
+  "map": "https://crossroadsmaldives.com/wp-content/uploads/2026/06/SAii-Shabu-Shabu-2026-1.pdf",
   "wedding": null,
-  "spa_menu": null,
-  "dining_menu": null,
-  "dive_prices": null,
+  "spa_menu": "https://crossroadsmaldives.com/wp-content/uploads/2026/01/SAii-Spa-Menu.pdf",
+  "dining_menu": "https://crossroadsmaldives.com/wp-content/uploads/2026/09/SunRay_Drink_AllDay_297x105mm_01.pdf",
+  "dive_prices": "https://www.saiihotels.com/wp-content/uploads/2025/12/2026-Crossroads-Water-sports-catalogue-18-12-25.pdf",
   "events": null,
-  "calendar": null
+  "calendar": "https://crossroadsmaldives.com/wp-content/uploads/2026/01/Padel-Tennis-Membership-Programme_2026.pdf"
  },
- "documents_count": 1,
+ "documents_count": 93,
  "gaps": [
   "factsheet",
   "wedding brochure",
   "events/MICE document",
   "fact: villas.total",
-  "fact: transfer",
-  "fact: atoll",
-  "fact: dive operator",
-  "fact: weddings",
+  "fact: kids club",
   "fact: contacts"
  ],
  "sources": {
+  "atoll": [
+   {
+    "value": "South Male Atoll",
+    "source_url": "https://www.saiihotels.com/wp-content/uploads/2025/12/2026-Crossroads-Recreation-Catalog-.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "Kaafu Atoll",
+    "source_url": "https://crossroadsmaldives.com/wp-content/uploads/2025/11/HRH-Green-Book.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "South Malé Atoll",
+    "source_url": "https://crossroadsmaldives.com/investor-relations/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "South Male Atoll",
+    "source_url": "https://crossroadsmaldives.com/about/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Male Atoll",
+    "source_url": "https://maldivestraveller.mv/en/holidays/maldives-tours/marina-crossroads-day-visit",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Male Atoll",
+    "source_url": "https://maldivestraveller.mv/en/reviews/maldives-tours/marina-crossroads-day-visit/1283",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "transfer.modes": [
+   {
+    "value": "speedboat",
+    "source_url": "https://www.saiihotels.com/wp-content/uploads/2025/12/2026-Crossroads-Recreation-Catalog-.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://crossroadsmaldives.com/wp-content/uploads/2026/04/Terms-and-Conditions.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "yacht",
+    "source_url": "https://crossroadsmaldives.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://crossroadsmaldives.com/investor-relations/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://crossroadsmaldives.com/about/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://maldivestraveller.mv/en/holidays/maldives-tours/marina-crossroads-day-visit",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://maldivestraveller.mv/en/reviews/maldives-tours/marina-crossroads-day-visit/1283",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "diving_watersports.house_reef": [
+   {
+    "value": "HOUSE REEF SNORKELING",
+    "source_url": "https://www.saiihotels.com/wp-content/uploads/2025/12/2026-Crossroads-Recreation-Catalog-.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "house reef for snorkelling and do not expect to see any fish or coral there",
+    "source_url": "https://maldivestraveller.mv/en/holidays/maldives-tours/marina-crossroads-day-visit",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef for snorkelling and do not expect to see any fish or coral there",
+    "source_url": "https://maldivestraveller.mv/en/reviews/maldives-tours/marina-crossroads-day-visit/1283",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "diving_watersports.activities": [
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.saiihotels.com/wp-content/uploads/2025/12/2026-Crossroads-Recreation-Catalog-.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "parasailing",
+    "source_url": "https://www.saiihotels.com/wp-content/uploads/2025/12/2026-Crossroads-Recreation-Catalog-.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.saiihotels.com/wp-content/uploads/2025/12/2026-Crossroads-Recreation-Catalog-.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.saiihotels.com/wp-content/uploads/2025/12/2026-Crossroads-Recreation-Catalog-.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "dolphin cruise",
+    "source_url": "https://www.saiihotels.com/wp-content/uploads/2025/12/2026-Crossroads-Recreation-Catalog-.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.saiihotels.com/wp-content/uploads/2025/12/2026-Crossroads-Recreation-Catalog-.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "windsurfing",
+    "source_url": "https://www.saiihotels.com/wp-content/uploads/2025/12/2026-Crossroads-Water-sports-catalogue-18-12-25.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "kitesurfing",
+    "source_url": "https://www.saiihotels.com/wp-content/uploads/2025/12/2026-Crossroads-Water-sports-catalogue-18-12-25.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "surfing",
+    "source_url": "https://www.saiihotels.com/wp-content/uploads/2025/12/2026-Crossroads-Water-sports-catalogue-18-12-25.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "catamaran",
+    "source_url": "https://www.saiihotels.com/wp-content/uploads/2025/12/2026-Crossroads-Water-sports-catalogue-18-12-25.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "jet ski",
+    "source_url": "https://www.saiihotels.com/wp-content/uploads/2025/12/2026-Crossroads-Water-sports-catalogue-18-12-25.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "parasailing",
+    "source_url": "https://www.saiihotels.com/wp-content/uploads/2025/12/2026-Crossroads-Water-sports-catalogue-18-12-25.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "water skiing",
+    "source_url": "https://www.saiihotels.com/wp-content/uploads/2025/12/2026-Crossroads-Water-sports-catalogue-18-12-25.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "seabob",
+    "source_url": "https://www.saiihotels.com/wp-content/uploads/2025/12/2026-Crossroads-Water-sports-catalogue-18-12-25.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.saiihotels.com/wp-content/uploads/2025/12/2026-Crossroads-Water-sports-catalogue-18-12-25.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "sailing",
+    "source_url": "https://www.saiihotels.com/wp-content/uploads/2025/12/2026-Crossroads-Water-sports-catalogue-18-12-25.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "banana boat",
+    "source_url": "https://www.saiihotels.com/wp-content/uploads/2025/12/2026-Crossroads-Water-sports-catalogue-18-12-25.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://crossroadsmaldives.com/wp-content/uploads/2025/11/HRH-Green-Book.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://crossroadsmaldives.com/about/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://crossroadsmaldives.com/about/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://maldivestraveller.mv/it/holidays/maldives-tours/marina-crossroads-day-visit",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://maldivestraveller.mv/it/holidays/maldives-tours/marina-crossroads-day-visit",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://maldivestraveller.mv/en/holidays/maldives-tours/marina-crossroads-day-visit",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://maldivestraveller.mv/en/holidays/maldives-tours/marina-crossroads-day-visit",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://maldivestraveller.mv/de/holidays/maldives-tours/marina-crossroads-day-visit",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://maldivestraveller.mv/en/reviews/maldives-tours/marina-crossroads-day-visit/1283",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "excursions": [
+   {
+    "value": "local island",
+    "source_url": "https://www.saiihotels.com/wp-content/uploads/2025/12/2026-Crossroads-Recreation-Catalog-.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.saiihotels.com/wp-content/uploads/2025/12/2026-Crossroads-Recreation-Catalog-.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.saiihotels.com/wp-content/uploads/2025/12/2026-Crossroads-Recreation-Catalog-.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "sunset fishing",
+    "source_url": "https://www.saiihotels.com/wp-content/uploads/2025/12/2026-Crossroads-Recreation-Catalog-.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "big game fishing",
+    "source_url": "https://www.saiihotels.com/wp-content/uploads/2025/12/2026-Crossroads-Recreation-Catalog-.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "Male city tour",
+    "source_url": "https://www.saiihotels.com/wp-content/uploads/2025/12/2026-Crossroads-Recreation-Catalog-.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.saiihotels.com/wp-content/uploads/2025/12/2026-Crossroads-Recreation-Catalog-.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.saiihotels.com/wp-content/uploads/2025/12/2026-Crossroads-Recreation-Catalog-.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.saiihotels.com/wp-content/uploads/2025/12/2026-Crossroads-Water-sports-catalogue-18-12-25.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.saiihotels.com/wp-content/uploads/2025/12/2026-Crossroads-Water-sports-catalogue-18-12-25.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "local island",
+    "source_url": "https://crossroadsmaldives.com/wp-content/uploads/2025/11/HRH-Green-Book.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://crossroadsmaldives.com/wp-content/uploads/2025/11/HRH-Green-Book.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://crossroadsmaldives.com/wp-content/uploads/2025/11/HRH-Green-Book.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://crossroadsmaldives.com/about/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "stargazing",
+    "source_url": "https://crossroadsmaldives.com/event/citizen-science-under-the-stars-by-msro-9/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "cinema",
+    "source_url": "https://letsgomaldives.com/news/easter-2025-at-crossroads-maldives-a-celebration-of-colour-connection-and-island-joy/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://maldivestraveller.mv/en/holidays/maldives-tours/marina-crossroads-day-visit",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://maldivestraveller.mv/en/reviews/maldives-tours/marina-crossroads-day-visit/1283",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "spa.name": [
+   {
+    "value": "SAii Spa",
+    "source_url": "https://crossroadsmaldives.com/wp-content/uploads/2026/01/SAii-Spa-Menu.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "Discover More\nSpa",
+    "source_url": "https://crossroadsmaldives.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Activities\nDining\nShopping\nSpa",
+    "source_url": "https://crossroadsmaldives.com/offers/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://maldivestraveller.mv/de/holidays/maldives-tours/marina-crossroads-day-visit",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "contacts_public.phone": [
+   {
+    "value": "+960 665 1200",
+    "source_url": "https://crossroadsmaldives.com/wp-content/uploads/2026/01/SAii-Spa-Menu.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "+960 6651200",
+    "source_url": "https://crossroadsmaldives.com/wp-content/uploads/2026/04/Terms-and-Conditions.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "+960 7308380",
+    "source_url": "https://www.saiihotels.com/wp-content/uploads/2026/05/SAii-Beach-Club-Eid-Family-Package-1.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "+960 7308380",
+    "source_url": "https://crossroadsmaldives.com/wp-content/uploads/2026/09/Sunray-Day-Visitors-Package.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "+960 665 1400",
+    "source_url": "https://crossroadsmaldives.com/wp-content/uploads/2025/11/HRH-Green-Book.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "+960 788 0150",
+    "source_url": "https://crossroadsmaldives.com/offers/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 7307000 (",
+    "source_url": "https://crossroadsmaldives.com/event/street-market-eid-special-2/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+9607776038",
+    "source_url": "https://maldivestraveller.mv/it/holidays/maldives-tours/marina-crossroads-day-visit",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+9607776038",
+    "source_url": "https://maldivestraveller.mv/en/holidays/maldives-tours/marina-crossroads-day-visit",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+9607776038",
+    "source_url": "https://maldivestraveller.mv/jp/holidays/maldives-tours/marina-crossroads-day-visit",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+9607776038",
+    "source_url": "https://maldivestraveller.mv/de/holidays/maldives-tours/marina-crossroads-day-visit",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+9607776038",
+    "source_url": "https://maldivestraveller.mv/en/reviews/maldives-tours/marina-crossroads-day-visit/1283",
+    "as_of": "2026-10-04"
+   }
+  ],
   "villas.categories": [
    {
     "value": {
-     "name": "Pavilion",
-     "count": 12,
+     "name": "Villa Vercelli Silver",
+     "count": 135,
      "size_sqm": null,
      "max_occupancy": null,
      "pool": null,
      "overwater": null
     },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Hard-Rock-Hotel-Resort-Map-2023.pdf",
-    "as_of": 2023
+    "source_url": "https://crossroadsmaldives.com/wp-content/uploads/2026/09/SunRay_Drink_AllDay_297x105mm_01.pdf",
+    "as_of": 2026
    },
    {
     "value": {
-     "name": "Gold Beach Villa & Gold Beach Pool Villa",
-     "count": 11,
-     "size_sqm": null,
-     "max_occupancy": null,
-     "pool": true,
-     "overwater": null
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Hard-Rock-Hotel-Resort-Map-2023.pdf",
-    "as_of": 2023
-   },
-   {
-    "value": {
-     "name": "Platinum Overwater Villa",
-     "count": 13,
-     "size_sqm": null,
-     "max_occupancy": null,
-     "pool": null,
-     "overwater": true
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Hard-Rock-Hotel-Resort-Map-2023.pdf",
-    "as_of": 2023
-   },
-   {
-    "value": {
-     "name": "Platinum Overwater Pool Villa",
-     "count": 14,
-     "size_sqm": null,
-     "max_occupancy": null,
-     "pool": true,
-     "overwater": true
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Hard-Rock-Hotel-Resort-Map-2023.pdf",
-    "as_of": 2023
-   },
-   {
-    "value": {
-     "name": "Diamond Overwater Pool Villa",
-     "count": 7,
-     "size_sqm": null,
-     "max_occupancy": null,
-     "pool": true,
-     "overwater": true
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Hard-Rock-Hotel-Resort-Map-2023.pdf",
-    "as_of": 2023
-   },
-   {
-    "value": {
-     "name": "Rock Royalty Overwater Pool Villa br",
-     "count": 16,
-     "size_sqm": null,
-     "max_occupancy": null,
-     "pool": true,
-     "overwater": true
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Hard-Rock-Hotel-Resort-Map-2023.pdf",
-    "as_of": 2023
-   },
-   {
-    "value": {
-     "name": "Rock Star Villa",
-     "count": 17,
+     "name": "Villa Vercelli Gold",
+     "count": 135,
      "size_sqm": null,
      "max_occupancy": null,
      "pool": null,
      "overwater": null
     },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Hard-Rock-Hotel-Resort-Map-2023.pdf",
-    "as_of": 2023
+    "source_url": "https://crossroadsmaldives.com/wp-content/uploads/2026/09/SunRay_Drink_AllDay_297x105mm_01.pdf",
+    "as_of": 2026
+   }
+  ],
+  "diving_watersports.operator": [
+   {
+    "value": "Dive Centre",
+    "source_url": "https://crossroadsmaldives.com/wp-content/uploads/2025/11/HRH-Green-Book.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "Dive Centre",
+    "source_url": "https://crossroadsmaldives.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Dive Centre",
+    "source_url": "https://crossroadsmaldives.com/about/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "sustainability": [
+   {
+    "value": "solar",
+    "source_url": "https://crossroadsmaldives.com/wp-content/uploads/2025/11/HRH-Green-Book.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "marine biologist",
+    "source_url": "https://crossroadsmaldives.com/a-world-class-multi-island-leisure-destination/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Green Globe",
+    "source_url": "https://crossroadsmaldives.com/a-world-class-multi-island-leisure-destination/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "organic garden",
+    "source_url": "https://crossroadsmaldives.com/offers/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "coral nursery",
+    "source_url": "https://crossroadsmaldives.com/about/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "marine biologist",
+    "source_url": "https://crossroadsmaldives.com/about/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Green Globe",
+    "source_url": "https://crossroadsmaldives.com/about/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "marine biologist",
+    "source_url": "https://crossroadsmaldives.com/junior-marine-biologist/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Green Globe",
+    "source_url": "https://crossroadsmaldives.com/junior-marine-biologist/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "transfer.minutes.speedboat": [
+   {
+    "value": 15,
+    "source_url": "https://crossroadsmaldives.com/investor-relations/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 15,
+    "source_url": "https://crossroadsmaldives.com/about/",
+    "as_of": "2026-10-04"
    }
   ],
   "dining": [
    {
     "value": {
-     "name": "12 6 Pool Bar",
+     "name": "Pool Bar",
      "cuisine": null,
      "type": "bar"
     },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Hard-Rock-Hotel-Resort-Map-2023.pdf",
-    "as_of": 2023
+    "source_url": "https://crossroadsmaldives.com/events/",
+    "as_of": "2026-10-04"
    },
    {
     "value": {
-     "name": "19 Hard Rock Cafe Maldives",
+     "name": "Pool Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://crossroadsmaldives.com/events/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Hard Rock Cafe",
      "cuisine": null,
      "type": "restaurant"
     },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Hard-Rock-Hotel-Resort-Map-2023.pdf",
-    "as_of": 2023
+    "source_url": "https://crossroadsmaldives.com/events/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Hard Rock Cafe",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://crossroadsmaldives.com/events/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Pool Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://crossroadsmaldives.com/events/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Pool Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://crossroadsmaldives.com/events/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Hard Rock Cafe Maldives Day Package",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://crossroadsmaldives.com/offers/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Hard Rock Cafe Maldives Day Package",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://crossroadsmaldives.com/offers/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Access to Hard Rock Cafe Beach",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://crossroadsmaldives.com/offers/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Island Lounge",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://crossroadsmaldives.com/event/new-years-eve-countdown-party-at-island-lounge/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Hard Rock Café Maldives",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://crossroadsmaldives.com/event/deviate-band-live-a-night-of-dynamic-tunes-2/",
+    "as_of": "2026-10-04"
    }
   ],
-  "spa.name": [
+  "events_mice.capacity_max": [
    {
-    "value": "Rock Spa",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Hard-Rock-Hotel-Resort-Map-2023.pdf",
-    "as_of": 2023
+    "value": 12,
+    "source_url": "https://crossroadsmaldives.com/events/",
+    "as_of": "2026-10-04"
    }
   ],
-  "kids_family.kids_club": [
+  "weddings.offered": [
    {
-    "value": "Roxity Kids Club",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Hard-Rock-Hotel-Resort-Map-2023.pdf",
-    "as_of": 2023
+    "value": true,
+    "source_url": "https://crossroadsmaldives.com/event/new-years-kids-art-celebration-with-art-soul/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://letsgomaldives.com/news/eid-al-adha-crossroads/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://letsgomaldives.com/news/easter-2025-at-crossroads-maldives-a-celebration-of-colour-connection-and-island-joy/",
+    "as_of": "2026-10-04"
    }
   ],
-  "kids_family.teens": [
+  "meal_plans": [
    {
-    "value": "teens programme mentioned",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Hard-Rock-Hotel-Resort-Map-2023.pdf",
-    "as_of": 2023
+    "value": "AI",
+    "source_url": "https://maldivestraveller.mv/it/holidays/maldives-tours/marina-crossroads-day-visit",
+    "as_of": "2026-10-04"
    }
   ],
-  "wellness_fitness": [
+  "island": [
    {
-    "value": "fitness center",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Hard-Rock-Hotel-Resort-Map-2023.pdf",
-    "as_of": 2023
+    "value": "Free",
+    "source_url": "https://maldivestraveller.mv/en/holidays/maldives-tours/marina-crossroads-day-visit",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Free",
+    "source_url": "https://maldivestraveller.mv/en/reviews/maldives-tours/marina-crossroads-day-visit/1283",
+    "as_of": "2026-10-04"
    }
   ]
  },
- "last_updated": "2026-10-04"
+ "last_updated": "2026-10-05"
 }

@@ -1,14 +1,18 @@
 # 179. Siyam World Maldives
 
-**Official site:** n/a (None)  
+**Official site:** https://www.sunsiyam.com/siyam-world/ (ok)  
 **Brand:** Siyam World  
 **Atoll:** Noonu Atoll  **Island:** n/a  
 **Opened/renovated:** n/a  **Rating:** n/a  
-**Transfer:** seaplane, speedboat, domestic flight; minutes: {"seaplane": 30, "speedboat": 10, "domestic flight": 10}  
+**Transfer:** seaplane, speedboat, domestic flight; minutes: {"seaplane": 40, "speedboat": 15, "domestic flight": 10}  
 **Island size:** 54 ha  
 
 ## Villas (23 total)
 
+- Pool Beach Villa child OR Super King: count 80, ? sqm, max ?, pool
+- Lagoon Villa with children OR: count 2, ? sqm, max ?, overwater
+- Residences are offering an all-inclusive island getaway: count 23, ? sqm, max ?
+- residence: count 213, 213 sqm, max ?
 - Villas: count 499, ? sqm, max ?
 - two bedroom family pool beach villa siyam world maldives: count 1, ? sqm, max ?, pool
 - two bedroom pool beach villa siyam world maldives: count 2, ? sqm, max ?, pool
@@ -16,23 +20,13 @@
 
 ## Dining
 
-- Swim-up Bar • Kids Club (bar)
-- Adults only Bar • Moke rentals (bar)
-- Underground Wine Cellar (bar)
-- The Wahoo Grill Grill restaurant 18.30 to 22.00 (restaurant)
-- Together Main Bar with Pool 10.30 to 16.00 Lunch (bar)
-- Shipwrecked/ Bar & light Lunch 10.30 to 00.00 (Bar) (bar)
-- The Orchid Infinity Pool Bar 10.00 till last guest leaves (bar)
-- 10.00 to 18.00 (Bar) (bar)
-- Jungali Pool Bar with lush vegetation (bar)
-- KulhiVaru 24hr Sports Bar 24/7 (bar)
-- Good Vibrations Epic Beach Bar 10.00 to 18.30 (bar)
-- *In-Villa Dining (restaurant)
-- Dining (restaurant)
-- Tempo - All-Day Dining (restaurant)
+- Tempo The Wahoo Grill Together KulhiVaru (restaurant)
+- Maldivian cuisine Indian cuisine Pool Bar (bar)
+- Enhanced Mini Bar (bar)
+- The Wahoo Grill (restaurant)
+- Teppanyaki (restaurant)
 - Takrai – Thai Restaurant (restaurant)
 - Kurry Leaf – Indian Restaurant (restaurant)
-- The Wahoo Grill (restaurant)
 - Arigato – Japanese Restaurant (restaurant)
 - Barrique – Wine Cellar (bar)
 - Mint – Adults-Only Pool Bar (bar)
@@ -47,34 +41,31 @@
 - Adults-only Bar (bar)
 
 Meal plans: AI, Premium AI
-All-inclusive: all-inclusive resort is bursting with energy, surprises, and boundless possibilities.
+All-inclusive: All-Inclusive Meal Plan.
 
 ## Spa & wellness
 
-- Spa: Studio
-Art Studio
-Spa; treatment rooms: ?; menu: none
-- Wellness/fitness: meditation, gym, tennis, padel, badminton, beach volleyball, yoga, ayurveda
+- Spa: Veyo Spa; treatment rooms: ?; menu: none
+- Wellness/fitness: yoga, gym, tennis, padel, badminton, meditation, fitness center, beach volleyball, ayurveda, sauna, steam
 
 ## Diving, water sports & excursions
 
 - Operator: Dive Centre
 - House reef: house reef just steps away, or unwind at the spa before catching a Maldivian sunset
-- Activities: snorkelling, scuba diving, dolphin cruise, manta, windsurfing, jet ski, sunset cruise, banana boat
+- Activities: kitesurfing, fishing, sunset cruise, snorkeling, windsurfing, canoe, jet ski, banana boat
 - Price list: none
-- Excursions: dolphin, manta
+- Excursions: big game fishing, stargazing, cinema, dolphin
 
 ## Kids & family
 
-- Kids club: Seaplane
-Kids Club; ages: n/a; teens: n/a
+- Kids club: Kids Club; ages: n/a; teens: teens programme mentioned
 
 ## Weddings
 
 - Offered: True; vow renewal: True
-- Venues: n/a
+- Venues: Breakfast venue Spanish cuisine Adult-Only pool bar Beach Bar
 - Packages: n/a
-- Brochure: none
+- Brochure: https://www.sunsiyam.com/media/grbf53ce/ultimate-honeymoon-sw.pdf
 
 ## Events / MICE
 
@@ -83,26 +74,25 @@ Kids Club; ages: n/a; teens: n/a
 
 ## Sustainability
 
-- n/a
+- marine biologist
 
 ## Public contacts
 
-- Reservations: info@neoscapesmaldives.com; weddings: n/a; phone: +960 736 5425
+- Reservations: info@siyamworld.com; weddings: n/a; phone: +960 656 7777
 
 ## Latest documents
 
-- factsheet: https://www.neoscapesmaldives.com/wp-content/uploads/Siyam-World-Factsheet_02-Nov-2024-31-Oct-25.pdf
+- factsheet: https://www.sunsiyam.com/media/ofahluyo/factsheet-siyam-world-2026.pdf
 - map: https://www.neoscapesmaldives.com/wp-content/uploads/SW-main-map-with-categories.pdf
-- wedding: none
+- wedding: https://www.sunsiyam.com/media/grbf53ce/ultimate-honeymoon-sw.pdf
 - spa_menu: none
-- dining_menu: none
+- dining_menu: https://letsgomaldives.com/wp-content/uploads/2023/11/SIYAM-WORLD_WOW-INCLUSIVE-W23S24_01-Nov-23.pdf
 - dive_prices: none
 - events: none
 - calendar: none
 
 ## Gaps
 
-- wedding brochure
 - events/MICE document
 
-_Facts extracted by rules from 22 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-04._
+_Facts extracted by rules from 25 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

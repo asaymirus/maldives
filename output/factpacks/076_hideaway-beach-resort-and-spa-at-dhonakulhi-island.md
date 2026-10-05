@@ -1,15 +1,15 @@
 # 76. Hideaway Beach Resort and Spa at Dhonakulhi Island Maldives
 
-**Official site:** n/a (None)  
+**Official site:** https://www.hideawaybeachmaldives.com/ (ok)  
 **Brand:** Hideaway  
-**Atoll:** Haa Alifu Atoll  **Island:** n/a  
+**Atoll:** Haa Alifu Atoll  **Island:** Dhonakulhi  
 **Opened/renovated:** n/a  **Rating:** n/a  
 **Transfer:** seaplane, speedboat, yacht; minutes: {"seaplane": 40, "speedboat": 20}  
 **Island size:** n/a  
 
-## Villas (103 total)
+## Villas (43 total)
 
-- DELU E WATER VILLA WITH POOL | units: count 7, 190 sqm, max ?, pool
+- DELU E WATER VILLA WITH POOL: count 7, 190 sqm, max ?, pool
 - units VILLA FEATURES: count ?, 440 sqm, max ?
 - – Beach Residence with Pool: count 108, ? sqm, max ?, pool
 - – Beach Residence with Lap Pool: count 126, ? sqm, max ?, pool
@@ -18,32 +18,27 @@
 - – Delu e Sunset Beach Villa with Pool NOTE: count 138, ? sqm, max ?, pool
 - – Family Villa with Pool: count 145, ? sqm, max ?, pool
 - & – Ocean Suite MANTA/EAGLE RAY: count 302, ? sqm, max ?, overwater
-- Number of Villas: count 103, ? sqm, max ?
 - beach residence interior hideaway beach maldives: count 3, ? sqm, max ?
 - beach residence e terior hideaway beach maldives: count 2, ? sqm, max ?
 
 ## Dining
 
-- Restaurants / Bar / Hotel / Telephone / Internet (restaurant)
-- Hideaway Princess acht harter Sunset Pool Cafe’ (restaurant)
-- Dining (restaurant)
 - Meeru Bar and Grill (bar)
 - Sunset Pool Cafe (restaurant)
-- Private Dining (restaurant)
-- In-villa Dining (restaurant)
 
-Meal plans: n/a
+Meal plans: AI
+All-inclusive: all-inclusive luxury in the Maldives.
 
 ## Spa & wellness
 
 - Spa: Spa; treatment rooms: ?; menu: none
-- Wellness/fitness: yoga, gym, tennis, beach volleyball, steam, meditation
+- Wellness/fitness: yoga, gym, tennis, beach volleyball, steam, meditation, fitness center, padel, badminton, sauna
 
 ## Diving, water sports & excursions
 
 - Operator: n/a
 - House reef: House Reef include countless tropical fish of every imaginable color, moray eels, corals and turtles
-- Activities: snorkeling, catamaran, jet ski, fishing, sunset cruise, manta, sailing, snorkelling, scuba diving, semi-submarine
+- Activities: snorkeling, catamaran, jet ski, fishing, sunset cruise, manta, sailing, snorkelling, scuba diving, semi-submarine, windsurfing, water skiing, canoe
 - Price list: none
 - Excursions: night fishing, manta, turtle, sandbank, dolphin, sunset fishing, big game fishing, picnic
 
@@ -53,7 +48,7 @@ Meal plans: n/a
 
 ## Weddings
 
-- Offered: True; vow renewal: None
+- Offered: True; vow renewal: True
 - Venues: n/a
 - Packages: n/a
 - Brochure: none
@@ -65,7 +60,7 @@ Meal plans: n/a
 
 ## Sustainability
 
-- n/a
+- solar, desalination, composting
 
 ## Public contacts
 
@@ -88,4 +83,4 @@ Meal plans: n/a
 - events/MICE document
 - fact: dive operator
 
-_Facts extracted by rules from 16 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-04._
+_Facts extracted by rules from 21 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

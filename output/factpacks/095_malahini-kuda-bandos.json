@@ -7,20 +7,20 @@
   "Kuda Bandos",
   "Malahini"
  ],
- "official_url": null,
- "official_site_status": null,
+ "official_url": "https://malahini.mv/",
+ "official_site_status": "ok",
  "operator_brand": null,
- "atoll": null,
+ "atoll": "Ari Atoll",
  "island": "Malahini Kuda",
  "opened_or_renovated": null,
- "star_rating": null,
+ "star_rating": "5-star",
  "transfer": {
   "modes": [
    "speedboat"
   ],
   "minutes": {
    "seaplane": null,
-   "speedboat": 10,
+   "speedboat": 12,
    "domestic flight": null,
    "yacht": null
   }
@@ -30,30 +30,147 @@
   "total": null,
   "categories": [
    {
-    "name": "Total Number of Villas",
-    "count": 83,
+    "name": "Embudu Village A",
+    "count": 22,
     "size_sqm": null,
     "max_occupancy": null,
     "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "Equator Village A",
+    "count": 23,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "Mookai Suites A",
+    "count": 26,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "Lu South Ari Atoll Resort & Villas A",
+    "count": 31,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "Amilla Maldives Resort & Residences D",
+    "count": 120,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "Residence Maldives D",
+    "count": 122,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "The Residence Maldives at Dhigurah D",
+    "count": 123,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "TME Retreats Dhigurah E",
+    "count": 131,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "Villa Nautica E . Paradise Island Resort E",
+    "count": 143,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "Beach Pool Suite",
+    "count": 1,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": true,
+    "overwater": null
+   },
+   {
+    "name": "Sunrise Beach Pool Villa",
+    "count": 1,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": true,
+    "overwater": null
+   },
+   {
+    "name": "Delu e Beach Villa",
+    "count": 1,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "Ocean View Suite",
+    "count": 1,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": true
+   },
+   {
+    "name": "Family Beach Villa",
+    "count": 1,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "Beach Pool Suites",
+    "count": 1,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": true,
     "overwater": null
    }
   ]
  },
  "dining": [
   {
-   "name": "Dining",
-   "cuisine": null,
-   "type": "restaurant"
-  },
-  {
-   "name": "Bar 75",
+   "name": "Lounge Lounge",
    "cuisine": null,
    "type": "bar"
   },
   {
-   "name": "Inroom Dining",
+   "name": "Lounge",
    "cuisine": null,
-   "type": "restaurant"
+   "type": "bar"
+  },
+  {
+   "name": "Arrival Lounge",
+   "cuisine": null,
+   "type": "bar"
+  },
+  {
+   "name": "No Hotel Name Arr Lounge",
+   "cuisine": null,
+   "type": "bar"
   }
  ],
  "meal_plans": [
@@ -67,28 +184,38 @@
   "menu_doc": null
  },
  "diving_watersports": {
-  "operator": null,
-  "house_reef": "house reef’",
+  "operator": "Dive Centre",
+  "house_reef": "House Reef) 1 hour 60",
   "activities": [
-   "snorkelling",
    "snorkeling",
+   "scuba diving",
+   "surfing",
    "catamaran",
    "jet ski",
    "parasailing",
+   "wakeboarding",
    "fishing",
+   "dolphin cruise",
    "whale shark",
    "manta",
-   "canoe"
+   "sailing",
+   "flyboard",
+   "canoe",
+   "snorkelling"
   ],
-  "price_list_doc": null
+  "price_list_doc": "https://d3w0d8jk0ek7xo.cloudfront.net/files/18ef7b26-c172-43c8-9756-9b69c690280c.pdf"
  },
  "excursions": [
-  "sunset fishing",
+  "island hopping",
+  "local island",
+  "dolphin",
   "night fishing",
   "big game fishing",
   "whale shark",
   "manta",
   "turtle",
+  "private dinner",
+  "sunset fishing",
   "picnic"
  ],
  "kids_family": {
@@ -121,118 +248,54 @@
  },
  "documents_latest": {
   "factsheet": "https://www.neoscapesmaldives.com/wp-content/uploads/Malahini-Kuda-Bandos-E-factsheet_2017.pdf",
-  "map": "https://www.neoscapesmaldives.com/wp-content/uploads/Malahini-Kuda-Bandos-Map.pdf",
+  "map": "https://maldives.ru/doc/airport-new-counters-map-2023-1.pdf",
   "wedding": null,
   "spa_menu": null,
-  "dining_menu": null,
-  "dive_prices": null,
+  "dining_menu": "https://d3w0d8jk0ek7xo.cloudfront.net/files/b48cf1b1-932e-4bfd-8c89-3f8f4cea4a57.pdf",
+  "dive_prices": "https://d3w0d8jk0ek7xo.cloudfront.net/files/18ef7b26-c172-43c8-9756-9b69c690280c.pdf",
   "events": null,
   "calendar": null
  },
- "documents_count": 2,
+ "documents_count": 9,
  "gaps": [
   "wedding brochure",
   "events/MICE document",
-  "fact: villas.total",
-  "fact: atoll",
-  "fact: dive operator"
+  "fact: villas.total"
  ],
  "sources": {
-  "island": [
-   {
-    "value": "Malahini Kuda",
-    "source_url": "https://www.neoscapesmaldives.com/resort/malahini-kuda-bandos/",
-    "as_of": "2026-10-04"
-   }
-  ],
   "transfer.modes": [
+   {
+    "value": "speedboat",
+    "source_url": "https://d3w0d8jk0ek7xo.cloudfront.net/files/b48cf1b1-932e-4bfd-8c89-3f8f4cea4a57.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://malahini.mv/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://malahini.mv/faq",
+    "as_of": "2026-10-04"
+   },
    {
     "value": "speedboat",
     "source_url": "https://www.neoscapesmaldives.com/resort/malahini-kuda-bandos/",
     "as_of": "2026-10-04"
    }
   ],
-  "transfer.minutes.speedboat": [
-   {
-    "value": 10,
-    "source_url": "https://www.neoscapesmaldives.com/resort/malahini-kuda-bandos/",
-    "as_of": "2026-10-04"
-   }
-  ],
-  "villas.categories": [
-   {
-    "value": {
-     "name": "Total Number of Villas",
-     "count": 83,
-     "size_sqm": null,
-     "max_occupancy": null,
-     "pool": null,
-     "overwater": null
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/malahini-kuda-bandos/",
-    "as_of": "2026-10-04"
-   }
-  ],
-  "dining": [
-   {
-    "value": {
-     "name": "Dining",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/malahini-kuda-bandos/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Dining",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/malahini-kuda-bandos/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Bar 75",
-     "cuisine": null,
-     "type": "bar"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/malahini-kuda-bandos/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Inroom Dining",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/malahini-kuda-bandos/",
-    "as_of": "2026-10-04"
-   }
-  ],
-  "meal_plans": [
-   {
-    "value": "AI",
-    "source_url": "https://www.neoscapesmaldives.com/resort/malahini-kuda-bandos/",
-    "as_of": "2026-10-04"
-   }
-  ],
-  "all_inclusive_details": [
-   {
-    "value": "all-inclusive package ensures guests can get the very best out of eating and drinking at the resort, as well as a selected number of excursions.",
-    "source_url": "https://www.neoscapesmaldives.com/resort/malahini-kuda-bandos/",
-    "as_of": "2026-10-04"
-   }
-  ],
-  "spa.name": [
-   {
-    "value": "Spa",
-    "source_url": "https://www.neoscapesmaldives.com/resort/malahini-kuda-bandos/",
-    "as_of": "2026-10-04"
-   }
-  ],
   "diving_watersports.house_reef": [
+   {
+    "value": "House Reef) 1 hour 60",
+    "source_url": "https://d3w0d8jk0ek7xo.cloudfront.net/files/b48cf1b1-932e-4bfd-8c89-3f8f4cea4a57.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "House Reef ( 2 Dives ) 300",
+    "source_url": "https://d3w0d8jk0ek7xo.cloudfront.net/files/18ef7b26-c172-43c8-9756-9b69c690280c.pdf",
+    "as_of": 2026
+   },
    {
     "value": "house reef’",
     "source_url": "https://www.neoscapesmaldives.com/resort/malahini-kuda-bandos/",
@@ -240,6 +303,86 @@
    }
   ],
   "diving_watersports.activities": [
+   {
+    "value": "snorkeling",
+    "source_url": "https://d3w0d8jk0ek7xo.cloudfront.net/files/b48cf1b1-932e-4bfd-8c89-3f8f4cea4a57.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://d3w0d8jk0ek7xo.cloudfront.net/files/b48cf1b1-932e-4bfd-8c89-3f8f4cea4a57.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "surfing",
+    "source_url": "https://d3w0d8jk0ek7xo.cloudfront.net/files/b48cf1b1-932e-4bfd-8c89-3f8f4cea4a57.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "catamaran",
+    "source_url": "https://d3w0d8jk0ek7xo.cloudfront.net/files/b48cf1b1-932e-4bfd-8c89-3f8f4cea4a57.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "jet ski",
+    "source_url": "https://d3w0d8jk0ek7xo.cloudfront.net/files/b48cf1b1-932e-4bfd-8c89-3f8f4cea4a57.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "parasailing",
+    "source_url": "https://d3w0d8jk0ek7xo.cloudfront.net/files/b48cf1b1-932e-4bfd-8c89-3f8f4cea4a57.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "wakeboarding",
+    "source_url": "https://d3w0d8jk0ek7xo.cloudfront.net/files/b48cf1b1-932e-4bfd-8c89-3f8f4cea4a57.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://d3w0d8jk0ek7xo.cloudfront.net/files/b48cf1b1-932e-4bfd-8c89-3f8f4cea4a57.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "dolphin cruise",
+    "source_url": "https://d3w0d8jk0ek7xo.cloudfront.net/files/b48cf1b1-932e-4bfd-8c89-3f8f4cea4a57.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://d3w0d8jk0ek7xo.cloudfront.net/files/b48cf1b1-932e-4bfd-8c89-3f8f4cea4a57.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "manta",
+    "source_url": "https://d3w0d8jk0ek7xo.cloudfront.net/files/b48cf1b1-932e-4bfd-8c89-3f8f4cea4a57.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "sailing",
+    "source_url": "https://d3w0d8jk0ek7xo.cloudfront.net/files/b48cf1b1-932e-4bfd-8c89-3f8f4cea4a57.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "flyboard",
+    "source_url": "https://d3w0d8jk0ek7xo.cloudfront.net/files/b48cf1b1-932e-4bfd-8c89-3f8f4cea4a57.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://malahini.mv/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://malahini.mv/experience/marinehub",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "canoe",
+    "source_url": "https://malahini.mv/rooms",
+    "as_of": "2026-10-04"
+   },
    {
     "value": "snorkelling",
     "source_url": "https://www.neoscapesmaldives.com/resort/malahini-kuda-bandos/",
@@ -288,6 +431,66 @@
   ],
   "excursions": [
    {
+    "value": "island hopping",
+    "source_url": "https://d3w0d8jk0ek7xo.cloudfront.net/files/b48cf1b1-932e-4bfd-8c89-3f8f4cea4a57.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "local island",
+    "source_url": "https://d3w0d8jk0ek7xo.cloudfront.net/files/b48cf1b1-932e-4bfd-8c89-3f8f4cea4a57.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://d3w0d8jk0ek7xo.cloudfront.net/files/b48cf1b1-932e-4bfd-8c89-3f8f4cea4a57.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "night fishing",
+    "source_url": "https://d3w0d8jk0ek7xo.cloudfront.net/files/b48cf1b1-932e-4bfd-8c89-3f8f4cea4a57.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "big game fishing",
+    "source_url": "https://d3w0d8jk0ek7xo.cloudfront.net/files/b48cf1b1-932e-4bfd-8c89-3f8f4cea4a57.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://d3w0d8jk0ek7xo.cloudfront.net/files/b48cf1b1-932e-4bfd-8c89-3f8f4cea4a57.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "manta",
+    "source_url": "https://d3w0d8jk0ek7xo.cloudfront.net/files/b48cf1b1-932e-4bfd-8c89-3f8f4cea4a57.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://d3w0d8jk0ek7xo.cloudfront.net/files/b48cf1b1-932e-4bfd-8c89-3f8f4cea4a57.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "night fishing",
+    "source_url": "https://malahini.mv/experience/marinehub",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "big game fishing",
+    "source_url": "https://malahini.mv/experience/marinehub",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "local island",
+    "source_url": "https://malahini.mv/faq",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "private dinner",
+    "source_url": "https://malahini.mv/faq",
+    "as_of": "2026-10-04"
+   },
+   {
     "value": "sunset fishing",
     "source_url": "https://www.neoscapesmaldives.com/resort/malahini-kuda-bandos/",
     "as_of": "2026-10-04"
@@ -323,6 +526,390 @@
     "as_of": "2026-10-04"
    }
   ],
+  "atoll": [
+   {
+    "value": "Ari Atoll",
+    "source_url": "https://maldives.ru/doc/airport-new-counters-map-2023-1.pdf",
+    "as_of": 2023
+   }
+  ],
+  "villas.categories": [
+   {
+    "value": {
+     "name": "Embudu Village A",
+     "count": 22,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://maldives.ru/doc/airport-new-counters-map-2023-1.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": {
+     "name": "Equator Village A",
+     "count": 23,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://maldives.ru/doc/airport-new-counters-map-2023-1.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": {
+     "name": "Mookai Suites A",
+     "count": 26,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://maldives.ru/doc/airport-new-counters-map-2023-1.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": {
+     "name": "Lu South Ari Atoll Resort & Villas A",
+     "count": 31,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://maldives.ru/doc/airport-new-counters-map-2023-1.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": {
+     "name": "Amilla Maldives Resort & Residences D",
+     "count": 120,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://maldives.ru/doc/airport-new-counters-map-2023-1.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": {
+     "name": "Residence Maldives D",
+     "count": 122,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://maldives.ru/doc/airport-new-counters-map-2023-1.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": {
+     "name": "The Residence Maldives at Dhigurah D",
+     "count": 123,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://maldives.ru/doc/airport-new-counters-map-2023-1.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": {
+     "name": "TME Retreats Dhigurah E",
+     "count": 131,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://maldives.ru/doc/airport-new-counters-map-2023-1.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": {
+     "name": "Villa Nautica E . Paradise Island Resort E",
+     "count": 143,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://maldives.ru/doc/airport-new-counters-map-2023-1.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": {
+     "name": "Beach Pool Suite",
+     "count": 1,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": true,
+     "overwater": null
+    },
+    "source_url": "https://malahini.mv/rooms",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Sunrise Beach Pool Villa",
+     "count": 1,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": true,
+     "overwater": null
+    },
+    "source_url": "https://malahini.mv/rooms",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Delu e Beach Villa",
+     "count": 1,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://malahini.mv/rooms",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Ocean View Suite",
+     "count": 1,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": true
+    },
+    "source_url": "https://malahini.mv/rooms",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Family Beach Villa",
+     "count": 1,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://malahini.mv/rooms",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Beach Pool Suites",
+     "count": 1,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": true,
+     "overwater": null
+    },
+    "source_url": "https://malahini.mv/faq",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Sunrise Beach Pool Villa",
+     "count": 1,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": true,
+     "overwater": null
+    },
+    "source_url": "https://malahini.mv/faq",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Beach Pool Suite",
+     "count": 1,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": true,
+     "overwater": null
+    },
+    "source_url": "https://malahini.mv/offers",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Sunrise Beach Pool Villa",
+     "count": 1,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": true,
+     "overwater": null
+    },
+    "source_url": "https://malahini.mv/offers",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Delu e Beach Villa",
+     "count": 1,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://malahini.mv/offers",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Ocean View Suite",
+     "count": 1,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": true
+    },
+    "source_url": "https://malahini.mv/offers",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Family Beach Villa",
+     "count": 1,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://malahini.mv/offers",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "dining": [
+   {
+    "value": {
+     "name": "Lounge Lounge",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://maldives.ru/doc/airport-new-counters-map-2023-1.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": {
+     "name": "Lounge",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://maldives.ru/doc/airport-new-counters-map-2023-1.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": {
+     "name": "Lounge",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://maldives.ru/doc/airport-new-counters-map-2023-1.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": {
+     "name": "Arrival Lounge",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://maldives.ru/doc/airport-new-counters-map-2023-1.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": {
+     "name": "No Hotel Name Arr Lounge",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://maldives.ru/doc/airport-new-counters-map-2023-1.pdf",
+    "as_of": 2023
+   }
+  ],
+  "spa.name": [
+   {
+    "value": "Spa",
+    "source_url": "https://maldives.ru/doc/airport-new-counters-map-2023-1.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.neoscapesmaldives.com/resort/malahini-kuda-bandos/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "transfer.minutes.speedboat": [
+   {
+    "value": 12,
+    "source_url": "https://malahini.mv/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 12,
+    "source_url": "https://malahini.mv/faq",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 10,
+    "source_url": "https://www.neoscapesmaldives.com/resort/malahini-kuda-bandos/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "weddings.offered": [
+   {
+    "value": true,
+    "source_url": "https://malahini.mv/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.neoscapesmaldives.com/resort/malahini-kuda-bandos/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "star_rating": [
+   {
+    "value": "5-star",
+    "source_url": "https://malahini.mv/faq",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "diving_watersports.operator": [
+   {
+    "value": "Dive Centre",
+    "source_url": "https://malahini.mv/faq",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "island": [
+   {
+    "value": "Malahini Kuda",
+    "source_url": "https://www.neoscapesmaldives.com/resort/malahini-kuda-bandos/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "meal_plans": [
+   {
+    "value": "AI",
+    "source_url": "https://www.neoscapesmaldives.com/resort/malahini-kuda-bandos/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "all_inclusive_details": [
+   {
+    "value": "all-inclusive package ensures guests can get the very best out of eating and drinking at the resort, as well as a selected number of excursions.",
+    "source_url": "https://www.neoscapesmaldives.com/resort/malahini-kuda-bandos/",
+    "as_of": "2026-10-04"
+   }
+  ],
   "kids_family.kids_club": [
    {
     "value": "Kids Club",
@@ -342,13 +929,6 @@
     "as_of": "2026-10-04"
    }
   ],
-  "weddings.offered": [
-   {
-    "value": true,
-    "source_url": "https://www.neoscapesmaldives.com/resort/malahini-kuda-bandos/",
-    "as_of": "2026-10-04"
-   }
-  ],
   "contacts_public.reservations_email": [
    {
     "value": "info@neoscapesmaldives.com",
@@ -364,5 +944,5 @@
    }
   ]
  },
- "last_updated": "2026-10-04"
+ "last_updated": "2026-10-05"
 }

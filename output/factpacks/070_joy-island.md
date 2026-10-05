@@ -1,58 +1,54 @@
 # 70. Joy Island
 
-**Official site:** n/a (None)  
+**Official site:** https://www.joyisland.com/ (ok)  
 **Brand:** n/a  
-**Atoll:** North Malé Atoll  **Island:** n/a  
+**Atoll:** North Malé Atoll  **Island:** North  
 **Opened/renovated:** n/a  **Rating:** n/a  
-**Transfer:** speedboat; minutes: {"speedboat": 40}  
+**Transfer:** speedboat, seaplane; minutes: {"seaplane": 10, "speedboat": 40}  
 **Island size:** 251 m x 808 m  
 
 ## Villas (151 total)
 
-- Total Number of Villas: count 151, ? sqm, max ?
 - beach residence at joy island maldives: count 3, ? sqm, max ?
 - beach suite: count 2, ? sqm, max ?
 
 ## Dining
 
-- Dining at Joy Island is a sensory journey with a variety of (restaurant)
-- Rainbow Bar, expertly crafted cocktails and refreshing (bar)
-- In-Villa Dining (restaurant)
-- All-day Lounge (bar)
-- Dining (restaurant)
 - Rainbow Bar (bar)
-- Destination Dining (restaurant)
+- Discover our Restaurant (restaurant)
 
-Meal plans: n/a
+Meal plans: AI
+All-inclusive: all-inclusive destination where every villa, from overwater sanctuaries to beachfront retreats, elevates the escape.
 
 ## Spa & wellness
 
-- Spa: Oasis Spa; treatment rooms: ?; menu: none
-- Wellness/fitness: yoga, fitness centre, tennis, gym, padel
+- Spa: Oasis Spa; treatment rooms: ?; menu: https://cdnm.heyzine.com/flip-book/pdf/0a11288452f369c938da10bb2d11722fd94a987a.pdf
+- Wellness/fitness: yoga, tennis, meditation, steam, padel, gym, fitness centre, beach volleyball, pilates, fitness center
 
 ## Diving, water sports & excursions
 
 - Operator: n/a
-- House reef: house reefs and nearby marine life
-- Activities: snorkelling, fishing, windsurfing, jet ski, dolphin cruise
+- House reef: house reef from Joy Island?
+- Activities: sunset cruise, dolphin cruise, snorkeling, fishing, snorkelling, stand-up paddle, manta, kayaking, paddleboard, scuba diving, windsurfing, jet ski, parasailing, seabob, canoe
 - Price list: none
-- Excursions: sandbank, dolphin, turtle, picnic
+- Excursions: dolphin, sandbank, picnic, island hopping, local island, sunset fishing, stargazing, private dinner, big game fishing, manta, turtle
 
 ## Kids & family
 
-- Kids club: Kids Club; ages: n/a; teens: n/a
+- Kids club: Kiddie Cove
+Kids Club; ages: n/a; teens: n/a
 
 ## Weddings
 
 - Offered: True; vow renewal: True
-- Venues: Beach Wedding
+- Venues: barefoot beach ceremony or an intimate sunset; Island beach Wedding
 - Packages: n/a
-- Brochure: none
+- Brochure: https://cdnm.heyzine.com/flip-book/pdf/b1f0f96ff265d012f55d6fbd78eac7ce1d69c094.pdf
 
 ## Events / MICE
 
-- Venues: 11 GYM 22 MEETING ROOM; capacity max: 120; buyout: None
-- Document: none
+- Venues: n/a; capacity max: 120; buyout: None
+- Document: https://cdnm.heyzine.com/flip-book/pdf/561203caf7c34ac7410e440e2fb87685515def06-2.pdf
 
 ## Sustainability
 
@@ -60,23 +56,21 @@ Meal plans: n/a
 
 ## Public contacts
 
-- Reservations: info@neoscapesmaldives.com; weddings: n/a; phone: +960 736 5425
+- Reservations: booking@joyisland.com; weddings: n/a; phone: +960 664 9966
 
 ## Latest documents
 
-- factsheet: https://www.neoscapesmaldives.com/wp-content/uploads/Joy-Island-_-Fact-Sheet-2025.pdf
-- map: https://www.neoscapesmaldives.com/wp-content/uploads/Joy-Island-Maldives-_-Resort-Map.pdf
-- wedding: none
-- spa_menu: none
-- dining_menu: none
+- factsheet: https://d7h9v39iheghu.cloudfront.net/previews/42de57ca-7efe-4d5a-8d86-d9172148eacf/712f206d-41a8-4b34-9995-3943d4414af0/712f206d-41a8-4b34-9995-3943d4414af0?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy80MmRlNTdjYS03ZWZlLTRkNWEtOGQ4Ni1kOTE3MjE0OGVhY2YqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjk2OTU2fX19XX0_&Signature=Vzs-zJl8tl5ac3bWITSsHUZQxqBbKumCntqITMi707QlgNawp35AYETVu1lHU6NlchvstDJ4ejGVpVOhrU-oyvcxqwRXcMBCp7gUdjvEIB7VYeYEz4xQfg2V14KAKWS4NIz4SlHdXWdqmlhoi2S0VtUKbJPqjYa95uNR2ltFKIDtBc5oDkrafWTKW4gIvesGI-rVf79HGAyP4qx871btzz2MdWwRRFNK5Od7jBPE25tRZSgCkrdsNMC6h0PaRFrpAUN4WSxvO4b93M2vvjFy-By6Rw27FQAVU3YHu~jhZ0RH0m-gTjcs4SVkM2Dd6IZ8K0g4UkB5mZwvYClMwvtn1Q__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA
+- map: https://cdnm.heyzine.com/flip-book/pdf/9feff53d89333821741583c6787ddf21970c9578.pdf
+- wedding: https://cdnm.heyzine.com/flip-book/pdf/b1f0f96ff265d012f55d6fbd78eac7ce1d69c094.pdf
+- spa_menu: https://cdnm.heyzine.com/flip-book/pdf/0a11288452f369c938da10bb2d11722fd94a987a.pdf
+- dining_menu: https://cdnm.heyzine.com/files/uploaded/d7e764db3df5c310bca8c74afb4f92061e17c4bc.pdf
 - dive_prices: none
-- events: none
-- calendar: none
+- events: https://cdnm.heyzine.com/flip-book/pdf/561203caf7c34ac7410e440e2fb87685515def06-2.pdf
+- calendar: https://cdnm.heyzine.com/files/uploaded/v3/77ce4a31ca1298b404d8cebf54e3bd8d20e8751f-3.pdf
 
 ## Gaps
 
-- wedding brochure
-- events/MICE document
 - fact: dive operator
 
-_Facts extracted by rules from 20 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-04._
+_Facts extracted by rules from 23 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

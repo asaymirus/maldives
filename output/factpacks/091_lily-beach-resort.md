@@ -1,6 +1,6 @@
 # 91. Lily Beach Resort
 
-**Official site:** n/a (None)  
+**Official site:** https://www.lilybeachmaldives.com/ (ok)  
 **Brand:** Lily  
 **Atoll:** Ari Atoll  **Island:** Huvahendhoo  
 **Opened/renovated:** renovated 2019  **Rating:** 5-star  
@@ -11,30 +11,25 @@
 
 - village: count 23, ? sqm, max ?
 - • Free wifi in villas and public areas of the resort: count 5, ? sqm, max ?
-- Number of Villas: count 125, ? sqm, max ?
 
 ## Dining
 
-- 11 • Free access to Lily Lounge in Trans Maldivian (bar)
-- 4 • Aqua Pool Bar and Vibes Bar: à la carte lunch. (bar)
 - Beach Bar with unlimited drinks (bar)
 - Indian and Thai Cuisine. Beach Bar (bar)
 - Teppanyaki à la carte lunch. Infinity pool. (restaurant)
-- Dining (restaurant)
 - Teppanyaki (restaurant)
 - Aqva Bar (bar)
 - Vibes Bar (bar)
 - The Spirit Bar (bar)
 - Internet Café (restaurant)
-- 2 Fresh Water Swimming Pools with Bar (bar)
 
 Meal plans: AI
-All-inclusive: all-inclusive plans in the Maldives, taking the worry out of eating, drinking and entertainment.
+All-inclusive: all-inclusive luxury in the Maldives.
 
 ## Spa & wellness
 
 - Spa: Spa; treatment rooms: ?; menu: none
-- Wellness/fitness: yoga, gym, tennis, beach volleyball, pilates, sauna, steam, fitness center
+- Wellness/fitness: yoga, gym, tennis, beach volleyball, pilates, sauna, steam, fitness center, padel, badminton
 
 ## Diving, water sports & excursions
 
@@ -84,4 +79,4 @@ All-inclusive: all-inclusive plans in the Maldives, taking the worry out of eati
 - wedding brochure
 - events/MICE document
 
-_Facts extracted by rules from 22 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-04._
+_Facts extracted by rules from 22 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

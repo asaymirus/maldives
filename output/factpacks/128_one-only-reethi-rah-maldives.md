@@ -1,39 +1,37 @@
 # 128. One & Only Reethi Rah, Maldives
 
-**Official site:** n/a (None)  
+**Official site:** https://www.oneandonlyresorts.com/reethi-rah (unreachable)  
 **Brand:** One & Only  
-**Atoll:** North Malé Atoll  **Island:** n/a  
-**Opened/renovated:** n/a  **Rating:** n/a  
+**Atoll:** Kaafu Atoll  **Island:** n/a  
+**Opened/renovated:** n/a  **Rating:** 5-star  
 **Transfer:** seaplane, speedboat, yacht; minutes: {"seaplane": 45, "speedboat": 45, "yacht": 45}  
 **Island size:** 44 ha  
 
-## Villas (? total)
+## Villas (130 total)
 
-- Number of Villas: count 122, ? sqm, max ?
 - over-water Couples Suites: count 2, ? sqm, max ?
 - beach villa one&only reethi rah: count 5, ? sqm, max ?
+- Beach villa con piscina: count 212, ? sqm, max ?
 
 ## Dining
 
-- Dining (restaurant)
 - Rah Bar (bar)
 - Fanditha Bar (bar)
-- Private Dining (restaurant)
 
-Meal plans: n/a
+Meal plans: AI
 
 ## Spa & wellness
 
 - Spa: Javvu Spa; treatment rooms: 14; menu: none
-- Wellness/fitness: yoga, meditation, fitness centre, tennis, sauna, steam, fitness center, badminton, beach volleyball, pilates, personal trainer
+- Wellness/fitness: yoga, meditation, fitness centre, tennis, sauna, steam, fitness center, badminton, beach volleyball, pilates, personal trainer, ayurveda
 
 ## Diving, water sports & excursions
 
 - Operator: Dive Centre
 - House reef: n/a
-- Activities: windsurfing, jet ski, seabob, flyboard, canoe, snorkelling, kitesurfing, surfing, kayaking, catamaran, parasailing, wakeboarding, fishing, sunset cruise
+- Activities: windsurfing, jet ski, seabob, flyboard, canoe, snorkelling, kitesurfing, surfing, kayaking, catamaran, parasailing, wakeboarding, fishing, sunset cruise, scuba diving, water skiing, sailing, snorkeling
 - Price list: none
-- Excursions: cinema, sandbank, dolphin, big game fishing, turtle
+- Excursions: cinema, sandbank, dolphin, big game fishing, turtle, picnic
 
 ## Kids & family
 
@@ -74,6 +72,5 @@ Meal plans: n/a
 
 - wedding brochure
 - events/MICE document
-- fact: villas.total
 
-_Facts extracted by rules from 21 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-04._
+_Facts extracted by rules from 24 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

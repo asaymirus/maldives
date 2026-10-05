@@ -7,8 +7,8 @@
   "Nika Maldives",
   "Kudafolhudhoo"
  ],
- "official_url": null,
- "official_site_status": null,
+ "official_url": "https://www.nikamaldives.com/",
+ "official_site_status": "unreachable",
  "operator_brand": null,
  "atoll": "Ari Atoll",
  "island": null,
@@ -27,11 +27,75 @@
  },
  "island_size": null,
  "villas": {
-  "total": 43,
+  "total": 38,
   "categories": [
    {
-    "name": "Number of Villas",
-    "count": 46,
+    "name": "Embudu Village A",
+    "count": 22,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "Equator Village A",
+    "count": 23,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "Mookai Suites A",
+    "count": 26,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "Lu South Ari Atoll Resort & Villas A",
+    "count": 31,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "Amilla Maldives Resort & Residences D",
+    "count": 120,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "Residence Maldives D",
+    "count": 122,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "The Residence Maldives at Dhigurah D",
+    "count": 123,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "TME Retreats Dhigurah E",
+    "count": 131,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "Villa Nautica E . Paradise Island Resort E",
+    "count": 143,
     "size_sqm": null,
     "max_occupancy": null,
     "pool": null,
@@ -78,9 +142,24 @@
    "type": "bar"
   },
   {
-   "name": "Dining",
+   "name": "Lounge Lounge",
    "cuisine": null,
-   "type": "restaurant"
+   "type": "bar"
+  },
+  {
+   "name": "Lounge",
+   "cuisine": null,
+   "type": "bar"
+  },
+  {
+   "name": "Arrival Lounge",
+   "cuisine": null,
+   "type": "bar"
+  },
+  {
+   "name": "No Hotel Name Arr Lounge",
+   "cuisine": null,
+   "type": "bar"
   },
   {
    "name": "Nika Restaurant",
@@ -91,11 +170,6 @@
    "name": "Bepi Bar",
    "cuisine": null,
    "type": "bar"
-  },
-  {
-   "name": "Dining Experience",
-   "cuisine": null,
-   "type": "restaurant"
   }
  ],
  "meal_plans": [
@@ -112,14 +186,17 @@
  },
  "diving_watersports": {
   "operator": "Dive Centre",
-  "house_reef": null,
+  "house_reef": "house reef, where you’ll encounter vibrant marine life",
   "activities": [
    "snorkeling",
    "catamaran",
    "fishing",
    "scuba diving",
    "whale shark",
-   "manta"
+   "manta",
+   "windsurfing",
+   "water skiing",
+   "canoe"
   ],
   "price_list_doc": null
  },
@@ -131,7 +208,8 @@
   "whale shark",
   "manta",
   "turtle",
-  "private dinner"
+  "private dinner",
+  "island hopping"
  ],
  "kids_family": {
   "kids_club": "Kids Club",
@@ -144,7 +222,8 @@
   "sauna",
   "meditation",
   "fitness center",
-  "ayurveda"
+  "ayurveda",
+  "badminton"
  ],
  "weddings": {
   "offered": true,
@@ -169,7 +248,7 @@
  },
  "documents_latest": {
   "factsheet": "https://www.neoscapesmaldives.com/wp-content/uploads/NIKA-FACT-SHEET-Nika-Island-Resort.pdf",
-  "map": "https://www.neoscapesmaldives.com/wp-content/uploads/NIKA-MAP-Nika-Island-Resort.pdf",
+  "map": "https://maldives.ru/doc/airport-new-counters-map-2023-1.pdf",
   "wedding": null,
   "spa_menu": null,
   "dining_menu": null,
@@ -177,7 +256,7 @@
   "events": null,
   "calendar": null
  },
- "documents_count": 2,
+ "documents_count": 3,
  "gaps": [
   "wedding brochure",
   "events/MICE document"
@@ -191,7 +270,17 @@
    },
    {
     "value": "Ari Atoll",
+    "source_url": "https://maldives.ru/doc/airport-new-counters-map-2023-1.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": "Ari Atoll",
     "source_url": "https://www.neoscapesmaldives.com/resort/nika-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Ari Atoll",
+    "source_url": "https://www.mymaldives.com/resort-guide/nika-island-resort/",
     "as_of": "2026-10-04"
    }
   ],
@@ -205,6 +294,11 @@
     "value": "seaplane",
     "source_url": "https://www.neoscapesmaldives.com/resort/nika-island-resort/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.mymaldives.com/resort-guide/nika-island-resort/",
+    "as_of": "2026-10-04"
    }
   ],
   "villas.total": [
@@ -212,6 +306,11 @@
     "value": 43,
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/NIKA-FACT-SHEET-Nika-Island-Resort.pdf",
     "as_of": 2020
+   },
+   {
+    "value": 38,
+    "source_url": "https://www.mymaldives.com/resort-guide/nika-island-resort/",
+    "as_of": "2026-10-04"
    }
   ],
   "dining": [
@@ -226,21 +325,48 @@
    },
    {
     "value": {
-     "name": "Dining",
+     "name": "Lounge Lounge",
      "cuisine": null,
-     "type": "restaurant"
+     "type": "bar"
     },
-    "source_url": "https://www.neoscapesmaldives.com/resort/nika-island-resort/",
-    "as_of": "2026-10-04"
+    "source_url": "https://maldives.ru/doc/airport-new-counters-map-2023-1.pdf",
+    "as_of": 2023
    },
    {
     "value": {
-     "name": "Dining",
+     "name": "Lounge",
      "cuisine": null,
-     "type": "restaurant"
+     "type": "bar"
     },
-    "source_url": "https://www.neoscapesmaldives.com/resort/nika-island-resort/",
-    "as_of": "2026-10-04"
+    "source_url": "https://maldives.ru/doc/airport-new-counters-map-2023-1.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": {
+     "name": "Lounge",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://maldives.ru/doc/airport-new-counters-map-2023-1.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": {
+     "name": "Arrival Lounge",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://maldives.ru/doc/airport-new-counters-map-2023-1.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": {
+     "name": "No Hotel Name Arr Lounge",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://maldives.ru/doc/airport-new-counters-map-2023-1.pdf",
+    "as_of": 2023
    },
    {
     "value": {
@@ -259,15 +385,6 @@
     },
     "source_url": "https://www.neoscapesmaldives.com/resort/nika-island-resort/",
     "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Dining Experience",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/nika-island-resort/",
-    "as_of": "2026-10-04"
    }
   ],
   "spa.name": [
@@ -278,7 +395,17 @@
    },
    {
     "value": "Spa",
+    "source_url": "https://maldives.ru/doc/airport-new-counters-map-2023-1.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": "Spa",
     "source_url": "https://www.neoscapesmaldives.com/resort/nika-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.mymaldives.com/resort-guide/nika-island-resort/",
     "as_of": "2026-10-04"
    }
   ],
@@ -321,6 +448,36 @@
    {
     "value": "manta",
     "source_url": "https://www.neoscapesmaldives.com/resort/nika-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.mymaldives.com/resort-guide/nika-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://www.mymaldives.com/resort-guide/nika-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "windsurfing",
+    "source_url": "https://www.mymaldives.com/resort-guide/nika-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "water skiing",
+    "source_url": "https://www.mymaldives.com/resort-guide/nika-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.mymaldives.com/resort-guide/nika-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "canoe",
+    "source_url": "https://www.mymaldives.com/resort-guide/nika-island-resort/",
     "as_of": "2026-10-04"
    }
   ],
@@ -374,6 +531,16 @@
     "value": "private dinner",
     "source_url": "https://www.neoscapesmaldives.com/resort/nika-island-resort/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "island hopping",
+    "source_url": "https://www.mymaldives.com/resort-guide/nika-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "big game fishing",
+    "source_url": "https://www.mymaldives.com/resort-guide/nika-island-resort/",
+    "as_of": "2026-10-04"
    }
   ],
   "wellness_fitness": [
@@ -406,6 +573,31 @@
     "value": "ayurveda",
     "source_url": "https://www.neoscapesmaldives.com/resort/nika-island-resort/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "gym",
+    "source_url": "https://www.mymaldives.com/resort-guide/nika-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fitness center",
+    "source_url": "https://www.mymaldives.com/resort-guide/nika-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://www.mymaldives.com/resort-guide/nika-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "badminton",
+    "source_url": "https://www.mymaldives.com/resort-guide/nika-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sauna",
+    "source_url": "https://www.mymaldives.com/resort-guide/nika-island-resort/",
+    "as_of": "2026-10-04"
    }
   ],
   "weddings.offered": [
@@ -420,25 +612,114 @@
     "as_of": "2026-10-04"
    }
   ],
-  "transfer.minutes.seaplane": [
-   {
-    "value": 25,
-    "source_url": "https://www.neoscapesmaldives.com/resort/nika-island-resort/",
-    "as_of": "2026-10-04"
-   }
-  ],
   "villas.categories": [
    {
     "value": {
-     "name": "Number of Villas",
-     "count": 46,
+     "name": "Embudu Village A",
+     "count": 22,
      "size_sqm": null,
      "max_occupancy": null,
      "pool": null,
      "overwater": null
     },
-    "source_url": "https://www.neoscapesmaldives.com/resort/nika-island-resort/",
-    "as_of": "2026-10-04"
+    "source_url": "https://maldives.ru/doc/airport-new-counters-map-2023-1.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": {
+     "name": "Equator Village A",
+     "count": 23,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://maldives.ru/doc/airport-new-counters-map-2023-1.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": {
+     "name": "Mookai Suites A",
+     "count": 26,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://maldives.ru/doc/airport-new-counters-map-2023-1.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": {
+     "name": "Lu South Ari Atoll Resort & Villas A",
+     "count": 31,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://maldives.ru/doc/airport-new-counters-map-2023-1.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": {
+     "name": "Amilla Maldives Resort & Residences D",
+     "count": 120,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://maldives.ru/doc/airport-new-counters-map-2023-1.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": {
+     "name": "Residence Maldives D",
+     "count": 122,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://maldives.ru/doc/airport-new-counters-map-2023-1.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": {
+     "name": "The Residence Maldives at Dhigurah D",
+     "count": 123,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://maldives.ru/doc/airport-new-counters-map-2023-1.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": {
+     "name": "TME Retreats Dhigurah E",
+     "count": 131,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://maldives.ru/doc/airport-new-counters-map-2023-1.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": {
+     "name": "Villa Nautica E . Paradise Island Resort E",
+     "count": 143,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://maldives.ru/doc/airport-new-counters-map-2023-1.pdf",
+    "as_of": 2023
    },
    {
     "value": {
@@ -537,6 +818,18 @@
     "as_of": "2026-10-04"
    }
   ],
+  "transfer.minutes.seaplane": [
+   {
+    "value": 25,
+    "source_url": "https://www.neoscapesmaldives.com/resort/nika-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 25,
+    "source_url": "https://www.mymaldives.com/resort-guide/nika-island-resort/",
+    "as_of": "2026-10-04"
+   }
+  ],
   "meal_plans": [
    {
     "value": "HB",
@@ -552,12 +845,32 @@
     "value": "AI",
     "source_url": "https://www.neoscapesmaldives.com/resort/nika-island-resort/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "HB",
+    "source_url": "https://www.mymaldives.com/resort-guide/nika-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "FB",
+    "source_url": "https://www.mymaldives.com/resort-guide/nika-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://www.mymaldives.com/resort-guide/nika-island-resort/",
+    "as_of": "2026-10-04"
    }
   ],
   "all_inclusive_details": [
    {
     "value": "all-inclusive packages, with a buffet menu alternating with the à la carte menu.",
     "source_url": "https://www.neoscapesmaldives.com/resort/nika-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "all-inclusive option for your convenience.",
+    "source_url": "https://www.mymaldives.com/resort-guide/nika-island-resort/",
     "as_of": "2026-10-04"
    }
   ],
@@ -595,7 +908,14 @@
     "source_url": "https://www.neoscapesmaldives.com/resort/nika-island-resort/",
     "as_of": "2026-10-04"
    }
+  ],
+  "diving_watersports.house_reef": [
+   {
+    "value": "house reef, where you’ll encounter vibrant marine life",
+    "source_url": "https://www.mymaldives.com/resort-guide/nika-island-resort/",
+    "as_of": "2026-10-04"
+   }
   ]
  },
- "last_updated": "2026-10-04"
+ "last_updated": "2026-10-05"
 }

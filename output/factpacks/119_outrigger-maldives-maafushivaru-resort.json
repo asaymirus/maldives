@@ -7,12 +7,12 @@
   "Maafushivaru",
   "Lti Maafushivaru"
  ],
- "official_url": null,
- "official_site_status": null,
+ "official_url": "https://www.outrigger.com/hotels-resorts/maldives/outrigger-maldives-maafushivaru-resort",
+ "official_site_status": "blocked",
  "operator_brand": "VARU",
  "atoll": "Ari Atoll",
  "island": null,
- "opened_or_renovated": null,
+ "opened_or_renovated": "opened 2010",
  "star_rating": null,
  "transfer": {
   "modes": [
@@ -72,17 +72,7 @@
    "type": "bar"
   },
   {
-   "name": "Dining",
-   "cuisine": null,
-   "type": "restaurant"
-  },
-  {
    "name": "Moodhu Grill",
-   "cuisine": null,
-   "type": "restaurant"
-  },
-  {
-   "name": "Destination Dining",
    "cuisine": null,
    "type": "restaurant"
   }
@@ -90,7 +80,7 @@
  "meal_plans": [],
  "all_inclusive_details": null,
  "spa": {
-  "name": "Océane Spa",
+  "name": "Spa",
   "treatment_rooms": null,
   "signature_treatments": [],
   "menu_doc": null
@@ -103,7 +93,15 @@
    "snorkeling",
    "wakeboarding",
    "fishing",
-   "manta"
+   "manta",
+   "paddleboard",
+   "whale shark",
+   "scuba diving",
+   "windsurfing",
+   "catamaran",
+   "water skiing",
+   "sailing",
+   "canoe"
   ],
   "price_list_doc": null
  },
@@ -111,7 +109,8 @@
   "big game fishing",
   "manta",
   "turtle",
-  "snorkel safari"
+  "snorkel safari",
+  "whale shark"
  ],
  "kids_family": {
   "kids_club": null,
@@ -121,7 +120,8 @@
  "wellness_fitness": [
   "yoga",
   "gym",
-  "fitness center"
+  "fitness center",
+  "sauna"
  ],
  "weddings": {
   "offered": true,
@@ -193,34 +193,7 @@
    },
    {
     "value": {
-     "name": "Dining",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/maafushivaru-maldives/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Dining",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/maafushivaru-maldives/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
      "name": "Moodhu Grill",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/maafushivaru-maldives/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Destination Dining",
      "cuisine": null,
      "type": "restaurant"
     },
@@ -233,6 +206,11 @@
     "value": "Océane Spa",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Lti-Maafushivaru-Map.pdf",
     "as_of": 2020
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.mymaldives.com/resort-guide/maafushivaru/",
+    "as_of": "2026-10-04"
    }
   ],
   "diving_watersports.activities": [
@@ -265,12 +243,72 @@
     "value": "manta",
     "source_url": "https://www.neoscapesmaldives.com/resort/maafushivaru-maldives/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "paddleboard",
+    "source_url": "https://letsgomaldives.com/news/testing-the-new-stand-up-paddleboards-in-maafushivaru/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://letsgomaldives.com/news/outrigger-maldives-maafushivaru-resort-pioneering-conservation-through-tourism/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://letsgomaldives.com/news/outrigger-maldives-maafushivaru-resort-pioneering-conservation-through-tourism/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://www.mymaldives.com/resort-guide/maafushivaru/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "windsurfing",
+    "source_url": "https://www.mymaldives.com/resort-guide/maafushivaru/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "catamaran",
+    "source_url": "https://www.mymaldives.com/resort-guide/maafushivaru/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "water skiing",
+    "source_url": "https://www.mymaldives.com/resort-guide/maafushivaru/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.mymaldives.com/resort-guide/maafushivaru/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sailing",
+    "source_url": "https://www.mymaldives.com/resort-guide/maafushivaru/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "canoe",
+    "source_url": "https://www.mymaldives.com/resort-guide/maafushivaru/",
+    "as_of": "2026-10-04"
    }
   ],
   "atoll": [
    {
     "value": "Ari Atoll",
     "source_url": "https://www.neoscapesmaldives.com/resort/maafushivaru-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Ari Atoll",
+    "source_url": "https://letsgomaldives.com/news/outrigger-maldives-maafushivaru-resort-pioneering-conservation-through-tourism/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Alifu Dhaalu Atoll",
+    "source_url": "https://www.mymaldives.com/resort-guide/maafushivaru/",
     "as_of": "2026-10-04"
    }
   ],
@@ -279,12 +317,22 @@
     "value": "seaplane",
     "source_url": "https://www.neoscapesmaldives.com/resort/maafushivaru-maldives/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.mymaldives.com/resort-guide/maafushivaru/",
+    "as_of": "2026-10-04"
    }
   ],
   "transfer.minutes.seaplane": [
    {
     "value": 25,
     "source_url": "https://www.neoscapesmaldives.com/resort/maafushivaru-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 25,
+    "source_url": "https://www.mymaldives.com/resort-guide/maafushivaru/",
     "as_of": "2026-10-04"
    }
   ],
@@ -297,6 +345,11 @@
    {
     "value": 81,
     "source_url": "https://www.neoscapesmaldives.com/resort/maafushivaru-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 49,
+    "source_url": "https://www.mymaldives.com/resort-guide/maafushivaru/",
     "as_of": "2026-10-04"
    }
   ],
@@ -449,6 +502,26 @@
     "value": "snorkel safari",
     "source_url": "https://www.neoscapesmaldives.com/resort/maafushivaru-maldives/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://letsgomaldives.com/news/outrigger-maldives-maafushivaru-resort-pioneering-conservation-through-tourism/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://letsgomaldives.com/news/outrigger-maldives-maafushivaru-resort-pioneering-conservation-through-tourism/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://letsgomaldives.com/news/outrigger-maldives-maafushivaru-resort-pioneering-conservation-through-tourism/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "big game fishing",
+    "source_url": "https://www.mymaldives.com/resort-guide/maafushivaru/",
+    "as_of": "2026-10-04"
    }
   ],
   "wellness_fitness": [
@@ -465,6 +538,11 @@
    {
     "value": "fitness center",
     "source_url": "https://www.neoscapesmaldives.com/resort/maafushivaru-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sauna",
+    "source_url": "https://www.mymaldives.com/resort-guide/maafushivaru/",
     "as_of": "2026-10-04"
    }
   ],
@@ -487,6 +565,11 @@
     "value": "marine biologist",
     "source_url": "https://www.neoscapesmaldives.com/resort/maafushivaru-maldives/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "marine biologist",
+    "source_url": "https://letsgomaldives.com/news/outrigger-maldives-maafushivaru-resort-pioneering-conservation-through-tourism/",
+    "as_of": "2026-10-04"
    }
   ],
   "contacts_public.reservations_email": [
@@ -502,7 +585,19 @@
     "source_url": "https://www.neoscapesmaldives.com/resort/maafushivaru-maldives/",
     "as_of": "2026-10-04"
    }
+  ],
+  "opened_or_renovated": [
+   {
+    "value": "opened 2010",
+    "source_url": "https://www.mymaldives.com/resort-guide/maafushivaru/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "renovated 2010",
+    "source_url": "https://www.mymaldives.com/resort-guide/maafushivaru/",
+    "as_of": "2026-10-04"
+   }
   ]
  },
- "last_updated": "2026-10-04"
+ "last_updated": "2026-10-05"
 }

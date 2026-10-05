@@ -1,32 +1,36 @@
 # 84. Alimatha Aquatic Resort
 
-**Official site:** n/a (None)  
+**Official site:** https://www.alimatha.com/ (blocked-partial)  
 **Brand:** n/a  
-**Atoll:** n/a  **Island:** n/a  
+**Atoll:** Vaavu Atoll  **Island:** n/a  
 **Opened/renovated:** n/a  **Rating:** n/a  
-**Transfer:** n/a; minutes: {}  
+**Transfer:** yacht, seaplane, speedboat; minutes: {"seaplane": 90, "speedboat": 90}  
 **Island size:** n/a  
 
-## Villas (? total)
+## Villas (130 total)
 
 
 ## Dining
 
+- – Mini Bar (bar)
 
-Meal plans: n/a
+Meal plans: AI
+All-inclusive: all-inclusive.
 
 ## Spa & wellness
 
-- Spa: n/a; treatment rooms: ?; menu: none
-- Wellness/fitness: n/a
+- Spa: TV
+Resort Facilities
+Spa; treatment rooms: ?; menu: none
+- Wellness/fitness: badminton
 
 ## Diving, water sports & excursions
 
 - Operator: n/a
 - House reef: n/a
-- Activities: n/a
+- Activities: snorkeling, snorkelling, scuba diving, windsurfing, catamaran, fishing, sailing, canoe
 - Price list: none
-- Excursions: n/a
+- Excursions: big game fishing
 
 ## Kids & family
 
@@ -68,16 +72,10 @@ Meal plans: n/a
 - factsheet
 - wedding brochure
 - events/MICE document
-- fact: villas.total
 - fact: villa categories
-- fact: dining
-- fact: transfer
-- fact: atoll
-- fact: spa
 - fact: dive operator
 - fact: kids club
 - fact: weddings
 - fact: contacts
-- no documents or pages collected
 
-_Facts extracted by rules from 0 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-04._
+_Facts extracted by rules from 12 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

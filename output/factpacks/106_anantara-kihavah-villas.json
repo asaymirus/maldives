@@ -6,8 +6,8 @@
   "Anantara Kihavah",
   "Kihavah"
  ],
- "official_url": null,
- "official_site_status": null,
+ "official_url": "https://www.anantara.com/en/kihavah-maldives",
+ "official_site_status": "blocked-partial",
  "operator_brand": "Anantara",
  "atoll": "Baa Atoll",
  "island": null,
@@ -16,7 +16,8 @@
  "transfer": {
   "modes": [
    "seaplane",
-   "yacht"
+   "yacht",
+   "domestic flight"
   ],
   "minutes": {
    "seaplane": 35,
@@ -27,7 +28,7 @@
  },
  "island_size": "560 m x 270 m",
  "villas": {
-  "total": 80,
+  "total": 89,
   "categories": [
    {
     "name": "FOUR BEDROOM BEACH RESIDENCE",
@@ -44,42 +45,14 @@
     "max_occupancy": null,
     "pool": null,
     "overwater": null
-   },
-   {
-    "name": "Total Number of Villas",
-    "count": 80,
-    "size_sqm": null,
-    "max_occupancy": null,
-    "pool": null,
-    "overwater": null
    }
   ]
  },
  "dining": [
   {
-   "name": "Seaplane Lounge stocked with complimentary drinks and light",
+   "name": "SKY Bar",
    "cuisine": null,
    "type": "bar"
-  },
-  {
-   "name": "1 Plates Restaurant",
-   "cuisine": null,
-   "type": "restaurant"
-  },
-  {
-   "name": "2 Manzaru Restaurant and Swimming Pool",
-   "cuisine": null,
-   "type": "restaurant"
-  },
-  {
-   "name": "Dining",
-   "cuisine": null,
-   "type": "restaurant"
-  },
-  {
-   "name": "Designer Dining by Anantara",
-   "cuisine": null,
-   "type": "restaurant"
   },
   {
    "name": "Airport Lounge in Malé",
@@ -92,8 +65,10 @@
    "type": "restaurant"
   }
  ],
- "meal_plans": [],
- "all_inclusive_details": null,
+ "meal_plans": [
+  "AI"
+ ],
+ "all_inclusive_details": "all-inclusive, five-star resort situated on a secluded island in the Baa Atoll, just a 30-minute seaplane journey from Malé International Airport.",
  "spa": {
   "name": "Facilities\nAnantara Spa",
   "treatment_rooms": null,
@@ -102,7 +77,7 @@
  },
  "diving_watersports": {
   "operator": null,
-  "house_reef": "house reef",
+  "house_reef": "House reef",
   "activities": [
    "snorkelling",
    "scuba diving",
@@ -117,7 +92,11 @@
    "flyboard",
    "glass-bottom",
    "canoe",
-   "snorkeling"
+   "snorkeling",
+   "paddleboard",
+   "catamaran",
+   "parasailing",
+   "water skiing"
   ],
   "price_list_doc": null
  },
@@ -129,12 +108,15 @@
   "manta",
   "turtle",
   "stargazing",
-  "cinema"
+  "cinema",
+  "dolphin",
+  "sunset fishing",
+  "picnic"
  ],
  "kids_family": {
   "kids_club": "Kids Club",
   "age_range": null,
-  "teens": null
+  "teens": "teens programme mentioned"
  },
  "wellness_fitness": [
   "yoga",
@@ -145,7 +127,9 @@
   "ayurveda",
   "sauna",
   "steam",
-  "padel"
+  "padel",
+  "meditation",
+  "fitness center"
  ],
  "weddings": {
   "offered": true,
@@ -162,12 +146,17 @@
  },
  "sustainability": [
   "marine biologist",
-  "organic garden"
+  "organic garden",
+  "solar",
+  "single-use plastic",
+  "composting",
+  "manta trust",
+  "Olive Ridley Project"
  ],
  "contacts_public": {
   "reservations_email": "info@neoscapesmaldives.com",
   "weddings_email": null,
-  "phone": "+960 736 5425"
+  "phone": "+960 660 1020"
  },
  "documents_latest": {
   "factsheet": "https://www.neoscapesmaldives.com/wp-content/uploads/Anantara_Kihavah_Maldives_Villas_Factsheet_Resort.pdf",
@@ -190,11 +179,26 @@
    {
     "value": "Baa Atoll",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Anantara_Kihavah_Maldives_Villas_Factsheet_Resort.pdf",
-    "as_of": 2021
+    "as_of": 2022
+   },
+   {
+    "value": "Baa Atoll",
+    "source_url": "https://www.anantara.com/en/kihavah-maldives",
+    "as_of": "2026-10-04"
    },
    {
     "value": "Baa Atoll",
     "source_url": "https://www.neoscapesmaldives.com/resort/anantara-kihavah-villas/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Baa Atoll",
+    "source_url": "https://www.mymaldives.com/resort-guide/anantara-kihavah-villas/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Baa Atoll",
+    "source_url": "https://malediven.de/malediven-hotels/anantara-kihavah-maldives-villas/",
     "as_of": "2026-10-04"
    }
   ],
@@ -202,23 +206,38 @@
    {
     "value": "renovated 2021",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Anantara_Kihavah_Maldives_Villas_Factsheet_Resort.pdf",
-    "as_of": 2021
+    "as_of": 2022
    }
   ],
   "transfer.modes": [
    {
     "value": "seaplane",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Anantara_Kihavah_Maldives_Villas_Factsheet_Resort.pdf",
-    "as_of": 2021
+    "as_of": 2022
    },
    {
     "value": "yacht",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Anantara_Kihavah_Maldives_Villas_Factsheet_Resort.pdf",
-    "as_of": 2021
+    "as_of": 2022
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.anantara.com/en/kihavah-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "domestic flight",
+    "source_url": "https://www.anantara.com/en/kihavah-maldives",
+    "as_of": "2026-10-04"
    },
    {
     "value": "seaplane",
     "source_url": "https://www.neoscapesmaldives.com/resort/anantara-kihavah-villas/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.mymaldives.com/resort-guide/anantara-kihavah-villas/",
     "as_of": "2026-10-04"
    }
   ],
@@ -226,11 +245,21 @@
    {
     "value": 35,
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Anantara_Kihavah_Maldives_Villas_Factsheet_Resort.pdf",
-    "as_of": 2021
+    "as_of": 2022
+   },
+   {
+    "value": 35,
+    "source_url": "https://www.anantara.com/en/kihavah-maldives",
+    "as_of": "2026-10-04"
    },
    {
     "value": 35,
     "source_url": "https://www.neoscapesmaldives.com/resort/anantara-kihavah-villas/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 30,
+    "source_url": "https://www.mymaldives.com/resort-guide/anantara-kihavah-villas/",
     "as_of": "2026-10-04"
    }
   ],
@@ -238,7 +267,12 @@
    {
     "value": 80,
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Anantara_Kihavah_Maldives_Villas_Factsheet_Resort.pdf",
-    "as_of": 2021
+    "as_of": 2022
+   },
+   {
+    "value": 89,
+    "source_url": "https://www.mymaldives.com/resort-guide/anantara-kihavah-villas/",
+    "as_of": "2026-10-04"
    }
   ],
   "villas.categories": [
@@ -252,7 +286,7 @@
      "overwater": null
     },
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Anantara_Kihavah_Maldives_Villas_Factsheet_Resort.pdf",
-    "as_of": 2021
+    "as_of": 2022
    },
    {
     "value": {
@@ -264,100 +298,14 @@
      "overwater": null
     },
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Anantara_Kihavah_Maldives_Villas_Factsheet_Resort.pdf",
-    "as_of": 2021
-   },
-   {
-    "value": {
-     "name": "Total Number of Villas",
-     "count": 80,
-     "size_sqm": null,
-     "max_occupancy": null,
-     "pool": null,
-     "overwater": null
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/anantara-kihavah-villas/",
-    "as_of": "2026-10-04"
-   }
-  ],
-  "dining": [
-   {
-    "value": {
-     "name": "Seaplane Lounge stocked with complimentary drinks and light",
-     "cuisine": null,
-     "type": "bar"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Anantara_Kihavah_Maldives_Villas_Factsheet_Resort.pdf",
-    "as_of": 2021
-   },
-   {
-    "value": {
-     "name": "1 Plates Restaurant",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Anantara_Kihavah_Maldives_Villas_Resort_Map.pdf",
     "as_of": 2022
-   },
-   {
-    "value": {
-     "name": "2 Manzaru Restaurant and Swimming Pool",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Anantara_Kihavah_Maldives_Villas_Resort_Map.pdf",
-    "as_of": 2022
-   },
-   {
-    "value": {
-     "name": "Dining",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/anantara-kihavah-villas/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Dining",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/anantara-kihavah-villas/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Designer Dining by Anantara",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/anantara-kihavah-villas/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Airport Lounge in Malé",
-     "cuisine": null,
-     "type": "bar"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/anantara-kihavah-villas/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "SEA Underwater Restaurant",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/anantara-kihavah-villas/",
-    "as_of": "2026-10-04"
    }
   ],
   "spa.name": [
    {
     "value": "Anantara Spa",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Anantara_Kihavah_Maldives_Villas_Factsheet_Resort.pdf",
-    "as_of": 2021
+    "as_of": 2022
    },
    {
     "value": "Anantara Spa",
@@ -368,13 +316,28 @@
     "value": "Facilities\nAnantara Spa",
     "source_url": "https://www.neoscapesmaldives.com/resort/anantara-kihavah-villas/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "Anantara Spa",
+    "source_url": "https://www.mymaldives.com/resort-guide/anantara-kihavah-villas/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://malediven.de/malediven-hotels/anantara-kihavah-maldives-villas/",
+    "as_of": "2026-10-04"
    }
   ],
   "diving_watersports.house_reef": [
    {
     "value": "HOUSE REEF AND GOLDEN WALL",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Anantara_Kihavah_Maldives_Villas_Factsheet_Resort.pdf",
-    "as_of": 2021
+    "as_of": 2022
+   },
+   {
+    "value": "House reef",
+    "source_url": "https://www.anantara.com/en/kihavah-maldives",
+    "as_of": "2026-10-04"
    },
    {
     "value": "house reef",
@@ -386,72 +349,92 @@
    {
     "value": "snorkelling",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Anantara_Kihavah_Maldives_Villas_Factsheet_Resort.pdf",
-    "as_of": 2021
+    "as_of": 2022
    },
    {
     "value": "scuba diving",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Anantara_Kihavah_Maldives_Villas_Factsheet_Resort.pdf",
-    "as_of": 2021
+    "as_of": 2022
    },
    {
     "value": "windsurfing",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Anantara_Kihavah_Maldives_Villas_Factsheet_Resort.pdf",
-    "as_of": 2021
+    "as_of": 2022
    },
    {
     "value": "kayaking",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Anantara_Kihavah_Maldives_Villas_Factsheet_Resort.pdf",
-    "as_of": 2021
+    "as_of": 2022
    },
    {
     "value": "stand-up paddle",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Anantara_Kihavah_Maldives_Villas_Factsheet_Resort.pdf",
-    "as_of": 2021
+    "as_of": 2022
    },
    {
     "value": "fishing",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Anantara_Kihavah_Maldives_Villas_Factsheet_Resort.pdf",
-    "as_of": 2021
+    "as_of": 2022
    },
    {
     "value": "sunset cruise",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Anantara_Kihavah_Maldives_Villas_Factsheet_Resort.pdf",
-    "as_of": 2021
+    "as_of": 2022
    },
    {
     "value": "whale shark",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Anantara_Kihavah_Maldives_Villas_Factsheet_Resort.pdf",
-    "as_of": 2021
+    "as_of": 2022
    },
    {
     "value": "manta",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Anantara_Kihavah_Maldives_Villas_Factsheet_Resort.pdf",
-    "as_of": 2021
+    "as_of": 2022
    },
    {
     "value": "sailing",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Anantara_Kihavah_Maldives_Villas_Factsheet_Resort.pdf",
-    "as_of": 2021
+    "as_of": 2022
    },
    {
     "value": "flyboard",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Anantara_Kihavah_Maldives_Villas_Factsheet_Resort.pdf",
-    "as_of": 2021
+    "as_of": 2022
    },
    {
     "value": "glass-bottom",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Anantara_Kihavah_Maldives_Villas_Factsheet_Resort.pdf",
-    "as_of": 2021
+    "as_of": 2022
    },
    {
     "value": "canoe",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Anantara_Kihavah_Maldives_Villas_Factsheet_Resort.pdf",
-    "as_of": 2021
+    "as_of": 2022
    },
    {
     "value": "snorkelling",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Anantara_Kihavah_Maldives_Villas_Resort_Map.pdf",
     "as_of": 2022
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.anantara.com/en/kihavah-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.anantara.com/en/kihavah-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.anantara.com/en/kihavah-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.anantara.com/en/kihavah-maldives",
+    "as_of": "2026-10-04"
    },
    {
     "value": "snorkeling",
@@ -472,48 +455,118 @@
     "value": "glass-bottom",
     "source_url": "https://www.neoscapesmaldives.com/resort/anantara-kihavah-villas/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.mymaldives.com/resort-guide/anantara-kihavah-villas/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://www.mymaldives.com/resort-guide/anantara-kihavah-villas/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "windsurfing",
+    "source_url": "https://www.mymaldives.com/resort-guide/anantara-kihavah-villas/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "kayaking",
+    "source_url": "https://www.mymaldives.com/resort-guide/anantara-kihavah-villas/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "stand-up paddle",
+    "source_url": "https://www.mymaldives.com/resort-guide/anantara-kihavah-villas/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "paddleboard",
+    "source_url": "https://www.mymaldives.com/resort-guide/anantara-kihavah-villas/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "catamaran",
+    "source_url": "https://www.mymaldives.com/resort-guide/anantara-kihavah-villas/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "parasailing",
+    "source_url": "https://www.mymaldives.com/resort-guide/anantara-kihavah-villas/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "water skiing",
+    "source_url": "https://www.mymaldives.com/resort-guide/anantara-kihavah-villas/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.mymaldives.com/resort-guide/anantara-kihavah-villas/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.mymaldives.com/resort-guide/anantara-kihavah-villas/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sailing",
+    "source_url": "https://www.mymaldives.com/resort-guide/anantara-kihavah-villas/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "canoe",
+    "source_url": "https://www.mymaldives.com/resort-guide/anantara-kihavah-villas/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://malediven.de/malediven-hotels/anantara-kihavah-maldives-villas/",
+    "as_of": "2026-10-04"
    }
   ],
   "excursions": [
    {
     "value": "local island",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Anantara_Kihavah_Maldives_Villas_Factsheet_Resort.pdf",
-    "as_of": 2021
+    "as_of": 2022
    },
    {
     "value": "sandbank",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Anantara_Kihavah_Maldives_Villas_Factsheet_Resort.pdf",
-    "as_of": 2021
+    "as_of": 2022
    },
    {
     "value": "big game fishing",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Anantara_Kihavah_Maldives_Villas_Factsheet_Resort.pdf",
-    "as_of": 2021
+    "as_of": 2022
    },
    {
     "value": "whale shark",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Anantara_Kihavah_Maldives_Villas_Factsheet_Resort.pdf",
-    "as_of": 2021
+    "as_of": 2022
    },
    {
     "value": "manta",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Anantara_Kihavah_Maldives_Villas_Factsheet_Resort.pdf",
-    "as_of": 2021
+    "as_of": 2022
    },
    {
     "value": "turtle",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Anantara_Kihavah_Maldives_Villas_Factsheet_Resort.pdf",
-    "as_of": 2021
+    "as_of": 2022
    },
    {
     "value": "stargazing",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Anantara_Kihavah_Maldives_Villas_Factsheet_Resort.pdf",
-    "as_of": 2021
+    "as_of": 2022
    },
    {
     "value": "cinema",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Anantara_Kihavah_Maldives_Villas_Factsheet_Resort.pdf",
-    "as_of": 2021
+    "as_of": 2022
    },
    {
     "value": "cinema",
@@ -521,6 +574,36 @@
     "as_of": 2022
    },
    {
+    "value": "dolphin",
+    "source_url": "https://www.anantara.com/en/kihavah-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.anantara.com/en/kihavah-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.anantara.com/en/kihavah-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.anantara.com/en/kihavah-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "stargazing",
+    "source_url": "https://www.anantara.com/en/kihavah-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "cinema",
+    "source_url": "https://www.anantara.com/en/kihavah-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
     "value": "sandbank",
     "source_url": "https://www.neoscapesmaldives.com/resort/anantara-kihavah-villas/",
     "as_of": "2026-10-04"
@@ -548,6 +631,56 @@
    {
     "value": "cinema",
     "source_url": "https://www.neoscapesmaldives.com/resort/anantara-kihavah-villas/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "local island",
+    "source_url": "https://www.mymaldives.com/resort-guide/anantara-kihavah-villas/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.mymaldives.com/resort-guide/anantara-kihavah-villas/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.mymaldives.com/resort-guide/anantara-kihavah-villas/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset fishing",
+    "source_url": "https://www.mymaldives.com/resort-guide/anantara-kihavah-villas/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "big game fishing",
+    "source_url": "https://www.mymaldives.com/resort-guide/anantara-kihavah-villas/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.mymaldives.com/resort-guide/anantara-kihavah-villas/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.mymaldives.com/resort-guide/anantara-kihavah-villas/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "picnic",
+    "source_url": "https://www.mymaldives.com/resort-guide/anantara-kihavah-villas/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "stargazing",
+    "source_url": "https://www.mymaldives.com/resort-guide/anantara-kihavah-villas/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://malediven.de/malediven-hotels/anantara-kihavah-maldives-villas/",
     "as_of": "2026-10-04"
    }
   ],
@@ -555,47 +688,67 @@
    {
     "value": "yoga",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Anantara_Kihavah_Maldives_Villas_Factsheet_Resort.pdf",
-    "as_of": 2021
+    "as_of": 2022
    },
    {
     "value": "gym",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Anantara_Kihavah_Maldives_Villas_Factsheet_Resort.pdf",
-    "as_of": 2021
+    "as_of": 2022
    },
    {
     "value": "fitness centre",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Anantara_Kihavah_Maldives_Villas_Factsheet_Resort.pdf",
-    "as_of": 2021
+    "as_of": 2022
    },
    {
     "value": "tennis",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Anantara_Kihavah_Maldives_Villas_Factsheet_Resort.pdf",
-    "as_of": 2021
+    "as_of": 2022
    },
    {
     "value": "badminton",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Anantara_Kihavah_Maldives_Villas_Factsheet_Resort.pdf",
-    "as_of": 2021
+    "as_of": 2022
    },
    {
     "value": "ayurveda",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Anantara_Kihavah_Maldives_Villas_Factsheet_Resort.pdf",
-    "as_of": 2021
+    "as_of": 2022
    },
    {
     "value": "sauna",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Anantara_Kihavah_Maldives_Villas_Factsheet_Resort.pdf",
-    "as_of": 2021
+    "as_of": 2022
    },
    {
     "value": "steam",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Anantara_Kihavah_Maldives_Villas_Factsheet_Resort.pdf",
-    "as_of": 2021
+    "as_of": 2022
    },
    {
     "value": "tennis",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Anantara_Kihavah_Maldives_Villas_Resort_Map.pdf",
     "as_of": 2022
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.anantara.com/en/kihavah-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fitness centre",
+    "source_url": "https://www.anantara.com/en/kihavah-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://www.anantara.com/en/kihavah-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "padel",
+    "source_url": "https://www.anantara.com/en/kihavah-maldives",
+    "as_of": "2026-10-04"
    },
    {
     "value": "yoga",
@@ -626,18 +779,63 @@
     "value": "sauna",
     "source_url": "https://www.neoscapesmaldives.com/resort/anantara-kihavah-villas/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.mymaldives.com/resort-guide/anantara-kihavah-villas/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "meditation",
+    "source_url": "https://www.mymaldives.com/resort-guide/anantara-kihavah-villas/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fitness center",
+    "source_url": "https://www.mymaldives.com/resort-guide/anantara-kihavah-villas/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://www.mymaldives.com/resort-guide/anantara-kihavah-villas/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "badminton",
+    "source_url": "https://www.mymaldives.com/resort-guide/anantara-kihavah-villas/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "ayurveda",
+    "source_url": "https://www.mymaldives.com/resort-guide/anantara-kihavah-villas/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sauna",
+    "source_url": "https://www.mymaldives.com/resort-guide/anantara-kihavah-villas/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://malediven.de/malediven-hotels/anantara-kihavah-maldives-villas/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://malediven.de/malediven-hotels/anantara-kihavah-maldives-villas/",
+    "as_of": "2026-10-04"
    }
   ],
   "sustainability": [
    {
     "value": "marine biologist",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Anantara_Kihavah_Maldives_Villas_Factsheet_Resort.pdf",
-    "as_of": 2021
+    "as_of": 2022
    },
    {
     "value": "organic garden",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Anantara_Kihavah_Maldives_Villas_Factsheet_Resort.pdf",
-    "as_of": 2021
+    "as_of": 2022
    },
    {
     "value": "organic garden",
@@ -648,13 +846,43 @@
     "value": "marine biologist",
     "source_url": "https://www.neoscapesmaldives.com/resort/anantara-kihavah-villas/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "marine biologist",
+    "source_url": "https://www.mymaldives.com/resort-guide/anantara-kihavah-villas/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "solar",
+    "source_url": "https://www.mymaldives.com/resort-guide/anantara-kihavah-villas/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "single-use plastic",
+    "source_url": "https://www.mymaldives.com/resort-guide/anantara-kihavah-villas/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "composting",
+    "source_url": "https://www.mymaldives.com/resort-guide/anantara-kihavah-villas/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta trust",
+    "source_url": "https://www.mymaldives.com/resort-guide/anantara-kihavah-villas/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Olive Ridley Project",
+    "source_url": "https://www.mymaldives.com/resort-guide/anantara-kihavah-villas/",
+    "as_of": "2026-10-04"
    }
   ],
   "contacts_public.reservations_email": [
    {
     "value": "reservations.maldives@anantara.com",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Anantara_Kihavah_Maldives_Villas_Factsheet_Resort.pdf",
-    "as_of": 2021
+    "as_of": 2022
    },
    {
     "value": "info@neoscapesmaldives.com",
@@ -666,10 +894,44 @@
    {
     "value": "+960 660 1020",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Anantara_Kihavah_Maldives_Villas_Factsheet_Resort.pdf",
-    "as_of": 2021
+    "as_of": 2022
+   },
+   {
+    "value": "+960 660 1020",
+    "source_url": "https://www.anantara.com/en/kihavah-maldives",
+    "as_of": "2026-10-04"
    },
    {
     "value": "+960 736 5425",
+    "source_url": "https://www.neoscapesmaldives.com/resort/anantara-kihavah-villas/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "dining": [
+   {
+    "value": {
+     "name": "SKY Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.anantara.com/en/kihavah-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Airport Lounge in Malé",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.neoscapesmaldives.com/resort/anantara-kihavah-villas/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "SEA Underwater Restaurant",
+     "cuisine": null,
+     "type": "restaurant"
+    },
     "source_url": "https://www.neoscapesmaldives.com/resort/anantara-kihavah-villas/",
     "as_of": "2026-10-04"
    }
@@ -686,6 +948,11 @@
     "value": "Kids Club",
     "source_url": "https://www.neoscapesmaldives.com/resort/anantara-kihavah-villas/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "Kids Club",
+    "source_url": "https://www.mymaldives.com/resort-guide/anantara-kihavah-villas/",
+    "as_of": "2026-10-04"
    }
   ],
   "weddings.offered": [
@@ -693,8 +960,34 @@
     "value": true,
     "source_url": "https://www.neoscapesmaldives.com/resort/anantara-kihavah-villas/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.mymaldives.com/resort-guide/anantara-kihavah-villas/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "meal_plans": [
+   {
+    "value": "AI",
+    "source_url": "https://www.mymaldives.com/resort-guide/anantara-kihavah-villas/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "all_inclusive_details": [
+   {
+    "value": "all-inclusive, five-star resort situated on a secluded island in the Baa Atoll, just a 30-minute seaplane journey from Malé International Airport.",
+    "source_url": "https://www.mymaldives.com/resort-guide/anantara-kihavah-villas/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "kids_family.teens": [
+   {
+    "value": "teens programme mentioned",
+    "source_url": "https://malediven.de/malediven-hotels/anantara-kihavah-maldives-villas/",
+    "as_of": "2026-10-04"
    }
   ]
  },
- "last_updated": "2026-10-04"
+ "last_updated": "2026-10-05"
 }

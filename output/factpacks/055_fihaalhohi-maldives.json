@@ -6,8 +6,8 @@
   "Fihalhohi",
   "Fihaalhohi"
  ],
- "official_url": null,
- "official_site_status": null,
+ "official_url": "https://fihalhohi.com/",
+ "official_site_status": "unreachable",
  "operator_brand": null,
  "atoll": null,
  "island": null,
@@ -28,7 +28,9 @@
   "categories": []
  },
  "dining": [],
- "meal_plans": [],
+ "meal_plans": [
+  "AI"
+ ],
  "all_inclusive_details": null,
  "spa": {
   "name": null,
@@ -39,10 +41,14 @@
  "diving_watersports": {
   "operator": null,
   "house_reef": null,
-  "activities": [],
+  "activities": [
+   "manta"
+  ],
   "price_list_doc": null
  },
- "excursions": [],
+ "excursions": [
+  "manta"
+ ],
  "kids_family": {
   "kids_club": null,
   "age_range": null,
@@ -92,9 +98,35 @@
   "fact: dive operator",
   "fact: kids club",
   "fact: weddings",
-  "fact: contacts",
-  "no documents or pages collected"
+  "fact: contacts"
  ],
- "sources": {},
- "last_updated": "2026-10-04"
+ "sources": {
+  "meal_plans": [
+   {
+    "value": "AI",
+    "source_url": "https://mondomaldive.it/it/villaggio/fihalhohi-island-resort/recensione/6319",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://mondomaldive.it/it/villaggio/fihalhohi-island-resort/recensione/6575",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "diving_watersports.activities": [
+   {
+    "value": "manta",
+    "source_url": "https://mondomaldive.it/it/villaggio/fihalhohi-island-resort/recensione/6319",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "excursions": [
+   {
+    "value": "manta",
+    "source_url": "https://mondomaldive.it/it/villaggio/fihalhohi-island-resort/recensione/6319",
+    "as_of": "2026-10-04"
+   }
+  ]
+ },
+ "last_updated": "2026-10-05"
 }

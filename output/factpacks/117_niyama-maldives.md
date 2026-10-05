@@ -1,10 +1,10 @@
 # 117. Niyama Maldives
 
-**Official site:** n/a (None)  
+**Official site:** https://www.niyama.com/ (blocked-partial)  
 **Brand:** Niyama  
 **Atoll:** Dhaalu Atoll  **Island:** Play Island  
-**Opened/renovated:** opened 2012  **Rating:** n/a  
-**Transfer:** seaplane, speedboat; minutes: {"seaplane": 40, "speedboat": 7}  
+**Opened/renovated:** opened 2012  **Rating:** 5-star  
+**Transfer:** seaplane, speedboat, domestic flight; minutes: {"seaplane": 35, "speedboat": 10, "domestic flight": 10}  
 **Island size:** 820 m x 60 m  
 
 ## Villas (? total)
@@ -17,16 +17,8 @@
 - Delu e Over Water Pool Villa - , - , & A+ C/ A+ C: count ?, 190 sqm, max ?, pool, overwater
 - Family Beach Pool Villa , , , , , , A+ C/ A+ C: count ?, 255 sqm, max ?, pool
 - Delu e Family Beach Pool Villa , & A+ C/ A+ C: count ?, 255 sqm, max ?, pool
-- One Bedroom Beach Pool Pavilion , & A+ C/ A+ C: count ?, 400 sqm, max ?, pool
-- One Bedroom Ocean Pool Pavilion & A+ C/ A+ C: count ?, 340 sqm, max ?, pool, overwater
-- Two Bedroom Beach Pool Pavilion A+ C/ A+ C: count ?, 635 sqm, max ?, pool
-- Two Bedroom Ocean Pool Pavilion & A+ C/ A+ C: count ?, 515 sqm, max ?, pool, overwater
-- Three Bedroom Beach Pool Pavilion A/ A+ C: count ?, 770 sqm, max ?, pool
 - BEACH VILLA DELU E BEACH VILLA BEACH POOL VILLA: count ?, 135 sqm, max ?, pool
-- PAVILION PAVILION PAVILION: count ?, 400 sqm, max ?
 - OVERWATER VILLAS DELU E OVERWATER VILLAS: count ?, 340 sqm, max ?, overwater
-- Pavilion: count 150, ? sqm, max ?
-- Pavilion - Villa: count 139, ? sqm, max ?
 - Delu e Beach Pool Villa &: count 152, ? sqm, max ?, pool
 - Villas: count 134, ? sqm, max ?
 - beach pool villa niyama private islands: count 5, ? sqm, max ?, pool
@@ -35,18 +27,16 @@
 ## Dining
 
 - Cocktail Bar (bar)
-- Deli-In brimming with drinks and treats in a full-sized (restaurant)
 - The Deli Fahrenheit Surf Shack (restaurant)
-- Dining (restaurant)
 - Fahrenheit Bar (bar)
 - The Deli (restaurant)
-- Destination Dining (restaurant)
 
-Meal plans: n/a
+Meal plans: HB
 
 ## Spa & wellness
 
-- Spa: Drift Spa; treatment rooms: ?; menu: none
+- Spa: Diving
+Spa; treatment rooms: ?; menu: none
 - Wellness/fitness: yoga, gym, fitness center, tennis, badminton, beach volleyball, sauna, steam, pilates
 
 ## Diving, water sports & excursions
@@ -55,7 +45,7 @@ Meal plans: n/a
 - House reef: House Reef
 - Activities: snorkelling, snorkeling, surfing, kayaking, stand-up paddle, paddleboard, dolphin cruise, fishing
 - Price list: none
-- Excursions: sandbank, dolphin, turtle, cooking class, picnic
+- Excursions: sandbank, dolphin, turtle, cooking class, cinema, picnic
 
 ## Kids & family
 
@@ -63,7 +53,7 @@ Meal plans: n/a
 
 ## Weddings
 
-- Offered: True; vow renewal: None
+- Offered: True; vow renewal: True
 - Venues: n/a
 - Packages: n/a
 - Brochure: none
@@ -75,11 +65,11 @@ Meal plans: n/a
 
 ## Sustainability
 
-- marine biologist, coral nursery
+- marine biologist, coral nursery, coral restoration
 
 ## Public contacts
 
-- Reservations: info@neoscapesmaldives.com; weddings: n/a; phone: +960 736 5425
+- Reservations: info.pniy@niyama.com; weddings: n/a; phone: +960 676 2828
 
 ## Latest documents
 
@@ -90,7 +80,7 @@ Meal plans: n/a
 - dining_menu: none
 - dive_prices: none
 - events: none
-- calendar: none
+- calendar: https://letsgomaldives.com/wp-content/uploads/2026/02/Niyama-Private-Islands-Maldives-Easter-Brochure-2026-1.pdf
 
 ## Gaps
 
@@ -99,4 +89,4 @@ Meal plans: n/a
 - fact: villas.total
 - fact: dive operator
 
-_Facts extracted by rules from 19 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-04._
+_Facts extracted by rules from 23 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

@@ -1,6 +1,6 @@
 # 79. Komandoo Island Resort
 
-**Official site:** n/a (None)  
+**Official site:** https://www.komandoo.com/ (ok)  
 **Brand:** n/a  
 **Atoll:** Lhaviyani Atoll  **Island:** Komandoo  
 **Opened/renovated:** n/a  **Rating:** 5-star  
@@ -18,8 +18,6 @@
 
 ## Dining
 
-- Aqua Restaurant located over the shimmering lagoon with a (restaurant)
-- Kandu Bar boasts an outdoor deck with stunning views of the (bar)
 
 Meal plans: n/a
 All-inclusive: All-Inclusive Plus Package.
@@ -70,12 +68,13 @@ All-inclusive: All-Inclusive Plus Package.
 - dining_menu: none
 - dive_prices: none
 - events: none
-- calendar: none
+- calendar: https://d2qwq69i2ic1pk.cloudfront.net/2023/11/CCR_2024_Calendar_compressed.pdf
 
 ## Gaps
 
 - wedding brochure
 - events/MICE document
+- fact: dining
 - fact: kids club
 
-_Facts extracted by rules from 20 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-04._
+_Facts extracted by rules from 19 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

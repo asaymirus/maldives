@@ -1,27 +1,26 @@
 # 109. Constance Moofushi Resort
 
-**Official site:** n/a (None)  
+**Official site:** https://www.constancehotels.com/en/hotels-resorts/maldives/moofushi/ (blocked-partial)  
 **Brand:** Constance  
 **Atoll:** Ari Atoll  **Island:** n/a  
 **Opened/renovated:** opened 2010  **Rating:** 5-star  
 **Transfer:** seaplane, speedboat; minutes: {"seaplane": 25, "speedboat": 30}  
 **Island size:** n/a  
 
-## Villas (? total)
+## Villas (130 total)
 
 - BEACH VILLAS SAND VILLAS: count 24, ? sqm, max ?
 - WATER VILLAS SENIOR WATER VILLAS: count 39, ? sqm, max ?
-- Number of Villas: count 110, ? sqm, max ?
+- Each water villa is: count ?, 66 sqm, max ?
 
 ## Dining
 
 - MANTA Restaurant (restaurant)
-- Main Buffet Restaurant (200 covers) (restaurant)
 - ALIZÉE Restaurant (restaurant)
-- ALIZÉE Restaurant A la carte “Beach grill”(40 covers) (restaurant)
 - MANTA Bar (bar)
 - TOTEM Bar (bar)
-- Dining (restaurant)
+- {{Restaurant.Description}} (restaurant)
+- Restaurant Type (restaurant)
 
 Meal plans: AI
 All-inclusive: all-inclusive plans in the Maldives, which includes everything from premium drinks to exquisite cuisine.
@@ -29,13 +28,13 @@ All-inclusive: all-inclusive plans in the Maldives, which includes everything fr
 ## Spa & wellness
 
 - Spa: Spa; treatment rooms: ?; menu: none
-- Wellness/fitness: yoga, gym
+- Wellness/fitness: yoga, gym, sauna
 
 ## Diving, water sports & excursions
 
 - Operator: PADI 5 Star
 - House reef: house reef just metres from the beach, home of the exotic marine life; from stingrays and lionfish to snappers and eels
-- Activities: snorkeling, windsurfing, catamaran, fishing, sunset cruise, whale shark, manta
+- Activities: snorkeling, windsurfing, catamaran, fishing, sunset cruise, whale shark, manta, scuba diving, sailing, canoe, snorkelling
 - Price list: none
 - Excursions: sandbank, dolphin, sunset fishing, night fishing, big game fishing, whale shark, manta, turtle, cinema, cooking class
 
@@ -78,6 +77,5 @@ All-inclusive: all-inclusive plans in the Maldives, which includes everything fr
 
 - wedding brochure
 - events/MICE document
-- fact: villas.total
 
-_Facts extracted by rules from 20 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-04._
+_Facts extracted by rules from 21 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

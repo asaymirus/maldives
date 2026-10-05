@@ -6,20 +6,22 @@
   "COMO Maalifushi",
   "Maalifushi"
  ],
- "official_url": null,
- "official_site_status": null,
+ "official_url": "https://www.comohotels.com/maldives/como-maalifushi",
+ "official_site_status": "ok",
  "operator_brand": "COMO",
  "atoll": "Thaa Atoll",
- "island": null,
+ "island": "Lavadhoo",
  "opened_or_renovated": null,
  "star_rating": null,
  "transfer": {
   "modes": [
-   "seaplane"
+   "seaplane",
+   "yacht",
+   "speedboat"
   ],
   "minutes": {
-   "seaplane": 50,
-   "speedboat": null,
+   "seaplane": 60,
+   "speedboat": 40,
    "domestic flight": null,
    "yacht": null
   }
@@ -48,240 +50,604 @@
  },
  "dining": [
   {
-   "name": "Tai Restaurant",
-   "cuisine": null,
-   "type": "restaurant"
-  },
-  {
-   "name": "of island life on COMO Maalifushi. In-room Dining",
-   "cuisine": null,
-   "type": "restaurant"
-  },
-  {
-   "name": "Dining",
-   "cuisine": null,
-   "type": "restaurant"
-  },
-  {
-   "name": "Private Dining",
-   "cuisine": null,
-   "type": "restaurant"
-  },
-  {
-   "name": "In-room Dining",
-   "cuisine": null,
-   "type": "restaurant"
-  },
-  {
-   "name": "Dining Experiences",
+   "name": "LOCATION Madi Restaurant",
    "cuisine": null,
    "type": "restaurant"
   }
  ],
- "meal_plans": [],
- "all_inclusive_details": null,
+ "meal_plans": [
+  "AI",
+  "FB"
+ ],
+ "all_inclusive_details": "all-inclusive island experience where meals, massages and curated activities come together to create an unforgettable stay.",
  "spa": {
-  "name": null,
+  "name": "Das Spa",
   "treatment_rooms": null,
   "signature_treatments": [],
-  "menu_doc": null
+  "menu_doc": "https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/cmf_cs_vp_kimberly_rose_treatment_menu.pdf"
  },
  "diving_watersports": {
   "operator": null,
-  "house_reef": "House Reef",
+  "house_reef": "HOUSE REEF ADVENTURE",
   "activities": [
    "snorkelling",
-   "surfing",
+   "scuba diving",
+   "windsurfing",
+   "kayaking",
+   "catamaran",
    "fishing",
-   "dolphin cruise",
    "sailing",
-   "manta"
+   "manta",
+   "sunset cruise",
+   "whale shark",
+   "surfing",
+   "stand-up paddle",
+   "paddleboard",
+   "wakeboarding",
+   "dolphin cruise",
+   "snorkeling",
+   "water skiing"
   ],
-  "price_list_doc": null
+  "price_list_doc": "https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/cmf_light_tackle_and_fly_fishing_rate_sheet.pdf"
  },
  "excursions": [
+  "local island",
   "dolphin",
+  "turtle",
   "picnic",
   "manta",
-  "turtle",
-  "castaway"
+  "private dinner",
+  "castaway",
+  "whale shark",
+  "sandbank",
+  "sunset fishing",
+  "cinema"
  ],
  "kids_family": {
-  "kids_club": "Kids Club",
-  "age_range": null,
+  "kids_club": "COMO Kids Club",
+  "age_range": "8-10 years",
   "teens": null
  },
  "wellness_fitness": [
   "yoga",
+  "meditation",
   "gym",
+  "padel",
+  "sauna",
+  "steam",
   "fitness centre",
-  "steam"
+  "pilates",
+  "tennis",
+  "sound healing",
+  "beach volleyball",
+  "fitness center",
+  "ayurveda"
  ],
  "weddings": {
   "offered": true,
-  "vow_renewal": null,
-  "venues": [],
-  "packages": [],
-  "brochure_doc": null
+  "vow_renewal": true,
+  "venues": [
+   "Tropical-themed wedding ceremony set up on the beach"
+  ],
+  "packages": [
+   {
+    "name": "Wedding",
+    "price": "2700",
+    "currency": "USD",
+    "as_of": 2024
+   }
+  ],
+  "brochure_doc": "https://de87ve0y4m3tc.cloudfront.net/comohotels.dev.cendynecommerce.com-2459770069/cms/pressroom/cmf_wedding_brochure.pdf"
  },
  "events_mice": {
   "venues": [],
-  "capacity_max": null,
-  "buyout": null,
-  "doc": null
+  "capacity_max": 150,
+  "buyout": true,
+  "doc": "https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/como_maalifushi_brochure_privateislandbuyout.pdf"
  },
  "sustainability": [
-  "marine biologist"
+  "marine biologist",
+  "coral restoration",
+  "solar",
+  "single-use plastic",
+  "EarthCheck"
  ],
  "contacts_public": {
   "reservations_email": "info@neoscapesmaldives.com",
   "weddings_email": null,
-  "phone": "+960 736 5425"
+  "phone": "+960 678 0008"
  },
  "documents_latest": {
-  "factsheet": "https://neoscapesmaldives.com/wp-content/uploads/COMO-Maalifushi-Fact-Sheet.pdf",
-  "map": "https://neoscapesmaldives.com/wp-content/uploads/COMO-Maalifushi-Island-Map.pdf",
-  "wedding": null,
-  "spa_menu": null,
-  "dining_menu": null,
-  "dive_prices": null,
-  "events": null,
-  "calendar": null
+  "factsheet": "https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/cmf_all_inclusive_factsheet.pdf",
+  "map": "https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/como_maalifushi_surfing_map.pdf",
+  "wedding": "https://de87ve0y4m3tc.cloudfront.net/comohotels.dev.cendynecommerce.com-2459770069/cms/pressroom/cmf_wedding_brochure.pdf",
+  "spa_menu": "https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/cmf_cs_vp_kimberly_rose_treatment_menu.pdf",
+  "dining_menu": "https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/cmf_como_compass_activities_menu.pdf",
+  "dive_prices": "https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/cmf_light_tackle_and_fly_fishing_rate_sheet.pdf",
+  "events": "https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/como_maalifushi_brochure_privateislandbuyout.pdf",
+  "calendar": "https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/cmf_festive_programme_dec_24_to_jan_1.pdf"
  },
- "documents_count": 2,
+ "documents_count": 50,
  "gaps": [
-  "wedding brochure",
-  "events/MICE document",
-  "fact: spa",
   "fact: dive operator"
  ],
  "sources": {
   "atoll": [
    {
     "value": "Thaa Atoll",
-    "source_url": "https://neoscapesmaldives.com/wp-content/uploads/COMO-Maalifushi-Fact-Sheet.pdf",
-    "as_of": 2019
+    "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/cmf_all_inclusive_factsheet.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "Thaa Atoll",
+    "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/como_maalifushi_brochure_privateislandbuyout.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "Thaa Atoll",
+    "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/cmf_como_compass_activities_menu.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "South Malé Atoll",
+    "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/cmf_atoll_adventurer_yacht_charter.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "Thaa Atoll",
+    "source_url": "https://www.comohotels.com/maldives/como-maalifushi",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Thaa Atoll",
+    "source_url": "https://www.comohotels.com/maldives/como-maalifushi/experiences/festive",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Thaa Atoll",
+    "source_url": "https://www.comohotels.com/maldives/como-maalifushi/stay-inclusions",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Thaa Atoll",
+    "source_url": "https://www.comohotels.com/maldives/como-maalifushi/all-inclusive",
+    "as_of": "2026-10-04"
    },
    {
     "value": "Thaa Atoll",
     "source_url": "https://www.neoscapesmaldives.com/resort/como-maalifushi/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Thaa Atoll",
+    "source_url": "https://mondomaldive.it/it/villaggio/como-maalifushi/recensioni",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Thaa Atoll",
+    "source_url": "https://malediven.de/malediven-hotels/como-maalifushi/",
     "as_of": "2026-10-04"
    }
   ],
   "transfer.modes": [
    {
     "value": "seaplane",
-    "source_url": "https://neoscapesmaldives.com/wp-content/uploads/COMO-Maalifushi-Fact-Sheet.pdf",
-    "as_of": 2019
+    "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/cmf_all_inclusive_factsheet.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "yacht",
+    "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/cmf_all_inclusive_factsheet.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/como_maalifushi_seaplane_transfer_flyer.pdf",
+    "as_of": 2027
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/como_maalifushi_seaplane_transfer_flyer.pdf",
+    "as_of": 2027
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.dev.cendynecommerce.com-2459770069/cms/pressroom/cmf_wedding_brochure.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/como_maalifushi_brochure_privateislandbuyout.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/cmf_como_compass_activities_menu.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "yacht",
+    "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/cmf_atoll_adventurer_yacht_charter.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.comohotels.com/maldives/como-maalifushi",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.comohotels.com/maldives/como-maalifushi/stay-inclusions",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yacht",
+    "source_url": "https://www.comohotels.com/maldives/como-maalifushi/stay-inclusions",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.comohotels.com/maldives/como-maalifushi/all-inclusive",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yacht",
+    "source_url": "https://www.comohotels.com/maldives/como-maalifushi/all-inclusive",
+    "as_of": "2026-10-04"
    },
    {
     "value": "seaplane",
     "source_url": "https://www.neoscapesmaldives.com/resort/como-maalifushi/",
     "as_of": "2026-10-04"
-   }
-  ],
-  "transfer.minutes.seaplane": [
-   {
-    "value": 60,
-    "source_url": "https://neoscapesmaldives.com/wp-content/uploads/COMO-Maalifushi-Fact-Sheet.pdf",
-    "as_of": 2019
    },
    {
-    "value": 50,
-    "source_url": "https://www.neoscapesmaldives.com/resort/como-maalifushi/",
+    "value": "seaplane",
+    "source_url": "https://malediven.de/malediven-hotels/como-maalifushi/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://malediven.de/malediven-hotels/como-maalifushi/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yacht",
+    "source_url": "https://malediven.de/malediven-hotels/como-maalifushi/",
     "as_of": "2026-10-04"
    }
   ],
-  "dining": [
+  "meal_plans": [
    {
-    "value": {
-     "name": "Tai Restaurant",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://neoscapesmaldives.com/wp-content/uploads/COMO-Maalifushi-Fact-Sheet.pdf",
-    "as_of": 2019
+    "value": "AI",
+    "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/cmf_all_inclusive_factsheet.pdf",
+    "as_of": 2026
    },
    {
-    "value": {
-     "name": "of island life on COMO Maalifushi. In-room Dining",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://neoscapesmaldives.com/wp-content/uploads/COMO-Maalifushi-Fact-Sheet.pdf",
-    "as_of": 2019
+    "value": "FB",
+    "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/cmf_como_compass_activities_menu.pdf",
+    "as_of": 2025
    },
    {
-    "value": {
-     "name": "Dining",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/como-maalifushi/",
+    "value": "AI",
+    "source_url": "https://www.comohotels.com/maldives/como-maalifushi/stay-inclusions",
     "as_of": "2026-10-04"
    },
    {
-    "value": {
-     "name": "Dining",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/como-maalifushi/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Private Dining",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/como-maalifushi/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "In-room Dining",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/como-maalifushi/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Dining Experiences",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/como-maalifushi/",
+    "value": "AI",
+    "source_url": "https://www.comohotels.com/maldives/como-maalifushi/all-inclusive",
     "as_of": "2026-10-04"
    }
   ],
   "diving_watersports.activities": [
    {
     "value": "snorkelling",
-    "source_url": "https://neoscapesmaldives.com/wp-content/uploads/COMO-Maalifushi-Fact-Sheet.pdf",
-    "as_of": 2019
+    "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/cmf_all_inclusive_factsheet.pdf",
+    "as_of": 2026
    },
    {
-    "value": "surfing",
-    "source_url": "https://neoscapesmaldives.com/wp-content/uploads/COMO-Maalifushi-Fact-Sheet.pdf",
-    "as_of": 2019
+    "value": "scuba diving",
+    "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/cmf_all_inclusive_factsheet.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "windsurfing",
+    "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/cmf_all_inclusive_factsheet.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "kayaking",
+    "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/cmf_all_inclusive_factsheet.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "catamaran",
+    "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/cmf_all_inclusive_factsheet.pdf",
+    "as_of": 2026
    },
    {
     "value": "fishing",
-    "source_url": "https://neoscapesmaldives.com/wp-content/uploads/COMO-Maalifushi-Fact-Sheet.pdf",
-    "as_of": 2019
-   },
-   {
-    "value": "dolphin cruise",
-    "source_url": "https://neoscapesmaldives.com/wp-content/uploads/COMO-Maalifushi-Fact-Sheet.pdf",
-    "as_of": 2019
+    "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/cmf_all_inclusive_factsheet.pdf",
+    "as_of": 2026
    },
    {
     "value": "sailing",
-    "source_url": "https://neoscapesmaldives.com/wp-content/uploads/COMO-Maalifushi-Fact-Sheet.pdf",
-    "as_of": 2019
+    "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/cmf_all_inclusive_factsheet.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "manta",
+    "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/como_maalifushi_seaplane_transfer_flyer.pdf",
+    "as_of": 2027
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.dev.cendynecommerce.com-2459770069/cms/pressroom/cmf_wedding_brochure.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.dev.cendynecommerce.com-2459770069/cms/pressroom/cmf_wedding_brochure.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "sailing",
+    "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.dev.cendynecommerce.com-2459770069/cms/pressroom/cmf_wedding_brochure.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/como_maalifushi_brochure_privateislandbuyout.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "manta",
+    "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/como_maalifushi_brochure_privateislandbuyout.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/cmf_como_compass_activities_menu.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/cmf_como_compass_activities_menu.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "windsurfing",
+    "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/cmf_como_compass_activities_menu.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "surfing",
+    "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/cmf_como_compass_activities_menu.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "stand-up paddle",
+    "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/cmf_como_compass_activities_menu.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "paddleboard",
+    "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/cmf_como_compass_activities_menu.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "catamaran",
+    "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/cmf_como_compass_activities_menu.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "wakeboarding",
+    "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/cmf_como_compass_activities_menu.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/cmf_como_compass_activities_menu.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/cmf_como_compass_activities_menu.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "dolphin cruise",
+    "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/cmf_como_compass_activities_menu.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/cmf_como_compass_activities_menu.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "manta",
+    "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/cmf_como_compass_activities_menu.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "sailing",
+    "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/cmf_como_compass_activities_menu.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/cmf_light_tackle_and_fly_fishing_rate_sheet.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/cmf_atoll_adventurer_yacht_charter.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "surfing",
+    "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/cmf_atoll_adventurer_yacht_charter.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/cmf_atoll_adventurer_yacht_charter.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/cmf_atoll_adventurer_yacht_charter.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "manta",
+    "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/cmf_atoll_adventurer_yacht_charter.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/como_maalifushi_islandmap.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.comohotels.com/maldives/como-maalifushi",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "surfing",
+    "source_url": "https://www.comohotels.com/maldives/como-maalifushi",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "kayaking",
+    "source_url": "https://www.comohotels.com/maldives/como-maalifushi",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "stand-up paddle",
+    "source_url": "https://www.comohotels.com/maldives/como-maalifushi",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "paddleboard",
+    "source_url": "https://www.comohotels.com/maldives/como-maalifushi",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.comohotels.com/maldives/como-maalifushi",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.comohotels.com/maldives/como-maalifushi/experiences/festive",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "stand-up paddle",
+    "source_url": "https://www.comohotels.com/maldives/como-maalifushi/experiences/festive",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "paddleboard",
+    "source_url": "https://www.comohotels.com/maldives/como-maalifushi/experiences/festive",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "water skiing",
+    "source_url": "https://www.comohotels.com/maldives/como-maalifushi/experiences/festive",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "wakeboarding",
+    "source_url": "https://www.comohotels.com/maldives/como-maalifushi/experiences/festive",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.comohotels.com/maldives/como-maalifushi/experiences/festive",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.comohotels.com/maldives/como-maalifushi/stay-inclusions",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://www.comohotels.com/maldives/como-maalifushi/stay-inclusions",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "windsurfing",
+    "source_url": "https://www.comohotels.com/maldives/como-maalifushi/stay-inclusions",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "kayaking",
+    "source_url": "https://www.comohotels.com/maldives/como-maalifushi/stay-inclusions",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "catamaran",
+    "source_url": "https://www.comohotels.com/maldives/como-maalifushi/stay-inclusions",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.comohotels.com/maldives/como-maalifushi/stay-inclusions",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin cruise",
+    "source_url": "https://www.comohotels.com/maldives/como-maalifushi/stay-inclusions",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sailing",
+    "source_url": "https://www.comohotels.com/maldives/como-maalifushi/stay-inclusions",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.comohotels.com/maldives/como-maalifushi/all-inclusive",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://www.comohotels.com/maldives/como-maalifushi/all-inclusive",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "windsurfing",
+    "source_url": "https://www.comohotels.com/maldives/como-maalifushi/all-inclusive",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "kayaking",
+    "source_url": "https://www.comohotels.com/maldives/como-maalifushi/all-inclusive",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "catamaran",
+    "source_url": "https://www.comohotels.com/maldives/como-maalifushi/all-inclusive",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.comohotels.com/maldives/como-maalifushi/all-inclusive",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin cruise",
+    "source_url": "https://www.comohotels.com/maldives/como-maalifushi/all-inclusive",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sailing",
+    "source_url": "https://www.comohotels.com/maldives/como-maalifushi/all-inclusive",
+    "as_of": "2026-10-04"
    },
    {
     "value": "snorkelling",
@@ -311,14 +677,159 @@
   ],
   "excursions": [
    {
+    "value": "local island",
+    "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/cmf_all_inclusive_factsheet.pdf",
+    "as_of": 2026
+   },
+   {
     "value": "dolphin",
-    "source_url": "https://neoscapesmaldives.com/wp-content/uploads/COMO-Maalifushi-Fact-Sheet.pdf",
-    "as_of": 2019
+    "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/cmf_all_inclusive_factsheet.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/cmf_all_inclusive_factsheet.pdf",
+    "as_of": 2026
    },
    {
     "value": "picnic",
-    "source_url": "https://neoscapesmaldives.com/wp-content/uploads/COMO-Maalifushi-Fact-Sheet.pdf",
-    "as_of": 2019
+    "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/cmf_all_inclusive_factsheet.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "manta",
+    "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/como_maalifushi_seaplane_transfer_flyer.pdf",
+    "as_of": 2027
+   },
+   {
+    "value": "picnic",
+    "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.dev.cendynecommerce.com-2459770069/cms/pressroom/cmf_wedding_brochure.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "private dinner",
+    "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.dev.cendynecommerce.com-2459770069/cms/pressroom/cmf_wedding_brochure.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "castaway",
+    "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.dev.cendynecommerce.com-2459770069/cms/pressroom/cmf_wedding_brochure.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/como_maalifushi_brochure_privateislandbuyout.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "manta",
+    "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/como_maalifushi_brochure_privateislandbuyout.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/como_maalifushi_brochure_privateislandbuyout.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "castaway",
+    "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/como_maalifushi_brochure_privateislandbuyout.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/cmf_como_compass_activities_menu.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/cmf_como_compass_activities_menu.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "sunset fishing",
+    "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/cmf_como_compass_activities_menu.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/cmf_como_compass_activities_menu.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "manta",
+    "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/cmf_como_compass_activities_menu.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/cmf_como_compass_activities_menu.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "picnic",
+    "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/cmf_como_compass_activities_menu.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "castaway",
+    "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/cmf_como_compass_activities_menu.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/cmf_atoll_adventurer_yacht_charter.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "manta",
+    "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/cmf_atoll_adventurer_yacht_charter.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "cinema",
+    "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/cmf_sharks4kids_itinerary.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "local island",
+    "source_url": "https://www.comohotels.com/maldives/como-maalifushi/stay-inclusions",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.comohotels.com/maldives/como-maalifushi/stay-inclusions",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.comohotels.com/maldives/como-maalifushi/stay-inclusions",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "picnic",
+    "source_url": "https://www.comohotels.com/maldives/como-maalifushi/stay-inclusions",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "local island",
+    "source_url": "https://www.comohotels.com/maldives/como-maalifushi/all-inclusive",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.comohotels.com/maldives/como-maalifushi/all-inclusive",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.comohotels.com/maldives/como-maalifushi/all-inclusive",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "picnic",
+    "source_url": "https://www.comohotels.com/maldives/como-maalifushi/all-inclusive",
+    "as_of": "2026-10-04"
    },
    {
     "value": "manta",
@@ -344,46 +855,590 @@
   "wellness_fitness": [
    {
     "value": "yoga",
-    "source_url": "https://neoscapesmaldives.com/wp-content/uploads/COMO-Maalifushi-Fact-Sheet.pdf",
-    "as_of": 2019
+    "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/cmf_all_inclusive_factsheet.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "meditation",
+    "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/cmf_all_inclusive_factsheet.pdf",
+    "as_of": 2026
    },
    {
     "value": "gym",
-    "source_url": "https://neoscapesmaldives.com/wp-content/uploads/COMO-Maalifushi-Fact-Sheet.pdf",
-    "as_of": 2019
+    "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/cmf_all_inclusive_factsheet.pdf",
+    "as_of": 2026
    },
    {
-    "value": "fitness centre",
-    "source_url": "https://neoscapesmaldives.com/wp-content/uploads/COMO-Maalifushi-Fact-Sheet.pdf",
-    "as_of": 2019
+    "value": "padel",
+    "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/cmf_all_inclusive_factsheet.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "sauna",
+    "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/cmf_all_inclusive_factsheet.pdf",
+    "as_of": 2026
    },
    {
     "value": "steam",
-    "source_url": "https://neoscapesmaldives.com/wp-content/uploads/COMO-Maalifushi-Fact-Sheet.pdf",
-    "as_of": 2019
+    "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/cmf_all_inclusive_factsheet.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.dev.cendynecommerce.com-2459770069/cms/pressroom/cmf_wedding_brochure.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "meditation",
+    "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.dev.cendynecommerce.com-2459770069/cms/pressroom/cmf_wedding_brochure.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "fitness centre",
+    "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.dev.cendynecommerce.com-2459770069/cms/pressroom/cmf_wedding_brochure.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "pilates",
+    "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.dev.cendynecommerce.com-2459770069/cms/pressroom/cmf_wedding_brochure.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "steam",
+    "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.dev.cendynecommerce.com-2459770069/cms/pressroom/cmf_wedding_brochure.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/como_maalifushi_brochure_privateislandbuyout.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "fitness centre",
+    "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/como_maalifushi_brochure_privateislandbuyout.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/como_maalifushi_brochure_privateislandbuyout.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "padel",
+    "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/como_maalifushi_brochure_privateislandbuyout.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "steam",
+    "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/como_maalifushi_brochure_privateislandbuyout.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "meditation",
+    "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/cmf_cs_vp_kimberly_rose_treatment_menu.pdf",
+    "as_of": 2027
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/cmf_como_compass_activities_menu.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "sauna",
+    "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/cmf_como_compass_activities_menu.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "steam",
+    "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/cmf_como_compass_activities_menu.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/como_maalifushi_islandmap.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "gym",
+    "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/como_maalifushi_islandmap.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "padel",
+    "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/como_maalifushi_islandmap.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.comohotels.com/maldives/como-maalifushi",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "meditation",
+    "source_url": "https://www.comohotels.com/maldives/como-maalifushi",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fitness centre",
+    "source_url": "https://www.comohotels.com/maldives/como-maalifushi",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "padel",
+    "source_url": "https://www.comohotels.com/maldives/como-maalifushi",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sauna",
+    "source_url": "https://www.comohotels.com/maldives/como-maalifushi",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "steam",
+    "source_url": "https://www.comohotels.com/maldives/como-maalifushi",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.comohotels.com/maldives/como-maalifushi/experiences/festive",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "padel",
+    "source_url": "https://www.comohotels.com/maldives/como-maalifushi/experiences/festive",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sound healing",
+    "source_url": "https://www.comohotels.com/maldives/como-maalifushi/experiences/festive",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.comohotels.com/maldives/como-maalifushi/stay-inclusions",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "meditation",
+    "source_url": "https://www.comohotels.com/maldives/como-maalifushi/stay-inclusions",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "gym",
+    "source_url": "https://www.comohotels.com/maldives/como-maalifushi/stay-inclusions",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "padel",
+    "source_url": "https://www.comohotels.com/maldives/como-maalifushi/stay-inclusions",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "beach volleyball",
+    "source_url": "https://www.comohotels.com/maldives/como-maalifushi/stay-inclusions",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sauna",
+    "source_url": "https://www.comohotels.com/maldives/como-maalifushi/stay-inclusions",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "steam",
+    "source_url": "https://www.comohotels.com/maldives/como-maalifushi/stay-inclusions",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.comohotels.com/maldives/como-maalifushi/all-inclusive",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "meditation",
+    "source_url": "https://www.comohotels.com/maldives/como-maalifushi/all-inclusive",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "gym",
+    "source_url": "https://www.comohotels.com/maldives/como-maalifushi/all-inclusive",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "padel",
+    "source_url": "https://www.comohotels.com/maldives/como-maalifushi/all-inclusive",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "beach volleyball",
+    "source_url": "https://www.comohotels.com/maldives/como-maalifushi/all-inclusive",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sauna",
+    "source_url": "https://www.comohotels.com/maldives/como-maalifushi/all-inclusive",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "steam",
+    "source_url": "https://www.comohotels.com/maldives/como-maalifushi/all-inclusive",
+    "as_of": "2026-10-04"
    },
    {
     "value": "steam",
     "source_url": "https://www.neoscapesmaldives.com/resort/como-maalifushi/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://malediven.de/malediven-hotels/como-maalifushi/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fitness center",
+    "source_url": "https://malediven.de/malediven-hotels/como-maalifushi/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "ayurveda",
+    "source_url": "https://malediven.de/malediven-hotels/como-maalifushi/",
     "as_of": "2026-10-04"
    }
   ],
   "weddings.offered": [
    {
     "value": true,
-    "source_url": "https://neoscapesmaldives.com/wp-content/uploads/COMO-Maalifushi-Fact-Sheet.pdf",
-    "as_of": 2019
+    "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/cmf_all_inclusive_factsheet.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": true,
+    "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.dev.cendynecommerce.com-2459770069/cms/pressroom/cmf_wedding_brochure.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": true,
+    "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/como_maalifushi_brochure_privateislandbuyout.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": true,
+    "source_url": "https://www.comohotels.com/maldives/como-maalifushi/stay-inclusions",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.comohotels.com/maldives/como-maalifushi/all-inclusive",
+    "as_of": "2026-10-04"
    },
    {
     "value": true,
     "source_url": "https://www.neoscapesmaldives.com/resort/como-maalifushi/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://malediven.de/malediven-hotels/como-maalifushi/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "weddings.vow_renewal": [
+   {
+    "value": true,
+    "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/cmf_all_inclusive_factsheet.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": true,
+    "source_url": "https://www.comohotels.com/maldives/como-maalifushi/stay-inclusions",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.comohotels.com/maldives/como-maalifushi/all-inclusive",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "contacts_public.phone": [
+   {
+    "value": "+960 678 0008",
+    "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/cmf_all_inclusive_factsheet.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "+960 678 0008",
+    "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/como_maalifushi_brochure_privateislandbuyout.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "+960 678 0008",
+    "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/cmf_cs_vp_kimberly_rose_treatment_menu.pdf",
+    "as_of": 2027
+   },
+   {
+    "value": "+960 678 0008",
+    "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/cmf_atoll_adventurer_yacht_charter.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "+960 664 1818",
+    "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/cmf_sharks4kids_itinerary.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "+960 678 0008",
+    "source_url": "https://www.comohotels.com/maldives/como-maalifushi",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 678 0001",
+    "source_url": "https://www.comohotels.com/maldives/como-maalifushi/stay-inclusions",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 678 0001",
+    "source_url": "https://www.comohotels.com/maldives/como-maalifushi/all-inclusive",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 736 5425",
+    "source_url": "https://www.neoscapesmaldives.com/resort/como-maalifushi/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "transfer.minutes.seaplane": [
+   {
+    "value": 60,
+    "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/como_maalifushi_seaplane_transfer_flyer.pdf",
+    "as_of": 2027
+   },
+   {
+    "value": 60,
+    "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.dev.cendynecommerce.com-2459770069/cms/pressroom/cmf_wedding_brochure.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": 60,
+    "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/como_maalifushi_brochure_privateislandbuyout.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": 60,
+    "source_url": "https://www.comohotels.com/maldives/como-maalifushi",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 50,
+    "source_url": "https://www.neoscapesmaldives.com/resort/como-maalifushi/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 40,
+    "source_url": "https://malediven.de/malediven-hotels/como-maalifushi/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "transfer.minutes.speedboat": [
+   {
+    "value": 40,
+    "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/como_maalifushi_seaplane_transfer_flyer.pdf",
+    "as_of": 2027
+   },
+   {
+    "value": 40,
+    "source_url": "https://malediven.de/malediven-hotels/como-maalifushi/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "island": [
+   {
+    "value": "Lavadhoo",
+    "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.dev.cendynecommerce.com-2459770069/cms/pressroom/cmf_wedding_brochure.pdf",
+    "as_of": 2024
    }
   ],
   "villas.total": [
    {
+    "value": 10,
+    "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.dev.cendynecommerce.com-2459770069/cms/pressroom/cmf_wedding_brochure.pdf",
+    "as_of": 2024
+   },
+   {
     "value": 32,
     "source_url": "https://www.neoscapesmaldives.com/resort/como-maalifushi/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "weddings.venues": [
+   {
+    "value": "Tropical-themed wedding ceremony set up on the beach",
+    "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.dev.cendynecommerce.com-2459770069/cms/pressroom/cmf_wedding_brochure.pdf",
+    "as_of": 2024
+   }
+  ],
+  "weddings.packages": [
+   {
+    "value": {
+     "name": "Wedding",
+     "price": "2700",
+     "currency": "USD",
+     "as_of": 2024
+    },
+    "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.dev.cendynecommerce.com-2459770069/cms/pressroom/cmf_wedding_brochure.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": {
+     "name": "Wedding",
+     "price": "1800",
+     "currency": "USD",
+     "as_of": 2024
+    },
+    "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.dev.cendynecommerce.com-2459770069/cms/pressroom/cmf_wedding_brochure.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": {
+     "name": "Wedding",
+     "price": "5500",
+     "currency": "USD",
+     "as_of": 2024
+    },
+    "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.dev.cendynecommerce.com-2459770069/cms/pressroom/cmf_wedding_brochure.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": {
+     "name": "Wedding",
+     "price": "400",
+     "currency": "USD",
+     "as_of": 2024
+    },
+    "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.dev.cendynecommerce.com-2459770069/cms/pressroom/cmf_wedding_brochure.pdf",
+    "as_of": 2024
+   }
+  ],
+  "events_mice.capacity_max": [
+   {
+    "value": 150,
+    "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.dev.cendynecommerce.com-2459770069/cms/pressroom/cmf_wedding_brochure.pdf",
+    "as_of": 2024
+   }
+  ],
+  "events_mice.buyout": [
+   {
+    "value": true,
+    "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/como_maalifushi_brochure_privateislandbuyout.pdf",
+    "as_of": 2025
+   }
+  ],
+  "dining": [
+   {
+    "value": {
+     "name": "LOCATION Madi Restaurant",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/cmf_como_compass_activities_menu.pdf",
+    "as_of": 2025
+   }
+  ],
+  "diving_watersports.house_reef": [
+   {
+    "value": "House Reef Diving See Diving Rates Open Water Diver",
+    "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/cmf_como_compass_activities_menu.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "HOUSE REEF ADVENTURE",
+    "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/cmf_sharks4kids_itinerary.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "HOUSE REEF",
+    "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/como_maalifushi_islandmap.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "House Reef",
+    "source_url": "https://www.neoscapesmaldives.com/resort/como-maalifushi/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "kids_family.age_range": [
+   {
+    "value": "8-10 years",
+    "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/cmf_como_compass_activities_menu.pdf",
+    "as_of": 2025
+   }
+  ],
+  "sustainability": [
+   {
+    "value": "marine biologist",
+    "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/cmf_como_compass_activities_menu.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "marine biologist",
+    "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/cmf_sharks4kids_itinerary.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "coral restoration",
+    "source_url": "https://www.comohotels.com/maldives/como-maalifushi",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "marine biologist",
+    "source_url": "https://www.comohotels.com/maldives/como-maalifushi",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "solar",
+    "source_url": "https://www.comohotels.com/maldives/como-maalifushi",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "single-use plastic",
+    "source_url": "https://www.comohotels.com/maldives/como-maalifushi",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "EarthCheck",
+    "source_url": "https://www.comohotels.com/maldives/como-maalifushi",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "marine biologist",
+    "source_url": "https://www.comohotels.com/maldives/como-maalifushi/experiences/festive",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "marine biologist",
+    "source_url": "https://www.neoscapesmaldives.com/resort/como-maalifushi/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "kids_family.kids_club": [
+   {
+    "value": "COMO Kids Club",
+    "source_url": "https://www.comohotels.com/maldives/como-maalifushi",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Kids Club",
+    "source_url": "https://www.neoscapesmaldives.com/resort/como-maalifushi/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "all_inclusive_details": [
+   {
+    "value": "all-inclusive island experience where meals, massages and curated activities come together to create an unforgettable stay.",
+    "source_url": "https://www.comohotels.com/maldives/como-maalifushi/stay-inclusions",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "all-inclusive island experience where meals, massages and curated activities come together to create an unforgettable stay.",
+    "source_url": "https://www.comohotels.com/maldives/como-maalifushi/all-inclusive",
     "as_of": "2026-10-04"
    }
   ],
@@ -413,27 +1468,6 @@
     "as_of": "2026-10-04"
    }
   ],
-  "diving_watersports.house_reef": [
-   {
-    "value": "House Reef",
-    "source_url": "https://www.neoscapesmaldives.com/resort/como-maalifushi/",
-    "as_of": "2026-10-04"
-   }
-  ],
-  "kids_family.kids_club": [
-   {
-    "value": "Kids Club",
-    "source_url": "https://www.neoscapesmaldives.com/resort/como-maalifushi/",
-    "as_of": "2026-10-04"
-   }
-  ],
-  "sustainability": [
-   {
-    "value": "marine biologist",
-    "source_url": "https://www.neoscapesmaldives.com/resort/como-maalifushi/",
-    "as_of": "2026-10-04"
-   }
-  ],
   "contacts_public.reservations_email": [
    {
     "value": "info@neoscapesmaldives.com",
@@ -441,13 +1475,13 @@
     "as_of": "2026-10-04"
    }
   ],
-  "contacts_public.phone": [
+  "spa.name": [
    {
-    "value": "+960 736 5425",
-    "source_url": "https://www.neoscapesmaldives.com/resort/como-maalifushi/",
+    "value": "Das Spa",
+    "source_url": "https://malediven.de/malediven-hotels/como-maalifushi/",
     "as_of": "2026-10-04"
    }
   ]
  },
- "last_updated": "2026-10-04"
+ "last_updated": "2026-10-05"
 }

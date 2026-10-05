@@ -1,8 +1,8 @@
 # 107. The Westin Maldives Miriandhoo Resort
 
-**Official site:** n/a (None)  
+**Official site:** https://www.marriott.com/en-us/hotels/mlewi-the-westin-maldives-miriandhoo-resort/overview/ (blocked)  
 **Brand:** Westin  
-**Atoll:** n/a  **Island:** n/a  
+**Atoll:** Baa Atoll  **Island:** n/a  
 **Opened/renovated:** n/a  **Rating:** n/a  
 **Transfer:** n/a; minutes: {}  
 **Island size:** n/a  
@@ -12,6 +12,7 @@
 
 ## Dining
 
+- Island Kitchen (restaurant)
 
 Meal plans: n/a
 
@@ -26,7 +27,7 @@ Meal plans: n/a
 - House reef: n/a
 - Activities: n/a
 - Price list: none
-- Excursions: n/a
+- Excursions: sandbank
 
 ## Kids & family
 
@@ -46,7 +47,7 @@ Meal plans: n/a
 
 ## Sustainability
 
-- n/a
+- Green Key
 
 ## Public contacts
 
@@ -61,7 +62,7 @@ Meal plans: n/a
 - dining_menu: none
 - dive_prices: none
 - events: none
-- calendar: none
+- calendar: https://letsgomaldives.com/wp-content/uploads/2024/03/The-Westin-Maldives-2024-Easter-Celebration-Brochure.pdf
 
 ## Gaps
 
@@ -70,14 +71,11 @@ Meal plans: n/a
 - events/MICE document
 - fact: villas.total
 - fact: villa categories
-- fact: dining
 - fact: transfer
-- fact: atoll
 - fact: spa
 - fact: dive operator
 - fact: kids club
 - fact: weddings
 - fact: contacts
-- no documents or pages collected
 
-_Facts extracted by rules from 0 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-04._
+_Facts extracted by rules from 4 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

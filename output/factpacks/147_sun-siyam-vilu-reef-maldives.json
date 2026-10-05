@@ -7,8 +7,8 @@
   "Vilu Reef",
   "Meedhuffushi"
  ],
- "official_url": null,
- "official_site_status": null,
+ "official_url": "https://www.sunsiyam.com/sun-siyam-vilu-reef/",
+ "official_site_status": "ok",
  "operator_brand": "Sun Siyam",
  "atoll": "Dhaalu Atoll",
  "island": null,
@@ -17,13 +17,12 @@
  "transfer": {
   "modes": [
    "seaplane",
-   "domestic flight",
    "speedboat"
   ],
   "minutes": {
-   "seaplane": 45,
+   "seaplane": 35,
    "speedboat": null,
-   "domestic flight": 35,
+   "domestic flight": null,
    "yacht": null
   }
  },
@@ -32,7 +31,7 @@
   "total": 103,
   "categories": [
    {
-    "name": "Beach Villa / + King",
+    "name": "Reef Villa adults & King",
     "count": 1,
     "size_sqm": null,
     "max_occupancy": null,
@@ -40,47 +39,15 @@
     "overwater": null
    },
    {
-    "name": "Delu e Beach Villa / + King",
-    "count": 1,
-    "size_sqm": null,
-    "max_occupancy": null,
-    "pool": null,
-    "overwater": null
-   },
-   {
-    "name": "Jacuzzi Delu e Beach Villa / + King",
-    "count": 1,
-    "size_sqm": null,
-    "max_occupancy": null,
-    "pool": null,
-    "overwater": null
-   },
-   {
-    "name": "Sun Aqua Pool Villa / + King",
-    "count": 1,
+    "name": "Villa with Pool adults & King",
+    "count": 2,
     "size_sqm": null,
     "max_occupancy": null,
     "pool": true,
     "overwater": null
    },
    {
-    "name": "Reef Villa / + King",
-    "count": 1,
-    "size_sqm": null,
-    "max_occupancy": null,
-    "pool": null,
-    "overwater": null
-   },
-   {
-    "name": "Aqua Villa / + King",
-    "count": 1,
-    "size_sqm": null,
-    "max_occupancy": null,
-    "pool": null,
-    "overwater": null
-   },
-   {
-    "name": "Aqua Suite / + King",
+    "name": "Signature Villa adults & +",
     "count": 2,
     "size_sqm": null,
     "max_occupancy": null,
@@ -88,8 +55,8 @@
     "overwater": null
    },
    {
-    "name": "Grand Reef Suite bedrooms / + King/Twin",
-    "count": 2,
+    "name": "Accommodation: villas",
+    "count": 103,
     "size_sqm": null,
     "max_occupancy": null,
     "pool": null,
@@ -102,65 +69,141 @@
     "max_occupancy": null,
     "pool": null,
     "overwater": null
+   },
+   {
+    "name": "Garden Villas",
+    "count": 20,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "Beach Villas",
+    "count": 60,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "Jacuzzi Water Villas",
+    "count": 35,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "Honeymoon Water Villas",
+    "count": 5,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
    }
   ]
  },
  "dining": [
   {
-   "name": "Separate Dining",
+   "name": "Restaurants Bar Dining Experience",
    "cuisine": null,
    "type": "restaurant"
   },
   {
-   "name": "Dining",
+   "name": "Beach Grill Family pool bar",
    "cuisine": null,
    "type": "restaurant"
+  },
+  {
+   "name": "The Spice Wine Cellar",
+   "cuisine": null,
+   "type": "bar"
+  },
+  {
+   "name": "Grill by the Sea",
+   "cuisine": null,
+   "type": "restaurant"
+  },
+  {
+   "name": "Golden Catch & Grill",
+   "cuisine": null,
+   "type": "restaurant"
+  },
+  {
+   "name": "Extensive buffet at Aqua Restaurant",
+   "cuisine": null,
+   "type": "restaurant"
+  },
+  {
+   "name": "Theme buffet at Aqua Restaurant",
+   "cuisine": null,
+   "type": "restaurant"
+  },
+  {
+   "name": "Positive Energy Bar",
+   "cuisine": null,
+   "type": "bar"
+  },
+  {
+   "name": "Wine Cellar",
+   "cuisine": null,
+   "type": "bar"
   },
   {
    "name": "The Wine Cellar",
    "cuisine": null,
    "type": "bar"
-  },
-  {
-   "name": "Destination Dining",
-   "cuisine": null,
-   "type": "restaurant"
   }
  ],
- "meal_plans": [],
- "all_inclusive_details": null,
+ "meal_plans": [
+  "AI",
+  "Premium AI",
+  "Dine Around"
+ ],
+ "all_inclusive_details": "All-Inclusive Dine Around.",
  "spa": {
-  "name": "Sports\nSun Aqua Spa",
+  "name": "Spa",
   "treatment_rooms": null,
   "signature_treatments": [],
   "menu_doc": null
  },
  "diving_watersports": {
-  "operator": null,
-  "house_reef": "house reef, just 30 metres from the shoreline, or venture further to discover underwater caves and coral-covered shipwrecks",
+  "operator": "Dive Centre",
+  "house_reef": "house reef and sun-lit seclusion",
   "activities": [
-   "snorkelling",
-   "fishing",
-   "dolphin cruise",
-   "snorkeling",
-   "surfing",
-   "catamaran",
+   "scuba diving",
    "sunset cruise",
+   "snorkelling",
+   "jet ski",
+   "seabob",
+   "kayaking",
+   "dolphin cruise",
+   "canoe",
+   "fishing",
+   "whale shark",
+   "manta",
+   "snorkeling",
+   "catamaran",
    "sailing",
-   "canoe"
+   "surfing"
   ],
-  "price_list_doc": null
+  "price_list_doc": "https://www.sunsiyam.com/media/dv1fvxyl/ssvr-golden-week-gazette-260921.pdf"
  },
  "excursions": [
+  "turtle",
+  "cinema",
   "local island",
   "dolphin",
-  "turtle",
-  "picnic",
-  "cinema"
+  "sandbank",
+  "whale shark",
+  "manta",
+  "cooking class",
+  "picnic"
  ],
  "kids_family": {
   "kids_club": "Kids Club",
-  "age_range": null,
+  "age_range": "4-12 years",
   "teens": null
  },
  "wellness_fitness": [
@@ -168,16 +211,16 @@
   "tennis",
   "badminton",
   "ayurveda",
-  "sauna",
-  "steam",
-  "yoga"
+  "fitness center",
+  "yoga",
+  "steam"
  ],
  "weddings": {
   "offered": true,
-  "vow_renewal": null,
+  "vow_renewal": true,
   "venues": [],
   "packages": [],
-  "brochure_doc": null
+  "brochure_doc": "https://www.sunsiyam.com/media/jv5nmz43/ultimate-honeymoon-ssvr.pdf"
  },
  "events_mice": {
   "venues": [],
@@ -187,49 +230,65 @@
  },
  "sustainability": [],
  "contacts_public": {
-  "reservations_email": "info@neoscapesmaldives.com",
+  "reservations_email": "info.vilureef@sunsiyam.com",
   "weddings_email": null,
-  "phone": "+960 736 5425"
+  "phone": "+960 676 0011"
  },
  "documents_latest": {
-  "factsheet": "https://www.neoscapesmaldives.com/wp-content/uploads/Fact-Sheet-2019.pdf",
-  "map": "https://www.neoscapesmaldives.com/wp-content/uploads/MAP.pdf",
-  "wedding": null,
+  "factsheet": "https://www.sunsiyam.com/media/5q0hgbtr/factsheet-vilu-reef-2026-hr.pdf",
+  "map": "https://www.sunsiyam.com/media/jn3h3idp/ssvr-ai-meal-plan-26.pdf",
+  "wedding": "https://www.sunsiyam.com/media/jv5nmz43/ultimate-honeymoon-ssvr.pdf",
   "spa_menu": null,
-  "dining_menu": null,
-  "dive_prices": null,
+  "dining_menu": "https://www.sunsiyam.com/media/yqgbihlu/athireege.pdf",
+  "dive_prices": "https://www.sunsiyam.com/media/dv1fvxyl/ssvr-golden-week-gazette-260921.pdf",
   "events": null,
-  "calendar": null
+  "calendar": "https://www.sunsiyam.com/media/j1vp02dn/ssvr-festive-gazette-26-27-eutopia-r.pdf"
  },
- "documents_count": 2,
+ "documents_count": 8,
  "gaps": [
-  "wedding brochure",
-  "events/MICE document",
-  "fact: dive operator"
+  "events/MICE document"
  ],
  "sources": {
-  "star_rating": [
-   {
-    "value": "5-star",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Fact-Sheet-2019.pdf",
-    "as_of": 2019
-   },
-   {
-    "value": "5-star",
-    "source_url": "https://www.neoscapesmaldives.com/resort/sun-siyam-vilu-reef/",
-    "as_of": "2026-10-04"
-   }
-  ],
   "transfer.modes": [
    {
     "value": "seaplane",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Fact-Sheet-2019.pdf",
-    "as_of": 2019
+    "source_url": "https://www.sunsiyam.com/media/5q0hgbtr/factsheet-vilu-reef-2026-hr.pdf",
+    "as_of": 2026
    },
    {
-    "value": "domestic flight",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Fact-Sheet-2019.pdf",
-    "as_of": 2019
+    "value": "seaplane",
+    "source_url": "https://www.sunsiyam.com/media/jn3h3idp/ssvr-ai-meal-plan-26.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-vilu-reef/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-vilu-reef/offers/family-offer/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-vilu-reef/offers/ocean-signature-escape/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-vilu-reef/offers/romantic-honeymoon-escape/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-vilu-reef/offers/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-vilu-reef/offers/free-transfer-offer/",
+    "as_of": "2026-10-04"
    },
    {
     "value": "seaplane",
@@ -240,130 +299,78 @@
     "value": "speedboat",
     "source_url": "https://www.neoscapesmaldives.com/resort/sun-siyam-vilu-reef/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.maldivestourism.net/resorts/vilu-reef-beach-and-spa-resort/",
+    "as_of": "2026-10-04"
    }
   ],
   "transfer.minutes.seaplane": [
    {
     "value": 35,
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Fact-Sheet-2019.pdf",
-    "as_of": 2019
+    "source_url": "https://www.sunsiyam.com/media/5q0hgbtr/factsheet-vilu-reef-2026-hr.pdf",
+    "as_of": 2026
    },
    {
     "value": 45,
     "source_url": "https://www.neoscapesmaldives.com/resort/sun-siyam-vilu-reef/",
     "as_of": "2026-10-04"
-   }
-  ],
-  "transfer.minutes.domestic flight": [
+   },
    {
     "value": 35,
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Fact-Sheet-2019.pdf",
-    "as_of": 2019
-   }
-  ],
-  "villas.total": [
-   {
-    "value": 103,
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Fact-Sheet-2019.pdf",
-    "as_of": 2019
+    "source_url": "https://www.maldivestourism.net/resorts/vilu-reef-beach-and-spa-resort/",
+    "as_of": "2026-10-04"
    }
   ],
   "villas.categories": [
    {
     "value": {
-     "name": "Beach Villa / + King",
+     "name": "Reef Villa adults & King",
      "count": 1,
      "size_sqm": null,
      "max_occupancy": null,
      "pool": null,
      "overwater": null
     },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Fact-Sheet-2019.pdf",
-    "as_of": 2019
+    "source_url": "https://www.sunsiyam.com/media/5q0hgbtr/factsheet-vilu-reef-2026-hr.pdf",
+    "as_of": 2026
    },
    {
     "value": {
-     "name": "Delu e Beach Villa / + King",
-     "count": 1,
-     "size_sqm": null,
-     "max_occupancy": null,
-     "pool": null,
-     "overwater": null
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Fact-Sheet-2019.pdf",
-    "as_of": 2019
-   },
-   {
-    "value": {
-     "name": "Jacuzzi Delu e Beach Villa / + King",
-     "count": 1,
-     "size_sqm": null,
-     "max_occupancy": null,
-     "pool": null,
-     "overwater": null
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Fact-Sheet-2019.pdf",
-    "as_of": 2019
-   },
-   {
-    "value": {
-     "name": "Sun Aqua Pool Villa / + King",
-     "count": 1,
+     "name": "Villa with Pool adults & King",
+     "count": 2,
      "size_sqm": null,
      "max_occupancy": null,
      "pool": true,
      "overwater": null
     },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Fact-Sheet-2019.pdf",
-    "as_of": 2019
+    "source_url": "https://www.sunsiyam.com/media/5q0hgbtr/factsheet-vilu-reef-2026-hr.pdf",
+    "as_of": 2026
    },
    {
     "value": {
-     "name": "Reef Villa / + King",
-     "count": 1,
-     "size_sqm": null,
-     "max_occupancy": null,
-     "pool": null,
-     "overwater": null
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Fact-Sheet-2019.pdf",
-    "as_of": 2019
-   },
-   {
-    "value": {
-     "name": "Aqua Villa / + King",
-     "count": 1,
-     "size_sqm": null,
-     "max_occupancy": null,
-     "pool": null,
-     "overwater": null
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Fact-Sheet-2019.pdf",
-    "as_of": 2019
-   },
-   {
-    "value": {
-     "name": "Aqua Suite / + King",
+     "name": "Signature Villa adults & +",
      "count": 2,
      "size_sqm": null,
      "max_occupancy": null,
      "pool": null,
      "overwater": null
     },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Fact-Sheet-2019.pdf",
-    "as_of": 2019
+    "source_url": "https://www.sunsiyam.com/media/5q0hgbtr/factsheet-vilu-reef-2026-hr.pdf",
+    "as_of": 2026
    },
    {
     "value": {
-     "name": "Grand Reef Suite bedrooms / + King/Twin",
-     "count": 2,
+     "name": "Accommodation: villas",
+     "count": 103,
      "size_sqm": null,
      "max_occupancy": null,
      "pool": null,
      "overwater": null
     },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Fact-Sheet-2019.pdf",
-    "as_of": 2019
+    "source_url": "https://www.sunsiyam.com/sun-siyam-vilu-reef/weddings-celebrations/",
+    "as_of": "2026-10-04"
    },
    {
     "value": {
@@ -376,34 +383,154 @@
     },
     "source_url": "https://www.neoscapesmaldives.com/resort/sun-siyam-vilu-reef/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Garden Villas",
+     "count": 20,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://www.maldivestourism.net/resorts/vilu-reef-beach-and-spa-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Beach Villas",
+     "count": 60,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://www.maldivestourism.net/resorts/vilu-reef-beach-and-spa-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Jacuzzi Water Villas",
+     "count": 35,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://www.maldivestourism.net/resorts/vilu-reef-beach-and-spa-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Honeymoon Water Villas",
+     "count": 5,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://www.maldivestourism.net/resorts/vilu-reef-beach-and-spa-resort/",
+    "as_of": "2026-10-04"
    }
   ],
   "dining": [
    {
     "value": {
-     "name": "Separate Dining",
+     "name": "Restaurants Bar Dining Experience",
      "cuisine": null,
      "type": "restaurant"
     },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Fact-Sheet-2019.pdf",
-    "as_of": 2019
+    "source_url": "https://www.sunsiyam.com/media/5q0hgbtr/factsheet-vilu-reef-2026-hr.pdf",
+    "as_of": 2026
    },
    {
     "value": {
-     "name": "Dining",
+     "name": "Beach Grill Family pool bar",
      "cuisine": null,
      "type": "restaurant"
     },
-    "source_url": "https://www.neoscapesmaldives.com/resort/sun-siyam-vilu-reef/",
-    "as_of": "2026-10-04"
+    "source_url": "https://www.sunsiyam.com/media/5q0hgbtr/factsheet-vilu-reef-2026-hr.pdf",
+    "as_of": 2026
    },
    {
     "value": {
-     "name": "Dining",
+     "name": "The Spice Wine Cellar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.sunsiyam.com/media/5q0hgbtr/factsheet-vilu-reef-2026-hr.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": {
+     "name": "Grill by the Sea",
      "cuisine": null,
      "type": "restaurant"
     },
-    "source_url": "https://www.neoscapesmaldives.com/resort/sun-siyam-vilu-reef/",
+    "source_url": "https://www.sunsiyam.com/media/dv1fvxyl/ssvr-golden-week-gazette-260921.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": {
+     "name": "Golden Catch & Grill",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.sunsiyam.com/media/dv1fvxyl/ssvr-golden-week-gazette-260921.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": {
+     "name": "Grill by the Sea",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.sunsiyam.com/media/dv1fvxyl/ssvr-golden-week-gazette-260921.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": {
+     "name": "Extensive buffet at Aqua Restaurant",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.sunsiyam.com/media/jn3h3idp/ssvr-ai-meal-plan-26.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": {
+     "name": "Extensive buffet at Aqua Restaurant",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.sunsiyam.com/media/jn3h3idp/ssvr-ai-meal-plan-26.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": {
+     "name": "Theme buffet at Aqua Restaurant",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.sunsiyam.com/media/jn3h3idp/ssvr-ai-meal-plan-26.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": {
+     "name": "Positive Energy Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.sunsiyam.com/media/jn3h3idp/ssvr-ai-meal-plan-26.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": {
+     "name": "Wine Cellar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.sunsiyam.com/sun-siyam-vilu-reef/restaurants-bars/",
     "as_of": "2026-10-04"
    },
    {
@@ -414,43 +541,87 @@
     },
     "source_url": "https://www.neoscapesmaldives.com/resort/sun-siyam-vilu-reef/",
     "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Destination Dining",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/sun-siyam-vilu-reef/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Destination Dining",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/sun-siyam-vilu-reef/",
-    "as_of": "2026-10-04"
    }
   ],
   "spa.name": [
    {
-    "value": "Sun Aqua Spa",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Fact-Sheet-2019.pdf",
-    "as_of": 2019
+    "value": "Spa",
+    "source_url": "https://www.sunsiyam.com/media/5q0hgbtr/factsheet-vilu-reef-2026-hr.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-vilu-reef/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "WELLNESS\nThe Spa",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-vilu-reef/spa-wellness/",
+    "as_of": "2026-10-04"
    },
    {
     "value": "Sports\nSun Aqua Spa",
     "source_url": "https://www.neoscapesmaldives.com/resort/sun-siyam-vilu-reef/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://letsgomaldives.com/news/celebrate-the-holidays-at-sun-siyam-vilu-reef-ocean-odyssey-festive-2025/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.maldivestourism.net/resorts/vilu-reef-beach-and-spa-resort/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "diving_watersports.operator": [
+   {
+    "value": "Dive Centre",
+    "source_url": "https://www.sunsiyam.com/media/5q0hgbtr/factsheet-vilu-reef-2026-hr.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "Dive Centre",
+    "source_url": "https://www.sunsiyam.com/media/dv1fvxyl/ssvr-golden-week-gazette-260921.pdf",
+    "as_of": 2026
    }
   ],
   "diving_watersports.house_reef": [
    {
-    "value": "house reef with colourful corals and fishes",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Fact-Sheet-2019.pdf",
-    "as_of": 2019
+    "value": "house reef and sun-lit seclusion",
+    "source_url": "https://www.sunsiyam.com/media/5q0hgbtr/factsheet-vilu-reef-2026-hr.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "house reef and sun-lit seclusion",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-vilu-reef/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-vilu-reef/offers/family-offer/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-vilu-reef/offers/romantic-honeymoon-escape/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-vilu-reef/weddings-celebrations/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef, just 30 metres from the shoreline, or venture further to discover underwater caves and coral-covered shipwrecks",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-vilu-reef/leisure-activities/diving/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-vilu-reef/offers/free-transfer-offer/",
+    "as_of": "2026-10-04"
    },
    {
     "value": "house reef, just 30 metres from the shoreline, or venture further to discover underwater caves and coral-covered shipwrecks",
@@ -460,19 +631,174 @@
   ],
   "diving_watersports.activities": [
    {
-    "value": "snorkelling",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Fact-Sheet-2019.pdf",
-    "as_of": 2019
+    "value": "scuba diving",
+    "source_url": "https://www.sunsiyam.com/media/5q0hgbtr/factsheet-vilu-reef-2026-hr.pdf",
+    "as_of": 2026
    },
    {
-    "value": "fishing",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Fact-Sheet-2019.pdf",
-    "as_of": 2019
+    "value": "sunset cruise",
+    "source_url": "https://www.sunsiyam.com/media/5q0hgbtr/factsheet-vilu-reef-2026-hr.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.sunsiyam.com/media/dv1fvxyl/ssvr-golden-week-gazette-260921.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "jet ski",
+    "source_url": "https://www.sunsiyam.com/media/dv1fvxyl/ssvr-golden-week-gazette-260921.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "seabob",
+    "source_url": "https://www.sunsiyam.com/media/dv1fvxyl/ssvr-golden-week-gazette-260921.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.sunsiyam.com/media/jn3h3idp/ssvr-ai-meal-plan-26.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "kayaking",
+    "source_url": "https://www.sunsiyam.com/media/jn3h3idp/ssvr-ai-meal-plan-26.pdf",
+    "as_of": 2026
    },
    {
     "value": "dolphin cruise",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Fact-Sheet-2019.pdf",
-    "as_of": 2019
+    "source_url": "https://www.sunsiyam.com/media/jn3h3idp/ssvr-ai-meal-plan-26.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "canoe",
+    "source_url": "https://www.sunsiyam.com/media/jn3h3idp/ssvr-ai-meal-plan-26.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "jet ski",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-vilu-reef/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-vilu-reef/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin cruise",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-vilu-reef/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "canoe",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-vilu-reef/leisure-activities/watersports/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-vilu-reef/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "jet ski",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-vilu-reef/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-vilu-reef/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-vilu-reef/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-vilu-reef/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-vilu-reef/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-vilu-reef/offers/family-offer/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-vilu-reef/offers/ocean-signature-escape/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-vilu-reef/offers/ocean-signature-escape/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin cruise",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-vilu-reef/offers/ocean-signature-escape/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-vilu-reef/weddings-celebrations/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "catamaran",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-vilu-reef/leisure-activities/excursions/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-vilu-reef/leisure-activities/excursions/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sailing",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-vilu-reef/leisure-activities/excursions/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-vilu-reef/leisure-activities/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "jet ski",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-vilu-reef/leisure-activities/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-vilu-reef/experiences/gentle-giant-expedition/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-vilu-reef/experiences/east-west-flash-wave-vibes/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-vilu-reef/offers/free-transfer-offer/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin cruise",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-vilu-reef/offers/free-transfer-offer/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-vilu-reef/experiences/athireege-immersion/",
+    "as_of": "2026-10-04"
    },
    {
     "value": "snorkelling",
@@ -513,23 +839,188 @@
     "value": "canoe",
     "source_url": "https://www.neoscapesmaldives.com/resort/sun-siyam-vilu-reef/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://letsgomaldives.com/news/celebrate-the-holidays-at-sun-siyam-vilu-reef-ocean-odyssey-festive-2025/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://letsgomaldives.com/news/celebrate-the-holidays-at-sun-siyam-vilu-reef-ocean-odyssey-festive-2025/",
+    "as_of": "2026-10-04"
    }
   ],
   "excursions": [
    {
-    "value": "local island",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Fact-Sheet-2019.pdf",
-    "as_of": 2019
+    "value": "turtle",
+    "source_url": "https://www.sunsiyam.com/media/5q0hgbtr/factsheet-vilu-reef-2026-hr.pdf",
+    "as_of": 2026
    },
    {
-    "value": "dolphin",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Fact-Sheet-2019.pdf",
-    "as_of": 2019
+    "value": "cinema",
+    "source_url": "https://www.sunsiyam.com/media/5q0hgbtr/factsheet-vilu-reef-2026-hr.pdf",
+    "as_of": 2026
    },
    {
     "value": "turtle",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Fact-Sheet-2019.pdf",
-    "as_of": 2019
+    "source_url": "https://www.sunsiyam.com/media/dv1fvxyl/ssvr-golden-week-gazette-260921.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "cinema",
+    "source_url": "https://www.sunsiyam.com/media/dv1fvxyl/ssvr-golden-week-gazette-260921.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "local island",
+    "source_url": "https://www.sunsiyam.com/media/jn3h3idp/ssvr-ai-meal-plan-26.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.sunsiyam.com/media/jn3h3idp/ssvr-ai-meal-plan-26.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.sunsiyam.com/media/jn3h3idp/ssvr-ai-meal-plan-26.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "local island",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-vilu-reef/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-vilu-reef/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-vilu-reef/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "cinema",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-vilu-reef/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "local island",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-vilu-reef/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-vilu-reef/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-vilu-reef/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-vilu-reef/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-vilu-reef/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-vilu-reef/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "cinema",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-vilu-reef/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "cooking class",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-vilu-reef/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-vilu-reef/offers/family-offer/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "picnic",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-vilu-reef/offers/family-offer/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-vilu-reef/offers/ocean-signature-escape/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "cinema",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-vilu-reef/weddings-celebrations/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-vilu-reef/leisure-activities/excursions/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "picnic",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-vilu-reef/leisure-activities/excursions/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "local island",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-vilu-reef/leisure-activities/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-vilu-reef/leisure-activities/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-vilu-reef/leisure-activities/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "local island",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-vilu-reef/experiences/gentle-giant-expedition/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "cinema",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-vilu-reef/experiences/gentle-giant-expedition/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "cinema",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-vilu-reef/experiences/east-west-flash-wave-vibes/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "picnic",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-vilu-reef/offers/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-vilu-reef/offers/free-transfer-offer/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "cinema",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-vilu-reef/experiences/athireege-immersion/",
+    "as_of": "2026-10-04"
    },
    {
     "value": "dolphin",
@@ -545,38 +1036,75 @@
     "value": "cinema",
     "source_url": "https://www.neoscapesmaldives.com/resort/sun-siyam-vilu-reef/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://letsgomaldives.com/news/celebrate-the-holidays-at-sun-siyam-vilu-reef-ocean-odyssey-festive-2025/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://letsgomaldives.com/news/celebrate-the-holidays-at-sun-siyam-vilu-reef-ocean-odyssey-festive-2025/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "cooking class",
+    "source_url": "https://letsgomaldives.com/news/celebrate-the-holidays-at-sun-siyam-vilu-reef-ocean-odyssey-festive-2025/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "kids_family.kids_club": [
+   {
+    "value": "Kids Club",
+    "source_url": "https://www.sunsiyam.com/media/5q0hgbtr/factsheet-vilu-reef-2026-hr.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "Kids Club",
+    "source_url": "https://www.neoscapesmaldives.com/resort/sun-siyam-vilu-reef/",
+    "as_of": "2026-10-04"
    }
   ],
   "wellness_fitness": [
    {
     "value": "gym",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Fact-Sheet-2019.pdf",
-    "as_of": 2019
+    "source_url": "https://www.sunsiyam.com/media/5q0hgbtr/factsheet-vilu-reef-2026-hr.pdf",
+    "as_of": 2026
    },
    {
     "value": "tennis",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Fact-Sheet-2019.pdf",
-    "as_of": 2019
+    "source_url": "https://www.sunsiyam.com/media/5q0hgbtr/factsheet-vilu-reef-2026-hr.pdf",
+    "as_of": 2026
    },
    {
     "value": "badminton",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Fact-Sheet-2019.pdf",
-    "as_of": 2019
+    "source_url": "https://www.sunsiyam.com/media/5q0hgbtr/factsheet-vilu-reef-2026-hr.pdf",
+    "as_of": 2026
    },
    {
     "value": "ayurveda",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Fact-Sheet-2019.pdf",
-    "as_of": 2019
+    "source_url": "https://www.sunsiyam.com/media/5q0hgbtr/factsheet-vilu-reef-2026-hr.pdf",
+    "as_of": 2026
    },
    {
-    "value": "sauna",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Fact-Sheet-2019.pdf",
-    "as_of": 2019
+    "value": "fitness center",
+    "source_url": "https://www.sunsiyam.com/media/jn3h3idp/ssvr-ai-meal-plan-26.pdf",
+    "as_of": 2026
    },
    {
-    "value": "steam",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Fact-Sheet-2019.pdf",
-    "as_of": 2019
+    "value": "tennis",
+    "source_url": "https://www.sunsiyam.com/media/jn3h3idp/ssvr-ai-meal-plan-26.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "badminton",
+    "source_url": "https://www.sunsiyam.com/media/jn3h3idp/ssvr-ai-meal-plan-26.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "ayurveda",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-vilu-reef/spa-wellness/",
+    "as_of": "2026-10-04"
    },
    {
     "value": "yoga",
@@ -602,30 +1130,51 @@
     "value": "steam",
     "source_url": "https://www.neoscapesmaldives.com/resort/sun-siyam-vilu-reef/",
     "as_of": "2026-10-04"
-   }
-  ],
-  "atoll": [
+   },
    {
-    "value": "Dhaalu Atoll",
-    "source_url": "https://www.neoscapesmaldives.com/resort/sun-siyam-vilu-reef/",
-    "as_of": "2026-10-04"
-   }
-  ],
-  "kids_family.kids_club": [
-   {
-    "value": "Kids Club",
-    "source_url": "https://www.neoscapesmaldives.com/resort/sun-siyam-vilu-reef/",
+    "value": "steam",
+    "source_url": "https://www.maldivestourism.net/resorts/vilu-reef-beach-and-spa-resort/",
     "as_of": "2026-10-04"
    }
   ],
   "weddings.offered": [
    {
     "value": true,
+    "source_url": "https://www.sunsiyam.com/media/5q0hgbtr/factsheet-vilu-reef-2026-hr.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": true,
+    "source_url": "https://www.sunsiyam.com/sun-siyam-vilu-reef/offers/romantic-honeymoon-escape/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.sunsiyam.com/sun-siyam-vilu-reef/weddings-celebrations/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.sunsiyam.com/sun-siyam-vilu-reef/weddings-celebrations/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
     "source_url": "https://www.neoscapesmaldives.com/resort/sun-siyam-vilu-reef/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://letsgomaldives.com/news/celebrate-the-holidays-at-sun-siyam-vilu-reef-ocean-odyssey-festive-2025/",
     "as_of": "2026-10-04"
    }
   ],
   "contacts_public.reservations_email": [
+   {
+    "value": "info.vilureef@sunsiyam.com",
+    "source_url": "https://www.sunsiyam.com/media/5q0hgbtr/factsheet-vilu-reef-2026-hr.pdf",
+    "as_of": 2026
+   },
    {
     "value": "info@neoscapesmaldives.com",
     "source_url": "https://www.neoscapesmaldives.com/resort/sun-siyam-vilu-reef/",
@@ -634,11 +1183,105 @@
   ],
   "contacts_public.phone": [
    {
+    "value": "+960 676 0011",
+    "source_url": "https://www.sunsiyam.com/media/5q0hgbtr/factsheet-vilu-reef-2026-hr.pdf",
+    "as_of": 2026
+   },
+   {
     "value": "+960 736 5425",
+    "source_url": "https://www.neoscapesmaldives.com/resort/sun-siyam-vilu-reef/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960) 676 0011",
+    "source_url": "https://www.maldivestourism.net/resorts/vilu-reef-beach-and-spa-resort/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "kids_family.age_range": [
+   {
+    "value": "4-12 years",
+    "source_url": "https://www.sunsiyam.com/media/dv1fvxyl/ssvr-golden-week-gazette-260921.pdf",
+    "as_of": 2026
+   }
+  ],
+  "all_inclusive_details": [
+   {
+    "value": "All-Inclusive Dine Around.",
+    "source_url": "https://www.sunsiyam.com/media/jn3h3idp/ssvr-ai-meal-plan-26.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "all-inclusive experience.",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-vilu-reef/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "all-inclusive beverages is available day and night across resort outlets, including cocktails, champagne, fine wines, premium spirits, beers, and more.",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-vilu-reef/offers/ocean-signature-escape/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "meal_plans": [
+   {
+    "value": "AI",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-vilu-reef/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-vilu-reef/offers/ocean-signature-escape/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Premium AI",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-vilu-reef/offers/ocean-signature-escape/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Dine Around",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-vilu-reef/offers/free-transfer-offer/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "villas.total": [
+   {
+    "value": 103,
+    "source_url": "https://www.sunsiyam.com/sun-siyam-vilu-reef/weddings-celebrations/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "weddings.vow_renewal": [
+   {
+    "value": true,
+    "source_url": "https://www.sunsiyam.com/sun-siyam-vilu-reef/weddings-celebrations/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "star_rating": [
+   {
+    "value": "5-star",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-vilu-reef/accommodation/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "5-star",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-vilu-reef/offers/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "5-star",
+    "source_url": "https://www.neoscapesmaldives.com/resort/sun-siyam-vilu-reef/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "atoll": [
+   {
+    "value": "Dhaalu Atoll",
     "source_url": "https://www.neoscapesmaldives.com/resort/sun-siyam-vilu-reef/",
     "as_of": "2026-10-04"
    }
   ]
  },
- "last_updated": "2026-10-04"
+ "last_updated": "2026-10-05"
 }

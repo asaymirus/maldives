@@ -5,16 +5,17 @@
  "aliases": [
   "Vilamendhoo"
  ],
- "official_url": null,
- "official_site_status": null,
+ "official_url": "https://www.vilamendhoo.com/",
+ "official_site_status": "ok",
  "operator_brand": null,
- "atoll": "Ari Atoll",
+ "atoll": "Kaafu Atoll",
  "island": null,
- "opened_or_renovated": null,
- "star_rating": null,
+ "opened_or_renovated": "opened 2026",
+ "star_rating": "5-star",
  "transfer": {
   "modes": [
-   "seaplane"
+   "seaplane",
+   "yacht"
   ],
   "minutes": {
    "seaplane": 25,
@@ -26,237 +27,2464 @@
  "island_size": null,
  "villas": {
   "total": 184,
-  "categories": []
+  "categories": [
+   {
+    "name": "Tropical Villas",
+    "count": 13,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "ROMANTIC OCEAN VILLA",
+    "count": null,
+    "size_sqm": 85,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": true
+   },
+   {
+    "name": "ROMANTIC BEACHFRONT VILLA",
+    "count": null,
+    "size_sqm": 65,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "BEACHFRONT VILLA",
+    "count": null,
+    "size_sqm": 55,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "ADJACENT BEACHFRONT VILLA",
+    "count": null,
+    "size_sqm": 55,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "TROPICAL VILLA",
+    "count": null,
+    "size_sqm": 55,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "Residences Powered",
+    "count": 15,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "Villas",
+    "count": 90,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "beach villas",
+    "count": 196,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   }
+  ]
  },
- "dining": [],
- "meal_plans": [],
- "all_inclusive_details": null,
+ "dining": [
+  {
+   "name": "Ahima Buffet Restaurant",
+   "cuisine": null,
+   "type": "restaurant"
+  },
+  {
+   "name": "Stocked Mini Bar with refrigerator",
+   "cuisine": null,
+   "type": "bar"
+  },
+  {
+   "name": "overwater Asian Wok Restaurant.",
+   "cuisine": null,
+   "type": "restaurant"
+  },
+  {
+   "name": "Culinary Experiences at Asian Wok Restaurant",
+   "cuisine": null,
+   "type": "restaurant"
+  },
+  {
+   "name": "Funama Buffet Restaurant",
+   "cuisine": null,
+   "type": "restaurant"
+  },
+  {
+   "name": "Faru Restaurant",
+   "cuisine": null,
+   "type": "restaurant"
+  },
+  {
+   "name": "Boashi Cafe",
+   "cuisine": null,
+   "type": "restaurant"
+  },
+  {
+   "name": "Bonthi Bar",
+   "cuisine": null,
+   "type": "bar"
+  },
+  {
+   "name": "Boashi Bar",
+   "cuisine": null,
+   "type": "bar"
+  },
+  {
+   "name": "Sunset Bar",
+   "cuisine": null,
+   "type": "bar"
+  },
+  {
+   "name": "Asian Wok Bar",
+   "cuisine": null,
+   "type": "bar"
+  }
+ ],
+ "meal_plans": [
+  "FB",
+  "AI",
+  "Dine Around"
+ ],
+ "all_inclusive_details": "All-Inclusive Dine Around Package.",
  "spa": {
-  "name": "Spa",
+  "name": "Duniye Spa",
   "treatment_rooms": null,
   "signature_treatments": [],
-  "menu_doc": null
+  "menu_doc": "https://dra0pipbd8ype.cloudfront.net/2025/06/DuniyeSpaMenuA3VilamendhooVer210425_English.pdf"
  },
  "diving_watersports": {
-  "operator": null,
-  "house_reef": "house reef a short swim away from the expansive sandy beach, the quintessential dive and",
+  "operator": "Euro-Divers",
+  "house_reef": "house reef just a short swim away from the expansive sandy beach, the quintessential tropical diving",
   "activities": [
    "snorkeling",
    "windsurfing",
    "catamaran",
    "jet ski",
-   "fishing",
+   "wakeboarding",
    "sunset cruise",
    "whale shark",
    "manta",
-   "fun tube"
+   "fun tube",
+   "scuba diving",
+   "fishing",
+   "sailing",
+   "snorkelling",
+   "kayaking",
+   "stand-up paddle",
+   "paddleboard",
+   "canoe",
+   "water skiing"
   ],
-  "price_list_doc": null
+  "price_list_doc": "https://dra0pipbd8ype.cloudfront.net/2025/12/Vilamendhoo-Dive-English_JAN26.pdf"
  },
  "excursions": [
   "local island",
   "whale shark",
   "manta",
-  "turtle"
+  "turtle",
+  "sandbank",
+  "dolphin",
+  "picnic",
+  "island hopping",
+  "cooking class"
  ],
  "kids_family": {
-  "kids_club": null,
-  "age_range": null,
+  "kids_club": "Kids Club",
+  "age_range": "5-12 years",
   "teens": null
  },
  "wellness_fitness": [
   "yoga",
+  "fitness center",
   "tennis",
   "padel",
-  "badminton"
+  "badminton",
+  "fitness centre",
+  "meditation",
+  "sound healing",
+  "gym"
  ],
  "weddings": {
   "offered": true,
   "vow_renewal": true,
-  "venues": [],
-  "packages": [],
-  "brochure_doc": null
+  "venues": [
+   "VILA VoWs ceremony in our tropical beach",
+   " Tropical Ceremony Set‐Up at the Beach",
+   "a traditional Maldivian ceremony set on the beach"
+  ],
+  "packages": [
+   {
+    "name": "Vow",
+    "price": "1485",
+    "currency": "USD",
+    "as_of": 2024
+   },
+   {
+    "name": "Wedding",
+    "price": "520",
+    "currency": "USD",
+    "as_of": 2024
+   }
+  ],
+  "brochure_doc": "https://dra0pipbd8ype.cloudfront.net/2025/06/HoneymoonGuestInfoRatesVilamendhooVer020525.pdf"
  },
  "events_mice": {
   "venues": [],
-  "capacity_max": null,
+  "capacity_max": 18,
   "buyout": null,
   "doc": null
  },
- "sustainability": [],
+ "sustainability": [
+  "coral restoration",
+  "marine biologist",
+  "solar",
+  "desalination",
+  "manta trust",
+  "Travelife"
+ ],
  "contacts_public": {
-  "reservations_email": null,
+  "reservations_email": "reservations@vilamendhoo.com",
   "weddings_email": null,
-  "phone": null
+  "phone": "+960 668 0637"
  },
  "documents_latest": {
-  "factsheet": "https://sales.crownandchamparesorts.com/wp-content/uploads/2025/12/FactSheetVilamendhoo110125103126Ver260425.pdf",
-  "map": "https://sales.crownandchamparesorts.com/wp-content/uploads/2025/08/Vilamendhoo_IslandMapExitSigns-Apr25.pdf",
-  "wedding": null,
-  "spa_menu": null,
-  "dining_menu": null,
-  "dive_prices": null,
+  "factsheet": "https://img.crownandchamparesorts.com/vlm/VilamendhooFactsheet151126103127Rev050626.pdf",
+  "map": "https://dra0pipbd8ype.cloudfront.net/2025/04/Vilamendhoo_IslandMapExitSigns-Apr25.pdf",
+  "wedding": "https://dra0pipbd8ype.cloudfront.net/2025/06/HoneymoonGuestInfoRatesVilamendhooVer020525.pdf",
+  "spa_menu": "https://dra0pipbd8ype.cloudfront.net/2025/06/DuniyeSpaMenuA3VilamendhooVer210425_English.pdf",
+  "dining_menu": "https://dra0pipbd8ype.cloudfront.net/2026/01/Valentines-info-dinner-menu_2026.pdf",
+  "dive_prices": "https://dra0pipbd8ype.cloudfront.net/2025/12/Vilamendhoo-Dive-English_JAN26.pdf",
   "events": null,
-  "calendar": null
+  "calendar": "https://d2qwq69i2ic1pk.cloudfront.net/2023/11/CCR_2024_Calendar_compressed.pdf"
  },
- "documents_count": 5,
+ "documents_count": 106,
  "gaps": [
-  "wedding brochure",
-  "events/MICE document",
-  "fact: villa categories",
-  "fact: dining",
-  "fact: dive operator",
-  "fact: kids club",
-  "fact: contacts"
+  "events/MICE document"
  ],
  "sources": {
   "atoll": [
    {
+    "value": "Kaafu Atoll",
+    "source_url": "https://img.crownandchamparesorts.com/vlm/VilamendhooFactsheet151126103127Rev050626.pdf",
+    "as_of": 2027
+   },
+   {
     "value": "Ari Atoll",
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2025/12/FactSheetVilamendhoo110125103126Ver260425.pdf",
-    "as_of": 2025
+    "source_url": "https://dra0pipbd8ype.cloudfront.net/2025/06/HoneymoonGuestInfoRatesVilamendhooVer020525.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "Ari Atoll",
+    "source_url": "https://dra0pipbd8ype.cloudfront.net/2026/02/ExcursionProgramVilamendhoo110124103125C.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "Ari Atoll",
+    "source_url": "https://www.vilamendhoo.com/things-to-do/excursions/sunset-punch-cruise.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Ari Atoll",
+    "source_url": "https://www.vilamendhoo.com/blog/2020/page/3",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Ari Atoll",
+    "source_url": "https://www.vilamendhoo.com/blog/2021/04",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Ari Atoll",
+    "source_url": "https://www.vilamendhoo.com/blog/2021/02",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Ari Atoll",
+    "source_url": "https://www.vilamendhoo.com/blog/category/things-to-do",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Ari Atoll",
+    "source_url": "https://www.vilamendhoo.com/blog/category/family-travel",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Ari Atoll",
+    "source_url": "https://www.vilamendhoo.com/things-to-do/excursions/dhangethi-island-excursion.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Ari Atoll",
+    "source_url": "https://www.vilamendhoo.com/blog/category/special-offers",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Ari Atoll",
+    "source_url": "https://www.vilamendhoo.com/things-to-do/water-sports/catamaran.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Ari Atoll",
+    "source_url": "https://www.vilamendhoo.com/blog/category/sustainability",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Ari Atoll",
+    "source_url": "https://www.vilamendhoo.com/blog/category/snorkelling-diving",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Ari Atoll",
+    "source_url": "https://www.mymaldives.com/resort-guide/vilamendhoo-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Ari Atoll",
+    "source_url": "https://www.maldivestourism.net/resorts/vilamendhoo-island-resort/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "star_rating": [
+   {
+    "value": "5-star",
+    "source_url": "https://img.crownandchamparesorts.com/vlm/VilamendhooFactsheet151126103127Rev050626.pdf",
+    "as_of": 2027
+   },
+   {
+    "value": "5-star",
+    "source_url": "https://www.vilamendhoo.com/blog/2020/page/3",
+    "as_of": "2026-10-04"
    }
   ],
   "transfer.modes": [
    {
     "value": "seaplane",
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2025/12/FactSheetVilamendhoo110125103126Ver260425.pdf",
-    "as_of": 2025
+    "source_url": "https://img.crownandchamparesorts.com/vlm/VilamendhooFactsheet151126103127Rev050626.pdf",
+    "as_of": 2027
+   },
+   {
+    "value": "yacht",
+    "source_url": "https://dra0pipbd8ype.cloudfront.net/2026/02/ExcursionProgramVilamendhoo110124103125C.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "yacht",
+    "source_url": "https://www.vilamendhoo.com/sitemap.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.vilamendhoo.com/blog/category/wellness",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.vilamendhoo.com/offers.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.mymaldives.com/resort-guide/vilamendhoo-island-resort/",
+    "as_of": "2026-10-04"
    }
   ],
   "transfer.minutes.seaplane": [
    {
     "value": 25,
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2025/12/FactSheetVilamendhoo110125103126Ver260425.pdf",
-    "as_of": 2025
+    "source_url": "https://img.crownandchamparesorts.com/vlm/VilamendhooFactsheet151126103127Rev050626.pdf",
+    "as_of": 2027
+   },
+   {
+    "value": 25,
+    "source_url": "https://www.mymaldives.com/resort-guide/vilamendhoo-island-resort/",
+    "as_of": "2026-10-04"
    }
   ],
   "villas.total": [
    {
     "value": 184,
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2025/12/FactSheetVilamendhoo110125103126Ver260425.pdf",
+    "source_url": "https://img.crownandchamparesorts.com/vlm/VilamendhooFactsheet151126103127Rev050626.pdf",
+    "as_of": 2027
+   },
+   {
+    "value": 15,
+    "source_url": "https://d2qwq69i2ic1pk.cloudfront.net/2026/02/Sustainablity-Initiatives-Brochure-CCR-2025.pdf",
     "as_of": 2025
+   },
+   {
+    "value": 141,
+    "source_url": "https://www.mymaldives.com/resort-guide/vilamendhoo-island-resort/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "villas.categories": [
+   {
+    "value": {
+     "name": "Tropical Villas",
+     "count": 13,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://img.crownandchamparesorts.com/vlm/VilamendhooFactsheet151126103127Rev050626.pdf",
+    "as_of": 2027
+   },
+   {
+    "value": {
+     "name": "ROMANTIC OCEAN VILLA",
+     "count": null,
+     "size_sqm": 85,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": true
+    },
+    "source_url": "https://img.crownandchamparesorts.com/vlm/VilamendhooFactsheet151126103127Rev050626.pdf",
+    "as_of": 2027
+   },
+   {
+    "value": {
+     "name": "ROMANTIC BEACHFRONT VILLA",
+     "count": null,
+     "size_sqm": 65,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://img.crownandchamparesorts.com/vlm/VilamendhooFactsheet151126103127Rev050626.pdf",
+    "as_of": 2027
+   },
+   {
+    "value": {
+     "name": "BEACHFRONT VILLA",
+     "count": null,
+     "size_sqm": 55,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://img.crownandchamparesorts.com/vlm/VilamendhooFactsheet151126103127Rev050626.pdf",
+    "as_of": 2027
+   },
+   {
+    "value": {
+     "name": "ADJACENT BEACHFRONT VILLA",
+     "count": null,
+     "size_sqm": 55,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://img.crownandchamparesorts.com/vlm/VilamendhooFactsheet151126103127Rev050626.pdf",
+    "as_of": 2027
+   },
+   {
+    "value": {
+     "name": "TROPICAL VILLA",
+     "count": null,
+     "size_sqm": 55,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://img.crownandchamparesorts.com/vlm/VilamendhooFactsheet151126103127Rev050626.pdf",
+    "as_of": 2027
+   },
+   {
+    "value": {
+     "name": "Residences Powered",
+     "count": 15,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://d2qwq69i2ic1pk.cloudfront.net/2026/02/Sustainablity-Initiatives-Brochure-CCR-2025.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": {
+     "name": "Villas",
+     "count": 90,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://d2qwq69i2ic1pk.cloudfront.net/2026/02/Sustainablity-Initiatives-Brochure-CCR-2025.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": {
+     "name": "Villas",
+     "count": 100,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://d2qwq69i2ic1pk.cloudfront.net/2026/02/Sustainablity-Initiatives-Brochure-CCR-2025.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": {
+     "name": "Villas",
+     "count": 290,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://d2qwq69i2ic1pk.cloudfront.net/2026/02/Sustainablity-Initiatives-Brochure-CCR-2025.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": {
+     "name": "Villas",
+     "count": 65,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://d2qwq69i2ic1pk.cloudfront.net/2026/02/Sustainablity-Initiatives-Brochure-CCR-2025.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": {
+     "name": "Villas",
+     "count": 284,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://d2qwq69i2ic1pk.cloudfront.net/2026/02/Sustainablity-Initiatives-Brochure-CCR-2025.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": {
+     "name": "Villas",
+     "count": 389,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://d2qwq69i2ic1pk.cloudfront.net/2026/02/Sustainablity-Initiatives-Brochure-CCR-2025.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": {
+     "name": "beach villas",
+     "count": 196,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://mondomaldive.it/it/villaggio/vilamendhoo-island-resort/recensione/6149",
+    "as_of": "2026-10-04"
    }
   ],
   "spa.name": [
    {
+    "value": "Duniye Spa",
+    "source_url": "https://img.crownandchamparesorts.com/vlm/VilamendhooFactsheet151126103127Rev050626.pdf",
+    "as_of": 2027
+   },
+   {
     "value": "Spa",
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2025/12/FactSheetVilamendhoo110125103126Ver260425.pdf",
+    "source_url": "https://dra0pipbd8ype.cloudfront.net/2024/12/VILA-VoWs-Presentation-_Rev230424.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://dra0pipbd8ype.cloudfront.net/2025/06/DuniyeSpaMenuA3VilamendhooVer210425_English.pdf",
     "as_of": 2025
+   },
+   {
+    "value": "Duniye Spa",
+    "source_url": "https://dra0pipbd8ype.cloudfront.net/2026/05/VilaAllInclusiveDineAroundPackage111526103127Rev050626.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://d2qwq69i2ic1pk.cloudfront.net/2026/02/Sustainablity-Initiatives-Brochure-CCR-2025.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "Duniye Spa",
+    "source_url": "https://www.vilamendhoo.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.vilamendhoo.com/blog/2021/page/4",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.vilamendhoo.com/blog/2020/08",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.vilamendhoo.com/blog/category/travel-guide/page/2",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.vilamendhoo.com/blog/2020/page/3",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Romantic Options\nDuniye Spa",
+    "source_url": "https://www.vilamendhoo.com/sitemap.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Duniye Spa",
+    "source_url": "https://www.vilamendhoo.com/blog/2021/04",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.vilamendhoo.com/blog/2021/02",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.vilamendhoo.com/blog/category/things-to-do",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.vilamendhoo.com/travel-agents.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.vilamendhoo.com/blog/2021/08",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Duniye Spa",
+    "source_url": "https://www.vilamendhoo.com/spa.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.vilamendhoo.com/about-us/careers.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.vilamendhoo.com/blog/category/family-travel",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.vilamendhoo.com/blog/category/special-offers",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.vilamendhoo.com/blog/category/wellness",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.vilamendhoo.com/blog/2021/09",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Duniye Spa",
+    "source_url": "https://www.vilamendhoo.com/dining/all-inclusive-package.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.vilamendhoo.com/blog/2019/page/2",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.vilamendhoo.com/blog/2020/page/2",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Duniye Spa",
+    "source_url": "https://www.vilamendhoo.com/blog/2020/06",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.vilamendhoo.com/blog/category/sustainability",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.vilamendhoo.com/blog/category/snorkelling-diving",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.vilamendhoo.com/blog/2020/05",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.vilamendhoo.com/blog/category/meet-the-team",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.mymaldives.com/resort-guide/vilamendhoo-island-resort/",
+    "as_of": "2026-10-04"
    }
   ],
   "diving_watersports.house_reef": [
    {
-    "value": "house reef a short swim away from the expansive sandy beach, the quintessential dive and",
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2025/12/FactSheetVilamendhoo110125103126Ver260425.pdf",
-    "as_of": 2025
+    "value": "house reef just a short swim away from the expansive sandy beach, the quintessential tropical diving",
+    "source_url": "https://img.crownandchamparesorts.com/vlm/VilamendhooFactsheet151126103127Rev050626.pdf",
+    "as_of": 2027
+   },
+   {
+    "value": "house reef provides a spectacular option for lazy days when you simply want to dive with your buddy without taking a boat trip; accessible from almost every point on the",
+    "source_url": "https://www.vilamendhoo.com/blog/2020/page/3",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "House Reef",
+    "source_url": "https://www.vilamendhoo.com/sitemap.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef encircling the island, Vilamendhoo offers endless possibilities for adventure for the whole family",
+    "source_url": "https://www.vilamendhoo.com/blog/category/special-offers",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reefs in the Indian Ocean",
+    "source_url": "https://www.vilamendhoo.com/blog/category/wellness",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef cleaning drive around the island participated by guests, the Vilamendhoo team, and EURO divers",
+    "source_url": "https://www.vilamendhoo.com/blog/2022/06",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef clean-up drive",
+    "source_url": "https://www.vilamendhoo.com/blog/category/sustainability",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef, talking to the guests, learning something new every day and the team",
+    "source_url": "https://www.vilamendhoo.com/blog/category/meet-the-team",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef is our",
+    "source_url": "https://www.vilamendhoo.com/blog/2021/11",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "House Reef fra i migliori e molto facile da raggiungere",
+    "source_url": "https://mondomaldive.it/it/villaggio/vilamendhoo-island-resort/recensione/6155",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef particolare dove si può danzare fra i banchi di pesce… Veraclub l’ha abbandonata da 5 mesi e questo l’ha resa un po’ spopolata, facevano un po’ tenerezza i rag",
+    "source_url": "https://mondomaldive.it/it/villaggio/vilamendhoo-island-resort/racconto/vilamendhoo-per-tutti-i-gusti",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef which is well suited for snorkeling",
+    "source_url": "https://www.mymaldives.com/resort-guide/vilamendhoo-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef",
+    "source_url": "https://www.maldivestourism.net/resorts/vilamendhoo-island-resort/",
+    "as_of": "2026-10-04"
    }
   ],
   "diving_watersports.activities": [
    {
     "value": "snorkeling",
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2025/12/FactSheetVilamendhoo110125103126Ver260425.pdf",
-    "as_of": 2025
+    "source_url": "https://img.crownandchamparesorts.com/vlm/VilamendhooFactsheet151126103127Rev050626.pdf",
+    "as_of": 2027
    },
    {
     "value": "windsurfing",
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2025/12/FactSheetVilamendhoo110125103126Ver260425.pdf",
-    "as_of": 2025
+    "source_url": "https://img.crownandchamparesorts.com/vlm/VilamendhooFactsheet151126103127Rev050626.pdf",
+    "as_of": 2027
    },
    {
     "value": "catamaran",
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2025/12/FactSheetVilamendhoo110125103126Ver260425.pdf",
-    "as_of": 2025
+    "source_url": "https://img.crownandchamparesorts.com/vlm/VilamendhooFactsheet151126103127Rev050626.pdf",
+    "as_of": 2027
    },
    {
     "value": "jet ski",
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2025/12/FactSheetVilamendhoo110125103126Ver260425.pdf",
+    "source_url": "https://img.crownandchamparesorts.com/vlm/VilamendhooFactsheet151126103127Rev050626.pdf",
+    "as_of": 2027
+   },
+   {
+    "value": "wakeboarding",
+    "source_url": "https://img.crownandchamparesorts.com/vlm/VilamendhooFactsheet151126103127Rev050626.pdf",
+    "as_of": 2027
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://img.crownandchamparesorts.com/vlm/VilamendhooFactsheet151126103127Rev050626.pdf",
+    "as_of": 2027
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://img.crownandchamparesorts.com/vlm/VilamendhooFactsheet151126103127Rev050626.pdf",
+    "as_of": 2027
+   },
+   {
+    "value": "manta",
+    "source_url": "https://img.crownandchamparesorts.com/vlm/VilamendhooFactsheet151126103127Rev050626.pdf",
+    "as_of": 2027
+   },
+   {
+    "value": "fun tube",
+    "source_url": "https://img.crownandchamparesorts.com/vlm/VilamendhooFactsheet151126103127Rev050626.pdf",
+    "as_of": 2027
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://dra0pipbd8ype.cloudfront.net/2025/12/Vilamendhoo-Dive-English_JAN26.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://dra0pipbd8ype.cloudfront.net/2026/02/ExcursionProgramVilamendhoo110124103125C.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://dra0pipbd8ype.cloudfront.net/2026/02/ExcursionProgramVilamendhoo110124103125C.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://dra0pipbd8ype.cloudfront.net/2026/02/ExcursionProgramVilamendhoo110124103125C.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://dra0pipbd8ype.cloudfront.net/2026/02/ExcursionProgramVilamendhoo110124103125C.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "manta",
+    "source_url": "https://dra0pipbd8ype.cloudfront.net/2026/02/ExcursionProgramVilamendhoo110124103125C.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "sailing",
+    "source_url": "https://dra0pipbd8ype.cloudfront.net/2026/02/ExcursionProgramVilamendhoo110124103125C.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://dra0pipbd8ype.cloudfront.net/2026/05/VilaAllInclusiveDineAroundPackage111526103127Rev050626.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://dra0pipbd8ype.cloudfront.net/2026/05/VilaAllInclusiveDineAroundPackage111526103127Rev050626.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://d2qwq69i2ic1pk.cloudfront.net/2026/02/Sustainablity-Initiatives-Brochure-CCR-2025.pdf",
     "as_of": 2025
    },
    {
     "value": "fishing",
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2025/12/FactSheetVilamendhoo110125103126Ver260425.pdf",
+    "source_url": "https://d2qwq69i2ic1pk.cloudfront.net/2026/02/Sustainablity-Initiatives-Brochure-CCR-2025.pdf",
     "as_of": 2025
    },
    {
-    "value": "sunset cruise",
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2025/12/FactSheetVilamendhoo110125103126Ver260425.pdf",
-    "as_of": 2025
+    "value": "snorkelling",
+    "source_url": "https://www.vilamendhoo.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://www.vilamendhoo.com/",
+    "as_of": "2026-10-04"
    },
    {
     "value": "whale shark",
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2025/12/FactSheetVilamendhoo110125103126Ver260425.pdf",
-    "as_of": 2025
+    "source_url": "https://www.vilamendhoo.com/",
+    "as_of": "2026-10-04"
    },
    {
     "value": "manta",
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2025/12/FactSheetVilamendhoo110125103126Ver260425.pdf",
-    "as_of": 2025
+    "source_url": "https://www.vilamendhoo.com/",
+    "as_of": "2026-10-04"
    },
    {
-    "value": "fun tube",
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2025/12/FactSheetVilamendhoo110125103126Ver260425.pdf",
-    "as_of": 2025
+    "value": "snorkelling",
+    "source_url": "https://www.vilamendhoo.com/blog/2021/page/4",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.vilamendhoo.com/blog/2021/page/4",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://www.vilamendhoo.com/blog/2021/page/4",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.vilamendhoo.com/things-to-do/excursions.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.vilamendhoo.com/things-to-do/excursions.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.vilamendhoo.com/things-to-do/excursions.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.vilamendhoo.com/things-to-do/excursions.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.vilamendhoo.com/things-to-do/excursions.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.vilamendhoo.com/things-to-do/excursions.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sailing",
+    "source_url": "https://www.vilamendhoo.com/things-to-do/excursions.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.vilamendhoo.com/blog/category/travel-guide/page/2",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://www.vilamendhoo.com/blog/category/travel-guide/page/2",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://www.vilamendhoo.com/blog/2020/page/3",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.vilamendhoo.com/blog/2020/page/3",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.vilamendhoo.com/blog/2020/page/3",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.vilamendhoo.com/sitemap.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.vilamendhoo.com/sitemap.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://www.vilamendhoo.com/sitemap.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "windsurfing",
+    "source_url": "https://www.vilamendhoo.com/sitemap.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "kayaking",
+    "source_url": "https://www.vilamendhoo.com/sitemap.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "catamaran",
+    "source_url": "https://www.vilamendhoo.com/sitemap.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "jet ski",
+    "source_url": "https://www.vilamendhoo.com/sitemap.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.vilamendhoo.com/sitemap.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.vilamendhoo.com/sitemap.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.vilamendhoo.com/sitemap.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.vilamendhoo.com/sitemap.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sailing",
+    "source_url": "https://www.vilamendhoo.com/sitemap.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.vilamendhoo.com/blog/2021/04",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://www.vilamendhoo.com/blog/2021/04",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.vilamendhoo.com/blog/2021/02",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.vilamendhoo.com/blog/category/things-to-do",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.vilamendhoo.com/blog/category/things-to-do",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://www.vilamendhoo.com/blog/category/things-to-do",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.vilamendhoo.com/blog/category/things-to-do",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.vilamendhoo.com/blog/category/things-to-do",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.vilamendhoo.com/blog/2021/08",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.vilamendhoo.com/blog/category/family-travel",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.vilamendhoo.com/blog/category/family-travel",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://www.vilamendhoo.com/blog/category/family-travel",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.vilamendhoo.com/blog/category/family-travel",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.vilamendhoo.com/blog/category/family-travel",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.vilamendhoo.com/blog/category/special-offers",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.vilamendhoo.com/blog/category/wellness",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.vilamendhoo.com/blog/category/wellness",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "kayaking",
+    "source_url": "https://www.vilamendhoo.com/blog/category/wellness",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "stand-up paddle",
+    "source_url": "https://www.vilamendhoo.com/blog/category/wellness",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "paddleboard",
+    "source_url": "https://www.vilamendhoo.com/blog/category/wellness",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.vilamendhoo.com/blog/category/wellness",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.vilamendhoo.com/dining/all-inclusive-package.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.vilamendhoo.com/dining/all-inclusive-package.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.vilamendhoo.com/blog/2019/page/2",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.vilamendhoo.com/blog/2019/page/2",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.vilamendhoo.com/blog/2019/page/2",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.vilamendhoo.com/blog/2022/06",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://www.vilamendhoo.com/blog/2022/06",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.vilamendhoo.com/blog/2022/06",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "catamaran",
+    "source_url": "https://www.vilamendhoo.com/things-to-do/water-sports/catamaran.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sailing",
+    "source_url": "https://www.vilamendhoo.com/things-to-do/water-sports/catamaran.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "kayaking",
+    "source_url": "https://www.vilamendhoo.com/things-to-do/water-sports/kayaking.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://www.vilamendhoo.com/blog/category/sustainability",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.vilamendhoo.com/blog/category/sustainability",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.vilamendhoo.com/blog/category/sustainability",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.vilamendhoo.com/blog/category/snorkelling-diving",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.vilamendhoo.com/blog/category/snorkelling-diving",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://www.vilamendhoo.com/blog/category/snorkelling-diving",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.vilamendhoo.com/blog/category/snorkelling-diving",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.vilamendhoo.com/blog/category/snorkelling-diving",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.vilamendhoo.com/blog/category/uncategorized",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.vilamendhoo.com/dive-centre/water-sports/jet-ski.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "jet ski",
+    "source_url": "https://www.vilamendhoo.com/dive-centre/water-sports/jet-ski.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://www.vilamendhoo.com/blog/2021/11",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://mondomaldive.it/it/villaggio/vilamendhoo-island-resort/recensione/5296",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://mondomaldive.it/it/villaggio/vilamendhoo-island-resort/recensione/5296",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://mondomaldive.it/it/villaggio/vilamendhoo-island-resort/recensione/6155",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://mondomaldive.it/it/villaggio/vilamendhoo-island-resort/recensione/6155",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://mondomaldive.it/it/villaggio/vilamendhoo-island-resort/recensione/5999",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://mondomaldive.it/it/villaggio/vilamendhoo-island-resort/recensione/6149",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://mondomaldive.it/it/villaggio/vilamendhoo-island-resort/racconto/vilamendhoo-per-tutti-i-gusti",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://mondomaldive.it/it/villaggio/vilamendhoo-island-resort/racconto/vilamendhoo-per-tutti-i-gusti",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.mymaldives.com/resort-guide/vilamendhoo-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://www.mymaldives.com/resort-guide/vilamendhoo-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "catamaran",
+    "source_url": "https://www.mymaldives.com/resort-guide/vilamendhoo-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sailing",
+    "source_url": "https://www.mymaldives.com/resort-guide/vilamendhoo-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "canoe",
+    "source_url": "https://www.mymaldives.com/resort-guide/vilamendhoo-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.maldivestourism.net/resorts/vilamendhoo-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "windsurfing",
+    "source_url": "https://www.maldivestourism.net/resorts/vilamendhoo-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "water skiing",
+    "source_url": "https://www.maldivestourism.net/resorts/vilamendhoo-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "canoe",
+    "source_url": "https://www.maldivestourism.net/resorts/vilamendhoo-island-resort/",
+    "as_of": "2026-10-04"
    }
   ],
   "excursions": [
    {
     "value": "local island",
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2025/12/FactSheetVilamendhoo110125103126Ver260425.pdf",
+    "source_url": "https://img.crownandchamparesorts.com/vlm/VilamendhooFactsheet151126103127Rev050626.pdf",
+    "as_of": 2027
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://img.crownandchamparesorts.com/vlm/VilamendhooFactsheet151126103127Rev050626.pdf",
+    "as_of": 2027
+   },
+   {
+    "value": "manta",
+    "source_url": "https://img.crownandchamparesorts.com/vlm/VilamendhooFactsheet151126103127Rev050626.pdf",
+    "as_of": 2027
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://img.crownandchamparesorts.com/vlm/VilamendhooFactsheet151126103127Rev050626.pdf",
+    "as_of": 2027
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://dra0pipbd8ype.cloudfront.net/2024/12/VILA-VoWs-Presentation-_Rev230424.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "local island",
+    "source_url": "https://dra0pipbd8ype.cloudfront.net/2026/02/ExcursionProgramVilamendhoo110124103125C.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://dra0pipbd8ype.cloudfront.net/2026/02/ExcursionProgramVilamendhoo110124103125C.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://dra0pipbd8ype.cloudfront.net/2026/02/ExcursionProgramVilamendhoo110124103125C.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "manta",
+    "source_url": "https://dra0pipbd8ype.cloudfront.net/2026/02/ExcursionProgramVilamendhoo110124103125C.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://dra0pipbd8ype.cloudfront.net/2026/02/ExcursionProgramVilamendhoo110124103125C.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "picnic",
+    "source_url": "https://dra0pipbd8ype.cloudfront.net/2026/02/ExcursionProgramVilamendhoo110124103125C.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "local island",
+    "source_url": "https://dra0pipbd8ype.cloudfront.net/2026/05/VilaAllInclusiveDineAroundPackage111526103127Rev050626.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://d2qwq69i2ic1pk.cloudfront.net/2026/02/Sustainablity-Initiatives-Brochure-CCR-2025.pdf",
     "as_of": 2025
    },
    {
     "value": "whale shark",
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2025/12/FactSheetVilamendhoo110125103126Ver260425.pdf",
-    "as_of": 2025
+    "source_url": "https://www.vilamendhoo.com/",
+    "as_of": "2026-10-04"
    },
    {
     "value": "manta",
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2025/12/FactSheetVilamendhoo110125103126Ver260425.pdf",
-    "as_of": 2025
+    "source_url": "https://www.vilamendhoo.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.vilamendhoo.com/things-to-do/excursions/sunset-punch-cruise.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "island hopping",
+    "source_url": "https://www.vilamendhoo.com/things-to-do/excursions.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "local island",
+    "source_url": "https://www.vilamendhoo.com/things-to-do/excursions.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.vilamendhoo.com/things-to-do/excursions.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.vilamendhoo.com/things-to-do/excursions.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.vilamendhoo.com/things-to-do/excursions.html",
+    "as_of": "2026-10-04"
    },
    {
     "value": "turtle",
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2025/12/FactSheetVilamendhoo110125103126Ver260425.pdf",
-    "as_of": 2025
+    "source_url": "https://www.vilamendhoo.com/things-to-do/excursions.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "cooking class",
+    "source_url": "https://www.vilamendhoo.com/blog/category/travel-guide/page/2",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.vilamendhoo.com/blog/2020/page/3",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.vilamendhoo.com/blog/2020/page/3",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.vilamendhoo.com/sitemap.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.vilamendhoo.com/sitemap.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.vilamendhoo.com/sitemap.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.vilamendhoo.com/blog/category/things-to-do",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.vilamendhoo.com/blog/category/things-to-do",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.vilamendhoo.com/blog/category/things-to-do",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.vilamendhoo.com/blog/category/family-travel",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.vilamendhoo.com/blog/category/family-travel",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.vilamendhoo.com/blog/category/family-travel",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "island hopping",
+    "source_url": "https://www.vilamendhoo.com/things-to-do/excursions/dhangethi-island-excursion.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "local island",
+    "source_url": "https://www.vilamendhoo.com/things-to-do/excursions/dhangethi-island-excursion.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.vilamendhoo.com/blog/category/wellness",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "local island",
+    "source_url": "https://www.vilamendhoo.com/dining/all-inclusive-package.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.vilamendhoo.com/blog/2019/page/2",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.vilamendhoo.com/blog/2019/page/2",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.vilamendhoo.com/blog/2019/page/2",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.vilamendhoo.com/blog/2019/page/2",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.vilamendhoo.com/things-to-do/water-sports/catamaran.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.vilamendhoo.com/blog/category/sustainability",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.vilamendhoo.com/blog/category/sustainability",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.vilamendhoo.com/blog/category/sustainability",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.vilamendhoo.com/blog/category/snorkelling-diving",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.vilamendhoo.com/blog/category/snorkelling-diving",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.vilamendhoo.com/blog/category/snorkelling-diving",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.vilamendhoo.com/dive-centre/water-sports/jet-ski.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.vilamendhoo.com/dive-centre/water-sports/jet-ski.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.vilamendhoo.com/blog/2021/11",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://mondomaldive.it/it/villaggio/vilamendhoo-island-resort/recensione/5296",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://mondomaldive.it/it/villaggio/vilamendhoo-island-resort/recensione/5296",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://mondomaldive.it/it/villaggio/vilamendhoo-island-resort/recensione/5296",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://mondomaldive.it/it/villaggio/vilamendhoo-island-resort/recensione/6155",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://mondomaldive.it/it/villaggio/vilamendhoo-island-resort/recensione/5999",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://mondomaldive.it/it/villaggio/vilamendhoo-island-resort/racconto/vilamendhoo-per-tutti-i-gusti",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.mymaldives.com/resort-guide/vilamendhoo-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.maldivestourism.net/resorts/vilamendhoo-island-resort/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "kids_family.kids_club": [
+   {
+    "value": "Kids Club",
+    "source_url": "https://img.crownandchamparesorts.com/vlm/VilamendhooFactsheet151126103127Rev050626.pdf",
+    "as_of": 2027
+   },
+   {
+    "value": "Kids Club",
+    "source_url": "https://www.vilamendhoo.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Kids Club",
+    "source_url": "https://www.vilamendhoo.com/sitemap.html",
+    "as_of": "2026-10-04"
    }
   ],
   "wellness_fitness": [
    {
     "value": "yoga",
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2025/12/FactSheetVilamendhoo110125103126Ver260425.pdf",
-    "as_of": 2025
+    "source_url": "https://img.crownandchamparesorts.com/vlm/VilamendhooFactsheet151126103127Rev050626.pdf",
+    "as_of": 2027
+   },
+   {
+    "value": "fitness center",
+    "source_url": "https://img.crownandchamparesorts.com/vlm/VilamendhooFactsheet151126103127Rev050626.pdf",
+    "as_of": 2027
    },
    {
     "value": "tennis",
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2025/12/FactSheetVilamendhoo110125103126Ver260425.pdf",
-    "as_of": 2025
+    "source_url": "https://img.crownandchamparesorts.com/vlm/VilamendhooFactsheet151126103127Rev050626.pdf",
+    "as_of": 2027
    },
    {
     "value": "padel",
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2025/12/FactSheetVilamendhoo110125103126Ver260425.pdf",
-    "as_of": 2025
+    "source_url": "https://img.crownandchamparesorts.com/vlm/VilamendhooFactsheet151126103127Rev050626.pdf",
+    "as_of": 2027
    },
    {
     "value": "badminton",
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2025/12/FactSheetVilamendhoo110125103126Ver260425.pdf",
-    "as_of": 2025
+    "source_url": "https://img.crownandchamparesorts.com/vlm/VilamendhooFactsheet151126103127Rev050626.pdf",
+    "as_of": 2027
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://dra0pipbd8ype.cloudfront.net/2026/05/VilaAllInclusiveDineAroundPackage111526103127Rev050626.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "fitness centre",
+    "source_url": "https://dra0pipbd8ype.cloudfront.net/2026/05/VilaAllInclusiveDineAroundPackage111526103127Rev050626.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://dra0pipbd8ype.cloudfront.net/2026/05/VilaAllInclusiveDineAroundPackage111526103127Rev050626.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "padel",
+    "source_url": "https://dra0pipbd8ype.cloudfront.net/2026/05/VilaAllInclusiveDineAroundPackage111526103127Rev050626.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "badminton",
+    "source_url": "https://dra0pipbd8ype.cloudfront.net/2026/05/VilaAllInclusiveDineAroundPackage111526103127Rev050626.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.vilamendhoo.com/blog/category/travel-guide/page/2",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fitness centre",
+    "source_url": "https://www.vilamendhoo.com/sitemap.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://www.vilamendhoo.com/sitemap.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "padel",
+    "source_url": "https://www.vilamendhoo.com/sitemap.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "badminton",
+    "source_url": "https://www.vilamendhoo.com/sitemap.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.vilamendhoo.com/blog/category/wellness",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "meditation",
+    "source_url": "https://www.vilamendhoo.com/blog/category/wellness",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sound healing",
+    "source_url": "https://www.vilamendhoo.com/blog/category/wellness",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.vilamendhoo.com/dining/all-inclusive-package.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fitness centre",
+    "source_url": "https://www.vilamendhoo.com/dining/all-inclusive-package.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://www.vilamendhoo.com/dining/all-inclusive-package.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "padel",
+    "source_url": "https://www.vilamendhoo.com/dining/all-inclusive-package.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "badminton",
+    "source_url": "https://www.vilamendhoo.com/dining/all-inclusive-package.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fitness centre",
+    "source_url": "https://www.vilamendhoo.com/blog/2019/page/2",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "badminton",
+    "source_url": "https://www.vilamendhoo.com/blog/2019/page/2",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "gym",
+    "source_url": "https://www.vilamendhoo.com/blog/2020/06",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://mondomaldive.it/it/villaggio/vilamendhoo-island-resort/recensione/5999",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://www.mymaldives.com/resort-guide/vilamendhoo-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "badminton",
+    "source_url": "https://www.mymaldives.com/resort-guide/vilamendhoo-island-resort/",
+    "as_of": "2026-10-04"
    }
   ],
   "weddings.offered": [
    {
     "value": true,
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2025/12/FactSheetVilamendhoo110125103126Ver260425.pdf",
-    "as_of": 2025
+    "source_url": "https://img.crownandchamparesorts.com/vlm/VilamendhooFactsheet151126103127Rev050626.pdf",
+    "as_of": 2027
+   },
+   {
+    "value": true,
+    "source_url": "https://dra0pipbd8ype.cloudfront.net/2024/12/VILA-VoWs-Presentation-_Rev230424.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": true,
+    "source_url": "https://dra0pipbd8ype.cloudfront.net/2025/06/HoneymoonGuestInfoRatesVilamendhooVer020525.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": true,
+    "source_url": "https://www.vilamendhoo.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.vilamendhoo.com/blog/2021/04",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.vilamendhoo.com/blog/2021/02",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.vilamendhoo.com/blog/2021/02",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.vilamendhoo.com/offers.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.vilamendhoo.com/blog/2021/09",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.vilamendhoo.com/blog/2020/06",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.vilamendhoo.com/blog/category/sustainability",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.vilamendhoo.com/romance/symbolic-renewal-of-vows.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.vilamendhoo.com/romance/symbolic-renewal-of-vows.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.vilamendhoo.com/blog/2021",
+    "as_of": "2026-10-04"
    }
   ],
   "weddings.vow_renewal": [
    {
     "value": true,
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2025/12/FactSheetVilamendhoo110125103126Ver260425.pdf",
+    "source_url": "https://img.crownandchamparesorts.com/vlm/VilamendhooFactsheet151126103127Rev050626.pdf",
+    "as_of": 2027
+   },
+   {
+    "value": true,
+    "source_url": "https://dra0pipbd8ype.cloudfront.net/2024/12/VILA-VoWs-Presentation-_Rev230424.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": true,
+    "source_url": "https://www.vilamendhoo.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.vilamendhoo.com/sitemap.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.vilamendhoo.com/blog/2021/02",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.vilamendhoo.com/romance/symbolic-renewal-of-vows.html",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "contacts_public.phone": [
+   {
+    "value": "+960 668 0637",
+    "source_url": "https://img.crownandchamparesorts.com/vlm/VilamendhooFactsheet151126103127Rev050626.pdf",
+    "as_of": 2027
+   },
+   {
+    "value": "+960 668 0637",
+    "source_url": "https://dra0pipbd8ype.cloudfront.net/2026/05/VilaAllInclusiveDineAroundPackage111526103127Rev050626.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "+960 664 0219",
+    "source_url": "https://d2qwq69i2ic1pk.cloudfront.net/2026/02/Sustainablity-Initiatives-Brochure-CCR-2025.pdf",
     "as_of": 2025
+   },
+   {
+    "value": "+960 668 0637",
+    "source_url": "https://www.mymaldives.com/resort-guide/vilamendhoo-island-resort/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "weddings.venues": [
+   {
+    "value": "VILA VoWs ceremony in our tropical beach",
+    "source_url": "https://dra0pipbd8ype.cloudfront.net/2024/12/VILA-VoWs-Presentation-_Rev230424.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": " Tropical Ceremony Set‐Up at the Beach",
+    "source_url": "https://dra0pipbd8ype.cloudfront.net/2024/12/VILA-VoWs-Presentation-_Rev230424.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": " Tropical Ceremony Set‐Up at the Beach",
+    "source_url": "https://dra0pipbd8ype.cloudfront.net/2024/12/VILA-VoWs-Presentation-_Rev230424.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": " Tropical Ceremony Set‐Up at the Beach",
+    "source_url": "https://dra0pipbd8ype.cloudfront.net/2024/12/VILA-VoWs-Presentation-_Rev230424.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "a traditional Maldivian ceremony set on the beach",
+    "source_url": "https://www.vilamendhoo.com/blog/2021/02",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "weddings.packages": [
+   {
+    "value": {
+     "name": "Vow",
+     "price": "1485",
+     "currency": "USD",
+     "as_of": 2024
+    },
+    "source_url": "https://dra0pipbd8ype.cloudfront.net/2024/12/VILA-VoWs-Presentation-_Rev230424.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": {
+     "name": "Wedding",
+     "price": "520",
+     "currency": "USD",
+     "as_of": 2024
+    },
+    "source_url": "https://dra0pipbd8ype.cloudfront.net/2024/12/VILA-VoWs-Presentation-_Rev230424.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": {
+     "name": "Wedding",
+     "price": "1185",
+     "currency": "USD",
+     "as_of": 2026
+    },
+    "source_url": "https://dra0pipbd8ype.cloudfront.net/2025/06/HoneymoonGuestInfoRatesVilamendhooVer020525.pdf",
+    "as_of": 2026
+   }
+  ],
+  "contacts_public.reservations_email": [
+   {
+    "value": "reservations@vilamendhoo.com",
+    "source_url": "https://dra0pipbd8ype.cloudfront.net/2025/06/HoneymoonGuestInfoRatesVilamendhooVer020525.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "reservations@vilamendhoo.com",
+    "source_url": "https://dra0pipbd8ype.cloudfront.net/2026/02/ExcursionProgramVilamendhoo110124103125C.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "info@crownandchamparesorts.com",
+    "source_url": "https://d2qwq69i2ic1pk.cloudfront.net/2026/02/Sustainablity-Initiatives-Brochure-CCR-2025.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "reservations@vilamendhoo.com",
+    "source_url": "https://www.vilamendhoo.com/blog/category/travel-guide/page/2",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "reservations@vilamendhoo.com",
+    "source_url": "https://www.vilamendhoo.com/blog/2021/04",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "reservations@vilamendhoo.com",
+    "source_url": "https://www.vilamendhoo.com/blog/2021/02",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "reservations@vilamendhoo.com",
+    "source_url": "https://www.vilamendhoo.com/travel-agents.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "hello@beyondwellnessgroup.com",
+    "source_url": "https://www.vilamendhoo.com/blog/category/wellness",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "reservations@vilamendhoo.com",
+    "source_url": "https://www.vilamendhoo.com/blog/category/wellness",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "reservations@vilamendhoo.com",
+    "source_url": "https://www.vilamendhoo.com/blog/2021/09",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "reservations@vilamendhoo.com",
+    "source_url": "https://www.vilamendhoo.com/blog/category/message-from-general-manager",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "reservations@vilamendhoo.com",
+    "source_url": "https://www.vilamendhoo.com/blog/category/sustainability",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "reservations@vilamendhoo.com",
+    "source_url": "https://www.vilamendhoo.com/blog/category/uncategorized",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "reservations@vilamendhoo.com",
+    "source_url": "https://www.vilamendhoo.com/blog/2021/11",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "diving_watersports.operator": [
+   {
+    "value": "Euro-Divers",
+    "source_url": "https://dra0pipbd8ype.cloudfront.net/2025/12/Vilamendhoo-Dive-English_JAN26.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "Euro-Divers",
+    "source_url": "https://dra0pipbd8ype.cloudfront.net/2026/02/ExcursionProgramVilamendhoo110124103125C.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "Euro Divers",
+    "source_url": "https://d2qwq69i2ic1pk.cloudfront.net/2026/02/Sustainablity-Initiatives-Brochure-CCR-2025.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "Euro-Divers",
+    "source_url": "https://www.vilamendhoo.com/dive-centre/scuba-diving/continuing-education.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Euro-Divers",
+    "source_url": "https://www.vilamendhoo.com/blog/2021/page/4",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Euro-Divers",
+    "source_url": "https://www.vilamendhoo.com/blog/2020/page/3",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Dive Centre",
+    "source_url": "https://www.vilamendhoo.com/sitemap.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Euro-Divers",
+    "source_url": "https://www.vilamendhoo.com/blog/2019/page/2",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Euro-Divers",
+    "source_url": "https://www.vilamendhoo.com/blog/2022/06",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Euro-Divers",
+    "source_url": "https://www.vilamendhoo.com/blog/category/sustainability",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Euro-Divers",
+    "source_url": "https://www.vilamendhoo.com/blog/2021/11",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "meal_plans": [
+   {
+    "value": "FB",
+    "source_url": "https://dra0pipbd8ype.cloudfront.net/2026/02/ExcursionProgramVilamendhoo110124103125C.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "AI",
+    "source_url": "https://www.vilamendhoo.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Dine Around",
+    "source_url": "https://www.vilamendhoo.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "FB",
+    "source_url": "https://www.vilamendhoo.com/blog/category/wellness",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://www.vilamendhoo.com/dining/all-inclusive-package.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://mondomaldive.it/it/villaggio/vilamendhoo-island-resort/recensione/5296",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://mondomaldive.it/it/villaggio/vilamendhoo-island-resort/recensione/6155",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://mondomaldive.it/it/villaggio/vilamendhoo-island-resort/recensione/5978",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://mondomaldive.it/it/villaggio/vilamendhoo-island-resort/recensione/5999",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://mondomaldive.it/it/villaggio/vilamendhoo-island-resort/recensione/3621",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://mondomaldive.it/it/villaggio/vilamendhoo-island-resort/recensione/6149",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "kids_family.age_range": [
+   {
+    "value": "5-12 years",
+    "source_url": "https://dra0pipbd8ype.cloudfront.net/2026/02/ExcursionProgramVilamendhoo110124103125C.pdf",
+    "as_of": 2024
+   }
+  ],
+  "events_mice.capacity_max": [
+   {
+    "value": 18,
+    "source_url": "https://dra0pipbd8ype.cloudfront.net/2026/02/ExcursionProgramVilamendhoo110124103125C.pdf",
+    "as_of": 2024
+   }
+  ],
+  "all_inclusive_details": [
+   {
+    "value": "All-Inclusive Dine Around Package.",
+    "source_url": "https://dra0pipbd8ype.cloudfront.net/2026/05/VilaAllInclusiveDineAroundPackage111526103127Rev050626.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "all-inclusive resort in the Maldives with two all-you-can-eat buffet restaurants.",
+    "source_url": "https://www.vilamendhoo.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "All Inclusive Plus package and receive an exceptional 20% discount on all room categories.",
+    "source_url": "https://www.vilamendhoo.com/blog/category/special-offers",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "All Inclusive Plus package offers to last-minute promotions and once-off deals, take advantage of our exceptional rates and value for money.",
+    "source_url": "https://www.vilamendhoo.com/promos/contact",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "all-inclusive at Vilamendhoo for a seamless holiday in the Maldives.",
+    "source_url": "https://www.vilamendhoo.com/dining/all-inclusive-package.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "All Inclusive VERO (comprese bottiglie di acqua in camera).",
+    "source_url": "https://mondomaldive.it/it/villaggio/vilamendhoo-island-resort/recensione/6155",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "all inclusive per non avere sorprese alla fine.",
+    "source_url": "https://mondomaldive.it/it/villaggio/vilamendhoo-island-resort/recensione/6149",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "All Inclusive, un’escursione gratuita e crociera al tramonto gratuita.",
+    "source_url": "https://mondomaldive.it/it/villaggio/vilamendhoo-island-resort/racconto/vilamendhoo-per-tutti-i-gusti",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "sustainability": [
+   {
+    "value": "coral restoration",
+    "source_url": "https://d2qwq69i2ic1pk.cloudfront.net/2026/02/Sustainablity-Initiatives-Brochure-CCR-2025.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "marine biologist",
+    "source_url": "https://d2qwq69i2ic1pk.cloudfront.net/2026/02/Sustainablity-Initiatives-Brochure-CCR-2025.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "solar",
+    "source_url": "https://d2qwq69i2ic1pk.cloudfront.net/2026/02/Sustainablity-Initiatives-Brochure-CCR-2025.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "desalination",
+    "source_url": "https://d2qwq69i2ic1pk.cloudfront.net/2026/02/Sustainablity-Initiatives-Brochure-CCR-2025.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "marine biologist",
+    "source_url": "https://www.vilamendhoo.com/blog/2020/page/3",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta trust",
+    "source_url": "https://www.vilamendhoo.com/blog/2020/page/3",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta trust",
+    "source_url": "https://www.vilamendhoo.com/sitemap.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Travelife",
+    "source_url": "https://www.vilamendhoo.com/blog/category/uncategorized",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "opened_or_renovated": [
+   {
+    "value": "opened 2026",
+    "source_url": "https://www.vilamendhoo.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "renovated 2026",
+    "source_url": "https://www.vilamendhoo.com/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "dining": [
+   {
+    "value": {
+     "name": "Ahima Buffet Restaurant",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.vilamendhoo.com/dining/buffet-restaurants/ahima-buffet-restaurant.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Stocked Mini Bar with refrigerator",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.vilamendhoo.com/rooms/garden-rooms.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "overwater Asian Wok Restaurant.",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.vilamendhoo.com/blog/category/travel-guide/page/2",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Culinary Experiences at Asian Wok Restaurant",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.vilamendhoo.com/blog/category/travel-guide/page/2",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Funama Buffet Restaurant",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.vilamendhoo.com/sitemap.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Ahima Buffet Restaurant",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.vilamendhoo.com/sitemap.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Faru Restaurant",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.vilamendhoo.com/sitemap.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Boashi Cafe",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.vilamendhoo.com/sitemap.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Bonthi Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.vilamendhoo.com/sitemap.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Boashi Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.vilamendhoo.com/sitemap.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Sunset Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.vilamendhoo.com/sitemap.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Asian Wok Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.vilamendhoo.com/sitemap.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Funama Buffet Restaurant",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.vilamendhoo.com/dining/buffet-restaurants/funama-buffet-restaurant.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Stocked Mini Bar with refrigerator",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.vilamendhoo.com/rooms/tropical-villas.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Faru Restaurant",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.vilamendhoo.com/dining/a-la-carte-restaurants/hot-rock-restaurant.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Bonthi Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.vilamendhoo.com/blog/2021",
+    "as_of": "2026-10-04"
    }
   ]
  },
- "last_updated": "2026-10-04"
+ "last_updated": "2026-10-05"
 }

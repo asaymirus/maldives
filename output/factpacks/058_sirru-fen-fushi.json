@@ -6,8 +6,8 @@
   "Sirru Fen Fushi",
   "Fairmont Maldives"
  ],
- "official_url": null,
- "official_site_status": null,
+ "official_url": "https://www.fairmont-maldives.com/",
+ "official_site_status": "ok",
  "operator_brand": "Fairmont",
  "atoll": "Shaviyani Atoll",
  "island": "Sirru Fen",
@@ -28,47 +28,18 @@
  "island_size": null,
  "villas": {
   "total": 120,
-  "categories": [
-   {
-    "name": "Number of Villas",
-    "count": 120,
-    "size_sqm": null,
-    "max_occupancy": null,
-    "pool": null,
-    "overwater": null
-   }
-  ]
+  "categories": []
  },
  "dining": [
   {
-   "name": "1. RAHA MARKET All-Day Dining Restaurant",
-   "cuisine": null,
-   "type": "restaurant"
-  },
-  {
-   "name": "2. ONU ONU Poolside Bar",
+   "name": "Arabian Afternoon Lounge with Shisha",
    "cuisine": null,
    "type": "bar"
   },
   {
-   "name": "3. KATA Japanese Restaurant",
+   "name": "Onu Onu Bar",
    "cuisine": null,
-   "type": "restaurant"
-  },
-  {
-   "name": "4. AZURE Seafood Restaurant",
-   "cuisine": null,
-   "type": "restaurant"
-  },
-  {
-   "name": "Dining",
-   "cuisine": null,
-   "type": "restaurant"
-  },
-  {
-   "name": "In-Villa Dining",
-   "cuisine": null,
-   "type": "restaurant"
+   "type": "bar"
   }
  ],
  "meal_plans": [],
@@ -88,14 +59,18 @@
    "dolphin cruise",
    "manta",
    "sailing",
-   "snorkeling"
+   "snorkeling",
+   "jet ski",
+   "banana boat",
+   "fun tube"
   ],
-  "price_list_doc": "https://neoscapesmaldives.com/wp-content/uploads/Fairmont-Maldives_House-Reef-Snorkeling-and-Diving-Spots.pdf"
+  "price_list_doc": "https://letsgomaldives.com/wp-content/uploads/2026/03/Eid-Al-Fitr-Sirru-Fen-Fushi.pdf"
  },
  "excursions": [
   "dolphin",
   "manta",
   "turtle",
+  "stargazing",
   "picnic",
   "castaway"
  ],
@@ -109,7 +84,8 @@
   "gym",
   "fitness centre",
   "tennis",
-  "beach volleyball"
+  "beach volleyball",
+  "badminton"
  ],
  "weddings": {
   "offered": true,
@@ -129,9 +105,9 @@
  },
  "sustainability": [],
  "contacts_public": {
-  "reservations_email": "info@neoscapesmaldives.com",
+  "reservations_email": "info@sirrufenfushi.com",
   "weddings_email": null,
-  "phone": "+960 736 5425"
+  "phone": "+960 654 8888"
  },
  "documents_latest": {
   "factsheet": "https://www.neoscapesmaldives.com/wp-content/uploads/Fairmont-Maldives-Fact-Sheet-2023.pdf",
@@ -139,14 +115,15 @@
   "wedding": null,
   "spa_menu": null,
   "dining_menu": null,
-  "dive_prices": "https://neoscapesmaldives.com/wp-content/uploads/Fairmont-Maldives_House-Reef-Snorkeling-and-Diving-Spots.pdf",
+  "dive_prices": "https://letsgomaldives.com/wp-content/uploads/2026/03/Eid-Al-Fitr-Sirru-Fen-Fushi.pdf",
   "events": null,
   "calendar": null
  },
- "documents_count": 3,
+ "documents_count": 4,
  "gaps": [
   "wedding brochure",
-  "events/MICE document"
+  "events/MICE document",
+  "fact: villa categories"
  ],
  "sources": {
   "atoll": [
@@ -154,6 +131,11 @@
     "value": "Shaviyani Atoll",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Fairmont-Maldives-Fact-Sheet-2023.pdf",
     "as_of": 2023
+   },
+   {
+    "value": "Shaviyani Atoll",
+    "source_url": "https://letsgomaldives.com/wp-content/uploads/2026/03/Eid-Al-Fitr-Sirru-Fen-Fushi.pdf",
+    "as_of": 2026
    },
    {
     "value": "Shaviyani Atoll",
@@ -210,6 +192,11 @@
     "value": "Willow Stream Spa",
     "source_url": "https://www.neoscapesmaldives.com/resort/fairmont-maldives-sirru-fen-fushi/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://malediven.de/malediven-hotels/sirru-fen-fushi/",
+    "as_of": "2026-10-04"
    }
   ],
   "diving_watersports.house_reef": [
@@ -219,13 +206,13 @@
     "as_of": 2023
    },
    {
-    "value": "HOUSE REEF",
-    "source_url": "https://neoscapesmaldives.com/wp-content/uploads/Fairmont-Maldives_House-Reef-Snorkeling-and-Diving-Spots.pdf",
-    "as_of": 2019
-   },
-   {
     "value": "house reef with our resident turtles and the never-ending Indian Ocean",
     "source_url": "https://www.neoscapesmaldives.com/resort/fairmont-maldives-sirru-fen-fushi/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reefs",
+    "source_url": "https://letsgomaldives.com/news/celebrate-world-oceans-day-at-sirru-fen-fushi-a-freediving-journey-like-no-other/",
     "as_of": "2026-10-04"
    }
   ],
@@ -257,13 +244,28 @@
    },
    {
     "value": "snorkeling",
-    "source_url": "https://neoscapesmaldives.com/wp-content/uploads/Fairmont-Maldives_House-Reef-Snorkeling-and-Diving-Spots.pdf",
-    "as_of": 2019
+    "source_url": "https://letsgomaldives.com/wp-content/uploads/2026/03/Eid-Al-Fitr-Sirru-Fen-Fushi.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "jet ski",
+    "source_url": "https://letsgomaldives.com/wp-content/uploads/2026/03/Eid-Al-Fitr-Sirru-Fen-Fushi.pdf",
+    "as_of": 2026
    },
    {
     "value": "manta",
-    "source_url": "https://neoscapesmaldives.com/wp-content/uploads/Fairmont-Maldives_House-Reef-Snorkeling-and-Diving-Spots.pdf",
-    "as_of": 2019
+    "source_url": "https://letsgomaldives.com/wp-content/uploads/2026/03/Eid-Al-Fitr-Sirru-Fen-Fushi.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "banana boat",
+    "source_url": "https://letsgomaldives.com/wp-content/uploads/2026/03/Eid-Al-Fitr-Sirru-Fen-Fushi.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "fun tube",
+    "source_url": "https://letsgomaldives.com/wp-content/uploads/2026/03/Eid-Al-Fitr-Sirru-Fen-Fushi.pdf",
+    "as_of": 2026
    },
    {
     "value": "snorkeling",
@@ -294,6 +296,11 @@
     "value": "sailing",
     "source_url": "https://www.neoscapesmaldives.com/resort/fairmont-maldives-sirru-fen-fushi/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://malediven.de/malediven-hotels/sirru-fen-fushi/",
+    "as_of": "2026-10-04"
    }
   ],
   "excursions": [
@@ -308,14 +315,24 @@
     "as_of": 2023
    },
    {
+    "value": "dolphin",
+    "source_url": "https://letsgomaldives.com/wp-content/uploads/2026/03/Eid-Al-Fitr-Sirru-Fen-Fushi.pdf",
+    "as_of": 2026
+   },
+   {
     "value": "manta",
-    "source_url": "https://neoscapesmaldives.com/wp-content/uploads/Fairmont-Maldives_House-Reef-Snorkeling-and-Diving-Spots.pdf",
-    "as_of": 2019
+    "source_url": "https://letsgomaldives.com/wp-content/uploads/2026/03/Eid-Al-Fitr-Sirru-Fen-Fushi.pdf",
+    "as_of": 2026
    },
    {
     "value": "turtle",
-    "source_url": "https://neoscapesmaldives.com/wp-content/uploads/Fairmont-Maldives_House-Reef-Snorkeling-and-Diving-Spots.pdf",
-    "as_of": 2019
+    "source_url": "https://letsgomaldives.com/wp-content/uploads/2026/03/Eid-Al-Fitr-Sirru-Fen-Fushi.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "stargazing",
+    "source_url": "https://letsgomaldives.com/wp-content/uploads/2026/03/Eid-Al-Fitr-Sirru-Fen-Fushi.pdf",
+    "as_of": 2026
    },
    {
     "value": "dolphin",
@@ -341,6 +358,16 @@
     "value": "castaway",
     "source_url": "https://www.neoscapesmaldives.com/resort/fairmont-maldives-sirru-fen-fushi/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://malediven.de/malediven-hotels/sirru-fen-fushi/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "stargazing",
+    "source_url": "https://malediven.de/malediven-hotels/sirru-fen-fushi/",
+    "as_of": "2026-10-04"
    }
   ],
   "kids_family.kids_club": [
@@ -351,12 +378,22 @@
    },
    {
     "value": "Kids Club",
+    "source_url": "https://letsgomaldives.com/wp-content/uploads/2026/03/Eid-Al-Fitr-Sirru-Fen-Fushi.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "Kids Club",
     "source_url": "https://neoscapesmaldives.com/wp-content/uploads/Fairmont-Maldives_ISLAND-MAP.pdf",
     "as_of": 2019
    },
    {
     "value": "Kids Club",
     "source_url": "https://www.neoscapesmaldives.com/resort/fairmont-maldives-sirru-fen-fushi/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Der Kids Club",
+    "source_url": "https://malediven.de/malediven-hotels/sirru-fen-fushi/",
     "as_of": "2026-10-04"
    }
   ],
@@ -404,6 +441,16 @@
     "as_of": 2023
    },
    {
+    "value": "gym",
+    "source_url": "https://letsgomaldives.com/wp-content/uploads/2026/03/Eid-Al-Fitr-Sirru-Fen-Fushi.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "badminton",
+    "source_url": "https://letsgomaldives.com/wp-content/uploads/2026/03/Eid-Al-Fitr-Sirru-Fen-Fushi.pdf",
+    "as_of": 2026
+   },
+   {
     "value": "tennis",
     "source_url": "https://neoscapesmaldives.com/wp-content/uploads/Fairmont-Maldives_ISLAND-MAP.pdf",
     "as_of": 2019
@@ -427,6 +474,11 @@
     "value": "beach volleyball",
     "source_url": "https://www.neoscapesmaldives.com/resort/fairmont-maldives-sirru-fen-fushi/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://malediven.de/malediven-hotels/sirru-fen-fushi/",
+    "as_of": "2026-10-04"
    }
   ],
   "weddings.offered": [
@@ -438,6 +490,16 @@
    {
     "value": true,
     "source_url": "https://www.neoscapesmaldives.com/resort/fairmont-maldives-sirru-fen-fushi/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://letsgomaldives.com/news/celebrate-world-oceans-day-at-sirru-fen-fushi-a-freediving-journey-like-no-other/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://malediven.de/malediven-hotels/sirru-fen-fushi/",
     "as_of": "2026-10-04"
    }
   ],
@@ -460,6 +522,11 @@
     "as_of": 2023
    },
    {
+    "value": "info@sirrufenfushi.com",
+    "source_url": "https://letsgomaldives.com/wp-content/uploads/2026/03/Eid-Al-Fitr-Sirru-Fen-Fushi.pdf",
+    "as_of": 2026
+   },
+   {
     "value": "info@neoscapesmaldives.com",
     "source_url": "https://www.neoscapesmaldives.com/resort/fairmont-maldives-sirru-fen-fushi/",
     "as_of": "2026-10-04"
@@ -472,6 +539,11 @@
     "as_of": 2023
    },
    {
+    "value": "+960 654 8888",
+    "source_url": "https://letsgomaldives.com/wp-content/uploads/2026/03/Eid-Al-Fitr-Sirru-Fen-Fushi.pdf",
+    "as_of": 2026
+   },
+   {
     "value": "+ 960 654 8888",
     "source_url": "https://neoscapesmaldives.com/wp-content/uploads/Fairmont-Maldives_ISLAND-MAP.pdf",
     "as_of": 2019
@@ -482,6 +554,26 @@
     "as_of": "2026-10-04"
    }
   ],
+  "dining": [
+   {
+    "value": {
+     "name": "Arabian Afternoon Lounge with Shisha",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://letsgomaldives.com/wp-content/uploads/2026/03/Eid-Al-Fitr-Sirru-Fen-Fushi.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": {
+     "name": "Onu Onu Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://letsgomaldives.com/wp-content/uploads/2026/03/Eid-Al-Fitr-Sirru-Fen-Fushi.pdf",
+    "as_of": 2026
+   }
+  ],
   "island": [
    {
     "value": "Sirru Fen",
@@ -490,71 +582,6 @@
    },
    {
     "value": "Sirru Fen",
-    "source_url": "https://www.neoscapesmaldives.com/resort/fairmont-maldives-sirru-fen-fushi/",
-    "as_of": "2026-10-04"
-   }
-  ],
-  "dining": [
-   {
-    "value": {
-     "name": "1. RAHA MARKET All-Day Dining Restaurant",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://neoscapesmaldives.com/wp-content/uploads/Fairmont-Maldives_ISLAND-MAP.pdf",
-    "as_of": 2019
-   },
-   {
-    "value": {
-     "name": "2. ONU ONU Poolside Bar",
-     "cuisine": null,
-     "type": "bar"
-    },
-    "source_url": "https://neoscapesmaldives.com/wp-content/uploads/Fairmont-Maldives_ISLAND-MAP.pdf",
-    "as_of": 2019
-   },
-   {
-    "value": {
-     "name": "3. KATA Japanese Restaurant",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://neoscapesmaldives.com/wp-content/uploads/Fairmont-Maldives_ISLAND-MAP.pdf",
-    "as_of": 2019
-   },
-   {
-    "value": {
-     "name": "4. AZURE Seafood Restaurant",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://neoscapesmaldives.com/wp-content/uploads/Fairmont-Maldives_ISLAND-MAP.pdf",
-    "as_of": 2019
-   },
-   {
-    "value": {
-     "name": "Dining",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/fairmont-maldives-sirru-fen-fushi/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Dining",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/fairmont-maldives-sirru-fen-fushi/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "In-Villa Dining",
-     "cuisine": null,
-     "type": "restaurant"
-    },
     "source_url": "https://www.neoscapesmaldives.com/resort/fairmont-maldives-sirru-fen-fushi/",
     "as_of": "2026-10-04"
    }
@@ -573,20 +600,6 @@
     "as_of": "2026-10-04"
    }
   ],
-  "villas.categories": [
-   {
-    "value": {
-     "name": "Number of Villas",
-     "count": 120,
-     "size_sqm": null,
-     "max_occupancy": null,
-     "pool": null,
-     "overwater": null
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/fairmont-maldives-sirru-fen-fushi/",
-    "as_of": "2026-10-04"
-   }
-  ],
   "weddings.venues": [
    {
     "value": "Beach Wedding Services",
@@ -600,5 +613,5 @@
    }
   ]
  },
- "last_updated": "2026-10-04"
+ "last_updated": "2026-10-05"
 }

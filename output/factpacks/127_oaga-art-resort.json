@@ -7,51 +7,102 @@
   "Oaga",
   "Bodu Huraa"
  ],
- "official_url": null,
- "official_site_status": null,
+ "official_url": "https://oagaresorts.com/",
+ "official_site_status": "ok",
  "operator_brand": "Oaga",
- "atoll": null,
+ "atoll": "Raa Atoll",
  "island": null,
  "opened_or_renovated": null,
  "star_rating": null,
  "transfer": {
-  "modes": [],
+  "modes": [
+   "speedboat"
+  ],
   "minutes": {
    "seaplane": null,
-   "speedboat": null,
+   "speedboat": 45,
    "domestic flight": null,
    "yacht": null
   }
  },
- "island_size": null,
+ "island_size": "5.43 ha",
  "villas": {
   "total": null,
   "categories": []
  },
- "dining": [],
- "meal_plans": [],
+ "dining": [
+  {
+   "name": "Guests to chill and relax and SOBI Bar.",
+   "cuisine": null,
+   "type": "bar"
+  },
+  {
+   "name": "FNB increase seating at SOBI Bar.",
+   "cuisine": null,
+   "type": "bar"
+  },
+  {
+   "name": "at Rahvehin mosque at Sobi Bar",
+   "cuisine": null,
+   "type": "bar"
+  },
+  {
+   "name": "at Hoba Deck at Jeymu Cafe",
+   "cuisine": null,
+   "type": "restaurant"
+  },
+  {
+   "name": "Cafe or dance class at Raa Baa",
+   "cuisine": null,
+   "type": "restaurant"
+  },
+  {
+   "name": "Interactive activites at Jeymu Cafe",
+   "cuisine": null,
+   "type": "restaurant"
+  },
+  {
+   "name": "and take note (music lesson) at Sobi Bar",
+   "cuisine": null,
+   "type": "bar"
+  }
+ ],
+ "meal_plans": [
+  "AI"
+ ],
  "all_inclusive_details": null,
  "spa": {
-  "name": null,
+  "name": "Hoba Spa",
   "treatment_rooms": null,
   "signature_treatments": [],
-  "menu_doc": null
+  "menu_doc": "https://oagaresorts.com/wp-content/uploads/2025/06/Dhulhaheyo-wellness-activities-guide.pdf"
  },
  "diving_watersports": {
   "operator": null,
   "house_reef": null,
-  "activities": [],
+  "activities": [
+   "manta"
+  ],
   "price_list_doc": null
  },
- "excursions": [],
+ "excursions": [
+  "picnic",
+  "cooking class",
+  "manta",
+  "turtle"
+ ],
  "kids_family": {
-  "kids_club": null,
+  "kids_club": "Fiyoh Kids Club",
   "age_range": null,
-  "teens": null
+  "teens": "teens programme mentioned"
  },
- "wellness_fitness": [],
+ "wellness_fitness": [
+  "gym",
+  "meditation",
+  "sound healing"
+ ],
  "weddings": {
-  "offered": null,
+  "offered": true,
   "vow_renewal": null,
   "venues": [],
   "packages": [],
@@ -67,35 +118,239 @@
  "contacts_public": {
   "reservations_email": null,
   "weddings_email": null,
-  "phone": null
+  "phone": "+960 9339676"
  },
  "documents_latest": {
-  "factsheet": null,
+  "factsheet": "https://oagaresorts.com/wp-content/uploads/2026/08/1.-ENG-Oaga-Fact-sheet-2026_compressed.pdf",
   "map": null,
   "wedding": null,
-  "spa_menu": null,
-  "dining_menu": null,
+  "spa_menu": "https://oagaresorts.com/wp-content/uploads/2025/06/Dhulhaheyo-wellness-activities-guide.pdf",
+  "dining_menu": "https://oagaresorts.com/wp-content/uploads/2025/11/VGV_Itinirary_Detailed_OPS.pdf",
   "dive_prices": null,
   "events": null,
-  "calendar": null
+  "calendar": "https://oagaresorts.com/wp-content/uploads/2024/09/Festive-brochure-24-25-Oaga-Art.pdf"
  },
- "documents_count": 0,
+ "documents_count": 24,
  "gaps": [
-  "factsheet",
   "wedding brochure",
   "events/MICE document",
   "fact: villas.total",
   "fact: villa categories",
-  "fact: dining",
-  "fact: transfer",
-  "fact: atoll",
-  "fact: spa",
   "fact: dive operator",
-  "fact: kids club",
-  "fact: weddings",
-  "fact: contacts",
-  "no documents or pages collected"
+  "fact: contacts"
  ],
- "sources": {},
- "last_updated": "2026-10-04"
+ "sources": {
+  "atoll": [
+   {
+    "value": "Raa Atoll",
+    "source_url": "https://oagaresorts.com/wp-content/uploads/2026/08/1.-ENG-Oaga-Fact-sheet-2026_compressed.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "Raa Atoll",
+    "source_url": "https://oagaresorts.com/wp-content/uploads/2025/11/VGV_Itinirary_Detailed_OPS.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "Raa Atoll",
+    "source_url": "https://oagaresorts.com/wp-content/uploads/2024/05/Eid-Al-Adha.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "Raa Atoll",
+    "source_url": "https://oagaresorts.com/wp-content/uploads/2024/05/World-Environment-Day-2024.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "Raa Atoll",
+    "source_url": "https://letsgomaldives.com/news/this-summer-rediscover-the-art-of-doing-nothing-at-oaga-art-resort/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "transfer.modes": [
+   {
+    "value": "speedboat",
+    "source_url": "https://oagaresorts.com/wp-content/uploads/2026/08/1.-ENG-Oaga-Fact-sheet-2026_compressed.pdf",
+    "as_of": 2026
+   }
+  ],
+  "transfer.minutes.speedboat": [
+   {
+    "value": 45,
+    "source_url": "https://oagaresorts.com/wp-content/uploads/2026/08/1.-ENG-Oaga-Fact-sheet-2026_compressed.pdf",
+    "as_of": 2026
+   }
+  ],
+  "island_size": [
+   {
+    "value": "5.43 ha",
+    "source_url": "https://oagaresorts.com/wp-content/uploads/2026/08/1.-ENG-Oaga-Fact-sheet-2026_compressed.pdf",
+    "as_of": 2026
+   }
+  ],
+  "meal_plans": [
+   {
+    "value": "AI",
+    "source_url": "https://oagaresorts.com/wp-content/uploads/2026/08/1.-ENG-Oaga-Fact-sheet-2026_compressed.pdf",
+    "as_of": 2026
+   }
+  ],
+  "spa.name": [
+   {
+    "value": "Hoba Spa",
+    "source_url": "https://oagaresorts.com/wp-content/uploads/2026/08/1.-ENG-Oaga-Fact-sheet-2026_compressed.pdf",
+    "as_of": 2026
+   }
+  ],
+  "excursions": [
+   {
+    "value": "picnic",
+    "source_url": "https://oagaresorts.com/wp-content/uploads/2026/08/1.-ENG-Oaga-Fact-sheet-2026_compressed.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "cooking class",
+    "source_url": "https://oagaresorts.com/wp-content/uploads/2026/08/1.-ENG-Oaga-Fact-sheet-2026_compressed.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "manta",
+    "source_url": "https://oagaresorts.com/wp-content/uploads/2025/07/VGV-exhibition-catalogue-2024-2025.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://oagaresorts.com/wp-content/uploads/2025/07/VGV-exhibition-catalogue-2024-2025.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "cooking class",
+    "source_url": "https://oagaresorts.com/wp-content/uploads/2024/05/Eid-Al-Adha.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "cooking class",
+    "source_url": "https://oagaresorts.com/wp-content/uploads/2024/05/World-Environment-Day-2024.pdf",
+    "as_of": 2024
+   }
+  ],
+  "kids_family.kids_club": [
+   {
+    "value": "Fiyoh Kids Club",
+    "source_url": "https://oagaresorts.com/wp-content/uploads/2026/08/1.-ENG-Oaga-Fact-sheet-2026_compressed.pdf",
+    "as_of": 2026
+   }
+  ],
+  "wellness_fitness": [
+   {
+    "value": "gym",
+    "source_url": "https://oagaresorts.com/wp-content/uploads/2026/08/1.-ENG-Oaga-Fact-sheet-2026_compressed.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "meditation",
+    "source_url": "https://oagaresorts.com/wp-content/uploads/2025/06/Dhulhaheyo-wellness-activities-guide.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "sound healing",
+    "source_url": "https://oagaresorts.com/wp-content/uploads/2025/06/Dhulhaheyo-wellness-activities-guide.pdf",
+    "as_of": 2025
+   }
+  ],
+  "weddings.offered": [
+   {
+    "value": true,
+    "source_url": "https://oagaresorts.com/wp-content/uploads/2026/08/1.-ENG-Oaga-Fact-sheet-2026_compressed.pdf",
+    "as_of": 2026
+   }
+  ],
+  "diving_watersports.activities": [
+   {
+    "value": "manta",
+    "source_url": "https://oagaresorts.com/wp-content/uploads/2025/07/VGV-exhibition-catalogue-2024-2025.pdf",
+    "as_of": 2025
+   }
+  ],
+  "kids_family.teens": [
+   {
+    "value": "teens programme mentioned",
+    "source_url": "https://oagaresorts.com/wp-content/uploads/2025/07/VGV-exhibition-catalogue-2024-2025.pdf",
+    "as_of": 2025
+   }
+  ],
+  "contacts_public.phone": [
+   {
+    "value": "+960 9339676",
+    "source_url": "https://oagaresorts.com/wp-content/uploads/2025/07/VGV-exhibition-catalogue-2024-2025.pdf",
+    "as_of": 2025
+   }
+  ],
+  "dining": [
+   {
+    "value": {
+     "name": "Guests to chill and relax and SOBI Bar.",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://oagaresorts.com/wp-content/uploads/2025/11/VGV_Itinirary_Detailed_OPS.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": {
+     "name": "FNB increase seating at SOBI Bar.",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://oagaresorts.com/wp-content/uploads/2025/11/VGV_Itinirary_Detailed_OPS.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": {
+     "name": "at Rahvehin mosque at Sobi Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://oagaresorts.com/wp-content/uploads/2024/05/Eid-Al-Adha.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": {
+     "name": "at Hoba Deck at Jeymu Cafe",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://oagaresorts.com/wp-content/uploads/2024/05/Eid-Al-Adha.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": {
+     "name": "Cafe or dance class at Raa Baa",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://oagaresorts.com/wp-content/uploads/2024/05/Eid-Al-Adha.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": {
+     "name": "Interactive activites at Jeymu Cafe",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://oagaresorts.com/wp-content/uploads/2024/05/World-Environment-Day-2024.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": {
+     "name": "and take note (music lesson) at Sobi Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://oagaresorts.com/wp-content/uploads/2024/05/World-Environment-Day-2024.pdf",
+    "as_of": 2024
+   }
+  ]
+ },
+ "last_updated": "2026-10-05"
 }

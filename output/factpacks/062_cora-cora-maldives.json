@@ -6,8 +6,8 @@
   "Cora Cora",
   "Maamigili"
  ],
- "official_url": null,
- "official_site_status": null,
+ "official_url": "https://coracoraresorts.com/",
+ "official_site_status": "ok",
  "operator_brand": null,
  "atoll": "Raa Atoll",
  "island": null,
@@ -63,6 +63,14 @@
     "overwater": true
    },
    {
+    "name": "Villa de",
+    "count": null,
+    "size_sqm": 63,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
     "name": "Villas",
     "count": 100,
     "size_sqm": null,
@@ -82,14 +90,19 @@
  },
  "dining": [
   {
-   "name": "Restaurant Pool & Bar Breakfast: 7.00 - 10.30",
+   "name": "Tazäa® Restaurant",
    "cuisine": null,
    "type": "restaurant"
   },
   {
-   "name": "Dining",
+   "name": "Tazäa® & Teien® Restaurant",
    "cuisine": null,
    "type": "restaurant"
+  },
+  {
+   "name": "Mini-Bar",
+   "cuisine": null,
+   "type": "bar"
   }
  ],
  "meal_plans": [
@@ -97,15 +110,15 @@
   "Dine Around",
   "Premium AI"
  ],
- "all_inclusive_details": "all-inclusive concept, and a relaxed, social atmosphere, Cora Cora welcomes couples, families, and friends alike.",
+ "all_inclusive_details": "All-Inclusive Gourmet Meal Plan®.",
  "spa": {
-  "name": "Spa",
+  "name": "Area\nJetski Tour\nSpa",
   "treatment_rooms": null,
   "signature_treatments": [],
-  "menu_doc": null
+  "menu_doc": "https://coracoraresorts.com/wp-content/uploads/2026/01/Valentine_MOKSHA®.pdf"
  },
  "diving_watersports": {
-  "operator": "Dive Centre",
+  "operator": "TGI",
   "house_reef": "house reef",
   "activities": [
    "windsurfing",
@@ -113,21 +126,29 @@
    "paddleboard",
    "catamaran",
    "parasailing",
+   "snorkeling",
+   "fun tube",
+   "banana boat",
    "snorkelling",
+   "manta",
    "fishing",
    "sunset cruise"
   ],
-  "price_list_doc": null
+  "price_list_doc": "https://coracoraresorts.com/wp-content/uploads/2026/01/CCM-Full-TGI-List-Price-Lists-2026.pdf"
  },
  "excursions": [
-  "stargazing",
-  "cinema",
-  "local island"
+  "turtle",
+  "picnic",
+  "local island",
+  "manta",
+  "dolphin",
+  "private dinner",
+  "cinema"
  ],
  "kids_family": {
   "kids_club": "Seaplane\nKids Club",
   "age_range": null,
-  "teens": null
+  "teens": "teens programme mentioned"
  },
  "wellness_fitness": [
   "yoga",
@@ -135,16 +156,19 @@
   "gym",
   "fitness center",
   "tennis",
-  "fitness centre",
   "badminton",
+  "sound healing",
+  "fitness centre",
   "beach volleyball"
  ],
  "weddings": {
   "offered": true,
   "vow_renewal": null,
-  "venues": [],
+  "venues": [
+   "on the beach during the ceremony and ﬂower decoration on"
+  ],
   "packages": [],
-  "brochure_doc": null
+  "brochure_doc": "https://coracoraresorts.com/wp-content/uploads/2026/01/CCM_Wedding-Package_2026.pdf"
  },
  "events_mice": {
   "venues": [],
@@ -152,7 +176,16 @@
   "buyout": null,
   "doc": null
  },
- "sustainability": [],
+ "sustainability": [
+  "solar",
+  "desalination",
+  "coral restoration",
+  "marine biologist",
+  "Green Globe",
+  "manta trust",
+  "Olive Ridley Project",
+  "reef restoration"
+ ],
  "contacts_public": {
   "reservations_email": "info@neoscapesmaldives.com",
   "weddings_email": null,
@@ -160,17 +193,16 @@
  },
  "documents_latest": {
   "factsheet": "https://www.neoscapesmaldives.com/wp-content/uploads/CCM-Factsheet.pdf",
-  "map": "https://www.neoscapesmaldives.com/wp-content/uploads/CCM-Island-Map-1.pdf",
-  "wedding": null,
-  "spa_menu": null,
-  "dining_menu": null,
-  "dive_prices": null,
+  "map": "https://coracoraresorts.com/wp-content/uploads/2026/01/CCM-Sustainability-Management-Plan-2026.pdf",
+  "wedding": "https://coracoraresorts.com/wp-content/uploads/2026/01/CCM_Wedding-Package_2026.pdf",
+  "spa_menu": "https://coracoraresorts.com/wp-content/uploads/2026/01/Valentine_MOKSHA®.pdf",
+  "dining_menu": "https://coracoraresorts.com/wp-content/uploads/2026/04/Ginger-Moon-Dinner-Russian.pdf",
+  "dive_prices": "https://coracoraresorts.com/wp-content/uploads/2026/01/CCM-Full-TGI-List-Price-Lists-2026.pdf",
   "events": null,
-  "calendar": null
+  "calendar": "https://coracoraresorts.com/wp-content/uploads/2025/12/CCM-Welcome-to-the-Northpole-Festive-Program-2025-2026.pdf"
  },
- "documents_count": 2,
+ "documents_count": 62,
  "gaps": [
-  "wedding brochure",
   "events/MICE document",
   "fact: villas.total"
  ],
@@ -325,6 +357,30 @@
    },
    {
     "value": {
+     "name": "Villa de",
+     "count": null,
+     "size_sqm": 63,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://coracoraresorts.com/fr/villas/beach-villa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Villa de",
+     "count": null,
+     "size_sqm": 101,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://coracoraresorts.com/fr/villas/lagoon-pool-villa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
      "name": "Villas",
      "count": 100,
      "size_sqm": null,
@@ -348,35 +404,6 @@
     "as_of": "2026-10-04"
    }
   ],
-  "dining": [
-   {
-    "value": {
-     "name": "Restaurant Pool & Bar Breakfast: 7.00 - 10.30",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/CCM-Factsheet.pdf",
-    "as_of": 2021
-   },
-   {
-    "value": {
-     "name": "Dining",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/cora-cora-maldives/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Dining",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/cora-cora-maldives/",
-    "as_of": "2026-10-04"
-   }
-  ],
   "meal_plans": [
    {
     "value": "AI",
@@ -395,6 +422,11 @@
    },
    {
     "value": "AI",
+    "source_url": "https://coracoraresorts.com/jamaica-meets-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "AI",
     "source_url": "https://www.neoscapesmaldives.com/resort/cora-cora-maldives/",
     "as_of": "2026-10-04"
    }
@@ -404,6 +436,16 @@
     "value": "Spa",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/CCM-Factsheet.pdf",
     "as_of": 2021
+   },
+   {
+    "value": "Area\nJetski Tour\nSpa",
+    "source_url": "https://coracoraresorts.com/moments/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://malediven.de/malediven-hotels/cora-cora-maldives/",
+    "as_of": "2026-10-04"
    }
   ],
   "diving_watersports.house_reef": [
@@ -440,6 +482,171 @@
     "as_of": 2021
    },
    {
+    "value": "snorkeling",
+    "source_url": "https://coracoraresorts.com/wp-content/uploads/2026/06/CoRa-kids-Activity-Calendar-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "fun tube",
+    "source_url": "https://coracoraresorts.com/wp-content/uploads/2026/06/CoRa-kids-Activity-Calendar-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "banana boat",
+    "source_url": "https://coracoraresorts.com/wp-content/uploads/2025/12/CCM-CoRa-kids®-Festive-Program-2025-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "fun tube",
+    "source_url": "https://coracoraresorts.com/wp-content/uploads/2025/12/CCM-CoRa-kids®-Festive-Program-2025-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://coracoraresorts.com/wp-content/uploads/2026/01/Cora-Cora-Environmental-Policy-2026-1.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://coracoraresorts.com/wp-content/uploads/2026/01/CCM-Sustainability-Management-Plan-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "manta",
+    "source_url": "https://coracoraresorts.com/wp-content/uploads/2026/01/CCM-Sustainability-Management-Plan-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://coracoraresorts.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://coracoraresorts.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://coracoraresorts.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://coracoraresorts.com/ko/offer/special-deal/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://coracoraresorts.com/ko/offer/special-deal/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://coracoraresorts.com/fr/offer/book-direct/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "windsurfing",
+    "source_url": "https://coracoraresorts.com/fr/offer/book-direct/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "stand-up paddle",
+    "source_url": "https://coracoraresorts.com/fr/offer/book-direct/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "catamaran",
+    "source_url": "https://coracoraresorts.com/fr/offer/book-direct/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://coracoraresorts.com/fr/offer/book-direct/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://coracoraresorts.com/moments/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://coracoraresorts.com/fr/experiences/water-world/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "catamaran",
+    "source_url": "https://coracoraresorts.com/fr/experiences/water-world/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://coracoraresorts.com/coral-restoration/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://coracoraresorts.com/fr/villas/lagoon-pool-villa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://coracoraresorts.com/ko/offer/cora-cora-anniversary-blowout/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "windsurfing",
+    "source_url": "https://coracoraresorts.com/ko/offer/cora-cora-anniversary-blowout/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "stand-up paddle",
+    "source_url": "https://coracoraresorts.com/ko/offer/cora-cora-anniversary-blowout/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "catamaran",
+    "source_url": "https://coracoraresorts.com/ko/offer/cora-cora-anniversary-blowout/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://coracoraresorts.com/ko/offer/cora-cora-anniversary-blowout/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://coracoraresorts.com/de/offer/last-minute-offer/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "windsurfing",
+    "source_url": "https://coracoraresorts.com/de/offer/last-minute-offer/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "stand-up paddle",
+    "source_url": "https://coracoraresorts.com/de/offer/last-minute-offer/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "catamaran",
+    "source_url": "https://coracoraresorts.com/de/offer/last-minute-offer/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://coracoraresorts.com/de/offer/last-minute-offer/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://coracoraresorts.com/villas/",
+    "as_of": "2026-10-04"
+   },
+   {
     "value": "snorkelling",
     "source_url": "https://www.neoscapesmaldives.com/resort/cora-cora-maldives/",
     "as_of": "2026-10-04"
@@ -452,6 +659,11 @@
    {
     "value": "sunset cruise",
     "source_url": "https://www.neoscapesmaldives.com/resort/cora-cora-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://malediven.de/malediven-hotels/cora-cora-maldives/",
     "as_of": "2026-10-04"
    }
   ],
@@ -483,13 +695,103 @@
    },
    {
     "value": "yoga",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/CCM-Island-Map-1.pdf",
-    "as_of": 2025
+    "source_url": "https://coracoraresorts.com/wp-content/uploads/2026/06/CoRa-kids-Activity-Calendar-2026.pdf",
+    "as_of": 2026
    },
    {
-    "value": "fitness centre",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/CCM-Island-Map-1.pdf",
-    "as_of": 2025
+    "value": "badminton",
+    "source_url": "https://coracoraresorts.com/wp-content/uploads/2026/06/CoRa-kids-Activity-Calendar-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://coracoraresorts.com/wp-content/uploads/2025/12/CCM-CoRa-kids®-Festive-Program-2025-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "gym",
+    "source_url": "https://coracoraresorts.com/wp-content/uploads/2025/12/CCM-CoRa-kids®-Festive-Program-2025-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "badminton",
+    "source_url": "https://coracoraresorts.com/wp-content/uploads/2025/12/CCM-CoRa-kids®-Festive-Program-2025-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://coracoraresorts.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sound healing",
+    "source_url": "https://coracoraresorts.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://coracoraresorts.com/villas/two-bedroom-family-beach-pool-villa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://coracoraresorts.com/fr/villas/beach-villa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fitness center",
+    "source_url": "https://coracoraresorts.com/fr/offer/book-direct/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://coracoraresorts.com/moments/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://coracoraresorts.com/wellness/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fitness center",
+    "source_url": "https://coracoraresorts.com/wellness/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://coracoraresorts.com/de/villas/duplex-lagoon-pool-villa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://coracoraresorts.com/fr/villas/lagoon-pool-villa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://coracoraresorts.com/wellness/yoga/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "meditation",
+    "source_url": "https://coracoraresorts.com/wellness/yoga/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sound healing",
+    "source_url": "https://coracoraresorts.com/wellness/yoga/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fitness center",
+    "source_url": "https://coracoraresorts.com/de/offer/last-minute-offer/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://coracoraresorts.com/de/villas/lagoon-villa/",
+    "as_of": "2026-10-04"
    },
    {
     "value": "yoga",
@@ -520,16 +822,21 @@
     "value": "beach volleyball",
     "source_url": "https://www.neoscapesmaldives.com/resort/cora-cora-maldives/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "gym",
+    "source_url": "https://malediven.de/malediven-hotels/cora-cora-maldives/",
+    "as_of": "2026-10-04"
    }
   ],
   "contacts_public.reservations_email": [
    {
-    "value": "sales@coracoraresorts.com",
+    "value": "reservations@coracoraresorts.com",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/CCM-Factsheet.pdf",
     "as_of": 2021
    },
    {
-    "value": "reservations@coracoraresorts.com",
+    "value": "sales@coracoraresorts.com",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/CCM-Factsheet.pdf",
     "as_of": 2021
    },
@@ -551,16 +858,95 @@
     "as_of": "2026-10-04"
    }
   ],
-  "excursions": [
+  "weddings.offered": [
    {
-    "value": "stargazing",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/CCM-Island-Map-1.pdf",
-    "as_of": 2025
+    "value": true,
+    "source_url": "https://coracoraresorts.com/wp-content/uploads/2026/01/CCM_Wedding-Package_2026.pdf",
+    "as_of": 2026
    },
    {
-    "value": "cinema",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/CCM-Island-Map-1.pdf",
-    "as_of": 2025
+    "value": true,
+    "source_url": "https://coracoraresorts.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.neoscapesmaldives.com/resort/cora-cora-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://malediven.de/malediven-hotels/cora-cora-maldives/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "weddings.venues": [
+   {
+    "value": "on the beach during the ceremony and ﬂower decoration on",
+    "source_url": "https://coracoraresorts.com/wp-content/uploads/2026/01/CCM_Wedding-Package_2026.pdf",
+    "as_of": 2026
+   }
+  ],
+  "excursions": [
+   {
+    "value": "turtle",
+    "source_url": "https://coracoraresorts.com/wp-content/uploads/2026/06/CoRa-kids-Activity-Calendar-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "picnic",
+    "source_url": "https://coracoraresorts.com/wp-content/uploads/2025/12/CCM-CoRa-kids®-Festive-Program-2025-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "local island",
+    "source_url": "https://coracoraresorts.com/wp-content/uploads/2026/01/CCM-Sustainability-Management-Plan-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "manta",
+    "source_url": "https://coracoraresorts.com/wp-content/uploads/2026/01/CCM-Sustainability-Management-Plan-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://coracoraresorts.com/wp-content/uploads/2026/01/CCM-Sustainability-Management-Plan-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://coracoraresorts.com/ko/offer/special-deal/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://coracoraresorts.com/ko/villas/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "local island",
+    "source_url": "https://coracoraresorts.com/fr/sustainability/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://coracoraresorts.com/fr/sustainability/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "local island",
+    "source_url": "https://coracoraresorts.com/coral-restoration/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "private dinner",
+    "source_url": "https://coracoraresorts.com/hoi-an-escort-business-a-strategic-overview/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://coracoraresorts.com/villas/",
+    "as_of": "2026-10-04"
    },
    {
     "value": "local island",
@@ -571,26 +957,217 @@
     "value": "cinema",
     "source_url": "https://www.neoscapesmaldives.com/resort/cora-cora-maldives/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://malediven.de/malediven-hotels/cora-cora-maldives/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "kids_family.teens": [
+   {
+    "value": "teens programme mentioned",
+    "source_url": "https://coracoraresorts.com/wp-content/uploads/2026/06/CoRa-kids-Activity-Calendar-2026.pdf",
+    "as_of": 2026
+   }
+  ],
+  "sustainability": [
+   {
+    "value": "solar",
+    "source_url": "https://coracoraresorts.com/wp-content/uploads/2026/01/Cora-Cora-Environmental-Policy-2026-1.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "desalination",
+    "source_url": "https://coracoraresorts.com/wp-content/uploads/2026/01/Cora-Cora-Environmental-Policy-2026-1.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "coral restoration",
+    "source_url": "https://coracoraresorts.com/wp-content/uploads/2026/01/CCM-Sustainability-Management-Plan-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "marine biologist",
+    "source_url": "https://coracoraresorts.com/wp-content/uploads/2026/01/CCM-Sustainability-Management-Plan-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "Green Globe",
+    "source_url": "https://coracoraresorts.com/wp-content/uploads/2026/01/CCM-Sustainability-Management-Plan-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "manta trust",
+    "source_url": "https://coracoraresorts.com/wp-content/uploads/2026/01/CCM-Sustainability-Management-Plan-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "Olive Ridley Project",
+    "source_url": "https://coracoraresorts.com/wp-content/uploads/2026/01/CCM-Sustainability-Management-Plan-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "Green Globe",
+    "source_url": "https://coracoraresorts.com/fr/sustainability/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Olive Ridley Project",
+    "source_url": "https://coracoraresorts.com/fr/sustainability/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "coral restoration",
+    "source_url": "https://coracoraresorts.com/coral-restoration/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "marine biologist",
+    "source_url": "https://coracoraresorts.com/coral-restoration/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "reef restoration",
+    "source_url": "https://coracoraresorts.com/coral-restoration/",
+    "as_of": "2026-10-04"
    }
   ],
   "atoll": [
    {
     "value": "Raa Atoll",
+    "source_url": "https://coracoraresorts.com/wp-content/uploads/2026/01/CCM-Sustainability-Management-Plan-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "Raa Atoll",
+    "source_url": "https://coracoraresorts.com/jamaica-meets-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Raa Atoll",
     "source_url": "https://www.neoscapesmaldives.com/resort/cora-cora-maldives/",
     "as_of": "2026-10-04"
-   }
-  ],
-  "all_inclusive_details": [
+   },
    {
-    "value": "all-inclusive concept, and a relaxed, social atmosphere, Cora Cora welcomes couples, families, and friends alike.",
-    "source_url": "https://www.neoscapesmaldives.com/resort/cora-cora-maldives/",
+    "value": "Raa Atoll",
+    "source_url": "https://mondomaldive.it/it/villaggio/cora-cora-maldives/foto_utenti",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Raa Atoll",
+    "source_url": "https://malediven.de/malediven-hotels/cora-cora-maldives/",
     "as_of": "2026-10-04"
    }
   ],
   "diving_watersports.operator": [
    {
+    "value": "TGI",
+    "source_url": "https://coracoraresorts.com/wp-content/uploads/2026/01/CCM-Sustainability-Management-Plan-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "TGI",
+    "source_url": "https://coracoraresorts.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "TGI",
+    "source_url": "https://coracoraresorts.com/zh-hans/",
+    "as_of": "2026-10-04"
+   },
+   {
     "value": "Dive Centre",
     "source_url": "https://www.neoscapesmaldives.com/resort/cora-cora-maldives/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "dining": [
+   {
+    "value": {
+     "name": "Tazäa® Restaurant",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://coracoraresorts.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Tazäa® & Teien® Restaurant",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://coracoraresorts.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Mini-Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://coracoraresorts.com/villas/two-bedroom-family-beach-pool-villa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Mini-Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://coracoraresorts.com/de/villas/duplex-lagoon-pool-villa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Mini-Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://coracoraresorts.com/de/villas/lagoon-villa/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "all_inclusive_details": [
+   {
+    "value": "All-Inclusive Gourmet Meal Plan®.",
+    "source_url": "https://coracoraresorts.com/ko/offer/special-deal/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "all-inclusives.",
+    "source_url": "https://coracoraresorts.com/about-us/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "All-Inclusive - Gourmet Meal Plan®.",
+    "source_url": "https://coracoraresorts.com/fr/offer/book-direct/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "all-inclusive destination, from May 3rd – May 8th, will bring sensational flavour profiles featuring his love of bold spices in harmony on the plate.",
+    "source_url": "https://coracoraresorts.com/jamaica-meets-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "All-Inclusive, vous pouvez explorer toute la journée, chaque journée.",
+    "source_url": "https://coracoraresorts.com/fr/experiences/water-world/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "All-Inclusive - Gourmet Meal Plan®.",
+    "source_url": "https://coracoraresorts.com/de/offer/last-minute-offer/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "all-inclusive concept, and a relaxed, social atmosphere, Cora Cora welcomes couples, families, and friends alike.",
+    "source_url": "https://www.neoscapesmaldives.com/resort/cora-cora-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "All-Inclusive-Konzept.",
+    "source_url": "https://malediven.de/malediven-hotels/cora-cora-maldives/",
     "as_of": "2026-10-04"
    }
   ],
@@ -599,15 +1176,13 @@
     "value": "Seaplane\nKids Club",
     "source_url": "https://www.neoscapesmaldives.com/resort/cora-cora-maldives/",
     "as_of": "2026-10-04"
-   }
-  ],
-  "weddings.offered": [
+   },
    {
-    "value": true,
-    "source_url": "https://www.neoscapesmaldives.com/resort/cora-cora-maldives/",
+    "value": "Der Cora Kids Club",
+    "source_url": "https://malediven.de/malediven-hotels/cora-cora-maldives/",
     "as_of": "2026-10-04"
    }
   ]
  },
- "last_updated": "2026-10-04"
+ "last_updated": "2026-10-05"
 }

@@ -7,8 +7,8 @@
   "SO/ Maldives",
   "SO Hotels Maldives"
  ],
- "official_url": null,
- "official_site_status": null,
+ "official_url": "https://www.so-hotels.com/en/maldives/",
+ "official_site_status": "ok",
  "operator_brand": "SO/",
  "atoll": "South Male Atoll",
  "island": null,
@@ -29,38 +29,6 @@
  "villas": {
   "total": null,
   "categories": [
-   {
-    "name": "Arrival Pavilion and Bar",
-    "count": 1,
-    "size_sqm": null,
-    "max_occupancy": null,
-    "pool": null,
-    "overwater": null
-   },
-   {
-    "name": "RUNWAY ONE Water Villa Collection",
-    "count": 127,
-    "size_sqm": null,
-    "max_occupancy": null,
-    "pool": null,
-    "overwater": null
-   },
-   {
-    "name": "Resort Clinic RUNWAY THREE Water Villa Collection",
-    "count": 10,
-    "size_sqm": null,
-    "max_occupancy": null,
-    "pool": null,
-    "overwater": null
-   },
-   {
-    "name": "Total Number of Villas",
-    "count": 80,
-    "size_sqm": null,
-    "max_occupancy": null,
-    "pool": null,
-    "overwater": null
-   },
    {
     "name": "overwater villa aerial so maldives",
     "count": 11,
@@ -84,40 +52,15 @@
    "name": "Pavilion Bar",
    "cuisine": null,
    "type": "bar"
-  },
-  {
-   "name": "In-Villa Dining",
-   "cuisine": null,
-   "type": "restaurant"
-  },
-  {
-   "name": "1 Arrival Pavilion and Bar",
-   "cuisine": null,
-   "type": "bar"
-  },
-  {
-   "name": "Dining",
-   "cuisine": null,
-   "type": "restaurant"
-  },
-  {
-   "name": "In-Villa Dining & Meal Experiences",
-   "cuisine": null,
-   "type": "restaurant"
-  },
-  {
-   "name": "Private Dining",
-   "cuisine": null,
-   "type": "restaurant"
   }
  ],
  "meal_plans": [],
  "all_inclusive_details": null,
  "spa": {
-  "name": "Spa",
+  "name": null,
   "treatment_rooms": null,
   "signature_treatments": [],
-  "menu_doc": null
+  "menu_doc": "https://so-hotels.com/wp-content/uploads/sites/19/2026/09/so_rasalkhaimah_spa-menu_0926.pdf"
  },
  "diving_watersports": {
   "operator": null,
@@ -133,8 +76,8 @@
  },
  "excursions": [
   "castaway",
-  "local island",
   "cinema",
+  "local island",
   "cooking class"
  ],
  "kids_family": {
@@ -146,46 +89,48 @@
   "gym",
   "sauna",
   "steam",
-  "yoga",
-  "hammam"
+  "hammam",
+  "tennis",
+  "yoga"
  ],
  "weddings": {
   "offered": true,
   "vow_renewal": null,
   "venues": [],
   "packages": [],
-  "brochure_doc": null
+  "brochure_doc": "https://so-hotels.com/wp-content/uploads/sites/19/2026/03/SOWedding_Brochure.pdf"
  },
  "events_mice": {
-  "venues": [],
+  "venues": [
+   "ROOM SO BALLROOM VILLA"
+  ],
   "capacity_max": null,
   "buyout": null,
-  "doc": null
+  "doc": "https://so-hotels.com/wp-content/uploads/sites/19/2026/04/so_vienna_meetings-and-celebrations_brochure_DE-2026.pdf"
  },
  "sustainability": [
   "solar",
   "Green Globe"
  ],
  "contacts_public": {
-  "reservations_email": "info@neoscapesmaldives.com",
-  "weddings_email": null,
+  "reservations_email": "info@bettis-partywelt.com",
+  "weddings_email": "wien@eventwide.com",
   "phone": "+960 736 5425"
  },
  "documents_latest": {
   "factsheet": "https://www.neoscapesmaldives.com/wp-content/uploads/SO-Maldives-Factsheet_Eng.pdf",
-  "map": "https://www.neoscapesmaldives.com/wp-content/uploads/SO_Maldives_Resort_Map_-March-11-2024-Updated-1.pdf",
-  "wedding": null,
-  "spa_menu": null,
-  "dining_menu": null,
+  "map": "https://so-hotels.com/wp-content/uploads/sites/19/2026/02/so_huahin_fitness_cycling_map_0226.pdf",
+  "wedding": "https://so-hotels.com/wp-content/uploads/sites/19/2026/03/SOWedding_Brochure.pdf",
+  "spa_menu": "https://so-hotels.com/wp-content/uploads/sites/19/2026/09/so_rasalkhaimah_spa-menu_0926.pdf",
+  "dining_menu": "https://so-hotels.com/wp-content/uploads/sites/19/2026/09/uptowndubai_offers_afternoontea_menu.pdf",
   "dive_prices": null,
-  "events": null,
-  "calendar": null
+  "events": "https://so-hotels.com/wp-content/uploads/sites/19/2026/04/so_vienna_meetings-and-celebrations_brochure_DE-2026.pdf",
+  "calendar": "https://so-hotels.com/wp-content/uploads/sites/19/2026/10/somaldives-festive_brochure-2026.pdf"
  },
- "documents_count": 2,
+ "documents_count": 53,
  "gaps": [
-  "wedding brochure",
-  "events/MICE document",
   "fact: villas.total",
+  "fact: spa",
   "fact: dive operator"
  ],
  "sources": {
@@ -206,6 +151,11 @@
     "value": "speedboat",
     "source_url": "https://www.neoscapesmaldives.com/resort/so-maldives/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://letsgomaldives.com/news/so-maldives-unveils-a-refined-valentines-day-experience-for-2026-rose-all-the-way/",
+    "as_of": "2026-10-04"
    }
   ],
   "transfer.minutes.speedboat": [
@@ -217,6 +167,11 @@
    {
     "value": 15,
     "source_url": "https://www.neoscapesmaldives.com/resort/so-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 15,
+    "source_url": "https://letsgomaldives.com/news/so-maldives-unveils-a-refined-valentines-day-experience-for-2026-rose-all-the-way/",
     "as_of": "2026-10-04"
    }
   ],
@@ -232,63 +187,9 @@
    },
    {
     "value": {
-     "name": "In-Villa Dining",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/SO-Maldives-Factsheet_Eng.pdf",
-    "as_of": 2025
-   },
-   {
-    "value": {
-     "name": "1 Arrival Pavilion and Bar",
-     "cuisine": null,
-     "type": "bar"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/SO_Maldives_Resort_Map_-March-11-2024-Updated-1.pdf",
-    "as_of": 2024
-   },
-   {
-    "value": {
-     "name": "Dining",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/so-maldives/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Dining",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/so-maldives/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
      "name": "Pavilion Bar",
      "cuisine": null,
      "type": "bar"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/so-maldives/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "In-Villa Dining & Meal Experiences",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/so-maldives/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Private Dining",
-     "cuisine": null,
-     "type": "restaurant"
     },
     "source_url": "https://www.neoscapesmaldives.com/resort/so-maldives/",
     "as_of": "2026-10-04"
@@ -298,6 +199,11 @@
    {
     "value": "snorkeling",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/SO-Maldives-Factsheet_Eng.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://so-hotels.com/wp-content/uploads/sites/19/2025/10/so_maldives_green-key_environmental-policy_281025.pdf",
     "as_of": 2025
    },
    {
@@ -328,6 +234,11 @@
     "as_of": 2025
    },
    {
+    "value": "cinema",
+    "source_url": "https://so-hotels.com/wp-content/uploads/sites/19/2026/03/SOWedding_Brochure.pdf",
+    "as_of": 2026
+   },
+   {
     "value": "local island",
     "source_url": "https://www.neoscapesmaldives.com/resort/so-maldives/",
     "as_of": "2026-10-04"
@@ -341,6 +252,11 @@
     "value": "cooking class",
     "source_url": "https://www.neoscapesmaldives.com/resort/so-maldives/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "cooking class",
+    "source_url": "https://letsgomaldives.com/news/so-maldives-presents-savour-the-unexpected-a-four-day-fusion-culinary-showcase-with-chef-kareem-atef/",
+    "as_of": "2026-10-04"
    }
   ],
   "kids_family.kids_club": [
@@ -348,11 +264,6 @@
     "value": "Kids Club",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/SO-Maldives-Factsheet_Eng.pdf",
     "as_of": 2025
-   },
-   {
-    "value": "Kids Club",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/SO_Maldives_Resort_Map_-March-11-2024-Updated-1.pdf",
-    "as_of": 2024
    },
    {
     "value": "Kids Club",
@@ -389,9 +300,14 @@
     "as_of": 2025
    },
    {
-    "value": "gym",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/SO_Maldives_Resort_Map_-March-11-2024-Updated-1.pdf",
-    "as_of": 2024
+    "value": "hammam",
+    "source_url": "https://so-hotels.com/wp-content/uploads/sites/19/2026/09/so_rasalkhaimah_spa-menu_0926.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://so-hotels.com/wp-content/uploads/sites/19/2026/02/so_huahin_fitness_cycling_map_0226.pdf",
+    "as_of": 2026
    },
    {
     "value": "yoga",
@@ -417,6 +333,21 @@
     "value": "steam",
     "source_url": "https://www.neoscapesmaldives.com/resort/so-maldives/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "gym",
+    "source_url": "https://malediven.de/malediven-hotels/so-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "hammam",
+    "source_url": "https://malediven.de/malediven-hotels/so-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sauna",
+    "source_url": "https://malediven.de/malediven-hotels/so-maldives/",
+    "as_of": "2026-10-04"
    }
   ],
   "sustainability": [
@@ -432,6 +363,16 @@
    },
    {
     "value": "solar",
+    "source_url": "https://so-hotels.com/wp-content/uploads/sites/19/2025/10/so_maldives_green-key_environmental-policy_281025.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "solar",
+    "source_url": "https://so-hotels.com/wp-content/uploads/sites/19/2026/02/so_huahin_fitness_cycling_map_0226.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "solar",
     "source_url": "https://www.neoscapesmaldives.com/resort/so-maldives/",
     "as_of": "2026-10-04"
    }
@@ -443,60 +384,67 @@
     "as_of": 2025
    },
    {
+    "value": "info@bettis-partywelt.com",
+    "source_url": "https://so-hotels.com/wp-content/uploads/sites/19/2026/03/SOWedding_Brochure.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "hello@encoreglobal.com",
+    "source_url": "https://so-hotels.com/wp-content/uploads/sites/19/2026/03/SOWedding_Brochure.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "info@jasminerbas.com",
+    "source_url": "https://so-hotels.com/wp-content/uploads/sites/19/2026/03/SOWedding_Brochure.pdf",
+    "as_of": 2026
+   },
+   {
     "value": "info@neoscapesmaldives.com",
     "source_url": "https://www.neoscapesmaldives.com/resort/so-maldives/",
     "as_of": "2026-10-04"
    }
   ],
-  "villas.categories": [
+  "weddings.offered": [
    {
-    "value": {
-     "name": "Arrival Pavilion and Bar",
-     "count": 1,
-     "size_sqm": null,
-     "max_occupancy": null,
-     "pool": null,
-     "overwater": null
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/SO_Maldives_Resort_Map_-March-11-2024-Updated-1.pdf",
-    "as_of": 2024
+    "value": true,
+    "source_url": "https://so-hotels.com/wp-content/uploads/sites/19/2026/03/SOWedding_Brochure.pdf",
+    "as_of": 2026
    },
    {
-    "value": {
-     "name": "RUNWAY ONE Water Villa Collection",
-     "count": 127,
-     "size_sqm": null,
-     "max_occupancy": null,
-     "pool": null,
-     "overwater": null
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/SO_Maldives_Resort_Map_-March-11-2024-Updated-1.pdf",
-    "as_of": 2024
-   },
-   {
-    "value": {
-     "name": "Resort Clinic RUNWAY THREE Water Villa Collection",
-     "count": 10,
-     "size_sqm": null,
-     "max_occupancy": null,
-     "pool": null,
-     "overwater": null
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/SO_Maldives_Resort_Map_-March-11-2024-Updated-1.pdf",
-    "as_of": 2024
-   },
-   {
-    "value": {
-     "name": "Total Number of Villas",
-     "count": 80,
-     "size_sqm": null,
-     "max_occupancy": null,
-     "pool": null,
-     "overwater": null
-    },
+    "value": true,
     "source_url": "https://www.neoscapesmaldives.com/resort/so-maldives/",
     "as_of": "2026-10-04"
-   },
+   }
+  ],
+  "contacts_public.weddings_email": [
+   {
+    "value": "wien@eventwide.com",
+    "source_url": "https://so-hotels.com/wp-content/uploads/sites/19/2026/03/SOWedding_Brochure.pdf",
+    "as_of": 2026
+   }
+  ],
+  "events_mice.venues": [
+   {
+    "value": "ROOM SO BALLROOM VILLA",
+    "source_url": "https://so-hotels.com/wp-content/uploads/sites/19/2026/02/so_huahin_fitness_cycling_map_0226.pdf",
+    "as_of": 2026
+   }
+  ],
+  "atoll": [
+   {
+    "value": "South Male Atoll",
+    "source_url": "https://www.neoscapesmaldives.com/resort/so-maldives/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "island_size": [
+   {
+    "value": "184 m x 576 m",
+    "source_url": "https://www.neoscapesmaldives.com/resort/so-maldives/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "villas.categories": [
    {
     "value": {
      "name": "overwater villa aerial so maldives",
@@ -594,34 +542,6 @@
     "as_of": "2026-10-04"
    }
   ],
-  "spa.name": [
-   {
-    "value": "Spa",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/SO_Maldives_Resort_Map_-March-11-2024-Updated-1.pdf",
-    "as_of": 2024
-   }
-  ],
-  "atoll": [
-   {
-    "value": "South Male Atoll",
-    "source_url": "https://www.neoscapesmaldives.com/resort/so-maldives/",
-    "as_of": "2026-10-04"
-   }
-  ],
-  "island_size": [
-   {
-    "value": "184 m x 576 m",
-    "source_url": "https://www.neoscapesmaldives.com/resort/so-maldives/",
-    "as_of": "2026-10-04"
-   }
-  ],
-  "weddings.offered": [
-   {
-    "value": true,
-    "source_url": "https://www.neoscapesmaldives.com/resort/so-maldives/",
-    "as_of": "2026-10-04"
-   }
-  ],
   "contacts_public.phone": [
    {
     "value": "+960 736 5425",
@@ -630,5 +550,5 @@
    }
   ]
  },
- "last_updated": "2026-10-04"
+ "last_updated": "2026-10-05"
 }

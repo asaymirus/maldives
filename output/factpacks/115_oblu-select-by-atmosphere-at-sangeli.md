@@ -1,9 +1,9 @@
 # 115. Oblu Select by Atmosphere at Sangeli
 
-**Official site:** n/a (None)  
+**Official site:** https://www.coloursofoblu.com/oblu-select-sangeli (ok)  
 **Brand:** OBLU  
 **Atoll:** North Malé Atoll  **Island:** Sangeli  
-**Opened/renovated:** n/a  **Rating:** 5-star  
+**Opened/renovated:** opened 2018  **Rating:** 5-star  
 **Transfer:** speedboat; minutes: {"speedboat": 50}  
 **Island size:** 456 m x 150 m  
 
@@ -15,7 +15,6 @@
 - Beach Villa with Pool – Units at: count ?, 101 sqm, max ?, pool
 - Suites at: count 6, 102 sqm, max ?
 - Bedroom Beach Pool Suite - Suites at: count 2, 152 sqm, max ?, pool
-- Number of Villas: count 137, ? sqm, max ?
 - oblu select at sangeli aerial view beach villas: count 4, ? sqm, max ?
 - Villas: count 68, ? sqm, max ?
 - water villa oblu select lobigili: count 3, ? sqm, max ?
@@ -23,43 +22,38 @@
 
 ## Dining
 
-- (Sunset Bar) (Pan-asian Cuisine) (Adult-only bar) (bar)
-- throughout stay: The Courtyard, Just Grill (restaurant)
-- Dining Experiences (restaurant)
 - HEDHIKAA HUT (at The Sangs Bar) (bar)
-- Beverages Specialty Dining Experiences (restaurant)
 - One Banyan Bar, Just Wok, and Just Grill (bar)
-- & Departure Lounge (1st Flr) (bar)
 - L The Rock - Bar (bar)
 - N Just Grill & Just Wok (restaurant)
 - E Ylang-Ylang Restaurant C (restaurant)
 - G The Swing Bar (bar)
 - Under Ocean Restaurant (restaurant)
-- Dining (restaurant)
+- Exclusive Overwater Bar (bar)
 - Just Grill (restaurant)
 - One Banyan Island Pool Bar (bar)
-- Dining & Drinks (restaurant)
-- Ylang Ylang – All-Day Dining (restaurant)
 - The Swing Bar (bar)
 - Only BLU – Under Ocean Restaurant (restaurant)
 - Ylang-Ylang Restaurant (restaurant)
-- Only BLU Under Ocean Dining (restaurant)
 - The Swing Bar with Infinity Pool (bar)
+- {{Restaurant.Description}} (restaurant)
+- Restaurant Type (restaurant)
 
-Meal plans: Dine Around
+Meal plans: Dine Around, AI, Premium AI
+All-inclusive: all-inclusive island experience with dining, beverages, minibar, spa treatments, excursions and snorkelling equipment included, making every moment effortless and unforgettable.
 
 ## Spa & wellness
 
-- Spa: Spa; treatment rooms: 6; menu: none
-- Wellness/fitness: yoga, fitness centre, tennis, steam, gym, pilates
+- Spa: Additional Spa; treatment rooms: 6; menu: none
+- Wellness/fitness: yoga, fitness centre, tennis, steam, gym, pilates, fitness center
 
 ## Diving, water sports & excursions
 
-- Operator: Dive Centre
-- House reef: house reef, dining beneath the ocean at Only BLU, and unwinding in the serene garden spa
+- Operator: TGI
+- House reef: house reefs teeming with life, or crossing over to the peaceful, adults-only shores of One Banyan Island
 - Activities: snorkelling, snorkeling, stand-up paddle, fishing, kayaking, paddleboard, jet ski, sunset cruise
 - Price list: none
-- Excursions: sunset fishing, dolphin, stargazing
+- Excursions: sunset fishing, turtle, dolphin, stargazing
 
 ## Kids & family
 
@@ -83,7 +77,7 @@ Meal plans: Dine Around
 
 ## Public contacts
 
-- Reservations: info@neoscapesmaldives.com; weddings: n/a; phone: +960 736 5425
+- Reservations: sales.sangeli@coloursofoblu.com; weddings: n/a; phone: +960) 400 45 01
 
 ## Latest documents
 
@@ -91,7 +85,7 @@ Meal plans: Dine Around
 - map: https://www.neoscapesmaldives.com/wp-content/uploads/OBLU-SELECT-Lobigili-Island-Map-MAY-2025.pdf
 - wedding: none
 - spa_menu: none
-- dining_menu: none
+- dining_menu: https://cob-ucmsapi.coloursofoblu.com/OBLU/images/pdflinkd0d15eb6-736a-4194-8844-1d146f52d641file.pdf.pdf
 - dive_prices: none
 - events: none
 - calendar: none
@@ -102,4 +96,4 @@ Meal plans: Dine Around
 - wedding brochure
 - events/MICE document
 
-_Facts extracted by rules from 22 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-04._
+_Facts extracted by rules from 24 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

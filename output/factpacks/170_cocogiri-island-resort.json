@@ -5,8 +5,8 @@
  "aliases": [
   "Cocogiri"
  ],
- "official_url": null,
- "official_site_status": null,
+ "official_url": "https://cocogiri.com/",
+ "official_site_status": "ok",
  "operator_brand": "Coco",
  "atoll": null,
  "island": null,
@@ -26,20 +26,28 @@
   "total": null,
   "categories": []
  },
- "dining": [],
+ "dining": [
+  {
+   "name": "but es Deli",
+   "cuisine": null,
+   "type": "restaurant"
+  }
+ ],
  "meal_plans": [],
  "all_inclusive_details": null,
  "spa": {
   "name": null,
   "treatment_rooms": null,
   "signature_treatments": [],
-  "menu_doc": null
+  "menu_doc": "https://cocogiri.com/wp-content/uploads/2025/04/Spa-Menu.pdf"
  },
  "diving_watersports": {
   "operator": null,
   "house_reef": null,
-  "activities": [],
-  "price_list_doc": null
+  "activities": [
+   "scuba diving"
+  ],
+  "price_list_doc": "https://cocogiri.com/wp-content/uploads/2025/04/Dive-list-1-merged.pdf"
  },
  "excursions": [],
  "kids_family": {
@@ -47,7 +55,10 @@
   "age_range": null,
   "teens": null
  },
- "wellness_fitness": [],
+ "wellness_fitness": [
+  "yoga",
+  "steam"
+ ],
  "weddings": {
   "offered": null,
   "vow_renewal": null,
@@ -68,32 +79,65 @@
   "phone": null
  },
  "documents_latest": {
-  "factsheet": null,
-  "map": null,
+  "factsheet": "https://cocogiri.com/wp-content/uploads/2025/04/COCOGIRI-ISLAND-FACTSHEET.pdf",
+  "map": "https://cocogiri.com/wp-content/uploads/2025/07/ALL-INCLUSIVE-MEAL-PLAN.pdf",
   "wedding": null,
-  "spa_menu": null,
-  "dining_menu": null,
-  "dive_prices": null,
+  "spa_menu": "https://cocogiri.com/wp-content/uploads/2025/04/Spa-Menu.pdf",
+  "dining_menu": "https://cocogiri.com/wp-content/uploads/2025/04/Candlelight-Dining-Menu.pdf",
+  "dive_prices": "https://cocogiri.com/wp-content/uploads/2025/04/Dive-list-1-merged.pdf",
   "events": null,
   "calendar": null
  },
- "documents_count": 0,
+ "documents_count": 11,
  "gaps": [
-  "factsheet",
   "wedding brochure",
   "events/MICE document",
   "fact: villas.total",
   "fact: villa categories",
-  "fact: dining",
   "fact: transfer",
   "fact: atoll",
   "fact: spa",
   "fact: dive operator",
   "fact: kids club",
   "fact: weddings",
-  "fact: contacts",
-  "no documents or pages collected"
+  "fact: contacts"
  ],
- "sources": {},
- "last_updated": "2026-10-04"
+ "sources": {
+  "dining": [
+   {
+    "value": {
+     "name": "but es Deli",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://cocogiri.com/wp-content/uploads/2025/04/Spa-Menu.pdf",
+    "as_of": 2023
+   }
+  ],
+  "wellness_fitness": [
+   {
+    "value": "yoga",
+    "source_url": "https://cocogiri.com/wp-content/uploads/2025/04/Spa-Menu.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": "steam",
+    "source_url": "https://cocogiri.com/wp-content/uploads/2025/04/Spa-Menu.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": "steam",
+    "source_url": "https://cocogiri.com/wp-content/uploads/2025/04/Candlelight-Dining-Menu.pdf",
+    "as_of": 2024
+   }
+  ],
+  "diving_watersports.activities": [
+   {
+    "value": "scuba diving",
+    "source_url": "https://cocogiri.com/wp-content/uploads/2025/04/Dive-list-1-merged.pdf",
+    "as_of": 2025
+   }
+  ]
+ },
+ "last_updated": "2026-10-05"
 }

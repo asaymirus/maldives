@@ -6,16 +6,18 @@
   "Cheval Blanc Randheli",
   "Randheli"
  ],
- "official_url": null,
- "official_site_status": null,
+ "official_url": "https://www.chevalblanc.com/en/maison/randheli/",
+ "official_site_status": "ok",
  "operator_brand": "Cheval Blanc",
  "atoll": "Noonu Atoll",
- "island": "Randheli",
+ "island": "Maakurandhoo",
  "opened_or_renovated": null,
  "star_rating": null,
  "transfer": {
   "modes": [
-   "seaplane"
+   "seaplane",
+   "speedboat",
+   "yacht"
   ],
   "minutes": {
    "seaplane": 40,
@@ -26,8 +28,104 @@
  },
  "island_size": null,
  "villas": {
-  "total": null,
+  "total": 46,
   "categories": [
+   {
+    "name": "• Island Villas one-bedroom villas with of usable area and",
+    "count": 165,
+    "size_sqm": 240,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "• Water Villas one-bedroom villas with of usable area and of",
+    "count": null,
+    "size_sqm": 220,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "• Lagoon Villas one-bedroom villas with of usable area and",
+    "count": null,
+    "size_sqm": 220,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": true
+   },
+   {
+    "name": "• Horizon Villa one-bedroom villa with of usable area and of",
+    "count": null,
+    "size_sqm": 220,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "of interior area and two-bedroom villas with of usable area",
+    "count": 124,
+    "size_sqm": 124,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "Days Resynchronising Retreat",
+    "count": 3,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "Days Rebirth Retreat",
+    "count": 5,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "Days Joyful Retreat",
+    "count": 7,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "sq ft two-bedroom villa with ocean views",
+    "count": 295,
+    "size_sqm": 295,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": true
+   },
+   {
+    "name": "Grand , sq ft villa with lagoon views",
+    "count": null,
+    "size_sqm": 220,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": true
+   },
+   {
+    "name": "Idyllic , sq ft two-bedroom villa",
+    "count": null,
+    "size_sqm": 315,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "Sprawling , sq ft villa with ocean views",
+    "count": null,
+    "size_sqm": 220,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": true
+   },
    {
     "name": "Villas",
     "count": 46,
@@ -40,14 +138,14 @@
  },
  "dining": [
   {
-   "name": "Dining",
-   "cuisine": null,
-   "type": "restaurant"
-  },
-  {
-   "name": "The White Bar",
+   "name": "Swimming Pool & Spa Bar",
    "cuisine": null,
    "type": "bar"
+  },
+  {
+   "name": "Eclectic Grill",
+   "cuisine": null,
+   "type": "restaurant"
   },
   {
    "name": "The Spa Bar",
@@ -58,6 +156,11 @@
    "name": "Wine Museum & Cigar Lounge",
    "cuisine": null,
    "type": "bar"
+  },
+  {
+   "name": "The White Bar",
+   "cuisine": null,
+   "type": "bar"
   }
  ],
  "meal_plans": [],
@@ -66,20 +169,39 @@
   "name": "Cheval Blanc Spa",
   "treatment_rooms": null,
   "signature_treatments": [],
-  "menu_doc": null
+  "menu_doc": "https://lvmh-chevalblanc.cdn.prismic.io/lvmh-chevalblanc/b-V7Jr1jqx8IEXUF_BrochureSpa_ChevalBlancRandheli_EN.pdf"
  },
  "diving_watersports": {
   "operator": "Dive Centre",
   "house_reef": null,
   "activities": [
    "windsurfing",
+   "stand-up paddle",
    "jet ski",
    "water skiing",
-   "seabob"
+   "seabob",
+   "snorkelling",
+   "whale shark",
+   "manta",
+   "sailing",
+   "scuba diving",
+   "surfing",
+   "wakeboarding",
+   "fishing"
   ],
   "price_list_doc": null
  },
  "excursions": [
+  "cooking class",
+  "whale shark",
+  "manta",
+  "private dinner",
+  "cinema",
+  "local island",
+  "dolphin",
+  "big game fishing",
+  "turtle",
+  "picnic",
   "sandbank"
  ],
  "kids_family": {
@@ -89,19 +211,30 @@
  },
  "wellness_fitness": [
   "yoga",
+  "gym",
   "fitness centre",
   "tennis",
   "pilates",
   "hammam",
   "sauna",
   "meditation",
+  "steam",
+  "personal trainer",
+  "padel",
   "fitness center"
  ],
  "weddings": {
   "offered": true,
-  "vow_renewal": null,
+  "vow_renewal": true,
   "venues": [],
-  "packages": [],
+  "packages": [
+   {
+    "name": "Maakurandhoo Yoga Experience",
+    "price": "100",
+    "currency": "USD",
+    "as_of": 2026
+   }
+  ],
   "brochure_doc": null
  },
  "events_mice": {
@@ -110,34 +243,111 @@
   "buyout": null,
   "doc": null
  },
- "sustainability": [],
+ "sustainability": [
+  "solar",
+  "EarthCheck"
+ ],
  "contacts_public": {
-  "reservations_email": "info@neoscapesmaldives.com",
+  "reservations_email": "info.randheli@chevalblanc.com",
   "weddings_email": null,
-  "phone": "+960 736 5425"
+  "phone": "+ 960 656 15 15 2"
  },
  "documents_latest": {
-  "factsheet": "https://www.neoscapesmaldives.com/wp-content/uploads/Cheval-Blanc-Randheli-Factsheet.pdf",
+  "factsheet": "https://awesomegetawaymaldives.com/wp-content/uploads/2026/04/Cheval-Blanc-Randheli.pdf",
   "map": null,
   "wedding": null,
-  "spa_menu": null,
+  "spa_menu": "https://lvmh-chevalblanc.cdn.prismic.io/lvmh-chevalblanc/b-V7Jr1jqx8IEXUF_BrochureSpa_ChevalBlancRandheli_EN.pdf",
   "dining_menu": null,
   "dive_prices": null,
   "events": null,
   "calendar": null
  },
- "documents_count": 2,
+ "documents_count": 7,
  "gaps": [
   "wedding brochure",
-  "events/MICE document",
-  "fact: villas.total"
+  "events/MICE document"
  ],
  "sources": {
   "transfer.modes": [
    {
     "value": "seaplane",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Cheval-Blanc-Randheli-Factsheet.pdf",
-    "as_of": 2022
+    "source_url": "https://awesomegetawaymaldives.com/wp-content/uploads/2026/04/Cheval-Blanc-Randheli.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://lvmh-chevalblanc.cdn.prismic.io/lvmh-chevalblanc/a3v4hr_XlVvnJaFk_CBRExperiences-EN.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://lvmh-chevalblanc.cdn.prismic.io/lvmh-chevalblanc/a3v4hr_XlVvnJaFk_CBRExperiences-EN.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "yacht",
+    "source_url": "https://lvmh-chevalblanc.cdn.prismic.io/lvmh-chevalblanc/a3v4hr_XlVvnJaFk_CBRExperiences-EN.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://lvmh-chevalblanc.cdn.prismic.io/lvmh-chevalblanc/3D6MAkRHjqmgWdF-_FamiliesatChevalBlancRandheli-EN.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.chevalblanc.com/en/maison/randheli/rooms-and-suites/garden-water-villa-2-bedroom/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.chevalblanc.com/en/maison/randheli/experiences/art-and-design-randheli/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.chevalblanc.com/en/maison/randheli/rooms-and-suites/garden-water-villa-1-bedroom/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.chevalblanc.com/en/maison/randheli/rooms-and-suites/lagoon-villa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.chevalblanc.com/en/maison/randheli/rooms-and-suites/lagoon-garden-villa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.chevalblanc.com/en/maison/randheli/rooms-and-suites/island-villa-1-bedroom/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.chevalblanc.com/en/maison/randheli/rooms-and-suites/private-island/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.chevalblanc.com/en/maison/randheli/rooms-and-suites/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.chevalblanc.com/en/maison/randheli/rooms-and-suites/horizon-villa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.chevalblanc.com/en/maison/randheli/rooms-and-suites/island-villa-2-bedroom/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.chevalblanc.com/en/maison/randheli/rooms-and-suites/water-villa/",
+    "as_of": "2026-10-04"
    },
    {
     "value": "seaplane",
@@ -145,18 +355,281 @@
     "as_of": "2026-10-04"
    }
   ],
+  "villas.categories": [
+   {
+    "value": {
+     "name": "• Island Villas one-bedroom villas with of usable area and",
+     "count": 165,
+     "size_sqm": 240,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://awesomegetawaymaldives.com/wp-content/uploads/2026/04/Cheval-Blanc-Randheli.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": {
+     "name": "• Water Villas one-bedroom villas with of usable area and of",
+     "count": null,
+     "size_sqm": 220,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://awesomegetawaymaldives.com/wp-content/uploads/2026/04/Cheval-Blanc-Randheli.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": {
+     "name": "• Lagoon Villas one-bedroom villas with of usable area and",
+     "count": null,
+     "size_sqm": 220,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": true
+    },
+    "source_url": "https://awesomegetawaymaldives.com/wp-content/uploads/2026/04/Cheval-Blanc-Randheli.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": {
+     "name": "• Horizon Villa one-bedroom villa with of usable area and of",
+     "count": null,
+     "size_sqm": 220,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://awesomegetawaymaldives.com/wp-content/uploads/2026/04/Cheval-Blanc-Randheli.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": {
+     "name": "of interior area and two-bedroom villas with of usable area",
+     "count": 124,
+     "size_sqm": 124,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://awesomegetawaymaldives.com/wp-content/uploads/2026/04/Cheval-Blanc-Randheli.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": {
+     "name": "Days Resynchronising Retreat",
+     "count": 3,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://lvmh-chevalblanc.cdn.prismic.io/lvmh-chevalblanc/b-V7Jr1jqx8IEXUF_BrochureSpa_ChevalBlancRandheli_EN.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": {
+     "name": "Days Rebirth Retreat",
+     "count": 5,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://lvmh-chevalblanc.cdn.prismic.io/lvmh-chevalblanc/b-V7Jr1jqx8IEXUF_BrochureSpa_ChevalBlancRandheli_EN.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": {
+     "name": "Days Joyful Retreat",
+     "count": 7,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://lvmh-chevalblanc.cdn.prismic.io/lvmh-chevalblanc/b-V7Jr1jqx8IEXUF_BrochureSpa_ChevalBlancRandheli_EN.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": {
+     "name": "sq ft two-bedroom villa with ocean views",
+     "count": 295,
+     "size_sqm": 295,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": true
+    },
+    "source_url": "https://www.chevalblanc.com/en/maison/randheli/rooms-and-suites/garden-water-villa-2-bedroom/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Grand , sq ft villa with lagoon views",
+     "count": null,
+     "size_sqm": 220,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": true
+    },
+    "source_url": "https://www.chevalblanc.com/en/maison/randheli/rooms-and-suites/lagoon-villa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Idyllic , sq ft two-bedroom villa",
+     "count": null,
+     "size_sqm": 315,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://www.chevalblanc.com/en/maison/randheli/rooms-and-suites/island-villa-2-bedroom/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Sprawling , sq ft villa with ocean views",
+     "count": null,
+     "size_sqm": 220,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": true
+    },
+    "source_url": "https://www.chevalblanc.com/en/maison/randheli/rooms-and-suites/water-villa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Villas",
+     "count": 46,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://www.neoscapesmaldives.com/resort/cheval-blanc-randheli/",
+    "as_of": "2026-10-04"
+   }
+  ],
   "spa.name": [
    {
     "value": "Cheval Blanc Spa",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Cheval-Blanc-Randheli-Factsheet.pdf",
-    "as_of": 2022
+    "source_url": "https://awesomegetawaymaldives.com/wp-content/uploads/2026/04/Cheval-Blanc-Randheli.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://lvmh-chevalblanc.cdn.prismic.io/lvmh-chevalblanc/b-V7Jr1jqx8IEXUF_BrochureSpa_ChevalBlancRandheli_EN.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://lvmh-chevalblanc.cdn.prismic.io/lvmh-chevalblanc/a3v4hr_XlVvnJaFk_CBRExperiences-EN.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "Cheval Blanc Spa",
+    "source_url": "https://lvmh-chevalblanc.cdn.prismic.io/lvmh-chevalblanc/3D6MAkRHjqmgWdF-_FamiliesatChevalBlancRandheli-EN.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "Discover\nBar\nThe Spa",
+    "source_url": "https://www.chevalblanc.com/en/maison/randheli/restaurants-and-bars/the-white/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "The Cheval Blanc Spa",
+    "source_url": "https://www.chevalblanc.com/en/maison/randheli/rooms-and-suites/garden-water-villa-2-bedroom/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "The Cheval Blanc Spa",
+    "source_url": "https://www.chevalblanc.com/en/maison/randheli/rooms-and-suites/garden-water-villa-1-bedroom/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Download\nCheval Blanc Spa",
+    "source_url": "https://www.chevalblanc.com/en/maison/randheli/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "The Cheval Blanc Spa",
+    "source_url": "https://www.chevalblanc.com/en/maison/randheli/rooms-and-suites/lagoon-villa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Hair Spa",
+    "source_url": "https://www.chevalblanc.com/en/maison/randheli/wellness/hair-spa-leonor-greyl/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "The Cheval Blanc Spa",
+    "source_url": "https://www.chevalblanc.com/en/maison/randheli/rooms-and-suites/lagoon-garden-villa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Cheval Blanc Spa",
+    "source_url": "https://www.chevalblanc.com/en/maison/randheli/experiences/well-being-randheli/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "The Cheval Blanc Spa",
+    "source_url": "https://www.chevalblanc.com/en/maison/randheli/rooms-and-suites/island-villa-1-bedroom/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Cheval Blanc Spa",
+    "source_url": "https://www.chevalblanc.com/en/maison/randheli/wellness/cheval-blanc-spa-randheli/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "The Cheval Blanc Spa",
+    "source_url": "https://www.chevalblanc.com/en/maison/randheli/rooms-and-suites/private-island/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "The Cheval Blanc Spa",
+    "source_url": "https://www.chevalblanc.com/en/maison/randheli/rooms-and-suites/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "The Cheval Blanc Spa",
+    "source_url": "https://www.chevalblanc.com/en/maison/randheli/rooms-and-suites/horizon-villa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "The Cheval Blanc Spa",
+    "source_url": "https://www.chevalblanc.com/en/maison/randheli/rooms-and-suites/island-villa-2-bedroom/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "The Cheval Blanc Spa",
+    "source_url": "https://www.chevalblanc.com/en/maison/randheli/rooms-and-suites/water-villa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Discover\nBar\nThe Spa",
+    "source_url": "https://www.chevalblanc.com/en/maison/randheli/restaurants-and-bars/le-1947-randheli/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.chevalblanc.com/en/maison/randheli/wellness/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Cheval Blanc Spa",
+    "source_url": "https://malediven.de/malediven-hotels/cheval-blanc-randheli/",
+    "as_of": "2026-10-04"
    }
   ],
   "diving_watersports.operator": [
    {
     "value": "Dive Centre",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Cheval-Blanc-Randheli-Factsheet.pdf",
-    "as_of": 2022
+    "source_url": "https://awesomegetawaymaldives.com/wp-content/uploads/2026/04/Cheval-Blanc-Randheli.pdf",
+    "as_of": 2026
    },
    {
     "value": "Dive Centre",
@@ -167,30 +640,130 @@
   "diving_watersports.activities": [
    {
     "value": "windsurfing",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Cheval-Blanc-Randheli-Factsheet.pdf",
-    "as_of": 2022
+    "source_url": "https://awesomegetawaymaldives.com/wp-content/uploads/2026/04/Cheval-Blanc-Randheli.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "stand-up paddle",
+    "source_url": "https://awesomegetawaymaldives.com/wp-content/uploads/2026/04/Cheval-Blanc-Randheli.pdf",
+    "as_of": 2026
    },
    {
     "value": "jet ski",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Cheval-Blanc-Randheli-Factsheet.pdf",
-    "as_of": 2022
+    "source_url": "https://awesomegetawaymaldives.com/wp-content/uploads/2026/04/Cheval-Blanc-Randheli.pdf",
+    "as_of": 2026
    },
    {
     "value": "water skiing",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Cheval-Blanc-Randheli-Factsheet.pdf",
-    "as_of": 2022
+    "source_url": "https://awesomegetawaymaldives.com/wp-content/uploads/2026/04/Cheval-Blanc-Randheli.pdf",
+    "as_of": 2026
    },
    {
     "value": "seabob",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Cheval-Blanc-Randheli-Factsheet.pdf",
-    "as_of": 2022
+    "source_url": "https://awesomegetawaymaldives.com/wp-content/uploads/2026/04/Cheval-Blanc-Randheli.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "stand-up paddle",
+    "source_url": "https://lvmh-chevalblanc.cdn.prismic.io/lvmh-chevalblanc/b-V7Jr1jqx8IEXUF_BrochureSpa_ChevalBlancRandheli_EN.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://lvmh-chevalblanc.cdn.prismic.io/lvmh-chevalblanc/a3v4hr_XlVvnJaFk_CBRExperiences-EN.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://lvmh-chevalblanc.cdn.prismic.io/lvmh-chevalblanc/a3v4hr_XlVvnJaFk_CBRExperiences-EN.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "manta",
+    "source_url": "https://lvmh-chevalblanc.cdn.prismic.io/lvmh-chevalblanc/a3v4hr_XlVvnJaFk_CBRExperiences-EN.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "sailing",
+    "source_url": "https://lvmh-chevalblanc.cdn.prismic.io/lvmh-chevalblanc/a3v4hr_XlVvnJaFk_CBRExperiences-EN.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://lvmh-chevalblanc.cdn.prismic.io/lvmh-chevalblanc/3D6MAkRHjqmgWdF-_FamiliesatChevalBlancRandheli-EN.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://lvmh-chevalblanc.cdn.prismic.io/lvmh-chevalblanc/3D6MAkRHjqmgWdF-_FamiliesatChevalBlancRandheli-EN.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "windsurfing",
+    "source_url": "https://lvmh-chevalblanc.cdn.prismic.io/lvmh-chevalblanc/3D6MAkRHjqmgWdF-_FamiliesatChevalBlancRandheli-EN.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "surfing",
+    "source_url": "https://lvmh-chevalblanc.cdn.prismic.io/lvmh-chevalblanc/3D6MAkRHjqmgWdF-_FamiliesatChevalBlancRandheli-EN.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "stand-up paddle",
+    "source_url": "https://lvmh-chevalblanc.cdn.prismic.io/lvmh-chevalblanc/3D6MAkRHjqmgWdF-_FamiliesatChevalBlancRandheli-EN.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "jet ski",
+    "source_url": "https://lvmh-chevalblanc.cdn.prismic.io/lvmh-chevalblanc/3D6MAkRHjqmgWdF-_FamiliesatChevalBlancRandheli-EN.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "wakeboarding",
+    "source_url": "https://lvmh-chevalblanc.cdn.prismic.io/lvmh-chevalblanc/3D6MAkRHjqmgWdF-_FamiliesatChevalBlancRandheli-EN.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://lvmh-chevalblanc.cdn.prismic.io/lvmh-chevalblanc/3D6MAkRHjqmgWdF-_FamiliesatChevalBlancRandheli-EN.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "sailing",
+    "source_url": "https://lvmh-chevalblanc.cdn.prismic.io/lvmh-chevalblanc/3D6MAkRHjqmgWdF-_FamiliesatChevalBlancRandheli-EN.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.chevalblanc.com/en/maison/randheli/experiences/adventures-destination-randheli/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sailing",
+    "source_url": "https://www.chevalblanc.com/en/maison/randheli/experiences/adventures-destination-randheli/",
+    "as_of": "2026-10-04"
    }
   ],
   "kids_family.teens": [
    {
     "value": "teens programme mentioned",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Cheval-Blanc-Randheli-Factsheet.pdf",
-    "as_of": 2022
+    "source_url": "https://awesomegetawaymaldives.com/wp-content/uploads/2026/04/Cheval-Blanc-Randheli.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "teens programme mentioned",
+    "source_url": "https://lvmh-chevalblanc.cdn.prismic.io/lvmh-chevalblanc/a3v4hr_XlVvnJaFk_CBRExperiences-EN.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "teens programme mentioned",
+    "source_url": "https://lvmh-chevalblanc.cdn.prismic.io/lvmh-chevalblanc/3D6MAkRHjqmgWdF-_FamiliesatChevalBlancRandheli-EN.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "teens programme mentioned",
+    "source_url": "https://www.chevalblanc.com/en/maison/randheli/experiences/families-randheli/",
+    "as_of": "2026-10-04"
    },
    {
     "value": "teens programme mentioned",
@@ -201,33 +774,128 @@
   "wellness_fitness": [
    {
     "value": "yoga",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Cheval-Blanc-Randheli-Factsheet.pdf",
-    "as_of": 2022
+    "source_url": "https://awesomegetawaymaldives.com/wp-content/uploads/2026/04/Cheval-Blanc-Randheli.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "gym",
+    "source_url": "https://awesomegetawaymaldives.com/wp-content/uploads/2026/04/Cheval-Blanc-Randheli.pdf",
+    "as_of": 2026
    },
    {
     "value": "fitness centre",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Cheval-Blanc-Randheli-Factsheet.pdf",
-    "as_of": 2022
+    "source_url": "https://awesomegetawaymaldives.com/wp-content/uploads/2026/04/Cheval-Blanc-Randheli.pdf",
+    "as_of": 2026
    },
    {
     "value": "tennis",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Cheval-Blanc-Randheli-Factsheet.pdf",
-    "as_of": 2022
+    "source_url": "https://awesomegetawaymaldives.com/wp-content/uploads/2026/04/Cheval-Blanc-Randheli.pdf",
+    "as_of": 2026
    },
    {
     "value": "pilates",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Cheval-Blanc-Randheli-Factsheet.pdf",
-    "as_of": 2022
+    "source_url": "https://awesomegetawaymaldives.com/wp-content/uploads/2026/04/Cheval-Blanc-Randheli.pdf",
+    "as_of": 2026
    },
    {
     "value": "hammam",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Cheval-Blanc-Randheli-Factsheet.pdf",
-    "as_of": 2022
+    "source_url": "https://awesomegetawaymaldives.com/wp-content/uploads/2026/04/Cheval-Blanc-Randheli.pdf",
+    "as_of": 2026
    },
    {
     "value": "sauna",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Cheval-Blanc-Randheli-Factsheet.pdf",
-    "as_of": 2022
+    "source_url": "https://awesomegetawaymaldives.com/wp-content/uploads/2026/04/Cheval-Blanc-Randheli.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://lvmh-chevalblanc.cdn.prismic.io/lvmh-chevalblanc/b-V7Jr1jqx8IEXUF_BrochureSpa_ChevalBlancRandheli_EN.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "meditation",
+    "source_url": "https://lvmh-chevalblanc.cdn.prismic.io/lvmh-chevalblanc/b-V7Jr1jqx8IEXUF_BrochureSpa_ChevalBlancRandheli_EN.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "hammam",
+    "source_url": "https://lvmh-chevalblanc.cdn.prismic.io/lvmh-chevalblanc/b-V7Jr1jqx8IEXUF_BrochureSpa_ChevalBlancRandheli_EN.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "steam",
+    "source_url": "https://lvmh-chevalblanc.cdn.prismic.io/lvmh-chevalblanc/b-V7Jr1jqx8IEXUF_BrochureSpa_ChevalBlancRandheli_EN.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://lvmh-chevalblanc.cdn.prismic.io/lvmh-chevalblanc/a3v4hr_XlVvnJaFk_CBRExperiences-EN.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "fitness centre",
+    "source_url": "https://lvmh-chevalblanc.cdn.prismic.io/lvmh-chevalblanc/a3v4hr_XlVvnJaFk_CBRExperiences-EN.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://lvmh-chevalblanc.cdn.prismic.io/lvmh-chevalblanc/a3v4hr_XlVvnJaFk_CBRExperiences-EN.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://lvmh-chevalblanc.cdn.prismic.io/lvmh-chevalblanc/3D6MAkRHjqmgWdF-_FamiliesatChevalBlancRandheli-EN.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "gym",
+    "source_url": "https://lvmh-chevalblanc.cdn.prismic.io/lvmh-chevalblanc/3D6MAkRHjqmgWdF-_FamiliesatChevalBlancRandheli-EN.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "fitness centre",
+    "source_url": "https://lvmh-chevalblanc.cdn.prismic.io/lvmh-chevalblanc/3D6MAkRHjqmgWdF-_FamiliesatChevalBlancRandheli-EN.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://lvmh-chevalblanc.cdn.prismic.io/lvmh-chevalblanc/3D6MAkRHjqmgWdF-_FamiliesatChevalBlancRandheli-EN.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "personal trainer",
+    "source_url": "https://lvmh-chevalblanc.cdn.prismic.io/lvmh-chevalblanc/3D6MAkRHjqmgWdF-_FamiliesatChevalBlancRandheli-EN.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.chevalblanc.com/en/maison/randheli/experiences/well-being-randheli/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "meditation",
+    "source_url": "https://www.chevalblanc.com/en/maison/randheli/experiences/well-being-randheli/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "meditation",
+    "source_url": "https://www.chevalblanc.com/en/maison/randheli/rooms-and-suites/private-island/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fitness centre",
+    "source_url": "https://www.chevalblanc.com/en/maison/randheli/rooms-and-suites/private-island/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://www.chevalblanc.com/en/maison/randheli/experiences/adventures-destination-randheli/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "padel",
+    "source_url": "https://www.chevalblanc.com/en/maison/randheli/experiences/adventures-destination-randheli/",
+    "as_of": "2026-10-04"
    },
    {
     "value": "meditation",
@@ -253,55 +921,161 @@
   "atoll": [
    {
     "value": "Noonu Atoll",
+    "source_url": "https://lvmh-chevalblanc.cdn.prismic.io/lvmh-chevalblanc/b-V7Jr1jqx8IEXUF_BrochureSpa_ChevalBlancRandheli_EN.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "Baa Atoll",
+    "source_url": "https://lvmh-chevalblanc.cdn.prismic.io/lvmh-chevalblanc/a3v4hr_XlVvnJaFk_CBRExperiences-EN.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "Noonu Atoll",
+    "source_url": "https://lvmh-chevalblanc.cdn.prismic.io/lvmh-chevalblanc/3D6MAkRHjqmgWdF-_FamiliesatChevalBlancRandheli-EN.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "Noonu Atoll",
+    "source_url": "https://www.chevalblanc.com/en/maison/randheli/rooms-and-suites/garden-water-villa-2-bedroom/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Noonu Atoll",
+    "source_url": "https://www.chevalblanc.com/en/maison/randheli/rooms-and-suites/garden-water-villa-1-bedroom/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Noonu Atoll",
+    "source_url": "https://www.chevalblanc.com/en/maison/randheli/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Noonu Atoll",
+    "source_url": "https://www.chevalblanc.com/en/maison/randheli/rooms-and-suites/lagoon-villa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Noonu Atoll",
+    "source_url": "https://www.chevalblanc.com/en/maison/randheli/rooms-and-suites/lagoon-garden-villa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Noonu Atoll",
+    "source_url": "https://www.chevalblanc.com/en/maison/randheli/rooms-and-suites/island-villa-1-bedroom/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Noonu Atoll",
+    "source_url": "https://www.chevalblanc.com/en/maison/randheli/rooms-and-suites/private-island/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Noonu Atoll",
+    "source_url": "https://www.chevalblanc.com/en/maison/randheli/rooms-and-suites/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Noonu Atoll",
+    "source_url": "https://www.chevalblanc.com/en/maison/randheli/rooms-and-suites/horizon-villa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Noonu Atoll",
+    "source_url": "https://www.chevalblanc.com/en/maison/randheli/rooms-and-suites/island-villa-2-bedroom/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Noonu Atoll",
+    "source_url": "https://www.chevalblanc.com/en/maison/randheli/rooms-and-suites/water-villa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Noonu Atoll",
     "source_url": "https://www.neoscapesmaldives.com/resort/cheval-blanc-randheli/",
     "as_of": "2026-10-04"
-   }
-  ],
-  "island": [
+   },
    {
-    "value": "Randheli",
-    "source_url": "https://www.neoscapesmaldives.com/resort/cheval-blanc-randheli/",
+    "value": "Noonu Atoll",
+    "source_url": "https://mondomaldive.it/it/villaggio/cheval-blanc-randheli/recensioni",
     "as_of": "2026-10-04"
-   }
-  ],
-  "transfer.minutes.seaplane": [
+   },
    {
-    "value": 40,
-    "source_url": "https://www.neoscapesmaldives.com/resort/cheval-blanc-randheli/",
-    "as_of": "2026-10-04"
-   }
-  ],
-  "villas.categories": [
-   {
-    "value": {
-     "name": "Villas",
-     "count": 46,
-     "size_sqm": null,
-     "max_occupancy": null,
-     "pool": null,
-     "overwater": null
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/cheval-blanc-randheli/",
+    "value": "Noonu Atoll",
+    "source_url": "https://malediven.de/malediven-hotels/cheval-blanc-randheli/",
     "as_of": "2026-10-04"
    }
   ],
   "dining": [
    {
     "value": {
-     "name": "Dining",
+     "name": "Swimming Pool & Spa Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://lvmh-chevalblanc.cdn.prismic.io/lvmh-chevalblanc/b-V7Jr1jqx8IEXUF_BrochureSpa_ChevalBlancRandheli_EN.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": {
+     "name": "Eclectic Grill",
      "cuisine": null,
      "type": "restaurant"
     },
-    "source_url": "https://www.neoscapesmaldives.com/resort/cheval-blanc-randheli/",
+    "source_url": "https://lvmh-chevalblanc.cdn.prismic.io/lvmh-chevalblanc/a3v4hr_XlVvnJaFk_CBRExperiences-EN.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": {
+     "name": "The Spa Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.chevalblanc.com/en/maison/randheli/restaurants-and-bars/the-white/",
     "as_of": "2026-10-04"
    },
    {
     "value": {
-     "name": "Dining",
+     "name": "Wine Museum & Cigar Lounge",
      "cuisine": null,
-     "type": "restaurant"
+     "type": "bar"
     },
-    "source_url": "https://www.neoscapesmaldives.com/resort/cheval-blanc-randheli/",
+    "source_url": "https://www.chevalblanc.com/en/maison/randheli/restaurants-and-bars/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "The Spa Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.chevalblanc.com/en/maison/randheli/restaurants-and-bars/spa-bar/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Wine Museum & Cigar Lounge",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.chevalblanc.com/en/maison/randheli/restaurants-and-bars/wine-cigar-lounge/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "The Spa Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.chevalblanc.com/en/maison/randheli/restaurants-and-bars/le-1947-randheli/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "The White Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.chevalblanc.com/en/maison/randheli/restaurants-and-bars/white-bar-randheli/",
     "as_of": "2026-10-04"
    },
    {
@@ -334,7 +1108,360 @@
   ],
   "excursions": [
    {
+    "value": "cooking class",
+    "source_url": "https://lvmh-chevalblanc.cdn.prismic.io/lvmh-chevalblanc/b-V7Jr1jqx8IEXUF_BrochureSpa_ChevalBlancRandheli_EN.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://lvmh-chevalblanc.cdn.prismic.io/lvmh-chevalblanc/a3v4hr_XlVvnJaFk_CBRExperiences-EN.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "manta",
+    "source_url": "https://lvmh-chevalblanc.cdn.prismic.io/lvmh-chevalblanc/a3v4hr_XlVvnJaFk_CBRExperiences-EN.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "private dinner",
+    "source_url": "https://lvmh-chevalblanc.cdn.prismic.io/lvmh-chevalblanc/a3v4hr_XlVvnJaFk_CBRExperiences-EN.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "cinema",
+    "source_url": "https://lvmh-chevalblanc.cdn.prismic.io/lvmh-chevalblanc/a3v4hr_XlVvnJaFk_CBRExperiences-EN.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "local island",
+    "source_url": "https://lvmh-chevalblanc.cdn.prismic.io/lvmh-chevalblanc/3D6MAkRHjqmgWdF-_FamiliesatChevalBlancRandheli-EN.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://lvmh-chevalblanc.cdn.prismic.io/lvmh-chevalblanc/3D6MAkRHjqmgWdF-_FamiliesatChevalBlancRandheli-EN.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "big game fishing",
+    "source_url": "https://lvmh-chevalblanc.cdn.prismic.io/lvmh-chevalblanc/3D6MAkRHjqmgWdF-_FamiliesatChevalBlancRandheli-EN.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://lvmh-chevalblanc.cdn.prismic.io/lvmh-chevalblanc/3D6MAkRHjqmgWdF-_FamiliesatChevalBlancRandheli-EN.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "picnic",
+    "source_url": "https://lvmh-chevalblanc.cdn.prismic.io/lvmh-chevalblanc/3D6MAkRHjqmgWdF-_FamiliesatChevalBlancRandheli-EN.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "private dinner",
+    "source_url": "https://lvmh-chevalblanc.cdn.prismic.io/lvmh-chevalblanc/3D6MAkRHjqmgWdF-_FamiliesatChevalBlancRandheli-EN.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "cooking class",
+    "source_url": "https://lvmh-chevalblanc.cdn.prismic.io/lvmh-chevalblanc/3D6MAkRHjqmgWdF-_FamiliesatChevalBlancRandheli-EN.pdf",
+    "as_of": 2026
+   },
+   {
     "value": "sandbank",
+    "source_url": "https://www.chevalblanc.com/en/maison/randheli/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "picnic",
+    "source_url": "https://www.chevalblanc.com/en/maison/randheli/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.chevalblanc.com/en/maison/randheli/restaurants-and-bars/deelani/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "picnic",
+    "source_url": "https://www.chevalblanc.com/en/maison/randheli/restaurants-and-bars/deelani/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.chevalblanc.com/en/maison/randheli/restaurants-and-bars/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "picnic",
+    "source_url": "https://www.chevalblanc.com/en/maison/randheli/restaurants-and-bars/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.neoscapesmaldives.com/resort/cheval-blanc-randheli/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "weddings.packages": [
+   {
+    "value": {
+     "name": "Maakurandhoo Yoga Experience",
+     "price": "100",
+     "currency": "USD",
+     "as_of": 2026
+    },
+    "source_url": "https://lvmh-chevalblanc.cdn.prismic.io/lvmh-chevalblanc/b-V7Jr1jqx8IEXUF_BrochureSpa_ChevalBlancRandheli_EN.pdf",
+    "as_of": 2026
+   }
+  ],
+  "sustainability": [
+   {
+    "value": "solar",
+    "source_url": "https://lvmh-chevalblanc.cdn.prismic.io/lvmh-chevalblanc/b-V7Jr1jqx8IEXUF_BrochureSpa_ChevalBlancRandheli_EN.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "EarthCheck",
+    "source_url": "https://letsgomaldives.com/news/cheval-blanc-randheli-a-commitment-to-sustainability-and-excellence/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "contacts_public.reservations_email": [
+   {
+    "value": "info.randheli@chevalblanc.com",
+    "source_url": "https://lvmh-chevalblanc.cdn.prismic.io/lvmh-chevalblanc/b-V7Jr1jqx8IEXUF_BrochureSpa_ChevalBlancRandheli_EN.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "info.randheli@chevalblanc.com",
+    "source_url": "https://lvmh-chevalblanc.cdn.prismic.io/lvmh-chevalblanc/a3v4hr_XlVvnJaFk_CBRExperiences-EN.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "info.randheli@chevalblanc.com",
+    "source_url": "https://lvmh-chevalblanc.cdn.prismic.io/lvmh-chevalblanc/3D6MAkRHjqmgWdF-_FamiliesatChevalBlancRandheli-EN.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "info.randheli@chevalblanc.com",
+    "source_url": "https://www.chevalblanc.com/en/maison/randheli/restaurants-and-bars/the-white/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "info.randheli@chevalblanc.com",
+    "source_url": "https://www.chevalblanc.com/en/maison/randheli/experiences/art-and-design-randheli/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "info.randheli@chevalblanc.com",
+    "source_url": "https://www.chevalblanc.com/en/maison/randheli/wellness/hair-spa-leonor-greyl/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "info.randheli@chevalblanc.com",
+    "source_url": "https://www.chevalblanc.com/en/maison/randheli/experiences/well-being-randheli/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "info.randheli@chevalblanc.com",
+    "source_url": "https://www.chevalblanc.com/en/maison/randheli/wellness/cheval-blanc-spa-randheli/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "info.randheli@chevalblanc.com",
+    "source_url": "https://www.chevalblanc.com/en/maison/randheli/restaurants-and-bars/table-de-partage-randheli/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "info.randheli@chevalblanc.com",
+    "source_url": "https://www.chevalblanc.com/en/maison/randheli/experiences/families-randheli/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "info.randheli@chevalblanc.com",
+    "source_url": "https://www.chevalblanc.com/en/maison/randheli/restaurants-and-bars/le-diptyque/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "info.randheli@chevalblanc.com",
+    "source_url": "https://www.chevalblanc.com/en/maison/randheli/restaurants-and-bars/deelani/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "info.randheli@chevalblanc.com",
+    "source_url": "https://www.chevalblanc.com/en/maison/randheli/restaurants-and-bars/spa-bar/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "info.randheli@chevalblanc.com",
+    "source_url": "https://www.chevalblanc.com/en/maison/randheli/experiences/couples-randheli/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "info.randheli@chevalblanc.com",
+    "source_url": "https://www.chevalblanc.com/en/maison/randheli/restaurants-and-bars/wine-cigar-lounge/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "info.randheli@chevalblanc.com",
+    "source_url": "https://www.chevalblanc.com/en/maison/randheli/restaurants-and-bars/le-1947-randheli/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "info.randheli@chevalblanc.com",
+    "source_url": "https://www.chevalblanc.com/en/maison/randheli/experiences/adventures-destination-randheli/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "info.randheli@chevalblanc.com",
+    "source_url": "https://www.chevalblanc.com/en/maison/randheli/restaurants-and-bars/white-bar-randheli/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "info@neoscapesmaldives.com",
+    "source_url": "https://www.neoscapesmaldives.com/resort/cheval-blanc-randheli/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "contacts_public.phone": [
+   {
+    "value": "+ 960 656 15 15 2",
+    "source_url": "https://lvmh-chevalblanc.cdn.prismic.io/lvmh-chevalblanc/b-V7Jr1jqx8IEXUF_BrochureSpa_ChevalBlancRandheli_EN.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "+960 656 1515",
+    "source_url": "https://lvmh-chevalblanc.cdn.prismic.io/lvmh-chevalblanc/a3v4hr_XlVvnJaFk_CBRExperiences-EN.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "+960 656 1515",
+    "source_url": "https://lvmh-chevalblanc.cdn.prismic.io/lvmh-chevalblanc/3D6MAkRHjqmgWdF-_FamiliesatChevalBlancRandheli-EN.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "+9606561515",
+    "source_url": "https://www.chevalblanc.com/en/maison/randheli/restaurants-and-bars/the-white/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+9606561515",
+    "source_url": "https://www.chevalblanc.com/en/maison/randheli/experiences/art-and-design-randheli/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+9606561515",
+    "source_url": "https://www.chevalblanc.com/en/maison/randheli/wellness/hair-spa-leonor-greyl/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+9606561515",
+    "source_url": "https://www.chevalblanc.com/en/maison/randheli/experiences/well-being-randheli/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+9606561515",
+    "source_url": "https://www.chevalblanc.com/en/maison/randheli/wellness/cheval-blanc-spa-randheli/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+9606561515",
+    "source_url": "https://www.chevalblanc.com/en/maison/randheli/restaurants-and-bars/table-de-partage-randheli/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+9606561515",
+    "source_url": "https://www.chevalblanc.com/en/maison/randheli/experiences/families-randheli/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+9606561515",
+    "source_url": "https://www.chevalblanc.com/en/maison/randheli/restaurants-and-bars/le-diptyque/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+9606561515",
+    "source_url": "https://www.chevalblanc.com/en/maison/randheli/restaurants-and-bars/deelani/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+9606561515",
+    "source_url": "https://www.chevalblanc.com/en/maison/randheli/restaurants-and-bars/spa-bar/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+9606561515",
+    "source_url": "https://www.chevalblanc.com/en/maison/randheli/experiences/couples-randheli/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+9606561515",
+    "source_url": "https://www.chevalblanc.com/en/maison/randheli/restaurants-and-bars/wine-cigar-lounge/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+9606561515",
+    "source_url": "https://www.chevalblanc.com/en/maison/randheli/restaurants-and-bars/le-1947-randheli/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+9606561515",
+    "source_url": "https://www.chevalblanc.com/en/maison/randheli/experiences/adventures-destination-randheli/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+9606561515",
+    "source_url": "https://www.chevalblanc.com/en/maison/randheli/restaurants-and-bars/white-bar-randheli/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 736 5425",
+    "source_url": "https://www.neoscapesmaldives.com/resort/cheval-blanc-randheli/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "weddings.offered": [
+   {
+    "value": true,
+    "source_url": "https://lvmh-chevalblanc.cdn.prismic.io/lvmh-chevalblanc/a3v4hr_XlVvnJaFk_CBRExperiences-EN.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": true,
+    "source_url": "https://www.neoscapesmaldives.com/resort/cheval-blanc-randheli/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "weddings.vow_renewal": [
+   {
+    "value": true,
+    "source_url": "https://lvmh-chevalblanc.cdn.prismic.io/lvmh-chevalblanc/a3v4hr_XlVvnJaFk_CBRExperiences-EN.pdf",
+    "as_of": 2026
+   }
+  ],
+  "island": [
+   {
+    "value": "Maakurandhoo",
+    "source_url": "https://lvmh-chevalblanc.cdn.prismic.io/lvmh-chevalblanc/3D6MAkRHjqmgWdF-_FamiliesatChevalBlancRandheli-EN.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "Randheli",
+    "source_url": "https://www.neoscapesmaldives.com/resort/cheval-blanc-randheli/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "villas.total": [
+   {
+    "value": 46,
+    "source_url": "https://www.chevalblanc.com/en/maison/randheli/experiences/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "transfer.minutes.seaplane": [
+   {
+    "value": 40,
     "source_url": "https://www.neoscapesmaldives.com/resort/cheval-blanc-randheli/",
     "as_of": "2026-10-04"
    }
@@ -345,28 +1472,7 @@
     "source_url": "https://www.neoscapesmaldives.com/resort/cheval-blanc-randheli/",
     "as_of": "2026-10-04"
    }
-  ],
-  "weddings.offered": [
-   {
-    "value": true,
-    "source_url": "https://www.neoscapesmaldives.com/resort/cheval-blanc-randheli/",
-    "as_of": "2026-10-04"
-   }
-  ],
-  "contacts_public.reservations_email": [
-   {
-    "value": "info@neoscapesmaldives.com",
-    "source_url": "https://www.neoscapesmaldives.com/resort/cheval-blanc-randheli/",
-    "as_of": "2026-10-04"
-   }
-  ],
-  "contacts_public.phone": [
-   {
-    "value": "+960 736 5425",
-    "source_url": "https://www.neoscapesmaldives.com/resort/cheval-blanc-randheli/",
-    "as_of": "2026-10-04"
-   }
   ]
  },
- "last_updated": "2026-10-04"
+ "last_updated": "2026-10-05"
 }

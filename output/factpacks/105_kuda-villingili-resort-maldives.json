@@ -5,8 +5,8 @@
  "aliases": [
   "Kuda Villingili"
  ],
- "official_url": null,
- "official_site_status": null,
+ "official_url": "https://www.kudavillingili.com/",
+ "official_site_status": "ok",
  "operator_brand": null,
  "atoll": "North Malé Atoll",
  "island": null,
@@ -64,16 +64,6 @@
  },
  "dining": [
   {
-   "name": "Seperate Dining Area",
-   "cuisine": null,
-   "type": "restaurant"
-  },
-  {
-   "name": "Dining",
-   "cuisine": null,
-   "type": "restaurant"
-  },
-  {
    "name": "The Restaurant",
    "cuisine": null,
    "type": "restaurant"
@@ -82,11 +72,6 @@
    "name": "The Cigar Lounge Near the Beach",
    "cuisine": null,
    "type": "bar"
-  },
-  {
-   "name": "Destination Dining On Request",
-   "cuisine": null,
-   "type": "restaurant"
   },
   {
    "name": "Breakfast at The Restaurant",
@@ -104,7 +89,32 @@
    "type": "restaurant"
   },
   {
-   "name": "Destination Dining",
+   "name": "Venue: The Restaurant",
+   "cuisine": null,
+   "type": "restaurant"
+  },
+  {
+   "name": "Teppanyaki by Mar-Umi",
+   "cuisine": null,
+   "type": "restaurant"
+  },
+  {
+   "name": "The Bar",
+   "cuisine": null,
+   "type": "bar"
+  },
+  {
+   "name": "The Cigar Lounge",
+   "cuisine": null,
+   "type": "bar"
+  },
+  {
+   "name": "Teppanyaki Dinner",
+   "cuisine": null,
+   "type": "restaurant"
+  },
+  {
+   "name": "Healthier, Tastier Options at The Restaurant",
    "cuisine": null,
    "type": "restaurant"
   },
@@ -117,23 +127,23 @@
    "name": "The Cigar Lounge – An Exclusive Haven",
    "cuisine": null,
    "type": "bar"
-  },
-  {
-   "name": "Destination & In-Villa Dining",
-   "cuisine": null,
-   "type": "restaurant"
   }
  ],
- "meal_plans": [],
- "all_inclusive_details": null,
+ "meal_plans": [
+  "BB",
+  "HB",
+  "FB",
+  "AI"
+ ],
+ "all_inclusive_details": "all-inclusive escape designed for an unforgettable extended stay in paradise.",
  "spa": {
-  "name": null,
+  "name": "Spa",
   "treatment_rooms": null,
   "signature_treatments": [],
-  "menu_doc": null
+  "menu_doc": "https://dhshr15av118h.cloudfront.net/2026/07/Spa-Menu-A4-Square.pdf"
  },
  "diving_watersports": {
-  "operator": null,
+  "operator": "Dive Centre",
   "house_reef": null,
   "activities": [
    "snorkeling",
@@ -141,23 +151,31 @@
    "surfing",
    "fishing",
    "snorkelling",
+   "sunset cruise",
+   "paddleboard",
    "windsurfing",
    "kayaking",
    "jet ski",
    "wakeboarding",
-   "manta"
+   "manta",
+   "stand-up paddle",
+   "dolphin cruise"
   ],
   "price_list_doc": null
  },
  "excursions": [
   "sunset fishing",
   "turtle",
-  "manta"
+  "sandbank",
+  "cinema",
+  "manta",
+  "dolphin",
+  "big game fishing"
  ],
  "kids_family": {
-  "kids_club": "Speedboat\nKids Club",
+  "kids_club": "At Kuda Fiyo Kids Club",
   "age_range": null,
-  "teens": null
+  "teens": "teens programme mentioned"
  },
  "wellness_fitness": [
   "yoga",
@@ -166,14 +184,20 @@
   "padel",
   "ayurveda",
   "steam",
-  "fitness centre"
+  "sound healing",
+  "fitness centre",
+  "pilates",
+  "meditation",
+  "badminton"
  ],
  "weddings": {
   "offered": true,
-  "vow_renewal": null,
-  "venues": [],
+  "vow_renewal": true,
+  "venues": [
+   "Venue: Mar-Umi Beach"
+  ],
   "packages": [],
-  "brochure_doc": null
+  "brochure_doc": "https://dhshr15av118h.cloudfront.net/2026/03/Wedding-Brochure-2026-Kuda-Villingili-1.pdf"
  },
  "events_mice": {
   "venues": [],
@@ -181,28 +205,32 @@
   "buyout": null,
   "doc": null
  },
- "sustainability": [],
+ "sustainability": [
+  "solar",
+  "desalination",
+  "coral restoration",
+  "Green Globe",
+  "organic garden",
+  "composting"
+ ],
  "contacts_public": {
-  "reservations_email": "info@neoscapesmaldives.com",
+  "reservations_email": "reservations@kudavillingili.com",
   "weddings_email": null,
-  "phone": "+960 736 5425"
+  "phone": "+960 400 0900"
  },
  "documents_latest": {
   "factsheet": "https://www.neoscapesmaldives.com/wp-content/uploads/241220_-_Factsheet.pdf",
-  "map": "https://www.neoscapesmaldives.com/wp-content/uploads/Kuda-Villingili-Resort-Map.pdf",
-  "wedding": null,
-  "spa_menu": null,
-  "dining_menu": null,
+  "map": "https://dhshr15av118h.cloudfront.net/2026/07/Kuda-Villingili-Resort-Map.pdf",
+  "wedding": "https://dhshr15av118h.cloudfront.net/2026/03/Wedding-Brochure-2026-Kuda-Villingili-1.pdf",
+  "spa_menu": "https://dhshr15av118h.cloudfront.net/2026/07/Spa-Menu-A4-Square.pdf",
+  "dining_menu": "https://dhshr15av118h.cloudfront.net/2026/02/Valentines-Day-2026_Kuda-Villingili-Maldives.pdf",
   "dive_prices": null,
   "events": null,
-  "calendar": null
+  "calendar": "https://dhshr15av118h.cloudfront.net/2026/02/Kuda-Villingili-Maldives-Easter-Brochure-2026.pdf"
  },
- "documents_count": 2,
+ "documents_count": 23,
  "gaps": [
-  "wedding brochure",
-  "events/MICE document",
-  "fact: spa",
-  "fact: dive operator"
+  "events/MICE document"
  ],
  "sources": {
   "atoll": [
@@ -213,7 +241,42 @@
    },
    {
     "value": "North Malé Atoll",
+    "source_url": "https://dhshr15av118h.cloudfront.net/2026/07/Spa-Menu-A4-Square.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "North Malé Atoll",
+    "source_url": "https://www.kudavillingili.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "North Malé Atoll",
+    "source_url": "https://www.kudavillingili.com/blog/celebrate-lunar-new-year-2026-in-the-maldives-year-of-the-horse-at-kuda-villingili-resort-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "North Malé Atoll",
+    "source_url": "https://www.kudavillingili.com/blog/kuda-villingili-resort-maldives-redefining-luxury-island-living/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "North Malé Atoll",
+    "source_url": "https://www.kudavillingili.com/blog/easter-in-the-maldives-a-candy-coloured-island-escape-at-kuda-villingili-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "North Male Atoll",
+    "source_url": "https://www.kudavillingili.com/surfing/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "North Malé Atoll",
     "source_url": "https://www.neoscapesmaldives.com/resort/kuda-villingili-resort-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Malé Atoll",
+    "source_url": "https://malediven.de/malediven-hotels/kuda-villingili/",
     "as_of": "2026-10-04"
    }
   ],
@@ -230,7 +293,67 @@
    },
    {
     "value": "speedboat",
+    "source_url": "https://dhshr15av118h.cloudfront.net/2026/03/Wedding-Brochure-2026-Kuda-Villingili-1.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.kudavillingili.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.kudavillingili.com/blog/kuda-villingili-resort-maldives-ranked-top-5-overseas-leisure-resort-worldwide/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.kudavillingili.com/offers/honeymoon-offer/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.kudavillingili.com/offers/ultra-ai-offer/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.kudavillingili.com/blog/celebrate-lunar-new-year-2026-in-the-maldives-year-of-the-horse-at-kuda-villingili-resort-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.kudavillingili.com/offers/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.kudavillingili.com/blog/kuda-villingili-resort-maldives-redefining-luxury-island-living/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.kudavillingili.com/blog/easter-in-the-maldives-a-candy-coloured-island-escape-at-kuda-villingili-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.kudavillingili.com/offers/surf-offer/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
     "source_url": "https://www.neoscapesmaldives.com/resort/kuda-villingili-resort-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://malediven.de/malediven-hotels/kuda-villingili/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yacht",
+    "source_url": "https://malediven.de/malediven-hotels/kuda-villingili/",
     "as_of": "2026-10-04"
    }
   ],
@@ -242,7 +365,37 @@
    },
    {
     "value": 30,
+    "source_url": "https://www.kudavillingili.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 30,
+    "source_url": "https://www.kudavillingili.com/blog/kuda-villingili-resort-maldives-ranked-top-5-overseas-leisure-resort-worldwide/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 30,
+    "source_url": "https://www.kudavillingili.com/blog/celebrate-lunar-new-year-2026-in-the-maldives-year-of-the-horse-at-kuda-villingili-resort-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 30,
+    "source_url": "https://www.kudavillingili.com/blog/kuda-villingili-resort-maldives-redefining-luxury-island-living/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 30,
+    "source_url": "https://www.kudavillingili.com/blog/easter-in-the-maldives-a-candy-coloured-island-escape-at-kuda-villingili-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 30,
     "source_url": "https://www.neoscapesmaldives.com/resort/kuda-villingili-resort-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 30,
+    "source_url": "https://malediven.de/malediven-hotels/kuda-villingili/",
     "as_of": "2026-10-04"
    }
   ],
@@ -263,6 +416,11 @@
     "value": 75,
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/241220_-_Factsheet.pdf",
     "as_of": 2025
+   },
+   {
+    "value": 75,
+    "source_url": "https://www.kudavillingili.com/",
+    "as_of": "2026-10-04"
    }
   ],
   "villas.categories": [
@@ -498,24 +656,6 @@
   "dining": [
    {
     "value": {
-     "name": "Seperate Dining Area",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/241220_-_Factsheet.pdf",
-    "as_of": 2025
-   },
-   {
-    "value": {
-     "name": "Dining",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/241220_-_Factsheet.pdf",
-    "as_of": 2025
-   },
-   {
-    "value": {
      "name": "The Restaurant",
      "cuisine": null,
      "type": "restaurant"
@@ -528,15 +668,6 @@
      "name": "The Cigar Lounge Near the Beach",
      "cuisine": null,
      "type": "bar"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/241220_-_Factsheet.pdf",
-    "as_of": 2025
-   },
-   {
-    "value": {
-     "name": "Destination Dining On Request",
-     "cuisine": null,
-     "type": "restaurant"
     },
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/241220_-_Factsheet.pdf",
     "as_of": 2025
@@ -570,29 +701,209 @@
    },
    {
     "value": {
-     "name": "Destination Dining",
+     "name": "The Restaurant",
      "cuisine": null,
      "type": "restaurant"
     },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/241220_-_Factsheet.pdf",
-    "as_of": 2025
+    "source_url": "https://dhshr15av118h.cloudfront.net/2026/08/Halloween-Brochure-2026-Friendly-Spirits-and-Ghosts-After-Dark.pdf",
+    "as_of": 2026
    },
    {
     "value": {
-     "name": "Dining",
+     "name": "The Restaurant",
      "cuisine": null,
      "type": "restaurant"
     },
-    "source_url": "https://www.neoscapesmaldives.com/resort/kuda-villingili-resort-maldives/",
+    "source_url": "https://dhshr15av118h.cloudfront.net/2026/02/Valentines-Day-2026_Kuda-Villingili-Maldives.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": {
+     "name": "Venue: The Restaurant",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://dhshr15av118h.cloudfront.net/2026/02/Valentines-Day-2026_Kuda-Villingili-Maldives.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": {
+     "name": "Teppanyaki by Mar-Umi",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.kudavillingili.com/",
     "as_of": "2026-10-04"
    },
    {
     "value": {
-     "name": "Dining",
+     "name": "The Restaurant",
      "cuisine": null,
      "type": "restaurant"
     },
-    "source_url": "https://www.neoscapesmaldives.com/resort/kuda-villingili-resort-maldives/",
+    "source_url": "https://www.kudavillingili.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "The Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.kudavillingili.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Raalhu Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.kudavillingili.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "The Cigar Lounge",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.kudavillingili.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "The Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.kudavillingili.com/dining/the-bar/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "The Cigar Lounge",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.kudavillingili.com/dining/exclusive-whiskey-cigar-lounge/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Teppanyaki by Mar-Umi",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.kudavillingili.com/dining/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "The Restaurant",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.kudavillingili.com/dining/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "The Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.kudavillingili.com/dining/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Raalhu Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.kudavillingili.com/dining/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "The Cigar Lounge",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.kudavillingili.com/dining/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Teppanyaki Dinner",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.kudavillingili.com/dining/mar-umi/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "The Restaurant",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.kudavillingili.com/dining/the-restaurant/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Healthier, Tastier Options at The Restaurant",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.kudavillingili.com/dining/the-restaurant/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Teppanyaki by Mar-Umi",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.kudavillingili.com/site-map/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "The Restaurant",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.kudavillingili.com/site-map/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "The Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.kudavillingili.com/site-map/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Raalhu Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.kudavillingili.com/site-map/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "The Cigar Lounge",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.kudavillingili.com/site-map/",
     "as_of": "2026-10-04"
    },
    {
@@ -621,15 +932,6 @@
     },
     "source_url": "https://www.neoscapesmaldives.com/resort/kuda-villingili-resort-maldives/",
     "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Destination & In-Villa Dining",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/kuda-villingili-resort-maldives/",
-    "as_of": "2026-10-04"
    }
   ],
   "diving_watersports.activities": [
@@ -652,6 +954,141 @@
     "value": "fishing",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/241220_-_Factsheet.pdf",
     "as_of": 2025
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://dhshr15av118h.cloudfront.net/2026/08/Halloween-Brochure-2026-Friendly-Spirits-and-Ghosts-After-Dark.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://dhshr15av118h.cloudfront.net/2026/03/Wedding-Brochure-2026-Kuda-Villingili-1.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.kudavillingili.com/download-pdf/?id=envpolicy",
+    "as_of": 2022
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.kudavillingili.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "surfing",
+    "source_url": "https://www.kudavillingili.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.kudavillingili.com/offers/honeymoon-offer/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.kudavillingili.com/offers/ultra-ai-offer/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "paddleboard",
+    "source_url": "https://www.kudavillingili.com/offers/ultra-ai-offer/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.kudavillingili.com/offers/ultra-ai-offer/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.kudavillingili.com/experiences/aqua-experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "windsurfing",
+    "source_url": "https://www.kudavillingili.com/experiences/aqua-experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "surfing",
+    "source_url": "https://www.kudavillingili.com/experiences/aqua-experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "kayaking",
+    "source_url": "https://www.kudavillingili.com/experiences/aqua-experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "jet ski",
+    "source_url": "https://www.kudavillingili.com/experiences/aqua-experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "wakeboarding",
+    "source_url": "https://www.kudavillingili.com/experiences/aqua-experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.kudavillingili.com/experiences/aqua-experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "surfing",
+    "source_url": "https://www.kudavillingili.com/site-map/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.kudavillingili.com/offers/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "stand-up paddle",
+    "source_url": "https://www.kudavillingili.com/offers/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "paddleboard",
+    "source_url": "https://www.kudavillingili.com/offers/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.kudavillingili.com/blog/kuda-villingili-resort-maldives-redefining-luxury-island-living/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "surfing",
+    "source_url": "https://www.kudavillingili.com/blog/kuda-villingili-resort-maldives-redefining-luxury-island-living/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin cruise",
+    "source_url": "https://www.kudavillingili.com/blog/kuda-villingili-resort-maldives-redefining-luxury-island-living/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "surfing",
+    "source_url": "https://www.kudavillingili.com/surfing/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.kudavillingili.com/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.kudavillingili.com/offers/surf-offer/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.kudavillingili.com/offers/surf-offer/",
+    "as_of": "2026-10-04"
    },
    {
     "value": "snorkelling",
@@ -706,6 +1143,36 @@
     "as_of": 2025
    },
    {
+    "value": "sandbank",
+    "source_url": "https://www.kudavillingili.com/blog/valentines-day-2026-at-kuda-villingili-resort-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "cinema",
+    "source_url": "https://www.kudavillingili.com/blog/valentines-day-2026-at-kuda-villingili-resort-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.kudavillingili.com/experiences/aqua-experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.kudavillingili.com/blog/kuda-villingili-resort-maldives-redefining-luxury-island-living/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "big game fishing",
+    "source_url": "https://www.kudavillingili.com/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset fishing",
+    "source_url": "https://www.kudavillingili.com/offers/surf-offer/",
+    "as_of": "2026-10-04"
+   },
+   {
     "value": "manta",
     "source_url": "https://www.neoscapesmaldives.com/resort/kuda-villingili-resort-maldives/",
     "as_of": "2026-10-04"
@@ -716,6 +1183,36 @@
     "value": "Kids Club",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/241220_-_Factsheet.pdf",
     "as_of": 2025
+   },
+   {
+    "value": "At Kuda Fiyo Kids Club",
+    "source_url": "https://www.kudavillingili.com/blog/chinese-golden-week-maldives-2026/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Kuda Fiyo Kids Club",
+    "source_url": "https://www.kudavillingili.com/blog/celebrate-lunar-new-year-2026-in-the-maldives-year-of-the-horse-at-kuda-villingili-resort-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Kuda Fiyo Kids Club",
+    "source_url": "https://www.kudavillingili.com/blog/celebrate-through-the-decades-at-kuda-villingili-resort-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Club\nThe Library\nKids Club",
+    "source_url": "https://www.kudavillingili.com/site-map/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Kuda Fiyo Kids Club",
+    "source_url": "https://www.kudavillingili.com/blog/kuda-villingili-resort-maldives-redefining-luxury-island-living/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "At Kuda Fiyo Kids Club",
+    "source_url": "https://www.kudavillingili.com/blog/easter-in-the-maldives-a-candy-coloured-island-escape-at-kuda-villingili-resort/",
+    "as_of": "2026-10-04"
    },
    {
     "value": "Speedboat\nKids Club",
@@ -755,6 +1252,211 @@
     "as_of": 2025
    },
    {
+    "value": "ayurveda",
+    "source_url": "https://dhshr15av118h.cloudfront.net/2026/07/Spa-Menu-A4-Square.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "steam",
+    "source_url": "https://dhshr15av118h.cloudfront.net/2026/07/Spa-Menu-A4-Square.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://dhshr15av118h.cloudfront.net/2026/02/Valentines-Day-2026_Kuda-Villingili-Maldives.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "sound healing",
+    "source_url": "https://dhshr15av118h.cloudfront.net/2026/02/Valentines-Day-2026_Kuda-Villingili-Maldives.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "steam",
+    "source_url": "https://dhshr15av118h.cloudfront.net/2026/02/Valentines-Day-2026_Kuda-Villingili-Maldives.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.kudavillingili.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "gym",
+    "source_url": "https://www.kudavillingili.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://www.kudavillingili.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "padel",
+    "source_url": "https://www.kudavillingili.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "steam",
+    "source_url": "https://www.kudavillingili.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.kudavillingili.com/wellness/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "gym",
+    "source_url": "https://www.kudavillingili.com/wellness/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fitness centre",
+    "source_url": "https://www.kudavillingili.com/wellness/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://www.kudavillingili.com/wellness/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "padel",
+    "source_url": "https://www.kudavillingili.com/wellness/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "pilates",
+    "source_url": "https://www.kudavillingili.com/wellness/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.kudavillingili.com/blog/valentines-day-2026-at-kuda-villingili-resort-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sound healing",
+    "source_url": "https://www.kudavillingili.com/blog/valentines-day-2026-at-kuda-villingili-resort-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "steam",
+    "source_url": "https://www.kudavillingili.com/blog/valentines-day-2026-at-kuda-villingili-resort-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "gym",
+    "source_url": "https://www.kudavillingili.com/wellness/fitness-centre/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "pilates",
+    "source_url": "https://www.kudavillingili.com/wellness/fitness-centre/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "steam",
+    "source_url": "https://www.kudavillingili.com/dining/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "steam",
+    "source_url": "https://www.kudavillingili.com/dining/east/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.kudavillingili.com/blog/celebrate-lunar-new-year-2026-in-the-maldives-year-of-the-horse-at-kuda-villingili-resort-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sound healing",
+    "source_url": "https://www.kudavillingili.com/blog/celebrate-lunar-new-year-2026-in-the-maldives-year-of-the-horse-at-kuda-villingili-resort-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fitness centre",
+    "source_url": "https://www.kudavillingili.com/site-map/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.kudavillingili.com/blog/kuda-villingili-resort-maldives-redefining-luxury-island-living/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fitness centre",
+    "source_url": "https://www.kudavillingili.com/blog/kuda-villingili-resort-maldives-redefining-luxury-island-living/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://www.kudavillingili.com/blog/kuda-villingili-resort-maldives-redefining-luxury-island-living/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "padel",
+    "source_url": "https://www.kudavillingili.com/blog/kuda-villingili-resort-maldives-redefining-luxury-island-living/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.kudavillingili.com/blog/easter-in-the-maldives-a-candy-coloured-island-escape-at-kuda-villingili-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sound healing",
+    "source_url": "https://www.kudavillingili.com/blog/easter-in-the-maldives-a-candy-coloured-island-escape-at-kuda-villingili-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "gym",
+    "source_url": "https://www.kudavillingili.com/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.kudavillingili.com/wellness/wellbeing/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "meditation",
+    "source_url": "https://www.kudavillingili.com/wellness/wellbeing/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sound healing",
+    "source_url": "https://www.kudavillingili.com/wellness/wellbeing/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.kudavillingili.com/blog/active-island-living-discover-kuda-villingilis-world-class-sports-and-fitness-offerings/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fitness centre",
+    "source_url": "https://www.kudavillingili.com/blog/active-island-living-discover-kuda-villingilis-world-class-sports-and-fitness-offerings/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://www.kudavillingili.com/blog/active-island-living-discover-kuda-villingilis-world-class-sports-and-fitness-offerings/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "padel",
+    "source_url": "https://www.kudavillingili.com/blog/active-island-living-discover-kuda-villingilis-world-class-sports-and-fitness-offerings/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "badminton",
+    "source_url": "https://www.kudavillingili.com/blog/active-island-living-discover-kuda-villingilis-world-class-sports-and-fitness-offerings/",
+    "as_of": "2026-10-04"
+   },
+   {
     "value": "yoga",
     "source_url": "https://www.neoscapesmaldives.com/resort/kuda-villingili-resort-maldives/",
     "as_of": "2026-10-04"
@@ -778,6 +1480,26 @@
     "value": "steam",
     "source_url": "https://www.neoscapesmaldives.com/resort/kuda-villingili-resort-maldives/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://letsgomaldives.com/blogs/rejuvenate-your-senses-at-kuda-villingili-resort-maldives-spa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "meditation",
+    "source_url": "https://letsgomaldives.com/blogs/rejuvenate-your-senses-at-kuda-villingili-resort-maldives-spa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sound healing",
+    "source_url": "https://letsgomaldives.com/blogs/rejuvenate-your-senses-at-kuda-villingili-resort-maldives-spa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://malediven.de/malediven-hotels/kuda-villingili/",
+    "as_of": "2026-10-04"
    }
   ],
   "weddings.offered": [
@@ -785,6 +1507,76 @@
     "value": true,
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/241220_-_Factsheet.pdf",
     "as_of": 2025
+   },
+   {
+    "value": true,
+    "source_url": "https://dhshr15av118h.cloudfront.net/2026/03/Wedding-Brochure-2026-Kuda-Villingili-1.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": true,
+    "source_url": "https://www.kudavillingili.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.kudavillingili.com/romance/island-ceremonial-weddings/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.kudavillingili.com/romance/island-ceremonial-weddings/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.kudavillingili.com/offers/honeymoon-offer/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.kudavillingili.com/offers/honeymoon-offer/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.kudavillingili.com/blog/celebrate-lunar-new-year-2026-in-the-maldives-year-of-the-horse-at-kuda-villingili-resort-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.kudavillingili.com/blog/celebrate-through-the-decades-at-kuda-villingili-resort-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.kudavillingili.com/site-map/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.kudavillingili.com/romance/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.kudavillingili.com/romance/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.kudavillingili.com/blog/category/celebrations/?curpage=2",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.kudavillingili.com/blog/category/celebrations/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.kudavillingili.com/romance/destination-dining/",
+    "as_of": "2026-10-04"
    },
    {
     "value": true,
@@ -799,6 +1591,16 @@
     "as_of": 2025
    },
    {
+    "value": "reservations@kudavillingili.com",
+    "source_url": "https://dhshr15av118h.cloudfront.net/2026/03/Wedding-Brochure-2026-Kuda-Villingili-1.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "reservations@kudavillingili.com",
+    "source_url": "https://dhshr15av118h.cloudfront.net/2026/07/Spa-Menu-A4-Square.pdf",
+    "as_of": 2026
+   },
+   {
     "value": "info@neoscapesmaldives.com",
     "source_url": "https://www.neoscapesmaldives.com/resort/kuda-villingili-resort-maldives/",
     "as_of": "2026-10-04"
@@ -811,11 +1613,192 @@
     "as_of": 2025
    },
    {
+    "value": "+960 400 0900",
+    "source_url": "https://dhshr15av118h.cloudfront.net/2026/07/Spa-Menu-A4-Square.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "+960 3322660",
+    "source_url": "https://www.kudavillingili.com/download-pdf/?id=envpolicy",
+    "as_of": 2022
+   },
+   {
     "value": "+960 736 5425",
     "source_url": "https://www.neoscapesmaldives.com/resort/kuda-villingili-resort-maldives/",
     "as_of": "2026-10-04"
    }
+  ],
+  "meal_plans": [
+   {
+    "value": "BB",
+    "source_url": "https://dhshr15av118h.cloudfront.net/2026/08/Halloween-Brochure-2026-Friendly-Spirits-and-Ghosts-After-Dark.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "BB",
+    "source_url": "https://dhshr15av118h.cloudfront.net/2026/02/Valentines-Day-2026_Kuda-Villingili-Maldives.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "HB",
+    "source_url": "https://dhshr15av118h.cloudfront.net/2026/02/Valentines-Day-2026_Kuda-Villingili-Maldives.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "FB",
+    "source_url": "https://dhshr15av118h.cloudfront.net/2026/02/Valentines-Day-2026_Kuda-Villingili-Maldives.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "AI",
+    "source_url": "https://www.kudavillingili.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://www.kudavillingili.com/offers/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "kids_family.teens": [
+   {
+    "value": "teens programme mentioned",
+    "source_url": "https://dhshr15av118h.cloudfront.net/2026/08/Halloween-Brochure-2026-Friendly-Spirits-and-Ghosts-After-Dark.pdf",
+    "as_of": 2026
+   }
+  ],
+  "weddings.vow_renewal": [
+   {
+    "value": true,
+    "source_url": "https://dhshr15av118h.cloudfront.net/2026/03/Wedding-Brochure-2026-Kuda-Villingili-1.pdf",
+    "as_of": 2026
+   }
+  ],
+  "spa.name": [
+   {
+    "value": "Spa",
+    "source_url": "https://dhshr15av118h.cloudfront.net/2026/07/Spa-Menu-A4-Square.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "Couples Spa",
+    "source_url": "https://dhshr15av118h.cloudfront.net/2026/02/Valentines-Day-2026_Kuda-Villingili-Maldives.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.kudavillingili.com/blog/valentines-day-2026-at-kuda-villingili-resort-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Adults\nKids\nThe Spa",
+    "source_url": "https://www.kudavillingili.com/wellness/the-spa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Villingili Resort Maldives Spa",
+    "source_url": "https://letsgomaldives.com/blogs/rejuvenate-your-senses-at-kuda-villingili-resort-maldives-spa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://malediven.de/malediven-hotels/kuda-villingili/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "weddings.venues": [
+   {
+    "value": "Venue: Mar-Umi Beach",
+    "source_url": "https://dhshr15av118h.cloudfront.net/2026/02/Valentines-Day-2026_Kuda-Villingili-Maldives.pdf",
+    "as_of": 2026
+   }
+  ],
+  "sustainability": [
+   {
+    "value": "solar",
+    "source_url": "https://www.kudavillingili.com/download-pdf/?id=envpolicy",
+    "as_of": 2022
+   },
+   {
+    "value": "desalination",
+    "source_url": "https://www.kudavillingili.com/download-pdf/?id=envpolicy",
+    "as_of": 2022
+   },
+   {
+    "value": "coral restoration",
+    "source_url": "https://www.kudavillingili.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "solar",
+    "source_url": "https://www.kudavillingili.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Green Globe",
+    "source_url": "https://www.kudavillingili.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "organic garden",
+    "source_url": "https://www.kudavillingili.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "composting",
+    "source_url": "https://www.kudavillingili.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "coral restoration",
+    "source_url": "https://www.kudavillingili.com/blog/sustainability-in-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Green Globe",
+    "source_url": "https://www.kudavillingili.com/blog/sustainability-in-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Green Globe",
+    "source_url": "https://www.kudavillingili.com/sustainability/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "organic garden",
+    "source_url": "https://www.kudavillingili.com/sustainability/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "composting",
+    "source_url": "https://www.kudavillingili.com/sustainability/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "all_inclusive_details": [
+   {
+    "value": "all-inclusive escape designed for an unforgettable extended stay in paradise.",
+    "source_url": "https://www.kudavillingili.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "All-Inclusive Offer.",
+    "source_url": "https://www.kudavillingili.com/offers/ultra-ai-offer/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "All Inclusive Meal.",
+    "source_url": "https://www.kudavillingili.com/offers/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "diving_watersports.operator": [
+   {
+    "value": "Dive Centre",
+    "source_url": "https://www.kudavillingili.com/surfing/",
+    "as_of": "2026-10-04"
+   }
   ]
  },
- "last_updated": "2026-10-04"
+ "last_updated": "2026-10-05"
 }

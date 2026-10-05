@@ -6,54 +6,319 @@
   "Reethi Faru",
   "Filaidhoo"
  ],
- "official_url": null,
- "official_site_status": null,
+ "official_url": "https://www.reethifaru.com/",
+ "official_site_status": "ok",
  "operator_brand": "Reethi",
- "atoll": null,
- "island": null,
+ "atoll": "Raa Atoll",
+ "island": "Filaidhoo",
  "opened_or_renovated": null,
- "star_rating": null,
+ "star_rating": "5-star",
  "transfer": {
-  "modes": [],
+  "modes": [
+   "seaplane",
+   "speedboat",
+   "domestic flight"
+  ],
   "minutes": {
-   "seaplane": null,
-   "speedboat": null,
-   "domestic flight": null,
+   "seaplane": 45,
+   "speedboat": 40,
+   "domestic flight": 40,
    "yacht": null
   }
  },
- "island_size": null,
+ "island_size": "600 m x 350 m",
  "villas": {
-  "total": null,
-  "categories": []
+  "total": 145,
+  "categories": [
+   {
+    "name": "Garden Villas",
+    "count": 20,
+    "size_sqm": 54,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "Delu e Beach Villas",
+    "count": 43,
+    "size_sqm": 74,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "Delu e Beach Pool Villas",
+    "count": 25,
+    "size_sqm": 117,
+    "max_occupancy": null,
+    "pool": true,
+    "overwater": null
+   },
+   {
+    "name": "Delu e Two-Bedroom Beach Suites​",
+    "count": 6,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "Water Villas",
+    "count": 44,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "Villas",
+    "count": 145,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "lu ury villa in the Maldives",
+    "count": 54,
+    "size_sqm": 54,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   }
+  ]
  },
- "dining": [],
- "meal_plans": [],
- "all_inclusive_details": null,
+ "dining": [
+  {
+   "name": "Haruge Bar Sports Complex",
+   "cuisine": null,
+   "type": "bar"
+  },
+  {
+   "name": "Dhiyavaru Bar & Restaurant Pool",
+   "cuisine": null,
+   "type": "restaurant"
+  },
+  {
+   "name": "Raalhu Café Water Sports",
+   "cuisine": null,
+   "type": "restaurant"
+  },
+  {
+   "name": "Veyo Bar Spa and Boutique",
+   "cuisine": null,
+   "type": "bar"
+  },
+  {
+   "name": "Sunset Bar",
+   "cuisine": null,
+   "type": "bar"
+  },
+  {
+   "name": "Reethi Grill",
+   "cuisine": null,
+   "type": "restaurant"
+  },
+  {
+   "name": "de Thari Bar",
+   "cuisine": null,
+   "type": "bar"
+  },
+  {
+   "name": "mango, passion fruit, Café Liegeois",
+   "cuisine": null,
+   "type": "restaurant"
+  },
+  {
+   "name": "Main Buffet Restaurant - Vakaru",
+   "cuisine": null,
+   "type": "restaurant"
+  },
+  {
+   "name": " Raalhu Café",
+   "cuisine": null,
+   "type": "restaurant"
+  },
+  {
+   "name": "Main Restaurant (Vakaru): at mealtimes",
+   "cuisine": null,
+   "type": "restaurant"
+  },
+  {
+   "name": "Bar al tramonto",
+   "cuisine": null,
+   "type": "bar"
+  },
+  {
+   "name": "Il Bar Haruge",
+   "cuisine": null,
+   "type": "bar"
+  },
+  {
+   "name": "Bar Nala",
+   "cuisine": null,
+   "type": "bar"
+  },
+  {
+   "name": "Bar Vejo",
+   "cuisine": null,
+   "type": "bar"
+  },
+  {
+   "name": "Bar Thari",
+   "cuisine": null,
+   "type": "bar"
+  },
+  {
+   "name": "Yes - Dhiyavaru Bar & Restaurant",
+   "cuisine": null,
+   "type": "restaurant"
+  },
+  {
+   "name": "Beachfront Grill",
+   "cuisine": null,
+   "type": "restaurant"
+  },
+  {
+   "name": "Yes - Reethi Grill",
+   "cuisine": null,
+   "type": "restaurant"
+  },
+  {
+   "name": "GanztÃ¤gige KÃ¼che im Restaurant Vakaru",
+   "cuisine": null,
+   "type": "restaurant"
+  },
+  {
+   "name": "Vakaru Restaurant",
+   "cuisine": null,
+   "type": "restaurant"
+  },
+  {
+   "name": "Nala Bar",
+   "cuisine": null,
+   "type": "bar"
+  },
+  {
+   "name": "Bar-Galerie",
+   "cuisine": null,
+   "type": "bar"
+  },
+  {
+   "name": "Die Haruge Bar",
+   "cuisine": null,
+   "type": "bar"
+  },
+  {
+   "name": "Veyo Bar",
+   "cuisine": null,
+   "type": "bar"
+  },
+  {
+   "name": "Thari Bar",
+   "cuisine": null,
+   "type": "bar"
+  },
+  {
+   "name": "Restaurant-Galerie",
+   "cuisine": null,
+   "type": "restaurant"
+  },
+  {
+   "name": "Dhiyavaru Restaurant",
+   "cuisine": null,
+   "type": "restaurant"
+  },
+  {
+   "name": "Overwater Restaurant Experiences",
+   "cuisine": null,
+   "type": "restaurant"
+  },
+  {
+   "name": "Bar Haruge",
+   "cuisine": null,
+   "type": "bar"
+  }
+ ],
+ "meal_plans": [
+  "FB",
+  "AI"
+ ],
+ "all_inclusive_details": "all-inclusive: molti resort offrono pacchetti all-inclusive che coprono pasti, bevande e attivitÃ .",
  "spa": {
-  "name": null,
+  "name": "Spa",
   "treatment_rooms": null,
   "signature_treatments": [],
-  "menu_doc": null
+  "menu_doc": "https://www.reethifaru.com/pdf/coconut-spa.pdf"
  },
  "diving_watersports": {
-  "operator": null,
-  "house_reef": null,
-  "activities": [],
-  "price_list_doc": null
+  "operator": "Dive Centre",
+  "house_reef": "house reef that blends seamlessly into the infinite blue ocean",
+  "activities": [
+   "snorkeling",
+   "catamaran",
+   "jet ski",
+   "fishing",
+   "manta",
+   "flyboard",
+   "windsurfing",
+   "kitesurfing",
+   "parasailing",
+   "sailing",
+   "fun tube",
+   "canoe",
+   "snorkelling",
+   "scuba diving",
+   "kayaking",
+   "sunset cruise",
+   "paddleboard",
+   "stand-up paddle",
+   "seabob",
+   "wakeboarding",
+   "dolphin cruise"
+  ],
+  "price_list_doc": "https://tablecells.com/api/v1/files/public/01M3BBAVWQNQ4HD8AS898Z0V9C-water-sports.pdf"
  },
- "excursions": [],
+ "excursions": [
+  "local island",
+  "sandbank",
+  "dolphin",
+  "manta",
+  "turtle",
+  "private dinner",
+  "picnic",
+  "sunset fishing",
+  "stargazing"
+ ],
  "kids_family": {
   "kids_club": null,
   "age_range": null,
   "teens": null
  },
- "wellness_fitness": [],
+ "wellness_fitness": [
+  "yoga",
+  "gym",
+  "fitness centre",
+  "tennis",
+  "badminton",
+  "ayurveda",
+  "steam",
+  "fitness center",
+  "meditation",
+  "sauna"
+ ],
  "weddings": {
-  "offered": null,
-  "vow_renewal": null,
+  "offered": true,
+  "vow_renewal": true,
   "venues": [],
-  "packages": [],
+  "packages": [
+   {
+    "name": "Days Package",
+    "price": "308",
+    "currency": "USD",
+    "as_of": 2026
+   }
+  ],
   "brochure_doc": null
  },
  "events_mice": {
@@ -62,39 +327,3133 @@
   "buyout": null,
   "doc": null
  },
- "sustainability": [],
+ "sustainability": [
+  "reef restoration",
+  "solar",
+  "manta trust",
+  "Olive Ridley Project",
+  "coral nursery",
+  "single-use plastic",
+  "coral restoration",
+  "Green Globe",
+  "Travelife",
+  "desalination"
+ ],
  "contacts_public": {
-  "reservations_email": null,
+  "reservations_email": "inquiry@reethifaru.com",
   "weddings_email": null,
-  "phone": null
+  "phone": "+960 400 4000"
  },
  "documents_latest": {
-  "factsheet": null,
-  "map": null,
+  "factsheet": "https://www.reethifaru.com/pdf/fact-sheets-english.pdf",
+  "map": "https://www.reethifaru.com/pdf/sustainability-management-plan.pdf",
   "wedding": null,
-  "spa_menu": null,
-  "dining_menu": null,
-  "dive_prices": null,
+  "spa_menu": "https://www.reethifaru.com/pdf/coconut-spa.pdf",
+  "dining_menu": "https://www.reethifaru.com/pdf/sunset-bar-menu.pdf",
+  "dive_prices": "https://tablecells.com/api/v1/files/public/01M3BBAVWQNQ4HD8AS898Z0V9C-water-sports.pdf",
   "events": null,
-  "calendar": null
+  "calendar": "https://www.reethifaru.com/pdf/festive-season-2026-27.pdf"
  },
- "documents_count": 0,
+ "documents_count": 18,
  "gaps": [
-  "factsheet",
   "wedding brochure",
   "events/MICE document",
-  "fact: villas.total",
-  "fact: villa categories",
-  "fact: dining",
-  "fact: transfer",
-  "fact: atoll",
-  "fact: spa",
-  "fact: dive operator",
-  "fact: kids club",
-  "fact: weddings",
-  "fact: contacts",
-  "no documents or pages collected"
+  "fact: kids club"
  ],
- "sources": {},
- "last_updated": "2026-10-04"
+ "sources": {
+  "atoll": [
+   {
+    "value": "Raa Atoll",
+    "source_url": "https://www.reethifaru.com/pdf/fact-sheets-english.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "Raa Atoll",
+    "source_url": "https://www.reethifaru.com/pdf/brochure.pdf",
+    "as_of": 2016
+   },
+   {
+    "value": "Raa Atoll",
+    "source_url": "https://www.reethifaru.com/pdf/sunset-bar-menu.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "Raa Atoll",
+    "source_url": "https://tablecells.com/api/v1/files/public/01M3BBAVWQNQ4HD8AS898Z0V9C-water-sports.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "Raa Atoll",
+    "source_url": "https://www.reethifaru.com/pdf/all-inclusive-package-.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "Raa Atoll",
+    "source_url": "https://www.reethifaru.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Raa Atoll",
+    "source_url": "https://www.reethifaru.com/de/villas/two-bedroom-water-villa-suites-with-spa-tub",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Raa Atoll",
+    "source_url": "https://www.reethifaru.com/ru",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Raa Atoll",
+    "source_url": "https://www.reethifaru.com/villas/two-bedroom-water-villa-suites-with-spa-tub",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Raa Atoll",
+    "source_url": "https://www.reethifaru.com/zh/villas/garden-villa",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Raa Atoll",
+    "source_url": "https://www.reethifaru.com/it/villas/deluxe-beach-villas",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Raa Atoll",
+    "source_url": "https://www.reethifaru.com/ru/experiences",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Raa Atoll",
+    "source_url": "https://www.reethifaru.com/it/villas/water-villa",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Raa Atoll",
+    "source_url": "https://www.reethifaru.com/it/about-us",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Raa Atoll",
+    "source_url": "https://www.reethifaru.com/ru/villas/deluxe-beach-pool-villas",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Raa Atoll",
+    "source_url": "https://www.reethifaru.com/experiences",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Raa Atoll",
+    "source_url": "https://www.reethifaru.com/zh/villas/water-villa",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Raa Atoll",
+    "source_url": "https://www.reethifaru.com/blog/eco-friendly-maldives-resorts-why-reethi-faru-sets-the-standard-for-sustainable-luxury-39441194ecca80f884d3f21a8bf18b2b",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Raa Atoll",
+    "source_url": "https://www.reethifaru.com/de/villas/deluxe-two-bedroom-beach-suites",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Raa Atoll",
+    "source_url": "https://mondomaldive.it/it/villaggio/reethi-faru-resort/foto_utenti",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Raa Atoll",
+    "source_url": "https://mondomaldive.it/it/villaggio/reethi-faru-resort/recensioni",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "transfer.modes": [
+   {
+    "value": "seaplane",
+    "source_url": "https://www.reethifaru.com/pdf/fact-sheets-english.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.reethifaru.com/pdf/fact-sheets-english.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "domestic flight",
+    "source_url": "https://www.reethifaru.com/pdf/fact-sheets-english.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.reethifaru.com/pdf/brochure.pdf",
+    "as_of": 2016
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.reethifaru.com/pdf/brochure.pdf",
+    "as_of": 2016
+   },
+   {
+    "value": "domestic flight",
+    "source_url": "https://www.reethifaru.com/pdf/brochure.pdf",
+    "as_of": 2016
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://tablecells.com/api/v1/files/public/01M3BBAVWQNQ4HD8AS898Z0V9C-water-sports.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.reethifaru.com/pdf/all-inclusive-package-.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.reethifaru.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.reethifaru.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "domestic flight",
+    "source_url": "https://www.reethifaru.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.reethifaru.com/ru/experiences",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.reethifaru.com/it/villas/water-villa",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.reethifaru.com/it/villas/water-villa",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "domestic flight",
+    "source_url": "https://www.reethifaru.com/it/villas/water-villa",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.reethifaru.com/experiences",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.reethifaru.com/zh/villas/water-villa",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.reethifaru.com/zh/villas/water-villa",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "domestic flight",
+    "source_url": "https://www.reethifaru.com/zh/villas/water-villa",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.reethifaru.com/activities",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "transfer.minutes.seaplane": [
+   {
+    "value": 45,
+    "source_url": "https://www.reethifaru.com/pdf/fact-sheets-english.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": 45,
+    "source_url": "https://www.reethifaru.com/pdf/brochure.pdf",
+    "as_of": 2016
+   },
+   {
+    "value": 45,
+    "source_url": "https://www.reethifaru.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 20,
+    "source_url": "https://www.reethifaru.com/it/villas/water-villa",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 20,
+    "source_url": "https://www.reethifaru.com/zh/villas/water-villa",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "transfer.minutes.speedboat": [
+   {
+    "value": 40,
+    "source_url": "https://www.reethifaru.com/pdf/fact-sheets-english.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": 40,
+    "source_url": "https://www.reethifaru.com/pdf/brochure.pdf",
+    "as_of": 2016
+   },
+   {
+    "value": 30,
+    "source_url": "https://tablecells.com/api/v1/files/public/01M3BBAVWQNQ4HD8AS898Z0V9C-water-sports.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": 40,
+    "source_url": "https://www.reethifaru.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 40,
+    "source_url": "https://www.reethifaru.com/it/villas/water-villa",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 40,
+    "source_url": "https://www.reethifaru.com/zh/villas/water-villa",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "transfer.minutes.domestic flight": [
+   {
+    "value": 40,
+    "source_url": "https://www.reethifaru.com/pdf/fact-sheets-english.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": 40,
+    "source_url": "https://www.reethifaru.com/pdf/brochure.pdf",
+    "as_of": 2016
+   },
+   {
+    "value": 40,
+    "source_url": "https://www.reethifaru.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 40,
+    "source_url": "https://www.reethifaru.com/it/villas/water-villa",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 40,
+    "source_url": "https://www.reethifaru.com/zh/villas/water-villa",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "villas.total": [
+   {
+    "value": 145,
+    "source_url": "https://www.reethifaru.com/pdf/fact-sheets-english.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": 145,
+    "source_url": "https://www.reethifaru.com/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "villas.categories": [
+   {
+    "value": {
+     "name": "Garden Villas",
+     "count": 20,
+     "size_sqm": 54,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://www.reethifaru.com/pdf/fact-sheets-english.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": {
+     "name": "Delu e Beach Villas",
+     "count": 43,
+     "size_sqm": 74,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://www.reethifaru.com/pdf/fact-sheets-english.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": {
+     "name": "Delu e Beach Pool Villas",
+     "count": 25,
+     "size_sqm": 117,
+     "max_occupancy": null,
+     "pool": true,
+     "overwater": null
+    },
+    "source_url": "https://www.reethifaru.com/pdf/fact-sheets-english.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": {
+     "name": "Delu e Beach Villas",
+     "count": 43,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://www.reethifaru.com/pdf/brochure.pdf",
+    "as_of": 2016
+   },
+   {
+    "value": {
+     "name": "Delu e Two-Bedroom Beach Suites​",
+     "count": 6,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://www.reethifaru.com/pdf/brochure.pdf",
+    "as_of": 2016
+   },
+   {
+    "value": {
+     "name": "Water Villas",
+     "count": 44,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://www.reethifaru.com/pdf/brochure.pdf",
+    "as_of": 2016
+   },
+   {
+    "value": {
+     "name": "Villas",
+     "count": 145,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://www.reethifaru.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "lu ury villa in the Maldives",
+     "count": 54,
+     "size_sqm": 54,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://www.reethifaru.com/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "spa.name": [
+   {
+    "value": "Spa",
+    "source_url": "https://www.reethifaru.com/pdf/fact-sheets-english.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.reethifaru.com/pdf/brochure.pdf",
+    "as_of": 2016
+   },
+   {
+    "value": "Coconut Spa",
+    "source_url": "https://www.reethifaru.com/pdf/coconut-spa.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.reethifaru.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Coconut Spa",
+    "source_url": "https://www.reethifaru.com/blog/wellness-experiences-at-reethi-faru-maldives-couple-friendly-16041194ecca807c8027cdc0fc083c39",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Maldives Wellness Spa",
+    "source_url": "https://www.reethifaru.com/it/blog/fughe-romantiche-luna-di-miele-alle-maldive-7db16b2d0ec74d04b418e8cde1401cad",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Maldives Wellness Spa",
+    "source_url": "https://www.reethifaru.com/blog/romantic-getaways-honeymooning-in-the-maldives-c8935c3a5e724bacab6eba9dd6a2ddef",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Coconut Spa",
+    "source_url": "https://www.reethifaru.com/ru/blog/%D0%BB%D1%83%D1%87%D1%88%D0%B8%D0%B5-%D1%80%D0%B0%D0%B7%D0%B2%D0%BB%D0%B5%D1%87%D0%B5%D0%BD%D0%B8%D1%8F-%D0%B2-reethi-faru-maldives-e5295e7f88c94a119eea4c03a28a111e",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Villa Suites With Spa",
+    "source_url": "https://www.reethifaru.com/villas/two-bedroom-water-villa-suites-with-spa-tub",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.reethifaru.com/de/wellness",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Coconut Spa",
+    "source_url": "https://www.reethifaru.com/blog/the-quiet-luxury-of-a-maldivian-summer-1f441194ecca80ae8451e20b961bfd47",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Coconut Spa",
+    "source_url": "https://www.reethifaru.com/ru/experiences",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "The Coconut Spa",
+    "source_url": "https://www.reethifaru.com/blog/when-is-the-best-time-to-visit-maldives-16041194ecca80e797a6d69fd3de2b3b",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Intensive Spa",
+    "source_url": "https://www.reethifaru.com/de/blog/die-besten-wellness-vorteile-eines-aufenthalts-im-reethi-faru-14341194ecca805db44bfd5ec55994d4",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Coconut Spa",
+    "source_url": "https://www.reethifaru.com/it/blog/i-principali-vantaggi-per-il-benessere-di-un-soggiorno-al-reethi-faru-resort-14341194ecca801d8cabeda12f401585",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Villa Suites With Spa",
+    "source_url": "https://www.reethifaru.com/blog/plan-a-truly-unforgettable-honeymoon-trip-to-maldives-19841194ecca80b5b97ec39d1e600f64",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Coconut Spa",
+    "source_url": "https://www.reethifaru.com/experiences",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.reethifaru.com/de/blog/nachtleben-im-paradies-abendunterhaltung-im-reethi-faru-14341194ecca80aa88fcc02308b0a25d",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "VerjÃ¼ngende Spa",
+    "source_url": "https://www.reethifaru.com/de/blog/wohin-soll-es-im-jahr-2025-f%C3%BCr-einen-romantischen-ausflug-gehen-17a41194ecca809990e3f5e073f06b6f",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Rejuvenating Spa",
+    "source_url": "https://www.reethifaru.com/blog/where-to-go-in-2025-for-a-romantic-escape-17a41194ecca800082efede8ad5a6be6",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "diving_watersports.house_reef": [
+   {
+    "value": "house reef that blends seamlessly into the infinite blue ocean",
+    "source_url": "https://www.reethifaru.com/pdf/fact-sheets-english.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "house reef rather than",
+    "source_url": "https://www.reethifaru.com/pdf/brochure.pdf",
+    "as_of": 2016
+   },
+   {
+    "value": "House Reef Snorkeling Tour (available daily at 11 AM with Complimentary equipment)",
+    "source_url": "https://www.reethifaru.com/pdf/all-inclusive-package-.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "house reef, which was largely",
+    "source_url": "https://www.reethifaru.com/pdf/sustainability-management-plan.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "House Reef",
+    "source_url": "https://www.reethifaru.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef offered a brilliant snorkelling experience with turtles, sharks, and rays right in front of our villa",
+    "source_url": "https://www.reethifaru.com/ru",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef is teeming with colourful coral and exotic marine life, making it a paradise for underwater enthusiasts",
+    "source_url": "https://www.reethifaru.com/blog/romantic-getaways-honeymooning-in-the-maldives-c8935c3a5e724bacab6eba9dd6a2ddef",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef for snorkelling",
+    "source_url": "https://www.reethifaru.com/ru/experiences",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef",
+    "source_url": "https://www.reethifaru.com/blog/plan-a-truly-unforgettable-honeymoon-trip-to-maldives-19841194ecca80b5b97ec39d1e600f64",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef for snorkelling",
+    "source_url": "https://www.reethifaru.com/experiences",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef, perfect for snorkeling",
+    "source_url": "https://www.reethifaru.com/activities",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef surrounding Reethi Faru Resort is one of the islandâs most valuable natural assets",
+    "source_url": "https://www.reethifaru.com/blog/eco-friendly-maldives-resorts-why-reethi-faru-sets-the-standard-for-sustainable-luxury-39441194ecca80f884d3f21a8bf18b2b",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "diving_watersports.activities": [
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.reethifaru.com/pdf/fact-sheets-english.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "catamaran",
+    "source_url": "https://www.reethifaru.com/pdf/brochure.pdf",
+    "as_of": 2016
+   },
+   {
+    "value": "jet ski",
+    "source_url": "https://www.reethifaru.com/pdf/brochure.pdf",
+    "as_of": 2016
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.reethifaru.com/pdf/brochure.pdf",
+    "as_of": 2016
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.reethifaru.com/pdf/brochure.pdf",
+    "as_of": 2016
+   },
+   {
+    "value": "flyboard",
+    "source_url": "https://www.reethifaru.com/pdf/brochure.pdf",
+    "as_of": 2016
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://tablecells.com/api/v1/files/public/01M3BBAVWQNQ4HD8AS898Z0V9C-water-sports.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "windsurfing",
+    "source_url": "https://tablecells.com/api/v1/files/public/01M3BBAVWQNQ4HD8AS898Z0V9C-water-sports.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "kitesurfing",
+    "source_url": "https://tablecells.com/api/v1/files/public/01M3BBAVWQNQ4HD8AS898Z0V9C-water-sports.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "catamaran",
+    "source_url": "https://tablecells.com/api/v1/files/public/01M3BBAVWQNQ4HD8AS898Z0V9C-water-sports.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "jet ski",
+    "source_url": "https://tablecells.com/api/v1/files/public/01M3BBAVWQNQ4HD8AS898Z0V9C-water-sports.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "parasailing",
+    "source_url": "https://tablecells.com/api/v1/files/public/01M3BBAVWQNQ4HD8AS898Z0V9C-water-sports.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://tablecells.com/api/v1/files/public/01M3BBAVWQNQ4HD8AS898Z0V9C-water-sports.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "manta",
+    "source_url": "https://tablecells.com/api/v1/files/public/01M3BBAVWQNQ4HD8AS898Z0V9C-water-sports.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "sailing",
+    "source_url": "https://tablecells.com/api/v1/files/public/01M3BBAVWQNQ4HD8AS898Z0V9C-water-sports.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "fun tube",
+    "source_url": "https://tablecells.com/api/v1/files/public/01M3BBAVWQNQ4HD8AS898Z0V9C-water-sports.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "flyboard",
+    "source_url": "https://tablecells.com/api/v1/files/public/01M3BBAVWQNQ4HD8AS898Z0V9C-water-sports.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "canoe",
+    "source_url": "https://tablecells.com/api/v1/files/public/01M3BBAVWQNQ4HD8AS898Z0V9C-water-sports.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.reethifaru.com/pdf/all-inclusive-package-.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "canoe",
+    "source_url": "https://www.reethifaru.com/pdf/all-inclusive-package-.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.reethifaru.com/pdf/sustainability-management-plan.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.reethifaru.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.reethifaru.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://www.reethifaru.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "kayaking",
+    "source_url": "https://www.reethifaru.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "jet ski",
+    "source_url": "https://www.reethifaru.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.reethifaru.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.reethifaru.com/blog/wellness-experiences-at-reethi-faru-maldives-couple-friendly-16041194ecca807c8027cdc0fc083c39",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://www.reethifaru.com/blog/wellness-experiences-at-reethi-faru-maldives-couple-friendly-16041194ecca807c8027cdc0fc083c39",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "kayaking",
+    "source_url": "https://www.reethifaru.com/blog/wellness-experiences-at-reethi-faru-maldives-couple-friendly-16041194ecca807c8027cdc0fc083c39",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "jet ski",
+    "source_url": "https://www.reethifaru.com/blog/wellness-experiences-at-reethi-faru-maldives-couple-friendly-16041194ecca807c8027cdc0fc083c39",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.reethifaru.com/zh/blog/reethi-faru-%E7%9A%84%E7%8F%8A%E7%91%9A%E6%81%A2%E5%BE%A9%E5%92%8C%E6%B0%B8%E7%BA%8C%E7%99%BC%E5%B1%95%E8%A8%88%E5%8A%83-35941194ecca80d382bdc98987fccd67",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.reethifaru.com/de/blog/umweltfreundliche-praktiken-im-reethi-faru-ein-bekenntnis-zum-nachhaltigen-tourismus-beb936f9e6194a749d446af19950c113",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.reethifaru.com/it/blog/fughe-romantiche-luna-di-miele-alle-maldive-7db16b2d0ec74d04b418e8cde1401cad",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "paddleboard",
+    "source_url": "https://www.reethifaru.com/it/blog/fughe-romantiche-luna-di-miele-alle-maldive-7db16b2d0ec74d04b418e8cde1401cad",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "catamaran",
+    "source_url": "https://www.reethifaru.com/it/blog/fughe-romantiche-luna-di-miele-alle-maldive-7db16b2d0ec74d04b418e8cde1401cad",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "parasailing",
+    "source_url": "https://www.reethifaru.com/it/blog/fughe-romantiche-luna-di-miele-alle-maldive-7db16b2d0ec74d04b418e8cde1401cad",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.reethifaru.com/ru",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.reethifaru.com/ru",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://www.reethifaru.com/ru",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "kayaking",
+    "source_url": "https://www.reethifaru.com/ru",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "jet ski",
+    "source_url": "https://www.reethifaru.com/ru",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.reethifaru.com/ru",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.reethifaru.com/blog/romantic-getaways-honeymooning-in-the-maldives-c8935c3a5e724bacab6eba9dd6a2ddef",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.reethifaru.com/blog/romantic-getaways-honeymooning-in-the-maldives-c8935c3a5e724bacab6eba9dd6a2ddef",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://www.reethifaru.com/blog/romantic-getaways-honeymooning-in-the-maldives-c8935c3a5e724bacab6eba9dd6a2ddef",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "kayaking",
+    "source_url": "https://www.reethifaru.com/blog/romantic-getaways-honeymooning-in-the-maldives-c8935c3a5e724bacab6eba9dd6a2ddef",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "stand-up paddle",
+    "source_url": "https://www.reethifaru.com/blog/romantic-getaways-honeymooning-in-the-maldives-c8935c3a5e724bacab6eba9dd6a2ddef",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "paddleboard",
+    "source_url": "https://www.reethifaru.com/blog/romantic-getaways-honeymooning-in-the-maldives-c8935c3a5e724bacab6eba9dd6a2ddef",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "catamaran",
+    "source_url": "https://www.reethifaru.com/blog/romantic-getaways-honeymooning-in-the-maldives-c8935c3a5e724bacab6eba9dd6a2ddef",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "jet ski",
+    "source_url": "https://www.reethifaru.com/blog/romantic-getaways-honeymooning-in-the-maldives-c8935c3a5e724bacab6eba9dd6a2ddef",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "parasailing",
+    "source_url": "https://www.reethifaru.com/blog/romantic-getaways-honeymooning-in-the-maldives-c8935c3a5e724bacab6eba9dd6a2ddef",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sailing",
+    "source_url": "https://www.reethifaru.com/blog/romantic-getaways-honeymooning-in-the-maldives-c8935c3a5e724bacab6eba9dd6a2ddef",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "canoe",
+    "source_url": "https://www.reethifaru.com/blog/romantic-getaways-honeymooning-in-the-maldives-c8935c3a5e724bacab6eba9dd6a2ddef",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "seabob",
+    "source_url": "https://www.reethifaru.com/de/activities",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "flyboard",
+    "source_url": "https://www.reethifaru.com/de/activities",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.reethifaru.com/de/blog/korallenrestaurierungsund-nachhaltigkeitsprogramme-bei-reethi-faru-35941194ecca801eb816c60e4c1f6b86",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "parasailing",
+    "source_url": "https://www.reethifaru.com/de/blog/top-10-aktivit%C3%A4ten-f%C3%BCr-einen-unvergesslichen-malediven-urlaub-3240d1dcab9841ee8b97d1fc0051a10b",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.reethifaru.com/de/blog/top-10-aktivit%C3%A4ten-f%C3%BCr-einen-unvergesslichen-malediven-urlaub-3240d1dcab9841ee8b97d1fc0051a10b",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.reethifaru.com/blog/the-quiet-luxury-of-a-maldivian-summer-1f441194ecca80ae8451e20b961bfd47",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://www.reethifaru.com/blog/the-quiet-luxury-of-a-maldivian-summer-1f441194ecca80ae8451e20b961bfd47",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "windsurfing",
+    "source_url": "https://www.reethifaru.com/blog/the-quiet-luxury-of-a-maldivian-summer-1f441194ecca80ae8451e20b961bfd47",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "kayaking",
+    "source_url": "https://www.reethifaru.com/blog/the-quiet-luxury-of-a-maldivian-summer-1f441194ecca80ae8451e20b961bfd47",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "jet ski",
+    "source_url": "https://www.reethifaru.com/blog/the-quiet-luxury-of-a-maldivian-summer-1f441194ecca80ae8451e20b961bfd47",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "wakeboarding",
+    "source_url": "https://www.reethifaru.com/blog/the-quiet-luxury-of-a-maldivian-summer-1f441194ecca80ae8451e20b961bfd47",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin cruise",
+    "source_url": "https://www.reethifaru.com/blog/the-quiet-luxury-of-a-maldivian-summer-1f441194ecca80ae8451e20b961bfd47",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.reethifaru.com/blog/the-quiet-luxury-of-a-maldivian-summer-1f441194ecca80ae8451e20b961bfd47",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.reethifaru.com/ru/experiences",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.reethifaru.com/ru/experiences",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://www.reethifaru.com/ru/experiences",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "kayaking",
+    "source_url": "https://www.reethifaru.com/ru/experiences",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "stand-up paddle",
+    "source_url": "https://www.reethifaru.com/ru/experiences",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "paddleboard",
+    "source_url": "https://www.reethifaru.com/ru/experiences",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "catamaran",
+    "source_url": "https://www.reethifaru.com/ru/experiences",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "jet ski",
+    "source_url": "https://www.reethifaru.com/ru/experiences",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "parasailing",
+    "source_url": "https://www.reethifaru.com/ru/experiences",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.reethifaru.com/ru/experiences",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.reethifaru.com/ru/experiences",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sailing",
+    "source_url": "https://www.reethifaru.com/ru/experiences",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "flyboard",
+    "source_url": "https://www.reethifaru.com/ru/experiences",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "canoe",
+    "source_url": "https://www.reethifaru.com/ru/experiences",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.reethifaru.com/blog/when-is-the-best-time-to-visit-maldives-16041194ecca80e797a6d69fd3de2b3b",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "windsurfing",
+    "source_url": "https://www.reethifaru.com/blog/when-is-the-best-time-to-visit-maldives-16041194ecca80e797a6d69fd3de2b3b",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "paddleboard",
+    "source_url": "https://www.reethifaru.com/de/blog/die-besten-wellness-vorteile-eines-aufenthalts-im-reethi-faru-14341194ecca805db44bfd5ec55994d4",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.reethifaru.com/blog/luxury-villas-and-overwater-bungalows-900194cd38ac446695e34ef5d1782add",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://www.reethifaru.com/blog/luxury-villas-and-overwater-bungalows-900194cd38ac446695e34ef5d1782add",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "kayaking",
+    "source_url": "https://www.reethifaru.com/blog/luxury-villas-and-overwater-bungalows-900194cd38ac446695e34ef5d1782add",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "jet ski",
+    "source_url": "https://www.reethifaru.com/blog/luxury-villas-and-overwater-bungalows-900194cd38ac446695e34ef5d1782add",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.reethifaru.com/it/blog/i-principali-vantaggi-per-il-benessere-di-un-soggiorno-al-reethi-faru-resort-14341194ecca801d8cabeda12f401585",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "paddleboard",
+    "source_url": "https://www.reethifaru.com/it/blog/i-principali-vantaggi-per-il-benessere-di-un-soggiorno-al-reethi-faru-resort-14341194ecca801d8cabeda12f401585",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.reethifaru.com/it/about-us",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.reethifaru.com/blog/plan-a-truly-unforgettable-honeymoon-trip-to-maldives-19841194ecca80b5b97ec39d1e600f64",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.reethifaru.com/blog/plan-a-truly-unforgettable-honeymoon-trip-to-maldives-19841194ecca80b5b97ec39d1e600f64",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.reethifaru.com/experiences",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.reethifaru.com/experiences",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://www.reethifaru.com/experiences",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "kayaking",
+    "source_url": "https://www.reethifaru.com/experiences",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "stand-up paddle",
+    "source_url": "https://www.reethifaru.com/experiences",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "paddleboard",
+    "source_url": "https://www.reethifaru.com/experiences",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "catamaran",
+    "source_url": "https://www.reethifaru.com/experiences",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "jet ski",
+    "source_url": "https://www.reethifaru.com/experiences",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "parasailing",
+    "source_url": "https://www.reethifaru.com/experiences",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.reethifaru.com/experiences",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.reethifaru.com/experiences",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sailing",
+    "source_url": "https://www.reethifaru.com/experiences",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "flyboard",
+    "source_url": "https://www.reethifaru.com/experiences",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "canoe",
+    "source_url": "https://www.reethifaru.com/experiences",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.reethifaru.com/activities",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "catamaran",
+    "source_url": "https://www.reethifaru.com/activities",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "jet ski",
+    "source_url": "https://www.reethifaru.com/activities",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "parasailing",
+    "source_url": "https://www.reethifaru.com/activities",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.reethifaru.com/activities",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sailing",
+    "source_url": "https://www.reethifaru.com/activities",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "canoe",
+    "source_url": "https://www.reethifaru.com/activities",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.reethifaru.com/blog/eco-friendly-maldives-resorts-why-reethi-faru-sets-the-standard-for-sustainable-luxury-39441194ecca80f884d3f21a8bf18b2b",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.reethifaru.com/blog/3-facts-about-honeymoons-at-reethi-faru-resort-cbd024c4b6a449d08920ad2f29ac2cfd",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://www.reethifaru.com/blog/3-facts-about-honeymoons-at-reethi-faru-resort-cbd024c4b6a449d08920ad2f29ac2cfd",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "kayaking",
+    "source_url": "https://www.reethifaru.com/blog/3-facts-about-honeymoons-at-reethi-faru-resort-cbd024c4b6a449d08920ad2f29ac2cfd",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "jet ski",
+    "source_url": "https://www.reethifaru.com/blog/3-facts-about-honeymoons-at-reethi-faru-resort-cbd024c4b6a449d08920ad2f29ac2cfd",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.reethifaru.com/blog/poolside-bliss-the-best-way-to-spend-a-relaxing-day-at-reethi-faru-resort-12741194ecca80cf8af0c3c38092df30",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "wellness_fitness": [
+   {
+    "value": "yoga",
+    "source_url": "https://www.reethifaru.com/pdf/fact-sheets-english.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "gym",
+    "source_url": "https://www.reethifaru.com/pdf/fact-sheets-english.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "fitness centre",
+    "source_url": "https://www.reethifaru.com/pdf/fact-sheets-english.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.reethifaru.com/pdf/brochure.pdf",
+    "as_of": 2016
+   },
+   {
+    "value": "gym",
+    "source_url": "https://www.reethifaru.com/pdf/brochure.pdf",
+    "as_of": 2016
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://www.reethifaru.com/pdf/brochure.pdf",
+    "as_of": 2016
+   },
+   {
+    "value": "badminton",
+    "source_url": "https://www.reethifaru.com/pdf/brochure.pdf",
+    "as_of": 2016
+   },
+   {
+    "value": "ayurveda",
+    "source_url": "https://www.reethifaru.com/pdf/coconut-spa.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "steam",
+    "source_url": "https://www.reethifaru.com/pdf/coconut-spa.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.reethifaru.com/pdf/all-inclusive-package-.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "gym",
+    "source_url": "https://www.reethifaru.com/pdf/all-inclusive-package-.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "fitness center",
+    "source_url": "https://www.reethifaru.com/pdf/all-inclusive-package-.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://www.reethifaru.com/pdf/all-inclusive-package-.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "badminton",
+    "source_url": "https://www.reethifaru.com/pdf/all-inclusive-package-.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.reethifaru.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "gym",
+    "source_url": "https://www.reethifaru.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fitness centre",
+    "source_url": "https://www.reethifaru.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.reethifaru.com/blog/wellness-experiences-at-reethi-faru-maldives-couple-friendly-16041194ecca807c8027cdc0fc083c39",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "meditation",
+    "source_url": "https://www.reethifaru.com/blog/wellness-experiences-at-reethi-faru-maldives-couple-friendly-16041194ecca807c8027cdc0fc083c39",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "gym",
+    "source_url": "https://www.reethifaru.com/blog/wellness-experiences-at-reethi-faru-maldives-couple-friendly-16041194ecca807c8027cdc0fc083c39",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://www.reethifaru.com/blog/wellness-experiences-at-reethi-faru-maldives-couple-friendly-16041194ecca807c8027cdc0fc083c39",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "badminton",
+    "source_url": "https://www.reethifaru.com/blog/wellness-experiences-at-reethi-faru-maldives-couple-friendly-16041194ecca807c8027cdc0fc083c39",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sauna",
+    "source_url": "https://www.reethifaru.com/blog/wellness-experiences-at-reethi-faru-maldives-couple-friendly-16041194ecca807c8027cdc0fc083c39",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "steam",
+    "source_url": "https://www.reethifaru.com/blog/wellness-experiences-at-reethi-faru-maldives-couple-friendly-16041194ecca807c8027cdc0fc083c39",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.reethifaru.com/de/blog/umweltfreundliche-praktiken-im-reethi-faru-ein-bekenntnis-zum-nachhaltigen-tourismus-beb936f9e6194a749d446af19950c113",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.reethifaru.com/it/blogs",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.reethifaru.com/ru",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.reethifaru.com/blog/romantic-getaways-honeymooning-in-the-maldives-c8935c3a5e724bacab6eba9dd6a2ddef",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.reethifaru.com/de/wellness",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "meditation",
+    "source_url": "https://www.reethifaru.com/de/wellness",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "badminton",
+    "source_url": "https://www.reethifaru.com/de/wellness",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.reethifaru.com/de/blog/korallenrestaurierungsund-nachhaltigkeitsprogramme-bei-reethi-faru-35941194ecca801eb816c60e4c1f6b86",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.reethifaru.com/de/blog/top-10-aktivit%C3%A4ten-f%C3%BCr-einen-unvergesslichen-malediven-urlaub-3240d1dcab9841ee8b97d1fc0051a10b",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.reethifaru.com/blog/the-quiet-luxury-of-a-maldivian-summer-1f441194ecca80ae8451e20b961bfd47",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "gym",
+    "source_url": "https://www.reethifaru.com/blog/the-quiet-luxury-of-a-maldivian-summer-1f441194ecca80ae8451e20b961bfd47",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sauna",
+    "source_url": "https://www.reethifaru.com/blog/the-quiet-luxury-of-a-maldivian-summer-1f441194ecca80ae8451e20b961bfd47",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "steam",
+    "source_url": "https://www.reethifaru.com/blog/the-quiet-luxury-of-a-maldivian-summer-1f441194ecca80ae8451e20b961bfd47",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.reethifaru.com/ru/experiences",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "meditation",
+    "source_url": "https://www.reethifaru.com/ru/experiences",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://www.reethifaru.com/ru/experiences",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "badminton",
+    "source_url": "https://www.reethifaru.com/ru/experiences",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sauna",
+    "source_url": "https://www.reethifaru.com/ru/experiences",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "steam",
+    "source_url": "https://www.reethifaru.com/ru/experiences",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.reethifaru.com/de/blog/die-besten-wellness-vorteile-eines-aufenthalts-im-reethi-faru-14341194ecca805db44bfd5ec55994d4",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "meditation",
+    "source_url": "https://www.reethifaru.com/de/blog/die-besten-wellness-vorteile-eines-aufenthalts-im-reethi-faru-14341194ecca805db44bfd5ec55994d4",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.reethifaru.com/blog/luxury-villas-and-overwater-bungalows-900194cd38ac446695e34ef5d1782add",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.reethifaru.com/it/blog/i-principali-vantaggi-per-il-benessere-di-un-soggiorno-al-reethi-faru-resort-14341194ecca801d8cabeda12f401585",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.reethifaru.com/blog/plan-a-truly-unforgettable-honeymoon-trip-to-maldives-19841194ecca80b5b97ec39d1e600f64",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.reethifaru.com/experiences",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "meditation",
+    "source_url": "https://www.reethifaru.com/experiences",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "gym",
+    "source_url": "https://www.reethifaru.com/experiences",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://www.reethifaru.com/experiences",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "badminton",
+    "source_url": "https://www.reethifaru.com/experiences",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sauna",
+    "source_url": "https://www.reethifaru.com/experiences",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "steam",
+    "source_url": "https://www.reethifaru.com/experiences",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.reethifaru.com/de/blog/nachtleben-im-paradies-abendunterhaltung-im-reethi-faru-14341194ecca80aa88fcc02308b0a25d",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.reethifaru.com/de/blog/wohin-soll-es-im-jahr-2025-f%C3%BCr-einen-romantischen-ausflug-gehen-17a41194ecca809990e3f5e073f06b6f",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.reethifaru.com/blog/3-facts-about-honeymoons-at-reethi-faru-resort-cbd024c4b6a449d08920ad2f29ac2cfd",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "sustainability": [
+   {
+    "value": "reef restoration",
+    "source_url": "https://www.reethifaru.com/pdf/fact-sheets-english.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "solar",
+    "source_url": "https://www.reethifaru.com/pdf/brochure.pdf",
+    "as_of": 2016
+   },
+   {
+    "value": "manta trust",
+    "source_url": "https://www.reethifaru.com/pdf/brochure.pdf",
+    "as_of": 2016
+   },
+   {
+    "value": "Olive Ridley Project",
+    "source_url": "https://www.reethifaru.com/pdf/brochure.pdf",
+    "as_of": 2016
+   },
+   {
+    "value": "coral nursery",
+    "source_url": "https://www.reethifaru.com/pdf/sustainability-management-plan.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "solar",
+    "source_url": "https://www.reethifaru.com/pdf/sustainability-management-plan.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "single-use plastic",
+    "source_url": "https://www.reethifaru.com/pdf/sustainability-management-plan.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "manta trust",
+    "source_url": "https://www.reethifaru.com/pdf/sustainability-management-plan.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "coral restoration",
+    "source_url": "https://www.reethifaru.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Green Globe",
+    "source_url": "https://www.reethifaru.com/de/villas/two-bedroom-water-villa-suites-with-spa-tub",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Travelife",
+    "source_url": "https://www.reethifaru.com/de/villas/two-bedroom-water-villa-suites-with-spa-tub",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta trust",
+    "source_url": "https://www.reethifaru.com/zh/blog/reethi-faru-%E7%9A%84%E7%8F%8A%E7%91%9A%E6%81%A2%E5%BE%A9%E5%92%8C%E6%B0%B8%E7%BA%8C%E7%99%BC%E5%B1%95%E8%A8%88%E5%8A%83-35941194ecca80d382bdc98987fccd67",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "solar",
+    "source_url": "https://www.reethifaru.com/de/blog/umweltfreundliche-praktiken-im-reethi-faru-ein-bekenntnis-zum-nachhaltigen-tourismus-beb936f9e6194a749d446af19950c113",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta trust",
+    "source_url": "https://www.reethifaru.com/de/blog/umweltfreundliche-praktiken-im-reethi-faru-ein-bekenntnis-zum-nachhaltigen-tourismus-beb936f9e6194a749d446af19950c113",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Olive Ridley Project",
+    "source_url": "https://www.reethifaru.com/de/blog/umweltfreundliche-praktiken-im-reethi-faru-ein-bekenntnis-zum-nachhaltigen-tourismus-beb936f9e6194a749d446af19950c113",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "solar",
+    "source_url": "https://www.reethifaru.com/it/blog/fughe-romantiche-luna-di-miele-alle-maldive-7db16b2d0ec74d04b418e8cde1401cad",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Green Globe",
+    "source_url": "https://www.reethifaru.com/villas/two-bedroom-water-villa-suites-with-spa-tub",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Travelife",
+    "source_url": "https://www.reethifaru.com/villas/two-bedroom-water-villa-suites-with-spa-tub",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "solar",
+    "source_url": "https://www.reethifaru.com/de/blog/korallenrestaurierungsund-nachhaltigkeitsprogramme-bei-reethi-faru-35941194ecca801eb816c60e4c1f6b86",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta trust",
+    "source_url": "https://www.reethifaru.com/de/blog/korallenrestaurierungsund-nachhaltigkeitsprogramme-bei-reethi-faru-35941194ecca801eb816c60e4c1f6b86",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Green Globe",
+    "source_url": "https://www.reethifaru.com/zh/villas/garden-villa",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Travelife",
+    "source_url": "https://www.reethifaru.com/zh/villas/garden-villa",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Green Globe",
+    "source_url": "https://www.reethifaru.com/it/villas/deluxe-beach-villas",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Travelife",
+    "source_url": "https://www.reethifaru.com/it/villas/deluxe-beach-villas",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Green Globe",
+    "source_url": "https://www.reethifaru.com/it/villas/water-villa",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Travelife",
+    "source_url": "https://www.reethifaru.com/it/villas/water-villa",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Green Globe",
+    "source_url": "https://www.reethifaru.com/zh/villas/water-villa",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Travelife",
+    "source_url": "https://www.reethifaru.com/zh/villas/water-villa",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "coral restoration",
+    "source_url": "https://www.reethifaru.com/blog/eco-friendly-maldives-resorts-why-reethi-faru-sets-the-standard-for-sustainable-luxury-39441194ecca80f884d3f21a8bf18b2b",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "solar",
+    "source_url": "https://www.reethifaru.com/blog/eco-friendly-maldives-resorts-why-reethi-faru-sets-the-standard-for-sustainable-luxury-39441194ecca80f884d3f21a8bf18b2b",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "single-use plastic",
+    "source_url": "https://www.reethifaru.com/blog/eco-friendly-maldives-resorts-why-reethi-faru-sets-the-standard-for-sustainable-luxury-39441194ecca80f884d3f21a8bf18b2b",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "coral restoration",
+    "source_url": "https://www.reethifaru.com/blog/3-facts-about-honeymoons-at-reethi-faru-resort-cbd024c4b6a449d08920ad2f29ac2cfd",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "desalination",
+    "source_url": "https://www.reethifaru.com/blog/3-facts-about-honeymoons-at-reethi-faru-resort-cbd024c4b6a449d08920ad2f29ac2cfd",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Green Globe",
+    "source_url": "https://www.reethifaru.com/de/villas/deluxe-two-bedroom-beach-suites",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Travelife",
+    "source_url": "https://www.reethifaru.com/de/villas/deluxe-two-bedroom-beach-suites",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "contacts_public.reservations_email": [
+   {
+    "value": "inquiry@reethifaru.com",
+    "source_url": "https://www.reethifaru.com/pdf/fact-sheets-english.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "reservation@reethifaru.com",
+    "source_url": "https://www.reethifaru.com/pdf/fact-sheets-english.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "inquiry@reethifaru.com",
+    "source_url": "https://www.reethifaru.com/pdf/brochure.pdf",
+    "as_of": 2016
+   }
+  ],
+  "contacts_public.phone": [
+   {
+    "value": "+960 400 4000",
+    "source_url": "https://www.reethifaru.com/pdf/fact-sheets-english.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "+960 400 4000",
+    "source_url": "https://www.reethifaru.com/pdf/brochure.pdf",
+    "as_of": 2016
+   },
+   {
+    "value": "+9604004000",
+    "source_url": "https://www.reethifaru.com/pdf/sustainability-management-plan.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "+960 4004000",
+    "source_url": "https://www.reethifaru.com/de/contact-us",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 4004000",
+    "source_url": "https://www.reethifaru.com/zh/contact-us",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "island_size": [
+   {
+    "value": "600 m x 350 m",
+    "source_url": "https://www.reethifaru.com/pdf/brochure.pdf",
+    "as_of": 2016
+   }
+  ],
+  "dining": [
+   {
+    "value": {
+     "name": "Haruge Bar Sports Complex",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.reethifaru.com/pdf/brochure.pdf",
+    "as_of": 2016
+   },
+   {
+    "value": {
+     "name": "Dhiyavaru Bar & Restaurant Pool",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.reethifaru.com/pdf/brochure.pdf",
+    "as_of": 2016
+   },
+   {
+    "value": {
+     "name": "Raalhu Café Water Sports",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.reethifaru.com/pdf/brochure.pdf",
+    "as_of": 2016
+   },
+   {
+    "value": {
+     "name": "Veyo Bar Spa and Boutique",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.reethifaru.com/pdf/brochure.pdf",
+    "as_of": 2016
+   },
+   {
+    "value": {
+     "name": "Sunset Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.reethifaru.com/pdf/brochure.pdf",
+    "as_of": 2016
+   },
+   {
+    "value": {
+     "name": "Reethi Grill",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.reethifaru.com/pdf/brochure.pdf",
+    "as_of": 2016
+   },
+   {
+    "value": {
+     "name": "de Thari Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.reethifaru.com/pdf/brochure.pdf",
+    "as_of": 2016
+   },
+   {
+    "value": {
+     "name": "mango, passion fruit, Café Liegeois",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.reethifaru.com/pdf/sunset-bar-menu.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": {
+     "name": "Main Buffet Restaurant - Vakaru",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.reethifaru.com/pdf/all-inclusive-package-.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": {
+     "name": " Reethi Grill",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.reethifaru.com/pdf/all-inclusive-package-.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": {
+     "name": " Raalhu Café",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.reethifaru.com/pdf/all-inclusive-package-.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": {
+     "name": "Main Restaurant (Vakaru): at mealtimes",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.reethifaru.com/pdf/all-inclusive-package-.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": {
+     "name": "Bar al tramonto",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.reethifaru.com/it/bars/sunset-bar",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Bar al tramonto",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.reethifaru.com/it/bars/sunset-bar",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Il Bar Haruge",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.reethifaru.com/it/bars/sunset-bar",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Bar Nala",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.reethifaru.com/it/bars/sunset-bar",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Bar Vejo",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.reethifaru.com/it/bars/sunset-bar",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Bar Thari",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.reethifaru.com/it/bars/sunset-bar",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Il Bar Haruge",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.reethifaru.com/it/bars/sunset-bar",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Bar Nala",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.reethifaru.com/it/bars/sunset-bar",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Bar Vejo",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.reethifaru.com/it/bars/sunset-bar",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Bar Thari",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.reethifaru.com/it/bars/sunset-bar",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Il Bar Haruge",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.reethifaru.com/it/bars/sunset-bar",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Bar Nala",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.reethifaru.com/it/bars/sunset-bar",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Bar Vejo",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.reethifaru.com/it/bars/sunset-bar",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Bar Thari",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.reethifaru.com/it/bars/sunset-bar",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Bar Nala",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.reethifaru.com/it/bars/nala-bar",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Bar Nala",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.reethifaru.com/it/bars/nala-bar",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Il Bar Haruge",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.reethifaru.com/it/bars/nala-bar",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Bar Vejo",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.reethifaru.com/it/bars/nala-bar",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Bar Thari",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.reethifaru.com/it/bars/nala-bar",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Bar al tramonto",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.reethifaru.com/it/bars/nala-bar",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Il Bar Haruge",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.reethifaru.com/it/bars/nala-bar",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Bar Vejo",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.reethifaru.com/it/bars/nala-bar",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Bar Thari",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.reethifaru.com/it/bars/nala-bar",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Bar al tramonto",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.reethifaru.com/it/bars/nala-bar",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Il Bar Haruge",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.reethifaru.com/it/bars/nala-bar",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Bar Vejo",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.reethifaru.com/it/bars/nala-bar",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Bar Thari",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.reethifaru.com/it/bars/nala-bar",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Bar al tramonto",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.reethifaru.com/it/bars/nala-bar",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Yes - Dhiyavaru Bar & Restaurant",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.reethifaru.com/ru/dining",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Beachfront Grill",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.reethifaru.com/ru/dining",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Yes - Reethi Grill",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.reethifaru.com/ru/dining",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "GanztÃ¤gige KÃ¼che im Restaurant Vakaru",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.reethifaru.com/de/blog/umweltfreundliche-praktiken-im-reethi-faru-ein-bekenntnis-zum-nachhaltigen-tourismus-beb936f9e6194a749d446af19950c113",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Vakaru Restaurant",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.reethifaru.com/it/restaurants/vakaru-restaurant",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Vakaru Restaurant",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.reethifaru.com/it/restaurants/vakaru-restaurant",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Reethi Grill",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.reethifaru.com/it/restaurants/vakaru-restaurant",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Reethi Grill",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.reethifaru.com/it/restaurants/vakaru-restaurant",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Reethi Grill",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.reethifaru.com/it/restaurants/vakaru-restaurant",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Nala Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.reethifaru.com/de/bars/nala-bar",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Nala Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.reethifaru.com/de/bars/nala-bar",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Bar-Galerie",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.reethifaru.com/de/bars/nala-bar",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Die Haruge Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.reethifaru.com/de/bars/nala-bar",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Veyo Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.reethifaru.com/de/bars/nala-bar",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Thari Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.reethifaru.com/de/bars/nala-bar",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Sunset Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.reethifaru.com/de/bars/nala-bar",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Die Haruge Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.reethifaru.com/de/bars/nala-bar",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Veyo Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.reethifaru.com/de/bars/nala-bar",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Thari Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.reethifaru.com/de/bars/nala-bar",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Sunset Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.reethifaru.com/de/bars/nala-bar",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Die Haruge Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.reethifaru.com/de/bars/nala-bar",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Veyo Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.reethifaru.com/de/bars/nala-bar",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Thari Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.reethifaru.com/de/bars/nala-bar",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Sunset Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.reethifaru.com/de/bars/nala-bar",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Il Bar Haruge",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.reethifaru.com/it/bars",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Bar Nala",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.reethifaru.com/it/bars",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Bar Vejo",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.reethifaru.com/it/bars",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Bar Thari",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.reethifaru.com/it/bars",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Bar al tramonto",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.reethifaru.com/it/bars",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "GanztÃ¤gige KÃ¼che im Restaurant Vakaru",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.reethifaru.com/de/blog/korallenrestaurierungsund-nachhaltigkeitsprogramme-bei-reethi-faru-35941194ecca801eb816c60e4c1f6b86",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "GanztÃ¤gige KÃ¼che im Restaurant Vakaru",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.reethifaru.com/de/blog/top-10-aktivit%C3%A4ten-f%C3%BCr-einen-unvergesslichen-malediven-urlaub-3240d1dcab9841ee8b97d1fc0051a10b",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Restaurant-Galerie",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.reethifaru.com/de/restaurants/veggie-n-vegan",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Dhiyavaru Restaurant",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.reethifaru.com/de/restaurants/veggie-n-vegan",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Reethi Grill",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.reethifaru.com/de/restaurants/veggie-n-vegan",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Dhiyavaru Restaurant",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.reethifaru.com/de/restaurants/veggie-n-vegan",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Reethi Grill",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.reethifaru.com/de/restaurants/veggie-n-vegan",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Dhiyavaru Restaurant",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.reethifaru.com/de/restaurants/veggie-n-vegan",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Reethi Grill",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.reethifaru.com/de/restaurants/veggie-n-vegan",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "GanztÃ¤gige KÃ¼che im Restaurant Vakaru",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.reethifaru.com/de/blog/die-besten-wellness-vorteile-eines-aufenthalts-im-reethi-faru-14341194ecca805db44bfd5ec55994d4",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Overwater Restaurant Experiences",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.reethifaru.com/blog/plan-a-truly-unforgettable-honeymoon-trip-to-maldives-19841194ecca80b5b97ec39d1e600f64",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Yes - Dhiyavaru Bar & Restaurant",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.reethifaru.com/de/dining",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Beachfront Grill",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.reethifaru.com/de/dining",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Yes - Reethi Grill",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.reethifaru.com/de/dining",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Sunset Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.reethifaru.com/de/blog/nachtleben-im-paradies-abendunterhaltung-im-reethi-faru-14341194ecca80aa88fcc02308b0a25d",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Bar Haruge",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.reethifaru.com/de/blog/nachtleben-im-paradies-abendunterhaltung-im-reethi-faru-14341194ecca80aa88fcc02308b0a25d",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "GanztÃ¤gige KÃ¼che im Restaurant Vakaru",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.reethifaru.com/de/blog/nachtleben-im-paradies-abendunterhaltung-im-reethi-faru-14341194ecca80aa88fcc02308b0a25d",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "GanztÃ¤gige KÃ¼che im Restaurant Vakaru",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.reethifaru.com/de/blog/wohin-soll-es-im-jahr-2025-f%C3%BCr-einen-romantischen-ausflug-gehen-17a41194ecca809990e3f5e073f06b6f",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Die Haruge Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.reethifaru.com/de/bars/the-haruge-bar",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Die Haruge Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.reethifaru.com/de/bars/the-haruge-bar",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Bar-Galerie",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.reethifaru.com/de/bars/the-haruge-bar",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Nala Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.reethifaru.com/de/bars/the-haruge-bar",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Veyo Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.reethifaru.com/de/bars/the-haruge-bar",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Thari Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.reethifaru.com/de/bars/the-haruge-bar",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Sunset Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.reethifaru.com/de/bars/the-haruge-bar",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Nala Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.reethifaru.com/de/bars/the-haruge-bar",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Veyo Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.reethifaru.com/de/bars/the-haruge-bar",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Thari Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.reethifaru.com/de/bars/the-haruge-bar",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Sunset Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.reethifaru.com/de/bars/the-haruge-bar",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Nala Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.reethifaru.com/de/bars/the-haruge-bar",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Veyo Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.reethifaru.com/de/bars/the-haruge-bar",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Thari Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.reethifaru.com/de/bars/the-haruge-bar",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Sunset Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.reethifaru.com/de/bars/the-haruge-bar",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Yes - Dhiyavaru Bar & Restaurant",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.reethifaru.com/zh/dining",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Beachfront Grill",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.reethifaru.com/zh/dining",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Yes - Reethi Grill",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.reethifaru.com/zh/dining",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Bar e lounge: sorseggia con stile",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.reethifaru.com/it/blog/vita-notturna-in-paradiso-intrattenimento-serale-al-reethi-faru-14341194ecca804395a0cf678b5ce86f",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Bar del tramonto",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.reethifaru.com/it/blog/vita-notturna-in-paradiso-intrattenimento-serale-al-reethi-faru-14341194ecca804395a0cf678b5ce86f",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Bar dell'Haruge",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.reethifaru.com/it/blog/vita-notturna-in-paradiso-intrattenimento-serale-al-reethi-faru-14341194ecca804395a0cf678b5ce86f",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "excursions": [
+   {
+    "value": "local island",
+    "source_url": "https://www.reethifaru.com/pdf/brochure.pdf",
+    "as_of": 2016
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.reethifaru.com/pdf/brochure.pdf",
+    "as_of": 2016
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.reethifaru.com/pdf/brochure.pdf",
+    "as_of": 2016
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.reethifaru.com/pdf/brochure.pdf",
+    "as_of": 2016
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.reethifaru.com/pdf/brochure.pdf",
+    "as_of": 2016
+   },
+   {
+    "value": "local island",
+    "source_url": "https://tablecells.com/api/v1/files/public/01M3BBAVWQNQ4HD8AS898Z0V9C-water-sports.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://tablecells.com/api/v1/files/public/01M3BBAVWQNQ4HD8AS898Z0V9C-water-sports.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://tablecells.com/api/v1/files/public/01M3BBAVWQNQ4HD8AS898Z0V9C-water-sports.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "manta",
+    "source_url": "https://tablecells.com/api/v1/files/public/01M3BBAVWQNQ4HD8AS898Z0V9C-water-sports.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://tablecells.com/api/v1/files/public/01M3BBAVWQNQ4HD8AS898Z0V9C-water-sports.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.reethifaru.com/pdf/sustainability-management-plan.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.reethifaru.com/pdf/sustainability-management-plan.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.reethifaru.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.reethifaru.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.reethifaru.com/blog/wellness-experiences-at-reethi-faru-maldives-couple-friendly-16041194ecca807c8027cdc0fc083c39",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.reethifaru.com/zh/blog/reethi-faru-%E7%9A%84%E7%8F%8A%E7%91%9A%E6%81%A2%E5%BE%A9%E5%92%8C%E6%B0%B8%E7%BA%8C%E7%99%BC%E5%B1%95%E8%A8%88%E5%8A%83-35941194ecca80d382bdc98987fccd67",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "private dinner",
+    "source_url": "https://www.reethifaru.com/ru/dining",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.reethifaru.com/de/blog/umweltfreundliche-praktiken-im-reethi-faru-ein-bekenntnis-zum-nachhaltigen-tourismus-beb936f9e6194a749d446af19950c113",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "picnic",
+    "source_url": "https://www.reethifaru.com/it/blog/fughe-romantiche-luna-di-miele-alle-maldive-7db16b2d0ec74d04b418e8cde1401cad",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.reethifaru.com/ru",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.reethifaru.com/ru",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.reethifaru.com/blog/romantic-getaways-honeymooning-in-the-maldives-c8935c3a5e724bacab6eba9dd6a2ddef",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "picnic",
+    "source_url": "https://www.reethifaru.com/blog/romantic-getaways-honeymooning-in-the-maldives-c8935c3a5e724bacab6eba9dd6a2ddef",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.reethifaru.com/de/blog/korallenrestaurierungsund-nachhaltigkeitsprogramme-bei-reethi-faru-35941194ecca801eb816c60e4c1f6b86",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.reethifaru.com/de/blog/top-10-aktivit%C3%A4ten-f%C3%BCr-einen-unvergesslichen-malediven-urlaub-3240d1dcab9841ee8b97d1fc0051a10b",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.reethifaru.com/blog/the-quiet-luxury-of-a-maldivian-summer-1f441194ecca80ae8451e20b961bfd47",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.reethifaru.com/blog/the-quiet-luxury-of-a-maldivian-summer-1f441194ecca80ae8451e20b961bfd47",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.reethifaru.com/blog/the-quiet-luxury-of-a-maldivian-summer-1f441194ecca80ae8451e20b961bfd47",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "local island",
+    "source_url": "https://www.reethifaru.com/ru/experiences",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.reethifaru.com/ru/experiences",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.reethifaru.com/ru/experiences",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset fishing",
+    "source_url": "https://www.reethifaru.com/ru/experiences",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.reethifaru.com/ru/experiences",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.reethifaru.com/ru/experiences",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "stargazing",
+    "source_url": "https://www.reethifaru.com/it/villas/water-villa",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.reethifaru.com/blog/luxury-villas-and-overwater-bungalows-900194cd38ac446695e34ef5d1782add",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "private dinner",
+    "source_url": "https://www.reethifaru.com/blog/plan-a-truly-unforgettable-honeymoon-trip-to-maldives-19841194ecca80b5b97ec39d1e600f64",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "private dinner",
+    "source_url": "https://www.reethifaru.com/de/dining",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "local island",
+    "source_url": "https://www.reethifaru.com/experiences",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.reethifaru.com/experiences",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.reethifaru.com/experiences",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset fishing",
+    "source_url": "https://www.reethifaru.com/experiences",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.reethifaru.com/experiences",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.reethifaru.com/experiences",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "stargazing",
+    "source_url": "https://www.reethifaru.com/zh/villas/water-villa",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "local island",
+    "source_url": "https://www.reethifaru.com/activities",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.reethifaru.com/activities",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.reethifaru.com/activities",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset fishing",
+    "source_url": "https://www.reethifaru.com/activities",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.reethifaru.com/blog/eco-friendly-maldives-resorts-why-reethi-faru-sets-the-standard-for-sustainable-luxury-39441194ecca80f884d3f21a8bf18b2b",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.reethifaru.com/blog/3-facts-about-honeymoons-at-reethi-faru-resort-cbd024c4b6a449d08920ad2f29ac2cfd",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.reethifaru.com/blog/poolside-bliss-the-best-way-to-spend-a-relaxing-day-at-reethi-faru-resort-12741194ecca80cf8af0c3c38092df30",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "private dinner",
+    "source_url": "https://www.reethifaru.com/zh/dining",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "weddings.packages": [
+   {
+    "value": {
+     "name": "Days Package",
+     "price": "308",
+     "currency": "USD",
+     "as_of": 2026
+    },
+    "source_url": "https://www.reethifaru.com/pdf/coconut-spa.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": {
+     "name": "Days Package",
+     "price": "617",
+     "currency": "USD",
+     "as_of": 2026
+    },
+    "source_url": "https://www.reethifaru.com/pdf/coconut-spa.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": {
+     "name": "Days Package",
+     "price": "836",
+     "currency": "USD",
+     "as_of": 2026
+    },
+    "source_url": "https://www.reethifaru.com/pdf/coconut-spa.pdf",
+    "as_of": 2026
+   }
+  ],
+  "meal_plans": [
+   {
+    "value": "FB",
+    "source_url": "https://tablecells.com/api/v1/files/public/01M3BBAVWQNQ4HD8AS898Z0V9C-water-sports.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "AI",
+    "source_url": "https://www.reethifaru.com/it/blog/fughe-romantiche-luna-di-miele-alle-maldive-7db16b2d0ec74d04b418e8cde1401cad",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://www.reethifaru.com/blog/romantic-getaways-honeymooning-in-the-maldives-c8935c3a5e724bacab6eba9dd6a2ddef",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "island": [
+   {
+    "value": "Filaidhoo",
+    "source_url": "https://www.reethifaru.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Filaidhoo",
+    "source_url": "https://www.reethifaru.com/blog/wellness-experiences-at-reethi-faru-maldives-couple-friendly-16041194ecca807c8027cdc0fc083c39",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Filaidhoo",
+    "source_url": "https://www.reethifaru.com/blog/when-is-the-best-time-to-visit-maldives-16041194ecca80e797a6d69fd3de2b3b",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Filaidhoo",
+    "source_url": "https://www.reethifaru.com/blog/plan-a-truly-unforgettable-honeymoon-trip-to-maldives-19841194ecca80b5b97ec39d1e600f64",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Filaidhoo",
+    "source_url": "https://www.reethifaru.com/blog/eco-friendly-maldives-resorts-why-reethi-faru-sets-the-standard-for-sustainable-luxury-39441194ecca80f884d3f21a8bf18b2b",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "diving_watersports.operator": [
+   {
+    "value": "Dive Centre",
+    "source_url": "https://www.reethifaru.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Dive Centre",
+    "source_url": "https://www.reethifaru.com/ru",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Dive Centre",
+    "source_url": "https://www.reethifaru.com/blog/the-quiet-luxury-of-a-maldivian-summer-1f441194ecca80ae8451e20b961bfd47",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Dive Centre",
+    "source_url": "https://www.reethifaru.com/ru/experiences",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Dive Centre",
+    "source_url": "https://www.reethifaru.com/experiences",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "all_inclusive_details": [
+   {
+    "value": "all-inclusive: molti resort offrono pacchetti all-inclusive che coprono pasti, bevande e attivitÃ .",
+    "source_url": "https://www.reethifaru.com/it/blog/fughe-romantiche-luna-di-miele-alle-maldive-7db16b2d0ec74d04b418e8cde1401cad",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "all-inclusive packages covering meals, drinks, and activities.",
+    "source_url": "https://www.reethifaru.com/blog/romantic-getaways-honeymooning-in-the-maldives-c8935c3a5e724bacab6eba9dd6a2ddef",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "weddings.offered": [
+   {
+    "value": true,
+    "source_url": "https://www.reethifaru.com/blog/romantic-getaways-honeymooning-in-the-maldives-c8935c3a5e724bacab6eba9dd6a2ddef",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.reethifaru.com/blog/plan-a-truly-unforgettable-honeymoon-trip-to-maldives-19841194ecca80b5b97ec39d1e600f64",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.reethifaru.com/experiences",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.reethifaru.com/blog/3-facts-about-honeymoons-at-reethi-faru-resort-cbd024c4b6a449d08920ad2f29ac2cfd",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "star_rating": [
+   {
+    "value": "5-star",
+    "source_url": "https://www.reethifaru.com/ru/experiences",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "5-star",
+    "source_url": "https://www.reethifaru.com/experiences",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "weddings.vow_renewal": [
+   {
+    "value": true,
+    "source_url": "https://www.reethifaru.com/ru/experiences",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.reethifaru.com/experiences",
+    "as_of": "2026-10-04"
+   }
+  ]
+ },
+ "last_updated": "2026-10-05"
 }

@@ -6,42 +6,65 @@
   "Eriyadu",
   "Eri Maldives"
  ],
- "official_url": null,
- "official_site_status": null,
+ "official_url": "https://erimaldives.com/",
+ "official_site_status": "ok",
  "operator_brand": null,
- "atoll": "Raa Atoll",
+ "atoll": "Malé Atoll",
  "island": null,
  "opened_or_renovated": null,
- "star_rating": null,
+ "star_rating": "5-star",
  "transfer": {
   "modes": [
    "seaplane",
-   "speedboat",
-   "domestic flight"
+   "speedboat"
   ],
   "minutes": {
-   "seaplane": 45,
-   "speedboat": 45,
-   "domestic flight": 40,
+   "seaplane": 15,
+   "speedboat": 15,
+   "domestic flight": null,
    "yacht": null
   }
  },
  "island_size": "730 m x 390 m",
  "villas": {
-  "total": 169,
+  "total": 44,
   "categories": [
    {
-    "name": "beach or overwater retreats to family",
-    "count": 2,
-    "size_sqm": null,
+    "name": "BEACH VILLA - VILLAS",
+    "count": null,
+    "size_sqm": 45,
     "max_occupancy": null,
     "pool": null,
-    "overwater": true
+    "overwater": null
    },
    {
-    "name": "Number of Villas",
-    "count": 168,
-    "size_sqm": null,
+    "name": "SUNSET BEACH VILLA - VILLAS",
+    "count": null,
+    "size_sqm": 45,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "ROOM FEATURES BEACH SUITE - VILLA",
+    "count": null,
+    "size_sqm": 54,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "BEACH POOL VILLA - VILLAS",
+    "count": null,
+    "size_sqm": 45,
+    "max_occupancy": null,
+    "pool": true,
+    "overwater": null
+   },
+   {
+    "name": "BEACH SUITE - VILLA",
+    "count": null,
+    "size_sqm": 54,
     "max_occupancy": null,
     "pool": null,
     "overwater": null
@@ -66,24 +89,24 @@
  },
  "dining": [
   {
-   "name": "Udhares Bar",
+   "name": "Fire & Earth Grill (E)",
+   "cuisine": null,
+   "type": "restaurant"
+  },
+  {
+   "name": "Soul Kitchen",
+   "cuisine": null,
+   "type": "restaurant"
+  },
+  {
+   "name": "Breakfast, lunch and dinner at Soul Kitchen",
+   "cuisine": null,
+   "type": "restaurant"
+  },
+  {
+   "name": "Sip & Dip – Main Bar",
    "cuisine": null,
    "type": "bar"
-  },
-  {
-   "name": "Lebanese Restaurant (coming soon)",
-   "cuisine": null,
-   "type": "restaurant"
-  },
-  {
-   "name": "Seafood Restaurant (coming soon)",
-   "cuisine": null,
-   "type": "restaurant"
-  },
-  {
-   "name": "Dining",
-   "cuisine": null,
-   "type": "restaurant"
   },
   {
    "name": "Jaafaiy – Buffet Restaurant",
@@ -96,22 +119,7 @@
    "type": "restaurant"
   },
   {
-   "name": "Amigos – Mexican Overwater Dining",
-   "cuisine": null,
-   "type": "restaurant"
-  },
-  {
-   "name": "Ocean Spice – Indian Vegetarian Dining",
-   "cuisine": null,
-   "type": "restaurant"
-  },
-  {
    "name": "Teppan de Oishi – Japanese Teppanyaki",
-   "cuisine": null,
-   "type": "restaurant"
-  },
-  {
-   "name": "Olives & Vines – Mediterranean Dining",
    "cuisine": null,
    "type": "restaurant"
   },
@@ -121,36 +129,53 @@
    "type": "bar"
   }
  ],
- "meal_plans": [],
- "all_inclusive_details": null,
+ "meal_plans": [
+  "AI",
+  "Dine Around"
+ ],
+ "all_inclusive_details": "All-Inclusive beverages and light dining.",
  "spa": {
-  "name": null,
-  "treatment_rooms": 8,
+  "name": "Spa",
+  "treatment_rooms": null,
   "signature_treatments": [],
-  "menu_doc": null
+  "menu_doc": "https://d7h9v39iheghu.cloudfront.net/previews/7837a234-9635-4da8-b132-476aacd9b4c1/7748c6eb-8fff-472c-979b-04df1ae613cf/481b9077-8234-44e1-9b8e-16c246aa9cb8?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy83ODM3YTIzNC05NjM1LTRkYTgtYjEzMi00NzZhYWNkOWI0YzEqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjg0MDEwfX19XX0_&Signature=0NCrDHEtg~3Ag4tUAPQa6ilJ6cyZ~w4zVuMSD7cG~r-mqETwrHjP~ymbFvuB7vZlbnPnlWCA1ED5pRAzfLnrljg2GzmBKzehdZ5pgyEdg2DhUh1PdoH9P3mOCEtIvAjK8OJMABLlrsk9l-sKHGYMa1a1Cwv28E-vbs9wjG1faMxEGG67VKe8YrbKJea-zq31p-n-SwDxEgYcBaFhSoyAOtk-LQQh4YnbO4e3Mh1O3qhd1CUPoi~QB1~gR8sul5CK0VJQczSIV5ZAIetLpT6YzKJjTsyOlpvwM1Ndaf6IhiW6ocfSJj45JPk5h8YsmO05fa9p1P7DalJRXVD6AH0o6g__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA"
  },
  "diving_watersports": {
-  "operator": null,
-  "house_reef": "house reef meets the deep blue sea, perfect for unforgettable moments in the Maldives",
+  "operator": "Euro-Divers",
+  "house_reef": "house reef into soulful",
   "activities": [
    "snorkelling",
    "windsurfing",
-   "catamaran",
+   "paddleboard",
    "jet ski",
+   "manta",
+   "sunset cruise",
+   "scuba diving",
+   "catamaran",
+   "whale shark",
+   "sailing",
+   "fun tube",
    "fishing",
    "dolphin cruise",
-   "manta",
-   "sailing",
+   "kayaking",
+   "stand-up paddle",
+   "glass-bottom",
    "banana boat",
-   "fun tube"
+   "snorkeling",
+   "water skiing"
   ],
-  "price_list_doc": null
+  "price_list_doc": "https://d7h9v39iheghu.cloudfront.net/previews/7837a234-9635-4da8-b132-476aacd9b4c1/211acdab-18f3-4cc6-99ee-f67a15a4c30d/13d49216-0e0d-4bb8-90ad-e37b4ac94c81?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy83ODM3YTIzNC05NjM1LTRkYTgtYjEzMi00NzZhYWNkOWI0YzEqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjg0MDEwfX19XX0_&Signature=0NCrDHEtg~3Ag4tUAPQa6ilJ6cyZ~w4zVuMSD7cG~r-mqETwrHjP~ymbFvuB7vZlbnPnlWCA1ED5pRAzfLnrljg2GzmBKzehdZ5pgyEdg2DhUh1PdoH9P3mOCEtIvAjK8OJMABLlrsk9l-sKHGYMa1a1Cwv28E-vbs9wjG1faMxEGG67VKe8YrbKJea-zq31p-n-SwDxEgYcBaFhSoyAOtk-LQQh4YnbO4e3Mh1O3qhd1CUPoi~QB1~gR8sul5CK0VJQczSIV5ZAIetLpT6YzKJjTsyOlpvwM1Ndaf6IhiW6ocfSJj45JPk5h8YsmO05fa9p1P7DalJRXVD6AH0o6g__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA"
  },
  "excursions": [
-  "local island",
-  "dolphin",
   "manta",
   "turtle",
+  "whale shark",
+  "local island",
+  "sandbank",
+  "dolphin",
+  "big game fishing",
+  "picnic",
+  "island hopping",
   "cooking class"
  ],
  "kids_family": {
@@ -159,77 +184,285 @@
   "teens": null
  },
  "wellness_fitness": [
-  "yoga",
-  "fitness centre",
   "tennis",
-  "badminton"
+  "badminton",
+  "steam",
+  "yoga",
+  "meditation",
+  "fitness centre",
+  "pilates",
+  "gym",
+  "wellness programme"
  ],
  "weddings": {
   "offered": true,
-  "vow_renewal": null,
+  "vow_renewal": true,
   "venues": [
-   "Wedding Pavilion 2 adults + 2 children or 3 adults"
+   "Tropical beach ceremony set-up"
   ],
-  "packages": [],
-  "brochure_doc": null
+  "packages": [
+   {
+    "name": "Wedding",
+    "price": "15000",
+    "currency": "USD",
+    "as_of": 2026
+   }
+  ],
+  "brochure_doc": "https://d7h9v39iheghu.cloudfront.net/previews/7837a234-9635-4da8-b132-476aacd9b4c1/d10617e8-ce68-4acc-8fc4-e29b9ab61393/d10617e8-ce68-4acc-8fc4-e29b9ab61393?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy83ODM3YTIzNC05NjM1LTRkYTgtYjEzMi00NzZhYWNkOWI0YzEqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjg0MDEwfX19XX0_&Signature=0NCrDHEtg~3Ag4tUAPQa6ilJ6cyZ~w4zVuMSD7cG~r-mqETwrHjP~ymbFvuB7vZlbnPnlWCA1ED5pRAzfLnrljg2GzmBKzehdZ5pgyEdg2DhUh1PdoH9P3mOCEtIvAjK8OJMABLlrsk9l-sKHGYMa1a1Cwv28E-vbs9wjG1faMxEGG67VKe8YrbKJea-zq31p-n-SwDxEgYcBaFhSoyAOtk-LQQh4YnbO4e3Mh1O3qhd1CUPoi~QB1~gR8sul5CK0VJQczSIV5ZAIetLpT6YzKJjTsyOlpvwM1Ndaf6IhiW6ocfSJj45JPk5h8YsmO05fa9p1P7DalJRXVD6AH0o6g__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA"
  },
  "events_mice": {
-  "venues": [],
+  "venues": [
+   "Our meeting room blends calm island energy with"
+  ],
   "capacity_max": null,
   "buyout": null,
   "doc": null
  },
  "sustainability": [],
  "contacts_public": {
-  "reservations_email": "info@neoscapesmaldives.com",
+  "reservations_email": "reservations@erimaldives.com",
   "weddings_email": null,
-  "phone": "+960 736 5425"
+  "phone": "+960 7292820"
  },
  "documents_latest": {
-  "factsheet": "https://www.neoscapesmaldives.com/wp-content/uploads/Furaveri-Maldives_Factsheet_Rev24102024.pdf",
-  "map": "https://www.neoscapesmaldives.com/wp-content/uploads/Island_map_updated-27.10.2024.pdf",
-  "wedding": null,
-  "spa_menu": null,
-  "dining_menu": null,
-  "dive_prices": null,
+  "factsheet": "https://d7h9v39iheghu.cloudfront.net/previews/7837a234-9635-4da8-b132-476aacd9b4c1/d6f35137-6068-41a9-96c1-bb25264b80c9/8ee78a05-4865-4cc5-9e4c-09fb2b6ca406?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy83ODM3YTIzNC05NjM1LTRkYTgtYjEzMi00NzZhYWNkOWI0YzEqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjg0MDEwfX19XX0_&Signature=0NCrDHEtg~3Ag4tUAPQa6ilJ6cyZ~w4zVuMSD7cG~r-mqETwrHjP~ymbFvuB7vZlbnPnlWCA1ED5pRAzfLnrljg2GzmBKzehdZ5pgyEdg2DhUh1PdoH9P3mOCEtIvAjK8OJMABLlrsk9l-sKHGYMa1a1Cwv28E-vbs9wjG1faMxEGG67VKe8YrbKJea-zq31p-n-SwDxEgYcBaFhSoyAOtk-LQQh4YnbO4e3Mh1O3qhd1CUPoi~QB1~gR8sul5CK0VJQczSIV5ZAIetLpT6YzKJjTsyOlpvwM1Ndaf6IhiW6ocfSJj45JPk5h8YsmO05fa9p1P7DalJRXVD6AH0o6g__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA",
+  "map": "https://furaveri.com/wp-content/uploads/2026/07/Furaveri_Maldives-_Premium-All-Inclusive-plan_2027-2028_rev04072026_243.pdf",
+  "wedding": "https://d7h9v39iheghu.cloudfront.net/previews/7837a234-9635-4da8-b132-476aacd9b4c1/d10617e8-ce68-4acc-8fc4-e29b9ab61393/d10617e8-ce68-4acc-8fc4-e29b9ab61393?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy83ODM3YTIzNC05NjM1LTRkYTgtYjEzMi00NzZhYWNkOWI0YzEqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjg0MDEwfX19XX0_&Signature=0NCrDHEtg~3Ag4tUAPQa6ilJ6cyZ~w4zVuMSD7cG~r-mqETwrHjP~ymbFvuB7vZlbnPnlWCA1ED5pRAzfLnrljg2GzmBKzehdZ5pgyEdg2DhUh1PdoH9P3mOCEtIvAjK8OJMABLlrsk9l-sKHGYMa1a1Cwv28E-vbs9wjG1faMxEGG67VKe8YrbKJea-zq31p-n-SwDxEgYcBaFhSoyAOtk-LQQh4YnbO4e3Mh1O3qhd1CUPoi~QB1~gR8sul5CK0VJQczSIV5ZAIetLpT6YzKJjTsyOlpvwM1Ndaf6IhiW6ocfSJj45JPk5h8YsmO05fa9p1P7DalJRXVD6AH0o6g__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA",
+  "spa_menu": "https://d7h9v39iheghu.cloudfront.net/previews/7837a234-9635-4da8-b132-476aacd9b4c1/7748c6eb-8fff-472c-979b-04df1ae613cf/481b9077-8234-44e1-9b8e-16c246aa9cb8?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy83ODM3YTIzNC05NjM1LTRkYTgtYjEzMi00NzZhYWNkOWI0YzEqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjg0MDEwfX19XX0_&Signature=0NCrDHEtg~3Ag4tUAPQa6ilJ6cyZ~w4zVuMSD7cG~r-mqETwrHjP~ymbFvuB7vZlbnPnlWCA1ED5pRAzfLnrljg2GzmBKzehdZ5pgyEdg2DhUh1PdoH9P3mOCEtIvAjK8OJMABLlrsk9l-sKHGYMa1a1Cwv28E-vbs9wjG1faMxEGG67VKe8YrbKJea-zq31p-n-SwDxEgYcBaFhSoyAOtk-LQQh4YnbO4e3Mh1O3qhd1CUPoi~QB1~gR8sul5CK0VJQczSIV5ZAIetLpT6YzKJjTsyOlpvwM1Ndaf6IhiW6ocfSJj45JPk5h8YsmO05fa9p1P7DalJRXVD6AH0o6g__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA",
+  "dining_menu": "https://d7h9v39iheghu.cloudfront.net/previews/7837a234-9635-4da8-b132-476aacd9b4c1/f4c17a44-1a32-4877-b4dc-3acda996dc1b/f4c17a44-1a32-4877-b4dc-3acda996dc1b?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy83ODM3YTIzNC05NjM1LTRkYTgtYjEzMi00NzZhYWNkOWI0YzEqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjg0MDEwfX19XX0_&Signature=0NCrDHEtg~3Ag4tUAPQa6ilJ6cyZ~w4zVuMSD7cG~r-mqETwrHjP~ymbFvuB7vZlbnPnlWCA1ED5pRAzfLnrljg2GzmBKzehdZ5pgyEdg2DhUh1PdoH9P3mOCEtIvAjK8OJMABLlrsk9l-sKHGYMa1a1Cwv28E-vbs9wjG1faMxEGG67VKe8YrbKJea-zq31p-n-SwDxEgYcBaFhSoyAOtk-LQQh4YnbO4e3Mh1O3qhd1CUPoi~QB1~gR8sul5CK0VJQczSIV5ZAIetLpT6YzKJjTsyOlpvwM1Ndaf6IhiW6ocfSJj45JPk5h8YsmO05fa9p1P7DalJRXVD6AH0o6g__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA",
+  "dive_prices": "https://d7h9v39iheghu.cloudfront.net/previews/7837a234-9635-4da8-b132-476aacd9b4c1/211acdab-18f3-4cc6-99ee-f67a15a4c30d/13d49216-0e0d-4bb8-90ad-e37b4ac94c81?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy83ODM3YTIzNC05NjM1LTRkYTgtYjEzMi00NzZhYWNkOWI0YzEqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjg0MDEwfX19XX0_&Signature=0NCrDHEtg~3Ag4tUAPQa6ilJ6cyZ~w4zVuMSD7cG~r-mqETwrHjP~ymbFvuB7vZlbnPnlWCA1ED5pRAzfLnrljg2GzmBKzehdZ5pgyEdg2DhUh1PdoH9P3mOCEtIvAjK8OJMABLlrsk9l-sKHGYMa1a1Cwv28E-vbs9wjG1faMxEGG67VKe8YrbKJea-zq31p-n-SwDxEgYcBaFhSoyAOtk-LQQh4YnbO4e3Mh1O3qhd1CUPoi~QB1~gR8sul5CK0VJQczSIV5ZAIetLpT6YzKJjTsyOlpvwM1Ndaf6IhiW6ocfSJj45JPk5h8YsmO05fa9p1P7DalJRXVD6AH0o6g__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA",
   "events": null,
   "calendar": null
  },
- "documents_count": 2,
+ "documents_count": 21,
  "gaps": [
-  "wedding brochure",
-  "events/MICE document",
-  "fact: spa",
-  "fact: dive operator"
+  "events/MICE document"
  ],
  "sources": {
+  "atoll": [
+   {
+    "value": "Malé Atoll",
+    "source_url": "https://d7h9v39iheghu.cloudfront.net/previews/7837a234-9635-4da8-b132-476aacd9b4c1/d6f35137-6068-41a9-96c1-bb25264b80c9/8ee78a05-4865-4cc5-9e4c-09fb2b6ca406?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy83ODM3YTIzNC05NjM1LTRkYTgtYjEzMi00NzZhYWNkOWI0YzEqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjg0MDEwfX19XX0_&Signature=0NCrDHEtg~3Ag4tUAPQa6ilJ6cyZ~w4zVuMSD7cG~r-mqETwrHjP~ymbFvuB7vZlbnPnlWCA1ED5pRAzfLnrljg2GzmBKzehdZ5pgyEdg2DhUh1PdoH9P3mOCEtIvAjK8OJMABLlrsk9l-sKHGYMa1a1Cwv28E-vbs9wjG1faMxEGG67VKe8YrbKJea-zq31p-n-SwDxEgYcBaFhSoyAOtk-LQQh4YnbO4e3Mh1O3qhd1CUPoi~QB1~gR8sul5CK0VJQczSIV5ZAIetLpT6YzKJjTsyOlpvwM1Ndaf6IhiW6ocfSJj45JPk5h8YsmO05fa9p1P7DalJRXVD6AH0o6g__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA",
+    "as_of": 2026
+   },
+   {
+    "value": "Malé Atoll",
+    "source_url": "https://d7h9v39iheghu.cloudfront.net/previews/7837a234-9635-4da8-b132-476aacd9b4c1/999db426-ea2a-4c44-b6e3-658ea396827e/def5341a-4bbd-4356-99ca-a82a64f92b76?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy83ODM3YTIzNC05NjM1LTRkYTgtYjEzMi00NzZhYWNkOWI0YzEqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjg0MDEwfX19XX0_&Signature=0NCrDHEtg~3Ag4tUAPQa6ilJ6cyZ~w4zVuMSD7cG~r-mqETwrHjP~ymbFvuB7vZlbnPnlWCA1ED5pRAzfLnrljg2GzmBKzehdZ5pgyEdg2DhUh1PdoH9P3mOCEtIvAjK8OJMABLlrsk9l-sKHGYMa1a1Cwv28E-vbs9wjG1faMxEGG67VKe8YrbKJea-zq31p-n-SwDxEgYcBaFhSoyAOtk-LQQh4YnbO4e3Mh1O3qhd1CUPoi~QB1~gR8sul5CK0VJQczSIV5ZAIetLpT6YzKJjTsyOlpvwM1Ndaf6IhiW6ocfSJj45JPk5h8YsmO05fa9p1P7DalJRXVD6AH0o6g__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA",
+    "as_of": 2026
+   },
+   {
+    "value": "North Malé Atoll",
+    "source_url": "https://erimaldives.com/blog/post/why-may-is-the-best-time-to-visit-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "North Malé Atoll",
+    "source_url": "https://erimaldives.com/blog/post/the-maldives-guide-for-travellers-who-love-nature-beyond-the-beach/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "North Malé Atoll",
+    "source_url": "https://erimaldives.com/blog/post/dive-sites-near-north-male-atoll/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "North Malé Atoll",
+    "source_url": "https://erimaldives.com/blog/post/which-resort-is-the-most-romantic-in-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "North Malé Atoll",
+    "source_url": "https://erimaldives.com/blog/post/resorts-near-velana-airport/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "North Malé Atoll",
+    "source_url": "https://erimaldives.com/blog/post/the-perfect-day-at-eri-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "North Malé Atoll",
+    "source_url": "https://erimaldives.com/blog/post/a-guide-to-the-villas-at-eri-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "North Malé Atoll",
+    "source_url": "https://erimaldives.com/blog/post/dining-at-eri-maldives-best-restaurants-in-north-male-atoll/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "North Malé Atoll",
+    "source_url": "https://erimaldives.com/blog/post/where-can-you-experience-a-mindful-maldives-getaway/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "North Malé Atoll",
+    "source_url": "https://erimaldives.com/blog/post/seven-days-by-the-sea-an-ocean-wellness-itinerary-at-eri-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "North Malé Atoll",
+    "source_url": "https://erimaldives.com/blog/post/what-kind-of-traveller-are-you-in-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "North Malé Atoll",
+    "source_url": "https://erimaldives.com/blog/post/first-time-diving-in-the-maldives-your-beginners-guide-to-diving-at-eri/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "North Malé Atoll",
+    "source_url": "https://erimaldives.com/blog/post/beneath-eris-turquoise-waters/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "North Malé Atoll",
+    "source_url": "https://erimaldives.com/blog/post/how-eri-maldives-combines-adventure-and-relaxation-for-every-traveller/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "North Malé Atoll",
+    "source_url": "https://erimaldives.com/blog/post/resorts-near-male-international-airport/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "North Malé Atoll",
+    "source_url": "https://erimaldives.com/blog/post/a-guide-to-spending-5-days-in-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Raa Atoll",
+    "source_url": "https://www.neoscapesmaldives.com/resort/furaveri-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Kaafu Atoll",
+    "source_url": "https://www.mymaldives.com/resort-guide/eriyadu-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "North Male Atoll",
+    "source_url": "https://www.dnatatravel.com/2-904932-1/smartline-eriyadu?oc=true",
+    "as_of": "2026-10-04"
+   }
+  ],
   "transfer.modes": [
    {
     "value": "seaplane",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Furaveri-Maldives_Factsheet_Rev24102024.pdf",
-    "as_of": 2024
+    "source_url": "https://d7h9v39iheghu.cloudfront.net/previews/7837a234-9635-4da8-b132-476aacd9b4c1/d6f35137-6068-41a9-96c1-bb25264b80c9/8ee78a05-4865-4cc5-9e4c-09fb2b6ca406?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy83ODM3YTIzNC05NjM1LTRkYTgtYjEzMi00NzZhYWNkOWI0YzEqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjg0MDEwfX19XX0_&Signature=0NCrDHEtg~3Ag4tUAPQa6ilJ6cyZ~w4zVuMSD7cG~r-mqETwrHjP~ymbFvuB7vZlbnPnlWCA1ED5pRAzfLnrljg2GzmBKzehdZ5pgyEdg2DhUh1PdoH9P3mOCEtIvAjK8OJMABLlrsk9l-sKHGYMa1a1Cwv28E-vbs9wjG1faMxEGG67VKe8YrbKJea-zq31p-n-SwDxEgYcBaFhSoyAOtk-LQQh4YnbO4e3Mh1O3qhd1CUPoi~QB1~gR8sul5CK0VJQczSIV5ZAIetLpT6YzKJjTsyOlpvwM1Ndaf6IhiW6ocfSJj45JPk5h8YsmO05fa9p1P7DalJRXVD6AH0o6g__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA",
+    "as_of": 2026
    },
    {
     "value": "speedboat",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Furaveri-Maldives_Factsheet_Rev24102024.pdf",
-    "as_of": 2024
+    "source_url": "https://d7h9v39iheghu.cloudfront.net/previews/7837a234-9635-4da8-b132-476aacd9b4c1/d6f35137-6068-41a9-96c1-bb25264b80c9/8ee78a05-4865-4cc5-9e4c-09fb2b6ca406?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy83ODM3YTIzNC05NjM1LTRkYTgtYjEzMi00NzZhYWNkOWI0YzEqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjg0MDEwfX19XX0_&Signature=0NCrDHEtg~3Ag4tUAPQa6ilJ6cyZ~w4zVuMSD7cG~r-mqETwrHjP~ymbFvuB7vZlbnPnlWCA1ED5pRAzfLnrljg2GzmBKzehdZ5pgyEdg2DhUh1PdoH9P3mOCEtIvAjK8OJMABLlrsk9l-sKHGYMa1a1Cwv28E-vbs9wjG1faMxEGG67VKe8YrbKJea-zq31p-n-SwDxEgYcBaFhSoyAOtk-LQQh4YnbO4e3Mh1O3qhd1CUPoi~QB1~gR8sul5CK0VJQczSIV5ZAIetLpT6YzKJjTsyOlpvwM1Ndaf6IhiW6ocfSJj45JPk5h8YsmO05fa9p1P7DalJRXVD6AH0o6g__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA",
+    "as_of": 2026
    },
    {
-    "value": "domestic flight",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Furaveri-Maldives_Factsheet_Rev24102024.pdf",
-    "as_of": 2024
+    "value": "seaplane",
+    "source_url": "https://d7h9v39iheghu.cloudfront.net/previews/7837a234-9635-4da8-b132-476aacd9b4c1/999db426-ea2a-4c44-b6e3-658ea396827e/def5341a-4bbd-4356-99ca-a82a64f92b76?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy83ODM3YTIzNC05NjM1LTRkYTgtYjEzMi00NzZhYWNkOWI0YzEqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjg0MDEwfX19XX0_&Signature=0NCrDHEtg~3Ag4tUAPQa6ilJ6cyZ~w4zVuMSD7cG~r-mqETwrHjP~ymbFvuB7vZlbnPnlWCA1ED5pRAzfLnrljg2GzmBKzehdZ5pgyEdg2DhUh1PdoH9P3mOCEtIvAjK8OJMABLlrsk9l-sKHGYMa1a1Cwv28E-vbs9wjG1faMxEGG67VKe8YrbKJea-zq31p-n-SwDxEgYcBaFhSoyAOtk-LQQh4YnbO4e3Mh1O3qhd1CUPoi~QB1~gR8sul5CK0VJQczSIV5ZAIetLpT6YzKJjTsyOlpvwM1Ndaf6IhiW6ocfSJj45JPk5h8YsmO05fa9p1P7DalJRXVD6AH0o6g__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA",
+    "as_of": 2026
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://d7h9v39iheghu.cloudfront.net/previews/7837a234-9635-4da8-b132-476aacd9b4c1/999db426-ea2a-4c44-b6e3-658ea396827e/def5341a-4bbd-4356-99ca-a82a64f92b76?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy83ODM3YTIzNC05NjM1LTRkYTgtYjEzMi00NzZhYWNkOWI0YzEqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjg0MDEwfX19XX0_&Signature=0NCrDHEtg~3Ag4tUAPQa6ilJ6cyZ~w4zVuMSD7cG~r-mqETwrHjP~ymbFvuB7vZlbnPnlWCA1ED5pRAzfLnrljg2GzmBKzehdZ5pgyEdg2DhUh1PdoH9P3mOCEtIvAjK8OJMABLlrsk9l-sKHGYMa1a1Cwv28E-vbs9wjG1faMxEGG67VKe8YrbKJea-zq31p-n-SwDxEgYcBaFhSoyAOtk-LQQh4YnbO4e3Mh1O3qhd1CUPoi~QB1~gR8sul5CK0VJQczSIV5ZAIetLpT6YzKJjTsyOlpvwM1Ndaf6IhiW6ocfSJj45JPk5h8YsmO05fa9p1P7DalJRXVD6AH0o6g__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA",
+    "as_of": 2026
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://letsgomaldives.com/wp-content/uploads/2026/09/Furaveri-Maldives-_Premium-All-Inclusive_2027-2028.pdf",
+    "as_of": 2028
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://furaveri.com/wp-content/uploads/2026/07/Furaveri_Maldives-_Premium-All-Inclusive-plan_2027-2028_rev04072026_243.pdf",
+    "as_of": 2028
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://erimaldives.com/blog/post/why-may-is-the-best-time-to-visit-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://erimaldives.com/blog/post/why-may-is-the-best-time-to-visit-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://erimaldives.com/blog/post/which-resort-is-the-most-romantic-in-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://erimaldives.com/blog/post/which-resort-is-the-most-romantic-in-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://erimaldives.com/blog/post/resorts-near-velana-airport/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://erimaldives.com/blog/post/the-perfect-day-at-eri-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://erimaldives.com/blog/post/the-perfect-day-at-eri-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://erimaldives.com/blog/post/where-can-couples-find-a-romantic-resort-near-male-airport/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://erimaldives.com/blog/post/resorts-near-male-international-airport/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://erimaldives.com/blog/post/a-guide-to-spending-5-days-in-the-maldives/",
+    "as_of": "2026-10-04"
    },
    {
     "value": "seaplane",
     "source_url": "https://www.neoscapesmaldives.com/resort/furaveri-island-resort/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.dnatatravel.com/2-904932-1/smartline-eriyadu?oc=true",
+    "as_of": "2026-10-04"
    }
   ],
   "transfer.minutes.seaplane": [
    {
+    "value": 15,
+    "source_url": "https://d7h9v39iheghu.cloudfront.net/previews/7837a234-9635-4da8-b132-476aacd9b4c1/d6f35137-6068-41a9-96c1-bb25264b80c9/8ee78a05-4865-4cc5-9e4c-09fb2b6ca406?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy83ODM3YTIzNC05NjM1LTRkYTgtYjEzMi00NzZhYWNkOWI0YzEqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjg0MDEwfX19XX0_&Signature=0NCrDHEtg~3Ag4tUAPQa6ilJ6cyZ~w4zVuMSD7cG~r-mqETwrHjP~ymbFvuB7vZlbnPnlWCA1ED5pRAzfLnrljg2GzmBKzehdZ5pgyEdg2DhUh1PdoH9P3mOCEtIvAjK8OJMABLlrsk9l-sKHGYMa1a1Cwv28E-vbs9wjG1faMxEGG67VKe8YrbKJea-zq31p-n-SwDxEgYcBaFhSoyAOtk-LQQh4YnbO4e3Mh1O3qhd1CUPoi~QB1~gR8sul5CK0VJQczSIV5ZAIetLpT6YzKJjTsyOlpvwM1Ndaf6IhiW6ocfSJj45JPk5h8YsmO05fa9p1P7DalJRXVD6AH0o6g__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA",
+    "as_of": 2026
+   },
+   {
+    "value": 15,
+    "source_url": "https://d7h9v39iheghu.cloudfront.net/previews/7837a234-9635-4da8-b132-476aacd9b4c1/999db426-ea2a-4c44-b6e3-658ea396827e/def5341a-4bbd-4356-99ca-a82a64f92b76?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy83ODM3YTIzNC05NjM1LTRkYTgtYjEzMi00NzZhYWNkOWI0YzEqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjg0MDEwfX19XX0_&Signature=0NCrDHEtg~3Ag4tUAPQa6ilJ6cyZ~w4zVuMSD7cG~r-mqETwrHjP~ymbFvuB7vZlbnPnlWCA1ED5pRAzfLnrljg2GzmBKzehdZ5pgyEdg2DhUh1PdoH9P3mOCEtIvAjK8OJMABLlrsk9l-sKHGYMa1a1Cwv28E-vbs9wjG1faMxEGG67VKe8YrbKJea-zq31p-n-SwDxEgYcBaFhSoyAOtk-LQQh4YnbO4e3Mh1O3qhd1CUPoi~QB1~gR8sul5CK0VJQczSIV5ZAIetLpT6YzKJjTsyOlpvwM1Ndaf6IhiW6ocfSJj45JPk5h8YsmO05fa9p1P7DalJRXVD6AH0o6g__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA",
+    "as_of": 2026
+   },
+   {
     "value": 45,
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Furaveri-Maldives_Factsheet_Rev24102024.pdf",
-    "as_of": 2024
+    "source_url": "https://erimaldives.com/blog/post/why-may-is-the-best-time-to-visit-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 15,
+    "source_url": "https://erimaldives.com/blog/post/which-resort-is-the-most-romantic-in-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 45,
+    "source_url": "https://erimaldives.com/blog/post/the-perfect-day-at-eri-maldives/",
+    "as_of": "2026-10-04"
    },
    {
     "value": 45,
@@ -239,35 +472,56 @@
   ],
   "transfer.minutes.speedboat": [
    {
-    "value": 45,
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Furaveri-Maldives_Factsheet_Rev24102024.pdf",
-    "as_of": 2024
-   }
-  ],
-  "transfer.minutes.domestic flight": [
-   {
-    "value": 40,
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Furaveri-Maldives_Factsheet_Rev24102024.pdf",
-    "as_of": 2024
-   }
-  ],
-  "island_size": [
-   {
-    "value": "23 ha",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Furaveri-Maldives_Factsheet_Rev24102024.pdf",
-    "as_of": 2024
+    "value": 15,
+    "source_url": "https://d7h9v39iheghu.cloudfront.net/previews/7837a234-9635-4da8-b132-476aacd9b4c1/d6f35137-6068-41a9-96c1-bb25264b80c9/8ee78a05-4865-4cc5-9e4c-09fb2b6ca406?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy83ODM3YTIzNC05NjM1LTRkYTgtYjEzMi00NzZhYWNkOWI0YzEqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjg0MDEwfX19XX0_&Signature=0NCrDHEtg~3Ag4tUAPQa6ilJ6cyZ~w4zVuMSD7cG~r-mqETwrHjP~ymbFvuB7vZlbnPnlWCA1ED5pRAzfLnrljg2GzmBKzehdZ5pgyEdg2DhUh1PdoH9P3mOCEtIvAjK8OJMABLlrsk9l-sKHGYMa1a1Cwv28E-vbs9wjG1faMxEGG67VKe8YrbKJea-zq31p-n-SwDxEgYcBaFhSoyAOtk-LQQh4YnbO4e3Mh1O3qhd1CUPoi~QB1~gR8sul5CK0VJQczSIV5ZAIetLpT6YzKJjTsyOlpvwM1Ndaf6IhiW6ocfSJj45JPk5h8YsmO05fa9p1P7DalJRXVD6AH0o6g__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA",
+    "as_of": 2026
    },
    {
-    "value": "730 m x 390 m",
-    "source_url": "https://www.neoscapesmaldives.com/resort/furaveri-island-resort/",
+    "value": 45,
+    "source_url": "https://d7h9v39iheghu.cloudfront.net/previews/7837a234-9635-4da8-b132-476aacd9b4c1/999db426-ea2a-4c44-b6e3-658ea396827e/def5341a-4bbd-4356-99ca-a82a64f92b76?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy83ODM3YTIzNC05NjM1LTRkYTgtYjEzMi00NzZhYWNkOWI0YzEqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjg0MDEwfX19XX0_&Signature=0NCrDHEtg~3Ag4tUAPQa6ilJ6cyZ~w4zVuMSD7cG~r-mqETwrHjP~ymbFvuB7vZlbnPnlWCA1ED5pRAzfLnrljg2GzmBKzehdZ5pgyEdg2DhUh1PdoH9P3mOCEtIvAjK8OJMABLlrsk9l-sKHGYMa1a1Cwv28E-vbs9wjG1faMxEGG67VKe8YrbKJea-zq31p-n-SwDxEgYcBaFhSoyAOtk-LQQh4YnbO4e3Mh1O3qhd1CUPoi~QB1~gR8sul5CK0VJQczSIV5ZAIetLpT6YzKJjTsyOlpvwM1Ndaf6IhiW6ocfSJj45JPk5h8YsmO05fa9p1P7DalJRXVD6AH0o6g__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA",
+    "as_of": 2026
+   },
+   {
+    "value": 45,
+    "source_url": "https://erimaldives.com/blog/post/why-may-is-the-best-time-to-visit-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 15,
+    "source_url": "https://erimaldives.com/blog/post/which-resort-is-the-most-romantic-in-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 45,
+    "source_url": "https://erimaldives.com/blog/post/the-perfect-day-at-eri-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 45,
+    "source_url": "https://erimaldives.com/blog/post/where-can-couples-find-a-romantic-resort-near-male-airport/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 45,
+    "source_url": "https://erimaldives.com/blog/post/a-guide-to-spending-5-days-in-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 45,
+    "source_url": "https://www.dnatatravel.com/2-904932-1/smartline-eriyadu?oc=true",
     "as_of": "2026-10-04"
    }
   ],
   "villas.total": [
    {
-    "value": 169,
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Furaveri-Maldives_Factsheet_Rev24102024.pdf",
-    "as_of": 2024
+    "value": 44,
+    "source_url": "https://d7h9v39iheghu.cloudfront.net/previews/7837a234-9635-4da8-b132-476aacd9b4c1/d6f35137-6068-41a9-96c1-bb25264b80c9/8ee78a05-4865-4cc5-9e4c-09fb2b6ca406?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy83ODM3YTIzNC05NjM1LTRkYTgtYjEzMi00NzZhYWNkOWI0YzEqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjg0MDEwfX19XX0_&Signature=0NCrDHEtg~3Ag4tUAPQa6ilJ6cyZ~w4zVuMSD7cG~r-mqETwrHjP~ymbFvuB7vZlbnPnlWCA1ED5pRAzfLnrljg2GzmBKzehdZ5pgyEdg2DhUh1PdoH9P3mOCEtIvAjK8OJMABLlrsk9l-sKHGYMa1a1Cwv28E-vbs9wjG1faMxEGG67VKe8YrbKJea-zq31p-n-SwDxEgYcBaFhSoyAOtk-LQQh4YnbO4e3Mh1O3qhd1CUPoi~QB1~gR8sul5CK0VJQczSIV5ZAIetLpT6YzKJjTsyOlpvwM1Ndaf6IhiW6ocfSJj45JPk5h8YsmO05fa9p1P7DalJRXVD6AH0o6g__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA",
+    "as_of": 2026
+   },
+   {
+    "value": 44,
+    "source_url": "https://d7h9v39iheghu.cloudfront.net/previews/7837a234-9635-4da8-b132-476aacd9b4c1/999db426-ea2a-4c44-b6e3-658ea396827e/def5341a-4bbd-4356-99ca-a82a64f92b76?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy83ODM3YTIzNC05NjM1LTRkYTgtYjEzMi00NzZhYWNkOWI0YzEqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjg0MDEwfX19XX0_&Signature=0NCrDHEtg~3Ag4tUAPQa6ilJ6cyZ~w4zVuMSD7cG~r-mqETwrHjP~ymbFvuB7vZlbnPnlWCA1ED5pRAzfLnrljg2GzmBKzehdZ5pgyEdg2DhUh1PdoH9P3mOCEtIvAjK8OJMABLlrsk9l-sKHGYMa1a1Cwv28E-vbs9wjG1faMxEGG67VKe8YrbKJea-zq31p-n-SwDxEgYcBaFhSoyAOtk-LQQh4YnbO4e3Mh1O3qhd1CUPoi~QB1~gR8sul5CK0VJQczSIV5ZAIetLpT6YzKJjTsyOlpvwM1Ndaf6IhiW6ocfSJj45JPk5h8YsmO05fa9p1P7DalJRXVD6AH0o6g__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA",
+    "as_of": 2026
    },
    {
     "value": 169,
@@ -277,33 +531,110 @@
    {
     "value": 169,
     "source_url": "https://www.neoscapesmaldives.com/resort/furaveri-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 57,
+    "source_url": "https://www.mymaldives.com/resort-guide/eriyadu-island-resort/",
     "as_of": "2026-10-04"
    }
   ],
   "villas.categories": [
    {
     "value": {
-     "name": "beach or overwater retreats to family",
-     "count": 2,
-     "size_sqm": null,
-     "max_occupancy": null,
-     "pool": null,
-     "overwater": true
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Furaveri-Maldives_Factsheet_Rev24102024.pdf",
-    "as_of": 2024
-   },
-   {
-    "value": {
-     "name": "Number of Villas",
-     "count": 168,
-     "size_sqm": null,
+     "name": "BEACH VILLA - VILLAS",
+     "count": null,
+     "size_sqm": 45,
      "max_occupancy": null,
      "pool": null,
      "overwater": null
     },
-    "source_url": "https://www.neoscapesmaldives.com/resort/furaveri-island-resort/",
-    "as_of": "2026-10-04"
+    "source_url": "https://d7h9v39iheghu.cloudfront.net/previews/7837a234-9635-4da8-b132-476aacd9b4c1/d6f35137-6068-41a9-96c1-bb25264b80c9/8ee78a05-4865-4cc5-9e4c-09fb2b6ca406?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy83ODM3YTIzNC05NjM1LTRkYTgtYjEzMi00NzZhYWNkOWI0YzEqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjg0MDEwfX19XX0_&Signature=0NCrDHEtg~3Ag4tUAPQa6ilJ6cyZ~w4zVuMSD7cG~r-mqETwrHjP~ymbFvuB7vZlbnPnlWCA1ED5pRAzfLnrljg2GzmBKzehdZ5pgyEdg2DhUh1PdoH9P3mOCEtIvAjK8OJMABLlrsk9l-sKHGYMa1a1Cwv28E-vbs9wjG1faMxEGG67VKe8YrbKJea-zq31p-n-SwDxEgYcBaFhSoyAOtk-LQQh4YnbO4e3Mh1O3qhd1CUPoi~QB1~gR8sul5CK0VJQczSIV5ZAIetLpT6YzKJjTsyOlpvwM1Ndaf6IhiW6ocfSJj45JPk5h8YsmO05fa9p1P7DalJRXVD6AH0o6g__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA",
+    "as_of": 2026
+   },
+   {
+    "value": {
+     "name": "SUNSET BEACH VILLA - VILLAS",
+     "count": null,
+     "size_sqm": 45,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://d7h9v39iheghu.cloudfront.net/previews/7837a234-9635-4da8-b132-476aacd9b4c1/d6f35137-6068-41a9-96c1-bb25264b80c9/8ee78a05-4865-4cc5-9e4c-09fb2b6ca406?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy83ODM3YTIzNC05NjM1LTRkYTgtYjEzMi00NzZhYWNkOWI0YzEqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjg0MDEwfX19XX0_&Signature=0NCrDHEtg~3Ag4tUAPQa6ilJ6cyZ~w4zVuMSD7cG~r-mqETwrHjP~ymbFvuB7vZlbnPnlWCA1ED5pRAzfLnrljg2GzmBKzehdZ5pgyEdg2DhUh1PdoH9P3mOCEtIvAjK8OJMABLlrsk9l-sKHGYMa1a1Cwv28E-vbs9wjG1faMxEGG67VKe8YrbKJea-zq31p-n-SwDxEgYcBaFhSoyAOtk-LQQh4YnbO4e3Mh1O3qhd1CUPoi~QB1~gR8sul5CK0VJQczSIV5ZAIetLpT6YzKJjTsyOlpvwM1Ndaf6IhiW6ocfSJj45JPk5h8YsmO05fa9p1P7DalJRXVD6AH0o6g__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA",
+    "as_of": 2026
+   },
+   {
+    "value": {
+     "name": "ROOM FEATURES BEACH SUITE - VILLA",
+     "count": null,
+     "size_sqm": 54,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://d7h9v39iheghu.cloudfront.net/previews/7837a234-9635-4da8-b132-476aacd9b4c1/d6f35137-6068-41a9-96c1-bb25264b80c9/8ee78a05-4865-4cc5-9e4c-09fb2b6ca406?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy83ODM3YTIzNC05NjM1LTRkYTgtYjEzMi00NzZhYWNkOWI0YzEqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjg0MDEwfX19XX0_&Signature=0NCrDHEtg~3Ag4tUAPQa6ilJ6cyZ~w4zVuMSD7cG~r-mqETwrHjP~ymbFvuB7vZlbnPnlWCA1ED5pRAzfLnrljg2GzmBKzehdZ5pgyEdg2DhUh1PdoH9P3mOCEtIvAjK8OJMABLlrsk9l-sKHGYMa1a1Cwv28E-vbs9wjG1faMxEGG67VKe8YrbKJea-zq31p-n-SwDxEgYcBaFhSoyAOtk-LQQh4YnbO4e3Mh1O3qhd1CUPoi~QB1~gR8sul5CK0VJQczSIV5ZAIetLpT6YzKJjTsyOlpvwM1Ndaf6IhiW6ocfSJj45JPk5h8YsmO05fa9p1P7DalJRXVD6AH0o6g__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA",
+    "as_of": 2026
+   },
+   {
+    "value": {
+     "name": "BEACH POOL VILLA - VILLAS",
+     "count": null,
+     "size_sqm": 45,
+     "max_occupancy": null,
+     "pool": true,
+     "overwater": null
+    },
+    "source_url": "https://d7h9v39iheghu.cloudfront.net/previews/7837a234-9635-4da8-b132-476aacd9b4c1/d6f35137-6068-41a9-96c1-bb25264b80c9/8ee78a05-4865-4cc5-9e4c-09fb2b6ca406?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy83ODM3YTIzNC05NjM1LTRkYTgtYjEzMi00NzZhYWNkOWI0YzEqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjg0MDEwfX19XX0_&Signature=0NCrDHEtg~3Ag4tUAPQa6ilJ6cyZ~w4zVuMSD7cG~r-mqETwrHjP~ymbFvuB7vZlbnPnlWCA1ED5pRAzfLnrljg2GzmBKzehdZ5pgyEdg2DhUh1PdoH9P3mOCEtIvAjK8OJMABLlrsk9l-sKHGYMa1a1Cwv28E-vbs9wjG1faMxEGG67VKe8YrbKJea-zq31p-n-SwDxEgYcBaFhSoyAOtk-LQQh4YnbO4e3Mh1O3qhd1CUPoi~QB1~gR8sul5CK0VJQczSIV5ZAIetLpT6YzKJjTsyOlpvwM1Ndaf6IhiW6ocfSJj45JPk5h8YsmO05fa9p1P7DalJRXVD6AH0o6g__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA",
+    "as_of": 2026
+   },
+   {
+    "value": {
+     "name": "BEACH VILLA - VILLAS",
+     "count": null,
+     "size_sqm": 45,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://d7h9v39iheghu.cloudfront.net/previews/7837a234-9635-4da8-b132-476aacd9b4c1/999db426-ea2a-4c44-b6e3-658ea396827e/def5341a-4bbd-4356-99ca-a82a64f92b76?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy83ODM3YTIzNC05NjM1LTRkYTgtYjEzMi00NzZhYWNkOWI0YzEqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjg0MDEwfX19XX0_&Signature=0NCrDHEtg~3Ag4tUAPQa6ilJ6cyZ~w4zVuMSD7cG~r-mqETwrHjP~ymbFvuB7vZlbnPnlWCA1ED5pRAzfLnrljg2GzmBKzehdZ5pgyEdg2DhUh1PdoH9P3mOCEtIvAjK8OJMABLlrsk9l-sKHGYMa1a1Cwv28E-vbs9wjG1faMxEGG67VKe8YrbKJea-zq31p-n-SwDxEgYcBaFhSoyAOtk-LQQh4YnbO4e3Mh1O3qhd1CUPoi~QB1~gR8sul5CK0VJQczSIV5ZAIetLpT6YzKJjTsyOlpvwM1Ndaf6IhiW6ocfSJj45JPk5h8YsmO05fa9p1P7DalJRXVD6AH0o6g__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA",
+    "as_of": 2026
+   },
+   {
+    "value": {
+     "name": "SUNSET BEACH VILLA - VILLAS",
+     "count": null,
+     "size_sqm": 45,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://d7h9v39iheghu.cloudfront.net/previews/7837a234-9635-4da8-b132-476aacd9b4c1/999db426-ea2a-4c44-b6e3-658ea396827e/def5341a-4bbd-4356-99ca-a82a64f92b76?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy83ODM3YTIzNC05NjM1LTRkYTgtYjEzMi00NzZhYWNkOWI0YzEqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjg0MDEwfX19XX0_&Signature=0NCrDHEtg~3Ag4tUAPQa6ilJ6cyZ~w4zVuMSD7cG~r-mqETwrHjP~ymbFvuB7vZlbnPnlWCA1ED5pRAzfLnrljg2GzmBKzehdZ5pgyEdg2DhUh1PdoH9P3mOCEtIvAjK8OJMABLlrsk9l-sKHGYMa1a1Cwv28E-vbs9wjG1faMxEGG67VKe8YrbKJea-zq31p-n-SwDxEgYcBaFhSoyAOtk-LQQh4YnbO4e3Mh1O3qhd1CUPoi~QB1~gR8sul5CK0VJQczSIV5ZAIetLpT6YzKJjTsyOlpvwM1Ndaf6IhiW6ocfSJj45JPk5h8YsmO05fa9p1P7DalJRXVD6AH0o6g__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA",
+    "as_of": 2026
+   },
+   {
+    "value": {
+     "name": "BEACH SUITE - VILLA",
+     "count": null,
+     "size_sqm": 54,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://d7h9v39iheghu.cloudfront.net/previews/7837a234-9635-4da8-b132-476aacd9b4c1/999db426-ea2a-4c44-b6e3-658ea396827e/def5341a-4bbd-4356-99ca-a82a64f92b76?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy83ODM3YTIzNC05NjM1LTRkYTgtYjEzMi00NzZhYWNkOWI0YzEqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjg0MDEwfX19XX0_&Signature=0NCrDHEtg~3Ag4tUAPQa6ilJ6cyZ~w4zVuMSD7cG~r-mqETwrHjP~ymbFvuB7vZlbnPnlWCA1ED5pRAzfLnrljg2GzmBKzehdZ5pgyEdg2DhUh1PdoH9P3mOCEtIvAjK8OJMABLlrsk9l-sKHGYMa1a1Cwv28E-vbs9wjG1faMxEGG67VKe8YrbKJea-zq31p-n-SwDxEgYcBaFhSoyAOtk-LQQh4YnbO4e3Mh1O3qhd1CUPoi~QB1~gR8sul5CK0VJQczSIV5ZAIetLpT6YzKJjTsyOlpvwM1Ndaf6IhiW6ocfSJj45JPk5h8YsmO05fa9p1P7DalJRXVD6AH0o6g__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA",
+    "as_of": 2026
+   },
+   {
+    "value": {
+     "name": "BEACH POOL VILLA - VILLAS",
+     "count": null,
+     "size_sqm": 45,
+     "max_occupancy": null,
+     "pool": true,
+     "overwater": null
+    },
+    "source_url": "https://d7h9v39iheghu.cloudfront.net/previews/7837a234-9635-4da8-b132-476aacd9b4c1/999db426-ea2a-4c44-b6e3-658ea396827e/def5341a-4bbd-4356-99ca-a82a64f92b76?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy83ODM3YTIzNC05NjM1LTRkYTgtYjEzMi00NzZhYWNkOWI0YzEqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjg0MDEwfX19XX0_&Signature=0NCrDHEtg~3Ag4tUAPQa6ilJ6cyZ~w4zVuMSD7cG~r-mqETwrHjP~ymbFvuB7vZlbnPnlWCA1ED5pRAzfLnrljg2GzmBKzehdZ5pgyEdg2DhUh1PdoH9P3mOCEtIvAjK8OJMABLlrsk9l-sKHGYMa1a1Cwv28E-vbs9wjG1faMxEGG67VKe8YrbKJea-zq31p-n-SwDxEgYcBaFhSoyAOtk-LQQh4YnbO4e3Mh1O3qhd1CUPoi~QB1~gR8sul5CK0VJQczSIV5ZAIetLpT6YzKJjTsyOlpvwM1Ndaf6IhiW6ocfSJj45JPk5h8YsmO05fa9p1P7DalJRXVD6AH0o6g__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA",
+    "as_of": 2026
    },
    {
     "value": {
@@ -426,201 +757,881 @@
     "as_of": "2026-10-04"
    }
   ],
-  "dining": [
+  "spa.name": [
    {
-    "value": {
-     "name": "Udhares Bar",
-     "cuisine": null,
-     "type": "bar"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Furaveri-Maldives_Factsheet_Rev24102024.pdf",
-    "as_of": 2024
+    "value": "Spa",
+    "source_url": "https://d7h9v39iheghu.cloudfront.net/previews/7837a234-9635-4da8-b132-476aacd9b4c1/d6f35137-6068-41a9-96c1-bb25264b80c9/8ee78a05-4865-4cc5-9e4c-09fb2b6ca406?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy83ODM3YTIzNC05NjM1LTRkYTgtYjEzMi00NzZhYWNkOWI0YzEqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjg0MDEwfX19XX0_&Signature=0NCrDHEtg~3Ag4tUAPQa6ilJ6cyZ~w4zVuMSD7cG~r-mqETwrHjP~ymbFvuB7vZlbnPnlWCA1ED5pRAzfLnrljg2GzmBKzehdZ5pgyEdg2DhUh1PdoH9P3mOCEtIvAjK8OJMABLlrsk9l-sKHGYMa1a1Cwv28E-vbs9wjG1faMxEGG67VKe8YrbKJea-zq31p-n-SwDxEgYcBaFhSoyAOtk-LQQh4YnbO4e3Mh1O3qhd1CUPoi~QB1~gR8sul5CK0VJQczSIV5ZAIetLpT6YzKJjTsyOlpvwM1Ndaf6IhiW6ocfSJj45JPk5h8YsmO05fa9p1P7DalJRXVD6AH0o6g__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA",
+    "as_of": 2026
    },
    {
-    "value": {
-     "name": "Lebanese Restaurant (coming soon)",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Furaveri-Maldives_Factsheet_Rev24102024.pdf",
-    "as_of": 2024
+    "value": "Eskape\nSpa",
+    "source_url": "https://d7h9v39iheghu.cloudfront.net/previews/7837a234-9635-4da8-b132-476aacd9b4c1/999db426-ea2a-4c44-b6e3-658ea396827e/def5341a-4bbd-4356-99ca-a82a64f92b76?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy83ODM3YTIzNC05NjM1LTRkYTgtYjEzMi00NzZhYWNkOWI0YzEqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjg0MDEwfX19XX0_&Signature=0NCrDHEtg~3Ag4tUAPQa6ilJ6cyZ~w4zVuMSD7cG~r-mqETwrHjP~ymbFvuB7vZlbnPnlWCA1ED5pRAzfLnrljg2GzmBKzehdZ5pgyEdg2DhUh1PdoH9P3mOCEtIvAjK8OJMABLlrsk9l-sKHGYMa1a1Cwv28E-vbs9wjG1faMxEGG67VKe8YrbKJea-zq31p-n-SwDxEgYcBaFhSoyAOtk-LQQh4YnbO4e3Mh1O3qhd1CUPoi~QB1~gR8sul5CK0VJQczSIV5ZAIetLpT6YzKJjTsyOlpvwM1Ndaf6IhiW6ocfSJj45JPk5h8YsmO05fa9p1P7DalJRXVD6AH0o6g__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA",
+    "as_of": 2026
    },
    {
-    "value": {
-     "name": "Seafood Restaurant (coming soon)",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Furaveri-Maldives_Factsheet_Rev24102024.pdf",
-    "as_of": 2024
+    "value": "Spa",
+    "source_url": "https://letsgomaldives.com/wp-content/uploads/2026/09/Furaveri-Maldives-_Premium-All-Inclusive_2027-2028.pdf",
+    "as_of": 2028
    },
    {
-    "value": {
-     "name": "Dining",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/furaveri-island-resort/",
+    "value": "Spa",
+    "source_url": "https://furaveri.com/wp-content/uploads/2026/07/Furaveri_Maldives-_Premium-All-Inclusive-plan_2027-2028_rev04072026_243.pdf",
+    "as_of": 2028
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://erimaldives.com/",
     "as_of": "2026-10-04"
    },
    {
-    "value": {
-     "name": "Dining",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/furaveri-island-resort/",
+    "value": "Eskape Spa",
+    "source_url": "https://erimaldives.com/blog/post/why-may-is-the-best-time-to-visit-the-maldives/",
     "as_of": "2026-10-04"
    },
    {
-    "value": {
-     "name": "Jaafaiy – Buffet Restaurant",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/furaveri-island-resort/",
+    "value": "Spa",
+    "source_url": "https://erimaldives.com/eri-map/",
     "as_of": "2026-10-04"
    },
    {
-    "value": {
-     "name": "Raiyvilla – Asian Fusion Restaurant",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/furaveri-island-resort/",
+    "value": "Spa",
+    "source_url": "https://erimaldives.com/facilities/",
     "as_of": "2026-10-04"
    },
    {
-    "value": {
-     "name": "Amigos – Mexican Overwater Dining",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/furaveri-island-resort/",
+    "value": "At Eskape Spa",
+    "source_url": "https://erimaldives.com/blog/post/best-resort-for-maldives-vacations/",
     "as_of": "2026-10-04"
    },
    {
-    "value": {
-     "name": "Ocean Spice – Indian Vegetarian Dining",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/furaveri-island-resort/",
+    "value": "Spa",
+    "source_url": "https://erimaldives.com/about-us/",
     "as_of": "2026-10-04"
    },
    {
-    "value": {
-     "name": "Teppan de Oishi – Japanese Teppanyaki",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/furaveri-island-resort/",
+    "value": "Spa",
+    "source_url": "https://erimaldives.com/villas/beach-suite/",
     "as_of": "2026-10-04"
    },
    {
-    "value": {
-     "name": "Olives & Vines – Mediterranean Dining",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/furaveri-island-resort/",
+    "value": "Spa",
+    "source_url": "https://erimaldives.com/offers/festive-offer/",
     "as_of": "2026-10-04"
    },
    {
-    "value": {
-     "name": "Udhares Bar – Poolside & Oceanfront",
-     "cuisine": null,
-     "type": "bar"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/furaveri-island-resort/",
-    "as_of": "2026-10-04"
-   }
-  ],
-  "spa.treatment_rooms": [
-   {
-    "value": 8,
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Furaveri-Maldives_Factsheet_Rev24102024.pdf",
-    "as_of": 2024
-   }
-  ],
-  "kids_family.kids_club": [
-   {
-    "value": "OVER WATER\nKids Club",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Furaveri-Maldives_Factsheet_Rev24102024.pdf",
-    "as_of": 2024
-   },
-   {
-    "value": "Kids Club",
-    "source_url": "https://www.neoscapesmaldives.com/resort/furaveri-island-resort/",
-    "as_of": "2026-10-04"
-   }
-  ],
-  "wellness_fitness": [
-   {
-    "value": "yoga",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Furaveri-Maldives_Factsheet_Rev24102024.pdf",
-    "as_of": 2024
-   },
-   {
-    "value": "fitness centre",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Furaveri-Maldives_Factsheet_Rev24102024.pdf",
-    "as_of": 2024
-   },
-   {
-    "value": "tennis",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Furaveri-Maldives_Factsheet_Rev24102024.pdf",
-    "as_of": 2024
-   },
-   {
-    "value": "badminton",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Furaveri-Maldives_Factsheet_Rev24102024.pdf",
-    "as_of": 2024
-   },
-   {
-    "value": "yoga",
-    "source_url": "https://www.neoscapesmaldives.com/resort/furaveri-island-resort/",
+    "value": "Spa",
+    "source_url": "https://erimaldives.com/renew-your-vows-in-paradise/",
     "as_of": "2026-10-04"
    },
    {
-    "value": "fitness centre",
-    "source_url": "https://www.neoscapesmaldives.com/resort/furaveri-island-resort/",
+    "value": "Eskape Spa",
+    "source_url": "https://erimaldives.com/blog/post/how-to-stay-healthy-during-your-stay-at-eri-maldives/",
     "as_of": "2026-10-04"
-   }
-  ],
-  "weddings.offered": [
-   {
-    "value": true,
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Furaveri-Maldives_Factsheet_Rev24102024.pdf",
-    "as_of": 2024
    },
    {
-    "value": true,
-    "source_url": "https://www.neoscapesmaldives.com/resort/furaveri-island-resort/",
+    "value": "Spa",
+    "source_url": "https://erimaldives.com/villas/beach-villa/",
     "as_of": "2026-10-04"
-   }
-  ],
-  "weddings.venues": [
+   },
    {
-    "value": "Wedding Pavilion 2 adults + 2 children or 3 adults",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Furaveri-Maldives_Factsheet_Rev24102024.pdf",
-    "as_of": 2024
-   }
-  ],
-  "atoll": [
+    "value": "Spa",
+    "source_url": "https://erimaldives.com/destination-dining/",
+    "as_of": "2026-10-04"
+   },
    {
-    "value": "Raa Atoll",
-    "source_url": "https://www.neoscapesmaldives.com/resort/furaveri-island-resort/",
+    "value": "Spa",
+    "source_url": "https://erimaldives.com/accommodation/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://erimaldives.com/authentic-cultural-immersion/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://erimaldives.com/villas/beach-pool-villa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://erimaldives.com/meet-the-turtles-of-eri/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Eskape Spa",
+    "source_url": "https://erimaldives.com/blog/post/snorkelling-and-diving-in-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "At\nEskape Spa",
+    "source_url": "https://erimaldives.com/blog/post/a-solo-escape-at-eri-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://erimaldives.com/villas/premium-beach-villa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://erimaldives.com/offers/advance-purchase-offer/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Eskape Spa",
+    "source_url": "https://erimaldives.com/blog/post/discover-the-right-maldives-resort-for-you/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://erimaldives.com/villas/beach-studio/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://erimaldives.com/offers/eri-all-inclusive-offer/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://erimaldives.com/dining/soul-kitchen/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://erimaldives.com/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Eskape Spa",
+    "source_url": "https://erimaldives.com/blog/post/resorts-near-velana-airport/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://erimaldives.com/dining/beach-shack/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Eskape Spa",
+    "source_url": "https://erimaldives.com/blog/post/marine-wonders-to-discover-in-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Nature\nAt\nEskape Spa",
+    "source_url": "https://erimaldives.com/blog/post/wellness-at-eri-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Eskape Spa",
+    "source_url": "https://erimaldives.com/blog/post/the-perfect-day-at-eri-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Eskape Spa",
+    "source_url": "https://erimaldives.com/blog/post/a-guide-to-the-villas-at-eri-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "At\nEskape Spa",
+    "source_url": "https://erimaldives.com/blog/post/dining-at-eri-maldives-best-restaurants-in-north-male-atoll/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://erimaldives.com/getting-here/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Eskape Spa",
+    "source_url": "https://erimaldives.com/blog/post/top-reasons-to-visit-the-maldives-in-the-off-season/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Eskape Spa",
+    "source_url": "https://erimaldives.com/blog/post/where-can-you-experience-a-mindful-maldives-getaway/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Eskape Spa",
+    "source_url": "https://erimaldives.com/blog/post/seven-days-by-the-sea-an-ocean-wellness-itinerary-at-eri-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://erimaldives.com/wellness/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Eskape Spa",
+    "source_url": "https://erimaldives.com/blog/post/sunrise-to-sunset-at-eri/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://erimaldives.com/offers/limited-time-deal/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Eskape Spa",
+    "source_url": "https://erimaldives.com/blog/post/where-can-couples-find-a-romantic-resort-near-male-airport/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Eskape Spa",
+    "source_url": "https://erimaldives.com/blog/post/maldives-travel-tips-everything-you-need-to-know-before-your-island-escape/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://erimaldives.com/experiences/underwater-diving/dive-sites/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://erimaldives.com/villas/sunset-beach-villa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://erimaldives.com/dining/sip-dip-main-bar/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Eskape Spa",
+    "source_url": "https://erimaldives.com/blog/post/what-kind-of-traveller-are-you-in-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Eskape Spa",
+    "source_url": "https://erimaldives.com/blog/post/a-guide-to-island-moments-made-for-two/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "At\nEskape Spa",
+    "source_url": "https://erimaldives.com/blog/post/easter-in-full-bloom-at-eri/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Eskape Spa",
+    "source_url": "https://erimaldives.com/blog/post/how-to-make-the-most-of-a-5-day-maldives-vacation/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Eskape Spa",
+    "source_url": "https://erimaldives.com/blog/post/romantic-villas-for-two-in-the-maldives-a-soulful-escape-at-eri/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Eskape Spa",
+    "source_url": "https://erimaldives.com/blog/post/resorts-near-male-international-airport/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://erimaldives.com/experiences/underwater-diving/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://erimaldives.com/villas/seaview-sky-room/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Eskape Spa",
+    "source_url": "https://erimaldives.com/blog/post/a-guide-to-spending-5-days-in-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.mymaldives.com/resort-guide/eriyadu-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Eskape Spa",
+    "source_url": "https://www.dnatatravel.com/2-904932-1/smartline-eriyadu?oc=true",
     "as_of": "2026-10-04"
    }
   ],
   "diving_watersports.house_reef": [
    {
+    "value": "house reef into soulful",
+    "source_url": "https://d7h9v39iheghu.cloudfront.net/previews/7837a234-9635-4da8-b132-476aacd9b4c1/d6f35137-6068-41a9-96c1-bb25264b80c9/8ee78a05-4865-4cc5-9e4c-09fb2b6ca406?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy83ODM3YTIzNC05NjM1LTRkYTgtYjEzMi00NzZhYWNkOWI0YzEqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjg0MDEwfX19XX0_&Signature=0NCrDHEtg~3Ag4tUAPQa6ilJ6cyZ~w4zVuMSD7cG~r-mqETwrHjP~ymbFvuB7vZlbnPnlWCA1ED5pRAzfLnrljg2GzmBKzehdZ5pgyEdg2DhUh1PdoH9P3mOCEtIvAjK8OJMABLlrsk9l-sKHGYMa1a1Cwv28E-vbs9wjG1faMxEGG67VKe8YrbKJea-zq31p-n-SwDxEgYcBaFhSoyAOtk-LQQh4YnbO4e3Mh1O3qhd1CUPoi~QB1~gR8sul5CK0VJQczSIV5ZAIetLpT6YzKJjTsyOlpvwM1Ndaf6IhiW6ocfSJj45JPk5h8YsmO05fa9p1P7DalJRXVD6AH0o6g__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA",
+    "as_of": 2026
+   },
+   {
+    "value": "house reef alive with colour",
+    "source_url": "https://d7h9v39iheghu.cloudfront.net/previews/7837a234-9635-4da8-b132-476aacd9b4c1/999db426-ea2a-4c44-b6e3-658ea396827e/def5341a-4bbd-4356-99ca-a82a64f92b76?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy83ODM3YTIzNC05NjM1LTRkYTgtYjEzMi00NzZhYWNkOWI0YzEqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjg0MDEwfX19XX0_&Signature=0NCrDHEtg~3Ag4tUAPQa6ilJ6cyZ~w4zVuMSD7cG~r-mqETwrHjP~ymbFvuB7vZlbnPnlWCA1ED5pRAzfLnrljg2GzmBKzehdZ5pgyEdg2DhUh1PdoH9P3mOCEtIvAjK8OJMABLlrsk9l-sKHGYMa1a1Cwv28E-vbs9wjG1faMxEGG67VKe8YrbKJea-zq31p-n-SwDxEgYcBaFhSoyAOtk-LQQh4YnbO4e3Mh1O3qhd1CUPoi~QB1~gR8sul5CK0VJQczSIV5ZAIetLpT6YzKJjTsyOlpvwM1Ndaf6IhiW6ocfSJj45JPk5h8YsmO05fa9p1P7DalJRXVD6AH0o6g__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA",
+    "as_of": 2026
+   },
+   {
+    "value": "HOUSE REEF SNORKELLING",
+    "source_url": "https://d7h9v39iheghu.cloudfront.net/previews/7837a234-9635-4da8-b132-476aacd9b4c1/211acdab-18f3-4cc6-99ee-f67a15a4c30d/13d49216-0e0d-4bb8-90ad-e37b4ac94c81?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy83ODM3YTIzNC05NjM1LTRkYTgtYjEzMi00NzZhYWNkOWI0YzEqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjg0MDEwfX19XX0_&Signature=0NCrDHEtg~3Ag4tUAPQa6ilJ6cyZ~w4zVuMSD7cG~r-mqETwrHjP~ymbFvuB7vZlbnPnlWCA1ED5pRAzfLnrljg2GzmBKzehdZ5pgyEdg2DhUh1PdoH9P3mOCEtIvAjK8OJMABLlrsk9l-sKHGYMa1a1Cwv28E-vbs9wjG1faMxEGG67VKe8YrbKJea-zq31p-n-SwDxEgYcBaFhSoyAOtk-LQQh4YnbO4e3Mh1O3qhd1CUPoi~QB1~gR8sul5CK0VJQczSIV5ZAIetLpT6YzKJjTsyOlpvwM1Ndaf6IhiW6ocfSJj45JPk5h8YsmO05fa9p1P7DalJRXVD6AH0o6g__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA",
+    "as_of": 2026
+   },
+   {
+    "value": "house reef just moments from shore",
+    "source_url": "https://erimaldives.com/blog/post/why-may-is-the-best-time-to-visit-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef",
+    "source_url": "https://erimaldives.com/blog/post/best-resort-for-maldives-vacations/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef while",
+    "source_url": "https://erimaldives.com/blog/post/how-to-stay-healthy-during-your-stay-at-eri-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef begins just steps from shore",
+    "source_url": "https://erimaldives.com/blog/post/the-maldives-guide-for-travellers-who-love-nature-beyond-the-beach/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef waiting just a few steps from the beach",
+    "source_url": "https://erimaldives.com/blog/post/snorkelling-and-diving-in-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef waits just offshore, easy to explore with a mask and",
+    "source_url": "https://erimaldives.com/blog/post/a-solo-escape-at-eri-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef, the team helps you discover the ocean with confidence, care and curiosity",
+    "source_url": "https://erimaldives.com/blog/post/dive-sites-near-north-male-atoll/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef, gliding effortlessly through the water or feeding among the coral",
+    "source_url": "https://erimaldives.com/blog/post/can-you-swim-in-the-maldives-all-year/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef sits just offshore, easy to explore with a mask, snorkel and fins, while guides share simple stories about the coral, fish and changing tides that shape island",
+    "source_url": "https://erimaldives.com/blog/post/discover-the-maldives-the-local-way-at-eri-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef that encircles the island, Eri offers endless opportunities to discover the incredible marine life of the Maldives",
+    "source_url": "https://erimaldives.com/blog/post/marine-wonders-to-discover-in-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef come into view, Eri’s gentle rhythm welcomes you in, inviting you to slow down and feel present from the very first moment",
+    "source_url": "https://erimaldives.com/blog/post/the-perfect-day-at-eri-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef sits just beyond the shore, making snorkelling an easy part of your routine, with coral and reef fish bringing colour to even the simplest swim",
+    "source_url": "https://erimaldives.com/blog/post/top-reasons-to-visit-the-maldives-in-the-off-season/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef, snorkel alongside colourful marine life or",
+    "source_url": "https://erimaldives.com/blog/post/where-can-you-experience-a-mindful-maldives-getaway/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef just steps from shore, yoga and meditation in ocean-facing settings, and nature-inspired treatments at Eskape Spa, the island makes the sea a natural part of h",
+    "source_url": "https://erimaldives.com/blog/post/seven-days-by-the-sea-an-ocean-wellness-itinerary-at-eri-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef hand in hand or venture further with guided snorkelling and",
+    "source_url": "https://erimaldives.com/blog/post/where-can-couples-find-a-romantic-resort-near-male-airport/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef begins just steps from shore, making it easy to spend time",
+    "source_url": "https://erimaldives.com/blog/post/what-kind-of-traveller-are-you-in-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef with an instructor, reaching a maximum depth of 12 metres",
+    "source_url": "https://erimaldives.com/blog/post/first-time-diving-in-the-maldives-your-beginners-guide-to-diving-at-eri/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef just moments from the shore, Eri is a natural gateway to unforgettable underwater adventures for both first-time divers and experienced explorers",
+    "source_url": "https://erimaldives.com/blog/post/beneath-eris-turquoise-waters/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reefs, our island is a natural playground for snorkellers, divers and ocean explorers",
+    "source_url": "https://erimaldives.com/blog/post/eri-maldives-pristine-coral-gardens/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef alive with coral and colour",
+    "source_url": "https://erimaldives.com/blog/post/how-to-make-the-most-of-a-5-day-maldives-vacation/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef just steps from the beach or dive into nearby dive sites known for their rich marine life, including turtles, reef sharks and colourful corals",
+    "source_url": "https://erimaldives.com/blog/post/how-eri-maldives-combines-adventure-and-relaxation-for-every-traveller/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef reveals a",
+    "source_url": "https://erimaldives.com/blog/post/romantic-villas-for-two-in-the-maldives-a-soulful-escape-at-eri/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef with thriving marine life, and lush tropical greenery",
+    "source_url": "https://erimaldives.com/blog/post/resorts-near-male-international-airport/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef, dive into over",
+    "source_url": "https://erimaldives.com/blog/post/plan-the-ultimate-group-getaway-at-eri-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef sits just moments from shore, inviting easy ocean days filled with colour, calm, and discovery",
+    "source_url": "https://erimaldives.com/blog/post/a-guide-to-spending-5-days-in-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
     "value": "house reef meets the deep blue sea, perfect for unforgettable moments in the Maldives",
     "source_url": "https://www.neoscapesmaldives.com/resort/furaveri-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef is excellent for snorkeling",
+    "source_url": "https://www.mymaldives.com/resort-guide/eriyadu-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef, and countless water activities, this island retreat combines contemporary elegance with the Maldives breathtaking natural beauty",
+    "source_url": "https://www.dnatatravel.com/2-904932-1/smartline-eriyadu?oc=true",
     "as_of": "2026-10-04"
    }
   ],
   "diving_watersports.activities": [
+   {
+    "value": "snorkelling",
+    "source_url": "https://d7h9v39iheghu.cloudfront.net/previews/7837a234-9635-4da8-b132-476aacd9b4c1/d6f35137-6068-41a9-96c1-bb25264b80c9/8ee78a05-4865-4cc5-9e4c-09fb2b6ca406?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy83ODM3YTIzNC05NjM1LTRkYTgtYjEzMi00NzZhYWNkOWI0YzEqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjg0MDEwfX19XX0_&Signature=0NCrDHEtg~3Ag4tUAPQa6ilJ6cyZ~w4zVuMSD7cG~r-mqETwrHjP~ymbFvuB7vZlbnPnlWCA1ED5pRAzfLnrljg2GzmBKzehdZ5pgyEdg2DhUh1PdoH9P3mOCEtIvAjK8OJMABLlrsk9l-sKHGYMa1a1Cwv28E-vbs9wjG1faMxEGG67VKe8YrbKJea-zq31p-n-SwDxEgYcBaFhSoyAOtk-LQQh4YnbO4e3Mh1O3qhd1CUPoi~QB1~gR8sul5CK0VJQczSIV5ZAIetLpT6YzKJjTsyOlpvwM1Ndaf6IhiW6ocfSJj45JPk5h8YsmO05fa9p1P7DalJRXVD6AH0o6g__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA",
+    "as_of": 2026
+   },
+   {
+    "value": "windsurfing",
+    "source_url": "https://d7h9v39iheghu.cloudfront.net/previews/7837a234-9635-4da8-b132-476aacd9b4c1/d6f35137-6068-41a9-96c1-bb25264b80c9/8ee78a05-4865-4cc5-9e4c-09fb2b6ca406?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy83ODM3YTIzNC05NjM1LTRkYTgtYjEzMi00NzZhYWNkOWI0YzEqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjg0MDEwfX19XX0_&Signature=0NCrDHEtg~3Ag4tUAPQa6ilJ6cyZ~w4zVuMSD7cG~r-mqETwrHjP~ymbFvuB7vZlbnPnlWCA1ED5pRAzfLnrljg2GzmBKzehdZ5pgyEdg2DhUh1PdoH9P3mOCEtIvAjK8OJMABLlrsk9l-sKHGYMa1a1Cwv28E-vbs9wjG1faMxEGG67VKe8YrbKJea-zq31p-n-SwDxEgYcBaFhSoyAOtk-LQQh4YnbO4e3Mh1O3qhd1CUPoi~QB1~gR8sul5CK0VJQczSIV5ZAIetLpT6YzKJjTsyOlpvwM1Ndaf6IhiW6ocfSJj45JPk5h8YsmO05fa9p1P7DalJRXVD6AH0o6g__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA",
+    "as_of": 2026
+   },
+   {
+    "value": "paddleboard",
+    "source_url": "https://d7h9v39iheghu.cloudfront.net/previews/7837a234-9635-4da8-b132-476aacd9b4c1/d6f35137-6068-41a9-96c1-bb25264b80c9/8ee78a05-4865-4cc5-9e4c-09fb2b6ca406?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy83ODM3YTIzNC05NjM1LTRkYTgtYjEzMi00NzZhYWNkOWI0YzEqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjg0MDEwfX19XX0_&Signature=0NCrDHEtg~3Ag4tUAPQa6ilJ6cyZ~w4zVuMSD7cG~r-mqETwrHjP~ymbFvuB7vZlbnPnlWCA1ED5pRAzfLnrljg2GzmBKzehdZ5pgyEdg2DhUh1PdoH9P3mOCEtIvAjK8OJMABLlrsk9l-sKHGYMa1a1Cwv28E-vbs9wjG1faMxEGG67VKe8YrbKJea-zq31p-n-SwDxEgYcBaFhSoyAOtk-LQQh4YnbO4e3Mh1O3qhd1CUPoi~QB1~gR8sul5CK0VJQczSIV5ZAIetLpT6YzKJjTsyOlpvwM1Ndaf6IhiW6ocfSJj45JPk5h8YsmO05fa9p1P7DalJRXVD6AH0o6g__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA",
+    "as_of": 2026
+   },
+   {
+    "value": "jet ski",
+    "source_url": "https://d7h9v39iheghu.cloudfront.net/previews/7837a234-9635-4da8-b132-476aacd9b4c1/d6f35137-6068-41a9-96c1-bb25264b80c9/8ee78a05-4865-4cc5-9e4c-09fb2b6ca406?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy83ODM3YTIzNC05NjM1LTRkYTgtYjEzMi00NzZhYWNkOWI0YzEqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjg0MDEwfX19XX0_&Signature=0NCrDHEtg~3Ag4tUAPQa6ilJ6cyZ~w4zVuMSD7cG~r-mqETwrHjP~ymbFvuB7vZlbnPnlWCA1ED5pRAzfLnrljg2GzmBKzehdZ5pgyEdg2DhUh1PdoH9P3mOCEtIvAjK8OJMABLlrsk9l-sKHGYMa1a1Cwv28E-vbs9wjG1faMxEGG67VKe8YrbKJea-zq31p-n-SwDxEgYcBaFhSoyAOtk-LQQh4YnbO4e3Mh1O3qhd1CUPoi~QB1~gR8sul5CK0VJQczSIV5ZAIetLpT6YzKJjTsyOlpvwM1Ndaf6IhiW6ocfSJj45JPk5h8YsmO05fa9p1P7DalJRXVD6AH0o6g__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA",
+    "as_of": 2026
+   },
+   {
+    "value": "paddleboard",
+    "source_url": "https://d7h9v39iheghu.cloudfront.net/previews/7837a234-9635-4da8-b132-476aacd9b4c1/999db426-ea2a-4c44-b6e3-658ea396827e/def5341a-4bbd-4356-99ca-a82a64f92b76?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy83ODM3YTIzNC05NjM1LTRkYTgtYjEzMi00NzZhYWNkOWI0YzEqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjg0MDEwfX19XX0_&Signature=0NCrDHEtg~3Ag4tUAPQa6ilJ6cyZ~w4zVuMSD7cG~r-mqETwrHjP~ymbFvuB7vZlbnPnlWCA1ED5pRAzfLnrljg2GzmBKzehdZ5pgyEdg2DhUh1PdoH9P3mOCEtIvAjK8OJMABLlrsk9l-sKHGYMa1a1Cwv28E-vbs9wjG1faMxEGG67VKe8YrbKJea-zq31p-n-SwDxEgYcBaFhSoyAOtk-LQQh4YnbO4e3Mh1O3qhd1CUPoi~QB1~gR8sul5CK0VJQczSIV5ZAIetLpT6YzKJjTsyOlpvwM1Ndaf6IhiW6ocfSJj45JPk5h8YsmO05fa9p1P7DalJRXVD6AH0o6g__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA",
+    "as_of": 2026
+   },
+   {
+    "value": "manta",
+    "source_url": "https://d7h9v39iheghu.cloudfront.net/previews/7837a234-9635-4da8-b132-476aacd9b4c1/999db426-ea2a-4c44-b6e3-658ea396827e/def5341a-4bbd-4356-99ca-a82a64f92b76?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy83ODM3YTIzNC05NjM1LTRkYTgtYjEzMi00NzZhYWNkOWI0YzEqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjg0MDEwfX19XX0_&Signature=0NCrDHEtg~3Ag4tUAPQa6ilJ6cyZ~w4zVuMSD7cG~r-mqETwrHjP~ymbFvuB7vZlbnPnlWCA1ED5pRAzfLnrljg2GzmBKzehdZ5pgyEdg2DhUh1PdoH9P3mOCEtIvAjK8OJMABLlrsk9l-sKHGYMa1a1Cwv28E-vbs9wjG1faMxEGG67VKe8YrbKJea-zq31p-n-SwDxEgYcBaFhSoyAOtk-LQQh4YnbO4e3Mh1O3qhd1CUPoi~QB1~gR8sul5CK0VJQczSIV5ZAIetLpT6YzKJjTsyOlpvwM1Ndaf6IhiW6ocfSJj45JPk5h8YsmO05fa9p1P7DalJRXVD6AH0o6g__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA",
+    "as_of": 2026
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://d7h9v39iheghu.cloudfront.net/previews/7837a234-9635-4da8-b132-476aacd9b4c1/d10617e8-ce68-4acc-8fc4-e29b9ab61393/d10617e8-ce68-4acc-8fc4-e29b9ab61393?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy83ODM3YTIzNC05NjM1LTRkYTgtYjEzMi00NzZhYWNkOWI0YzEqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjg0MDEwfX19XX0_&Signature=0NCrDHEtg~3Ag4tUAPQa6ilJ6cyZ~w4zVuMSD7cG~r-mqETwrHjP~ymbFvuB7vZlbnPnlWCA1ED5pRAzfLnrljg2GzmBKzehdZ5pgyEdg2DhUh1PdoH9P3mOCEtIvAjK8OJMABLlrsk9l-sKHGYMa1a1Cwv28E-vbs9wjG1faMxEGG67VKe8YrbKJea-zq31p-n-SwDxEgYcBaFhSoyAOtk-LQQh4YnbO4e3Mh1O3qhd1CUPoi~QB1~gR8sul5CK0VJQczSIV5ZAIetLpT6YzKJjTsyOlpvwM1Ndaf6IhiW6ocfSJj45JPk5h8YsmO05fa9p1P7DalJRXVD6AH0o6g__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA",
+    "as_of": 2026
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://d7h9v39iheghu.cloudfront.net/previews/7837a234-9635-4da8-b132-476aacd9b4c1/211acdab-18f3-4cc6-99ee-f67a15a4c30d/13d49216-0e0d-4bb8-90ad-e37b4ac94c81?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy83ODM3YTIzNC05NjM1LTRkYTgtYjEzMi00NzZhYWNkOWI0YzEqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjg0MDEwfX19XX0_&Signature=0NCrDHEtg~3Ag4tUAPQa6ilJ6cyZ~w4zVuMSD7cG~r-mqETwrHjP~ymbFvuB7vZlbnPnlWCA1ED5pRAzfLnrljg2GzmBKzehdZ5pgyEdg2DhUh1PdoH9P3mOCEtIvAjK8OJMABLlrsk9l-sKHGYMa1a1Cwv28E-vbs9wjG1faMxEGG67VKe8YrbKJea-zq31p-n-SwDxEgYcBaFhSoyAOtk-LQQh4YnbO4e3Mh1O3qhd1CUPoi~QB1~gR8sul5CK0VJQczSIV5ZAIetLpT6YzKJjTsyOlpvwM1Ndaf6IhiW6ocfSJj45JPk5h8YsmO05fa9p1P7DalJRXVD6AH0o6g__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA",
+    "as_of": 2026
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://d7h9v39iheghu.cloudfront.net/previews/7837a234-9635-4da8-b132-476aacd9b4c1/211acdab-18f3-4cc6-99ee-f67a15a4c30d/13d49216-0e0d-4bb8-90ad-e37b4ac94c81?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy83ODM3YTIzNC05NjM1LTRkYTgtYjEzMi00NzZhYWNkOWI0YzEqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjg0MDEwfX19XX0_&Signature=0NCrDHEtg~3Ag4tUAPQa6ilJ6cyZ~w4zVuMSD7cG~r-mqETwrHjP~ymbFvuB7vZlbnPnlWCA1ED5pRAzfLnrljg2GzmBKzehdZ5pgyEdg2DhUh1PdoH9P3mOCEtIvAjK8OJMABLlrsk9l-sKHGYMa1a1Cwv28E-vbs9wjG1faMxEGG67VKe8YrbKJea-zq31p-n-SwDxEgYcBaFhSoyAOtk-LQQh4YnbO4e3Mh1O3qhd1CUPoi~QB1~gR8sul5CK0VJQczSIV5ZAIetLpT6YzKJjTsyOlpvwM1Ndaf6IhiW6ocfSJj45JPk5h8YsmO05fa9p1P7DalJRXVD6AH0o6g__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA",
+    "as_of": 2026
+   },
+   {
+    "value": "windsurfing",
+    "source_url": "https://d7h9v39iheghu.cloudfront.net/previews/7837a234-9635-4da8-b132-476aacd9b4c1/211acdab-18f3-4cc6-99ee-f67a15a4c30d/13d49216-0e0d-4bb8-90ad-e37b4ac94c81?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy83ODM3YTIzNC05NjM1LTRkYTgtYjEzMi00NzZhYWNkOWI0YzEqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjg0MDEwfX19XX0_&Signature=0NCrDHEtg~3Ag4tUAPQa6ilJ6cyZ~w4zVuMSD7cG~r-mqETwrHjP~ymbFvuB7vZlbnPnlWCA1ED5pRAzfLnrljg2GzmBKzehdZ5pgyEdg2DhUh1PdoH9P3mOCEtIvAjK8OJMABLlrsk9l-sKHGYMa1a1Cwv28E-vbs9wjG1faMxEGG67VKe8YrbKJea-zq31p-n-SwDxEgYcBaFhSoyAOtk-LQQh4YnbO4e3Mh1O3qhd1CUPoi~QB1~gR8sul5CK0VJQczSIV5ZAIetLpT6YzKJjTsyOlpvwM1Ndaf6IhiW6ocfSJj45JPk5h8YsmO05fa9p1P7DalJRXVD6AH0o6g__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA",
+    "as_of": 2026
+   },
+   {
+    "value": "catamaran",
+    "source_url": "https://d7h9v39iheghu.cloudfront.net/previews/7837a234-9635-4da8-b132-476aacd9b4c1/211acdab-18f3-4cc6-99ee-f67a15a4c30d/13d49216-0e0d-4bb8-90ad-e37b4ac94c81?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy83ODM3YTIzNC05NjM1LTRkYTgtYjEzMi00NzZhYWNkOWI0YzEqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjg0MDEwfX19XX0_&Signature=0NCrDHEtg~3Ag4tUAPQa6ilJ6cyZ~w4zVuMSD7cG~r-mqETwrHjP~ymbFvuB7vZlbnPnlWCA1ED5pRAzfLnrljg2GzmBKzehdZ5pgyEdg2DhUh1PdoH9P3mOCEtIvAjK8OJMABLlrsk9l-sKHGYMa1a1Cwv28E-vbs9wjG1faMxEGG67VKe8YrbKJea-zq31p-n-SwDxEgYcBaFhSoyAOtk-LQQh4YnbO4e3Mh1O3qhd1CUPoi~QB1~gR8sul5CK0VJQczSIV5ZAIetLpT6YzKJjTsyOlpvwM1Ndaf6IhiW6ocfSJj45JPk5h8YsmO05fa9p1P7DalJRXVD6AH0o6g__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA",
+    "as_of": 2026
+   },
+   {
+    "value": "jet ski",
+    "source_url": "https://d7h9v39iheghu.cloudfront.net/previews/7837a234-9635-4da8-b132-476aacd9b4c1/211acdab-18f3-4cc6-99ee-f67a15a4c30d/13d49216-0e0d-4bb8-90ad-e37b4ac94c81?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy83ODM3YTIzNC05NjM1LTRkYTgtYjEzMi00NzZhYWNkOWI0YzEqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjg0MDEwfX19XX0_&Signature=0NCrDHEtg~3Ag4tUAPQa6ilJ6cyZ~w4zVuMSD7cG~r-mqETwrHjP~ymbFvuB7vZlbnPnlWCA1ED5pRAzfLnrljg2GzmBKzehdZ5pgyEdg2DhUh1PdoH9P3mOCEtIvAjK8OJMABLlrsk9l-sKHGYMa1a1Cwv28E-vbs9wjG1faMxEGG67VKe8YrbKJea-zq31p-n-SwDxEgYcBaFhSoyAOtk-LQQh4YnbO4e3Mh1O3qhd1CUPoi~QB1~gR8sul5CK0VJQczSIV5ZAIetLpT6YzKJjTsyOlpvwM1Ndaf6IhiW6ocfSJj45JPk5h8YsmO05fa9p1P7DalJRXVD6AH0o6g__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA",
+    "as_of": 2026
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://d7h9v39iheghu.cloudfront.net/previews/7837a234-9635-4da8-b132-476aacd9b4c1/211acdab-18f3-4cc6-99ee-f67a15a4c30d/13d49216-0e0d-4bb8-90ad-e37b4ac94c81?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy83ODM3YTIzNC05NjM1LTRkYTgtYjEzMi00NzZhYWNkOWI0YzEqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjg0MDEwfX19XX0_&Signature=0NCrDHEtg~3Ag4tUAPQa6ilJ6cyZ~w4zVuMSD7cG~r-mqETwrHjP~ymbFvuB7vZlbnPnlWCA1ED5pRAzfLnrljg2GzmBKzehdZ5pgyEdg2DhUh1PdoH9P3mOCEtIvAjK8OJMABLlrsk9l-sKHGYMa1a1Cwv28E-vbs9wjG1faMxEGG67VKe8YrbKJea-zq31p-n-SwDxEgYcBaFhSoyAOtk-LQQh4YnbO4e3Mh1O3qhd1CUPoi~QB1~gR8sul5CK0VJQczSIV5ZAIetLpT6YzKJjTsyOlpvwM1Ndaf6IhiW6ocfSJj45JPk5h8YsmO05fa9p1P7DalJRXVD6AH0o6g__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA",
+    "as_of": 2026
+   },
+   {
+    "value": "sailing",
+    "source_url": "https://d7h9v39iheghu.cloudfront.net/previews/7837a234-9635-4da8-b132-476aacd9b4c1/211acdab-18f3-4cc6-99ee-f67a15a4c30d/13d49216-0e0d-4bb8-90ad-e37b4ac94c81?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy83ODM3YTIzNC05NjM1LTRkYTgtYjEzMi00NzZhYWNkOWI0YzEqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjg0MDEwfX19XX0_&Signature=0NCrDHEtg~3Ag4tUAPQa6ilJ6cyZ~w4zVuMSD7cG~r-mqETwrHjP~ymbFvuB7vZlbnPnlWCA1ED5pRAzfLnrljg2GzmBKzehdZ5pgyEdg2DhUh1PdoH9P3mOCEtIvAjK8OJMABLlrsk9l-sKHGYMa1a1Cwv28E-vbs9wjG1faMxEGG67VKe8YrbKJea-zq31p-n-SwDxEgYcBaFhSoyAOtk-LQQh4YnbO4e3Mh1O3qhd1CUPoi~QB1~gR8sul5CK0VJQczSIV5ZAIetLpT6YzKJjTsyOlpvwM1Ndaf6IhiW6ocfSJj45JPk5h8YsmO05fa9p1P7DalJRXVD6AH0o6g__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA",
+    "as_of": 2026
+   },
+   {
+    "value": "fun tube",
+    "source_url": "https://d7h9v39iheghu.cloudfront.net/previews/7837a234-9635-4da8-b132-476aacd9b4c1/211acdab-18f3-4cc6-99ee-f67a15a4c30d/13d49216-0e0d-4bb8-90ad-e37b4ac94c81?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy83ODM3YTIzNC05NjM1LTRkYTgtYjEzMi00NzZhYWNkOWI0YzEqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjg0MDEwfX19XX0_&Signature=0NCrDHEtg~3Ag4tUAPQa6ilJ6cyZ~w4zVuMSD7cG~r-mqETwrHjP~ymbFvuB7vZlbnPnlWCA1ED5pRAzfLnrljg2GzmBKzehdZ5pgyEdg2DhUh1PdoH9P3mOCEtIvAjK8OJMABLlrsk9l-sKHGYMa1a1Cwv28E-vbs9wjG1faMxEGG67VKe8YrbKJea-zq31p-n-SwDxEgYcBaFhSoyAOtk-LQQh4YnbO4e3Mh1O3qhd1CUPoi~QB1~gR8sul5CK0VJQczSIV5ZAIetLpT6YzKJjTsyOlpvwM1Ndaf6IhiW6ocfSJj45JPk5h8YsmO05fa9p1P7DalJRXVD6AH0o6g__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA",
+    "as_of": 2026
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://d7h9v39iheghu.cloudfront.net/previews/7837a234-9635-4da8-b132-476aacd9b4c1/951281f7-d8a4-4fd2-9893-4801b3328de4/951281f7-d8a4-4fd2-9893-4801b3328de4?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy83ODM3YTIzNC05NjM1LTRkYTgtYjEzMi00NzZhYWNkOWI0YzEqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjg0MDEwfX19XX0_&Signature=0NCrDHEtg~3Ag4tUAPQa6ilJ6cyZ~w4zVuMSD7cG~r-mqETwrHjP~ymbFvuB7vZlbnPnlWCA1ED5pRAzfLnrljg2GzmBKzehdZ5pgyEdg2DhUh1PdoH9P3mOCEtIvAjK8OJMABLlrsk9l-sKHGYMa1a1Cwv28E-vbs9wjG1faMxEGG67VKe8YrbKJea-zq31p-n-SwDxEgYcBaFhSoyAOtk-LQQh4YnbO4e3Mh1O3qhd1CUPoi~QB1~gR8sul5CK0VJQczSIV5ZAIetLpT6YzKJjTsyOlpvwM1Ndaf6IhiW6ocfSJj45JPk5h8YsmO05fa9p1P7DalJRXVD6AH0o6g__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA",
+    "as_of": 2025
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://letsgomaldives.com/wp-content/uploads/2026/09/Furaveri-Maldives-_Premium-All-Inclusive_2027-2028.pdf",
+    "as_of": 2028
+   },
+   {
+    "value": "jet ski",
+    "source_url": "https://letsgomaldives.com/wp-content/uploads/2026/09/Furaveri-Maldives-_Premium-All-Inclusive_2027-2028.pdf",
+    "as_of": 2028
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://letsgomaldives.com/wp-content/uploads/2026/09/Furaveri-Maldives-_Premium-All-Inclusive_2027-2028.pdf",
+    "as_of": 2028
+   },
+   {
+    "value": "dolphin cruise",
+    "source_url": "https://letsgomaldives.com/wp-content/uploads/2026/09/Furaveri-Maldives-_Premium-All-Inclusive_2027-2028.pdf",
+    "as_of": 2028
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://furaveri.com/wp-content/uploads/2026/07/Furaveri_Maldives-_Premium-All-Inclusive-plan_2027-2028_rev04072026_243.pdf",
+    "as_of": 2028
+   },
+   {
+    "value": "jet ski",
+    "source_url": "https://furaveri.com/wp-content/uploads/2026/07/Furaveri_Maldives-_Premium-All-Inclusive-plan_2027-2028_rev04072026_243.pdf",
+    "as_of": 2028
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://furaveri.com/wp-content/uploads/2026/07/Furaveri_Maldives-_Premium-All-Inclusive-plan_2027-2028_rev04072026_243.pdf",
+    "as_of": 2028
+   },
+   {
+    "value": "dolphin cruise",
+    "source_url": "https://furaveri.com/wp-content/uploads/2026/07/Furaveri_Maldives-_Premium-All-Inclusive-plan_2027-2028_rev04072026_243.pdf",
+    "as_of": 2028
+   },
+   {
+    "value": "kayaking",
+    "source_url": "https://erimaldives.com/blog/post/best-resort-for-maldives-vacations/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://erimaldives.com/blog/post/best-resort-for-maldives-vacations/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://erimaldives.com/blog/post/how-to-stay-healthy-during-your-stay-at-eri-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "kayaking",
+    "source_url": "https://erimaldives.com/blog/post/how-to-stay-healthy-during-your-stay-at-eri-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "paddleboard",
+    "source_url": "https://erimaldives.com/blog/post/how-to-stay-healthy-during-your-stay-at-eri-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://erimaldives.com/blog/post/the-maldives-guide-for-travellers-who-love-nature-beyond-the-beach/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://erimaldives.com/blog/post/the-maldives-guide-for-travellers-who-love-nature-beyond-the-beach/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://erimaldives.com/blog/post/snorkelling-and-diving-in-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "stand-up paddle",
+    "source_url": "https://erimaldives.com/blog/post/a-solo-escape-at-eri-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "paddleboard",
+    "source_url": "https://erimaldives.com/blog/post/a-solo-escape-at-eri-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://erimaldives.com/blog/post/dive-sites-near-north-male-atoll/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://erimaldives.com/blog/post/dive-sites-near-north-male-atoll/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://erimaldives.com/blog/post/dive-sites-near-north-male-atoll/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://erimaldives.com/blog/post/which-resort-is-the-most-romantic-in-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://erimaldives.com/blog/post/can-you-swim-in-the-maldives-all-year/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://erimaldives.com/blog/post/discover-the-maldives-the-local-way-at-eri-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://erimaldives.com/blog/post/resorts-near-velana-airport/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://erimaldives.com/blog/post/marine-wonders-to-discover-in-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://erimaldives.com/blog/post/marine-wonders-to-discover-in-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://erimaldives.com/blog/post/wellness-at-eri-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin cruise",
+    "source_url": "https://erimaldives.com/blog/post/the-perfect-day-at-eri-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://erimaldives.com/blog/post/the-perfect-day-at-eri-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://erimaldives.com/blog/post/top-reasons-to-visit-the-maldives-in-the-off-season/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://erimaldives.com/blog/post/seven-days-by-the-sea-an-ocean-wellness-itinerary-at-eri-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "kayaking",
+    "source_url": "https://erimaldives.com/blog/post/seven-days-by-the-sea-an-ocean-wellness-itinerary-at-eri-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://erimaldives.com/blog/post/sunrise-to-sunset-at-eri/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://erimaldives.com/blog/post/where-can-couples-find-a-romantic-resort-near-male-airport/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://erimaldives.com/blog/post/maldives-travel-tips-everything-you-need-to-know-before-your-island-escape/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin cruise",
+    "source_url": "https://erimaldives.com/blog/post/maldives-travel-tips-everything-you-need-to-know-before-your-island-escape/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "glass-bottom",
+    "source_url": "https://erimaldives.com/blog/post/maldives-travel-tips-everything-you-need-to-know-before-your-island-escape/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://erimaldives.com/blog/post/what-kind-of-traveller-are-you-in-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://erimaldives.com/blog/post/what-kind-of-traveller-are-you-in-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://erimaldives.com/blog/post/first-time-diving-in-the-maldives-your-beginners-guide-to-diving-at-eri/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://erimaldives.com/blog/post/first-time-diving-in-the-maldives-your-beginners-guide-to-diving-at-eri/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://erimaldives.com/blog/post/first-time-diving-in-the-maldives-your-beginners-guide-to-diving-at-eri/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://erimaldives.com/blog/post/beneath-eris-turquoise-waters/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://erimaldives.com/blog/post/beneath-eris-turquoise-waters/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://erimaldives.com/blog/post/eri-maldives-pristine-coral-gardens/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "kayaking",
+    "source_url": "https://erimaldives.com/blog/post/eri-maldives-pristine-coral-gardens/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "paddleboard",
+    "source_url": "https://erimaldives.com/blog/post/eri-maldives-pristine-coral-gardens/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "jet ski",
+    "source_url": "https://erimaldives.com/blog/post/eri-maldives-pristine-coral-gardens/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://erimaldives.com/blog/post/easter-in-full-bloom-at-eri/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fun tube",
+    "source_url": "https://erimaldives.com/blog/post/easter-in-full-bloom-at-eri/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://erimaldives.com/blog/post/how-to-make-the-most-of-a-5-day-maldives-vacation/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://erimaldives.com/eri-meal-plan/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "windsurfing",
+    "source_url": "https://erimaldives.com/blog/post/how-eri-maldives-combines-adventure-and-relaxation-for-every-traveller/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "paddleboard",
+    "source_url": "https://erimaldives.com/blog/post/how-eri-maldives-combines-adventure-and-relaxation-for-every-traveller/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "jet ski",
+    "source_url": "https://erimaldives.com/blog/post/how-eri-maldives-combines-adventure-and-relaxation-for-every-traveller/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin cruise",
+    "source_url": "https://erimaldives.com/blog/post/how-eri-maldives-combines-adventure-and-relaxation-for-every-traveller/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sailing",
+    "source_url": "https://erimaldives.com/blog/post/how-eri-maldives-combines-adventure-and-relaxation-for-every-traveller/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "kayaking",
+    "source_url": "https://erimaldives.com/blog/post/resorts-near-male-international-airport/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "paddleboard",
+    "source_url": "https://erimaldives.com/blog/post/resorts-near-male-international-airport/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "jet ski",
+    "source_url": "https://erimaldives.com/blog/post/resorts-near-male-international-airport/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://erimaldives.com/blog/post/resorts-near-male-international-airport/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://erimaldives.com/blog/post/resorts-near-male-international-airport/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://erimaldives.com/blog/post/plan-the-ultimate-group-getaway-at-eri-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "kayaking",
+    "source_url": "https://erimaldives.com/blog/post/plan-the-ultimate-group-getaway-at-eri-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "jet ski",
+    "source_url": "https://erimaldives.com/blog/post/plan-the-ultimate-group-getaway-at-eri-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://erimaldives.com/blog/post/a-guide-to-spending-5-days-in-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://erimaldives.com/blog/post/a-guide-to-spending-5-days-in-the-maldives/",
+    "as_of": "2026-10-04"
+   },
    {
     "value": "snorkelling",
     "source_url": "https://www.neoscapesmaldives.com/resort/furaveri-island-resort/",
@@ -670,9 +1681,831 @@
     "value": "fun tube",
     "source_url": "https://www.neoscapesmaldives.com/resort/furaveri-island-resort/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.mymaldives.com/resort-guide/eriyadu-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://www.mymaldives.com/resort-guide/eriyadu-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "catamaran",
+    "source_url": "https://www.mymaldives.com/resort-guide/eriyadu-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "water skiing",
+    "source_url": "https://www.mymaldives.com/resort-guide/eriyadu-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.mymaldives.com/resort-guide/eriyadu-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sailing",
+    "source_url": "https://www.mymaldives.com/resort-guide/eriyadu-island-resort/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "wellness_fitness": [
+   {
+    "value": "tennis",
+    "source_url": "https://d7h9v39iheghu.cloudfront.net/previews/7837a234-9635-4da8-b132-476aacd9b4c1/d6f35137-6068-41a9-96c1-bb25264b80c9/8ee78a05-4865-4cc5-9e4c-09fb2b6ca406?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy83ODM3YTIzNC05NjM1LTRkYTgtYjEzMi00NzZhYWNkOWI0YzEqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjg0MDEwfX19XX0_&Signature=0NCrDHEtg~3Ag4tUAPQa6ilJ6cyZ~w4zVuMSD7cG~r-mqETwrHjP~ymbFvuB7vZlbnPnlWCA1ED5pRAzfLnrljg2GzmBKzehdZ5pgyEdg2DhUh1PdoH9P3mOCEtIvAjK8OJMABLlrsk9l-sKHGYMa1a1Cwv28E-vbs9wjG1faMxEGG67VKe8YrbKJea-zq31p-n-SwDxEgYcBaFhSoyAOtk-LQQh4YnbO4e3Mh1O3qhd1CUPoi~QB1~gR8sul5CK0VJQczSIV5ZAIetLpT6YzKJjTsyOlpvwM1Ndaf6IhiW6ocfSJj45JPk5h8YsmO05fa9p1P7DalJRXVD6AH0o6g__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA",
+    "as_of": 2026
+   },
+   {
+    "value": "badminton",
+    "source_url": "https://d7h9v39iheghu.cloudfront.net/previews/7837a234-9635-4da8-b132-476aacd9b4c1/d6f35137-6068-41a9-96c1-bb25264b80c9/8ee78a05-4865-4cc5-9e4c-09fb2b6ca406?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy83ODM3YTIzNC05NjM1LTRkYTgtYjEzMi00NzZhYWNkOWI0YzEqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjg0MDEwfX19XX0_&Signature=0NCrDHEtg~3Ag4tUAPQa6ilJ6cyZ~w4zVuMSD7cG~r-mqETwrHjP~ymbFvuB7vZlbnPnlWCA1ED5pRAzfLnrljg2GzmBKzehdZ5pgyEdg2DhUh1PdoH9P3mOCEtIvAjK8OJMABLlrsk9l-sKHGYMa1a1Cwv28E-vbs9wjG1faMxEGG67VKe8YrbKJea-zq31p-n-SwDxEgYcBaFhSoyAOtk-LQQh4YnbO4e3Mh1O3qhd1CUPoi~QB1~gR8sul5CK0VJQczSIV5ZAIetLpT6YzKJjTsyOlpvwM1Ndaf6IhiW6ocfSJj45JPk5h8YsmO05fa9p1P7DalJRXVD6AH0o6g__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA",
+    "as_of": 2026
+   },
+   {
+    "value": "badminton",
+    "source_url": "https://d7h9v39iheghu.cloudfront.net/previews/7837a234-9635-4da8-b132-476aacd9b4c1/999db426-ea2a-4c44-b6e3-658ea396827e/def5341a-4bbd-4356-99ca-a82a64f92b76?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy83ODM3YTIzNC05NjM1LTRkYTgtYjEzMi00NzZhYWNkOWI0YzEqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjg0MDEwfX19XX0_&Signature=0NCrDHEtg~3Ag4tUAPQa6ilJ6cyZ~w4zVuMSD7cG~r-mqETwrHjP~ymbFvuB7vZlbnPnlWCA1ED5pRAzfLnrljg2GzmBKzehdZ5pgyEdg2DhUh1PdoH9P3mOCEtIvAjK8OJMABLlrsk9l-sKHGYMa1a1Cwv28E-vbs9wjG1faMxEGG67VKe8YrbKJea-zq31p-n-SwDxEgYcBaFhSoyAOtk-LQQh4YnbO4e3Mh1O3qhd1CUPoi~QB1~gR8sul5CK0VJQczSIV5ZAIetLpT6YzKJjTsyOlpvwM1Ndaf6IhiW6ocfSJj45JPk5h8YsmO05fa9p1P7DalJRXVD6AH0o6g__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA",
+    "as_of": 2026
+   },
+   {
+    "value": "steam",
+    "source_url": "https://d7h9v39iheghu.cloudfront.net/previews/7837a234-9635-4da8-b132-476aacd9b4c1/f4c17a44-1a32-4877-b4dc-3acda996dc1b/f4c17a44-1a32-4877-b4dc-3acda996dc1b?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy83ODM3YTIzNC05NjM1LTRkYTgtYjEzMi00NzZhYWNkOWI0YzEqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjg0MDEwfX19XX0_&Signature=0NCrDHEtg~3Ag4tUAPQa6ilJ6cyZ~w4zVuMSD7cG~r-mqETwrHjP~ymbFvuB7vZlbnPnlWCA1ED5pRAzfLnrljg2GzmBKzehdZ5pgyEdg2DhUh1PdoH9P3mOCEtIvAjK8OJMABLlrsk9l-sKHGYMa1a1Cwv28E-vbs9wjG1faMxEGG67VKe8YrbKJea-zq31p-n-SwDxEgYcBaFhSoyAOtk-LQQh4YnbO4e3Mh1O3qhd1CUPoi~QB1~gR8sul5CK0VJQczSIV5ZAIetLpT6YzKJjTsyOlpvwM1Ndaf6IhiW6ocfSJj45JPk5h8YsmO05fa9p1P7DalJRXVD6AH0o6g__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA",
+    "as_of": 2026
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://letsgomaldives.com/wp-content/uploads/2026/09/Furaveri-Maldives-_Premium-All-Inclusive_2027-2028.pdf",
+    "as_of": 2028
+   },
+   {
+    "value": "meditation",
+    "source_url": "https://letsgomaldives.com/wp-content/uploads/2026/09/Furaveri-Maldives-_Premium-All-Inclusive_2027-2028.pdf",
+    "as_of": 2028
+   },
+   {
+    "value": "fitness centre",
+    "source_url": "https://letsgomaldives.com/wp-content/uploads/2026/09/Furaveri-Maldives-_Premium-All-Inclusive_2027-2028.pdf",
+    "as_of": 2028
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://letsgomaldives.com/wp-content/uploads/2026/09/Furaveri-Maldives-_Premium-All-Inclusive_2027-2028.pdf",
+    "as_of": 2028
+   },
+   {
+    "value": "badminton",
+    "source_url": "https://letsgomaldives.com/wp-content/uploads/2026/09/Furaveri-Maldives-_Premium-All-Inclusive_2027-2028.pdf",
+    "as_of": 2028
+   },
+   {
+    "value": "pilates",
+    "source_url": "https://letsgomaldives.com/wp-content/uploads/2026/09/Furaveri-Maldives-_Premium-All-Inclusive_2027-2028.pdf",
+    "as_of": 2028
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://furaveri.com/wp-content/uploads/2026/07/Furaveri_Maldives-_Premium-All-Inclusive-plan_2027-2028_rev04072026_243.pdf",
+    "as_of": 2028
+   },
+   {
+    "value": "meditation",
+    "source_url": "https://furaveri.com/wp-content/uploads/2026/07/Furaveri_Maldives-_Premium-All-Inclusive-plan_2027-2028_rev04072026_243.pdf",
+    "as_of": 2028
+   },
+   {
+    "value": "fitness centre",
+    "source_url": "https://furaveri.com/wp-content/uploads/2026/07/Furaveri_Maldives-_Premium-All-Inclusive-plan_2027-2028_rev04072026_243.pdf",
+    "as_of": 2028
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://furaveri.com/wp-content/uploads/2026/07/Furaveri_Maldives-_Premium-All-Inclusive-plan_2027-2028_rev04072026_243.pdf",
+    "as_of": 2028
+   },
+   {
+    "value": "badminton",
+    "source_url": "https://furaveri.com/wp-content/uploads/2026/07/Furaveri_Maldives-_Premium-All-Inclusive-plan_2027-2028_rev04072026_243.pdf",
+    "as_of": 2028
+   },
+   {
+    "value": "pilates",
+    "source_url": "https://furaveri.com/wp-content/uploads/2026/07/Furaveri_Maldives-_Premium-All-Inclusive-plan_2027-2028_rev04072026_243.pdf",
+    "as_of": 2028
+   },
+   {
+    "value": "gym",
+    "source_url": "https://erimaldives.com/blog/post/how-to-stay-healthy-during-your-stay-at-eri-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://erimaldives.com/blog/post/wellness-at-eri-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "meditation",
+    "source_url": "https://erimaldives.com/blog/post/wellness-at-eri-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "gym",
+    "source_url": "https://erimaldives.com/blog/post/wellness-at-eri-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://erimaldives.com/blog/post/seven-days-by-the-sea-an-ocean-wellness-itinerary-at-eri-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "meditation",
+    "source_url": "https://erimaldives.com/blog/post/seven-days-by-the-sea-an-ocean-wellness-itinerary-at-eri-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "wellness programme",
+    "source_url": "https://erimaldives.com/blog/post/seven-days-by-the-sea-an-ocean-wellness-itinerary-at-eri-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://erimaldives.com/blog/post/maldives-travel-tips-everything-you-need-to-know-before-your-island-escape/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://erimaldives.com/blog/post/what-kind-of-traveller-are-you-in-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "badminton",
+    "source_url": "https://erimaldives.com/blog/post/what-kind-of-traveller-are-you-in-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://erimaldives.com/blog/post/how-to-make-the-most-of-a-5-day-maldives-vacation/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.neoscapesmaldives.com/resort/furaveri-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fitness centre",
+    "source_url": "https://www.neoscapesmaldives.com/resort/furaveri-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "badminton",
+    "source_url": "https://www.mymaldives.com/resort-guide/eriyadu-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "gym",
+    "source_url": "https://www.dnatatravel.com/2-904932-1/smartline-eriyadu?oc=true",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "weddings.vow_renewal": [
+   {
+    "value": true,
+    "source_url": "https://d7h9v39iheghu.cloudfront.net/previews/7837a234-9635-4da8-b132-476aacd9b4c1/d6f35137-6068-41a9-96c1-bb25264b80c9/8ee78a05-4865-4cc5-9e4c-09fb2b6ca406?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy83ODM3YTIzNC05NjM1LTRkYTgtYjEzMi00NzZhYWNkOWI0YzEqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjg0MDEwfX19XX0_&Signature=0NCrDHEtg~3Ag4tUAPQa6ilJ6cyZ~w4zVuMSD7cG~r-mqETwrHjP~ymbFvuB7vZlbnPnlWCA1ED5pRAzfLnrljg2GzmBKzehdZ5pgyEdg2DhUh1PdoH9P3mOCEtIvAjK8OJMABLlrsk9l-sKHGYMa1a1Cwv28E-vbs9wjG1faMxEGG67VKe8YrbKJea-zq31p-n-SwDxEgYcBaFhSoyAOtk-LQQh4YnbO4e3Mh1O3qhd1CUPoi~QB1~gR8sul5CK0VJQczSIV5ZAIetLpT6YzKJjTsyOlpvwM1Ndaf6IhiW6ocfSJj45JPk5h8YsmO05fa9p1P7DalJRXVD6AH0o6g__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA",
+    "as_of": 2026
+   },
+   {
+    "value": true,
+    "source_url": "https://d7h9v39iheghu.cloudfront.net/previews/7837a234-9635-4da8-b132-476aacd9b4c1/999db426-ea2a-4c44-b6e3-658ea396827e/def5341a-4bbd-4356-99ca-a82a64f92b76?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy83ODM3YTIzNC05NjM1LTRkYTgtYjEzMi00NzZhYWNkOWI0YzEqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjg0MDEwfX19XX0_&Signature=0NCrDHEtg~3Ag4tUAPQa6ilJ6cyZ~w4zVuMSD7cG~r-mqETwrHjP~ymbFvuB7vZlbnPnlWCA1ED5pRAzfLnrljg2GzmBKzehdZ5pgyEdg2DhUh1PdoH9P3mOCEtIvAjK8OJMABLlrsk9l-sKHGYMa1a1Cwv28E-vbs9wjG1faMxEGG67VKe8YrbKJea-zq31p-n-SwDxEgYcBaFhSoyAOtk-LQQh4YnbO4e3Mh1O3qhd1CUPoi~QB1~gR8sul5CK0VJQczSIV5ZAIetLpT6YzKJjTsyOlpvwM1Ndaf6IhiW6ocfSJj45JPk5h8YsmO05fa9p1P7DalJRXVD6AH0o6g__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA",
+    "as_of": 2026
+   },
+   {
+    "value": true,
+    "source_url": "https://d7h9v39iheghu.cloudfront.net/previews/7837a234-9635-4da8-b132-476aacd9b4c1/d10617e8-ce68-4acc-8fc4-e29b9ab61393/d10617e8-ce68-4acc-8fc4-e29b9ab61393?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy83ODM3YTIzNC05NjM1LTRkYTgtYjEzMi00NzZhYWNkOWI0YzEqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjg0MDEwfX19XX0_&Signature=0NCrDHEtg~3Ag4tUAPQa6ilJ6cyZ~w4zVuMSD7cG~r-mqETwrHjP~ymbFvuB7vZlbnPnlWCA1ED5pRAzfLnrljg2GzmBKzehdZ5pgyEdg2DhUh1PdoH9P3mOCEtIvAjK8OJMABLlrsk9l-sKHGYMa1a1Cwv28E-vbs9wjG1faMxEGG67VKe8YrbKJea-zq31p-n-SwDxEgYcBaFhSoyAOtk-LQQh4YnbO4e3Mh1O3qhd1CUPoi~QB1~gR8sul5CK0VJQczSIV5ZAIetLpT6YzKJjTsyOlpvwM1Ndaf6IhiW6ocfSJj45JPk5h8YsmO05fa9p1P7DalJRXVD6AH0o6g__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA",
+    "as_of": 2026
+   },
+   {
+    "value": true,
+    "source_url": "https://erimaldives.com/blog/post/which-resort-is-the-most-romantic-in-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://erimaldives.com/blog/post/discover-the-right-maldives-resort-for-you/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://erimaldives.com/blog/post/resorts-near-velana-airport/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://erimaldives.com/blog/post/where-can-couples-find-a-romantic-resort-near-male-airport/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://erimaldives.com/blog/post/a-guide-to-island-moments-made-for-two/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://erimaldives.com/blog/post/romantic-villas-for-two-in-the-maldives-a-soulful-escape-at-eri/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://erimaldives.com/blog/post/resorts-near-male-international-airport/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "contacts_public.reservations_email": [
+   {
+    "value": "reservations@erimaldives.com",
+    "source_url": "https://d7h9v39iheghu.cloudfront.net/previews/7837a234-9635-4da8-b132-476aacd9b4c1/d6f35137-6068-41a9-96c1-bb25264b80c9/8ee78a05-4865-4cc5-9e4c-09fb2b6ca406?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy83ODM3YTIzNC05NjM1LTRkYTgtYjEzMi00NzZhYWNkOWI0YzEqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjg0MDEwfX19XX0_&Signature=0NCrDHEtg~3Ag4tUAPQa6ilJ6cyZ~w4zVuMSD7cG~r-mqETwrHjP~ymbFvuB7vZlbnPnlWCA1ED5pRAzfLnrljg2GzmBKzehdZ5pgyEdg2DhUh1PdoH9P3mOCEtIvAjK8OJMABLlrsk9l-sKHGYMa1a1Cwv28E-vbs9wjG1faMxEGG67VKe8YrbKJea-zq31p-n-SwDxEgYcBaFhSoyAOtk-LQQh4YnbO4e3Mh1O3qhd1CUPoi~QB1~gR8sul5CK0VJQczSIV5ZAIetLpT6YzKJjTsyOlpvwM1Ndaf6IhiW6ocfSJj45JPk5h8YsmO05fa9p1P7DalJRXVD6AH0o6g__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA",
+    "as_of": 2026
+   },
+   {
+    "value": "reservations@erimaldives.com",
+    "source_url": "https://d7h9v39iheghu.cloudfront.net/previews/7837a234-9635-4da8-b132-476aacd9b4c1/999db426-ea2a-4c44-b6e3-658ea396827e/def5341a-4bbd-4356-99ca-a82a64f92b76?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy83ODM3YTIzNC05NjM1LTRkYTgtYjEzMi00NzZhYWNkOWI0YzEqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjg0MDEwfX19XX0_&Signature=0NCrDHEtg~3Ag4tUAPQa6ilJ6cyZ~w4zVuMSD7cG~r-mqETwrHjP~ymbFvuB7vZlbnPnlWCA1ED5pRAzfLnrljg2GzmBKzehdZ5pgyEdg2DhUh1PdoH9P3mOCEtIvAjK8OJMABLlrsk9l-sKHGYMa1a1Cwv28E-vbs9wjG1faMxEGG67VKe8YrbKJea-zq31p-n-SwDxEgYcBaFhSoyAOtk-LQQh4YnbO4e3Mh1O3qhd1CUPoi~QB1~gR8sul5CK0VJQczSIV5ZAIetLpT6YzKJjTsyOlpvwM1Ndaf6IhiW6ocfSJj45JPk5h8YsmO05fa9p1P7DalJRXVD6AH0o6g__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA",
+    "as_of": 2026
+   },
+   {
+    "value": "reservations@erimaldives.com",
+    "source_url": "https://d7h9v39iheghu.cloudfront.net/previews/7837a234-9635-4da8-b132-476aacd9b4c1/d10617e8-ce68-4acc-8fc4-e29b9ab61393/d10617e8-ce68-4acc-8fc4-e29b9ab61393?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy83ODM3YTIzNC05NjM1LTRkYTgtYjEzMi00NzZhYWNkOWI0YzEqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjg0MDEwfX19XX0_&Signature=0NCrDHEtg~3Ag4tUAPQa6ilJ6cyZ~w4zVuMSD7cG~r-mqETwrHjP~ymbFvuB7vZlbnPnlWCA1ED5pRAzfLnrljg2GzmBKzehdZ5pgyEdg2DhUh1PdoH9P3mOCEtIvAjK8OJMABLlrsk9l-sKHGYMa1a1Cwv28E-vbs9wjG1faMxEGG67VKe8YrbKJea-zq31p-n-SwDxEgYcBaFhSoyAOtk-LQQh4YnbO4e3Mh1O3qhd1CUPoi~QB1~gR8sul5CK0VJQczSIV5ZAIetLpT6YzKJjTsyOlpvwM1Ndaf6IhiW6ocfSJj45JPk5h8YsmO05fa9p1P7DalJRXVD6AH0o6g__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA",
+    "as_of": 2026
+   },
+   {
+    "value": "reservations@erimaldives.com",
+    "source_url": "https://d7h9v39iheghu.cloudfront.net/previews/7837a234-9635-4da8-b132-476aacd9b4c1/f4c17a44-1a32-4877-b4dc-3acda996dc1b/f4c17a44-1a32-4877-b4dc-3acda996dc1b?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy83ODM3YTIzNC05NjM1LTRkYTgtYjEzMi00NzZhYWNkOWI0YzEqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjg0MDEwfX19XX0_&Signature=0NCrDHEtg~3Ag4tUAPQa6ilJ6cyZ~w4zVuMSD7cG~r-mqETwrHjP~ymbFvuB7vZlbnPnlWCA1ED5pRAzfLnrljg2GzmBKzehdZ5pgyEdg2DhUh1PdoH9P3mOCEtIvAjK8OJMABLlrsk9l-sKHGYMa1a1Cwv28E-vbs9wjG1faMxEGG67VKe8YrbKJea-zq31p-n-SwDxEgYcBaFhSoyAOtk-LQQh4YnbO4e3Mh1O3qhd1CUPoi~QB1~gR8sul5CK0VJQczSIV5ZAIetLpT6YzKJjTsyOlpvwM1Ndaf6IhiW6ocfSJj45JPk5h8YsmO05fa9p1P7DalJRXVD6AH0o6g__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA",
+    "as_of": 2026
+   },
+   {
+    "value": "info@neoscapesmaldives.com",
+    "source_url": "https://www.neoscapesmaldives.com/resort/furaveri-island-resort/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "contacts_public.phone": [
+   {
+    "value": "+960 7292820",
+    "source_url": "https://d7h9v39iheghu.cloudfront.net/previews/7837a234-9635-4da8-b132-476aacd9b4c1/d6f35137-6068-41a9-96c1-bb25264b80c9/8ee78a05-4865-4cc5-9e4c-09fb2b6ca406?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy83ODM3YTIzNC05NjM1LTRkYTgtYjEzMi00NzZhYWNkOWI0YzEqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjg0MDEwfX19XX0_&Signature=0NCrDHEtg~3Ag4tUAPQa6ilJ6cyZ~w4zVuMSD7cG~r-mqETwrHjP~ymbFvuB7vZlbnPnlWCA1ED5pRAzfLnrljg2GzmBKzehdZ5pgyEdg2DhUh1PdoH9P3mOCEtIvAjK8OJMABLlrsk9l-sKHGYMa1a1Cwv28E-vbs9wjG1faMxEGG67VKe8YrbKJea-zq31p-n-SwDxEgYcBaFhSoyAOtk-LQQh4YnbO4e3Mh1O3qhd1CUPoi~QB1~gR8sul5CK0VJQczSIV5ZAIetLpT6YzKJjTsyOlpvwM1Ndaf6IhiW6ocfSJj45JPk5h8YsmO05fa9p1P7DalJRXVD6AH0o6g__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA",
+    "as_of": 2026
+   },
+   {
+    "value": "+960 7292820",
+    "source_url": "https://d7h9v39iheghu.cloudfront.net/previews/7837a234-9635-4da8-b132-476aacd9b4c1/999db426-ea2a-4c44-b6e3-658ea396827e/def5341a-4bbd-4356-99ca-a82a64f92b76?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy83ODM3YTIzNC05NjM1LTRkYTgtYjEzMi00NzZhYWNkOWI0YzEqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjg0MDEwfX19XX0_&Signature=0NCrDHEtg~3Ag4tUAPQa6ilJ6cyZ~w4zVuMSD7cG~r-mqETwrHjP~ymbFvuB7vZlbnPnlWCA1ED5pRAzfLnrljg2GzmBKzehdZ5pgyEdg2DhUh1PdoH9P3mOCEtIvAjK8OJMABLlrsk9l-sKHGYMa1a1Cwv28E-vbs9wjG1faMxEGG67VKe8YrbKJea-zq31p-n-SwDxEgYcBaFhSoyAOtk-LQQh4YnbO4e3Mh1O3qhd1CUPoi~QB1~gR8sul5CK0VJQczSIV5ZAIetLpT6YzKJjTsyOlpvwM1Ndaf6IhiW6ocfSJj45JPk5h8YsmO05fa9p1P7DalJRXVD6AH0o6g__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA",
+    "as_of": 2026
+   },
+   {
+    "value": "+960 7292820",
+    "source_url": "https://d7h9v39iheghu.cloudfront.net/previews/7837a234-9635-4da8-b132-476aacd9b4c1/d10617e8-ce68-4acc-8fc4-e29b9ab61393/d10617e8-ce68-4acc-8fc4-e29b9ab61393?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy83ODM3YTIzNC05NjM1LTRkYTgtYjEzMi00NzZhYWNkOWI0YzEqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjg0MDEwfX19XX0_&Signature=0NCrDHEtg~3Ag4tUAPQa6ilJ6cyZ~w4zVuMSD7cG~r-mqETwrHjP~ymbFvuB7vZlbnPnlWCA1ED5pRAzfLnrljg2GzmBKzehdZ5pgyEdg2DhUh1PdoH9P3mOCEtIvAjK8OJMABLlrsk9l-sKHGYMa1a1Cwv28E-vbs9wjG1faMxEGG67VKe8YrbKJea-zq31p-n-SwDxEgYcBaFhSoyAOtk-LQQh4YnbO4e3Mh1O3qhd1CUPoi~QB1~gR8sul5CK0VJQczSIV5ZAIetLpT6YzKJjTsyOlpvwM1Ndaf6IhiW6ocfSJj45JPk5h8YsmO05fa9p1P7DalJRXVD6AH0o6g__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA",
+    "as_of": 2026
+   },
+   {
+    "value": "+960 7292820",
+    "source_url": "https://d7h9v39iheghu.cloudfront.net/previews/7837a234-9635-4da8-b132-476aacd9b4c1/f4c17a44-1a32-4877-b4dc-3acda996dc1b/f4c17a44-1a32-4877-b4dc-3acda996dc1b?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy83ODM3YTIzNC05NjM1LTRkYTgtYjEzMi00NzZhYWNkOWI0YzEqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjg0MDEwfX19XX0_&Signature=0NCrDHEtg~3Ag4tUAPQa6ilJ6cyZ~w4zVuMSD7cG~r-mqETwrHjP~ymbFvuB7vZlbnPnlWCA1ED5pRAzfLnrljg2GzmBKzehdZ5pgyEdg2DhUh1PdoH9P3mOCEtIvAjK8OJMABLlrsk9l-sKHGYMa1a1Cwv28E-vbs9wjG1faMxEGG67VKe8YrbKJea-zq31p-n-SwDxEgYcBaFhSoyAOtk-LQQh4YnbO4e3Mh1O3qhd1CUPoi~QB1~gR8sul5CK0VJQczSIV5ZAIetLpT6YzKJjTsyOlpvwM1Ndaf6IhiW6ocfSJj45JPk5h8YsmO05fa9p1P7DalJRXVD6AH0o6g__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA",
+    "as_of": 2026
+   },
+   {
+    "value": "+960 729 2820",
+    "source_url": "https://erimaldives.com/blog/post/why-may-is-the-best-time-to-visit-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 729 2820",
+    "source_url": "https://erimaldives.com/blog/post/best-resort-for-maldives-vacations/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 729 2820",
+    "source_url": "https://erimaldives.com/blog/post/how-to-stay-healthy-during-your-stay-at-eri-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 729 2820",
+    "source_url": "https://erimaldives.com/blog/post/the-maldives-guide-for-travellers-who-love-nature-beyond-the-beach/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 729 2820",
+    "source_url": "https://erimaldives.com/blog/post/snorkelling-and-diving-in-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 729 2820",
+    "source_url": "https://erimaldives.com/blog/post/a-solo-escape-at-eri-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 729 2820",
+    "source_url": "https://erimaldives.com/blog/post/dive-sites-near-north-male-atoll/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 729 2820",
+    "source_url": "https://erimaldives.com/blog/post/which-resort-is-the-most-romantic-in-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 729 2820",
+    "source_url": "https://erimaldives.com/blog/post/can-you-swim-in-the-maldives-all-year/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 729 2820",
+    "source_url": "https://erimaldives.com/blog/post/discover-the-right-maldives-resort-for-you/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 729 2820",
+    "source_url": "https://erimaldives.com/blog/post/which-maldives-resort-offers-the-best-beachfront-villas/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 729 2820",
+    "source_url": "https://erimaldives.com/blog/post/discover-the-maldives-the-local-way-at-eri-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 729 2820",
+    "source_url": "https://erimaldives.com/blog/post/resorts-near-velana-airport/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 729 2820",
+    "source_url": "https://erimaldives.com/blog/post/marine-wonders-to-discover-in-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 729 2820",
+    "source_url": "https://erimaldives.com/blog/post/wellness-at-eri-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 729 2820",
+    "source_url": "https://erimaldives.com/blog/post/the-perfect-day-at-eri-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 729 2820",
+    "source_url": "https://erimaldives.com/blog/post/a-guide-to-the-villas-at-eri-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 729 2820",
+    "source_url": "https://erimaldives.com/blog/post/dining-at-eri-maldives-best-restaurants-in-north-male-atoll/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 729 2820",
+    "source_url": "https://erimaldives.com/blog/post/top-reasons-to-visit-the-maldives-in-the-off-season/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 729 2820",
+    "source_url": "https://erimaldives.com/blog/post/eco-chic-stays-at-eri/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 729 2820",
+    "source_url": "https://erimaldives.com/blog/post/where-can-you-experience-a-mindful-maldives-getaway/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 729 2820",
+    "source_url": "https://erimaldives.com/blog/post/seven-days-by-the-sea-an-ocean-wellness-itinerary-at-eri-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 729 2820",
+    "source_url": "https://erimaldives.com/blog/post/sunrise-to-sunset-at-eri/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 729 2820",
+    "source_url": "https://erimaldives.com/blog/post/where-can-couples-find-a-romantic-resort-near-male-airport/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 729 2820",
+    "source_url": "https://erimaldives.com/blog/post/maldives-travel-tips-everything-you-need-to-know-before-your-island-escape/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 729 2820",
+    "source_url": "https://erimaldives.com/blog/post/what-kind-of-traveller-are-you-in-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 729 2820",
+    "source_url": "https://erimaldives.com/blog/post/a-guide-to-island-moments-made-for-two/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 729 2820",
+    "source_url": "https://erimaldives.com/blog/post/beneath-eris-turquoise-waters/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 729 2820",
+    "source_url": "https://erimaldives.com/blog/post/eri-maldives-pristine-coral-gardens/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 729 2820",
+    "source_url": "https://erimaldives.com/blog/post/easter-in-full-bloom-at-eri/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 729 2820",
+    "source_url": "https://erimaldives.com/blog/post/how-to-make-the-most-of-a-5-day-maldives-vacation/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 729 2820",
+    "source_url": "https://erimaldives.com/blog/post/how-eri-maldives-combines-adventure-and-relaxation-for-every-traveller/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 729 2820",
+    "source_url": "https://erimaldives.com/blog/post/romantic-villas-for-two-in-the-maldives-a-soulful-escape-at-eri/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 729 2820",
+    "source_url": "https://erimaldives.com/blog/post/resorts-near-male-international-airport/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 729 2820",
+    "source_url": "https://erimaldives.com/blog/post/plan-the-ultimate-group-getaway-at-eri-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 729 2820",
+    "source_url": "https://erimaldives.com/blog/post/a-guide-to-spending-5-days-in-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 736 5425",
+    "source_url": "https://www.neoscapesmaldives.com/resort/furaveri-island-resort/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "star_rating": [
+   {
+    "value": "5-star",
+    "source_url": "https://d7h9v39iheghu.cloudfront.net/previews/7837a234-9635-4da8-b132-476aacd9b4c1/999db426-ea2a-4c44-b6e3-658ea396827e/def5341a-4bbd-4356-99ca-a82a64f92b76?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy83ODM3YTIzNC05NjM1LTRkYTgtYjEzMi00NzZhYWNkOWI0YzEqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjg0MDEwfX19XX0_&Signature=0NCrDHEtg~3Ag4tUAPQa6ilJ6cyZ~w4zVuMSD7cG~r-mqETwrHjP~ymbFvuB7vZlbnPnlWCA1ED5pRAzfLnrljg2GzmBKzehdZ5pgyEdg2DhUh1PdoH9P3mOCEtIvAjK8OJMABLlrsk9l-sKHGYMa1a1Cwv28E-vbs9wjG1faMxEGG67VKe8YrbKJea-zq31p-n-SwDxEgYcBaFhSoyAOtk-LQQh4YnbO4e3Mh1O3qhd1CUPoi~QB1~gR8sul5CK0VJQczSIV5ZAIetLpT6YzKJjTsyOlpvwM1Ndaf6IhiW6ocfSJj45JPk5h8YsmO05fa9p1P7DalJRXVD6AH0o6g__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA",
+    "as_of": 2026
+   },
+   {
+    "value": "5-star",
+    "source_url": "https://erimaldives.com/blog/post/best-resort-for-maldives-vacations/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "5-star",
+    "source_url": "https://erimaldives.com/blog/post/the-maldives-guide-for-travellers-who-love-nature-beyond-the-beach/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "5-star",
+    "source_url": "https://erimaldives.com/blog/post/dive-sites-near-north-male-atoll/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "5-star",
+    "source_url": "https://erimaldives.com/blog/post/where-can-you-experience-a-mindful-maldives-getaway/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "5-star",
+    "source_url": "https://erimaldives.com/blog/post/what-kind-of-traveller-are-you-in-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "5-star",
+    "source_url": "https://erimaldives.com/blog/post/first-time-diving-in-the-maldives-your-beginners-guide-to-diving-at-eri/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "diving_watersports.operator": [
+   {
+    "value": "Euro-Divers",
+    "source_url": "https://d7h9v39iheghu.cloudfront.net/previews/7837a234-9635-4da8-b132-476aacd9b4c1/999db426-ea2a-4c44-b6e3-658ea396827e/def5341a-4bbd-4356-99ca-a82a64f92b76?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy83ODM3YTIzNC05NjM1LTRkYTgtYjEzMi00NzZhYWNkOWI0YzEqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjg0MDEwfX19XX0_&Signature=0NCrDHEtg~3Ag4tUAPQa6ilJ6cyZ~w4zVuMSD7cG~r-mqETwrHjP~ymbFvuB7vZlbnPnlWCA1ED5pRAzfLnrljg2GzmBKzehdZ5pgyEdg2DhUh1PdoH9P3mOCEtIvAjK8OJMABLlrsk9l-sKHGYMa1a1Cwv28E-vbs9wjG1faMxEGG67VKe8YrbKJea-zq31p-n-SwDxEgYcBaFhSoyAOtk-LQQh4YnbO4e3Mh1O3qhd1CUPoi~QB1~gR8sul5CK0VJQczSIV5ZAIetLpT6YzKJjTsyOlpvwM1Ndaf6IhiW6ocfSJj45JPk5h8YsmO05fa9p1P7DalJRXVD6AH0o6g__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA",
+    "as_of": 2026
+   },
+   {
+    "value": "Euro-Divers",
+    "source_url": "https://d7h9v39iheghu.cloudfront.net/previews/7837a234-9635-4da8-b132-476aacd9b4c1/211acdab-18f3-4cc6-99ee-f67a15a4c30d/13d49216-0e0d-4bb8-90ad-e37b4ac94c81?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy83ODM3YTIzNC05NjM1LTRkYTgtYjEzMi00NzZhYWNkOWI0YzEqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjg0MDEwfX19XX0_&Signature=0NCrDHEtg~3Ag4tUAPQa6ilJ6cyZ~w4zVuMSD7cG~r-mqETwrHjP~ymbFvuB7vZlbnPnlWCA1ED5pRAzfLnrljg2GzmBKzehdZ5pgyEdg2DhUh1PdoH9P3mOCEtIvAjK8OJMABLlrsk9l-sKHGYMa1a1Cwv28E-vbs9wjG1faMxEGG67VKe8YrbKJea-zq31p-n-SwDxEgYcBaFhSoyAOtk-LQQh4YnbO4e3Mh1O3qhd1CUPoi~QB1~gR8sul5CK0VJQczSIV5ZAIetLpT6YzKJjTsyOlpvwM1Ndaf6IhiW6ocfSJj45JPk5h8YsmO05fa9p1P7DalJRXVD6AH0o6g__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA",
+    "as_of": 2026
+   },
+   {
+    "value": "Euro-Divers",
+    "source_url": "https://erimaldives.com/blog/post/best-resort-for-maldives-vacations/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Euro-Divers",
+    "source_url": "https://erimaldives.com/blog/post/the-maldives-guide-for-travellers-who-love-nature-beyond-the-beach/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Euro-Divers",
+    "source_url": "https://erimaldives.com/blog/post/a-solo-escape-at-eri-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Euro-Divers",
+    "source_url": "https://erimaldives.com/blog/post/dive-sites-near-north-male-atoll/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Euro-Divers",
+    "source_url": "https://erimaldives.com/blog/post/discover-the-maldives-the-local-way-at-eri-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Euro-Divers",
+    "source_url": "https://erimaldives.com/blog/post/top-reasons-to-visit-the-maldives-in-the-off-season/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Euro-Divers",
+    "source_url": "https://erimaldives.com/blog/post/where-can-you-experience-a-mindful-maldives-getaway/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Euro-Divers",
+    "source_url": "https://erimaldives.com/blog/post/what-kind-of-traveller-are-you-in-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Euro-Divers",
+    "source_url": "https://erimaldives.com/blog/post/first-time-diving-in-the-maldives-your-beginners-guide-to-diving-at-eri/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Euro-Divers",
+    "source_url": "https://erimaldives.com/blog/post/a-guide-to-spending-5-days-in-the-maldives/",
+    "as_of": "2026-10-04"
    }
   ],
   "excursions": [
+   {
+    "value": "manta",
+    "source_url": "https://d7h9v39iheghu.cloudfront.net/previews/7837a234-9635-4da8-b132-476aacd9b4c1/999db426-ea2a-4c44-b6e3-658ea396827e/def5341a-4bbd-4356-99ca-a82a64f92b76?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy83ODM3YTIzNC05NjM1LTRkYTgtYjEzMi00NzZhYWNkOWI0YzEqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjg0MDEwfX19XX0_&Signature=0NCrDHEtg~3Ag4tUAPQa6ilJ6cyZ~w4zVuMSD7cG~r-mqETwrHjP~ymbFvuB7vZlbnPnlWCA1ED5pRAzfLnrljg2GzmBKzehdZ5pgyEdg2DhUh1PdoH9P3mOCEtIvAjK8OJMABLlrsk9l-sKHGYMa1a1Cwv28E-vbs9wjG1faMxEGG67VKe8YrbKJea-zq31p-n-SwDxEgYcBaFhSoyAOtk-LQQh4YnbO4e3Mh1O3qhd1CUPoi~QB1~gR8sul5CK0VJQczSIV5ZAIetLpT6YzKJjTsyOlpvwM1Ndaf6IhiW6ocfSJj45JPk5h8YsmO05fa9p1P7DalJRXVD6AH0o6g__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA",
+    "as_of": 2026
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://d7h9v39iheghu.cloudfront.net/previews/7837a234-9635-4da8-b132-476aacd9b4c1/999db426-ea2a-4c44-b6e3-658ea396827e/def5341a-4bbd-4356-99ca-a82a64f92b76?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy83ODM3YTIzNC05NjM1LTRkYTgtYjEzMi00NzZhYWNkOWI0YzEqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjg0MDEwfX19XX0_&Signature=0NCrDHEtg~3Ag4tUAPQa6ilJ6cyZ~w4zVuMSD7cG~r-mqETwrHjP~ymbFvuB7vZlbnPnlWCA1ED5pRAzfLnrljg2GzmBKzehdZ5pgyEdg2DhUh1PdoH9P3mOCEtIvAjK8OJMABLlrsk9l-sKHGYMa1a1Cwv28E-vbs9wjG1faMxEGG67VKe8YrbKJea-zq31p-n-SwDxEgYcBaFhSoyAOtk-LQQh4YnbO4e3Mh1O3qhd1CUPoi~QB1~gR8sul5CK0VJQczSIV5ZAIetLpT6YzKJjTsyOlpvwM1Ndaf6IhiW6ocfSJj45JPk5h8YsmO05fa9p1P7DalJRXVD6AH0o6g__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA",
+    "as_of": 2026
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://d7h9v39iheghu.cloudfront.net/previews/7837a234-9635-4da8-b132-476aacd9b4c1/211acdab-18f3-4cc6-99ee-f67a15a4c30d/13d49216-0e0d-4bb8-90ad-e37b4ac94c81?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy83ODM3YTIzNC05NjM1LTRkYTgtYjEzMi00NzZhYWNkOWI0YzEqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjg0MDEwfX19XX0_&Signature=0NCrDHEtg~3Ag4tUAPQa6ilJ6cyZ~w4zVuMSD7cG~r-mqETwrHjP~ymbFvuB7vZlbnPnlWCA1ED5pRAzfLnrljg2GzmBKzehdZ5pgyEdg2DhUh1PdoH9P3mOCEtIvAjK8OJMABLlrsk9l-sKHGYMa1a1Cwv28E-vbs9wjG1faMxEGG67VKe8YrbKJea-zq31p-n-SwDxEgYcBaFhSoyAOtk-LQQh4YnbO4e3Mh1O3qhd1CUPoi~QB1~gR8sul5CK0VJQczSIV5ZAIetLpT6YzKJjTsyOlpvwM1Ndaf6IhiW6ocfSJj45JPk5h8YsmO05fa9p1P7DalJRXVD6AH0o6g__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA",
+    "as_of": 2026
+   },
+   {
+    "value": "local island",
+    "source_url": "https://d7h9v39iheghu.cloudfront.net/previews/7837a234-9635-4da8-b132-476aacd9b4c1/951281f7-d8a4-4fd2-9893-4801b3328de4/951281f7-d8a4-4fd2-9893-4801b3328de4?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy83ODM3YTIzNC05NjM1LTRkYTgtYjEzMi00NzZhYWNkOWI0YzEqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjg0MDEwfX19XX0_&Signature=0NCrDHEtg~3Ag4tUAPQa6ilJ6cyZ~w4zVuMSD7cG~r-mqETwrHjP~ymbFvuB7vZlbnPnlWCA1ED5pRAzfLnrljg2GzmBKzehdZ5pgyEdg2DhUh1PdoH9P3mOCEtIvAjK8OJMABLlrsk9l-sKHGYMa1a1Cwv28E-vbs9wjG1faMxEGG67VKe8YrbKJea-zq31p-n-SwDxEgYcBaFhSoyAOtk-LQQh4YnbO4e3Mh1O3qhd1CUPoi~QB1~gR8sul5CK0VJQczSIV5ZAIetLpT6YzKJjTsyOlpvwM1Ndaf6IhiW6ocfSJj45JPk5h8YsmO05fa9p1P7DalJRXVD6AH0o6g__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA",
+    "as_of": 2025
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://d7h9v39iheghu.cloudfront.net/previews/7837a234-9635-4da8-b132-476aacd9b4c1/951281f7-d8a4-4fd2-9893-4801b3328de4/951281f7-d8a4-4fd2-9893-4801b3328de4?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy83ODM3YTIzNC05NjM1LTRkYTgtYjEzMi00NzZhYWNkOWI0YzEqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjg0MDEwfX19XX0_&Signature=0NCrDHEtg~3Ag4tUAPQa6ilJ6cyZ~w4zVuMSD7cG~r-mqETwrHjP~ymbFvuB7vZlbnPnlWCA1ED5pRAzfLnrljg2GzmBKzehdZ5pgyEdg2DhUh1PdoH9P3mOCEtIvAjK8OJMABLlrsk9l-sKHGYMa1a1Cwv28E-vbs9wjG1faMxEGG67VKe8YrbKJea-zq31p-n-SwDxEgYcBaFhSoyAOtk-LQQh4YnbO4e3Mh1O3qhd1CUPoi~QB1~gR8sul5CK0VJQczSIV5ZAIetLpT6YzKJjTsyOlpvwM1Ndaf6IhiW6ocfSJj45JPk5h8YsmO05fa9p1P7DalJRXVD6AH0o6g__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA",
+    "as_of": 2025
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://d7h9v39iheghu.cloudfront.net/previews/7837a234-9635-4da8-b132-476aacd9b4c1/951281f7-d8a4-4fd2-9893-4801b3328de4/951281f7-d8a4-4fd2-9893-4801b3328de4?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy83ODM3YTIzNC05NjM1LTRkYTgtYjEzMi00NzZhYWNkOWI0YzEqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjg0MDEwfX19XX0_&Signature=0NCrDHEtg~3Ag4tUAPQa6ilJ6cyZ~w4zVuMSD7cG~r-mqETwrHjP~ymbFvuB7vZlbnPnlWCA1ED5pRAzfLnrljg2GzmBKzehdZ5pgyEdg2DhUh1PdoH9P3mOCEtIvAjK8OJMABLlrsk9l-sKHGYMa1a1Cwv28E-vbs9wjG1faMxEGG67VKe8YrbKJea-zq31p-n-SwDxEgYcBaFhSoyAOtk-LQQh4YnbO4e3Mh1O3qhd1CUPoi~QB1~gR8sul5CK0VJQczSIV5ZAIetLpT6YzKJjTsyOlpvwM1Ndaf6IhiW6ocfSJj45JPk5h8YsmO05fa9p1P7DalJRXVD6AH0o6g__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA",
+    "as_of": 2025
+   },
+   {
+    "value": "big game fishing",
+    "source_url": "https://d7h9v39iheghu.cloudfront.net/previews/7837a234-9635-4da8-b132-476aacd9b4c1/951281f7-d8a4-4fd2-9893-4801b3328de4/951281f7-d8a4-4fd2-9893-4801b3328de4?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy83ODM3YTIzNC05NjM1LTRkYTgtYjEzMi00NzZhYWNkOWI0YzEqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjg0MDEwfX19XX0_&Signature=0NCrDHEtg~3Ag4tUAPQa6ilJ6cyZ~w4zVuMSD7cG~r-mqETwrHjP~ymbFvuB7vZlbnPnlWCA1ED5pRAzfLnrljg2GzmBKzehdZ5pgyEdg2DhUh1PdoH9P3mOCEtIvAjK8OJMABLlrsk9l-sKHGYMa1a1Cwv28E-vbs9wjG1faMxEGG67VKe8YrbKJea-zq31p-n-SwDxEgYcBaFhSoyAOtk-LQQh4YnbO4e3Mh1O3qhd1CUPoi~QB1~gR8sul5CK0VJQczSIV5ZAIetLpT6YzKJjTsyOlpvwM1Ndaf6IhiW6ocfSJj45JPk5h8YsmO05fa9p1P7DalJRXVD6AH0o6g__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA",
+    "as_of": 2025
+   },
+   {
+    "value": "picnic",
+    "source_url": "https://d7h9v39iheghu.cloudfront.net/previews/7837a234-9635-4da8-b132-476aacd9b4c1/951281f7-d8a4-4fd2-9893-4801b3328de4/951281f7-d8a4-4fd2-9893-4801b3328de4?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy83ODM3YTIzNC05NjM1LTRkYTgtYjEzMi00NzZhYWNkOWI0YzEqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjg0MDEwfX19XX0_&Signature=0NCrDHEtg~3Ag4tUAPQa6ilJ6cyZ~w4zVuMSD7cG~r-mqETwrHjP~ymbFvuB7vZlbnPnlWCA1ED5pRAzfLnrljg2GzmBKzehdZ5pgyEdg2DhUh1PdoH9P3mOCEtIvAjK8OJMABLlrsk9l-sKHGYMa1a1Cwv28E-vbs9wjG1faMxEGG67VKe8YrbKJea-zq31p-n-SwDxEgYcBaFhSoyAOtk-LQQh4YnbO4e3Mh1O3qhd1CUPoi~QB1~gR8sul5CK0VJQczSIV5ZAIetLpT6YzKJjTsyOlpvwM1Ndaf6IhiW6ocfSJj45JPk5h8YsmO05fa9p1P7DalJRXVD6AH0o6g__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA",
+    "as_of": 2025
+   },
+   {
+    "value": "island hopping",
+    "source_url": "https://letsgomaldives.com/wp-content/uploads/2026/09/Furaveri-Maldives-_Premium-All-Inclusive_2027-2028.pdf",
+    "as_of": 2028
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://letsgomaldives.com/wp-content/uploads/2026/09/Furaveri-Maldives-_Premium-All-Inclusive_2027-2028.pdf",
+    "as_of": 2028
+   },
+   {
+    "value": "island hopping",
+    "source_url": "https://furaveri.com/wp-content/uploads/2026/07/Furaveri_Maldives-_Premium-All-Inclusive-plan_2027-2028_rev04072026_243.pdf",
+    "as_of": 2028
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://furaveri.com/wp-content/uploads/2026/07/Furaveri_Maldives-_Premium-All-Inclusive-plan_2027-2028_rev04072026_243.pdf",
+    "as_of": 2028
+   },
+   {
+    "value": "manta",
+    "source_url": "https://erimaldives.com/blog/post/best-resort-for-maldives-vacations/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://erimaldives.com/blog/post/best-resort-for-maldives-vacations/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://erimaldives.com/blog/post/the-maldives-guide-for-travellers-who-love-nature-beyond-the-beach/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://erimaldives.com/blog/post/the-maldives-guide-for-travellers-who-love-nature-beyond-the-beach/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://erimaldives.com/blog/post/snorkelling-and-diving-in-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://erimaldives.com/blog/post/dive-sites-near-north-male-atoll/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://erimaldives.com/blog/post/dive-sites-near-north-male-atoll/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://erimaldives.com/blog/post/dive-sites-near-north-male-atoll/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://erimaldives.com/blog/post/dive-sites-near-north-male-atoll/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://erimaldives.com/blog/post/can-you-swim-in-the-maldives-all-year/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://erimaldives.com/blog/post/discover-the-right-maldives-resort-for-you/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "local island",
+    "source_url": "https://erimaldives.com/blog/post/discover-the-maldives-the-local-way-at-eri-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://erimaldives.com/blog/post/discover-the-maldives-the-local-way-at-eri-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "big game fishing",
+    "source_url": "https://erimaldives.com/blog/post/discover-the-maldives-the-local-way-at-eri-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://erimaldives.com/blog/post/marine-wonders-to-discover-in-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://erimaldives.com/blog/post/marine-wonders-to-discover-in-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://erimaldives.com/blog/post/the-perfect-day-at-eri-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://erimaldives.com/blog/post/the-perfect-day-at-eri-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://erimaldives.com/blog/post/the-perfect-day-at-eri-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://erimaldives.com/blog/post/sunrise-to-sunset-at-eri/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://erimaldives.com/blog/post/where-can-couples-find-a-romantic-resort-near-male-airport/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://erimaldives.com/blog/post/maldives-travel-tips-everything-you-need-to-know-before-your-island-escape/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://erimaldives.com/blog/post/maldives-travel-tips-everything-you-need-to-know-before-your-island-escape/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://erimaldives.com/blog/post/what-kind-of-traveller-are-you-in-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://erimaldives.com/blog/post/what-kind-of-traveller-are-you-in-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://erimaldives.com/blog/post/first-time-diving-in-the-maldives-your-beginners-guide-to-diving-at-eri/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://erimaldives.com/blog/post/first-time-diving-in-the-maldives-your-beginners-guide-to-diving-at-eri/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://erimaldives.com/blog/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://erimaldives.com/blog/post/beneath-eris-turquoise-waters/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://erimaldives.com/blog/post/beneath-eris-turquoise-waters/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://erimaldives.com/blog/post/eri-maldives-pristine-coral-gardens/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://erimaldives.com/blog/post/how-to-make-the-most-of-a-5-day-maldives-vacation/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "island hopping",
+    "source_url": "https://erimaldives.com/blog/post/how-eri-maldives-combines-adventure-and-relaxation-for-every-traveller/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://erimaldives.com/blog/post/how-eri-maldives-combines-adventure-and-relaxation-for-every-traveller/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://erimaldives.com/blog/post/how-eri-maldives-combines-adventure-and-relaxation-for-every-traveller/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://erimaldives.com/blog/post/resorts-near-male-international-airport/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://erimaldives.com/blog/post/a-guide-to-spending-5-days-in-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://erimaldives.com/blog/post/a-guide-to-spending-5-days-in-the-maldives/",
+    "as_of": "2026-10-04"
+   },
    {
     "value": "local island",
     "source_url": "https://www.neoscapesmaldives.com/resort/furaveri-island-resort/",
@@ -697,22 +2530,601 @@
     "value": "cooking class",
     "source_url": "https://www.neoscapesmaldives.com/resort/furaveri-island-resort/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "big game fishing",
+    "source_url": "https://www.mymaldives.com/resort-guide/eriyadu-island-resort/",
+    "as_of": "2026-10-04"
    }
   ],
-  "contacts_public.reservations_email": [
+  "events_mice.venues": [
    {
-    "value": "info@neoscapesmaldives.com",
+    "value": "Our meeting room blends calm island energy with",
+    "source_url": "https://d7h9v39iheghu.cloudfront.net/previews/7837a234-9635-4da8-b132-476aacd9b4c1/999db426-ea2a-4c44-b6e3-658ea396827e/def5341a-4bbd-4356-99ca-a82a64f92b76?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy83ODM3YTIzNC05NjM1LTRkYTgtYjEzMi00NzZhYWNkOWI0YzEqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjg0MDEwfX19XX0_&Signature=0NCrDHEtg~3Ag4tUAPQa6ilJ6cyZ~w4zVuMSD7cG~r-mqETwrHjP~ymbFvuB7vZlbnPnlWCA1ED5pRAzfLnrljg2GzmBKzehdZ5pgyEdg2DhUh1PdoH9P3mOCEtIvAjK8OJMABLlrsk9l-sKHGYMa1a1Cwv28E-vbs9wjG1faMxEGG67VKe8YrbKJea-zq31p-n-SwDxEgYcBaFhSoyAOtk-LQQh4YnbO4e3Mh1O3qhd1CUPoi~QB1~gR8sul5CK0VJQczSIV5ZAIetLpT6YzKJjTsyOlpvwM1Ndaf6IhiW6ocfSJj45JPk5h8YsmO05fa9p1P7DalJRXVD6AH0o6g__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA",
+    "as_of": 2026
+   }
+  ],
+  "weddings.offered": [
+   {
+    "value": true,
+    "source_url": "https://d7h9v39iheghu.cloudfront.net/previews/7837a234-9635-4da8-b132-476aacd9b4c1/d10617e8-ce68-4acc-8fc4-e29b9ab61393/d10617e8-ce68-4acc-8fc4-e29b9ab61393?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy83ODM3YTIzNC05NjM1LTRkYTgtYjEzMi00NzZhYWNkOWI0YzEqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjg0MDEwfX19XX0_&Signature=0NCrDHEtg~3Ag4tUAPQa6ilJ6cyZ~w4zVuMSD7cG~r-mqETwrHjP~ymbFvuB7vZlbnPnlWCA1ED5pRAzfLnrljg2GzmBKzehdZ5pgyEdg2DhUh1PdoH9P3mOCEtIvAjK8OJMABLlrsk9l-sKHGYMa1a1Cwv28E-vbs9wjG1faMxEGG67VKe8YrbKJea-zq31p-n-SwDxEgYcBaFhSoyAOtk-LQQh4YnbO4e3Mh1O3qhd1CUPoi~QB1~gR8sul5CK0VJQczSIV5ZAIetLpT6YzKJjTsyOlpvwM1Ndaf6IhiW6ocfSJj45JPk5h8YsmO05fa9p1P7DalJRXVD6AH0o6g__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA",
+    "as_of": 2026
+   },
+   {
+    "value": true,
+    "source_url": "https://letsgomaldives.com/wp-content/uploads/2026/09/Furaveri-Maldives-_Premium-All-Inclusive_2027-2028.pdf",
+    "as_of": 2028
+   },
+   {
+    "value": true,
+    "source_url": "https://furaveri.com/wp-content/uploads/2026/07/Furaveri_Maldives-_Premium-All-Inclusive-plan_2027-2028_rev04072026_243.pdf",
+    "as_of": 2028
+   },
+   {
+    "value": true,
+    "source_url": "https://erimaldives.com/renew-your-vows-in-paradise/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://erimaldives.com/blog/post/where-can-couples-find-a-romantic-resort-near-male-airport/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
     "source_url": "https://www.neoscapesmaldives.com/resort/furaveri-island-resort/",
     "as_of": "2026-10-04"
    }
   ],
-  "contacts_public.phone": [
+  "weddings.venues": [
    {
-    "value": "+960 736 5425",
+    "value": "Tropical beach ceremony set-up",
+    "source_url": "https://d7h9v39iheghu.cloudfront.net/previews/7837a234-9635-4da8-b132-476aacd9b4c1/d10617e8-ce68-4acc-8fc4-e29b9ab61393/d10617e8-ce68-4acc-8fc4-e29b9ab61393?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy83ODM3YTIzNC05NjM1LTRkYTgtYjEzMi00NzZhYWNkOWI0YzEqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjg0MDEwfX19XX0_&Signature=0NCrDHEtg~3Ag4tUAPQa6ilJ6cyZ~w4zVuMSD7cG~r-mqETwrHjP~ymbFvuB7vZlbnPnlWCA1ED5pRAzfLnrljg2GzmBKzehdZ5pgyEdg2DhUh1PdoH9P3mOCEtIvAjK8OJMABLlrsk9l-sKHGYMa1a1Cwv28E-vbs9wjG1faMxEGG67VKe8YrbKJea-zq31p-n-SwDxEgYcBaFhSoyAOtk-LQQh4YnbO4e3Mh1O3qhd1CUPoi~QB1~gR8sul5CK0VJQczSIV5ZAIetLpT6YzKJjTsyOlpvwM1Ndaf6IhiW6ocfSJj45JPk5h8YsmO05fa9p1P7DalJRXVD6AH0o6g__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA",
+    "as_of": 2026
+   },
+   {
+    "value": "Tropical beach ceremony set-up",
+    "source_url": "https://d7h9v39iheghu.cloudfront.net/previews/7837a234-9635-4da8-b132-476aacd9b4c1/d10617e8-ce68-4acc-8fc4-e29b9ab61393/d10617e8-ce68-4acc-8fc4-e29b9ab61393?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy83ODM3YTIzNC05NjM1LTRkYTgtYjEzMi00NzZhYWNkOWI0YzEqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjg0MDEwfX19XX0_&Signature=0NCrDHEtg~3Ag4tUAPQa6ilJ6cyZ~w4zVuMSD7cG~r-mqETwrHjP~ymbFvuB7vZlbnPnlWCA1ED5pRAzfLnrljg2GzmBKzehdZ5pgyEdg2DhUh1PdoH9P3mOCEtIvAjK8OJMABLlrsk9l-sKHGYMa1a1Cwv28E-vbs9wjG1faMxEGG67VKe8YrbKJea-zq31p-n-SwDxEgYcBaFhSoyAOtk-LQQh4YnbO4e3Mh1O3qhd1CUPoi~QB1~gR8sul5CK0VJQczSIV5ZAIetLpT6YzKJjTsyOlpvwM1Ndaf6IhiW6ocfSJj45JPk5h8YsmO05fa9p1P7DalJRXVD6AH0o6g__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA",
+    "as_of": 2026
+   },
+   {
+    "value": "Tropical beach ceremony set-up",
+    "source_url": "https://d7h9v39iheghu.cloudfront.net/previews/7837a234-9635-4da8-b132-476aacd9b4c1/d10617e8-ce68-4acc-8fc4-e29b9ab61393/d10617e8-ce68-4acc-8fc4-e29b9ab61393?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy83ODM3YTIzNC05NjM1LTRkYTgtYjEzMi00NzZhYWNkOWI0YzEqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjg0MDEwfX19XX0_&Signature=0NCrDHEtg~3Ag4tUAPQa6ilJ6cyZ~w4zVuMSD7cG~r-mqETwrHjP~ymbFvuB7vZlbnPnlWCA1ED5pRAzfLnrljg2GzmBKzehdZ5pgyEdg2DhUh1PdoH9P3mOCEtIvAjK8OJMABLlrsk9l-sKHGYMa1a1Cwv28E-vbs9wjG1faMxEGG67VKe8YrbKJea-zq31p-n-SwDxEgYcBaFhSoyAOtk-LQQh4YnbO4e3Mh1O3qhd1CUPoi~QB1~gR8sul5CK0VJQczSIV5ZAIetLpT6YzKJjTsyOlpvwM1Ndaf6IhiW6ocfSJj45JPk5h8YsmO05fa9p1P7DalJRXVD6AH0o6g__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA",
+    "as_of": 2026
+   }
+  ],
+  "weddings.packages": [
+   {
+    "value": {
+     "name": "Wedding",
+     "price": "15000",
+     "currency": "USD",
+     "as_of": 2026
+    },
+    "source_url": "https://d7h9v39iheghu.cloudfront.net/previews/7837a234-9635-4da8-b132-476aacd9b4c1/d10617e8-ce68-4acc-8fc4-e29b9ab61393/d10617e8-ce68-4acc-8fc4-e29b9ab61393?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy83ODM3YTIzNC05NjM1LTRkYTgtYjEzMi00NzZhYWNkOWI0YzEqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjg0MDEwfX19XX0_&Signature=0NCrDHEtg~3Ag4tUAPQa6ilJ6cyZ~w4zVuMSD7cG~r-mqETwrHjP~ymbFvuB7vZlbnPnlWCA1ED5pRAzfLnrljg2GzmBKzehdZ5pgyEdg2DhUh1PdoH9P3mOCEtIvAjK8OJMABLlrsk9l-sKHGYMa1a1Cwv28E-vbs9wjG1faMxEGG67VKe8YrbKJea-zq31p-n-SwDxEgYcBaFhSoyAOtk-LQQh4YnbO4e3Mh1O3qhd1CUPoi~QB1~gR8sul5CK0VJQczSIV5ZAIetLpT6YzKJjTsyOlpvwM1Ndaf6IhiW6ocfSJj45JPk5h8YsmO05fa9p1P7DalJRXVD6AH0o6g__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA",
+    "as_of": 2026
+   }
+  ],
+  "dining": [
+   {
+    "value": {
+     "name": "Fire & Earth Grill (E)",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://d7h9v39iheghu.cloudfront.net/previews/7837a234-9635-4da8-b132-476aacd9b4c1/f4c17a44-1a32-4877-b4dc-3acda996dc1b/f4c17a44-1a32-4877-b4dc-3acda996dc1b?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy83ODM3YTIzNC05NjM1LTRkYTgtYjEzMi00NzZhYWNkOWI0YzEqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjg0MDEwfX19XX0_&Signature=0NCrDHEtg~3Ag4tUAPQa6ilJ6cyZ~w4zVuMSD7cG~r-mqETwrHjP~ymbFvuB7vZlbnPnlWCA1ED5pRAzfLnrljg2GzmBKzehdZ5pgyEdg2DhUh1PdoH9P3mOCEtIvAjK8OJMABLlrsk9l-sKHGYMa1a1Cwv28E-vbs9wjG1faMxEGG67VKe8YrbKJea-zq31p-n-SwDxEgYcBaFhSoyAOtk-LQQh4YnbO4e3Mh1O3qhd1CUPoi~QB1~gR8sul5CK0VJQczSIV5ZAIetLpT6YzKJjTsyOlpvwM1Ndaf6IhiW6ocfSJj45JPk5h8YsmO05fa9p1P7DalJRXVD6AH0o6g__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA",
+    "as_of": 2026
+   },
+   {
+    "value": {
+     "name": "Soul Kitchen",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://erimaldives.com/blog/post/why-may-is-the-best-time-to-visit-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Soul Kitchen",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://erimaldives.com/blog/post/best-resort-for-maldives-vacations/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Soul Kitchen",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://erimaldives.com/blog/post/how-to-stay-healthy-during-your-stay-at-eri-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Soul Kitchen,",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://erimaldives.com/blog/post/snorkelling-and-diving-in-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Soul Kitchen,",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://erimaldives.com/blog/post/which-resort-is-the-most-romantic-in-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Soul Kitchen",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://erimaldives.com/blog/post/discover-the-right-maldives-resort-for-you/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Soul Kitchen",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://erimaldives.com/blog/post/discover-the-maldives-the-local-way-at-eri-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Soul Kitchen",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://erimaldives.com/blog/post/resorts-near-velana-airport/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Soul Kitchen",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://erimaldives.com/blog/post/marine-wonders-to-discover-in-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Soul Kitchen",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://erimaldives.com/blog/post/wellness-at-eri-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Soul Kitchen",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://erimaldives.com/blog/post/the-perfect-day-at-eri-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Soul Kitchen",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://erimaldives.com/blog/post/a-guide-to-the-villas-at-eri-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Soul Kitchen",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://erimaldives.com/blog/post/dining-at-eri-maldives-best-restaurants-in-north-male-atoll/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Soul Kitchen",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://erimaldives.com/blog/post/top-reasons-to-visit-the-maldives-in-the-off-season/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Soul Kitchen",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://erimaldives.com/blog/post/where-can-you-experience-a-mindful-maldives-getaway/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Soul Kitchen",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://erimaldives.com/blog/post/seven-days-by-the-sea-an-ocean-wellness-itinerary-at-eri-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Soul Kitchen",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://erimaldives.com/blog/post/seven-days-by-the-sea-an-ocean-wellness-itinerary-at-eri-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Soul Kitchen",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://erimaldives.com/blog/post/sunrise-to-sunset-at-eri/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Soul Kitchen",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://erimaldives.com/blog/post/where-can-couples-find-a-romantic-resort-near-male-airport/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Soul Kitchen",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://erimaldives.com/blog/post/maldives-travel-tips-everything-you-need-to-know-before-your-island-escape/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Soul Kitchen",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://erimaldives.com/blog/post/what-kind-of-traveller-are-you-in-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Soul Kitchen",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://erimaldives.com/blog/post/a-guide-to-island-moments-made-for-two/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Soul Kitchen",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://erimaldives.com/blog/post/beneath-eris-turquoise-waters/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Soul Kitchen",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://erimaldives.com/blog/post/easter-in-full-bloom-at-eri/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Soul Kitchen,",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://erimaldives.com/blog/post/how-to-make-the-most-of-a-5-day-maldives-vacation/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Breakfast, lunch and dinner at Soul Kitchen",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://erimaldives.com/eri-meal-plan/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Soul Kitchen",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://erimaldives.com/blog/post/romantic-villas-for-two-in-the-maldives-a-soulful-escape-at-eri/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Soul Kitchen",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://erimaldives.com/dining/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Sip & Dip – Main Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://erimaldives.com/dining/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Soul Kitchen",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://erimaldives.com/blog/post/a-guide-to-spending-5-days-in-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Jaafaiy – Buffet Restaurant",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.neoscapesmaldives.com/resort/furaveri-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Raiyvilla – Asian Fusion Restaurant",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.neoscapesmaldives.com/resort/furaveri-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Teppan de Oishi – Japanese Teppanyaki",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.neoscapesmaldives.com/resort/furaveri-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Udhares Bar – Poolside & Oceanfront",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.neoscapesmaldives.com/resort/furaveri-island-resort/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "meal_plans": [
+   {
+    "value": "AI",
+    "source_url": "https://d7h9v39iheghu.cloudfront.net/previews/7837a234-9635-4da8-b132-476aacd9b4c1/f4c17a44-1a32-4877-b4dc-3acda996dc1b/f4c17a44-1a32-4877-b4dc-3acda996dc1b?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy83ODM3YTIzNC05NjM1LTRkYTgtYjEzMi00NzZhYWNkOWI0YzEqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjg0MDEwfX19XX0_&Signature=0NCrDHEtg~3Ag4tUAPQa6ilJ6cyZ~w4zVuMSD7cG~r-mqETwrHjP~ymbFvuB7vZlbnPnlWCA1ED5pRAzfLnrljg2GzmBKzehdZ5pgyEdg2DhUh1PdoH9P3mOCEtIvAjK8OJMABLlrsk9l-sKHGYMa1a1Cwv28E-vbs9wjG1faMxEGG67VKe8YrbKJea-zq31p-n-SwDxEgYcBaFhSoyAOtk-LQQh4YnbO4e3Mh1O3qhd1CUPoi~QB1~gR8sul5CK0VJQczSIV5ZAIetLpT6YzKJjTsyOlpvwM1Ndaf6IhiW6ocfSJj45JPk5h8YsmO05fa9p1P7DalJRXVD6AH0o6g__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA",
+    "as_of": 2026
+   },
+   {
+    "value": "AI",
+    "source_url": "https://letsgomaldives.com/wp-content/uploads/2026/09/Furaveri-Maldives-_Premium-All-Inclusive_2027-2028.pdf",
+    "as_of": 2028
+   },
+   {
+    "value": "Dine Around",
+    "source_url": "https://letsgomaldives.com/wp-content/uploads/2026/09/Furaveri-Maldives-_Premium-All-Inclusive_2027-2028.pdf",
+    "as_of": 2028
+   },
+   {
+    "value": "Dine Around",
+    "source_url": "https://furaveri.com/wp-content/uploads/2026/07/Furaveri_Maldives-_Premium-All-Inclusive-plan_2027-2028_rev04072026_243.pdf",
+    "as_of": 2028
+   },
+   {
+    "value": "AI",
+    "source_url": "https://erimaldives.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://erimaldives.com/eri-map/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://erimaldives.com/facilities/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://erimaldives.com/about-us/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://erimaldives.com/villas/beach-suite/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://erimaldives.com/offers/festive-offer/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://erimaldives.com/renew-your-vows-in-paradise/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://erimaldives.com/villas/beach-villa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://erimaldives.com/destination-dining/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://erimaldives.com/accommodation/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://erimaldives.com/authentic-cultural-immersion/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://erimaldives.com/villas/beach-pool-villa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://erimaldives.com/meet-the-turtles-of-eri/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://erimaldives.com/villas/premium-beach-villa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://erimaldives.com/offers/advance-purchase-offer/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://erimaldives.com/villas/beach-studio/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://erimaldives.com/offers/eri-all-inclusive-offer/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://erimaldives.com/dining/soul-kitchen/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://erimaldives.com/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://erimaldives.com/dining/beach-shack/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://erimaldives.com/getting-here/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://erimaldives.com/wellness/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://erimaldives.com/offers/limited-time-deal/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://erimaldives.com/experiences/underwater-diving/dive-sites/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://erimaldives.com/villas/sunset-beach-villa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://erimaldives.com/dining/sip-dip-main-bar/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://erimaldives.com/experiences/underwater-diving/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://erimaldives.com/villas/seaview-sky-room/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "all_inclusive_details": [
+   {
+    "value": "All-Inclusive beverages and light dining.",
+    "source_url": "https://letsgomaldives.com/wp-content/uploads/2026/09/Furaveri-Maldives-_Premium-All-Inclusive_2027-2028.pdf",
+    "as_of": 2028
+   },
+   {
+    "value": "All-Inclusive Dine Around package.",
+    "source_url": "https://furaveri.com/wp-content/uploads/2026/07/Furaveri_Maldives-_Premium-All-Inclusive-plan_2027-2028_rev04072026_243.pdf",
+    "as_of": 2028
+   }
+  ],
+  "kids_family.kids_club": [
+   {
+    "value": "Kids Club",
+    "source_url": "https://letsgomaldives.com/wp-content/uploads/2026/09/Furaveri-Maldives-_Premium-All-Inclusive_2027-2028.pdf",
+    "as_of": 2028
+   },
+   {
+    "value": "Kids Club",
+    "source_url": "https://furaveri.com/wp-content/uploads/2026/07/Furaveri_Maldives-_Premium-All-Inclusive-plan_2027-2028_rev04072026_243.pdf",
+    "as_of": 2028
+   },
+   {
+    "value": "Kids Club",
+    "source_url": "https://www.neoscapesmaldives.com/resort/furaveri-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Air Conditioning\nBar\nChildren's Club",
+    "source_url": "https://www.dnatatravel.com/2-904932-1/smartline-eriyadu?oc=true",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "island_size": [
+   {
+    "value": "730 m x 390 m",
     "source_url": "https://www.neoscapesmaldives.com/resort/furaveri-island-resort/",
     "as_of": "2026-10-04"
    }
   ]
  },
- "last_updated": "2026-10-04"
+ "last_updated": "2026-10-05"
 }

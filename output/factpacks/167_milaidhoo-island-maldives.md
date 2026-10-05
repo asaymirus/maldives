@@ -1,43 +1,46 @@
 # 167. Milaidhoo Island Maldives
 
-**Official site:** n/a (None)  
+**Official site:** https://www.milaidhoo.com/ (ok)  
 **Brand:** Milaidhoo  
-**Atoll:** Baa Atoll  **Island:** n/a  
-**Opened/renovated:** opened 2016  **Rating:** n/a  
-**Transfer:** seaplane, speedboat, domestic flight; minutes: {"seaplane": 15, "speedboat": 15, "domestic flight": 15}  
+**Atoll:** Baa Atoll  **Island:** Kudarikilu  
+**Opened/renovated:** opened 2016  **Rating:** 5-star  
+**Transfer:** seaplane, speedboat, domestic flight, yacht; minutes: {"seaplane": 15, "speedboat": 15, "domestic flight": 15}  
 **Island size:** 300 m x 180 m  
 
-## Villas (? total)
+## Villas (50 total)
 
-- Number of Villas: count 50, ? sqm, max ?
 - beach residence living room milaidhoo island maldives: count 8, ? sqm, max ?
 - beach residence e terior milaidhoo island maldives: count 6, ? sqm, max ?
 
 ## Dining
 
-- Dining (restaurant)
+- Café Latte (restaurant)
+- Compass Pool Bar (bar)
 - The Shoreline Grill (restaurant)
 - Shoreline Grill Chef’s Table (restaurant)
 - Shoreline Grill Wine Room (restaurant)
 - Ocean Restaurant (restaurant)
-- Compass Pool Bar (bar)
-- In-Villa Dining (restaurant)
+- Shoreline Grill (restaurant)
+- The Compass Pool Bar (bar)
+- Ba’theli Lounge & Restaurant (restaurant)
+- AZURE Restaurant (restaurant)
+- Wine Cellar (bar)
+- Airport Lounge (bar)
 
-Meal plans: Dine Around
+Meal plans: HB, Dine Around, AI
 
 ## Spa & wellness
 
-- Spa: Facilities
-The Serenity Spa; treatment rooms: ?; menu: none
-- Wellness/fitness: yoga, meditation, gym, fitness center
+- Spa: Spa; treatment rooms: ?; menu: https://d1l3wviaauwkfu.cloudfront.net/2026/08/Dr-Lim-14-20-September-Pamphlet-2.pdf
+- Wellness/fitness: yoga, meditation, sound healing, ayurveda, steam, gym, fitness center
 
 ## Diving, water sports & excursions
 
 - Operator: n/a
-- House reef: house reef
-- Activities: snorkelling, catamaran, fishing, whale shark, manta, sailing
-- Price list: none
-- Excursions: sandbank, dolphin, big game fishing, whale shark, manta, cinema, cooking class
+- House reef: house reef to meet its colourful residents
+- Activities: fishing, dolphin cruise, snorkelling, sailing, scuba diving, windsurfing, catamaran, manta, whale shark, stand-up paddle, sunset cruise, snorkeling
+- Price list: https://d1l3wviaauwkfu.cloudfront.net/2019/01/OceanStories_July-2025.pdf
+- Excursions: local island, sandbank, dolphin, turtle, picnic, manta, whale shark, castaway, private dinner, cinema, island hopping, stargazing, cooking class, big game fishing
 
 ## Kids & family
 
@@ -48,7 +51,7 @@ The Serenity Spa; treatment rooms: ?; menu: none
 - Offered: True; vow renewal: None
 - Venues: n/a
 - Packages: n/a
-- Brochure: none
+- Brochure: https://d1l3wviaauwkfu.cloudfront.net/2026/03/Greg-Finck-to-Host-Exclusive-Photography-Workshop-at-Milaidhoo-Maldives.pdf
 
 ## Events / MICE
 
@@ -57,29 +60,27 @@ The Serenity Spa; treatment rooms: ?; menu: none
 
 ## Sustainability
 
-- marine biologist
+- marine biologist, coral regeneration, composting, reef restoration, coral nursery
 
 ## Public contacts
 
-- Reservations: info@neoscapesmaldives.com; weddings: n/a; phone: +960 736 5425
+- Reservations: reservations@milaidhoo.com; weddings: n/a; phone: +960 660 77 88
 
 ## Latest documents
 
 - factsheet: none
-- map: https://www.neoscapesmaldives.com/wp-content/uploads/Island-Map-Milaidhoo-Island-Maldives.pdf
-- wedding: none
-- spa_menu: none
-- dining_menu: none
-- dive_prices: none
+- map: https://d1l3wviaauwkfu.cloudfront.net/2026/04/Compass-Gourmet-Plan.pdf
+- wedding: https://d1l3wviaauwkfu.cloudfront.net/2026/03/Greg-Finck-to-Host-Exclusive-Photography-Workshop-at-Milaidhoo-Maldives.pdf
+- spa_menu: https://d1l3wviaauwkfu.cloudfront.net/2026/08/Dr-Lim-14-20-September-Pamphlet-2.pdf
+- dining_menu: https://d1l3wviaauwkfu.cloudfront.net/2026/04/IVD-Food-2026.pdf
+- dive_prices: https://d1l3wviaauwkfu.cloudfront.net/2019/01/OceanStories_July-2025.pdf
 - events: none
-- calendar: none
+- calendar: https://d1l3wviaauwkfu.cloudfront.net/2026/07/Festive27-Digital_2.pdf
 
 ## Gaps
 
 - factsheet
-- wedding brochure
 - events/MICE document
-- fact: villas.total
 - fact: dive operator
 
-_Facts extracted by rules from 20 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-04._
+_Facts extracted by rules from 23 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

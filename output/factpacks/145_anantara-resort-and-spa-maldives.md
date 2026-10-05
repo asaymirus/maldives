@@ -1,13 +1,13 @@
 # 145. Anantara Resort and Spa Maldives
 
-**Official site:** n/a (None)  
+**Official site:** https://www.anantara.com/en/dhigu-maldives (blocked)  
 **Brand:** Anantara  
 **Atoll:** South Malé Atoll  **Island:** n/a  
-**Opened/renovated:** opened 2006  **Rating:** n/a  
+**Opened/renovated:** opened 2006  **Rating:** 5-star  
 **Transfer:** seaplane, speedboat, yacht; minutes: {"speedboat": 30}  
 **Island size:** 460 m x 100 m  
 
-## Villas (? total)
+## Villas (110 total)
 
 - SUNRISE BEACH VILLA: count 30, ? sqm, max ?
 - SUNSET BEACH VILLA: count 89, ? sqm, max ?
@@ -18,39 +18,39 @@
 - SUNSET OVER WATER POOL SUITE: count 38, ? sqm, max ?, pool, overwater
 - TWO BEDROOM FAMILY POOL VILLA: count 40, ? sqm, max ?, pool
 - TWO BEDROOM ANANTARA POOL VILLA: + , + , + , + , +: count 42, ? sqm, max ?, pool
-- Total Number of Villas: count 110, ? sqm, max ?
 
 ## Dining
 
 - Fushi Café (restaurant)
 - Cuisine: Grill and Seafood (restaurant)
-- Dining by Design (restaurant)
-- only by your own desires. Dining by Design is a (restaurant)
 - Tiki Bar (bar)
-- Dining (restaurant)
-- Family-friendly, Excellent Value, Signature Private Dining (restaurant)
 - Dhoni Bar (bar)
-- Designer Dining by Anantara (restaurant)
 - Wine Cellar (bar)
+- Tea Tasting at Aqua Bar (bar)
+- Fruit Carving at Fushi Cafe (restaurant)
+- Napkin Folding at Aqua Bar (bar)
+- Maldivian Spice making at Fushi Cafe (restaurant)
+- Pasta Making at Aqua Bar (bar)
+- Handroll Pizza making at Aqua Bar (bar)
 
-Meal plans: n/a
+Meal plans: HB, FB, Dine Around, AI
 
 ## Spa & wellness
 
 - Spa: Over Water Anantara Spa; treatment rooms: ?; menu: none
-- Wellness/fitness: yoga, meditation, fitness centre, tennis, badminton, sauna, steam, gym
+- Wellness/fitness: yoga, meditation, fitness centre, tennis, badminton, sauna, steam, gym, fitness center, sound healing, personal trainer
 
 ## Diving, water sports & excursions
 
 - Operator: Aquafanatics
-- House reef: n/a
-- Activities: snorkelling, surfing, whale shark, manta, snorkeling, kayaking, paddleboard, sunset cruise
+- House reef: house reef
+- Activities: snorkelling, surfing, whale shark, manta, snorkeling, kayaking, paddleboard, sunset cruise, scuba diving, windsurfing, kitesurfing, stand-up paddle, catamaran, jet ski, parasailing, water skiing, wakeboarding, fishing, dolphin cruise, sailing, flyboard, glass-bottom, canoe
 - Price list: none
-- Excursions: dolphin, whale shark, manta, turtle, picnic, stargazing, cooking class
+- Excursions: dolphin, whale shark, manta, turtle, picnic, stargazing, cooking class, big game fishing
 
 ## Kids & family
 
-- Kids club: Kids Club; ages: n/a; teens: n/a
+- Kids club: Kids Club; ages: n/a; teens: teens programme mentioned
 
 ## Weddings
 
@@ -66,7 +66,7 @@ Meal plans: n/a
 
 ## Sustainability
 
-- n/a
+- marine biologist
 
 ## Public contacts
 
@@ -87,6 +87,5 @@ Meal plans: n/a
 
 - wedding brochure
 - events/MICE document
-- fact: villas.total
 
-_Facts extracted by rules from 18 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-04._
+_Facts extracted by rules from 24 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

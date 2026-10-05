@@ -1,35 +1,31 @@
 # 92. Amaya Kuda Rah Maldives
 
 **Current name / alias:** NH Maldives Kuda Rah  
-**Official site:** n/a (None)  
+**Official site:** https://www.amayaresorts.com/ (unverified)  
 **Brand:** NH  
 **Atoll:** Ari Atoll  **Island:** n/a  
-**Opened/renovated:** n/a  **Rating:** 5-star  
-**Transfer:** seaplane; minutes: {"seaplane": 25}  
+**Opened/renovated:** opened 1995  **Rating:** 5-star  
+**Transfer:** seaplane, yacht; minutes: {"seaplane": 25}  
 **Island size:** n/a  
 
-## Villas (? total)
+## Villas (30 total)
 
-- Number of Villas: count 51, ? sqm, max ?
 
 ## Dining
 
-- Dining (restaurant)
-- In Villa Dining (restaurant)
-- Destination Dining (restaurant)
 
 Meal plans: n/a
 
 ## Spa & wellness
 
 - Spa: Spa; treatment rooms: 3; menu: none
-- Wellness/fitness: yoga, gym, steam, fitness center
+- Wellness/fitness: yoga, gym, steam, fitness center, tennis
 
 ## Diving, water sports & excursions
 
 - Operator: n/a
 - House reef: n/a
-- Activities: stand-up paddle, paddleboard, fishing, whale shark, manta, flyboard, canoe, snorkelling, sunset cruise
+- Activities: stand-up paddle, paddleboard, fishing, whale shark, manta, flyboard, canoe, snorkelling, sunset cruise, scuba diving
 - Price list: none
 - Excursions: island hopping, sandbank, big game fishing, whale shark, manta, turtle, cooking class, picnic
 
@@ -72,7 +68,8 @@ Meal plans: n/a
 
 - wedding brochure
 - events/MICE document
-- fact: villas.total
+- fact: villa categories
+- fact: dining
 - fact: dive operator
 
-_Facts extracted by rules from 15 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-04._
+_Facts extracted by rules from 15 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

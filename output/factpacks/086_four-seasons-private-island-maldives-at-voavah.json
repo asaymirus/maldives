@@ -6,10 +6,10 @@
   "Voavah",
   "Four Seasons Voavah"
  ],
- "official_url": null,
- "official_site_status": null,
+ "official_url": "https://www.fourseasons.com/maldivesvoavah/",
+ "official_site_status": "blocked",
  "operator_brand": "Four Seasons",
- "atoll": null,
+ "atoll": "Baa Atoll",
  "island": null,
  "opened_or_renovated": null,
  "star_rating": null,
@@ -31,7 +31,7 @@
  "meal_plans": [],
  "all_inclusive_details": null,
  "spa": {
-  "name": null,
+  "name": "Spa",
   "treatment_rooms": null,
   "signature_treatments": [],
   "menu_doc": null
@@ -39,16 +39,22 @@
  "diving_watersports": {
   "operator": null,
   "house_reef": null,
-  "activities": [],
+  "activities": [
+   "manta"
+  ],
   "price_list_doc": null
  },
- "excursions": [],
+ "excursions": [
+  "manta"
+ ],
  "kids_family": {
   "kids_club": null,
   "age_range": null,
   "teens": null
  },
- "wellness_fitness": [],
+ "wellness_fitness": [
+  "yoga"
+ ],
  "weddings": {
   "offered": null,
   "vow_renewal": null,
@@ -87,14 +93,47 @@
   "fact: villa categories",
   "fact: dining",
   "fact: transfer",
-  "fact: atoll",
-  "fact: spa",
   "fact: dive operator",
   "fact: kids club",
   "fact: weddings",
-  "fact: contacts",
-  "no documents or pages collected"
+  "fact: contacts"
  ],
- "sources": {},
- "last_updated": "2026-10-04"
+ "sources": {
+  "atoll": [
+   {
+    "value": "Baa Atoll",
+    "source_url": "https://malediven.de/malediven-hotels/four-seasons-maldives-private-island-in-voavah/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "spa.name": [
+   {
+    "value": "Spa",
+    "source_url": "https://malediven.de/malediven-hotels/four-seasons-maldives-private-island-in-voavah/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "diving_watersports.activities": [
+   {
+    "value": "manta",
+    "source_url": "https://malediven.de/malediven-hotels/four-seasons-maldives-private-island-in-voavah/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "excursions": [
+   {
+    "value": "manta",
+    "source_url": "https://malediven.de/malediven-hotels/four-seasons-maldives-private-island-in-voavah/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "wellness_fitness": [
+   {
+    "value": "yoga",
+    "source_url": "https://malediven.de/malediven-hotels/four-seasons-maldives-private-island-in-voavah/",
+    "as_of": "2026-10-04"
+   }
+  ]
+ },
+ "last_updated": "2026-10-05"
 }

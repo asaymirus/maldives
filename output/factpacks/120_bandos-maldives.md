@@ -1,74 +1,70 @@
 # 120. Bandos Maldives
 
-**Official site:** n/a (None)  
+**Official site:** https://bandosmaldives.com/ (ok)  
 **Brand:** n/a  
-**Atoll:** North Male Atoll  **Island:** n/a  
-**Opened/renovated:** n/a  **Rating:** n/a  
-**Transfer:** speedboat; minutes: {"speedboat": 10}  
-**Island size:** 450 m x 400 m  
+**Atoll:** North Male Atoll  **Island:** Bandos  
+**Opened/renovated:** opened 1972  **Rating:** n/a  
+**Transfer:** speedboat, seaplane; minutes: {"speedboat": 10}  
+**Island size:** 18 ha  
 
 ## Villas (80 total)
 
-- Double Bed | Villas Double Bed | Villas Duple | Villas: count 49, ? sqm, max ?
-- Double Bed | Villa Double Bed | VIllas: count 6, ? sqm, max ?
-- Villas: count 215, ? sqm, max ?
+- Villas: count 12, 3741 sqm, max ?
+- Night Stay In Superior Villa On Full Board: count 4, ? sqm, max ?
+- Night Stay in Superior Villa: count 4, ? sqm, max ?
 
 ## Dining
 
-- Dining (restaurant)
 - Grill (restaurant)
 - Pool Bar (bar)
 - Swim Up Bar (bar)
 - Huvan : Restaurant with overwater deck, (restaurant)
 - Sand Bar (bar)
-- In-villa Dining (restaurant)
-- Club Lounge, Gym, Steam & Sauna, Table (bar)
-- In-Villa Dining: Available 24hrs in all guest rooms (restaurant)
 - VIP Lounge & Secretariat Room (bar)
-- 6. Sand Bar 17. Kokko Club (bar)
-- 7. Gallery Restaurant 18. Clubhouse (restaurant)
-- 9. Grill Bar 20. Orchid Spa (bar)
-- 10. Pool Bar 21. Mosque (bar)
-- Gallery Restaurant (restaurant)
-- Sea Breeze Café (restaurant)
+- Mini Bar Hair Dryer Electronic Key (bar)
+- Mini Bar Hair Dryer Electronic Key Bathtub (bar)
+- Pool Bar Sand Bar (bar)
+- Mini Bar (bar)
 - Grill Bar (bar)
-- Private Dining (restaurant)
+- Gallery Restaurant (restaurant)
+- Umiyaki Restaurant (restaurant)
+- Sea Breeze Café (restaurant)
 
 Meal plans: AI
-All-inclusive: all-inclusive package, which covers breakfast, lunch, and dinner at the Gallery Restaurant, along with a curated selection of premium alcoholic and non-alcoholic beverages served at Gallery, Sand Bar, and Huvan.
+All-inclusive: all-inclusive package.
 
 ## Spa & wellness
 
-- Spa: Orchid Spa; treatment rooms: ?; menu: none
-- Wellness/fitness: gym, tennis, badminton, sauna, steam
+- Spa: Orchid Spa; treatment rooms: ?; menu: https://bandosmaldives.com/wp-content/uploads/2024/10/BM_Spa_rev122922.pdf
+- Wellness/fitness: gym, tennis, badminton, sauna, steam, yoga, beach volleyball, fitness center
 
 ## Diving, water sports & excursions
 
-- Operator: n/a
+- Operator: Dive Centre
 - House reef: House Reef, Boat Diving,
-- Activities: snorkeling, windsurfing, catamaran, jet ski, parasailing, water skiing, fishing, dolphin cruise, whale shark, sailing, banana boat, fun tube, glass-bottom, canoe, manta
-- Price list: none
-- Excursions: island hopping, dolphin, sunset fishing, night fishing, whale shark, picnic, manta, turtle
+- Activities: snorkeling, windsurfing, catamaran, jet ski, parasailing, water skiing, fishing, dolphin cruise, whale shark, sailing, banana boat, fun tube, glass-bottom, canoe, manta, kayaking, scuba diving, snorkelling, sunset cruise
+- Price list: https://bandosmaldives.com/wp-content/uploads/2026/01/Dive-Bandos-Price-List.pdf
+- Excursions: island hopping, dolphin, sunset fishing, night fishing, whale shark, picnic, manta, turtle, cinema, local island, cooking class, private dinner, sandbank, big game fishing, castaway
 
 ## Kids & family
 
-- Kids club: Kids Club; ages: n/a; teens: n/a
+- Kids club: Kids Club; ages: 3-11 years; teens: teens programme mentioned
 
 ## Weddings
 
-- Offered: True; vow renewal: None
+- Offered: True; vow renewal: True
 - Venues: n/a
-- Packages: n/a
-- Brochure: none
+- Packages: Dives Package USD 701 (2026)
+- Brochure: https://bandosmaldives.com/wp-content/uploads/2024/02/Wedding-Packages.pdf
 
 ## Events / MICE
 
-- Venues: n/a; capacity max: n/a; buyout: None
-- Document: none
+- Venues: BOARDROOM; Meeting Room Booking; capacity max: 350; buyout: None
+- Document: https://bandosmaldives.com/wp-content/uploads/2026/01/Festive-Event-Brochure-19.12.25.pdf
 
 ## Sustainability
 
-- n/a
+- coral nursery, Green Globe, reef restoration, coral restoration, coral regeneration, solar, single-use plastic, desalination, marine biologist, composting, Olive Ridley Project
 
 ## Public contacts
 
@@ -77,18 +73,15 @@ All-inclusive: all-inclusive package, which covers breakfast, lunch, and dinner 
 ## Latest documents
 
 - factsheet: https://www.neoscapesmaldives.com/wp-content/uploads/BM_Factsheet-2026.pdf
-- map: https://www.neoscapesmaldives.com/wp-content/uploads/BM-Resort-Map-2024.pdf
-- wedding: none
-- spa_menu: none
-- dining_menu: none
-- dive_prices: none
-- events: none
-- calendar: none
+- map: https://cdnm.heyzine.com/files/uploaded/02e3d7a26c896f1c007bf7ee6382ed213065ba4c-2.pdf
+- wedding: https://bandosmaldives.com/wp-content/uploads/2024/02/Wedding-Packages.pdf
+- spa_menu: https://bandosmaldives.com/wp-content/uploads/2024/10/BM_Spa_rev122922.pdf
+- dining_menu: https://bandosmaldives.com/wp-content/uploads/2026/03/BM_Beverage-Menu-2026.pdf
+- dive_prices: https://bandosmaldives.com/wp-content/uploads/2026/01/Dive-Bandos-Price-List.pdf
+- events: https://bandosmaldives.com/wp-content/uploads/2026/01/Festive-Event-Brochure-19.12.25.pdf
+- calendar: https://bandosmaldives.com/wp-content/uploads/2026/04/Easter-at-Bandos.pdf
 
 ## Gaps
 
-- wedding brochure
-- events/MICE document
-- fact: dive operator
 
-_Facts extracted by rules from 18 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-04._
+_Facts extracted by rules from 28 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

@@ -6,22 +6,23 @@
   "Niyama",
   "Niyama Private Islands"
  ],
- "official_url": null,
- "official_site_status": null,
+ "official_url": "https://www.niyama.com/",
+ "official_site_status": "blocked-partial",
  "operator_brand": "Niyama",
  "atoll": "Dhaalu Atoll",
  "island": "Play Island",
  "opened_or_renovated": "opened 2012",
- "star_rating": null,
+ "star_rating": "5-star",
  "transfer": {
   "modes": [
    "seaplane",
-   "speedboat"
+   "speedboat",
+   "domestic flight"
   ],
   "minutes": {
-   "seaplane": 40,
-   "speedboat": 7,
-   "domestic flight": null,
+   "seaplane": 35,
+   "speedboat": 10,
+   "domestic flight": 10,
    "yacht": null
   }
  },
@@ -94,59 +95,11 @@
     "overwater": null
    },
    {
-    "name": "One Bedroom Beach Pool Pavilion , & A+ C/ A+ C",
-    "count": null,
-    "size_sqm": 400,
-    "max_occupancy": null,
-    "pool": true,
-    "overwater": null
-   },
-   {
-    "name": "One Bedroom Ocean Pool Pavilion & A+ C/ A+ C",
-    "count": null,
-    "size_sqm": 340,
-    "max_occupancy": null,
-    "pool": true,
-    "overwater": true
-   },
-   {
-    "name": "Two Bedroom Beach Pool Pavilion A+ C/ A+ C",
-    "count": null,
-    "size_sqm": 635,
-    "max_occupancy": null,
-    "pool": true,
-    "overwater": null
-   },
-   {
-    "name": "Two Bedroom Ocean Pool Pavilion & A+ C/ A+ C",
-    "count": null,
-    "size_sqm": 515,
-    "max_occupancy": null,
-    "pool": true,
-    "overwater": true
-   },
-   {
-    "name": "Three Bedroom Beach Pool Pavilion A/ A+ C",
-    "count": null,
-    "size_sqm": 770,
-    "max_occupancy": null,
-    "pool": true,
-    "overwater": null
-   },
-   {
     "name": "BEACH VILLA DELU E BEACH VILLA BEACH POOL VILLA",
     "count": null,
     "size_sqm": 135,
     "max_occupancy": null,
     "pool": true,
-    "overwater": null
-   },
-   {
-    "name": "PAVILION PAVILION PAVILION",
-    "count": null,
-    "size_sqm": 400,
-    "max_occupancy": null,
-    "pool": null,
     "overwater": null
    },
    {
@@ -156,22 +109,6 @@
     "max_occupancy": null,
     "pool": null,
     "overwater": true
-   },
-   {
-    "name": "Pavilion",
-    "count": 150,
-    "size_sqm": null,
-    "max_occupancy": null,
-    "pool": null,
-    "overwater": null
-   },
-   {
-    "name": "Pavilion - Villa",
-    "count": 139,
-    "size_sqm": null,
-    "max_occupancy": null,
-    "pool": null,
-    "overwater": null
    },
    {
     "name": "Delu e Beach Pool Villa &",
@@ -214,17 +151,7 @@
    "type": "bar"
   },
   {
-   "name": "Deli-In brimming with drinks and treats in a full-sized",
-   "cuisine": null,
-   "type": "restaurant"
-  },
-  {
    "name": "The Deli Fahrenheit Surf Shack",
-   "cuisine": null,
-   "type": "restaurant"
-  },
-  {
-   "name": "Dining",
    "cuisine": null,
    "type": "restaurant"
   },
@@ -237,17 +164,14 @@
    "name": "The Deli",
    "cuisine": null,
    "type": "restaurant"
-  },
-  {
-   "name": "Destination Dining",
-   "cuisine": null,
-   "type": "restaurant"
   }
  ],
- "meal_plans": [],
+ "meal_plans": [
+  "HB"
+ ],
  "all_inclusive_details": null,
  "spa": {
-  "name": "Drift Spa",
+  "name": "Diving\nSpa",
   "treatment_rooms": null,
   "signature_treatments": [],
   "menu_doc": null
@@ -272,6 +196,7 @@
   "dolphin",
   "turtle",
   "cooking class",
+  "cinema",
   "picnic"
  ],
  "kids_family": {
@@ -292,7 +217,7 @@
  ],
  "weddings": {
   "offered": true,
-  "vow_renewal": null,
+  "vow_renewal": true,
   "venues": [],
   "packages": [],
   "brochure_doc": null
@@ -305,12 +230,13 @@
  },
  "sustainability": [
   "marine biologist",
-  "coral nursery"
+  "coral nursery",
+  "coral restoration"
  ],
  "contacts_public": {
-  "reservations_email": "info@neoscapesmaldives.com",
+  "reservations_email": "info.pniy@niyama.com",
   "weddings_email": null,
-  "phone": "+960 736 5425"
+  "phone": "+960 676 2828"
  },
  "documents_latest": {
   "factsheet": "https://www.neoscapesmaldives.com/wp-content/uploads/Niyama-Private-Islands-Maldives-Factsheet-2025.pdf",
@@ -320,9 +246,9 @@
   "dining_menu": null,
   "dive_prices": null,
   "events": null,
-  "calendar": null
+  "calendar": "https://letsgomaldives.com/wp-content/uploads/2026/02/Niyama-Private-Islands-Maldives-Easter-Brochure-2026-1.pdf"
  },
- "documents_count": 2,
+ "documents_count": 3,
  "gaps": [
   "wedding brochure",
   "events/MICE document",
@@ -338,7 +264,17 @@
    },
    {
     "value": "Dhaalu Atoll",
+    "source_url": "https://www.niyama.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Dhaalu Atoll",
     "source_url": "https://www.neoscapesmaldives.com/resort/niyama-private-islands-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Dhaalu Atoll",
+    "source_url": "https://hummingbird.travel/company/journals/surf-sunsets-island-life-james-experience-at-niyama-private-islands-maldives",
     "as_of": "2026-10-04"
    }
   ],
@@ -379,6 +315,21 @@
    },
    {
     "value": "seaplane",
+    "source_url": "https://www.niyama.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.niyama.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "domestic flight",
+    "source_url": "https://www.niyama.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "seaplane",
     "source_url": "https://www.neoscapesmaldives.com/resort/niyama-private-islands-maldives/",
     "as_of": "2026-10-04"
    },
@@ -395,6 +346,11 @@
     "as_of": 2025
    },
    {
+    "value": 35,
+    "source_url": "https://www.niyama.com/",
+    "as_of": "2026-10-04"
+   },
+   {
     "value": 40,
     "source_url": "https://www.neoscapesmaldives.com/resort/niyama-private-islands-maldives/",
     "as_of": "2026-10-04"
@@ -405,6 +361,11 @@
     "value": 7,
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Niyama-Private-Islands-Maldives-Factsheet-2025.pdf",
     "as_of": 2025
+   },
+   {
+    "value": 10,
+    "source_url": "https://www.niyama.com/",
+    "as_of": "2026-10-04"
    }
   ],
   "villas.categories": [
@@ -506,83 +467,11 @@
    },
    {
     "value": {
-     "name": "One Bedroom Beach Pool Pavilion , & A+ C/ A+ C",
-     "count": null,
-     "size_sqm": 400,
-     "max_occupancy": null,
-     "pool": true,
-     "overwater": null
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Niyama-Private-Islands-Maldives-Factsheet-2025.pdf",
-    "as_of": 2025
-   },
-   {
-    "value": {
-     "name": "One Bedroom Ocean Pool Pavilion & A+ C/ A+ C",
-     "count": null,
-     "size_sqm": 340,
-     "max_occupancy": null,
-     "pool": true,
-     "overwater": true
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Niyama-Private-Islands-Maldives-Factsheet-2025.pdf",
-    "as_of": 2025
-   },
-   {
-    "value": {
-     "name": "Two Bedroom Beach Pool Pavilion A+ C/ A+ C",
-     "count": null,
-     "size_sqm": 635,
-     "max_occupancy": null,
-     "pool": true,
-     "overwater": null
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Niyama-Private-Islands-Maldives-Factsheet-2025.pdf",
-    "as_of": 2025
-   },
-   {
-    "value": {
-     "name": "Two Bedroom Ocean Pool Pavilion & A+ C/ A+ C",
-     "count": null,
-     "size_sqm": 515,
-     "max_occupancy": null,
-     "pool": true,
-     "overwater": true
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Niyama-Private-Islands-Maldives-Factsheet-2025.pdf",
-    "as_of": 2025
-   },
-   {
-    "value": {
-     "name": "Three Bedroom Beach Pool Pavilion A/ A+ C",
-     "count": null,
-     "size_sqm": 770,
-     "max_occupancy": null,
-     "pool": true,
-     "overwater": null
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Niyama-Private-Islands-Maldives-Factsheet-2025.pdf",
-    "as_of": 2025
-   },
-   {
-    "value": {
      "name": "BEACH VILLA DELU E BEACH VILLA BEACH POOL VILLA",
      "count": null,
      "size_sqm": 135,
      "max_occupancy": null,
      "pool": true,
-     "overwater": null
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Niyama-Private-Islands-Maldives-Factsheet-2025.pdf",
-    "as_of": 2025
-   },
-   {
-    "value": {
-     "name": "PAVILION PAVILION PAVILION",
-     "count": null,
-     "size_sqm": 400,
-     "max_occupancy": null,
-     "pool": null,
      "overwater": null
     },
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Niyama-Private-Islands-Maldives-Factsheet-2025.pdf",
@@ -598,54 +487,6 @@
      "overwater": true
     },
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Niyama-Private-Islands-Maldives-Factsheet-2025.pdf",
-    "as_of": 2025
-   },
-   {
-    "value": {
-     "name": "Pavilion",
-     "count": 150,
-     "size_sqm": null,
-     "max_occupancy": null,
-     "pool": null,
-     "overwater": null
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Niyama-Resort-Map.pdf",
-    "as_of": 2025
-   },
-   {
-    "value": {
-     "name": "& - Pavilion",
-     "count": 3,
-     "size_sqm": null,
-     "max_occupancy": null,
-     "pool": null,
-     "overwater": null
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Niyama-Resort-Map.pdf",
-    "as_of": 2025
-   },
-   {
-    "value": {
-     "name": "Pavilion - Villa",
-     "count": 139,
-     "size_sqm": null,
-     "max_occupancy": null,
-     "pool": null,
-     "overwater": null
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Niyama-Resort-Map.pdf",
-    "as_of": 2025
-   },
-   {
-    "value": {
-     "name": "Pavilion",
-     "count": 138,
-     "size_sqm": null,
-     "max_occupancy": null,
-     "pool": null,
-     "overwater": null
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Niyama-Resort-Map.pdf",
     "as_of": 2025
    },
    {
@@ -793,39 +634,12 @@
    },
    {
     "value": {
-     "name": "Deli-In brimming with drinks and treats in a full-sized",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Niyama-Private-Islands-Maldives-Factsheet-2025.pdf",
-    "as_of": 2025
-   },
-   {
-    "value": {
      "name": "The Deli Fahrenheit Surf Shack",
      "cuisine": null,
      "type": "restaurant"
     },
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Niyama-Private-Islands-Maldives-Factsheet-2025.pdf",
     "as_of": 2025
-   },
-   {
-    "value": {
-     "name": "Dining",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/niyama-private-islands-maldives/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Dining",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/niyama-private-islands-maldives/",
-    "as_of": "2026-10-04"
    },
    {
     "value": {
@@ -844,15 +658,6 @@
     },
     "source_url": "https://www.neoscapesmaldives.com/resort/niyama-private-islands-maldives/",
     "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Destination Dining",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/niyama-private-islands-maldives/",
-    "as_of": "2026-10-04"
    }
   ],
   "spa.name": [
@@ -865,6 +670,11 @@
     "value": "Spa",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Niyama-Resort-Map.pdf",
     "as_of": 2025
+   },
+   {
+    "value": "Diving\nSpa",
+    "source_url": "https://www.niyama.com/",
+    "as_of": "2026-10-04"
    },
    {
     "value": "Drift Spa",
@@ -920,6 +730,21 @@
    },
    {
     "value": "snorkelling",
+    "source_url": "https://www.niyama.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "surfing",
+    "source_url": "https://www.niyama.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin cruise",
+    "source_url": "https://www.niyama.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
     "source_url": "https://www.neoscapesmaldives.com/resort/niyama-private-islands-maldives/",
     "as_of": "2026-10-04"
    },
@@ -931,6 +756,16 @@
    {
     "value": "fishing",
     "source_url": "https://www.neoscapesmaldives.com/resort/niyama-private-islands-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://hummingbird.travel/company/journals/surf-sunsets-island-life-james-experience-at-niyama-private-islands-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "surfing",
+    "source_url": "https://hummingbird.travel/company/journals/surf-sunsets-island-life-james-experience-at-niyama-private-islands-maldives",
     "as_of": "2026-10-04"
    }
   ],
@@ -956,6 +791,26 @@
     "as_of": 2025
    },
    {
+    "value": "sandbank",
+    "source_url": "https://www.niyama.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.niyama.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.niyama.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "cinema",
+    "source_url": "https://www.niyama.com/",
+    "as_of": "2026-10-04"
+   },
+   {
     "value": "dolphin",
     "source_url": "https://www.neoscapesmaldives.com/resort/niyama-private-islands-maldives/",
     "as_of": "2026-10-04"
@@ -973,6 +828,11 @@
    {
     "value": "cooking class",
     "source_url": "https://www.neoscapesmaldives.com/resort/niyama-private-islands-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://hummingbird.travel/company/journals/surf-sunsets-island-life-james-experience-at-niyama-private-islands-maldives",
     "as_of": "2026-10-04"
    }
   ],
@@ -1055,6 +915,21 @@
     "as_of": 2025
    },
    {
+    "value": "yoga",
+    "source_url": "https://www.niyama.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "gym",
+    "source_url": "https://www.niyama.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://www.niyama.com/",
+    "as_of": "2026-10-04"
+   },
+   {
     "value": "gym",
     "source_url": "https://www.neoscapesmaldives.com/resort/niyama-private-islands-maldives/",
     "as_of": "2026-10-04"
@@ -1080,6 +955,11 @@
     "value": "marine biologist",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Niyama-Resort-Map.pdf",
     "as_of": 2025
+   },
+   {
+    "value": "coral restoration",
+    "source_url": "https://www.niyama.com/",
+    "as_of": "2026-10-04"
    }
   ],
   "contacts_public.reservations_email": [
@@ -1087,6 +967,11 @@
     "value": "reservations@niyama.com",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Niyama-Private-Islands-Maldives-Factsheet-2025.pdf",
     "as_of": 2025
+   },
+   {
+    "value": "info.pniy@niyama.com",
+    "source_url": "https://www.niyama.com/",
+    "as_of": "2026-10-04"
    },
    {
     "value": "info@neoscapesmaldives.com",
@@ -1101,8 +986,46 @@
     "as_of": 2025
    },
    {
+    "value": "+960 676 2828",
+    "source_url": "https://www.niyama.com/",
+    "as_of": "2026-10-04"
+   },
+   {
     "value": "+960 736 5425",
     "source_url": "https://www.neoscapesmaldives.com/resort/niyama-private-islands-maldives/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "transfer.minutes.domestic flight": [
+   {
+    "value": 10,
+    "source_url": "https://www.niyama.com/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "meal_plans": [
+   {
+    "value": "HB",
+    "source_url": "https://www.niyama.com/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "weddings.offered": [
+   {
+    "value": true,
+    "source_url": "https://www.niyama.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.neoscapesmaldives.com/resort/niyama-private-islands-maldives/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "weddings.vow_renewal": [
+   {
+    "value": true,
+    "source_url": "https://www.niyama.com/",
     "as_of": "2026-10-04"
    }
   ],
@@ -1118,15 +1041,20 @@
     "value": "House Reef",
     "source_url": "https://www.neoscapesmaldives.com/resort/niyama-private-islands-maldives/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef for guests interested in snorkelling and marine life",
+    "source_url": "https://hummingbird.travel/company/journals/surf-sunsets-island-life-james-experience-at-niyama-private-islands-maldives",
+    "as_of": "2026-10-04"
    }
   ],
-  "weddings.offered": [
+  "star_rating": [
    {
-    "value": true,
-    "source_url": "https://www.neoscapesmaldives.com/resort/niyama-private-islands-maldives/",
+    "value": "5-star",
+    "source_url": "https://hummingbird.travel/company/journals/surf-sunsets-island-life-james-experience-at-niyama-private-islands-maldives",
     "as_of": "2026-10-04"
    }
   ]
  },
- "last_updated": "2026-10-04"
+ "last_updated": "2026-10-05"
 }

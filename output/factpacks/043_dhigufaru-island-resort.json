@@ -5,15 +5,18 @@
  "aliases": [
   "Dhigufaru"
  ],
- "official_url": null,
- "official_site_status": null,
+ "official_url": "https://dhigufaru.com/",
+ "official_site_status": "ok",
  "operator_brand": null,
- "atoll": null,
+ "atoll": "Baa Atoll",
  "island": null,
  "opened_or_renovated": null,
  "star_rating": null,
  "transfer": {
-  "modes": [],
+  "modes": [
+   "speedboat",
+   "domestic flight"
+  ],
   "minutes": {
    "seaplane": null,
    "speedboat": null,
@@ -26,34 +29,110 @@
   "total": null,
   "categories": []
  },
- "dining": [],
+ "dining": [
+  {
+   "name": "Dhandifulhu Restaurant Beach / Specialty",
+   "cuisine": null,
+   "type": "restaurant"
+  },
+  {
+   "name": "Lounge",
+   "cuisine": null,
+   "type": "bar"
+  },
+  {
+   "name": "Wine Cellar",
+   "cuisine": null,
+   "type": "bar"
+  },
+  {
+   "name": "Kitchen",
+   "cuisine": null,
+   "type": "restaurant"
+  },
+  {
+   "name": "Dhandifulhu Restaurant",
+   "cuisine": null,
+   "type": "restaurant"
+  },
+  {
+   "name": "Thundi Pool Bar",
+   "cuisine": null,
+   "type": "bar"
+  },
+  {
+   "name": "Athiri Grill",
+   "cuisine": null,
+   "type": "restaurant"
+  },
+  {
+   "name": "Raagudi Bar",
+   "cuisine": null,
+   "type": "bar"
+  },
+  {
+   "name": "Muraka Fine Dining Restaurant",
+   "cuisine": null,
+   "type": "restaurant"
+  },
+  {
+   "name": "Mini Bar",
+   "cuisine": null,
+   "type": "bar"
+  }
+ ],
  "meal_plans": [],
  "all_inclusive_details": null,
  "spa": {
-  "name": null,
+  "name": "Photo Gallery\nFuna Spa",
   "treatment_rooms": null,
   "signature_treatments": [],
-  "menu_doc": null
+  "menu_doc": "https://dhigufaru.com/app/wp-content/uploads/2016/03/Huifilandaa-Pavilion.pdf"
  },
  "diving_watersports": {
-  "operator": null,
+  "operator": "Ocean Dimensions",
   "house_reef": null,
-  "activities": [],
+  "activities": [
+   "sunset cruise",
+   "fishing",
+   "dolphin cruise",
+   "canoe",
+   "manta",
+   "snorkeling",
+   "windsurfing",
+   "water skiing",
+   "whale shark"
+  ],
   "price_list_doc": null
  },
- "excursions": [],
+ "excursions": [
+  "sandbank",
+  "local island",
+  "dolphin",
+  "picnic",
+  "stargazing",
+  "sunset fishing",
+  "manta",
+  "whale shark"
+ ],
  "kids_family": {
-  "kids_club": null,
+  "kids_club": "Recreation Center\nBaraveli Kids Club",
   "age_range": null,
   "teens": null
  },
- "wellness_fitness": [],
+ "wellness_fitness": [
+  "yoga",
+  "gym",
+  "sauna",
+  "steam",
+  "tennis"
+ ],
  "weddings": {
-  "offered": null,
+  "offered": true,
   "vow_renewal": null,
   "venues": [],
   "packages": [],
-  "brochure_doc": null
+  "brochure_doc": "https://dhigufaru.com/app/wp-content/uploads/2024/12/Dhigufaru-Wedding-Proposal-Packages-2024.pdf"
  },
  "events_mice": {
   "venues": [],
@@ -63,37 +142,1918 @@
  },
  "sustainability": [],
  "contacts_public": {
-  "reservations_email": null,
+  "reservations_email": "inquiry@dhigufaru.com",
   "weddings_email": null,
-  "phone": null
+  "phone": "+960-660-2656"
  },
  "documents_latest": {
-  "factsheet": null,
+  "factsheet": "https://dhigufaru.com/app/wp-content/uploads/2026/06/Dhigufaru-Fact-Sheet-English.pdf",
   "map": null,
-  "wedding": null,
-  "spa_menu": null,
+  "wedding": "https://dhigufaru.com/app/wp-content/uploads/2024/12/Dhigufaru-Wedding-Proposal-Packages-2024.pdf",
+  "spa_menu": "https://dhigufaru.com/app/wp-content/uploads/2016/03/Huifilandaa-Pavilion.pdf",
   "dining_menu": null,
   "dive_prices": null,
   "events": null,
   "calendar": null
  },
- "documents_count": 0,
+ "documents_count": 10,
  "gaps": [
-  "factsheet",
-  "wedding brochure",
   "events/MICE document",
   "fact: villas.total",
-  "fact: villa categories",
-  "fact: dining",
-  "fact: transfer",
-  "fact: atoll",
-  "fact: spa",
-  "fact: dive operator",
-  "fact: kids club",
-  "fact: weddings",
-  "fact: contacts",
-  "no documents or pages collected"
+  "fact: villa categories"
  ],
- "sources": {},
- "last_updated": "2026-10-04"
+ "sources": {
+  "transfer.modes": [
+   {
+    "value": "speedboat",
+    "source_url": "https://dhigufaru.com/app/wp-content/uploads/2024/12/Dhigufaru-Wedding-Proposal-Packages-2024.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://dhigufaru.com/experiences/stargazing-cruise/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://dhigufaru.com/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "domestic flight",
+    "source_url": "https://dhigufaru.com/terms-conditions/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://dhigufaru.com/experiences/sunset-cruise/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "domestic flight",
+    "source_url": "https://dhigufaru.com/terms-conditions",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "dining": [
+   {
+    "value": {
+     "name": "Dhandifulhu Restaurant Beach / Specialty",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://dhigufaru.com/app/wp-content/uploads/2024/12/Dhigufaru-Wedding-Proposal-Packages-2024.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": {
+     "name": "Lounge",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://dhigufaru.com/app/wp-content/uploads/2016/03/FS-fp-screen.pdf",
+    "as_of": 2016
+   },
+   {
+    "value": {
+     "name": "Wine Cellar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://dhigufaru.com/app/wp-content/uploads/2016/03/FS-fp-screen.pdf",
+    "as_of": 2016
+   },
+   {
+    "value": {
+     "name": "Kitchen",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://dhigufaru.com/app/wp-content/uploads/2016/03/FS-fp-screen.pdf",
+    "as_of": 2016
+   },
+   {
+    "value": {
+     "name": "Lounge",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://dhigufaru.com/app/wp-content/uploads/2016/03/FS-fp-screen.pdf",
+    "as_of": 2016
+   },
+   {
+    "value": {
+     "name": "Lounge",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://dhigufaru.com/app/wp-content/uploads/2016/03/FS-fp-screen.pdf",
+    "as_of": 2016
+   },
+   {
+    "value": {
+     "name": "Dhandifulhu Restaurant",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://dhigufaru.com/wine-dine/dhandifulhu-restaurant/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Dhandifulhu Restaurant",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://dhigufaru.com/wine-dine/dhandifulhu-restaurant/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Thundi Pool Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://dhigufaru.com/wine-dine/dhandifulhu-restaurant/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Athiri Grill",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://dhigufaru.com/wine-dine/dhandifulhu-restaurant/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Raagudi Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://dhigufaru.com/wine-dine/dhandifulhu-restaurant/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Muraka Fine Dining Restaurant",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://dhigufaru.com/wine-dine/dhandifulhu-restaurant/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Mini Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://dhigufaru.com/accommodation/sangu-suite/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Mini Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://dhigufaru.com/accommodation/pool-beach-villa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Mini Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://dhigufaru.com/accommodation/semi-water-villa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Mini Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://dhigufaru.com/accommodation/water-villa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Dhandifulhu Restaurant",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://dhigufaru.com/wine-dine/in-villa-dining/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Thundi Pool Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://dhigufaru.com/wine-dine/in-villa-dining/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Athiri Grill",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://dhigufaru.com/wine-dine/in-villa-dining/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Raagudi Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://dhigufaru.com/wine-dine/in-villa-dining/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Muraka Fine Dining Restaurant",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://dhigufaru.com/wine-dine/in-villa-dining/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Thundi Pool Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://dhigufaru.com/wine-dine/thundi-pool-bar/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Dhandifulhu Restaurant",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://dhigufaru.com/wine-dine/thundi-pool-bar/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Thundi Pool Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://dhigufaru.com/wine-dine/thundi-pool-bar/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Athiri Grill",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://dhigufaru.com/wine-dine/thundi-pool-bar/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Raagudi Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://dhigufaru.com/wine-dine/thundi-pool-bar/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Muraka Fine Dining Restaurant",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://dhigufaru.com/wine-dine/thundi-pool-bar/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Mini Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://dhigufaru.com/accommodation/pool-water-villa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Dhandifulhu Restaurant",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://dhigufaru.com/wine-dine/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Thundi Pool Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://dhigufaru.com/wine-dine/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Athiri Grill",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://dhigufaru.com/wine-dine/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Raagudi Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://dhigufaru.com/wine-dine/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Muraka Fine Dining Restaurant",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://dhigufaru.com/wine-dine/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Mini Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://dhigufaru.com/accommodation/two-bedroom-family-beach-villa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Mini Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://dhigufaru.com/accommodation/beach-villa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Raagudi Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://dhigufaru.com/wine-dine/raagudi-bar/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Dhandifulhu Restaurant",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://dhigufaru.com/wine-dine/raagudi-bar/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Thundi Pool Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://dhigufaru.com/wine-dine/raagudi-bar/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Athiri Grill",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://dhigufaru.com/wine-dine/raagudi-bar/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Raagudi Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://dhigufaru.com/wine-dine/raagudi-bar/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Muraka Fine Dining Restaurant",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://dhigufaru.com/wine-dine/raagudi-bar/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Muraka Fine Dining Restaurant",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://dhigufaru.com/wine-dine/muraka-fine-dining-restaurant/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Dhandifulhu Restaurant",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://dhigufaru.com/wine-dine/muraka-fine-dining-restaurant/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Thundi Pool Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://dhigufaru.com/wine-dine/muraka-fine-dining-restaurant/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Athiri Grill",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://dhigufaru.com/wine-dine/muraka-fine-dining-restaurant/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Raagudi Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://dhigufaru.com/wine-dine/muraka-fine-dining-restaurant/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Muraka Fine Dining Restaurant",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://dhigufaru.com/wine-dine/muraka-fine-dining-restaurant/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Mini Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://dhigufaru.com/accomodation/beach-villa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Mini Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://dhigufaru.com/accomodation/pool-beach-villa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Athiri Grill",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://dhigufaru.com/wine-dine/athiri-speciality-restaurant",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Dhandifulhu Restaurant",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://dhigufaru.com/wine-dine/athiri-speciality-restaurant",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Thundi Pool Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://dhigufaru.com/wine-dine/athiri-speciality-restaurant",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Athiri Grill",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://dhigufaru.com/wine-dine/athiri-speciality-restaurant",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Raagudi Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://dhigufaru.com/wine-dine/athiri-speciality-restaurant",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Muraka Fine Dining Restaurant",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://dhigufaru.com/wine-dine/athiri-speciality-restaurant",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Muraka Fine Dining Restaurant",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://dhigufaru.com/wine-dine/muraka-fine-dining-restaurant",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Dhandifulhu Restaurant",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://dhigufaru.com/wine-dine/muraka-fine-dining-restaurant",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Thundi Pool Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://dhigufaru.com/wine-dine/muraka-fine-dining-restaurant",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Athiri Grill",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://dhigufaru.com/wine-dine/muraka-fine-dining-restaurant",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Raagudi Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://dhigufaru.com/wine-dine/muraka-fine-dining-restaurant",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Muraka Fine Dining Restaurant",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://dhigufaru.com/wine-dine/muraka-fine-dining-restaurant",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Thundi Pool Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://dhigufaru.com/wine-dine/thundi-pool-bar",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Dhandifulhu Restaurant",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://dhigufaru.com/wine-dine/thundi-pool-bar",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Thundi Pool Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://dhigufaru.com/wine-dine/thundi-pool-bar",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Athiri Grill",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://dhigufaru.com/wine-dine/thundi-pool-bar",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Raagudi Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://dhigufaru.com/wine-dine/thundi-pool-bar",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Muraka Fine Dining Restaurant",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://dhigufaru.com/wine-dine/thundi-pool-bar",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Dhandifulhu Restaurant",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://dhigufaru.com/wine-dine/dhandifulhu-restaurant",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Dhandifulhu Restaurant",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://dhigufaru.com/wine-dine/dhandifulhu-restaurant",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Thundi Pool Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://dhigufaru.com/wine-dine/dhandifulhu-restaurant",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Athiri Grill",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://dhigufaru.com/wine-dine/dhandifulhu-restaurant",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Raagudi Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://dhigufaru.com/wine-dine/dhandifulhu-restaurant",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Muraka Fine Dining Restaurant",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://dhigufaru.com/wine-dine/dhandifulhu-restaurant",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "diving_watersports.activities": [
+   {
+    "value": "sunset cruise",
+    "source_url": "https://dhigufaru.com/app/wp-content/uploads/2024/12/Dhigufaru-Wedding-Proposal-Packages-2024.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://dhigufaru.com/experiences/stargazing-cruise/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://dhigufaru.com/experiences/stargazing-cruise/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin cruise",
+    "source_url": "https://dhigufaru.com/experiences/stargazing-cruise/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://dhigufaru.com/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://dhigufaru.com/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin cruise",
+    "source_url": "https://dhigufaru.com/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "canoe",
+    "source_url": "https://dhigufaru.com/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://dhigufaru.com/experiences/fishing-excursions/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://dhigufaru.com/experiences/fishing-excursions/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin cruise",
+    "source_url": "https://dhigufaru.com/experiences/fishing-excursions/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://dhigufaru.com/experiences/recreation-center/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://dhigufaru.com/experiences/recreation-center/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin cruise",
+    "source_url": "https://dhigufaru.com/experiences/recreation-center/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://dhigufaru.com/experiences/dolphin-cruise/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://dhigufaru.com/experiences/dolphin-cruise/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin cruise",
+    "source_url": "https://dhigufaru.com/experiences/dolphin-cruise/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://dhigufaru.com/experiences/dolphin-cruise/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://dhigufaru.com/accommodation/water-villa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://dhigufaru.com/experiences/baraveli-kids-club/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://dhigufaru.com/experiences/baraveli-kids-club/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin cruise",
+    "source_url": "https://dhigufaru.com/experiences/baraveli-kids-club/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://dhigufaru.com/experiences/local-island-visits/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://dhigufaru.com/experiences/local-island-visits/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin cruise",
+    "source_url": "https://dhigufaru.com/experiences/local-island-visits/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://dhigufaru.com/experiences/multi-purpose-court/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://dhigufaru.com/experiences/multi-purpose-court/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin cruise",
+    "source_url": "https://dhigufaru.com/experiences/multi-purpose-court/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://dhigufaru.com/experiences/sunset-cruise/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://dhigufaru.com/experiences/sunset-cruise/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin cruise",
+    "source_url": "https://dhigufaru.com/experiences/sunset-cruise/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://dhigufaru.com/experiences/sand-bank-picnic/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://dhigufaru.com/experiences/sand-bank-picnic/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin cruise",
+    "source_url": "https://dhigufaru.com/experiences/sand-bank-picnic/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://dhigufaru.com/experiences/dive-school-water-sports-center/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "windsurfing",
+    "source_url": "https://dhigufaru.com/experiences/dive-school-water-sports-center/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "water skiing",
+    "source_url": "https://dhigufaru.com/experiences/dive-school-water-sports-center/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://dhigufaru.com/experiences/dive-school-water-sports-center/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://dhigufaru.com/experiences/dive-school-water-sports-center/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin cruise",
+    "source_url": "https://dhigufaru.com/experiences/dive-school-water-sports-center/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://dhigufaru.com/experiences/dive-school-water-sports-center/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://dhigufaru.com/experiences/dive-school-water-sports-center/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "canoe",
+    "source_url": "https://dhigufaru.com/experiences/dive-school-water-sports-center/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://dhigufaru.com/experiences/sand-bank-picnic",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://dhigufaru.com/experiences/sand-bank-picnic",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin cruise",
+    "source_url": "https://dhigufaru.com/experiences/sand-bank-picnic",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://dhigufaru.com/experiences/fishing-excursions",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://dhigufaru.com/experiences/fishing-excursions",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin cruise",
+    "source_url": "https://dhigufaru.com/experiences/fishing-excursions",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://dhigufaru.com/experiences/dive-school-water-sports-center",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "windsurfing",
+    "source_url": "https://dhigufaru.com/experiences/dive-school-water-sports-center",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "water skiing",
+    "source_url": "https://dhigufaru.com/experiences/dive-school-water-sports-center",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://dhigufaru.com/experiences/dive-school-water-sports-center",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://dhigufaru.com/experiences/dive-school-water-sports-center",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin cruise",
+    "source_url": "https://dhigufaru.com/experiences/dive-school-water-sports-center",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://dhigufaru.com/experiences/dive-school-water-sports-center",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://dhigufaru.com/experiences/dive-school-water-sports-center",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "canoe",
+    "source_url": "https://dhigufaru.com/experiences/dive-school-water-sports-center",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://dhigufaru.com/experiences/fulhangi-dive-school/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "windsurfing",
+    "source_url": "https://dhigufaru.com/experiences/fulhangi-dive-school/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "water skiing",
+    "source_url": "https://dhigufaru.com/experiences/fulhangi-dive-school/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://dhigufaru.com/experiences/fulhangi-dive-school/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://dhigufaru.com/experiences/fulhangi-dive-school/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin cruise",
+    "source_url": "https://dhigufaru.com/experiences/fulhangi-dive-school/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://dhigufaru.com/experiences/fulhangi-dive-school/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://dhigufaru.com/experiences/fulhangi-dive-school/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "canoe",
+    "source_url": "https://dhigufaru.com/experiences/fulhangi-dive-school/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "excursions": [
+   {
+    "value": "sandbank",
+    "source_url": "https://dhigufaru.com/app/wp-content/uploads/2024/12/Dhigufaru-Wedding-Proposal-Packages-2024.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "local island",
+    "source_url": "https://dhigufaru.com/experiences/stargazing-cruise/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://dhigufaru.com/experiences/stargazing-cruise/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "picnic",
+    "source_url": "https://dhigufaru.com/experiences/stargazing-cruise/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "stargazing",
+    "source_url": "https://dhigufaru.com/experiences/stargazing-cruise/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "local island",
+    "source_url": "https://dhigufaru.com/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://dhigufaru.com/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://dhigufaru.com/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset fishing",
+    "source_url": "https://dhigufaru.com/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "picnic",
+    "source_url": "https://dhigufaru.com/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "stargazing",
+    "source_url": "https://dhigufaru.com/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "local island",
+    "source_url": "https://dhigufaru.com/experiences/fishing-excursions/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://dhigufaru.com/experiences/fishing-excursions/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset fishing",
+    "source_url": "https://dhigufaru.com/experiences/fishing-excursions/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "picnic",
+    "source_url": "https://dhigufaru.com/experiences/fishing-excursions/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "stargazing",
+    "source_url": "https://dhigufaru.com/experiences/fishing-excursions/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "local island",
+    "source_url": "https://dhigufaru.com/experiences/recreation-center/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://dhigufaru.com/experiences/recreation-center/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "picnic",
+    "source_url": "https://dhigufaru.com/experiences/recreation-center/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "stargazing",
+    "source_url": "https://dhigufaru.com/experiences/recreation-center/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://dhigufaru.com/weddings/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "local island",
+    "source_url": "https://dhigufaru.com/experiences/dolphin-cruise/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://dhigufaru.com/experiences/dolphin-cruise/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://dhigufaru.com/experiences/dolphin-cruise/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "picnic",
+    "source_url": "https://dhigufaru.com/experiences/dolphin-cruise/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "stargazing",
+    "source_url": "https://dhigufaru.com/experiences/dolphin-cruise/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "local island",
+    "source_url": "https://dhigufaru.com/experiences/baraveli-kids-club/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://dhigufaru.com/experiences/baraveli-kids-club/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "picnic",
+    "source_url": "https://dhigufaru.com/experiences/baraveli-kids-club/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "stargazing",
+    "source_url": "https://dhigufaru.com/experiences/baraveli-kids-club/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "local island",
+    "source_url": "https://dhigufaru.com/experiences/local-island-visits/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://dhigufaru.com/experiences/local-island-visits/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "picnic",
+    "source_url": "https://dhigufaru.com/experiences/local-island-visits/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "stargazing",
+    "source_url": "https://dhigufaru.com/experiences/local-island-visits/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "local island",
+    "source_url": "https://dhigufaru.com/experiences/multi-purpose-court/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://dhigufaru.com/experiences/multi-purpose-court/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "picnic",
+    "source_url": "https://dhigufaru.com/experiences/multi-purpose-court/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "stargazing",
+    "source_url": "https://dhigufaru.com/experiences/multi-purpose-court/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "local island",
+    "source_url": "https://dhigufaru.com/experiences/sunset-cruise/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://dhigufaru.com/experiences/sunset-cruise/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "picnic",
+    "source_url": "https://dhigufaru.com/experiences/sunset-cruise/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "stargazing",
+    "source_url": "https://dhigufaru.com/experiences/sunset-cruise/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "local island",
+    "source_url": "https://dhigufaru.com/experiences/sand-bank-picnic/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://dhigufaru.com/experiences/sand-bank-picnic/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://dhigufaru.com/experiences/sand-bank-picnic/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "picnic",
+    "source_url": "https://dhigufaru.com/experiences/sand-bank-picnic/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "stargazing",
+    "source_url": "https://dhigufaru.com/experiences/sand-bank-picnic/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "local island",
+    "source_url": "https://dhigufaru.com/experiences/dive-school-water-sports-center/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://dhigufaru.com/experiences/dive-school-water-sports-center/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://dhigufaru.com/experiences/dive-school-water-sports-center/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://dhigufaru.com/experiences/dive-school-water-sports-center/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "picnic",
+    "source_url": "https://dhigufaru.com/experiences/dive-school-water-sports-center/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "stargazing",
+    "source_url": "https://dhigufaru.com/experiences/dive-school-water-sports-center/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://dhigufaru.com/weddings",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "local island",
+    "source_url": "https://dhigufaru.com/experiences/sand-bank-picnic",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://dhigufaru.com/experiences/sand-bank-picnic",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://dhigufaru.com/experiences/sand-bank-picnic",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "picnic",
+    "source_url": "https://dhigufaru.com/experiences/sand-bank-picnic",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "stargazing",
+    "source_url": "https://dhigufaru.com/experiences/sand-bank-picnic",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "local island",
+    "source_url": "https://dhigufaru.com/experiences/fishing-excursions",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://dhigufaru.com/experiences/fishing-excursions",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset fishing",
+    "source_url": "https://dhigufaru.com/experiences/fishing-excursions",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "picnic",
+    "source_url": "https://dhigufaru.com/experiences/fishing-excursions",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "stargazing",
+    "source_url": "https://dhigufaru.com/experiences/fishing-excursions",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "local island",
+    "source_url": "https://dhigufaru.com/experiences/dive-school-water-sports-center",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://dhigufaru.com/experiences/dive-school-water-sports-center",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://dhigufaru.com/experiences/dive-school-water-sports-center",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://dhigufaru.com/experiences/dive-school-water-sports-center",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "picnic",
+    "source_url": "https://dhigufaru.com/experiences/dive-school-water-sports-center",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "stargazing",
+    "source_url": "https://dhigufaru.com/experiences/dive-school-water-sports-center",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "local island",
+    "source_url": "https://dhigufaru.com/experiences/fulhangi-dive-school/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://dhigufaru.com/experiences/fulhangi-dive-school/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://dhigufaru.com/experiences/fulhangi-dive-school/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://dhigufaru.com/experiences/fulhangi-dive-school/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "picnic",
+    "source_url": "https://dhigufaru.com/experiences/fulhangi-dive-school/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "stargazing",
+    "source_url": "https://dhigufaru.com/experiences/fulhangi-dive-school/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "weddings.offered": [
+   {
+    "value": true,
+    "source_url": "https://dhigufaru.com/app/wp-content/uploads/2024/12/Dhigufaru-Wedding-Proposal-Packages-2024.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": true,
+    "source_url": "https://dhigufaru.com/weddings/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://dhigufaru.com/weddings/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://dhigufaru.com/weddings",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://dhigufaru.com/weddings",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "wellness_fitness": [
+   {
+    "value": "yoga",
+    "source_url": "https://dhigufaru.com/app/wp-content/uploads/2016/03/Huifilandaa-Pavilion.pdf",
+    "as_of": 2017
+   },
+   {
+    "value": "gym",
+    "source_url": "https://dhigufaru.com/app/wp-content/uploads/2016/03/FS-fp-screen.pdf",
+    "as_of": 2016
+   },
+   {
+    "value": "sauna",
+    "source_url": "https://dhigufaru.com/app/wp-content/uploads/2016/03/FS-fp-screen.pdf",
+    "as_of": 2016
+   },
+   {
+    "value": "steam",
+    "source_url": "https://dhigufaru.com/app/wp-content/uploads/2016/03/FS-fp-screen.pdf",
+    "as_of": 2016
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://dhigufaru.com/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sauna",
+    "source_url": "https://dhigufaru.com/spa/treatment-rooms/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "steam",
+    "source_url": "https://dhigufaru.com/spa/treatment-rooms/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "gym",
+    "source_url": "https://dhigufaru.com/experiences/recreation-center/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://dhigufaru.com/experiences/recreation-center/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sauna",
+    "source_url": "https://dhigufaru.com/spa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "steam",
+    "source_url": "https://dhigufaru.com/spa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sauna",
+    "source_url": "https://dhigufaru.com/spa/foot-therapy/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "steam",
+    "source_url": "https://dhigufaru.com/spa/foot-therapy/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sauna",
+    "source_url": "https://dhigufaru.com/spa/sauna-steam-room/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "steam",
+    "source_url": "https://dhigufaru.com/spa/sauna-steam-room/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sauna",
+    "source_url": "https://dhigufaru.com/spa/salon/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "steam",
+    "source_url": "https://dhigufaru.com/spa/salon/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://dhigufaru.com/experiences/multi-purpose-court/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sauna",
+    "source_url": "https://dhigufaru.com/spa",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "steam",
+    "source_url": "https://dhigufaru.com/spa",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sauna",
+    "source_url": "https://dhigufaru.com/spa/reflexology-centre/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "steam",
+    "source_url": "https://dhigufaru.com/spa/reflexology-centre/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sauna",
+    "source_url": "https://dhigufaru.com/spa/reflexology-centre",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "steam",
+    "source_url": "https://dhigufaru.com/spa/reflexology-centre",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sauna",
+    "source_url": "https://dhigufaru.com/spa/treatment-rooms",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "steam",
+    "source_url": "https://dhigufaru.com/spa/treatment-rooms",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sauna",
+    "source_url": "https://dhigufaru.com/spa/sauna-steam-room",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "steam",
+    "source_url": "https://dhigufaru.com/spa/sauna-steam-room",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "atoll": [
+   {
+    "value": "Baa Atoll",
+    "source_url": "https://dhigufaru.com/app/wp-content/uploads/2016/03/FS-fp-screen.pdf",
+    "as_of": 2016
+   },
+   {
+    "value": "Baa Atoll",
+    "source_url": "https://dhigufaru.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Baa Atoll",
+    "source_url": "https://dhigufaru.com/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Baa Atoll",
+    "source_url": "https://dhigufaru.com/experiences/dolphin-cruise/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Baa Atoll",
+    "source_url": "https://dhigufaru.com/experiences/baraveli-kids-club/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Baa Atoll",
+    "source_url": "https://dhigufaru.com/inquiry/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Baa Atoll",
+    "source_url": "https://dhigufaru.com/contact-us/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Baa Atoll",
+    "source_url": "https://dhigufaru.com/inquiry",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "spa.name": [
+   {
+    "value": "Funa Spa",
+    "source_url": "https://dhigufaru.com/app/wp-content/uploads/2016/03/FS-fp-screen.pdf",
+    "as_of": 2016
+   },
+   {
+    "value": "Photo Gallery\nFuna Spa",
+    "source_url": "https://dhigufaru.com/spa/treatment-rooms/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Our Funa Spa",
+    "source_url": "https://dhigufaru.com/spa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Photo Gallery\nFuna Spa",
+    "source_url": "https://dhigufaru.com/spa/foot-therapy/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Photo Gallery\nFuna Spa",
+    "source_url": "https://dhigufaru.com/spa/sauna-steam-room/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Funa Spa",
+    "source_url": "https://dhigufaru.com/spa/salon/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Our Funa Spa",
+    "source_url": "https://dhigufaru.com/spa",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Photo Gallery\nFuna Spa",
+    "source_url": "https://dhigufaru.com/spa/reflexology-centre/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Photo Gallery\nFuna Spa",
+    "source_url": "https://dhigufaru.com/spa/reflexology-centre",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Photo Gallery\nFuna Spa",
+    "source_url": "https://dhigufaru.com/spa/treatment-rooms",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Photo Gallery\nFuna Spa",
+    "source_url": "https://dhigufaru.com/spa/sauna-steam-room",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "kids_family.kids_club": [
+   {
+    "value": "Baraveli Kids Club",
+    "source_url": "https://dhigufaru.com/app/wp-content/uploads/2016/03/FS-fp-screen.pdf",
+    "as_of": 2016
+   },
+   {
+    "value": "Recreation Center\nBaraveli Kids Club",
+    "source_url": "https://dhigufaru.com/experiences/stargazing-cruise/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Baraveli Kids Club",
+    "source_url": "https://dhigufaru.com/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Recreation Center\nBaraveli Kids Club",
+    "source_url": "https://dhigufaru.com/experiences/fishing-excursions/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Recreation Center\nBaraveli Kids Club",
+    "source_url": "https://dhigufaru.com/experiences/recreation-center/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Recreation Center\nBaraveli Kids Club",
+    "source_url": "https://dhigufaru.com/experiences/dolphin-cruise/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Baraveli Kids Club",
+    "source_url": "https://dhigufaru.com/experiences/baraveli-kids-club/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Kids Club",
+    "source_url": "https://dhigufaru.com/terms-conditions/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Recreation Center\nBaraveli Kids Club",
+    "source_url": "https://dhigufaru.com/experiences/local-island-visits/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Recreation Center\nBaraveli Kids Club",
+    "source_url": "https://dhigufaru.com/experiences/multi-purpose-court/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Recreation Center\nBaraveli Kids Club",
+    "source_url": "https://dhigufaru.com/experiences/sunset-cruise/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Recreation Center\nBaraveli Kids Club",
+    "source_url": "https://dhigufaru.com/experiences/sand-bank-picnic/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Recreation Center\nBaraveli Kids Club",
+    "source_url": "https://dhigufaru.com/experiences/dive-school-water-sports-center/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Recreation Center\nBaraveli Kids Club",
+    "source_url": "https://dhigufaru.com/experiences/sand-bank-picnic",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Recreation Center\nBaraveli Kids Club",
+    "source_url": "https://dhigufaru.com/experiences/fishing-excursions",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Kids Club",
+    "source_url": "https://dhigufaru.com/terms-conditions",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Recreation Center\nBaraveli Kids Club",
+    "source_url": "https://dhigufaru.com/experiences/dive-school-water-sports-center",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Recreation Center\nBaraveli Kids Club",
+    "source_url": "https://dhigufaru.com/experiences/fulhangi-dive-school/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "contacts_public.reservations_email": [
+   {
+    "value": "inquiry@dhigufaru.com",
+    "source_url": "https://dhigufaru.com/app/wp-content/uploads/2016/03/FS-fp-screen.pdf",
+    "as_of": 2016
+   }
+  ],
+  "contacts_public.phone": [
+   {
+    "value": "+960 3302656",
+    "source_url": "https://dhigufaru.com/app/wp-content/uploads/2016/03/FS-fp-screen.pdf",
+    "as_of": 2016
+   },
+   {
+    "value": "+960-660-2656",
+    "source_url": "https://dhigufaru.com/inquiry/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 3302656 (",
+    "source_url": "https://dhigufaru.com/terms-conditions/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 660 2656",
+    "source_url": "https://dhigufaru.com/payments-communication-policy/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960-660-2656",
+    "source_url": "https://dhigufaru.com/contact-us/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960-660-2656",
+    "source_url": "https://dhigufaru.com/inquiry",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 3302656 (",
+    "source_url": "https://dhigufaru.com/terms-conditions",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "diving_watersports.operator": [
+   {
+    "value": "Ocean Dimensions",
+    "source_url": "https://dhigufaru.com/experiences/stargazing-cruise/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Ocean Dimensions",
+    "source_url": "https://dhigufaru.com/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Ocean Dimensions",
+    "source_url": "https://dhigufaru.com/experiences/fishing-excursions/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Ocean Dimensions",
+    "source_url": "https://dhigufaru.com/experiences/recreation-center/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Ocean Dimensions",
+    "source_url": "https://dhigufaru.com/experiences/dolphin-cruise/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Ocean Dimensions",
+    "source_url": "https://dhigufaru.com/experiences/baraveli-kids-club/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Ocean Dimensions",
+    "source_url": "https://dhigufaru.com/experiences/local-island-visits/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Ocean Dimensions",
+    "source_url": "https://dhigufaru.com/experiences/multi-purpose-court/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Ocean Dimensions",
+    "source_url": "https://dhigufaru.com/experiences/sunset-cruise/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Ocean Dimensions",
+    "source_url": "https://dhigufaru.com/experiences/sand-bank-picnic/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Ocean Dimensions",
+    "source_url": "https://dhigufaru.com/experiences/dive-school-water-sports-center/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Ocean Dimensions",
+    "source_url": "https://dhigufaru.com/experiences/sand-bank-picnic",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Ocean Dimensions",
+    "source_url": "https://dhigufaru.com/experiences/fishing-excursions",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Ocean Dimensions",
+    "source_url": "https://dhigufaru.com/experiences/dive-school-water-sports-center",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Ocean Dimensions",
+    "source_url": "https://dhigufaru.com/experiences/fulhangi-dive-school/",
+    "as_of": "2026-10-04"
+   }
+  ]
+ },
+ "last_updated": "2026-10-05"
 }

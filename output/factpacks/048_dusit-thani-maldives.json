@@ -6,13 +6,13 @@
   "Dusit Thani Maldives",
   "Mudhdhoo"
  ],
- "official_url": null,
- "official_site_status": null,
+ "official_url": "https://www.dusit.com/dusitthani-maldives/",
+ "official_site_status": "unverified",
  "operator_brand": "Dusit Thani",
  "atoll": "Baa Atoll",
- "island": null,
+ "island": "Mudhdhoo Island",
  "opened_or_renovated": null,
- "star_rating": null,
+ "star_rating": "5-star",
  "transfer": {
   "modes": [
    "seaplane",
@@ -95,56 +95,72 @@
     "overwater": null
    },
    {
-    "name": "Sunset Pool Pavilion",
-    "count": 223,
-    "size_sqm": null,
-    "max_occupancy": null,
-    "pool": true,
-    "overwater": null
-   },
-   {
-    "name": "Bedrooms Beach Pool Villas",
-    "count": 2,
-    "size_sqm": null,
-    "max_occupancy": null,
-    "pool": true,
-    "overwater": null
-   },
-   {
-    "name": "Pool Pavilion",
-    "count": 201,
-    "size_sqm": null,
-    "max_occupancy": null,
-    "pool": true,
-    "overwater": null
-   },
-   {
-    "name": "QǤQLW\\\u0003 RRO Beach Villas",
-    "count": 420,
+    "name": "Embudu Village A",
+    "count": 22,
     "size_sqm": null,
     "max_occupancy": null,
     "pool": null,
     "overwater": null
    },
    {
-    "name": "Waterfront Pool Villas",
-    "count": 510,
+    "name": "Equator Village A",
+    "count": 23,
     "size_sqm": null,
     "max_occupancy": null,
-    "pool": true,
+    "pool": null,
     "overwater": null
    },
    {
-    "name": "Arrival Jetty Waterfront Pool Villas",
-    "count": 620,
+    "name": "Mookai Suites A",
+    "count": 26,
     "size_sqm": null,
     "max_occupancy": null,
-    "pool": true,
+    "pool": null,
     "overwater": null
    },
    {
-    "name": "Number of Villas",
-    "count": 94,
+    "name": "Lu South Ari Atoll Resort & Villas A",
+    "count": 31,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "Amilla Maldives Resort & Residences D",
+    "count": 120,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "Residence Maldives D",
+    "count": 122,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "The Residence Maldives at Dhigurah D",
+    "count": 123,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "TME Retreats Dhigurah E",
+    "count": 131,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "Villa Nautica E . Paradise Island Resort E",
+    "count": 143,
     "size_sqm": null,
     "max_occupancy": null,
     "pool": null,
@@ -175,49 +191,29 @@
    "type": "restaurant"
   },
   {
-   "name": "Daily buffet breakfast at The Market Restaurant.",
-   "cuisine": null,
-   "type": "restaurant"
-  },
-  {
-   "name": "Daily dinner at Benjarong or Sea Grill à la carte",
-   "cuisine": null,
-   "type": "restaurant"
-  },
-  {
-   "name": "Daily à la carte lunch at Sea Grill or Benjarong",
-   "cuisine": null,
-   "type": "restaurant"
-  },
-  {
-   "name": "Borderless Dining Experiences. *",
-   "cuisine": null,
-   "type": "restaurant"
-  },
-  {
-   "name": "Dining",
-   "cuisine": null,
-   "type": "restaurant"
-  },
-  {
    "name": "Restaurant Seats Type Operation time Menu",
    "cuisine": null,
    "type": "restaurant"
   },
   {
-   "name": "Sala Bar W",
+   "name": "Lounge Lounge",
    "cuisine": null,
    "type": "bar"
   },
   {
-   "name": "Sand Bar",
+   "name": "Lounge",
    "cuisine": null,
    "type": "bar"
   },
   {
-   "name": "Sea Grill",
+   "name": "Arrival Lounge",
    "cuisine": null,
-   "type": "restaurant"
+   "type": "bar"
+  },
+  {
+   "name": "No Hotel Name Arr Lounge",
+   "cuisine": null,
+   "type": "bar"
   },
   {
    "name": "Sala Bar",
@@ -225,12 +221,7 @@
    "type": "bar"
   },
   {
-   "name": "The One Table: Borderless Dining",
-   "cuisine": null,
-   "type": "restaurant"
-  },
-  {
-   "name": "Dining & In-Villa Comforts",
+   "name": "Sea Grill",
    "cuisine": null,
    "type": "restaurant"
   }
@@ -249,23 +240,26 @@
   "activities": [
    "sunset cruise",
    "snorkelling",
-   "snorkeling",
    "scuba diving",
-   "jet ski",
-   "parasailing",
    "kayaking",
    "paddleboard",
+   "jet ski",
+   "parasailing",
    "wakeboarding",
    "dolphin cruise",
    "whale shark",
    "manta",
-   "sailing"
+   "sailing",
+   "windsurfing",
+   "kitesurfing",
+   "stand-up paddle",
+   "catamaran",
+   "seabob"
   ],
   "price_list_doc": null
  },
  "excursions": [
   "cooking class",
-  "cinema",
   "local island",
   "sandbank",
   "dolphin",
@@ -299,7 +293,9 @@
   "buyout": null,
   "doc": null
  },
- "sustainability": [],
+ "sustainability": [
+  "coral nursery"
+ ],
  "contacts_public": {
   "reservations_email": "info@neoscapesmaldives.com",
   "weddings_email": null,
@@ -307,15 +303,15 @@
  },
  "documents_latest": {
   "factsheet": "https://www.neoscapesmaldives.com/wp-content/uploads/New-Dusit-Thani-Maldives-Property-Fact-Sheet-1.pdf",
-  "map": "https://www.neoscapesmaldives.com/wp-content/uploads/Dusit-Thani-Maldives-Island-Map.pdf",
+  "map": "https://maldives.ru/doc/airport-new-counters-map-2023-1.pdf",
   "wedding": null,
   "spa_menu": null,
   "dining_menu": null,
   "dive_prices": null,
   "events": null,
-  "calendar": null
+  "calendar": "https://letsgomaldives.com/wp-content/uploads/2026/09/Ocean-Carnival-Festive-Celebrations-at-Dusit-Thani-Maldives_LGM.pdf"
  },
- "documents_count": 2,
+ "documents_count": 6,
  "gaps": [
   "wedding brochure",
   "events/MICE document"
@@ -328,13 +324,28 @@
     "as_of": 2026
    },
    {
-    "value": "Baa Atoll",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Dusit-Thani-Maldives-Island-Map.pdf",
-    "as_of": 2024
+    "value": "Ari Atoll",
+    "source_url": "https://maldives.ru/doc/airport-new-counters-map-2023-1.pdf",
+    "as_of": 2023
    },
    {
     "value": "Baa Atoll",
     "source_url": "https://www.neoscapesmaldives.com/resort/dusit-thani-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Baa Atoll",
+    "source_url": "https://letsgomaldives.com/news/call-of-the-sangu-at-dusit-thani-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "South Male Atoll",
+    "source_url": "https://www.maldivesholidayoffers.com/accomodation/resorts/dusit-thani-maldives-/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Baa Atoll",
+    "source_url": "https://www.maldivesholidayoffers.com/blogs/blog-detail/why-devarana-spa-at-dusit-thani-maldives-is-wellness-bliss/",
     "as_of": "2026-10-04"
    }
   ],
@@ -358,6 +369,16 @@
     "value": "seaplane",
     "source_url": "https://www.neoscapesmaldives.com/resort/dusit-thani-maldives/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.maldivesholidayoffers.com/accomodation/resorts/dusit-thani-maldives-/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "domestic flight",
+    "source_url": "https://www.maldivesholidayoffers.com/accomodation/resorts/dusit-thani-maldives-/",
+    "as_of": "2026-10-04"
    }
   ],
   "transfer.minutes.seaplane": [
@@ -369,6 +390,11 @@
    {
     "value": 35,
     "source_url": "https://www.neoscapesmaldives.com/resort/dusit-thani-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 35,
+    "source_url": "https://www.maldivesholidayoffers.com/accomodation/resorts/dusit-thani-maldives-/",
     "as_of": "2026-10-04"
    }
   ],
@@ -384,6 +410,11 @@
     "value": 10,
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/New-Dusit-Thani-Maldives-Property-Fact-Sheet-1.pdf",
     "as_of": 2026
+   },
+   {
+    "value": 35,
+    "source_url": "https://www.maldivesholidayoffers.com/accomodation/resorts/dusit-thani-maldives-/",
+    "as_of": "2026-10-04"
    }
   ],
   "villas.total": [
@@ -497,87 +528,111 @@
    },
    {
     "value": {
-     "name": "Sunset Pool Pavilion",
-     "count": 223,
-     "size_sqm": null,
-     "max_occupancy": null,
-     "pool": true,
-     "overwater": null
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Dusit-Thani-Maldives-Island-Map.pdf",
-    "as_of": 2024
-   },
-   {
-    "value": {
-     "name": "Bedrooms Beach Pool Villas",
-     "count": 2,
-     "size_sqm": null,
-     "max_occupancy": null,
-     "pool": true,
-     "overwater": null
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Dusit-Thani-Maldives-Island-Map.pdf",
-    "as_of": 2024
-   },
-   {
-    "value": {
-     "name": "Pool Pavilion",
-     "count": 201,
-     "size_sqm": null,
-     "max_occupancy": null,
-     "pool": true,
-     "overwater": null
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Dusit-Thani-Maldives-Island-Map.pdf",
-    "as_of": 2024
-   },
-   {
-    "value": {
-     "name": "QǤQLW\\\u0003 RRO Beach Villas",
-     "count": 420,
+     "name": "Embudu Village A",
+     "count": 22,
      "size_sqm": null,
      "max_occupancy": null,
      "pool": null,
      "overwater": null
     },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Dusit-Thani-Maldives-Island-Map.pdf",
-    "as_of": 2024
+    "source_url": "https://maldives.ru/doc/airport-new-counters-map-2023-1.pdf",
+    "as_of": 2023
    },
    {
     "value": {
-     "name": "Waterfront Pool Villas",
-     "count": 510,
-     "size_sqm": null,
-     "max_occupancy": null,
-     "pool": true,
-     "overwater": null
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Dusit-Thani-Maldives-Island-Map.pdf",
-    "as_of": 2024
-   },
-   {
-    "value": {
-     "name": "Arrival Jetty Waterfront Pool Villas",
-     "count": 620,
-     "size_sqm": null,
-     "max_occupancy": null,
-     "pool": true,
-     "overwater": null
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Dusit-Thani-Maldives-Island-Map.pdf",
-    "as_of": 2024
-   },
-   {
-    "value": {
-     "name": "Number of Villas",
-     "count": 94,
+     "name": "Equator Village A",
+     "count": 23,
      "size_sqm": null,
      "max_occupancy": null,
      "pool": null,
      "overwater": null
     },
-    "source_url": "https://www.neoscapesmaldives.com/resort/dusit-thani-maldives/",
-    "as_of": "2026-10-04"
+    "source_url": "https://maldives.ru/doc/airport-new-counters-map-2023-1.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": {
+     "name": "Mookai Suites A",
+     "count": 26,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://maldives.ru/doc/airport-new-counters-map-2023-1.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": {
+     "name": "Lu South Ari Atoll Resort & Villas A",
+     "count": 31,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://maldives.ru/doc/airport-new-counters-map-2023-1.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": {
+     "name": "Amilla Maldives Resort & Residences D",
+     "count": 120,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://maldives.ru/doc/airport-new-counters-map-2023-1.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": {
+     "name": "Residence Maldives D",
+     "count": 122,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://maldives.ru/doc/airport-new-counters-map-2023-1.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": {
+     "name": "The Residence Maldives at Dhigurah D",
+     "count": 123,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://maldives.ru/doc/airport-new-counters-map-2023-1.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": {
+     "name": "TME Retreats Dhigurah E",
+     "count": 131,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://maldives.ru/doc/airport-new-counters-map-2023-1.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": {
+     "name": "Villa Nautica E . Paradise Island Resort E",
+     "count": 143,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://maldives.ru/doc/airport-new-counters-map-2023-1.pdf",
+    "as_of": 2023
    },
    {
     "value": {
@@ -628,96 +683,6 @@
    },
    {
     "value": {
-     "name": "Daily buffet breakfast at The Market Restaurant.",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/New-Dusit-Thani-Maldives-Property-Fact-Sheet-1.pdf",
-    "as_of": 2026
-   },
-   {
-    "value": {
-     "name": "Daily dinner at Benjarong or Sea Grill à la carte",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/New-Dusit-Thani-Maldives-Property-Fact-Sheet-1.pdf",
-    "as_of": 2026
-   },
-   {
-    "value": {
-     "name": "Daily buffet breakfast at The Market Restaurant.",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/New-Dusit-Thani-Maldives-Property-Fact-Sheet-1.pdf",
-    "as_of": 2026
-   },
-   {
-    "value": {
-     "name": "Daily à la carte lunch at Sea Grill or Benjarong",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/New-Dusit-Thani-Maldives-Property-Fact-Sheet-1.pdf",
-    "as_of": 2026
-   },
-   {
-    "value": {
-     "name": "Daily dinner at Benjarong or Sea Grill à la carte",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/New-Dusit-Thani-Maldives-Property-Fact-Sheet-1.pdf",
-    "as_of": 2026
-   },
-   {
-    "value": {
-     "name": "Daily buffet breakfast at The Market Restaurant.",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/New-Dusit-Thani-Maldives-Property-Fact-Sheet-1.pdf",
-    "as_of": 2026
-   },
-   {
-    "value": {
-     "name": "Daily à la carte lunch at Sea Grill or Benjarong",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/New-Dusit-Thani-Maldives-Property-Fact-Sheet-1.pdf",
-    "as_of": 2026
-   },
-   {
-    "value": {
-     "name": "Daily dinner at Benjarong or Sea Grill à la carte",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/New-Dusit-Thani-Maldives-Property-Fact-Sheet-1.pdf",
-    "as_of": 2026
-   },
-   {
-    "value": {
-     "name": "Borderless Dining Experiences. *",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/New-Dusit-Thani-Maldives-Property-Fact-Sheet-1.pdf",
-    "as_of": 2026
-   },
-   {
-    "value": {
-     "name": "Dining",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/New-Dusit-Thani-Maldives-Property-Fact-Sheet-1.pdf",
-    "as_of": 2026
-   },
-   {
-    "value": {
      "name": "Restaurant Seats Type Operation time Menu",
      "cuisine": null,
      "type": "restaurant"
@@ -727,48 +692,48 @@
    },
    {
     "value": {
-     "name": "Sala Bar W",
+     "name": "Lounge Lounge",
      "cuisine": null,
      "type": "bar"
     },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Dusit-Thani-Maldives-Island-Map.pdf",
-    "as_of": 2024
+    "source_url": "https://maldives.ru/doc/airport-new-counters-map-2023-1.pdf",
+    "as_of": 2023
    },
    {
     "value": {
-     "name": "Sand Bar",
+     "name": "Lounge",
      "cuisine": null,
      "type": "bar"
     },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Dusit-Thani-Maldives-Island-Map.pdf",
-    "as_of": 2024
+    "source_url": "https://maldives.ru/doc/airport-new-counters-map-2023-1.pdf",
+    "as_of": 2023
    },
    {
     "value": {
-     "name": "Sea Grill",
+     "name": "Lounge",
      "cuisine": null,
-     "type": "restaurant"
+     "type": "bar"
     },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Dusit-Thani-Maldives-Island-Map.pdf",
-    "as_of": 2024
+    "source_url": "https://maldives.ru/doc/airport-new-counters-map-2023-1.pdf",
+    "as_of": 2023
    },
    {
     "value": {
-     "name": "Dining",
+     "name": "Arrival Lounge",
      "cuisine": null,
-     "type": "restaurant"
+     "type": "bar"
     },
-    "source_url": "https://www.neoscapesmaldives.com/resort/dusit-thani-maldives/",
-    "as_of": "2026-10-04"
+    "source_url": "https://maldives.ru/doc/airport-new-counters-map-2023-1.pdf",
+    "as_of": 2023
    },
    {
     "value": {
-     "name": "Dining",
+     "name": "No Hotel Name Arr Lounge",
      "cuisine": null,
-     "type": "restaurant"
+     "type": "bar"
     },
-    "source_url": "https://www.neoscapesmaldives.com/resort/dusit-thani-maldives/",
-    "as_of": "2026-10-04"
+    "source_url": "https://maldives.ru/doc/airport-new-counters-map-2023-1.pdf",
+    "as_of": 2023
    },
    {
     "value": {
@@ -782,24 +747,6 @@
    {
     "value": {
      "name": "Sea Grill",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/dusit-thani-maldives/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "The One Table: Borderless Dining",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/dusit-thani-maldives/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Dining & In-Villa Comforts",
      "cuisine": null,
      "type": "restaurant"
     },
@@ -821,13 +768,13 @@
     "as_of": 2026
    },
    {
-    "value": "House Reef &DXWLRQ\u001d\u0003%RDW\u0003 \u00036HD\u00033ODQH\u00037UDIǤF",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Dusit-Thani-Maldives-Island-Map.pdf",
-    "as_of": 2024
-   },
-   {
     "value": "house reef",
     "source_url": "https://www.neoscapesmaldives.com/resort/dusit-thani-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef to discover the wonders of the underwater world",
+    "source_url": "https://www.maldivesholidayoffers.com/blogs/blog-detail/why-devarana-spa-at-dusit-thani-maldives-is-wellness-bliss/",
     "as_of": "2026-10-04"
    }
   ],
@@ -836,31 +783,6 @@
     "value": "sunset cruise",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/New-Dusit-Thani-Maldives-Property-Fact-Sheet-1.pdf",
     "as_of": 2026
-   },
-   {
-    "value": "snorkelling",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Dusit-Thani-Maldives-Island-Map.pdf",
-    "as_of": 2024
-   },
-   {
-    "value": "snorkeling",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Dusit-Thani-Maldives-Island-Map.pdf",
-    "as_of": 2024
-   },
-   {
-    "value": "scuba diving",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Dusit-Thani-Maldives-Island-Map.pdf",
-    "as_of": 2024
-   },
-   {
-    "value": "jet ski",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Dusit-Thani-Maldives-Island-Map.pdf",
-    "as_of": 2024
-   },
-   {
-    "value": "parasailing",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Dusit-Thani-Maldives-Island-Map.pdf",
-    "as_of": 2024
    },
    {
     "value": "snorkelling",
@@ -916,6 +838,66 @@
     "value": "sailing",
     "source_url": "https://www.neoscapesmaldives.com/resort/dusit-thani-maldives/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://www.maldivesholidayoffers.com/blogs/blog-detail/why-devarana-spa-at-dusit-thani-maldives-is-wellness-bliss/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "windsurfing",
+    "source_url": "https://www.maldivesholidayoffers.com/blogs/blog-detail/why-devarana-spa-at-dusit-thani-maldives-is-wellness-bliss/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "kitesurfing",
+    "source_url": "https://www.maldivesholidayoffers.com/blogs/blog-detail/why-devarana-spa-at-dusit-thani-maldives-is-wellness-bliss/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "kayaking",
+    "source_url": "https://www.maldivesholidayoffers.com/blogs/blog-detail/why-devarana-spa-at-dusit-thani-maldives-is-wellness-bliss/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "stand-up paddle",
+    "source_url": "https://www.maldivesholidayoffers.com/blogs/blog-detail/why-devarana-spa-at-dusit-thani-maldives-is-wellness-bliss/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "catamaran",
+    "source_url": "https://www.maldivesholidayoffers.com/blogs/blog-detail/why-devarana-spa-at-dusit-thani-maldives-is-wellness-bliss/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "jet ski",
+    "source_url": "https://www.maldivesholidayoffers.com/blogs/blog-detail/why-devarana-spa-at-dusit-thani-maldives-is-wellness-bliss/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "parasailing",
+    "source_url": "https://www.maldivesholidayoffers.com/blogs/blog-detail/why-devarana-spa-at-dusit-thani-maldives-is-wellness-bliss/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "wakeboarding",
+    "source_url": "https://www.maldivesholidayoffers.com/blogs/blog-detail/why-devarana-spa-at-dusit-thani-maldives-is-wellness-bliss/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "seabob",
+    "source_url": "https://www.maldivesholidayoffers.com/blogs/blog-detail/why-devarana-spa-at-dusit-thani-maldives-is-wellness-bliss/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin cruise",
+    "source_url": "https://www.maldivesholidayoffers.com/blogs/blog-detail/why-devarana-spa-at-dusit-thani-maldives-is-wellness-bliss/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sailing",
+    "source_url": "https://www.maldivesholidayoffers.com/blogs/blog-detail/why-devarana-spa-at-dusit-thani-maldives-is-wellness-bliss/",
+    "as_of": "2026-10-04"
    }
   ],
   "excursions": [
@@ -923,11 +905,6 @@
     "value": "cooking class",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/New-Dusit-Thani-Maldives-Property-Fact-Sheet-1.pdf",
     "as_of": 2026
-   },
-   {
-    "value": "cinema",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Dusit-Thani-Maldives-Island-Map.pdf",
-    "as_of": 2024
    },
    {
     "value": "local island",
@@ -952,6 +929,11 @@
    {
     "value": "manta",
     "source_url": "https://www.neoscapesmaldives.com/resort/dusit-thani-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.maldivesholidayoffers.com/blogs/blog-detail/why-devarana-spa-at-dusit-thani-maldives-is-wellness-bliss/",
     "as_of": "2026-10-04"
    }
   ],
@@ -992,11 +974,6 @@
     "as_of": 2026
    },
    {
-    "value": "tennis",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Dusit-Thani-Maldives-Island-Map.pdf",
-    "as_of": 2024
-   },
-   {
     "value": "yoga",
     "source_url": "https://www.neoscapesmaldives.com/resort/dusit-thani-maldives/",
     "as_of": "2026-10-04"
@@ -1004,6 +981,31 @@
    {
     "value": "meditation",
     "source_url": "https://www.neoscapesmaldives.com/resort/dusit-thani-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://letsgomaldives.com/news/well-fest-at-dusit-thani-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.maldivesholidayoffers.com/blogs/blog-detail/why-devarana-spa-at-dusit-thani-maldives-is-wellness-bliss/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "meditation",
+    "source_url": "https://www.maldivesholidayoffers.com/blogs/blog-detail/why-devarana-spa-at-dusit-thani-maldives-is-wellness-bliss/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sauna",
+    "source_url": "https://www.maldivesholidayoffers.com/blogs/blog-detail/why-devarana-spa-at-dusit-thani-maldives-is-wellness-bliss/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "steam",
+    "source_url": "https://www.maldivesholidayoffers.com/blogs/blog-detail/why-devarana-spa-at-dusit-thani-maldives-is-wellness-bliss/",
     "as_of": "2026-10-04"
    }
   ],
@@ -1017,42 +1019,50 @@
     "value": "+960 736 5425",
     "source_url": "https://www.neoscapesmaldives.com/resort/dusit-thani-maldives/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 660 8888",
+    "source_url": "https://letsgomaldives.com/news/call-of-the-sangu-at-dusit-thani-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 7773 699",
+    "source_url": "https://www.maldivesholidayoffers.com/accomodation/resorts/dusit-thani-maldives-/",
+    "as_of": "2026-10-04"
    }
   ],
   "spa.name": [
    {
-    "value": "Devarana Spa",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Dusit-Thani-Maldives-Island-Map.pdf",
-    "as_of": 2024
+    "value": "Spa",
+    "source_url": "https://maldives.ru/doc/airport-new-counters-map-2023-1.pdf",
+    "as_of": 2023
    },
    {
     "value": "Kids Club\nDevarana Spa",
     "source_url": "https://www.neoscapesmaldives.com/resort/dusit-thani-maldives/",
     "as_of": "2026-10-04"
-   }
-  ],
-  "diving_watersports.operator": [
-   {
-    "value": "Dive Centre",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Dusit-Thani-Maldives-Island-Map.pdf",
-    "as_of": 2024
-   }
-  ],
-  "kids_family.kids_club": [
-   {
-    "value": "Kids Club",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Dusit-Thani-Maldives-Island-Map.pdf",
-    "as_of": 2024
    },
    {
-    "value": "Kids Club",
-    "source_url": "https://www.neoscapesmaldives.com/resort/dusit-thani-maldives/",
+    "value": "Spa",
+    "source_url": "https://www.maldivesholidayoffers.com/accomodation/resorts/dusit-thani-maldives-/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Lyl\nWhy Devarana Spa",
+    "source_url": "https://www.maldivesholidayoffers.com/blogs/blog-detail/why-devarana-spa-at-dusit-thani-maldives-is-wellness-bliss/",
     "as_of": "2026-10-04"
    }
   ],
   "island_size": [
    {
     "value": "630 m x 280 m",
+    "source_url": "https://www.neoscapesmaldives.com/resort/dusit-thani-maldives/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "kids_family.kids_club": [
+   {
+    "value": "Kids Club",
     "source_url": "https://www.neoscapesmaldives.com/resort/dusit-thani-maldives/",
     "as_of": "2026-10-04"
    }
@@ -1069,8 +1079,41 @@
     "value": "info@neoscapesmaldives.com",
     "source_url": "https://www.neoscapesmaldives.com/resort/dusit-thani-maldives/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "sales.maldives@dusit.co",
+    "source_url": "https://letsgomaldives.com/news/call-of-the-sangu-at-dusit-thani-maldives/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "island": [
+   {
+    "value": "Mudhdhoo Island",
+    "source_url": "https://www.maldivesholidayoffers.com/blogs/blog-detail/why-devarana-spa-at-dusit-thani-maldives-is-wellness-bliss/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "star_rating": [
+   {
+    "value": "5-star",
+    "source_url": "https://www.maldivesholidayoffers.com/blogs/blog-detail/why-devarana-spa-at-dusit-thani-maldives-is-wellness-bliss/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "diving_watersports.operator": [
+   {
+    "value": "Dive Centre",
+    "source_url": "https://www.maldivesholidayoffers.com/blogs/blog-detail/why-devarana-spa-at-dusit-thani-maldives-is-wellness-bliss/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "sustainability": [
+   {
+    "value": "coral nursery",
+    "source_url": "https://www.maldivesholidayoffers.com/blogs/blog-detail/why-devarana-spa-at-dusit-thani-maldives-is-wellness-bliss/",
+    "as_of": "2026-10-04"
    }
   ]
  },
- "last_updated": "2026-10-04"
+ "last_updated": "2026-10-05"
 }

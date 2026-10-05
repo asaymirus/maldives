@@ -7,78 +7,31 @@
   "Finolhu Baa Atoll",
   "Kanufushi"
  ],
- "official_url": null,
- "official_site_status": null,
+ "official_url": "https://www.finolhu.com/",
+ "official_site_status": "ok",
  "operator_brand": "Finolhu",
  "atoll": "Baa Atoll",
  "island": null,
- "opened_or_renovated": null,
+ "opened_or_renovated": "opened 2016",
  "star_rating": null,
  "transfer": {
   "modes": [
-   "seaplane",
    "speedboat",
+   "seaplane",
+   "domestic flight",
    "yacht"
   ],
   "minutes": {
    "seaplane": 15,
    "speedboat": 20,
-   "domestic flight": null,
+   "domestic flight": 25,
    "yacht": null
   }
  },
  "island_size": null,
  "villas": {
-  "total": 125,
+  "total": null,
   "categories": [
-   {
-    "name": "Villas: One-Bedroom & Two-Bedroom Categories",
-    "count": 125,
-    "size_sqm": null,
-    "max_occupancy": null,
-    "pool": null,
-    "overwater": null
-   },
-   {
-    "name": "Lagoon Villas King adults + children OR adults adults",
-    "count": 41,
-    "size_sqm": 145,
-    "max_occupancy": null,
-    "pool": null,
-    "overwater": true
-   },
-   {
-    "name": "Beach Villas King adults + children OR adults adults",
-    "count": 8,
-    "size_sqm": 205,
-    "max_occupancy": null,
-    "pool": null,
-    "overwater": null
-   },
-   {
-    "name": "Private Pool Villas King adults + children OR adults adults",
-    "count": 16,
-    "size_sqm": 205,
-    "max_occupancy": null,
-    "pool": true,
-    "overwater": null
-   },
-   {
-    "name": "Ocean Pool Villas King adults + children OR adults adults",
-    "count": 41,
-    "size_sqm": 180,
-    "max_occupancy": null,
-    "pool": true,
-    "overwater": true
-   },
-   {
-    "name": "Beach Pool Villas King adults + children OR adults adults",
-    "count": 8,
-    "size_sqm": 205,
-    "max_occupancy": null,
-    "pool": true,
-    "overwater": null
-   },
    {
     "name": "Beach Villa King Adults + Children or Adult",
     "count": 15,
@@ -128,14 +81,6 @@
     "overwater": null
    },
    {
-    "name": "Total Number of Villas",
-    "count": 125,
-    "size_sqm": null,
-    "max_occupancy": null,
-    "pool": null,
-    "overwater": null
-   },
-   {
     "name": "maldives hero water villas finolhu maldives resort",
     "count": 4,
     "size_sqm": null,
@@ -163,44 +108,9 @@
  },
  "dining": [
   {
-   "name": "Beach Bar | Beach Club 0-4 years old",
-   "cuisine": null,
-   "type": "bar"
-  },
-  {
-   "name": "Dining | 5º North Experience Deck | Coconut Painting",
-   "cuisine": null,
-   "type": "restaurant"
-  },
-  {
-   "name": "Lagoon F Beach Kitchen All-Day Dining Q Gym",
-   "cuisine": null,
-   "type": "restaurant"
-  },
-  {
-   "name": "G Arabian Grill Restaurant R Yoga Pavilion",
-   "cuisine": null,
-   "type": "restaurant"
-  },
-  {
-   "name": "H Kanusan Restaurant S Fehi Spa",
-   "cuisine": null,
-   "type": "restaurant"
-  },
-  {
    "name": "Rooftop Bar, featuring a cabana seating",
    "cuisine": null,
    "type": "bar"
-  },
-  {
-   "name": "Cocktail Banquet Dining Classroom Theatre",
-   "cuisine": null,
-   "type": "restaurant"
-  },
-  {
-   "name": "Dining Packages Minimum Guests",
-   "cuisine": null,
-   "type": "restaurant"
   },
   {
    "name": "F Beach Kitchen",
@@ -209,11 +119,6 @@
   },
   {
    "name": "G Arabian Grill",
-   "cuisine": null,
-   "type": "restaurant"
-  },
-  {
-   "name": "Dining",
    "cuisine": null,
    "type": "restaurant"
   },
@@ -238,48 +143,101 @@
  ],
  "all_inclusive_details": "All-Inclusive experience.",
  "spa": {
-  "name": "Namm Spa",
-  "treatment_rooms": 10,
+  "name": "Fehi Spa",
+  "treatment_rooms": null,
   "signature_treatments": [],
-  "menu_doc": null
+  "menu_doc": "https://www.finolhu.com/wp-content/uploads/2023/03/finolhu-fehi-spa-pricelist.pdf"
  },
  "diving_watersports": {
   "operator": "Dive Butler",
-  "house_reef": null,
+  "house_reef": "House Reef Complimentary 06:30 - 08:30 Sunrise ‘Baraa’ Trolling $170",
   "activities": [
+   "manta",
+   "sunset cruise",
    "snorkelling",
+   "scuba diving",
+   "windsurfing",
+   "surfing",
+   "stand-up paddle",
+   "paddleboard",
    "catamaran",
+   "jet ski",
+   "parasailing",
+   "seabob",
+   "fishing",
+   "dolphin cruise",
+   "sailing",
+   "fun tube",
+   "whale shark",
    "water skiing",
-   "wakeboarding",
-   "seabob"
+   "wakeboarding"
   ],
-  "price_list_doc": null
+  "price_list_doc": "https://www.finolhu.com/wp-content/uploads/2026/04/Watersports-Price-List-2026.pdf"
  },
  "excursions": [
+  "manta",
+  "turtle",
   "sandbank",
-  "dolphin"
+  "local island",
+  "dolphin",
+  "big game fishing",
+  "picnic",
+  "whale shark"
  ],
  "kids_family": {
-  "kids_club": "Kids Club",
+  "kids_club": "The\nOceaneers Kids Club",
   "age_range": null,
   "teens": "teens programme mentioned"
  },
  "wellness_fitness": [
-  "yoga",
-  "gym",
+  "fitness centre",
   "tennis",
+  "beach volleyball",
   "sauna",
   "steam",
-  "fitness centre",
-  "beach volleyball",
+  "yoga",
+  "gym",
+  "pilates",
+  "wellness programme",
   "fitness center"
  ],
  "weddings": {
   "offered": true,
   "vow_renewal": true,
   "venues": [],
-  "packages": [],
-  "brochure_doc": null
+  "packages": [
+   {
+    "name": "Ceremony",
+    "price": "1600",
+    "currency": "USD",
+    "as_of": 2025
+   },
+   {
+    "name": "Discover Mermaid Experience",
+    "price": "180",
+    "currency": "USD",
+    "as_of": 2025
+   },
+   {
+    "name": "Mermaid Photo Package",
+    "price": "200",
+    "currency": "USD",
+    "as_of": 2025
+   },
+   {
+    "name": "Family Bonanza Package",
+    "price": "300",
+    "currency": "USD",
+    "as_of": 2025
+   },
+   {
+    "name": "Reef Cruiser Twin Package",
+    "price": "200",
+    "currency": "USD",
+    "as_of": 2026
+   }
+  ],
+  "brochure_doc": "https://www.finolhu.com/wp-content/uploads/2025/02/Wedding-Packages-2025.pdf"
  },
  "events_mice": {
   "venues": [
@@ -291,37 +249,379 @@
   "doc": "https://www.neoscapesmaldives.com/wp-content/uploads/D2MD-MICE-Brochure-2.pdf"
  },
  "sustainability": [
+  "Travelife",
   "marine biologist"
  ],
  "contacts_public": {
   "reservations_email": "info@neoscapesmaldives.com",
-  "weddings_email": null,
-  "phone": "+960 736 5425"
+  "weddings_email": "events@finolhu.mv",
+  "phone": "+960 660 8800"
  },
  "documents_latest": {
-  "factsheet": "https://www.neoscapesmaldives.com/wp-content/uploads/Finolhu-2021FactSheet_English-1.pdf",
+  "factsheet": "https://www.finolhu.com/wp-content/uploads/2025/10/Art-Lab-Fact-Sheet.pdf",
   "map": "https://www.neoscapesmaldives.com/wp-content/uploads/Island-Map-Portrait-Finolhu-Baa-Atoll.pdf",
-  "wedding": null,
-  "spa_menu": null,
-  "dining_menu": null,
-  "dive_prices": null,
+  "wedding": "https://www.finolhu.com/wp-content/uploads/2025/02/Wedding-Packages-2025.pdf",
+  "spa_menu": "https://www.finolhu.com/wp-content/uploads/2023/03/finolhu-fehi-spa-pricelist.pdf",
+  "dining_menu": "https://www.finolhu.com/wp-content/uploads/2025/10/DBI-Finolhu-Tablet-Menu-November-2025.pdf",
+  "dive_prices": "https://www.finolhu.com/wp-content/uploads/2026/04/Watersports-Price-List-2026.pdf",
   "events": "https://www.neoscapesmaldives.com/wp-content/uploads/D2MD-MICE-Brochure-2.pdf",
-  "calendar": null
+  "calendar": "https://www.finolhu.com/wp-content/uploads/2026/03/finolhu-easter-program-2026.pdf"
  },
- "documents_count": 3,
+ "documents_count": 53,
  "gaps": [
-  "wedding brochure"
+  "fact: villas.total"
  ],
  "sources": {
+  "diving_watersports.activities": [
+   {
+    "value": "manta",
+    "source_url": "https://www.finolhu.com/wp-content/uploads/2025/10/Art-Lab-Fact-Sheet.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.finolhu.com/wp-content/uploads/2025/02/Wedding-Packages-2025.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/D2MD-MICE-Brochure-2.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.finolhu.com/wp-content/uploads/2025/10/DBI-Finolhu-Tablet-Menu-November-2025.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://www.finolhu.com/wp-content/uploads/2025/10/DBI-Finolhu-Tablet-Menu-November-2025.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "windsurfing",
+    "source_url": "https://www.finolhu.com/wp-content/uploads/2025/10/DBI-Finolhu-Tablet-Menu-November-2025.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "surfing",
+    "source_url": "https://www.finolhu.com/wp-content/uploads/2025/10/DBI-Finolhu-Tablet-Menu-November-2025.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "stand-up paddle",
+    "source_url": "https://www.finolhu.com/wp-content/uploads/2025/10/DBI-Finolhu-Tablet-Menu-November-2025.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "paddleboard",
+    "source_url": "https://www.finolhu.com/wp-content/uploads/2025/10/DBI-Finolhu-Tablet-Menu-November-2025.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "catamaran",
+    "source_url": "https://www.finolhu.com/wp-content/uploads/2025/10/DBI-Finolhu-Tablet-Menu-November-2025.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "jet ski",
+    "source_url": "https://www.finolhu.com/wp-content/uploads/2025/10/DBI-Finolhu-Tablet-Menu-November-2025.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "parasailing",
+    "source_url": "https://www.finolhu.com/wp-content/uploads/2025/10/DBI-Finolhu-Tablet-Menu-November-2025.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "seabob",
+    "source_url": "https://www.finolhu.com/wp-content/uploads/2025/10/DBI-Finolhu-Tablet-Menu-November-2025.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.finolhu.com/wp-content/uploads/2025/10/DBI-Finolhu-Tablet-Menu-November-2025.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "dolphin cruise",
+    "source_url": "https://www.finolhu.com/wp-content/uploads/2025/10/DBI-Finolhu-Tablet-Menu-November-2025.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.finolhu.com/wp-content/uploads/2025/10/DBI-Finolhu-Tablet-Menu-November-2025.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "sailing",
+    "source_url": "https://www.finolhu.com/wp-content/uploads/2025/10/DBI-Finolhu-Tablet-Menu-November-2025.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "fun tube",
+    "source_url": "https://www.finolhu.com/wp-content/uploads/2025/10/DBI-Finolhu-Tablet-Menu-November-2025.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "windsurfing",
+    "source_url": "https://www.finolhu.com/wp-content/uploads/2026/04/Watersports-Price-List-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "surfing",
+    "source_url": "https://www.finolhu.com/wp-content/uploads/2026/04/Watersports-Price-List-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "catamaran",
+    "source_url": "https://www.finolhu.com/wp-content/uploads/2026/04/Watersports-Price-List-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "jet ski",
+    "source_url": "https://www.finolhu.com/wp-content/uploads/2026/04/Watersports-Price-List-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "parasailing",
+    "source_url": "https://www.finolhu.com/wp-content/uploads/2026/04/Watersports-Price-List-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "seabob",
+    "source_url": "https://www.finolhu.com/wp-content/uploads/2026/04/Watersports-Price-List-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "sailing",
+    "source_url": "https://www.finolhu.com/wp-content/uploads/2026/04/Watersports-Price-List-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "fun tube",
+    "source_url": "https://www.finolhu.com/wp-content/uploads/2026/04/Watersports-Price-List-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.finolhu.com/set-your-playful-spirit-free-at-finolhu-baa-atoll-this-festive-season/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.finolhu.com/set-your-playful-spirit-free-at-finolhu-baa-atoll-this-festive-season/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.finolhu.com/summer-holiday-fun-for-all-the-family-at-seaside-finolhu/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://www.finolhu.com/summer-holiday-fun-for-all-the-family-at-seaside-finolhu/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.finolhu.com/experience-the-thrill-and-wonder-of-big-game-fishing/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.finolhu.com/ten-reasons-to-stay-at-seaside-finolhu-baa-atoll-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.finolhu.com/ten-reasons-to-stay-at-seaside-finolhu-baa-atoll-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "catamaran",
+    "source_url": "https://www.neoscapesmaldives.com/resort/finolhu-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "water skiing",
+    "source_url": "https://www.neoscapesmaldives.com/resort/finolhu-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "wakeboarding",
+    "source_url": "https://www.neoscapesmaldives.com/resort/finolhu-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "seabob",
+    "source_url": "https://www.neoscapesmaldives.com/resort/finolhu-maldives/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "excursions": [
+   {
+    "value": "manta",
+    "source_url": "https://www.finolhu.com/wp-content/uploads/2025/10/Art-Lab-Fact-Sheet.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.finolhu.com/wp-content/uploads/2025/10/Art-Lab-Fact-Sheet.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.finolhu.com/wp-content/uploads/2025/02/Wedding-Packages-2025.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "local island",
+    "source_url": "https://www.finolhu.com/wp-content/uploads/2025/10/DBI-Finolhu-Tablet-Menu-November-2025.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.finolhu.com/wp-content/uploads/2025/10/DBI-Finolhu-Tablet-Menu-November-2025.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.finolhu.com/wp-content/uploads/2025/10/DBI-Finolhu-Tablet-Menu-November-2025.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "big game fishing",
+    "source_url": "https://www.finolhu.com/wp-content/uploads/2025/10/DBI-Finolhu-Tablet-Menu-November-2025.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.finolhu.com/wp-content/uploads/2025/10/DBI-Finolhu-Tablet-Menu-November-2025.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.finolhu.com/wp-content/uploads/2025/10/DBI-Finolhu-Tablet-Menu-November-2025.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "picnic",
+    "source_url": "https://www.finolhu.com/wp-content/uploads/2025/10/DBI-Finolhu-Tablet-Menu-November-2025.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.finolhu.com/set-your-playful-spirit-free-at-finolhu-baa-atoll-this-festive-season/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.finolhu.com/seaside-finolhu-kick-starts-exciting-transformation-project/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.finolhu.com/summer-holiday-fun-for-all-the-family-at-seaside-finolhu/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.finolhu.com/de/beginnen-sie-ihr-eheleben-in-einer-traumhaften-bubble-auf-den-malediven/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "big game fishing",
+    "source_url": "https://www.finolhu.com/experience-the-thrill-and-wonder-of-big-game-fishing/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.finolhu.com/de/sommerspass-fuer-die-ganze-familie-im-seaside-finolhu/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.finolhu.com/ten-reasons-to-stay-at-seaside-finolhu-baa-atoll-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.finolhu.com/ten-reasons-to-stay-at-seaside-finolhu-baa-atoll-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.finolhu.com/ten-reasons-to-stay-at-seaside-finolhu-baa-atoll-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.neoscapesmaldives.com/resort/finolhu-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.neoscapesmaldives.com/resort/finolhu-maldives/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "kids_family.teens": [
+   {
+    "value": "teens programme mentioned",
+    "source_url": "https://www.finolhu.com/wp-content/uploads/2025/10/Art-Lab-Fact-Sheet.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "teens programme mentioned",
+    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/D2MD-MICE-Brochure-2.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "teens programme mentioned",
+    "source_url": "https://www.finolhu.com/wp-content/uploads/2023/03/finolhu-fehi-spa-pricelist.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": "teens programme mentioned",
+    "source_url": "https://www.finolhu.com/set-your-playful-spirit-free-at-finolhu-baa-atoll-this-festive-season/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "teens programme mentioned",
+    "source_url": "https://www.finolhu.com/evolving-luxury-new-experiences-endless-possibilities/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "teens programme mentioned",
+    "source_url": "https://www.neoscapesmaldives.com/resort/finolhu-maldives/",
+    "as_of": "2026-10-04"
+   }
+  ],
   "atoll": [
    {
     "value": "Baa Atoll",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Finolhu-2021FactSheet_English-1.pdf",
-    "as_of": 2021
+    "source_url": "https://www.finolhu.com/wp-content/uploads/2025/02/Wedding-Packages-2025.pdf",
+    "as_of": 2025
    },
    {
     "value": "North Malé Atoll",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/D2MD-MICE-Brochure-2.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "Baa Atoll",
+    "source_url": "https://www.finolhu.com/wp-content/uploads/2025/10/DBI-Finolhu-Tablet-Menu-November-2025.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "Baa Atoll",
+    "source_url": "https://www.finolhu.com/wp-content/uploads/2020/09/Seaside-Finolhu_Website-Cookies-Policy.pdf",
+    "as_of": 2020
+   },
+   {
+    "value": "Baa Atoll",
+    "source_url": "https://www.finolhu.com/wp-content/uploads/2023/05/Travelife-Gold-Certificate-102084.pdf",
     "as_of": 2025
    },
    {
@@ -331,20 +631,319 @@
    },
    {
     "value": "Baa Atoll",
+    "source_url": "https://www.finolhu.com/finolhu-baa-atoll-inspired-by-a-kaleidoscope/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Baa Atoll",
+    "source_url": "https://www.finolhu.com/set-your-playful-spirit-free-at-finolhu-baa-atoll-this-festive-season/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Baa Atoll",
+    "source_url": "https://www.finolhu.com/seaside-finolhu-kick-starts-exciting-transformation-project/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Baa Atoll",
+    "source_url": "https://www.finolhu.com/evolving-luxury-new-experiences-endless-possibilities/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Baa Atoll",
+    "source_url": "https://www.finolhu.com/ar/experience-genuine-maldivian-soul-with-finolhu-baa-atolls-new-roohu-personalized-service-for-the-two-bedroom-villas/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Baa Atoll",
+    "source_url": "https://www.finolhu.com/ru/6-best-resort-in-the-indian-ocean/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Baa Atoll",
+    "source_url": "https://www.finolhu.com/experience-the-thrill-and-wonder-of-big-game-fishing/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Baa Atoll",
+    "source_url": "https://www.finolhu.com/ru/experience-the-thrill-and-wonder-of-big-game-fishing/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Baa Atoll",
+    "source_url": "https://www.finolhu.com/ten-reasons-to-stay-at-seaside-finolhu-baa-atoll-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Baa Atoll",
+    "source_url": "https://www.neoscapesmaldives.com/resort/finolhu-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Baa Atoll",
+    "source_url": "https://letsgomaldives.com/news/unveil-festive-traditions-and-magical-moments-at-finolhu-baa-atoll-maldives/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "spa.name": [
+   {
+    "value": "Fehi Spa",
+    "source_url": "https://www.finolhu.com/wp-content/uploads/2025/02/Wedding-Packages-2025.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "Namm Spa",
+    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/D2MD-MICE-Brochure-2.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.finolhu.com/wp-content/uploads/2025/10/DBI-Finolhu-Tablet-Menu-November-2025.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "Fehi Spa",
+    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Island-Map-Portrait-Finolhu-Baa-Atoll.pdf",
+    "as_of": 2020
+   },
+   {
+    "value": "Fehi Spa",
+    "source_url": "https://www.finolhu.com/finolhu-baa-atoll-inspired-by-a-kaleidoscope/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Fehi Spa",
+    "source_url": "https://www.finolhu.com/summer-holiday-fun-for-all-the-family-at-seaside-finolhu/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Fehi Spa",
+    "source_url": "https://www.finolhu.com/ru/summer-holiday-fun-for-all-the-family-at-seaside-finolhu/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Fehi Spa",
+    "source_url": "https://www.finolhu.com/de/sommerspass-fuer-die-ganze-familie-im-seaside-finolhu/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Rejuvenate\nFehi Spa",
+    "source_url": "https://www.finolhu.com/ten-reasons-to-stay-at-seaside-finolhu-baa-atoll-maldives/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "weddings.offered": [
+   {
+    "value": true,
+    "source_url": "https://www.finolhu.com/wp-content/uploads/2025/02/Wedding-Packages-2025.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": true,
+    "source_url": "https://www.finolhu.com/wp-content/uploads/2023/03/finolhu-fehi-spa-pricelist.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": true,
+    "source_url": "https://www.neoscapesmaldives.com/resort/finolhu-maldives/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "weddings.vow_renewal": [
+   {
+    "value": true,
+    "source_url": "https://www.finolhu.com/wp-content/uploads/2025/02/Wedding-Packages-2025.pdf",
+    "as_of": 2025
+   }
+  ],
+  "weddings.packages": [
+   {
+    "value": {
+     "name": "Ceremony",
+     "price": "1600",
+     "currency": "USD",
+     "as_of": 2025
+    },
+    "source_url": "https://www.finolhu.com/wp-content/uploads/2025/02/Wedding-Packages-2025.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": {
+     "name": "Ceremony",
+     "price": "2600",
+     "currency": "USD",
+     "as_of": 2025
+    },
+    "source_url": "https://www.finolhu.com/wp-content/uploads/2025/02/Wedding-Packages-2025.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": {
+     "name": "Ceremony",
+     "price": "3400",
+     "currency": "USD",
+     "as_of": 2025
+    },
+    "source_url": "https://www.finolhu.com/wp-content/uploads/2025/02/Wedding-Packages-2025.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": {
+     "name": "Discover Mermaid Experience",
+     "price": "180",
+     "currency": "USD",
+     "as_of": 2025
+    },
+    "source_url": "https://www.finolhu.com/wp-content/uploads/2025/10/DBI-Finolhu-Tablet-Menu-November-2025.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": {
+     "name": "Mermaid Photo Package",
+     "price": "200",
+     "currency": "USD",
+     "as_of": 2025
+    },
+    "source_url": "https://www.finolhu.com/wp-content/uploads/2025/10/DBI-Finolhu-Tablet-Menu-November-2025.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": {
+     "name": "Family Bonanza Package",
+     "price": "300",
+     "currency": "USD",
+     "as_of": 2025
+    },
+    "source_url": "https://www.finolhu.com/wp-content/uploads/2025/10/DBI-Finolhu-Tablet-Menu-November-2025.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": {
+     "name": "Family Bonanza Package",
+     "price": "300",
+     "currency": "USD",
+     "as_of": 2026
+    },
+    "source_url": "https://www.finolhu.com/wp-content/uploads/2026/04/Watersports-Price-List-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": {
+     "name": "Reef Cruiser Twin Package",
+     "price": "200",
+     "currency": "USD",
+     "as_of": 2026
+    },
+    "source_url": "https://www.finolhu.com/wp-content/uploads/2026/04/Watersports-Price-List-2026.pdf",
+    "as_of": 2026
+   }
+  ],
+  "contacts_public.reservations_email": [
+   {
+    "value": "stay@finolhu.mv",
+    "source_url": "https://www.finolhu.com/wp-content/uploads/2025/02/Wedding-Packages-2025.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "stay@finolhu.mv",
+    "source_url": "https://www.finolhu.com/wp-content/uploads/2020/09/Seaside-Finolhu_Website-Cookies-Policy.pdf",
+    "as_of": 2020
+   },
+   {
+    "value": "stay@ﬁnolhu.mv",
+    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Island-Map-Portrait-Finolhu-Baa-Atoll.pdf",
+    "as_of": 2020
+   },
+   {
+    "value": "info@neoscapesmaldives.com",
+    "source_url": "https://www.neoscapesmaldives.com/resort/finolhu-maldives/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "contacts_public.weddings_email": [
+   {
+    "value": "events@finolhu.mv",
+    "source_url": "https://www.finolhu.com/wp-content/uploads/2025/02/Wedding-Packages-2025.pdf",
+    "as_of": 2025
+   }
+  ],
+  "contacts_public.phone": [
+   {
+    "value": "+960 660 8800",
+    "source_url": "https://www.finolhu.com/wp-content/uploads/2025/02/Wedding-Packages-2025.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "+960 664 9988",
+    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/D2MD-MICE-Brochure-2.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "+960 730 6768",
+    "source_url": "https://www.finolhu.com/wp-content/uploads/2025/10/DBI-Finolhu-Tablet-Menu-November-2025.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "+960 660 8800",
+    "source_url": "https://www.finolhu.com/wp-content/uploads/2020/09/Seaside-Finolhu_Website-Cookies-Policy.pdf",
+    "as_of": 2020
+   },
+   {
+    "value": "+960 660 8800",
+    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Island-Map-Portrait-Finolhu-Baa-Atoll.pdf",
+    "as_of": 2020
+   },
+   {
+    "value": "+960 660 8800",
+    "source_url": "https://www.finolhu.com/seaside-finolhu-kick-starts-exciting-transformation-project/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 660 8800",
+    "source_url": "https://www.finolhu.com/summer-holiday-fun-for-all-the-family-at-seaside-finolhu/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 660 8800",
+    "source_url": "https://www.finolhu.com/ru/summer-holiday-fun-for-all-the-family-at-seaside-finolhu/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 660 8800",
+    "source_url": "https://www.finolhu.com/de/sommerspass-fuer-die-ganze-familie-im-seaside-finolhu/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 736 5425",
     "source_url": "https://www.neoscapesmaldives.com/resort/finolhu-maldives/",
     "as_of": "2026-10-04"
    }
   ],
   "transfer.modes": [
    {
-    "value": "seaplane",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Finolhu-2021FactSheet_English-1.pdf",
-    "as_of": 2021
-   },
-   {
     "value": "speedboat",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/D2MD-MICE-Brochure-2.pdf",
     "as_of": 2025
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.finolhu.com/wp-content/uploads/2025/10/DBI-Finolhu-Tablet-Menu-November-2025.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.finolhu.com/wp-content/uploads/2025/10/DBI-Finolhu-Tablet-Menu-November-2025.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "domestic flight",
+    "source_url": "https://www.finolhu.com/wp-content/uploads/2025/10/DBI-Finolhu-Tablet-Menu-November-2025.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.finolhu.com/wp-content/uploads/2026/04/Watersports-Price-List-2026.pdf",
+    "as_of": 2026
    },
    {
     "value": "seaplane",
@@ -362,98 +961,7 @@
     "as_of": "2026-10-04"
    }
   ],
-  "transfer.minutes.seaplane": [
-   {
-    "value": 30,
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Finolhu-2021FactSheet_English-1.pdf",
-    "as_of": 2021
-   },
-   {
-    "value": 15,
-    "source_url": "https://www.neoscapesmaldives.com/resort/finolhu-maldives/",
-    "as_of": "2026-10-04"
-   }
-  ],
-  "villas.total": [
-   {
-    "value": 125,
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Finolhu-2021FactSheet_English-1.pdf",
-    "as_of": 2021
-   }
-  ],
   "villas.categories": [
-   {
-    "value": {
-     "name": "Villas: One-Bedroom & Two-Bedroom Categories",
-     "count": 125,
-     "size_sqm": null,
-     "max_occupancy": null,
-     "pool": null,
-     "overwater": null
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Finolhu-2021FactSheet_English-1.pdf",
-    "as_of": 2021
-   },
-   {
-    "value": {
-     "name": "Lagoon Villas King adults + children OR adults adults",
-     "count": 41,
-     "size_sqm": 145,
-     "max_occupancy": null,
-     "pool": null,
-     "overwater": true
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Finolhu-2021FactSheet_English-1.pdf",
-    "as_of": 2021
-   },
-   {
-    "value": {
-     "name": "Beach Villas King adults + children OR adults adults",
-     "count": 8,
-     "size_sqm": 205,
-     "max_occupancy": null,
-     "pool": null,
-     "overwater": null
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Finolhu-2021FactSheet_English-1.pdf",
-    "as_of": 2021
-   },
-   {
-    "value": {
-     "name": "Private Pool Villas King adults + children OR adults adults",
-     "count": 16,
-     "size_sqm": 205,
-     "max_occupancy": null,
-     "pool": true,
-     "overwater": null
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Finolhu-2021FactSheet_English-1.pdf",
-    "as_of": 2021
-   },
-   {
-    "value": {
-     "name": "Ocean Pool Villas King adults + children OR adults adults",
-     "count": 41,
-     "size_sqm": 180,
-     "max_occupancy": null,
-     "pool": true,
-     "overwater": true
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Finolhu-2021FactSheet_English-1.pdf",
-    "as_of": 2021
-   },
-   {
-    "value": {
-     "name": "Beach Pool Villas King adults + children OR adults adults",
-     "count": 8,
-     "size_sqm": 205,
-     "max_occupancy": null,
-     "pool": true,
-     "overwater": null
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Finolhu-2021FactSheet_English-1.pdf",
-    "as_of": 2021
-   },
    {
     "value": {
      "name": "Beach Villa King Adults + Children or Adult",
@@ -528,18 +1036,6 @@
    },
    {
     "value": {
-     "name": "Total Number of Villas",
-     "count": 125,
-     "size_sqm": null,
-     "max_occupancy": null,
-     "pool": null,
-     "overwater": null
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/finolhu-maldives/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
      "name": "maldives hero water villas finolhu maldives resort",
      "count": 4,
      "size_sqm": null,
@@ -590,72 +1086,9 @@
   "dining": [
    {
     "value": {
-     "name": "Beach Bar | Beach Club 0-4 years old",
-     "cuisine": null,
-     "type": "bar"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Finolhu-2021FactSheet_English-1.pdf",
-    "as_of": 2021
-   },
-   {
-    "value": {
-     "name": "Dining | 5º North Experience Deck | Coconut Painting",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Finolhu-2021FactSheet_English-1.pdf",
-    "as_of": 2021
-   },
-   {
-    "value": {
-     "name": "Lagoon F Beach Kitchen All-Day Dining Q Gym",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Finolhu-2021FactSheet_English-1.pdf",
-    "as_of": 2021
-   },
-   {
-    "value": {
-     "name": "G Arabian Grill Restaurant R Yoga Pavilion",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Finolhu-2021FactSheet_English-1.pdf",
-    "as_of": 2021
-   },
-   {
-    "value": {
-     "name": "H Kanusan Restaurant S Fehi Spa",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Finolhu-2021FactSheet_English-1.pdf",
-    "as_of": 2021
-   },
-   {
-    "value": {
      "name": "Rooftop Bar, featuring a cabana seating",
      "cuisine": null,
      "type": "bar"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/D2MD-MICE-Brochure-2.pdf",
-    "as_of": 2025
-   },
-   {
-    "value": {
-     "name": "Cocktail Banquet Dining Classroom Theatre",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/D2MD-MICE-Brochure-2.pdf",
-    "as_of": 2025
-   },
-   {
-    "value": {
-     "name": "Dining Packages Minimum Guests",
-     "cuisine": null,
-     "type": "restaurant"
     },
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/D2MD-MICE-Brochure-2.pdf",
     "as_of": 2025
@@ -680,20 +1113,56 @@
    },
    {
     "value": {
-     "name": "Dining",
+     "name": "Beach Kitchen",
      "cuisine": null,
      "type": "restaurant"
     },
-    "source_url": "https://www.neoscapesmaldives.com/resort/finolhu-maldives/",
+    "source_url": "https://www.finolhu.com/finolhu-baa-atoll-inspired-by-a-kaleidoscope/",
     "as_of": "2026-10-04"
    },
    {
     "value": {
-     "name": "Dining",
+     "name": "Arabian Grill",
      "cuisine": null,
      "type": "restaurant"
     },
-    "source_url": "https://www.neoscapesmaldives.com/resort/finolhu-maldives/",
+    "source_url": "https://www.finolhu.com/finolhu-baa-atoll-inspired-by-a-kaleidoscope/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Beach Kitchen",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.finolhu.com/summer-holiday-fun-for-all-the-family-at-seaside-finolhu/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Arabian Grill",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.finolhu.com/summer-holiday-fun-for-all-the-family-at-seaside-finolhu/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Beach Kitchen",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.finolhu.com/de/sommerspass-fuer-die-ganze-familie-im-seaside-finolhu/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Arabian Grill",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.finolhu.com/de/sommerspass-fuer-die-ganze-familie-im-seaside-finolhu/",
     "as_of": "2026-10-04"
    },
    {
@@ -724,107 +1193,21 @@
     "as_of": "2026-10-04"
    }
   ],
-  "spa.name": [
+  "meal_plans": [
    {
-    "value": "Fehi Spa",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Finolhu-2021FactSheet_English-1.pdf",
-    "as_of": 2021
-   },
-   {
-    "value": "Namm Spa",
+    "value": "AI",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/D2MD-MICE-Brochure-2.pdf",
     "as_of": 2025
-   },
-   {
-    "value": "Fehi Spa",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Island-Map-Portrait-Finolhu-Baa-Atoll.pdf",
-    "as_of": 2020
    }
   ],
-  "spa.treatment_rooms": [
+  "all_inclusive_details": [
    {
-    "value": 10,
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Finolhu-2021FactSheet_English-1.pdf",
-    "as_of": 2021
-   }
-  ],
-  "diving_watersports.operator": [
-   {
-    "value": "Dive Centre",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Finolhu-2021FactSheet_English-1.pdf",
-    "as_of": 2021
-   },
-   {
-    "value": "Dive Centre",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Island-Map-Portrait-Finolhu-Baa-Atoll.pdf",
-    "as_of": 2020
-   },
-   {
-    "value": "Dive Butler",
-    "source_url": "https://www.neoscapesmaldives.com/resort/finolhu-maldives/",
-    "as_of": "2026-10-04"
-   }
-  ],
-  "excursions": [
-   {
-    "value": "sandbank",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Finolhu-2021FactSheet_English-1.pdf",
-    "as_of": 2021
-   },
-   {
-    "value": "sandbank",
-    "source_url": "https://www.neoscapesmaldives.com/resort/finolhu-maldives/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": "dolphin",
-    "source_url": "https://www.neoscapesmaldives.com/resort/finolhu-maldives/",
-    "as_of": "2026-10-04"
-   }
-  ],
-  "kids_family.kids_club": [
-   {
-    "value": "Oceaneers Kids Club",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Finolhu-2021FactSheet_English-1.pdf",
-    "as_of": 2021
-   },
-   {
-    "value": "Oceaneers Kids Club",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Island-Map-Portrait-Finolhu-Baa-Atoll.pdf",
-    "as_of": 2020
-   },
-   {
-    "value": "Kids Club",
-    "source_url": "https://www.neoscapesmaldives.com/resort/finolhu-maldives/",
-    "as_of": "2026-10-04"
+    "value": "All-Inclusive experience.",
+    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/D2MD-MICE-Brochure-2.pdf",
+    "as_of": 2025
    }
   ],
   "wellness_fitness": [
-   {
-    "value": "yoga",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Finolhu-2021FactSheet_English-1.pdf",
-    "as_of": 2021
-   },
-   {
-    "value": "gym",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Finolhu-2021FactSheet_English-1.pdf",
-    "as_of": 2021
-   },
-   {
-    "value": "tennis",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Finolhu-2021FactSheet_English-1.pdf",
-    "as_of": 2021
-   },
-   {
-    "value": "sauna",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Finolhu-2021FactSheet_English-1.pdf",
-    "as_of": 2021
-   },
-   {
-    "value": "steam",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Finolhu-2021FactSheet_English-1.pdf",
-    "as_of": 2021
-   },
    {
     "value": "fitness centre",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/D2MD-MICE-Brochure-2.pdf",
@@ -852,6 +1235,11 @@
    },
    {
     "value": "yoga",
+    "source_url": "https://www.finolhu.com/wp-content/uploads/2023/03/finolhu-fehi-spa-pricelist.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": "yoga",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Island-Map-Portrait-Finolhu-Baa-Atoll.pdf",
     "as_of": 2020
    },
@@ -864,6 +1252,36 @@
     "value": "tennis",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Island-Map-Portrait-Finolhu-Baa-Atoll.pdf",
     "as_of": 2020
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.finolhu.com/set-your-playful-spirit-free-at-finolhu-baa-atoll-this-festive-season/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "pilates",
+    "source_url": "https://www.finolhu.com/set-your-playful-spirit-free-at-finolhu-baa-atoll-this-festive-season/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "wellness programme",
+    "source_url": "https://www.finolhu.com/set-your-playful-spirit-free-at-finolhu-baa-atoll-this-festive-season/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.finolhu.com/ten-reasons-to-stay-at-seaside-finolhu-baa-atoll-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://www.finolhu.com/ten-reasons-to-stay-at-seaside-finolhu-baa-atoll-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "beach volleyball",
+    "source_url": "https://www.finolhu.com/ten-reasons-to-stay-at-seaside-finolhu-baa-atoll-maldives/",
+    "as_of": "2026-10-04"
    },
    {
     "value": "yoga",
@@ -896,105 +1314,6 @@
     "as_of": "2026-10-04"
    }
   ],
-  "weddings.vow_renewal": [
-   {
-    "value": true,
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Finolhu-2021FactSheet_English-1.pdf",
-    "as_of": 2021
-   }
-  ],
-  "contacts_public.reservations_email": [
-   {
-    "value": "stay@finolhu.mv",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Finolhu-2021FactSheet_English-1.pdf",
-    "as_of": 2021
-   },
-   {
-    "value": "stay@ﬁnolhu.mv",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Island-Map-Portrait-Finolhu-Baa-Atoll.pdf",
-    "as_of": 2020
-   },
-   {
-    "value": "info@neoscapesmaldives.com",
-    "source_url": "https://www.neoscapesmaldives.com/resort/finolhu-maldives/",
-    "as_of": "2026-10-04"
-   }
-  ],
-  "contacts_public.phone": [
-   {
-    "value": "+960 660 8800",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Finolhu-2021FactSheet_English-1.pdf",
-    "as_of": 2021
-   },
-   {
-    "value": "+960 664 9988",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/D2MD-MICE-Brochure-2.pdf",
-    "as_of": 2025
-   },
-   {
-    "value": "+960 660 8800",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Island-Map-Portrait-Finolhu-Baa-Atoll.pdf",
-    "as_of": 2020
-   },
-   {
-    "value": "+960 736 5425",
-    "source_url": "https://www.neoscapesmaldives.com/resort/finolhu-maldives/",
-    "as_of": "2026-10-04"
-   }
-  ],
-  "meal_plans": [
-   {
-    "value": "AI",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/D2MD-MICE-Brochure-2.pdf",
-    "as_of": 2025
-   }
-  ],
-  "all_inclusive_details": [
-   {
-    "value": "All-Inclusive experience.",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/D2MD-MICE-Brochure-2.pdf",
-    "as_of": 2025
-   }
-  ],
-  "diving_watersports.activities": [
-   {
-    "value": "snorkelling",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/D2MD-MICE-Brochure-2.pdf",
-    "as_of": 2025
-   },
-   {
-    "value": "catamaran",
-    "source_url": "https://www.neoscapesmaldives.com/resort/finolhu-maldives/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": "water skiing",
-    "source_url": "https://www.neoscapesmaldives.com/resort/finolhu-maldives/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": "wakeboarding",
-    "source_url": "https://www.neoscapesmaldives.com/resort/finolhu-maldives/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": "seabob",
-    "source_url": "https://www.neoscapesmaldives.com/resort/finolhu-maldives/",
-    "as_of": "2026-10-04"
-   }
-  ],
-  "kids_family.teens": [
-   {
-    "value": "teens programme mentioned",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/D2MD-MICE-Brochure-2.pdf",
-    "as_of": 2025
-   },
-   {
-    "value": "teens programme mentioned",
-    "source_url": "https://www.neoscapesmaldives.com/resort/finolhu-maldives/",
-    "as_of": "2026-10-04"
-   }
-  ],
   "events_mice.capacity_max": [
    {
     "value": 240,
@@ -1014,27 +1333,112 @@
     "as_of": 2025
    }
   ],
+  "transfer.minutes.seaplane": [
+   {
+    "value": 30,
+    "source_url": "https://www.finolhu.com/wp-content/uploads/2025/10/DBI-Finolhu-Tablet-Menu-November-2025.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": 15,
+    "source_url": "https://www.neoscapesmaldives.com/resort/finolhu-maldives/",
+    "as_of": "2026-10-04"
+   }
+  ],
   "transfer.minutes.speedboat": [
+   {
+    "value": 30,
+    "source_url": "https://www.finolhu.com/wp-content/uploads/2025/10/DBI-Finolhu-Tablet-Menu-November-2025.pdf",
+    "as_of": 2025
+   },
    {
     "value": 20,
     "source_url": "https://www.neoscapesmaldives.com/resort/finolhu-maldives/",
     "as_of": "2026-10-04"
    }
   ],
-  "weddings.offered": [
+  "transfer.minutes.domestic flight": [
    {
-    "value": true,
+    "value": 25,
+    "source_url": "https://www.finolhu.com/wp-content/uploads/2025/10/DBI-Finolhu-Tablet-Menu-November-2025.pdf",
+    "as_of": 2025
+   }
+  ],
+  "diving_watersports.operator": [
+   {
+    "value": "Dive Butler",
+    "source_url": "https://www.finolhu.com/wp-content/uploads/2025/10/DBI-Finolhu-Tablet-Menu-November-2025.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "Dive Butler",
+    "source_url": "https://www.finolhu.com/wp-content/uploads/2026/04/Watersports-Price-List-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "Dive Centre",
+    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Island-Map-Portrait-Finolhu-Baa-Atoll.pdf",
+    "as_of": 2020
+   },
+   {
+    "value": "Dive Butler",
     "source_url": "https://www.neoscapesmaldives.com/resort/finolhu-maldives/",
     "as_of": "2026-10-04"
    }
   ],
+  "diving_watersports.house_reef": [
+   {
+    "value": "House Reef Complimentary 06:30 - 08:30 Sunrise ‘Baraa’ Trolling $170",
+    "source_url": "https://www.finolhu.com/wp-content/uploads/2025/10/DBI-Finolhu-Tablet-Menu-November-2025.pdf",
+    "as_of": 2025
+   }
+  ],
   "sustainability": [
+   {
+    "value": "Travelife",
+    "source_url": "https://www.finolhu.com/wp-content/uploads/2023/05/Travelife-Gold-Certificate-102084.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "marine biologist",
+    "source_url": "https://www.finolhu.com/set-your-playful-spirit-free-at-finolhu-baa-atoll-this-festive-season/",
+    "as_of": "2026-10-04"
+   },
    {
     "value": "marine biologist",
     "source_url": "https://www.neoscapesmaldives.com/resort/finolhu-maldives/",
     "as_of": "2026-10-04"
    }
+  ],
+  "kids_family.kids_club": [
+   {
+    "value": "Oceaneers Kids Club",
+    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Island-Map-Portrait-Finolhu-Baa-Atoll.pdf",
+    "as_of": 2020
+   },
+   {
+    "value": "The\nOceaneers Kids Club",
+    "source_url": "https://www.finolhu.com/summer-holiday-fun-for-all-the-family-at-seaside-finolhu/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Der\nOceaneers Kids Club",
+    "source_url": "https://www.finolhu.com/de/sommerspass-fuer-die-ganze-familie-im-seaside-finolhu/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Kids Club",
+    "source_url": "https://www.neoscapesmaldives.com/resort/finolhu-maldives/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "opened_or_renovated": [
+   {
+    "value": "opened 2016",
+    "source_url": "https://www.finolhu.com/seaside-finolhu-kick-starts-exciting-transformation-project/",
+    "as_of": "2026-10-04"
+   }
   ]
  },
- "last_updated": "2026-10-04"
+ "last_updated": "2026-10-05"
 }

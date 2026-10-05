@@ -6,16 +6,17 @@
   "Rannalhi",
   "Adaaran Club Rannalhi"
  ],
- "official_url": null,
- "official_site_status": null,
+ "official_url": "https://www.adaaran.com/clubrannalhi/",
+ "official_site_status": "ok",
  "operator_brand": "Adaaran",
- "atoll": "South Male Atoll",
- "island": null,
+ "atoll": "South Malé Atoll",
+ "island": "Free",
  "opened_or_renovated": null,
  "star_rating": null,
  "transfer": {
   "modes": [
-   "speedboat"
+   "speedboat",
+   "seaplane"
   ],
   "minutes": {
    "seaplane": null,
@@ -26,39 +27,19 @@
  },
  "island_size": "400 m x 150 m",
  "villas": {
-  "total": null,
-  "categories": [
-   {
-    "name": "Sunset Water Villa",
-    "count": 2,
-    "size_sqm": null,
-    "max_occupancy": null,
-    "pool": null,
-    "overwater": null
-   },
-   {
-    "name": "Water Villa",
-    "count": 2,
-    "size_sqm": null,
-    "max_occupancy": null,
-    "pool": null,
-    "overwater": null
-   },
-   {
-    "name": "Number of Villas",
-    "count": 96,
-    "size_sqm": null,
-    "max_occupancy": null,
-    "pool": null,
-    "overwater": null
-   }
-  ]
+  "total": 116,
+  "categories": []
  },
  "dining": [
   {
-   "name": "Dining",
+   "name": "∙ Sundown DJ music at the Cocktail Bar",
    "cuisine": null,
-   "type": "restaurant"
+   "type": "bar"
+  },
+  {
+   "name": "Cocktail Bar",
+   "cuisine": null,
+   "type": "bar"
   },
   {
    "name": "Main Restaurant",
@@ -71,13 +52,25 @@
    "type": "bar"
   },
   {
-   "name": "Cocktail Bar",
+   "name": "In Front of the Cocktail Bar",
    "cuisine": null,
    "type": "bar"
+  },
+  {
+   "name": "Mini Bar",
+   "cuisine": null,
+   "type": "bar"
+  },
+  {
+   "name": "Restaurant with theme nights",
+   "cuisine": null,
+   "type": "restaurant"
   }
  ],
- "meal_plans": [],
- "all_inclusive_details": "All-Inclusive dining, daily excursions, and friendly Maldivian hospitality make every moment unforgettable.",
+ "meal_plans": [
+  "AI"
+ ],
+ "all_inclusive_details": "All Inclusive package.",
  "spa": {
   "name": "Spa",
   "treatment_rooms": null,
@@ -85,32 +78,42 @@
   "menu_doc": null
  },
  "diving_watersports": {
-  "operator": null,
-  "house_reef": "House Reef Rannalhi and swim with tropical fish, manta rays, and gentle sea turtles",
+  "operator": "Dive Centre",
+  "house_reef": "house reef",
   "activities": [
    "snorkeling",
    "scuba diving",
-   "surfing",
    "paddleboard",
    "catamaran",
    "jet ski",
    "water skiing",
-   "fishing",
    "flyboard",
    "canoe",
+   "sailing",
+   "stand-up paddle",
+   "seabob",
+   "manta",
+   "fun tube",
+   "fishing",
+   "snorkelling",
+   "windsurfing",
+   "whale shark",
    "kayaking",
-   "sunset cruise",
-   "manta"
+   "sunset cruise"
   ],
-  "price_list_doc": null
+  "price_list_doc": "https://www.adaaran.com/clubrannalhi/view-download/?id=menu-05"
  },
  "excursions": [
   "island hopping",
   "dolphin",
+  "sandbank",
+  "manta",
+  "local island",
   "turtle",
   "sunset fishing",
   "Male city tour",
-  "manta"
+  "whale shark",
+  "night fishing"
  ],
  "kids_family": {
   "kids_club": null,
@@ -125,9 +128,18 @@
  "weddings": {
   "offered": true,
   "vow_renewal": true,
-  "venues": [],
-  "packages": [],
-  "brochure_doc": null
+  "venues": [
+   "Outdoor beach venue for wedding celebration"
+  ],
+  "packages": [
+   {
+    "name": "Wedding",
+    "price": "250",
+    "currency": "USD",
+    "as_of": 2026
+   }
+  ],
+  "brochure_doc": "https://www.adaaran.com/clubrannalhi/view-download/?id=acrweddingpack"
  },
  "events_mice": {
   "venues": [],
@@ -143,153 +155,938 @@
   "composting"
  ],
  "contacts_public": {
-  "reservations_email": "info@neoscapesmaldives.com",
+  "reservations_email": "info@divepoint-maldives.com",
   "weddings_email": null,
-  "phone": "+960 736 5425"
+  "phone": "+960 664 2688"
  },
  "documents_latest": {
-  "factsheet": "https://www.neoscapesmaldives.com/wp-content/uploads/Fact-Sheet-Adaaran-Club-Rannalhi.pdf",
+  "factsheet": "https://www.adaaran.com/clubrannalhi/view-download/?id=acr-factsheet",
   "map": "https://www.neoscapesmaldives.com/wp-content/uploads/Adaaran-Ranalhi-Island-Map.pdf",
-  "wedding": null,
+  "wedding": "https://www.adaaran.com/clubrannalhi/view-download/?id=acrweddingpack",
   "spa_menu": null,
-  "dining_menu": null,
-  "dive_prices": null,
+  "dining_menu": "https://www.adaaran.com/clubrannalhi/view-download/?id=menu-01",
+  "dive_prices": "https://www.adaaran.com/clubrannalhi/view-download/?id=menu-05",
   "events": null,
   "calendar": null
  },
- "documents_count": 8,
+ "documents_count": 16,
  "gaps": [
-  "wedding brochure",
   "events/MICE document",
-  "fact: villas.total",
-  "fact: dive operator",
+  "fact: villa categories",
   "fact: kids club"
  ],
  "sources": {
   "atoll": [
    {
     "value": "South Malé Atoll",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Fact-Sheet-Adaaran-Club-Rannalhi.pdf",
+    "source_url": "https://www.adaaran.com/clubrannalhi/view-download/?id=acr-factsheet",
+    "as_of": 2026
+   },
+   {
+    "value": "South Male Atoll",
+    "source_url": "https://www.adaaran.com/clubrannalhi/view-download/?id=menu-01",
     "as_of": 2025
+   },
+   {
+    "value": "South Malé Atoll",
+    "source_url": "https://www.adaaran.com/clubrannalhi/view-download/?id=p-all-inclusive",
+    "as_of": 2026
+   },
+   {
+    "value": "South Malé Atoll",
+    "source_url": "https://www.adaaran.com/clubrannalhi/offers/adaaran-local-escape/",
+    "as_of": "2026-10-04"
    },
    {
     "value": "South Male Atoll",
     "source_url": "https://www.neoscapesmaldives.com/resort/adaaran-club-rannalhi/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Kaafu Atoll",
+    "source_url": "https://www.mymaldives.com/resort-guide/adaaran-club-rannalhi/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "South Male Atoll",
+    "source_url": "https://maldivestraveller.mv/en/holidays/maldives-tours/day-visit-to-adaaran-club-rannalhi",
     "as_of": "2026-10-04"
    }
   ],
   "transfer.modes": [
    {
     "value": "speedboat",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Fact-Sheet-Adaaran-Club-Rannalhi.pdf",
-    "as_of": 2025
+    "source_url": "https://www.adaaran.com/clubrannalhi/view-download/?id=acr-factsheet",
+    "as_of": 2026
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.adaaran.com/clubrannalhi/view-download/?id=menu-05",
+    "as_of": 2026
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.adaaran.com/clubrannalhi/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.adaaran.com/clubrannalhi/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.adaaran.com/clubrannalhi/dining/cocktail-bar/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.adaaran.com/clubrannalhi/offers/adaaran-local-escape/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.adaaran.com/clubrannalhi/gallery/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.adaaran.com/clubrannalhi/facilities/spa/spa-packages/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.adaaran.com/clubrannalhi/offers/romantic-getaway/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.adaaran.com/clubrannalhi/all-inclusive-offering/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.adaaran.com/clubrannalhi/location/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.adaaran.com/clubrannalhi/location/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.adaaran.com/clubrannalhi/experiences/fishing/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.adaaran.com/clubrannalhi/facilities/transfers/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.adaaran.com/clubrannalhi/facilities/transfers/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.adaaran.com/clubrannalhi/about-us/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.adaaran.com/clubrannalhi/experiences/fishermans-island/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.adaaran.com/clubrannalhi/offers/early-bird/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.adaaran.com/clubrannalhi/experiences/excursions/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.adaaran.com/clubrannalhi/offers/book-direct/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.adaaran.com/clubrannalhi/experiences/male-city-tour/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.adaaran.com/clubrannalhi/accommodation/classic-beach-view-rooms/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.adaaran.com/clubrannalhi/facilities/spa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.adaaran.com/clubrannalhi/offers/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.adaaran.com/clubrannalhi/dining/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.adaaran.com/clubrannalhi/offers",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.adaaran.com/clubrannalhi/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.adaaran.com/clubrannalhi/facilities/daily-activities/",
+    "as_of": "2026-10-04"
    },
    {
     "value": "speedboat",
     "source_url": "https://www.neoscapesmaldives.com/resort/adaaran-club-rannalhi/",
     "as_of": "2026-10-04"
-   }
-  ],
-  "villas.categories": [
-   {
-    "value": {
-     "name": "Sunset Water Villa",
-     "count": 2,
-     "size_sqm": null,
-     "max_occupancy": null,
-     "pool": null,
-     "overwater": null
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Fact-Sheet-Adaaran-Club-Rannalhi.pdf",
-    "as_of": 2025
    },
    {
-    "value": {
-     "name": "Water Villa",
-     "count": 2,
-     "size_sqm": null,
-     "max_occupancy": null,
-     "pool": null,
-     "overwater": null
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Fact-Sheet-Adaaran-Club-Rannalhi.pdf",
-    "as_of": 2025
+    "value": "speedboat",
+    "source_url": "https://maldivestraveller.mv/de/holidays/maldives-tours/day-visit-to-adaaran-club-rannalhi",
+    "as_of": "2026-10-04"
    },
    {
-    "value": {
-     "name": "Number of Villas",
-     "count": 96,
-     "size_sqm": null,
-     "max_occupancy": null,
-     "pool": null,
-     "overwater": null
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/adaaran-club-rannalhi/",
+    "value": "speedboat",
+    "source_url": "https://maldivestraveller.mv/en/holidays/maldives-tours/day-visit-to-adaaran-club-rannalhi",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.maldivestourism.net/resorts/adaaran-club-rannalhi/",
     "as_of": "2026-10-04"
    }
   ],
   "spa.name": [
    {
     "value": "Spa",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Fact-Sheet-Adaaran-Club-Rannalhi.pdf",
+    "source_url": "https://www.adaaran.com/clubrannalhi/view-download/?id=acr-factsheet",
+    "as_of": 2026
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.adaaran.com/clubrannalhi/view-download/?id=menu-01",
     "as_of": 2025
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.adaaran.com/clubrannalhi/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.adaaran.com/clubrannalhi/dining/cocktail-bar/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.adaaran.com/clubrannalhi/offers/eid-al-fitr-offer/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.adaaran.com/clubrannalhi/offers/adaaran-local-escape/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.adaaran.com/clubrannalhi/experiences/water-sports/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.adaaran.com/clubrannalhi/gallery/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.adaaran.com/clubrannalhi/facilities/spa/spa-packages/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.adaaran.com/clubrannalhi/accommodation/classic-ocean-view-rooms/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.adaaran.com/clubrannalhi/experiences/housereef-rannalhi/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.adaaran.com/clubrannalhi/experiences/local-village/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.adaaran.com/clubrannalhi/experiences/island-hopping/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.adaaran.com/clubrannalhi/sitemap/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.adaaran.com/clubrannalhi/experiences/dive-point/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.adaaran.com/clubrannalhi/offers/romantic-getaway/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.adaaran.com/clubrannalhi/all-inclusive-offering/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.adaaran.com/clubrannalhi/dining/nika-bar/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.adaaran.com/clubrannalhi/offers/family-getaway/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.adaaran.com/clubrannalhi/experiences/sunset-photo-cruise/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.adaaran.com/clubrannalhi/experiences/sunset-fishing/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.adaaran.com/clubrannalhi/location/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.adaaran.com/clubrannalhi/experiences/fishing/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.adaaran.com/clubrannalhi/facilities/transfers/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.adaaran.com/clubrannalhi/about-us/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.adaaran.com/clubrannalhi/experiences/fishermans-island/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.adaaran.com/clubrannalhi/offers/early-bird/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.adaaran.com/clubrannalhi/offers/storrington-collective-romantic-getaway/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.adaaran.com/clubrannalhi/experiences/excursions/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.adaaran.com/clubrannalhi/weddings/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.adaaran.com/clubrannalhi/offers/book-direct/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.adaaran.com/clubrannalhi/experiences/male-city-tour/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.adaaran.com/clubrannalhi/dining/main-restaurant/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.adaaran.com/clubrannalhi/accommodation/classic-beach-view-rooms/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.adaaran.com/clubrannalhi/location/maldives-attractions/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.adaaran.com/clubrannalhi/facilities/spa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.adaaran.com/clubrannalhi/offers/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.adaaran.com/clubrannalhi/dining/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.adaaran.com/clubrannalhi/offers",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.adaaran.com/clubrannalhi/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.adaaran.com/clubrannalhi/accommodation/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.adaaran.com/clubrannalhi/facilities/daily-activities/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.mymaldives.com/resort-guide/adaaran-club-rannalhi/",
+    "as_of": "2026-10-04"
    }
   ],
   "diving_watersports.activities": [
    {
     "value": "snorkeling",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Fact-Sheet-Adaaran-Club-Rannalhi.pdf",
-    "as_of": 2025
+    "source_url": "https://www.adaaran.com/clubrannalhi/view-download/?id=acr-factsheet",
+    "as_of": 2026
    },
    {
     "value": "scuba diving",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Fact-Sheet-Adaaran-Club-Rannalhi.pdf",
-    "as_of": 2025
-   },
-   {
-    "value": "surfing",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Fact-Sheet-Adaaran-Club-Rannalhi.pdf",
-    "as_of": 2025
+    "source_url": "https://www.adaaran.com/clubrannalhi/view-download/?id=acr-factsheet",
+    "as_of": 2026
    },
    {
     "value": "paddleboard",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Fact-Sheet-Adaaran-Club-Rannalhi.pdf",
-    "as_of": 2025
+    "source_url": "https://www.adaaran.com/clubrannalhi/view-download/?id=acr-factsheet",
+    "as_of": 2026
    },
    {
     "value": "catamaran",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Fact-Sheet-Adaaran-Club-Rannalhi.pdf",
-    "as_of": 2025
+    "source_url": "https://www.adaaran.com/clubrannalhi/view-download/?id=acr-factsheet",
+    "as_of": 2026
    },
    {
     "value": "jet ski",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Fact-Sheet-Adaaran-Club-Rannalhi.pdf",
-    "as_of": 2025
+    "source_url": "https://www.adaaran.com/clubrannalhi/view-download/?id=acr-factsheet",
+    "as_of": 2026
    },
    {
     "value": "water skiing",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Fact-Sheet-Adaaran-Club-Rannalhi.pdf",
-    "as_of": 2025
-   },
-   {
-    "value": "fishing",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Fact-Sheet-Adaaran-Club-Rannalhi.pdf",
-    "as_of": 2025
+    "source_url": "https://www.adaaran.com/clubrannalhi/view-download/?id=acr-factsheet",
+    "as_of": 2026
    },
    {
     "value": "flyboard",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Fact-Sheet-Adaaran-Club-Rannalhi.pdf",
-    "as_of": 2025
+    "source_url": "https://www.adaaran.com/clubrannalhi/view-download/?id=acr-factsheet",
+    "as_of": 2026
    },
    {
     "value": "canoe",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Fact-Sheet-Adaaran-Club-Rannalhi.pdf",
+    "source_url": "https://www.adaaran.com/clubrannalhi/view-download/?id=acr-factsheet",
+    "as_of": 2026
+   },
+   {
+    "value": "sailing",
+    "source_url": "https://www.adaaran.com/clubrannalhi/view-download/?id=DO",
     "as_of": 2025
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.adaaran.com/clubrannalhi/view-download/?id=menu-05",
+    "as_of": 2026
+   },
+   {
+    "value": "stand-up paddle",
+    "source_url": "https://www.adaaran.com/clubrannalhi/view-download/?id=menu-05",
+    "as_of": 2026
+   },
+   {
+    "value": "catamaran",
+    "source_url": "https://www.adaaran.com/clubrannalhi/view-download/?id=menu-05",
+    "as_of": 2026
+   },
+   {
+    "value": "jet ski",
+    "source_url": "https://www.adaaran.com/clubrannalhi/view-download/?id=menu-05",
+    "as_of": 2026
+   },
+   {
+    "value": "seabob",
+    "source_url": "https://www.adaaran.com/clubrannalhi/view-download/?id=menu-05",
+    "as_of": 2026
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.adaaran.com/clubrannalhi/view-download/?id=menu-05",
+    "as_of": 2026
+   },
+   {
+    "value": "sailing",
+    "source_url": "https://www.adaaran.com/clubrannalhi/view-download/?id=menu-05",
+    "as_of": 2026
+   },
+   {
+    "value": "fun tube",
+    "source_url": "https://www.adaaran.com/clubrannalhi/view-download/?id=menu-05",
+    "as_of": 2026
+   },
+   {
+    "value": "canoe",
+    "source_url": "https://www.adaaran.com/clubrannalhi/view-download/?id=menu-05",
+    "as_of": 2026
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.adaaran.com/clubrannalhi/view-download/?id=menu-02",
+    "as_of": 2025
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.adaaran.com/clubrannalhi/view-download/?id=p-all-inclusive",
+    "as_of": 2026
+   },
+   {
+    "value": "windsurfing",
+    "source_url": "https://www.adaaran.com/clubrannalhi/view-download/?id=p-all-inclusive",
+    "as_of": 2026
+   },
+   {
+    "value": "paddleboard",
+    "source_url": "https://www.adaaran.com/clubrannalhi/view-download/?id=p-all-inclusive",
+    "as_of": 2026
+   },
+   {
+    "value": "canoe",
+    "source_url": "https://www.adaaran.com/clubrannalhi/view-download/?id=p-all-inclusive",
+    "as_of": 2026
    },
    {
     "value": "fishing",
     "source_url": "https://adaaran.eme-devops.com/2026/05/Sustainabilty-Report-ACR_compressed-2025-26.pdf",
     "as_of": 2025
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.adaaran.com/clubrannalhi/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "windsurfing",
+    "source_url": "https://www.adaaran.com/clubrannalhi/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "paddleboard",
+    "source_url": "https://www.adaaran.com/clubrannalhi/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.adaaran.com/clubrannalhi/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.adaaran.com/clubrannalhi/dining/cocktail-bar/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.adaaran.com/clubrannalhi/offers/eid-al-fitr-offer/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.adaaran.com/clubrannalhi/offers/adaaran-local-escape/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.adaaran.com/clubrannalhi/experiences/water-sports/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "windsurfing",
+    "source_url": "https://www.adaaran.com/clubrannalhi/experiences/water-sports/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "catamaran",
+    "source_url": "https://www.adaaran.com/clubrannalhi/experiences/water-sports/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.adaaran.com/clubrannalhi/experiences/water-sports/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sailing",
+    "source_url": "https://www.adaaran.com/clubrannalhi/experiences/water-sports/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.adaaran.com/clubrannalhi/gallery/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.adaaran.com/clubrannalhi/facilities/spa/spa-packages/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.adaaran.com/clubrannalhi/accommodation/classic-ocean-view-rooms/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.adaaran.com/clubrannalhi/experiences/housereef-rannalhi/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.adaaran.com/clubrannalhi/experiences/housereef-rannalhi/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.adaaran.com/clubrannalhi/experiences/housereef-rannalhi/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.adaaran.com/clubrannalhi/experiences/housereef-rannalhi/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.adaaran.com/clubrannalhi/experiences/local-village/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.adaaran.com/clubrannalhi/experiences/local-village/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.adaaran.com/clubrannalhi/experiences/island-hopping/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.adaaran.com/clubrannalhi/experiences/island-hopping/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.adaaran.com/clubrannalhi/experiences/island-hopping/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.adaaran.com/clubrannalhi/sitemap/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.adaaran.com/clubrannalhi/sitemap/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.adaaran.com/clubrannalhi/experiences/dive-point/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://www.adaaran.com/clubrannalhi/experiences/dive-point/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.adaaran.com/clubrannalhi/experiences/dive-point/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.adaaran.com/clubrannalhi/offers/romantic-getaway/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.adaaran.com/clubrannalhi/all-inclusive-offering/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "windsurfing",
+    "source_url": "https://www.adaaran.com/clubrannalhi/all-inclusive-offering/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "canoe",
+    "source_url": "https://www.adaaran.com/clubrannalhi/all-inclusive-offering/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.adaaran.com/clubrannalhi/dining/nika-bar/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.adaaran.com/clubrannalhi/offers/family-getaway/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "windsurfing",
+    "source_url": "https://www.adaaran.com/clubrannalhi/offers/family-getaway/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "paddleboard",
+    "source_url": "https://www.adaaran.com/clubrannalhi/offers/family-getaway/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "canoe",
+    "source_url": "https://www.adaaran.com/clubrannalhi/offers/family-getaway/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.adaaran.com/clubrannalhi/experiences/sunset-photo-cruise/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.adaaran.com/clubrannalhi/experiences/sunset-photo-cruise/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.adaaran.com/clubrannalhi/experiences/sunset-fishing/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.adaaran.com/clubrannalhi/experiences/sunset-fishing/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.adaaran.com/clubrannalhi/location/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.adaaran.com/clubrannalhi/experiences/fishing/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.adaaran.com/clubrannalhi/experiences/fishing/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.adaaran.com/clubrannalhi/facilities/transfers/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.adaaran.com/clubrannalhi/about-us/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://www.adaaran.com/clubrannalhi/about-us/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "windsurfing",
+    "source_url": "https://www.adaaran.com/clubrannalhi/about-us/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.adaaran.com/clubrannalhi/about-us/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "canoe",
+    "source_url": "https://www.adaaran.com/clubrannalhi/about-us/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.adaaran.com/clubrannalhi/experiences/fishermans-island/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.adaaran.com/clubrannalhi/experiences/fishermans-island/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.adaaran.com/clubrannalhi/offers/early-bird/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.adaaran.com/clubrannalhi/offers/storrington-collective-romantic-getaway/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.adaaran.com/clubrannalhi/experiences/excursions/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.adaaran.com/clubrannalhi/experiences/excursions/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.adaaran.com/clubrannalhi/weddings/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.adaaran.com/clubrannalhi/offers/book-direct/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.adaaran.com/clubrannalhi/experiences/male-city-tour/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.adaaran.com/clubrannalhi/experiences/male-city-tour/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.adaaran.com/clubrannalhi/dining/main-restaurant/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.adaaran.com/clubrannalhi/dining/main-restaurant/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.adaaran.com/clubrannalhi/accommodation/classic-beach-view-rooms/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.adaaran.com/clubrannalhi/location/maldives-attractions/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.adaaran.com/clubrannalhi/location/maldives-attractions/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.adaaran.com/clubrannalhi/facilities/spa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.adaaran.com/clubrannalhi/offers/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.adaaran.com/clubrannalhi/dining/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.adaaran.com/clubrannalhi/offers",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.adaaran.com/clubrannalhi/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.adaaran.com/clubrannalhi/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.adaaran.com/clubrannalhi/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.adaaran.com/clubrannalhi/accommodation/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.adaaran.com/clubrannalhi/facilities/daily-activities/",
+    "as_of": "2026-10-04"
    },
    {
     "value": "snorkeling",
@@ -315,23 +1112,383 @@
     "value": "manta",
     "source_url": "https://www.neoscapesmaldives.com/resort/adaaran-club-rannalhi/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://mondomaldive.it/it/villaggio/adaaran-club-rannalhi/recensione/3668",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://maldivestraveller.mv/it/holidays/maldives-tours/day-visit-to-adaaran-club-rannalhi",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://maldivestraveller.mv/it/holidays/maldives-tours/day-visit-to-adaaran-club-rannalhi",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://maldivestraveller.mv/it/holidays/maldives-tours/day-visit-to-adaaran-club-rannalhi",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.mymaldives.com/resort-guide/adaaran-club-rannalhi/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://www.mymaldives.com/resort-guide/adaaran-club-rannalhi/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "windsurfing",
+    "source_url": "https://www.mymaldives.com/resort-guide/adaaran-club-rannalhi/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "catamaran",
+    "source_url": "https://www.mymaldives.com/resort-guide/adaaran-club-rannalhi/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "water skiing",
+    "source_url": "https://www.mymaldives.com/resort-guide/adaaran-club-rannalhi/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sailing",
+    "source_url": "https://www.mymaldives.com/resort-guide/adaaran-club-rannalhi/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "canoe",
+    "source_url": "https://www.mymaldives.com/resort-guide/adaaran-club-rannalhi/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://maldivestraveller.mv/en/holidays/maldives-tours/day-visit-to-adaaran-club-rannalhi",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://maldivestraveller.mv/en/holidays/maldives-tours/day-visit-to-adaaran-club-rannalhi",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://maldivestraveller.mv/en/holidays/maldives-tours/day-visit-to-adaaran-club-rannalhi",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.maldivestourism.net/resorts/adaaran-club-rannalhi/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "windsurfing",
+    "source_url": "https://www.maldivestourism.net/resorts/adaaran-club-rannalhi/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "catamaran",
+    "source_url": "https://www.maldivestourism.net/resorts/adaaran-club-rannalhi/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "water skiing",
+    "source_url": "https://www.maldivestourism.net/resorts/adaaran-club-rannalhi/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.maldivestourism.net/resorts/adaaran-club-rannalhi/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "canoe",
+    "source_url": "https://www.maldivestourism.net/resorts/adaaran-club-rannalhi/",
+    "as_of": "2026-10-04"
    }
   ],
   "excursions": [
    {
     "value": "island hopping",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Fact-Sheet-Adaaran-Club-Rannalhi.pdf",
+    "source_url": "https://www.adaaran.com/clubrannalhi/view-download/?id=acr-factsheet",
+    "as_of": 2026
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.adaaran.com/clubrannalhi/view-download/?id=acr-factsheet",
+    "as_of": 2026
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.adaaran.com/clubrannalhi/view-download/?id=menu-05",
+    "as_of": 2026
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.adaaran.com/clubrannalhi/view-download/?id=menu-05",
+    "as_of": 2026
+   },
+   {
+    "value": "island hopping",
+    "source_url": "https://www.adaaran.com/clubrannalhi/view-download/?id=menu-02",
+    "as_of": 2025
+   },
+   {
+    "value": "local island",
+    "source_url": "https://www.adaaran.com/clubrannalhi/view-download/?id=menu-02",
     "as_of": 2025
    },
    {
     "value": "dolphin",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Fact-Sheet-Adaaran-Club-Rannalhi.pdf",
+    "source_url": "https://www.adaaran.com/clubrannalhi/view-download/?id=menu-02",
     "as_of": 2025
    },
    {
     "value": "turtle",
     "source_url": "https://adaaran.eme-devops.com/2026/05/Sustainabilty-Report-ACR_compressed-2025-26.pdf",
     "as_of": 2025
+   },
+   {
+    "value": "island hopping",
+    "source_url": "https://www.adaaran.com/clubrannalhi/experiences/water-sports/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset fishing",
+    "source_url": "https://www.adaaran.com/clubrannalhi/experiences/water-sports/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Male city tour",
+    "source_url": "https://www.adaaran.com/clubrannalhi/experiences/water-sports/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "island hopping",
+    "source_url": "https://www.adaaran.com/clubrannalhi/experiences/housereef-rannalhi/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset fishing",
+    "source_url": "https://www.adaaran.com/clubrannalhi/experiences/housereef-rannalhi/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Male city tour",
+    "source_url": "https://www.adaaran.com/clubrannalhi/experiences/housereef-rannalhi/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.adaaran.com/clubrannalhi/experiences/housereef-rannalhi/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.adaaran.com/clubrannalhi/experiences/housereef-rannalhi/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.adaaran.com/clubrannalhi/experiences/housereef-rannalhi/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "island hopping",
+    "source_url": "https://www.adaaran.com/clubrannalhi/experiences/local-village/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset fishing",
+    "source_url": "https://www.adaaran.com/clubrannalhi/experiences/local-village/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Male city tour",
+    "source_url": "https://www.adaaran.com/clubrannalhi/experiences/local-village/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "island hopping",
+    "source_url": "https://www.adaaran.com/clubrannalhi/experiences/island-hopping/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "local island",
+    "source_url": "https://www.adaaran.com/clubrannalhi/experiences/island-hopping/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset fishing",
+    "source_url": "https://www.adaaran.com/clubrannalhi/experiences/island-hopping/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Male city tour",
+    "source_url": "https://www.adaaran.com/clubrannalhi/experiences/island-hopping/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "island hopping",
+    "source_url": "https://www.adaaran.com/clubrannalhi/sitemap/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset fishing",
+    "source_url": "https://www.adaaran.com/clubrannalhi/sitemap/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Male city tour",
+    "source_url": "https://www.adaaran.com/clubrannalhi/sitemap/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "island hopping",
+    "source_url": "https://www.adaaran.com/clubrannalhi/experiences/dive-point/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset fishing",
+    "source_url": "https://www.adaaran.com/clubrannalhi/experiences/dive-point/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Male city tour",
+    "source_url": "https://www.adaaran.com/clubrannalhi/experiences/dive-point/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "island hopping",
+    "source_url": "https://www.adaaran.com/clubrannalhi/experiences/sunset-photo-cruise/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset fishing",
+    "source_url": "https://www.adaaran.com/clubrannalhi/experiences/sunset-photo-cruise/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Male city tour",
+    "source_url": "https://www.adaaran.com/clubrannalhi/experiences/sunset-photo-cruise/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "island hopping",
+    "source_url": "https://www.adaaran.com/clubrannalhi/experiences/sunset-fishing/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset fishing",
+    "source_url": "https://www.adaaran.com/clubrannalhi/experiences/sunset-fishing/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Male city tour",
+    "source_url": "https://www.adaaran.com/clubrannalhi/experiences/sunset-fishing/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "island hopping",
+    "source_url": "https://www.adaaran.com/clubrannalhi/experiences/fishing/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset fishing",
+    "source_url": "https://www.adaaran.com/clubrannalhi/experiences/fishing/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Male city tour",
+    "source_url": "https://www.adaaran.com/clubrannalhi/experiences/fishing/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "island hopping",
+    "source_url": "https://www.adaaran.com/clubrannalhi/experiences/fishermans-island/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset fishing",
+    "source_url": "https://www.adaaran.com/clubrannalhi/experiences/fishermans-island/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Male city tour",
+    "source_url": "https://www.adaaran.com/clubrannalhi/experiences/fishermans-island/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "island hopping",
+    "source_url": "https://www.adaaran.com/clubrannalhi/experiences/excursions/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "local island",
+    "source_url": "https://www.adaaran.com/clubrannalhi/experiences/excursions/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.adaaran.com/clubrannalhi/experiences/excursions/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset fishing",
+    "source_url": "https://www.adaaran.com/clubrannalhi/experiences/excursions/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Male city tour",
+    "source_url": "https://www.adaaran.com/clubrannalhi/experiences/excursions/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "island hopping",
+    "source_url": "https://www.adaaran.com/clubrannalhi/experiences/male-city-tour/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset fishing",
+    "source_url": "https://www.adaaran.com/clubrannalhi/experiences/male-city-tour/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Male city tour",
+    "source_url": "https://www.adaaran.com/clubrannalhi/experiences/male-city-tour/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "island hopping",
+    "source_url": "https://www.adaaran.com/clubrannalhi/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset fishing",
+    "source_url": "https://www.adaaran.com/clubrannalhi/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Male city tour",
+    "source_url": "https://www.adaaran.com/clubrannalhi/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.adaaran.com/clubrannalhi/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.adaaran.com/clubrannalhi/experiences/",
+    "as_of": "2026-10-04"
    },
    {
     "value": "island hopping",
@@ -357,18 +1514,103 @@
     "value": "turtle",
     "source_url": "https://www.neoscapesmaldives.com/resort/adaaran-club-rannalhi/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://maldivestraveller.mv/de/holidays/maldives-tours/day-visit-to-adaaran-club-rannalhi",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://maldivestraveller.mv/en/holidays/maldives-tours/day-visit-to-adaaran-club-rannalhi",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "island hopping",
+    "source_url": "https://www.maldivestourism.net/resorts/adaaran-club-rannalhi/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "night fishing",
+    "source_url": "https://www.maldivestourism.net/resorts/adaaran-club-rannalhi/",
+    "as_of": "2026-10-04"
    }
   ],
   "wellness_fitness": [
    {
     "value": "tennis",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Fact-Sheet-Adaaran-Club-Rannalhi.pdf",
-    "as_of": 2025
+    "source_url": "https://www.adaaran.com/clubrannalhi/view-download/?id=acr-factsheet",
+    "as_of": 2026
    },
    {
     "value": "beach volleyball",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Fact-Sheet-Adaaran-Club-Rannalhi.pdf",
-    "as_of": 2025
+    "source_url": "https://www.adaaran.com/clubrannalhi/view-download/?id=acr-factsheet",
+    "as_of": 2026
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://www.adaaran.com/clubrannalhi/view-download/?id=p-all-inclusive",
+    "as_of": 2026
+   },
+   {
+    "value": "beach volleyball",
+    "source_url": "https://www.adaaran.com/clubrannalhi/view-download/?id=p-all-inclusive",
+    "as_of": 2026
+   },
+   {
+    "value": "beach volleyball",
+    "source_url": "https://www.adaaran.com/clubrannalhi/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.adaaran.com/clubrannalhi/all-inclusive-offering/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://www.adaaran.com/clubrannalhi/all-inclusive-offering/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "beach volleyball",
+    "source_url": "https://www.adaaran.com/clubrannalhi/all-inclusive-offering/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.adaaran.com/clubrannalhi/offers/family-getaway/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://www.adaaran.com/clubrannalhi/offers/family-getaway/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.adaaran.com/clubrannalhi/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://www.adaaran.com/clubrannalhi/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "beach volleyball",
+    "source_url": "https://www.adaaran.com/clubrannalhi/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.adaaran.com/clubrannalhi/facilities/daily-activities/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://www.adaaran.com/clubrannalhi/facilities/daily-activities/",
+    "as_of": "2026-10-04"
    },
    {
     "value": "yoga",
@@ -389,8 +1631,58 @@
   "weddings.offered": [
    {
     "value": true,
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Fact-Sheet-Adaaran-Club-Rannalhi.pdf",
-    "as_of": 2025
+    "source_url": "https://www.adaaran.com/clubrannalhi/view-download/?id=acr-factsheet",
+    "as_of": 2026
+   },
+   {
+    "value": true,
+    "source_url": "https://www.adaaran.com/clubrannalhi/view-download/?id=acrweddingpack",
+    "as_of": 2026
+   },
+   {
+    "value": true,
+    "source_url": "https://www.adaaran.com/clubrannalhi/view-download/?id=p-all-inclusive",
+    "as_of": 2026
+   },
+   {
+    "value": true,
+    "source_url": "https://www.adaaran.com/clubrannalhi/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.adaaran.com/clubrannalhi/sitemap/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.adaaran.com/clubrannalhi/offers/romantic-getaway/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.adaaran.com/clubrannalhi/offers/romantic-getaway/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.adaaran.com/clubrannalhi/all-inclusive-offering/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.adaaran.com/clubrannalhi/offers/storrington-collective-romantic-getaway/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.adaaran.com/clubrannalhi/weddings/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.adaaran.com/clubrannalhi/weddings/",
+    "as_of": "2026-10-04"
    },
    {
     "value": true,
@@ -401,19 +1693,638 @@
   "weddings.vow_renewal": [
    {
     "value": true,
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Fact-Sheet-Adaaran-Club-Rannalhi.pdf",
-    "as_of": 2025
+    "source_url": "https://www.adaaran.com/clubrannalhi/view-download/?id=acr-factsheet",
+    "as_of": 2026
    }
   ],
   "contacts_public.phone": [
    {
     "value": "+960 664 2688",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Fact-Sheet-Adaaran-Club-Rannalhi.pdf",
+    "source_url": "https://www.adaaran.com/clubrannalhi/view-download/?id=acr-factsheet",
+    "as_of": 2026
+   },
+   {
+    "value": "+960 6642 688",
+    "source_url": "https://www.adaaran.com/clubrannalhi/view-download/?id=menu-01",
     "as_of": 2025
    },
    {
     "value": "+960 736 5425",
     "source_url": "https://www.neoscapesmaldives.com/resort/adaaran-club-rannalhi/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+9607776038",
+    "source_url": "https://maldivestraveller.mv/de/holidays/maldives-tours/day-visit-to-adaaran-club-rannalhi",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+9607776038",
+    "source_url": "https://maldivestraveller.mv/jp/holidays/maldives-tours/day-visit-to-adaaran-club-rannalhi",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+9607776038",
+    "source_url": "https://maldivestraveller.mv/it/holidays/maldives-tours/day-visit-to-adaaran-club-rannalhi",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960-6640375",
+    "source_url": "https://www.mymaldives.com/resort-guide/adaaran-club-rannalhi/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+9607776038",
+    "source_url": "https://maldivestraveller.mv/en/holidays/maldives-tours/day-visit-to-adaaran-club-rannalhi",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 6642688",
+    "source_url": "https://www.maldivestourism.net/resorts/adaaran-club-rannalhi/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "meal_plans": [
+   {
+    "value": "AI",
+    "source_url": "https://www.adaaran.com/clubrannalhi/view-download/?id=acrweddingpack",
+    "as_of": 2026
+   },
+   {
+    "value": "AI",
+    "source_url": "https://www.adaaran.com/clubrannalhi/view-download/?id=p-all-inclusive",
+    "as_of": 2026
+   },
+   {
+    "value": "AI",
+    "source_url": "https://www.adaaran.com/clubrannalhi/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://www.adaaran.com/clubrannalhi/offers/adaaran-local-escape/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://www.adaaran.com/clubrannalhi/all-inclusive-offering/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://www.adaaran.com/clubrannalhi/offers/family-getaway/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://www.adaaran.com/clubrannalhi/offers/storrington-collective-romantic-getaway/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://www.adaaran.com/clubrannalhi/weddings/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://mondomaldive.it/it/villaggio/adaaran-club-rannalhi/recensione/5525",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://mondomaldive.it/it/villaggio/adaaran-club-rannalhi/recensione/3668",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://mondomaldive.it/it/villaggio/adaaran-club-rannalhi/recensione/4283",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://mondomaldive.it/it/villaggio/adaaran-club-rannalhi/recensione/5877",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://maldivestraveller.mv/de/holidays/maldives-tours/day-visit-to-adaaran-club-rannalhi",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://maldivestraveller.mv/it/holidays/maldives-tours/day-visit-to-adaaran-club-rannalhi",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://maldivestraveller.mv/en/holidays/maldives-tours/day-visit-to-adaaran-club-rannalhi",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://www.maldivestourism.net/resorts/adaaran-club-rannalhi/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "weddings.packages": [
+   {
+    "value": {
+     "name": "Wedding",
+     "price": "250",
+     "currency": "USD",
+     "as_of": 2026
+    },
+    "source_url": "https://www.adaaran.com/clubrannalhi/view-download/?id=acrweddingpack",
+    "as_of": 2026
+   }
+  ],
+  "contacts_public.reservations_email": [
+   {
+    "value": "info@divepoint-maldives.com",
+    "source_url": "https://www.adaaran.com/clubrannalhi/view-download/?id=menu-05",
+    "as_of": 2026
+   },
+   {
+    "value": "info@neoscapesmaldives.com",
+    "source_url": "https://www.neoscapesmaldives.com/resort/adaaran-club-rannalhi/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "dining": [
+   {
+    "value": {
+     "name": "∙ Sundown DJ music at the Cocktail Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.adaaran.com/clubrannalhi/view-download/?id=p-all-inclusive",
+    "as_of": 2026
+   },
+   {
+    "value": {
+     "name": "Cocktail Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.adaaran.com/clubrannalhi/dining/cocktail-bar/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Main Restaurant",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.adaaran.com/clubrannalhi/dining/cocktail-bar/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Nika Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.adaaran.com/clubrannalhi/dining/cocktail-bar/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Cocktail Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.adaaran.com/clubrannalhi/sitemap/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Main Restaurant",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.adaaran.com/clubrannalhi/sitemap/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Nika Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.adaaran.com/clubrannalhi/sitemap/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Main Restaurant",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.adaaran.com/clubrannalhi/all-inclusive-offering/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Nika Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.adaaran.com/clubrannalhi/all-inclusive-offering/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Cocktail Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.adaaran.com/clubrannalhi/all-inclusive-offering/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Sundown DJ music at the Cocktail Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.adaaran.com/clubrannalhi/all-inclusive-offering/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Nika Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.adaaran.com/clubrannalhi/dining/nika-bar/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Cocktail Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.adaaran.com/clubrannalhi/dining/nika-bar/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Main Restaurant",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.adaaran.com/clubrannalhi/dining/nika-bar/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Main Restaurant",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.adaaran.com/clubrannalhi/dining/main-restaurant/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Cocktail Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.adaaran.com/clubrannalhi/dining/main-restaurant/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Nika Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.adaaran.com/clubrannalhi/dining/main-restaurant/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Cocktail Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.adaaran.com/clubrannalhi/dining/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Main Restaurant",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.adaaran.com/clubrannalhi/dining/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Nika Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.adaaran.com/clubrannalhi/dining/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "In Front of the Cocktail Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.adaaran.com/clubrannalhi/facilities/daily-activities/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "In Front of the Cocktail Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.adaaran.com/clubrannalhi/facilities/daily-activities/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "In Front of the Cocktail Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.adaaran.com/clubrannalhi/facilities/daily-activities/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "In Front of the Cocktail Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.adaaran.com/clubrannalhi/facilities/daily-activities/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "In Front of the Cocktail Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.adaaran.com/clubrannalhi/facilities/daily-activities/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "In Front of the Cocktail Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.adaaran.com/clubrannalhi/facilities/daily-activities/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "In Front of the Cocktail Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.adaaran.com/clubrannalhi/facilities/daily-activities/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "In Front of the Cocktail Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.adaaran.com/clubrannalhi/facilities/daily-activities/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "In Front of the Cocktail Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.adaaran.com/clubrannalhi/facilities/daily-activities/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "In Front of the Cocktail Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.adaaran.com/clubrannalhi/facilities/daily-activities/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "In Front of the Cocktail Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.adaaran.com/clubrannalhi/facilities/daily-activities/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "In Front of the Cocktail Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.adaaran.com/clubrannalhi/facilities/daily-activities/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "In Front of the Cocktail Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.adaaran.com/clubrannalhi/facilities/daily-activities/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "In Front of the Cocktail Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.adaaran.com/clubrannalhi/facilities/daily-activities/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "In Front of the Cocktail Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.adaaran.com/clubrannalhi/facilities/daily-activities/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Main Restaurant",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.neoscapesmaldives.com/resort/adaaran-club-rannalhi/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Nika Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.neoscapesmaldives.com/resort/adaaran-club-rannalhi/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Cocktail Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.neoscapesmaldives.com/resort/adaaran-club-rannalhi/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Mini Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.maldivestourism.net/resorts/adaaran-club-rannalhi/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Mini Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.maldivestourism.net/resorts/adaaran-club-rannalhi/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Restaurant with theme nights",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.maldivestourism.net/resorts/adaaran-club-rannalhi/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "all_inclusive_details": [
+   {
+    "value": "All Inclusive package.",
+    "source_url": "https://www.adaaran.com/clubrannalhi/view-download/?id=p-all-inclusive",
+    "as_of": 2026
+   },
+   {
+    "value": "all-inclusive resort escape made for memory making.",
+    "source_url": "https://www.adaaran.com/clubrannalhi/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "All-Inclusive Offering when you stay at Adaaran Club Rannalhi.",
+    "source_url": "https://www.adaaran.com/clubrannalhi/offers/eid-al-fitr-offer/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "All-Inclusive Offering when you stay at Adaaran Club Rannalhi.",
+    "source_url": "https://www.adaaran.com/clubrannalhi/offers/adaaran-local-escape/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "All-Inclusive Offering when you stay at Adaaran Club Rannalhi.",
+    "source_url": "https://www.adaaran.com/clubrannalhi/offers/romantic-getaway/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "all inclusive package with a host offerings from sumptuous food and drink to excursions and spa credits when you stay at Adaaran Club Rannalhi.",
+    "source_url": "https://www.adaaran.com/clubrannalhi/all-inclusive-offering/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "all-inclusive escape is tailor-made for families who want to explore and unwind together.",
+    "source_url": "https://www.adaaran.com/clubrannalhi/offers/family-getaway/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "All-Inclusive Offering when you stay at Adaaran Club Rannalhi.",
+    "source_url": "https://www.adaaran.com/clubrannalhi/offers/early-bird/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "all-inclusive comforts, paired with thoughtful service, ensure every aspect of your stay enhances your bond.",
+    "source_url": "https://www.adaaran.com/clubrannalhi/offers/storrington-collective-romantic-getaway/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "all inclusive resorts in Maldives for couples.",
+    "source_url": "https://www.adaaran.com/clubrannalhi/weddings/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "All-Inclusive dining, every moment invites you to reconnect through simple pleasures.",
+    "source_url": "https://www.adaaran.com/clubrannalhi/accommodation/classic-beach-view-rooms/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "All-Inclusive offers, more spa credits, more excursions, more reasons to book the moment and feel truly at home.",
+    "source_url": "https://www.adaaran.com/clubrannalhi/offers/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "All-Inclusive offers, more spa credits, more excursions, more reasons to book the moment and feel truly at home.",
+    "source_url": "https://www.adaaran.com/clubrannalhi/offers",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "All-Inclusive, complimentary excursions and snorkeling gear, so memories feel effortless.",
+    "source_url": "https://www.adaaran.com/clubrannalhi/accommodation/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "All-Inclusive dining, daily excursions, and friendly Maldivian hospitality make every moment unforgettable.",
+    "source_url": "https://www.neoscapesmaldives.com/resort/adaaran-club-rannalhi/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "all inclusive.",
+    "source_url": "https://mondomaldive.it/it/villaggio/adaaran-club-rannalhi/recensione/4283",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "all-inclusive per quanto riguarda i pasti.",
+    "source_url": "https://mondomaldive.it/it/villaggio/adaaran-club-rannalhi/recensione/5877",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "all inclusive, einschließlich Getränke, zu genießen.",
+    "source_url": "https://maldivestraveller.mv/de/holidays/maldives-tours/day-visit-to-adaaran-club-rannalhi",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "all-inclusive alle Maldive.",
+    "source_url": "https://maldivestraveller.mv/it/holidays/maldives-tours/day-visit-to-adaaran-club-rannalhi",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "all-inclusive resort located in South Male Atoll.",
+    "source_url": "https://maldivestraveller.mv/en/holidays/maldives-tours/day-visit-to-adaaran-club-rannalhi",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "all-inclusive package.",
+    "source_url": "https://www.maldivestourism.net/resorts/adaaran-club-rannalhi/",
     "as_of": "2026-10-04"
    }
   ],
@@ -447,7 +2358,268 @@
   "transfer.minutes.speedboat": [
    {
     "value": 45,
+    "source_url": "https://www.adaaran.com/clubrannalhi/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 45,
+    "source_url": "https://www.adaaran.com/clubrannalhi/location/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 45,
     "source_url": "https://www.neoscapesmaldives.com/resort/adaaran-club-rannalhi/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 45,
+    "source_url": "https://www.maldivestourism.net/resorts/adaaran-club-rannalhi/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "diving_watersports.operator": [
+   {
+    "value": "Dive Centre",
+    "source_url": "https://www.adaaran.com/clubrannalhi/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Dive Centre",
+    "source_url": "https://www.adaaran.com/clubrannalhi/dining/cocktail-bar/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Dive Point",
+    "source_url": "https://www.adaaran.com/clubrannalhi/experiences/water-sports/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Dive Centre",
+    "source_url": "https://www.adaaran.com/clubrannalhi/gallery/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Dive Point",
+    "source_url": "https://www.adaaran.com/clubrannalhi/experiences/housereef-rannalhi/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Dive Point",
+    "source_url": "https://www.adaaran.com/clubrannalhi/experiences/local-village/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Dive Point",
+    "source_url": "https://www.adaaran.com/clubrannalhi/experiences/island-hopping/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Dive Point",
+    "source_url": "https://www.adaaran.com/clubrannalhi/sitemap/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Dive Point",
+    "source_url": "https://www.adaaran.com/clubrannalhi/experiences/dive-point/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Dive Centre",
+    "source_url": "https://www.adaaran.com/clubrannalhi/offers/romantic-getaway/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Dive Centre",
+    "source_url": "https://www.adaaran.com/clubrannalhi/all-inclusive-offering/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Dive Point",
+    "source_url": "https://www.adaaran.com/clubrannalhi/experiences/sunset-photo-cruise/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Dive Point",
+    "source_url": "https://www.adaaran.com/clubrannalhi/experiences/sunset-fishing/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Dive Centre",
+    "source_url": "https://www.adaaran.com/clubrannalhi/location/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Dive Point",
+    "source_url": "https://www.adaaran.com/clubrannalhi/experiences/fishing/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Dive Centre",
+    "source_url": "https://www.adaaran.com/clubrannalhi/facilities/transfers/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Dive Centre",
+    "source_url": "https://www.adaaran.com/clubrannalhi/about-us/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Dive Point",
+    "source_url": "https://www.adaaran.com/clubrannalhi/experiences/fishermans-island/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Dive Centre",
+    "source_url": "https://www.adaaran.com/clubrannalhi/offers/early-bird/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Dive Point",
+    "source_url": "https://www.adaaran.com/clubrannalhi/experiences/excursions/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Dive Centre",
+    "source_url": "https://www.adaaran.com/clubrannalhi/offers/book-direct/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Dive Point",
+    "source_url": "https://www.adaaran.com/clubrannalhi/experiences/male-city-tour/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Dive Centre",
+    "source_url": "https://www.adaaran.com/clubrannalhi/accommodation/classic-beach-view-rooms/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Dive Centre",
+    "source_url": "https://www.adaaran.com/clubrannalhi/facilities/spa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Dive Centre",
+    "source_url": "https://www.adaaran.com/clubrannalhi/offers/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Dive Centre",
+    "source_url": "https://www.adaaran.com/clubrannalhi/dining/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Dive Centre",
+    "source_url": "https://www.adaaran.com/clubrannalhi/offers",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Dive Point",
+    "source_url": "https://www.adaaran.com/clubrannalhi/experiences/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "diving_watersports.house_reef": [
+   {
+    "value": "house reef",
+    "source_url": "https://www.adaaran.com/clubrannalhi/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Housereef Rannalhi",
+    "source_url": "https://www.adaaran.com/clubrannalhi/experiences/water-sports/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Housereef Rannalhi - One of the best Diving Spots in Maldives",
+    "source_url": "https://www.adaaran.com/clubrannalhi/experiences/housereef-rannalhi/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Housereef Rannalhi",
+    "source_url": "https://www.adaaran.com/clubrannalhi/experiences/local-village/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Housereef Rannalhi",
+    "source_url": "https://www.adaaran.com/clubrannalhi/experiences/island-hopping/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Housereef Rannalhi",
+    "source_url": "https://www.adaaran.com/clubrannalhi/sitemap/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Housereef Rannalhi",
+    "source_url": "https://www.adaaran.com/clubrannalhi/experiences/dive-point/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Housereef Rannalhi",
+    "source_url": "https://www.adaaran.com/clubrannalhi/experiences/sunset-photo-cruise/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Housereef Rannalhi",
+    "source_url": "https://www.adaaran.com/clubrannalhi/experiences/sunset-fishing/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef which is ideal for snorkeling, and neighboring dive sites with multi-colored corals, schools of small coral fish, stingrays, and sleek sharks that prowl the se",
+    "source_url": "https://www.adaaran.com/clubrannalhi/location/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Housereef Rannalhi",
+    "source_url": "https://www.adaaran.com/clubrannalhi/experiences/fishing/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Housereef Rannalhi",
+    "source_url": "https://www.adaaran.com/clubrannalhi/experiences/fishermans-island/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Housereef Rannalhi",
+    "source_url": "https://www.adaaran.com/clubrannalhi/experiences/excursions/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Housereef Rannalhi",
+    "source_url": "https://www.adaaran.com/clubrannalhi/experiences/male-city-tour/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Housereef Rannalhi",
+    "source_url": "https://www.adaaran.com/clubrannalhi/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "House Reef Rannalhi and swim with tropical fish, manta rays, and gentle sea turtles",
+    "source_url": "https://www.neoscapesmaldives.com/resort/adaaran-club-rannalhi/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef that is home to exotic fish and coral",
+    "source_url": "https://www.mymaldives.com/resort-guide/adaaran-club-rannalhi/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef",
+    "source_url": "https://maldivestraveller.mv/en/holidays/maldives-tours/day-visit-to-adaaran-club-rannalhi",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "weddings.venues": [
+   {
+    "value": "Outdoor beach venue for wedding celebration",
+    "source_url": "https://www.adaaran.com/clubrannalhi/weddings/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Outdoor beach venue for wedding celebration",
+    "source_url": "https://www.adaaran.com/clubrannalhi/weddings/",
     "as_of": "2026-10-04"
    }
   ],
@@ -458,74 +2630,20 @@
     "as_of": "2026-10-04"
    }
   ],
-  "dining": [
+  "villas.total": [
    {
-    "value": {
-     "name": "Dining",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/adaaran-club-rannalhi/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Dining",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/adaaran-club-rannalhi/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Main Restaurant",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/adaaran-club-rannalhi/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Nika Bar",
-     "cuisine": null,
-     "type": "bar"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/adaaran-club-rannalhi/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Cocktail Bar",
-     "cuisine": null,
-     "type": "bar"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/adaaran-club-rannalhi/",
+    "value": 116,
+    "source_url": "https://www.mymaldives.com/resort-guide/adaaran-club-rannalhi/",
     "as_of": "2026-10-04"
    }
   ],
-  "all_inclusive_details": [
+  "island": [
    {
-    "value": "All-Inclusive dining, daily excursions, and friendly Maldivian hospitality make every moment unforgettable.",
-    "source_url": "https://www.neoscapesmaldives.com/resort/adaaran-club-rannalhi/",
-    "as_of": "2026-10-04"
-   }
-  ],
-  "diving_watersports.house_reef": [
-   {
-    "value": "House Reef Rannalhi and swim with tropical fish, manta rays, and gentle sea turtles",
-    "source_url": "https://www.neoscapesmaldives.com/resort/adaaran-club-rannalhi/",
-    "as_of": "2026-10-04"
-   }
-  ],
-  "contacts_public.reservations_email": [
-   {
-    "value": "info@neoscapesmaldives.com",
-    "source_url": "https://www.neoscapesmaldives.com/resort/adaaran-club-rannalhi/",
+    "value": "Free",
+    "source_url": "https://maldivestraveller.mv/en/holidays/maldives-tours/day-visit-to-adaaran-club-rannalhi",
     "as_of": "2026-10-04"
    }
   ]
  },
- "last_updated": "2026-10-04"
+ "last_updated": "2026-10-05"
 }

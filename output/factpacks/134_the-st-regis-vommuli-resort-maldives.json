@@ -7,8 +7,8 @@
   "St Regis Vommuli",
   "Vommuli"
  ],
- "official_url": null,
- "official_site_status": null,
+ "official_url": "https://www.marriott.com/en-us/hotels/mlexr-the-st-regis-maldives-vommuli-resort/overview/",
+ "official_site_status": "blocked",
  "operator_brand": "St. Regis",
  "atoll": "Dhaalu Atoll",
  "island": "Vommuli",
@@ -28,7 +28,7 @@
  },
  "island_size": null,
  "villas": {
-  "total": null,
+  "total": 77,
   "categories": [
    {
     "name": "Overwater Villa with Pool",
@@ -61,6 +61,14 @@
     "max_occupancy": null,
     "pool": null,
     "overwater": null
+   },
+   {
+    "name": "e pansive villas",
+    "count": 77,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
    }
   ]
  },
@@ -76,33 +84,35 @@
    "type": "bar"
   },
   {
-   "name": "Magic at sunset, the overwater Whale Bar prepares fresh",
-   "cuisine": null,
-   "type": "bar"
-  },
-  {
-   "name": "Dining",
-   "cuisine": null,
-   "type": "restaurant"
-  },
-  {
-   "name": "Exclusive Private Dining Experiences",
-   "cuisine": null,
-   "type": "restaurant"
-  },
-  {
    "name": "The Whale Bar",
    "cuisine": null,
    "type": "bar"
+  },
+  {
+   "name": "Saturday Kitchen",
+   "cuisine": null,
+   "type": "restaurant"
+  },
+  {
+   "name": "Whale Bar",
+   "cuisine": null,
+   "type": "bar"
+  },
+  {
+   "name": "Beyond the Kitchen",
+   "cuisine": null,
+   "type": "restaurant"
   }
  ],
- "meal_plans": [],
+ "meal_plans": [
+  "HB"
+ ],
  "all_inclusive_details": null,
  "spa": {
   "name": "Iridium Spa",
   "treatment_rooms": null,
   "signature_treatments": [],
-  "menu_doc": null
+  "menu_doc": "https://letsgomaldives.com/wp-content/uploads/2026/03/The-St.-Regis-Maldives_Spa_02-1.pdf"
  },
  "diving_watersports": {
   "operator": null,
@@ -115,7 +125,12 @@
    "seabob",
    "fishing",
    "sunset cruise",
-   "whale shark"
+   "whale shark",
+   "paddleboard",
+   "windsurfing",
+   "kitesurfing",
+   "dolphin cruise",
+   "sailing"
   ],
   "price_list_doc": null
  },
@@ -127,10 +142,11 @@
   "sandbank",
   "dolphin",
   "whale shark",
-  "picnic"
+  "picnic",
+  "cooking class"
  ],
  "kids_family": {
-  "kids_club": null,
+  "kids_club": "Children's Club",
   "age_range": null,
   "teens": null
  },
@@ -140,7 +156,9 @@
   "tennis",
   "fitness center",
   "sauna",
-  "steam"
+  "steam",
+  "pilates",
+  "gym"
  ],
  "weddings": {
   "offered": true,
@@ -165,19 +183,17 @@
   "factsheet": "https://www.neoscapesmaldives.com/wp-content/uploads/The-St.-Regis-Maldives-Fact-Sheet.pdf",
   "map": null,
   "wedding": null,
-  "spa_menu": null,
-  "dining_menu": null,
+  "spa_menu": "https://letsgomaldives.com/wp-content/uploads/2026/03/The-St.-Regis-Maldives_Spa_02-1.pdf",
+  "dining_menu": "https://letsgomaldives.com/wp-content/uploads/2026/03/The-St.-Regis-Maldives_Eid_FB.pdf",
   "dive_prices": null,
   "events": null,
-  "calendar": null
+  "calendar": "https://letsgomaldives.com/wp-content/uploads/2026/02/The-St.-Regis-Maldives-Vommuli-Resort_Easter-Brochure-2026.pdf"
  },
- "documents_count": 1,
+ "documents_count": 6,
  "gaps": [
   "wedding brochure",
   "events/MICE document",
-  "fact: villas.total",
-  "fact: dive operator",
-  "fact: kids club"
+  "fact: dive operator"
  ],
  "sources": {
   "atoll": [
@@ -189,6 +205,36 @@
    {
     "value": "Dhaalu Atoll",
     "source_url": "https://www.neoscapesmaldives.com/resort/the-st-regis-maldives-vommuli-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Dhaalu Atoll",
+    "source_url": "https://letsgomaldives.com/news/michelin-starred-chef-glynn-purnell-joins-the-st-regis-maldives-tastemaker-series/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Dhaalu Atoll",
+    "source_url": "https://mondomaldive.it/it/fotografie_villaggio/the-st-regis-maldives-vommuli-resort",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Dhaalu Atoll",
+    "source_url": "https://www.maldivesholidayoffers.com/blogs/blog-detail/the-st-regis-maldives-to-host-celebrated-chef-jolly-for-exclusive-culinary-experience/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Dhaalu Atoll",
+    "source_url": "https://www.maldivesholidayoffers.com/blogs/blog-detail/the-best-st-regis-maldives-family-holiday-moments/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Dhaalu Atoll",
+    "source_url": "https://www.scottdunn.com/maldives/hotels/the-stregis-maldives-vommuli-resort",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Dhaalu Atoll",
+    "source_url": "https://www.airtours.de/the-st-regis-maldives-vommuli-resort/",
     "as_of": "2026-10-04"
    }
   ],
@@ -207,6 +253,31 @@
     "value": "yacht",
     "source_url": "https://www.neoscapesmaldives.com/resort/the-st-regis-maldives-vommuli-resort/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://letsgomaldives.com/news/michelin-starred-chef-glynn-purnell-joins-the-st-regis-maldives-tastemaker-series/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yacht",
+    "source_url": "https://letsgomaldives.com/news/a-new-chapter-of-experiences-at-the-st-regis-maldives-vommuli-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.maldivesholidayoffers.com/blogs/blog-detail/the-st-regis-maldives-to-host-celebrated-chef-jolly-for-exclusive-culinary-experience/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yacht",
+    "source_url": "https://www.maldivesholidayoffers.com/blogs/blog-detail/the-st-regis-maldives-to-host-celebrated-chef-jolly-for-exclusive-culinary-experience/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.scottdunn.com/maldives/hotels/the-stregis-maldives-vommuli-resort",
+    "as_of": "2026-10-04"
    }
   ],
   "transfer.minutes.seaplane": [
@@ -218,6 +289,16 @@
    {
     "value": 45,
     "source_url": "https://www.neoscapesmaldives.com/resort/the-st-regis-maldives-vommuli-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 45,
+    "source_url": "https://letsgomaldives.com/news/michelin-starred-chef-glynn-purnell-joins-the-st-regis-maldives-tastemaker-series/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 40,
+    "source_url": "https://www.scottdunn.com/maldives/hotels/the-stregis-maldives-vommuli-resort",
     "as_of": "2026-10-04"
    }
   ],
@@ -269,6 +350,18 @@
     },
     "source_url": "https://www.neoscapesmaldives.com/resort/the-st-regis-maldives-vommuli-resort/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "e pansive villas",
+     "count": 77,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://www.maldivesholidayoffers.com/blogs/blog-detail/the-st-regis-maldives-to-host-celebrated-chef-jolly-for-exclusive-culinary-experience/",
+    "as_of": "2026-10-04"
    }
   ],
   "dining": [
@@ -292,36 +385,9 @@
    },
    {
     "value": {
-     "name": "Magic at sunset, the overwater Whale Bar prepares fresh",
+     "name": "The Whale Bar",
      "cuisine": null,
      "type": "bar"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/The-St.-Regis-Maldives-Fact-Sheet.pdf",
-    "as_of": 2021
-   },
-   {
-    "value": {
-     "name": "Dining",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/the-st-regis-maldives-vommuli-resort/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Dining",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/the-st-regis-maldives-vommuli-resort/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Exclusive Private Dining Experiences",
-     "cuisine": null,
-     "type": "restaurant"
     },
     "source_url": "https://www.neoscapesmaldives.com/resort/the-st-regis-maldives-vommuli-resort/",
     "as_of": "2026-10-04"
@@ -332,7 +398,34 @@
      "cuisine": null,
      "type": "bar"
     },
-    "source_url": "https://www.neoscapesmaldives.com/resort/the-st-regis-maldives-vommuli-resort/",
+    "source_url": "https://letsgomaldives.com/news/michelin-starred-chef-glynn-purnell-joins-the-st-regis-maldives-tastemaker-series/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Saturday Kitchen",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://letsgomaldives.com/news/michelin-starred-chef-glynn-purnell-joins-the-st-regis-maldives-tastemaker-series/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Whale Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://letsgomaldives.com/news/michelin-starred-chef-glynn-purnell-joins-the-st-regis-maldives-tastemaker-series/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Beyond the Kitchen",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://letsgomaldives.com/news/a-new-chapter-of-experiences-at-the-st-regis-maldives-vommuli-resort/",
     "as_of": "2026-10-04"
    }
   ],
@@ -345,6 +438,46 @@
    {
     "value": "Iridium Spa",
     "source_url": "https://www.neoscapesmaldives.com/resort/the-st-regis-maldives-vommuli-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Iridium Spa",
+    "source_url": "https://letsgomaldives.com/news/discover-wellness-like-never-before-at-st-regis-maldives-vommuli-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Iridium Spa",
+    "source_url": "https://letsgomaldives.com/news/michelin-starred-chef-glynn-purnell-joins-the-st-regis-maldives-tastemaker-series/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Iridium Spa",
+    "source_url": "https://letsgomaldives.com/news/a-new-chapter-of-experiences-at-the-st-regis-maldives-vommuli-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://letsgomaldives.com/news/charity-run-by-st-regis-maldives-vommuli-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Iridium Spa",
+    "source_url": "https://www.maldivesholidayoffers.com/blogs/blog-detail/the-st-regis-maldives-to-host-celebrated-chef-jolly-for-exclusive-culinary-experience/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Famous Jiva Spa",
+    "source_url": "https://www.maldivesholidayoffers.com/blogs/blog-detail/the-best-st-regis-maldives-family-holiday-moments/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Iridium Spa",
+    "source_url": "https://www.scottdunn.com/maldives/hotels/the-stregis-maldives-vommuli-resort",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Iridium Spa",
+    "source_url": "https://www.airtours.de/the-st-regis-maldives-vommuli-resort/",
     "as_of": "2026-10-04"
    }
   ],
@@ -388,6 +521,46 @@
     "value": "whale shark",
     "source_url": "https://www.neoscapesmaldives.com/resort/the-st-regis-maldives-vommuli-resort/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "paddleboard",
+    "source_url": "https://letsgomaldives.com/news/discover-wellness-like-never-before-at-st-regis-maldives-vommuli-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.maldivesholidayoffers.com/blogs/blog-detail/the-best-st-regis-maldives-family-holiday-moments/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.maldivesholidayoffers.com/blogs/blog-detail/the-best-st-regis-maldives-family-holiday-moments/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "windsurfing",
+    "source_url": "https://www.scottdunn.com/maldives/hotels/the-stregis-maldives-vommuli-resort",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "kitesurfing",
+    "source_url": "https://www.scottdunn.com/maldives/hotels/the-stregis-maldives-vommuli-resort",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin cruise",
+    "source_url": "https://www.scottdunn.com/maldives/hotels/the-stregis-maldives-vommuli-resort",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sailing",
+    "source_url": "https://www.scottdunn.com/maldives/hotels/the-stregis-maldives-vommuli-resort",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.airtours.de/the-st-regis-maldives-vommuli-resort/",
+    "as_of": "2026-10-04"
    }
   ],
   "excursions": [
@@ -430,6 +603,31 @@
     "value": "picnic",
     "source_url": "https://www.neoscapesmaldives.com/resort/the-st-regis-maldives-vommuli-resort/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "cooking class",
+    "source_url": "https://letsgomaldives.com/news/michelin-starred-chef-glynn-purnell-joins-the-st-regis-maldives-tastemaker-series/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "cooking class",
+    "source_url": "https://www.maldivesholidayoffers.com/blogs/blog-detail/the-best-st-regis-maldives-family-holiday-moments/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.scottdunn.com/maldives/hotels/the-stregis-maldives-vommuli-resort",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "cinema",
+    "source_url": "https://www.scottdunn.com/maldives/hotels/the-stregis-maldives-vommuli-resort",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.airtours.de/the-st-regis-maldives-vommuli-resort/",
+    "as_of": "2026-10-04"
    }
   ],
   "wellness_fitness": [
@@ -467,6 +665,61 @@
     "value": "steam",
     "source_url": "https://www.neoscapesmaldives.com/resort/the-st-regis-maldives-vommuli-resort/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://letsgomaldives.com/news/discover-wellness-like-never-before-at-st-regis-maldives-vommuli-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "meditation",
+    "source_url": "https://letsgomaldives.com/news/discover-wellness-like-never-before-at-st-regis-maldives-vommuli-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "pilates",
+    "source_url": "https://letsgomaldives.com/news/discover-wellness-like-never-before-at-st-regis-maldives-vommuli-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://letsgomaldives.com/news/michelin-starred-chef-glynn-purnell-joins-the-st-regis-maldives-tastemaker-series/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "pilates",
+    "source_url": "https://letsgomaldives.com/news/a-new-chapter-of-experiences-at-the-st-regis-maldives-vommuli-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.scottdunn.com/maldives/hotels/the-stregis-maldives-vommuli-resort",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "gym",
+    "source_url": "https://www.scottdunn.com/maldives/hotels/the-stregis-maldives-vommuli-resort",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://www.scottdunn.com/maldives/hotels/the-stregis-maldives-vommuli-resort",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sauna",
+    "source_url": "https://www.scottdunn.com/maldives/hotels/the-stregis-maldives-vommuli-resort",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "steam",
+    "source_url": "https://www.scottdunn.com/maldives/hotels/the-stregis-maldives-vommuli-resort",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.airtours.de/the-st-regis-maldives-vommuli-resort/",
+    "as_of": "2026-10-04"
    }
   ],
   "contacts_public.reservations_email": [
@@ -500,12 +753,22 @@
     "value": "house reef, each Overwater Villa offers a private pool and floor-to-ceiling views of the Indian Ocean",
     "source_url": "https://www.neoscapesmaldives.com/resort/the-st-regis-maldives-vommuli-resort/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef",
+    "source_url": "https://www.scottdunn.com/maldives/hotels/the-stregis-maldives-vommuli-resort",
+    "as_of": "2026-10-04"
    }
   ],
   "weddings.offered": [
    {
     "value": true,
     "source_url": "https://www.neoscapesmaldives.com/resort/the-st-regis-maldives-vommuli-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.maldivesholidayoffers.com/blogs/blog-detail/the-st-regis-maldives-to-host-celebrated-chef-jolly-for-exclusive-culinary-experience/",
     "as_of": "2026-10-04"
    }
   ],
@@ -515,7 +778,33 @@
     "source_url": "https://www.neoscapesmaldives.com/resort/the-st-regis-maldives-vommuli-resort/",
     "as_of": "2026-10-04"
    }
+  ],
+  "villas.total": [
+   {
+    "value": 77,
+    "source_url": "https://letsgomaldives.com/news/a-new-chapter-of-experiences-at-the-st-regis-maldives-vommuli-resort/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "kids_family.kids_club": [
+   {
+    "value": "Children's Club",
+    "source_url": "https://www.maldivesholidayoffers.com/blogs/blog-detail/the-best-st-regis-maldives-family-holiday-moments/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Explorers Kids Club",
+    "source_url": "https://www.scottdunn.com/maldives/hotels/the-stregis-maldives-vommuli-resort",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "meal_plans": [
+   {
+    "value": "HB",
+    "source_url": "https://www.scottdunn.com/maldives/hotels/the-stregis-maldives-vommuli-resort",
+    "as_of": "2026-10-04"
+   }
   ]
  },
- "last_updated": "2026-10-04"
+ "last_updated": "2026-10-05"
 }

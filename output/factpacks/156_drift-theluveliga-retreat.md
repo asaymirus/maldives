@@ -1,6 +1,6 @@
 # 156. Drift Theluveliga Retreat
 
-**Official site:** n/a (None)  
+**Official site:** https://drift-theluveliga.com/ (unreachable)  
 **Brand:** n/a  
 **Atoll:** n/a  **Island:** n/a  
 **Opened/renovated:** n/a  **Rating:** n/a  
@@ -13,7 +13,7 @@
 ## Dining
 
 
-Meal plans: n/a
+Meal plans: AI
 
 ## Spa & wellness
 
@@ -78,6 +78,5 @@ Meal plans: n/a
 - fact: kids club
 - fact: weddings
 - fact: contacts
-- no documents or pages collected
 
-_Facts extracted by rules from 0 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-04._
+_Facts extracted by rules from 1 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

@@ -6,10 +6,10 @@
   "Westin Maldives",
   "Miriandhoo"
  ],
- "official_url": null,
- "official_site_status": null,
+ "official_url": "https://www.marriott.com/en-us/hotels/mlewi-the-westin-maldives-miriandhoo-resort/overview/",
+ "official_site_status": "blocked",
  "operator_brand": "Westin",
- "atoll": null,
+ "atoll": "Baa Atoll",
  "island": null,
  "opened_or_renovated": null,
  "star_rating": null,
@@ -27,7 +27,13 @@
   "total": null,
   "categories": []
  },
- "dining": [],
+ "dining": [
+  {
+   "name": "Island Kitchen",
+   "cuisine": null,
+   "type": "restaurant"
+  }
+ ],
  "meal_plans": [],
  "all_inclusive_details": null,
  "spa": {
@@ -42,7 +48,9 @@
   "activities": [],
   "price_list_doc": null
  },
- "excursions": [],
+ "excursions": [
+  "sandbank"
+ ],
  "kids_family": {
   "kids_club": null,
   "age_range": null,
@@ -62,7 +70,9 @@
   "buyout": null,
   "doc": null
  },
- "sustainability": [],
+ "sustainability": [
+  "Green Key"
+ ],
  "contacts_public": {
   "reservations_email": null,
   "weddings_email": null,
@@ -76,25 +86,55 @@
   "dining_menu": null,
   "dive_prices": null,
   "events": null,
-  "calendar": null
+  "calendar": "https://letsgomaldives.com/wp-content/uploads/2024/03/The-Westin-Maldives-2024-Easter-Celebration-Brochure.pdf"
  },
- "documents_count": 0,
+ "documents_count": 1,
  "gaps": [
   "factsheet",
   "wedding brochure",
   "events/MICE document",
   "fact: villas.total",
   "fact: villa categories",
-  "fact: dining",
   "fact: transfer",
-  "fact: atoll",
   "fact: spa",
   "fact: dive operator",
   "fact: kids club",
   "fact: weddings",
-  "fact: contacts",
-  "no documents or pages collected"
+  "fact: contacts"
  ],
- "sources": {},
- "last_updated": "2026-10-04"
+ "sources": {
+  "atoll": [
+   {
+    "value": "Baa Atoll",
+    "source_url": "https://letsgomaldives.com/news/the-westin-maldives-miriandhoo-resort-appoints-alberto-burgio-as-executive-chef/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "dining": [
+   {
+    "value": {
+     "name": "Island Kitchen",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://letsgomaldives.com/news/the-westin-maldives-miriandhoo-resort-appoints-alberto-burgio-as-executive-chef/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "excursions": [
+   {
+    "value": "sandbank",
+    "source_url": "https://letsgomaldives.com/news/the-westin-maldives-miriandhoo-resort-appoints-alberto-burgio-as-executive-chef/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "sustainability": [
+   {
+    "value": "Green Key",
+    "source_url": "https://letsgomaldives.com/news/the-westin-maldives-miriandhoo-resort-appoints-alberto-burgio-as-executive-chef/",
+    "as_of": "2026-10-04"
+   }
+  ]
+ },
+ "last_updated": "2026-10-05"
 }

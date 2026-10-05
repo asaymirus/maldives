@@ -1,39 +1,45 @@
 # 67. Waldorf Astoria Maldives Ithaafushi
 
-**Official site:** n/a (None)  
+**Official site:** https://www.waldorfastoriamaldives.com/ (ok)  
 **Brand:** Waldorf Astoria  
-**Atoll:** South Male Atoll  **Island:** n/a  
+**Atoll:** South Malé Atoll  **Island:** Male  
 **Opened/renovated:** n/a  **Rating:** n/a  
-**Transfer:** yacht; minutes: {"yacht": 45}  
+**Transfer:** yacht, speedboat, seaplane; minutes: {"seaplane": 5, "yacht": 45}  
 **Island size:** 500 m x 400 m  
 
-## Villas (10 total)
+## Villas (117 total)
 
 - Bedroom Villa: count 1, ? sqm, max ?
 - Bedroom Two Queen Bedded Villas: count 1, ? sqm, max ?
 - Bedroom Grand Villa: count 1, ? sqm, max ?
 - Bedroom Grand Two Queen Bedded Villas: count 1, ? sqm, max ?
+- Bedroom Ocean Villa Stella Maris: count 1, ? sqm, max ?, overwater
+- Bedroom Villa K + T: count 2, ? sqm, max ?
+- Bedroom Villa BEACH VILLAS REEF VILLAS OVERWATER VILLAS: count 3, ? sqm, max ?, overwater
 - Villas: count 119, ? sqm, max ?
+- villas with private pools: count 117, ? sqm, max ?, pool
 
 ## Dining
 
-- Dining (restaurant)
-- Destination Dining (restaurant)
+- Nava Restaurant (restaurant)
+- Yasmeen Restaurant (restaurant)
+- Lilong Restaurant (restaurant)
+- Glow Restaurant (restaurant)
 
 Meal plans: Dine Around
 
 ## Spa & wellness
 
-- Spa: Waldorf Astoria Spa; treatment rooms: ?; menu: none
-- Wellness/fitness: gym, fitness center, tennis, padel, sauna, steam, yoga, fitness centre, personal trainer
+- Spa: Waldorf Astoria Spa; treatment rooms: ?; menu: https://www.waldorfastoriamaldives.com/wp-content/uploads/2026/08/Spa-Wellness-Menu.pdf
+- Wellness/fitness: gym, fitness center, tennis, padel, yoga, meditation, pilates, ayurveda, sauna, steam, cryotherapy, fitness centre, personal trainer
 
 ## Diving, water sports & excursions
 
 - Operator: Dive Centre
-- House reef: n/a
-- Activities: snorkeling, paddleboard, jet ski, whale shark, manta, snorkelling, parasailing, seabob, fishing, sunset cruise, dolphin cruise
-- Price list: none
-- Excursions: sandbank, whale shark, manta, dolphin, big game fishing
+- House reef: house reef offers fantastic snorkelling and a sunset cruise is the perfect way to round off your day
+- Activities: snorkeling, paddleboard, jet ski, whale shark, manta, parasailing, fishing, sunset cruise, dolphin cruise, snorkelling, seabob, windsurfing, kayaking, catamaran, wakeboarding, sailing
+- Price list: https://www.waldorfastoriamaldives.com/wp-content/uploads/2025/07/2025-WA-Recreation-Centre-.pdf
+- Excursions: sandbank, whale shark, manta, dolphin, sunset fishing, big game fishing, turtle, cinema, castaway
 
 ## Kids & family
 
@@ -42,9 +48,9 @@ Meal plans: Dine Around
 ## Weddings
 
 - Offered: True; vow renewal: None
-- Venues: Wedding Pavilion
+- Venues: K Wedding Pavilion
 - Packages: n/a
-- Brochure: none
+- Brochure: https://www.waldorfastoriamaldives.com/wp-content/uploads/2025/07/Unforgettable-Honeymoon-and-Romantic-Anniversaries-TC-.pdf
 
 ## Events / MICE
 
@@ -53,7 +59,7 @@ Meal plans: Dine Around
 
 ## Sustainability
 
-- n/a
+- solar, Green Key
 
 ## Public contacts
 
@@ -62,17 +68,16 @@ Meal plans: Dine Around
 ## Latest documents
 
 - factsheet: https://www.neoscapesmaldives.com/wp-content/uploads/Fact-Sheet.pdf
-- map: https://www.neoscapesmaldives.com/wp-content/uploads/Resort-Map-1.pdf
-- wedding: none
-- spa_menu: none
-- dining_menu: none
-- dive_prices: none
+- map: https://www.waldorfastoriamaldives.com/wp-content/uploads/2025/07/Island-Map-Room-Numbers.pdf
+- wedding: https://www.waldorfastoriamaldives.com/wp-content/uploads/2025/07/Unforgettable-Honeymoon-and-Romantic-Anniversaries-TC-.pdf
+- spa_menu: https://www.waldorfastoriamaldives.com/wp-content/uploads/2026/08/Spa-Wellness-Menu.pdf
+- dining_menu: https://www.waldorfastoriamaldives.com/wp-content/uploads/2026/08/Nava-Menu.pdf
+- dive_prices: https://www.waldorfastoriamaldives.com/wp-content/uploads/2025/07/2025-WA-Recreation-Centre-.pdf
 - events: none
-- calendar: none
+- calendar: https://www.waldorfastoriamaldives.com/wp-content/uploads/2026/10/WAMI-Festive-Brochure-2026.pdf
 
 ## Gaps
 
-- wedding brochure
 - events/MICE document
 
-_Facts extracted by rules from 19 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-04._
+_Facts extracted by rules from 23 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

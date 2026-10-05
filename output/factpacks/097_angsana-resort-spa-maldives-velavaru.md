@@ -1,89 +1,89 @@
 # 97. Angsana Resort & Spa Maldives - Velavaru
 
-**Official site:** n/a (None)  
+**Official site:** https://www.angsana.com/maldives/velavaru (ok)  
 **Brand:** VARU  
 **Atoll:** Dhaalu Atoll  **Island:** n/a  
-**Opened/renovated:** n/a  **Rating:** n/a  
-**Transfer:** seaplane, speedboat; minutes: {"seaplane": 40}  
+**Opened/renovated:** opened 2008  **Rating:** 5-star  
+**Transfer:** seaplane, speedboat; minutes: {"seaplane": 5, "speedboat": 5}  
 **Island size:** 440 m x 140 m  
 
-## Villas (? total)
+## Villas (113 total)
 
 - and Bedrooms Villas: count 2, ? sqm, max ?
-- Total Number of Villas: count 113, ? sqm, max ?
+- Visages and Villages: count 30, ? sqm, max ?
+- one- to three-bedroom villas, each either facing the sea: count 113, ? sqm, max ?
+- Vietnam Hong Po Village Hebei District Fa : +: count 611, ? sqm, max ?
+- Ocean Villa Delu e- notti- sull'isola- not: count 349, ? sqm, max ?, overwater
 
 ## Dining
 
 - Baa Atoll Kaani Restaurant (restaurant)
 - Kaafu Atoll Kuredhi Pool Bar (bar)
 - Funa Restaurant (restaurant)
-- 1 x Additional Dining Experience (restaurant)
-- Destination Dining Discount 20% 20% 50% 20% 50% (restaurant)
 - Funa Restaurant Access (restaurant)
-- InVilla Dining for 2 Daily Meals (restaurant)
-- Dining Experiences (restaurant)
-- Cluster, the Mediterranean Restaurant, offering premium (restaurant)
 - at Kuredhi Bar. (bar)
-- Dining (restaurant)
+- Saffron Cello Oriente Pastry Kitchen (restaurant)
+- Restaurants Banyan Lounge • Oceans (restaurant)
 - Kaani Restaurant (restaurant)
 - Kuredhi Pool Bar (bar)
+- Seaplane Lounge Access (bar)
+- Every Friday at Kuredhi Pool Bar (bar)
+- Cocktail at Kuredhi Pool Bar (bar)
 - Departure Lounge (bar)
-- Destination Dining Experiences (restaurant)
 
-Meal plans: n/a
+Meal plans: BB, HB, FB, AI, Premium AI
+All-inclusive: All-Inclusive Packages designed for different types of holidaymakers.
 
 ## Spa & wellness
 
-- Spa: Award-winning Spa; treatment rooms: ?; menu: none
-- Wellness/fitness: gym, beach volleyball, fitness centre
+- Spa: Spa; treatment rooms: ?; menu: https://cdn3.me-qr.com/pdf/19798997.pdf?time=1775077089
+- Wellness/fitness: gym, beach volleyball, fitness centre, yoga, meditation, pilates, steam, sound healing, wellness programme, badminton
 
 ## Diving, water sports & excursions
 
 - Operator: Dive Centre
-- House reef: House Reef Access
-- Activities: snorkelling, snorkeling, windsurfing, surfing, kayaking, stand-up paddle, paddleboard, catamaran, jet ski, water skiing, wakeboarding, fishing, sunset cruise, sailing, fun tube, canoe, whale shark, manta
+- House reef: house reef, encountering a dazzling array of marine wonders and majestic creatures in their natural habitat
+- Activities: snorkelling, snorkeling, windsurfing, surfing, kayaking, stand-up paddle, paddleboard, catamaran, jet ski, water skiing, wakeboarding, fishing, sunset cruise, sailing, fun tube, canoe, whale shark, scuba diving, banana boat, manta
 - Price list: none
-- Excursions: local island, dolphin, turtle, cinema, whale shark, manta
+- Excursions: local island, dolphin, turtle, cinema, cooking class, sandbank, island hopping, whale shark, night fishing, big game fishing, manta, private dinner, stargazing
 
 ## Kids & family
 
-- Kids club: Kids Club; ages: 8-9 years; teens: n/a
+- Kids club: Terra Kids Club; ages: 8-9 years; teens: teens programme mentioned
 
 ## Weddings
 
-- Offered: True; vow renewal: None
-- Venues: n/a
-- Packages: n/a
+- Offered: True; vow renewal: True
+- Venues: and a wedding chapel that can host intimate; Velavaru Beach Wedding White Set up; Velavaru Pink Beach Wedding Set up; Beach Pavillion Wedding
+- Packages: Drone Package USD 220 (2026-10-04)
 - Brochure: none
 
 ## Events / MICE
 
-- Venues: 45 minutes from Velana International Meeting Room; capacity max: n/a; buyout: None
-- Document: none
+- Venues: 45 minutes from Velana International Meeting Room; Boardroom 32 sqm • • • • 10; Boardroom Banyan Room Summit Room 17; Extensive spa facilities, a luxurious ballroom; Total event space; capacity max: n/a; buyout: None
+- Document: https://www.banyantree.com/assets/2022-06/mice-bt-shanghai.pdf
 
 ## Sustainability
 
-- coral restoration, marine lab
+- coral restoration, marine lab, single-use plastic, EarthCheck, marine biologist, reef restoration
 
 ## Public contacts
 
-- Reservations: info@neoscapesmaldives.com; weddings: n/a; phone: +960 736 5425
+- Reservations: reservations-velavaru@angsana.com; weddings: n/a; phone: +960 676 0028
 
 ## Latest documents
 
 - factsheet: https://www.neoscapesmaldives.com/wp-content/uploads/Fact-Sheet-Angsana-Velavaru.pdf
-- map: none
+- map: https://www.banyantree.com/assets/2021-10/bt-shanghai-grand_bund_suite_floor_plan.pdf
 - wedding: none
-- spa_menu: none
+- spa_menu: https://cdn3.me-qr.com/pdf/19798997.pdf?time=1775077089
 - dining_menu: none
 - dive_prices: none
-- events: none
+- events: https://www.banyantree.com/assets/2022-06/mice-bt-shanghai.pdf
 - calendar: none
 
 ## Gaps
 
 - wedding brochure
-- events/MICE document
-- fact: villas.total
 
-_Facts extracted by rules from 19 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-04._
+_Facts extracted by rules from 29 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

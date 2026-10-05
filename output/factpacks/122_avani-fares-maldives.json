@@ -7,19 +7,23 @@
   "Avani+ Fares",
   "Fares"
  ],
- "official_url": null,
- "official_site_status": null,
+ "official_url": "https://www.avanihotels.com/en/fares-maldives",
+ "official_site_status": "blocked-partial",
  "operator_brand": "Avani",
- "atoll": null,
+ "atoll": "Baa Atoll",
  "island": null,
  "opened_or_renovated": null,
- "star_rating": null,
+ "star_rating": "5-star",
  "transfer": {
-  "modes": [],
+  "modes": [
+   "seaplane",
+   "speedboat",
+   "domestic flight"
+  ],
   "minutes": {
-   "seaplane": null,
-   "speedboat": null,
-   "domestic flight": null,
+   "seaplane": 35,
+   "speedboat": 35,
+   "domestic flight": 35,
    "yacht": null
   }
  },
@@ -28,28 +32,58 @@
   "total": null,
   "categories": []
  },
- "dining": [],
- "meal_plans": [],
- "all_inclusive_details": null,
+ "dining": [
+  {
+   "name": "Petit Bistro",
+   "cuisine": null,
+   "type": "restaurant"
+  }
+ ],
+ "meal_plans": [
+  "BB",
+  "HB",
+  "FB",
+  "AI"
+ ],
+ "all_inclusive_details": "all-inclusive offers.",
  "spa": {
-  "name": null,
+  "name": "Spa",
   "treatment_rooms": null,
   "signature_treatments": [],
   "menu_doc": null
  },
  "diving_watersports": {
-  "operator": null,
-  "house_reef": null,
-  "activities": [],
+  "operator": "Dive Centre",
+  "house_reef": "House reef teeming with marine life, perfect for",
+  "activities": [
+   "snorkelling",
+   "parasailing",
+   "fishing",
+   "snorkeling",
+   "kitesurfing",
+   "whale shark",
+   "manta"
+  ],
   "price_list_doc": null
  },
- "excursions": [],
+ "excursions": [
+  "sandbank",
+  "dolphin",
+  "big game fishing",
+  "turtle",
+  "whale shark",
+  "manta"
+ ],
  "kids_family": {
   "kids_club": null,
   "age_range": null,
-  "teens": null
+  "teens": "teens programme mentioned"
  },
- "wellness_fitness": [],
+ "wellness_fitness": [
+  "fitness centre",
+  "tennis",
+  "gym"
+ ],
  "weddings": {
   "offered": null,
   "vow_renewal": null,
@@ -65,9 +99,9 @@
  },
  "sustainability": [],
  "contacts_public": {
-  "reservations_email": null,
+  "reservations_email": "fares@avanihotels.com",
   "weddings_email": null,
-  "phone": null
+  "phone": "+960 660 1660"
  },
  "documents_latest": {
   "factsheet": null,
@@ -77,25 +111,269 @@
   "dining_menu": null,
   "dive_prices": null,
   "events": null,
-  "calendar": null
+  "calendar": "https://letsgomaldives.com/wp-content/uploads/2026/08/Avani-Fares-Maldives-Festive-Brochure-2026-1.pdf"
  },
- "documents_count": 0,
+ "documents_count": 5,
  "gaps": [
   "factsheet",
   "wedding brochure",
   "events/MICE document",
   "fact: villas.total",
   "fact: villa categories",
-  "fact: dining",
-  "fact: transfer",
-  "fact: atoll",
-  "fact: spa",
-  "fact: dive operator",
   "fact: kids club",
-  "fact: weddings",
-  "fact: contacts",
-  "no documents or pages collected"
+  "fact: weddings"
  ],
- "sources": {},
- "last_updated": "2026-10-04"
+ "sources": {
+  "meal_plans": [
+   {
+    "value": "BB",
+    "source_url": "https://letsgomaldives.com/wp-content/uploads/2026/03/EID-Brochure-2026-1-1.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "HB",
+    "source_url": "https://letsgomaldives.com/wp-content/uploads/2026/03/EID-Brochure-2026-1-1.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "FB",
+    "source_url": "https://letsgomaldives.com/wp-content/uploads/2026/03/EID-Brochure-2026-1-1.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "AI",
+    "source_url": "https://letsgomaldives.com/wp-content/uploads/2026/03/EID-Brochure-2026-1-1.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "AI",
+    "source_url": "https://www.avanihotels.com/en/fares-maldives",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "diving_watersports.operator": [
+   {
+    "value": "Dive Centre",
+    "source_url": "https://letsgomaldives.com/wp-content/uploads/2026/03/EID-Brochure-2026-1-1.pdf",
+    "as_of": 2026
+   }
+  ],
+  "diving_watersports.activities": [
+   {
+    "value": "snorkelling",
+    "source_url": "https://letsgomaldives.com/wp-content/uploads/2026/03/EID-Brochure-2026-1-1.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "parasailing",
+    "source_url": "https://letsgomaldives.com/wp-content/uploads/2026/03/EID-Brochure-2026-1-1.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://letsgomaldives.com/wp-content/uploads/2026/03/EID-Brochure-2026-1-1.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.avanihotels.com/en/fares-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.avanihotels.com/en/fares-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "kitesurfing",
+    "source_url": "https://www.avanihotels.com/en/fares-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.avanihotels.com/en/fares-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.avanihotels.com/en/fares-maldives",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "excursions": [
+   {
+    "value": "sandbank",
+    "source_url": "https://letsgomaldives.com/wp-content/uploads/2026/03/EID-Brochure-2026-1-1.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://letsgomaldives.com/wp-content/uploads/2026/03/EID-Brochure-2026-1-1.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "big game fishing",
+    "source_url": "https://letsgomaldives.com/wp-content/uploads/2026/03/EID-Brochure-2026-1-1.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://letsgomaldives.com/wp-content/uploads/2026/03/EID-Brochure-2026-1-1.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.avanihotels.com/en/fares-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.avanihotels.com/en/fares-maldives",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "kids_family.teens": [
+   {
+    "value": "teens programme mentioned",
+    "source_url": "https://letsgomaldives.com/wp-content/uploads/2026/03/EID-Brochure-2026-1-1.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "teens programme mentioned",
+    "source_url": "https://www.avanihotels.com/en/fares-maldives",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "atoll": [
+   {
+    "value": "Baa Atoll",
+    "source_url": "https://www.avanihotels.com/en/fares-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Baa Atoll",
+    "source_url": "https://www.dnatatravel.com/2-9857305-1/avani-fares-maldives-resort?oc=true",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "star_rating": [
+   {
+    "value": "5-star",
+    "source_url": "https://www.avanihotels.com/en/fares-maldives",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "transfer.modes": [
+   {
+    "value": "seaplane",
+    "source_url": "https://www.avanihotels.com/en/fares-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.dnatatravel.com/2-9857305-1/avani-fares-maldives-resort?oc=true",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.dnatatravel.com/2-9857305-1/avani-fares-maldives-resort?oc=true",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "domestic flight",
+    "source_url": "https://www.dnatatravel.com/2-9857305-1/avani-fares-maldives-resort?oc=true",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "dining": [
+   {
+    "value": {
+     "name": "Petit Bistro",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.avanihotels.com/en/fares-maldives",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "all_inclusive_details": [
+   {
+    "value": "all-inclusive offers.",
+    "source_url": "https://www.avanihotels.com/en/fares-maldives",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "spa.name": [
+   {
+    "value": "Spa",
+    "source_url": "https://www.avanihotels.com/en/fares-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Bar\nGym\nRestaurant\nSpa",
+    "source_url": "https://www.dnatatravel.com/2-9857305-1/avani-fares-maldives-resort?oc=true",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "diving_watersports.house_reef": [
+   {
+    "value": "House reef teeming with marine life, perfect for",
+    "source_url": "https://www.avanihotels.com/en/fares-maldives",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "wellness_fitness": [
+   {
+    "value": "fitness centre",
+    "source_url": "https://www.avanihotels.com/en/fares-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://www.avanihotels.com/en/fares-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "gym",
+    "source_url": "https://www.dnatatravel.com/2-9857305-1/avani-fares-maldives-resort?oc=true",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "contacts_public.reservations_email": [
+   {
+    "value": "fares@avanihotels.com",
+    "source_url": "https://www.avanihotels.com/en/fares-maldives",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "contacts_public.phone": [
+   {
+    "value": "+960 660 1660",
+    "source_url": "https://www.avanihotels.com/en/fares-maldives",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "transfer.minutes.seaplane": [
+   {
+    "value": 35,
+    "source_url": "https://www.dnatatravel.com/2-9857305-1/avani-fares-maldives-resort?oc=true",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "transfer.minutes.speedboat": [
+   {
+    "value": 35,
+    "source_url": "https://www.dnatatravel.com/2-9857305-1/avani-fares-maldives-resort?oc=true",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "transfer.minutes.domestic flight": [
+   {
+    "value": 35,
+    "source_url": "https://www.dnatatravel.com/2-9857305-1/avani-fares-maldives-resort?oc=true",
+    "as_of": "2026-10-04"
+   }
+  ]
+ },
+ "last_updated": "2026-10-05"
 }

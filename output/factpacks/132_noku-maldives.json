@@ -7,13 +7,13 @@
   "Noku",
   "Kudafunafaru"
  ],
- "official_url": null,
- "official_site_status": null,
+ "official_url": "https://www.nokumaldives.com/",
+ "official_site_status": "unreachable",
  "operator_brand": "Noku",
  "atoll": "Noonu Atoll",
  "island": "Kuda Funafaru",
  "opened_or_renovated": null,
- "star_rating": null,
+ "star_rating": "5-star",
  "transfer": {
   "modes": [
    "seaplane",
@@ -121,11 +121,6 @@
    "type": "bar"
   },
   {
-   "name": "Dining",
-   "cuisine": null,
-   "type": "restaurant"
-  },
-  {
    "name": "Palms Restaurant",
    "cuisine": null,
    "type": "restaurant"
@@ -141,29 +136,9 @@
    "type": "restaurant"
   },
   {
-   "name": "Alfresco Dining",
-   "cuisine": null,
-   "type": "restaurant"
-  },
-  {
    "name": "Thari Bar",
    "cuisine": null,
    "type": "bar"
-  },
-  {
-   "name": "Central Bar with day beds and casual seating area",
-   "cuisine": null,
-   "type": "bar"
-  },
-  {
-   "name": "Private Dining",
-   "cuisine": null,
-   "type": "restaurant"
-  },
-  {
-   "name": "Beach Dining and In-room Dining",
-   "cuisine": null,
-   "type": "restaurant"
   },
   {
    "name": "Arrival & Departure Lounge",
@@ -189,11 +164,6 @@
    "name": "Palm Bar",
    "cuisine": null,
    "type": "bar"
-  },
-  {
-   "name": "Restaurant",
-   "cuisine": null,
-   "type": "restaurant"
   },
   {
    "name": "Complimentary Use of Seaplane VIP Lounge",
@@ -234,7 +204,10 @@
   "sandbank",
   "dolphin",
   "sunset fishing",
-  "turtle"
+  "turtle",
+  "stargazing",
+  "picnic",
+  "private dinner"
  ],
  "kids_family": {
   "kids_club": null,
@@ -244,7 +217,9 @@
  "wellness_fitness": [
   "yoga",
   "gym",
-  "fitness centre"
+  "fitness centre",
+  "fitness center",
+  "tennis"
  ],
  "weddings": {
   "offered": true,
@@ -275,9 +250,9 @@
   "dining_menu": null,
   "dive_prices": null,
   "events": null,
-  "calendar": null
+  "calendar": "https://letsgomaldives.com/wp-content/uploads/2026/08/Noku-Maldives-Festive-Brochure-2026_2027.pdf"
  },
- "documents_count": 2,
+ "documents_count": 3,
  "gaps": [
   "wedding brochure",
   "events/MICE document",
@@ -300,6 +275,21 @@
    {
     "value": "Noonu Atoll",
     "source_url": "https://www.neoscapesmaldives.com/resort/noku-maldives-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Noonu Atoll",
+    "source_url": "https://letsgomaldives.com/news/noku-maldives-joins-ihgs-vignette-collection-a-new-era-of-luxury-in-noonu-atoll/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Noonu Atoll",
+    "source_url": "https://www.maldivestourism.net/resorts/zitahli-resorts-kuda-funafaru/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Noonu Atoll",
+    "source_url": "https://malediven.de/malediven-hotels/noku/",
     "as_of": "2026-10-04"
    }
   ],
@@ -582,15 +572,6 @@
    },
    {
     "value": {
-     "name": "Dining",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/NM-Factsheet-July2021.pdf",
-    "as_of": 2021
-   },
-   {
-    "value": {
      "name": "Palms Restaurant",
      "cuisine": null,
      "type": "restaurant"
@@ -618,45 +599,9 @@
    },
    {
     "value": {
-     "name": "Alfresco Dining",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/NM-Factsheet-July2021.pdf",
-    "as_of": 2021
-   },
-   {
-    "value": {
      "name": "Thari Bar",
      "cuisine": null,
      "type": "bar"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/NM-Factsheet-July2021.pdf",
-    "as_of": 2021
-   },
-   {
-    "value": {
-     "name": "Central Bar with day beds and casual seating area",
-     "cuisine": null,
-     "type": "bar"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/NM-Factsheet-July2021.pdf",
-    "as_of": 2021
-   },
-   {
-    "value": {
-     "name": "Private Dining",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/NM-Factsheet-July2021.pdf",
-    "as_of": 2021
-   },
-   {
-    "value": {
-     "name": "Beach Dining and In-room Dining",
-     "cuisine": null,
-     "type": "restaurant"
     },
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/NM-Factsheet-July2021.pdf",
     "as_of": 2021
@@ -726,24 +671,6 @@
    },
    {
     "value": {
-     "name": "Dining",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/noku-maldives-resort/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Dining",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/noku-maldives-resort/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
      "name": "Palms Restaurant",
      "cuisine": null,
      "type": "restaurant"
@@ -780,33 +707,6 @@
    },
    {
     "value": {
-     "name": "Private Dining",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/noku-maldives-resort/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Private Dining",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/noku-maldives-resort/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Restaurant",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/noku-maldives-resort/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
      "name": "Arrival Lounge",
      "cuisine": null,
      "type": "bar"
@@ -831,15 +731,6 @@
     },
     "source_url": "https://www.neoscapesmaldives.com/resort/noku-maldives-resort/",
     "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Private Dining",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/noku-maldives-resort/",
-    "as_of": "2026-10-04"
    }
   ],
   "spa.name": [
@@ -856,6 +747,21 @@
    {
     "value": "Noku Spa",
     "source_url": "https://www.neoscapesmaldives.com/resort/noku-maldives-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "The Noku Spa",
+    "source_url": "https://letsgomaldives.com/news/noku-maldives-joins-ihgs-vignette-collection-a-new-era-of-luxury-in-noonu-atoll/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.maldivestourism.net/resorts/zitahli-resorts-kuda-funafaru/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://malediven.de/malediven-hotels/noku/",
     "as_of": "2026-10-04"
    }
   ],
@@ -948,6 +854,26 @@
     "value": "turtle",
     "source_url": "https://www.neoscapesmaldives.com/resort/noku-maldives-resort/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://letsgomaldives.com/news/noku-maldives-joins-ihgs-vignette-collection-a-new-era-of-luxury-in-noonu-atoll/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "stargazing",
+    "source_url": "https://letsgomaldives.com/news/noku-maldives-joins-ihgs-vignette-collection-a-new-era-of-luxury-in-noonu-atoll/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "picnic",
+    "source_url": "https://www.maldivestourism.net/resorts/zitahli-resorts-kuda-funafaru/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "private dinner",
+    "source_url": "https://www.maldivestourism.net/resorts/zitahli-resorts-kuda-funafaru/",
+    "as_of": "2026-10-04"
    }
   ],
   "wellness_fitness": [
@@ -979,6 +905,21 @@
    {
     "value": "gym",
     "source_url": "https://www.neoscapesmaldives.com/resort/noku-maldives-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.maldivestourism.net/resorts/zitahli-resorts-kuda-funafaru/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fitness center",
+    "source_url": "https://www.maldivestourism.net/resorts/zitahli-resorts-kuda-funafaru/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://www.maldivestourism.net/resorts/zitahli-resorts-kuda-funafaru/",
     "as_of": "2026-10-04"
    }
   ],
@@ -1019,7 +960,14 @@
     "source_url": "https://www.neoscapesmaldives.com/resort/noku-maldives-resort/",
     "as_of": "2026-10-04"
    }
+  ],
+  "star_rating": [
+   {
+    "value": "5-star",
+    "source_url": "https://www.maldivestourism.net/resorts/zitahli-resorts-kuda-funafaru/",
+    "as_of": "2026-10-04"
+   }
   ]
  },
- "last_updated": "2026-10-04"
+ "last_updated": "2026-10-05"
 }

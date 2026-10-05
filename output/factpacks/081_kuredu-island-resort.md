@@ -1,6 +1,6 @@
 # 81. Kuredu Island Resort
 
-**Official site:** n/a (None)  
+**Official site:** https://www.kuredu.com/ (ok)  
 **Brand:** n/a  
 **Atoll:** n/a  **Island:** n/a  
 **Opened/renovated:** n/a  **Rating:** n/a  
@@ -61,7 +61,7 @@ Meal plans: n/a
 - dining_menu: none
 - dive_prices: https://sales.crownandchamparesorts.com/wp-content/uploads/2020/07/General-ProDivers-operation-guidelines-071720KURKOMHURKUDINN.pdf
 - events: none
-- calendar: none
+- calendar: https://d2qwq69i2ic1pk.cloudfront.net/2023/11/CCR_2024_Calendar_compressed.pdf
 
 ## Gaps
 
@@ -77,4 +77,4 @@ Meal plans: n/a
 - fact: weddings
 - fact: contacts
 
-_Facts extracted by rules from 3 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-04._
+_Facts extracted by rules from 3 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

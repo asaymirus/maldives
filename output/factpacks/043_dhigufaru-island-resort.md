@@ -1,10 +1,10 @@
 # 43. Dhigufaru Island Resort
 
-**Official site:** n/a (None)  
+**Official site:** https://dhigufaru.com/ (ok)  
 **Brand:** n/a  
-**Atoll:** n/a  **Island:** n/a  
+**Atoll:** Baa Atoll  **Island:** n/a  
 **Opened/renovated:** n/a  **Rating:** n/a  
-**Transfer:** n/a; minutes: {}  
+**Transfer:** speedboat, domestic flight; minutes: {}  
 **Island size:** n/a  
 
 ## Villas (? total)
@@ -12,32 +12,44 @@
 
 ## Dining
 
+- Dhandifulhu Restaurant Beach / Specialty (restaurant)
+- Lounge (bar)
+- Wine Cellar (bar)
+- Kitchen (restaurant)
+- Dhandifulhu Restaurant (restaurant)
+- Thundi Pool Bar (bar)
+- Athiri Grill (restaurant)
+- Raagudi Bar (bar)
+- Muraka Fine Dining Restaurant (restaurant)
+- Mini Bar (bar)
 
 Meal plans: n/a
 
 ## Spa & wellness
 
-- Spa: n/a; treatment rooms: ?; menu: none
-- Wellness/fitness: n/a
+- Spa: Photo Gallery
+Funa Spa; treatment rooms: ?; menu: https://dhigufaru.com/app/wp-content/uploads/2016/03/Huifilandaa-Pavilion.pdf
+- Wellness/fitness: yoga, gym, sauna, steam, tennis
 
 ## Diving, water sports & excursions
 
-- Operator: n/a
+- Operator: Ocean Dimensions
 - House reef: n/a
-- Activities: n/a
+- Activities: sunset cruise, fishing, dolphin cruise, canoe, manta, snorkeling, windsurfing, water skiing, whale shark
 - Price list: none
-- Excursions: n/a
+- Excursions: sandbank, local island, dolphin, picnic, stargazing, sunset fishing, manta, whale shark
 
 ## Kids & family
 
-- Kids club: n/a; ages: n/a; teens: n/a
+- Kids club: Recreation Center
+Baraveli Kids Club; ages: n/a; teens: n/a
 
 ## Weddings
 
-- Offered: None; vow renewal: None
+- Offered: True; vow renewal: None
 - Venues: n/a
 - Packages: n/a
-- Brochure: none
+- Brochure: https://dhigufaru.com/app/wp-content/uploads/2024/12/Dhigufaru-Wedding-Proposal-Packages-2024.pdf
 
 ## Events / MICE
 
@@ -50,14 +62,14 @@ Meal plans: n/a
 
 ## Public contacts
 
-- Reservations: n/a; weddings: n/a; phone: n/a
+- Reservations: inquiry@dhigufaru.com; weddings: n/a; phone: +960-660-2656
 
 ## Latest documents
 
-- factsheet: none
+- factsheet: https://dhigufaru.com/app/wp-content/uploads/2026/06/Dhigufaru-Fact-Sheet-English.pdf
 - map: none
-- wedding: none
-- spa_menu: none
+- wedding: https://dhigufaru.com/app/wp-content/uploads/2024/12/Dhigufaru-Wedding-Proposal-Packages-2024.pdf
+- spa_menu: https://dhigufaru.com/app/wp-content/uploads/2016/03/Huifilandaa-Pavilion.pdf
 - dining_menu: none
 - dive_prices: none
 - events: none
@@ -65,19 +77,8 @@ Meal plans: n/a
 
 ## Gaps
 
-- factsheet
-- wedding brochure
 - events/MICE document
 - fact: villas.total
 - fact: villa categories
-- fact: dining
-- fact: transfer
-- fact: atoll
-- fact: spa
-- fact: dive operator
-- fact: kids club
-- fact: weddings
-- fact: contacts
-- no documents or pages collected
 
-_Facts extracted by rules from 0 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-04._
+_Facts extracted by rules from 12 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

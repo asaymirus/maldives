@@ -1,46 +1,47 @@
 # 134. The St. Regis Vommuli Resort, Maldives
 
-**Official site:** n/a (None)  
+**Official site:** https://www.marriott.com/en-us/hotels/mlexr-the-st-regis-maldives-vommuli-resort/overview/ (blocked)  
 **Brand:** St. Regis  
 **Atoll:** Dhaalu Atoll  **Island:** Vommuli  
 **Opened/renovated:** n/a  **Rating:** 5-star  
 **Transfer:** seaplane, yacht; minutes: {"seaplane": 45}  
 **Island size:** n/a  
 
-## Villas (? total)
+## Villas (77 total)
 
 - Overwater Villa with Pool: count ?, 182 sqm, max ?, pool, overwater
 - Villas: count 77, ? sqm, max ?
 - Bedroom Beach Villa: count 2, ? sqm, max ?
 - Bedroom Beach Suite: count 2, ? sqm, max ?
+- e pansive villas: count 77, ? sqm, max ?
 
 ## Dining
 
 - The Whale Bar Grill (bar)
 - Culinary Experiences The Whale Bar (bar)
-- Magic at sunset, the overwater Whale Bar prepares fresh (bar)
-- Dining (restaurant)
-- Exclusive Private Dining Experiences (restaurant)
 - The Whale Bar (bar)
+- Saturday Kitchen (restaurant)
+- Whale Bar (bar)
+- Beyond the Kitchen (restaurant)
 
-Meal plans: n/a
+Meal plans: HB
 
 ## Spa & wellness
 
-- Spa: Iridium Spa; treatment rooms: ?; menu: none
-- Wellness/fitness: yoga, meditation, tennis, fitness center, sauna, steam
+- Spa: Iridium Spa; treatment rooms: ?; menu: https://letsgomaldives.com/wp-content/uploads/2026/03/The-St.-Regis-Maldives_Spa_02-1.pdf
+- Wellness/fitness: yoga, meditation, tennis, fitness center, sauna, steam, pilates, gym
 
 ## Diving, water sports & excursions
 
 - Operator: n/a
 - House reef: house reef, each Overwater Villa offers a private pool and floor-to-ceiling views of the Indian Ocean
-- Activities: manta, snorkeling, scuba diving, parasailing, seabob, fishing, sunset cruise, whale shark
+- Activities: manta, snorkeling, scuba diving, parasailing, seabob, fishing, sunset cruise, whale shark, paddleboard, windsurfing, kitesurfing, dolphin cruise, sailing
 - Price list: none
-- Excursions: manta, cinema, island hopping, local island, sandbank, dolphin, whale shark, picnic
+- Excursions: manta, cinema, island hopping, local island, sandbank, dolphin, whale shark, picnic, cooking class
 
 ## Kids & family
 
-- Kids club: n/a; ages: n/a; teens: n/a
+- Kids club: Children's Club; ages: n/a; teens: n/a
 
 ## Weddings
 
@@ -67,18 +68,16 @@ Meal plans: n/a
 - factsheet: https://www.neoscapesmaldives.com/wp-content/uploads/The-St.-Regis-Maldives-Fact-Sheet.pdf
 - map: none
 - wedding: none
-- spa_menu: none
-- dining_menu: none
+- spa_menu: https://letsgomaldives.com/wp-content/uploads/2026/03/The-St.-Regis-Maldives_Spa_02-1.pdf
+- dining_menu: https://letsgomaldives.com/wp-content/uploads/2026/03/The-St.-Regis-Maldives_Eid_FB.pdf
 - dive_prices: none
 - events: none
-- calendar: none
+- calendar: https://letsgomaldives.com/wp-content/uploads/2026/02/The-St.-Regis-Maldives-Vommuli-Resort_Easter-Brochure-2026.pdf
 
 ## Gaps
 
 - wedding brochure
 - events/MICE document
-- fact: villas.total
 - fact: dive operator
-- fact: kids club
 
-_Facts extracted by rules from 15 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-04._
+_Facts extracted by rules from 18 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

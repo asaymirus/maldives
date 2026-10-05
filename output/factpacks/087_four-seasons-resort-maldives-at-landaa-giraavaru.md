@@ -1,40 +1,38 @@
 # 87. Four Seasons Resort Maldives at Landaa Giraavaru
 
-**Official site:** n/a (None)  
+**Official site:** https://www.fourseasons.com/maldiveslg/ (blocked)  
 **Brand:** VARU  
 **Atoll:** Baa Atoll  **Island:** Finolhas  
 **Opened/renovated:** n/a  **Rating:** n/a  
 **Transfer:** seaplane; minutes: {"seaplane": 35}  
 **Island size:** n/a  
 
-## Villas (67 total)
+## Villas (103 total)
 
 - Villas: count 103, ? sqm, max ?
 - water villa with pool lifestyle: count 2, ? sqm, max ?, pool
 
 ## Dining
 
-- Dining (restaurant)
 - Café Landaa (restaurant)
 - Fuego Grill (restaurant)
 - Shisha Bar (bar)
 - Poolside Bar (bar)
-- In-villa Dining (restaurant)
 
 Meal plans: n/a
 
 ## Spa & wellness
 
 - Spa: n/a; treatment rooms: ?; menu: none
-- Wellness/fitness: yoga, gym, tennis, badminton, fitness centre
+- Wellness/fitness: yoga, gym, tennis, badminton, fitness centre, sauna
 
 ## Diving, water sports & excursions
 
 - Operator: n/a
 - House reef: n/a
-- Activities: snorkeling, fishing, dolphin cruise, whale shark, manta, snorkelling, scuba diving
+- Activities: snorkeling, fishing, dolphin cruise, whale shark, manta, snorkelling, scuba diving, windsurfing, catamaran, water skiing, sailing, canoe
 - Price list: none
-- Excursions: local island, sandbank, turtle, dolphin, whale shark, manta, sunset fishing, stargazing
+- Excursions: local island, sandbank, turtle, dolphin, whale shark, manta, sunset fishing, stargazing, big game fishing
 
 ## Kids & family
 
@@ -79,4 +77,4 @@ Meal plans: n/a
 - fact: spa
 - fact: dive operator
 
-_Facts extracted by rules from 16 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-04._
+_Facts extracted by rules from 16 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

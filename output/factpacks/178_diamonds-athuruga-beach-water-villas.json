@@ -6,28 +6,69 @@
   "Diamonds Athuruga",
   "Athuruga"
  ],
- "official_url": null,
- "official_site_status": null,
+ "official_url": "https://www.diamondsresorts.com/en/diamonds-athuruga",
+ "official_site_status": "ok",
  "operator_brand": "Villa",
- "atoll": "Ari Atoll",
- "island": null,
+ "atoll": "Dhaalu Atoll",
+ "island": "Zanzibar",
  "opened_or_renovated": null,
  "star_rating": null,
  "transfer": {
   "modes": [
-   "seaplane"
+   "seaplane",
+   "domestic flight"
   ],
   "minutes": {
-   "seaplane": 20,
+   "seaplane": 25,
    "speedboat": null,
-   "domestic flight": null,
+   "domestic flight": 30,
    "yacht": null
   }
  },
- "island_size": null,
+ "island_size": "639 ha",
  "villas": {
-  "total": null,
+  "total": 49,
   "categories": [
+   {
+    "name": "Junior Suite",
+    "count": 46,
+    "size_sqm": 51,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "Oasis Villas",
+    "count": null,
+    "size_sqm": 60,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "bedroom Suites",
+    "count": 2,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "Two-Bedroom Garden/Pool View Suite",
+    "count": null,
+    "size_sqm": 103,
+    "max_occupancy": null,
+    "pool": true,
+    "overwater": null
+   },
+   {
+    "name": "Two-Bedroom Ocean View Suites",
+    "count": null,
+    "size_sqm": 74,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": true
+   },
    {
     "name": "Villas",
     "count": 70,
@@ -40,42 +81,82 @@
  },
  "dining": [
   {
-   "name": "Dining with the Stars,",
+   "name": "Diani Restaurant",
    "cuisine": null,
    "type": "restaurant"
   },
   {
-   "name": "Resorts coccolano i sensi della clientela, Dining",
+   "name": "Bustani Garden Restaurant",
    "cuisine": null,
    "type": "restaurant"
   },
   {
-   "name": "protagonisti di Dining",
+   "name": "Baraza Steakhouse",
    "cuisine": null,
    "type": "restaurant"
   },
   {
-   "name": "Dining",
+   "name": "Frangipane Pizzeria",
    "cuisine": null,
    "type": "restaurant"
   },
   {
-   "name": "le Festival «Dining with the aura aussi quelques étapes ex",
+   "name": "Golf Pub Restaurant",
    "cuisine": null,
    "type": "restaurant"
   },
   {
-   "name": "tival «Dining with the",
+   "name": "Bahari Bar",
+   "cuisine": null,
+   "type": "bar"
+  },
+  {
+   "name": "Coral Beach Bar",
+   "cuisine": null,
+   "type": "bar"
+  },
+  {
+   "name": "Mnazi Bar",
+   "cuisine": null,
+   "type": "bar"
+  },
+  {
+   "name": "Maweni Bar",
+   "cuisine": null,
+   "type": "bar"
+  },
+  {
+   "name": "Baobab Swim-Up Bar",
+   "cuisine": null,
+   "type": "bar"
+  },
+  {
+   "name": "Vilindi Bar",
+   "cuisine": null,
+   "type": "bar"
+  },
+  {
+   "name": "Hell’s Kitchen – Marafa Kanyon",
    "cuisine": null,
    "type": "restaurant"
   },
   {
-   "name": "in ein Ferienparadies reisen, «Dining with the Stars» ist",
+   "name": "Teppanyaki dinner experience",
    "cuisine": null,
    "type": "restaurant"
   },
   {
-   "name": "amondsresorts.com/Dining-With-the",
+   "name": "Restaurant L`Hysope - Le Jarrie France",
+   "cuisine": null,
+   "type": "restaurant"
+  },
+  {
+   "name": "Restaurant AFTR - Ljubljana Slovenia",
+   "cuisine": null,
+   "type": "restaurant"
+  },
+  {
+   "name": "Restaurant RAU - Grossraming Austria",
    "cuisine": null,
    "type": "restaurant"
   },
@@ -113,14 +194,20 @@
    "name": "Thari Over Water Bar",
    "cuisine": null,
    "type": "bar"
+  },
+  {
+   "name": "Hot and Cold Water, Mini Bar, Idd Telephone",
+   "cuisine": null,
+   "type": "bar"
   }
  ],
  "meal_plans": [
-  "AI"
+  "AI",
+  "BB"
  ],
- "all_inclusive_details": "all inclusive formula allows our guests to enjoy every second of their holiday in total relaxation.",
+ "all_inclusive_details": "all inclusive services, culinary journeys and exclusive features.",
  "spa": {
-  "name": "Facilities\nSerena Spa",
+  "name": "Mvua Spa",
   "treatment_rooms": null,
   "signature_treatments": [],
   "menu_doc": "https://d1vp8nomjxwyf1.cloudfront.net/wp-content/uploads/sites/109/2017/03/03070503/mc05-maldive.pdf"
@@ -129,38 +216,49 @@
   "operator": null,
   "house_reef": "house reef",
   "activities": [
-   "snorkelling",
-   "snorkeling",
-   "windsurfing",
-   "catamaran",
    "fishing",
+   "glass-bottom",
+   "snorkeling",
+   "snorkelling",
+   "windsurfing",
+   "whale shark",
+   "manta",
    "sailing",
    "canoe",
-   "whale shark",
-   "manta"
+   "scuba diving",
+   "kitesurfing",
+   "kayaking",
+   "stand-up paddle",
+   "paddleboard",
+   "sunset cruise",
+   "dolphin cruise",
+   "catamaran",
+   "water skiing"
   ],
   "price_list_doc": "https://d1vp8nomjxwyf1.cloudfront.net/wp-content/uploads/sites/110/2017/03/13084012/Society-Magazine-2017-Diamonds-Resorts-5-2.pdf"
  },
  "excursions": [
-  "big game fishing",
-  "cooking class",
+  "turtle",
   "dolphin",
   "whale shark",
   "manta",
-  "turtle",
   "picnic",
   "stargazing",
-  "castaway"
+  "castaway",
+  "cooking class",
+  "big game fishing",
+  "sandbank"
  ],
  "kids_family": {
-  "kids_club": "Seaplane\nKids Club",
+  "kids_club": "Teens Club",
   "age_range": null,
-  "teens": null
+  "teens": "teens programme mentioned"
  },
  "wellness_fitness": [
   "yoga",
   "gym",
   "tennis",
+  "beach volleyball",
   "pilates",
   "ayurveda"
  ],
@@ -172,22 +270,25 @@
   "brochure_doc": null
  },
  "events_mice": {
-  "venues": [],
-  "capacity_max": null,
+  "venues": [
+   "BOARDROOM 30 pax in Kikakoni Hall"
+  ],
+  "capacity_max": 600,
   "buyout": null,
   "doc": null
  },
  "sustainability": [
+  "plastic-free",
   "marine biologist",
-  "plastic-free"
+  "Travelife"
  ],
  "contacts_public": {
-  "reservations_email": "info@neoscapesmaldives.com",
+  "reservations_email": "reservations@planhotel.com",
   "weddings_email": null,
   "phone": "+960 736 5425"
  },
  "documents_latest": {
-  "factsheet": "https://neoscapesmaldives.com/wp-content/uploads/Diamonds-Athuruga-Fact-Sheet-2019.pdf",
+  "factsheet": "https://d1vp8nomjxwyf1.cloudfront.net/wp-content/uploads/sites/544/2022/10/27105422/Diamonds-Leisure-Beach-Golf-Resort-Fact-Sheet-2026.pdf",
   "map": "https://www.neoscapesmaldives.com/wp-content/uploads/Diamonds-Athuruga_map.pdf",
   "wedding": null,
   "spa_menu": "https://d1vp8nomjxwyf1.cloudfront.net/wp-content/uploads/sites/109/2017/03/03070503/mc05-maldive.pdf",
@@ -196,384 +297,83 @@
   "events": null,
   "calendar": null
  },
- "documents_count": 11,
+ "documents_count": 14,
  "gaps": [
   "wedding brochure",
   "events/MICE document",
-  "fact: villas.total",
   "fact: dive operator"
  ],
  "sources": {
-  "atoll": [
+  "villas.categories": [
    {
-    "value": "Ari Atoll",
-    "source_url": "https://neoscapesmaldives.com/wp-content/uploads/Diamonds-Athuruga-Fact-Sheet-2019.pdf",
-    "as_of": 2019
+    "value": {
+     "name": "Junior Suite",
+     "count": 46,
+     "size_sqm": 51,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://d1vp8nomjxwyf1.cloudfront.net/wp-content/uploads/sites/544/2022/10/27105422/Diamonds-Leisure-Beach-Golf-Resort-Fact-Sheet-2026.pdf",
+    "as_of": 2026
    },
    {
-    "value": "Ari Atoll",
-    "source_url": "https://d1vp8nomjxwyf1.cloudfront.net/wp-content/uploads/sites/110/2017/03/13084012/Society-Magazine-2017-Diamonds-Resorts-5-2.pdf",
-    "as_of": 2017
+    "value": {
+     "name": "Oasis Villas",
+     "count": null,
+     "size_sqm": 60,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://d1vp8nomjxwyf1.cloudfront.net/wp-content/uploads/sites/544/2022/10/27105422/Diamonds-Leisure-Beach-Golf-Resort-Fact-Sheet-2026.pdf",
+    "as_of": 2026
    },
    {
-    "value": "Ari Atoll",
-    "source_url": "https://www.neoscapesmaldives.com/resort/diamonds-athuruga-villas/",
-    "as_of": "2026-10-04"
-   }
-  ],
-  "transfer.modes": [
-   {
-    "value": "seaplane",
-    "source_url": "https://neoscapesmaldives.com/wp-content/uploads/Diamonds-Athuruga-Fact-Sheet-2019.pdf",
-    "as_of": 2019
+    "value": {
+     "name": "bedroom Suites",
+     "count": 2,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://d1vp8nomjxwyf1.cloudfront.net/wp-content/uploads/sites/544/2022/10/27105422/Diamonds-Leisure-Beach-Golf-Resort-Fact-Sheet-2026.pdf",
+    "as_of": 2026
    },
    {
-    "value": "seaplane",
-    "source_url": "https://d1vp8nomjxwyf1.cloudfront.net/wp-content/uploads/sites/110/2017/03/13084012/Society-Magazine-2017-Diamonds-Resorts-5-2.pdf",
-    "as_of": 2017
+    "value": {
+     "name": "Two-Bedroom Garden/Pool View Suite",
+     "count": null,
+     "size_sqm": 103,
+     "max_occupancy": null,
+     "pool": true,
+     "overwater": null
+    },
+    "source_url": "https://d1vp8nomjxwyf1.cloudfront.net/wp-content/uploads/sites/544/2022/10/27105422/Diamonds-Leisure-Beach-Golf-Resort-Fact-Sheet-2026.pdf",
+    "as_of": 2026
    },
    {
-    "value": "seaplane",
-    "source_url": "https://www.neoscapesmaldives.com/resort/diamonds-athuruga-villas/",
-    "as_of": "2026-10-04"
-   }
-  ],
-  "transfer.minutes.seaplane": [
-   {
-    "value": 25,
-    "source_url": "https://neoscapesmaldives.com/wp-content/uploads/Diamonds-Athuruga-Fact-Sheet-2019.pdf",
-    "as_of": 2019
+    "value": {
+     "name": "Two-Bedroom Ocean View Suites",
+     "count": null,
+     "size_sqm": 74,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": true
+    },
+    "source_url": "https://d1vp8nomjxwyf1.cloudfront.net/wp-content/uploads/sites/544/2022/10/27105422/Diamonds-Leisure-Beach-Golf-Resort-Fact-Sheet-2026.pdf",
+    "as_of": 2026
    },
    {
-    "value": 20,
-    "source_url": "https://www.neoscapesmaldives.com/resort/diamonds-athuruga-villas/",
-    "as_of": "2026-10-04"
-   }
-  ],
-  "meal_plans": [
-   {
-    "value": "AI",
-    "source_url": "https://neoscapesmaldives.com/wp-content/uploads/Diamonds-Athuruga-Fact-Sheet-2019.pdf",
-    "as_of": 2019
-   },
-   {
-    "value": "AI",
-    "source_url": "https://d1vp8nomjxwyf1.cloudfront.net/wp-content/uploads/sites/110/2017/03/13084012/Society-Magazine-2017-Diamonds-Resorts-5-2.pdf",
-    "as_of": 2017
-   },
-   {
-    "value": "AI",
-    "source_url": "https://d1vp8nomjxwyf1.cloudfront.net/wp-content/uploads/sites/110/2017/03/27134941/VANITYFAIR.pdf",
-    "as_of": 2019
-   },
-   {
-    "value": "AI",
-    "source_url": "https://www.neoscapesmaldives.com/resort/diamonds-athuruga-villas/",
-    "as_of": "2026-10-04"
-   }
-  ],
-  "all_inclusive_details": [
-   {
-    "value": "all inclusive) followed by sunshine.",
-    "source_url": "https://neoscapesmaldives.com/wp-content/uploads/Diamonds-Athuruga-Fact-Sheet-2019.pdf",
-    "as_of": 2019
-   },
-   {
-    "value": "all-inclusive stays.",
-    "source_url": "https://d1vp8nomjxwyf1.cloudfront.net/wp-content/uploads/sites/110/2017/03/13084012/Society-Magazine-2017-Diamonds-Resorts-5-2.pdf",
-    "as_of": 2017
-   },
-   {
-    "value": "all inclusive.",
-    "source_url": "https://d1vp8nomjxwyf1.cloudfront.net/wp-content/uploads/sites/110/2017/03/27134941/VANITYFAIR.pdf",
-    "as_of": 2019
-   },
-   {
-    "value": "all inclusive formula allows our guests to enjoy every second of their holiday in total relaxation.",
-    "source_url": "https://www.neoscapesmaldives.com/resort/diamonds-athuruga-villas/",
-    "as_of": "2026-10-04"
-   }
-  ],
-  "diving_watersports.house_reef": [
-   {
-    "value": "house reef",
-    "source_url": "https://neoscapesmaldives.com/wp-content/uploads/Diamonds-Athuruga-Fact-Sheet-2019.pdf",
-    "as_of": 2019
-   },
-   {
-    "value": "house reef or sunset",
-    "source_url": "https://d1vp8nomjxwyf1.cloudfront.net/wp-content/uploads/sites/110/2017/03/13084012/Society-Magazine-2017-Diamonds-Resorts-5-2.pdf",
-    "as_of": 2017
-   }
-  ],
-  "diving_watersports.activities": [
-   {
-    "value": "snorkelling",
-    "source_url": "https://neoscapesmaldives.com/wp-content/uploads/Diamonds-Athuruga-Fact-Sheet-2019.pdf",
-    "as_of": 2019
-   },
-   {
-    "value": "snorkeling",
-    "source_url": "https://neoscapesmaldives.com/wp-content/uploads/Diamonds-Athuruga-Fact-Sheet-2019.pdf",
-    "as_of": 2019
-   },
-   {
-    "value": "windsurfing",
-    "source_url": "https://neoscapesmaldives.com/wp-content/uploads/Diamonds-Athuruga-Fact-Sheet-2019.pdf",
-    "as_of": 2019
-   },
-   {
-    "value": "catamaran",
-    "source_url": "https://neoscapesmaldives.com/wp-content/uploads/Diamonds-Athuruga-Fact-Sheet-2019.pdf",
-    "as_of": 2019
-   },
-   {
-    "value": "fishing",
-    "source_url": "https://neoscapesmaldives.com/wp-content/uploads/Diamonds-Athuruga-Fact-Sheet-2019.pdf",
-    "as_of": 2019
-   },
-   {
-    "value": "sailing",
-    "source_url": "https://neoscapesmaldives.com/wp-content/uploads/Diamonds-Athuruga-Fact-Sheet-2019.pdf",
-    "as_of": 2019
-   },
-   {
-    "value": "canoe",
-    "source_url": "https://neoscapesmaldives.com/wp-content/uploads/Diamonds-Athuruga-Fact-Sheet-2019.pdf",
-    "as_of": 2019
-   },
-   {
-    "value": "snorkeling",
-    "source_url": "https://d1vp8nomjxwyf1.cloudfront.net/wp-content/uploads/sites/109/2017/03/03070503/mc05-maldive.pdf",
-    "as_of": 2018
-   },
-   {
-    "value": "snorkelling",
-    "source_url": "https://d1vp8nomjxwyf1.cloudfront.net/wp-content/uploads/sites/110/2017/03/13084012/Society-Magazine-2017-Diamonds-Resorts-5-2.pdf",
-    "as_of": 2017
-   },
-   {
-    "value": "windsurfing",
-    "source_url": "https://d1vp8nomjxwyf1.cloudfront.net/wp-content/uploads/sites/110/2017/03/13084012/Society-Magazine-2017-Diamonds-Resorts-5-2.pdf",
-    "as_of": 2017
-   },
-   {
-    "value": "fishing",
-    "source_url": "https://d1vp8nomjxwyf1.cloudfront.net/wp-content/uploads/sites/110/2017/03/13084012/Society-Magazine-2017-Diamonds-Resorts-5-2.pdf",
-    "as_of": 2017
-   },
-   {
-    "value": "whale shark",
-    "source_url": "https://d1vp8nomjxwyf1.cloudfront.net/wp-content/uploads/sites/110/2017/03/13084012/Society-Magazine-2017-Diamonds-Resorts-5-2.pdf",
-    "as_of": 2017
-   },
-   {
-    "value": "manta",
-    "source_url": "https://d1vp8nomjxwyf1.cloudfront.net/wp-content/uploads/sites/110/2017/03/13084012/Society-Magazine-2017-Diamonds-Resorts-5-2.pdf",
-    "as_of": 2017
-   },
-   {
-    "value": "sailing",
-    "source_url": "https://d1vp8nomjxwyf1.cloudfront.net/wp-content/uploads/sites/110/2017/03/13084012/Society-Magazine-2017-Diamonds-Resorts-5-2.pdf",
-    "as_of": 2017
-   },
-   {
-    "value": "canoe",
-    "source_url": "https://d1vp8nomjxwyf1.cloudfront.net/wp-content/uploads/sites/110/2017/03/13084012/Society-Magazine-2017-Diamonds-Resorts-5-2.pdf",
-    "as_of": 2017
-   },
-   {
-    "value": "snorkelling",
-    "source_url": "https://www.neoscapesmaldives.com/resort/diamonds-athuruga-villas/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": "snorkeling",
-    "source_url": "https://www.neoscapesmaldives.com/resort/diamonds-athuruga-villas/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": "windsurfing",
-    "source_url": "https://www.neoscapesmaldives.com/resort/diamonds-athuruga-villas/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": "fishing",
-    "source_url": "https://www.neoscapesmaldives.com/resort/diamonds-athuruga-villas/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": "canoe",
-    "source_url": "https://www.neoscapesmaldives.com/resort/diamonds-athuruga-villas/",
-    "as_of": "2026-10-04"
-   }
-  ],
-  "excursions": [
-   {
-    "value": "big game fishing",
-    "source_url": "https://neoscapesmaldives.com/wp-content/uploads/Diamonds-Athuruga-Fact-Sheet-2019.pdf",
-    "as_of": 2019
-   },
-   {
-    "value": "cooking class",
-    "source_url": "https://neoscapesmaldives.com/wp-content/uploads/Diamonds-Athuruga-Fact-Sheet-2019.pdf",
-    "as_of": 2019
-   },
-   {
-    "value": "dolphin",
-    "source_url": "https://d1vp8nomjxwyf1.cloudfront.net/wp-content/uploads/sites/110/2017/03/13084012/Society-Magazine-2017-Diamonds-Resorts-5-2.pdf",
-    "as_of": 2017
-   },
-   {
-    "value": "whale shark",
-    "source_url": "https://d1vp8nomjxwyf1.cloudfront.net/wp-content/uploads/sites/110/2017/03/13084012/Society-Magazine-2017-Diamonds-Resorts-5-2.pdf",
-    "as_of": 2017
-   },
-   {
-    "value": "manta",
-    "source_url": "https://d1vp8nomjxwyf1.cloudfront.net/wp-content/uploads/sites/110/2017/03/13084012/Society-Magazine-2017-Diamonds-Resorts-5-2.pdf",
-    "as_of": 2017
-   },
-   {
-    "value": "turtle",
-    "source_url": "https://d1vp8nomjxwyf1.cloudfront.net/wp-content/uploads/sites/110/2017/03/13084012/Society-Magazine-2017-Diamonds-Resorts-5-2.pdf",
-    "as_of": 2017
-   },
-   {
-    "value": "picnic",
-    "source_url": "https://d1vp8nomjxwyf1.cloudfront.net/wp-content/uploads/sites/110/2017/03/13084012/Society-Magazine-2017-Diamonds-Resorts-5-2.pdf",
-    "as_of": 2017
-   },
-   {
-    "value": "stargazing",
-    "source_url": "https://d1vp8nomjxwyf1.cloudfront.net/wp-content/uploads/sites/110/2017/03/13084012/Society-Magazine-2017-Diamonds-Resorts-5-2.pdf",
-    "as_of": 2017
-   },
-   {
-    "value": "castaway",
-    "source_url": "https://d1vp8nomjxwyf1.cloudfront.net/wp-content/uploads/sites/110/2017/03/13084012/Society-Magazine-2017-Diamonds-Resorts-5-2.pdf",
-    "as_of": 2017
-   },
-   {
-    "value": "cooking class",
-    "source_url": "https://d1vp8nomjxwyf1.cloudfront.net/wp-content/uploads/sites/110/2017/03/13084012/Society-Magazine-2017-Diamonds-Resorts-5-2.pdf",
-    "as_of": 2017
-   }
-  ],
-  "wellness_fitness": [
-   {
-    "value": "yoga",
-    "source_url": "https://neoscapesmaldives.com/wp-content/uploads/Diamonds-Athuruga-Fact-Sheet-2019.pdf",
-    "as_of": 2019
-   },
-   {
-    "value": "gym",
-    "source_url": "https://neoscapesmaldives.com/wp-content/uploads/Diamonds-Athuruga-Fact-Sheet-2019.pdf",
-    "as_of": 2019
-   },
-   {
-    "value": "tennis",
-    "source_url": "https://neoscapesmaldives.com/wp-content/uploads/Diamonds-Athuruga-Fact-Sheet-2019.pdf",
-    "as_of": 2019
-   },
-   {
-    "value": "pilates",
-    "source_url": "https://neoscapesmaldives.com/wp-content/uploads/Diamonds-Athuruga-Fact-Sheet-2019.pdf",
-    "as_of": 2019
-   },
-   {
-    "value": "yoga",
-    "source_url": "https://d1vp8nomjxwyf1.cloudfront.net/wp-content/uploads/sites/110/2017/03/13084012/Society-Magazine-2017-Diamonds-Resorts-5-2.pdf",
-    "as_of": 2017
-   },
-   {
-    "value": "gym",
-    "source_url": "https://d1vp8nomjxwyf1.cloudfront.net/wp-content/uploads/sites/110/2017/03/13084012/Society-Magazine-2017-Diamonds-Resorts-5-2.pdf",
-    "as_of": 2017
-   },
-   {
-    "value": "pilates",
-    "source_url": "https://d1vp8nomjxwyf1.cloudfront.net/wp-content/uploads/sites/110/2017/03/13084012/Society-Magazine-2017-Diamonds-Resorts-5-2.pdf",
-    "as_of": 2017
-   },
-   {
-    "value": "yoga",
-    "source_url": "https://www.neoscapesmaldives.com/resort/diamonds-athuruga-villas/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": "gym",
-    "source_url": "https://www.neoscapesmaldives.com/resort/diamonds-athuruga-villas/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": "tennis",
-    "source_url": "https://www.neoscapesmaldives.com/resort/diamonds-athuruga-villas/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": "pilates",
-    "source_url": "https://www.neoscapesmaldives.com/resort/diamonds-athuruga-villas/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": "ayurveda",
-    "source_url": "https://www.neoscapesmaldives.com/resort/diamonds-athuruga-villas/",
-    "as_of": "2026-10-04"
-   }
-  ],
-  "sustainability": [
-   {
-    "value": "marine biologist",
-    "source_url": "https://neoscapesmaldives.com/wp-content/uploads/Diamonds-Athuruga-Fact-Sheet-2019.pdf",
-    "as_of": 2019
-   },
-   {
-    "value": "plastic-free",
-    "source_url": "https://d1vp8nomjxwyf1.cloudfront.net/wp-content/uploads/sites/109/2017/03/03070503/mc05-maldive.pdf",
-    "as_of": 2018
-   },
-   {
-    "value": "marine biologist",
-    "source_url": "https://www.neoscapesmaldives.com/resort/diamonds-athuruga-villas/",
-    "as_of": "2026-10-04"
-   }
-  ],
-  "contacts_public.reservations_email": [
-   {
-    "value": "info.athuruga@diamonds-resorts.com",
-    "source_url": "https://neoscapesmaldives.com/wp-content/uploads/Diamonds-Athuruga-Fact-Sheet-2019.pdf",
-    "as_of": 2019
-   },
-   {
-    "value": "info.athuruga@diamonds-resorts.com",
-    "source_url": "https://d1vp8nomjxwyf1.cloudfront.net/wp-content/uploads/sites/110/2017/03/13084012/Society-Magazine-2017-Diamonds-Resorts-5-2.pdf",
-    "as_of": 2017
-   },
-   {
-    "value": "info.thudufushi@diamonds-resorts.com",
-    "source_url": "https://d1vp8nomjxwyf1.cloudfront.net/wp-content/uploads/sites/110/2017/03/13084012/Society-Magazine-2017-Diamonds-Resorts-5-2.pdf",
-    "as_of": 2017
-   },
-   {
-    "value": "info@neoscapesmaldives.com",
-    "source_url": "https://www.neoscapesmaldives.com/resort/diamonds-athuruga-villas/",
-    "as_of": "2026-10-04"
-   }
-  ],
-  "contacts_public.phone": [
-   {
-    "value": "+960 6680508",
-    "source_url": "https://neoscapesmaldives.com/wp-content/uploads/Diamonds-Athuruga-Fact-Sheet-2019.pdf",
-    "as_of": 2019
-   },
-   {
-    "value": "+960 6680508",
-    "source_url": "https://d1vp8nomjxwyf1.cloudfront.net/wp-content/uploads/sites/110/2017/03/13084012/Society-Magazine-2017-Diamonds-Resorts-5-2.pdf",
-    "as_of": 2017
-   },
-   {
-    "value": "+960 736 5425",
+    "value": {
+     "name": "Villas",
+     "count": 70,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
     "source_url": "https://www.neoscapesmaldives.com/resort/diamonds-athuruga-villas/",
     "as_of": "2026-10-04"
    }
@@ -581,102 +381,183 @@
   "dining": [
    {
     "value": {
-     "name": "Dining with the Stars,",
+     "name": "Diani Restaurant",
      "cuisine": null,
      "type": "restaurant"
     },
-    "source_url": "https://d1vp8nomjxwyf1.cloudfront.net/wp-content/uploads/sites/109/2017/03/03070503/mc05-maldive.pdf",
-    "as_of": 2018
+    "source_url": "https://d1vp8nomjxwyf1.cloudfront.net/wp-content/uploads/sites/544/2022/10/27105422/Diamonds-Leisure-Beach-Golf-Resort-Fact-Sheet-2026.pdf",
+    "as_of": 2026
    },
    {
     "value": {
-     "name": "Resorts coccolano i sensi della clientela, Dining",
+     "name": "Bustani Garden Restaurant",
      "cuisine": null,
      "type": "restaurant"
     },
-    "source_url": "https://d1vp8nomjxwyf1.cloudfront.net/wp-content/uploads/sites/109/2017/03/03070503/mc05-maldive.pdf",
-    "as_of": 2018
+    "source_url": "https://d1vp8nomjxwyf1.cloudfront.net/wp-content/uploads/sites/544/2022/10/27105422/Diamonds-Leisure-Beach-Golf-Resort-Fact-Sheet-2026.pdf",
+    "as_of": 2026
    },
    {
     "value": {
-     "name": "protagonisti di Dining",
+     "name": "Baraza Steakhouse",
      "cuisine": null,
      "type": "restaurant"
     },
-    "source_url": "https://d1vp8nomjxwyf1.cloudfront.net/wp-content/uploads/sites/109/2017/03/03070503/mc05-maldive.pdf",
-    "as_of": 2018
+    "source_url": "https://d1vp8nomjxwyf1.cloudfront.net/wp-content/uploads/sites/544/2022/10/27105422/Diamonds-Leisure-Beach-Golf-Resort-Fact-Sheet-2026.pdf",
+    "as_of": 2026
    },
    {
     "value": {
-     "name": "Dining",
+     "name": "Frangipane Pizzeria",
      "cuisine": null,
      "type": "restaurant"
     },
-    "source_url": "https://d1vp8nomjxwyf1.cloudfront.net/wp-content/uploads/sites/109/2017/03/29131429/Diamonds-Resorts_Gastronomie-e-Turisme_MarchApril-2019.pdf",
-    "as_of": 2019
+    "source_url": "https://d1vp8nomjxwyf1.cloudfront.net/wp-content/uploads/sites/544/2022/10/27105422/Diamonds-Leisure-Beach-Golf-Resort-Fact-Sheet-2026.pdf",
+    "as_of": 2026
    },
    {
     "value": {
-     "name": "le Festival «Dining with the aura aussi quelques étapes ex",
+     "name": "Golf Pub Restaurant",
      "cuisine": null,
      "type": "restaurant"
     },
-    "source_url": "https://d1vp8nomjxwyf1.cloudfront.net/wp-content/uploads/sites/109/2017/03/29131429/Diamonds-Resorts_Gastronomie-e-Turisme_MarchApril-2019.pdf",
-    "as_of": 2019
+    "source_url": "https://d1vp8nomjxwyf1.cloudfront.net/wp-content/uploads/sites/544/2022/10/27105422/Diamonds-Leisure-Beach-Golf-Resort-Fact-Sheet-2026.pdf",
+    "as_of": 2026
    },
    {
     "value": {
-     "name": "Dining",
+     "name": "Bahari Bar",
      "cuisine": null,
-     "type": "restaurant"
+     "type": "bar"
     },
-    "source_url": "https://d1vp8nomjxwyf1.cloudfront.net/wp-content/uploads/sites/109/2017/03/29131429/Diamonds-Resorts_Gastronomie-e-Turisme_MarchApril-2019.pdf",
-    "as_of": 2019
+    "source_url": "https://d1vp8nomjxwyf1.cloudfront.net/wp-content/uploads/sites/544/2022/10/27105422/Diamonds-Leisure-Beach-Golf-Resort-Fact-Sheet-2026.pdf",
+    "as_of": 2026
    },
    {
     "value": {
-     "name": "tival «Dining with the",
+     "name": "Coral Beach Bar",
      "cuisine": null,
-     "type": "restaurant"
+     "type": "bar"
     },
-    "source_url": "https://d1vp8nomjxwyf1.cloudfront.net/wp-content/uploads/sites/109/2017/03/29131429/Diamonds-Resorts_Gastronomie-e-Turisme_MarchApril-2019.pdf",
-    "as_of": 2019
+    "source_url": "https://d1vp8nomjxwyf1.cloudfront.net/wp-content/uploads/sites/544/2022/10/27105422/Diamonds-Leisure-Beach-Golf-Resort-Fact-Sheet-2026.pdf",
+    "as_of": 2026
    },
    {
     "value": {
-     "name": "in ein Ferienparadies reisen, «Dining with the Stars» ist",
+     "name": "Mnazi Bar",
      "cuisine": null,
-     "type": "restaurant"
+     "type": "bar"
     },
-    "source_url": "https://d1vp8nomjxwyf1.cloudfront.net/wp-content/uploads/sites/109/2017/03/29131429/Diamonds-Resorts_Gastronomie-e-Turisme_MarchApril-2019.pdf",
-    "as_of": 2019
+    "source_url": "https://d1vp8nomjxwyf1.cloudfront.net/wp-content/uploads/sites/544/2022/10/27105422/Diamonds-Leisure-Beach-Golf-Resort-Fact-Sheet-2026.pdf",
+    "as_of": 2026
    },
    {
     "value": {
-     "name": "amondsresorts.com/Dining-With-the",
+     "name": "Maweni Bar",
      "cuisine": null,
-     "type": "restaurant"
+     "type": "bar"
     },
-    "source_url": "https://d1vp8nomjxwyf1.cloudfront.net/wp-content/uploads/sites/110/2017/03/13084012/Society-Magazine-2017-Diamonds-Resorts-5-2.pdf",
-    "as_of": 2017
+    "source_url": "https://d1vp8nomjxwyf1.cloudfront.net/wp-content/uploads/sites/544/2022/10/27105422/Diamonds-Leisure-Beach-Golf-Resort-Fact-Sheet-2026.pdf",
+    "as_of": 2026
    },
    {
     "value": {
-     "name": "Dining",
+     "name": "Baobab Swim-Up Bar",
      "cuisine": null,
-     "type": "restaurant"
+     "type": "bar"
     },
-    "source_url": "https://www.neoscapesmaldives.com/resort/diamonds-athuruga-villas/",
-    "as_of": "2026-10-04"
+    "source_url": "https://d1vp8nomjxwyf1.cloudfront.net/wp-content/uploads/sites/544/2022/10/27105422/Diamonds-Leisure-Beach-Golf-Resort-Fact-Sheet-2026.pdf",
+    "as_of": 2026
    },
    {
     "value": {
-     "name": "Dining",
+     "name": "Vilindi Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://d1vp8nomjxwyf1.cloudfront.net/wp-content/uploads/sites/544/2022/10/27105422/Diamonds-Leisure-Beach-Golf-Resort-Fact-Sheet-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": {
+     "name": "Hell’s Kitchen – Marafa Kanyon",
      "cuisine": null,
      "type": "restaurant"
     },
-    "source_url": "https://www.neoscapesmaldives.com/resort/diamonds-athuruga-villas/",
-    "as_of": "2026-10-04"
+    "source_url": "https://www.diamondsresorts.com/travel-guide/kenya/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": {
+     "name": "Teppanyaki dinner experience",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.diamondsresorts.com/special-offers/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": {
+     "name": "Teppanyaki dinner experience",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.diamondsresorts.com/special-offers/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": {
+     "name": "Restaurant L`Hysope - Le Jarrie France",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.diamondsresorts.com/local-proposals/local-events/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": {
+     "name": "Restaurant AFTR - Ljubljana Slovenia",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.diamondsresorts.com/local-proposals/local-events/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": {
+     "name": "Restaurant RAU - Grossraming Austria",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.diamondsresorts.com/local-proposals/local-events/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": {
+     "name": "Restaurant L`Hysope - Le Jarrie France",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.diamondsresorts.com/travel-guide/maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": {
+     "name": "Restaurant AFTR - Ljubljana Slovenia",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.diamondsresorts.com/travel-guide/maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": {
+     "name": "Restaurant RAU - Grossraming Austria",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.diamondsresorts.com/travel-guide/maldives/",
+    "as_of": "2026-10-05"
    },
    {
     "value": {
@@ -740,32 +621,1236 @@
     },
     "source_url": "https://www.neoscapesmaldives.com/resort/diamonds-athuruga-villas/",
     "as_of": "2026-10-04"
-   }
-  ],
-  "villas.categories": [
+   },
    {
     "value": {
-     "name": "Villas",
-     "count": 70,
-     "size_sqm": null,
-     "max_occupancy": null,
-     "pool": null,
-     "overwater": null
+     "name": "Hot and Cold Water, Mini Bar, Idd Telephone",
+     "cuisine": null,
+     "type": "bar"
     },
-    "source_url": "https://www.neoscapesmaldives.com/resort/diamonds-athuruga-villas/",
+    "source_url": "https://www.mymaldives.com/resort-guide/diamonds-athuruga-beach-water-villas/",
     "as_of": "2026-10-04"
    }
   ],
-  "spa.name": [
+  "diving_watersports.activities": [
    {
-    "value": "Facilities\nSerena Spa",
+    "value": "fishing",
+    "source_url": "https://d1vp8nomjxwyf1.cloudfront.net/wp-content/uploads/sites/544/2022/10/27105422/Diamonds-Leisure-Beach-Golf-Resort-Fact-Sheet-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "glass-bottom",
+    "source_url": "https://d1vp8nomjxwyf1.cloudfront.net/wp-content/uploads/sites/544/2022/10/27105422/Diamonds-Leisure-Beach-Golf-Resort-Fact-Sheet-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://d1vp8nomjxwyf1.cloudfront.net/wp-content/uploads/sites/109/2017/03/03070503/mc05-maldive.pdf",
+    "as_of": 2018
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://d1vp8nomjxwyf1.cloudfront.net/wp-content/uploads/sites/110/2017/03/13084012/Society-Magazine-2017-Diamonds-Resorts-5-2.pdf",
+    "as_of": 2017
+   },
+   {
+    "value": "windsurfing",
+    "source_url": "https://d1vp8nomjxwyf1.cloudfront.net/wp-content/uploads/sites/110/2017/03/13084012/Society-Magazine-2017-Diamonds-Resorts-5-2.pdf",
+    "as_of": 2017
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://d1vp8nomjxwyf1.cloudfront.net/wp-content/uploads/sites/110/2017/03/13084012/Society-Magazine-2017-Diamonds-Resorts-5-2.pdf",
+    "as_of": 2017
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://d1vp8nomjxwyf1.cloudfront.net/wp-content/uploads/sites/110/2017/03/13084012/Society-Magazine-2017-Diamonds-Resorts-5-2.pdf",
+    "as_of": 2017
+   },
+   {
+    "value": "manta",
+    "source_url": "https://d1vp8nomjxwyf1.cloudfront.net/wp-content/uploads/sites/110/2017/03/13084012/Society-Magazine-2017-Diamonds-Resorts-5-2.pdf",
+    "as_of": 2017
+   },
+   {
+    "value": "sailing",
+    "source_url": "https://d1vp8nomjxwyf1.cloudfront.net/wp-content/uploads/sites/110/2017/03/13084012/Society-Magazine-2017-Diamonds-Resorts-5-2.pdf",
+    "as_of": 2017
+   },
+   {
+    "value": "canoe",
+    "source_url": "https://d1vp8nomjxwyf1.cloudfront.net/wp-content/uploads/sites/110/2017/03/13084012/Society-Magazine-2017-Diamonds-Resorts-5-2.pdf",
+    "as_of": 2017
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.diamondsresorts.com/travel-guide/zanzibar/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.diamondsresorts.com/travel-guide/zanzibar/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "canoe",
+    "source_url": "https://www.diamondsresorts.com/travel-guide/zanzibar/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.diamondsresorts.com/places/fishing-villages/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.diamondsresorts.com/it/offerte-speciali/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.diamondsresorts.com/travel-guide/kenya/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://www.diamondsresorts.com/customize-your-holiday/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://www.diamondsresorts.com/customization/discover-scuba-diving/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.diamondsresorts.com/special-offers/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://www.diamondsresorts.com/special-offers/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "kitesurfing",
+    "source_url": "https://www.diamondsresorts.com/special-offers/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "kayaking",
+    "source_url": "https://www.diamondsresorts.com/special-offers/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "stand-up paddle",
+    "source_url": "https://www.diamondsresorts.com/special-offers/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "paddleboard",
+    "source_url": "https://www.diamondsresorts.com/special-offers/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.diamondsresorts.com/special-offers/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "dolphin cruise",
+    "source_url": "https://www.diamondsresorts.com/special-offers/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.diamondsresorts.com/partners/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://www.diamondsresorts.com/faq/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.diamondsresorts.com/places/prison-island/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.diamondsresorts.com/places/fishing/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.diamondsresorts.com/places/underwater-marine-life/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.diamondsresorts.com/places/underwater-marine-life/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.diamondsresorts.com/fr/guide-de-voyage/mozambique/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.diamondsresorts.com/travel-guide/maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.diamondsresorts.com/travel-guide/maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.diamondsresorts.com/travel-guide/maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.diamondsresorts.com/it/places/prison-island/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.diamondsresorts.com/fr/places/prison-island/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "snorkelling",
     "source_url": "https://www.neoscapesmaldives.com/resort/diamonds-athuruga-villas/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.neoscapesmaldives.com/resort/diamonds-athuruga-villas/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "windsurfing",
+    "source_url": "https://www.neoscapesmaldives.com/resort/diamonds-athuruga-villas/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.neoscapesmaldives.com/resort/diamonds-athuruga-villas/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "canoe",
+    "source_url": "https://www.neoscapesmaldives.com/resort/diamonds-athuruga-villas/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://www.mymaldives.com/resort-guide/diamonds-athuruga-beach-water-villas/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "windsurfing",
+    "source_url": "https://www.mymaldives.com/resort-guide/diamonds-athuruga-beach-water-villas/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "catamaran",
+    "source_url": "https://www.mymaldives.com/resort-guide/diamonds-athuruga-beach-water-villas/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "water skiing",
+    "source_url": "https://www.mymaldives.com/resort-guide/diamonds-athuruga-beach-water-villas/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.mymaldives.com/resort-guide/diamonds-athuruga-beach-water-villas/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sailing",
+    "source_url": "https://www.mymaldives.com/resort-guide/diamonds-athuruga-beach-water-villas/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "canoe",
+    "source_url": "https://www.mymaldives.com/resort-guide/diamonds-athuruga-beach-water-villas/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "excursions": [
+   {
+    "value": "turtle",
+    "source_url": "https://d1vp8nomjxwyf1.cloudfront.net/wp-content/uploads/sites/544/2022/10/27105422/Diamonds-Leisure-Beach-Golf-Resort-Fact-Sheet-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://d1vp8nomjxwyf1.cloudfront.net/wp-content/uploads/sites/110/2017/03/13084012/Society-Magazine-2017-Diamonds-Resorts-5-2.pdf",
+    "as_of": 2017
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://d1vp8nomjxwyf1.cloudfront.net/wp-content/uploads/sites/110/2017/03/13084012/Society-Magazine-2017-Diamonds-Resorts-5-2.pdf",
+    "as_of": 2017
+   },
+   {
+    "value": "manta",
+    "source_url": "https://d1vp8nomjxwyf1.cloudfront.net/wp-content/uploads/sites/110/2017/03/13084012/Society-Magazine-2017-Diamonds-Resorts-5-2.pdf",
+    "as_of": 2017
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://d1vp8nomjxwyf1.cloudfront.net/wp-content/uploads/sites/110/2017/03/13084012/Society-Magazine-2017-Diamonds-Resorts-5-2.pdf",
+    "as_of": 2017
+   },
+   {
+    "value": "picnic",
+    "source_url": "https://d1vp8nomjxwyf1.cloudfront.net/wp-content/uploads/sites/110/2017/03/13084012/Society-Magazine-2017-Diamonds-Resorts-5-2.pdf",
+    "as_of": 2017
+   },
+   {
+    "value": "stargazing",
+    "source_url": "https://d1vp8nomjxwyf1.cloudfront.net/wp-content/uploads/sites/110/2017/03/13084012/Society-Magazine-2017-Diamonds-Resorts-5-2.pdf",
+    "as_of": 2017
+   },
+   {
+    "value": "castaway",
+    "source_url": "https://d1vp8nomjxwyf1.cloudfront.net/wp-content/uploads/sites/110/2017/03/13084012/Society-Magazine-2017-Diamonds-Resorts-5-2.pdf",
+    "as_of": 2017
+   },
+   {
+    "value": "cooking class",
+    "source_url": "https://d1vp8nomjxwyf1.cloudfront.net/wp-content/uploads/sites/110/2017/03/13084012/Society-Magazine-2017-Diamonds-Resorts-5-2.pdf",
+    "as_of": 2017
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.diamondsresorts.com/travel-guide/zanzibar/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "big game fishing",
+    "source_url": "https://www.diamondsresorts.com/travel-guide/kenya/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.diamondsresorts.com/travel-guide/kenya/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.diamondsresorts.com/special-offers/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.diamondsresorts.com/special-offers/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.diamondsresorts.com/special-offers/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "picnic",
+    "source_url": "https://www.diamondsresorts.com/special-offers/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.diamondsresorts.com/places/fishing/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.diamondsresorts.com/places/underwater-marine-life/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.diamondsresorts.com/places/underwater-marine-life/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.diamondsresorts.com/places/underwater-marine-life/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.diamondsresorts.com/fr/guide-de-voyage/mozambique/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.diamondsresorts.com/travel-guide/maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.diamondsresorts.com/travel-guide/maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.diamondsresorts.com/travel-guide/maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.diamondsresorts.com/travel-guide/maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "big game fishing",
+    "source_url": "https://www.mymaldives.com/resort-guide/diamonds-athuruga-beach-water-villas/",
     "as_of": "2026-10-04"
    }
   ],
   "kids_family.kids_club": [
    {
+    "value": "Teens Club",
+    "source_url": "https://d1vp8nomjxwyf1.cloudfront.net/wp-content/uploads/sites/544/2022/10/27105422/Diamonds-Leisure-Beach-Golf-Resort-Fact-Sheet-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "Diamonds Kids Club",
+    "source_url": "https://www.diamondsresorts.com/special-offers/",
+    "as_of": "2026-10-05"
+   },
+   {
     "value": "Seaplane\nKids Club",
+    "source_url": "https://www.neoscapesmaldives.com/resort/diamonds-athuruga-villas/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "kids_family.teens": [
+   {
+    "value": "teens programme mentioned",
+    "source_url": "https://d1vp8nomjxwyf1.cloudfront.net/wp-content/uploads/sites/544/2022/10/27105422/Diamonds-Leisure-Beach-Golf-Resort-Fact-Sheet-2026.pdf",
+    "as_of": 2026
+   }
+  ],
+  "wellness_fitness": [
+   {
+    "value": "yoga",
+    "source_url": "https://d1vp8nomjxwyf1.cloudfront.net/wp-content/uploads/sites/544/2022/10/27105422/Diamonds-Leisure-Beach-Golf-Resort-Fact-Sheet-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "gym",
+    "source_url": "https://d1vp8nomjxwyf1.cloudfront.net/wp-content/uploads/sites/544/2022/10/27105422/Diamonds-Leisure-Beach-Golf-Resort-Fact-Sheet-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://d1vp8nomjxwyf1.cloudfront.net/wp-content/uploads/sites/544/2022/10/27105422/Diamonds-Leisure-Beach-Golf-Resort-Fact-Sheet-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "beach volleyball",
+    "source_url": "https://d1vp8nomjxwyf1.cloudfront.net/wp-content/uploads/sites/544/2022/10/27105422/Diamonds-Leisure-Beach-Golf-Resort-Fact-Sheet-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://d1vp8nomjxwyf1.cloudfront.net/wp-content/uploads/sites/110/2017/03/13084012/Society-Magazine-2017-Diamonds-Resorts-5-2.pdf",
+    "as_of": 2017
+   },
+   {
+    "value": "gym",
+    "source_url": "https://d1vp8nomjxwyf1.cloudfront.net/wp-content/uploads/sites/110/2017/03/13084012/Society-Magazine-2017-Diamonds-Resorts-5-2.pdf",
+    "as_of": 2017
+   },
+   {
+    "value": "pilates",
+    "source_url": "https://d1vp8nomjxwyf1.cloudfront.net/wp-content/uploads/sites/110/2017/03/13084012/Society-Magazine-2017-Diamonds-Resorts-5-2.pdf",
+    "as_of": 2017
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://www.diamondsresorts.com/de/faq/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://www.diamondsresorts.com/faq/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://www.diamondsresorts.com/fr/faq/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.neoscapesmaldives.com/resort/diamonds-athuruga-villas/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "gym",
+    "source_url": "https://www.neoscapesmaldives.com/resort/diamonds-athuruga-villas/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://www.neoscapesmaldives.com/resort/diamonds-athuruga-villas/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "pilates",
+    "source_url": "https://www.neoscapesmaldives.com/resort/diamonds-athuruga-villas/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "ayurveda",
+    "source_url": "https://www.neoscapesmaldives.com/resort/diamonds-athuruga-villas/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "events_mice.capacity_max": [
+   {
+    "value": 600,
+    "source_url": "https://d1vp8nomjxwyf1.cloudfront.net/wp-content/uploads/sites/544/2022/10/27105422/Diamonds-Leisure-Beach-Golf-Resort-Fact-Sheet-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": 40,
+    "source_url": "https://www.diamondsresorts.com/meeting-incentive/",
+    "as_of": "2026-10-05"
+   }
+  ],
+  "events_mice.venues": [
+   {
+    "value": "BOARDROOM 30 pax in Kikakoni Hall",
+    "source_url": "https://d1vp8nomjxwyf1.cloudfront.net/wp-content/uploads/sites/544/2022/10/27105422/Diamonds-Leisure-Beach-Golf-Resort-Fact-Sheet-2026.pdf",
+    "as_of": 2026
+   }
+  ],
+  "sustainability": [
+   {
+    "value": "plastic-free",
+    "source_url": "https://d1vp8nomjxwyf1.cloudfront.net/wp-content/uploads/sites/109/2017/03/03070503/mc05-maldive.pdf",
+    "as_of": 2018
+   },
+   {
+    "value": "marine biologist",
+    "source_url": "https://www.diamondsresorts.com/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Travelife",
+    "source_url": "https://www.diamondsresorts.com/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Travelife",
+    "source_url": "https://www.diamondsresorts.com/fr",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Travelife",
+    "source_url": "https://www.diamondsresorts.com/de",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Travelife",
+    "source_url": "https://www.diamondsresorts.com/fr/diamonds-hotels-resorts/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Travelife",
+    "source_url": "https://www.diamondsresorts.com/it",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "marine biologist",
+    "source_url": "https://www.diamondsresorts.com/special-offers/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Travelife",
+    "source_url": "https://www.diamondsresorts.com/it/diamonds-hotels-resorts/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Travelife",
+    "source_url": "https://www.diamondsresorts.com/de/diamonds-hotels-resorts/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "marine biologist",
+    "source_url": "https://www.diamondsresorts.com/partners/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "marine biologist",
+    "source_url": "https://www.diamondsresorts.com/travel-guide/maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Travelife",
+    "source_url": "https://www.diamondsresorts.com/de/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Travelife",
+    "source_url": "https://www.diamondsresorts.com/fr/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Travelife",
+    "source_url": "https://www.diamondsresorts.com/it/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "marine biologist",
+    "source_url": "https://www.diamondsresorts.com",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Travelife",
+    "source_url": "https://www.diamondsresorts.com",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Travelife",
+    "source_url": "https://www.diamondsresorts.com/fr/press-awards/page/2",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Travelife",
+    "source_url": "https://www.diamondsresorts.com/it/press-awards/page/2",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Travelife",
+    "source_url": "https://www.diamondsresorts.com/press-awards/page/2",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Travelife",
+    "source_url": "https://www.diamondsresorts.com/de/press-awards/page/2",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "marine biologist",
+    "source_url": "http://www.diamondsresorts.com/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Travelife",
+    "source_url": "http://www.diamondsresorts.com/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "marine biologist",
+    "source_url": "https://www.neoscapesmaldives.com/resort/diamonds-athuruga-villas/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "atoll": [
+   {
+    "value": "Ari Atoll",
+    "source_url": "https://d1vp8nomjxwyf1.cloudfront.net/wp-content/uploads/sites/110/2017/03/13084012/Society-Magazine-2017-Diamonds-Resorts-5-2.pdf",
+    "as_of": 2017
+   },
+   {
+    "value": "Dhaalu Atoll",
+    "source_url": "https://www.diamondsresorts.com/it/guida-di-viaggio/maldive/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Ari Atoll",
+    "source_url": "https://www.diamondsresorts.com/hotels/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Dhaalu Atoll",
+    "source_url": "https://www.diamondsresorts.com/fr/guide-de-voyage/maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Ari Atoll",
+    "source_url": "https://www.diamondsresorts.com/special-offers/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Ari Atoll",
+    "source_url": "https://www.diamondsresorts.com/de/reisefuehrer/malediven/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Dhaalu Atoll",
+    "source_url": "https://www.diamondsresorts.com/travel-guide/maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Ari Atoll",
+    "source_url": "https://www.neoscapesmaldives.com/resort/diamonds-athuruga-villas/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Alifu Dhaalu Atoll",
+    "source_url": "https://www.mymaldives.com/resort-guide/diamonds-athuruga-beach-water-villas/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "transfer.modes": [
+   {
+    "value": "seaplane",
+    "source_url": "https://d1vp8nomjxwyf1.cloudfront.net/wp-content/uploads/sites/110/2017/03/13084012/Society-Magazine-2017-Diamonds-Resorts-5-2.pdf",
+    "as_of": 2017
+   },
+   {
+    "value": "domestic flight",
+    "source_url": "https://www.diamondsresorts.com/travel-guide/zanzibar/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.diamondsresorts.com/it/offerte-speciali/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.diamondsresorts.com/customize-your-holiday/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.diamondsresorts.com/customization/seaplane-adult/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.diamondsresorts.com/special-offers/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.diamondsresorts.com/faq/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.diamondsresorts.com/customization/seaplane-children/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.diamondsresorts.com/travel-guide/maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.neoscapesmaldives.com/resort/diamonds-athuruga-villas/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "meal_plans": [
+   {
+    "value": "AI",
+    "source_url": "https://d1vp8nomjxwyf1.cloudfront.net/wp-content/uploads/sites/110/2017/03/13084012/Society-Magazine-2017-Diamonds-Resorts-5-2.pdf",
+    "as_of": 2017
+   },
+   {
+    "value": "AI",
+    "source_url": "https://d1vp8nomjxwyf1.cloudfront.net/wp-content/uploads/sites/110/2017/03/27134941/VANITYFAIR.pdf",
+    "as_of": 2019
+   },
+   {
+    "value": "AI",
+    "source_url": "https://www.diamondsresorts.com/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://www.diamondsresorts.com/fr",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://www.diamondsresorts.com/de",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://www.diamondsresorts.com/it/meeting-incentive/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://www.diamondsresorts.com/it/offerte-speciali/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://www.diamondsresorts.com/fr/press-awards/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://www.diamondsresorts.com/it/press-awards/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://www.diamondsresorts.com/it/impressum/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://www.diamondsresorts.com/brand/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://www.diamondsresorts.com/fr/diamonds-hotels-resorts/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://www.diamondsresorts.com/fr/map-du-site/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://www.diamondsresorts.com/fr/impressum/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://www.diamondsresorts.com/company/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://www.diamondsresorts.com/it",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "BB",
+    "source_url": "https://www.diamondsresorts.com/special-offers/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://www.diamondsresorts.com/special-offers/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://www.diamondsresorts.com/it/diamonds-hotels-resorts/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://www.diamondsresorts.com/de/diamonds-hotels-resorts/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://www.diamondsresorts.com/it/mappa-del-sito/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://www.diamondsresorts.com/fr/meeting-incentive/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://www.diamondsresorts.com/fr/guide-de-voyage/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://www.diamondsresorts.com/faq/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://www.diamondsresorts.com/fr/faq/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://www.diamondsresorts.com/de/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://www.diamondsresorts.com/fr/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://www.diamondsresorts.com/it/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://www.diamondsresorts.com",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://www.diamondsresorts.com/fr/places/le-village-des-pecheur/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://www.diamondsresorts.com/it/places/villaggi-dei-pescatori/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://www.diamondsresorts.com/fr/press-awards/page/2",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://www.diamondsresorts.com/fr/press-awards/page/3",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://www.diamondsresorts.com/fr/press-awards/page/1",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://www.diamondsresorts.com/it/press-awards/page/2",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://www.diamondsresorts.com/it/press-awards/page/1",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://www.diamondsresorts.com/it/press-awards/page/3",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://www.diamondsresorts.com/fr/places/maputo/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://www.diamondsresorts.com/it/places/maputo/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "AI",
+    "source_url": "http://www.diamondsresorts.com/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://www.diamondsresorts.com/it/places/maputo-international-airport/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://www.diamondsresorts.com/fr/places/maputo-international-airport/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://www.diamondsresorts.com/it/places/prison-island/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://www.diamondsresorts.com/fr/places/prison-island/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://www.diamondsresorts.com/fr/places/la-vie-sous-marine/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://www.neoscapesmaldives.com/resort/diamonds-athuruga-villas/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://mondomaldive.it/it/villaggio/athuruga-diamonds-island-resort/recensione/5357",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://mondomaldive.it/it/villaggio/athuruga-diamonds-island-resort/recensione/5027",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://mondomaldive.it/it/villaggio/athuruga-diamonds-island-resort/recensione/4871",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "all_inclusive_details": [
+   {
+    "value": "all-inclusive stays.",
+    "source_url": "https://d1vp8nomjxwyf1.cloudfront.net/wp-content/uploads/sites/110/2017/03/13084012/Society-Magazine-2017-Diamonds-Resorts-5-2.pdf",
+    "as_of": 2017
+   },
+   {
+    "value": "all inclusive.",
+    "source_url": "https://d1vp8nomjxwyf1.cloudfront.net/wp-content/uploads/sites/110/2017/03/27134941/VANITYFAIR.pdf",
+    "as_of": 2019
+   },
+   {
+    "value": "all inclusive services, culinary journeys and exclusive features.",
+    "source_url": "https://www.diamondsresorts.com/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "All-Inclusive experience, from diverse dining venues and vibrant bars to enriching cultural workshops and activities.",
+    "source_url": "https://www.diamondsresorts.com/it/offerte-speciali/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "all inclusive Resorts situated in the heart of the Indian Ocean.",
+    "source_url": "https://www.diamondsresorts.com/brand/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "All-inclusive-Verpflegung inbegriffen und zu den Mahlzeiten und an unseren Bars den ganzen Tag über kostenlos erhältlich.",
+    "source_url": "https://www.diamondsresorts.com/de/faq/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "all inclusive formula.",
+    "source_url": "https://www.diamondsresorts.com/company/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "All-Inclusive experience, from diverse dining venues and vibrant bars to enriching cultural workshops and activities.",
+    "source_url": "https://www.diamondsresorts.com/it",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "all inclusive escape combining barefoot island living with guided diving at some of the Maldives’ most celebrated.",
+    "source_url": "https://www.diamondsresorts.com/special-offers/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "All-Inclusive experience, from diverse dining venues and vibrant bars to enriching cultural workshops and activities.",
+    "source_url": "https://www.diamondsresorts.com/it/diamonds-hotels-resorts/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "All Inclusive: In the All inclusive treatment are usually included breakfast, lunch and dinner at the main restaurants.",
+    "source_url": "https://www.diamondsresorts.com/faq/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "All-Inclusive experience, from diverse dining venues and vibrant bars to enriching cultural workshops and activities.",
+    "source_url": "https://www.diamondsresorts.com/it/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "all inclusive services, culinary journeys and exclusive features.",
+    "source_url": "https://www.diamondsresorts.com",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "all inclusive services, culinary journeys and exclusive features.",
+    "source_url": "http://www.diamondsresorts.com/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "all inclusive formula allows our guests to enjoy every second of their holiday in total relaxation.",
+    "source_url": "https://www.neoscapesmaldives.com/resort/diamonds-athuruga-villas/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "diving_watersports.house_reef": [
+   {
+    "value": "house reef or sunset",
+    "source_url": "https://d1vp8nomjxwyf1.cloudfront.net/wp-content/uploads/sites/110/2017/03/13084012/Society-Magazine-2017-Diamonds-Resorts-5-2.pdf",
+    "as_of": 2017
+   },
+   {
+    "value": "house reef",
+    "source_url": "https://www.diamondsresorts.com/special-offers/",
+    "as_of": "2026-10-05"
+   }
+  ],
+  "contacts_public.reservations_email": [
+   {
+    "value": "info.thudufushi@diamonds-resorts.com",
+    "source_url": "https://d1vp8nomjxwyf1.cloudfront.net/wp-content/uploads/sites/110/2017/03/13084012/Society-Magazine-2017-Diamonds-Resorts-5-2.pdf",
+    "as_of": 2017
+   },
+   {
+    "value": "info.athuruga@diamonds-resorts.com",
+    "source_url": "https://d1vp8nomjxwyf1.cloudfront.net/wp-content/uploads/sites/110/2017/03/13084012/Society-Magazine-2017-Diamonds-Resorts-5-2.pdf",
+    "as_of": 2017
+   },
+   {
+    "value": "reservations@planhotel.com",
+    "source_url": "https://www.diamondsresorts.com/buy-now-save-later/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "reservations.zanzibar@riu.com",
+    "source_url": "https://www.diamondsresorts.com/official-announcement/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "info@planhotel.com",
+    "source_url": "https://www.diamondsresorts.com/privacy/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "info@neoscapesmaldives.com",
+    "source_url": "https://www.neoscapesmaldives.com/resort/diamonds-athuruga-villas/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "contacts_public.phone": [
+   {
+    "value": "+960 6680508",
+    "source_url": "https://d1vp8nomjxwyf1.cloudfront.net/wp-content/uploads/sites/110/2017/03/13084012/Society-Magazine-2017-Diamonds-Resorts-5-2.pdf",
+    "as_of": 2017
+   },
+   {
+    "value": "+960 736 5425",
+    "source_url": "https://www.neoscapesmaldives.com/resort/diamonds-athuruga-villas/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "island": [
+   {
+    "value": "Zanzibar",
+    "source_url": "https://www.diamondsresorts.com/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Zanzibar",
+    "source_url": "https://www.diamondsresorts.com/travel-guide/zanzibar/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Zanzibar",
+    "source_url": "https://www.diamondsresorts.com/travel-guide/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Spices",
+    "source_url": "https://www.diamondsresorts.com/honeymoon/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Zanzibar",
+    "source_url": "https://www.diamondsresorts.com/hotels/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Zanzibar",
+    "source_url": "https://www.diamondsresorts.com",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Zanzibar",
+    "source_url": "http://www.diamondsresorts.com/",
+    "as_of": "2026-10-05"
+   }
+  ],
+  "transfer.minutes.domestic flight": [
+   {
+    "value": 30,
+    "source_url": "https://www.diamondsresorts.com/travel-guide/zanzibar/",
+    "as_of": "2026-10-05"
+   }
+  ],
+  "spa.name": [
+   {
+    "value": "Mvua Spa",
+    "source_url": "https://www.diamondsresorts.com/it/offerte-speciali/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.diamondsresorts.com/customize-your-holiday/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.diamondsresorts.com/customization/honeymoon-amenities/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.diamondsresorts.com/de/faq/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Mvua Spa",
+    "source_url": "https://www.diamondsresorts.com/special-offers/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Renco Spa",
+    "source_url": "https://www.diamondsresorts.com/official-announcement/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Facilities\nSerena Spa",
+    "source_url": "https://www.neoscapesmaldives.com/resort/diamonds-athuruga-villas/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.mymaldives.com/resort-guide/diamonds-athuruga-beach-water-villas/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "transfer.minutes.seaplane": [
+   {
+    "value": 25,
+    "source_url": "https://www.diamondsresorts.com/customize-your-holiday/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": 25,
+    "source_url": "https://www.diamondsresorts.com/customization/seaplane-adult/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": 35,
+    "source_url": "https://www.diamondsresorts.com/faq/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": 25,
+    "source_url": "https://www.diamondsresorts.com/customization/seaplane-children/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": 25,
+    "source_url": "https://www.diamondsresorts.com/travel-guide/maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": 20,
     "source_url": "https://www.neoscapesmaldives.com/resort/diamonds-athuruga-villas/",
     "as_of": "2026-10-04"
    }
@@ -773,10 +1858,64 @@
   "weddings.offered": [
    {
     "value": true,
+    "source_url": "https://www.diamondsresorts.com/customization/honeymoon-amenities/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.diamondsresorts.com/honeymoon/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.diamondsresorts.com/sitemap/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.diamondsresorts.com/special-offers/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.diamondsresorts.com/weddings/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.diamondsresorts.com/weddings/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.diamondsresorts.com/5-revision-v1/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.diamondsresorts.com/en/diamonds-athuruga",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": true,
     "source_url": "https://www.neoscapesmaldives.com/resort/diamonds-athuruga-villas/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "island_size": [
+   {
+    "value": "639 ha",
+    "source_url": "https://www.diamondsresorts.com/fr/guide-de-voyage/mozambique/",
+    "as_of": "2026-10-05"
+   }
+  ],
+  "villas.total": [
+   {
+    "value": 49,
+    "source_url": "https://www.mymaldives.com/resort-guide/diamonds-athuruga-beach-water-villas/",
     "as_of": "2026-10-04"
    }
   ]
  },
- "last_updated": "2026-10-04"
+ "last_updated": "2026-10-05"
 }

@@ -8,13 +8,13 @@
   "Dhigufinolhu",
   "Dhigu"
  ],
- "official_url": null,
- "official_site_status": null,
+ "official_url": "https://www.anantara.com/en/dhigu-maldives",
+ "official_site_status": "blocked",
  "operator_brand": "Anantara",
  "atoll": "South Malé Atoll",
  "island": null,
  "opened_or_renovated": "opened 2006",
- "star_rating": null,
+ "star_rating": "5-star",
  "transfer": {
   "modes": [
    "seaplane",
@@ -30,7 +30,7 @@
  },
  "island_size": "460 m x 100 m",
  "villas": {
-  "total": null,
+  "total": 110,
   "categories": [
    {
     "name": "SUNRISE BEACH VILLA",
@@ -103,14 +103,6 @@
     "max_occupancy": null,
     "pool": true,
     "overwater": null
-   },
-   {
-    "name": "Total Number of Villas",
-    "count": 110,
-    "size_sqm": null,
-    "max_occupancy": null,
-    "pool": null,
-    "overwater": null
    }
   ]
  },
@@ -126,29 +118,9 @@
    "type": "restaurant"
   },
   {
-   "name": "Dining by Design",
-   "cuisine": null,
-   "type": "restaurant"
-  },
-  {
-   "name": "only by your own desires. Dining by Design is a",
-   "cuisine": null,
-   "type": "restaurant"
-  },
-  {
    "name": "Tiki Bar",
    "cuisine": null,
    "type": "bar"
-  },
-  {
-   "name": "Dining",
-   "cuisine": null,
-   "type": "restaurant"
-  },
-  {
-   "name": "Family-friendly, Excellent Value, Signature Private Dining",
-   "cuisine": null,
-   "type": "restaurant"
   },
   {
    "name": "Dhoni Bar",
@@ -156,17 +128,47 @@
    "type": "bar"
   },
   {
-   "name": "Designer Dining by Anantara",
+   "name": "Wine Cellar",
+   "cuisine": null,
+   "type": "bar"
+  },
+  {
+   "name": "Tea Tasting at Aqua Bar",
+   "cuisine": null,
+   "type": "bar"
+  },
+  {
+   "name": "Fruit Carving at Fushi Cafe",
    "cuisine": null,
    "type": "restaurant"
   },
   {
-   "name": "Wine Cellar",
+   "name": "Napkin Folding at Aqua Bar",
+   "cuisine": null,
+   "type": "bar"
+  },
+  {
+   "name": "Maldivian Spice making at Fushi Cafe",
+   "cuisine": null,
+   "type": "restaurant"
+  },
+  {
+   "name": "Pasta Making at Aqua Bar",
+   "cuisine": null,
+   "type": "bar"
+  },
+  {
+   "name": "Handroll Pizza making at Aqua Bar",
    "cuisine": null,
    "type": "bar"
   }
  ],
- "meal_plans": [],
+ "meal_plans": [
+  "HB",
+  "FB",
+  "Dine Around",
+  "AI"
+ ],
  "all_inclusive_details": null,
  "spa": {
   "name": "Over Water Anantara Spa",
@@ -176,7 +178,7 @@
  },
  "diving_watersports": {
   "operator": "Aquafanatics",
-  "house_reef": null,
+  "house_reef": "house reef",
   "activities": [
    "snorkelling",
    "surfing",
@@ -185,7 +187,22 @@
    "snorkeling",
    "kayaking",
    "paddleboard",
-   "sunset cruise"
+   "sunset cruise",
+   "scuba diving",
+   "windsurfing",
+   "kitesurfing",
+   "stand-up paddle",
+   "catamaran",
+   "jet ski",
+   "parasailing",
+   "water skiing",
+   "wakeboarding",
+   "fishing",
+   "dolphin cruise",
+   "sailing",
+   "flyboard",
+   "glass-bottom",
+   "canoe"
   ],
   "price_list_doc": null
  },
@@ -196,12 +213,13 @@
   "turtle",
   "picnic",
   "stargazing",
-  "cooking class"
+  "cooking class",
+  "big game fishing"
  ],
  "kids_family": {
   "kids_club": "Kids Club",
   "age_range": null,
-  "teens": null
+  "teens": "teens programme mentioned"
  },
  "wellness_fitness": [
   "yoga",
@@ -211,7 +229,10 @@
   "badminton",
   "sauna",
   "steam",
-  "gym"
+  "gym",
+  "fitness center",
+  "sound healing",
+  "personal trainer"
  ],
  "weddings": {
   "offered": true,
@@ -226,7 +247,9 @@
   "buyout": null,
   "doc": null
  },
- "sustainability": [],
+ "sustainability": [
+  "marine biologist"
+ ],
  "contacts_public": {
   "reservations_email": "info@neoscapesmaldives.com",
   "weddings_email": null,
@@ -245,8 +268,7 @@
  "documents_count": 2,
  "gaps": [
   "wedding brochure",
-  "events/MICE document",
-  "fact: villas.total"
+  "events/MICE document"
  ],
  "sources": {
   "atoll": [
@@ -258,6 +280,21 @@
    {
     "value": "South Malé Atoll",
     "source_url": "https://www.neoscapesmaldives.com/resort/anantara-dhigu-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "South Male Atoll",
+    "source_url": "https://www.maldivesholidayoffers.com/accomodation/resorts/anantara-dhigu/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "South Male Atoll",
+    "source_url": "https://www.mymaldives.com/resort-guide/anantara-dhigu-resort-spa-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Kaafu Atoll",
+    "source_url": "https://malediven.de/malediven-hotels/anantara-dhigu/",
     "as_of": "2026-10-04"
    }
   ],
@@ -293,6 +330,21 @@
     "value": "yacht",
     "source_url": "https://www.neoscapesmaldives.com/resort/anantara-dhigu-resort/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.maldivesholidayoffers.com/accomodation/resorts/anantara-dhigu/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yacht",
+    "source_url": "https://www.maldivesholidayoffers.com/accomodation/resorts/anantara-dhigu/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.mymaldives.com/resort-guide/anantara-dhigu-resort-spa-maldives/",
+    "as_of": "2026-10-04"
    }
   ],
   "transfer.minutes.speedboat": [
@@ -304,6 +356,11 @@
    {
     "value": 30,
     "source_url": "https://www.neoscapesmaldives.com/resort/anantara-dhigu-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 30,
+    "source_url": "https://www.maldivesholidayoffers.com/accomodation/resorts/anantara-dhigu/",
     "as_of": "2026-10-04"
    }
   ],
@@ -328,57 +385,12 @@
    },
    {
     "value": {
-     "name": "Dining by Design",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Anantara_Dhigu_Maldives_Factsheet_January_2023.pdf",
-    "as_of": 2023
-   },
-   {
-    "value": {
-     "name": "only by your own desires. Dining by Design is a",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Anantara_Dhigu_Maldives_Factsheet_January_2023.pdf",
-    "as_of": 2023
-   },
-   {
-    "value": {
      "name": "Tiki Bar",
      "cuisine": null,
      "type": "bar"
     },
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Anantara_Dhigu_Maldives_Factsheet_January_2023.pdf",
     "as_of": 2023
-   },
-   {
-    "value": {
-     "name": "Dining",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/anantara-dhigu-resort/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Family-friendly, Excellent Value, Signature Private Dining",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/anantara-dhigu-resort/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Dining",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/anantara-dhigu-resort/",
-    "as_of": "2026-10-04"
    },
    {
     "value": {
@@ -400,20 +412,389 @@
    },
    {
     "value": {
-     "name": "Designer Dining by Anantara",
+     "name": "Wine Cellar",
      "cuisine": null,
-     "type": "restaurant"
+     "type": "bar"
     },
     "source_url": "https://www.neoscapesmaldives.com/resort/anantara-dhigu-resort/",
     "as_of": "2026-10-04"
    },
    {
     "value": {
-     "name": "Wine Cellar",
+     "name": "Tea Tasting at Aqua Bar",
      "cuisine": null,
      "type": "bar"
     },
-    "source_url": "https://www.neoscapesmaldives.com/resort/anantara-dhigu-resort/",
+    "source_url": "https://www.maldivesholidayoffers.com/accomodation/resorts/anantara-dhigu/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Fruit Carving at Fushi Cafe",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.maldivesholidayoffers.com/accomodation/resorts/anantara-dhigu/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Napkin Folding at Aqua Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.maldivesholidayoffers.com/accomodation/resorts/anantara-dhigu/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Maldivian Spice making at Fushi Cafe",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.maldivesholidayoffers.com/accomodation/resorts/anantara-dhigu/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Pasta Making at Aqua Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.maldivesholidayoffers.com/accomodation/resorts/anantara-dhigu/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Handroll Pizza making at Aqua Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.maldivesholidayoffers.com/accomodation/resorts/anantara-dhigu/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Tea Tasting at Aqua Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.maldivesholidayoffers.com/accomodation/resorts/anantara-dhigu/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Fruit Carving at Fushi Cafe",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.maldivesholidayoffers.com/accomodation/resorts/anantara-dhigu/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Napkin Folding at Aqua Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.maldivesholidayoffers.com/accomodation/resorts/anantara-dhigu/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Maldivian Spice making at Fushi Cafe",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.maldivesholidayoffers.com/accomodation/resorts/anantara-dhigu/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Pasta Making at Aqua Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.maldivesholidayoffers.com/accomodation/resorts/anantara-dhigu/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Handroll Pizza making at Aqua Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.maldivesholidayoffers.com/accomodation/resorts/anantara-dhigu/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Tea Tasting at Aqua Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.maldivesholidayoffers.com/accomodation/resorts/anantara-dhigu/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Fruit Carving at Fushi Cafe",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.maldivesholidayoffers.com/accomodation/resorts/anantara-dhigu/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Napkin Folding at Aqua Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.maldivesholidayoffers.com/accomodation/resorts/anantara-dhigu/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Maldivian Spice making at Fushi Cafe",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.maldivesholidayoffers.com/accomodation/resorts/anantara-dhigu/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Pasta Making at Aqua Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.maldivesholidayoffers.com/accomodation/resorts/anantara-dhigu/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Handroll Pizza making at Aqua Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.maldivesholidayoffers.com/accomodation/resorts/anantara-dhigu/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Tea Tasting at Aqua Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.maldivesholidayoffers.com/accomodation/resorts/anantara-dhigu/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Fruit Carving at Fushi Cafe",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.maldivesholidayoffers.com/accomodation/resorts/anantara-dhigu/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Napkin Folding at Aqua Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.maldivesholidayoffers.com/accomodation/resorts/anantara-dhigu/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Maldivian Spice making at Fushi Cafe",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.maldivesholidayoffers.com/accomodation/resorts/anantara-dhigu/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Pasta Making at Aqua Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.maldivesholidayoffers.com/accomodation/resorts/anantara-dhigu/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Handroll Pizza making at Aqua Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.maldivesholidayoffers.com/accomodation/resorts/anantara-dhigu/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Tea Tasting at Aqua Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.maldivesholidayoffers.com/accomodation/resorts/anantara-dhigu/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Fruit Carving at Fushi Cafe",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.maldivesholidayoffers.com/accomodation/resorts/anantara-dhigu/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Napkin Folding at Aqua Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.maldivesholidayoffers.com/accomodation/resorts/anantara-dhigu/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Maldivian Spice making at Fushi Cafe",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.maldivesholidayoffers.com/accomodation/resorts/anantara-dhigu/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Pasta Making at Aqua Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.maldivesholidayoffers.com/accomodation/resorts/anantara-dhigu/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Handroll Pizza making at Aqua Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.maldivesholidayoffers.com/accomodation/resorts/anantara-dhigu/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Tea Tasting at Aqua Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.maldivesholidayoffers.com/accomodation/resorts/anantara-dhigu/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Fruit Carving at Fushi Cafe",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.maldivesholidayoffers.com/accomodation/resorts/anantara-dhigu/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Napkin Folding at Aqua Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.maldivesholidayoffers.com/accomodation/resorts/anantara-dhigu/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Maldivian Spice making at Fushi Cafe",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.maldivesholidayoffers.com/accomodation/resorts/anantara-dhigu/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Pasta Making at Aqua Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.maldivesholidayoffers.com/accomodation/resorts/anantara-dhigu/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Handroll Pizza making at Aqua Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.maldivesholidayoffers.com/accomodation/resorts/anantara-dhigu/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Tea Tasting at Aqua Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.maldivesholidayoffers.com/accomodation/resorts/anantara-dhigu/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Fruit Carving at Fushi Cafe",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.maldivesholidayoffers.com/accomodation/resorts/anantara-dhigu/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Napkin Folding at Aqua Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.maldivesholidayoffers.com/accomodation/resorts/anantara-dhigu/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Maldivian Spice making at Fushi Cafe",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.maldivesholidayoffers.com/accomodation/resorts/anantara-dhigu/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Pasta Making at Aqua Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.maldivesholidayoffers.com/accomodation/resorts/anantara-dhigu/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Handroll Pizza making at Aqua Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.maldivesholidayoffers.com/accomodation/resorts/anantara-dhigu/",
     "as_of": "2026-10-04"
    }
   ],
@@ -427,6 +808,21 @@
     "value": "Over Water Anantara Spa",
     "source_url": "https://www.neoscapesmaldives.com/resort/anantara-dhigu-resort/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://mondomaldive.it/it/villaggio/anantara-dhigu-resort-spa/recensione/3557",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.maldivesholidayoffers.com/accomodation/resorts/anantara-dhigu/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.mymaldives.com/resort-guide/anantara-dhigu-resort-spa-maldives/",
+    "as_of": "2026-10-04"
    }
   ],
   "diving_watersports.operator": [
@@ -434,6 +830,11 @@
     "value": "Aquafanatics",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Anantara_Dhigu_Maldives_Factsheet_January_2023.pdf",
     "as_of": 2023
+   },
+   {
+    "value": "Aquafanatics",
+    "source_url": "https://www.maldivesholidayoffers.com/accomodation/resorts/anantara-dhigu/",
+    "as_of": "2026-10-04"
    }
   ],
   "diving_watersports.activities": [
@@ -480,6 +881,156 @@
    {
     "value": "sunset cruise",
     "source_url": "https://www.neoscapesmaldives.com/resort/anantara-dhigu-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://mondomaldive.it/it/villaggio/anantara-dhigu-resort-spa/recensione/3557",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.maldivesholidayoffers.com/accomodation/resorts/anantara-dhigu/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.maldivesholidayoffers.com/accomodation/resorts/anantara-dhigu/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://www.maldivesholidayoffers.com/accomodation/resorts/anantara-dhigu/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "windsurfing",
+    "source_url": "https://www.maldivesholidayoffers.com/accomodation/resorts/anantara-dhigu/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "kitesurfing",
+    "source_url": "https://www.maldivesholidayoffers.com/accomodation/resorts/anantara-dhigu/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "surfing",
+    "source_url": "https://www.maldivesholidayoffers.com/accomodation/resorts/anantara-dhigu/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "kayaking",
+    "source_url": "https://www.maldivesholidayoffers.com/accomodation/resorts/anantara-dhigu/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "stand-up paddle",
+    "source_url": "https://www.maldivesholidayoffers.com/accomodation/resorts/anantara-dhigu/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "paddleboard",
+    "source_url": "https://www.maldivesholidayoffers.com/accomodation/resorts/anantara-dhigu/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "catamaran",
+    "source_url": "https://www.maldivesholidayoffers.com/accomodation/resorts/anantara-dhigu/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "jet ski",
+    "source_url": "https://www.maldivesholidayoffers.com/accomodation/resorts/anantara-dhigu/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "parasailing",
+    "source_url": "https://www.maldivesholidayoffers.com/accomodation/resorts/anantara-dhigu/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "water skiing",
+    "source_url": "https://www.maldivesholidayoffers.com/accomodation/resorts/anantara-dhigu/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "wakeboarding",
+    "source_url": "https://www.maldivesholidayoffers.com/accomodation/resorts/anantara-dhigu/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.maldivesholidayoffers.com/accomodation/resorts/anantara-dhigu/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.maldivesholidayoffers.com/accomodation/resorts/anantara-dhigu/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin cruise",
+    "source_url": "https://www.maldivesholidayoffers.com/accomodation/resorts/anantara-dhigu/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sailing",
+    "source_url": "https://www.maldivesholidayoffers.com/accomodation/resorts/anantara-dhigu/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "flyboard",
+    "source_url": "https://www.maldivesholidayoffers.com/accomodation/resorts/anantara-dhigu/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "glass-bottom",
+    "source_url": "https://www.maldivesholidayoffers.com/accomodation/resorts/anantara-dhigu/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://www.mymaldives.com/resort-guide/anantara-dhigu-resort-spa-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "windsurfing",
+    "source_url": "https://www.mymaldives.com/resort-guide/anantara-dhigu-resort-spa-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "catamaran",
+    "source_url": "https://www.mymaldives.com/resort-guide/anantara-dhigu-resort-spa-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "jet ski",
+    "source_url": "https://www.mymaldives.com/resort-guide/anantara-dhigu-resort-spa-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "parasailing",
+    "source_url": "https://www.mymaldives.com/resort-guide/anantara-dhigu-resort-spa-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "water skiing",
+    "source_url": "https://www.mymaldives.com/resort-guide/anantara-dhigu-resort-spa-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.mymaldives.com/resort-guide/anantara-dhigu-resort-spa-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sailing",
+    "source_url": "https://www.mymaldives.com/resort-guide/anantara-dhigu-resort-spa-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "canoe",
+    "source_url": "https://www.mymaldives.com/resort-guide/anantara-dhigu-resort-spa-maldives/",
     "as_of": "2026-10-04"
    }
   ],
@@ -532,6 +1083,36 @@
    {
     "value": "cooking class",
     "source_url": "https://www.neoscapesmaldives.com/resort/anantara-dhigu-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.maldivesholidayoffers.com/accomodation/resorts/anantara-dhigu/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.maldivesholidayoffers.com/accomodation/resorts/anantara-dhigu/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "picnic",
+    "source_url": "https://www.maldivesholidayoffers.com/accomodation/resorts/anantara-dhigu/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "stargazing",
+    "source_url": "https://www.maldivesholidayoffers.com/accomodation/resorts/anantara-dhigu/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "cooking class",
+    "source_url": "https://www.maldivesholidayoffers.com/accomodation/resorts/anantara-dhigu/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "big game fishing",
+    "source_url": "https://www.mymaldives.com/resort-guide/anantara-dhigu-resort-spa-maldives/",
     "as_of": "2026-10-04"
    }
   ],
@@ -600,6 +1181,56 @@
     "value": "tennis",
     "source_url": "https://www.neoscapesmaldives.com/resort/anantara-dhigu-resort/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.maldivesholidayoffers.com/accomodation/resorts/anantara-dhigu/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "meditation",
+    "source_url": "https://www.maldivesholidayoffers.com/accomodation/resorts/anantara-dhigu/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fitness centre",
+    "source_url": "https://www.maldivesholidayoffers.com/accomodation/resorts/anantara-dhigu/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fitness center",
+    "source_url": "https://www.maldivesholidayoffers.com/accomodation/resorts/anantara-dhigu/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://www.maldivesholidayoffers.com/accomodation/resorts/anantara-dhigu/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sound healing",
+    "source_url": "https://www.maldivesholidayoffers.com/accomodation/resorts/anantara-dhigu/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "personal trainer",
+    "source_url": "https://www.maldivesholidayoffers.com/accomodation/resorts/anantara-dhigu/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://www.mymaldives.com/resort-guide/anantara-dhigu-resort-spa-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "badminton",
+    "source_url": "https://www.mymaldives.com/resort-guide/anantara-dhigu-resort-spa-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sauna",
+    "source_url": "https://www.mymaldives.com/resort-guide/anantara-dhigu-resort-spa-maldives/",
+    "as_of": "2026-10-04"
    }
   ],
   "weddings.offered": [
@@ -642,6 +1273,11 @@
    {
     "value": "+960 736 5425",
     "source_url": "https://www.neoscapesmaldives.com/resort/anantara-dhigu-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 7773 699",
+    "source_url": "https://www.maldivesholidayoffers.com/accomodation/resorts/anantara-dhigu/",
     "as_of": "2026-10-04"
    }
   ],
@@ -753,18 +1389,6 @@
     },
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Anantara_Dhigu_Maldives_Island_Map_December_2021.pdf",
     "as_of": 2021
-   },
-   {
-    "value": {
-     "name": "Total Number of Villas",
-     "count": 110,
-     "size_sqm": null,
-     "max_occupancy": null,
-     "pool": null,
-     "overwater": null
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/anantara-dhigu-resort/",
-    "as_of": "2026-10-04"
    }
   ],
   "island_size": [
@@ -779,6 +1403,11 @@
     "value": "Kids Club",
     "source_url": "https://www.neoscapesmaldives.com/resort/anantara-dhigu-resort/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "Teens Club",
+    "source_url": "https://www.maldivesholidayoffers.com/accomodation/resorts/anantara-dhigu/",
+    "as_of": "2026-10-04"
    }
   ],
   "weddings.vow_renewal": [
@@ -787,7 +1416,64 @@
     "source_url": "https://www.neoscapesmaldives.com/resort/anantara-dhigu-resort/",
     "as_of": "2026-10-04"
    }
+  ],
+  "meal_plans": [
+   {
+    "value": "HB",
+    "source_url": "https://letsgomaldives.com/offers/anantara-dhigu-offers/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "FB",
+    "source_url": "https://letsgomaldives.com/offers/anantara-dhigu-offers/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Dine Around",
+    "source_url": "https://letsgomaldives.com/offers/anantara-dhigu-offers/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://mondomaldive.it/it/villaggio/anantara-dhigu-resort-spa/recensione/3557",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "star_rating": [
+   {
+    "value": "5-star",
+    "source_url": "https://www.maldivesholidayoffers.com/accomodation/resorts/anantara-dhigu/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "diving_watersports.house_reef": [
+   {
+    "value": "house reef",
+    "source_url": "https://www.maldivesholidayoffers.com/accomodation/resorts/anantara-dhigu/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "kids_family.teens": [
+   {
+    "value": "teens programme mentioned",
+    "source_url": "https://www.maldivesholidayoffers.com/accomodation/resorts/anantara-dhigu/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "sustainability": [
+   {
+    "value": "marine biologist",
+    "source_url": "https://www.maldivesholidayoffers.com/accomodation/resorts/anantara-dhigu/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "villas.total": [
+   {
+    "value": 110,
+    "source_url": "https://www.mymaldives.com/resort-guide/anantara-dhigu-resort-spa-maldives/",
+    "as_of": "2026-10-04"
+   }
   ]
  },
- "last_updated": "2026-10-04"
+ "last_updated": "2026-10-05"
 }

@@ -1,10 +1,10 @@
 # 98. Madifushi Private Island
 
-**Official site:** n/a (None)  
+**Official site:** https://www.madifushiprivateisland.com/ (ok)  
 **Brand:** n/a  
-**Atoll:** n/a  **Island:** n/a  
-**Opened/renovated:** n/a  **Rating:** n/a  
-**Transfer:** n/a; minutes: {}  
+**Atoll:** Meemu Atoll  **Island:** n/a  
+**Opened/renovated:** n/a  **Rating:** 5-star  
+**Transfer:** seaplane; minutes: {"seaplane": 35}  
 **Island size:** n/a  
 
 ## Villas (? total)
@@ -12,21 +12,24 @@
 
 ## Dining
 
+- Splash Bar (bar)
+- Bluefin Restaurant (restaurant)
+- Splash Bar (Meeting Area) (bar)
 
 Meal plans: n/a
 
 ## Spa & wellness
 
-- Spa: n/a; treatment rooms: ?; menu: none
-- Wellness/fitness: n/a
+- Spa: Me Spa; treatment rooms: ?; menu: https://tablecells.com/api/v1/files/public/01M3VWMA7ME95E17H4EN46FJ91-Pure-Coconut-Oil.pdf
+- Wellness/fitness: steam, fitness center, sauna, yoga, gym, tennis, badminton, pilates, ayurveda
 
 ## Diving, water sports & excursions
 
-- Operator: n/a
-- House reef: n/a
-- Activities: n/a
+- Operator: Dive Centre
+- House reef: house reef at Madifushi Private Island, easily accessible by a 5â10 minute boat ride
+- Activities: fishing, sunset cruise, snorkeling, stand-up paddle, dolphin cruise, whale shark, manta, sailing, canoe, snorkelling, scuba diving, kayaking, jet ski, wakeboarding, seabob, flyboard
 - Price list: none
-- Excursions: n/a
+- Excursions: island hopping, local island, sandbank, dolphin, sunset fishing, whale shark, manta, turtle, cooking class
 
 ## Kids & family
 
@@ -34,7 +37,7 @@ Meal plans: n/a
 
 ## Weddings
 
-- Offered: None; vow renewal: None
+- Offered: True; vow renewal: True
 - Venues: n/a
 - Packages: n/a
 - Brochure: none
@@ -50,15 +53,15 @@ Meal plans: n/a
 
 ## Public contacts
 
-- Reservations: n/a; weddings: n/a; phone: n/a
+- Reservations: n/a; weddings: n/a; phone: +960 672 0000
 
 ## Latest documents
 
 - factsheet: none
 - map: none
 - wedding: none
-- spa_menu: none
-- dining_menu: none
+- spa_menu: https://tablecells.com/api/v1/files/public/01M3VWMA7ME95E17H4EN46FJ91-Pure-Coconut-Oil.pdf
+- dining_menu: https://tablecells.com/api/v1/files/public/01KRB3VVNRCDQZNB0NJ4195TGC-IN_VILLA_DINING_NEW_MENU_-_NO_PRICES.pdf
 - dive_prices: none
 - events: none
 - calendar: none
@@ -70,14 +73,7 @@ Meal plans: n/a
 - events/MICE document
 - fact: villas.total
 - fact: villa categories
-- fact: dining
-- fact: transfer
-- fact: atoll
-- fact: spa
-- fact: dive operator
 - fact: kids club
-- fact: weddings
 - fact: contacts
-- no documents or pages collected
 
-_Facts extracted by rules from 0 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-04._
+_Facts extracted by rules from 14 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

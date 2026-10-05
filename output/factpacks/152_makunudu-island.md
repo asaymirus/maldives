@@ -1,32 +1,42 @@
 # 152. Makunudu Island
 
-**Official site:** n/a (None)  
+**Official site:** https://makunudu.com/ (ok)  
 **Brand:** n/a  
-**Atoll:** n/a  **Island:** n/a  
+**Atoll:** North Male Atoll  **Island:** Maldives  
 **Opened/renovated:** n/a  **Rating:** n/a  
-**Transfer:** n/a; minutes: {}  
+**Transfer:** speedboat; minutes: {"speedboat": 45}  
 **Island size:** n/a  
 
-## Villas (? total)
+## Villas (36 total)
 
+- BEACH BUNGALOW –: count 18, ? sqm, max ?
+- BUNGALOWS: count ?, 50 sqm, max ?
+- Beach Bungalows Windsurfing ADAPTOR: count 20, ? sqm, max ?
+- Delu e Beach Bungalows Stand Up Paddle Boarding V Pin Plug: count 16, ? sqm, max ?
+- nights accommodation in a Delu e Beach Bungalow for: count 4, ? sqm, max ?
 
 ## Dining
 
+- Miyaru Bar is also a great place to spot (bar)
+- arranged upon request. Araa Iru Restaurant (restaurant)
+- Sand Bar (bar)
+- Miyaru Bar (bar)
+- Sunset Bar (bar)
 
-Meal plans: n/a
+Meal plans: AI
 
 ## Spa & wellness
 
-- Spa: n/a; treatment rooms: ?; menu: none
-- Wellness/fitness: n/a
+- Spa: Aavun Spa; treatment rooms: ?; menu: https://makunudu.com/wp-content/uploads/2026/02/AAVUN-SPA-1.pdf
+- Wellness/fitness: tennis, badminton, ayurveda, yoga
 
 ## Diving, water sports & excursions
 
-- Operator: n/a
-- House reef: n/a
-- Activities: n/a
-- Price list: none
-- Excursions: n/a
+- Operator: Dive Ocean
+- House reef: House Reef Guided Snorkelling $39
+- Activities: snorkelling, windsurfing, kayaking, catamaran, fishing, manta, sailing, canoe, snorkeling, water skiing, fun tube, scuba diving
+- Price list: https://makunudu.com/wp-content/uploads/2026/05/Dive-Ocean-Price-List.pdf
+- Excursions: sandbank, manta, cinema, turtle
 
 ## Kids & family
 
@@ -34,10 +44,10 @@ Meal plans: n/a
 
 ## Weddings
 
-- Offered: None; vow renewal: None
+- Offered: True; vow renewal: True
 - Venues: n/a
 - Packages: n/a
-- Brochure: none
+- Brochure: https://makunudu.com/wp-content/uploads/2024/05/SimplyRomanticPackage.pdf
 
 ## Events / MICE
 
@@ -50,34 +60,22 @@ Meal plans: n/a
 
 ## Public contacts
 
-- Reservations: n/a; weddings: n/a; phone: n/a
+- Reservations: reservations@makunudu.com; weddings: n/a; phone: +960 664 6464
 
 ## Latest documents
 
-- factsheet: none
+- factsheet: https://makunudu.com/wp-content/uploads/2024/11/Maknudu-Factsheet.pdf
 - map: none
-- wedding: none
-- spa_menu: none
-- dining_menu: none
-- dive_prices: none
+- wedding: https://makunudu.com/wp-content/uploads/2024/05/SimplyRomanticPackage.pdf
+- spa_menu: https://makunudu.com/wp-content/uploads/2026/02/AAVUN-SPA-1.pdf
+- dining_menu: https://makunudu.com/wp-content/uploads/2025/05/Watersports-Menu-_-2025-New.pdf
+- dive_prices: https://makunudu.com/wp-content/uploads/2026/05/Dive-Ocean-Price-List.pdf
 - events: none
-- calendar: none
+- calendar: https://makunudu.com/wp-content/uploads/2025/11/Makunudu-Festive-2025-2026.pdf
 
 ## Gaps
 
-- factsheet
-- wedding brochure
 - events/MICE document
-- fact: villas.total
-- fact: villa categories
-- fact: dining
-- fact: transfer
-- fact: atoll
-- fact: spa
-- fact: dive operator
 - fact: kids club
-- fact: weddings
-- fact: contacts
-- no documents or pages collected
 
-_Facts extracted by rules from 0 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-04._
+_Facts extracted by rules from 18 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

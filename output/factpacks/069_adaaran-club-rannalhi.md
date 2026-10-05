@@ -1,27 +1,27 @@
 # 69. Adaaran Club Rannalhi
 
-**Official site:** n/a (None)  
+**Official site:** https://www.adaaran.com/clubrannalhi/ (ok)  
 **Brand:** Adaaran  
-**Atoll:** South Male Atoll  **Island:** n/a  
+**Atoll:** South Malé Atoll  **Island:** Free  
 **Opened/renovated:** n/a  **Rating:** n/a  
-**Transfer:** speedboat; minutes: {"speedboat": 45}  
+**Transfer:** speedboat, seaplane; minutes: {"speedboat": 45}  
 **Island size:** 400 m x 150 m  
 
-## Villas (? total)
+## Villas (116 total)
 
-- Sunset Water Villa: count 2, ? sqm, max ?
-- Water Villa: count 2, ? sqm, max ?
-- Number of Villas: count 96, ? sqm, max ?
 
 ## Dining
 
-- Dining (restaurant)
+- ∙ Sundown DJ music at the Cocktail Bar (bar)
+- Cocktail Bar (bar)
 - Main Restaurant (restaurant)
 - Nika Bar (bar)
-- Cocktail Bar (bar)
+- In Front of the Cocktail Bar (bar)
+- Mini Bar (bar)
+- Restaurant with theme nights (restaurant)
 
-Meal plans: n/a
-All-inclusive: All-Inclusive dining, daily excursions, and friendly Maldivian hospitality make every moment unforgettable.
+Meal plans: AI
+All-inclusive: All Inclusive package.
 
 ## Spa & wellness
 
@@ -30,11 +30,11 @@ All-inclusive: All-Inclusive dining, daily excursions, and friendly Maldivian ho
 
 ## Diving, water sports & excursions
 
-- Operator: n/a
-- House reef: House Reef Rannalhi and swim with tropical fish, manta rays, and gentle sea turtles
-- Activities: snorkeling, scuba diving, surfing, paddleboard, catamaran, jet ski, water skiing, fishing, flyboard, canoe, kayaking, sunset cruise, manta
-- Price list: none
-- Excursions: island hopping, dolphin, turtle, sunset fishing, Male city tour, manta
+- Operator: Dive Centre
+- House reef: house reef
+- Activities: snorkeling, scuba diving, paddleboard, catamaran, jet ski, water skiing, flyboard, canoe, sailing, stand-up paddle, seabob, manta, fun tube, fishing, snorkelling, windsurfing, whale shark, kayaking, sunset cruise
+- Price list: https://www.adaaran.com/clubrannalhi/view-download/?id=menu-05
+- Excursions: island hopping, dolphin, sandbank, manta, local island, turtle, sunset fishing, Male city tour, whale shark, night fishing
 
 ## Kids & family
 
@@ -43,9 +43,9 @@ All-inclusive: All-Inclusive dining, daily excursions, and friendly Maldivian ho
 ## Weddings
 
 - Offered: True; vow renewal: True
-- Venues: n/a
-- Packages: n/a
-- Brochure: none
+- Venues: Outdoor beach venue for wedding celebration
+- Packages: Wedding USD 250 (2026)
+- Brochure: https://www.adaaran.com/clubrannalhi/view-download/?id=acrweddingpack
 
 ## Events / MICE
 
@@ -58,25 +58,23 @@ All-inclusive: All-Inclusive dining, daily excursions, and friendly Maldivian ho
 
 ## Public contacts
 
-- Reservations: info@neoscapesmaldives.com; weddings: n/a; phone: +960 736 5425
+- Reservations: info@divepoint-maldives.com; weddings: n/a; phone: +960 664 2688
 
 ## Latest documents
 
-- factsheet: https://www.neoscapesmaldives.com/wp-content/uploads/Fact-Sheet-Adaaran-Club-Rannalhi.pdf
+- factsheet: https://www.adaaran.com/clubrannalhi/view-download/?id=acr-factsheet
 - map: https://www.neoscapesmaldives.com/wp-content/uploads/Adaaran-Ranalhi-Island-Map.pdf
-- wedding: none
+- wedding: https://www.adaaran.com/clubrannalhi/view-download/?id=acrweddingpack
 - spa_menu: none
-- dining_menu: none
-- dive_prices: none
+- dining_menu: https://www.adaaran.com/clubrannalhi/view-download/?id=menu-01
+- dive_prices: https://www.adaaran.com/clubrannalhi/view-download/?id=menu-05
 - events: none
 - calendar: none
 
 ## Gaps
 
-- wedding brochure
 - events/MICE document
-- fact: villas.total
-- fact: dive operator
+- fact: villa categories
 - fact: kids club
 
-_Facts extracted by rules from 17 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-04._
+_Facts extracted by rules from 22 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

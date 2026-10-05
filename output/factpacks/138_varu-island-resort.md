@@ -1,10 +1,10 @@
 # 138. Varu Island Resort
 
-**Official site:** n/a (None)  
+**Official site:** https://www.varu-atmosphere.com/ (blocked-partial)  
 **Brand:** Atmosphere  
 **Atoll:** North Malé Atoll  **Island:** n/a  
 **Opened/renovated:** n/a  **Rating:** 5-star  
-**Transfer:** speedboat; minutes: {"speedboat": 40}  
+**Transfer:** speedboat; minutes: {"speedboat": 45}  
 **Island size:** 530 m x 220 m  
 
 ## Villas (108 total)
@@ -22,8 +22,7 @@
 
 ## Dining
 
-- Dining (restaurant)
-- Specialty Dining Outlets (restaurant)
+- An Overwater Cellar Unlike Anything Else (bar)
 
 Meal plans: AI
 All-inclusive: all-inclusive VARU Plan ensures a seamless stay with gourmet dining, premium beverages, and complimentary excursions.
@@ -37,9 +36,9 @@ All-inclusive: all-inclusive VARU Plan ensures a seamless stay with gourmet dini
 
 - Operator: Dive Centre
 - House reef: n/a
-- Activities: snorkelling, snorkeling, canoe, kayaking, paddleboard, jet ski, fishing, dolphin cruise, manta, banana boat
+- Activities: snorkelling, snorkeling, canoe, manta, kayaking, paddleboard, jet ski, fishing, dolphin cruise, banana boat
 - Price list: none
-- Excursions: local island, dolphin, sunset fishing, manta
+- Excursions: dolphin, manta, turtle, local island, sunset fishing, cooking class
 
 ## Kids & family
 
@@ -49,7 +48,7 @@ Kids Club; ages: n/a; teens: n/a
 ## Weddings
 
 - Offered: True; vow renewal: True
-- Venues: n/a
+- Venues: E WATER SUITE K KAAGÉ - MALDIVIAN RESTAURANT Q WEDDING PAVILION
 - Packages: n/a
 - Brochure: none
 
@@ -69,7 +68,7 @@ Kids Club; ages: n/a; teens: n/a
 ## Latest documents
 
 - factsheet: none
-- map: https://www.neoscapesmaldives.com/wp-content/uploads/Map-VARU-by-Atmosphere.pdf
+- map: https://ahr-ucmsapi.atmospherehotelsandresorts.com/AHR/images/section_2479697049a-05b7-47f4-9abb-ec9886ed7178file.pdf.pdf
 - wedding: none
 - spa_menu: none
 - dining_menu: none
@@ -83,4 +82,4 @@ Kids Club; ages: n/a; teens: n/a
 - wedding brochure
 - events/MICE document
 
-_Facts extracted by rules from 20 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-04._
+_Facts extracted by rules from 21 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

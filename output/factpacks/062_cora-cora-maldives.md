@@ -1,6 +1,6 @@
 # 62. Cora Cora Maldives
 
-**Official site:** n/a (None)  
+**Official site:** https://coracoraresorts.com/ (ok)  
 **Brand:** n/a  
 **Atoll:** Raa Atoll  **Island:** n/a  
 **Opened/renovated:** opened 2021  **Rating:** 5-star  
@@ -13,41 +13,45 @@
 - • villa • villa: count ?, 63 sqm, max ?
 - • villa WITH SLIDE: count ?, 181 sqm, max ?
 - • Private pool with ocean views • villa: count ?, 15 sqm, max ?, pool, overwater
+- Villa de: count ?, 63 sqm, max ?
 - Villas: count 100, ? sqm, max ?
 - two bedroom family beach villa bathroom cora cora maldives: count 3, ? sqm, max ?
 
 ## Dining
 
-- Restaurant Pool & Bar Breakfast: 7.00 - 10.30 (restaurant)
-- Dining (restaurant)
+- Tazäa® Restaurant (restaurant)
+- Tazäa® & Teien® Restaurant (restaurant)
+- Mini-Bar (bar)
 
 Meal plans: AI, Dine Around, Premium AI
-All-inclusive: all-inclusive concept, and a relaxed, social atmosphere, Cora Cora welcomes couples, families, and friends alike.
+All-inclusive: All-Inclusive Gourmet Meal Plan®.
 
 ## Spa & wellness
 
-- Spa: Spa; treatment rooms: ?; menu: none
-- Wellness/fitness: yoga, meditation, gym, fitness center, tennis, fitness centre, badminton, beach volleyball
+- Spa: Area
+Jetski Tour
+Spa; treatment rooms: ?; menu: https://coracoraresorts.com/wp-content/uploads/2026/01/Valentine_MOKSHA®.pdf
+- Wellness/fitness: yoga, meditation, gym, fitness center, tennis, badminton, sound healing, fitness centre, beach volleyball
 
 ## Diving, water sports & excursions
 
-- Operator: Dive Centre
+- Operator: TGI
 - House reef: house reef
-- Activities: windsurfing, stand-up paddle, paddleboard, catamaran, parasailing, snorkelling, fishing, sunset cruise
-- Price list: none
-- Excursions: stargazing, cinema, local island
+- Activities: windsurfing, stand-up paddle, paddleboard, catamaran, parasailing, snorkeling, fun tube, banana boat, snorkelling, manta, fishing, sunset cruise
+- Price list: https://coracoraresorts.com/wp-content/uploads/2026/01/CCM-Full-TGI-List-Price-Lists-2026.pdf
+- Excursions: turtle, picnic, local island, manta, dolphin, private dinner, cinema
 
 ## Kids & family
 
 - Kids club: Seaplane
-Kids Club; ages: n/a; teens: n/a
+Kids Club; ages: n/a; teens: teens programme mentioned
 
 ## Weddings
 
 - Offered: True; vow renewal: None
-- Venues: n/a
+- Venues: on the beach during the ceremony and ﬂower decoration on
 - Packages: n/a
-- Brochure: none
+- Brochure: https://coracoraresorts.com/wp-content/uploads/2026/01/CCM_Wedding-Package_2026.pdf
 
 ## Events / MICE
 
@@ -56,7 +60,7 @@ Kids Club; ages: n/a; teens: n/a
 
 ## Sustainability
 
-- n/a
+- solar, desalination, coral restoration, marine biologist, Green Globe, manta trust, Olive Ridley Project, reef restoration
 
 ## Public contacts
 
@@ -65,18 +69,17 @@ Kids Club; ages: n/a; teens: n/a
 ## Latest documents
 
 - factsheet: https://www.neoscapesmaldives.com/wp-content/uploads/CCM-Factsheet.pdf
-- map: https://www.neoscapesmaldives.com/wp-content/uploads/CCM-Island-Map-1.pdf
-- wedding: none
-- spa_menu: none
-- dining_menu: none
-- dive_prices: none
+- map: https://coracoraresorts.com/wp-content/uploads/2026/01/CCM-Sustainability-Management-Plan-2026.pdf
+- wedding: https://coracoraresorts.com/wp-content/uploads/2026/01/CCM_Wedding-Package_2026.pdf
+- spa_menu: https://coracoraresorts.com/wp-content/uploads/2026/01/Valentine_MOKSHA®.pdf
+- dining_menu: https://coracoraresorts.com/wp-content/uploads/2026/04/Ginger-Moon-Dinner-Russian.pdf
+- dive_prices: https://coracoraresorts.com/wp-content/uploads/2026/01/CCM-Full-TGI-List-Price-Lists-2026.pdf
 - events: none
-- calendar: none
+- calendar: https://coracoraresorts.com/wp-content/uploads/2025/12/CCM-Welcome-to-the-Northpole-Festive-Program-2025-2026.pdf
 
 ## Gaps
 
-- wedding brochure
 - events/MICE document
 - fact: villas.total
 
-_Facts extracted by rules from 21 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-04._
+_Facts extracted by rules from 24 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

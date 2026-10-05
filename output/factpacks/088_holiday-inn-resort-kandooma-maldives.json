@@ -6,15 +6,17 @@
   "Holiday Inn Kandooma",
   "Kandooma"
  ],
- "official_url": null,
- "official_site_status": null,
+ "official_url": "https://www.ihg.com/holidayinnresorts/hotels/us/en/kandooma-maldives/mlemv/hoteldetail",
+ "official_site_status": "blocked",
  "operator_brand": "Holiday Inn",
- "atoll": null,
+ "atoll": "South Malé Atoll",
  "island": null,
  "opened_or_renovated": null,
  "star_rating": null,
  "transfer": {
-  "modes": [],
+  "modes": [
+   "speedboat"
+  ],
   "minutes": {
    "seaplane": null,
    "speedboat": null,
@@ -24,14 +26,14 @@
  },
  "island_size": null,
  "villas": {
-  "total": null,
+  "total": 161,
   "categories": []
  },
  "dining": [],
  "meal_plans": [],
  "all_inclusive_details": null,
  "spa": {
-  "name": null,
+  "name": "Kandooma Spa",
   "treatment_rooms": null,
   "signature_treatments": [],
   "menu_doc": null
@@ -39,16 +41,35 @@
  "diving_watersports": {
   "operator": null,
   "house_reef": null,
-  "activities": [],
+  "activities": [
+   "snorkelling",
+   "scuba diving",
+   "windsurfing",
+   "surfing",
+   "catamaran",
+   "jet ski",
+   "water skiing",
+   "fishing",
+   "sunset cruise",
+   "sailing",
+   "canoe"
+  ],
   "price_list_doc": null
  },
- "excursions": [],
+ "excursions": [
+  "sandbank",
+  "big game fishing"
+ ],
  "kids_family": {
   "kids_club": null,
   "age_range": null,
   "teens": null
  },
- "wellness_fitness": [],
+ "wellness_fitness": [
+  "gym",
+  "tennis",
+  "badminton"
+ ],
  "weddings": {
   "offered": null,
   "vow_renewal": null,
@@ -83,18 +104,128 @@
   "factsheet",
   "wedding brochure",
   "events/MICE document",
-  "fact: villas.total",
   "fact: villa categories",
   "fact: dining",
-  "fact: transfer",
-  "fact: atoll",
-  "fact: spa",
   "fact: dive operator",
   "fact: kids club",
   "fact: weddings",
-  "fact: contacts",
-  "no documents or pages collected"
+  "fact: contacts"
  ],
- "sources": {},
- "last_updated": "2026-10-04"
+ "sources": {
+  "atoll": [
+   {
+    "value": "South Malé Atoll",
+    "source_url": "https://www.mymaldives.com/resort-guide/holiday-inn-resort-kandooma-maldives/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "transfer.modes": [
+   {
+    "value": "speedboat",
+    "source_url": "https://www.mymaldives.com/resort-guide/holiday-inn-resort-kandooma-maldives/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "villas.total": [
+   {
+    "value": 161,
+    "source_url": "https://www.mymaldives.com/resort-guide/holiday-inn-resort-kandooma-maldives/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "spa.name": [
+   {
+    "value": "Kandooma Spa",
+    "source_url": "https://www.mymaldives.com/resort-guide/holiday-inn-resort-kandooma-maldives/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "diving_watersports.activities": [
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.mymaldives.com/resort-guide/holiday-inn-resort-kandooma-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://www.mymaldives.com/resort-guide/holiday-inn-resort-kandooma-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "windsurfing",
+    "source_url": "https://www.mymaldives.com/resort-guide/holiday-inn-resort-kandooma-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "surfing",
+    "source_url": "https://www.mymaldives.com/resort-guide/holiday-inn-resort-kandooma-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "catamaran",
+    "source_url": "https://www.mymaldives.com/resort-guide/holiday-inn-resort-kandooma-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "jet ski",
+    "source_url": "https://www.mymaldives.com/resort-guide/holiday-inn-resort-kandooma-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "water skiing",
+    "source_url": "https://www.mymaldives.com/resort-guide/holiday-inn-resort-kandooma-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.mymaldives.com/resort-guide/holiday-inn-resort-kandooma-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.mymaldives.com/resort-guide/holiday-inn-resort-kandooma-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sailing",
+    "source_url": "https://www.mymaldives.com/resort-guide/holiday-inn-resort-kandooma-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "canoe",
+    "source_url": "https://www.mymaldives.com/resort-guide/holiday-inn-resort-kandooma-maldives/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "excursions": [
+   {
+    "value": "sandbank",
+    "source_url": "https://www.mymaldives.com/resort-guide/holiday-inn-resort-kandooma-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "big game fishing",
+    "source_url": "https://www.mymaldives.com/resort-guide/holiday-inn-resort-kandooma-maldives/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "wellness_fitness": [
+   {
+    "value": "gym",
+    "source_url": "https://www.mymaldives.com/resort-guide/holiday-inn-resort-kandooma-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://www.mymaldives.com/resort-guide/holiday-inn-resort-kandooma-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "badminton",
+    "source_url": "https://www.mymaldives.com/resort-guide/holiday-inn-resort-kandooma-maldives/",
+    "as_of": "2026-10-04"
+   }
+  ]
+ },
+ "last_updated": "2026-10-05"
 }

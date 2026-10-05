@@ -1,32 +1,33 @@
 # 151. Coco Palm Dhunikolhu
 
-**Official site:** n/a (None)  
+**Official site:** https://www.cococollection.com/dhuni-kolhu (ok)  
 **Brand:** Coco  
-**Atoll:** n/a  **Island:** n/a  
+**Atoll:** Baa Atoll  **Island:** Coco Palm  
 **Opened/renovated:** n/a  **Rating:** n/a  
-**Transfer:** n/a; minutes: {}  
+**Transfer:** seaplane, speedboat; minutes: {"seaplane": 30, "speedboat": 35}  
 **Island size:** n/a  
 
-## Villas (? total)
+## Villas (100 total)
 
 
 ## Dining
 
 
 Meal plans: n/a
+All-inclusive: All-Inclusive and more festive benefits.
 
 ## Spa & wellness
 
-- Spa: n/a; treatment rooms: ?; menu: none
-- Wellness/fitness: n/a
+- Spa: Palm Dhuni Kolhu Spa; treatment rooms: ?; menu: none
+- Wellness/fitness: tennis, badminton, sauna
 
 ## Diving, water sports & excursions
 
 - Operator: n/a
 - House reef: n/a
-- Activities: n/a
+- Activities: scuba diving, windsurfing, catamaran, water skiing, fishing, sailing, canoe
 - Price list: none
-- Excursions: n/a
+- Excursions: turtle, big game fishing
 
 ## Kids & family
 
@@ -34,7 +35,7 @@ Meal plans: n/a
 
 ## Weddings
 
-- Offered: None; vow renewal: None
+- Offered: True; vow renewal: None
 - Venues: n/a
 - Packages: n/a
 - Brochure: none
@@ -68,16 +69,10 @@ Meal plans: n/a
 - factsheet
 - wedding brochure
 - events/MICE document
-- fact: villas.total
 - fact: villa categories
 - fact: dining
-- fact: transfer
-- fact: atoll
-- fact: spa
 - fact: dive operator
 - fact: kids club
-- fact: weddings
 - fact: contacts
-- no documents or pages collected
 
-_Facts extracted by rules from 0 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-04._
+_Facts extracted by rules from 12 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

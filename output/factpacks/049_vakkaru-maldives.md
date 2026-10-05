@@ -1,23 +1,29 @@
 # 49. Vakkaru Maldives
 
-**Official site:** n/a (None)  
+**Official site:** https://www.vakkarumaldives.com/ (ok)  
 **Brand:** Vakkaru  
 **Atoll:** Baa Atoll  **Island:** n/a  
 **Opened/renovated:** n/a  **Rating:** n/a  
-**Transfer:** seaplane, speedboat, domestic flight, yacht; minutes: {"seaplane": 20, "speedboat": 30, "domestic flight": 30}  
+**Transfer:** seaplane, speedboat, domestic flight, yacht; minutes: {"seaplane": 30, "speedboat": 30, "domestic flight": 30}  
 **Island size:** n/a  
 
 ## Villas (? total)
 
-- Beach Villa with Plunge Pool A + C: count ?, 115 sqm, max ?, pool
-- Beach Pool Villa A or A + C: count ?, 250 sqm, max ?, pool
-- Beach Family Pool Villa A or A + C: count ?, 250 sqm, max ?, pool
-- One Bedroom Beach Pool Residence A+ C or A+ C: count ?, 285 sqm, max ?, pool
-- Two Bedroom Beach Pool Residence A or A + C: count ?, 290 sqm, max ?, pool
-- Overwater Villa A + C N/A: count ?, 140 sqm, max ?, overwater
-- Overwater Pool Villa A + C: count ?, 165 sqm, max ?, pool, overwater
-- Overwater Family Pool Villa A or A + C: count ?, 165 sqm, max ?, pool, overwater
-- The Vakkaru Overwater Residence A + C or A: count ?, 950 sqm, max ?, overwater
+- Reception RECREATION BEACH VILLAS AND RESIDENCES: count 1, ? sqm, max ?
+- Sand & Sea Beach Pool Residence: count 2, ? sqm, max ?, pool
+- Clinic Beach Villa with Plunge Pool: count 130, ? sqm, max ?, pool
+- Amaany Beach Pool Residence: count 5, ? sqm, max ?, pool
+- Overwater Pool Villa: count 29, ? sqm, max ?, pool, overwater
+- Overwater Villa: count 25, ? sqm, max ?, overwater
+- Jungle Cinema Overwater Pool Residence: count 12, ? sqm, max ?, pool, overwater
+- Beach Villa with Plunge Pool Terrace: A or A + C: count ?, 25 sqm, max ?, pool
+- Beach Pool Villa Terrace: count ?, 35 sqm, max ?, pool
+- Over Water Pool Villa A or A + C: count ?, 35 sqm, max ?, pool, overwater
+- One Bedroom Beach Pool Residence Terrace: count ?, 42 sqm, max ?, pool
+- Residence Sunset View Sundeck: or A + C: count ?, 77 sqm, max ?
+- Two Bedroom Beach Pool Residence Terrace: A or A + C: count ?, 53 sqm, max ?, pool
+- Three Bedroom Beach Pool Residence A or A + C: count ?, 55 sqm, max ?, pool
+- The Vakkaru Over Water Residence A or A + C: count ?, 60 sqm, max ?, overwater
 - Reception BEACH VILLAS & RETREATS: count 1, ? sqm, max ?
 - Sand Boutique Two Bedroom Beach Pool Villas: count 1, ? sqm, max ?, pool
 - Beach Pool Villas: count 23, ? sqm, max ?, pool
@@ -25,51 +31,48 @@
 - Delu e Beach Pool Retreats: count 18, ? sqm, max ?, pool
 - Lagoon Bar Beach Family Pool Villas: count 7, ? sqm, max ?, pool, overwater
 - Beach Pool Retreats: count 24, ? sqm, max ?, pool
-- Gym Over Water Family Pool Villas: count 23, ? sqm, max ?, pool, overwater
 - Parrotﬁsh Club Over Water Pool Retreats: count 25, ? sqm, max ?, pool, overwater
 - The Residence: count 25, ? sqm, max ?
-- Number of Villas: count 113, ? sqm, max ?
 - beach family pool villa sleeping room vakkaru maldives: count 4, ? sqm, max ?, pool
 - beach family pool villa bedroom vakkaru maldives: count 3, ? sqm, max ?, pool
 - beach family pool villa bed vakkaru maldives: count 2, ? sqm, max ?, pool
+- beach and overwater villas and residences: count 113, ? sqm, max ?, overwater
 
 ## Dining
 
-- Teppanyaki (restaurant)
-- Destination Dining (restaurant)
-- 7 Lagoon Bar Beach Family Pool Villas (bar)
-- Dining (restaurant)
 - Lagoon Bar (bar)
-- Luxury Destination Dining (restaurant)
-- Organic Garden Dining (restaurant)
+- Anguru Teppanyaki (restaurant)
+- Teppanyaki (restaurant)
 - Seaplane Lounge (bar)
+- Khufu De’ Recreation Lounge (bar)
+- Team Dining at Kaage Restaurant (restaurant)
 
-Meal plans: n/a
+Meal plans: HB, Dine Around
 
 ## Spa & wellness
 
-- Spa: Spa; treatment rooms: ?; menu: none
-- Wellness/fitness: yoga, fitness centre, tennis, padel, beach volleyball, sauna, steam, wellness programme, gym, meditation, fitness center, badminton, pilates
+- Spa: Merana Spa; treatment rooms: 12; menu: https://www.vakkarumaldives.com/pdfs/spa-menus/merana-spa_menu_2026.pdf
+- Wellness/fitness: yoga, gym, fitness centre, tennis, padel, beach volleyball, sauna, steam, meditation, ayurveda, badminton, personal trainer, wellness programme, pilates, sound healing, fitness center
 
 ## Diving, water sports & excursions
 
-- Operator: n/a
-- House reef: house reef with unique marine biodiversity
-- Activities: snorkeling, scuba diving, parasailing, fishing, dolphin cruise, whale shark, manta
+- Operator: Dive Centre
+- House reef: House reef dive & all equipment)
+- Activities: snorkelling, snorkeling, scuba diving, windsurfing, surfing, jet ski, parasailing, wakeboarding, fishing, sunset cruise, dolphin cruise, manta, sailing, kayaking, whale shark
 - Price list: none
-- Excursions: sandbank, picnic, castaway, cooking class, dolphin, sunset fishing, whale shark, manta
+- Excursions: sandbank, picnic, private dinner, castaway, cinema, dolphin, sunset fishing, big game fishing, manta, turtle, local island, stargazing, whale shark, cooking class
 
 ## Kids & family
 
 - Kids club: Yes
-Kids Club; ages: n/a; teens: n/a
+Kids Club; ages: n/a; teens: teens programme mentioned
 
 ## Weddings
 
 - Offered: True; vow renewal: None
 - Venues: venue by the beach to savour our finest selection of
 - Packages: n/a
-- Brochure: none
+- Brochure: https://www.vakkarumaldives.com/pdfs/news/valentines-day-2024.pdf
 
 ## Events / MICE
 
@@ -78,28 +81,26 @@ Kids Club; ages: n/a; teens: n/a
 
 ## Sustainability
 
-- marine biologist, organic garden
+- organic garden, marine biologist, single-use plastic, composting
 
 ## Public contacts
 
-- Reservations: info@neoscapesmaldives.com; weddings: n/a; phone: +960 736 5425
+- Reservations: info@neoscapesmaldives.com; weddings: n/a; phone: +960 660 7404
 
 ## Latest documents
 
-- factsheet: https://www.neoscapesmaldives.com/wp-content/uploads/Vakkaru-Maldives-Fact-Sheet-2022.pdf
+- factsheet: https://www.vakkarumaldives.com/pdfs/vakkaru-maldives-fact-sheet-2025.pdf
 - map: https://www.neoscapesmaldives.com/wp-content/uploads/Vakkaru-Maldives-Resort-Map-A4.pdf
-- wedding: none
-- spa_menu: none
-- dining_menu: none
+- wedding: https://www.vakkarumaldives.com/pdfs/news/valentines-day-2024.pdf
+- spa_menu: https://www.vakkarumaldives.com/pdfs/spa-menus/merana-spa_menu_2026.pdf
+- dining_menu: https://www.vakkarumaldives.com/pdfs/dining-restaurant-menus/master-wine-list.-2026.pdf
 - dive_prices: none
 - events: none
-- calendar: none
+- calendar: https://www.vakkarumaldives.com/pdfs/news/easter-brochure-2024.pdf
 
 ## Gaps
 
-- wedding brochure
 - events/MICE document
 - fact: villas.total
-- fact: dive operator
 
-_Facts extracted by rules from 18 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-04._
+_Facts extracted by rules from 22 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

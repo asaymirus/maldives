@@ -5,8 +5,8 @@
  "aliases": [
   "Kandolhu"
  ],
- "official_url": null,
- "official_site_status": null,
+ "official_url": "https://www.kandolhu.com/",
+ "official_site_status": "ok",
  "operator_brand": null,
  "atoll": "Ari Atoll",
  "island": null,
@@ -52,12 +52,44 @@
     "overwater": true
    },
    {
-    "name": "Number of Villas",
-    "count": 30,
-    "size_sqm": null,
+    "name": "BEACH VILLAS",
+    "count": 6,
+    "size_sqm": 85,
     "max_occupancy": null,
     "pool": null,
     "overwater": null
+   },
+   {
+    "name": "DUPLE POOL VILLAS",
+    "count": 8,
+    "size_sqm": 150,
+    "max_occupancy": null,
+    "pool": true,
+    "overwater": null
+   },
+   {
+    "name": "POOL VILLAS",
+    "count": 5,
+    "size_sqm": 150,
+    "max_occupancy": null,
+    "pool": true,
+    "overwater": null
+   },
+   {
+    "name": "OCEAN POOL VILLAS",
+    "count": null,
+    "size_sqm": 90,
+    "max_occupancy": null,
+    "pool": true,
+    "overwater": true
+   },
+   {
+    "name": "DELU E OCEAN POOL VILLAS",
+    "count": 4,
+    "size_sqm": 120,
+    "max_occupancy": null,
+    "pool": true,
+    "overwater": true
    }
   ]
  },
@@ -73,22 +105,7 @@
    "type": "restaurant"
   },
   {
-   "name": "freshly caught seafood served from the grill. Sea Grill is",
-   "cuisine": null,
-   "type": "restaurant"
-  },
-  {
-   "name": "Villa Dining Beach Dining",
-   "cuisine": null,
-   "type": "restaurant"
-  },
-  {
-   "name": "corner of the beach. Beach Dining is available on",
-   "cuisine": null,
-   "type": "restaurant"
-  },
-  {
-   "name": "Dining",
+   "name": "Grill",
    "cuisine": null,
    "type": "restaurant"
   },
@@ -98,12 +115,12 @@
    "type": "bar"
   },
   {
-   "name": "Villa Dining",
+   "name": "Vilu Bar Menu",
    "cuisine": null,
-   "type": "restaurant"
+   "type": "bar"
   },
   {
-   "name": "Private Dining",
+   "name": "Sea Grill Menu",
    "cuisine": null,
    "type": "restaurant"
   }
@@ -118,11 +135,11 @@
   "name": "Varu Spa",
   "treatment_rooms": null,
   "signature_treatments": [],
-  "menu_doc": null
+  "menu_doc": "https://www.kandolhu.com/wp-content/uploads/2026/08/Spa-Menu.pdf"
  },
  "diving_watersports": {
   "operator": null,
-  "house_reef": "house reefs in the Maldives",
+  "house_reef": "house reef",
   "activities": [
    "snorkelling",
    "stand-up paddle",
@@ -131,16 +148,28 @@
    "sunset cruise",
    "sailing",
    "glass-bottom",
+   "scuba diving",
+   "windsurfing",
+   "kayaking",
+   "paddleboard",
+   "wakeboarding",
+   "whale shark",
+   "manta",
    "snorkeling",
    "parasailing"
   ],
-  "price_list_doc": null
+  "price_list_doc": "https://www.kandolhu.com/wp-content/uploads/2026/08/Water-Sports-Brochure.pdf"
  },
  "excursions": [
   "local island",
   "sandbank",
   "night fishing",
   "big game fishing",
+  "dolphin",
+  "whale shark",
+  "manta",
+  "turtle",
+  "picnic",
   "private dinner"
  ],
  "kids_family": {
@@ -151,43 +180,51 @@
  "wellness_fitness": [
   "sauna",
   "steam",
+  "yoga",
   "gym"
  ],
  "weddings": {
   "offered": true,
-  "vow_renewal": null,
+  "vow_renewal": true,
   "venues": [],
-  "packages": [],
-  "brochure_doc": null
+  "packages": [
+   {
+    "name": "Wedding",
+    "price": "320",
+    "currency": "USD",
+    "as_of": 2025
+   }
+  ],
+  "brochure_doc": "https://www.kandolhu.com/wp-content/uploads/2026/08/Kandolhu-Renewal-of-Vows.pdf"
  },
  "events_mice": {
   "venues": [],
   "capacity_max": null,
   "buyout": null,
-  "doc": null
+  "doc": "https://www.kandolhu.com/wp-content/uploads/2026/09/Kandolhu-Corporate-social-responsibility-policy-updated.pdf"
  },
  "sustainability": [
-  "marine biologist"
+  "marine biologist",
+  "single-use plastic",
+  "Olive Ridley Project"
  ],
  "contacts_public": {
-  "reservations_email": "info@neoscapesmaldives.com",
+  "reservations_email": "info@kandolhu.com",
   "weddings_email": null,
-  "phone": "+960 736 5425"
+  "phone": "+960 668 0790"
  },
  "documents_latest": {
   "factsheet": "https://www.neoscapesmaldives.com/wp-content/uploads/kandolhu-maldives-factsheet.pdf",
-  "map": "https://www.neoscapesmaldives.com/wp-content/uploads/kandolhu-maldives-resort-map-may-2019.pdf",
-  "wedding": null,
-  "spa_menu": null,
-  "dining_menu": null,
-  "dive_prices": null,
-  "events": null,
-  "calendar": null
+  "map": "https://www.kandolhu.com/wp-content/uploads/2026/09/Kandolhu-Meal-Plan-Flyer.pdf",
+  "wedding": "https://www.kandolhu.com/wp-content/uploads/2026/08/Kandolhu-Renewal-of-Vows.pdf",
+  "spa_menu": "https://www.kandolhu.com/wp-content/uploads/2026/08/Spa-Menu.pdf",
+  "dining_menu": "https://www.kandolhu.com/wp-content/uploads/2026/08/VILU-BAR-MENU.pdf",
+  "dive_prices": "https://www.kandolhu.com/wp-content/uploads/2026/08/Water-Sports-Brochure.pdf",
+  "events": "https://www.kandolhu.com/wp-content/uploads/2026/09/Kandolhu-Corporate-social-responsibility-policy-updated.pdf",
+  "calendar": "https://www.kandolhu.com/wp-content/uploads/2026/08/Kandolhu-Festive-Brochure-_Digital-2026.pdf"
  },
- "documents_count": 2,
+ "documents_count": 77,
  "gaps": [
-  "wedding brochure",
-  "events/MICE document",
   "fact: dive operator"
  ],
  "sources": {
@@ -199,7 +236,187 @@
    },
    {
     "value": "Ari Atoll",
+    "source_url": "https://www.kandolhu.com/wp-content/uploads/2026/09/Kandolhu-Corporate-social-responsibility-policy-updated.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "Ari Atoll",
+    "source_url": "https://www.kandolhu.com/wp-content/uploads/2026/08/Water-Sports-Brochure.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "Ari Atoll",
+    "source_url": "https://www.kandolhu.com/wp-content/uploads/2026/08/Immersive-Experiences-in-Kandolhu-Maldives.pdf",
+    "as_of": 2015
+   },
+   {
+    "value": "Ari Atoll",
+    "source_url": "https://www.kandolhu.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Ari Atoll",
+    "source_url": "https://www.kandolhu.com/events/exclusive-culinary-collaboration-with-celebrated-st-moritz-chef-fabrizio-zanetti/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Ari Atoll",
+    "source_url": "https://www.kandolhu.com/villas/pool-villas/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Ari Atoll",
+    "source_url": "https://www.kandolhu.com/dining/banzai/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Ari Atoll",
+    "source_url": "https://www.kandolhu.com/dining/vilu-bar/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Ari Atoll",
+    "source_url": "https://www.kandolhu.com/experience/kandolhu-house-reef/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Ari Atoll",
+    "source_url": "https://www.kandolhu.com/experience/water-sports/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Ari Atoll",
+    "source_url": "https://www.kandolhu.com/villas/ocean-pool-villas/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Ari Atoll",
+    "source_url": "https://www.kandolhu.com/events/festive-season/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Ari Atoll",
+    "source_url": "https://www.kandolhu.com/sustainability/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Ari Atoll",
+    "source_url": "https://www.kandolhu.com/maldives-special-offers/exclusive-early-booker-deal/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Ari Atoll",
+    "source_url": "https://www.kandolhu.com/dining/olive/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Ari Atoll",
+    "source_url": "https://www.kandolhu.com/maldives-special-offers/kandolhu-bliss-a-secluded-retreat-for-two/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Ari Atoll",
+    "source_url": "https://www.kandolhu.com/press-releases/kandolhu-maldives-announces-magical-festive-season-program/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Ari Atoll",
+    "source_url": "https://www.kandolhu.com/experience/snorkelling/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Ari Atoll",
+    "source_url": "https://www.kandolhu.com/experience/diving/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Ari Atoll",
+    "source_url": "https://www.kandolhu.com/villas/duplex-pool-villas/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Ari Atoll",
+    "source_url": "https://www.kandolhu.com/dining/the-market/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Ari Atoll",
+    "source_url": "https://www.kandolhu.com/experience/excursions/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Ari Atoll",
+    "source_url": "https://www.kandolhu.com/maldives-special-offers/summer-by-the-sea/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Ari Atoll",
+    "source_url": "https://www.kandolhu.com/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Ari Atoll",
+    "source_url": "https://www.kandolhu.com/dining/sea-grill/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Ari Atoll",
+    "source_url": "https://www.kandolhu.com/contact/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Ari Atoll",
+    "source_url": "https://www.kandolhu.com/dining/ata-roa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Ari Atoll",
+    "source_url": "https://www.kandolhu.com/villas/deluxe-ocean-pool-villas/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Ari Atoll",
+    "source_url": "https://www.kandolhu.com/villas/beach-villas/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Ari Atoll",
+    "source_url": "https://www.kandolhu.com/events/an-exclusive-culinary-experience-with-two-star-michelin-chef-benjamin-peifer/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Ari Atoll",
+    "source_url": "https://www.kandolhu.com/maldives-special-offers/making-memories/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Ari Atoll",
+    "source_url": "https://www.kandolhu.com",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Ari Atoll",
+    "source_url": "https://www.kandolhu.com/rooms-villas/pool-villas/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Ari Atoll",
+    "source_url": "https://www.kandolhu.com/rooms-villas/duplex-pool-villas/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Ari Atoll",
+    "source_url": "https://www.kandolhu.com/rooms-villas/deluxe-ocean-pool-villas/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Ari Atoll",
     "source_url": "https://www.neoscapesmaldives.com/resort/kandolhu-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Ari Atoll",
+    "source_url": "https://malediven.de/insel/kandolhu-maldives-wo-ruhe-stil-und-geschmack-sich-neu-begegnen/",
     "as_of": "2026-10-04"
    }
   ],
@@ -208,6 +425,11 @@
     "value": "seaplane",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/kandolhu-maldives-factsheet.pdf",
     "as_of": 2019
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.kandolhu.com/maldives-special-offers/making-memories/",
+    "as_of": "2026-10-04"
    },
    {
     "value": "seaplane",
@@ -249,6 +471,11 @@
     "value": 30,
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/kandolhu-maldives-factsheet.pdf",
     "as_of": 2019
+   },
+   {
+    "value": 30,
+    "source_url": "https://www.kandolhu.com/wp-content/uploads/2026/08/Hey-Gents-Magazine-April-2017.pdf",
+    "as_of": 2017
    }
   ],
   "villas.categories": [
@@ -290,14 +517,146 @@
    },
    {
     "value": {
-     "name": "Number of Villas",
-     "count": 30,
-     "size_sqm": null,
+     "name": "BEACH VILLAS",
+     "count": 6,
+     "size_sqm": 85,
      "max_occupancy": null,
      "pool": null,
      "overwater": null
     },
-    "source_url": "https://www.neoscapesmaldives.com/resort/kandolhu-maldives/",
+    "source_url": "https://www.kandolhu.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "DUPLE POOL VILLAS",
+     "count": 8,
+     "size_sqm": 150,
+     "max_occupancy": null,
+     "pool": true,
+     "overwater": null
+    },
+    "source_url": "https://www.kandolhu.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "POOL VILLAS",
+     "count": 5,
+     "size_sqm": 150,
+     "max_occupancy": null,
+     "pool": true,
+     "overwater": null
+    },
+    "source_url": "https://www.kandolhu.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "OCEAN POOL VILLAS",
+     "count": null,
+     "size_sqm": 90,
+     "max_occupancy": null,
+     "pool": true,
+     "overwater": true
+    },
+    "source_url": "https://www.kandolhu.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "DELU E OCEAN POOL VILLAS",
+     "count": 4,
+     "size_sqm": 120,
+     "max_occupancy": null,
+     "pool": true,
+     "overwater": true
+    },
+    "source_url": "https://www.kandolhu.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "BEACH VILLAS",
+     "count": 6,
+     "size_sqm": 85,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://www.kandolhu.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "BEACH VILLAS",
+     "count": 6,
+     "size_sqm": 85,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://www.kandolhu.com",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "DUPLE POOL VILLAS",
+     "count": 8,
+     "size_sqm": 150,
+     "max_occupancy": null,
+     "pool": true,
+     "overwater": null
+    },
+    "source_url": "https://www.kandolhu.com",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "POOL VILLAS",
+     "count": 5,
+     "size_sqm": 150,
+     "max_occupancy": null,
+     "pool": true,
+     "overwater": null
+    },
+    "source_url": "https://www.kandolhu.com",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "OCEAN POOL VILLAS",
+     "count": null,
+     "size_sqm": 90,
+     "max_occupancy": null,
+     "pool": true,
+     "overwater": true
+    },
+    "source_url": "https://www.kandolhu.com",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "DELU E OCEAN POOL VILLAS",
+     "count": 4,
+     "size_sqm": 120,
+     "max_occupancy": null,
+     "pool": true,
+     "overwater": true
+    },
+    "source_url": "https://www.kandolhu.com",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "BEACH VILLAS",
+     "count": 6,
+     "size_sqm": 85,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://www.kandolhu.com",
     "as_of": "2026-10-04"
    }
   ],
@@ -322,47 +681,299 @@
    },
    {
     "value": {
-     "name": "freshly caught seafood served from the grill. Sea Grill is",
+     "name": "Sea Grill",
      "cuisine": null,
      "type": "restaurant"
     },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/kandolhu-maldives-factsheet.pdf",
-    "as_of": 2019
-   },
-   {
-    "value": {
-     "name": "Villa Dining Beach Dining",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/kandolhu-maldives-factsheet.pdf",
-    "as_of": 2019
-   },
-   {
-    "value": {
-     "name": "corner of the beach. Beach Dining is available on",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/kandolhu-maldives-factsheet.pdf",
-    "as_of": 2019
-   },
-   {
-    "value": {
-     "name": "Dining",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/kandolhu-maldives/",
+    "source_url": "https://www.kandolhu.com/",
     "as_of": "2026-10-04"
    },
    {
     "value": {
-     "name": "Dining",
+     "name": "Grill",
      "cuisine": null,
      "type": "restaurant"
     },
-    "source_url": "https://www.neoscapesmaldives.com/resort/kandolhu-maldives/",
+    "source_url": "https://www.kandolhu.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Vilu Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.kandolhu.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Sea Grill",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.kandolhu.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Vilu Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.kandolhu.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Sea Grill",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.kandolhu.com/dining/banzai/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Grill",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.kandolhu.com/dining/banzai/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Vilu Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.kandolhu.com/dining/banzai/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Vilu Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.kandolhu.com/dining/vilu-bar/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Vilu Bar Menu",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.kandolhu.com/dining/vilu-bar/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Sea Grill",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.kandolhu.com/dining/vilu-bar/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Grill",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.kandolhu.com/dining/vilu-bar/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Sea Grill",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.kandolhu.com/meal-plans/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Grill",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.kandolhu.com/meal-plans/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Vilu Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.kandolhu.com/meal-plans/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Sea Grill",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.kandolhu.com/dining/olive/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Grill",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.kandolhu.com/dining/olive/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Vilu Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.kandolhu.com/dining/olive/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Sea Grill",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.kandolhu.com/dining/the-market/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Grill",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.kandolhu.com/dining/the-market/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Vilu Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.kandolhu.com/dining/the-market/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Sea Grill",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.kandolhu.com/dining/sea-grill/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Grill",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.kandolhu.com/dining/sea-grill/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Sea Grill Menu",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.kandolhu.com/dining/sea-grill/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Vilu Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.kandolhu.com/dining/sea-grill/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Sea Grill",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.kandolhu.com/dining/ata-roa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Grill",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.kandolhu.com/dining/ata-roa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Vilu Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.kandolhu.com/dining/ata-roa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Sea Grill",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.kandolhu.com",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Grill",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.kandolhu.com",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Vilu Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.kandolhu.com",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Sea Grill",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.kandolhu.com",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Vilu Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.kandolhu.com",
     "as_of": "2026-10-04"
    },
    {
@@ -379,24 +990,6 @@
      "name": "Vilu Bar",
      "cuisine": null,
      "type": "bar"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/kandolhu-maldives/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Villa Dining",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/kandolhu-maldives/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Private Dining",
-     "cuisine": null,
-     "type": "restaurant"
     },
     "source_url": "https://www.neoscapesmaldives.com/resort/kandolhu-maldives/",
     "as_of": "2026-10-04"
@@ -434,7 +1027,52 @@
    },
    {
     "value": "Varu Spa",
+    "source_url": "https://www.kandolhu.com/wp-content/uploads/2026/08/Kandolhu-Renewal-of-Vows.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "Varu Spa",
+    "source_url": "https://www.kandolhu.com/wp-content/uploads/2026/08/Spa-Menu.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "Varu Spa",
+    "source_url": "https://www.kandolhu.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Varu Spa",
+    "source_url": "https://www.kandolhu.com/meal-plans/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Varu Spa",
+    "source_url": "https://www.kandolhu.com/varu-spa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.kandolhu.com/maldives-special-offers/kandolhu-bliss-a-secluded-retreat-for-two/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Varu Spa",
+    "source_url": "https://www.kandolhu.com/wellbeing/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Varu Spa",
+    "source_url": "https://www.kandolhu.com",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Varu Spa",
     "source_url": "https://www.neoscapesmaldives.com/resort/kandolhu-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://malediven.de/malediven-hotels/kandolhu/",
     "as_of": "2026-10-04"
    }
   ],
@@ -443,6 +1081,121 @@
     "value": "house reef offers",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/kandolhu-maldives-factsheet.pdf",
     "as_of": 2019
+   },
+   {
+    "value": "house reef, with the support of a private boat and guide; allowing",
+    "source_url": "https://www.kandolhu.com/wp-content/uploads/2026/08/Water-Sports-Brochure.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "house reef, or Reef Hopping, a jaunt to several snorkel sites beyond the island",
+    "source_url": "https://www.kandolhu.com/wp-content/uploads/2026/08/Immersive-Experiences-in-Kandolhu-Maldives.pdf",
+    "as_of": 2015
+   },
+   {
+    "value": "house reef, or the colour spectrum of tropical fish, there’s another glistening",
+    "source_url": "https://www.kandolhu.com/wp-content/uploads/2026/08/Hey-Gents-Magazine-April-2017.pdf",
+    "as_of": 2017
+   },
+   {
+    "value": "house reef",
+    "source_url": "https://www.kandolhu.com/wp-content/uploads/2026/09/Kandolhu-Meal-Plan-Flyer.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "house reef",
+    "source_url": "https://www.kandolhu.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef",
+    "source_url": "https://www.kandolhu.com/maldives-special-offers/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef snorkelling tour or a sunset cruise with Champagne and canapés – once each, on us",
+    "source_url": "https://www.kandolhu.com/meal-plans/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef",
+    "source_url": "https://www.kandolhu.com/experience/kandolhu-house-reef/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef, or venture further out to a quiet stretch of sand nearby, however far you feel like going",
+    "source_url": "https://www.kandolhu.com/experience/water-sports/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef begins just steps from your deck – fins and a mask and you’re ready to go",
+    "source_url": "https://www.kandolhu.com/villas/ocean-pool-villas/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef snorkelling, small workshops at Vilu Bar, and afternoons spent decorating the island’s Christmas tree together",
+    "source_url": "https://www.kandolhu.com/events/festive-season/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef",
+    "source_url": "https://www.kandolhu.com/maldives-special-offers/exclusive-early-booker-deal/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef",
+    "source_url": "https://www.kandolhu.com/maldives-special-offers/kandolhu-bliss-a-secluded-retreat-for-two/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef snorkelling, small workshops at Vilu Bar, and afternoons spent decorating the island’s Christmas tree together",
+    "source_url": "https://www.kandolhu.com/press-releases/kandolhu-maldives-announces-magical-festive-season-program/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef, a guide can lead you further, to hidden coral gardens by day or torchlit waters after dark, with equipment ready whenever curiosity strikes",
+    "source_url": "https://www.kandolhu.com/experience/snorkelling/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef is where it starts",
+    "source_url": "https://www.kandolhu.com/experience/diving/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef",
+    "source_url": "https://www.kandolhu.com/experience/excursions/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef",
+    "source_url": "https://www.kandolhu.com/maldives-special-offers/summer-by-the-sea/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef to open water",
+    "source_url": "https://www.kandolhu.com/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef is ready to receive you",
+    "source_url": "https://www.kandolhu.com/villas/deluxe-ocean-pool-villas/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef just steps from your villa",
+    "source_url": "https://www.kandolhu.com/maldives-special-offers/making-memories/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef",
+    "source_url": "https://www.kandolhu.com",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef is ready to receive you",
+    "source_url": "https://www.kandolhu.com/rooms-villas/deluxe-ocean-pool-villas/",
+    "as_of": "2026-10-04"
    },
    {
     "value": "house reefs in the Maldives",
@@ -485,6 +1238,426 @@
     "value": "glass-bottom",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/kandolhu-maldives-factsheet.pdf",
     "as_of": 2019
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.kandolhu.com/wp-content/uploads/2026/08/Water-Sports-Brochure.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://www.kandolhu.com/wp-content/uploads/2026/08/Water-Sports-Brochure.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "windsurfing",
+    "source_url": "https://www.kandolhu.com/wp-content/uploads/2026/08/Water-Sports-Brochure.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "kayaking",
+    "source_url": "https://www.kandolhu.com/wp-content/uploads/2026/08/Water-Sports-Brochure.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "stand-up paddle",
+    "source_url": "https://www.kandolhu.com/wp-content/uploads/2026/08/Water-Sports-Brochure.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "paddleboard",
+    "source_url": "https://www.kandolhu.com/wp-content/uploads/2026/08/Water-Sports-Brochure.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "catamaran",
+    "source_url": "https://www.kandolhu.com/wp-content/uploads/2026/08/Water-Sports-Brochure.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "wakeboarding",
+    "source_url": "https://www.kandolhu.com/wp-content/uploads/2026/08/Water-Sports-Brochure.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.kandolhu.com/wp-content/uploads/2026/08/Water-Sports-Brochure.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.kandolhu.com/wp-content/uploads/2026/08/Water-Sports-Brochure.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.kandolhu.com/wp-content/uploads/2026/08/Water-Sports-Brochure.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.kandolhu.com/wp-content/uploads/2026/08/Water-Sports-Brochure.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "sailing",
+    "source_url": "https://www.kandolhu.com/wp-content/uploads/2026/08/Water-Sports-Brochure.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.kandolhu.com/wp-content/uploads/2026/08/Immersive-Experiences-in-Kandolhu-Maldives.pdf",
+    "as_of": 2015
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.kandolhu.com/wp-content/uploads/2026/08/Immersive-Experiences-in-Kandolhu-Maldives.pdf",
+    "as_of": 2015
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.kandolhu.com/wp-content/uploads/2026/09/Kandolhu-Meal-Plan-Flyer.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.kandolhu.com/wp-content/uploads/2026/09/Kandolhu-Meal-Plan-Flyer.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.kandolhu.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "windsurfing",
+    "source_url": "https://www.kandolhu.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "kayaking",
+    "source_url": "https://www.kandolhu.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "paddleboard",
+    "source_url": "https://www.kandolhu.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "catamaran",
+    "source_url": "https://www.kandolhu.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "wakeboarding",
+    "source_url": "https://www.kandolhu.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.kandolhu.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.kandolhu.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sailing",
+    "source_url": "https://www.kandolhu.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.kandolhu.com/maldives-special-offers/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "windsurfing",
+    "source_url": "https://www.kandolhu.com/maldives-special-offers/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "kayaking",
+    "source_url": "https://www.kandolhu.com/maldives-special-offers/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "stand-up paddle",
+    "source_url": "https://www.kandolhu.com/maldives-special-offers/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "paddleboard",
+    "source_url": "https://www.kandolhu.com/maldives-special-offers/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.kandolhu.com/meal-plans/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.kandolhu.com/meal-plans/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.kandolhu.com/experience/kandolhu-house-reef/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.kandolhu.com/experience/water-sports/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "windsurfing",
+    "source_url": "https://www.kandolhu.com/experience/water-sports/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "kayaking",
+    "source_url": "https://www.kandolhu.com/experience/water-sports/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "stand-up paddle",
+    "source_url": "https://www.kandolhu.com/experience/water-sports/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "paddleboard",
+    "source_url": "https://www.kandolhu.com/experience/water-sports/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "catamaran",
+    "source_url": "https://www.kandolhu.com/experience/water-sports/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "wakeboarding",
+    "source_url": "https://www.kandolhu.com/experience/water-sports/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sailing",
+    "source_url": "https://www.kandolhu.com/experience/water-sports/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.kandolhu.com/events/festive-season/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "paddleboard",
+    "source_url": "https://www.kandolhu.com/events/festive-season/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.kandolhu.com/maldives-special-offers/exclusive-early-booker-deal/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.kandolhu.com/maldives-special-offers/kandolhu-bliss-a-secluded-retreat-for-two/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.kandolhu.com/press-releases/kandolhu-maldives-announces-magical-festive-season-program/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "paddleboard",
+    "source_url": "https://www.kandolhu.com/press-releases/kandolhu-maldives-announces-magical-festive-season-program/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.kandolhu.com/experience/snorkelling/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.kandolhu.com/experience/diving/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.kandolhu.com/experience/diving/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.kandolhu.com/experience/excursions/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.kandolhu.com/experience/excursions/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.kandolhu.com/experience/excursions/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.kandolhu.com/experience/excursions/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.kandolhu.com/experience/excursions/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.kandolhu.com/maldives-special-offers/summer-by-the-sea/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.kandolhu.com/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "windsurfing",
+    "source_url": "https://www.kandolhu.com/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "kayaking",
+    "source_url": "https://www.kandolhu.com/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "paddleboard",
+    "source_url": "https://www.kandolhu.com/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "catamaran",
+    "source_url": "https://www.kandolhu.com/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "wakeboarding",
+    "source_url": "https://www.kandolhu.com/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.kandolhu.com/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.kandolhu.com/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.kandolhu.com/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sailing",
+    "source_url": "https://www.kandolhu.com/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "catamaran",
+    "source_url": "https://www.kandolhu.com/villas/deluxe-ocean-pool-villas/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.kandolhu.com/book-direct-benefits/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "windsurfing",
+    "source_url": "https://www.kandolhu.com/book-direct-benefits/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "kayaking",
+    "source_url": "https://www.kandolhu.com/book-direct-benefits/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "stand-up paddle",
+    "source_url": "https://www.kandolhu.com/book-direct-benefits/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "paddleboard",
+    "source_url": "https://www.kandolhu.com/book-direct-benefits/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.kandolhu.com/maldives-special-offers/making-memories/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.kandolhu.com",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "windsurfing",
+    "source_url": "https://www.kandolhu.com",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "kayaking",
+    "source_url": "https://www.kandolhu.com",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "paddleboard",
+    "source_url": "https://www.kandolhu.com",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "catamaran",
+    "source_url": "https://www.kandolhu.com",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "wakeboarding",
+    "source_url": "https://www.kandolhu.com",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.kandolhu.com",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.kandolhu.com",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sailing",
+    "source_url": "https://www.kandolhu.com",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "catamaran",
+    "source_url": "https://www.kandolhu.com/rooms-villas/deluxe-ocean-pool-villas/",
+    "as_of": "2026-10-04"
    },
    {
     "value": "snorkelling",
@@ -555,6 +1728,171 @@
    },
    {
     "value": "sandbank",
+    "source_url": "https://www.kandolhu.com/wp-content/uploads/2026/08/Water-Sports-Brochure.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.kandolhu.com/wp-content/uploads/2026/08/Water-Sports-Brochure.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "big game fishing",
+    "source_url": "https://www.kandolhu.com/wp-content/uploads/2026/08/Water-Sports-Brochure.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.kandolhu.com/wp-content/uploads/2026/08/Water-Sports-Brochure.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.kandolhu.com/wp-content/uploads/2026/08/Water-Sports-Brochure.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.kandolhu.com/wp-content/uploads/2026/08/Water-Sports-Brochure.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "picnic",
+    "source_url": "https://www.kandolhu.com/wp-content/uploads/2026/08/Water-Sports-Brochure.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.kandolhu.com/wp-content/uploads/2026/08/Immersive-Experiences-in-Kandolhu-Maldives.pdf",
+    "as_of": 2015
+   },
+   {
+    "value": "big game fishing",
+    "source_url": "https://www.kandolhu.com/wp-content/uploads/2026/08/Immersive-Experiences-in-Kandolhu-Maldives.pdf",
+    "as_of": 2015
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.kandolhu.com/wp-content/uploads/2026/08/Immersive-Experiences-in-Kandolhu-Maldives.pdf",
+    "as_of": 2015
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.kandolhu.com/wp-content/uploads/2026/08/Immersive-Experiences-in-Kandolhu-Maldives.pdf",
+    "as_of": 2015
+   },
+   {
+    "value": "picnic",
+    "source_url": "https://www.kandolhu.com/wp-content/uploads/2026/08/Immersive-Experiences-in-Kandolhu-Maldives.pdf",
+    "as_of": 2015
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.kandolhu.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.kandolhu.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.kandolhu.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.kandolhu.com/experience/kandolhu-house-reef/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.kandolhu.com/sustainability/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "private dinner",
+    "source_url": "https://www.kandolhu.com/maldives-special-offers/kandolhu-bliss-a-secluded-retreat-for-two/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.kandolhu.com/experience/snorkelling/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.kandolhu.com/experience/diving/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.kandolhu.com/experience/diving/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "local island",
+    "source_url": "https://www.kandolhu.com/experience/excursions/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.kandolhu.com/experience/excursions/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "big game fishing",
+    "source_url": "https://www.kandolhu.com/experience/excursions/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.kandolhu.com/experience/excursions/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.kandolhu.com/experience/excursions/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.kandolhu.com/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.kandolhu.com/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.kandolhu.com/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.kandolhu.com/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.kandolhu.com",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.kandolhu.com",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.kandolhu.com",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank",
     "source_url": "https://www.neoscapesmaldives.com/resort/kandolhu-maldives/",
     "as_of": "2026-10-04"
    },
@@ -581,6 +1919,26 @@
     "as_of": 2019
    },
    {
+    "value": "yoga",
+    "source_url": "https://www.kandolhu.com/wp-content/uploads/2026/08/Spa-Menu.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "sauna",
+    "source_url": "https://www.kandolhu.com/varu-spa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "steam",
+    "source_url": "https://www.kandolhu.com/varu-spa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "gym",
+    "source_url": "https://www.kandolhu.com/wellbeing/",
+    "as_of": "2026-10-04"
+   },
+   {
     "value": "gym",
     "source_url": "https://www.neoscapesmaldives.com/resort/kandolhu-maldives/",
     "as_of": "2026-10-04"
@@ -601,23 +1959,215 @@
     "value": "marine biologist",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/kandolhu-maldives-factsheet.pdf",
     "as_of": 2019
-   }
-  ],
-  "kids_family.kids_club": [
+   },
    {
-    "value": "Kids Club",
-    "source_url": "https://www.neoscapesmaldives.com/resort/kandolhu-maldives/",
+    "value": "single-use plastic",
+    "source_url": "https://www.kandolhu.com/wp-content/uploads/2026/09/Kandolhu-Responsible-Guest-Guide.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "single-use plastic",
+    "source_url": "https://www.kandolhu.com/sustainability/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Olive Ridley Project",
+    "source_url": "https://www.kandolhu.com/sustainability/",
     "as_of": "2026-10-04"
    }
   ],
   "weddings.offered": [
    {
     "value": true,
+    "source_url": "https://www.kandolhu.com/wp-content/uploads/2026/08/Kandolhu-Renewal-of-Vows.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": true,
+    "source_url": "https://www.kandolhu.com/events/exclusive-culinary-collaboration-with-celebrated-st-moritz-chef-fabrizio-zanetti/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.kandolhu.com/maldives-special-offers/kandolhu-bliss-a-secluded-retreat-for-two/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
     "source_url": "https://www.neoscapesmaldives.com/resort/kandolhu-maldives/",
     "as_of": "2026-10-04"
    }
   ],
+  "weddings.vow_renewal": [
+   {
+    "value": true,
+    "source_url": "https://www.kandolhu.com/wp-content/uploads/2026/08/Kandolhu-Renewal-of-Vows.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": true,
+    "source_url": "https://www.kandolhu.com/experiences/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "weddings.packages": [
+   {
+    "value": {
+     "name": "Wedding",
+     "price": "320",
+     "currency": "USD",
+     "as_of": 2025
+    },
+    "source_url": "https://www.kandolhu.com/wp-content/uploads/2026/08/Kandolhu-Renewal-of-Vows.pdf",
+    "as_of": 2025
+   }
+  ],
   "contacts_public.reservations_email": [
+   {
+    "value": "info@kandolhu.com",
+    "source_url": "https://www.kandolhu.com/wp-content/uploads/2026/08/Immersive-Experiences-in-Kandolhu-Maldives.pdf",
+    "as_of": 2015
+   },
+   {
+    "value": "info@kandolhu.com",
+    "source_url": "https://www.kandolhu.com/events/exclusive-culinary-collaboration-with-celebrated-st-moritz-chef-fabrizio-zanetti/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "info@kandolhu.com",
+    "source_url": "https://www.kandolhu.com/villas/pool-villas/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "info@kandolhu.com",
+    "source_url": "https://www.kandolhu.com/dining/banzai/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "info@kandolhu.com",
+    "source_url": "https://www.kandolhu.com/dining/vilu-bar/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "info@kandolhu.com",
+    "source_url": "https://www.kandolhu.com/experience/kandolhu-house-reef/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "info@kandolhu.com",
+    "source_url": "https://www.kandolhu.com/experience/water-sports/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "info@kandolhu.com",
+    "source_url": "https://www.kandolhu.com/villas/ocean-pool-villas/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "info@kandolhu.com",
+    "source_url": "https://www.kandolhu.com/events/festive-season/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "info@kandolhu.com",
+    "source_url": "https://www.kandolhu.com/maldives-special-offers/exclusive-early-booker-deal/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "info@kandolhu.com",
+    "source_url": "https://www.kandolhu.com/dining/olive/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "info@kandolhu.com",
+    "source_url": "https://www.kandolhu.com/maldives-special-offers/kandolhu-bliss-a-secluded-retreat-for-two/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "info@kandolhu.com",
+    "source_url": "https://www.kandolhu.com/press-releases/kandolhu-maldives-announces-magical-festive-season-program/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "info@kandolhu.com",
+    "source_url": "https://www.kandolhu.com/experience/snorkelling/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "info@kandolhu.com",
+    "source_url": "https://www.kandolhu.com/experience/diving/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "info@kandolhu.com",
+    "source_url": "https://www.kandolhu.com/villas/duplex-pool-villas/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "info@kandolhu.com",
+    "source_url": "https://www.kandolhu.com/dining/the-market/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "info@kandolhu.com",
+    "source_url": "https://www.kandolhu.com/experience/excursions/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "info@kandolhu.com",
+    "source_url": "https://www.kandolhu.com/maldives-special-offers/summer-by-the-sea/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "info@kandolhu.com",
+    "source_url": "https://www.kandolhu.com/dining/sea-grill/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "info@kandolhu.com",
+    "source_url": "https://www.kandolhu.com/contact/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "info@kandolhu.com",
+    "source_url": "https://www.kandolhu.com/dining/ata-roa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "info@kandolhu.com",
+    "source_url": "https://www.kandolhu.com/villas/deluxe-ocean-pool-villas/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "info@kandolhu.com",
+    "source_url": "https://www.kandolhu.com/villas/beach-villas/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "info@kandolhu.com",
+    "source_url": "https://www.kandolhu.com/events/an-exclusive-culinary-experience-with-two-star-michelin-chef-benjamin-peifer/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "info@kandolhu.com",
+    "source_url": "https://www.kandolhu.com/maldives-special-offers/making-memories/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "info@kandolhu.com",
+    "source_url": "https://www.kandolhu.com/rooms-villas/pool-villas/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "info@kandolhu.com",
+    "source_url": "https://www.kandolhu.com/rooms-villas/duplex-pool-villas/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "info@kandolhu.com",
+    "source_url": "https://www.kandolhu.com/rooms-villas/deluxe-ocean-pool-villas/",
+    "as_of": "2026-10-04"
+   },
    {
     "value": "info@neoscapesmaldives.com",
     "source_url": "https://www.neoscapesmaldives.com/resort/kandolhu-maldives/",
@@ -626,11 +2176,163 @@
   ],
   "contacts_public.phone": [
    {
+    "value": "+960 668 0790",
+    "source_url": "https://www.kandolhu.com/wp-content/uploads/2026/08/Immersive-Experiences-in-Kandolhu-Maldives.pdf",
+    "as_of": 2015
+   },
+   {
+    "value": "+960 668 0790",
+    "source_url": "https://www.kandolhu.com/events/exclusive-culinary-collaboration-with-celebrated-st-moritz-chef-fabrizio-zanetti/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 668 0790",
+    "source_url": "https://www.kandolhu.com/villas/pool-villas/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 668 0790",
+    "source_url": "https://www.kandolhu.com/dining/banzai/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 668 0790",
+    "source_url": "https://www.kandolhu.com/dining/vilu-bar/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 668 0790",
+    "source_url": "https://www.kandolhu.com/experience/kandolhu-house-reef/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 668 0790",
+    "source_url": "https://www.kandolhu.com/experience/water-sports/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 668 0790",
+    "source_url": "https://www.kandolhu.com/villas/ocean-pool-villas/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 668 0790",
+    "source_url": "https://www.kandolhu.com/events/festive-season/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 6680790",
+    "source_url": "https://www.kandolhu.com/maldives-special-offers/exclusive-early-booker-deal/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 668 0790",
+    "source_url": "https://www.kandolhu.com/dining/olive/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 6680790",
+    "source_url": "https://www.kandolhu.com/maldives-special-offers/kandolhu-bliss-a-secluded-retreat-for-two/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 668 0790",
+    "source_url": "https://www.kandolhu.com/press-releases/kandolhu-maldives-announces-magical-festive-season-program/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 668 0790",
+    "source_url": "https://www.kandolhu.com/experience/snorkelling/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 668 0790",
+    "source_url": "https://www.kandolhu.com/experience/diving/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 668 0790",
+    "source_url": "https://www.kandolhu.com/villas/duplex-pool-villas/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 668 0790",
+    "source_url": "https://www.kandolhu.com/dining/the-market/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 668 0790",
+    "source_url": "https://www.kandolhu.com/experience/excursions/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 6680790",
+    "source_url": "https://www.kandolhu.com/maldives-special-offers/summer-by-the-sea/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 668 0790",
+    "source_url": "https://www.kandolhu.com/dining/sea-grill/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 668 0790",
+    "source_url": "https://www.kandolhu.com/contact/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 668 0790",
+    "source_url": "https://www.kandolhu.com/dining/ata-roa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 668 0790",
+    "source_url": "https://www.kandolhu.com/villas/deluxe-ocean-pool-villas/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 668 0790",
+    "source_url": "https://www.kandolhu.com/villas/beach-villas/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 668 0790",
+    "source_url": "https://www.kandolhu.com/events/an-exclusive-culinary-experience-with-two-star-michelin-chef-benjamin-peifer/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 6680790",
+    "source_url": "https://www.kandolhu.com/maldives-special-offers/making-memories/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 668 0790",
+    "source_url": "https://www.kandolhu.com/rooms-villas/pool-villas/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 668 0790",
+    "source_url": "https://www.kandolhu.com/rooms-villas/duplex-pool-villas/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 668 0790",
+    "source_url": "https://www.kandolhu.com/rooms-villas/deluxe-ocean-pool-villas/",
+    "as_of": "2026-10-04"
+   },
+   {
     "value": "+960 736 5425",
+    "source_url": "https://www.neoscapesmaldives.com/resort/kandolhu-maldives/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "kids_family.kids_club": [
+   {
+    "value": "Kids Club",
     "source_url": "https://www.neoscapesmaldives.com/resort/kandolhu-maldives/",
     "as_of": "2026-10-04"
    }
   ]
  },
- "last_updated": "2026-10-04"
+ "last_updated": "2026-10-05"
 }

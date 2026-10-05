@@ -5,17 +5,19 @@
  "aliases": [
   "Madifushi"
  ],
- "official_url": null,
- "official_site_status": null,
+ "official_url": "https://www.madifushiprivateisland.com/",
+ "official_site_status": "ok",
  "operator_brand": null,
- "atoll": null,
+ "atoll": "Meemu Atoll",
  "island": null,
  "opened_or_renovated": null,
- "star_rating": null,
+ "star_rating": "5-star",
  "transfer": {
-  "modes": [],
+  "modes": [
+   "seaplane"
+  ],
   "minutes": {
-   "seaplane": null,
+   "seaplane": 35,
    "speedboat": null,
    "domestic flight": null,
    "yacht": null
@@ -26,31 +28,84 @@
   "total": null,
   "categories": []
  },
- "dining": [],
+ "dining": [
+  {
+   "name": "Splash Bar",
+   "cuisine": null,
+   "type": "bar"
+  },
+  {
+   "name": "Bluefin Restaurant",
+   "cuisine": null,
+   "type": "restaurant"
+  },
+  {
+   "name": "Splash Bar (Meeting Area)",
+   "cuisine": null,
+   "type": "bar"
+  }
+ ],
  "meal_plans": [],
  "all_inclusive_details": null,
  "spa": {
-  "name": null,
+  "name": "Me Spa",
   "treatment_rooms": null,
   "signature_treatments": [],
-  "menu_doc": null
+  "menu_doc": "https://tablecells.com/api/v1/files/public/01M3VWMA7ME95E17H4EN46FJ91-Pure-Coconut-Oil.pdf"
  },
  "diving_watersports": {
-  "operator": null,
-  "house_reef": null,
-  "activities": [],
+  "operator": "Dive Centre",
+  "house_reef": "house reef at Madifushi Private Island, easily accessible by a 5â10 minute boat ride",
+  "activities": [
+   "fishing",
+   "sunset cruise",
+   "snorkeling",
+   "stand-up paddle",
+   "dolphin cruise",
+   "whale shark",
+   "manta",
+   "sailing",
+   "canoe",
+   "snorkelling",
+   "scuba diving",
+   "kayaking",
+   "jet ski",
+   "wakeboarding",
+   "seabob",
+   "flyboard"
+  ],
   "price_list_doc": null
  },
- "excursions": [],
+ "excursions": [
+  "island hopping",
+  "local island",
+  "sandbank",
+  "dolphin",
+  "sunset fishing",
+  "whale shark",
+  "manta",
+  "turtle",
+  "cooking class"
+ ],
  "kids_family": {
   "kids_club": null,
   "age_range": null,
   "teens": null
  },
- "wellness_fitness": [],
+ "wellness_fitness": [
+  "steam",
+  "fitness center",
+  "sauna",
+  "yoga",
+  "gym",
+  "tennis",
+  "badminton",
+  "pilates",
+  "ayurveda"
+ ],
  "weddings": {
-  "offered": null,
-  "vow_renewal": null,
+  "offered": true,
+  "vow_renewal": true,
   "venues": [],
   "packages": [],
   "brochure_doc": null
@@ -65,35 +120,660 @@
  "contacts_public": {
   "reservations_email": null,
   "weddings_email": null,
-  "phone": null
+  "phone": "+960 672 0000"
  },
  "documents_latest": {
   "factsheet": null,
   "map": null,
   "wedding": null,
-  "spa_menu": null,
-  "dining_menu": null,
+  "spa_menu": "https://tablecells.com/api/v1/files/public/01M3VWMA7ME95E17H4EN46FJ91-Pure-Coconut-Oil.pdf",
+  "dining_menu": "https://tablecells.com/api/v1/files/public/01KRB3VVNRCDQZNB0NJ4195TGC-IN_VILLA_DINING_NEW_MENU_-_NO_PRICES.pdf",
   "dive_prices": null,
   "events": null,
   "calendar": null
  },
- "documents_count": 0,
+ "documents_count": 6,
  "gaps": [
   "factsheet",
   "wedding brochure",
   "events/MICE document",
   "fact: villas.total",
   "fact: villa categories",
-  "fact: dining",
-  "fact: transfer",
-  "fact: atoll",
-  "fact: spa",
-  "fact: dive operator",
   "fact: kids club",
-  "fact: weddings",
-  "fact: contacts",
-  "no documents or pages collected"
+  "fact: contacts"
  ],
- "sources": {},
- "last_updated": "2026-10-04"
+ "sources": {
+  "atoll": [
+   {
+    "value": "Meemu Atoll",
+    "source_url": "https://tablecells.com/api/v1/files/public/01M3VWMA7ME95E17H4EN46FJ91-Pure-Coconut-Oil.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "Meemu Atoll",
+    "source_url": "https://www.madifushiprivateisland.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Meemu Atoll",
+    "source_url": "https://www.madifushiprivateisland.com/about-us",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Meemu Atoll",
+    "source_url": "https://www.madifushiprivateisland.com/contact-us",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Meemu Atoll",
+    "source_url": "https://www.madifushiprivateisland.com/wellness",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Meemu Atoll",
+    "source_url": "https://www.madifushiprivateisland.com/experiences",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Meemu Atoll",
+    "source_url": "https://www.madifushiprivateisland.com/careers",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Meemu Atoll",
+    "source_url": "https://www.madifushiprivateisland.com",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Meemu Atoll",
+    "source_url": "https://www.madifushiprivateisland.com/experience/island-hopping",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "contacts_public.phone": [
+   {
+    "value": "+960 672 0000",
+    "source_url": "https://tablecells.com/api/v1/files/public/01M3VWMA7ME95E17H4EN46FJ91-Pure-Coconut-Oil.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "+960 6720000",
+    "source_url": "https://www.madifushiprivateisland.com/accommodations",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 6720000",
+    "source_url": "https://www.madifushiprivateisland.com/accommodation/bella-six",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 6720000",
+    "source_url": "https://www.madifushiprivateisland.com/contact-us",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 796 1607",
+    "source_url": "https://www.madifushiprivateisland.com/travel-advisory",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "wellness_fitness": [
+   {
+    "value": "steam",
+    "source_url": "https://tablecells.com/api/v1/files/public/01KRB3VVNRCDQZNB0NJ4195TGC-IN_VILLA_DINING_NEW_MENU_-_NO_PRICES.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "fitness center",
+    "source_url": "https://www.madifushiprivateisland.com/about-us",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sauna",
+    "source_url": "https://www.madifushiprivateisland.com/wellness",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "steam",
+    "source_url": "https://www.madifushiprivateisland.com/wellness",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.madifushiprivateisland.com/events",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "gym",
+    "source_url": "https://www.madifushiprivateisland.com/events",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://www.madifushiprivateisland.com/events",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "badminton",
+    "source_url": "https://www.madifushiprivateisland.com/events",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "pilates",
+    "source_url": "https://www.madifushiprivateisland.com/events",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "ayurveda",
+    "source_url": "https://www.maldivesholidayoffers.com/blogs/blog-detail/madifushi-newest-luxury-private-island-in-the-maldives-to-visit-2023/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "diving_watersports.activities": [
+   {
+    "value": "fishing",
+    "source_url": "https://www.madifushiprivateisland.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.madifushiprivateisland.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.madifushiprivateisland.com/special-offers",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "stand-up paddle",
+    "source_url": "https://www.madifushiprivateisland.com/special-offers",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin cruise",
+    "source_url": "https://www.madifushiprivateisland.com/special-offers",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.madifushiprivateisland.com/accommodations",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.madifushiprivateisland.com/accommodation/tranquil-aqua-pool-villa",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.madifushiprivateisland.com/accommodation/two-bedroom-serene-pool-villa",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.madifushiprivateisland.com/about-us",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.madifushiprivateisland.com/about-us",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sailing",
+    "source_url": "https://www.madifushiprivateisland.com/about-us",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "canoe",
+    "source_url": "https://www.madifushiprivateisland.com/about-us",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.madifushiprivateisland.com/accommodation/sunrise-aqua-pool-villa",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.madifushiprivateisland.com/accommodation/bella-six",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.madifushiprivateisland.com/accommodation/sunrise-serene-pool-villa",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.madifushiprivateisland.com/experiences",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.madifushiprivateisland.com/experiences",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://www.madifushiprivateisland.com/experiences",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "kayaking",
+    "source_url": "https://www.madifushiprivateisland.com/experiences",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "jet ski",
+    "source_url": "https://www.madifushiprivateisland.com/experiences",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "wakeboarding",
+    "source_url": "https://www.madifushiprivateisland.com/experiences",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "seabob",
+    "source_url": "https://www.madifushiprivateisland.com/experiences",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.madifushiprivateisland.com/experiences",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.madifushiprivateisland.com/experiences",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.madifushiprivateisland.com/experiences",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.madifushiprivateisland.com/experiences",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "flyboard",
+    "source_url": "https://www.madifushiprivateisland.com/experiences",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://www.madifushiprivateisland.com/events",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.madifushiprivateisland.com/accommodation/grand-madifushi-aqua-pool-villa",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.madifushiprivateisland.com",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.madifushiprivateisland.com",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.madifushiprivateisland.com/accommodation/sunset-aqua-pool-villa",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.madifushiprivateisland.com/accommodation/sunset-serene-pool-villa",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.madifushiprivateisland.com/experience/island-hopping",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.madifushiprivateisland.com/experience/sunset-cruise",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.maldivesholidayoffers.com/blogs/blog-detail/madifushi-newest-luxury-private-island-in-the-maldives-to-visit-2023/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "wakeboarding",
+    "source_url": "https://www.maldivesholidayoffers.com/blogs/blog-detail/madifushi-newest-luxury-private-island-in-the-maldives-to-visit-2023/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.maldivesholidayoffers.com/blogs/blog-detail/madifushi-newest-luxury-private-island-in-the-maldives-to-visit-2023/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "excursions": [
+   {
+    "value": "island hopping",
+    "source_url": "https://www.madifushiprivateisland.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "local island",
+    "source_url": "https://www.madifushiprivateisland.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.madifushiprivateisland.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.madifushiprivateisland.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset fishing",
+    "source_url": "https://www.madifushiprivateisland.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.madifushiprivateisland.com/special-offers",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.madifushiprivateisland.com/about-us",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.madifushiprivateisland.com/about-us",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.madifushiprivateisland.com/about-us",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "island hopping",
+    "source_url": "https://www.madifushiprivateisland.com/experiences",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "local island",
+    "source_url": "https://www.madifushiprivateisland.com/experiences",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.madifushiprivateisland.com/experiences",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset fishing",
+    "source_url": "https://www.madifushiprivateisland.com/experiences",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.madifushiprivateisland.com/experiences",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.madifushiprivateisland.com/experiences",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.madifushiprivateisland.com/experiences",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "cooking class",
+    "source_url": "https://www.madifushiprivateisland.com/events",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "island hopping",
+    "source_url": "https://www.madifushiprivateisland.com",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "local island",
+    "source_url": "https://www.madifushiprivateisland.com",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.madifushiprivateisland.com",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.madifushiprivateisland.com",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset fishing",
+    "source_url": "https://www.madifushiprivateisland.com",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.madifushiprivateisland.com/dining",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.madifushiprivateisland.com/dining/mojito",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "island hopping",
+    "source_url": "https://www.madifushiprivateisland.com/experience/island-hopping",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "local island",
+    "source_url": "https://www.madifushiprivateisland.com/experience/island-hopping",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.madifushiprivateisland.com/experience/sunset-cruise",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "island hopping",
+    "source_url": "https://www.maldivesholidayoffers.com/blogs/blog-detail/madifushi-newest-luxury-private-island-in-the-maldives-to-visit-2023/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.maldivesholidayoffers.com/blogs/blog-detail/madifushi-newest-luxury-private-island-in-the-maldives-to-visit-2023/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.maldivesholidayoffers.com/blogs/blog-detail/madifushi-newest-luxury-private-island-in-the-maldives-to-visit-2023/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "weddings.offered": [
+   {
+    "value": true,
+    "source_url": "https://www.madifushiprivateisland.com/special-offers",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.maldivesholidayoffers.com/blogs/blog-detail/madifushi-newest-luxury-private-island-in-the-maldives-to-visit-2023/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "dining": [
+   {
+    "value": {
+     "name": "Splash Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.madifushiprivateisland.com/dining/splash-bar",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Bluefin Restaurant",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.madifushiprivateisland.com/events",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Splash Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.madifushiprivateisland.com/events",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Bluefin Restaurant",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.madifushiprivateisland.com/events",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Splash Bar (Meeting Area)",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.madifushiprivateisland.com/events",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Bluefin Restaurant",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.madifushiprivateisland.com/events",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Bluefin Restaurant",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.madifushiprivateisland.com/events",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "star_rating": [
+   {
+    "value": "5-star",
+    "source_url": "https://www.madifushiprivateisland.com/about-us",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "5-star",
+    "source_url": "https://www.madifushiprivateisland.com/experiences",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "5-star",
+    "source_url": "https://www.maldivesholidayoffers.com/blogs/blog-detail/madifushi-newest-luxury-private-island-in-the-maldives-to-visit-2023/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "transfer.modes": [
+   {
+    "value": "seaplane",
+    "source_url": "https://www.madifushiprivateisland.com/about-us",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.maldivesholidayoffers.com/blogs/blog-detail/madifushi-newest-luxury-private-island-in-the-maldives-to-visit-2023/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "transfer.minutes.seaplane": [
+   {
+    "value": 35,
+    "source_url": "https://www.madifushiprivateisland.com/about-us",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 35,
+    "source_url": "https://www.maldivesholidayoffers.com/blogs/blog-detail/madifushi-newest-luxury-private-island-in-the-maldives-to-visit-2023/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "spa.name": [
+   {
+    "value": "Me Spa",
+    "source_url": "https://www.madifushiprivateisland.com/wellness",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Mandara Spa",
+    "source_url": "https://www.madifushiprivateisland.com/events",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Mandara Spa",
+    "source_url": "https://www.maldivesholidayoffers.com/blogs/blog-detail/madifushi-newest-luxury-private-island-in-the-maldives-to-visit-2023/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "diving_watersports.operator": [
+   {
+    "value": "Dive Centre",
+    "source_url": "https://www.madifushiprivateisland.com/experiences",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "diving_watersports.house_reef": [
+   {
+    "value": "house reef at Madifushi Private Island, easily accessible by a 5â10 minute boat ride",
+    "source_url": "https://www.madifushiprivateisland.com/experiences",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reefs and vibrant marine life",
+    "source_url": "https://www.maldivesholidayoffers.com/blogs/blog-detail/madifushi-newest-luxury-private-island-in-the-maldives-to-visit-2023/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "weddings.vow_renewal": [
+   {
+    "value": true,
+    "source_url": "https://www.maldivesholidayoffers.com/blogs/blog-detail/madifushi-newest-luxury-private-island-in-the-maldives-to-visit-2023/",
+    "as_of": "2026-10-04"
+   }
+  ]
+ },
+ "last_updated": "2026-10-05"
 }

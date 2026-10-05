@@ -6,8 +6,8 @@
   "Centara Grand Island",
   "Machchafushi"
  ],
- "official_url": null,
- "official_site_status": null,
+ "official_url": "https://www.centarahotelsresorts.com/the-centara-collection/cirm",
+ "official_site_status": "ok",
  "operator_brand": "Centara",
  "atoll": "Ari Atoll",
  "island": null,
@@ -29,14 +29,6 @@
  "villas": {
   "total": null,
   "categories": [
-   {
-    "name": "villas ranging in size from to . All Beach Suites",
-    "count": null,
-    "size_sqm": 159,
-    "max_occupancy": null,
-    "pool": null,
-    "overwater": null
-   },
    {
     "name": "Villas",
     "count": 112,
@@ -65,30 +57,25 @@
  },
  "dining": [
   {
-   "name": "Dining",
+   "name": "Aqua Bar",
    "cuisine": null,
-   "type": "restaurant"
+   "type": "bar"
   },
   {
-   "name": "Advance reservation is required for Teppanyaki dining.",
+   "name": "Coral Bar and Lounge",
    "cuisine": null,
-   "type": "restaurant"
+   "type": "bar"
   },
   {
    "name": "Coral Bar & Lounge",
    "cuisine": null,
    "type": "bar"
-  },
-  {
-   "name": "In-villa Dining",
-   "cuisine": null,
-   "type": "restaurant"
   }
  ],
  "meal_plans": [
   "AI"
  ],
- "all_inclusive_details": "all-inclusive” holiday experience besides the crystal-clear waters of the Indian Ocean.",
+ "all_inclusive_details": "all-inclusive resort in the beautiful Maldives, we cater to the desires of every traveller, from couples seeking a romantic getaway to families looking for an adventurous holiday.",
  "spa": {
   "name": "Spa",
   "treatment_rooms": null,
@@ -97,24 +84,34 @@
  },
  "diving_watersports": {
   "operator": "Best Dives",
-  "house_reef": "house reef which has its own submerged shipwreck to some of the Maldives’ best snorkelling and diving sites within a stone’s throw of the resort",
+  "house_reef": "house reef, enriched with vibrant island life",
   "activities": [
    "snorkelling",
    "windsurfing",
+   "kayaking",
+   "stand-up paddle",
+   "paddleboard",
+   "jet ski",
+   "parasailing",
+   "wakeboarding",
    "fishing",
-   "sunset cruise",
    "whale shark",
-   "manta",
-   "banana boat"
+   "banana boat",
+   "sunset cruise",
+   "dolphin cruise",
+   "snorkeling",
+   "manta"
   ],
   "price_list_doc": null
  },
  "excursions": [
+  "whale shark",
+  "turtle",
+  "dolphin",
+  "picnic",
   "local island",
   "sunset fishing",
-  "whale shark",
   "manta",
-  "turtle",
   "private dinner"
  ],
  "kids_family": {
@@ -140,56 +137,458 @@
   "venues": [],
   "capacity_max": null,
   "buyout": null,
-  "doc": null
+  "doc": "https://investor.centarahotelsresorts.com/storage/download/cg-document/20190108-centel-cg-2018-en.pdf"
  },
- "sustainability": [],
+ "sustainability": [
+  "coral restoration"
+ ],
  "contacts_public": {
   "reservations_email": "info@neoscapesmaldives.com",
   "weddings_email": null,
-  "phone": "+960 736 5425"
+  "phone": "+960 400 9999"
  },
  "documents_latest": {
-  "factsheet": "https://neoscapesmaldives.com/wp-content/uploads/cirm-factsheet-en.pdf",
+  "factsheet": "https://www.centarahotelsresorts.com/the-centara-collection/sites/centara-the-centara-collection/files/2025-05/CIRM_FactSheet_2025_05_14.pdf",
   "map": null,
   "wedding": null,
   "spa_menu": null,
   "dining_menu": null,
   "dive_prices": null,
-  "events": null,
+  "events": "https://investor.centarahotelsresorts.com/storage/download/cg-document/20190108-centel-cg-2018-en.pdf",
   "calendar": null
  },
- "documents_count": 1,
+ "documents_count": 20,
  "gaps": [
   "wedding brochure",
-  "events/MICE document",
   "fact: villas.total"
  ],
  "sources": {
   "atoll": [
    {
     "value": "Ari Atoll",
-    "source_url": "https://neoscapesmaldives.com/wp-content/uploads/cirm-factsheet-en.pdf",
-    "as_of": 2019
+    "source_url": "https://www.centarahotelsresorts.com/the-centara-collection/sites/centara-the-centara-collection/files/2025-05/CIRM_FactSheet_2025_05_14.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "Ari Atoll",
+    "source_url": "https://www.centarahotelsresorts.com/the-centara-collection/cirm",
+    "as_of": "2026-10-04"
    },
    {
     "value": "Ari Atoll",
     "source_url": "https://www.neoscapesmaldives.com/resort/centara-grand-island-resort/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "Ari Atoll",
+    "source_url": "https://letsgomaldives.com/news/machchafushis-house-reef-named-one-of-the-best-in-the-maldives-and-its-easy-to-see-why/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "spa.name": [
+   {
+    "value": "Spa",
+    "source_url": "https://www.centarahotelsresorts.com/the-centara-collection/sites/centara-the-centara-collection/files/2025-05/CIRM_FactSheet_2025_05_14.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.centarahotelsresorts.com/the-centara-collection/cirm",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.centarahotelsresorts.com/centaragrand/cirm/centara-grand-island-maldives-offer",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.neoscapesmaldives.com/resort/centara-grand-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://letsgomaldives.com/news/special-offer-from-centara-grand-island-resort-spa-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://letsgomaldives.com/news/machchafushis-house-reef-named-one-of-the-best-in-the-maldives-and-its-easy-to-see-why/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "diving_watersports.house_reef": [
+   {
+    "value": "house reef, enchanted with exceptional island life",
+    "source_url": "https://www.centarahotelsresorts.com/the-centara-collection/sites/centara-the-centara-collection/files/2025-05/CIRM_FactSheet_2025_05_14.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "house reef, enriched with vibrant island life",
+    "source_url": "https://www.centarahotelsresorts.com/the-centara-collection/cirm",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef which has its own submerged shipwreck to some of the Maldives’ best snorkelling and diving sites within a stone’s throw of the resort",
+    "source_url": "https://www.neoscapesmaldives.com/resort/centara-grand-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "House Reefs in the Maldives, this underwater wonder isn’t just a highlight of the resort-it’s the heartbeat of the island",
+    "source_url": "https://letsgomaldives.com/news/machchafushis-house-reef-named-one-of-the-best-in-the-maldives-and-its-easy-to-see-why/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "diving_watersports.activities": [
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.centarahotelsresorts.com/the-centara-collection/sites/centara-the-centara-collection/files/2025-05/CIRM_FactSheet_2025_05_14.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "windsurfing",
+    "source_url": "https://www.centarahotelsresorts.com/the-centara-collection/sites/centara-the-centara-collection/files/2025-05/CIRM_FactSheet_2025_05_14.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "kayaking",
+    "source_url": "https://www.centarahotelsresorts.com/the-centara-collection/sites/centara-the-centara-collection/files/2025-05/CIRM_FactSheet_2025_05_14.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "stand-up paddle",
+    "source_url": "https://www.centarahotelsresorts.com/the-centara-collection/sites/centara-the-centara-collection/files/2025-05/CIRM_FactSheet_2025_05_14.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "paddleboard",
+    "source_url": "https://www.centarahotelsresorts.com/the-centara-collection/sites/centara-the-centara-collection/files/2025-05/CIRM_FactSheet_2025_05_14.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "jet ski",
+    "source_url": "https://www.centarahotelsresorts.com/the-centara-collection/sites/centara-the-centara-collection/files/2025-05/CIRM_FactSheet_2025_05_14.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "parasailing",
+    "source_url": "https://www.centarahotelsresorts.com/the-centara-collection/sites/centara-the-centara-collection/files/2025-05/CIRM_FactSheet_2025_05_14.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "wakeboarding",
+    "source_url": "https://www.centarahotelsresorts.com/the-centara-collection/sites/centara-the-centara-collection/files/2025-05/CIRM_FactSheet_2025_05_14.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.centarahotelsresorts.com/the-centara-collection/sites/centara-the-centara-collection/files/2025-05/CIRM_FactSheet_2025_05_14.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.centarahotelsresorts.com/the-centara-collection/sites/centara-the-centara-collection/files/2025-05/CIRM_FactSheet_2025_05_14.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "banana boat",
+    "source_url": "https://www.centarahotelsresorts.com/the-centara-collection/sites/centara-the-centara-collection/files/2025-05/CIRM_FactSheet_2025_05_14.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.centarahotelsresorts.com/the-centara-collection/cirm",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.centarahotelsresorts.com/the-centara-collection/cirm",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin cruise",
+    "source_url": "https://www.centarahotelsresorts.com/the-centara-collection/cirm",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.centarahotelsresorts.com/centaragrand/cirm/centara-grand-island-maldives-offer",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.neoscapesmaldives.com/resort/centara-grand-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "windsurfing",
+    "source_url": "https://www.neoscapesmaldives.com/resort/centara-grand-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.neoscapesmaldives.com/resort/centara-grand-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.neoscapesmaldives.com/resort/centara-grand-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.neoscapesmaldives.com/resort/centara-grand-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.neoscapesmaldives.com/resort/centara-grand-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "banana boat",
+    "source_url": "https://www.neoscapesmaldives.com/resort/centara-grand-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://letsgomaldives.com/news/special-offer-from-centara-grand-island-resort-spa-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "windsurfing",
+    "source_url": "https://letsgomaldives.com/news/special-offer-from-centara-grand-island-resort-spa-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "kayaking",
+    "source_url": "https://letsgomaldives.com/news/special-offer-from-centara-grand-island-resort-spa-maldives/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "excursions": [
+   {
+    "value": "whale shark",
+    "source_url": "https://www.centarahotelsresorts.com/the-centara-collection/sites/centara-the-centara-collection/files/2025-05/CIRM_FactSheet_2025_05_14.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.centarahotelsresorts.com/the-centara-collection/sites/centara-the-centara-collection/files/2025-05/CIRM_FactSheet_2025_05_14.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.centarahotelsresorts.com/the-centara-collection/cirm",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.centarahotelsresorts.com/the-centara-collection/cirm",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "picnic",
+    "source_url": "https://www.centarahotelsresorts.com/centaragrand/cirm/centara-grand-island-maldives-offer",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "local island",
+    "source_url": "https://www.neoscapesmaldives.com/resort/centara-grand-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset fishing",
+    "source_url": "https://www.neoscapesmaldives.com/resort/centara-grand-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.neoscapesmaldives.com/resort/centara-grand-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.neoscapesmaldives.com/resort/centara-grand-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.neoscapesmaldives.com/resort/centara-grand-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "private dinner",
+    "source_url": "https://www.neoscapesmaldives.com/resort/centara-grand-island-resort/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "wellness_fitness": [
+   {
+    "value": "fitness centre",
+    "source_url": "https://www.centarahotelsresorts.com/the-centara-collection/sites/centara-the-centara-collection/files/2025-05/CIRM_FactSheet_2025_05_14.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://www.centarahotelsresorts.com/the-centara-collection/sites/centara-the-centara-collection/files/2025-05/CIRM_FactSheet_2025_05_14.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "badminton",
+    "source_url": "https://www.centarahotelsresorts.com/the-centara-collection/sites/centara-the-centara-collection/files/2025-05/CIRM_FactSheet_2025_05_14.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "fitness centre",
+    "source_url": "https://www.neoscapesmaldives.com/resort/centara-grand-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://www.neoscapesmaldives.com/resort/centara-grand-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "badminton",
+    "source_url": "https://www.neoscapesmaldives.com/resort/centara-grand-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "steam",
+    "source_url": "https://www.neoscapesmaldives.com/resort/centara-grand-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "personal trainer",
+    "source_url": "https://www.neoscapesmaldives.com/resort/centara-grand-island-resort/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "sustainability": [
+   {
+    "value": "coral restoration",
+    "source_url": "https://www.centarahotelsresorts.com/the-centara-collection/sites/centara-the-centara-collection/files/2025-05/CIRM_FactSheet_2025_05_14.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "coral restoration",
+    "source_url": "https://letsgomaldives.com/news/machchafushis-house-reef-named-one-of-the-best-in-the-maldives-and-its-easy-to-see-why/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "contacts_public.phone": [
+   {
+    "value": "+960 400 9999",
+    "source_url": "https://www.centarahotelsresorts.com/the-centara-collection/sites/centara-the-centara-collection/files/2025-05/CIRM_FactSheet_2025_05_14.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "+960 400 9999",
+    "source_url": "https://www.centarahotelsresorts.com/the-centara-collection/cirm",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 736 5425",
+    "source_url": "https://www.neoscapesmaldives.com/resort/centara-grand-island-resort/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "transfer.modes": [
+   {
+    "value": "seaplane",
+    "source_url": "https://www.centarahotelsresorts.com/the-centara-collection/cirm",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.centarahotelsresorts.com/centaragrand/cirm/centara-grand-island-maldives-offer",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.neoscapesmaldives.com/resort/centara-grand-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.neoscapesmaldives.com/resort/centara-grand-island-resort/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "dining": [
+   {
+    "value": {
+     "name": "Aqua Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.centarahotelsresorts.com/the-centara-collection/cirm",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Coral Bar and Lounge",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.centarahotelsresorts.com/the-centara-collection/cirm",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Coral Bar & Lounge",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.neoscapesmaldives.com/resort/centara-grand-island-resort/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "meal_plans": [
+   {
+    "value": "AI",
+    "source_url": "https://www.centarahotelsresorts.com/the-centara-collection/cirm",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://www.neoscapesmaldives.com/resort/centara-grand-island-resort/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "all_inclusive_details": [
+   {
+    "value": "all-inclusive resort in the beautiful Maldives, we cater to the desires of every traveller, from couples seeking a romantic getaway to families looking for an adventurous holiday.",
+    "source_url": "https://www.centarahotelsresorts.com/the-centara-collection/cirm",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "all-inclusive” holiday experience besides the crystal-clear waters of the Indian Ocean.",
+    "source_url": "https://www.neoscapesmaldives.com/resort/centara-grand-island-resort/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "kids_family.kids_club": [
+   {
+    "value": "Kids Club",
+    "source_url": "https://www.centarahotelsresorts.com/the-centara-collection/cirm",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Kids Club",
+    "source_url": "https://www.neoscapesmaldives.com/resort/centara-grand-island-resort/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "transfer.minutes.seaplane": [
+   {
+    "value": 25,
+    "source_url": "https://www.neoscapesmaldives.com/resort/centara-grand-island-resort/",
+    "as_of": "2026-10-04"
    }
   ],
   "villas.categories": [
-   {
-    "value": {
-     "name": "villas ranging in size from to . All Beach Suites",
-     "count": null,
-     "size_sqm": 159,
-     "max_occupancy": null,
-     "pool": null,
-     "overwater": null
-    },
-    "source_url": "https://neoscapesmaldives.com/wp-content/uploads/cirm-factsheet-en.pdf",
-    "as_of": 2019
-   },
    {
     "value": {
      "name": "Villas",
@@ -299,236 +698,9 @@
     "as_of": "2026-10-04"
    }
   ],
-  "spa.name": [
-   {
-    "value": "Spa",
-    "source_url": "https://neoscapesmaldives.com/wp-content/uploads/cirm-factsheet-en.pdf",
-    "as_of": 2019
-   },
-   {
-    "value": "Spa",
-    "source_url": "https://www.neoscapesmaldives.com/resort/centara-grand-island-resort/",
-    "as_of": "2026-10-04"
-   }
-  ],
   "diving_watersports.operator": [
    {
-    "value": "Dive Centre",
-    "source_url": "https://neoscapesmaldives.com/wp-content/uploads/cirm-factsheet-en.pdf",
-    "as_of": 2019
-   },
-   {
     "value": "Best Dives",
-    "source_url": "https://www.neoscapesmaldives.com/resort/centara-grand-island-resort/",
-    "as_of": "2026-10-04"
-   }
-  ],
-  "diving_watersports.house_reef": [
-   {
-    "value": "house reef",
-    "source_url": "https://neoscapesmaldives.com/wp-content/uploads/cirm-factsheet-en.pdf",
-    "as_of": 2019
-   },
-   {
-    "value": "house reef which has its own submerged shipwreck to some of the Maldives’ best snorkelling and diving sites within a stone’s throw of the resort",
-    "source_url": "https://www.neoscapesmaldives.com/resort/centara-grand-island-resort/",
-    "as_of": "2026-10-04"
-   }
-  ],
-  "wellness_fitness": [
-   {
-    "value": "fitness centre",
-    "source_url": "https://neoscapesmaldives.com/wp-content/uploads/cirm-factsheet-en.pdf",
-    "as_of": 2019
-   },
-   {
-    "value": "tennis",
-    "source_url": "https://neoscapesmaldives.com/wp-content/uploads/cirm-factsheet-en.pdf",
-    "as_of": 2019
-   },
-   {
-    "value": "badminton",
-    "source_url": "https://neoscapesmaldives.com/wp-content/uploads/cirm-factsheet-en.pdf",
-    "as_of": 2019
-   },
-   {
-    "value": "fitness centre",
-    "source_url": "https://www.neoscapesmaldives.com/resort/centara-grand-island-resort/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": "tennis",
-    "source_url": "https://www.neoscapesmaldives.com/resort/centara-grand-island-resort/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": "badminton",
-    "source_url": "https://www.neoscapesmaldives.com/resort/centara-grand-island-resort/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": "steam",
-    "source_url": "https://www.neoscapesmaldives.com/resort/centara-grand-island-resort/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": "personal trainer",
-    "source_url": "https://www.neoscapesmaldives.com/resort/centara-grand-island-resort/",
-    "as_of": "2026-10-04"
-   }
-  ],
-  "transfer.modes": [
-   {
-    "value": "seaplane",
-    "source_url": "https://www.neoscapesmaldives.com/resort/centara-grand-island-resort/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": "speedboat",
-    "source_url": "https://www.neoscapesmaldives.com/resort/centara-grand-island-resort/",
-    "as_of": "2026-10-04"
-   }
-  ],
-  "transfer.minutes.seaplane": [
-   {
-    "value": 25,
-    "source_url": "https://www.neoscapesmaldives.com/resort/centara-grand-island-resort/",
-    "as_of": "2026-10-04"
-   }
-  ],
-  "dining": [
-   {
-    "value": {
-     "name": "Dining",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/centara-grand-island-resort/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Dining",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/centara-grand-island-resort/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Advance reservation is required for Teppanyaki dining.",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/centara-grand-island-resort/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Coral Bar & Lounge",
-     "cuisine": null,
-     "type": "bar"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/centara-grand-island-resort/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "In-villa Dining",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/centara-grand-island-resort/",
-    "as_of": "2026-10-04"
-   }
-  ],
-  "meal_plans": [
-   {
-    "value": "AI",
-    "source_url": "https://www.neoscapesmaldives.com/resort/centara-grand-island-resort/",
-    "as_of": "2026-10-04"
-   }
-  ],
-  "all_inclusive_details": [
-   {
-    "value": "all-inclusive” holiday experience besides the crystal-clear waters of the Indian Ocean.",
-    "source_url": "https://www.neoscapesmaldives.com/resort/centara-grand-island-resort/",
-    "as_of": "2026-10-04"
-   }
-  ],
-  "diving_watersports.activities": [
-   {
-    "value": "snorkelling",
-    "source_url": "https://www.neoscapesmaldives.com/resort/centara-grand-island-resort/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": "windsurfing",
-    "source_url": "https://www.neoscapesmaldives.com/resort/centara-grand-island-resort/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": "fishing",
-    "source_url": "https://www.neoscapesmaldives.com/resort/centara-grand-island-resort/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": "sunset cruise",
-    "source_url": "https://www.neoscapesmaldives.com/resort/centara-grand-island-resort/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": "whale shark",
-    "source_url": "https://www.neoscapesmaldives.com/resort/centara-grand-island-resort/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": "manta",
-    "source_url": "https://www.neoscapesmaldives.com/resort/centara-grand-island-resort/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": "banana boat",
-    "source_url": "https://www.neoscapesmaldives.com/resort/centara-grand-island-resort/",
-    "as_of": "2026-10-04"
-   }
-  ],
-  "excursions": [
-   {
-    "value": "local island",
-    "source_url": "https://www.neoscapesmaldives.com/resort/centara-grand-island-resort/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": "sunset fishing",
-    "source_url": "https://www.neoscapesmaldives.com/resort/centara-grand-island-resort/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": "whale shark",
-    "source_url": "https://www.neoscapesmaldives.com/resort/centara-grand-island-resort/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": "manta",
-    "source_url": "https://www.neoscapesmaldives.com/resort/centara-grand-island-resort/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": "turtle",
-    "source_url": "https://www.neoscapesmaldives.com/resort/centara-grand-island-resort/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": "private dinner",
-    "source_url": "https://www.neoscapesmaldives.com/resort/centara-grand-island-resort/",
-    "as_of": "2026-10-04"
-   }
-  ],
-  "kids_family.kids_club": [
-   {
-    "value": "Kids Club",
     "source_url": "https://www.neoscapesmaldives.com/resort/centara-grand-island-resort/",
     "as_of": "2026-10-04"
    }
@@ -546,14 +718,7 @@
     "source_url": "https://www.neoscapesmaldives.com/resort/centara-grand-island-resort/",
     "as_of": "2026-10-04"
    }
-  ],
-  "contacts_public.phone": [
-   {
-    "value": "+960 736 5425",
-    "source_url": "https://www.neoscapesmaldives.com/resort/centara-grand-island-resort/",
-    "as_of": "2026-10-04"
-   }
   ]
  },
- "last_updated": "2026-10-04"
+ "last_updated": "2026-10-05"
 }

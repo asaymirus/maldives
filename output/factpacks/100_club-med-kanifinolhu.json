@@ -7,49 +7,104 @@
   "Kanifinolhu",
   "Kani Maldives"
  ],
- "official_url": null,
- "official_site_status": null,
+ "official_url": "https://www.clubmed.us/r/kani/y",
+ "official_site_status": "ok",
  "operator_brand": "Club Med",
- "atoll": null,
+ "atoll": "North Malé Atoll",
  "island": null,
- "opened_or_renovated": null,
+ "opened_or_renovated": "opened 2024",
  "star_rating": null,
  "transfer": {
-  "modes": [],
+  "modes": [
+   "domestic flight",
+   "speedboat"
+  ],
   "minutes": {
    "seaplane": null,
-   "speedboat": null,
+   "speedboat": 25,
    "domestic flight": null,
    "yacht": null
   }
  },
- "island_size": null,
+ "island_size": "60 ha",
  "villas": {
   "total": null,
   "categories": []
  },
- "dining": [],
- "meal_plans": [],
- "all_inclusive_details": null,
+ "dining": [
+  {
+   "name": "Lounge area, Furnished",
+   "cuisine": null,
+   "type": "bar"
+  },
+  {
+   "name": "Collection Beach Bar",
+   "cuisine": null,
+   "type": "bar"
+  },
+  {
+   "name": "\u0007Umbrellas body lotion Bar",
+   "cuisine": null,
+   "type": "bar"
+  },
+  {
+   "name": "Main bar Exclusive Collection Bar",
+   "cuisine": null,
+   "type": "bar"
+  },
+  {
+   "name": "Underwater Restaurant Dining Experience",
+   "cuisine": null,
+   "type": "restaurant"
+  }
+ ],
+ "meal_plans": [
+  "AI"
+ ],
+ "all_inclusive_details": "All-Inclusive resort in the Maldives is simply paradise.",
  "spa": {
-  "name": null,
+  "name": "Club Med Spa",
   "treatment_rooms": null,
   "signature_treatments": [],
   "menu_doc": null
  },
  "diving_watersports": {
   "operator": null,
-  "house_reef": null,
-  "activities": [],
+  "house_reef": "house reef directly from the beach and is not recommended for guests primarily interested in snorkelling",
+  "activities": [
+   "snorkeling",
+   "scuba diving",
+   "surfing",
+   "catamaran",
+   "manta",
+   "sailing",
+   "fishing",
+   "snorkelling",
+   "kayaking",
+   "paddleboard",
+   "stand-up paddle"
+  ],
   "price_list_doc": null
  },
- "excursions": [],
+ "excursions": [
+  "sandbank",
+  "manta",
+  "picnic",
+  "dolphin",
+  "turtle"
+ ],
  "kids_family": {
-  "kids_club": null,
+  "kids_club": "Teens Club",
   "age_range": null,
-  "teens": null
+  "teens": "teens programme mentioned"
  },
- "wellness_fitness": [],
+ "wellness_fitness": [
+  "yoga",
+  "tennis",
+  "padel",
+  "badminton",
+  "beach volleyball"
+ ],
  "weddings": {
   "offered": null,
   "vow_renewal": null,
@@ -63,14 +118,21 @@
   "buyout": null,
   "doc": null
  },
- "sustainability": [],
+ "sustainability": [
+  "marine biologist",
+  "solar",
+  "plastic-free",
+  "single-use plastic",
+  "desalination",
+  "Green Globe"
+ ],
  "contacts_public": {
   "reservations_email": null,
   "weddings_email": null,
-  "phone": null
+  "phone": "+9607776038"
  },
  "documents_latest": {
-  "factsheet": null,
+  "factsheet": "https://factsheets.clubmed/en-us/factsheet_kanc.pdf",
   "map": null,
   "wedding": null,
   "spa_menu": null,
@@ -79,23 +141,636 @@
   "events": null,
   "calendar": null
  },
- "documents_count": 0,
+ "documents_count": 3,
  "gaps": [
-  "factsheet",
   "wedding brochure",
   "events/MICE document",
   "fact: villas.total",
   "fact: villa categories",
-  "fact: dining",
-  "fact: transfer",
-  "fact: atoll",
-  "fact: spa",
   "fact: dive operator",
-  "fact: kids club",
   "fact: weddings",
-  "fact: contacts",
-  "no documents or pages collected"
+  "fact: contacts"
  ],
- "sources": {},
- "last_updated": "2026-10-04"
+ "sources": {
+  "dining": [
+   {
+    "value": {
+     "name": "Lounge area, Furnished",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://factsheets.clubmed/en-us/factsheet_kanc.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": {
+     "name": "Collection Beach Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://factsheets.clubmed/en-us/factsheet_kanc.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": {
+     "name": "\u0007Umbrellas body lotion Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://factsheets.clubmed/en-us/factsheet_kanc.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": {
+     "name": "Main bar Exclusive Collection Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://factsheets.clubmed/en-us/factsheet_kanc.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": {
+     "name": "Underwater Restaurant Dining Experience",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://maldivestraveller.mv/en/holidays/maldives-tours/day-visit-to-club-med-kani",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "spa.name": [
+   {
+    "value": "Club Med Spa",
+    "source_url": "https://factsheets.clubmed/en-us/factsheet_kanc.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://assets.dream.clubmed/pm_7531_737_737247-fybx7wia91.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "Club Med Spa",
+    "source_url": "https://www.clubmed.us/r/kani/y",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Club Med Spa",
+    "source_url": "https://www.clubmed.us/r/kani/y/exclusive-collection-space",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "diving_watersports.activities": [
+   {
+    "value": "snorkeling",
+    "source_url": "https://factsheets.clubmed/en-us/factsheet_kanc.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://factsheets.clubmed/en-us/factsheet_kanc.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "surfing",
+    "source_url": "https://factsheets.clubmed/en-us/factsheet_kanc.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "catamaran",
+    "source_url": "https://factsheets.clubmed/en-us/factsheet_kanc.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "manta",
+    "source_url": "https://factsheets.clubmed/en-us/factsheet_kanc.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "sailing",
+    "source_url": "https://factsheets.clubmed/en-us/factsheet_kanc.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://assets.dream.clubmed/pm_7531_685_685303-gcjd9fcg1f.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://assets.dream.clubmed/pm_7531_685_685303-gcjd9fcg1f.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://assets.dream.clubmed/pm_7531_737_737247-fybx7wia91.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://assets.dream.clubmed/pm_7531_737_737247-fybx7wia91.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://assets.dream.clubmed/pm_7531_737_737247-fybx7wia91.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.clubmed.us/r/kani/y",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.clubmed.us/r/kani/y",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://www.clubmed.us/r/kani/y",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "surfing",
+    "source_url": "https://www.clubmed.us/r/kani/y",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "kayaking",
+    "source_url": "https://www.clubmed.us/r/kani/y",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "paddleboard",
+    "source_url": "https://www.clubmed.us/r/kani/y",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.clubmed.us/r/kani/y",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sailing",
+    "source_url": "https://www.clubmed.us/r/kani/y",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.clubmed.us/r/kani/y/exclusive-collection-space",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.clubmed.us/r/kani/y/exclusive-collection-space",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://www.clubmed.us/r/kani/y/exclusive-collection-space",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "surfing",
+    "source_url": "https://www.clubmed.us/r/kani/y/exclusive-collection-space",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "kayaking",
+    "source_url": "https://www.clubmed.us/r/kani/y/exclusive-collection-space",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "paddleboard",
+    "source_url": "https://www.clubmed.us/r/kani/y/exclusive-collection-space",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.clubmed.us/r/kani/y/exclusive-collection-space",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sailing",
+    "source_url": "https://www.clubmed.us/r/kani/y/exclusive-collection-space",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://maldivestraveller.mv/en/holidays/maldives-tours/day-visit-to-club-med-kani",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "kayaking",
+    "source_url": "https://maldivestraveller.mv/en/holidays/maldives-tours/day-visit-to-club-med-kani",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "stand-up paddle",
+    "source_url": "https://maldivestraveller.mv/en/holidays/maldives-tours/day-visit-to-club-med-kani",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "paddleboard",
+    "source_url": "https://maldivestraveller.mv/en/holidays/maldives-tours/day-visit-to-club-med-kani",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sailing",
+    "source_url": "https://maldivestraveller.mv/en/holidays/maldives-tours/day-visit-to-club-med-kani",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://maldivestraveller.mv/it/holidays/maldives-tours/day-visit-to-club-med-kani",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://maldivestraveller.mv/it/holidays/maldives-tours/day-visit-to-club-med-kani",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "stand-up paddle",
+    "source_url": "https://maldivestraveller.mv/it/holidays/maldives-tours/day-visit-to-club-med-kani",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://maldivestraveller.mv/de/holidays/maldives-tours/day-visit-to-club-med-kani",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "paddleboard",
+    "source_url": "https://maldivestraveller.mv/de/holidays/maldives-tours/day-visit-to-club-med-kani",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "excursions": [
+   {
+    "value": "sandbank",
+    "source_url": "https://factsheets.clubmed/en-us/factsheet_kanc.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "manta",
+    "source_url": "https://factsheets.clubmed/en-us/factsheet_kanc.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "picnic",
+    "source_url": "https://factsheets.clubmed/en-us/factsheet_kanc.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://assets.dream.clubmed/pm_7531_737_737247-fybx7wia91.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://assets.dream.clubmed/pm_7531_737_737247-fybx7wia91.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.clubmed.us/r/kani/y",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.clubmed.us/r/kani/y",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.clubmed.us/r/kani/y",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.clubmed.us/r/kani/y/exclusive-collection-space",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.clubmed.us/r/kani/y/exclusive-collection-space",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.clubmed.us/r/kani/y/exclusive-collection-space",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://maldivestraveller.mv/en/holidays/maldives-tours/day-visit-to-club-med-kani",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "kids_family.kids_club": [
+   {
+    "value": "Teens Club",
+    "source_url": "https://factsheets.clubmed/en-us/factsheet_kanc.pdf",
+    "as_of": 2026
+   }
+  ],
+  "kids_family.teens": [
+   {
+    "value": "teens programme mentioned",
+    "source_url": "https://factsheets.clubmed/en-us/factsheet_kanc.pdf",
+    "as_of": 2026
+   }
+  ],
+  "wellness_fitness": [
+   {
+    "value": "yoga",
+    "source_url": "https://factsheets.clubmed/en-us/factsheet_kanc.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://factsheets.clubmed/en-us/factsheet_kanc.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "padel",
+    "source_url": "https://factsheets.clubmed/en-us/factsheet_kanc.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "badminton",
+    "source_url": "https://factsheets.clubmed/en-us/factsheet_kanc.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://assets.dream.clubmed/pm_7531_737_737247-fybx7wia91.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.clubmed.us/r/kani/y",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "padel",
+    "source_url": "https://www.clubmed.us/r/kani/y",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.clubmed.us/r/kani/y/exclusive-collection-space",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "padel",
+    "source_url": "https://www.clubmed.us/r/kani/y/exclusive-collection-space",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://maldivestraveller.mv/en/holidays/maldives-tours/day-visit-to-club-med-kani",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "badminton",
+    "source_url": "https://maldivestraveller.mv/en/holidays/maldives-tours/day-visit-to-club-med-kani",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "beach volleyball",
+    "source_url": "https://maldivestraveller.mv/en/holidays/maldives-tours/day-visit-to-club-med-kani",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "badminton",
+    "source_url": "https://maldivestraveller.mv/it/holidays/maldives-tours/day-visit-to-club-med-kani",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "badminton",
+    "source_url": "https://maldivestraveller.mv/de/holidays/maldives-tours/day-visit-to-club-med-kani",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "transfer.modes": [
+   {
+    "value": "domestic flight",
+    "source_url": "https://assets.dream.clubmed/pm_7531_685_685303-gcjd9fcg1f.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.clubmed.us/r/kani/y",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.clubmed.us/r/kani/y/exclusive-collection-space",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://maldivestraveller.mv/en/holidays/maldives-tours/day-visit-to-club-med-kani",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://maldivestraveller.mv/de/holidays/maldives-tours/day-visit-to-club-med-kani",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "opened_or_renovated": [
+   {
+    "value": "opened 2024",
+    "source_url": "https://assets.dream.clubmed/pm_7531_737_737247-fybx7wia91.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "renovated 2024",
+    "source_url": "https://assets.dream.clubmed/pm_7531_737_737247-fybx7wia91.pdf",
+    "as_of": 2024
+   }
+  ],
+  "island_size": [
+   {
+    "value": "60 ha",
+    "source_url": "https://assets.dream.clubmed/pm_7531_737_737247-fybx7wia91.pdf",
+    "as_of": 2024
+   }
+  ],
+  "meal_plans": [
+   {
+    "value": "AI",
+    "source_url": "https://assets.dream.clubmed/pm_7531_737_737247-fybx7wia91.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "AI",
+    "source_url": "https://www.clubmed.us/r/kani/y",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://www.clubmed.us/r/kani/y/exclusive-collection-space",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://maldivestraveller.mv/en/holidays/maldives-tours/day-visit-to-club-med-kani",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://maldivestraveller.mv/it/holidays/maldives-tours/day-visit-to-club-med-kani",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "all_inclusive_details": [
+   {
+    "value": "all-inclusive vacation”.",
+    "source_url": "https://assets.dream.clubmed/pm_7531_737_737247-fybx7wia91.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "All-Inclusive resort in the Maldives is simply paradise.",
+    "source_url": "https://www.clubmed.us/r/kani/y",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "all-inclusive Maldives resort without booking overnight accommodation.",
+    "source_url": "https://maldivestraveller.mv/en/holidays/maldives-tours/day-visit-to-club-med-kani",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "all-inclusive senza dover prenotare un pernottamento.",
+    "source_url": "https://maldivestraveller.mv/it/holidays/maldives-tours/day-visit-to-club-med-kani",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "All-inclusive-Resort-Erlebnis genießen möchten, ohne eine Übernachtung buchen zu müssen.",
+    "source_url": "https://maldivestraveller.mv/de/holidays/maldives-tours/day-visit-to-club-med-kani",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "sustainability": [
+   {
+    "value": "marine biologist",
+    "source_url": "https://assets.dream.clubmed/pm_7531_737_737247-fybx7wia91.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "solar",
+    "source_url": "https://assets.dream.clubmed/pm_7531_737_737247-fybx7wia91.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "plastic-free",
+    "source_url": "https://assets.dream.clubmed/pm_7531_737_737247-fybx7wia91.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "single-use plastic",
+    "source_url": "https://assets.dream.clubmed/pm_7531_737_737247-fybx7wia91.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "desalination",
+    "source_url": "https://assets.dream.clubmed/pm_7531_737_737247-fybx7wia91.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "Green Globe",
+    "source_url": "https://assets.dream.clubmed/pm_7531_737_737247-fybx7wia91.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "single-use plastic",
+    "source_url": "https://www.clubmed.us/r/kani/y",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Green Globe",
+    "source_url": "https://www.clubmed.us/r/kani/y",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "single-use plastic",
+    "source_url": "https://www.clubmed.us/r/kani/y/exclusive-collection-space",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Green Globe",
+    "source_url": "https://www.clubmed.us/r/kani/y/exclusive-collection-space",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "solar",
+    "source_url": "https://maldivestraveller.mv/it/holidays/maldives-tours/day-visit-to-club-med-kani",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "atoll": [
+   {
+    "value": "North Malé Atoll",
+    "source_url": "https://www.clubmed.us/r/kani/y",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "North Malé Atoll",
+    "source_url": "https://www.clubmed.us/r/kani/y/exclusive-collection-space",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "North Malé Atoll",
+    "source_url": "https://maldivestraveller.mv/en/holidays/maldives-tours/day-visit-to-club-med-kani",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "transfer.minutes.speedboat": [
+   {
+    "value": 25,
+    "source_url": "https://www.clubmed.us/r/kani/y",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 25,
+    "source_url": "https://www.clubmed.us/r/kani/y/exclusive-collection-space",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "diving_watersports.house_reef": [
+   {
+    "value": "house reef directly from the beach and is not recommended for guests primarily interested in snorkelling",
+    "source_url": "https://maldivestraveller.mv/en/holidays/maldives-tours/day-visit-to-club-med-kani",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "contacts_public.phone": [
+   {
+    "value": "+9607776038",
+    "source_url": "https://maldivestraveller.mv/en/holidays/maldives-tours/day-visit-to-club-med-kani",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+9607776038",
+    "source_url": "https://maldivestraveller.mv/it/holidays/maldives-tours/day-visit-to-club-med-kani",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+9607776038",
+    "source_url": "https://maldivestraveller.mv/de/holidays/maldives-tours/day-visit-to-club-med-kani",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+9607776038",
+    "source_url": "https://maldivestraveller.mv/jp/holidays/maldives-tours/day-visit-to-club-med-kani",
+    "as_of": "2026-10-04"
+   }
+  ]
+ },
+ "last_updated": "2026-10-05"
 }

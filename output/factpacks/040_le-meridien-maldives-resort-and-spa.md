@@ -1,6 +1,6 @@
 # 40. Le Méridien Maldives Resort and Spa
 
-**Official site:** n/a (None)  
+**Official site:** https://www.marriott.com/en-us/hotels/mlemd-le-meridien-maldives-resort-and-spa/overview/ (blocked)  
 **Brand:** Le Méridien  
 **Atoll:** Lhaviyani Atoll  **Island:** Thilamaafushi  
 **Opened/renovated:** n/a  **Rating:** n/a  
@@ -18,10 +18,10 @@
 
 ## Dining
 
-- century design, Velaa Bar + Grill is the essence (bar)
-- Dining (restaurant)
 - Waves Cafe (restaurant)
 - Velaa Bar + Grill (bar)
+- {{Restaurant.Description}} (restaurant)
+- Restaurant Type (restaurant)
 
 Meal plans: n/a
 
@@ -80,4 +80,4 @@ Meal plans: n/a
 - fact: villas.total
 - fact: dive operator
 
-_Facts extracted by rules from 15 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-04._
+_Facts extracted by rules from 15 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

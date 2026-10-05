@@ -6,19 +6,21 @@
   "Equator Village",
   "Gan"
  ],
- "official_url": null,
- "official_site_status": null,
+ "official_url": "https://www.equatorvillage.com/",
+ "official_site_status": "ok",
  "operator_brand": "Villa",
- "atoll": null,
- "island": null,
+ "atoll": "Addu Atoll",
+ "island": "Gan Island",
  "opened_or_renovated": null,
- "star_rating": null,
+ "star_rating": "5-star",
  "transfer": {
-  "modes": [],
+  "modes": [
+   "domestic flight"
+  ],
   "minutes": {
    "seaplane": null,
    "speedboat": null,
-   "domestic flight": null,
+   "domestic flight": 5,
    "yacht": null
   }
  },
@@ -27,74 +29,1189 @@
   "total": null,
   "categories": []
  },
- "dining": [],
- "meal_plans": [],
- "all_inclusive_details": null,
+ "dining": [
+  {
+   "name": "Vaivaru Restaurant",
+   "cuisine": null,
+   "type": "restaurant"
+  },
+  {
+   "name": "Veragan Bar",
+   "cuisine": null,
+   "type": "bar"
+  }
+ ],
+ "meal_plans": [
+  "AI",
+  "HB",
+  "FB"
+ ],
+ "all_inclusive_details": "all inclusive you will get free snorkelling, bicycle rental and a one-time excursion to the island.",
  "spa": {
-  "name": null,
+  "name": "Serena Spa",
   "treatment_rooms": null,
   "signature_treatments": [],
-  "menu_doc": null
+  "menu_doc": "https://www.equatorvillage.com/wp-content/uploads/2023/12/Serena-Spa-Menu-2023.pdf"
  },
  "diving_watersports": {
-  "operator": null,
-  "house_reef": null,
-  "activities": [],
+  "operator": "Diverland",
+  "house_reef": "house reef is",
+  "activities": [
+   "snorkeling",
+   "fishing",
+   "manta",
+   "snorkelling",
+   "dolphin cruise",
+   "kayaking",
+   "stand-up paddle",
+   "paddleboard",
+   "jet ski"
+  ],
   "price_list_doc": null
  },
- "excursions": [],
+ "excursions": [
+  "manta",
+  "turtle",
+  "local island",
+  "island hopping",
+  "dolphin",
+  "private dinner"
+ ],
  "kids_family": {
   "kids_club": null,
   "age_range": null,
   "teens": null
  },
- "wellness_fitness": [],
+ "wellness_fitness": [
+  "ayurveda",
+  "yoga",
+  "gym",
+  "meditation",
+  "pilates"
+ ],
  "weddings": {
-  "offered": null,
+  "offered": true,
   "vow_renewal": null,
   "venues": [],
   "packages": [],
   "brochure_doc": null
  },
  "events_mice": {
-  "venues": [],
-  "capacity_max": null,
+  "venues": [
+   "Meeting Room – Capacity of 20 people"
+  ],
+  "capacity_max": 20,
   "buyout": null,
   "doc": null
  },
  "sustainability": [],
  "contacts_public": {
-  "reservations_email": null,
+  "reservations_email": "reservations@equatorvillage.com",
   "weddings_email": null,
-  "phone": null
+  "phone": "+960 332 2212"
  },
  "documents_latest": {
-  "factsheet": null,
+  "factsheet": "https://www.equatorvillage.com/wp-content/uploads/2023/12/Equator-factsheet-2023-1.pdf",
   "map": null,
   "wedding": null,
-  "spa_menu": null,
-  "dining_menu": null,
+  "spa_menu": "https://www.equatorvillage.com/wp-content/uploads/2023/12/Serena-Spa-Menu-2023.pdf",
+  "dining_menu": "https://www.equatorvillage.com/wp-content/uploads/2023/12/excursions-menu_compressed.pdf",
   "dive_prices": null,
   "events": null,
   "calendar": null
  },
- "documents_count": 0,
+ "documents_count": 6,
  "gaps": [
-  "factsheet",
   "wedding brochure",
   "events/MICE document",
   "fact: villas.total",
   "fact: villa categories",
-  "fact: dining",
-  "fact: transfer",
-  "fact: atoll",
-  "fact: spa",
-  "fact: dive operator",
-  "fact: kids club",
-  "fact: weddings",
-  "fact: contacts",
-  "no documents or pages collected"
+  "fact: kids club"
  ],
- "sources": {},
- "last_updated": "2026-10-04"
+ "sources": {
+  "atoll": [
+   {
+    "value": "Addu Atoll",
+    "source_url": "https://www.equatorvillage.com/wp-content/uploads/2023/12/Equator-factsheet-2023-1.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": "Addu Atoll",
+    "source_url": "https://www.equatorvillage.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Addu Atoll",
+    "source_url": "https://www.equatorvillage.com/experiences",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Addu Atoll",
+    "source_url": "https://www.equatorvillage.com/about-us",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Addu Atoll",
+    "source_url": "https://www.equatorvillage.com/dive",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Addu Atoll",
+    "source_url": "https://www.equatorvillage.com/sitemap",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Addu Atoll",
+    "source_url": "https://www.equatorvillage.com/wine-dine/vaivaru-restaurant",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Addu Atoll",
+    "source_url": "https://www.equatorvillage.com/dive/dive-spots",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Addu Atoll",
+    "source_url": "https://www.equatorvillage.com/experiences/spa-wellness",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Addu Atoll",
+    "source_url": "https://www.equatorvillage.com/experiences/sites-of-addu",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Addu Atoll",
+    "source_url": "https://www.equatorvillage.com/experiences/culinary-tours",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Addu Atoll",
+    "source_url": "https://www.equatorvillage.com/experiences/snorkeling",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Addu Atoll",
+    "source_url": "https://www.equatorvillage.com/dive/wreck-diving",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Addu Atoll",
+    "source_url": "https://www.equatorvillage.com/experiences/village-tours",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Addu Atoll",
+    "source_url": "https://www.equatorvillage.com/experiences/water-sports",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Addu Atoll",
+    "source_url": "https://www.equatorvillage.com/experiences/diving",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Addu Atoll",
+    "source_url": "https://www.equatorvillage.com/blog/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Addu Atoll",
+    "source_url": "https://www.equatorvillage.com",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Addu Atoll",
+    "source_url": "https://www.equatorvillage.com/blog",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Addu Atoll",
+    "source_url": "https://equatorvillage.com",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Addu Atoll",
+    "source_url": "http://www.equatorvillage.com",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Addu Atoll",
+    "source_url": "https://www.equatorvillage.com/blog/2026/03/23/an-exotic-eid-getaway-awaits-at-equator-village/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Addu Atoll",
+    "source_url": "https://www.equatorvillage.com/blog/2026/01/21/discover-the-maldives-island-life-at-equator-village/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Addu Atoll",
+    "source_url": "https://www.equatorvillage.com/blog/2025/07/02/discover-the-living-history-of-addu-atoll/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Addu Atoll",
+    "source_url": "https://www.equatorvillage.com/blog/2025/06/30/maldives-travel-tips-for-the-curious-explorer/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Addu Atoll",
+    "source_url": "https://equatorvillage.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Addu Atoll",
+    "source_url": "https://www.equatorvillage.com/blog/2025/12/22/an-exotic-festive-season-awaits-at-equator-village/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Addu Atoll",
+    "source_url": "https://www.equatorvillage.com/blog/2025/09/24/equator-village-maldives-celebrates-win-at-south-asian-travel-awards-2005/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Addu Atoll",
+    "source_url": "https://letsgomaldives.com/news/equator-village-scores-leading-airport-city-hotel-at-the-maldives-travel-awards/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "star_rating": [
+   {
+    "value": "5-star",
+    "source_url": "https://www.equatorvillage.com/wp-content/uploads/2023/12/Equator-factsheet-2023-1.pdf",
+    "as_of": 2023
+   }
+  ],
+  "transfer.modes": [
+   {
+    "value": "domestic flight",
+    "source_url": "https://www.equatorvillage.com/wp-content/uploads/2023/12/Equator-factsheet-2023-1.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": "domestic flight",
+    "source_url": "https://www.equatorvillage.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "domestic flight",
+    "source_url": "https://www.equatorvillage.com/about-us",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "domestic flight",
+    "source_url": "https://www.equatorvillage.com/faq",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "domestic flight",
+    "source_url": "https://www.equatorvillage.com",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "domestic flight",
+    "source_url": "https://equatorvillage.com",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "domestic flight",
+    "source_url": "http://www.equatorvillage.com",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "domestic flight",
+    "source_url": "https://www.equatorvillage.com/blog/2025/06/30/maldives-travel-tips-for-the-curious-explorer/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "domestic flight",
+    "source_url": "https://equatorvillage.com/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "transfer.minutes.domestic flight": [
+   {
+    "value": 5,
+    "source_url": "https://www.equatorvillage.com/wp-content/uploads/2023/12/Equator-factsheet-2023-1.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": 5,
+    "source_url": "https://www.equatorvillage.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 5,
+    "source_url": "https://www.equatorvillage.com/about-us",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 5,
+    "source_url": "https://www.equatorvillage.com/faq",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 5,
+    "source_url": "https://www.equatorvillage.com",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 5,
+    "source_url": "https://equatorvillage.com",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 5,
+    "source_url": "http://www.equatorvillage.com",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 90,
+    "source_url": "https://www.equatorvillage.com/blog/2025/06/30/maldives-travel-tips-for-the-curious-explorer/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 5,
+    "source_url": "https://equatorvillage.com/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "meal_plans": [
+   {
+    "value": "AI",
+    "source_url": "https://www.equatorvillage.com/wp-content/uploads/2023/12/Equator-factsheet-2023-1.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": "AI",
+    "source_url": "https://www.equatorvillage.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "HB",
+    "source_url": "https://www.equatorvillage.com/wine-dine",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "FB",
+    "source_url": "https://www.equatorvillage.com/wine-dine",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://www.equatorvillage.com/wine-dine",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://www.equatorvillage.com",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://equatorvillage.com",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "AI",
+    "source_url": "http://www.equatorvillage.com",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://equatorvillage.com/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "spa.name": [
+   {
+    "value": "Serena Spa",
+    "source_url": "https://www.equatorvillage.com/wp-content/uploads/2023/12/Equator-factsheet-2023-1.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": "Serena Spa",
+    "source_url": "https://www.equatorvillage.com/experiences",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Serena Spa",
+    "source_url": "https://www.equatorvillage.com/experiences/spa-wellness",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Serena Spa",
+    "source_url": "https://www.equatorvillage.com/experiences/sites-of-addu",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Serena Spa",
+    "source_url": "https://www.equatorvillage.com/experiences/culinary-tours",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Serena Spa",
+    "source_url": "https://www.equatorvillage.com/experiences/snorkeling",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Serena Spa",
+    "source_url": "https://www.equatorvillage.com/experiences/village-tours",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Serena Spa",
+    "source_url": "https://www.equatorvillage.com/experiences/water-sports",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Serena Spa",
+    "source_url": "https://www.equatorvillage.com/experiences/diving",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Serena Spa",
+    "source_url": "https://www.equatorvillage.com/blog/2026/02/24/the-ultimate-maldives-getaway-for-adventurous-couples/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "diving_watersports.operator": [
+   {
+    "value": "Diverland",
+    "source_url": "https://www.equatorvillage.com/wp-content/uploads/2023/12/Equator-factsheet-2023-1.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": "Diverland",
+    "source_url": "https://www.equatorvillage.com/experiences/snorkeling",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Diverland",
+    "source_url": "https://www.equatorvillage.com/experiences/diving",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "diving_watersports.house_reef": [
+   {
+    "value": "house reef is",
+    "source_url": "https://www.equatorvillage.com/wp-content/uploads/2023/12/Equator-factsheet-2023-1.pdf",
+    "as_of": 2023
+   }
+  ],
+  "diving_watersports.activities": [
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.equatorvillage.com/wp-content/uploads/2023/12/Equator-factsheet-2023-1.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.equatorvillage.com/wp-content/uploads/2023/12/Equator-factsheet-2023-1.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.equatorvillage.com/wp-content/uploads/2023/12/Equator-factsheet-2023-1.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.equatorvillage.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.equatorvillage.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.equatorvillage.com/experiences",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.equatorvillage.com/experiences",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.equatorvillage.com/sitemap",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.equatorvillage.com/dive/dive-spots",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.equatorvillage.com/experiences/spa-wellness",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.equatorvillage.com/experiences/spa-wellness",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.equatorvillage.com/experiences/spa-wellness",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.equatorvillage.com/experiences/sites-of-addu",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.equatorvillage.com/experiences/sites-of-addu",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.equatorvillage.com/experiences/sites-of-addu",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.equatorvillage.com/experiences/culinary-tours",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.equatorvillage.com/experiences/culinary-tours",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.equatorvillage.com/experiences/culinary-tours",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.equatorvillage.com/experiences/snorkeling",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.equatorvillage.com/experiences/snorkeling",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.equatorvillage.com/experiences/snorkeling",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.equatorvillage.com/dive/wreck-diving",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.equatorvillage.com/experiences/village-tours",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.equatorvillage.com/experiences/village-tours",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.equatorvillage.com/experiences/village-tours",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.equatorvillage.com/experiences/water-sports",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.equatorvillage.com/experiences/water-sports",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.equatorvillage.com/experiences/water-sports",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.equatorvillage.com/experiences/diving",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.equatorvillage.com/experiences/diving",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.equatorvillage.com/experiences/diving",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.equatorvillage.com",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.equatorvillage.com",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://equatorvillage.com",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://equatorvillage.com",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "http://www.equatorvillage.com",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "http://www.equatorvillage.com",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.equatorvillage.com/blog/2026/03/23/an-exotic-eid-getaway-awaits-at-equator-village/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.equatorvillage.com/blog/2026/01/21/discover-the-maldives-island-life-at-equator-village/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.equatorvillage.com/blog/2025/07/02/discover-the-living-history-of-addu-atoll/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin cruise",
+    "source_url": "https://www.equatorvillage.com/blog/2025/06/30/maldives-travel-tips-for-the-curious-explorer/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://equatorvillage.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://equatorvillage.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.equatorvillage.com/blog/2025/09/24/equator-village-maldives-celebrates-win-at-south-asian-travel-awards-2005/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.equatorvillage.com/blog/2026/02/24/the-ultimate-maldives-getaway-for-adventurous-couples/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "kayaking",
+    "source_url": "https://www.equatorvillage.com/blog/2026/02/24/the-ultimate-maldives-getaway-for-adventurous-couples/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "stand-up paddle",
+    "source_url": "https://www.equatorvillage.com/blog/2026/02/24/the-ultimate-maldives-getaway-for-adventurous-couples/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "paddleboard",
+    "source_url": "https://www.equatorvillage.com/blog/2026/02/24/the-ultimate-maldives-getaway-for-adventurous-couples/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "jet ski",
+    "source_url": "https://www.equatorvillage.com/blog/2026/02/24/the-ultimate-maldives-getaway-for-adventurous-couples/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin cruise",
+    "source_url": "https://www.equatorvillage.com/blog/2026/02/24/the-ultimate-maldives-getaway-for-adventurous-couples/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.equatorvillage.com/blog/2026/02/24/the-ultimate-maldives-getaway-for-adventurous-couples/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "excursions": [
+   {
+    "value": "manta",
+    "source_url": "https://www.equatorvillage.com/wp-content/uploads/2023/12/Equator-factsheet-2023-1.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.equatorvillage.com/dive/dive-spots",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.equatorvillage.com/experiences/spa-wellness",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.equatorvillage.com/experiences/spa-wellness",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.equatorvillage.com/experiences/sites-of-addu",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.equatorvillage.com/experiences/sites-of-addu",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.equatorvillage.com/experiences/culinary-tours",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.equatorvillage.com/experiences/culinary-tours",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.equatorvillage.com/experiences/snorkeling",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.equatorvillage.com/experiences/snorkeling",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.equatorvillage.com/dive/wreck-diving",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.equatorvillage.com/dive/wreck-diving",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.equatorvillage.com/experiences/village-tours",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.equatorvillage.com/experiences/village-tours",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.equatorvillage.com/experiences/water-sports",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.equatorvillage.com/experiences/water-sports",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.equatorvillage.com/experiences/diving",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "local island",
+    "source_url": "https://www.equatorvillage.com/blog/2025/07/02/discover-the-living-history-of-addu-atoll/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.equatorvillage.com/blog/2025/07/02/discover-the-living-history-of-addu-atoll/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.equatorvillage.com/blog/2025/07/02/discover-the-living-history-of-addu-atoll/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "island hopping",
+    "source_url": "https://www.equatorvillage.com/blog/2025/06/30/maldives-travel-tips-for-the-curious-explorer/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.equatorvillage.com/blog/2025/06/30/maldives-travel-tips-for-the-curious-explorer/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.equatorvillage.com/blog/2025/09/24/equator-village-maldives-celebrates-win-at-south-asian-travel-awards-2005/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.equatorvillage.com/blog/2026/02/24/the-ultimate-maldives-getaway-for-adventurous-couples/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.equatorvillage.com/blog/2026/02/24/the-ultimate-maldives-getaway-for-adventurous-couples/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "private dinner",
+    "source_url": "https://www.equatorvillage.com/blog/2026/02/24/the-ultimate-maldives-getaway-for-adventurous-couples/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "wellness_fitness": [
+   {
+    "value": "ayurveda",
+    "source_url": "https://www.equatorvillage.com/wp-content/uploads/2023/12/Equator-factsheet-2023-1.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.equatorvillage.com/wp-content/uploads/2023/12/Serena-Spa-Menu-2023.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": "ayurveda",
+    "source_url": "https://www.equatorvillage.com/wp-content/uploads/2023/12/Serena-Spa-Menu-2023.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": "gym",
+    "source_url": "https://www.equatorvillage.com/privacy-policy",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "gym",
+    "source_url": "https://www.equatorvillage.com/faq",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "gym",
+    "source_url": "https://www.equatorvillage.com/facilities",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.equatorvillage.com/blog/2020/05/12/self-care-and-mental-well-being/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "meditation",
+    "source_url": "https://www.equatorvillage.com/blog/2020/05/12/self-care-and-mental-well-being/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "pilates",
+    "source_url": "https://www.equatorvillage.com/blog/2020/05/12/self-care-and-mental-well-being/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "gym",
+    "source_url": "https://equatorvillage.com/privacy-policy",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "events_mice.capacity_max": [
+   {
+    "value": 20,
+    "source_url": "https://www.equatorvillage.com/wp-content/uploads/2023/12/Equator-factsheet-2023-1.pdf",
+    "as_of": 2023
+   }
+  ],
+  "events_mice.venues": [
+   {
+    "value": "Meeting Room – Capacity of 20 people",
+    "source_url": "https://www.equatorvillage.com/wp-content/uploads/2023/12/Equator-factsheet-2023-1.pdf",
+    "as_of": 2023
+   }
+  ],
+  "contacts_public.reservations_email": [
+   {
+    "value": "reservations@equatorvillage.com",
+    "source_url": "https://www.equatorvillage.com/wp-content/uploads/2023/12/Equator-factsheet-2023-1.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": "reservations@equatorvillage.com",
+    "source_url": "https://www.equatorvillage.com/faq",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "reservations@equatorvillage.com",
+    "source_url": "https://www.equatorvillage.com/blog/2026/03/23/an-exotic-eid-getaway-awaits-at-equator-village/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "reservations@equatorvillage.com",
+    "source_url": "https://www.equatorvillage.com/blog/2026/01/21/discover-the-maldives-island-life-at-equator-village/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "reservations@equatorvillage.com",
+    "source_url": "https://www.equatorvillage.com/blog/2025/07/02/discover-the-living-history-of-addu-atoll/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "reservations@equatorvillage.com",
+    "source_url": "https://www.equatorvillage.com/blog/2025/06/30/maldives-travel-tips-for-the-curious-explorer/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "reservations@equatorvillage.com",
+    "source_url": "https://www.equatorvillage.com/blog/2025/12/22/an-exotic-festive-season-awaits-at-equator-village/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "reservations@equatorvillage.com",
+    "source_url": "https://www.equatorvillage.com/blog/2026/02/24/the-ultimate-maldives-getaway-for-adventurous-couples/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "contacts_public.phone": [
+   {
+    "value": "+960 689 9000",
+    "source_url": "https://www.equatorvillage.com/wp-content/uploads/2023/12/Equator-factsheet-2023-1.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": "+960 332 2212",
+    "source_url": "https://www.equatorvillage.com/privacy-policy",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 689 9000",
+    "source_url": "https://www.equatorvillage.com/blog/2026/03/23/an-exotic-eid-getaway-awaits-at-equator-village/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 689 9000",
+    "source_url": "https://www.equatorvillage.com/blog/2026/01/21/discover-the-maldives-island-life-at-equator-village/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 689 9000",
+    "source_url": "https://www.equatorvillage.com/blog/2025/07/02/discover-the-living-history-of-addu-atoll/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 689 9000",
+    "source_url": "https://www.equatorvillage.com/blog/2025/06/30/maldives-travel-tips-for-the-curious-explorer/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 6899000",
+    "source_url": "https://www.equatorvillage.com/blog/2025/12/22/an-exotic-festive-season-awaits-at-equator-village/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 332 2212",
+    "source_url": "https://equatorvillage.com/privacy-policy",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 689 9000",
+    "source_url": "https://www.equatorvillage.com/blog/2026/02/24/the-ultimate-maldives-getaway-for-adventurous-couples/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "island": [
+   {
+    "value": "Gan Island",
+    "source_url": "https://www.equatorvillage.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Gan Island",
+    "source_url": "https://www.equatorvillage.com",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Gan Island",
+    "source_url": "https://equatorvillage.com",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Gan Island",
+    "source_url": "http://www.equatorvillage.com",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Gan",
+    "source_url": "https://www.equatorvillage.com/blog/2026/03/23/an-exotic-eid-getaway-awaits-at-equator-village/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Gan Island",
+    "source_url": "https://equatorvillage.com/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "all_inclusive_details": [
+   {
+    "value": "all inclusive you will get free snorkelling, bicycle rental and a one-time excursion to the island.",
+    "source_url": "https://www.equatorvillage.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "All-Inclusive packages.",
+    "source_url": "https://www.equatorvillage.com/faq",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "all-inclusive experience, we have got your dining preferences covered.",
+    "source_url": "https://www.equatorvillage.com/wine-dine",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "all inclusive you will get free snorkelling, bicycle rental and a one-time excursion to the island.",
+    "source_url": "https://www.equatorvillage.com",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "all inclusive you will get free snorkelling, bicycle rental and a one-time excursion to the island.",
+    "source_url": "https://equatorvillage.com",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "all inclusive you will get free snorkelling, bicycle rental and a one-time excursion to the island.",
+    "source_url": "http://www.equatorvillage.com",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "all inclusive you will get free snorkelling, bicycle rental and a one-time excursion to the island.",
+    "source_url": "https://equatorvillage.com/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "dining": [
+   {
+    "value": {
+     "name": "Vaivaru Restaurant",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.equatorvillage.com/sitemap",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Veragan Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.equatorvillage.com/sitemap",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Veragan Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.equatorvillage.com/wine-dine/veragan-bar",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Vaivaru Restaurant",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.equatorvillage.com/wine-dine/veragan-bar",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Vaivaru Restaurant",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.equatorvillage.com/wine-dine/vaivaru-restaurant",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Veragan Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.equatorvillage.com/wine-dine/vaivaru-restaurant",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Vaivaru Restaurant",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.equatorvillage.com/wine-dine",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Veragan Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.equatorvillage.com/wine-dine",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Vaivaru Restaurant",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.equatorvillage.com/wine-dine/private-dining",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Veragan Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.equatorvillage.com/wine-dine/private-dining",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "weddings.offered": [
+   {
+    "value": true,
+    "source_url": "https://www.equatorvillage.com/blog/2025/09/24/equator-village-maldives-celebrates-win-at-south-asian-travel-awards-2005/",
+    "as_of": "2026-10-04"
+   }
+  ]
+ },
+ "last_updated": "2026-10-05"
 }

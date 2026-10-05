@@ -6,10 +6,10 @@
   "Kuda Huraa",
   "Four Seasons Kuda Huraa"
  ],
- "official_url": null,
- "official_site_status": null,
+ "official_url": "https://www.fourseasons.com/maldiveskh/",
+ "official_site_status": "blocked",
  "operator_brand": "Four Seasons",
- "atoll": "North Malé Atoll",
+ "atoll": "Kaafu Atoll",
  "island": "Bodu Huraa",
  "opened_or_renovated": "opened 1998",
  "star_rating": null,
@@ -28,24 +28,10 @@
  },
  "island_size": null,
  "villas": {
-  "total": null,
-  "categories": [
-   {
-    "name": "Number of Villas",
-    "count": 96,
-    "size_sqm": null,
-    "max_occupancy": null,
-    "pool": null,
-    "overwater": null
-   }
-  ]
+  "total": 106,
+  "categories": []
  },
  "dining": [
-  {
-   "name": "Dining",
-   "cuisine": null,
-   "type": "restaurant"
-  },
   {
    "name": "Restaurant: Baraabaru",
    "cuisine": null,
@@ -82,7 +68,9 @@
    "type": "bar"
   }
  ],
- "meal_plans": [],
+ "meal_plans": [
+  "AI"
+ ],
  "all_inclusive_details": null,
  "spa": {
   "name": "The Island Spa",
@@ -106,7 +94,9 @@
    "fishing",
    "dolphin cruise",
    "surfing",
-   "sunset cruise"
+   "sunset cruise",
+   "sailing",
+   "canoe"
   ],
   "price_list_doc": null
  },
@@ -117,7 +107,9 @@
   "snorkel safari",
   "picnic",
   "cooking class",
-  "sunset fishing"
+  "sunset fishing",
+  "big game fishing",
+  "stargazing"
  ],
  "kids_family": {
   "kids_club": "Kids Club",
@@ -128,7 +120,8 @@
   "yoga",
   "meditation",
   "gym",
-  "tennis"
+  "tennis",
+  "sauna"
  ],
  "weddings": {
   "offered": true,
@@ -169,7 +162,7 @@
   "factsheet",
   "wedding brochure",
   "events/MICE document",
-  "fact: villas.total",
+  "fact: villa categories",
   "fact: dive operator"
  ],
  "sources": {
@@ -178,6 +171,21 @@
     "value": "North Malé Atoll",
     "source_url": "https://neoscapesmaldives.com/wp-content/uploads/facts-1.pdf",
     "as_of": 2019
+   },
+   {
+    "value": "Kaafu Atoll",
+    "source_url": "https://www.mymaldives.com/resort-guide/four-seasons-resort-maldives-kuda-huraa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "North Malé Atoll",
+    "source_url": "https://www.maldivestourism.net/resorts/four-seasons-resort-maldives-at-kuda-huraa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Kaafu Atoll",
+    "source_url": "https://malediven.de/malediven-hotels/four-seasons-resort-maledives-at-kuda-huraa/",
+    "as_of": "2026-10-04"
    }
   ],
   "opened_or_renovated": [
@@ -193,15 +201,6 @@
    }
   ],
   "dining": [
-   {
-    "value": {
-     "name": "Dining",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://neoscapesmaldives.com/wp-content/uploads/facts-1.pdf",
-    "as_of": 2019
-   },
    {
     "value": {
      "name": "Restaurant: Baraabaru",
@@ -258,24 +257,6 @@
    },
    {
     "value": {
-     "name": "Dining",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/four-seasons-kuda-huraa-maldives/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Dining",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/four-seasons-kuda-huraa-maldives/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
      "name": "Lava Lounge",
      "cuisine": null,
      "type": "bar"
@@ -293,6 +274,16 @@
    {
     "value": "The Island Spa",
     "source_url": "https://www.neoscapesmaldives.com/resort/four-seasons-kuda-huraa-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.mymaldives.com/resort-guide/four-seasons-resort-maldives-kuda-huraa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://malediven.de/malediven-hotels/four-seasons-resort-maledives-at-kuda-huraa/",
     "as_of": "2026-10-04"
    }
   ],
@@ -381,6 +372,66 @@
     "value": "sunset cruise",
     "source_url": "https://www.neoscapesmaldives.com/resort/four-seasons-kuda-huraa-maldives/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.mymaldives.com/resort-guide/four-seasons-resort-maldives-kuda-huraa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://www.mymaldives.com/resort-guide/four-seasons-resort-maldives-kuda-huraa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "windsurfing",
+    "source_url": "https://www.mymaldives.com/resort-guide/four-seasons-resort-maldives-kuda-huraa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "catamaran",
+    "source_url": "https://www.mymaldives.com/resort-guide/four-seasons-resort-maldives-kuda-huraa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "parasailing",
+    "source_url": "https://www.mymaldives.com/resort-guide/four-seasons-resort-maldives-kuda-huraa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "water skiing",
+    "source_url": "https://www.mymaldives.com/resort-guide/four-seasons-resort-maldives-kuda-huraa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.mymaldives.com/resort-guide/four-seasons-resort-maldives-kuda-huraa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sailing",
+    "source_url": "https://www.mymaldives.com/resort-guide/four-seasons-resort-maldives-kuda-huraa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "canoe",
+    "source_url": "https://www.mymaldives.com/resort-guide/four-seasons-resort-maldives-kuda-huraa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.maldivestourism.net/resorts/four-seasons-resort-maldives-at-kuda-huraa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "catamaran",
+    "source_url": "https://www.maldivestourism.net/resorts/four-seasons-resort-maldives-at-kuda-huraa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.maldivestourism.net/blog/shark-safari-snorkel-at-four-seasons-resort-maldives-at-kuda-huraa/",
+    "as_of": "2026-10-04"
    }
   ],
   "excursions": [
@@ -443,6 +494,26 @@
     "value": "cooking class",
     "source_url": "https://www.neoscapesmaldives.com/resort/four-seasons-kuda-huraa-maldives/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "big game fishing",
+    "source_url": "https://www.mymaldives.com/resort-guide/four-seasons-resort-maldives-kuda-huraa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.maldivestourism.net/resorts/four-seasons-resort-maldives-at-kuda-huraa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "picnic",
+    "source_url": "https://www.maldivestourism.net/resorts/four-seasons-resort-maldives-at-kuda-huraa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "stargazing",
+    "source_url": "https://www.maldivestourism.net/resorts/four-seasons-resort-maldives-at-kuda-huraa/",
+    "as_of": "2026-10-04"
    }
   ],
   "kids_family.age_range": [
@@ -484,6 +555,21 @@
     "value": "tennis",
     "source_url": "https://www.neoscapesmaldives.com/resort/four-seasons-kuda-huraa-maldives/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "sauna",
+    "source_url": "https://www.mymaldives.com/resort-guide/four-seasons-resort-maldives-kuda-huraa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.maldivestourism.net/resorts/four-seasons-resort-maldives-at-kuda-huraa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "meditation",
+    "source_url": "https://www.maldivestourism.net/resorts/four-seasons-resort-maldives-at-kuda-huraa/",
+    "as_of": "2026-10-04"
    }
   ],
   "sustainability": [
@@ -496,12 +582,22 @@
     "value": "desalination",
     "source_url": "https://www.neoscapesmaldives.com/resort/four-seasons-kuda-huraa-maldives/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "marine biologist",
+    "source_url": "https://www.maldivestourism.net/blog/shark-safari-snorkel-at-four-seasons-resort-maldives-at-kuda-huraa/",
+    "as_of": "2026-10-04"
    }
   ],
   "island": [
    {
     "value": "Bodu Huraa",
     "source_url": "https://www.neoscapesmaldives.com/resort/four-seasons-kuda-huraa-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Bandos",
+    "source_url": "https://www.maldivestourism.net/blog/shark-safari-snorkel-at-four-seasons-resort-maldives-at-kuda-huraa/",
     "as_of": "2026-10-04"
    }
   ],
@@ -520,6 +616,16 @@
     "value": "yacht",
     "source_url": "https://www.neoscapesmaldives.com/resort/four-seasons-kuda-huraa-maldives/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.maldivestourism.net/resorts/four-seasons-resort-maldives-at-kuda-huraa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.maldivestourism.net/blog/shark-safari-snorkel-at-four-seasons-resort-maldives-at-kuda-huraa/",
+    "as_of": "2026-10-04"
    }
   ],
   "transfer.minutes.speedboat": [
@@ -527,19 +633,10 @@
     "value": 35,
     "source_url": "https://www.neoscapesmaldives.com/resort/four-seasons-kuda-huraa-maldives/",
     "as_of": "2026-10-04"
-   }
-  ],
-  "villas.categories": [
+   },
    {
-    "value": {
-     "name": "Number of Villas",
-     "count": 96,
-     "size_sqm": null,
-     "max_occupancy": null,
-     "pool": null,
-     "overwater": null
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/four-seasons-kuda-huraa-maldives/",
+    "value": 15,
+    "source_url": "https://www.maldivestourism.net/blog/shark-safari-snorkel-at-four-seasons-resort-maldives-at-kuda-huraa/",
     "as_of": "2026-10-04"
    }
   ],
@@ -577,7 +674,21 @@
     "source_url": "https://www.neoscapesmaldives.com/resort/four-seasons-kuda-huraa-maldives/",
     "as_of": "2026-10-04"
    }
+  ],
+  "meal_plans": [
+   {
+    "value": "AI",
+    "source_url": "https://mondomaldive.it/it/villaggio/four-seasons-kuda-huraa/recensione/4888",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "villas.total": [
+   {
+    "value": 106,
+    "source_url": "https://www.mymaldives.com/resort-guide/four-seasons-resort-maldives-kuda-huraa/",
+    "as_of": "2026-10-04"
+   }
   ]
  },
- "last_updated": "2026-10-04"
+ "last_updated": "2026-10-05"
 }

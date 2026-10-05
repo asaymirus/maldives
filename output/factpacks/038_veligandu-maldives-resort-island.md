@@ -1,46 +1,59 @@
 # 38. Veligandu Maldives Resort Island
 
 **Current name / alias:** 'Veli' in Crown & Champa filenames  
-**Official site:** n/a (None)  
+**Official site:** https://veligandu.com/ (ok)  
 **Brand:** n/a  
-**Atoll:** n/a  **Island:** n/a  
+**Atoll:** Kaafu Atoll  **Island:** n/a  
 **Opened/renovated:** n/a  **Rating:** n/a  
-**Transfer:** speedboat, yacht; minutes: {}  
-**Island size:** n/a  
+**Transfer:** seaplane, speedboat, yacht; minutes: {"seaplane": 20, "speedboat": 60}  
+**Island size:** 9 ha  
 
-## Villas (? total)
+## Villas (74 total)
 
+- side of the island. Each villa is and offers a crisp: count ?, 270 sqm, max ?
+- e quisite brand-new villas offer of refined lu ury: count ?, 125 sqm, max ?
+- These villas are ideal for couples seeking love and: count ?, 102 sqm, max ?
+- view over the ocean. Each of the villas offers stun: count ?, 86 sqm, max ?, overwater
+- Residences Powered: count 15, ? sqm, max ?
+- Villas: count 90, ? sqm, max ?
 
 ## Dining
 
 - Raalhu Bar (bar)
-- Step One: From Fresh Juice To Tropical Bar Snacks (bar)
+- Thundi Bar (bar)
+- Madivaru Teppankai Grill (restaurant)
+- Hot POT & Grill by Shore (restaurant)
+- Teppanyaki Experience (restaurant)
+- Dhonveli Restaurant (restaurant)
+- Madivaru -  Restaurant and Teppanyaki Grill (restaurant)
 
-Meal plans: n/a
+Meal plans: Dine Around, BB, FB, AI
+All-inclusive: All-
+ Inclusive Dine Around Package.
 
 ## Spa & wellness
 
-- Spa: n/a; treatment rooms: ?; menu: none
-- Wellness/fitness: n/a
+- Spa: Himeyn Spa; treatment rooms: ?; menu: https://veligandu.com/wp-content/uploads/2025/06/HimeynSpaMenuVer300425.pdf
+- Wellness/fitness: yoga, tennis, padel, meditation, sound healing, steam, fitness center, badminton, gym, beach volleyball, ayurveda, fitness centre
 
 ## Diving, water sports & excursions
 
-- Operator: Ocean Group
-- House reef: House Reef here at Veligandu
-- Activities: snorkelling, scuba diving, snorkeling, windsurfing, kayaking, paddleboard, jet ski, fishing, dolphin cruise, manta
-- Price list: https://sales.crownandchamparesorts.com/wp-content/uploads/2020/07/OceanDiveandSportsCenterSOP-071720VELI.pdf
-- Excursions: dolphin, manta, turtle
+- Operator: Ocean Watersports
+- House reef: house reefs
+- Activities: snorkeling, scuba diving, windsurfing, kayaking, jet ski, fishing, dolphin cruise, manta, surfing, catamaran, water skiing, wakeboarding, seabob, sailing, sunset cruise, whale shark, stand-up paddle, paddleboard, snorkelling, canoe, parasailing
+- Price list: https://veligandu.com/wp-content/uploads/2026/01/VeliWaterSportsCentre2026_010126-123126.pdf
+- Excursions: local island, sandbank, dolphin, manta, turtle, picnic, cinema, sunset fishing, big game fishing, whale shark, private dinner, stargazing
 
 ## Kids & family
 
-- Kids club: n/a; ages: n/a; teens: n/a
+- Kids club: n/a; ages: n/a; teens: teens programme mentioned
 
 ## Weddings
 
-- Offered: None; vow renewal: None
-- Venues: n/a
+- Offered: True; vow renewal: True
+- Venues: Wedding Pavilion decorated ✔ ✔ ✔ ✔ ✔
 - Packages: n/a
-- Brochure: none
+- Brochure: https://veligandu.com/wp-content/uploads/2024/09/Veli-HoneymoonGuestInfoRenewalsOfVows_110124-103125_Rev081524-240924.pdf
 
 ## Events / MICE
 
@@ -49,33 +62,26 @@ Meal plans: n/a
 
 ## Sustainability
 
-- marine biologist
+- marine biologist, coral restoration, solar, desalination
 
 ## Public contacts
 
-- Reservations: n/a; weddings: n/a; phone: n/a
+- Reservations: reservations@veligandu.com; weddings: n/a; phone: +960 666 0519
 
 ## Latest documents
 
-- factsheet: https://sales.crownandchamparesorts.com/wp-content/uploads/2025/08/Veli-Factsheet-W25-26S26Ver17062025.pdf
-- map: https://sales.crownandchamparesorts.com/wp-content/uploads/2025/08/Veli-IslandMap110125103126Ver140625.pdf
-- wedding: none
-- spa_menu: none
-- dining_menu: none
-- dive_prices: https://sales.crownandchamparesorts.com/wp-content/uploads/2020/07/OceanDiveandSportsCenterSOP-071720VELI.pdf
+- factsheet: https://veligandu.com/wp-content/uploads/2025/06/Factsheet-W25-26S26Ver17062025.pdf
+- map: https://veligandu.com/wp-content/uploads/2026/09/Veli-IslandMapFY2026Ver092126.pdf
+- wedding: https://veligandu.com/wp-content/uploads/2024/09/Veli-HoneymoonGuestInfoRenewalsOfVows_110124-103125_Rev081524-240924.pdf
+- spa_menu: https://veligandu.com/wp-content/uploads/2025/06/HimeynSpaMenuVer300425.pdf
+- dining_menu: https://veligandu.com/wp-content/uploads/2024/11/Veligandu_MasterWineMenu_Landscape_09-11-2024.pdf
+- dive_prices: https://veligandu.com/wp-content/uploads/2026/01/VeliWaterSportsCentre2026_010126-123126.pdf
 - events: none
-- calendar: none
+- calendar: https://d2qwq69i2ic1pk.cloudfront.net/2023/11/CCR_2024_Calendar_compressed.pdf
 
 ## Gaps
 
-- wedding brochure
 - events/MICE document
-- fact: villas.total
-- fact: villa categories
-- fact: atoll
-- fact: spa
 - fact: kids club
-- fact: weddings
-- fact: contacts
 
-_Facts extracted by rules from 7 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-04._
+_Facts extracted by rules from 23 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

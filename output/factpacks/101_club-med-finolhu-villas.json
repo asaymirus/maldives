@@ -7,8 +7,8 @@
   "Finolhu Villas",
   "Gasfinolhu"
  ],
- "official_url": null,
- "official_site_status": null,
+ "official_url": "https://www.clubmed.co.uk/r/finolhu-villas/y",
+ "official_site_status": "unreachable",
  "operator_brand": "Villa",
  "atoll": null,
  "island": null,
@@ -28,8 +28,16 @@
   "total": null,
   "categories": []
  },
- "dining": [],
- "meal_plans": [],
+ "dining": [
+  {
+   "name": "Ristoranti e Bar",
+   "cuisine": null,
+   "type": "bar"
+  }
+ ],
+ "meal_plans": [
+  "BB"
+ ],
  "all_inclusive_details": null,
  "spa": {
   "name": null,
@@ -40,7 +48,11 @@
  "diving_watersports": {
   "operator": null,
   "house_reef": null,
-  "activities": [],
+  "activities": [
+   "snorkeling",
+   "surfing",
+   "catamaran"
+  ],
   "price_list_doc": null
  },
  "excursions": [],
@@ -49,7 +61,11 @@
   "age_range": null,
   "teens": null
  },
- "wellness_fitness": [],
+ "wellness_fitness": [
+  "yoga",
+  "tennis",
+  "badminton"
+ ],
  "weddings": {
   "offered": null,
   "vow_renewal": null,
@@ -86,16 +102,67 @@
   "events/MICE document",
   "fact: villas.total",
   "fact: villa categories",
-  "fact: dining",
   "fact: transfer",
   "fact: atoll",
   "fact: spa",
   "fact: dive operator",
   "fact: kids club",
   "fact: weddings",
-  "fact: contacts",
-  "no documents or pages collected"
+  "fact: contacts"
  ],
- "sources": {},
- "last_updated": "2026-10-04"
+ "sources": {
+  "dining": [
+   {
+    "value": {
+     "name": "Ristoranti e Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://mondomaldive.it/it/villaggio/club-med-finolhu-villas",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "meal_plans": [
+   {
+    "value": "BB",
+    "source_url": "https://mondomaldive.it/it/villaggio/club-med-finolhu-villas",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "diving_watersports.activities": [
+   {
+    "value": "snorkeling",
+    "source_url": "https://mondomaldive.it/it/villaggio/club-med-finolhu-villas",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "surfing",
+    "source_url": "https://mondomaldive.it/it/villaggio/club-med-finolhu-villas",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "catamaran",
+    "source_url": "https://mondomaldive.it/it/villaggio/club-med-finolhu-villas",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "wellness_fitness": [
+   {
+    "value": "yoga",
+    "source_url": "https://mondomaldive.it/it/villaggio/club-med-finolhu-villas",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://mondomaldive.it/it/villaggio/club-med-finolhu-villas",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "badminton",
+    "source_url": "https://mondomaldive.it/it/villaggio/club-med-finolhu-villas",
+    "as_of": "2026-10-04"
+   }
+  ]
+ },
+ "last_updated": "2026-10-05"
 }

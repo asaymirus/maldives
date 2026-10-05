@@ -1,15 +1,23 @@
 # 112. Nika Island Resort and Spa
 
-**Official site:** n/a (None)  
+**Official site:** https://www.nikamaldives.com/ (unreachable)  
 **Brand:** n/a  
 **Atoll:** Ari Atoll  **Island:** n/a  
 **Opened/renovated:** n/a  **Rating:** n/a  
 **Transfer:** seaplane; minutes: {"seaplane": 25}  
 **Island size:** n/a  
 
-## Villas (43 total)
+## Villas (38 total)
 
-- Number of Villas: count 46, ? sqm, max ?
+- Embudu Village A: count 22, ? sqm, max ?
+- Equator Village A: count 23, ? sqm, max ?
+- Mookai Suites A: count 26, ? sqm, max ?
+- Lu South Ari Atoll Resort & Villas A: count 31, ? sqm, max ?
+- Amilla Maldives Resort & Residences D: count 120, ? sqm, max ?
+- Residence Maldives D: count 122, ? sqm, max ?
+- The Residence Maldives at Dhigurah D: count 123, ? sqm, max ?
+- TME Retreats Dhigurah E: count 131, ? sqm, max ?
+- Villa Nautica E . Paradise Island Resort E: count 143, ? sqm, max ?
 - nika waterbungalows nika island resort: count 5, ? sqm, max ?
 - nika water villa nika island resort: count 64, ? sqm, max ?
 - beach villa nika island resort: count 120, ? sqm, max ?
@@ -18,10 +26,12 @@
 ## Dining
 
 - Dinners - Bepi Bar (bar)
-- Dining (restaurant)
+- Lounge Lounge (bar)
+- Lounge (bar)
+- Arrival Lounge (bar)
+- No Hotel Name Arr Lounge (bar)
 - Nika Restaurant (restaurant)
 - Bepi Bar (bar)
-- Dining Experience (restaurant)
 
 Meal plans: HB, FB, AI
 All-inclusive: all-inclusive packages, with a buffet menu alternating with the Ã  la carte menu.
@@ -29,15 +39,15 @@ All-inclusive: all-inclusive packages, with a buffet menu alternating with the Ã
 ## Spa & wellness
 
 - Spa: Spa; treatment rooms: ?; menu: none
-- Wellness/fitness: gym, tennis, sauna, meditation, fitness center, ayurveda
+- Wellness/fitness: gym, tennis, sauna, meditation, fitness center, ayurveda, badminton
 
 ## Diving, water sports & excursions
 
 - Operator: Dive Centre
-- House reef: n/a
-- Activities: snorkeling, catamaran, fishing, scuba diving, whale shark, manta
+- House reef: house reef, where youâ€™ll encounter vibrant marine life
+- Activities: snorkeling, catamaran, fishing, scuba diving, whale shark, manta, windsurfing, water skiing, canoe
 - Price list: none
-- Excursions: local island, sandbank, dolphin, big game fishing, whale shark, manta, turtle, private dinner
+- Excursions: local island, sandbank, dolphin, big game fishing, whale shark, manta, turtle, private dinner, island hopping
 
 ## Kids & family
 
@@ -66,7 +76,7 @@ All-inclusive: all-inclusive packages, with a buffet menu alternating with the Ã
 ## Latest documents
 
 - factsheet: https://www.neoscapesmaldives.com/wp-content/uploads/NIKA-FACT-SHEET-Nika-Island-Resort.pdf
-- map: https://www.neoscapesmaldives.com/wp-content/uploads/NIKA-MAP-Nika-Island-Resort.pdf
+- map: https://maldives.ru/doc/airport-new-counters-map-2023-1.pdf
 - wedding: none
 - spa_menu: none
 - dining_menu: none
@@ -79,4 +89,4 @@ All-inclusive: all-inclusive packages, with a buffet menu alternating with the Ã
 - wedding brochure
 - events/MICE document
 
-_Facts extracted by rules from 18 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-04._
+_Facts extracted by rules from 19 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

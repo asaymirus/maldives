@@ -8,16 +8,17 @@
   "Kuda Rah",
   "Kudarah"
  ],
- "official_url": null,
- "official_site_status": null,
+ "official_url": "https://www.amayaresorts.com/",
+ "official_site_status": "unverified",
  "operator_brand": "NH",
  "atoll": "Ari Atoll",
  "island": null,
- "opened_or_renovated": null,
+ "opened_or_renovated": "opened 1995",
  "star_rating": "5-star",
  "transfer": {
   "modes": [
-   "seaplane"
+   "seaplane",
+   "yacht"
   ],
   "minutes": {
    "seaplane": 25,
@@ -28,35 +29,10 @@
  },
  "island_size": null,
  "villas": {
-  "total": null,
-  "categories": [
-   {
-    "name": "Number of Villas",
-    "count": 51,
-    "size_sqm": null,
-    "max_occupancy": null,
-    "pool": null,
-    "overwater": null
-   }
-  ]
+  "total": 30,
+  "categories": []
  },
- "dining": [
-  {
-   "name": "Dining",
-   "cuisine": null,
-   "type": "restaurant"
-  },
-  {
-   "name": "In Villa Dining",
-   "cuisine": null,
-   "type": "restaurant"
-  },
-  {
-   "name": "Destination Dining",
-   "cuisine": null,
-   "type": "restaurant"
-  }
- ],
+ "dining": [],
  "meal_plans": [],
  "all_inclusive_details": null,
  "spa": {
@@ -77,7 +53,8 @@
    "flyboard",
    "canoe",
    "snorkelling",
-   "sunset cruise"
+   "sunset cruise",
+   "scuba diving"
   ],
   "price_list_doc": null
  },
@@ -100,7 +77,8 @@
   "yoga",
   "gym",
   "steam",
-  "fitness center"
+  "fitness center",
+  "tennis"
  ],
  "weddings": {
   "offered": true,
@@ -135,7 +113,8 @@
  "gaps": [
   "wedding brochure",
   "events/MICE document",
-  "fact: villas.total",
+  "fact: villa categories",
+  "fact: dining",
   "fact: dive operator"
  ],
  "sources": {
@@ -154,6 +133,11 @@
     "value": "Ari Atoll",
     "source_url": "https://www.neoscapesmaldives.com/resort/nh-maldives-kuda-rah/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "Ari Atoll",
+    "source_url": "https://www.mymaldives.com/resort-guide/kudarah-island-resort/",
+    "as_of": "2026-10-04"
    }
   ],
   "transfer.modes": [
@@ -170,6 +154,16 @@
    {
     "value": "seaplane",
     "source_url": "https://www.neoscapesmaldives.com/resort/nh-maldives-kuda-rah/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yacht",
+    "source_url": "https://www.mymaldives.com/blog/kuda-rah-to-be-developed-into-a-five-star-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yacht",
+    "source_url": "https://www.mymaldives.com/resort-guide/kudarah-island-resort/",
     "as_of": "2026-10-04"
    }
   ],
@@ -242,6 +236,21 @@
     "value": "sunset cruise",
     "source_url": "https://www.neoscapesmaldives.com/resort/nh-maldives-kuda-rah/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://www.mymaldives.com/resort-guide/kudarah-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.mymaldives.com/resort-guide/kudarah-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "canoe",
+    "source_url": "https://www.mymaldives.com/resort-guide/kudarah-island-resort/",
+    "as_of": "2026-10-04"
    }
   ],
   "excursions": [
@@ -284,6 +293,11 @@
     "value": "picnic",
     "source_url": "https://www.neoscapesmaldives.com/resort/nh-maldives-kuda-rah/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "big game fishing",
+    "source_url": "https://www.mymaldives.com/resort-guide/kudarah-island-resort/",
+    "as_of": "2026-10-04"
    }
   ],
   "wellness_fitness": [
@@ -305,6 +319,11 @@
    {
     "value": "fitness center",
     "source_url": "https://www.neoscapesmaldives.com/resort/nh-maldives-kuda-rah/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://www.mymaldives.com/resort-guide/kudarah-island-resort/",
     "as_of": "2026-10-04"
    }
   ],
@@ -344,62 +363,20 @@
     "as_of": "2026-10-04"
    }
   ],
-  "villas.categories": [
-   {
-    "value": {
-     "name": "Number of Villas",
-     "count": 51,
-     "size_sqm": null,
-     "max_occupancy": null,
-     "pool": null,
-     "overwater": null
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/nh-maldives-kuda-rah/",
-    "as_of": "2026-10-04"
-   }
-  ],
-  "dining": [
-   {
-    "value": {
-     "name": "Dining",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/nh-maldives-kuda-rah/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Dining",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/nh-maldives-kuda-rah/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "In Villa Dining",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/nh-maldives-kuda-rah/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Destination Dining",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/nh-maldives-kuda-rah/",
-    "as_of": "2026-10-04"
-   }
-  ],
   "spa.name": [
    {
     "value": "Spa",
     "source_url": "https://www.neoscapesmaldives.com/resort/nh-maldives-kuda-rah/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.mymaldives.com/resort-guide/kudarah-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://malediven.de/malediven-hotels/amaya-kuda-rah/",
     "as_of": "2026-10-04"
    }
   ],
@@ -416,7 +393,21 @@
     "source_url": "https://www.neoscapesmaldives.com/resort/nh-maldives-kuda-rah/",
     "as_of": "2026-10-04"
    }
+  ],
+  "opened_or_renovated": [
+   {
+    "value": "opened 1995",
+    "source_url": "https://www.mymaldives.com/blog/kuda-rah-to-be-developed-into-a-five-star-resort/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "villas.total": [
+   {
+    "value": 30,
+    "source_url": "https://www.mymaldives.com/resort-guide/kudarah-island-resort/",
+    "as_of": "2026-10-04"
+   }
   ]
  },
- "last_updated": "2026-10-04"
+ "last_updated": "2026-10-05"
 }

@@ -6,27 +6,29 @@
   "Ifuru",
   "Ifuru Island"
  ],
- "official_url": null,
- "official_site_status": null,
+ "official_url": "https://www.ifuruisland.com/",
+ "official_site_status": "ok",
  "operator_brand": null,
  "atoll": "Raa Atoll",
- "island": null,
+ "island": "Ifuru Island",
  "opened_or_renovated": null,
  "star_rating": null,
  "transfer": {
   "modes": [
-   "seaplane"
+   "yacht",
+   "seaplane",
+   "domestic flight"
   ],
   "minutes": {
    "seaplane": 30,
    "speedboat": null,
-   "domestic flight": null,
+   "domestic flight": 27,
    "yacht": null
   }
  },
  "island_size": null,
  "villas": {
-  "total": null,
+  "total": 32,
   "categories": [
    {
     "name": "Sunset Beach Suite",
@@ -61,7 +63,31 @@
     "overwater": null
    },
    {
-    "name": "Total Number of Villas",
+    "name": "Master Suite with Bathroom",
+    "count": 1,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "Sunset Beach Suites & Villas",
+    "count": 147,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "SUNSET SUITES AND VILLAS",
+    "count": 147,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "sunset-facing suites and villas",
     "count": 147,
     "size_sqm": null,
     "max_occupancy": null,
@@ -72,98 +98,145 @@
  },
  "dining": [
   {
-   "name": "Club and the spot to be Hubba Hubba Bar with the",
-   "cuisine": null,
-   "type": "bar"
-  },
-  {
-   "name": "additional Pool Pizza Bar and so much more to",
-   "cuisine": null,
-   "type": "bar"
-  },
-  {
-   "name": "Dining",
+   "name": "Kitchen & Galley",
    "cuisine": null,
    "type": "restaurant"
+  },
+  {
+   "name": "in the Sunken Lounge—once during your stay.",
+   "cuisine": null,
+   "type": "bar"
   },
   {
    "name": "Palm Grill",
    "cuisine": null,
    "type": "restaurant"
+  },
+  {
+   "name": "Palm Grill Menu",
+   "cuisine": null,
+   "type": "restaurant"
+  },
+  {
+   "name": "Palm Grill Beverages Menu",
+   "cuisine": null,
+   "type": "restaurant"
+  },
+  {
+   "name": "Bar mit",
+   "cuisine": null,
+   "type": "bar"
+  },
+  {
+   "name": "Pool-Pizza-Bar",
+   "cuisine": null,
+   "type": "bar"
   }
  ],
  "meal_plans": [
-  "Dine Around"
+  "Dine Around",
+  "AI",
+  "Premium AI"
  ],
- "all_inclusive_details": "ALL-INCLUSIVE package and enjoy curated amenities that exceed expectations.",
+ "all_inclusive_details": "all-inclusive Maldives resort and discover the hidden treasures of Maldives in ways beyond imagination.",
  "spa": {
   "name": "Xanadu Spa",
   "treatment_rooms": 8,
   "signature_treatments": [],
-  "menu_doc": null
+  "menu_doc": "https://document-tc.galaxy.tf/wdpdf-59txyl7cqri9u969y5hcstqcx/file.pdf"
  },
  "diving_watersports": {
-  "operator": null,
-  "house_reef": null,
+  "operator": "Dive Butler",
+  "house_reef": "house reef discovery",
   "activities": [
    "snorkeling",
    "fishing",
    "sunset cruise",
-   "scuba diving"
+   "scuba diving",
+   "whale shark",
+   "kayaking",
+   "stand-up paddle",
+   "paddleboard",
+   "manta",
+   "sailing",
+   "jet ski",
+   "snorkelling"
   ],
   "price_list_doc": null
  },
  "excursions": [
   "island hopping",
   "dolphin",
-  "stargazing"
+  "stargazing",
+  "sandbank",
+  "picnic",
+  "cinema",
+  "whale shark",
+  "manta",
+  "local island"
  ],
  "kids_family": {
-  "kids_club": "Kids Club",
-  "age_range": null,
+  "kids_club": "More\nThe Coconut Kids Club",
+  "age_range": "2-11 years",
   "teens": null
  },
  "wellness_fitness": [
   "fitness centre",
   "tennis",
   "sauna",
-  "steam"
+  "steam",
+  "gym",
+  "yoga",
+  "beach volleyball",
+  "sound healing",
+  "meditation",
+  "ice bath",
+  "ayurveda"
  ],
  "weddings": {
   "offered": true,
   "vow_renewal": null,
-  "venues": [],
-  "packages": [],
+  "venues": [
+   "private beach wedding"
+  ],
+  "packages": [
+   {
+    "name": "Wedding",
+    "price": "100",
+    "currency": "USD",
+    "as_of": "2026-10-04"
+   }
+  ],
   "brochure_doc": null
  },
  "events_mice": {
-  "venues": [],
+  "venues": [
+   "(Classroom & U-Style Boardroom)"
+  ],
   "capacity_max": null,
   "buyout": null,
   "doc": null
  },
  "sustainability": [],
  "contacts_public": {
-  "reservations_email": "info@neoscapesmaldives.com",
+  "reservations_email": "bookingmagic@ifuruisland.com",
   "weddings_email": null,
-  "phone": "+960 736 5425"
+  "phone": "+960 6582 800"
  },
  "documents_latest": {
   "factsheet": "https://www.neoscapesmaldives.com/wp-content/uploads/IFURU-ISLAND-MALDIVES-Fact-Sheet.pdf",
   "map": "https://www.neoscapesmaldives.com/wp-content/uploads/Ifuru_Island_Resort_Island_Map.pdf",
   "wedding": null,
-  "spa_menu": null,
+  "spa_menu": "https://document-tc.galaxy.tf/wdpdf-59txyl7cqri9u969y5hcstqcx/file.pdf",
   "dining_menu": null,
   "dive_prices": null,
   "events": null,
-  "calendar": null
+  "calendar": "https://document-tc.galaxy.tf/wdpdf-4cfy3bydqr5cqsmudllu289sl/ifuru-fanatic_cms-document.pdf"
  },
- "documents_count": 2,
+ "documents_count": 6,
  "gaps": [
   "wedding brochure",
-  "events/MICE document",
-  "fact: villas.total",
-  "fact: dive operator"
+  "events/MICE document"
  ],
  "sources": {
   "atoll": [
@@ -174,7 +247,57 @@
    },
    {
     "value": "Raa Atoll",
+    "source_url": "https://document-tc.galaxy.tf/wdpdf-59txyl7cqri9u969y5hcstqcx/file.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "Raa Atoll",
+    "source_url": "https://www.ifuruisland.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Raa Atoll",
+    "source_url": "https://www.ifuruisland.com/contact-us",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Raa Atoll",
+    "source_url": "https://www.ifuruisland.com/your-surprise-island",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Raa Atoll",
+    "source_url": "https://www.ifuruisland.com/gallery",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Raa Atoll",
+    "source_url": "https://www.ifuruisland.com",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Raa Atoll",
+    "source_url": "https://www.ifuruisland.com/sustainability",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Raa Atoll",
+    "source_url": "https://www.ifuruisland.com/press-releases-media",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Raa Atoll",
     "source_url": "https://www.neoscapesmaldives.com/resort/ifuru-island-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Raa Atoll",
+    "source_url": "https://letsgomaldives.com/news/ifuru-island-maldives-launches-curated-dive-packages-for-all-levels-of-experience/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Laamu Atoll",
+    "source_url": "https://malediven.de/malediven-hotels/ifuru/",
     "as_of": "2026-10-04"
    }
   ],
@@ -229,61 +352,74 @@
    },
    {
     "value": {
-     "name": "Total Number of Villas",
+     "name": "Master Suite with Bathroom",
+     "count": 1,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://document-tc.galaxy.tf/wdpdf-22myhtt9dpea6fzx80dqt16hs/brochure.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": {
+     "name": "Sunset Beach Suites & Villas",
      "count": 147,
      "size_sqm": null,
      "max_occupancy": null,
      "pool": null,
      "overwater": null
     },
-    "source_url": "https://www.neoscapesmaldives.com/resort/ifuru-island-maldives",
-    "as_of": "2026-10-04"
-   }
-  ],
-  "dining": [
-   {
-    "value": {
-     "name": "Club and the spot to be Hubba Hubba Bar with the",
-     "cuisine": null,
-     "type": "bar"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/IFURU-ISLAND-MALDIVES-Fact-Sheet.pdf",
-    "as_of": 2023
-   },
-   {
-    "value": {
-     "name": "additional Pool Pizza Bar and so much more to",
-     "cuisine": null,
-     "type": "bar"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/IFURU-ISLAND-MALDIVES-Fact-Sheet.pdf",
-    "as_of": 2023
-   },
-   {
-    "value": {
-     "name": "Dining",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/ifuru-island-maldives",
+    "source_url": "https://www.ifuruisland.com/",
     "as_of": "2026-10-04"
    },
    {
     "value": {
-     "name": "Dining",
-     "cuisine": null,
-     "type": "restaurant"
+     "name": "SUNSET SUITES AND VILLAS",
+     "count": 147,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
     },
-    "source_url": "https://www.neoscapesmaldives.com/resort/ifuru-island-maldives",
+    "source_url": "https://www.ifuruisland.com/",
     "as_of": "2026-10-04"
    },
    {
     "value": {
-     "name": "Palm Grill",
-     "cuisine": null,
-     "type": "restaurant"
+     "name": "Sunset Beach Suites & Villas",
+     "count": 147,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
     },
-    "source_url": "https://www.neoscapesmaldives.com/resort/ifuru-island-maldives",
+    "source_url": "https://www.ifuruisland.com",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "SUNSET SUITES AND VILLAS",
+     "count": 147,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://www.ifuruisland.com",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "sunset-facing suites and villas",
+     "count": 147,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://letsgomaldives.com/news/ifuru-island-maldives-strengthens-global-commercial-team-with-two-strategic-promotions/",
     "as_of": "2026-10-04"
    }
   ],
@@ -292,6 +428,81 @@
     "value": "Dine Around",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/IFURU-ISLAND-MALDIVES-Fact-Sheet.pdf",
     "as_of": 2023
+   },
+   {
+    "value": "AI",
+    "source_url": "https://document-tc.galaxy.tf/wdpdf-59txyl7cqri9u969y5hcstqcx/file.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "Dine Around",
+    "source_url": "https://www.ifuruisland.com/sunset-suites-villas/family-4-bedroom-nest",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://www.ifuruisland.com/your-surprise-island",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Dine Around",
+    "source_url": "https://www.ifuruisland.com/sunset-suites-villas/32-bedroom-island-reserve",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Dine Around",
+    "source_url": "https://www.ifuruisland.com/sunset-suites-villas/sunset-family-beach-suite",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Dine Around",
+    "source_url": "https://www.ifuruisland.com/sunset-suites-villas/sunset-family-sky-suite",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Dine Around",
+    "source_url": "https://www.ifuruisland.com/sunset-suites-villas/20-bedroom-island-reserve",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://www.ifuruisland.com/maldives-resort-offers/escape-to-paradise-enjoy-60-off-your-stay",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://www.ifuruisland.com/press-releases-media",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Premium AI",
+    "source_url": "https://www.ifuruisland.com/press-releases-media",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://letsgomaldives.com/news/experience-a-sweet-escape-at-ifuru-island-maldives-candyland-easter-celebration/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://letsgomaldives.com/news/ifuru-island-maldives-launches-curated-dive-packages-for-all-levels-of-experience/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Premium AI",
+    "source_url": "https://letsgomaldives.com/news/ifuru-island-maldives-launches-curated-dive-packages-for-all-levels-of-experience/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://letsgomaldives.com/news/ifuru-island-maldives-strengthens-global-commercial-team-with-two-strategic-promotions/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Premium AI",
+    "source_url": "https://letsgomaldives.com/news/ifuru-island-maldives-strengthens-global-commercial-team-with-two-strategic-promotions/",
+    "as_of": "2026-10-04"
    }
   ],
   "spa.name": [
@@ -299,6 +510,76 @@
     "value": "Xanadu Spa",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/IFURU-ISLAND-MALDIVES-Fact-Sheet.pdf",
     "as_of": 2023
+   },
+   {
+    "value": "Onboard Spa",
+    "source_url": "https://document-tc.galaxy.tf/wdpdf-22myhtt9dpea6fzx80dqt16hs/brochure.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "Xanadu Spa",
+    "source_url": "https://document-tc.galaxy.tf/wdpdf-59txyl7cqri9u969y5hcstqcx/file.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "Xanadu Spa",
+    "source_url": "https://www.ifuruisland.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Treatment Room Xanadu Spa",
+    "source_url": "https://www.ifuruisland.com/sunset-suites-villas/family-4-bedroom-nest",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Xanadu Spa",
+    "source_url": "https://www.ifuruisland.com/xanadu-spa/wet-wet-wet-steam-sauna-plunge-pool",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Treatment Room Xanadu Spa",
+    "source_url": "https://www.ifuruisland.com/sunset-suites-villas/32-bedroom-island-reserve",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "View Spa",
+    "source_url": "https://www.ifuruisland.com/xanadu-spa/salon",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Treatment Room Xanadu Spa",
+    "source_url": "https://www.ifuruisland.com/sunset-suites-villas/sunset-family-sky-suite",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "View Spa",
+    "source_url": "https://www.ifuruisland.com/xanadu-spa/star-fitness",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "View Spa",
+    "source_url": "https://www.ifuruisland.com/xanadu-spa/ice-bath",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Xanadu Spa",
+    "source_url": "https://www.ifuruisland.com",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Treatment Room Xanadu Spa",
+    "source_url": "https://www.ifuruisland.com/sunset-suites-villas/20-bedroom-island-reserve",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Xanadu Spa\nXanadu Spa",
+    "source_url": "https://www.ifuruisland.com/xanadu-spa",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Pokhriyal Joins Xanadu Spa",
+    "source_url": "https://www.ifuruisland.com/press-releases-media",
+    "as_of": "2026-10-04"
    },
    {
     "value": "Xanadu Spa",
@@ -331,12 +612,252 @@
    },
    {
     "value": "snorkeling",
+    "source_url": "https://document-tc.galaxy.tf/wdpdf-59txyl7cqri9u969y5hcstqcx/file.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://www.ifuruisland.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.ifuruisland.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "kayaking",
+    "source_url": "https://www.ifuruisland.com/cool-things-to-do/watersports",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "stand-up paddle",
+    "source_url": "https://www.ifuruisland.com/cool-things-to-do/watersports",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "paddleboard",
+    "source_url": "https://www.ifuruisland.com/cool-things-to-do/watersports",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.ifuruisland.com/cool-things-to-do/watersports",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.ifuruisland.com/cool-things-to-do/watersports",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.ifuruisland.com/cool-things-to-do/blend",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.ifuruisland.com/cool-things-to-do/blend",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.ifuruisland.com/cool-things-to-do/beachfront-infinity-pool",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.ifuruisland.com/cool-things-to-do/beachfront-infinity-pool",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.ifuruisland.com/sunset-suites-villas/32-bedroom-island-reserve",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.ifuruisland.com/cool-things-to-do/star-fitness",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.ifuruisland.com/cool-things-to-do/star-fitness",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.ifuruisland.com/cool-things-to-do/yoga",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.ifuruisland.com/cool-things-to-do/yoga",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://www.ifuruisland.com",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.ifuruisland.com",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.ifuruisland.com/cool-things-to-do/coconut-kids-club",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.ifuruisland.com/cool-things-to-do/coconut-kids-club",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://www.ifuruisland.com/cool-things-to-do/scuba-diving",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.ifuruisland.com/cool-things-to-do/scuba-diving",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.ifuruisland.com/cool-things-to-do/scuba-diving",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://www.ifuruisland.com/cool-things-to-do",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "kayaking",
+    "source_url": "https://www.ifuruisland.com/cool-things-to-do",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "stand-up paddle",
+    "source_url": "https://www.ifuruisland.com/cool-things-to-do",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "paddleboard",
+    "source_url": "https://www.ifuruisland.com/cool-things-to-do",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.ifuruisland.com/cool-things-to-do",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sailing",
+    "source_url": "https://www.ifuruisland.com/cool-things-to-do",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.ifuruisland.com/cool-things-to-do/excursions",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "kayaking",
+    "source_url": "https://www.ifuruisland.com/cool-things-to-do/excursions",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "paddleboard",
+    "source_url": "https://www.ifuruisland.com/cool-things-to-do/excursions",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "jet ski",
+    "source_url": "https://www.ifuruisland.com/cool-things-to-do/excursions",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.ifuruisland.com/cool-things-to-do/excursions",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.ifuruisland.com/cool-things-to-do/excursions",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.ifuruisland.com/cool-things-to-do/excursions",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.ifuruisland.com/cool-things-to-do/excursions",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.ifuruisland.com/sustainability",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.ifuruisland.com/sunset-suites-villas/20-bedroom-island-reserve",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.ifuruisland.com/cool-things-to-do/play-all-day-recreation-centre-and-indoor-cinema",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.ifuruisland.com/cool-things-to-do/play-all-day-recreation-centre-and-indoor-cinema",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.ifuruisland.com/maldives-resort-offers/escape-to-paradise-enjoy-60-off-your-stay",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "stand-up paddle",
+    "source_url": "https://www.ifuruisland.com/maldives-resort-offers/escape-to-paradise-enjoy-60-off-your-stay",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.ifuruisland.com/press-releases-media",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
     "source_url": "https://www.neoscapesmaldives.com/resort/ifuru-island-maldives",
     "as_of": "2026-10-04"
    },
    {
     "value": "scuba diving",
     "source_url": "https://www.neoscapesmaldives.com/resort/ifuru-island-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://letsgomaldives.com/news/ifuru-island-maldives-launches-curated-dive-packages-for-all-levels-of-experience/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://letsgomaldives.com/news/ifuru-island-maldives-launches-curated-dive-packages-for-all-levels-of-experience/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://letsgomaldives.com/news/ifuru-island-maldives-launches-curated-dive-packages-for-all-levels-of-experience/",
     "as_of": "2026-10-04"
    }
   ],
@@ -357,6 +878,171 @@
     "as_of": 2023
    },
    {
+    "value": "sandbank",
+    "source_url": "https://document-tc.galaxy.tf/wdpdf-22myhtt9dpea6fzx80dqt16hs/brochure.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "picnic",
+    "source_url": "https://document-tc.galaxy.tf/wdpdf-22myhtt9dpea6fzx80dqt16hs/brochure.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "cinema",
+    "source_url": "https://document-tc.galaxy.tf/wdpdf-22myhtt9dpea6fzx80dqt16hs/brochure.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "stargazing",
+    "source_url": "https://document-tc.galaxy.tf/wdpdf-59txyl7cqri9u969y5hcstqcx/file.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.ifuruisland.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.ifuruisland.com/cool-things-to-do/watersports",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.ifuruisland.com/cool-things-to-do/watersports",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.ifuruisland.com/cool-things-to-do/blend",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.ifuruisland.com/cool-things-to-do/blend",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.ifuruisland.com/cool-things-to-do/blend",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.ifuruisland.com/cool-things-to-do/beachfront-infinity-pool",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.ifuruisland.com/cool-things-to-do/beachfront-infinity-pool",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "local island",
+    "source_url": "https://www.ifuruisland.com/sunset-suites-villas/32-bedroom-island-reserve",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "cinema",
+    "source_url": "https://www.ifuruisland.com/sunset-suites-villas/32-bedroom-island-reserve",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.ifuruisland.com/cool-things-to-do/star-fitness",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.ifuruisland.com/cool-things-to-do/star-fitness",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.ifuruisland.com/cool-things-to-do/yoga",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.ifuruisland.com/cool-things-to-do/yoga",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.ifuruisland.com",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.ifuruisland.com/cool-things-to-do/coconut-kids-club",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.ifuruisland.com/cool-things-to-do/coconut-kids-club",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.ifuruisland.com/cool-things-to-do/scuba-diving",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.ifuruisland.com/cool-things-to-do/scuba-diving",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "cinema",
+    "source_url": "https://www.ifuruisland.com/cool-things-to-do",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "island hopping",
+    "source_url": "https://www.ifuruisland.com/cool-things-to-do/excursions",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.ifuruisland.com/cool-things-to-do/excursions",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.ifuruisland.com/cool-things-to-do/excursions",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.ifuruisland.com/cool-things-to-do/excursions",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "local island",
+    "source_url": "https://www.ifuruisland.com/sustainability",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "local island",
+    "source_url": "https://www.ifuruisland.com/sunset-suites-villas/20-bedroom-island-reserve",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "cinema",
+    "source_url": "https://www.ifuruisland.com/sunset-suites-villas/20-bedroom-island-reserve",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.ifuruisland.com/cool-things-to-do/play-all-day-recreation-centre-and-indoor-cinema",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.ifuruisland.com/cool-things-to-do/play-all-day-recreation-centre-and-indoor-cinema",
+    "as_of": "2026-10-04"
+   },
+   {
     "value": "island hopping",
     "source_url": "https://www.neoscapesmaldives.com/resort/ifuru-island-maldives",
     "as_of": "2026-10-04"
@@ -365,6 +1051,11 @@
     "value": "dolphin",
     "source_url": "https://www.neoscapesmaldives.com/resort/ifuru-island-maldives",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://letsgomaldives.com/news/ifuru-island-maldives-launches-curated-dive-packages-for-all-levels-of-experience/",
+    "as_of": "2026-10-04"
    }
   ],
   "kids_family.kids_club": [
@@ -372,6 +1063,36 @@
     "value": "Coconut Kids Club",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/IFURU-ISLAND-MALDIVES-Fact-Sheet.pdf",
     "as_of": 2023
+   },
+   {
+    "value": "Coconut Kids Club",
+    "source_url": "https://document-tc.galaxy.tf/wdpdf-59txyl7cqri9u969y5hcstqcx/file.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "More\nThe Coconut Kids Club",
+    "source_url": "https://www.ifuruisland.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "More\nThe Coconut Kids Club",
+    "source_url": "https://www.ifuruisland.com",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Coconut Kids Club",
+    "source_url": "https://www.ifuruisland.com/cool-things-to-do/coconut-kids-club",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Coconut Kids Club",
+    "source_url": "https://www.ifuruisland.com/cool-things-to-do",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Coconut Kids Club",
+    "source_url": "https://www.ifuruisland.com/maldives-resort-offers/escape-to-paradise-enjoy-60-off-your-stay",
+    "as_of": "2026-10-04"
    },
    {
     "value": "Kids Club",
@@ -401,8 +1122,168 @@
     "as_of": 2023
    },
    {
+    "value": "gym",
+    "source_url": "https://document-tc.galaxy.tf/wdpdf-59txyl7cqri9u969y5hcstqcx/file.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://document-tc.galaxy.tf/wdpdf-59txyl7cqri9u969y5hcstqcx/file.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "sauna",
+    "source_url": "https://document-tc.galaxy.tf/wdpdf-59txyl7cqri9u969y5hcstqcx/file.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "steam",
+    "source_url": "https://document-tc.galaxy.tf/wdpdf-59txyl7cqri9u969y5hcstqcx/file.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "sauna",
+    "source_url": "https://www.ifuruisland.com/xanadu-spa/wet-wet-wet-steam-sauna-plunge-pool",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "steam",
+    "source_url": "https://www.ifuruisland.com/xanadu-spa/wet-wet-wet-steam-sauna-plunge-pool",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "steam",
+    "source_url": "https://www.ifuruisland.com/free-weddings-celebrations/free-wedding-ceremony",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.ifuruisland.com/sunset-suites-villas/32-bedroom-island-reserve",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://www.ifuruisland.com/sunset-suites-villas/32-bedroom-island-reserve",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "beach volleyball",
+    "source_url": "https://www.ifuruisland.com/sunset-suites-villas/32-bedroom-island-reserve",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sound healing",
+    "source_url": "https://www.ifuruisland.com/sunset-suites-villas/32-bedroom-island-reserve",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.ifuruisland.com/cool-things-to-do/star-fitness",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "gym",
+    "source_url": "https://www.ifuruisland.com/cool-things-to-do/star-fitness",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.ifuruisland.com/cool-things-to-do/yoga",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "meditation",
+    "source_url": "https://www.ifuruisland.com/cool-things-to-do/yoga",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.ifuruisland.com/xanadu-spa/star-fitness",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "gym",
+    "source_url": "https://www.ifuruisland.com/xanadu-spa/star-fitness",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "ice bath",
+    "source_url": "https://www.ifuruisland.com/xanadu-spa/ice-bath",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.ifuruisland.com/cool-things-to-do",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "gym",
+    "source_url": "https://www.ifuruisland.com/cool-things-to-do",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.ifuruisland.com/sunset-suites-villas/20-bedroom-island-reserve",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://www.ifuruisland.com/sunset-suites-villas/20-bedroom-island-reserve",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "beach volleyball",
+    "source_url": "https://www.ifuruisland.com/sunset-suites-villas/20-bedroom-island-reserve",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sound healing",
+    "source_url": "https://www.ifuruisland.com/sunset-suites-villas/20-bedroom-island-reserve",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "gym",
+    "source_url": "https://www.ifuruisland.com/xanadu-spa",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "ayurveda",
+    "source_url": "https://www.ifuruisland.com/xanadu-spa",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sauna",
+    "source_url": "https://www.ifuruisland.com/xanadu-spa",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "steam",
+    "source_url": "https://www.ifuruisland.com/xanadu-spa",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "ice bath",
+    "source_url": "https://www.ifuruisland.com/xanadu-spa",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "gym",
+    "source_url": "https://www.ifuruisland.com/maldives-resort-offers/escape-to-paradise-enjoy-60-off-your-stay",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://www.ifuruisland.com/maldives-resort-offers/escape-to-paradise-enjoy-60-off-your-stay",
+    "as_of": "2026-10-04"
+   },
+   {
     "value": "tennis",
     "source_url": "https://www.neoscapesmaldives.com/resort/ifuru-island-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://malediven.de/malediven-hotels/ifuru/",
     "as_of": "2026-10-04"
    }
   ],
@@ -414,32 +1295,443 @@
    },
    {
     "value": true,
+    "source_url": "https://document-tc.galaxy.tf/wdpdf-22myhtt9dpea6fzx80dqt16hs/brochure.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": true,
+    "source_url": "https://www.ifuruisland.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.ifuruisland.com/sunset-suites-villas/family-4-bedroom-nest",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.ifuruisland.com/sunset-suites-villas/sunset-beach-suite",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.ifuruisland.com/free-weddings-celebrations/honeymoon",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.ifuruisland.com/free-weddings-celebrations/honeymoon",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.ifuruisland.com/cool-things-to-do/watersports",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.ifuruisland.com/cool-things-to-do/blend",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.ifuruisland.com/cool-things-to-do/beachfront-infinity-pool",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.ifuruisland.com/free-weddings-celebrations/free-wedding-ceremony",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.ifuruisland.com/free-weddings-celebrations/free-wedding-ceremony",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.ifuruisland.com/sunset-suites-villas/32-bedroom-island-reserve",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.ifuruisland.com/cool-things-to-do/star-fitness",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.ifuruisland.com/cool-things-to-do/yoga",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.ifuruisland.com/sunset-suites-villas/sunset-beach-villa-with-pool",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.ifuruisland.com/sunset-suites-villas/sunset-family-beach-suite",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.ifuruisland.com/sunset-suites-villas/sunset-family-sky-suite",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.ifuruisland.com/sunset-suites-villas/sunset-beach-villa",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.ifuruisland.com",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.ifuruisland.com/cool-things-to-do/coconut-kids-club",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.ifuruisland.com/sunset-suites-villas/sunset-sky-suite",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.ifuruisland.com/sunset-suites-villas/sunset-two-bedroom-villa-with-pool",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.ifuruisland.com/cool-things-to-do/scuba-diving",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.ifuruisland.com/free-weddings-celebrations",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.ifuruisland.com/free-weddings-celebrations",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.ifuruisland.com/cool-things-to-do/excursions",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.ifuruisland.com/free-weddings-celebrations/wedding-planning",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.ifuruisland.com/free-weddings-celebrations/wedding-planning",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.ifuruisland.com/sunset-suites-villas/20-bedroom-island-reserve",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.ifuruisland.com/cool-things-to-do/play-all-day-recreation-centre-and-indoor-cinema",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.ifuruisland.com/press-releases-media",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
     "source_url": "https://www.neoscapesmaldives.com/resort/ifuru-island-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://letsgomaldives.com/news/experience-a-sweet-escape-at-ifuru-island-maldives-candyland-easter-celebration/",
     "as_of": "2026-10-04"
    }
   ],
   "transfer.modes": [
    {
+    "value": "yacht",
+    "source_url": "https://document-tc.galaxy.tf/wdpdf-22myhtt9dpea6fzx80dqt16hs/brochure.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "yacht",
+    "source_url": "https://www.ifuruisland.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yacht",
+    "source_url": "https://www.ifuruisland.com/cool-things-to-do/blend",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yacht",
+    "source_url": "https://www.ifuruisland.com",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yacht",
+    "source_url": "https://www.ifuruisland.com/cool-things-to-do",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.ifuruisland.com/terms-conditions",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "domestic flight",
+    "source_url": "https://www.ifuruisland.com/terms-conditions",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yacht",
+    "source_url": "https://www.ifuruisland.com/press-releases-media",
+    "as_of": "2026-10-04"
+   },
+   {
     "value": "seaplane",
     "source_url": "https://www.neoscapesmaldives.com/resort/ifuru-island-maldives",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "domestic flight",
+    "source_url": "https://letsgomaldives.com/news/ifuru-island-maldives-launches-curated-dive-packages-for-all-levels-of-experience/",
+    "as_of": "2026-10-04"
    }
   ],
-  "transfer.minutes.seaplane": [
+  "dining": [
    {
-    "value": 30,
+    "value": {
+     "name": "Kitchen & Galley",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://document-tc.galaxy.tf/wdpdf-22myhtt9dpea6fzx80dqt16hs/brochure.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": {
+     "name": "in the Sunken Lounge—once during your stay.",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.ifuruisland.com/sunset-suites-villas/32-bedroom-island-reserve",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "in the Sunken Lounge—once during your stay.",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.ifuruisland.com/sunset-suites-villas/20-bedroom-island-reserve",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Palm Grill",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.ifuruisland.com/cocktails-cuisine/palm-grill",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Palm Grill Menu",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.ifuruisland.com/cocktails-cuisine/palm-grill",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Palm Grill Beverages Menu",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.ifuruisland.com/cocktails-cuisine/palm-grill",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Palm Grill",
+     "cuisine": null,
+     "type": "restaurant"
+    },
     "source_url": "https://www.neoscapesmaldives.com/resort/ifuru-island-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Bar mit",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://malediven.de/malediven-hotels/ifuru/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Pool-Pizza-Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://malediven.de/malediven-hotels/ifuru/",
     "as_of": "2026-10-04"
    }
   ],
   "all_inclusive_details": [
    {
+    "value": "all-inclusive program.",
+    "source_url": "https://document-tc.galaxy.tf/wdpdf-59txyl7cqri9u969y5hcstqcx/file.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "all-inclusive Maldives resort and discover the hidden treasures of Maldives in ways beyond imagination.",
+    "source_url": "https://www.ifuruisland.com/your-surprise-island",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "All Inclusive from 1 May 2026 to 30 September 2026 for a minimum of 7 nights.",
+    "source_url": "https://www.ifuruisland.com/free-weddings-celebrations",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "All Inclusive offering.",
+    "source_url": "https://www.ifuruisland.com/press-releases-media",
+    "as_of": "2026-10-04"
+   },
+   {
     "value": "ALL-INCLUSIVE package and enjoy curated amenities that exceed expectations.",
     "source_url": "https://www.neoscapesmaldives.com/resort/ifuru-island-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "all-inclusive lifestyle experience ensures that you’ll enjoy world-class dining, stylish accommodations, and a range of unforgettable activities, all while relaxing in paradise.",
+    "source_url": "https://letsgomaldives.com/news/experience-a-sweet-escape-at-ifuru-island-maldives-candyland-easter-celebration/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "all-inclusive meal plan.",
+    "source_url": "https://letsgomaldives.com/news/ifuru-island-maldives-launches-curated-dive-packages-for-all-levels-of-experience/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "All-Inclusive.",
+    "source_url": "https://malediven.de/malediven-hotels/ifuru/",
     "as_of": "2026-10-04"
    }
   ],
   "contacts_public.reservations_email": [
+   {
+    "value": "bookingmagic@ifuruisland.com",
+    "source_url": "https://www.ifuruisland.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "bookingmagic@ifuruisland.com",
+    "source_url": "https://www.ifuruisland.com/contact-us",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "bookingmagic@ifuruisland.com",
+    "source_url": "https://www.ifuruisland.com/free-weddings-celebrations/honeymoon",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "bookingmagic@ifuruisland.com",
+    "source_url": "https://www.ifuruisland.com/cool-things-to-do/watersports",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "bookingmagic@ifuruisland.com",
+    "source_url": "https://www.ifuruisland.com/cool-things-to-do/blend",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "bookingmagic@ifuruisland.com",
+    "source_url": "https://www.ifuruisland.com/cool-things-to-do/beachfront-infinity-pool",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "bookingmagic@ifuruisland.com",
+    "source_url": "https://www.ifuruisland.com/free-weddings-celebrations/free-wedding-ceremony",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "bookingmagic@ifuruisland.com",
+    "source_url": "https://www.ifuruisland.com/cool-things-to-do/star-fitness",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "bookingmagic@ifuruisland.com",
+    "source_url": "https://www.ifuruisland.com/cool-things-to-do/yoga",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "bookingmagic@ifuruisland.com",
+    "source_url": "https://www.ifuruisland.com/xanadu-spa/star-fitness",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "bookingmagic@ifuruisland.com",
+    "source_url": "https://www.ifuruisland.com",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "bookingmagic@ifuruisland.com",
+    "source_url": "https://www.ifuruisland.com/cool-things-to-do/coconut-kids-club",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sales@ifuruisland.com",
+    "source_url": "https://www.ifuruisland.com/meetings-conferences-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "bookingmagic@ifuruisland.com",
+    "source_url": "https://www.ifuruisland.com/cool-things-to-do/scuba-diving",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "bookingmagic@ifuruisland.com",
+    "source_url": "https://www.ifuruisland.com/cool-things-to-do/excursions",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "bookingmagic@ifuruisland.com",
+    "source_url": "https://www.ifuruisland.com/free-weddings-celebrations/wedding-planning",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "bookingmagic@ifuruisland.com",
+    "source_url": "https://www.ifuruisland.com/sustainability",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "bookingmagic@ifuruisland.com",
+    "source_url": "https://www.ifuruisland.com/cool-things-to-do/play-all-day-recreation-centre-and-indoor-cinema",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "bookingmagic@ifuruisland.com",
+    "source_url": "https://www.ifuruisland.com/terms-conditions",
+    "as_of": "2026-10-04"
+   },
    {
     "value": "info@neoscapesmaldives.com",
     "source_url": "https://www.neoscapesmaldives.com/resort/ifuru-island-maldives",
@@ -448,11 +1740,396 @@
   ],
   "contacts_public.phone": [
    {
+    "value": "+960 6582 800",
+    "source_url": "https://www.ifuruisland.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 6582 800",
+    "source_url": "https://www.ifuruisland.com/contact-us",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 6582 800",
+    "source_url": "https://www.ifuruisland.com/free-weddings-celebrations/honeymoon",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 6582 800",
+    "source_url": "https://www.ifuruisland.com/cool-things-to-do/watersports",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 6582 800",
+    "source_url": "https://www.ifuruisland.com/xanadu-spa/wet-wet-wet-steam-sauna-plunge-pool",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 6582 800",
+    "source_url": "https://www.ifuruisland.com/cool-things-to-do/blend",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 6582 800",
+    "source_url": "https://www.ifuruisland.com/cool-things-to-do/beachfront-infinity-pool",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 6582 800",
+    "source_url": "https://www.ifuruisland.com/free-weddings-celebrations/free-wedding-ceremony",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 6582 800",
+    "source_url": "https://www.ifuruisland.com/cool-things-to-do/star-fitness",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 6582 800",
+    "source_url": "https://www.ifuruisland.com/cool-things-to-do/yoga",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 6582 800",
+    "source_url": "https://www.ifuruisland.com/xanadu-spa/salon",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 6582 800",
+    "source_url": "https://www.ifuruisland.com/xanadu-spa/star-fitness",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 6582 800",
+    "source_url": "https://www.ifuruisland.com/xanadu-spa/ice-bath",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 6582 800",
+    "source_url": "https://www.ifuruisland.com",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 6582 800",
+    "source_url": "https://www.ifuruisland.com/cool-things-to-do/coconut-kids-club",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 7305335",
+    "source_url": "https://www.ifuruisland.com/meetings-conferences-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 6582 800",
+    "source_url": "https://www.ifuruisland.com/cool-things-to-do/scuba-diving",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 6582 800",
+    "source_url": "https://www.ifuruisland.com/cool-things-to-do/excursions",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 6582 800",
+    "source_url": "https://www.ifuruisland.com/free-weddings-celebrations/wedding-planning",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 658 2800",
+    "source_url": "https://www.ifuruisland.com/sustainability",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 6582 800",
+    "source_url": "https://www.ifuruisland.com/cool-things-to-do/play-all-day-recreation-centre-and-indoor-cinema",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 730 5335",
+    "source_url": "https://www.ifuruisland.com/terms-conditions",
+    "as_of": "2026-10-04"
+   },
+   {
     "value": "+960 736 5425",
     "source_url": "https://www.neoscapesmaldives.com/resort/ifuru-island-maldives",
     "as_of": "2026-10-04"
    }
+  ],
+  "island": [
+   {
+    "value": "Ifuru Island",
+    "source_url": "https://www.ifuruisland.com/contact-us",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Ifuru Island",
+    "source_url": "https://www.ifuruisland.com/your-surprise-island",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "weddings.packages": [
+   {
+    "value": {
+     "name": "Wedding",
+     "price": "100",
+     "currency": "USD",
+     "as_of": "2026-10-04"
+    },
+    "source_url": "https://www.ifuruisland.com/sunset-suites-villas/family-4-bedroom-nest",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Wedding",
+     "price": "100",
+     "currency": "USD",
+     "as_of": "2026-10-04"
+    },
+    "source_url": "https://www.ifuruisland.com/sunset-suites-villas/sunset-beach-suite",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Wedding",
+     "price": "100",
+     "currency": "USD",
+     "as_of": "2026-10-04"
+    },
+    "source_url": "https://www.ifuruisland.com/cool-things-to-do/watersports",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Wedding",
+     "price": "100",
+     "currency": "USD",
+     "as_of": "2026-10-04"
+    },
+    "source_url": "https://www.ifuruisland.com/cool-things-to-do/blend",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Wedding",
+     "price": "100",
+     "currency": "USD",
+     "as_of": "2026-10-04"
+    },
+    "source_url": "https://www.ifuruisland.com/cool-things-to-do/beachfront-infinity-pool",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Wedding",
+     "price": "100",
+     "currency": "USD",
+     "as_of": "2026-10-04"
+    },
+    "source_url": "https://www.ifuruisland.com/sunset-suites-villas/32-bedroom-island-reserve",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Wedding",
+     "price": "100",
+     "currency": "USD",
+     "as_of": "2026-10-04"
+    },
+    "source_url": "https://www.ifuruisland.com/cool-things-to-do/star-fitness",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Wedding",
+     "price": "100",
+     "currency": "USD",
+     "as_of": "2026-10-04"
+    },
+    "source_url": "https://www.ifuruisland.com/cool-things-to-do/yoga",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Wedding",
+     "price": "100",
+     "currency": "USD",
+     "as_of": "2026-10-04"
+    },
+    "source_url": "https://www.ifuruisland.com/sunset-suites-villas/sunset-beach-villa-with-pool",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Wedding",
+     "price": "100",
+     "currency": "USD",
+     "as_of": "2026-10-04"
+    },
+    "source_url": "https://www.ifuruisland.com/sunset-suites-villas/sunset-family-beach-suite",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Wedding",
+     "price": "100",
+     "currency": "USD",
+     "as_of": "2026-10-04"
+    },
+    "source_url": "https://www.ifuruisland.com/sunset-suites-villas/sunset-family-sky-suite",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Wedding",
+     "price": "100",
+     "currency": "USD",
+     "as_of": "2026-10-04"
+    },
+    "source_url": "https://www.ifuruisland.com/sunset-suites-villas/sunset-beach-villa",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Wedding",
+     "price": "100",
+     "currency": "USD",
+     "as_of": "2026-10-04"
+    },
+    "source_url": "https://www.ifuruisland.com/cool-things-to-do/coconut-kids-club",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Wedding",
+     "price": "100",
+     "currency": "USD",
+     "as_of": "2026-10-04"
+    },
+    "source_url": "https://www.ifuruisland.com/sunset-suites-villas/sunset-sky-suite",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Wedding",
+     "price": "100",
+     "currency": "USD",
+     "as_of": "2026-10-04"
+    },
+    "source_url": "https://www.ifuruisland.com/sunset-suites-villas/sunset-two-bedroom-villa-with-pool",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Wedding",
+     "price": "100",
+     "currency": "USD",
+     "as_of": "2026-10-04"
+    },
+    "source_url": "https://www.ifuruisland.com/cool-things-to-do/scuba-diving",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Wedding",
+     "price": "100",
+     "currency": "USD",
+     "as_of": "2026-10-04"
+    },
+    "source_url": "https://www.ifuruisland.com/cool-things-to-do/excursions",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Wedding",
+     "price": "100",
+     "currency": "USD",
+     "as_of": "2026-10-04"
+    },
+    "source_url": "https://www.ifuruisland.com/sunset-suites-villas/20-bedroom-island-reserve",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Wedding",
+     "price": "100",
+     "currency": "USD",
+     "as_of": "2026-10-04"
+    },
+    "source_url": "https://www.ifuruisland.com/cool-things-to-do/play-all-day-recreation-centre-and-indoor-cinema",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "weddings.venues": [
+   {
+    "value": "private beach wedding",
+    "source_url": "https://www.ifuruisland.com/free-weddings-celebrations/free-wedding-ceremony",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "private beach wedding",
+    "source_url": "https://www.ifuruisland.com/free-weddings-celebrations",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "villas.total": [
+   {
+    "value": 32,
+    "source_url": "https://www.ifuruisland.com/sunset-suites-villas/32-bedroom-island-reserve",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 20,
+    "source_url": "https://www.ifuruisland.com/sunset-suites-villas/20-bedroom-island-reserve",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "events_mice.venues": [
+   {
+    "value": "(Classroom & U-Style Boardroom)",
+    "source_url": "https://www.ifuruisland.com/meetings-conferences-maldives",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "transfer.minutes.seaplane": [
+   {
+    "value": 30,
+    "source_url": "https://www.ifuruisland.com/terms-conditions",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 30,
+    "source_url": "https://www.neoscapesmaldives.com/resort/ifuru-island-maldives",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "kids_family.age_range": [
+   {
+    "value": "2-11 years",
+    "source_url": "https://www.ifuruisland.com/terms-conditions",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "transfer.minutes.domestic flight": [
+   {
+    "value": 27,
+    "source_url": "https://letsgomaldives.com/news/ifuru-island-maldives-launches-curated-dive-packages-for-all-levels-of-experience/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "diving_watersports.operator": [
+   {
+    "value": "Dive Butler",
+    "source_url": "https://letsgomaldives.com/news/ifuru-island-maldives-launches-curated-dive-packages-for-all-levels-of-experience/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "diving_watersports.house_reef": [
+   {
+    "value": "house reef discovery",
+    "source_url": "https://letsgomaldives.com/news/ifuru-island-maldives-launches-curated-dive-packages-for-all-levels-of-experience/",
+    "as_of": "2026-10-04"
+   }
   ]
  },
- "last_updated": "2026-10-04"
+ "last_updated": "2026-10-05"
 }

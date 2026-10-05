@@ -1,32 +1,45 @@
 # 114. Gangehi Island Resort
 
-**Official site:** n/a (None)  
+**Official site:** https://www.gangehi.com/ (unreachable)  
 **Brand:** n/a  
-**Atoll:** n/a  **Island:** n/a  
-**Opened/renovated:** n/a  **Rating:** n/a  
+**Atoll:** Ari Atoll  **Island:** n/a  
+**Opened/renovated:** opened 2008  **Rating:** 5-star  
 **Transfer:** n/a; minutes: {}  
 **Island size:** n/a  
 
-## Villas (? total)
+## Villas (36 total)
 
+- Embudu Village A: count 22, ? sqm, max ?
+- Equator Village A: count 23, ? sqm, max ?
+- Mookai Suites A: count 26, ? sqm, max ?
+- Lu South Ari Atoll Resort & Villas A: count 31, ? sqm, max ?
+- Amilla Maldives Resort & Residences D: count 120, ? sqm, max ?
+- Residence Maldives D: count 122, ? sqm, max ?
+- The Residence Maldives at Dhigurah D: count 123, ? sqm, max ?
+- TME Retreats Dhigurah E: count 131, ? sqm, max ?
+- Villa Nautica E . Paradise Island Resort E: count 143, ? sqm, max ?
 
 ## Dining
 
+- Lounge Lounge (bar)
+- Lounge (bar)
+- Arrival Lounge (bar)
+- No Hotel Name Arr Lounge (bar)
 
-Meal plans: n/a
+Meal plans: AI
 
 ## Spa & wellness
 
-- Spa: n/a; treatment rooms: ?; menu: none
+- Spa: The Ginger Spa; treatment rooms: ?; menu: none
 - Wellness/fitness: n/a
 
 ## Diving, water sports & excursions
 
 - Operator: n/a
 - House reef: n/a
-- Activities: n/a
+- Activities: snorkelling, scuba diving, fishing, whale shark, manta, canoe
 - Price list: none
-- Excursions: n/a
+- Excursions: big game fishing, whale shark, manta
 
 ## Kids & family
 
@@ -55,7 +68,7 @@ Meal plans: n/a
 ## Latest documents
 
 - factsheet: none
-- map: none
+- map: https://maldives.ru/doc/airport-new-counters-map-2023-1.pdf
 - wedding: none
 - spa_menu: none
 - dining_menu: none
@@ -68,16 +81,10 @@ Meal plans: n/a
 - factsheet
 - wedding brochure
 - events/MICE document
-- fact: villas.total
-- fact: villa categories
-- fact: dining
 - fact: transfer
-- fact: atoll
-- fact: spa
 - fact: dive operator
 - fact: kids club
 - fact: weddings
 - fact: contacts
-- no documents or pages collected
 
-_Facts extracted by rules from 0 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-04._
+_Facts extracted by rules from 10 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

@@ -6,19 +6,21 @@
   "Waldorf Astoria Maldives",
   "Ithaafushi"
  ],
- "official_url": null,
- "official_site_status": null,
+ "official_url": "https://www.waldorfastoriamaldives.com/",
+ "official_site_status": "ok",
  "operator_brand": "Waldorf Astoria",
- "atoll": "South Male Atoll",
- "island": null,
+ "atoll": "South Malé Atoll",
+ "island": "Male",
  "opened_or_renovated": null,
  "star_rating": null,
  "transfer": {
   "modes": [
-   "yacht"
+   "yacht",
+   "speedboat",
+   "seaplane"
   ],
   "minutes": {
-   "seaplane": null,
+   "seaplane": 5,
    "speedboat": null,
    "domestic flight": null,
    "yacht": 45
@@ -26,7 +28,7 @@
  },
  "island_size": "500 m x 400 m",
  "villas": {
-  "total": 10,
+  "total": 117,
   "categories": [
    {
     "name": "Bedroom Villa",
@@ -61,23 +63,65 @@
     "overwater": null
    },
    {
+    "name": "Bedroom Ocean Villa Stella Maris",
+    "count": 1,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": true
+   },
+   {
+    "name": "Bedroom Villa K + T",
+    "count": 2,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "Bedroom Villa BEACH VILLAS REEF VILLAS OVERWATER VILLAS",
+    "count": 3,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": true
+   },
+   {
     "name": "Villas",
     "count": 119,
     "size_sqm": null,
     "max_occupancy": null,
     "pool": null,
     "overwater": null
+   },
+   {
+    "name": "villas with private pools",
+    "count": 117,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": true,
+    "overwater": null
    }
   ]
  },
  "dining": [
   {
-   "name": "Dining",
+   "name": "Nava Restaurant",
    "cuisine": null,
    "type": "restaurant"
   },
   {
-   "name": "Destination Dining",
+   "name": "Yasmeen Restaurant",
+   "cuisine": null,
+   "type": "restaurant"
+  },
+  {
+   "name": "Lilong Restaurant",
+   "cuisine": null,
+   "type": "restaurant"
+  },
+  {
+   "name": "Glow Restaurant",
    "cuisine": null,
    "type": "restaurant"
   }
@@ -90,32 +134,41 @@
   "name": "Waldorf Astoria Spa",
   "treatment_rooms": null,
   "signature_treatments": [],
-  "menu_doc": null
+  "menu_doc": "https://www.waldorfastoriamaldives.com/wp-content/uploads/2026/08/Spa-Wellness-Menu.pdf"
  },
  "diving_watersports": {
   "operator": "Dive Centre",
-  "house_reef": null,
+  "house_reef": "house reef offers fantastic snorkelling and a sunset cruise is the perfect way to round off your day",
   "activities": [
    "snorkeling",
    "paddleboard",
    "jet ski",
    "whale shark",
    "manta",
-   "snorkelling",
    "parasailing",
-   "seabob",
    "fishing",
    "sunset cruise",
-   "dolphin cruise"
+   "dolphin cruise",
+   "snorkelling",
+   "seabob",
+   "windsurfing",
+   "kayaking",
+   "catamaran",
+   "wakeboarding",
+   "sailing"
   ],
-  "price_list_doc": null
+  "price_list_doc": "https://www.waldorfastoriamaldives.com/wp-content/uploads/2025/07/2025-WA-Recreation-Centre-.pdf"
  },
  "excursions": [
   "sandbank",
   "whale shark",
   "manta",
   "dolphin",
-  "big game fishing"
+  "sunset fishing",
+  "big game fishing",
+  "turtle",
+  "cinema",
+  "castaway"
  ],
  "kids_family": {
   "kids_club": "Kids Club",
@@ -127,9 +180,13 @@
   "fitness center",
   "tennis",
   "padel",
+  "yoga",
+  "meditation",
+  "pilates",
+  "ayurveda",
   "sauna",
   "steam",
-  "yoga",
+  "cryotherapy",
   "fitness centre",
   "personal trainer"
  ],
@@ -137,10 +194,10 @@
   "offered": true,
   "vow_renewal": null,
   "venues": [
-   "Wedding Pavilion"
+   "K Wedding Pavilion"
   ],
   "packages": [],
-  "brochure_doc": null
+  "brochure_doc": "https://www.waldorfastoriamaldives.com/wp-content/uploads/2025/07/Unforgettable-Honeymoon-and-Romantic-Anniversaries-TC-.pdf"
  },
  "events_mice": {
   "venues": [],
@@ -148,7 +205,10 @@
   "buyout": null,
   "doc": null
  },
- "sustainability": [],
+ "sustainability": [
+  "solar",
+  "Green Key"
+ ],
  "contacts_public": {
   "reservations_email": "info@neoscapesmaldives.com",
   "weddings_email": null,
@@ -156,17 +216,16 @@
  },
  "documents_latest": {
   "factsheet": "https://www.neoscapesmaldives.com/wp-content/uploads/Fact-Sheet.pdf",
-  "map": "https://www.neoscapesmaldives.com/wp-content/uploads/Resort-Map-1.pdf",
-  "wedding": null,
-  "spa_menu": null,
-  "dining_menu": null,
-  "dive_prices": null,
+  "map": "https://www.waldorfastoriamaldives.com/wp-content/uploads/2025/07/Island-Map-Room-Numbers.pdf",
+  "wedding": "https://www.waldorfastoriamaldives.com/wp-content/uploads/2025/07/Unforgettable-Honeymoon-and-Romantic-Anniversaries-TC-.pdf",
+  "spa_menu": "https://www.waldorfastoriamaldives.com/wp-content/uploads/2026/08/Spa-Wellness-Menu.pdf",
+  "dining_menu": "https://www.waldorfastoriamaldives.com/wp-content/uploads/2026/08/Nava-Menu.pdf",
+  "dive_prices": "https://www.waldorfastoriamaldives.com/wp-content/uploads/2025/07/2025-WA-Recreation-Centre-.pdf",
   "events": null,
-  "calendar": null
+  "calendar": "https://www.waldorfastoriamaldives.com/wp-content/uploads/2026/10/WAMI-Festive-Brochure-2026.pdf"
  },
- "documents_count": 4,
+ "documents_count": 44,
  "gaps": [
-  "wedding brochure",
   "events/MICE document"
  ],
  "sources": {
@@ -177,8 +236,18 @@
     "as_of": 2025
    },
    {
+    "value": "South Malé Atoll",
+    "source_url": "https://www.waldorfastoriamaldives.com/stories/maldives-wellness-retreat/",
+    "as_of": "2026-10-04"
+   },
+   {
     "value": "South Male Atoll",
     "source_url": "https://www.neoscapesmaldives.com/resort/waldorf-astoria-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Raa Atoll",
+    "source_url": "https://www.carrier.co.uk/design/hotels/waldorf-astoria-maldives-ithaafushi",
     "as_of": "2026-10-04"
    }
   ],
@@ -189,8 +258,58 @@
     "as_of": 2025
    },
    {
+    "value": "speedboat",
+    "source_url": "https://www.waldorfastoriamaldives.com/wp-content/uploads/2025/07/2025-WA-Recreation-Centre-.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "yacht",
+    "source_url": "https://www.waldorfastoriamaldives.com/wp-content/uploads/2025/07/2025-WA-Recreation-Centre-.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "yacht",
+    "source_url": "https://www.waldorfastoriamaldives.com/villas/three-bedroom-grand-beach-villa-with-pool/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yacht",
+    "source_url": "https://www.waldorfastoriamaldives.com/de/stories/maldives-wellness-retreat/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.waldorfastoriamaldives.com/stories/maldives-wellness-retreat/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yacht",
+    "source_url": "https://www.waldorfastoriamaldives.com/stories/maldives-wellness-retreat/",
+    "as_of": "2026-10-04"
+   },
+   {
     "value": "yacht",
     "source_url": "https://www.neoscapesmaldives.com/resort/waldorf-astoria-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yacht",
+    "source_url": "https://www.letsgo2.com/suites-and-villas/maldives/waldorf-astoria-maldives-ithaafushi/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.carrier.co.uk/design/hotels/ithaafushi-the-private-island-by-waldorf-astoria",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yacht",
+    "source_url": "https://www.carrier.co.uk/design/hotels/ithaafushi-the-private-island-by-waldorf-astoria",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yacht",
+    "source_url": "https://www.carrier.co.uk/design/hotels/waldorf-astoria-maldives-ithaafushi",
     "as_of": "2026-10-04"
    }
   ],
@@ -201,13 +320,98 @@
     "as_of": 2025
    },
    {
+    "value": "Waldorf Astoria Spa",
+    "source_url": "https://www.waldorfastoriamaldives.com/wp-content/uploads/2026/08/Spa-Wellness-Menu.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "Waldorf\nAstoria Spa",
+    "source_url": "https://letsgomaldives.com/wp-content/uploads/2026/03/Eid-Al-Fitr-1.pdf",
+    "as_of": 2026
+   },
+   {
     "value": "The Waldorf Spa",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Resort-Map-1.pdf",
+    "source_url": "https://www.waldorfastoriamaldives.com/wp-content/uploads/2025/07/Island-Map-Room-Numbers.pdf",
     "as_of": 2025
+   },
+   {
+    "value": "Kostenloses WLAN\nConcierge-Service\nSpa",
+    "source_url": "https://www.waldorfastoriamaldives.com/de/villas/king-grand-beach-villa-with-pool/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Kostenloses WLAN\nConcierge-Service\nSpa",
+    "source_url": "https://www.waldorfastoriamaldives.com/de/villas/two-queen-bedded-beach-villa-with-pool/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.waldorfastoriamaldives.com/de/stories/romantic-retreats/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Kostenloses WLAN\nConcierge-Service\nSpa",
+    "source_url": "https://www.waldorfastoriamaldives.com/de/villas/two-bedroom-beach-villa-with-pool/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Free WiFi\nConcierge\nSpa",
+    "source_url": "https://www.waldorfastoriamaldives.com/villas/two-queen-bedded-grand-beach-villa-with-pool/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Free WiFi\nConcierge\nSpa",
+    "source_url": "https://www.waldorfastoriamaldives.com/villas/three-bedroom-grand-beach-villa-with-pool/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.waldorfastoriamaldives.com/de/stories/maldives-wellness-retreat/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Free WiFi\nConcierge\nSpa",
+    "source_url": "https://www.waldorfastoriamaldives.com/villas/king-grand-reef-villa-with-pool/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Kostenloses WLAN\nConcierge-Service\nSpa",
+    "source_url": "https://www.waldorfastoriamaldives.com/de/villas/two-queen-bedded-overwater-villa-with-pool/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.waldorfastoriamaldives.com/de/stories/wellness-in-paradise/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Best Resort Spa",
+    "source_url": "https://www.waldorfastoriamaldives.com/stories/maldives-wellness-retreat/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Kostenloses WLAN\nConcierge-Service\nSpa",
+    "source_url": "https://www.waldorfastoriamaldives.com/de/villas/three-bedroom-overwater-villa-with-pool/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Kostenloses WLAN\nConcierge-Service\nSpa",
+    "source_url": "https://www.waldorfastoriamaldives.com/de/villas/two-bedroom-grand-beach-villa-with-pool/",
+    "as_of": "2026-10-04"
    },
    {
     "value": "Waldorf Astoria Spa",
     "source_url": "https://www.neoscapesmaldives.com/resort/waldorf-astoria-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.letsgo2.com/suites-and-villas/maldives/waldorf-astoria-maldives-ithaafushi/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Bedroom Overwater Villa\nSpa",
+    "source_url": "https://www.carrier.co.uk/design/hotels/ithaafushi-the-private-island-by-waldorf-astoria",
     "as_of": "2026-10-04"
    }
   ],
@@ -238,6 +442,51 @@
     "as_of": 2025
    },
    {
+    "value": "snorkeling",
+    "source_url": "https://www.waldorfastoriamaldives.com/wp-content/uploads/2025/07/2025-WA-Recreation-Centre-.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "parasailing",
+    "source_url": "https://www.waldorfastoriamaldives.com/wp-content/uploads/2025/07/2025-WA-Recreation-Centre-.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.waldorfastoriamaldives.com/wp-content/uploads/2025/07/2025-WA-Recreation-Centre-.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.waldorfastoriamaldives.com/wp-content/uploads/2025/07/2025-WA-Recreation-Centre-.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "dolphin cruise",
+    "source_url": "https://www.waldorfastoriamaldives.com/wp-content/uploads/2025/07/2025-WA-Recreation-Centre-.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.waldorfastoriamaldives.com/wp-content/uploads/2025/07/2025-WA-Recreation-Centre-.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.waldorfastoriamaldives.com/wp-content/uploads/2025/07/2025-WA-Recreation-Centre-.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.waldorfastoriamaldives.com/de/stories/romantic-retreats/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.waldorfastoriamaldives.com/stories/romantic-retreats/",
+    "as_of": "2026-10-04"
+   },
+   {
     "value": "snorkelling",
     "source_url": "https://www.neoscapesmaldives.com/resort/waldorf-astoria-maldives/",
     "as_of": "2026-10-04"
@@ -266,6 +515,71 @@
     "value": "dolphin cruise",
     "source_url": "https://www.neoscapesmaldives.com/resort/waldorf-astoria-maldives/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.letsgo2.com/suites-and-villas/maldives/waldorf-astoria-maldives-ithaafushi/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "parasailing",
+    "source_url": "https://www.letsgo2.com/suites-and-villas/maldives/waldorf-astoria-maldives-ithaafushi/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.letsgo2.com/suites-and-villas/maldives/waldorf-astoria-maldives-ithaafushi/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "windsurfing",
+    "source_url": "https://www.carrier.co.uk/design/hotels/ithaafushi-the-private-island-by-waldorf-astoria",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "kayaking",
+    "source_url": "https://www.carrier.co.uk/design/hotels/ithaafushi-the-private-island-by-waldorf-astoria",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "paddleboard",
+    "source_url": "https://www.carrier.co.uk/design/hotels/ithaafushi-the-private-island-by-waldorf-astoria",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "parasailing",
+    "source_url": "https://www.carrier.co.uk/design/hotels/ithaafushi-the-private-island-by-waldorf-astoria",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.carrier.co.uk/design/hotels/waldorf-astoria-maldives-ithaafushi",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "windsurfing",
+    "source_url": "https://www.carrier.co.uk/design/hotels/waldorf-astoria-maldives-ithaafushi",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "paddleboard",
+    "source_url": "https://www.carrier.co.uk/design/hotels/waldorf-astoria-maldives-ithaafushi",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "catamaran",
+    "source_url": "https://www.carrier.co.uk/design/hotels/waldorf-astoria-maldives-ithaafushi",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "wakeboarding",
+    "source_url": "https://www.carrier.co.uk/design/hotels/waldorf-astoria-maldives-ithaafushi",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sailing",
+    "source_url": "https://www.carrier.co.uk/design/hotels/waldorf-astoria-maldives-ithaafushi",
+    "as_of": "2026-10-04"
    }
   ],
   "excursions": [
@@ -286,6 +600,66 @@
    },
    {
     "value": "sandbank",
+    "source_url": "https://www.waldorfastoriamaldives.com/wp-content/uploads/2025/07/2025-WA-Recreation-Centre-.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.waldorfastoriamaldives.com/wp-content/uploads/2025/07/2025-WA-Recreation-Centre-.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "sunset fishing",
+    "source_url": "https://www.waldorfastoriamaldives.com/wp-content/uploads/2025/07/2025-WA-Recreation-Centre-.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "big game fishing",
+    "source_url": "https://www.waldorfastoriamaldives.com/wp-content/uploads/2025/07/2025-WA-Recreation-Centre-.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.waldorfastoriamaldives.com/wp-content/uploads/2025/07/2025-WA-Recreation-Centre-.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.waldorfastoriamaldives.com/wp-content/uploads/2025/07/2025-WA-Recreation-Centre-.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.waldorfastoriamaldives.com/wp-content/uploads/2025/07/2025-WA-Recreation-Centre-.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.waldorfastoriamaldives.com/de/stories/romantic-retreats/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "cinema",
+    "source_url": "https://www.waldorfastoriamaldives.com/de/stories/romantic-retreats/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.waldorfastoriamaldives.com/stories/romantic-retreats/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "cinema",
+    "source_url": "https://www.waldorfastoriamaldives.com/stories/romantic-retreats/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.waldorfastoriamaldives.com/stories/maldives-wellness-retreat/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank",
     "source_url": "https://www.neoscapesmaldives.com/resort/waldorf-astoria-maldives/",
     "as_of": "2026-10-04"
    },
@@ -297,6 +671,31 @@
    {
     "value": "big game fishing",
     "source_url": "https://www.neoscapesmaldives.com/resort/waldorf-astoria-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.carrier.co.uk/design/hotels/ithaafushi-the-private-island-by-waldorf-astoria",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.carrier.co.uk/dream/content/exploring-the-waldorf-astoria-maldives-ithaafushi-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "castaway",
+    "source_url": "https://www.carrier.co.uk/dream/content/exploring-the-waldorf-astoria-maldives-ithaafushi-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "castaway",
+    "source_url": "https://www.carrier.co.uk/design/hotels/waldorf-astoria-maldives-ithaafushi",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://malediven.de/malediven-hotels/ithaafushi-private-island/",
     "as_of": "2026-10-04"
    }
   ],
@@ -322,19 +721,219 @@
     "as_of": 2025
    },
    {
+    "value": "yoga",
+    "source_url": "https://www.waldorfastoriamaldives.com/wp-content/uploads/2026/08/Spa-Wellness-Menu.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "meditation",
+    "source_url": "https://www.waldorfastoriamaldives.com/wp-content/uploads/2026/08/Spa-Wellness-Menu.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "fitness center",
+    "source_url": "https://www.waldorfastoriamaldives.com/wp-content/uploads/2026/08/Spa-Wellness-Menu.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "pilates",
+    "source_url": "https://www.waldorfastoriamaldives.com/wp-content/uploads/2026/08/Spa-Wellness-Menu.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "ayurveda",
+    "source_url": "https://www.waldorfastoriamaldives.com/wp-content/uploads/2026/08/Spa-Wellness-Menu.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "sauna",
+    "source_url": "https://www.waldorfastoriamaldives.com/wp-content/uploads/2026/08/Spa-Wellness-Menu.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "steam",
+    "source_url": "https://www.waldorfastoriamaldives.com/wp-content/uploads/2026/08/Spa-Wellness-Menu.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "cryotherapy",
+    "source_url": "https://www.waldorfastoriamaldives.com/wp-content/uploads/2026/08/Spa-Wellness-Menu.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "steam",
+    "source_url": "https://www.waldorfastoriamaldives.com/wp-content/uploads/2026/08/Nava-Menu.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "padel",
+    "source_url": "https://letsgomaldives.com/wp-content/uploads/2026/03/Eid-Al-Fitr-1.pdf",
+    "as_of": 2026
+   },
+   {
     "value": "tennis",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Resort-Map-1.pdf",
+    "source_url": "https://www.waldorfastoriamaldives.com/wp-content/uploads/2025/07/Prices-WAMI-x-LUX-Tennis-.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "padel",
+    "source_url": "https://www.waldorfastoriamaldives.com/wp-content/uploads/2025/07/Prices-WAMI-x-LUX-Tennis-.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://www.waldorfastoriamaldives.com/wp-content/uploads/2025/07/Island-Map-Room-Numbers.pdf",
     "as_of": 2025
    },
    {
     "value": "sauna",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Resort-Map-1.pdf",
+    "source_url": "https://www.waldorfastoriamaldives.com/wp-content/uploads/2025/07/Island-Map-Room-Numbers.pdf",
     "as_of": 2025
    },
    {
     "value": "steam",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Resort-Map-1.pdf",
+    "source_url": "https://www.waldorfastoriamaldives.com/wp-content/uploads/2025/07/Island-Map-Room-Numbers.pdf",
     "as_of": 2025
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://www.waldorfastoriamaldives.com/de/villas/king-grand-beach-villa-with-pool/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://www.waldorfastoriamaldives.com/de/villas/two-queen-bedded-beach-villa-with-pool/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://www.waldorfastoriamaldives.com/de/villas/two-bedroom-beach-villa-with-pool/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fitness center",
+    "source_url": "https://www.waldorfastoriamaldives.com/villas/two-queen-bedded-grand-beach-villa-with-pool/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://www.waldorfastoriamaldives.com/villas/two-queen-bedded-grand-beach-villa-with-pool/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fitness center",
+    "source_url": "https://www.waldorfastoriamaldives.com/villas/three-bedroom-grand-beach-villa-with-pool/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://www.waldorfastoriamaldives.com/villas/three-bedroom-grand-beach-villa-with-pool/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://www.waldorfastoriamaldives.com/experience/two-types-of-tennis/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "padel",
+    "source_url": "https://www.waldorfastoriamaldives.com/experience/two-types-of-tennis/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.waldorfastoriamaldives.com/de/stories/maldives-wellness-retreat/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "gym",
+    "source_url": "https://www.waldorfastoriamaldives.com/de/stories/maldives-wellness-retreat/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "ayurveda",
+    "source_url": "https://www.waldorfastoriamaldives.com/de/stories/maldives-wellness-retreat/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sauna",
+    "source_url": "https://www.waldorfastoriamaldives.com/de/stories/maldives-wellness-retreat/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fitness center",
+    "source_url": "https://www.waldorfastoriamaldives.com/villas/king-grand-reef-villa-with-pool/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://www.waldorfastoriamaldives.com/villas/king-grand-reef-villa-with-pool/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://www.waldorfastoriamaldives.com/de/villas/two-queen-bedded-overwater-villa-with-pool/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.waldorfastoriamaldives.com/de/stories/wellness-in-paradise/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "meditation",
+    "source_url": "https://www.waldorfastoriamaldives.com/de/stories/wellness-in-paradise/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fitness center",
+    "source_url": "https://www.waldorfastoriamaldives.com/de/stories/wellness-in-paradise/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "pilates",
+    "source_url": "https://www.waldorfastoriamaldives.com/de/stories/wellness-in-paradise/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://www.waldorfastoriamaldives.com/experience/professional-photoshoot/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.waldorfastoriamaldives.com/stories/maldives-wellness-retreat/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "gym",
+    "source_url": "https://www.waldorfastoriamaldives.com/stories/maldives-wellness-retreat/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "ayurveda",
+    "source_url": "https://www.waldorfastoriamaldives.com/stories/maldives-wellness-retreat/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sauna",
+    "source_url": "https://www.waldorfastoriamaldives.com/stories/maldives-wellness-retreat/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "steam",
+    "source_url": "https://www.waldorfastoriamaldives.com/stories/maldives-wellness-retreat/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://www.waldorfastoriamaldives.com/de/villas/three-bedroom-overwater-villa-with-pool/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://www.waldorfastoriamaldives.com/de/villas/two-bedroom-grand-beach-villa-with-pool/",
+    "as_of": "2026-10-04"
    },
    {
     "value": "yoga",
@@ -365,6 +964,56 @@
     "value": "personal trainer",
     "source_url": "https://www.neoscapesmaldives.com/resort/waldorf-astoria-maldives/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "gym",
+    "source_url": "https://www.letsgo2.com/suites-and-villas/maldives/waldorf-astoria-maldives-ithaafushi/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fitness centre",
+    "source_url": "https://www.letsgo2.com/suites-and-villas/maldives/waldorf-astoria-maldives-ithaafushi/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://www.letsgo2.com/suites-and-villas/maldives/waldorf-astoria-maldives-ithaafushi/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.carrier.co.uk/design/hotels/ithaafushi-the-private-island-by-waldorf-astoria",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fitness centre",
+    "source_url": "https://www.carrier.co.uk/design/hotels/ithaafushi-the-private-island-by-waldorf-astoria",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://www.carrier.co.uk/design/hotels/ithaafushi-the-private-island-by-waldorf-astoria",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.carrier.co.uk/design/hotels/waldorf-astoria-maldives-ithaafushi",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://malediven.de/malediven-hotels/ithaafushi-private-island/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://malediven.de/malediven-hotels/ithaafushi-private-island/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "padel",
+    "source_url": "https://malediven.de/malediven-hotels/ithaafushi-private-island/",
+    "as_of": "2026-10-04"
    }
   ],
   "weddings.offered": [
@@ -375,7 +1024,12 @@
    },
    {
     "value": true,
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Resort-Map-1.pdf",
+    "source_url": "https://www.waldorfastoriamaldives.com/wp-content/uploads/2025/07/Unforgettable-Honeymoon-and-Romantic-Anniversaries-TC-.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": true,
+    "source_url": "https://www.waldorfastoriamaldives.com/wp-content/uploads/2025/07/Island-Map-Room-Numbers.pdf",
     "as_of": 2025
    },
    {
@@ -408,6 +1062,23 @@
     "as_of": "2026-10-04"
    }
   ],
+  "diving_watersports.house_reef": [
+   {
+    "value": "house reef",
+    "source_url": "https://www.waldorfastoriamaldives.com/wp-content/uploads/2025/07/2025-WA-Recreation-Centre-.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "house reef offers fantastic snorkelling and a sunset cruise is the perfect way to round off your day",
+    "source_url": "https://www.letsgo2.com/suites-and-villas/maldives/waldorf-astoria-maldives-ithaafushi/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Housereef Snorkling",
+    "source_url": "https://www.carrier.co.uk/design/hotels/ithaafushi-the-private-island-by-waldorf-astoria",
+    "as_of": "2026-10-04"
+   }
+  ],
   "villas.categories": [
    {
     "value": {
@@ -418,7 +1089,7 @@
      "pool": null,
      "overwater": null
     },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Resort-Map-1.pdf",
+    "source_url": "https://www.waldorfastoriamaldives.com/wp-content/uploads/2025/07/Island-Map-Room-Numbers.pdf",
     "as_of": 2025
    },
    {
@@ -430,7 +1101,7 @@
      "pool": null,
      "overwater": null
     },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Resort-Map-1.pdf",
+    "source_url": "https://www.waldorfastoriamaldives.com/wp-content/uploads/2025/07/Island-Map-Room-Numbers.pdf",
     "as_of": 2025
    },
    {
@@ -442,7 +1113,7 @@
      "pool": null,
      "overwater": null
     },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Resort-Map-1.pdf",
+    "source_url": "https://www.waldorfastoriamaldives.com/wp-content/uploads/2025/07/Island-Map-Room-Numbers.pdf",
     "as_of": 2025
    },
    {
@@ -454,31 +1125,43 @@
      "pool": null,
      "overwater": null
     },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Resort-Map-1.pdf",
+    "source_url": "https://www.waldorfastoriamaldives.com/wp-content/uploads/2025/07/Island-Map-Room-Numbers.pdf",
     "as_of": 2025
    },
    {
     "value": {
-     "name": "Bedroom Villa",
+     "name": "Bedroom Ocean Villa Stella Maris",
+     "count": 1,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": true
+    },
+    "source_url": "https://www.waldorfastoriamaldives.com/wp-content/uploads/2025/07/Island-Map-Room-Numbers.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": {
+     "name": "Bedroom Villa K + T",
      "count": 2,
      "size_sqm": null,
      "max_occupancy": null,
      "pool": null,
      "overwater": null
     },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Resort-Map-1.pdf",
+    "source_url": "https://www.waldorfastoriamaldives.com/wp-content/uploads/2025/07/Island-Map-Room-Numbers.pdf",
     "as_of": 2025
    },
    {
     "value": {
-     "name": "Bedroom Villa",
+     "name": "Bedroom Villa BEACH VILLAS REEF VILLAS OVERWATER VILLAS",
      "count": 3,
      "size_sqm": null,
      "max_occupancy": null,
      "pool": null,
-     "overwater": null
+     "overwater": true
     },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Resort-Map-1.pdf",
+    "source_url": "https://www.waldorfastoriamaldives.com/wp-content/uploads/2025/07/Island-Map-Room-Numbers.pdf",
     "as_of": 2025
    },
    {
@@ -492,61 +1175,98 @@
     },
     "source_url": "https://www.neoscapesmaldives.com/resort/waldorf-astoria-maldives/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "villas with private pools",
+     "count": 117,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": true,
+     "overwater": null
+    },
+    "source_url": "https://www.carrier.co.uk/design/hotels/waldorf-astoria-maldives-ithaafushi",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "villas with private pools",
+     "count": 117,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": true,
+     "overwater": null
+    },
+    "source_url": "https://www.carrier.co.uk/design/hotels/waldorf-astoria-maldives-ithaafushi",
+    "as_of": "2026-10-04"
    }
   ],
   "weddings.venues": [
    {
-    "value": "Wedding Pavilion",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Resort-Map-1.pdf",
+    "value": "K Wedding Pavilion",
+    "source_url": "https://www.waldorfastoriamaldives.com/wp-content/uploads/2025/07/Island-Map-Room-Numbers.pdf",
     "as_of": 2025
+   }
+  ],
+  "sustainability": [
+   {
+    "value": "solar",
+    "source_url": "https://www.waldorfastoriamaldives.com/de/news/sustainable-hospitality/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Green Key",
+    "source_url": "https://www.waldorfastoriamaldives.com/de/news/sustainable-hospitality/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "villas.total": [
+   {
+    "value": 117,
+    "source_url": "https://www.waldorfastoriamaldives.com/stories/exclusive-villa-living/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 10,
+    "source_url": "https://www.neoscapesmaldives.com/resort/waldorf-astoria-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 122,
+    "source_url": "https://www.letsgo2.com/suites-and-villas/maldives/waldorf-astoria-maldives-ithaafushi/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 117,
+    "source_url": "https://www.carrier.co.uk/design/hotels/waldorf-astoria-maldives-ithaafushi",
+    "as_of": "2026-10-04"
    }
   ],
   "transfer.minutes.yacht": [
    {
     "value": 45,
+    "source_url": "https://www.waldorfastoriamaldives.com/stories/maldives-wellness-retreat/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 45,
     "source_url": "https://www.neoscapesmaldives.com/resort/waldorf-astoria-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 30,
+    "source_url": "https://www.letsgo2.com/suites-and-villas/maldives/waldorf-astoria-maldives-ithaafushi/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 40,
+    "source_url": "https://www.carrier.co.uk/design/hotels/ithaafushi-the-private-island-by-waldorf-astoria",
     "as_of": "2026-10-04"
    }
   ],
   "island_size": [
    {
     "value": "500 m x 400 m",
-    "source_url": "https://www.neoscapesmaldives.com/resort/waldorf-astoria-maldives/",
-    "as_of": "2026-10-04"
-   }
-  ],
-  "villas.total": [
-   {
-    "value": 10,
-    "source_url": "https://www.neoscapesmaldives.com/resort/waldorf-astoria-maldives/",
-    "as_of": "2026-10-04"
-   }
-  ],
-  "dining": [
-   {
-    "value": {
-     "name": "Dining",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/waldorf-astoria-maldives/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Dining",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/waldorf-astoria-maldives/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Destination Dining",
-     "cuisine": null,
-     "type": "restaurant"
-    },
     "source_url": "https://www.neoscapesmaldives.com/resort/waldorf-astoria-maldives/",
     "as_of": "2026-10-04"
    }
@@ -570,6 +1290,11 @@
     "value": "Kids Club",
     "source_url": "https://www.neoscapesmaldives.com/resort/waldorf-astoria-maldives/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa\nFitness Centre\nKids Club",
+    "source_url": "https://www.letsgo2.com/suites-and-villas/maldives/waldorf-astoria-maldives-ithaafushi/",
+    "as_of": "2026-10-04"
    }
   ],
   "kids_family.teens": [
@@ -578,7 +1303,59 @@
     "source_url": "https://www.neoscapesmaldives.com/resort/waldorf-astoria-maldives/",
     "as_of": "2026-10-04"
    }
+  ],
+  "island": [
+   {
+    "value": "Male",
+    "source_url": "https://www.letsgo2.com/suites-and-villas/maldives/waldorf-astoria-maldives-ithaafushi/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "transfer.minutes.seaplane": [
+   {
+    "value": 5,
+    "source_url": "https://www.carrier.co.uk/design/hotels/ithaafushi-the-private-island-by-waldorf-astoria",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "dining": [
+   {
+    "value": {
+     "name": "Nava Restaurant",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.carrier.co.uk/design/hotels/waldorf-astoria-maldives-ithaafushi",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Yasmeen Restaurant",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.carrier.co.uk/design/hotels/waldorf-astoria-maldives-ithaafushi",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Lilong Restaurant",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.carrier.co.uk/design/hotels/waldorf-astoria-maldives-ithaafushi",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Glow Restaurant",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.carrier.co.uk/design/hotels/waldorf-astoria-maldives-ithaafushi",
+    "as_of": "2026-10-04"
+   }
   ]
  },
- "last_updated": "2026-10-04"
+ "last_updated": "2026-10-05"
 }

@@ -7,32 +7,35 @@
   "Dhuni Kolhu",
   "Dhunikolhu"
  ],
- "official_url": null,
- "official_site_status": null,
+ "official_url": "https://www.cococollection.com/dhuni-kolhu",
+ "official_site_status": "ok",
  "operator_brand": "Coco",
- "atoll": null,
- "island": null,
+ "atoll": "Baa Atoll",
+ "island": "Coco Palm",
  "opened_or_renovated": null,
  "star_rating": null,
  "transfer": {
-  "modes": [],
+  "modes": [
+   "seaplane",
+   "speedboat"
+  ],
   "minutes": {
-   "seaplane": null,
-   "speedboat": null,
+   "seaplane": 30,
+   "speedboat": 35,
    "domestic flight": null,
    "yacht": null
   }
  },
  "island_size": null,
  "villas": {
-  "total": null,
+  "total": 100,
   "categories": []
  },
  "dining": [],
  "meal_plans": [],
- "all_inclusive_details": null,
+ "all_inclusive_details": "All-Inclusive and more festive benefits.",
  "spa": {
-  "name": null,
+  "name": "Palm Dhuni Kolhu Spa",
   "treatment_rooms": null,
   "signature_treatments": [],
   "menu_doc": null
@@ -40,18 +43,33 @@
  "diving_watersports": {
   "operator": null,
   "house_reef": null,
-  "activities": [],
+  "activities": [
+   "scuba diving",
+   "windsurfing",
+   "catamaran",
+   "water skiing",
+   "fishing",
+   "sailing",
+   "canoe"
+  ],
   "price_list_doc": null
  },
- "excursions": [],
+ "excursions": [
+  "turtle",
+  "big game fishing"
+ ],
  "kids_family": {
   "kids_club": null,
   "age_range": null,
   "teens": null
  },
- "wellness_fitness": [],
+ "wellness_fitness": [
+  "tennis",
+  "badminton",
+  "sauna"
+ ],
  "weddings": {
-  "offered": null,
+  "offered": true,
   "vow_renewal": null,
   "venues": [],
   "packages": [],
@@ -84,18 +102,222 @@
   "factsheet",
   "wedding brochure",
   "events/MICE document",
-  "fact: villas.total",
   "fact: villa categories",
   "fact: dining",
-  "fact: transfer",
-  "fact: atoll",
-  "fact: spa",
   "fact: dive operator",
   "fact: kids club",
-  "fact: weddings",
-  "fact: contacts",
-  "no documents or pages collected"
+  "fact: contacts"
  ],
- "sources": {},
- "last_updated": "2026-10-04"
+ "sources": {
+  "atoll": [
+   {
+    "value": "Baa Atoll",
+    "source_url": "https://www.cococollection.com/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Baa Atoll",
+    "source_url": "https://www.cococollection.com/index.php?ACT=24&lang=en",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Baa Atoll",
+    "source_url": "https://www.cococollection.com/en/palm-dk",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Baa Atoll",
+    "source_url": "https://www.mymaldives.com/resort-guide/coco-palm-dhuni-kolhu/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Baa Atoll",
+    "source_url": "https://malediven.de/malediven-hotels/coco-palm-dhuni-kolhu/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "transfer.modes": [
+   {
+    "value": "seaplane",
+    "source_url": "https://www.cococollection.com/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.cococollection.com/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.cococollection.com/index.php?ACT=24&lang=en",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.cococollection.com/index.php?ACT=24&lang=en",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.cococollection.com/en/palm-dk",
+    "as_of": "2026-10-05"
+   }
+  ],
+  "transfer.minutes.seaplane": [
+   {
+    "value": 30,
+    "source_url": "https://www.cococollection.com/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": 30,
+    "source_url": "https://www.cococollection.com/index.php?ACT=24&lang=en",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": 30,
+    "source_url": "https://www.cococollection.com/en/palm-dk",
+    "as_of": "2026-10-05"
+   }
+  ],
+  "transfer.minutes.speedboat": [
+   {
+    "value": 35,
+    "source_url": "https://www.cococollection.com/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": 35,
+    "source_url": "https://www.cococollection.com/index.php?ACT=24&lang=en",
+    "as_of": "2026-10-05"
+   }
+  ],
+  "all_inclusive_details": [
+   {
+    "value": "All-Inclusive and more festive benefits.",
+    "source_url": "https://www.cococollection.com/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "All-Inclusive and more festive benefits.",
+    "source_url": "https://www.cococollection.com/index.php?ACT=24&lang=en",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "All-Inclusive and more island benefits.",
+    "source_url": "https://www.cococollection.com/en/palm-dk",
+    "as_of": "2026-10-05"
+   }
+  ],
+  "spa.name": [
+   {
+    "value": "Palm Dhuni Kolhu Spa",
+    "source_url": "https://www.cococollection.com/en/palm-dk",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Package\nPhotography Package\nSpa",
+    "source_url": "https://www.cococollection.com/en/coco/downloads",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.mymaldives.com/resort-guide/coco-palm-dhuni-kolhu/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://malediven.de/malediven-hotels/coco-palm-dhuni-kolhu/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "weddings.offered": [
+   {
+    "value": true,
+    "source_url": "https://www.cococollection.com/en/coco/downloads",
+    "as_of": "2026-10-05"
+   }
+  ],
+  "excursions": [
+   {
+    "value": "turtle",
+    "source_url": "https://www.cococollection.com/en/news",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "big game fishing",
+    "source_url": "https://www.mymaldives.com/resort-guide/coco-palm-dhuni-kolhu/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "island": [
+   {
+    "value": "Coco Palm",
+    "source_url": "https://www.mymaldives.com/resort-guide/coco-palm-dhuni-kolhu/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "villas.total": [
+   {
+    "value": 100,
+    "source_url": "https://www.mymaldives.com/resort-guide/coco-palm-dhuni-kolhu/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "diving_watersports.activities": [
+   {
+    "value": "scuba diving",
+    "source_url": "https://www.mymaldives.com/resort-guide/coco-palm-dhuni-kolhu/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "windsurfing",
+    "source_url": "https://www.mymaldives.com/resort-guide/coco-palm-dhuni-kolhu/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "catamaran",
+    "source_url": "https://www.mymaldives.com/resort-guide/coco-palm-dhuni-kolhu/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "water skiing",
+    "source_url": "https://www.mymaldives.com/resort-guide/coco-palm-dhuni-kolhu/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.mymaldives.com/resort-guide/coco-palm-dhuni-kolhu/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sailing",
+    "source_url": "https://www.mymaldives.com/resort-guide/coco-palm-dhuni-kolhu/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "canoe",
+    "source_url": "https://www.mymaldives.com/resort-guide/coco-palm-dhuni-kolhu/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "wellness_fitness": [
+   {
+    "value": "tennis",
+    "source_url": "https://www.mymaldives.com/resort-guide/coco-palm-dhuni-kolhu/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "badminton",
+    "source_url": "https://www.mymaldives.com/resort-guide/coco-palm-dhuni-kolhu/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sauna",
+    "source_url": "https://www.mymaldives.com/resort-guide/coco-palm-dhuni-kolhu/",
+    "as_of": "2026-10-04"
+   }
+  ]
+ },
+ "last_updated": "2026-10-05"
 }

@@ -1,13 +1,13 @@
 # 153. Taj Coral Reef Resort and Spa
 
-**Official site:** n/a (None)  
+**Official site:** https://www.tajhotels.com/en-in/taj/taj-coral-reef-maldives/ (blocked)  
 **Brand:** Taj  
 **Atoll:** North Male Atoll  **Island:** n/a  
 **Opened/renovated:** n/a  **Rating:** n/a  
 **Transfer:** speedboat; minutes: {"speedboat": 45}  
 **Island size:** n/a  
 
-## Villas (? total)
+## Villas (66 total)
 
 - Villas: count 62, ? sqm, max ?
 - delu e delight beach villa bathroom taj coral reef resort: count 3, ? sqm, max ?
@@ -16,11 +16,8 @@
 
 ## Dining
 
-- Dining (restaurant)
 - Reef Bar (bar)
 - Pizzeria (restaurant)
-- Sandbank Dining (restaurant)
-- Unique Dining Experiences (restaurant)
 
 Meal plans: AI
 All-inclusive: all-inclusive vacations.
@@ -28,13 +25,13 @@ All-inclusive: all-inclusive vacations.
 ## Spa & wellness
 
 - Spa: Spa; treatment rooms: ?; menu: none
-- Wellness/fitness: yoga, meditation, gym, fitness centre
+- Wellness/fitness: yoga, meditation, gym, fitness centre, tennis, badminton
 
 ## Diving, water sports & excursions
 
 - Operator: n/a
 - House reef: house reef to offer environmentally-responsible, all-inclusive vacations
-- Activities: snorkelling, fishing, sunset cruise, dolphin cruise
+- Activities: snorkelling, fishing, sunset cruise, dolphin cruise, scuba diving, windsurfing, parasailing, water skiing, sailing, canoe
 - Price list: none
 - Excursions: sandbank, dolphin, big game fishing
 
@@ -77,8 +74,7 @@ All-inclusive: all-inclusive vacations.
 
 - wedding brochure
 - events/MICE document
-- fact: villas.total
 - fact: dive operator
 - fact: kids club
 
-_Facts extracted by rules from 17 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-04._
+_Facts extracted by rules from 18 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

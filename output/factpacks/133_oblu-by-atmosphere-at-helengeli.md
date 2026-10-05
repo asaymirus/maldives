@@ -1,11 +1,11 @@
 # 133. Oblu By Atmosphere at Helengeli
 
 **Current name / alias:** OBLU Nature Helengeli by Sentido  
-**Official site:** n/a (None)  
+**Official site:** https://www.coloursofoblu.com/oblu-nature-helengeli (ok)  
 **Brand:** OBLU  
 **Atoll:** North Malé Atoll  **Island:** n/a  
 **Opened/renovated:** n/a  **Rating:** 4-star  
-**Transfer:** speedboat; minutes: {"speedboat": 50}  
+**Transfer:** speedboat, yacht; minutes: {"speedboat": 50}  
 **Island size:** 810 m x 80 m  
 
 ## Villas (153 total)
@@ -21,40 +21,54 @@
 - SUNSET SIDE: VILLAS - + Pool: count ?, 87 sqm, max ?, pool
 - SUNRISE SIDE VILLAS - + Pool: count ?, 87 sqm, max ?, pool
 - SUITE: + Pool: count 1, 150 sqm, max ?, pool
-- Number of Villas: count 153, ? sqm, max ?
+- Anantara Kihavah Villas Baa Kihavah Huravalhi -Jul: count 41, ? sqm, max ?
+- Embudhu Village Kaafu Embudhu -Sep: count 69, ? sqm, max ?
+- Drift Thelu Veliga Retreat Theluveliga -Sep: count 77, ? sqm, max ?
+- The Residence Maldives Falhumaafushi -Nov: count 119, ? sqm, max ?
+- Club Med Finolhu Villas Kaafu Gasfinolhu -Dec: count 139, ? sqm, max ?
+- Equator Village Seenu Gan -Sep: count 3, ? sqm, max ?
+- Azuvia Beach Retreat Hulhumale' Kaafu Hulhumale' -Dec: count 4, ? sqm, max ?
+- Vista Beach Retreat Kaafu Hulhumale' -Dec: count 8, ? sqm, max ?
+- Casa Retreat Kaafu Hulhumale' -Dec: count 13, ? sqm, max ?
+- Sunny Suites Inn Kaafu Hulhumale' -Dec: count 18, ? sqm, max ?
+- Hulhu Villa Beach Kaafu Hulhumale' -Dec: count 21, ? sqm, max ?
+- Awesome Suite Kaafu Hulhumale' -Jan: count 34, ? sqm, max ?
+- Sala Boutique Residence Kaafu Male' -Jan: count 36, ? sqm, max ?
+- Contento Retreat Kaafu Hulhumale' -Mar: count 47, ? sqm, max ?
+- Turquoise Residence Kaafu Hulhumale' -Mar: count 48, ? sqm, max ?
+- Manaam Residence Haa Alifu Hoarafushi -Sep: count 2, ? sqm, max ?
+- Holiday Home Kelaa Retreat Haa Alifu Kelaa -Dec: count 3, ? sqm, max ?
+- Vilu Veli Holiday Retreat Haa Dhaalu Hanimaadhoo -Jan: count 14, ? sqm, max ?
+- Himeyn Beach Retreat Haa Dhaalu Hanimaadhoo -Aug: count 17, ? sqm, max ?
 
 ## Dining
 
-- The Spice Raa Bandhi Bar Thundi Just Grill RAGA Route (bar)
-- window seat, and fresh tropical accents. Lounge on the (bar)
-- Raa Bandhi Bar, celebrate the spirit of Maldives. Enjoy a (bar)
-- (Progressive Indian Specialty Dining) (restaurant)
 - J Just Grill (restaurant)
-- (Mediterranean Specialty Dining) (restaurant)
 - F Helengeli Lounge - Waiting Lounge (bar)
 - H Raa Bandhi Bar Y Honeymoon Sunset (bar)
 - I The Spice (Main Restaurant) (restaurant)
-- Dining (restaurant)
+- Grill (restaurant)
+- Just Grill (restaurant)
 - RAA BANDHI - Bar & Pool (bar)
-- THE SPICE – All-Day Dining (restaurant)
 - JUST GRILL – Beach Grill (restaurant)
 - THUNDI Beach Bar (bar)
+- Hot and Cold Water, Hair Dryer, Mini Bar (bar)
 
 Meal plans: AI
-All-inclusive: all-inclusive plan, guests enjoy premium dining, revitalizing spa treatments, and a variety of island activities.
+All-inclusive: all-inclusive dining, beverages, a replenished minibar, snorkelling equipment, exciting excursions, and immersive island experiences surrounded by nature’s beauty.
 
 ## Spa & wellness
 
-- Spa: ELENA Spa; treatment rooms: ?; menu: none
-- Wellness/fitness: yoga, gym, fitness centre
+- Spa: NA Ayur Spa; treatment rooms: ?; menu: https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf
+- Wellness/fitness: yoga, gym, fitness centre, badminton
 
 ## Diving, water sports & excursions
 
 - Operator: TGI
 - House reef: house reef offers an unparalleled snorkeling North Malé Atoll
-- Activities: snorkelling, snorkeling, stand-up paddle, fishing
+- Activities: snorkelling, snorkeling, stand-up paddle, fishing, surfing, manta, sailing, kayaking, scuba diving
 - Price list: none
-- Excursions: dolphin, turtle, sunset fishing
+- Excursions: dolphin, turtle, local island, manta, sunset fishing, island hopping
 
 ## Kids & family
 
@@ -85,7 +99,7 @@ All-inclusive: all-inclusive plan, guests enjoy premium dining, revitalizing spa
 - factsheet: none
 - map: https://www.neoscapesmaldives.com/wp-content/uploads/OBLU-Nature-Helengeli-by-Sentido-Island-Map-JULY-2026.pdf
 - wedding: none
-- spa_menu: none
+- spa_menu: https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf
 - dining_menu: none
 - dive_prices: none
 - events: none
@@ -97,4 +111,4 @@ All-inclusive: all-inclusive plan, guests enjoy premium dining, revitalizing spa
 - wedding brochure
 - events/MICE document
 
-_Facts extracted by rules from 21 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-04._
+_Facts extracted by rules from 21 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

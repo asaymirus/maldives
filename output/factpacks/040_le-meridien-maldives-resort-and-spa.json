@@ -7,8 +7,8 @@
   "Le Méridien Maldives",
   "Thilamaafushi"
  ],
- "official_url": null,
- "official_site_status": null,
+ "official_url": "https://www.marriott.com/en-us/hotels/mlemd-le-meridien-maldives-resort-and-spa/overview/",
+ "official_site_status": "blocked",
  "operator_brand": "Le Méridien",
  "atoll": "Lhaviyani Atoll",
  "island": "Thilamaafushi",
@@ -81,16 +81,6 @@
  },
  "dining": [
   {
-   "name": "century design, Velaa Bar + Grill is the essence",
-   "cuisine": null,
-   "type": "bar"
-  },
-  {
-   "name": "Dining",
-   "cuisine": null,
-   "type": "restaurant"
-  },
-  {
    "name": "Waves Cafe",
    "cuisine": null,
    "type": "restaurant"
@@ -99,6 +89,16 @@
    "name": "Velaa Bar + Grill",
    "cuisine": null,
    "type": "bar"
+  },
+  {
+   "name": "{{Restaurant.Description}}",
+   "cuisine": null,
+   "type": "restaurant"
+  },
+  {
+   "name": "Restaurant Type",
+   "cuisine": null,
+   "type": "restaurant"
   }
  ],
  "meal_plans": [],
@@ -181,7 +181,7 @@
    {
     "value": "Lhaviyani Atoll",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Resort-Factsheet-Le-Meridien-Maldives.pdf",
-    "as_of": 2022
+    "as_of": 2021
    },
    {
     "value": "Lhaviyani Atoll",
@@ -193,14 +193,14 @@
    {
     "value": "Thilamaafushi",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Resort-Factsheet-Le-Meridien-Maldives.pdf",
-    "as_of": 2022
+    "as_of": 2021
    }
   ],
   "transfer.modes": [
    {
     "value": "seaplane",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Resort-Factsheet-Le-Meridien-Maldives.pdf",
-    "as_of": 2022
+    "as_of": 2021
    },
    {
     "value": "seaplane",
@@ -212,57 +212,10 @@
    {
     "value": 35,
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Resort-Factsheet-Le-Meridien-Maldives.pdf",
-    "as_of": 2022
+    "as_of": 2021
    },
    {
     "value": 35,
-    "source_url": "https://www.neoscapesmaldives.com/resort/le-meridien-maldives/",
-    "as_of": "2026-10-04"
-   }
-  ],
-  "dining": [
-   {
-    "value": {
-     "name": "century design, Velaa Bar + Grill is the essence",
-     "cuisine": null,
-     "type": "bar"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Resort-Factsheet-Le-Meridien-Maldives.pdf",
-    "as_of": 2022
-   },
-   {
-    "value": {
-     "name": "Dining",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/le-meridien-maldives/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Dining",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/le-meridien-maldives/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Waves Cafe",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/le-meridien-maldives/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Velaa Bar + Grill",
-     "cuisine": null,
-     "type": "bar"
-    },
     "source_url": "https://www.neoscapesmaldives.com/resort/le-meridien-maldives/",
     "as_of": "2026-10-04"
    }
@@ -271,7 +224,7 @@
    {
     "value": "Spa",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Resort-Factsheet-Le-Meridien-Maldives.pdf",
-    "as_of": 2022
+    "as_of": 2021
    },
    {
     "value": "Spa",
@@ -283,22 +236,22 @@
    {
     "value": "snorkelling",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Resort-Factsheet-Le-Meridien-Maldives.pdf",
-    "as_of": 2022
+    "as_of": 2021
    },
    {
     "value": "scuba diving",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Resort-Factsheet-Le-Meridien-Maldives.pdf",
-    "as_of": 2022
+    "as_of": 2021
    },
    {
     "value": "fishing",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Resort-Factsheet-Le-Meridien-Maldives.pdf",
-    "as_of": 2022
+    "as_of": 2021
    },
    {
     "value": "manta",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Resort-Factsheet-Le-Meridien-Maldives.pdf",
-    "as_of": 2022
+    "as_of": 2021
    },
    {
     "value": "snorkelling",
@@ -325,22 +278,22 @@
    {
     "value": "dolphin",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Resort-Factsheet-Le-Meridien-Maldives.pdf",
-    "as_of": 2022
+    "as_of": 2021
    },
    {
     "value": "manta",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Resort-Factsheet-Le-Meridien-Maldives.pdf",
-    "as_of": 2022
+    "as_of": 2021
    },
    {
     "value": "turtle",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Resort-Factsheet-Le-Meridien-Maldives.pdf",
-    "as_of": 2022
+    "as_of": 2021
    },
    {
     "value": "picnic",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Resort-Factsheet-Le-Meridien-Maldives.pdf",
-    "as_of": 2022
+    "as_of": 2021
    },
    {
     "value": "dolphin",
@@ -372,7 +325,7 @@
    {
     "value": "yoga",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Resort-Factsheet-Le-Meridien-Maldives.pdf",
-    "as_of": 2022
+    "as_of": 2021
    },
    {
     "value": "yoga",
@@ -394,12 +347,12 @@
    {
     "value": "coral restoration",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Resort-Factsheet-Le-Meridien-Maldives.pdf",
-    "as_of": 2022
+    "as_of": 2021
    },
    {
     "value": "hydroponic",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Resort-Factsheet-Le-Meridien-Maldives.pdf",
-    "as_of": 2022
+    "as_of": 2021
    },
    {
     "value": "coral restoration",
@@ -481,6 +434,44 @@
     "as_of": "2026-10-04"
    }
   ],
+  "dining": [
+   {
+    "value": {
+     "name": "Waves Cafe",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.neoscapesmaldives.com/resort/le-meridien-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Velaa Bar + Grill",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.neoscapesmaldives.com/resort/le-meridien-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "{{Restaurant.Description}}",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.letsgo2.com/hotels/maldives/le-meridien-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Restaurant Type",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.letsgo2.com/hotels/maldives/le-meridien-maldives/",
+    "as_of": "2026-10-04"
+   }
+  ],
   "kids_family.kids_club": [
    {
     "value": "Kids Club",
@@ -510,5 +501,5 @@
    }
   ]
  },
- "last_updated": "2026-10-04"
+ "last_updated": "2026-10-05"
 }

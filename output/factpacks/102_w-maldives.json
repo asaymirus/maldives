@@ -7,13 +7,13 @@
   "W Retreat Maldives",
   "Fesdu"
  ],
- "official_url": null,
- "official_site_status": null,
+ "official_url": "https://www.marriott.com/en-us/hotels/mlewh-w-maldives/overview/",
+ "official_site_status": "blocked",
  "operator_brand": "W Maldives",
  "atoll": "Ari Atoll",
- "island": null,
+ "island": "Kuramathi",
  "opened_or_renovated": null,
- "star_rating": null,
+ "star_rating": "4-star",
  "transfer": {
   "modes": [
    "seaplane",
@@ -29,64 +29,97 @@
  },
  "island_size": null,
  "villas": {
-  "total": null,
+  "total": 82,
   "categories": [
    {
-    "name": "Number of Villas",
+    "name": "overwater and beachfront villas",
     "count": 77,
     "size_sqm": null,
     "max_occupancy": null,
     "pool": null,
-    "overwater": null
+    "overwater": true
    }
   ]
  },
  "dining": [
   {
-   "name": "Dining",
+   "name": "@Beach Bar",
+   "cuisine": null,
+   "type": "bar"
+  },
+  {
+   "name": "Kitchen",
+   "cuisine": null,
+   "type": "restaurant"
+  },
+  {
+   "name": "at Kitchen",
    "cuisine": null,
    "type": "restaurant"
   }
  ],
- "meal_plans": [],
- "all_inclusive_details": null,
+ "meal_plans": [
+  "AI",
+  "HB"
+ ],
+ "all_inclusive_details": "all-inclusive package.",
  "spa": {
   "name": "Spa",
   "treatment_rooms": null,
   "signature_treatments": [],
-  "menu_doc": null
+  "menu_doc": "https://www.maldivesexperts.com/uploads/resorts/ad0e8a7d99256672d5f992e76ef7ead2.pdf"
  },
  "diving_watersports": {
-  "operator": null,
+  "operator": "Dive Centre",
   "house_reef": "House Reef",
   "activities": [
    "snorkeling",
+   "parasailing",
+   "seabob",
+   "whale shark",
+   "manta",
+   "fishing",
+   "banana boat",
+   "surfing",
    "scuba diving",
    "windsurfing",
    "jet ski",
-   "parasailing",
-   "whale shark",
-   "manta",
-   "sailing"
+   "sailing",
+   "catamaran",
+   "water skiing",
+   "canoe",
+   "snorkelling",
+   "kayaking",
+   "wakeboarding"
   ],
   "price_list_doc": null
  },
  "excursions": [
-  "dolphin",
   "whale shark",
   "manta",
-  "turtle"
+  "castaway",
+  "turtle",
+  "picnic",
+  "dolphin",
+  "private dinner",
+  "sandbank",
+  "big game fishing"
  ],
  "kids_family": {
   "kids_club": null,
   "age_range": null,
-  "teens": null
+  "teens": "teens programme mentioned"
  },
  "wellness_fitness": [
   "steam",
   "yoga",
+  "meditation",
+  "sound healing",
+  "pilates",
+  "tennis",
   "gym",
-  "fitness center"
+  "fitness center",
+  "sauna"
  ],
  "weddings": {
   "offered": true,
@@ -97,11 +130,12 @@
  },
  "events_mice": {
   "venues": [],
-  "capacity_max": null,
+  "capacity_max": 10,
   "buyout": null,
   "doc": null
  },
  "sustainability": [
+  "solar",
   "marine biologist"
  ],
  "contacts_public": {
@@ -111,20 +145,18 @@
  },
  "documents_latest": {
   "factsheet": "https://neoscapesmaldives.com/wp-content/uploads/W_Retreat-Maldives-Factsheet.pdf",
-  "map": null,
+  "map": "https://www.maldivestourism.net/wp-content/uploads/maldives-map-by-maldives-tourism.pdf",
   "wedding": null,
-  "spa_menu": null,
-  "dining_menu": null,
+  "spa_menu": "https://www.maldivesexperts.com/uploads/resorts/ad0e8a7d99256672d5f992e76ef7ead2.pdf",
+  "dining_menu": "https://letsgomaldives.com/wp-content/uploads/2023/01/W-Maldives-Whats-Next-January-2023.pdf",
   "dive_prices": null,
   "events": null,
   "calendar": null
  },
- "documents_count": 1,
+ "documents_count": 10,
  "gaps": [
   "wedding brochure",
   "events/MICE document",
-  "fact: villas.total",
-  "fact: dive operator",
   "fact: kids club"
  ],
  "sources": {
@@ -138,6 +170,26 @@
     "value": "Ari Atoll",
     "source_url": "https://www.neoscapesmaldives.com/resort/w-resort-maldives/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "Ari Atoll",
+    "source_url": "https://www.mymaldives.com/resort-guide/w-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Baa Atoll",
+    "source_url": "https://www.kuoni.co.uk/destinations/indian-ocean/maldives/hotels/w-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Ari Atoll",
+    "source_url": "https://www.carrier.co.uk/design/hotels/w-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Ari Atoll",
+    "source_url": "https://malediven.de/malediven-hotels/w-maldives/",
+    "as_of": "2026-10-04"
    }
   ],
   "spa.name": [
@@ -147,8 +199,38 @@
     "as_of": 2019
    },
    {
+    "value": "Serenity Spa",
+    "source_url": "https://www.maldivesexperts.com/uploads/resorts/ad0e8a7d99256672d5f992e76ef7ead2.pdf",
+    "as_of": 2022
+   },
+   {
     "value": "Spa",
     "source_url": "https://www.neoscapesmaldives.com/resort/w-resort-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://letsgomaldives.com/news/whats-next-in-august-w-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.mymaldives.com/blog/w-maldives-named-leading-hotel-suite-at-the-20th-world-travel-awards/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.kuoni.co.uk/destinations/indian-ocean/maldives/hotels/w-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "AWAY Spa",
+    "source_url": "https://www.carrier.co.uk/design/hotels/w-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://malediven.de/malediven-hotels/w-maldives/",
     "as_of": "2026-10-04"
    }
   ],
@@ -157,6 +239,51 @@
     "value": "steam",
     "source_url": "https://neoscapesmaldives.com/wp-content/uploads/W_Retreat-Maldives-Factsheet.pdf",
     "as_of": 2019
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.maldivesexperts.com/uploads/resorts/ad0e8a7d99256672d5f992e76ef7ead2.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": "meditation",
+    "source_url": "https://www.maldivesexperts.com/uploads/resorts/ad0e8a7d99256672d5f992e76ef7ead2.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": "sound healing",
+    "source_url": "https://www.maldivesexperts.com/uploads/resorts/ad0e8a7d99256672d5f992e76ef7ead2.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": "steam",
+    "source_url": "https://www.maldivesexperts.com/uploads/resorts/ad0e8a7d99256672d5f992e76ef7ead2.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://letsgomaldives.com/wp-content/uploads/2023/01/W-Maldives-Whats-Next-January-2023.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": "pilates",
+    "source_url": "https://letsgomaldives.com/wp-content/uploads/2023/01/W-Maldives-Whats-Next-January-2023.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": "steam",
+    "source_url": "https://letsgomaldives.com/wp-content/uploads/2023/01/W-Maldives-Whats-Next-January-2023.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.finolhu.com/wp-content/uploads/2024/01/oceaneers-daily-club-activity-schedule.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://www.finolhu.com/wp-content/uploads/2024/01/oceaneers-daily-club-activity-schedule.pdf",
+    "as_of": 2022
    },
    {
     "value": "yoga",
@@ -172,6 +299,51 @@
     "value": "fitness center",
     "source_url": "https://www.neoscapesmaldives.com/resort/w-resort-maldives/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "fitness center",
+    "source_url": "https://www.mymaldives.com/resort-guide/w-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sauna",
+    "source_url": "https://www.mymaldives.com/resort-guide/w-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "gym",
+    "source_url": "https://www.kuoni.co.uk/destinations/indian-ocean/maldives/hotels/w-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.carrier.co.uk/design/hotels/w-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "gym",
+    "source_url": "https://www.carrier.co.uk/design/hotels/w-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "steam",
+    "source_url": "https://www.carrier.co.uk/design/hotels/w-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://malediven.de/malediven-hotels/w-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "meditation",
+    "source_url": "https://malediven.de/malediven-hotels/w-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sauna",
+    "source_url": "https://malediven.de/malediven-hotels/w-maldives/",
+    "as_of": "2026-10-04"
    }
   ],
   "weddings.offered": [
@@ -184,6 +356,16 @@
     "value": true,
     "source_url": "https://www.neoscapesmaldives.com/resort/w-resort-maldives/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.mymaldives.com/resort-guide/w-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://malediven.de/malediven-hotels/w-maldives/",
+    "as_of": "2026-10-04"
    }
   ],
   "contacts_public.reservations_email": [
@@ -193,84 +375,79 @@
     "as_of": 2019
    },
    {
+    "value": "reservations.wmaldives@whotels.com",
+    "source_url": "https://letsgomaldives.com/wp-content/uploads/2023/01/W-Maldives-Whats-Next-January-2023.pdf",
+    "as_of": 2023
+   },
+   {
     "value": "info@neoscapesmaldives.com",
     "source_url": "https://www.neoscapesmaldives.com/resort/w-resort-maldives/",
     "as_of": "2026-10-04"
    }
   ],
-  "transfer.modes": [
+  "sustainability": [
    {
-    "value": "seaplane",
+    "value": "solar",
+    "source_url": "https://www.maldivesexperts.com/uploads/resorts/ad0e8a7d99256672d5f992e76ef7ead2.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": "marine biologist",
     "source_url": "https://www.neoscapesmaldives.com/resort/w-resort-maldives/",
     "as_of": "2026-10-04"
    },
    {
-    "value": "speedboat",
-    "source_url": "https://www.neoscapesmaldives.com/resort/w-resort-maldives/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": "yacht",
-    "source_url": "https://www.neoscapesmaldives.com/resort/w-resort-maldives/",
-    "as_of": "2026-10-04"
-   }
-  ],
-  "transfer.minutes.seaplane": [
-   {
-    "value": 25,
-    "source_url": "https://www.neoscapesmaldives.com/resort/w-resort-maldives/",
-    "as_of": "2026-10-04"
-   }
-  ],
-  "transfer.minutes.speedboat": [
-   {
-    "value": 25,
-    "source_url": "https://www.neoscapesmaldives.com/resort/w-resort-maldives/",
-    "as_of": "2026-10-04"
-   }
-  ],
-  "villas.categories": [
-   {
-    "value": {
-     "name": "Number of Villas",
-     "count": 77,
-     "size_sqm": null,
-     "max_occupancy": null,
-     "pool": null,
-     "overwater": null
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/w-resort-maldives/",
-    "as_of": "2026-10-04"
-   }
-  ],
-  "dining": [
-   {
-    "value": {
-     "name": "Dining",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/w-resort-maldives/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Dining",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/w-resort-maldives/",
-    "as_of": "2026-10-04"
-   }
-  ],
-  "diving_watersports.house_reef": [
-   {
-    "value": "House Reef",
-    "source_url": "https://www.neoscapesmaldives.com/resort/w-resort-maldives/",
+    "value": "marine biologist",
+    "source_url": "https://www.kuoni.co.uk/destinations/indian-ocean/maldives/hotels/w-maldives/",
     "as_of": "2026-10-04"
    }
   ],
   "diving_watersports.activities": [
+   {
+    "value": "snorkeling",
+    "source_url": "https://letsgomaldives.com/wp-content/uploads/2023/01/W-Maldives-Whats-Next-January-2023.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": "parasailing",
+    "source_url": "https://letsgomaldives.com/wp-content/uploads/2023/01/W-Maldives-Whats-Next-January-2023.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": "seabob",
+    "source_url": "https://letsgomaldives.com/wp-content/uploads/2023/01/W-Maldives-Whats-Next-January-2023.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://letsgomaldives.com/wp-content/uploads/2023/01/W-Maldives-Whats-Next-January-2023.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": "manta",
+    "source_url": "https://letsgomaldives.com/wp-content/uploads/2023/01/W-Maldives-Whats-Next-January-2023.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.finolhu.com/wp-content/uploads/2024/01/oceaneers-daily-club-activity-schedule.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.finolhu.com/wp-content/uploads/2024/01/oceaneers-daily-club-activity-schedule.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": "banana boat",
+    "source_url": "https://www.finolhu.com/wp-content/uploads/2024/01/oceaneers-daily-club-activity-schedule.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": "surfing",
+    "source_url": "https://www.maldivestourism.net/wp-content/uploads/maldives-map-by-maldives-tourism.pdf",
+    "as_of": 2024
+   },
    {
     "value": "snorkeling",
     "source_url": "https://www.neoscapesmaldives.com/resort/w-resort-maldives/",
@@ -310,9 +487,149 @@
     "value": "sailing",
     "source_url": "https://www.neoscapesmaldives.com/resort/w-resort-maldives/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://letsgomaldives.com/news/whats-next-in-august-w-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "parasailing",
+    "source_url": "https://letsgomaldives.com/news/whats-next-in-august-w-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://letsgomaldives.com/news/whats-next-in-august-w-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://www.mymaldives.com/resort-guide/w-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "windsurfing",
+    "source_url": "https://www.mymaldives.com/resort-guide/w-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "catamaran",
+    "source_url": "https://www.mymaldives.com/resort-guide/w-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "parasailing",
+    "source_url": "https://www.mymaldives.com/resort-guide/w-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "water skiing",
+    "source_url": "https://www.mymaldives.com/resort-guide/w-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.mymaldives.com/resort-guide/w-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sailing",
+    "source_url": "https://www.mymaldives.com/resort-guide/w-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "canoe",
+    "source_url": "https://www.mymaldives.com/resort-guide/w-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.kuoni.co.uk/destinations/indian-ocean/maldives/hotels/w-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://www.kuoni.co.uk/destinations/indian-ocean/maldives/hotels/w-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "windsurfing",
+    "source_url": "https://www.kuoni.co.uk/destinations/indian-ocean/maldives/hotels/w-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "jet ski",
+    "source_url": "https://www.kuoni.co.uk/destinations/indian-ocean/maldives/hotels/w-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "parasailing",
+    "source_url": "https://www.kuoni.co.uk/destinations/indian-ocean/maldives/hotels/w-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.kuoni.co.uk/destinations/indian-ocean/maldives/hotels/w-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.kuoni.co.uk/destinations/indian-ocean/maldives/hotels/w-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.carrier.co.uk/design/hotels/w-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://www.carrier.co.uk/design/hotels/w-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "kayaking",
+    "source_url": "https://www.carrier.co.uk/design/hotels/w-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sailing",
+    "source_url": "https://www.carrier.co.uk/design/hotels/w-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "wakeboarding",
+    "source_url": "https://malediven.de/malediven-hotels/w-maldives/",
+    "as_of": "2026-10-04"
    }
   ],
   "excursions": [
+   {
+    "value": "whale shark",
+    "source_url": "https://letsgomaldives.com/wp-content/uploads/2023/01/W-Maldives-Whats-Next-January-2023.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": "manta",
+    "source_url": "https://letsgomaldives.com/wp-content/uploads/2023/01/W-Maldives-Whats-Next-January-2023.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": "castaway",
+    "source_url": "https://letsgomaldives.com/wp-content/uploads/2023/01/W-Maldives-Whats-Next-January-2023.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.finolhu.com/wp-content/uploads/2024/01/oceaneers-daily-club-activity-schedule.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": "picnic",
+    "source_url": "https://www.maldivestourism.net/wp-content/uploads/maldives-map-by-maldives-tourism.pdf",
+    "as_of": 2024
+   },
    {
     "value": "dolphin",
     "source_url": "https://www.neoscapesmaldives.com/resort/w-resort-maldives/",
@@ -332,22 +649,299 @@
     "value": "turtle",
     "source_url": "https://www.neoscapesmaldives.com/resort/w-resort-maldives/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://letsgomaldives.com/news/whats-next-in-august-w-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "private dinner",
+    "source_url": "https://www.mymaldives.com/resort-guide/w-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.kuoni.co.uk/destinations/indian-ocean/maldives/hotels/w-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "big game fishing",
+    "source_url": "https://www.kuoni.co.uk/destinations/indian-ocean/maldives/hotels/w-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.kuoni.co.uk/destinations/indian-ocean/maldives/hotels/w-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "picnic",
+    "source_url": "https://www.kuoni.co.uk/destinations/indian-ocean/maldives/hotels/w-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "castaway",
+    "source_url": "https://www.kuoni.co.uk/destinations/indian-ocean/maldives/hotels/w-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.carrier.co.uk/design/hotels/w-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "castaway",
+    "source_url": "https://www.carrier.co.uk/design/hotels/w-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "private dinner",
+    "source_url": "https://www.airtours.de/w-maldives/",
+    "as_of": "2026-10-04"
    }
   ],
-  "sustainability": [
+  "events_mice.capacity_max": [
    {
-    "value": "marine biologist",
-    "source_url": "https://www.neoscapesmaldives.com/resort/w-resort-maldives/",
-    "as_of": "2026-10-04"
+    "value": 10,
+    "source_url": "https://letsgomaldives.com/wp-content/uploads/2023/01/W-Maldives-Whats-Next-January-2023.pdf",
+    "as_of": 2023
    }
   ],
   "contacts_public.phone": [
    {
+    "value": "+960 6662222",
+    "source_url": "https://letsgomaldives.com/wp-content/uploads/2023/01/W-Maldives-Whats-Next-January-2023.pdf",
+    "as_of": 2023
+   },
+   {
     "value": "+960 736 5425",
     "source_url": "https://www.neoscapesmaldives.com/resort/w-resort-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 666-2222",
+    "source_url": "https://www.mymaldives.com/resort-guide/w-maldives/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "dining": [
+   {
+    "value": {
+     "name": "@Beach Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.finolhu.com/wp-content/uploads/2024/01/oceaneers-daily-club-activity-schedule.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Kitchen",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.kuoni.co.uk/destinations/indian-ocean/maldives/hotels/w-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "at Kitchen",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.kuoni.co.uk/destinations/indian-ocean/maldives/hotels/w-maldives/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "diving_watersports.operator": [
+   {
+    "value": "Dive Centre",
+    "source_url": "https://www.finolhu.com/wp-content/uploads/2024/01/oceaneers-daily-club-activity-schedule.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": "Dive Centre",
+    "source_url": "https://www.kuoni.co.uk/destinations/indian-ocean/maldives/hotels/w-maldives/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "kids_family.teens": [
+   {
+    "value": "teens programme mentioned",
+    "source_url": "https://www.finolhu.com/wp-content/uploads/2024/01/oceaneers-daily-club-activity-schedule.pdf",
+    "as_of": 2022
+   }
+  ],
+  "transfer.modes": [
+   {
+    "value": "seaplane",
+    "source_url": "https://www.neoscapesmaldives.com/resort/w-resort-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.neoscapesmaldives.com/resort/w-resort-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yacht",
+    "source_url": "https://www.neoscapesmaldives.com/resort/w-resort-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yacht",
+    "source_url": "https://letsgomaldives.com/news/whats-next-in-august-w-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.kuoni.co.uk/destinations/indian-ocean/maldives/hotels/w-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.kuoni.co.uk/destinations/indian-ocean/maldives/hotels/w-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yacht",
+    "source_url": "https://www.kuoni.co.uk/destinations/indian-ocean/maldives/hotels/w-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.carrier.co.uk/design/hotels/w-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.carrier.co.uk/design/hotels/w-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yacht",
+    "source_url": "https://www.carrier.co.uk/design/hotels/w-maldives",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "transfer.minutes.seaplane": [
+   {
+    "value": 25,
+    "source_url": "https://www.neoscapesmaldives.com/resort/w-resort-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 25,
+    "source_url": "https://www.kuoni.co.uk/destinations/indian-ocean/maldives/hotels/w-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 30,
+    "source_url": "https://www.carrier.co.uk/design/hotels/w-maldives",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "transfer.minutes.speedboat": [
+   {
+    "value": 25,
+    "source_url": "https://www.neoscapesmaldives.com/resort/w-resort-maldives/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "diving_watersports.house_reef": [
+   {
+    "value": "House Reef",
+    "source_url": "https://www.neoscapesmaldives.com/resort/w-resort-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reefs in the Maldives",
+    "source_url": "https://www.mymaldives.com/resort-guide/w-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef is a snorkeller’s dream – go prepared to be mesmerised by the kaleidoscopic sea life that calls this lagoon home",
+    "source_url": "https://www.kuoni.co.uk/destinations/indian-ocean/maldives/hotels/w-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reefs occupy blissful sun-drenched days here",
+    "source_url": "https://www.carrier.co.uk/design/hotels/w-maldives",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "villas.total": [
+   {
+    "value": 82,
+    "source_url": "https://www.mymaldives.com/resort-guide/w-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 77,
+    "source_url": "https://www.kuoni.co.uk/destinations/indian-ocean/maldives/hotels/w-maldives/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "island": [
+   {
+    "value": "Kuramathi",
+    "source_url": "https://www.kuoni.co.uk/destinations/indian-ocean/maldives/hotels/w-maldives/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "star_rating": [
+   {
+    "value": "4-star",
+    "source_url": "https://www.kuoni.co.uk/destinations/indian-ocean/maldives/hotels/w-maldives/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "meal_plans": [
+   {
+    "value": "AI",
+    "source_url": "https://www.kuoni.co.uk/destinations/indian-ocean/maldives/hotels/w-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "HB",
+    "source_url": "https://www.carrier.co.uk/design/hotels/w-maldives",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "all_inclusive_details": [
+   {
+    "value": "all-inclusive package.",
+    "source_url": "https://www.kuoni.co.uk/destinations/indian-ocean/maldives/hotels/w-maldives/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "villas.categories": [
+   {
+    "value": {
+     "name": "overwater and beachfront villas",
+     "count": 77,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": true
+    },
+    "source_url": "https://www.carrier.co.uk/design/hotels/w-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "overwater and beachfront villas",
+     "count": 77,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": true
+    },
+    "source_url": "https://www.carrier.co.uk/design/hotels/w-maldives",
     "as_of": "2026-10-04"
    }
   ]
  },
- "last_updated": "2026-10-04"
+ "last_updated": "2026-10-05"
 }

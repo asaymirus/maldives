@@ -6,52 +6,136 @@
   "Summer Island",
   "Ziyaaraifushi"
  ],
- "official_url": null,
- "official_site_status": null,
+ "official_url": "https://www.summerislandmaldives.com/",
+ "official_site_status": "ok",
  "operator_brand": null,
- "atoll": null,
- "island": null,
+ "atoll": "North Malé Atoll",
+ "island": "Complimentary Wifi",
  "opened_or_renovated": null,
  "star_rating": null,
  "transfer": {
-  "modes": [],
+  "modes": [
+   "seaplane",
+   "speedboat"
+  ],
   "minutes": {
-   "seaplane": null,
-   "speedboat": null,
+   "seaplane": 15,
+   "speedboat": 15,
    "domestic flight": null,
    "yacht": null
   }
  },
  "island_size": null,
  "villas": {
-  "total": null,
-  "categories": []
+  "total": 30,
+  "categories": [
+   {
+    "name": "WATER VILLA",
+    "count": null,
+    "size_sqm": 45,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": true
+   },
+   {
+    "name": "PREMIUM BEACH VILLA",
+    "count": null,
+    "size_sqm": 45,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "SUPERIOR BUNGALOW",
+    "count": null,
+    "size_sqm": 40,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "BUNGALOW",
+    "count": 13,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "ROOMS EVEN NUMBERS BEACH VILLAS",
+    "count": 6,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   }
+  ]
  },
- "dining": [],
- "meal_plans": [],
- "all_inclusive_details": null,
+ "dining": [
+  {
+   "name": "Snack Bar",
+   "cuisine": null,
+   "type": "bar"
+  }
+ ],
+ "meal_plans": [
+  "AI"
+ ],
+ "all_inclusive_details": "all-inclusive drinks from 09:00 to midnight.",
  "spa": {
-  "name": null,
+  "name": "Spa",
   "treatment_rooms": null,
   "signature_treatments": [],
-  "menu_doc": null
+  "menu_doc": "https://www.summerislandmaldives.com/wp-content/uploads/2023/06/Serena-Spa-Menu-English.pdf"
  },
  "diving_watersports": {
-  "operator": null,
-  "house_reef": null,
-  "activities": [],
-  "price_list_doc": null
+  "operator": "Diverland",
+  "house_reef": "house reef or boat (boat trips extra),",
+  "activities": [
+   "snorkeling",
+   "kayaking",
+   "catamaran",
+   "fishing",
+   "sunset cruise",
+   "sailing",
+   "banana boat",
+   "fun tube",
+   "snorkelling",
+   "canoe",
+   "scuba diving",
+   "windsurfing",
+   "manta"
+  ],
+  "price_list_doc": "https://www.summerislandmaldives.com/wp-content/uploads/2023/06/Summer-Island-Maldives-Price-List-for-Diverland-Maldives.pdf"
  },
- "excursions": [],
+ "excursions": [
+  "island hopping",
+  "night fishing",
+  "picnic",
+  "local island",
+  "sandbank",
+  "sunset fishing",
+  "manta",
+  "turtle"
+ ],
  "kids_family": {
   "kids_club": null,
   "age_range": null,
   "teens": null
  },
- "wellness_fitness": [],
+ "wellness_fitness": [
+  "gym",
+  "fitness center",
+  "tennis",
+  "badminton",
+  "steam",
+  "yoga",
+  "meditation",
+  "ayurveda"
+ ],
  "weddings": {
-  "offered": null,
-  "vow_renewal": null,
+  "offered": true,
+  "vow_renewal": true,
   "venues": [],
   "packages": [],
   "brochure_doc": null
@@ -62,39 +146,1316 @@
   "buyout": null,
   "doc": null
  },
- "sustainability": [],
+ "sustainability": [
+  "solar",
+  "single-use plastic"
+ ],
  "contacts_public": {
-  "reservations_email": null,
+  "reservations_email": "info@summerislandmaldives.com",
   "weddings_email": null,
-  "phone": null
+  "phone": "+960 664 1949"
  },
  "documents_latest": {
-  "factsheet": null,
-  "map": null,
+  "factsheet": "https://www.summerislandmaldives.com/wp-content/uploads/2026/04/Summer-Island-Maldives-Fact-Sheet-2026-04.pdf",
+  "map": "https://maldives.ru/doc/static/Summer%20Island%20Maldives%20Map.pdf",
   "wedding": null,
-  "spa_menu": null,
-  "dining_menu": null,
-  "dive_prices": null,
+  "spa_menu": "https://www.summerislandmaldives.com/wp-content/uploads/2023/06/Serena-Spa-Menu-English.pdf",
+  "dining_menu": "https://www.summerislandmaldives.com/wp-content/uploads/2023/06/Summer-Cocktail-List.pdf",
+  "dive_prices": "https://www.summerislandmaldives.com/wp-content/uploads/2023/06/Summer-Island-Maldives-Price-List-for-Diverland-Maldives.pdf",
   "events": null,
-  "calendar": null
+  "calendar": "https://www.summerislandmaldives.com/blog/wp-content/uploads/sites/2/2023/12/Summer-Island-Maldives-Festive-Program-2023.pdf"
  },
- "documents_count": 0,
+ "documents_count": 20,
  "gaps": [
-  "factsheet",
   "wedding brochure",
   "events/MICE document",
-  "fact: villas.total",
-  "fact: villa categories",
-  "fact: dining",
-  "fact: transfer",
-  "fact: atoll",
-  "fact: spa",
-  "fact: dive operator",
-  "fact: kids club",
-  "fact: weddings",
-  "fact: contacts",
-  "no documents or pages collected"
+  "fact: kids club"
  ],
- "sources": {},
- "last_updated": "2026-10-04"
+ "sources": {
+  "island": [
+   {
+    "value": "Complimentary Wifi",
+    "source_url": "https://www.summerislandmaldives.com/wp-content/uploads/2026/04/Summer-Island-Maldives-Fact-Sheet-2026-04.pdf",
+    "as_of": 2026
+   }
+  ],
+  "transfer.modes": [
+   {
+    "value": "seaplane",
+    "source_url": "https://www.summerislandmaldives.com/wp-content/uploads/2026/04/Summer-Island-Maldives-Fact-Sheet-2026-04.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.summerislandmaldives.com/wp-content/uploads/2026/04/Summer-Island-Maldives-Fact-Sheet-2026-04.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.summerislandmaldives.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.summerislandmaldives.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.summerislandmaldives.com/blog/summer-island-maldives-and-equator-village-wins-prestigious-travel-awards/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.summerislandmaldives.com/the-island",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.summerislandmaldives.com/the-island",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.maldivesholidayoffers.com/blogs/blog-detail/summer-island-maldives-3d-reef-makes-its-way-to-the-guinness-list-of-world-records/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "transfer.minutes.seaplane": [
+   {
+    "value": 15,
+    "source_url": "https://www.summerislandmaldives.com/wp-content/uploads/2026/04/Summer-Island-Maldives-Fact-Sheet-2026-04.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": 15,
+    "source_url": "https://www.summerislandmaldives.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 15,
+    "source_url": "https://www.summerislandmaldives.com/the-island",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "transfer.minutes.speedboat": [
+   {
+    "value": 15,
+    "source_url": "https://www.summerislandmaldives.com/wp-content/uploads/2026/04/Summer-Island-Maldives-Fact-Sheet-2026-04.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": 15,
+    "source_url": "https://www.summerislandmaldives.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 45,
+    "source_url": "https://www.summerislandmaldives.com/blog/summer-island-maldives-and-equator-village-wins-prestigious-travel-awards/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 15,
+    "source_url": "https://www.summerislandmaldives.com/the-island",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 40,
+    "source_url": "https://www.maldivesholidayoffers.com/blogs/blog-detail/summer-island-maldives-3d-reef-makes-its-way-to-the-guinness-list-of-world-records/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "villas.total": [
+   {
+    "value": 30,
+    "source_url": "https://www.summerislandmaldives.com/wp-content/uploads/2026/04/Summer-Island-Maldives-Fact-Sheet-2026-04.pdf",
+    "as_of": 2026
+   }
+  ],
+  "villas.categories": [
+   {
+    "value": {
+     "name": "WATER VILLA",
+     "count": null,
+     "size_sqm": 45,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": true
+    },
+    "source_url": "https://www.summerislandmaldives.com/wp-content/uploads/2026/04/Summer-Island-Maldives-Fact-Sheet-2026-04.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": {
+     "name": "PREMIUM BEACH VILLA",
+     "count": null,
+     "size_sqm": 45,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://www.summerislandmaldives.com/wp-content/uploads/2026/04/Summer-Island-Maldives-Fact-Sheet-2026-04.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": {
+     "name": "SUPERIOR BUNGALOW",
+     "count": null,
+     "size_sqm": 40,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://www.summerislandmaldives.com/wp-content/uploads/2026/04/Summer-Island-Maldives-Fact-Sheet-2026-04.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": {
+     "name": "BUNGALOW",
+     "count": 13,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://maldives.ru/doc/static/Summer%20Island%20Maldives%20Map.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": {
+     "name": "ROOMS EVEN NUMBERS BEACH VILLAS",
+     "count": 6,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://maldives.ru/doc/static/Summer%20Island%20Maldives%20Map.pdf",
+    "as_of": 2025
+   }
+  ],
+  "meal_plans": [
+   {
+    "value": "AI",
+    "source_url": "https://www.summerislandmaldives.com/wp-content/uploads/2026/04/Summer-Island-Maldives-Fact-Sheet-2026-04.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "AI",
+    "source_url": "https://www.summerislandmaldives.com/wine-dine/nevi",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://www.summerislandmaldives.com/wine-dine",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://www.summerislandmaldives.com/wine-dine/hiya",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://www.summerislandmaldives.com/wine-dine/baraveli",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://www.summerislandmaldives.com/wine-dine/avi",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "all_inclusive_details": [
+   {
+    "value": "all-inclusive drinks from 09:00 to midnight.",
+    "source_url": "https://www.summerislandmaldives.com/wp-content/uploads/2026/04/Summer-Island-Maldives-Fact-Sheet-2026-04.pdf",
+    "as_of": 2026
+   }
+  ],
+  "spa.name": [
+   {
+    "value": "Spa",
+    "source_url": "https://www.summerislandmaldives.com/wp-content/uploads/2026/04/Summer-Island-Maldives-Fact-Sheet-2026-04.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "Min\nSpa",
+    "source_url": "https://www.summerislandmaldives.com/wp-content/uploads/2023/06/Serena-Spa-Menu-English.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": "Serena Spa",
+    "source_url": "https://www.summerislandmaldives.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Water Sports\nOverwater Spa",
+    "source_url": "https://www.summerislandmaldives.com/the-island",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Serena Spa",
+    "source_url": "https://www.summerislandmaldives.com/fr/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Serena Spa",
+    "source_url": "https://www.summerislandmaldives.com/ru/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Serena Spa",
+    "source_url": "https://www.summerislandmaldives.com/de/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "diving_watersports.activities": [
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.summerislandmaldives.com/wp-content/uploads/2026/04/Summer-Island-Maldives-Fact-Sheet-2026-04.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "kayaking",
+    "source_url": "https://www.summerislandmaldives.com/wp-content/uploads/2026/04/Summer-Island-Maldives-Fact-Sheet-2026-04.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "catamaran",
+    "source_url": "https://www.summerislandmaldives.com/wp-content/uploads/2026/04/Summer-Island-Maldives-Fact-Sheet-2026-04.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.summerislandmaldives.com/wp-content/uploads/2026/04/Summer-Island-Maldives-Fact-Sheet-2026-04.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.summerislandmaldives.com/wp-content/uploads/2026/04/Summer-Island-Maldives-Fact-Sheet-2026-04.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "sailing",
+    "source_url": "https://www.summerislandmaldives.com/wp-content/uploads/2026/04/Summer-Island-Maldives-Fact-Sheet-2026-04.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "banana boat",
+    "source_url": "https://www.summerislandmaldives.com/wp-content/uploads/2026/04/Summer-Island-Maldives-Fact-Sheet-2026-04.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "fun tube",
+    "source_url": "https://www.summerislandmaldives.com/wp-content/uploads/2026/04/Summer-Island-Maldives-Fact-Sheet-2026-04.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.summerislandmaldives.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "canoe",
+    "source_url": "https://www.summerislandmaldives.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.summerislandmaldives.com/dive-discover",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://www.summerislandmaldives.com/dive-discover",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "windsurfing",
+    "source_url": "https://www.summerislandmaldives.com/dive-discover",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "kayaking",
+    "source_url": "https://www.summerislandmaldives.com/dive-discover",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "catamaran",
+    "source_url": "https://www.summerislandmaldives.com/dive-discover",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fun tube",
+    "source_url": "https://www.summerislandmaldives.com/dive-discover",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "canoe",
+    "source_url": "https://www.summerislandmaldives.com/dive-discover",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.summerislandmaldives.com/experiences/sundown-sailboat",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.summerislandmaldives.com/romance/renewal-of-vows",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.summerislandmaldives.com/dive-discover/water-ski",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://www.summerislandmaldives.com/dive-discover/water-ski",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "windsurfing",
+    "source_url": "https://www.summerislandmaldives.com/dive-discover/water-ski",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "kayaking",
+    "source_url": "https://www.summerislandmaldives.com/dive-discover/water-ski",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "catamaran",
+    "source_url": "https://www.summerislandmaldives.com/dive-discover/water-ski",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fun tube",
+    "source_url": "https://www.summerislandmaldives.com/dive-discover/water-ski",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.summerislandmaldives.com/experiences/dj-and-music",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.summerislandmaldives.com/dive-discover/fun-tube",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://www.summerislandmaldives.com/dive-discover/fun-tube",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "windsurfing",
+    "source_url": "https://www.summerislandmaldives.com/dive-discover/fun-tube",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "kayaking",
+    "source_url": "https://www.summerislandmaldives.com/dive-discover/fun-tube",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "catamaran",
+    "source_url": "https://www.summerislandmaldives.com/dive-discover/fun-tube",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fun tube",
+    "source_url": "https://www.summerislandmaldives.com/dive-discover/fun-tube",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.summerislandmaldives.com/experiences/maldivian-life",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.summerislandmaldives.com/experiences/summer-nights",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.summerislandmaldives.com/experiences/beach-bbq",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.summerislandmaldives.com/experiences/touring-male",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.summerislandmaldives.com/experiences",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.summerislandmaldives.com/experiences/angling-adventure",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.summerislandmaldives.com/dive-discover/jetski",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://www.summerislandmaldives.com/dive-discover/jetski",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "windsurfing",
+    "source_url": "https://www.summerislandmaldives.com/dive-discover/jetski",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "kayaking",
+    "source_url": "https://www.summerislandmaldives.com/dive-discover/jetski",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "catamaran",
+    "source_url": "https://www.summerislandmaldives.com/dive-discover/jetski",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fun tube",
+    "source_url": "https://www.summerislandmaldives.com/dive-discover/jetski",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.summerislandmaldives.com/dive-discover/paddle-boarding",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://www.summerislandmaldives.com/dive-discover/paddle-boarding",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "windsurfing",
+    "source_url": "https://www.summerislandmaldives.com/dive-discover/paddle-boarding",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "kayaking",
+    "source_url": "https://www.summerislandmaldives.com/dive-discover/paddle-boarding",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "catamaran",
+    "source_url": "https://www.summerislandmaldives.com/dive-discover/paddle-boarding",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fun tube",
+    "source_url": "https://www.summerislandmaldives.com/dive-discover/paddle-boarding",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.summerislandmaldives.com/experiences/sunset-fishing",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.summerislandmaldives.com/dive-discover/snorkeling",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://www.summerislandmaldives.com/dive-discover/snorkeling",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "windsurfing",
+    "source_url": "https://www.summerislandmaldives.com/dive-discover/snorkeling",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "kayaking",
+    "source_url": "https://www.summerislandmaldives.com/dive-discover/snorkeling",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "catamaran",
+    "source_url": "https://www.summerislandmaldives.com/dive-discover/snorkeling",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fun tube",
+    "source_url": "https://www.summerislandmaldives.com/dive-discover/snorkeling",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.summerislandmaldives.com/sitemap",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://www.summerislandmaldives.com/sitemap",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "windsurfing",
+    "source_url": "https://www.summerislandmaldives.com/sitemap",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "kayaking",
+    "source_url": "https://www.summerislandmaldives.com/sitemap",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "catamaran",
+    "source_url": "https://www.summerislandmaldives.com/sitemap",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.summerislandmaldives.com/sitemap",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fun tube",
+    "source_url": "https://www.summerislandmaldives.com/sitemap",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.summerislandmaldives.com/dive-discover/catamaran",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://www.summerislandmaldives.com/dive-discover/catamaran",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "windsurfing",
+    "source_url": "https://www.summerislandmaldives.com/dive-discover/catamaran",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "kayaking",
+    "source_url": "https://www.summerislandmaldives.com/dive-discover/catamaran",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "catamaran",
+    "source_url": "https://www.summerislandmaldives.com/dive-discover/catamaran",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fun tube",
+    "source_url": "https://www.summerislandmaldives.com/dive-discover/catamaran",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.summerislandmaldives.com/experiences/sparkle-on-the-sandbank",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.summerislandmaldives.com/experiences/jazzing-it-up",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.summerislandmaldives.com/experiences/bubbly-breakfast",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.summerislandmaldives.com/dive-discover/kayaking",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://www.summerislandmaldives.com/dive-discover/kayaking",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "windsurfing",
+    "source_url": "https://www.summerislandmaldives.com/dive-discover/kayaking",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "kayaking",
+    "source_url": "https://www.summerislandmaldives.com/dive-discover/kayaking",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "catamaran",
+    "source_url": "https://www.summerislandmaldives.com/dive-discover/kayaking",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fun tube",
+    "source_url": "https://www.summerislandmaldives.com/dive-discover/kayaking",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.summerislandmaldives.com/dive-discover/scuba-diving",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://www.summerislandmaldives.com/dive-discover/scuba-diving",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "windsurfing",
+    "source_url": "https://www.summerislandmaldives.com/dive-discover/scuba-diving",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "kayaking",
+    "source_url": "https://www.summerislandmaldives.com/dive-discover/scuba-diving",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "catamaran",
+    "source_url": "https://www.summerislandmaldives.com/dive-discover/scuba-diving",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.summerislandmaldives.com/dive-discover/scuba-diving",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fun tube",
+    "source_url": "https://www.summerislandmaldives.com/dive-discover/scuba-diving",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.summerislandmaldives.com/experiences/boduberu",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.summerislandmaldives.com/dive-discover/windsurfing",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://www.summerislandmaldives.com/dive-discover/windsurfing",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "windsurfing",
+    "source_url": "https://www.summerislandmaldives.com/dive-discover/windsurfing",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "kayaking",
+    "source_url": "https://www.summerislandmaldives.com/dive-discover/windsurfing",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "catamaran",
+    "source_url": "https://www.summerislandmaldives.com/dive-discover/windsurfing",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fun tube",
+    "source_url": "https://www.summerislandmaldives.com/dive-discover/windsurfing",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "excursions": [
+   {
+    "value": "island hopping",
+    "source_url": "https://www.summerislandmaldives.com/wp-content/uploads/2026/04/Summer-Island-Maldives-Fact-Sheet-2026-04.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "night fishing",
+    "source_url": "https://www.summerislandmaldives.com/wp-content/uploads/2026/04/Summer-Island-Maldives-Fact-Sheet-2026-04.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "picnic",
+    "source_url": "https://www.summerislandmaldives.com/wp-content/uploads/2026/04/Summer-Island-Maldives-Fact-Sheet-2026-04.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "local island",
+    "source_url": "https://www.summerislandmaldives.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.summerislandmaldives.com/romance",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "picnic",
+    "source_url": "https://www.summerislandmaldives.com/romance",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "local island",
+    "source_url": "https://www.summerislandmaldives.com/experiences/sundown-sailboat",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.summerislandmaldives.com/experiences/sundown-sailboat",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset fishing",
+    "source_url": "https://www.summerislandmaldives.com/experiences/sundown-sailboat",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "picnic",
+    "source_url": "https://www.summerislandmaldives.com/experiences/sundown-sailboat",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "local island",
+    "source_url": "https://www.summerislandmaldives.com/experiences/dj-and-music",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.summerislandmaldives.com/experiences/dj-and-music",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset fishing",
+    "source_url": "https://www.summerislandmaldives.com/experiences/dj-and-music",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "picnic",
+    "source_url": "https://www.summerislandmaldives.com/experiences/dj-and-music",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "local island",
+    "source_url": "https://www.summerislandmaldives.com/experiences/maldivian-life",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.summerislandmaldives.com/experiences/maldivian-life",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset fishing",
+    "source_url": "https://www.summerislandmaldives.com/experiences/maldivian-life",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "picnic",
+    "source_url": "https://www.summerislandmaldives.com/experiences/maldivian-life",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "local island",
+    "source_url": "https://www.summerislandmaldives.com/experiences/summer-nights",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.summerislandmaldives.com/experiences/summer-nights",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset fishing",
+    "source_url": "https://www.summerislandmaldives.com/experiences/summer-nights",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "picnic",
+    "source_url": "https://www.summerislandmaldives.com/experiences/summer-nights",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "local island",
+    "source_url": "https://www.summerislandmaldives.com/experiences/beach-bbq",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.summerislandmaldives.com/experiences/beach-bbq",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset fishing",
+    "source_url": "https://www.summerislandmaldives.com/experiences/beach-bbq",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "picnic",
+    "source_url": "https://www.summerislandmaldives.com/experiences/beach-bbq",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "local island",
+    "source_url": "https://www.summerislandmaldives.com/experiences/touring-male",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.summerislandmaldives.com/experiences/touring-male",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset fishing",
+    "source_url": "https://www.summerislandmaldives.com/experiences/touring-male",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "picnic",
+    "source_url": "https://www.summerislandmaldives.com/experiences/touring-male",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "local island",
+    "source_url": "https://www.summerislandmaldives.com/experiences",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.summerislandmaldives.com/experiences",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset fishing",
+    "source_url": "https://www.summerislandmaldives.com/experiences",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "picnic",
+    "source_url": "https://www.summerislandmaldives.com/experiences",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "local island",
+    "source_url": "https://www.summerislandmaldives.com/experiences/angling-adventure",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.summerislandmaldives.com/experiences/angling-adventure",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset fishing",
+    "source_url": "https://www.summerislandmaldives.com/experiences/angling-adventure",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "picnic",
+    "source_url": "https://www.summerislandmaldives.com/experiences/angling-adventure",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "local island",
+    "source_url": "https://www.summerislandmaldives.com/experiences/sunset-fishing",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.summerislandmaldives.com/experiences/sunset-fishing",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset fishing",
+    "source_url": "https://www.summerislandmaldives.com/experiences/sunset-fishing",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "picnic",
+    "source_url": "https://www.summerislandmaldives.com/experiences/sunset-fishing",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.summerislandmaldives.com/sitemap",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset fishing",
+    "source_url": "https://www.summerislandmaldives.com/sitemap",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "local island",
+    "source_url": "https://www.summerislandmaldives.com/experiences/sparkle-on-the-sandbank",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.summerislandmaldives.com/experiences/sparkle-on-the-sandbank",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset fishing",
+    "source_url": "https://www.summerislandmaldives.com/experiences/sparkle-on-the-sandbank",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "local island",
+    "source_url": "https://www.summerislandmaldives.com/experiences/jazzing-it-up",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.summerislandmaldives.com/experiences/jazzing-it-up",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset fishing",
+    "source_url": "https://www.summerislandmaldives.com/experiences/jazzing-it-up",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "picnic",
+    "source_url": "https://www.summerislandmaldives.com/experiences/jazzing-it-up",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "local island",
+    "source_url": "https://www.summerislandmaldives.com/experiences/bubbly-breakfast",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.summerislandmaldives.com/experiences/bubbly-breakfast",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset fishing",
+    "source_url": "https://www.summerislandmaldives.com/experiences/bubbly-breakfast",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "picnic",
+    "source_url": "https://www.summerislandmaldives.com/experiences/bubbly-breakfast",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.summerislandmaldives.com/romance/sparkle-on-the-sandbank",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.summerislandmaldives.com/dive-discover/scuba-diving",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.summerislandmaldives.com/dive-discover/scuba-diving",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "local island",
+    "source_url": "https://www.summerislandmaldives.com/experiences/boduberu",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.summerislandmaldives.com/experiences/boduberu",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset fishing",
+    "source_url": "https://www.summerislandmaldives.com/experiences/boduberu",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "picnic",
+    "source_url": "https://www.summerislandmaldives.com/experiences/boduberu",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "wellness_fitness": [
+   {
+    "value": "gym",
+    "source_url": "https://www.summerislandmaldives.com/wp-content/uploads/2026/04/Summer-Island-Maldives-Fact-Sheet-2026-04.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "fitness center",
+    "source_url": "https://www.summerislandmaldives.com/wp-content/uploads/2026/04/Summer-Island-Maldives-Fact-Sheet-2026-04.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://www.summerislandmaldives.com/wp-content/uploads/2026/04/Summer-Island-Maldives-Fact-Sheet-2026-04.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "badminton",
+    "source_url": "https://www.summerislandmaldives.com/wp-content/uploads/2026/04/Summer-Island-Maldives-Fact-Sheet-2026-04.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "steam",
+    "source_url": "https://www.summerislandmaldives.com/wp-content/uploads/2026/04/Summer-Island-Maldives-Fact-Sheet-2026-04.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.summerislandmaldives.com/wp-content/uploads/2023/06/Serena-Spa-Menu-English.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": "meditation",
+    "source_url": "https://www.summerislandmaldives.com/wp-content/uploads/2023/06/Serena-Spa-Menu-English.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": "ayurveda",
+    "source_url": "https://www.summerislandmaldives.com/wp-content/uploads/2023/06/Serena-Spa-Menu-English.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": "steam",
+    "source_url": "https://www.summerislandmaldives.com/wp-content/uploads/2023/06/InVilla_pg2.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": "gym",
+    "source_url": "https://maldives.ru/doc/static/Summer%20Island%20Maldives%20Map.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.summerislandmaldives.com/spa-wellness",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "ayurveda",
+    "source_url": "https://www.summerislandmaldives.com/spa-wellness",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "gym",
+    "source_url": "https://www.summerislandmaldives.com/the-island",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "gym",
+    "source_url": "https://www.summerislandmaldives.com/privacy-policy",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "weddings.offered": [
+   {
+    "value": true,
+    "source_url": "https://www.summerislandmaldives.com/wp-content/uploads/2026/04/Summer-Island-Maldives-Fact-Sheet-2026-04.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": true,
+    "source_url": "https://www.summerislandmaldives.com/romance",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.summerislandmaldives.com/romance/renewal-of-vows",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.summerislandmaldives.com/romance/renewal-of-vows",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.summerislandmaldives.com/romance/sand-and-stars-dinner",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.summerislandmaldives.com/romance/underwater-love-lock",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.summerislandmaldives.com/blog/2023/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.summerislandmaldives.com/romance/honeymoon",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.summerislandmaldives.com/romance/honeymoon",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.summerislandmaldives.com/blog/celebrate-the-season-natures-embrace-and-timeless-traditions/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.summerislandmaldives.com/romance/sundown-sailboat",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.summerislandmaldives.com/romance/sparkle-on-the-sandbank",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "contacts_public.reservations_email": [
+   {
+    "value": "info@summerislandmaldives.com",
+    "source_url": "https://www.summerislandmaldives.com/wp-content/uploads/2026/04/Summer-Island-Maldives-Fact-Sheet-2026-04.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "info@diverland.com",
+    "source_url": "https://www.summerislandmaldives.com/wp-content/uploads/2023/06/Summer-Island-Maldives-Price-List-for-Diverland-Maldives.pdf",
+    "as_of": 2023
+   }
+  ],
+  "contacts_public.phone": [
+   {
+    "value": "+960 664 1949",
+    "source_url": "https://www.summerislandmaldives.com/wp-content/uploads/2026/04/Summer-Island-Maldives-Fact-Sheet-2026-04.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "+960 777 11 57",
+    "source_url": "https://www.summerislandmaldives.com/wp-content/uploads/2023/06/Summer-Island-Maldives-Price-List-for-Diverland-Maldives.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": "+960 332 2212",
+    "source_url": "https://www.summerislandmaldives.com/privacy-policy",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "diving_watersports.house_reef": [
+   {
+    "value": "house reef or boat (boat trips extra),",
+    "source_url": "https://www.summerislandmaldives.com/wp-content/uploads/2023/06/Summer-Island-Maldives-Price-List-for-Diverland-Maldives.pdf",
+    "as_of": 2023
+   }
+  ],
+  "weddings.vow_renewal": [
+   {
+    "value": true,
+    "source_url": "https://www.summerislandmaldives.com/romance",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.summerislandmaldives.com/romance/renewal-of-vows",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.summerislandmaldives.com/sitemap",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "dining": [
+   {
+    "value": {
+     "name": "Snack Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.summerislandmaldives.com/rooms-and-villas/premium-beach-villa",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Snack Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.summerislandmaldives.com/rooms-and-villas/the-summer-house",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Snack Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.summerislandmaldives.com/rooms-and-villas/water-villa",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "atoll": [
+   {
+    "value": "North Malé Atoll",
+    "source_url": "https://www.summerislandmaldives.com/blog/summer-island-maldives-and-equator-village-wins-prestigious-travel-awards/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "North Malé Atoll",
+    "source_url": "https://www.summerislandmaldives.com/blog/saying-goodbye-to-mosquitoes-the-eco-friendly-way/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "North Malé Atoll",
+    "source_url": "https://www.summerislandmaldives.com/blog/category/achievements/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "North Malé Atoll",
+    "source_url": "https://www.summerislandmaldives.com/blog/celebrate-the-season-natures-embrace-and-timeless-traditions/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "sustainability": [
+   {
+    "value": "solar",
+    "source_url": "https://www.summerislandmaldives.com/blog/summer-island-maldives-and-equator-village-wins-prestigious-travel-awards/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "single-use plastic",
+    "source_url": "https://www.summerislandmaldives.com/blog/summer-island-maldives-and-equator-village-wins-prestigious-travel-awards/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "solar",
+    "source_url": "https://www.summerislandmaldives.com/sustainability",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "diving_watersports.operator": [
+   {
+    "value": "Diverland",
+    "source_url": "https://www.summerislandmaldives.com/media-downloads",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Diverland",
+    "source_url": "https://www.summerislandmaldives.com/dive-discover/scuba-diving",
+    "as_of": "2026-10-04"
+   }
+  ]
+ },
+ "last_updated": "2026-10-05"
 }

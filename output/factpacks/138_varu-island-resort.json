@@ -7,8 +7,8 @@
   "Varu Island",
   "Varu"
  ],
- "official_url": null,
- "official_site_status": null,
+ "official_url": "https://www.varu-atmosphere.com/",
+ "official_site_status": "blocked-partial",
  "operator_brand": "Atmosphere",
  "atoll": "North Malé Atoll",
  "island": null,
@@ -20,7 +20,7 @@
   ],
   "minutes": {
    "seaplane": null,
-   "speedboat": 40,
+   "speedboat": 45,
    "domestic flight": null,
    "yacht": null
   }
@@ -113,14 +113,9 @@
  },
  "dining": [
   {
-   "name": "Dining",
+   "name": "An Overwater Cellar Unlike Anything Else",
    "cuisine": null,
-   "type": "restaurant"
-  },
-  {
-   "name": "Specialty Dining Outlets",
-   "cuisine": null,
-   "type": "restaurant"
+   "type": "bar"
   }
  ],
  "meal_plans": [
@@ -140,21 +135,23 @@
    "snorkelling",
    "snorkeling",
    "canoe",
+   "manta",
    "kayaking",
    "paddleboard",
    "jet ski",
    "fishing",
    "dolphin cruise",
-   "manta",
    "banana boat"
   ],
   "price_list_doc": null
  },
  "excursions": [
-  "local island",
   "dolphin",
+  "manta",
+  "turtle",
+  "local island",
   "sunset fishing",
-  "manta"
+  "cooking class"
  ],
  "kids_family": {
   "kids_club": "Speedboat\nKids Club",
@@ -174,7 +171,9 @@
  "weddings": {
   "offered": true,
   "vow_renewal": true,
-  "venues": [],
+  "venues": [
+   "E WATER SUITE K KAAGÉ - MALDIVIAN RESTAURANT Q WEDDING PAVILION"
+  ],
   "packages": [],
   "brochure_doc": null
  },
@@ -192,7 +191,7 @@
  },
  "documents_latest": {
   "factsheet": null,
-  "map": "https://www.neoscapesmaldives.com/wp-content/uploads/Map-VARU-by-Atmosphere.pdf",
+  "map": "https://ahr-ucmsapi.atmospherehotelsandresorts.com/AHR/images/section_2479697049a-05b7-47f4-9abb-ec9886ed7178file.pdf.pdf",
   "wedding": null,
   "spa_menu": null,
   "dining_menu": null,
@@ -200,7 +199,7 @@
   "events": null,
   "calendar": null
  },
- "documents_count": 2,
+ "documents_count": 3,
  "gaps": [
   "factsheet",
   "wedding brochure",
@@ -215,7 +214,17 @@
    },
    {
     "value": "North Malé Atoll",
+    "source_url": "https://www.varu-atmosphere.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "North Malé Atoll",
     "source_url": "https://www.neoscapesmaldives.com/resort/varu-by-atmosphere/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "North Malé Atoll",
+    "source_url": "https://visitmaldives.com/en/experience/a-taste-of-the-maldives-inside-kaags-progressive-maldivian-cookbook-at-varu-by-atmosphere",
     "as_of": "2026-10-04"
    }
   ],
@@ -234,7 +243,17 @@
    },
    {
     "value": "speedboat",
+    "source_url": "https://www.varu-atmosphere.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
     "source_url": "https://www.neoscapesmaldives.com/resort/varu-by-atmosphere/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://visitmaldives.com/en/experience/a-taste-of-the-maldives-inside-kaags-progressive-maldivian-cookbook-at-varu-by-atmosphere",
     "as_of": "2026-10-04"
    }
   ],
@@ -245,8 +264,18 @@
     "as_of": 2019
    },
    {
+    "value": 45,
+    "source_url": "https://www.varu-atmosphere.com/",
+    "as_of": "2026-10-04"
+   },
+   {
     "value": 40,
     "source_url": "https://www.neoscapesmaldives.com/resort/varu-by-atmosphere/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 45,
+    "source_url": "https://visitmaldives.com/en/experience/a-taste-of-the-maldives-inside-kaags-progressive-maldivian-cookbook-at-varu-by-atmosphere",
     "as_of": "2026-10-04"
    }
   ],
@@ -420,6 +449,11 @@
     "as_of": 2019
    },
    {
+    "value": "manta",
+    "source_url": "https://ahr-ucmsapi.atmospherehotelsandresorts.com/AHR/images/section_2479697049a-05b7-47f4-9abb-ec9886ed7178file.pdf.pdf",
+    "as_of": 2026
+   },
+   {
     "value": "snorkelling",
     "source_url": "https://www.neoscapesmaldives.com/resort/varu-by-atmosphere/",
     "as_of": "2026-10-04"
@@ -490,8 +524,8 @@
    },
    {
     "value": "gym",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Map-VARU-by-Atmosphere.pdf",
-    "as_of": 2019
+    "source_url": "https://ahr-ucmsapi.atmospherehotelsandresorts.com/AHR/images/section_2479697049a-05b7-47f4-9abb-ec9886ed7178file.pdf.pdf",
+    "as_of": 2026
    },
    {
     "value": "yoga",
@@ -542,8 +576,8 @@
    },
    {
     "value": true,
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Map-VARU-by-Atmosphere.pdf",
-    "as_of": 2019
+    "source_url": "https://ahr-ucmsapi.atmospherehotelsandresorts.com/AHR/images/section_2479697049a-05b7-47f4-9abb-ec9886ed7178file.pdf.pdf",
+    "as_of": 2026
    },
    {
     "value": true,
@@ -551,38 +585,69 @@
     "as_of": "2026-10-04"
    }
   ],
-  "island_size": [
+  "excursions": [
    {
-    "value": "530 m x 220 m",
+    "value": "dolphin",
+    "source_url": "https://ahr-ucmsapi.atmospherehotelsandresorts.com/AHR/images/section_2479697049a-05b7-47f4-9abb-ec9886ed7178file.pdf.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "manta",
+    "source_url": "https://ahr-ucmsapi.atmospherehotelsandresorts.com/AHR/images/section_2479697049a-05b7-47f4-9abb-ec9886ed7178file.pdf.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://ahr-ucmsapi.atmospherehotelsandresorts.com/AHR/images/section_2479697049a-05b7-47f4-9abb-ec9886ed7178file.pdf.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "local island",
     "source_url": "https://www.neoscapesmaldives.com/resort/varu-by-atmosphere/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.neoscapesmaldives.com/resort/varu-by-atmosphere/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset fishing",
+    "source_url": "https://www.neoscapesmaldives.com/resort/varu-by-atmosphere/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.neoscapesmaldives.com/resort/varu-by-atmosphere/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "cooking class",
+    "source_url": "https://visitmaldives.com/en/experience/a-taste-of-the-maldives-inside-kaags-progressive-maldivian-cookbook-at-varu-by-atmosphere",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "weddings.venues": [
+   {
+    "value": "E WATER SUITE K KAAGÉ - MALDIVIAN RESTAURANT Q WEDDING PAVILION",
+    "source_url": "https://ahr-ucmsapi.atmospherehotelsandresorts.com/AHR/images/section_2479697049a-05b7-47f4-9abb-ec9886ed7178file.pdf.pdf",
+    "as_of": 2026
    }
   ],
   "dining": [
    {
     "value": {
-     "name": "Dining",
+     "name": "An Overwater Cellar Unlike Anything Else",
      "cuisine": null,
-     "type": "restaurant"
+     "type": "bar"
     },
-    "source_url": "https://www.neoscapesmaldives.com/resort/varu-by-atmosphere/",
+    "source_url": "https://www.varu-atmosphere.com/",
     "as_of": "2026-10-04"
-   },
+   }
+  ],
+  "island_size": [
    {
-    "value": {
-     "name": "Dining",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/varu-by-atmosphere/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Specialty Dining Outlets",
-     "cuisine": null,
-     "type": "restaurant"
-    },
+    "value": "530 m x 220 m",
     "source_url": "https://www.neoscapesmaldives.com/resort/varu-by-atmosphere/",
     "as_of": "2026-10-04"
    }
@@ -604,28 +669,6 @@
   "diving_watersports.operator": [
    {
     "value": "Dive Centre",
-    "source_url": "https://www.neoscapesmaldives.com/resort/varu-by-atmosphere/",
-    "as_of": "2026-10-04"
-   }
-  ],
-  "excursions": [
-   {
-    "value": "local island",
-    "source_url": "https://www.neoscapesmaldives.com/resort/varu-by-atmosphere/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": "dolphin",
-    "source_url": "https://www.neoscapesmaldives.com/resort/varu-by-atmosphere/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": "sunset fishing",
-    "source_url": "https://www.neoscapesmaldives.com/resort/varu-by-atmosphere/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": "manta",
     "source_url": "https://www.neoscapesmaldives.com/resort/varu-by-atmosphere/",
     "as_of": "2026-10-04"
    }
@@ -652,5 +695,5 @@
    }
   ]
  },
- "last_updated": "2026-10-04"
+ "last_updated": "2026-10-05"
 }

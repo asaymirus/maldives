@@ -7,8 +7,8 @@
   "Standard Maldives",
   "Huruvalhi"
  ],
- "official_url": null,
- "official_site_status": null,
+ "official_url": "https://www.standardhotels.com/maldives/properties/huruvalhi",
+ "official_site_status": "blocked",
  "operator_brand": "Standard",
  "atoll": "Raa Atoll",
  "island": null,
@@ -88,6 +88,78 @@
     "overwater": null
    },
    {
+    "name": "Embudu Village A",
+    "count": 22,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "Equator Village A",
+    "count": 23,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "Mookai Suites A",
+    "count": 26,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "Lu South Ari Atoll Resort & Villas A",
+    "count": 31,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "Amilla Maldives Resort & Residences D",
+    "count": 120,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "Residence Maldives D",
+    "count": 122,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "The Residence Maldives at Dhigurah D",
+    "count": 123,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "TME Retreats Dhigurah E",
+    "count": 131,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "Villa Nautica E . Paradise Island Resort E",
+    "count": 143,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
     "name": "Villas",
     "count": 115,
     "size_sqm": null,
@@ -120,14 +192,24 @@
    "type": "bar"
   },
   {
-   "name": "Destination Dining",
+   "name": "Lounge Lounge",
    "cuisine": null,
-   "type": "restaurant"
+   "type": "bar"
   },
   {
-   "name": "Dining",
+   "name": "Lounge",
    "cuisine": null,
-   "type": "restaurant"
+   "type": "bar"
+  },
+  {
+   "name": "Arrival Lounge",
+   "cuisine": null,
+   "type": "bar"
+  },
+  {
+   "name": "No Hotel Name Arr Lounge",
+   "cuisine": null,
+   "type": "bar"
   },
   {
    "name": "Joos Café",
@@ -223,7 +305,7 @@
  },
  "documents_latest": {
   "factsheet": "https://www.neoscapesmaldives.com/wp-content/uploads/STMV_Factsheet__Eng-.pdf",
-  "map": "https://www.neoscapesmaldives.com/wp-content/uploads/The-Standard-Huruvalhi-Maldives-RESORT-MAP.pdf",
+  "map": "https://maldives.ru/doc/airport-new-counters-map-2023-1.pdf",
   "wedding": null,
   "spa_menu": null,
   "dining_menu": null,
@@ -231,7 +313,7 @@
   "events": null,
   "calendar": null
  },
- "documents_count": 2,
+ "documents_count": 4,
  "gaps": [
   "wedding brochure",
   "events/MICE document",
@@ -243,6 +325,11 @@
     "value": "Raa Atoll",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/STMV_Factsheet__Eng-.pdf",
     "as_of": 2025
+   },
+   {
+    "value": "Ari Atoll",
+    "source_url": "https://maldives.ru/doc/airport-new-counters-map-2023-1.pdf",
+    "as_of": 2023
    },
    {
     "value": "Raa Atoll",
@@ -349,6 +436,114 @@
    },
    {
     "value": {
+     "name": "Embudu Village A",
+     "count": 22,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://maldives.ru/doc/airport-new-counters-map-2023-1.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": {
+     "name": "Equator Village A",
+     "count": 23,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://maldives.ru/doc/airport-new-counters-map-2023-1.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": {
+     "name": "Mookai Suites A",
+     "count": 26,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://maldives.ru/doc/airport-new-counters-map-2023-1.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": {
+     "name": "Lu South Ari Atoll Resort & Villas A",
+     "count": 31,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://maldives.ru/doc/airport-new-counters-map-2023-1.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": {
+     "name": "Amilla Maldives Resort & Residences D",
+     "count": 120,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://maldives.ru/doc/airport-new-counters-map-2023-1.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": {
+     "name": "Residence Maldives D",
+     "count": 122,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://maldives.ru/doc/airport-new-counters-map-2023-1.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": {
+     "name": "The Residence Maldives at Dhigurah D",
+     "count": 123,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://maldives.ru/doc/airport-new-counters-map-2023-1.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": {
+     "name": "TME Retreats Dhigurah E",
+     "count": 131,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://maldives.ru/doc/airport-new-counters-map-2023-1.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": {
+     "name": "Villa Nautica E . Paradise Island Resort E",
+     "count": 143,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://maldives.ru/doc/airport-new-counters-map-2023-1.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": {
      "name": "Villas",
      "count": 115,
      "size_sqm": null,
@@ -396,30 +591,48 @@
    },
    {
     "value": {
-     "name": "Destination Dining",
+     "name": "Lounge Lounge",
      "cuisine": null,
-     "type": "restaurant"
+     "type": "bar"
     },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/STMV_Factsheet__Eng-.pdf",
-    "as_of": 2025
+    "source_url": "https://maldives.ru/doc/airport-new-counters-map-2023-1.pdf",
+    "as_of": 2023
    },
    {
     "value": {
-     "name": "Dining",
+     "name": "Lounge",
      "cuisine": null,
-     "type": "restaurant"
+     "type": "bar"
     },
-    "source_url": "https://www.neoscapesmaldives.com/resort/the-standard-huruvalhi-maldives/",
-    "as_of": "2026-10-04"
+    "source_url": "https://maldives.ru/doc/airport-new-counters-map-2023-1.pdf",
+    "as_of": 2023
    },
    {
     "value": {
-     "name": "Dining",
+     "name": "Lounge",
      "cuisine": null,
-     "type": "restaurant"
+     "type": "bar"
     },
-    "source_url": "https://www.neoscapesmaldives.com/resort/the-standard-huruvalhi-maldives/",
-    "as_of": "2026-10-04"
+    "source_url": "https://maldives.ru/doc/airport-new-counters-map-2023-1.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": {
+     "name": "Arrival Lounge",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://maldives.ru/doc/airport-new-counters-map-2023-1.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": {
+     "name": "No Hotel Name Arr Lounge",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://maldives.ru/doc/airport-new-counters-map-2023-1.pdf",
+    "as_of": 2023
    },
    {
     "value": {
@@ -463,6 +676,11 @@
     "value": "The Standard Spa",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/STMV_Factsheet__Eng-.pdf",
     "as_of": 2025
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://maldives.ru/doc/airport-new-counters-map-2023-1.pdf",
+    "as_of": 2023
    },
    {
     "value": "The Standard Spa",
@@ -747,5 +965,5 @@
    }
   ]
  },
- "last_updated": "2026-10-04"
+ "last_updated": "2026-10-05"
 }

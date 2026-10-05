@@ -1,9 +1,9 @@
 # 132. Noku Maldives
 
-**Official site:** n/a (None)  
+**Official site:** https://www.nokumaldives.com/ (unreachable)  
 **Brand:** Noku  
 **Atoll:** Noonu Atoll  **Island:** Kuda Funafaru  
-**Opened/renovated:** n/a  **Rating:** n/a  
+**Opened/renovated:** n/a  **Rating:** 5-star  
 **Transfer:** seaplane, speedboat; minutes: {"seaplane": 40, "speedboat": 15}  
 **Island size:** n/a  
 
@@ -24,21 +24,15 @@
 - Complimentary use of VIP Lounge (bar)
 - Arrival Lounge (bar)
 - “Nomads Space” Library Lounge (bar)
-- Dining (restaurant)
 - Palms Restaurant (restaurant)
 - Palms Bar (bar)
 - Thari Restaurant (restaurant)
-- Alfresco Dining (restaurant)
 - Thari Bar (bar)
-- Central Bar with day beds and casual seating area (bar)
-- Private Dining (restaurant)
-- Beach Dining and In-room Dining (restaurant)
 - Arrival & Departure Lounge (bar)
 - Noku Lounge (bar)
 - Nomads Lounge (bar)
 - The Palms Restaurant (restaurant)
 - Palm Bar (bar)
-- Restaurant (restaurant)
 - Complimentary Use of Seaplane VIP Lounge (bar)
 - Complimentary Non-alcoholic Mini Bar (bar)
 
@@ -47,7 +41,7 @@ Meal plans: n/a
 ## Spa & wellness
 
 - Spa: Noku Spa; treatment rooms: 4; menu: none
-- Wellness/fitness: yoga, gym, fitness centre
+- Wellness/fitness: yoga, gym, fitness centre, fitness center, tennis
 
 ## Diving, water sports & excursions
 
@@ -55,7 +49,7 @@ Meal plans: n/a
 - House reef: n/a
 - Activities: snorkelling, snorkeling, surfing, catamaran, sailing, windsurfing, jet ski, fishing
 - Price list: none
-- Excursions: cooking class, sandbank, dolphin, sunset fishing, turtle
+- Excursions: cooking class, sandbank, dolphin, sunset fishing, turtle, stargazing, picnic, private dinner
 
 ## Kids & family
 
@@ -90,7 +84,7 @@ Meal plans: n/a
 - dining_menu: none
 - dive_prices: none
 - events: none
-- calendar: none
+- calendar: https://letsgomaldives.com/wp-content/uploads/2026/08/Noku-Maldives-Festive-Brochure-2026_2027.pdf
 
 ## Gaps
 
@@ -100,4 +94,4 @@ Meal plans: n/a
 - fact: dive operator
 - fact: kids club
 
-_Facts extracted by rules from 16 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-04._
+_Facts extracted by rules from 17 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

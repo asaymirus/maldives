@@ -5,16 +5,17 @@
  "aliases": [
   "Bandos"
  ],
- "official_url": null,
- "official_site_status": null,
+ "official_url": "https://bandosmaldives.com/",
+ "official_site_status": "ok",
  "operator_brand": null,
  "atoll": "North Male Atoll",
- "island": null,
- "opened_or_renovated": null,
+ "island": "Bandos",
+ "opened_or_renovated": "opened 1972",
  "star_rating": null,
  "transfer": {
   "modes": [
-   "speedboat"
+   "speedboat",
+   "seaplane"
   ],
   "minutes": {
    "seaplane": null,
@@ -23,29 +24,29 @@
    "yacht": null
   }
  },
- "island_size": "450 m x 400 m",
+ "island_size": "18 ha",
  "villas": {
   "total": 80,
   "categories": [
    {
-    "name": "Double Bed | Villas Double Bed | Villas Duple | Villas",
-    "count": 49,
-    "size_sqm": null,
-    "max_occupancy": null,
-    "pool": null,
-    "overwater": null
-   },
-   {
-    "name": "Double Bed | Villa Double Bed | VIllas",
-    "count": 6,
-    "size_sqm": null,
-    "max_occupancy": null,
-    "pool": null,
-    "overwater": null
-   },
-   {
     "name": "Villas",
-    "count": 215,
+    "count": 12,
+    "size_sqm": 3741,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "Night Stay In Superior Villa On Full Board",
+    "count": 4,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "Night Stay in Superior Villa",
+    "count": 4,
     "size_sqm": null,
     "max_occupancy": null,
     "pool": null,
@@ -54,11 +55,6 @@
   ]
  },
  "dining": [
-  {
-   "name": "Dining",
-   "cuisine": null,
-   "type": "restaurant"
-  },
   {
    "name": "Grill",
    "cuisine": null,
@@ -85,42 +81,32 @@
    "type": "bar"
   },
   {
-   "name": "In-villa Dining",
-   "cuisine": null,
-   "type": "restaurant"
-  },
-  {
-   "name": "Club Lounge, Gym, Steam & Sauna, Table",
-   "cuisine": null,
-   "type": "bar"
-  },
-  {
-   "name": "In-Villa Dining: Available 24hrs in all guest rooms",
-   "cuisine": null,
-   "type": "restaurant"
-  },
-  {
    "name": "VIP Lounge & Secretariat Room",
    "cuisine": null,
    "type": "bar"
   },
   {
-   "name": "6. Sand Bar 17. Kokko Club",
+   "name": "Mini Bar Hair Dryer Electronic Key",
    "cuisine": null,
    "type": "bar"
   },
   {
-   "name": "7. Gallery Restaurant 18. Clubhouse",
-   "cuisine": null,
-   "type": "restaurant"
-  },
-  {
-   "name": "9. Grill Bar 20. Orchid Spa",
+   "name": "Mini Bar Hair Dryer Electronic Key Bathtub",
    "cuisine": null,
    "type": "bar"
   },
   {
-   "name": "10. Pool Bar 21. Mosque",
+   "name": "Pool Bar Sand Bar",
+   "cuisine": null,
+   "type": "bar"
+  },
+  {
+   "name": "Mini Bar",
+   "cuisine": null,
+   "type": "bar"
+  },
+  {
+   "name": "Grill Bar",
    "cuisine": null,
    "type": "bar"
   },
@@ -130,17 +116,12 @@
    "type": "restaurant"
   },
   {
-   "name": "Sea Breeze Café",
+   "name": "Umiyaki Restaurant",
    "cuisine": null,
    "type": "restaurant"
   },
   {
-   "name": "Grill Bar",
-   "cuisine": null,
-   "type": "bar"
-  },
-  {
-   "name": "Private Dining",
+   "name": "Sea Breeze Café",
    "cuisine": null,
    "type": "restaurant"
   }
@@ -148,15 +129,15 @@
  "meal_plans": [
   "AI"
  ],
- "all_inclusive_details": "all-inclusive package, which covers breakfast, lunch, and dinner at the Gallery Restaurant, along with a curated selection of premium alcoholic and non-alcoholic beverages served at Gallery, Sand Bar, and Huvan.",
+ "all_inclusive_details": "all-inclusive package.",
  "spa": {
   "name": "Orchid Spa",
   "treatment_rooms": null,
   "signature_treatments": [],
-  "menu_doc": null
+  "menu_doc": "https://bandosmaldives.com/wp-content/uploads/2024/10/BM_Spa_rev122922.pdf"
  },
  "diving_watersports": {
-  "operator": null,
+  "operator": "Dive Centre",
   "house_reef": "House Reef, Boat Diving,",
   "activities": [
    "snorkeling",
@@ -173,9 +154,13 @@
    "fun tube",
    "glass-bottom",
    "canoe",
-   "manta"
+   "manta",
+   "kayaking",
+   "scuba diving",
+   "snorkelling",
+   "sunset cruise"
   ],
-  "price_list_doc": null
+  "price_list_doc": "https://bandosmaldives.com/wp-content/uploads/2026/01/Dive-Bandos-Price-List.pdf"
  },
  "excursions": [
   "island hopping",
@@ -185,34 +170,66 @@
   "whale shark",
   "picnic",
   "manta",
-  "turtle"
+  "turtle",
+  "cinema",
+  "local island",
+  "cooking class",
+  "private dinner",
+  "sandbank",
+  "big game fishing",
+  "castaway"
  ],
  "kids_family": {
   "kids_club": "Kids Club",
-  "age_range": null,
-  "teens": null
+  "age_range": "3-11 years",
+  "teens": "teens programme mentioned"
  },
  "wellness_fitness": [
   "gym",
   "tennis",
   "badminton",
   "sauna",
-  "steam"
+  "steam",
+  "yoga",
+  "beach volleyball",
+  "fitness center"
  ],
  "weddings": {
   "offered": true,
-  "vow_renewal": null,
+  "vow_renewal": true,
   "venues": [],
-  "packages": [],
-  "brochure_doc": null
+  "packages": [
+   {
+    "name": "Dives Package",
+    "price": "701",
+    "currency": "USD",
+    "as_of": 2026
+   }
+  ],
+  "brochure_doc": "https://bandosmaldives.com/wp-content/uploads/2024/02/Wedding-Packages.pdf"
  },
  "events_mice": {
-  "venues": [],
-  "capacity_max": null,
+  "venues": [
+   "BOARDROOM",
+   "Meeting Room Booking"
+  ],
+  "capacity_max": 350,
   "buyout": null,
-  "doc": null
+  "doc": "https://bandosmaldives.com/wp-content/uploads/2026/01/Festive-Event-Brochure-19.12.25.pdf"
  },
- "sustainability": [],
+ "sustainability": [
+  "coral nursery",
+  "Green Globe",
+  "reef restoration",
+  "coral restoration",
+  "coral regeneration",
+  "solar",
+  "single-use plastic",
+  "desalination",
+  "marine biologist",
+  "composting",
+  "Olive Ridley Project"
+ ],
  "contacts_public": {
   "reservations_email": "sales@bandos.com.mv",
   "weddings_email": null,
@@ -220,20 +237,16 @@
  },
  "documents_latest": {
   "factsheet": "https://www.neoscapesmaldives.com/wp-content/uploads/BM_Factsheet-2026.pdf",
-  "map": "https://www.neoscapesmaldives.com/wp-content/uploads/BM-Resort-Map-2024.pdf",
-  "wedding": null,
-  "spa_menu": null,
-  "dining_menu": null,
-  "dive_prices": null,
-  "events": null,
-  "calendar": null
+  "map": "https://cdnm.heyzine.com/files/uploaded/02e3d7a26c896f1c007bf7ee6382ed213065ba4c-2.pdf",
+  "wedding": "https://bandosmaldives.com/wp-content/uploads/2024/02/Wedding-Packages.pdf",
+  "spa_menu": "https://bandosmaldives.com/wp-content/uploads/2024/10/BM_Spa_rev122922.pdf",
+  "dining_menu": "https://bandosmaldives.com/wp-content/uploads/2026/03/BM_Beverage-Menu-2026.pdf",
+  "dive_prices": "https://bandosmaldives.com/wp-content/uploads/2026/01/Dive-Bandos-Price-List.pdf",
+  "events": "https://bandosmaldives.com/wp-content/uploads/2026/01/Festive-Event-Brochure-19.12.25.pdf",
+  "calendar": "https://bandosmaldives.com/wp-content/uploads/2026/04/Easter-at-Bandos.pdf"
  },
- "documents_count": 2,
- "gaps": [
-  "wedding brochure",
-  "events/MICE document",
-  "fact: dive operator"
- ],
+ "documents_count": 78,
+ "gaps": [],
  "sources": {
   "transfer.modes": [
    {
@@ -243,12 +256,47 @@
    },
    {
     "value": "speedboat",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/BM-Resort-Map-2024.pdf",
-    "as_of": 2024
+    "source_url": "https://bandosmaldives.com/wp-content/uploads/2026/03/Digital_Bandos_Brochure.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://cdnm.heyzine.com/files/uploaded/5b26a2b3ab063fd75dd4038bd88ca3f8b4bd751a-2.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://bandosmaldives.com/offers/resident-offer/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://bandosmaldives.com/news/reprehenderit-in-consequat-occaecat/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://bandosmaldives.com/news/5-reasons-to-choose-the-maldives-for-your-honeymoon/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://bandosmaldives.com/faqs/",
+    "as_of": "2026-10-04"
    },
    {
     "value": "speedboat",
     "source_url": "https://www.neoscapesmaldives.com/resort/bandos-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.maldivesholidayoffers.com/holidays/04-night-stay-in-superior-villa-on-full-board-bandos-honeymoon/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.maldivesholidayoffers.com/accomodation/resorts/bandos-maldives/",
     "as_of": "2026-10-04"
    }
   ],
@@ -259,13 +307,18 @@
     "as_of": 2026
    },
    {
-    "value": 10,
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/BM-Resort-Map-2024.pdf",
-    "as_of": 2024
+    "value": 15,
+    "source_url": "https://bandosmaldives.com/wp-content/uploads/2026/03/Digital_Bandos_Brochure.pdf",
+    "as_of": 2026
    },
    {
     "value": 15,
     "source_url": "https://www.neoscapesmaldives.com/resort/bandos-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 40,
+    "source_url": "https://www.maldivesholidayoffers.com/accomodation/resorts/bandos-maldives/",
     "as_of": "2026-10-04"
    }
   ],
@@ -277,58 +330,36 @@
    },
    {
     "value": 220,
+    "source_url": "https://bandosmaldives.com/wp-content/uploads/2026/03/Digital_Bandos_Brochure.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": 220,
+    "source_url": "https://bandosmaldives.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 220,
     "source_url": "https://www.neoscapesmaldives.com/resort/bandos-maldives/",
     "as_of": "2026-10-04"
-   }
-  ],
-  "villas.categories": [
-   {
-    "value": {
-     "name": "Double Bed | Villas Double Bed | Villas Duple | Villas",
-     "count": 49,
-     "size_sqm": null,
-     "max_occupancy": null,
-     "pool": null,
-     "overwater": null
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/BM_Factsheet-2026.pdf",
-    "as_of": 2026
    },
    {
-    "value": {
-     "name": "Double Bed | Villa Double Bed | VIllas",
-     "count": 6,
-     "size_sqm": null,
-     "max_occupancy": null,
-     "pool": null,
-     "overwater": null
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/BM_Factsheet-2026.pdf",
-    "as_of": 2026
+    "value": 215,
+    "source_url": "https://www.maldivesholidayoffers.com/holidays/04-night-stay-in-superior-villa-on-full-board-bandos-honeymoon/",
+    "as_of": "2026-10-04"
    },
    {
-    "value": {
-     "name": "Villas",
-     "count": 215,
-     "size_sqm": null,
-     "max_occupancy": null,
-     "pool": null,
-     "overwater": null
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/bandos-maldives/",
+    "value": 215,
+    "source_url": "https://www.maldivesholidayoffers.com/accomodation/resorts/bandos-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 225,
+    "source_url": "https://www.maldivestourism.net/resorts/bandos-island-resort-and-spa/",
     "as_of": "2026-10-04"
    }
   ],
   "dining": [
-   {
-    "value": {
-     "name": "Dining",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/BM_Factsheet-2026.pdf",
-    "as_of": 2026
-   },
    {
     "value": {
      "name": "Grill",
@@ -376,33 +407,6 @@
    },
    {
     "value": {
-     "name": "In-villa Dining",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/BM_Factsheet-2026.pdf",
-    "as_of": 2026
-   },
-   {
-    "value": {
-     "name": "Club Lounge, Gym, Steam & Sauna, Table",
-     "cuisine": null,
-     "type": "bar"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/BM_Factsheet-2026.pdf",
-    "as_of": 2026
-   },
-   {
-    "value": {
-     "name": "In-Villa Dining: Available 24hrs in all guest rooms",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/BM_Factsheet-2026.pdf",
-    "as_of": 2026
-   },
-   {
-    "value": {
      "name": "VIP Lounge & Secretariat Room",
      "cuisine": null,
      "type": "bar"
@@ -412,56 +416,344 @@
    },
    {
     "value": {
-     "name": "6. Sand Bar 17. Kokko Club",
+     "name": "Mini Bar Hair Dryer Electronic Key",
      "cuisine": null,
      "type": "bar"
     },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/BM-Resort-Map-2024.pdf",
-    "as_of": 2024
+    "source_url": "https://bandosmaldives.com/wp-content/uploads/2026/03/Digital_Bandos_Brochure.pdf",
+    "as_of": 2026
    },
    {
     "value": {
-     "name": "7. Gallery Restaurant 18. Clubhouse",
+     "name": "Mini Bar Hair Dryer Electronic Key",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://bandosmaldives.com/wp-content/uploads/2026/03/Digital_Bandos_Brochure.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": {
+     "name": "Mini Bar Hair Dryer Electronic Key Bathtub",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://bandosmaldives.com/wp-content/uploads/2026/03/Digital_Bandos_Brochure.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": {
+     "name": "Mini Bar Hair Dryer Electronic Key Bathtub",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://bandosmaldives.com/wp-content/uploads/2026/03/Digital_Bandos_Brochure.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": {
+     "name": "Grill",
      "cuisine": null,
      "type": "restaurant"
     },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/BM-Resort-Map-2024.pdf",
-    "as_of": 2024
+    "source_url": "https://bandosmaldives.com/wp-content/uploads/2026/03/Digital_Bandos_Brochure.pdf",
+    "as_of": 2026
    },
    {
     "value": {
-     "name": "9. Grill Bar 20. Orchid Spa",
+     "name": "Pool Bar Sand Bar",
      "cuisine": null,
      "type": "bar"
     },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/BM-Resort-Map-2024.pdf",
-    "as_of": 2024
+    "source_url": "https://bandosmaldives.com/wp-content/uploads/2026/03/Digital_Bandos_Brochure.pdf",
+    "as_of": 2026
    },
    {
     "value": {
-     "name": "10. Pool Bar 21. Mosque",
+     "name": "Mini Bar",
      "cuisine": null,
      "type": "bar"
     },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/BM-Resort-Map-2024.pdf",
-    "as_of": 2024
-   },
-   {
-    "value": {
-     "name": "Dining",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/bandos-maldives/",
+    "source_url": "https://bandosmaldives.com/accommodation/beach-pool-villa/",
     "as_of": "2026-10-04"
    },
    {
     "value": {
-     "name": "Dining",
+     "name": "Mini Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://bandosmaldives.com/accommodation/premium-beach-villa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Mini Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://bandosmaldives.com/accommodation/garden-villas/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Mini Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://bandosmaldives.com/accommodation/sunset-water-villas-with-pool/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Sand Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://bandosmaldives.com/dining/sand-bar/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Grill Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://bandosmaldives.com/dining/sand-bar/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Pool Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://bandosmaldives.com/dining/sand-bar/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Grill Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://bandosmaldives.com/dining/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Sand Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://bandosmaldives.com/dining/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Pool Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://bandosmaldives.com/dining/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Mini Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://bandosmaldives.com/accommodation/superior-villas/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Mini Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://bandosmaldives.com/accommodation/beach-villas/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Gallery Restaurant",
      "cuisine": null,
      "type": "restaurant"
     },
-    "source_url": "https://www.neoscapesmaldives.com/resort/bandos-maldives/",
+    "source_url": "https://bandosmaldives.com/dining/all_inclusive/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Umiyaki Restaurant",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://bandosmaldives.com/dining/umiyaki/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Gallery Restaurant",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://bandosmaldives.com/dining/umiyaki/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Pool Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://bandosmaldives.com/dining/umiyaki/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Mini Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://bandosmaldives.com/accommodation/deluxe-beachfront-rooms/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Mini Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://bandosmaldives.com/accommodation/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Mini Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://bandosmaldives.com/accommodation/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Mini Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://bandosmaldives.com/accommodation/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Mini Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://bandosmaldives.com/accommodation/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Mini Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://bandosmaldives.com/accommodation/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Mini Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://bandosmaldives.com/accommodation/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Mini Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://bandosmaldives.com/accommodation/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Mini Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://bandosmaldives.com/accommodation/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Mini Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://bandosmaldives.com/accommodation/standard-beachfront-rooms/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Pool Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://bandosmaldives.com/dining/pool-bar/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Grill Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://bandosmaldives.com/dining/grill-bar/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Sand Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://bandosmaldives.com/dining/grill-bar/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Pool Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://bandosmaldives.com/dining/huvan/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Sand Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://bandosmaldives.com/dining/huvan/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Grill Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://bandosmaldives.com/dining/gallery-restaurant/",
     "as_of": "2026-10-04"
    },
    {
@@ -508,15 +800,6 @@
     },
     "source_url": "https://www.neoscapesmaldives.com/resort/bandos-maldives/",
     "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Private Dining",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/bandos-maldives/",
-    "as_of": "2026-10-04"
    }
   ],
   "spa.name": [
@@ -527,8 +810,58 @@
    },
    {
     "value": "Orchid Spa",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/BM-Resort-Map-2024.pdf",
-    "as_of": 2024
+    "source_url": "https://bandosmaldives.com/wp-content/uploads/2026/03/Digital_Bandos_Brochure.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://cdnm.heyzine.com/files/uploaded/5b26a2b3ab063fd75dd4038bd88ca3f8b4bd751a-2.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "Orchid Spa",
+    "source_url": "https://bandosmaldives.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Orchid Spa",
+    "source_url": "https://bandosmaldives.com/spa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Orchid Spa",
+    "source_url": "https://bandosmaldives.com/news/island-of-hospitality/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://bandosmaldives.com/footprints/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://bandosmaldives.com/offers/long-stay-offer/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "The Junior Spa",
+    "source_url": "https://bandosmaldives.com/news/best-family-friendly-resorts-in-the-maldives-and-top-things-to-do/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Orchid Spa",
+    "source_url": "https://bandosmaldives.com/news/5-reasons-to-choose-the-maldives-for-your-honeymoon/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://bandosmaldives.com/offers/honeymoon-bliss-offer/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Anggerik Spa",
+    "source_url": "https://www.maldivestourism.net/resorts/bandos-island-resort-and-spa/",
+    "as_of": "2026-10-04"
    }
   ],
   "diving_watersports.house_reef": [
@@ -536,6 +869,41 @@
     "value": "House Reef, Boat Diving,",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/BM_Factsheet-2026.pdf",
     "as_of": 2026
+   },
+   {
+    "value": "housereef",
+    "source_url": "https://cdnm.heyzine.com/files/uploaded/5b26a2b3ab063fd75dd4038bd88ca3f8b4bd751a-2.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "house reef",
+    "source_url": "https://cdnm.heyzine.com/files/uploaded/02e3d7a26c896f1c007bf7ee6382ed213065ba4c-2.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "house reef",
+    "source_url": "https://bandosmaldives.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef dives to explore regardless of season",
+    "source_url": "https://bandosmaldives.com/news/the-best-time-for-diving-in-the-maldives-a-seasonal-guide/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "House Reef Dive for 02 pax",
+    "source_url": "https://bandosmaldives.com/footprints/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reefs, guided excursions to world-class dive sites, and experiences suited for both beginners and seasoned divers, Bandos continues to be a place where underwater m",
+    "source_url": "https://bandosmaldives.com/news/bandos-maldives-nominated-for-world-travel-awards-2026/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef create an environment that feels both intimate and immersive, making it one of the",
+    "source_url": "https://bandosmaldives.com/news/5-reasons-to-choose-the-maldives-for-your-honeymoon/",
+    "as_of": "2026-10-04"
    },
    {
     "value": "house reef is among the most beautiful in the country, perfect for first-time snorkelers or seasoned divers",
@@ -615,9 +983,269 @@
     "as_of": 2026
    },
    {
+    "value": "snorkeling",
+    "source_url": "https://bandosmaldives.com/wp-content/uploads/2026/03/Digital_Bandos_Brochure.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "windsurfing",
+    "source_url": "https://bandosmaldives.com/wp-content/uploads/2026/03/Digital_Bandos_Brochure.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "jet ski",
+    "source_url": "https://bandosmaldives.com/wp-content/uploads/2026/03/Digital_Bandos_Brochure.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "parasailing",
+    "source_url": "https://bandosmaldives.com/wp-content/uploads/2026/03/Digital_Bandos_Brochure.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://bandosmaldives.com/wp-content/uploads/2026/03/Digital_Bandos_Brochure.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "dolphin cruise",
+    "source_url": "https://bandosmaldives.com/wp-content/uploads/2026/03/Digital_Bandos_Brochure.pdf",
+    "as_of": 2026
+   },
+   {
     "value": "manta",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/BM-Resort-Map-2024.pdf",
-    "as_of": 2024
+    "source_url": "https://bandosmaldives.com/wp-content/uploads/2026/03/Digital_Bandos_Brochure.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "fun tube",
+    "source_url": "https://bandosmaldives.com/wp-content/uploads/2026/03/Digital_Bandos_Brochure.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "glass-bottom",
+    "source_url": "https://bandosmaldives.com/wp-content/uploads/2026/03/Digital_Bandos_Brochure.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "kayaking",
+    "source_url": "https://bandosmaldives.com/wp-content/uploads/2026/01/Festive-Event-Brochure-19.12.25.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://bandosmaldives.com/wp-content/uploads/2026/01/Dive-Bandos-Price-List.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://bandosmaldives.com/wp-content/uploads/2026/01/Dive-Bandos-Price-List.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://cdnm.heyzine.com/files/uploaded/5b26a2b3ab063fd75dd4038bd88ca3f8b4bd751a-2.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://cdnm.heyzine.com/files/uploaded/5b26a2b3ab063fd75dd4038bd88ca3f8b4bd751a-2.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "manta",
+    "source_url": "https://cdnm.heyzine.com/files/uploaded/5b26a2b3ab063fd75dd4038bd88ca3f8b4bd751a-2.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://bandosmaldives.com/news/island-of-hospitality/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "windsurfing",
+    "source_url": "https://bandosmaldives.com/news/island-of-hospitality/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://bandosmaldives.com/news/the-best-time-for-diving-in-the-maldives-a-seasonal-guide/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://bandosmaldives.com/news/the-best-time-for-diving-in-the-maldives-a-seasonal-guide/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://bandosmaldives.com/news/reprehenderit-in-consequat-occaecat/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://bandosmaldives.com/diving/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://bandosmaldives.com/footprints/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://bandosmaldives.com/news/bandos-maldives-nominated-for-world-travel-awards-2026/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://bandosmaldives.com/offers/book-early-save/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin cruise",
+    "source_url": "https://bandosmaldives.com/offers/book-early-save/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://bandosmaldives.com/offers/long-stay-offer/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin cruise",
+    "source_url": "https://bandosmaldives.com/offers/long-stay-offer/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "windsurfing",
+    "source_url": "https://bandosmaldives.com/dining/all_inclusive/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "canoe",
+    "source_url": "https://bandosmaldives.com/dining/all_inclusive/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://bandosmaldives.com/offers/book-direct-offer/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin cruise",
+    "source_url": "https://bandosmaldives.com/offers/book-direct-offer/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://bandosmaldives.com/news/best-family-friendly-resorts-in-the-maldives-and-top-things-to-do/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "windsurfing",
+    "source_url": "https://bandosmaldives.com/news/best-family-friendly-resorts-in-the-maldives-and-top-things-to-do/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "catamaran",
+    "source_url": "https://bandosmaldives.com/news/best-family-friendly-resorts-in-the-maldives-and-top-things-to-do/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "jet ski",
+    "source_url": "https://bandosmaldives.com/news/best-family-friendly-resorts-in-the-maldives-and-top-things-to-do/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "parasailing",
+    "source_url": "https://bandosmaldives.com/news/best-family-friendly-resorts-in-the-maldives-and-top-things-to-do/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "water skiing",
+    "source_url": "https://bandosmaldives.com/news/best-family-friendly-resorts-in-the-maldives-and-top-things-to-do/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://bandosmaldives.com/news/best-family-friendly-resorts-in-the-maldives-and-top-things-to-do/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sailing",
+    "source_url": "https://bandosmaldives.com/news/best-family-friendly-resorts-in-the-maldives-and-top-things-to-do/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://bandosmaldives.com/news/5-reasons-to-choose-the-maldives-for-your-honeymoon/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://bandosmaldives.com/news/5-reasons-to-choose-the-maldives-for-your-honeymoon/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://bandosmaldives.com/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "catamaran",
+    "source_url": "https://bandosmaldives.com/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "jet ski",
+    "source_url": "https://bandosmaldives.com/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "parasailing",
+    "source_url": "https://bandosmaldives.com/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://bandosmaldives.com/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://bandosmaldives.com/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin cruise",
+    "source_url": "https://bandosmaldives.com/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://bandosmaldives.com/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sailing",
+    "source_url": "https://bandosmaldives.com/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "glass-bottom",
+    "source_url": "https://bandosmaldives.com/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://bandosmaldives.com/offers/honeymoon-bliss-offer/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin cruise",
+    "source_url": "https://bandosmaldives.com/offers/honeymoon-bliss-offer/",
+    "as_of": "2026-10-04"
    },
    {
     "value": "snorkeling",
@@ -672,14 +1300,179 @@
     "as_of": 2026
    },
    {
+    "value": "island hopping",
+    "source_url": "https://bandosmaldives.com/wp-content/uploads/2026/03/Digital_Bandos_Brochure.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://bandosmaldives.com/wp-content/uploads/2026/03/Digital_Bandos_Brochure.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "night fishing",
+    "source_url": "https://bandosmaldives.com/wp-content/uploads/2026/03/Digital_Bandos_Brochure.pdf",
+    "as_of": 2026
+   },
+   {
     "value": "manta",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/BM-Resort-Map-2024.pdf",
-    "as_of": 2024
+    "source_url": "https://bandosmaldives.com/wp-content/uploads/2026/03/Digital_Bandos_Brochure.pdf",
+    "as_of": 2026
    },
    {
     "value": "turtle",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/BM-Resort-Map-2024.pdf",
-    "as_of": 2024
+    "source_url": "https://bandosmaldives.com/wp-content/uploads/2026/03/Digital_Bandos_Brochure.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "picnic",
+    "source_url": "https://bandosmaldives.com/wp-content/uploads/2026/03/Digital_Bandos_Brochure.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "picnic",
+    "source_url": "https://bandosmaldives.com/wp-content/uploads/2026/01/Festive-Event-Brochure-19.12.25.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "cinema",
+    "source_url": "https://bandosmaldives.com/wp-content/uploads/2026/01/Festive-Event-Brochure-19.12.25.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "local island",
+    "source_url": "https://cdnm.heyzine.com/files/uploaded/5b26a2b3ab063fd75dd4038bd88ca3f8b4bd751a-2.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://cdnm.heyzine.com/files/uploaded/5b26a2b3ab063fd75dd4038bd88ca3f8b4bd751a-2.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://cdnm.heyzine.com/files/uploaded/5b26a2b3ab063fd75dd4038bd88ca3f8b4bd751a-2.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "manta",
+    "source_url": "https://cdnm.heyzine.com/files/uploaded/5b26a2b3ab063fd75dd4038bd88ca3f8b4bd751a-2.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://cdnm.heyzine.com/files/uploaded/5b26a2b3ab063fd75dd4038bd88ca3f8b4bd751a-2.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "local island",
+    "source_url": "https://cdnm.heyzine.com/files/uploaded/02e3d7a26c896f1c007bf7ee6382ed213065ba4c-2.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://cdnm.heyzine.com/files/uploaded/02e3d7a26c896f1c007bf7ee6382ed213065ba4c-2.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "cooking class",
+    "source_url": "https://cdnm.heyzine.com/files/uploaded/02e3d7a26c896f1c007bf7ee6382ed213065ba4c-2.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "private dinner",
+    "source_url": "https://bandosmaldives.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://bandosmaldives.com/news/bandos-maldives-geared-up-for-international-housekeeping-week-2024/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "picnic",
+    "source_url": "https://bandosmaldives.com/news/bandos-maldives-geared-up-for-international-housekeeping-week-2024/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://bandosmaldives.com/news/the-best-time-for-diving-in-the-maldives-a-seasonal-guide/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://bandosmaldives.com/news/the-best-time-for-diving-in-the-maldives-a-seasonal-guide/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://bandosmaldives.com/news/the-best-time-for-diving-in-the-maldives-a-seasonal-guide/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://bandosmaldives.com/news/bandos-maldives-nominated-for-world-travel-awards-2026/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "private dinner",
+    "source_url": "https://bandosmaldives.com/weddings/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://bandosmaldives.com/offers/book-early-save/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://bandosmaldives.com/offers/long-stay-offer/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://bandosmaldives.com/offers/book-direct-offer/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://bandosmaldives.com/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://bandosmaldives.com/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "night fishing",
+    "source_url": "https://bandosmaldives.com/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "big game fishing",
+    "source_url": "https://bandosmaldives.com/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://bandosmaldives.com/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "picnic",
+    "source_url": "https://bandosmaldives.com/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "castaway",
+    "source_url": "https://bandosmaldives.com/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://bandosmaldives.com/offers/honeymoon-bliss-offer/",
+    "as_of": "2026-10-04"
    },
    {
     "value": "island hopping",
@@ -704,6 +1497,11 @@
    {
     "value": "picnic",
     "source_url": "https://www.neoscapesmaldives.com/resort/bandos-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "private dinner",
+    "source_url": "https://www.maldivestourism.net/resorts/bandos-island-resort-and-spa/",
     "as_of": "2026-10-04"
    }
   ],
@@ -734,6 +1532,131 @@
     "as_of": 2026
    },
    {
+    "value": "gym",
+    "source_url": "https://bandosmaldives.com/wp-content/uploads/2026/03/Digital_Bandos_Brochure.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://bandosmaldives.com/wp-content/uploads/2026/03/Digital_Bandos_Brochure.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "badminton",
+    "source_url": "https://bandosmaldives.com/wp-content/uploads/2026/03/Digital_Bandos_Brochure.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "sauna",
+    "source_url": "https://bandosmaldives.com/wp-content/uploads/2026/03/Digital_Bandos_Brochure.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "steam",
+    "source_url": "https://bandosmaldives.com/wp-content/uploads/2026/03/Digital_Bandos_Brochure.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://bandosmaldives.com/wp-content/uploads/2026/01/Festive-Event-Brochure-19.12.25.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://bandosmaldives.com/wp-content/uploads/2026/01/Festive-Event-Brochure-19.12.25.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "badminton",
+    "source_url": "https://bandosmaldives.com/wp-content/uploads/2026/01/Festive-Event-Brochure-19.12.25.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "gym",
+    "source_url": "https://cdnm.heyzine.com/files/uploaded/5b26a2b3ab063fd75dd4038bd88ca3f8b4bd751a-2.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "gym",
+    "source_url": "https://bandosmaldives.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://bandosmaldives.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "badminton",
+    "source_url": "https://bandosmaldives.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://bandosmaldives.com/news/winter-wonderland-awaits-at-bandos-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://bandosmaldives.com/news/winter-wonderland-awaits-at-bandos-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "beach volleyball",
+    "source_url": "https://bandosmaldives.com/news/winter-wonderland-awaits-at-bandos-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "gym",
+    "source_url": "https://bandosmaldives.com/dining/all_inclusive/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fitness center",
+    "source_url": "https://bandosmaldives.com/dining/all_inclusive/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://bandosmaldives.com/dining/all_inclusive/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "badminton",
+    "source_url": "https://bandosmaldives.com/dining/all_inclusive/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sauna",
+    "source_url": "https://bandosmaldives.com/dining/all_inclusive/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "steam",
+    "source_url": "https://bandosmaldives.com/dining/all_inclusive/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "gym",
+    "source_url": "https://bandosmaldives.com/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://bandosmaldives.com/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "badminton",
+    "source_url": "https://bandosmaldives.com/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "steam",
+    "source_url": "https://bandosmaldives.com/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
     "value": "tennis",
     "source_url": "https://www.neoscapesmaldives.com/resort/bandos-maldives/",
     "as_of": "2026-10-04"
@@ -743,6 +1666,11 @@
    {
     "value": "sales@bandos.com.mv",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/BM_Factsheet-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "sales@bandos.com.mv",
+    "source_url": "https://bandosmaldives.com/wp-content/uploads/2026/03/Digital_Bandos_Brochure.pdf",
     "as_of": 2026
    },
    {
@@ -758,26 +1686,370 @@
     "as_of": 2026
    },
    {
+    "value": "+960 664-0088",
+    "source_url": "https://bandosmaldives.com/wp-content/uploads/2026/03/Digital_Bandos_Brochure.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "+960 6640088",
+    "source_url": "https://cdnm.heyzine.com/files/uploaded/5b26a2b3ab063fd75dd4038bd88ca3f8b4bd751a-2.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "+960 6640088",
+    "source_url": "https://cdnm.heyzine.com/files/uploaded/02e3d7a26c896f1c007bf7ee6382ed213065ba4c-2.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "+960 664 0088",
+    "source_url": "https://bandosmaldives.com/contact-us/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 3300052",
+    "source_url": "https://bandosmaldives.com/test/",
+    "as_of": "2026-10-04"
+   },
+   {
     "value": "+960 736 5425",
     "source_url": "https://www.neoscapesmaldives.com/resort/bandos-maldives/",
     "as_of": "2026-10-04"
-   }
-  ],
-  "atoll": [
+   },
    {
-    "value": "North Male Atoll",
-    "source_url": "https://www.neoscapesmaldives.com/resort/bandos-maldives/",
+    "value": "+960 778 7357",
+    "source_url": "https://www.maldivesholidayoffers.com/holidays/04-night-stay-in-superior-villa-on-full-board-bandos-honeymoon/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 7773 699",
+    "source_url": "https://www.maldivesholidayoffers.com/accomodation/resorts/bandos-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 6640088",
+    "source_url": "https://www.maldivestourism.net/resorts/bandos-island-resort-and-spa/",
     "as_of": "2026-10-04"
    }
   ],
   "island_size": [
+   {
+    "value": "18 ha",
+    "source_url": "https://bandosmaldives.com/wp-content/uploads/2026/03/Digital_Bandos_Brochure.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "18.66 ha",
+    "source_url": "https://bandosmaldives.com/news/island-of-hospitality/",
+    "as_of": "2026-10-04"
+   },
    {
     "value": "450 m x 400 m",
     "source_url": "https://www.neoscapesmaldives.com/resort/bandos-maldives/",
     "as_of": "2026-10-04"
    }
   ],
+  "villas.categories": [
+   {
+    "value": {
+     "name": "Villas",
+     "count": 12,
+     "size_sqm": 3741,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://bandosmaldives.com/wp-content/uploads/2026/03/Digital_Bandos_Brochure.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": {
+     "name": "Villas",
+     "count": 8,
+     "size_sqm": 40,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://bandosmaldives.com/wp-content/uploads/2026/03/Digital_Bandos_Brochure.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": {
+     "name": "Villas",
+     "count": 16,
+     "size_sqm": 40,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://bandosmaldives.com/wp-content/uploads/2026/03/Digital_Bandos_Brochure.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": {
+     "name": "Villas",
+     "count": 49,
+     "size_sqm": 1097,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://bandosmaldives.com/wp-content/uploads/2026/03/Digital_Bandos_Brochure.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": {
+     "name": "VIllas",
+     "count": 6,
+     "size_sqm": 83,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://bandosmaldives.com/wp-content/uploads/2026/03/Digital_Bandos_Brochure.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": {
+     "name": "Villas",
+     "count": 215,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://www.neoscapesmaldives.com/resort/bandos-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Night Stay In Superior Villa On Full Board",
+     "count": 4,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://www.maldivesholidayoffers.com/holidays/04-night-stay-in-superior-villa-on-full-board-bandos-honeymoon/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Night Stay in Superior Villa",
+     "count": 4,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://www.maldivesholidayoffers.com/holidays/04-night-stay-in-superior-villa-on-full-board-bandos-honeymoon/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "kids_family.age_range": [
+   {
+    "value": "3-11 years",
+    "source_url": "https://bandosmaldives.com/wp-content/uploads/2026/03/Digital_Bandos_Brochure.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "3-11 years",
+    "source_url": "https://bandosmaldives.com/faqs/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "weddings.vow_renewal": [
+   {
+    "value": true,
+    "source_url": "https://bandosmaldives.com/wp-content/uploads/2026/03/Digital_Bandos_Brochure.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": true,
+    "source_url": "https://bandosmaldives.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://bandosmaldives.com/news/the-ultimate-guide-to-destination-weddings-in-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://bandosmaldives.com/weddings/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://bandosmaldives.com/faqs/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "diving_watersports.operator": [
+   {
+    "value": "Dive Centre",
+    "source_url": "https://bandosmaldives.com/wp-content/uploads/2026/01/Festive-Event-Brochure-19.12.25.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "Dive Centre",
+    "source_url": "https://bandosmaldives.com/diving/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Dive Centre",
+    "source_url": "https://www.maldivesholidayoffers.com/holidays/04-night-stay-in-superior-villa-on-full-board-bandos-honeymoon/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Dive Centre",
+    "source_url": "https://www.maldivesholidayoffers.com/accomodation/resorts/bandos-maldives/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "sustainability": [
+   {
+    "value": "coral nursery",
+    "source_url": "https://bandosmaldives.com/wp-content/uploads/2026/01/Festive-Event-Brochure-19.12.25.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "Green Globe",
+    "source_url": "https://bandosmaldives.com/wp-content/uploads/2026/01/Festive-Event-Brochure-19.12.25.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "reef restoration",
+    "source_url": "https://bandosmaldives.com/wp-content/uploads/2026/01/Festive-Event-Brochure-19.12.25.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "coral restoration",
+    "source_url": "https://cdnm.heyzine.com/files/uploaded/5b26a2b3ab063fd75dd4038bd88ca3f8b4bd751a-2.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "coral regeneration",
+    "source_url": "https://cdnm.heyzine.com/files/uploaded/5b26a2b3ab063fd75dd4038bd88ca3f8b4bd751a-2.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "solar",
+    "source_url": "https://cdnm.heyzine.com/files/uploaded/5b26a2b3ab063fd75dd4038bd88ca3f8b4bd751a-2.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "single-use plastic",
+    "source_url": "https://cdnm.heyzine.com/files/uploaded/5b26a2b3ab063fd75dd4038bd88ca3f8b4bd751a-2.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "desalination",
+    "source_url": "https://cdnm.heyzine.com/files/uploaded/5b26a2b3ab063fd75dd4038bd88ca3f8b4bd751a-2.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "marine biologist",
+    "source_url": "https://cdnm.heyzine.com/files/uploaded/02e3d7a26c896f1c007bf7ee6382ed213065ba4c-2.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "solar",
+    "source_url": "https://cdnm.heyzine.com/files/uploaded/02e3d7a26c896f1c007bf7ee6382ed213065ba4c-2.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "single-use plastic",
+    "source_url": "https://cdnm.heyzine.com/files/uploaded/02e3d7a26c896f1c007bf7ee6382ed213065ba4c-2.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "Green Globe",
+    "source_url": "https://cdnm.heyzine.com/files/uploaded/02e3d7a26c896f1c007bf7ee6382ed213065ba4c-2.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "composting",
+    "source_url": "https://cdnm.heyzine.com/files/uploaded/02e3d7a26c896f1c007bf7ee6382ed213065ba4c-2.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "reef restoration",
+    "source_url": "https://cdnm.heyzine.com/files/uploaded/02e3d7a26c896f1c007bf7ee6382ed213065ba4c-2.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "Olive Ridley Project",
+    "source_url": "https://cdnm.heyzine.com/files/uploaded/02e3d7a26c896f1c007bf7ee6382ed213065ba4c-2.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "single-use plastic",
+    "source_url": "https://bandosmaldives.com/news/bandos-maldives-upholds-green-globe-certification-as-a-sign-of-commitment-to-sustainability/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "desalination",
+    "source_url": "https://bandosmaldives.com/news/bandos-maldives-upholds-green-globe-certification-as-a-sign-of-commitment-to-sustainability/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Green Globe",
+    "source_url": "https://bandosmaldives.com/news/bandos-maldives-upholds-green-globe-certification-as-a-sign-of-commitment-to-sustainability/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "solar",
+    "source_url": "https://bandosmaldives.com/sustainability/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "desalination",
+    "source_url": "https://bandosmaldives.com/sustainability/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Green Globe",
+    "source_url": "https://bandosmaldives.com/sustainability/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Green Globe",
+    "source_url": "https://bandosmaldives.com/media/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Green Globe",
+    "source_url": "https://bandosmaldives.com/news/category/achievements/",
+    "as_of": "2026-10-04"
+   }
+  ],
   "meal_plans": [
+   {
+    "value": "AI",
+    "source_url": "https://bandosmaldives.com/wp-content/uploads/2026/03/BM_Beverage-Menu-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "AI",
+    "source_url": "https://bandosmaldives.com/news/the-ultimate-guide-to-destination-weddings-in-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://bandosmaldives.com/dining/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://bandosmaldives.com/dining/all_inclusive/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://bandosmaldives.com/news/best-family-friendly-resorts-in-the-maldives-and-top-things-to-do/",
+    "as_of": "2026-10-04"
+   },
    {
     "value": "AI",
     "source_url": "https://www.neoscapesmaldives.com/resort/bandos-maldives/",
@@ -786,12 +2058,146 @@
   ],
   "all_inclusive_details": [
    {
+    "value": "all-inclusive package.",
+    "source_url": "https://bandosmaldives.com/wp-content/uploads/2026/03/BM_Beverage-Menu-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "all-inclusive vow renewal ceremonies for couples marking special anniversaries in the paradise isles.",
+    "source_url": "https://bandosmaldives.com/news/the-ultimate-guide-to-destination-weddings-in-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "all-inclusive meal package, which includes breakfast, lunch, and dinner at the exquisite Gallery Restaurant.",
+    "source_url": "https://bandosmaldives.com/dining/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "all-inclusive Maldivian family holiday at Bandos can not only embark on underwater expeditions but also rely on the expertise of one of the country’s longest-running dive centres.",
+    "source_url": "https://bandosmaldives.com/news/best-family-friendly-resorts-in-the-maldives-and-top-things-to-do/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "All-Inclusive meal plan includes, selected alcoholic and non-alcoholic beverages from restaurants and bars, and minibar refilled once daily.",
+    "source_url": "https://bandosmaldives.com/faqs/",
+    "as_of": "2026-10-04"
+   },
+   {
     "value": "all-inclusive package, which covers breakfast, lunch, and dinner at the Gallery Restaurant, along with a curated selection of premium alcoholic and non-alcoholic beverages served at Gallery, Sand Bar, and Huvan.",
     "source_url": "https://www.neoscapesmaldives.com/resort/bandos-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "All Inclusive Package is perfect for couples who want to discover the natural wonders of the Maldives on a tight budget.",
+    "source_url": "https://www.maldivesholidayoffers.com/holidays/04-night-stay-in-superior-villa-on-full-board-bandos-honeymoon/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "All Inclusive Package is perfect for couples who want to discover the natural wonders of the Maldives on a tight budget.",
+    "source_url": "https://www.maldivesholidayoffers.com/accomodation/resorts/bandos-maldives/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "weddings.packages": [
+   {
+    "value": {
+     "name": "Dives Package",
+     "price": "701",
+     "currency": "USD",
+     "as_of": 2026
+    },
+    "source_url": "https://bandosmaldives.com/wp-content/uploads/2026/01/Dive-Bandos-Price-List.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": {
+     "name": "Dives Package",
+     "price": "1010",
+     "currency": "USD",
+     "as_of": 2026
+    },
+    "source_url": "https://bandosmaldives.com/wp-content/uploads/2026/01/Dive-Bandos-Price-List.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": {
+     "name": "Dives Package",
+     "price": "1287",
+     "currency": "USD",
+     "as_of": 2026
+    },
+    "source_url": "https://bandosmaldives.com/wp-content/uploads/2026/01/Dive-Bandos-Price-List.pdf",
+    "as_of": 2026
+   }
+  ],
+  "atoll": [
+   {
+    "value": "North Male Atoll",
+    "source_url": "https://cdnm.heyzine.com/files/uploaded/5b26a2b3ab063fd75dd4038bd88ca3f8b4bd751a-2.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "North Male Atoll",
+    "source_url": "https://cdnm.heyzine.com/files/uploaded/02e3d7a26c896f1c007bf7ee6382ed213065ba4c-2.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "North Malé Atoll",
+    "source_url": "https://bandosmaldives.com/contact-us/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "North Malé Atoll",
+    "source_url": "https://bandosmaldives.com/news/the-best-time-for-diving-in-the-maldives-a-seasonal-guide/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "North Male Atoll",
+    "source_url": "https://bandosmaldives.com/news/bandos-maldives-wins-indian-oceans-best-dive-resort-in-world-travel-awards-2024/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "North Malé Atoll",
+    "source_url": "https://bandosmaldives.com/news/5-reasons-to-choose-the-maldives-for-your-honeymoon/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Malé Atoll",
+    "source_url": "https://bandosmaldives.com/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "North Male Atoll",
+    "source_url": "https://bandosmaldives.com/faqs/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "North Male Atoll",
+    "source_url": "https://www.neoscapesmaldives.com/resort/bandos-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "North Male Atoll",
+    "source_url": "https://www.maldivesholidayoffers.com/accomodation/resorts/bandos-maldives/",
     "as_of": "2026-10-04"
    }
   ],
   "kids_family.kids_club": [
+   {
+    "value": "Kids Club",
+    "source_url": "https://bandosmaldives.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Our Kokko Kids Club",
+    "source_url": "https://bandosmaldives.com/news/island-of-hospitality/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Kids Club",
+    "source_url": "https://bandosmaldives.com/news/best-family-friendly-resorts-in-the-maldives-and-top-things-to-do/",
+    "as_of": "2026-10-04"
+   },
    {
     "value": "Kids Club",
     "source_url": "https://www.neoscapesmaldives.com/resort/bandos-maldives/",
@@ -801,10 +2207,190 @@
   "weddings.offered": [
    {
     "value": true,
+    "source_url": "https://bandosmaldives.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://bandosmaldives.com/news/bandos-maldives-geared-up-for-international-housekeeping-week-2024/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://bandosmaldives.com/news/reprehenderit-in-consequat-occaecat/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://bandosmaldives.com/news/bandos-maldives-celebrates-51-years-of-exemplary-hospitality/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://bandosmaldives.com/news/bandos-maldives-celebrates-51-years-of-exemplary-hospitality/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://bandosmaldives.com/news/the-ultimate-guide-to-destination-weddings-in-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://bandosmaldives.com/news/the-ultimate-guide-to-destination-weddings-in-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://bandosmaldives.com/news/bandos-maldives-wins-tripadvisor-travelers-choice-award-2026/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://bandosmaldives.com/news/from-underwater-vows-to-all-900-dives-at-bandos-maldives-andy-kates-journey/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://bandosmaldives.com/news/winter-wonderland-awaits-at-bandos-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://bandosmaldives.com/news/bandos-maldives-nominated-for-world-travel-awards-2026/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://bandosmaldives.com/weddings/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://bandosmaldives.com/weddings/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://bandosmaldives.com/news/category/articles/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://bandosmaldives.com/news/introducing-our-newest-luxury-accommodation-sunset-water-villas-with-pool/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://bandosmaldives.com/news/best-family-friendly-resorts-in-the-maldives-and-top-things-to-do/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://bandosmaldives.com/news/5-reasons-to-choose-the-maldives-for-your-honeymoon/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://bandosmaldives.com/offers/honeymoon-bliss-offer/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://bandosmaldives.com/offers/honeymoon-bliss-offer/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://bandosmaldives.com/news/category/bandos-stories/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://bandosmaldives.com/news/indulge-in-luxury-bandos-maldives-floating-breakfast-experience/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://bandosmaldives.com/eid-celebrations/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
     "source_url": "https://www.neoscapesmaldives.com/resort/bandos-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.maldivesholidayoffers.com/holidays/04-night-stay-in-superior-villa-on-full-board-bandos-honeymoon/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.maldivesholidayoffers.com/holidays/04-night-stay-in-superior-villa-on-full-board-bandos-honeymoon/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.maldivestourism.net/resorts/bandos-island-resort-and-spa/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "events_mice.venues": [
+   {
+    "value": "BOARDROOM",
+    "source_url": "https://bandosmaldives.com/meetings/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "BOARDROOM",
+    "source_url": "https://bandosmaldives.com/meetings/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "BOARDROOM",
+    "source_url": "https://bandosmaldives.com/meetings/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Meeting Room Booking",
+    "source_url": "https://bandosmaldives.com/meetings/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "events_mice.capacity_max": [
+   {
+    "value": 350,
+    "source_url": "https://bandosmaldives.com/news/bandos-maldives-wins-silver-award-at-sata-2024/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "kids_family.teens": [
+   {
+    "value": "teens programme mentioned",
+    "source_url": "https://bandosmaldives.com/news/best-family-friendly-resorts-in-the-maldives-and-top-things-to-do/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "opened_or_renovated": [
+   {
+    "value": "opened 1972",
+    "source_url": "https://bandosmaldives.com/news/bandos-maldives-wins-indian-oceans-leading-dive-resort-2025/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "island": [
+   {
+    "value": "Bandos",
+    "source_url": "https://www.maldivesholidayoffers.com/holidays/04-night-stay-in-superior-villa-on-full-board-bandos-honeymoon/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Bandos",
+    "source_url": "https://www.maldivesholidayoffers.com/accomodation/resorts/bandos-maldives/",
     "as_of": "2026-10-04"
    }
   ]
  },
- "last_updated": "2026-10-04"
+ "last_updated": "2026-10-05"
 }

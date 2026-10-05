@@ -6,8 +6,8 @@
   "Vadoo",
   "Adaaran Prestige Vadoo"
  ],
- "official_url": null,
- "official_site_status": null,
+ "official_url": "https://www.adaaran.com/prestigevadoo/",
+ "official_site_status": "ok",
  "operator_brand": "Adaaran",
  "atoll": "South Malé Atoll",
  "island": null,
@@ -15,7 +15,9 @@
  "star_rating": null,
  "transfer": {
   "modes": [
-   "speedboat"
+   "speedboat",
+   "seaplane",
+   "domestic flight"
   ],
   "minutes": {
    "seaplane": null,
@@ -26,7 +28,7 @@
  },
  "island_size": "200 m x 90 m",
  "villas": {
-  "total": null,
+  "total": 50,
   "categories": [
    {
     "name": "Sunrise Villa",
@@ -72,17 +74,7 @@
  },
  "dining": [
   {
-   "name": "Dining",
-   "cuisine": null,
-   "type": "restaurant"
-  },
-  {
-   "name": "Restaurant/Bar Type of Cuisine Operating Times",
-   "cuisine": null,
-   "type": "restaurant"
-  },
-  {
-   "name": "Restaurant Lunch : 12.30 p.m - 02.30 p.m",
+   "name": "Seafood Restaurant",
    "cuisine": null,
    "type": "restaurant"
   },
@@ -97,12 +89,22 @@
    "type": "restaurant"
   },
   {
-   "name": "Dhoni Resort Bar",
+   "name": "Kakuni Barefoot Restaurant",
+   "cuisine": null,
+   "type": "restaurant"
+  },
+  {
+   "name": "Kandolhi Bar",
    "cuisine": null,
    "type": "bar"
   },
   {
-   "name": "Kandholi Overwater Sky Bar",
+   "name": "Dhoni Bar",
+   "cuisine": null,
+   "type": "bar"
+  },
+  {
+   "name": "Evening sundown cocktails at Kandolhi Bar",
    "cuisine": null,
    "type": "bar"
   },
@@ -110,19 +112,48 @@
    "name": "Kakuni Barefoot Beach Restaurant",
    "cuisine": null,
    "type": "restaurant"
+  },
+  {
+   "name": "Kandholi Overwater Sky Bar",
+   "cuisine": null,
+   "type": "bar"
+  },
+  {
+   "name": "Complimentary Mini Bar",
+   "cuisine": null,
+   "type": "bar"
+  },
+  {
+   "name": "Dhoni Resort Bar Maldives",
+   "cuisine": null,
+   "type": "bar"
+  },
+  {
+   "name": "Dhoni Resort Bar",
+   "cuisine": null,
+   "type": "bar"
+  },
+  {
+   "name": "Underwater Restaurant Dining Experience",
+   "cuisine": null,
+   "type": "restaurant"
   }
  ],
- "meal_plans": [],
- "all_inclusive_details": null,
+ "meal_plans": [
+  "AI",
+  "Dine Around",
+  "Premium AI"
+ ],
+ "all_inclusive_details": "All Inclusive offering.",
  "spa": {
-  "name": "Diving\nMandara Luxury Spa",
+  "name": "Spa",
   "treatment_rooms": null,
   "signature_treatments": [],
-  "menu_doc": null
+  "menu_doc": "https://www.maldivesexperts.com/uploads/resorts/e89bfa9988523a35d42c99f97850d4b8.pdf"
  },
  "diving_watersports": {
-  "operator": null,
-  "house_reef": "house reef and award winning overwater villas, the resort blends barefoot island living with refined indulgence",
+  "operator": "Dive Centre",
+  "house_reef": "house reefs in the Malé Atoll below",
   "activities": [
    "snorkeling",
    "scuba diving",
@@ -130,21 +161,29 @@
    "jet ski",
    "parasailing",
    "seabob",
+   "sunset cruise",
    "sailing",
    "fun tube",
+   "paddleboard",
+   "canoe",
    "fishing",
+   "dolphin cruise",
+   "manta",
+   "water skiing",
    "snorkelling"
   ],
-  "price_list_doc": null
+  "price_list_doc": "https://www.adaaran.com/prestigevadoo/view-download/?id=dive01"
  },
  "excursions": [
-  "sandbank",
-  "dolphin",
-  "picnic",
-  "turtle",
   "local island",
+  "dolphin",
+  "turtle",
+  "manta",
   "sunset fishing",
-  "stargazing"
+  "sandbank",
+  "stargazing",
+  "picnic",
+  "night fishing"
  ],
  "kids_family": {
   "kids_club": null,
@@ -152,14 +191,24 @@
   "teens": null
  },
  "wellness_fitness": [
-  "beach volleyball"
+  "beach volleyball",
+  "gym"
  ],
  "weddings": {
   "offered": true,
   "vow_renewal": true,
-  "venues": [],
-  "packages": [],
-  "brochure_doc": null
+  "venues": [
+   "Outdoor beach venue"
+  ],
+  "packages": [
+   {
+    "name": "Wedding",
+    "price": "240",
+    "currency": "USD",
+    "as_of": 2026
+   }
+  ],
+  "brochure_doc": "https://www.adaaran.com/prestigevadoo/view-download/?id=PVW"
  },
  "events_mice": {
   "venues": [],
@@ -172,41 +221,491 @@
   "single-use plastic",
   "Green Globe",
   "Travelife",
-  "composting"
+  "composting",
+  "solar"
  ],
  "contacts_public": {
-  "reservations_email": "info@neoscapesmaldives.com",
+  "reservations_email": "reservations@adaaran.com.mv",
   "weddings_email": null,
-  "phone": "+960 736 5425"
+  "phone": "+960 664 3976"
  },
  "documents_latest": {
-  "factsheet": "https://www.neoscapesmaldives.com/wp-content/uploads/Fact-Sheet-Adaara-Prestige-Vadoo.pdf",
+  "factsheet": "https://www.adaaran.com/prestigevadoo/view-download/?id=apv-fact-sheet",
   "map": "https://www.neoscapesmaldives.com/wp-content/uploads/Resort-Map-Adaara-Prestige-Vadoo.pdf",
-  "wedding": null,
-  "spa_menu": null,
-  "dining_menu": null,
-  "dive_prices": null,
+  "wedding": "https://www.adaaran.com/prestigevadoo/view-download/?id=PVW",
+  "spa_menu": "https://www.maldivesexperts.com/uploads/resorts/e89bfa9988523a35d42c99f97850d4b8.pdf",
+  "dining_menu": "https://www.adaaran.com/prestigevadoo/view-download/?id=adaaran-prestig",
+  "dive_prices": "https://www.adaaran.com/prestigevadoo/view-download/?id=dive01",
   "events": null,
   "calendar": null
  },
- "documents_count": 8,
+ "documents_count": 18,
  "gaps": [
-  "wedding brochure",
   "events/MICE document",
-  "fact: villas.total",
-  "fact: dive operator",
   "fact: kids club"
  ],
  "sources": {
+  "atoll": [
+   {
+    "value": "South Malé Atoll",
+    "source_url": "https://www.adaaran.com/prestigevadoo/view-download/?id=apv-fact-sheet",
+    "as_of": 2026
+   },
+   {
+    "value": "South Malé Atoll",
+    "source_url": "https://www.adaaran.com/prestigevadoo/view-download/?id=adaaran-prestig",
+    "as_of": 2026
+   },
+   {
+    "value": "Malé Atoll",
+    "source_url": "https://www.adaaran.com/prestigevadoo/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "South Male Atoll",
+    "source_url": "https://www.adaaran.com/prestigevadoo/location/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "South Male Atoll",
+    "source_url": "https://www.adaaran.com/prestigevadoo/experiences/diving/housereef-vadoo/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "South Malé Atoll",
+    "source_url": "https://www.neoscapesmaldives.com/resort/adaaran-prestige-vadoo/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "South Male Atoll",
+    "source_url": "https://www.maldivesholidayoffers.com/accomodation/resorts/adaaran-prestige-vadoo/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Kaafu Atoll",
+    "source_url": "https://www.mymaldives.com/resort-guide/adaaran-select-vadoo/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "South Male Atoll",
+    "source_url": "https://www.dnatatravel.com/2-1516196-1/adaaran-prestige-vadoo?oc=true",
+    "as_of": "2026-10-04"
+   }
+  ],
   "transfer.modes": [
    {
     "value": "speedboat",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Fact-Sheet-Adaara-Prestige-Vadoo.pdf",
-    "as_of": 2023
+    "source_url": "https://www.adaaran.com/prestigevadoo/view-download/?id=apv-fact-sheet",
+    "as_of": 2026
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.adaaran.com/prestigevadoo/view-download/?id=dive01",
+    "as_of": 2026
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.adaaran.com/prestigevadoo/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.adaaran.com/prestigevadoo/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.adaaran.com/prestigevadoo/premium-all-inclusive-offering/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.adaaran.com/prestigevadoo/premium-all-inclusive-offering/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.adaaran.com/prestigevadoo/offers/eid-al-fitr-ar/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "domestic flight",
+    "source_url": "https://www.adaaran.com/prestigevadoo/offers/eid-al-fitr-ar/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.adaaran.com/prestigevadoo/facilities/transfers/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.adaaran.com/prestigevadoo/facilities/transfers/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.adaaran.com/prestigevadoo/dining/kakuni-barefoot-beach-restaurant/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "domestic flight",
+    "source_url": "https://www.adaaran.com/prestigevadoo/dining/kakuni-barefoot-beach-restaurant/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.adaaran.com/prestigevadoo/sitemap/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.adaaran.com/prestigevadoo/sitemap/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.adaaran.com/prestigevadoo/experiences/whale-submarine-adventure/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "domestic flight",
+    "source_url": "https://www.adaaran.com/prestigevadoo/experiences/whale-submarine-adventure/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.adaaran.com/prestigevadoo/facilities/spa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.adaaran.com/prestigevadoo/facilities/spa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.adaaran.com/prestigevadoo/facilities/scuba-diving-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "domestic flight",
+    "source_url": "https://www.adaaran.com/prestigevadoo/facilities/scuba-diving-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.adaaran.com/prestigevadoo/experiences/sunset-photo-flip/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.adaaran.com/prestigevadoo/experiences/sunset-photo-flip/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.adaaran.com/prestigevadoo/offers/vow-renewal/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "domestic flight",
+    "source_url": "https://www.adaaran.com/prestigevadoo/offers/vow-renewal/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.adaaran.com/prestigevadoo/offers/eid-al-fitr-offer/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "domestic flight",
+    "source_url": "https://www.adaaran.com/prestigevadoo/offers/eid-al-fitr-offer/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.adaaran.com/prestigevadoo/experiences/morning-fishing/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "domestic flight",
+    "source_url": "https://www.adaaran.com/prestigevadoo/experiences/morning-fishing/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.adaaran.com/prestigevadoo/villas/honeymoon-villas/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "domestic flight",
+    "source_url": "https://www.adaaran.com/prestigevadoo/villas/honeymoon-villas/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.adaaran.com/prestigevadoo/experiences/diving/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.adaaran.com/prestigevadoo/experiences/diving/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.adaaran.com/prestigevadoo/weddings/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "domestic flight",
+    "source_url": "https://www.adaaran.com/prestigevadoo/weddings/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.adaaran.com/prestigevadoo/experiences/excursions/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.adaaran.com/prestigevadoo/experiences/excursions/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.adaaran.com/prestigevadoo/offers/romantic-getaway/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.adaaran.com/prestigevadoo/offers/romantic-getaway/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.adaaran.com/prestigevadoo/location/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.adaaran.com/prestigevadoo/location/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.adaaran.com/prestigevadoo/gallery/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.adaaran.com/prestigevadoo/gallery/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.adaaran.com/prestigevadoo/offers/book-direct-th/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.adaaran.com/prestigevadoo/offers/book-direct-th/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.adaaran.com/prestigevadoo/villas/overwater-villas/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.adaaran.com/prestigevadoo/villas/overwater-villas/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.adaaran.com/prestigevadoo/offers/storrington-collective-romantic-getaway/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "domestic flight",
+    "source_url": "https://www.adaaran.com/prestigevadoo/offers/storrington-collective-romantic-getaway/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.adaaran.com/prestigevadoo/villas/sunset-water-villas/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.adaaran.com/prestigevadoo/villas/sunset-water-villas/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.adaaran.com/prestigevadoo/dining/farivalhu-restaurant/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.adaaran.com/prestigevadoo/dining/farivalhu-restaurant/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.adaaran.com/prestigevadoo/offers/book-direct/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.adaaran.com/prestigevadoo/offers/book-direct/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.adaaran.com/prestigevadoo/dining/kithajima-japanese-restaurant/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.adaaran.com/prestigevadoo/dining/kithajima-japanese-restaurant/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.adaaran.com/prestigevadoo/experiences/watersports/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "domestic flight",
+    "source_url": "https://www.adaaran.com/prestigevadoo/experiences/watersports/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.adaaran.com/prestigevadoo/dining/dhoni-bar/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "domestic flight",
+    "source_url": "https://www.adaaran.com/prestigevadoo/dining/dhoni-bar/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.adaaran.com/prestigevadoo/offers/book-direct-es/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.adaaran.com/prestigevadoo/offers/book-direct-es/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.adaaran.com/prestigevadoo/dining/kandholi-bar/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "domestic flight",
+    "source_url": "https://www.adaaran.com/prestigevadoo/dining/kandholi-bar/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.adaaran.com/prestigevadoo/experiences/diving/housereef-vadoo/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "domestic flight",
+    "source_url": "https://www.adaaran.com/prestigevadoo/experiences/diving/housereef-vadoo/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.adaaran.com/prestigevadoo/villas/sunrise-water-villas/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.adaaran.com/prestigevadoo/villas/sunrise-water-villas/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.adaaran.com/prestigevadoo/offers/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.adaaran.com/prestigevadoo/offers/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.adaaran.com/prestigevadoo/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "domestic flight",
+    "source_url": "https://www.adaaran.com/prestigevadoo/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.adaaran.com/prestigevadoo/villas/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.adaaran.com/prestigevadoo/villas/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.adaaran.com/prestigevadoo/dining/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.adaaran.com/prestigevadoo/dining/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.adaaran.com/prestigevadoo/offers/bestofmaldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "domestic flight",
+    "source_url": "https://www.adaaran.com/prestigevadoo/offers/bestofmaldives/",
+    "as_of": "2026-10-04"
    },
    {
     "value": "speedboat",
     "source_url": "https://www.neoscapesmaldives.com/resort/adaaran-prestige-vadoo/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://maldivestraveller.mv/en/holidays/maldives-tours/day-visit-to-adaaran-prestige-vadoo",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.maldivesholidayoffers.com/accomodation/resorts/adaaran-prestige-vadoo/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.maldivesholidayoffers.com/accomodation/resorts/adaaran-prestige-vadoo/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.dnatatravel.com/2-1516196-1/adaaran-prestige-vadoo?oc=true",
     "as_of": "2026-10-04"
    }
   ],
@@ -220,8 +719,8 @@
      "pool": null,
      "overwater": null
     },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Fact-Sheet-Adaara-Prestige-Vadoo.pdf",
-    "as_of": 2023
+    "source_url": "https://www.adaaran.com/prestigevadoo/view-download/?id=apv-fact-sheet",
+    "as_of": 2026
    },
    {
     "value": {
@@ -232,8 +731,8 @@
      "pool": null,
      "overwater": null
     },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Fact-Sheet-Adaara-Prestige-Vadoo.pdf",
-    "as_of": 2023
+    "source_url": "https://www.adaaran.com/prestigevadoo/view-download/?id=apv-fact-sheet",
+    "as_of": 2026
    },
    {
     "value": {
@@ -244,8 +743,8 @@
      "pool": null,
      "overwater": true
     },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Fact-Sheet-Adaara-Prestige-Vadoo.pdf",
-    "as_of": 2023
+    "source_url": "https://www.adaaran.com/prestigevadoo/view-download/?id=apv-fact-sheet",
+    "as_of": 2026
    },
    {
     "value": {
@@ -256,8 +755,8 @@
      "pool": null,
      "overwater": null
     },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Fact-Sheet-Adaara-Prestige-Vadoo.pdf",
-    "as_of": 2023
+    "source_url": "https://www.adaaran.com/prestigevadoo/view-download/?id=apv-fact-sheet",
+    "as_of": 2026
    },
    {
     "value": {
@@ -275,47 +774,416 @@
   "dining": [
    {
     "value": {
-     "name": "Dining",
+     "name": "Seafood Restaurant",
      "cuisine": null,
      "type": "restaurant"
     },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Fact-Sheet-Adaara-Prestige-Vadoo.pdf",
-    "as_of": 2023
+    "source_url": "https://www.adaaran.com/prestigevadoo/view-download/?id=apv-fact-sheet",
+    "as_of": 2026
    },
    {
     "value": {
-     "name": "Restaurant/Bar Type of Cuisine Operating Times",
+     "name": "Farivalhu Fine Dining Restaurant",
      "cuisine": null,
      "type": "restaurant"
     },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Fact-Sheet-Adaara-Prestige-Vadoo.pdf",
-    "as_of": 2023
-   },
-   {
-    "value": {
-     "name": "Restaurant Lunch : 12.30 p.m - 02.30 p.m",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Fact-Sheet-Adaara-Prestige-Vadoo.pdf",
-    "as_of": 2023
-   },
-   {
-    "value": {
-     "name": "Dining",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/adaaran-prestige-vadoo/",
+    "source_url": "https://www.adaaran.com/prestigevadoo/premium-all-inclusive-offering/",
     "as_of": "2026-10-04"
    },
    {
     "value": {
-     "name": "Dining",
+     "name": "Kithajima Japanese Restaurant",
      "cuisine": null,
      "type": "restaurant"
     },
-    "source_url": "https://www.neoscapesmaldives.com/resort/adaaran-prestige-vadoo/",
+    "source_url": "https://www.adaaran.com/prestigevadoo/premium-all-inclusive-offering/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Kakuni Barefoot Restaurant",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.adaaran.com/prestigevadoo/premium-all-inclusive-offering/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Kandolhi Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.adaaran.com/prestigevadoo/premium-all-inclusive-offering/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Dhoni Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.adaaran.com/prestigevadoo/premium-all-inclusive-offering/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Evening sundown cocktails at Kandolhi Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.adaaran.com/prestigevadoo/premium-all-inclusive-offering/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Kakuni Barefoot Beach Restaurant",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.adaaran.com/prestigevadoo/dining/kakuni-barefoot-beach-restaurant/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Farivalhu Fine Dining Restaurant",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.adaaran.com/prestigevadoo/dining/kakuni-barefoot-beach-restaurant/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Kithajima Japanese Restaurant",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.adaaran.com/prestigevadoo/dining/kakuni-barefoot-beach-restaurant/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Dhoni-Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.adaaran.com/prestigevadoo/dining/kakuni-barefoot-beach-restaurant/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Kandholi Overwater Sky Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.adaaran.com/prestigevadoo/dining/kakuni-barefoot-beach-restaurant/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Farivalhu Fine Dining Restaurant",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.adaaran.com/prestigevadoo/sitemap/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Kithajima Japanese Restaurant",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.adaaran.com/prestigevadoo/sitemap/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Kakuni Barefoot Beach Restaurant",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.adaaran.com/prestigevadoo/sitemap/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Dhoni-Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.adaaran.com/prestigevadoo/sitemap/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Kandholi Overwater Sky Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.adaaran.com/prestigevadoo/sitemap/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Complimentary Mini Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.adaaran.com/prestigevadoo/villas/honeymoon-villas/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Complimentary Mini Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.adaaran.com/prestigevadoo/villas/overwater-villas/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Complimentary Mini Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.adaaran.com/prestigevadoo/villas/sunset-water-villas/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Farivalhu Fine Dining Restaurant",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.adaaran.com/prestigevadoo/dining/farivalhu-restaurant/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Kithajima Japanese Restaurant",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.adaaran.com/prestigevadoo/dining/farivalhu-restaurant/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Kakuni Barefoot Beach Restaurant",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.adaaran.com/prestigevadoo/dining/farivalhu-restaurant/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Dhoni-Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.adaaran.com/prestigevadoo/dining/farivalhu-restaurant/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Kandholi Overwater Sky Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.adaaran.com/prestigevadoo/dining/farivalhu-restaurant/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Kithajima Japanese Restaurant",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.adaaran.com/prestigevadoo/dining/kithajima-japanese-restaurant/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Farivalhu Fine Dining Restaurant",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.adaaran.com/prestigevadoo/dining/kithajima-japanese-restaurant/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Kakuni Barefoot Beach Restaurant",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.adaaran.com/prestigevadoo/dining/kithajima-japanese-restaurant/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Dhoni-Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.adaaran.com/prestigevadoo/dining/kithajima-japanese-restaurant/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Kandholi Overwater Sky Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.adaaran.com/prestigevadoo/dining/kithajima-japanese-restaurant/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Dhoni Resort Bar Maldives",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.adaaran.com/prestigevadoo/dining/dhoni-bar/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Farivalhu Fine Dining Restaurant",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.adaaran.com/prestigevadoo/dining/dhoni-bar/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Kithajima Japanese Restaurant",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.adaaran.com/prestigevadoo/dining/dhoni-bar/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Kakuni Barefoot Beach Restaurant",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.adaaran.com/prestigevadoo/dining/dhoni-bar/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Kandholi Overwater Sky Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.adaaran.com/prestigevadoo/dining/dhoni-bar/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Kandholi Overwater Sky Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.adaaran.com/prestigevadoo/dining/kandholi-bar/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Farivalhu Fine Dining Restaurant",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.adaaran.com/prestigevadoo/dining/kandholi-bar/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Kithajima Japanese Restaurant",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.adaaran.com/prestigevadoo/dining/kandholi-bar/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Kakuni Barefoot Beach Restaurant",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.adaaran.com/prestigevadoo/dining/kandholi-bar/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Dhoni-Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.adaaran.com/prestigevadoo/dining/kandholi-bar/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Complimentary Mini Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.adaaran.com/prestigevadoo/villas/sunrise-water-villas/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Farivalhu Fine Dining Restaurant",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.adaaran.com/prestigevadoo/dining/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Kithajima Japanese Restaurant",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.adaaran.com/prestigevadoo/dining/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Kakuni Barefoot Beach Restaurant",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.adaaran.com/prestigevadoo/dining/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Dhoni-Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.adaaran.com/prestigevadoo/dining/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Kandholi Overwater Sky Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.adaaran.com/prestigevadoo/dining/",
     "as_of": "2026-10-04"
    },
    {
@@ -362,65 +1230,452 @@
     },
     "source_url": "https://www.neoscapesmaldives.com/resort/adaaran-prestige-vadoo/",
     "as_of": "2026-10-04"
-   }
-  ],
-  "spa.name": [
-   {
-    "value": "Spa",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Fact-Sheet-Adaara-Prestige-Vadoo.pdf",
-    "as_of": 2023
    },
    {
-    "value": "Diving\nMandara Luxury Spa",
-    "source_url": "https://www.neoscapesmaldives.com/resort/adaaran-prestige-vadoo/",
+    "value": {
+     "name": "Underwater Restaurant Dining Experience",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://maldivestraveller.mv/en/holidays/maldives-tours/day-visit-to-adaaran-prestige-vadoo",
     "as_of": "2026-10-04"
    }
   ],
   "diving_watersports.activities": [
    {
     "value": "snorkeling",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Fact-Sheet-Adaara-Prestige-Vadoo.pdf",
-    "as_of": 2023
+    "source_url": "https://www.adaaran.com/prestigevadoo/view-download/?id=apv-fact-sheet",
+    "as_of": 2026
    },
    {
     "value": "scuba diving",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Fact-Sheet-Adaara-Prestige-Vadoo.pdf",
-    "as_of": 2023
+    "source_url": "https://www.adaaran.com/prestigevadoo/view-download/?id=apv-fact-sheet",
+    "as_of": 2026
    },
    {
     "value": "catamaran",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Fact-Sheet-Adaara-Prestige-Vadoo.pdf",
-    "as_of": 2023
+    "source_url": "https://www.adaaran.com/prestigevadoo/view-download/?id=apv-fact-sheet",
+    "as_of": 2026
    },
    {
     "value": "jet ski",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Fact-Sheet-Adaara-Prestige-Vadoo.pdf",
-    "as_of": 2023
+    "source_url": "https://www.adaaran.com/prestigevadoo/view-download/?id=apv-fact-sheet",
+    "as_of": 2026
    },
    {
     "value": "parasailing",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Fact-Sheet-Adaara-Prestige-Vadoo.pdf",
-    "as_of": 2023
+    "source_url": "https://www.adaaran.com/prestigevadoo/view-download/?id=apv-fact-sheet",
+    "as_of": 2026
    },
    {
     "value": "seabob",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Fact-Sheet-Adaara-Prestige-Vadoo.pdf",
-    "as_of": 2023
+    "source_url": "https://www.adaaran.com/prestigevadoo/view-download/?id=apv-fact-sheet",
+    "as_of": 2026
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.adaaran.com/prestigevadoo/view-download/?id=apv-fact-sheet",
+    "as_of": 2026
    },
    {
     "value": "sailing",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Fact-Sheet-Adaara-Prestige-Vadoo.pdf",
-    "as_of": 2023
+    "source_url": "https://www.adaaran.com/prestigevadoo/view-download/?id=apv-fact-sheet",
+    "as_of": 2026
    },
    {
     "value": "fun tube",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Fact-Sheet-Adaara-Prestige-Vadoo.pdf",
-    "as_of": 2023
+    "source_url": "https://www.adaaran.com/prestigevadoo/view-download/?id=apv-fact-sheet",
+    "as_of": 2026
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.adaaran.com/prestigevadoo/view-download/?id=adaaran-prestig",
+    "as_of": 2026
+   },
+   {
+    "value": "paddleboard",
+    "source_url": "https://www.adaaran.com/prestigevadoo/view-download/?id=adaaran-prestig",
+    "as_of": 2026
+   },
+   {
+    "value": "catamaran",
+    "source_url": "https://www.adaaran.com/prestigevadoo/view-download/?id=adaaran-prestig",
+    "as_of": 2026
+   },
+   {
+    "value": "canoe",
+    "source_url": "https://www.adaaran.com/prestigevadoo/view-download/?id=adaaran-prestig",
+    "as_of": 2026
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.adaaran.com/prestigevadoo/view-download/?id=dive01",
+    "as_of": 2026
+   },
+   {
+    "value": "seabob",
+    "source_url": "https://www.adaaran.com/prestigevadoo/view-download/?id=dive01",
+    "as_of": 2026
    },
    {
     "value": "fishing",
     "source_url": "https://adaaran.eme-devops.com/2026/05/Sustainabilty-Report-APV-2025-26_compressed.pdf",
     "as_of": 2025
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.adaaran.com/prestigevadoo/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin cruise",
+    "source_url": "https://www.adaaran.com/prestigevadoo/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.adaaran.com/prestigevadoo/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.adaaran.com/prestigevadoo/premium-all-inclusive-offering/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "paddleboard",
+    "source_url": "https://www.adaaran.com/prestigevadoo/premium-all-inclusive-offering/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "catamaran",
+    "source_url": "https://www.adaaran.com/prestigevadoo/premium-all-inclusive-offering/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "canoe",
+    "source_url": "https://www.adaaran.com/prestigevadoo/premium-all-inclusive-offering/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.adaaran.com/prestigevadoo/offers/eid-al-fitr-ar/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.adaaran.com/prestigevadoo/facilities/transfers/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://www.adaaran.com/prestigevadoo/facilities/transfers/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.adaaran.com/prestigevadoo/dining/kakuni-barefoot-beach-restaurant/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.adaaran.com/prestigevadoo/sitemap/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://www.adaaran.com/prestigevadoo/sitemap/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.adaaran.com/prestigevadoo/sitemap/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.adaaran.com/prestigevadoo/experiences/whale-submarine-adventure/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://www.adaaran.com/prestigevadoo/experiences/whale-submarine-adventure/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.adaaran.com/prestigevadoo/experiences/whale-submarine-adventure/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.adaaran.com/prestigevadoo/facilities/spa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://www.adaaran.com/prestigevadoo/facilities/spa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.adaaran.com/prestigevadoo/facilities/scuba-diving-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://www.adaaran.com/prestigevadoo/facilities/scuba-diving-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.adaaran.com/prestigevadoo/experiences/sunset-photo-flip/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://www.adaaran.com/prestigevadoo/experiences/sunset-photo-flip/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.adaaran.com/prestigevadoo/experiences/sunset-photo-flip/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.adaaran.com/prestigevadoo/offers/vow-renewal/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.adaaran.com/prestigevadoo/offers/eid-al-fitr-offer/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.adaaran.com/prestigevadoo/experiences/morning-fishing/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://www.adaaran.com/prestigevadoo/experiences/morning-fishing/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.adaaran.com/prestigevadoo/experiences/morning-fishing/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.adaaran.com/prestigevadoo/villas/honeymoon-villas/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.adaaran.com/prestigevadoo/experiences/diving/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://www.adaaran.com/prestigevadoo/experiences/diving/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.adaaran.com/prestigevadoo/experiences/diving/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.adaaran.com/prestigevadoo/weddings/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.adaaran.com/prestigevadoo/experiences/excursions/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://www.adaaran.com/prestigevadoo/experiences/excursions/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.adaaran.com/prestigevadoo/experiences/excursions/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.adaaran.com/prestigevadoo/experiences/excursions/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.adaaran.com/prestigevadoo/offers/romantic-getaway/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.adaaran.com/prestigevadoo/location/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.adaaran.com/prestigevadoo/gallery/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.adaaran.com/prestigevadoo/offers/book-direct-th/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.adaaran.com/prestigevadoo/villas/overwater-villas/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.adaaran.com/prestigevadoo/offers/storrington-collective-romantic-getaway/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.adaaran.com/prestigevadoo/villas/sunset-water-villas/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.adaaran.com/prestigevadoo/dining/farivalhu-restaurant/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.adaaran.com/prestigevadoo/offers/book-direct/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.adaaran.com/prestigevadoo/dining/kithajima-japanese-restaurant/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.adaaran.com/prestigevadoo/experiences/watersports/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://www.adaaran.com/prestigevadoo/experiences/watersports/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "catamaran",
+    "source_url": "https://www.adaaran.com/prestigevadoo/experiences/watersports/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "jet ski",
+    "source_url": "https://www.adaaran.com/prestigevadoo/experiences/watersports/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "water skiing",
+    "source_url": "https://www.adaaran.com/prestigevadoo/experiences/watersports/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "seabob",
+    "source_url": "https://www.adaaran.com/prestigevadoo/experiences/watersports/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.adaaran.com/prestigevadoo/experiences/watersports/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sailing",
+    "source_url": "https://www.adaaran.com/prestigevadoo/experiences/watersports/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fun tube",
+    "source_url": "https://www.adaaran.com/prestigevadoo/experiences/watersports/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.adaaran.com/prestigevadoo/dining/dhoni-bar/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.adaaran.com/prestigevadoo/offers/book-direct-es/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.adaaran.com/prestigevadoo/dining/kandholi-bar/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.adaaran.com/prestigevadoo/experiences/diving/housereef-vadoo/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://www.adaaran.com/prestigevadoo/experiences/diving/housereef-vadoo/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.adaaran.com/prestigevadoo/experiences/diving/housereef-vadoo/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.adaaran.com/prestigevadoo/villas/sunrise-water-villas/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.adaaran.com/prestigevadoo/offers/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.adaaran.com/prestigevadoo/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://www.adaaran.com/prestigevadoo/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.adaaran.com/prestigevadoo/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.adaaran.com/prestigevadoo/villas/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.adaaran.com/prestigevadoo/dining/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.adaaran.com/prestigevadoo/offers/bestofmaldives/",
+    "as_of": "2026-10-04"
    },
    {
     "value": "snorkelling",
@@ -441,28 +1696,198 @@
     "value": "fishing",
     "source_url": "https://www.neoscapesmaldives.com/resort/adaaran-prestige-vadoo/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://maldivestraveller.mv/de/holidays/maldives-tours/day-visit-to-adaaran-prestige-vadoo",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://maldivestraveller.mv/en/holidays/maldives-tours/day-visit-to-adaaran-prestige-vadoo",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://maldivestraveller.mv/en/holidays/maldives-tours/day-visit-to-adaaran-prestige-vadoo",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.maldivesholidayoffers.com/accomodation/resorts/adaaran-prestige-vadoo/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "parasailing",
+    "source_url": "https://www.maldivesholidayoffers.com/accomodation/resorts/adaaran-prestige-vadoo/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.maldivesholidayoffers.com/accomodation/resorts/adaaran-prestige-vadoo/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.maldivesholidayoffers.com/accomodation/resorts/adaaran-prestige-vadoo/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.mymaldives.com/resort-guide/adaaran-select-vadoo/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://www.mymaldives.com/resort-guide/adaaran-select-vadoo/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.mymaldives.com/resort-guide/adaaran-select-vadoo/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sailing",
+    "source_url": "https://www.mymaldives.com/resort-guide/adaaran-select-vadoo/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://maldivestraveller.mv/it/holidays/maldives-tours/day-visit-to-adaaran-prestige-vadoo",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://maldivestraveller.mv/it/holidays/maldives-tours/day-visit-to-adaaran-prestige-vadoo",
+    "as_of": "2026-10-04"
    }
   ],
   "excursions": [
    {
-    "value": "sandbank",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Fact-Sheet-Adaara-Prestige-Vadoo.pdf",
-    "as_of": 2023
+    "value": "local island",
+    "source_url": "https://www.adaaran.com/prestigevadoo/view-download/?id=apv-fact-sheet",
+    "as_of": 2026
    },
    {
     "value": "dolphin",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Fact-Sheet-Adaara-Prestige-Vadoo.pdf",
-    "as_of": 2023
+    "source_url": "https://www.adaaran.com/prestigevadoo/view-download/?id=apv-fact-sheet",
+    "as_of": 2026
    },
    {
-    "value": "picnic",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Fact-Sheet-Adaara-Prestige-Vadoo.pdf",
-    "as_of": 2023
+    "value": "dolphin",
+    "source_url": "https://www.adaaran.com/prestigevadoo/view-download/?id=adaaran-prestig",
+    "as_of": 2026
    },
    {
     "value": "turtle",
     "source_url": "https://adaaran.eme-devops.com/2026/05/Sustainabilty-Report-APV-2025-26_compressed.pdf",
     "as_of": 2025
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.adaaran.com/prestigevadoo/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.adaaran.com/prestigevadoo/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.adaaran.com/prestigevadoo/premium-all-inclusive-offering/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.adaaran.com/prestigevadoo/experiences/whale-submarine-adventure/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.adaaran.com/prestigevadoo/experiences/sunset-photo-flip/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.adaaran.com/prestigevadoo/offers/vow-renewal/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.adaaran.com/prestigevadoo/offers/eid-al-fitr-offer/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.adaaran.com/prestigevadoo/experiences/morning-fishing/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.adaaran.com/prestigevadoo/experiences/diving/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "local island",
+    "source_url": "https://www.adaaran.com/prestigevadoo/experiences/excursions/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.adaaran.com/prestigevadoo/experiences/excursions/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset fishing",
+    "source_url": "https://www.adaaran.com/prestigevadoo/experiences/excursions/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.adaaran.com/prestigevadoo/offers/romantic-getaway/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.adaaran.com/prestigevadoo/offers/storrington-collective-romantic-getaway/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.adaaran.com/prestigevadoo/offers/book-direct/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.adaaran.com/prestigevadoo/experiences/watersports/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.adaaran.com/prestigevadoo/experiences/diving/housereef-vadoo/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.adaaran.com/prestigevadoo/experiences/diving/housereef-vadoo/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.adaaran.com/prestigevadoo/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.adaaran.com/prestigevadoo/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.adaaran.com/prestigevadoo/offers/bestofmaldives/",
+    "as_of": "2026-10-04"
    },
    {
     "value": "local island",
@@ -483,20 +1908,135 @@
     "value": "stargazing",
     "source_url": "https://www.neoscapesmaldives.com/resort/adaaran-prestige-vadoo/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://maldivestraveller.mv/en/holidays/maldives-tours/day-visit-to-adaaran-prestige-vadoo",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://maldivestraveller.mv/en/holidays/maldives-tours/day-visit-to-adaaran-prestige-vadoo",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "local island",
+    "source_url": "https://www.maldivesholidayoffers.com/accomodation/resorts/adaaran-prestige-vadoo/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.maldivesholidayoffers.com/accomodation/resorts/adaaran-prestige-vadoo/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.maldivesholidayoffers.com/accomodation/resorts/adaaran-prestige-vadoo/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "picnic",
+    "source_url": "https://www.maldivesholidayoffers.com/accomodation/resorts/adaaran-prestige-vadoo/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "night fishing",
+    "source_url": "https://www.mymaldives.com/resort-guide/adaaran-select-vadoo/",
+    "as_of": "2026-10-04"
    }
   ],
   "wellness_fitness": [
    {
     "value": "beach volleyball",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Fact-Sheet-Adaara-Prestige-Vadoo.pdf",
-    "as_of": 2023
+    "source_url": "https://www.adaaran.com/prestigevadoo/view-download/?id=apv-fact-sheet",
+    "as_of": 2026
+   },
+   {
+    "value": "beach volleyball",
+    "source_url": "https://www.adaaran.com/prestigevadoo/view-download/?id=adaaran-prestig",
+    "as_of": 2026
+   },
+   {
+    "value": "beach volleyball",
+    "source_url": "https://www.adaaran.com/prestigevadoo/premium-all-inclusive-offering/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "gym",
+    "source_url": "https://www.dnatatravel.com/2-1516196-1/adaaran-prestige-vadoo?oc=true",
+    "as_of": "2026-10-04"
    }
   ],
   "weddings.offered": [
    {
     "value": true,
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Fact-Sheet-Adaara-Prestige-Vadoo.pdf",
-    "as_of": 2023
+    "source_url": "https://www.adaaran.com/prestigevadoo/view-download/?id=apv-fact-sheet",
+    "as_of": 2026
+   },
+   {
+    "value": true,
+    "source_url": "https://www.adaaran.com/prestigevadoo/view-download/?id=PVW",
+    "as_of": 2026
+   },
+   {
+    "value": true,
+    "source_url": "https://www.adaaran.com/prestigevadoo/view-download/?id=dive01",
+    "as_of": 2026
+   },
+   {
+    "value": true,
+    "source_url": "https://www.adaaran.com/prestigevadoo/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.adaaran.com/prestigevadoo/premium-all-inclusive-offering/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.adaaran.com/prestigevadoo/sitemap/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.adaaran.com/prestigevadoo/offers/vow-renewal/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.adaaran.com/prestigevadoo/offers/vow-renewal/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.adaaran.com/prestigevadoo/villas/honeymoon-villas/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.adaaran.com/prestigevadoo/weddings/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.adaaran.com/prestigevadoo/weddings/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.adaaran.com/prestigevadoo/offers/romantic-getaway/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.adaaran.com/prestigevadoo/offers/romantic-getaway/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.adaaran.com/prestigevadoo/offers/storrington-collective-romantic-getaway/",
+    "as_of": "2026-10-04"
    },
    {
     "value": true,
@@ -504,11 +2044,379 @@
     "as_of": "2026-10-04"
    }
   ],
-  "weddings.vow_renewal": [
+  "contacts_public.phone": [
    {
-    "value": true,
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Fact-Sheet-Adaara-Prestige-Vadoo.pdf",
-    "as_of": 2023
+    "value": "+960 664 3976",
+    "source_url": "https://www.adaaran.com/prestigevadoo/view-download/?id=apv-fact-sheet",
+    "as_of": 2026
+   },
+   {
+    "value": "+960 664 3976",
+    "source_url": "https://www.maldivesexperts.com/uploads/resorts/e89bfa9988523a35d42c99f97850d4b8.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": "+960 736 5425",
+    "source_url": "https://www.neoscapesmaldives.com/resort/adaaran-prestige-vadoo/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+9607776038",
+    "source_url": "https://maldivestraveller.mv/de/holidays/maldives-tours/day-visit-to-adaaran-prestige-vadoo",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+9607776038",
+    "source_url": "https://maldivestraveller.mv/jp/holidays/maldives-tours/day-visit-to-adaaran-prestige-vadoo",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+9607776038",
+    "source_url": "https://maldivestraveller.mv/en/holidays/maldives-tours/day-visit-to-adaaran-prestige-vadoo",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 7773 699",
+    "source_url": "https://www.maldivesholidayoffers.com/accomodation/resorts/adaaran-prestige-vadoo/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+9607776038",
+    "source_url": "https://maldivestraveller.mv/it/holidays/maldives-tours/day-visit-to-adaaran-prestige-vadoo",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "weddings.packages": [
+   {
+    "value": {
+     "name": "Wedding",
+     "price": "240",
+     "currency": "USD",
+     "as_of": 2026
+    },
+    "source_url": "https://www.adaaran.com/prestigevadoo/view-download/?id=PVW",
+    "as_of": 2026
+   },
+   {
+    "value": {
+     "name": "Wedding",
+     "price": "143",
+     "currency": "USD",
+     "as_of": 2026
+    },
+    "source_url": "https://www.adaaran.com/prestigevadoo/view-download/?id=dive01",
+    "as_of": 2026
+   }
+  ],
+  "spa.name": [
+   {
+    "value": "Spa",
+    "source_url": "https://www.maldivesexperts.com/uploads/resorts/e89bfa9988523a35d42c99f97850d4b8.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.adaaran.com/prestigevadoo/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.adaaran.com/prestigevadoo/premium-all-inclusive-offering/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.adaaran.com/prestigevadoo/offers/eid-al-fitr-ar/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.adaaran.com/prestigevadoo/facilities/transfers/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.adaaran.com/prestigevadoo/dining/kakuni-barefoot-beach-restaurant/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.adaaran.com/prestigevadoo/sitemap/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.adaaran.com/prestigevadoo/experiences/whale-submarine-adventure/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.adaaran.com/prestigevadoo/facilities/spa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.adaaran.com/prestigevadoo/facilities/scuba-diving-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.adaaran.com/prestigevadoo/experiences/sunset-photo-flip/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.adaaran.com/prestigevadoo/offers/vow-renewal/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.adaaran.com/prestigevadoo/offers/eid-al-fitr-offer/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.adaaran.com/prestigevadoo/experiences/morning-fishing/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.adaaran.com/prestigevadoo/villas/honeymoon-villas/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.adaaran.com/prestigevadoo/experiences/diving/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.adaaran.com/prestigevadoo/weddings/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.adaaran.com/prestigevadoo/experiences/excursions/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.adaaran.com/prestigevadoo/offers/romantic-getaway/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.adaaran.com/prestigevadoo/location/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.adaaran.com/prestigevadoo/gallery/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.adaaran.com/prestigevadoo/offers/book-direct-th/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.adaaran.com/prestigevadoo/villas/overwater-villas/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.adaaran.com/prestigevadoo/offers/storrington-collective-romantic-getaway/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.adaaran.com/prestigevadoo/villas/sunset-water-villas/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.adaaran.com/prestigevadoo/dining/farivalhu-restaurant/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.adaaran.com/prestigevadoo/offers/book-direct/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.adaaran.com/prestigevadoo/dining/kithajima-japanese-restaurant/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.adaaran.com/prestigevadoo/experiences/watersports/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.adaaran.com/prestigevadoo/dining/dhoni-bar/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.adaaran.com/prestigevadoo/offers/book-direct-es/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.adaaran.com/prestigevadoo/dining/kandholi-bar/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.adaaran.com/prestigevadoo/experiences/diving/housereef-vadoo/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.adaaran.com/prestigevadoo/villas/sunrise-water-villas/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.adaaran.com/prestigevadoo/offers/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.adaaran.com/prestigevadoo/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.adaaran.com/prestigevadoo/villas/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.adaaran.com/prestigevadoo/dining/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.adaaran.com/prestigevadoo/offers/bestofmaldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Diving\nMandara Luxury Spa",
+    "source_url": "https://www.neoscapesmaldives.com/resort/adaaran-prestige-vadoo/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Luxury Maldives Spa",
+    "source_url": "https://www.maldivesholidayoffers.com/accomodation/resorts/adaaran-prestige-vadoo/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.mymaldives.com/resort-guide/adaaran-select-vadoo/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Mandara Spa",
+    "source_url": "https://www.dnatatravel.com/2-1516196-1/adaaran-prestige-vadoo?oc=true",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "contacts_public.reservations_email": [
+   {
+    "value": "infoasia@mandaraspa.com",
+    "source_url": "https://www.maldivesexperts.com/uploads/resorts/e89bfa9988523a35d42c99f97850d4b8.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": "reservations@adaaran.com.mv",
+    "source_url": "https://www.adaaran.com/prestigevadoo/view-download/?id=adaaran-prestig",
+    "as_of": 2026
+   },
+   {
+    "value": "info@divepoint-maldives.com",
+    "source_url": "https://www.adaaran.com/prestigevadoo/view-download/?id=dive01",
+    "as_of": 2026
+   },
+   {
+    "value": "info@neoscapesmaldives.com",
+    "source_url": "https://www.neoscapesmaldives.com/resort/adaaran-prestige-vadoo/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "all_inclusive_details": [
+   {
+    "value": "All Inclusive offering.",
+    "source_url": "https://www.adaaran.com/prestigevadoo/view-download/?id=adaaran-prestig",
+    "as_of": 2026
+   },
+   {
+    "value": "all inclusive resort, we invite you to slip into island time with floating breakfasts, dolphin cruises, and sunsets toasted with crisp champagne.",
+    "source_url": "https://www.adaaran.com/prestigevadoo/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "All-Inclusive offering as one of the well-known Maldives Resorts with Free Transfers featuring premium beverages and single malts.",
+    "source_url": "https://www.adaaran.com/prestigevadoo/premium-all-inclusive-offering/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "All Inclusive package here.",
+    "source_url": "https://www.adaaran.com/prestigevadoo/offers/vow-renewal/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "All-Inclusive experience, where every detail is crafted for couples seeking the best honeymoon packages for Maldives.",
+    "source_url": "https://www.adaaran.com/prestigevadoo/offers/romantic-getaway/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "All-Inclusive experience, where every detail is crafted for couples.",
+    "source_url": "https://www.adaaran.com/prestigevadoo/offers/storrington-collective-romantic-getaway/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "All-Inclusive offering, every detail is designed to celebrate your love story—because this summer, it’s all about you and your moments together.",
+    "source_url": "https://www.adaaran.com/prestigevadoo/offers/book-direct/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "all inclusive holiday.",
+    "source_url": "https://www.adaaran.com/prestigevadoo/offers/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "all-inclusive luxury set the scene for unforgettable moments together.",
+    "source_url": "https://www.adaaran.com/prestigevadoo/offers/bestofmaldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "All-inclusive-Tagespass beinhaltet den Hin- und Rücktransfer, ein Mittagsbuffet, unbegrenzte alkoholische und alkoholfreie Getränke sowie Zugang zu Strand, Pool, WLAN und Duschen.",
+    "source_url": "https://maldivestraveller.mv/de/holidays/maldives-tours/day-visit-to-adaaran-prestige-vadoo",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "all-inclusive day pass includes roundtrip transfers, buffet lunch, unlimited alcoholic and non-alcoholic drinks, beach access, pool access, Wi-Fi and shower facilities.",
+    "source_url": "https://maldivestraveller.mv/en/holidays/maldives-tours/day-visit-to-adaaran-prestige-vadoo",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "all-inclusive plan.",
+    "source_url": "https://www.maldivesholidayoffers.com/accomodation/resorts/adaaran-prestige-vadoo/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "all-inclusive di Adaaran Prestige Vadoo comprende bevande illimitate, un pranzo a buffet, una piscina e servizi in spiaggia.",
+    "source_url": "https://maldivestraveller.mv/it/holidays/maldives-tours/day-visit-to-adaaran-prestige-vadoo",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "All-inclusive resort, located on the South Male Atoll, a 15-minute speedboat ride, offers bespoke amenities and personalized butler service for a secluded escape.",
+    "source_url": "https://www.dnatatravel.com/2-1516196-1/adaaran-prestige-vadoo?oc=true",
+    "as_of": "2026-10-04"
    }
   ],
   "sustainability": [
@@ -536,19 +2444,417 @@
     "value": "composting",
     "source_url": "https://adaaran.eme-devops.com/2026/05/Sustainabilty-Report-APV-2025-26_compressed.pdf",
     "as_of": 2025
-   }
-  ],
-  "atoll": [
+   },
    {
-    "value": "South Malé Atoll",
-    "source_url": "https://www.neoscapesmaldives.com/resort/adaaran-prestige-vadoo/",
+    "value": "Green Globe",
+    "source_url": "https://maldivestraveller.mv/de/holidays/maldives-tours/day-visit-to-adaaran-prestige-vadoo",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Green Globe",
+    "source_url": "https://maldivestraveller.mv/en/holidays/maldives-tours/day-visit-to-adaaran-prestige-vadoo",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "solar",
+    "source_url": "https://maldivestraveller.mv/it/holidays/maldives-tours/day-visit-to-adaaran-prestige-vadoo",
     "as_of": "2026-10-04"
    }
   ],
   "transfer.minutes.speedboat": [
    {
     "value": 15,
+    "source_url": "https://www.adaaran.com/prestigevadoo/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 15,
+    "source_url": "https://www.adaaran.com/prestigevadoo/location/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 15,
     "source_url": "https://www.neoscapesmaldives.com/resort/adaaran-prestige-vadoo/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 15,
+    "source_url": "https://maldivestraveller.mv/en/holidays/maldives-tours/day-visit-to-adaaran-prestige-vadoo",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 15,
+    "source_url": "https://www.maldivesholidayoffers.com/accomodation/resorts/adaaran-prestige-vadoo/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 15,
+    "source_url": "https://www.dnatatravel.com/2-1516196-1/adaaran-prestige-vadoo?oc=true",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "meal_plans": [
+   {
+    "value": "AI",
+    "source_url": "https://www.adaaran.com/prestigevadoo/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Dine Around",
+    "source_url": "https://www.adaaran.com/prestigevadoo/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Dine Around",
+    "source_url": "https://www.adaaran.com/prestigevadoo/premium-all-inclusive-offering/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://www.adaaran.com/prestigevadoo/weddings/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://www.adaaran.com/prestigevadoo/offers/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://www.adaaran.com/prestigevadoo/offers/bestofmaldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Premium AI",
+    "source_url": "https://www.adaaran.com/prestigevadoo/offers/bestofmaldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://maldivestraveller.mv/en/holidays/maldives-tours/day-visit-to-adaaran-prestige-vadoo",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://www.maldivesholidayoffers.com/accomodation/resorts/adaaran-prestige-vadoo/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Dine Around",
+    "source_url": "https://www.maldivesholidayoffers.com/accomodation/resorts/adaaran-prestige-vadoo/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://maldivestraveller.mv/it/holidays/maldives-tours/day-visit-to-adaaran-prestige-vadoo",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "diving_watersports.operator": [
+   {
+    "value": "Dive Centre",
+    "source_url": "https://www.adaaran.com/prestigevadoo/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Dive Centre",
+    "source_url": "https://www.adaaran.com/prestigevadoo/premium-all-inclusive-offering/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Dive Centre",
+    "source_url": "https://www.adaaran.com/prestigevadoo/facilities/transfers/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Dive Centre",
+    "source_url": "https://www.adaaran.com/prestigevadoo/sitemap/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Dive Centre",
+    "source_url": "https://www.adaaran.com/prestigevadoo/facilities/spa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Dive Point",
+    "source_url": "https://www.adaaran.com/prestigevadoo/facilities/scuba-diving-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Dive Centre",
+    "source_url": "https://www.adaaran.com/prestigevadoo/experiences/sunset-photo-flip/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Dive Point",
+    "source_url": "https://www.adaaran.com/prestigevadoo/experiences/diving/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Dive Centre",
+    "source_url": "https://www.adaaran.com/prestigevadoo/experiences/excursions/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Dive Centre",
+    "source_url": "https://www.adaaran.com/prestigevadoo/offers/romantic-getaway/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Dive Centre",
+    "source_url": "https://www.adaaran.com/prestigevadoo/location/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Dive Centre",
+    "source_url": "https://www.adaaran.com/prestigevadoo/gallery/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Dive Centre",
+    "source_url": "https://www.adaaran.com/prestigevadoo/offers/book-direct-th/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Dive Centre",
+    "source_url": "https://www.adaaran.com/prestigevadoo/villas/overwater-villas/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Dive Centre",
+    "source_url": "https://www.adaaran.com/prestigevadoo/villas/sunset-water-villas/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Dive Centre",
+    "source_url": "https://www.adaaran.com/prestigevadoo/dining/farivalhu-restaurant/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Dive Centre",
+    "source_url": "https://www.adaaran.com/prestigevadoo/offers/book-direct/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Dive Centre",
+    "source_url": "https://www.adaaran.com/prestigevadoo/dining/kithajima-japanese-restaurant/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Dive Centre",
+    "source_url": "https://www.adaaran.com/prestigevadoo/offers/book-direct-es/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Dive Centre",
+    "source_url": "https://www.adaaran.com/prestigevadoo/villas/sunrise-water-villas/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Dive Centre",
+    "source_url": "https://www.adaaran.com/prestigevadoo/offers/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Dive Centre",
+    "source_url": "https://www.adaaran.com/prestigevadoo/villas/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Dive Centre",
+    "source_url": "https://www.adaaran.com/prestigevadoo/dining/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "diving_watersports.house_reef": [
+   {
+    "value": "house reefs in the Malé Atoll below",
+    "source_url": "https://www.adaaran.com/prestigevadoo/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Housereef Vadoo",
+    "source_url": "https://www.adaaran.com/prestigevadoo/sitemap/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Housereef Vadoo",
+    "source_url": "https://www.adaaran.com/prestigevadoo/experiences/whale-submarine-adventure/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "House Reef, in front of our Dive Centre",
+    "source_url": "https://www.adaaran.com/prestigevadoo/facilities/scuba-diving-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Housereef Vadoo",
+    "source_url": "https://www.adaaran.com/prestigevadoo/experiences/sunset-photo-flip/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Housereef Vadoo",
+    "source_url": "https://www.adaaran.com/prestigevadoo/experiences/morning-fishing/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "House Reef, in front of our Dive Centre",
+    "source_url": "https://www.adaaran.com/prestigevadoo/experiences/diving/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Housereef Vadoo",
+    "source_url": "https://www.adaaran.com/prestigevadoo/experiences/excursions/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef and Vadoo caves in the South Male Atoll, teeming with vibrant underwater fauna and flora",
+    "source_url": "https://www.adaaran.com/prestigevadoo/location/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Housereef Vadoo",
+    "source_url": "https://www.adaaran.com/prestigevadoo/experiences/watersports/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Housereef Vadoo",
+    "source_url": "https://www.adaaran.com/prestigevadoo/experiences/diving/housereef-vadoo/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Housereef Vadoo",
+    "source_url": "https://www.adaaran.com/prestigevadoo/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "House Reef Snorkeling",
+    "source_url": "https://www.adaaran.com/prestigevadoo/offers/bestofmaldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef and award winning overwater villas, the resort blends barefoot island living with refined indulgence",
+    "source_url": "https://www.neoscapesmaldives.com/resort/adaaran-prestige-vadoo/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef",
+    "source_url": "https://maldivestraveller.mv/en/holidays/maldives-tours/day-visit-to-adaaran-prestige-vadoo",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef, which is teeming with colorful marine life",
+    "source_url": "https://www.maldivesholidayoffers.com/accomodation/resorts/adaaran-prestige-vadoo/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef which is teeming with marine life",
+    "source_url": "https://www.mymaldives.com/resort-guide/adaaran-select-vadoo/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef con molti pesci",
+    "source_url": "https://maldivestraveller.mv/it/holidays/maldives-tours/day-visit-to-adaaran-prestige-vadoo",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "weddings.vow_renewal": [
+   {
+    "value": true,
+    "source_url": "https://www.adaaran.com/prestigevadoo/offers/eid-al-fitr-ar/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.adaaran.com/prestigevadoo/dining/kakuni-barefoot-beach-restaurant/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.adaaran.com/prestigevadoo/sitemap/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.adaaran.com/prestigevadoo/experiences/whale-submarine-adventure/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.adaaran.com/prestigevadoo/facilities/scuba-diving-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.adaaran.com/prestigevadoo/offers/vow-renewal/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.adaaran.com/prestigevadoo/offers/eid-al-fitr-offer/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.adaaran.com/prestigevadoo/experiences/morning-fishing/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.adaaran.com/prestigevadoo/villas/honeymoon-villas/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.adaaran.com/prestigevadoo/weddings/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.adaaran.com/prestigevadoo/offers/storrington-collective-romantic-getaway/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.adaaran.com/prestigevadoo/experiences/watersports/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.adaaran.com/prestigevadoo/dining/dhoni-bar/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.adaaran.com/prestigevadoo/dining/kandholi-bar/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.adaaran.com/prestigevadoo/experiences/diving/housereef-vadoo/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.adaaran.com/prestigevadoo/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.adaaran.com/prestigevadoo/offers/bestofmaldives/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "weddings.venues": [
+   {
+    "value": "Outdoor beach venue",
+    "source_url": "https://www.adaaran.com/prestigevadoo/weddings/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Outdoor beach venue",
+    "source_url": "https://www.adaaran.com/prestigevadoo/weddings/",
     "as_of": "2026-10-04"
    }
   ],
@@ -559,27 +2865,13 @@
     "as_of": "2026-10-04"
    }
   ],
-  "diving_watersports.house_reef": [
+  "villas.total": [
    {
-    "value": "house reef and award winning overwater villas, the resort blends barefoot island living with refined indulgence",
-    "source_url": "https://www.neoscapesmaldives.com/resort/adaaran-prestige-vadoo/",
-    "as_of": "2026-10-04"
-   }
-  ],
-  "contacts_public.reservations_email": [
-   {
-    "value": "info@neoscapesmaldives.com",
-    "source_url": "https://www.neoscapesmaldives.com/resort/adaaran-prestige-vadoo/",
-    "as_of": "2026-10-04"
-   }
-  ],
-  "contacts_public.phone": [
-   {
-    "value": "+960 736 5425",
-    "source_url": "https://www.neoscapesmaldives.com/resort/adaaran-prestige-vadoo/",
+    "value": 50,
+    "source_url": "https://www.mymaldives.com/resort-guide/adaaran-select-vadoo/",
     "as_of": "2026-10-04"
    }
   ]
  },
- "last_updated": "2026-10-04"
+ "last_updated": "2026-10-05"
 }

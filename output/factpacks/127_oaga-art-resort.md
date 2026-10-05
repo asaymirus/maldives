@@ -1,40 +1,47 @@
 # 127. Oaga Art Resort
 
-**Official site:** n/a (None)  
+**Official site:** https://oagaresorts.com/ (ok)  
 **Brand:** Oaga  
-**Atoll:** n/a  **Island:** n/a  
+**Atoll:** Raa Atoll  **Island:** n/a  
 **Opened/renovated:** n/a  **Rating:** n/a  
-**Transfer:** n/a; minutes: {}  
-**Island size:** n/a  
+**Transfer:** speedboat; minutes: {"speedboat": 45}  
+**Island size:** 5.43 ha  
 
 ## Villas (? total)
 
 
 ## Dining
 
+- Guests to chill and relax and SOBI Bar. (bar)
+- FNB increase seating at SOBI Bar. (bar)
+- at Rahvehin mosque at Sobi Bar (bar)
+- at Hoba Deck at Jeymu Cafe (restaurant)
+- Cafe or dance class at Raa Baa (restaurant)
+- Interactive activites at Jeymu Cafe (restaurant)
+- and take note (music lesson) at Sobi Bar (bar)
 
-Meal plans: n/a
+Meal plans: AI
 
 ## Spa & wellness
 
-- Spa: n/a; treatment rooms: ?; menu: none
-- Wellness/fitness: n/a
+- Spa: Hoba Spa; treatment rooms: ?; menu: https://oagaresorts.com/wp-content/uploads/2025/06/Dhulhaheyo-wellness-activities-guide.pdf
+- Wellness/fitness: gym, meditation, sound healing
 
 ## Diving, water sports & excursions
 
 - Operator: n/a
 - House reef: n/a
-- Activities: n/a
+- Activities: manta
 - Price list: none
-- Excursions: n/a
+- Excursions: picnic, cooking class, manta, turtle
 
 ## Kids & family
 
-- Kids club: n/a; ages: n/a; teens: n/a
+- Kids club: Fiyoh Kids Club; ages: n/a; teens: teens programme mentioned
 
 ## Weddings
 
-- Offered: None; vow renewal: None
+- Offered: True; vow renewal: None
 - Venues: n/a
 - Packages: n/a
 - Brochure: none
@@ -50,34 +57,26 @@ Meal plans: n/a
 
 ## Public contacts
 
-- Reservations: n/a; weddings: n/a; phone: n/a
+- Reservations: n/a; weddings: n/a; phone: +960 9339676
 
 ## Latest documents
 
-- factsheet: none
+- factsheet: https://oagaresorts.com/wp-content/uploads/2026/08/1.-ENG-Oaga-Fact-sheet-2026_compressed.pdf
 - map: none
 - wedding: none
-- spa_menu: none
-- dining_menu: none
+- spa_menu: https://oagaresorts.com/wp-content/uploads/2025/06/Dhulhaheyo-wellness-activities-guide.pdf
+- dining_menu: https://oagaresorts.com/wp-content/uploads/2025/11/VGV_Itinirary_Detailed_OPS.pdf
 - dive_prices: none
 - events: none
-- calendar: none
+- calendar: https://oagaresorts.com/wp-content/uploads/2024/09/Festive-brochure-24-25-Oaga-Art.pdf
 
 ## Gaps
 
-- factsheet
 - wedding brochure
 - events/MICE document
 - fact: villas.total
 - fact: villa categories
-- fact: dining
-- fact: transfer
-- fact: atoll
-- fact: spa
 - fact: dive operator
-- fact: kids club
-- fact: weddings
 - fact: contacts
-- no documents or pages collected
 
-_Facts extracted by rules from 0 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-04._
+_Facts extracted by rules from 14 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

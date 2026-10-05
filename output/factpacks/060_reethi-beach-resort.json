@@ -5,10 +5,10 @@
  "aliases": [
   "Reethi Beach"
  ],
- "official_url": null,
- "official_site_status": null,
+ "official_url": "https://world.nh-hotels.com/en/nh-collection-maldives-reethi",
+ "official_site_status": "unverified",
  "operator_brand": "Reethi",
- "atoll": null,
+ "atoll": "Baa Atoll",
  "island": null,
  "opened_or_renovated": null,
  "star_rating": null,
@@ -30,7 +30,7 @@
  "meal_plans": [],
  "all_inclusive_details": null,
  "spa": {
-  "name": null,
+  "name": "Spa",
   "treatment_rooms": null,
   "signature_treatments": [],
   "menu_doc": null
@@ -47,7 +47,9 @@
   "age_range": null,
   "teens": null
  },
- "wellness_fitness": [],
+ "wellness_fitness": [
+  "yoga"
+ ],
  "weddings": {
   "offered": null,
   "vow_renewal": null,
@@ -86,14 +88,33 @@
   "fact: villa categories",
   "fact: dining",
   "fact: transfer",
-  "fact: atoll",
-  "fact: spa",
   "fact: dive operator",
   "fact: kids club",
   "fact: weddings",
-  "fact: contacts",
-  "no documents or pages collected"
+  "fact: contacts"
  ],
- "sources": {},
- "last_updated": "2026-10-04"
+ "sources": {
+  "atoll": [
+   {
+    "value": "Baa Atoll",
+    "source_url": "https://malediven.de/malediven-hotels/reethi-beach/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "spa.name": [
+   {
+    "value": "Spa",
+    "source_url": "https://malediven.de/malediven-hotels/reethi-beach/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "wellness_fitness": [
+   {
+    "value": "yoga",
+    "source_url": "https://malediven.de/malediven-hotels/reethi-beach/",
+    "as_of": "2026-10-04"
+   }
+  ]
+ },
+ "last_updated": "2026-10-05"
 }

@@ -1,6 +1,6 @@
 # 126. Centara Grand Island Resort & Spa Maldives
 
-**Official site:** n/a (None)  
+**Official site:** https://www.centarahotelsresorts.com/the-centara-collection/cirm (ok)  
 **Brand:** Centara  
 **Atoll:** Ari Atoll  **Island:** n/a  
 **Opened/renovated:** n/a  **Rating:** n/a  
@@ -9,20 +9,18 @@
 
 ## Villas (? total)
 
-- villas ranging in size from to . All Beach Suites: count ?, 159 sqm, max ?
 - Villas: count 112, ? sqm, max ?
 - the over water villa: count 22, ? sqm, max ?, overwater
 - beach suite: count 1, ? sqm, max ?
 
 ## Dining
 
-- Dining (restaurant)
-- Advance reservation is required for Teppanyaki dining. (restaurant)
+- Aqua Bar (bar)
+- Coral Bar and Lounge (bar)
 - Coral Bar & Lounge (bar)
-- In-villa Dining (restaurant)
 
 Meal plans: AI
-All-inclusive: all-inclusive” holiday experience besides the crystal-clear waters of the Indian Ocean.
+All-inclusive: all-inclusive resort in the beautiful Maldives, we cater to the desires of every traveller, from couples seeking a romantic getaway to families looking for an adventurous holiday.
 
 ## Spa & wellness
 
@@ -32,10 +30,10 @@ All-inclusive: all-inclusive” holiday experience besides the crystal-clear wat
 ## Diving, water sports & excursions
 
 - Operator: Best Dives
-- House reef: house reef which has its own submerged shipwreck to some of the Maldives’ best snorkelling and diving sites within a stone’s throw of the resort
-- Activities: snorkelling, windsurfing, fishing, sunset cruise, whale shark, manta, banana boat
+- House reef: house reef, enriched with vibrant island life
+- Activities: snorkelling, windsurfing, kayaking, stand-up paddle, paddleboard, jet ski, parasailing, wakeboarding, fishing, whale shark, banana boat, sunset cruise, dolphin cruise, snorkeling, manta
 - Price list: none
-- Excursions: local island, sunset fishing, whale shark, manta, turtle, private dinner
+- Excursions: whale shark, turtle, dolphin, picnic, local island, sunset fishing, manta, private dinner
 
 ## Kids & family
 
@@ -51,31 +49,30 @@ All-inclusive: all-inclusive” holiday experience besides the crystal-clear wat
 ## Events / MICE
 
 - Venues: n/a; capacity max: n/a; buyout: None
-- Document: none
+- Document: https://investor.centarahotelsresorts.com/storage/download/cg-document/20190108-centel-cg-2018-en.pdf
 
 ## Sustainability
 
-- n/a
+- coral restoration
 
 ## Public contacts
 
-- Reservations: info@neoscapesmaldives.com; weddings: n/a; phone: +960 736 5425
+- Reservations: info@neoscapesmaldives.com; weddings: n/a; phone: +960 400 9999
 
 ## Latest documents
 
-- factsheet: https://neoscapesmaldives.com/wp-content/uploads/cirm-factsheet-en.pdf
+- factsheet: https://www.centarahotelsresorts.com/the-centara-collection/sites/centara-the-centara-collection/files/2025-05/CIRM_FactSheet_2025_05_14.pdf
 - map: none
 - wedding: none
 - spa_menu: none
 - dining_menu: none
 - dive_prices: none
-- events: none
+- events: https://investor.centarahotelsresorts.com/storage/download/cg-document/20190108-centel-cg-2018-en.pdf
 - calendar: none
 
 ## Gaps
 
 - wedding brochure
-- events/MICE document
 - fact: villas.total
 
-_Facts extracted by rules from 17 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-04._
+_Facts extracted by rules from 18 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

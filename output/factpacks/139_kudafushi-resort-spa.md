@@ -1,6 +1,6 @@
 # 139. Kudafushi Resort & Spa
 
-**Official site:** n/a (None)  
+**Official site:** https://kudafushiresort.com/en/ (ok)  
 **Brand:** n/a  
 **Atoll:** Raa Atoll  **Island:** Kudafushi  
 **Opened/renovated:** n/a  **Rating:** n/a  
@@ -15,7 +15,6 @@
 - Water Villas with Pool: count 10, 85 sqm, max ?, pool
 - Presidential Suite: count 1, 175 sqm, max ?
 - WiFi in all villas Umbrellas: count 2, ? sqm, max ?
-- Number of Villas: count 107, ? sqm, max ?
 - Beach Villa with Pool →: count 32, 102 sqm, max ?, pool
 - Water Villa →: count 22, 75 sqm, max ?
 - Water Villa with Pool →: count 10, 85 sqm, max ?, pool
@@ -23,43 +22,37 @@
 
 ## Dining
 
-- Lounge Chair X 2 (in Villa) Hangers (bar)
 - Mini Bar (replenished daily) Ash Tray (bar)
-- Restaurant welcomes guest for breakfast, lunch and dinner. (restaurant)
-- The Olive Me Restaurant lies where every day the sun (restaurant)
-- The Sea Edge Bar & Grill Restaurant is the most charming (restaurant)
-- Dining (restaurant)
 - De North Main Restaurant (restaurant)
 - Olive Me Restaurant (restaurant)
 - Juju Bar and Pool (bar)
 - Sea Edge Bar (bar)
 
-Meal plans: n/a
+Meal plans: AI
 
 ## Spa & wellness
 
-- Spa: Darts
-Spa; treatment rooms: 10; menu: none
-- Wellness/fitness: gym, fitness centre, tennis, badminton, sauna, steam, fitness center
+- Spa: Spa; treatment rooms: 10; menu: https://kudafushiresort.com/en/wp-content/uploads/2026/08/K-YOGA-WEEKLY-WELLNESS-PROGRAM_2026.pdf
+- Wellness/fitness: gym, fitness centre, tennis, badminton, sauna, steam, yoga, meditation, pilates, fitness center
 
 ## Diving, water sports & excursions
 
 - Operator: n/a
 - House reef: house reef
-- Activities: snorkeling, scuba diving, paddleboard, jet ski, fishing, sunset cruise, dolphin cruise, manta, canoe
-- Price list: none
-- Excursions: local island, dolphin, sunset fishing, manta, turtle, cinema
+- Activities: snorkeling, scuba diving, paddleboard, jet ski, fishing, sunset cruise, dolphin cruise, manta, canoe, windsurfing, stand-up paddle
+- Price list: https://kudafushiresort.com/en/wp-content/uploads/2026/08/AQUASOULS_WATERSPORTS.pdf
+- Excursions: local island, dolphin, sunset fishing, manta, turtle, cinema, sandbank
 
 ## Kids & family
 
-- Kids club: Kids Club; ages: n/a; teens: n/a
+- Kids club: Kids Club; ages: 3-12 years; teens: n/a
 
 ## Weddings
 
 - Offered: True; vow renewal: None
 - Venues: n/a
-- Packages: n/a
-- Brochure: none
+- Packages: Photography Package USD 130 (2026)
+- Brochure: https://kudafushiresort.com/en/wp-content/uploads/2026/08/KUDAFUSHI-WEDDING-PACKAGES.pdf
 
 ## Events / MICE
 
@@ -72,23 +65,22 @@ Spa; treatment rooms: 10; menu: none
 
 ## Public contacts
 
-- Reservations: info@neoscapesmaldives.com; weddings: n/a; phone: +960 736 5425
+- Reservations: sales@kudafushiresort.com; weddings: n/a; phone: +960 736 5425
 
 ## Latest documents
 
 - factsheet: https://www.neoscapesmaldives.com/wp-content/uploads/KUDAFUSHI_FACTSHEET.pdf
 - map: https://www.neoscapesmaldives.com/wp-content/uploads/KUDAFUSHI_MAP.pdf
-- wedding: none
-- spa_menu: none
-- dining_menu: none
-- dive_prices: none
+- wedding: https://kudafushiresort.com/en/wp-content/uploads/2026/08/KUDAFUSHI-WEDDING-PACKAGES.pdf
+- spa_menu: https://kudafushiresort.com/en/wp-content/uploads/2026/08/K-YOGA-WEEKLY-WELLNESS-PROGRAM_2026.pdf
+- dining_menu: https://kudafushiresort.com/en/wp-content/uploads/2026/08/JUJU-ALL-DAY-DINING-MENU.pdf
+- dive_prices: https://kudafushiresort.com/en/wp-content/uploads/2026/08/AQUASOULS_WATERSPORTS.pdf
 - events: none
-- calendar: none
+- calendar: https://kudafushiresort.com/en/wp-content/uploads/2026/08/PADEL-COURT-RENTAL.pdf
 
 ## Gaps
 
-- wedding brochure
 - events/MICE document
 - fact: dive operator
 
-_Facts extracted by rules from 19 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-04._
+_Facts extracted by rules from 22 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

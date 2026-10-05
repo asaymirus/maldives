@@ -7,17 +7,20 @@
   "Maamunagau",
   "Inter Continental Maamunagau"
  ],
- "official_url": null,
- "official_site_status": null,
+ "official_url": "https://maldives.intercontinental.com/",
+ "official_site_status": "blocked-partial",
  "operator_brand": "InterContinental",
- "atoll": null,
- "island": null,
+ "atoll": "Raa Atoll",
+ "island": "Maamunagau",
  "opened_or_renovated": null,
  "star_rating": null,
  "transfer": {
-  "modes": [],
+  "modes": [
+   "seaplane",
+   "yacht"
+  ],
   "minutes": {
-   "seaplane": null,
+   "seaplane": 35,
    "speedboat": null,
    "domestic flight": null,
    "yacht": null
@@ -141,30 +144,70 @@
    }
   ]
  },
- "dining": [],
- "meal_plans": [],
- "all_inclusive_details": null,
+ "dining": [
+  {
+   "name": "每日在 Café Umi 享用早餐及多家餐厅晚餐",
+   "cuisine": null,
+   "type": "restaurant"
+  },
+  {
+   "name": "Private Seaplane Lounge Access",
+   "cuisine": null,
+   "type": "bar"
+  }
+ ],
+ "meal_plans": [
+  "AI"
+ ],
+ "all_inclusive_details": "All-Inclusive private island escape with breakfast, lunch and dinner, selected beverages and .",
  "spa": {
-  "name": null,
+  "name": "AVI Spa",
   "treatment_rooms": null,
   "signature_treatments": [],
   "menu_doc": null
  },
  "diving_watersports": {
   "operator": null,
-  "house_reef": null,
-  "activities": [],
+  "house_reef": "House Reef",
+  "activities": [
+   "sunset cruise",
+   "manta",
+   "windsurfing",
+   "catamaran",
+   "sailing",
+   "snorkelling",
+   "snorkeling",
+   "jet ski",
+   "surfing",
+   "fishing",
+   "kayaking",
+   "stand-up paddle"
+  ],
   "price_list_doc": null
  },
- "excursions": [],
+ "excursions": [
+  "manta",
+  "turtle",
+  "sandbank",
+  "cooking class",
+  "dolphin",
+  "local island"
+ ],
  "kids_family": {
-  "kids_club": null,
-  "age_range": null,
-  "teens": null
+  "kids_club": "Unser Kids Club",
+  "age_range": "2-12 years",
+  "teens": "teens programme mentioned"
  },
- "wellness_fitness": [],
+ "wellness_fitness": [
+  "yoga",
+  "meditation",
+  "sound healing",
+  "beach volleyball",
+  "fitness centre",
+  "personal trainer"
+ ],
  "weddings": {
-  "offered": null,
+  "offered": true,
   "vow_renewal": null,
   "venues": [],
   "packages": [],
@@ -173,14 +216,19 @@
  "events_mice": {
   "venues": [],
   "capacity_max": null,
-  "buyout": null,
+  "buyout": true,
   "doc": null
  },
- "sustainability": [],
+ "sustainability": [
+  "manta trust",
+  "solar",
+  "single-use plastic",
+  "reef restoration"
+ ],
  "contacts_public": {
   "reservations_email": null,
   "weddings_email": null,
-  "phone": null
+  "phone": "+960 730 9300"
  },
  "documents_latest": {
   "factsheet": "https://www.neoscapesmaldives.com/wp-content/uploads/InterContinental-Maldives-Maamunagau-Resort-Factsheet-NEO.pdf",
@@ -197,13 +245,7 @@
   "wedding brochure",
   "events/MICE document",
   "fact: villas.total",
-  "fact: dining",
-  "fact: transfer",
-  "fact: atoll",
-  "fact: spa",
   "fact: dive operator",
-  "fact: kids club",
-  "fact: weddings",
   "fact: contacts"
  ],
  "sources": {
@@ -400,7 +442,933 @@
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/InterContinental-Maldives-Maamunagau-Resort-Factsheet-NEO.pdf",
     "as_of": 2020
    }
+  ],
+  "atoll": [
+   {
+    "value": "Raa Atoll",
+    "source_url": "https://maldives.intercontinental.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Raa Atoll",
+    "source_url": "https://maldives.intercontinental.com/frequently-asked-questions/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Raa Atoll",
+    "source_url": "https://maldives.intercontinental.com/blog/why-intercontinental-maldives-is-perfect-for-exclusive-resort-buyouts/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Raa Atoll",
+    "source_url": "https://maldives.intercontinental.com/silent-immersion-at-intercontinental-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Baa Atoll",
+    "source_url": "https://maldives.intercontinental.com/sustainability/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "transfer.modes": [
+   {
+    "value": "seaplane",
+    "source_url": "https://maldives.intercontinental.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://maldives.intercontinental.com/special-offer/all-inclusive/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://maldives.intercontinental.com/frequently-asked-questions/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yacht",
+    "source_url": "https://maldives.intercontinental.com/frequently-asked-questions/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://maldives.intercontinental.com/club-intercontinental-experience/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://maldives.intercontinental.com/blog/why-intercontinental-maldives-is-perfect-for-exclusive-resort-buyouts/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://maldives.intercontinental.com/villas-residences/villas/2-bedroom-family-lagoon-pool-villas/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://maldives.intercontinental.com/special-offer/maldives-premium-all-inclusive/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "all_inclusive_details": [
+   {
+    "value": "All-Inclusive private island escape with breakfast, lunch and dinner, selected beverages and .",
+    "source_url": "https://maldives.intercontinental.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "All-Inclusive offer.",
+    "source_url": "https://maldives.intercontinental.com/special-offer/all-inclusive/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "All-Inclusive private island escape with breakfast, lunch and dinner, selected beverages and .",
+    "source_url": "https://maldives.intercontinental.com/club-intercontinental-experience/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "all-inclusive Maldives family resort, the variety and flexibility make it easy to enjoy world-class meals without stress, so you can savour everything from Maldivian delicacies to international favourites.",
+    "source_url": "https://maldives.intercontinental.com/blog/family-bliss-awaits/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "All-Inclusive private island escape with breakfast, lunch and dinner, selected beverages and .",
+    "source_url": "https://maldives.intercontinental.com/sustainability/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "all inclusive resorts’ escape, look no further than the InterContinental Maldives.",
+    "source_url": "https://maldives.intercontinental.com/blog/best-all-inclusive-package-in-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "all-inclusive with more to pour, wherever your day takes you.",
+    "source_url": "https://maldives.intercontinental.com/special-offer/maldives-premium-all-inclusive/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "spa.name": [
+   {
+    "value": "AVI Spa",
+    "source_url": "https://maldives.intercontinental.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "AVI Spa",
+    "source_url": "https://maldives.intercontinental.com/zh-hans/special-offer/island-romance/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "AVI Spa",
+    "source_url": "https://maldives.intercontinental.com/special-offer/all-inclusive/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "AVI Spa",
+    "source_url": "https://maldives.intercontinental.com/blog/why-intercontinental-maldives-is-perfect-for-exclusive-resort-buyouts/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://maldives.intercontinental.com/de/family/teens-at-maamunagau/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "AVI Spa",
+    "source_url": "https://maldives.intercontinental.com/sustainability/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "AVI Spa",
+    "source_url": "https://maldives.intercontinental.com/special-offer/maldives-premium-all-inclusive/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "AVI Spa",
+    "source_url": "https://maldives.intercontinental.com/blog/new-beginnings-at-avi-spa-an-interview-with-phil-davies/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "diving_watersports.house_reef": [
+   {
+    "value": "House Reef",
+    "source_url": "https://maldives.intercontinental.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef surrounding our beautiful island, Maamunagau",
+    "source_url": "https://maldives.intercontinental.com/blog/the-manta-retreat-is-back/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "diving_watersports.activities": [
+   {
+    "value": "sunset cruise",
+    "source_url": "https://maldives.intercontinental.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://maldives.intercontinental.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://maldives.intercontinental.com/de/family/planet-trekkers/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "windsurfing",
+    "source_url": "https://maldives.intercontinental.com/special-offer/all-inclusive/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "catamaran",
+    "source_url": "https://maldives.intercontinental.com/special-offer/all-inclusive/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://maldives.intercontinental.com/special-offer/all-inclusive/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sailing",
+    "source_url": "https://maldives.intercontinental.com/special-offer/all-inclusive/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://maldives.intercontinental.com/blog/festive-wellness-and-island-time-in-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://maldives.intercontinental.com/blog/our-favourite-manta-pups/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://maldives.intercontinental.com/blog/our-favourite-manta-pups/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://maldives.intercontinental.com/club-intercontinental-experience/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://maldives.intercontinental.com/club-intercontinental-experience/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://maldives.intercontinental.com/club-intercontinental-experience/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://maldives.intercontinental.com/blog/the-manta-retreat-is-back/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://maldives.intercontinental.com/blog/the-manta-retreat-is-back/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://maldives.intercontinental.com/blog/why-intercontinental-maldives-is-perfect-for-exclusive-resort-buyouts/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "jet ski",
+    "source_url": "https://maldives.intercontinental.com/blog/why-intercontinental-maldives-is-perfect-for-exclusive-resort-buyouts/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sailing",
+    "source_url": "https://maldives.intercontinental.com/blog/why-intercontinental-maldives-is-perfect-for-exclusive-resort-buyouts/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://maldives.intercontinental.com/de/family/teens-at-maamunagau/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://maldives.intercontinental.com/blog/10-manta-ray-facts-2/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://maldives.intercontinental.com/blog/10-manta-ray-facts-2/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "surfing",
+    "source_url": "https://maldives.intercontinental.com/stay-and-book-direct-benefits/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "catamaran",
+    "source_url": "https://maldives.intercontinental.com/stay-and-book-direct-benefits/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sailing",
+    "source_url": "https://maldives.intercontinental.com/stay-and-book-direct-benefits/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://maldives.intercontinental.com/blog/visiting-practitioner-dr-jing-yang-zhao/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://maldives.intercontinental.com/blog/six-ways-yoga-can-help-you/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://maldives.intercontinental.com/blog/sleep-awareness-week-12th-to-18th-march-2023/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://maldives.intercontinental.com/villas-residences/villas/2-bedroom-family-lagoon-pool-villas/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://maldives.intercontinental.com/blog/family-bliss-awaits/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://maldives.intercontinental.com/sustainability/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://maldives.intercontinental.com/sustainability/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://maldives.intercontinental.com/blog/best-all-inclusive-package-in-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "windsurfing",
+    "source_url": "https://maldives.intercontinental.com/blog/best-all-inclusive-package-in-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "kayaking",
+    "source_url": "https://maldives.intercontinental.com/blog/best-all-inclusive-package-in-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "stand-up paddle",
+    "source_url": "https://maldives.intercontinental.com/blog/best-all-inclusive-package-in-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "catamaran",
+    "source_url": "https://maldives.intercontinental.com/blog/best-all-inclusive-package-in-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sailing",
+    "source_url": "https://maldives.intercontinental.com/blog/best-all-inclusive-package-in-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "windsurfing",
+    "source_url": "https://maldives.intercontinental.com/special-offer/maldives-premium-all-inclusive/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "catamaran",
+    "source_url": "https://maldives.intercontinental.com/special-offer/maldives-premium-all-inclusive/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://maldives.intercontinental.com/special-offer/maldives-premium-all-inclusive/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sailing",
+    "source_url": "https://maldives.intercontinental.com/special-offer/maldives-premium-all-inclusive/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://maldives.intercontinental.com/blog/new-beginnings-at-avi-spa-an-interview-with-phil-davies/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "excursions": [
+   {
+    "value": "manta",
+    "source_url": "https://maldives.intercontinental.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://maldives.intercontinental.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://maldives.intercontinental.com/de/family/planet-trekkers/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://maldives.intercontinental.com/special-offer/all-inclusive/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://maldives.intercontinental.com/restaurantsandbars/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "cooking class",
+    "source_url": "https://maldives.intercontinental.com/restaurantsandbars/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://maldives.intercontinental.com/blog/our-favourite-manta-pups/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://maldives.intercontinental.com/club-intercontinental-experience/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://maldives.intercontinental.com/blog/the-manta-retreat-is-back/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "cooking class",
+    "source_url": "https://maldives.intercontinental.com/blog/why-intercontinental-maldives-is-perfect-for-exclusive-resort-buyouts/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://maldives.intercontinental.com/de/family/teens-at-maamunagau/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://maldives.intercontinental.com/blog/10-manta-ray-facts-2/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://maldives.intercontinental.com/blog/family-bliss-awaits/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "cooking class",
+    "source_url": "https://maldives.intercontinental.com/blog/family-bliss-awaits/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "local island",
+    "source_url": "https://maldives.intercontinental.com/sustainability/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://maldives.intercontinental.com/sustainability/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://maldives.intercontinental.com/sustainability/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://maldives.intercontinental.com/special-offer/maldives-premium-all-inclusive/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "weddings.offered": [
+   {
+    "value": true,
+    "source_url": "https://maldives.intercontinental.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://maldives.intercontinental.com/zh-hans/special-offer/island-romance/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://maldives.intercontinental.com/blog/festive-wellness-and-island-time-in-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://maldives.intercontinental.com/blog/why-intercontinental-maldives-is-perfect-for-exclusive-resort-buyouts/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://maldives.intercontinental.com/ru/weddings-celebrations/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://maldives.intercontinental.com/ar/weddings-celebrations/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "events_mice.buyout": [
+   {
+    "value": true,
+    "source_url": "https://maldives.intercontinental.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://maldives.intercontinental.com/blog/why-intercontinental-maldives-is-perfect-for-exclusive-resort-buyouts/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "sustainability": [
+   {
+    "value": "manta trust",
+    "source_url": "https://maldives.intercontinental.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta trust",
+    "source_url": "https://maldives.intercontinental.com/blog/the-manta-retreat-is-back/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta trust",
+    "source_url": "https://maldives.intercontinental.com/blog/10-manta-ray-facts-2/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "solar",
+    "source_url": "https://maldives.intercontinental.com/sustainability/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "single-use plastic",
+    "source_url": "https://maldives.intercontinental.com/sustainability/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "reef restoration",
+    "source_url": "https://maldives.intercontinental.com/sustainability/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "contacts_public.phone": [
+   {
+    "value": "+960 730 9300",
+    "source_url": "https://maldives.intercontinental.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 730 9300",
+    "source_url": "https://maldives.intercontinental.com/zh-hans/special-offer/island-romance/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 730 930",
+    "source_url": "https://maldives.intercontinental.com/de/family/planet-trekkers/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 730 9300",
+    "source_url": "https://maldives.intercontinental.com/special-offer/all-inclusive/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 730 9300",
+    "source_url": "https://maldives.intercontinental.com/blog/festive-wellness-and-island-time-in-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 730 9300",
+    "source_url": "https://maldives.intercontinental.com/ar/special-offer/the-manta-retreat/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 730 9300",
+    "source_url": "https://maldives.intercontinental.com/restaurantsandbars/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 730 9300",
+    "source_url": "https://maldives.intercontinental.com/zh-hans/family/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 730 930",
+    "source_url": "https://maldives.intercontinental.com/ru/villas-residences/villas/sunset-overwater-pool-villas/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 730 930",
+    "source_url": "https://maldives.intercontinental.com/de/villas-residences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 730 9300",
+    "source_url": "https://maldives.intercontinental.com/frequently-asked-questions/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 730 9300",
+    "source_url": "https://maldives.intercontinental.com/blog/our-favourite-manta-pups/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 730 9300",
+    "source_url": "https://maldives.intercontinental.com/club-intercontinental-experience/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 730 9300",
+    "source_url": "https://maldives.intercontinental.com/ar/villas-residences/residence/3-bedroom-royal-beachfront-residence/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 730 9300",
+    "source_url": "https://maldives.intercontinental.com/blog/the-manta-retreat-is-back/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 730 9300",
+    "source_url": "https://maldives.intercontinental.com/blog/why-intercontinental-maldives-is-perfect-for-exclusive-resort-buyouts/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 730 930",
+    "source_url": "https://maldives.intercontinental.com/de/family/teens-at-maamunagau/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 730 9300",
+    "source_url": "https://maldives.intercontinental.com/blog/10-manta-ray-facts-2/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 730 9300",
+    "source_url": "https://maldives.intercontinental.com/stay-and-book-direct-benefits/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 730 9300",
+    "source_url": "https://maldives.intercontinental.com/blog/visiting-practitioner-dr-jing-yang-zhao/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 730 9300",
+    "source_url": "https://maldives.intercontinental.com/visiting-practitioner-programme/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 730 9300",
+    "source_url": "https://maldives.intercontinental.com/blog/six-ways-yoga-can-help-you/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 730 930",
+    "source_url": "https://maldives.intercontinental.com/ru/villas-residences/villas/family-beach-pool-villas/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 730 930",
+    "source_url": "https://maldives.intercontinental.com/de/villas-residences/villas/sunset-overwater-pool-villas/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 730 930",
+    "source_url": "https://maldives.intercontinental.com/ru/weddings-celebrations/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 730 930",
+    "source_url": "https://maldives.intercontinental.com/ru/family/planet-trekkers/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 730 9300",
+    "source_url": "https://maldives.intercontinental.com/blog/sleep-awareness-week-12th-to-18th-march-2023/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 730 930",
+    "source_url": "https://maldives.intercontinental.com/de/villas-residences/residence/3-bedroom-royal-beachfront-residence/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 730 9300",
+    "source_url": "https://maldives.intercontinental.com/villas-residences/villas/2-bedroom-family-lagoon-pool-villas/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 730 9300",
+    "source_url": "https://maldives.intercontinental.com/blog/family-bliss-awaits/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 730 9300",
+    "source_url": "https://maldives.intercontinental.com/silent-immersion-at-intercontinental-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 730 9300",
+    "source_url": "https://maldives.intercontinental.com/sustainability/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 730 9300",
+    "source_url": "https://maldives.intercontinental.com/zh-hans/villas-residences/villas/overwater-pool-villas/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 730 9300",
+    "source_url": "https://maldives.intercontinental.com/blog/best-all-inclusive-package-in-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 730 9300",
+    "source_url": "https://maldives.intercontinental.com/special-offer/maldives-premium-all-inclusive/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 730 9300",
+    "source_url": "https://maldives.intercontinental.com/ar/weddings-celebrations/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 730 9300",
+    "source_url": "https://maldives.intercontinental.com/blog/new-beginnings-at-avi-spa-an-interview-with-phil-davies/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "dining": [
+   {
+    "value": {
+     "name": "每日在 Café Umi 享用早餐及多家餐厅晚餐",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://maldives.intercontinental.com/zh-hans/special-offer/island-romance/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Private Seaplane Lounge Access",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://maldives.intercontinental.com/club-intercontinental-experience/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "kids_family.kids_club": [
+   {
+    "value": "Unser Kids Club",
+    "source_url": "https://maldives.intercontinental.com/de/family/planet-trekkers/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Planet Trekkers Kids Club",
+    "source_url": "https://maldives.intercontinental.com/special-offer/all-inclusive/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Planet Trekkers Kids Club",
+    "source_url": "https://maldives.intercontinental.com/stay-and-book-direct-benefits/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Planet Trekkers Kids Club",
+    "source_url": "https://maldives.intercontinental.com/de/villas-residences/villas/sunset-overwater-pool-villas/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Planet Trekkers Kids Club",
+    "source_url": "https://maldives.intercontinental.com/de/villas-residences/residence/3-bedroom-royal-beachfront-residence/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Planet Trekkers Kids Club",
+    "source_url": "https://maldives.intercontinental.com/villas-residences/villas/2-bedroom-family-lagoon-pool-villas/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Planet Trekkers Kids Club",
+    "source_url": "https://maldives.intercontinental.com/special-offer/maldives-premium-all-inclusive/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "meal_plans": [
+   {
+    "value": "AI",
+    "source_url": "https://maldives.intercontinental.com/special-offer/all-inclusive/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://maldives.intercontinental.com/blog/family-bliss-awaits/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://maldives.intercontinental.com/blog/best-all-inclusive-package-in-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://maldives.intercontinental.com/special-offer/maldives-premium-all-inclusive/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "wellness_fitness": [
+   {
+    "value": "yoga",
+    "source_url": "https://maldives.intercontinental.com/blog/festive-wellness-and-island-time-in-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "meditation",
+    "source_url": "https://maldives.intercontinental.com/blog/festive-wellness-and-island-time-in-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://maldives.intercontinental.com/blog/why-intercontinental-maldives-is-perfect-for-exclusive-resort-buyouts/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sound healing",
+    "source_url": "https://maldives.intercontinental.com/blog/why-intercontinental-maldives-is-perfect-for-exclusive-resort-buyouts/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://maldives.intercontinental.com/de/family/teens-at-maamunagau/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://maldives.intercontinental.com/blog/six-ways-yoga-can-help-you/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://maldives.intercontinental.com/blog/sleep-awareness-week-12th-to-18th-march-2023/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "meditation",
+    "source_url": "https://maldives.intercontinental.com/blog/sleep-awareness-week-12th-to-18th-march-2023/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "beach volleyball",
+    "source_url": "https://maldives.intercontinental.com/blog/family-bliss-awaits/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://maldives.intercontinental.com/silent-immersion-at-intercontinental-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "meditation",
+    "source_url": "https://maldives.intercontinental.com/silent-immersion-at-intercontinental-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://maldives.intercontinental.com/blog/best-all-inclusive-package-in-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fitness centre",
+    "source_url": "https://maldives.intercontinental.com/blog/best-all-inclusive-package-in-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "personal trainer",
+    "source_url": "https://maldives.intercontinental.com/blog/best-all-inclusive-package-in-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "meditation",
+    "source_url": "https://maldives.intercontinental.com/blog/new-beginnings-at-avi-spa-an-interview-with-phil-davies/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "transfer.minutes.seaplane": [
+   {
+    "value": 35,
+    "source_url": "https://maldives.intercontinental.com/frequently-asked-questions/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "kids_family.age_range": [
+   {
+    "value": "2-12 years",
+    "source_url": "https://maldives.intercontinental.com/frequently-asked-questions/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "kids_family.teens": [
+   {
+    "value": "teens programme mentioned",
+    "source_url": "https://maldives.intercontinental.com/blog/why-intercontinental-maldives-is-perfect-for-exclusive-resort-buyouts/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "teens programme mentioned",
+    "source_url": "https://maldives.intercontinental.com/de/family/teens-at-maamunagau/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "teens programme mentioned",
+    "source_url": "https://maldives.intercontinental.com/blog/family-bliss-awaits/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "teens programme mentioned",
+    "source_url": "https://maldives.intercontinental.com/blog/new-beginnings-at-avi-spa-an-interview-with-phil-davies/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "island": [
+   {
+    "value": "Maamunagau",
+    "source_url": "https://maldives.intercontinental.com/sustainability/",
+    "as_of": "2026-10-04"
+   }
   ]
  },
- "last_updated": "2026-10-04"
+ "last_updated": "2026-10-05"
 }

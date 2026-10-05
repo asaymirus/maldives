@@ -7,28 +7,30 @@
   "Rangali Island",
   "Rangali"
  ],
- "official_url": null,
- "official_site_status": null,
+ "official_url": "https://www.conradmaldives.com/",
+ "official_site_status": "ok",
  "operator_brand": "Conrad",
- "atoll": "Ari Atoll",
- "island": null,
+ "atoll": "Raa Atoll",
+ "island": "Rangali",
  "opened_or_renovated": null,
- "star_rating": null,
+ "star_rating": "5-star",
  "transfer": {
   "modes": [
+   "speedboat",
    "seaplane",
-   "yacht"
+   "yacht",
+   "domestic flight"
   ],
   "minutes": {
    "seaplane": 30,
-   "speedboat": null,
-   "domestic flight": null,
+   "speedboat": 30,
+   "domestic flight": 30,
    "yacht": null
   }
  },
  "island_size": "480 m x 240 m",
  "villas": {
-  "total": null,
+  "total": 150,
   "categories": [
    {
     "name": "Bedroom Delu e Beach Villa with Pool , guests",
@@ -63,14 +65,6 @@
     "overwater": null
    },
    {
-    "name": "Bedroom Rangali Ocean Pavilion with Pool , adults",
-    "count": 2,
-    "size_sqm": null,
-    "max_occupancy": null,
-    "pool": true,
-    "overwater": true
-   },
-   {
     "name": "BEACH VILLA / , FT GUESTS",
     "count": null,
     "size_sqm": 150,
@@ -95,8 +89,72 @@
     "overwater": null
    },
    {
-    "name": "Number of Villas",
-    "count": 150,
+    "name": "Two-Bedroom Delu e Beach Villa",
+    "count": 27,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "Maldivian Village",
+    "count": 9,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "Maldivian Village The Cheese and Wine Bar",
+    "count": 9,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "Bedroom Beach Suite with Pool",
+    "count": 3,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": true,
+    "overwater": null
+   },
+   {
+    "name": "Bedroom Delu e Beach Villa with Pool",
+    "count": 2,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": true,
+    "overwater": null
+   },
+   {
+    "name": "Bedroom Grand Water Villa with Pool",
+    "count": 2,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": true,
+    "overwater": null
+   },
+   {
+    "name": "Bedroom Grand Water Villa",
+    "count": 2,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "underwater master suite",
+    "count": 1,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "ensuite bedroom, bathroom with two sinks, and rain shower",
+    "count": 1,
     "size_sqm": null,
     "max_occupancy": null,
     "pool": null,
@@ -106,14 +164,14 @@
  },
  "dining": [
   {
-   "name": "Dining",
+   "name": "Ithaa Undersea Restaurant",
    "cuisine": null,
    "type": "restaurant"
   },
   {
-   "name": "Ithaa Undersea Restaurant",
+   "name": "Aaraha Champagne Bar",
    "cuisine": null,
-   "type": "restaurant"
+   "type": "bar"
   },
   {
    "name": "Sunset Grill",
@@ -126,12 +184,77 @@
    "type": "restaurant"
   },
   {
-   "name": "Koko Grill",
+   "name": "Rangali Bar",
+   "cuisine": null,
+   "type": "bar"
+  },
+  {
+   "name": "Mandhoo Spa Restaurant",
    "cuisine": null,
    "type": "restaurant"
   },
   {
-   "name": "Rangali Bar",
+   "name": "The Wine Cellar",
+   "cuisine": null,
+   "type": "bar"
+  },
+  {
+   "name": "KOKO Grill",
+   "cuisine": null,
+   "type": "restaurant"
+  },
+  {
+   "name": "The Cheese & Wine Bar",
+   "cuisine": null,
+   "type": "bar"
+  },
+  {
+   "name": "Nebo Restaurant & Lounge",
+   "cuisine": null,
+   "type": "restaurant"
+  },
+  {
+   "name": "The Elephant Restaurant",
+   "cuisine": null,
+   "type": "restaurant"
+  },
+  {
+   "name": "Saturday Kitchen",
+   "cuisine": null,
+   "type": "restaurant"
+  },
+  {
+   "name": "Lunch at Ithaa Undersea Restaurant",
+   "cuisine": null,
+   "type": "restaurant"
+  },
+  {
+   "name": "Seafood Platter at Sunset Grill",
+   "cuisine": null,
+   "type": "restaurant"
+  },
+  {
+   "name": "Lunch date at Mandhoo Restaurant",
+   "cuisine": null,
+   "type": "restaurant"
+  },
+  {
+   "name": "Champagne & Canapes at Aaraha Champagne Bar",
+   "cuisine": null,
+   "type": "bar"
+  },
+  {
+   "name": "Dinner at Mandhoo Restaurant",
+   "cuisine": null,
+   "type": "restaurant"
+  },
+  {
+   "name": "Tomahawk at Sunset Grill",
+   "cuisine": null,
+   "type": "restaurant"
+  },
+  {
+   "name": "The Conrad Lounge",
    "cuisine": null,
    "type": "bar"
   },
@@ -146,107 +269,281 @@
    "type": "bar"
   },
   {
-   "name": "Destination Dining",
+   "name": "Kitchen and bar",
    "cuisine": null,
    "type": "restaurant"
   },
   {
-   "name": "In-Villa Dining",
+   "name": "The Maldives' First Underground Wine Cellar",
+   "cuisine": null,
+   "type": "bar"
+  },
+  {
+   "name": "Ithaa Underwater Restaurant",
+   "cuisine": null,
+   "type": "restaurant"
+  },
+  {
+   "name": "Conrad Tokyo features at Koko Grill",
+   "cuisine": null,
+   "type": "restaurant"
+  },
+  {
+   "name": "Ithaa Restaurant",
+   "cuisine": null,
+   "type": "restaurant"
+  },
+  {
+   "name": "Sunset Grill Restaurant",
    "cuisine": null,
    "type": "restaurant"
   }
  ],
- "meal_plans": [],
+ "meal_plans": [
+  "HB",
+  "FB"
+ ],
  "all_inclusive_details": null,
  "spa": {
-  "name": "Facilities\nDive Centre\nSpa",
+  "name": "Over Water Spa",
   "treatment_rooms": null,
   "signature_treatments": [],
-  "menu_doc": null
+  "menu_doc": "https://www.conradmaldives.com/wp-content/uploads/2025/12/2025-Spa-Retreat-Brochure.pdf"
  },
  "diving_watersports": {
-  "operator": "Dive Centre",
-  "house_reef": "house reefs, and world-first experiences such as Ithaa, the undersea restaurant, and The Muraka, the world’s first underwater residence, the resort blends iconic innovati",
+  "operator": "Ocean Watersports",
+  "house_reef": "HOUSE REEF: Explore the resort’s excellent house reef, just 50 meters from the beach,",
   "activities": [
    "snorkeling",
    "scuba diving",
-   "kayaking",
-   "paddleboard",
-   "fishing",
-   "sunset cruise",
-   "whale shark",
    "manta",
-   "sailing"
+   "paddleboard",
+   "catamaran",
+   "fishing",
+   "whale shark",
+   "sailing",
+   "windsurfing",
+   "surfing",
+   "jet ski",
+   "parasailing",
+   "kayaking",
+   "sunset cruise",
+   "dolphin cruise",
+   "water skiing",
+   "wakeboarding",
+   "seabob",
+   "canoe",
+   "snorkelling"
   ],
-  "price_list_doc": null
+  "price_list_doc": "https://www.conradmaldives.com/wp-content/uploads/2025/12/2025-Conrad-Dive-Centre-Brochure-.pdf"
  },
  "excursions": [
   "cinema",
-  "local island",
-  "dolphin",
-  "sunset fishing",
-  "whale shark",
-  "manta",
+  "sandbank",
   "turtle",
-  "picnic"
+  "manta",
+  "whale shark",
+  "sunset fishing",
+  "big game fishing",
+  "dolphin",
+  "picnic",
+  "cooking class",
+  "private dinner",
+  "local island"
  ],
  "kids_family": {
-  "kids_club": "Kids Club",
+  "kids_club": "Teens Club",
   "age_range": null,
-  "teens": null
+  "teens": "teens programme mentioned"
  },
  "wellness_fitness": [
   "gym",
+  "meditation",
+  "steam",
   "yoga",
-  "fitness center"
+  "sauna",
+  "tennis",
+  "padel",
+  "pilates",
+  "fitness center",
+  "sound healing",
+  "badminton"
  ],
  "weddings": {
   "offered": true,
-  "vow_renewal": null,
+  "vow_renewal": true,
   "venues": [],
-  "packages": [],
-  "brochure_doc": null
+  "packages": [
+   {
+    "name": "Honeymoon Bath Experience",
+    "price": "255",
+    "currency": "USD",
+    "as_of": 2025
+   },
+   {
+    "name": "Ceremony",
+    "price": "4000",
+    "currency": "USD",
+    "as_of": 2025
+   },
+   {
+    "name": "Wedding",
+    "price": "350",
+    "currency": "USD",
+    "as_of": 2025
+   }
+  ],
+  "brochure_doc": "https://www.conradmaldives.com/wp-content/uploads/2025/12/CMRI_Wedding-Brochure_July2025-2.pdf"
  },
  "events_mice": {
   "venues": [],
-  "capacity_max": null,
+  "capacity_max": 10,
   "buyout": null,
   "doc": null
  },
  "sustainability": [
-  "coral nursery"
+  "coral nursery",
+  "hydroponic",
+  "coral restoration",
+  "marine biologist",
+  "coral regeneration",
+  "solar",
+  "single-use plastic"
  ],
  "contacts_public": {
-  "reservations_email": "info@neoscapesmaldives.com",
+  "reservations_email": "info@conradhotels.com",
   "weddings_email": null,
-  "phone": "+960 736 5425"
+  "phone": "+960 668 0629"
  },
  "documents_latest": {
-  "factsheet": "https://www.neoscapesmaldives.com/wp-content/uploads/CMRI-Villa-Factsheet.pdf",
-  "map": "https://www.neoscapesmaldives.com/wp-content/uploads/CONRAD-MALDIVES-RANGALI-MAP.pdf",
-  "wedding": null,
-  "spa_menu": null,
-  "dining_menu": null,
-  "dive_prices": null,
+  "factsheet": "https://www.conradmaldives.com/wp-content/uploads/2025/12/CMRI-Villa-Factsheet-1.pdf",
+  "map": "https://www.conradmaldives.com/wp-content/uploads/2026/05/Resort-Experience-Map-2026-copy.pdf",
+  "wedding": "https://www.conradmaldives.com/wp-content/uploads/2025/12/CMRI_Wedding-Brochure_July2025-2.pdf",
+  "spa_menu": "https://www.conradmaldives.com/wp-content/uploads/2025/12/2025-Spa-Retreat-Brochure.pdf",
+  "dining_menu": "https://www.conradmaldives.com/wp-content/uploads/2026/01/Battuta-Menu.pdf",
+  "dive_prices": "https://www.conradmaldives.com/wp-content/uploads/2025/12/2025-Conrad-Dive-Centre-Brochure-.pdf",
   "events": null,
-  "calendar": null
+  "calendar": "https://www.conradmaldives.com/wp-content/uploads/2026/02/An-Island-Safari-this-Easter-at-Conrad-Maldives.pdf"
  },
- "documents_count": 3,
+ "documents_count": 70,
  "gaps": [
-  "wedding brochure",
-  "events/MICE document",
-  "fact: villas.total"
+  "events/MICE document"
  ],
  "sources": {
   "atoll": [
    {
     "value": "Ari Atoll",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/CMRI-Villa-Factsheet.pdf",
+    "source_url": "https://www.conradmaldives.com/wp-content/uploads/2025/12/CMRI-Villa-Factsheet-1.pdf",
     "as_of": 2025
    },
    {
     "value": "Ari Atoll",
+    "source_url": "https://www.conradmaldives.com/wp-content/uploads/2025/12/CMRI_Wedding-Brochure_July2025-2.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "Raa Atoll",
+    "source_url": "https://www.conradmaldives.com/wp-content/uploads/2026/01/Battuta-Menu.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "Ari Atoll",
+    "source_url": "https://www.conradmaldives.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Ari Atoll",
+    "source_url": "https://www.conradmaldives.com/itinerary-builder/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Ari Atoll",
+    "source_url": "https://www.conradmaldives.com/offers/ultimate-rangali-experience/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Ari Atoll",
+    "source_url": "https://www.conradmaldives.com/celebrations/plan-your-celebration/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Ari Atoll",
+    "source_url": "https://www.conradmaldives.com/travel-with-purpose/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Ari Atoll",
+    "source_url": "https://www.conradmaldives.com/celebrations/weddings-vow-renewals/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Ari Atoll",
+    "source_url": "https://www.conradmaldives.com/gallery/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Ari Atoll",
+    "source_url": "https://www.conradmaldives.com/explore/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Ari Atoll",
+    "source_url": "https://www.conradmaldives.com/getting-here/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Ari Atoll",
+    "source_url": "https://www.conradmaldives.com/dive-centre/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Ari Atoll",
+    "source_url": "https://www.conradmaldives.com/offers/romantic-escape/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Ari Atoll",
+    "source_url": "https://www.conradmaldives.com/offers/hilton-honors-exclusive/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Ari Atoll",
+    "source_url": "https://www.conradmaldives.com/island-events/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Ari Atoll",
+    "source_url": "https://www.conradmaldives.com/offers/maldivian-getaway/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Ari Atoll",
+    "source_url": "https://www.conradmaldives.com/offers/island-family-retreat/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Ari Atoll",
+    "source_url": "https://www.conradmaldives.com/offers/oceanic-luxury-the-muraka-odyssey/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Ari Atoll",
+    "source_url": "https://www.conradmaldives.com",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Ari Atoll",
     "source_url": "https://www.neoscapesmaldives.com/resort/conrad-maldives-rangali-island/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Alifu Dhaalu Atoll",
+    "source_url": "https://www.mymaldives.com/resort-guide/conrad-maldives-rangali-island/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Ari Atoll",
+    "source_url": "https://www.maldivesholidayoffers.com/accomodation/resorts/conrad-rangali-maldives-island-hotel/",
     "as_of": "2026-10-04"
    }
   ],
@@ -260,7 +557,7 @@
      "pool": true,
      "overwater": null
     },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/CMRI-Villa-Factsheet.pdf",
+    "source_url": "https://www.conradmaldives.com/wp-content/uploads/2025/12/CMRI-Villa-Factsheet-1.pdf",
     "as_of": 2025
    },
    {
@@ -272,7 +569,7 @@
      "pool": true,
      "overwater": null
     },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/CMRI-Villa-Factsheet.pdf",
+    "source_url": "https://www.conradmaldives.com/wp-content/uploads/2025/12/CMRI-Villa-Factsheet-1.pdf",
     "as_of": 2025
    },
    {
@@ -284,7 +581,7 @@
      "pool": null,
      "overwater": null
     },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/CMRI-Villa-Factsheet.pdf",
+    "source_url": "https://www.conradmaldives.com/wp-content/uploads/2025/12/CMRI-Villa-Factsheet-1.pdf",
     "as_of": 2025
    },
    {
@@ -296,19 +593,7 @@
      "pool": true,
      "overwater": null
     },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/CMRI-Villa-Factsheet.pdf",
-    "as_of": 2025
-   },
-   {
-    "value": {
-     "name": "Bedroom Rangali Ocean Pavilion with Pool , adults",
-     "count": 2,
-     "size_sqm": null,
-     "max_occupancy": null,
-     "pool": true,
-     "overwater": true
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/CMRI-Villa-Factsheet.pdf",
+    "source_url": "https://www.conradmaldives.com/wp-content/uploads/2025/12/CMRI-Villa-Factsheet-1.pdf",
     "as_of": 2025
    },
    {
@@ -320,7 +605,7 @@
      "pool": null,
      "overwater": null
     },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/CMRI-Villa-Factsheet.pdf",
+    "source_url": "https://www.conradmaldives.com/wp-content/uploads/2025/12/CMRI-Villa-Factsheet-1.pdf",
     "as_of": 2025
    },
    {
@@ -332,7 +617,7 @@
      "pool": null,
      "overwater": null
     },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/CMRI-Villa-Factsheet.pdf",
+    "source_url": "https://www.conradmaldives.com/wp-content/uploads/2025/12/CMRI-Villa-Factsheet-1.pdf",
     "as_of": 2025
    },
    {
@@ -344,27 +629,1419 @@
      "pool": null,
      "overwater": null
     },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/CMRI-Villa-Factsheet.pdf",
+    "source_url": "https://www.conradmaldives.com/wp-content/uploads/2025/12/CMRI-Villa-Factsheet-1.pdf",
     "as_of": 2025
    },
    {
     "value": {
-     "name": "Number of Villas",
-     "count": 150,
+     "name": "Two-Bedroom Delu e Beach Villa",
+     "count": 27,
      "size_sqm": null,
      "max_occupancy": null,
      "pool": null,
      "overwater": null
     },
-    "source_url": "https://www.neoscapesmaldives.com/resort/conrad-maldives-rangali-island/",
+    "source_url": "https://www.conradmaldives.com/wp-content/uploads/2026/05/Resort-Experience-Map-2026-copy.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": {
+     "name": "Two-Bedroom Delu e Beach Villa",
+     "count": 27,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://www.conradmaldives.com/wp-content/uploads/2026/05/Resort-Experience-Map-2026-copy.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": {
+     "name": "Maldivian Village",
+     "count": 9,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://www.conradmaldives.com/wp-content/uploads/2026/05/Resort-Experience-Map-2026-copy.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": {
+     "name": "Maldivian Village The Cheese and Wine Bar",
+     "count": 9,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://www.conradmaldives.com/wp-content/uploads/2026/05/Resort-Experience-Map-2026-copy.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": {
+     "name": "Bedroom Beach Suite with Pool",
+     "count": 3,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": true,
+     "overwater": null
+    },
+    "source_url": "https://www.conradmaldives.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Bedroom Delu e Beach Villa with Pool",
+     "count": 2,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": true,
+     "overwater": null
+    },
+    "source_url": "https://www.conradmaldives.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Bedroom Grand Water Villa with Pool",
+     "count": 2,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": true,
+     "overwater": null
+    },
+    "source_url": "https://www.conradmaldives.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Bedroom Grand Water Villa",
+     "count": 2,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://www.conradmaldives.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Bedroom Delu e Beach Villa with Pool",
+     "count": 2,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": true,
+     "overwater": null
+    },
+    "source_url": "https://www.conradmaldives.com/villa/2-bedroom-deluxe-beach-villa-with-pool/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Bedroom Delu e Beach Villa with Pool",
+     "count": 2,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": true,
+     "overwater": null
+    },
+    "source_url": "https://www.conradmaldives.com/villa/2-bedroom-deluxe-beach-villa-with-pool/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Bedroom Grand Water Villa",
+     "count": 2,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://www.conradmaldives.com/villa/2-bedroom-deluxe-beach-villa-with-pool/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Bedroom Beach Suite with Pool",
+     "count": 3,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": true,
+     "overwater": null
+    },
+    "source_url": "https://www.conradmaldives.com/villa/2-bedroom-deluxe-beach-villa-with-pool/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Bedroom Grand Water Villa with Pool",
+     "count": 2,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": true,
+     "overwater": null
+    },
+    "source_url": "https://www.conradmaldives.com/villa/2-bedroom-deluxe-beach-villa-with-pool/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Bedroom Grand Water Villa",
+     "count": 2,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://www.conradmaldives.com/villa/sunset-water-villa-with-pool/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Bedroom Beach Suite with Pool",
+     "count": 3,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": true,
+     "overwater": null
+    },
+    "source_url": "https://www.conradmaldives.com/villa/sunset-water-villa-with-pool/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Bedroom Grand Water Villa with Pool",
+     "count": 2,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": true,
+     "overwater": null
+    },
+    "source_url": "https://www.conradmaldives.com/villa/sunset-water-villa-with-pool/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Bedroom Beach Suite with Pool",
+     "count": 3,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": true,
+     "overwater": null
+    },
+    "source_url": "https://www.conradmaldives.com/villas/beach-villas/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Bedroom Delu e Beach Villa with Pool",
+     "count": 2,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": true,
+     "overwater": null
+    },
+    "source_url": "https://www.conradmaldives.com/villas/beach-villas/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Bedroom Grand Water Villa with Pool",
+     "count": 2,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": true,
+     "overwater": null
+    },
+    "source_url": "https://www.conradmaldives.com/villas/overwater-villas/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Bedroom Grand Water Villa with Pool",
+     "count": 2,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": true,
+     "overwater": null
+    },
+    "source_url": "https://www.conradmaldives.com/villas/overwater-villas/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Bedroom Grand Water Villa",
+     "count": 2,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://www.conradmaldives.com/villas/overwater-villas/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Bedroom Grand Water Villa",
+     "count": 2,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://www.conradmaldives.com/villa/deluxe-water-villa-with-pool/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Bedroom Beach Suite with Pool",
+     "count": 3,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": true,
+     "overwater": null
+    },
+    "source_url": "https://www.conradmaldives.com/villa/deluxe-water-villa-with-pool/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Bedroom Grand Water Villa with Pool",
+     "count": 2,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": true,
+     "overwater": null
+    },
+    "source_url": "https://www.conradmaldives.com/villa/deluxe-water-villa-with-pool/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Bedroom Grand Water Villa with Pool",
+     "count": 2,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": true,
+     "overwater": null
+    },
+    "source_url": "https://www.conradmaldives.com/villa/2-bedroom-grand-water-villa-with-pool/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Bedroom Grand Water Villa with Pool",
+     "count": 2,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": true,
+     "overwater": null
+    },
+    "source_url": "https://www.conradmaldives.com/villa/2-bedroom-grand-water-villa-with-pool/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Bedroom Grand Water Villa with Pool",
+     "count": 2,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": true,
+     "overwater": null
+    },
+    "source_url": "https://www.conradmaldives.com/villa/2-bedroom-grand-water-villa-with-pool/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Bedroom Grand Water Villa",
+     "count": 2,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://www.conradmaldives.com/villa/2-bedroom-grand-water-villa-with-pool/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Bedroom Beach Suite with Pool",
+     "count": 3,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": true,
+     "overwater": null
+    },
+    "source_url": "https://www.conradmaldives.com/villa/2-bedroom-grand-water-villa-with-pool/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Bedroom Grand Water Villa",
+     "count": 2,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://www.conradmaldives.com/villa/beach-villa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Bedroom Beach Suite with Pool",
+     "count": 3,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": true,
+     "overwater": null
+    },
+    "source_url": "https://www.conradmaldives.com/villa/beach-villa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Bedroom Grand Water Villa with Pool",
+     "count": 2,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": true,
+     "overwater": null
+    },
+    "source_url": "https://www.conradmaldives.com/villa/beach-villa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Bedroom Grand Water Villa",
+     "count": 2,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://www.conradmaldives.com/villa/2-bedroom-rangali-ocean-pavilion-with-pool/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Bedroom Beach Suite with Pool",
+     "count": 3,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": true,
+     "overwater": null
+    },
+    "source_url": "https://www.conradmaldives.com/villa/2-bedroom-rangali-ocean-pavilion-with-pool/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Bedroom Grand Water Villa with Pool",
+     "count": 2,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": true,
+     "overwater": null
+    },
+    "source_url": "https://www.conradmaldives.com/villa/2-bedroom-rangali-ocean-pavilion-with-pool/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Bedroom Grand Water Villa",
+     "count": 2,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://www.conradmaldives.com/villa/grand-water-villa-with-pool/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Bedroom Beach Suite with Pool",
+     "count": 3,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": true,
+     "overwater": null
+    },
+    "source_url": "https://www.conradmaldives.com/villa/grand-water-villa-with-pool/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Bedroom Grand Water Villa with Pool",
+     "count": 2,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": true,
+     "overwater": null
+    },
+    "source_url": "https://www.conradmaldives.com/villa/grand-water-villa-with-pool/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Bedroom Grand Water Villa",
+     "count": 2,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://www.conradmaldives.com/villa/family-beach-villa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Bedroom Beach Suite with Pool",
+     "count": 3,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": true,
+     "overwater": null
+    },
+    "source_url": "https://www.conradmaldives.com/villa/family-beach-villa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Bedroom Grand Water Villa with Pool",
+     "count": 2,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": true,
+     "overwater": null
+    },
+    "source_url": "https://www.conradmaldives.com/villa/family-beach-villa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Bedroom Grand Water Villa",
+     "count": 2,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://www.conradmaldives.com/sitemap/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Bedroom Beach Suite with Pool",
+     "count": 3,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": true,
+     "overwater": null
+    },
+    "source_url": "https://www.conradmaldives.com/sitemap/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Bedroom Grand Water Villa with Pool",
+     "count": 2,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": true,
+     "overwater": null
+    },
+    "source_url": "https://www.conradmaldives.com/sitemap/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Bedroom Delu e Beach Villa with Pool",
+     "count": 2,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": true,
+     "overwater": null
+    },
+    "source_url": "https://www.conradmaldives.com/sitemap/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "underwater master suite",
+     "count": 1,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://www.conradmaldives.com/villa/the-muraka/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Bedroom Beach Suite with Pool",
+     "count": 3,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": true,
+     "overwater": null
+    },
+    "source_url": "https://www.conradmaldives.com/villa/3-bedroom-beach-suite-with-pool/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Bedroom Beach Suite with Pool",
+     "count": 3,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": true,
+     "overwater": null
+    },
+    "source_url": "https://www.conradmaldives.com/villa/3-bedroom-beach-suite-with-pool/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Bedroom Grand Water Villa",
+     "count": 2,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://www.conradmaldives.com/villa/3-bedroom-beach-suite-with-pool/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Bedroom Grand Water Villa with Pool",
+     "count": 2,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": true,
+     "overwater": null
+    },
+    "source_url": "https://www.conradmaldives.com/villa/3-bedroom-beach-suite-with-pool/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Bedroom Beach Suite with Pool",
+     "count": 3,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": true,
+     "overwater": null
+    },
+    "source_url": "https://www.conradmaldives.com/villas/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Bedroom Delu e Beach Villa with Pool",
+     "count": 2,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": true,
+     "overwater": null
+    },
+    "source_url": "https://www.conradmaldives.com/villas/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Bedroom Grand Water Villa with Pool",
+     "count": 2,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": true,
+     "overwater": null
+    },
+    "source_url": "https://www.conradmaldives.com/villas/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Bedroom Grand Water Villa with Pool",
+     "count": 2,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": true,
+     "overwater": null
+    },
+    "source_url": "https://www.conradmaldives.com/villas/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Bedroom Grand Water Villa",
+     "count": 2,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://www.conradmaldives.com/island-events/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Bedroom Beach Suite with Pool",
+     "count": 3,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": true,
+     "overwater": null
+    },
+    "source_url": "https://www.conradmaldives.com/island-events/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "ensuite bedroom, bathroom with two sinks, and rain shower",
+     "count": 1,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://www.conradmaldives.com/villa/deluxe-beach-villa-with-pool/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Bedroom Grand Water Villa",
+     "count": 2,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://www.conradmaldives.com/villa/deluxe-beach-villa-with-pool/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Bedroom Beach Suite with Pool",
+     "count": 3,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": true,
+     "overwater": null
+    },
+    "source_url": "https://www.conradmaldives.com/villa/deluxe-beach-villa-with-pool/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Bedroom Grand Water Villa with Pool",
+     "count": 2,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": true,
+     "overwater": null
+    },
+    "source_url": "https://www.conradmaldives.com/villa/deluxe-beach-villa-with-pool/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Bedroom Grand Water Villa",
+     "count": 2,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://www.conradmaldives.com/villa/2-bedroom-grand-water-villa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Bedroom Grand Water Villa",
+     "count": 2,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://www.conradmaldives.com/villa/2-bedroom-grand-water-villa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Bedroom Beach Suite with Pool",
+     "count": 3,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": true,
+     "overwater": null
+    },
+    "source_url": "https://www.conradmaldives.com/villa/2-bedroom-grand-water-villa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Bedroom Grand Water Villa with Pool",
+     "count": 2,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": true,
+     "overwater": null
+    },
+    "source_url": "https://www.conradmaldives.com/villa/2-bedroom-grand-water-villa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Bedroom Grand Water Villa",
+     "count": 2,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://www.conradmaldives.com/villa/grand-water-villa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Bedroom Beach Suite with Pool",
+     "count": 3,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": true,
+     "overwater": null
+    },
+    "source_url": "https://www.conradmaldives.com/villa/grand-water-villa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Bedroom Grand Water Villa with Pool",
+     "count": 2,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": true,
+     "overwater": null
+    },
+    "source_url": "https://www.conradmaldives.com/villa/grand-water-villa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Bedroom Grand Water Villa",
+     "count": 2,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://www.conradmaldives.com/villa/premier-water-villa-with-pool/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Bedroom Beach Suite with Pool",
+     "count": 3,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": true,
+     "overwater": null
+    },
+    "source_url": "https://www.conradmaldives.com/villa/premier-water-villa-with-pool/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Bedroom Grand Water Villa with Pool",
+     "count": 2,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": true,
+     "overwater": null
+    },
+    "source_url": "https://www.conradmaldives.com/villa/premier-water-villa-with-pool/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Bedroom Grand Water Villa",
+     "count": 2,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://www.conradmaldives.com/villa/sunrise-water-villa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Bedroom Beach Suite with Pool",
+     "count": 3,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": true,
+     "overwater": null
+    },
+    "source_url": "https://www.conradmaldives.com/villa/sunrise-water-villa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Bedroom Grand Water Villa with Pool",
+     "count": 2,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": true,
+     "overwater": null
+    },
+    "source_url": "https://www.conradmaldives.com/villa/sunrise-water-villa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Bedroom Beach Suite with Pool",
+     "count": 3,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": true,
+     "overwater": null
+    },
+    "source_url": "https://www.conradmaldives.com",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Bedroom Delu e Beach Villa with Pool",
+     "count": 2,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": true,
+     "overwater": null
+    },
+    "source_url": "https://www.conradmaldives.com",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Bedroom Grand Water Villa with Pool",
+     "count": 2,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": true,
+     "overwater": null
+    },
+    "source_url": "https://www.conradmaldives.com",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Bedroom Grand Water Villa",
+     "count": 2,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://www.conradmaldives.com",
     "as_of": "2026-10-04"
    }
   ],
   "diving_watersports.activities": [
    {
     "value": "snorkeling",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/CMRI-Villa-Factsheet.pdf",
+    "source_url": "https://www.conradmaldives.com/wp-content/uploads/2025/12/CMRI-Villa-Factsheet-1.pdf",
     "as_of": 2025
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://www.conradmaldives.com/wp-content/uploads/2025/12/2025-Conrad-Dive-Centre-Brochure-.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.conradmaldives.com/wp-content/uploads/2025/12/2025-Signature-Island-Experiences.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.conradmaldives.com/wp-content/uploads/2025/12/Coral-Conservation-Flyer.pdf",
+    "as_of": 2016
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.conradmaldives.com/wp-content/uploads/2026/05/Resort-Experience-Map-2026-copy.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "paddleboard",
+    "source_url": "https://www.conradmaldives.com/wp-content/uploads/2026/05/Resort-Experience-Map-2026-copy.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "catamaran",
+    "source_url": "https://www.conradmaldives.com/wp-content/uploads/2026/05/Resort-Experience-Map-2026-copy.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.conradmaldives.com/wp-content/uploads/2026/05/Resort-Experience-Map-2026-copy.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.conradmaldives.com/wp-content/uploads/2026/05/Resort-Experience-Map-2026-copy.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.conradmaldives.com/wp-content/uploads/2026/05/Resort-Experience-Map-2026-copy.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "sailing",
+    "source_url": "https://www.conradmaldives.com/wp-content/uploads/2026/05/Resort-Experience-Map-2026-copy.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.conradmaldives.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://www.conradmaldives.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "windsurfing",
+    "source_url": "https://www.conradmaldives.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "surfing",
+    "source_url": "https://www.conradmaldives.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "catamaran",
+    "source_url": "https://www.conradmaldives.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "jet ski",
+    "source_url": "https://www.conradmaldives.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "parasailing",
+    "source_url": "https://www.conradmaldives.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.conradmaldives.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.conradmaldives.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.conradmaldives.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sailing",
+    "source_url": "https://www.conradmaldives.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.conradmaldives.com/villa/2-bedroom-deluxe-beach-villa-with-pool/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.conradmaldives.com/resort-map/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.conradmaldives.com/villa/sunset-water-villa-with-pool/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.conradmaldives.com/villas/overwater-villas/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.conradmaldives.com/villa/deluxe-water-villa-with-pool/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.conradmaldives.com/itinerary-builder/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://www.conradmaldives.com/itinerary-builder/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.conradmaldives.com/itinerary-builder/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.conradmaldives.com/itinerary-builder/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.conradmaldives.com/offers/ultimate-rangali-experience/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "kayaking",
+    "source_url": "https://www.conradmaldives.com/offers/ultimate-rangali-experience/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.conradmaldives.com/celebrations/plan-your-celebration/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.conradmaldives.com/villa/2-bedroom-grand-water-villa-with-pool/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.conradmaldives.com/conradmaldivesrangaliislandmedialibrary/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.conradmaldives.com/conradmaldivesrangaliislandmedialibrary/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.conradmaldives.com/villa/beach-villa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.conradmaldives.com/travel-with-purpose/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.conradmaldives.com/travel-with-purpose/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.conradmaldives.com/travel-with-purpose/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.conradmaldives.com/celebrations/weddings-vow-renewals/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.conradmaldives.com/celebrations/weddings-vow-renewals/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.conradmaldives.com/villa/2-bedroom-rangali-ocean-pavilion-with-pool/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.conradmaldives.com/villa/grand-water-villa-with-pool/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.conradmaldives.com/villa/family-beach-villa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.conradmaldives.com/gallery/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.conradmaldives.com/gallery/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.conradmaldives.com/gallery/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.conradmaldives.com/gallery/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.conradmaldives.com/explore/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://www.conradmaldives.com/explore/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.conradmaldives.com/explore/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.conradmaldives.com/explore/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin cruise",
+    "source_url": "https://www.conradmaldives.com/explore/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.conradmaldives.com/explore/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.conradmaldives.com/explore/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.conradmaldives.com/watersports-centre/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "windsurfing",
+    "source_url": "https://www.conradmaldives.com/watersports-centre/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "surfing",
+    "source_url": "https://www.conradmaldives.com/watersports-centre/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "catamaran",
+    "source_url": "https://www.conradmaldives.com/watersports-centre/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "jet ski",
+    "source_url": "https://www.conradmaldives.com/watersports-centre/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "water skiing",
+    "source_url": "https://www.conradmaldives.com/watersports-centre/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "wakeboarding",
+    "source_url": "https://www.conradmaldives.com/watersports-centre/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "seabob",
+    "source_url": "https://www.conradmaldives.com/watersports-centre/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sailing",
+    "source_url": "https://www.conradmaldives.com/watersports-centre/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.conradmaldives.com/dive-centre/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.conradmaldives.com/dive-centre/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.conradmaldives.com/dive-centre/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.conradmaldives.com/dive-centre/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.conradmaldives.com/offers/romantic-escape/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.conradmaldives.com/offers/romantic-escape/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.conradmaldives.com/offers/romantic-escape/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.conradmaldives.com/villa/the-muraka/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.conradmaldives.com/villa/3-bedroom-beach-suite-with-pool/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.conradmaldives.com/island-events/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.conradmaldives.com/island-events/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.conradmaldives.com/villa/deluxe-beach-villa-with-pool/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "kayaking",
+    "source_url": "https://www.conradmaldives.com/offers/maldivian-getaway/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "paddleboard",
+    "source_url": "https://www.conradmaldives.com/offers/maldivian-getaway/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.conradmaldives.com/villa/2-bedroom-grand-water-villa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.conradmaldives.com/villa/grand-water-villa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.conradmaldives.com/offers/island-family-retreat/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.conradmaldives.com/villa/premier-water-villa-with-pool/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.conradmaldives.com/villa/sunrise-water-villa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.conradmaldives.com/offers/oceanic-luxury-the-muraka-odyssey/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.conradmaldives.com",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://www.conradmaldives.com",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "windsurfing",
+    "source_url": "https://www.conradmaldives.com",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "surfing",
+    "source_url": "https://www.conradmaldives.com",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "catamaran",
+    "source_url": "https://www.conradmaldives.com",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "jet ski",
+    "source_url": "https://www.conradmaldives.com",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "parasailing",
+    "source_url": "https://www.conradmaldives.com",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.conradmaldives.com",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.conradmaldives.com",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.conradmaldives.com",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sailing",
+    "source_url": "https://www.conradmaldives.com",
+    "as_of": "2026-10-04"
    },
    {
     "value": "snorkeling",
@@ -410,13 +2087,313 @@
     "value": "sailing",
     "source_url": "https://www.neoscapesmaldives.com/resort/conrad-maldives-rangali-island/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.mymaldives.com/resort-guide/conrad-maldives-rangali-island/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://www.mymaldives.com/resort-guide/conrad-maldives-rangali-island/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "windsurfing",
+    "source_url": "https://www.mymaldives.com/resort-guide/conrad-maldives-rangali-island/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "catamaran",
+    "source_url": "https://www.mymaldives.com/resort-guide/conrad-maldives-rangali-island/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "jet ski",
+    "source_url": "https://www.mymaldives.com/resort-guide/conrad-maldives-rangali-island/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "water skiing",
+    "source_url": "https://www.mymaldives.com/resort-guide/conrad-maldives-rangali-island/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.mymaldives.com/resort-guide/conrad-maldives-rangali-island/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sailing",
+    "source_url": "https://www.mymaldives.com/resort-guide/conrad-maldives-rangali-island/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "canoe",
+    "source_url": "https://www.mymaldives.com/resort-guide/conrad-maldives-rangali-island/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.teletextholidays.co.uk/hotels/conrad-maldives-rangali-island-hotel-maldivas-male-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "windsurfing",
+    "source_url": "https://www.teletextholidays.co.uk/hotels/conrad-maldives-rangali-island-hotel-maldivas-male-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "paddleboard",
+    "source_url": "https://www.teletextholidays.co.uk/hotels/conrad-maldives-rangali-island-hotel-maldivas-male-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "catamaran",
+    "source_url": "https://www.teletextholidays.co.uk/hotels/conrad-maldives-rangali-island-hotel-maldivas-male-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "jet ski",
+    "source_url": "https://www.teletextholidays.co.uk/hotels/conrad-maldives-rangali-island-hotel-maldivas-male-maldives",
+    "as_of": "2026-10-04"
    }
   ],
   "excursions": [
    {
     "value": "cinema",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/CMRI-Villa-Factsheet.pdf",
+    "source_url": "https://www.conradmaldives.com/wp-content/uploads/2025/12/CMRI-Villa-Factsheet-1.pdf",
     "as_of": 2025
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://cdnm.heyzine.com/files/uploaded/v2/df3a310befc6320487f0f2e156dc8f7ef58faa1f-2.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.conradmaldives.com/wp-content/uploads/2025/12/CMRI_Wedding-Brochure_July2025-2.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.conradmaldives.com/wp-content/uploads/2025/12/2025-Conrad-Dive-Centre-Brochure-.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.conradmaldives.com/wp-content/uploads/2025/12/2025-Signature-Island-Experiences.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.conradmaldives.com/wp-content/uploads/2026/05/Resort-Experience-Map-2026-copy.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.conradmaldives.com/wp-content/uploads/2026/05/Resort-Experience-Map-2026-copy.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.conradmaldives.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.conradmaldives.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.conradmaldives.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset fishing",
+    "source_url": "https://www.conradmaldives.com/itinerary-builder/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "big game fishing",
+    "source_url": "https://www.conradmaldives.com/itinerary-builder/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.conradmaldives.com/itinerary-builder/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.conradmaldives.com/itinerary-builder/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.conradmaldives.com/conradmaldivesrangaliislandmedialibrary/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.conradmaldives.com/conradmaldivesrangaliislandmedialibrary/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.conradmaldives.com/travel-with-purpose/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.conradmaldives.com/travel-with-purpose/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.conradmaldives.com/travel-with-purpose/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.conradmaldives.com/villa/2-bedroom-rangali-ocean-pavilion-with-pool/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "big game fishing",
+    "source_url": "https://www.conradmaldives.com/gallery/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.conradmaldives.com/gallery/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.conradmaldives.com/gallery/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.conradmaldives.com/gallery/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.conradmaldives.com/explore/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.conradmaldives.com/explore/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset fishing",
+    "source_url": "https://www.conradmaldives.com/explore/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "big game fishing",
+    "source_url": "https://www.conradmaldives.com/explore/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.conradmaldives.com/explore/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.conradmaldives.com/explore/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "picnic",
+    "source_url": "https://www.conradmaldives.com/explore/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.conradmaldives.com/watersports-centre/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "big game fishing",
+    "source_url": "https://www.conradmaldives.com/dive-centre/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.conradmaldives.com/dive-centre/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.conradmaldives.com/dive-centre/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.conradmaldives.com/dive-centre/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.conradmaldives.com/offers/romantic-escape/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.conradmaldives.com/offers/romantic-escape/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.conradmaldives.com/dining/ithaa-undersea-restaurant/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset fishing",
+    "source_url": "https://www.conradmaldives.com/island-events/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "cooking class",
+    "source_url": "https://www.conradmaldives.com/offers/island-family-retreat/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.conradmaldives.com/offers/oceanic-luxury-the-muraka-odyssey/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.conradmaldives.com/offers/oceanic-luxury-the-muraka-odyssey/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "private dinner",
+    "source_url": "https://www.conradmaldives.com/offers/oceanic-luxury-the-muraka-odyssey/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.conradmaldives.com",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.conradmaldives.com",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.conradmaldives.com",
+    "as_of": "2026-10-04"
    },
    {
     "value": "local island",
@@ -452,13 +2429,293 @@
     "value": "picnic",
     "source_url": "https://www.neoscapesmaldives.com/resort/conrad-maldives-rangali-island/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "big game fishing",
+    "source_url": "https://www.mymaldives.com/resort-guide/conrad-maldives-rangali-island/",
+    "as_of": "2026-10-04"
    }
   ],
   "wellness_fitness": [
    {
     "value": "gym",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/CMRI-Villa-Factsheet.pdf",
+    "source_url": "https://www.conradmaldives.com/wp-content/uploads/2025/12/CMRI-Villa-Factsheet-1.pdf",
     "as_of": 2025
+   },
+   {
+    "value": "meditation",
+    "source_url": "https://cdnm.heyzine.com/files/uploaded/v2/df3a310befc6320487f0f2e156dc8f7ef58faa1f-2.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "steam",
+    "source_url": "https://cdnm.heyzine.com/files/uploaded/v2/df3a310befc6320487f0f2e156dc8f7ef58faa1f-2.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.conradmaldives.com/wp-content/uploads/2025/12/2025-Spa-Retreat-Brochure.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "sauna",
+    "source_url": "https://www.conradmaldives.com/wp-content/uploads/2025/12/2025-Spa-Retreat-Brochure.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "steam",
+    "source_url": "https://www.conradmaldives.com/wp-content/uploads/2025/12/2025-Spa-Retreat-Brochure.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "steam",
+    "source_url": "https://www.conradmaldives.com/wp-content/uploads/2026/01/Battuta-Menu.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.conradmaldives.com/wp-content/uploads/2025/12/2025-Signature-Island-Experiences.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "meditation",
+    "source_url": "https://www.conradmaldives.com/wp-content/uploads/2025/12/2025-Signature-Island-Experiences.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.conradmaldives.com/wp-content/uploads/2026/05/Resort-Experience-Map-2026-copy.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "gym",
+    "source_url": "https://www.conradmaldives.com/wp-content/uploads/2026/05/Resort-Experience-Map-2026-copy.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://www.conradmaldives.com/wp-content/uploads/2026/05/Resort-Experience-Map-2026-copy.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "padel",
+    "source_url": "https://www.conradmaldives.com/wp-content/uploads/2026/05/Resort-Experience-Map-2026-copy.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.conradmaldives.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://www.conradmaldives.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "padel",
+    "source_url": "https://www.conradmaldives.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "pilates",
+    "source_url": "https://www.conradmaldives.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.conradmaldives.com/wellness/fitness-and-yoga/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "gym",
+    "source_url": "https://www.conradmaldives.com/wellness/fitness-and-yoga/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fitness center",
+    "source_url": "https://www.conradmaldives.com/wellness/fitness-and-yoga/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "meditation",
+    "source_url": "https://www.conradmaldives.com/dining/atoll-market/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "meditation",
+    "source_url": "https://www.conradmaldives.com/dining/sunset-grill/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.conradmaldives.com/wellness/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "meditation",
+    "source_url": "https://www.conradmaldives.com/wellness/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fitness center",
+    "source_url": "https://www.conradmaldives.com/wellness/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "steam",
+    "source_url": "https://www.conradmaldives.com/wellness/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://www.conradmaldives.com/itinerary-builder/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "meditation",
+    "source_url": "https://www.conradmaldives.com/dining/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "meditation",
+    "source_url": "https://www.conradmaldives.com/dining/destination-dining/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "meditation",
+    "source_url": "https://www.conradmaldives.com/dining/in-villa-dining/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "meditation",
+    "source_url": "https://www.conradmaldives.com/dining/rangali-bar/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "meditation",
+    "source_url": "https://www.conradmaldives.com/dining/ufaa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.conradmaldives.com/gallery/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "meditation",
+    "source_url": "https://www.conradmaldives.com/gallery/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://www.conradmaldives.com/gallery/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sound healing",
+    "source_url": "https://www.conradmaldives.com/gallery/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "meditation",
+    "source_url": "https://www.conradmaldives.com/dining/ranthelibeachclub/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://www.conradmaldives.com/explore/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "meditation",
+    "source_url": "https://www.conradmaldives.com/dining/aaraha-champagne-bar/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.conradmaldives.com/sitemap/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "meditation",
+    "source_url": "https://www.conradmaldives.com/dining/mandhoo-restaurant/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.conradmaldives.com/offers/romantic-escape/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "meditation",
+    "source_url": "https://www.conradmaldives.com/villa/the-muraka/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "gym",
+    "source_url": "https://www.conradmaldives.com/villa/the-muraka/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "meditation",
+    "source_url": "https://www.conradmaldives.com/dining/ithaa-undersea-restaurant/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.conradmaldives.com/island-events/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "meditation",
+    "source_url": "https://www.conradmaldives.com/island-events/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.conradmaldives.com/wellness/tailored-holistic-treatments/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sound healing",
+    "source_url": "https://www.conradmaldives.com/wellness/tailored-holistic-treatments/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "meditation",
+    "source_url": "https://www.conradmaldives.com/dining/koko/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "meditation",
+    "source_url": "https://www.conradmaldives.com/dining/vilu-restaurant-bar/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.conradmaldives.com",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://www.conradmaldives.com",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "padel",
+    "source_url": "https://www.conradmaldives.com",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "pilates",
+    "source_url": "https://www.conradmaldives.com",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "padel",
+    "source_url": "https://www.conradmaldives.com/island-first/our-new-padel-court/",
+    "as_of": "2026-10-04"
    },
    {
     "value": "yoga",
@@ -469,28 +2726,876 @@
     "value": "fitness center",
     "source_url": "https://www.neoscapesmaldives.com/resort/conrad-maldives-rangali-island/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://www.mymaldives.com/resort-guide/conrad-maldives-rangali-island/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "badminton",
+    "source_url": "https://www.mymaldives.com/resort-guide/conrad-maldives-rangali-island/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sauna",
+    "source_url": "https://www.mymaldives.com/resort-guide/conrad-maldives-rangali-island/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "gym",
+    "source_url": "https://www.teletextholidays.co.uk/hotels/conrad-maldives-rangali-island-hotel-maldivas-male-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://www.teletextholidays.co.uk/hotels/conrad-maldives-rangali-island-hotel-maldivas-male-maldives",
+    "as_of": "2026-10-04"
    }
   ],
   "sustainability": [
    {
     "value": "coral nursery",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/CMRI-Villa-Factsheet.pdf",
+    "source_url": "https://www.conradmaldives.com/wp-content/uploads/2025/12/CMRI-Villa-Factsheet-1.pdf",
     "as_of": 2025
+   },
+   {
+    "value": "hydroponic",
+    "source_url": "https://www.conradmaldives.com/wp-content/uploads/2025/12/2025-Signature-Island-Experiences.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "coral restoration",
+    "source_url": "https://www.conradmaldives.com/wp-content/uploads/2025/12/Coral-Conservation-Flyer.pdf",
+    "as_of": 2016
+   },
+   {
+    "value": "coral nursery",
+    "source_url": "https://www.conradmaldives.com/wp-content/uploads/2025/12/Coral-Conservation-Flyer.pdf",
+    "as_of": 2016
+   },
+   {
+    "value": "marine biologist",
+    "source_url": "https://www.conradmaldives.com/wp-content/uploads/2025/12/Coral-Conservation-Flyer.pdf",
+    "as_of": 2016
+   },
+   {
+    "value": "coral restoration",
+    "source_url": "https://www.conradmaldives.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "coral regeneration",
+    "source_url": "https://www.conradmaldives.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "solar",
+    "source_url": "https://www.conradmaldives.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "hydroponic",
+    "source_url": "https://www.conradmaldives.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "coral restoration",
+    "source_url": "https://www.conradmaldives.com/itinerary-builder/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "marine biologist",
+    "source_url": "https://www.conradmaldives.com/itinerary-builder/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "coral regeneration",
+    "source_url": "https://www.conradmaldives.com/travel-with-purpose/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "marine biologist",
+    "source_url": "https://www.conradmaldives.com/travel-with-purpose/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "single-use plastic",
+    "source_url": "https://www.conradmaldives.com/travel-with-purpose/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "hydroponic",
+    "source_url": "https://www.conradmaldives.com/travel-with-purpose/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "coral restoration",
+    "source_url": "https://www.conradmaldives.com/explore/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "marine biologist",
+    "source_url": "https://www.conradmaldives.com/explore/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "marine biologist",
+    "source_url": "https://www.conradmaldives.com/dive-centre/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "marine biologist",
+    "source_url": "https://www.conradmaldives.com/villa/the-muraka/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "coral restoration",
+    "source_url": "https://www.conradmaldives.com",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "coral regeneration",
+    "source_url": "https://www.conradmaldives.com",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "solar",
+    "source_url": "https://www.conradmaldives.com",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "hydroponic",
+    "source_url": "https://www.conradmaldives.com",
+    "as_of": "2026-10-04"
    }
   ],
   "contacts_public.phone": [
    {
     "value": "+960 668 0629",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/CMRI-Villa-Factsheet.pdf",
+    "source_url": "https://www.conradmaldives.com/wp-content/uploads/2025/12/CMRI-Villa-Factsheet-1.pdf",
     "as_of": 2025
+   },
+   {
+    "value": "+960 668 0629",
+    "source_url": "https://www.conradmaldives.com/wp-content/uploads/2025/12/CMRI_Wedding-Brochure_July2025-2.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "+960 668 0629",
+    "source_url": "https://www.conradmaldives.com/wp-content/uploads/2025/12/2025-Spa-Retreat-Brochure.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "+960 735 6090",
+    "source_url": "https://www.conradmaldives.com/wp-content/uploads/2025/12/Coral-Conservation-Flyer.pdf",
+    "as_of": 2016
+   },
+   {
+    "value": "+960 668 0629",
+    "source_url": "https://www.conradmaldives.com/contact/",
+    "as_of": "2026-10-04"
    },
    {
     "value": "+960 736 5425",
     "source_url": "https://www.neoscapesmaldives.com/resort/conrad-maldives-rangali-island/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 7773 699",
+    "source_url": "https://www.maldivesholidayoffers.com/accomodation/resorts/conrad-rangali-maldives-island-hotel/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "spa.name": [
+   {
+    "value": "Over Water Spa",
+    "source_url": "https://cdnm.heyzine.com/files/uploaded/v2/df3a310befc6320487f0f2e156dc8f7ef58faa1f-2.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.conradmaldives.com/wp-content/uploads/2025/12/CMRI_Wedding-Brochure_July2025-2.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "BODY\nThe Conrad Spa",
+    "source_url": "https://www.conradmaldives.com/wp-content/uploads/2025/12/2025-Spa-Retreat-Brochure.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.conradmaldives.com/wp-content/uploads/2025/12/2025-Signature-Island-Experiences.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.conradmaldives.com/wp-content/uploads/2026/05/Resort-Experience-Map-2026-copy.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "Undersea Restaurant\nSoulful Spa",
+    "source_url": "https://www.conradmaldives.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.conradmaldives.com/dining/atoll-market/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.conradmaldives.com/dining/sunset-grill/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.conradmaldives.com/wellness/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.conradmaldives.com/offers/ultimate-rangali-experience/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.conradmaldives.com/dining/destination-dining/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.conradmaldives.com/dining/in-villa-dining/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.conradmaldives.com/dining/rangali-bar/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.conradmaldives.com/dining/ufaa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Massage Treatment\nThe Spa",
+    "source_url": "https://www.conradmaldives.com/gallery/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.conradmaldives.com/dining/ranthelibeachclub/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.conradmaldives.com/dining/aaraha-champagne-bar/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Center\nKids Club\nSpa",
+    "source_url": "https://www.conradmaldives.com/sitemap/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.conradmaldives.com/dining/mandhoo-restaurant/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.conradmaldives.com/offers/hilton-honors-exclusive/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.conradmaldives.com/our-story/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.conradmaldives.com/dining/ithaa-undersea-restaurant/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "VILLAS\nSpa",
+    "source_url": "https://www.conradmaldives.com/island-events/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.conradmaldives.com/wellness/tailored-holistic-treatments/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.conradmaldives.com/dining/koko/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.conradmaldives.com/dining/vilu-restaurant-bar/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.conradmaldives.com/offers/oceanic-luxury-the-muraka-odyssey/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Undersea Restaurant\nSoulful Spa",
+    "source_url": "https://www.conradmaldives.com",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Facilities\nDive Centre\nSpa",
+    "source_url": "https://www.neoscapesmaldives.com/resort/conrad-maldives-rangali-island/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.mymaldives.com/blog/hilton-maldives-resort-and-spa-to-re-brand-as-conrad-maldives-rangali-island/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.mymaldives.com/resort-guide/conrad-maldives-rangali-island/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.maldivesholidayoffers.com/accomodation/resorts/conrad-rangali-maldives-island-hotel/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Ein Spa",
+    "source_url": "https://malediven.de/malediven-hotels/conrad-maldives-rangali-island/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "villas.total": [
+   {
+    "value": 10,
+    "source_url": "https://www.conradmaldives.com/wp-content/uploads/2025/12/CMRI_Wedding-Brochure_July2025-2.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": 150,
+    "source_url": "https://www.mymaldives.com/resort-guide/conrad-maldives-rangali-island/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "diving_watersports.operator": [
+   {
+    "value": "Ocean Group",
+    "source_url": "https://www.conradmaldives.com/wp-content/uploads/2025/12/CMRI_Wedding-Brochure_July2025-2.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "Ocean Watersports",
+    "source_url": "https://www.conradmaldives.com/watersports-centre/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Ocean Watersports",
+    "source_url": "https://www.conradmaldives.com/sitemap/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Dive Centre",
+    "source_url": "https://www.neoscapesmaldives.com/resort/conrad-maldives-rangali-island/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Dive Centre",
+    "source_url": "https://www.maldivesholidayoffers.com/accomodation/resorts/conrad-rangali-maldives-island-hotel/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "weddings.offered": [
+   {
+    "value": true,
+    "source_url": "https://www.conradmaldives.com/wp-content/uploads/2025/12/CMRI_Wedding-Brochure_July2025-2.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": true,
+    "source_url": "https://www.conradmaldives.com/celebrations/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.conradmaldives.com/celebrations/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.conradmaldives.com/offers/ultimate-rangali-experience/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.conradmaldives.com/celebrations/plan-your-celebration/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.conradmaldives.com/celebrations/plan-your-celebration/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.conradmaldives.com/celebrations/weddings-vow-renewals/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.conradmaldives.com/celebrations/weddings-vow-renewals/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.conradmaldives.com/gallery/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.conradmaldives.com/sitemap/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.conradmaldives.com/offers/romantic-escape/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.neoscapesmaldives.com/resort/conrad-maldives-rangali-island/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.maldivestourism.net/blog/conrad-maldives-triumphs-at-world-travel-awards-2015/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "weddings.vow_renewal": [
+   {
+    "value": true,
+    "source_url": "https://www.conradmaldives.com/wp-content/uploads/2025/12/CMRI_Wedding-Brochure_July2025-2.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": true,
+    "source_url": "https://www.conradmaldives.com/celebrations/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.conradmaldives.com/celebrations/plan-your-celebration/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.conradmaldives.com/celebrations/weddings-vow-renewals/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.conradmaldives.com/sitemap/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "weddings.packages": [
+   {
+    "value": {
+     "name": "Honeymoon Bath Experience",
+     "price": "255",
+     "currency": "USD",
+     "as_of": 2025
+    },
+    "source_url": "https://www.conradmaldives.com/wp-content/uploads/2025/12/CMRI_Wedding-Brochure_July2025-2.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": {
+     "name": "Ceremony",
+     "price": "4000",
+     "currency": "USD",
+     "as_of": 2025
+    },
+    "source_url": "https://www.conradmaldives.com/wp-content/uploads/2025/12/CMRI_Wedding-Brochure_July2025-2.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": {
+     "name": "Wedding",
+     "price": "350",
+     "currency": "USD",
+     "as_of": 2025
+    },
+    "source_url": "https://www.conradmaldives.com/wp-content/uploads/2025/12/CMRI_Wedding-Brochure_July2025-2.pdf",
+    "as_of": 2025
+   }
+  ],
+  "kids_family.teens": [
+   {
+    "value": "teens programme mentioned",
+    "source_url": "https://www.conradmaldives.com/wp-content/uploads/2025/12/2025-Spa-Retreat-Brochure.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "teens programme mentioned",
+    "source_url": "https://www.conradmaldives.com/wp-content/uploads/2025/12/2025-Kids-and-Teens-Timetable-Brochure.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "teens programme mentioned",
+    "source_url": "https://www.conradmaldives.com/wp-content/uploads/2026/05/Resort-Experience-Map-2026-copy.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "teens programme mentioned",
+    "source_url": "https://www.conradmaldives.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "teens programme mentioned",
+    "source_url": "https://www.conradmaldives.com/villa/2-bedroom-deluxe-beach-villa-with-pool/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "teens programme mentioned",
+    "source_url": "https://www.conradmaldives.com/villas/beach-villas/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "teens programme mentioned",
+    "source_url": "https://www.conradmaldives.com/villas/overwater-villas/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "teens programme mentioned",
+    "source_url": "https://www.conradmaldives.com/villa/deluxe-water-villa-with-pool/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "teens programme mentioned",
+    "source_url": "https://www.conradmaldives.com/villa/2-bedroom-grand-water-villa-with-pool/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "teens programme mentioned",
+    "source_url": "https://www.conradmaldives.com/kids-club/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "teens programme mentioned",
+    "source_url": "https://www.conradmaldives.com/villa/beach-villa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "teens programme mentioned",
+    "source_url": "https://www.conradmaldives.com/villa/2-bedroom-rangali-ocean-pavilion-with-pool/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "teens programme mentioned",
+    "source_url": "https://www.conradmaldives.com/villa/family-beach-villa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "teens programme mentioned",
+    "source_url": "https://www.conradmaldives.com/villa/the-muraka/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "teens programme mentioned",
+    "source_url": "https://www.conradmaldives.com/villa/3-bedroom-beach-suite-with-pool/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "teens programme mentioned",
+    "source_url": "https://www.conradmaldives.com/villas/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "teens programme mentioned",
+    "source_url": "https://www.conradmaldives.com/villa/deluxe-beach-villa-with-pool/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "teens programme mentioned",
+    "source_url": "https://www.conradmaldives.com/villa/2-bedroom-grand-water-villa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "teens programme mentioned",
+    "source_url": "https://www.conradmaldives.com/offers/island-family-retreat/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "teens programme mentioned",
+    "source_url": "https://www.conradmaldives.com/villa/premier-water-villa-with-pool/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "teens programme mentioned",
+    "source_url": "https://www.conradmaldives.com",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "diving_watersports.house_reef": [
+   {
+    "value": "house reef to see",
+    "source_url": "https://www.conradmaldives.com/wp-content/uploads/2025/12/2025-Conrad-Dive-Centre-Brochure-.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "HOUSE REEF",
+    "source_url": "https://www.conradmaldives.com/wp-content/uploads/2025/12/2025-Signature-Island-Experiences.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "house reef",
+    "source_url": "https://www.conradmaldives.com/wp-content/uploads/2025/12/Coral-Conservation-Flyer.pdf",
+    "as_of": 2016
+   },
+   {
+    "value": "HOUSE REEF: Explore the resort’s excellent house reef, just 50 meters from the beach,",
+    "source_url": "https://www.conradmaldives.com/wp-content/uploads/2026/05/Resort-Experience-Map-2026-copy.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "house reef where living colors bloom beneath the surface",
+    "source_url": "https://www.conradmaldives.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef, and glide across crystal-clear waters with unlimited non-motorized watersports like paddle-boarding and kayaking",
+    "source_url": "https://www.conradmaldives.com/offers/ultimate-rangali-experience/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef, our team ensures that every encounter is respectful of the marine environment, promoting a sustainable coexistence with the ocean’s majestic inhabitants",
+    "source_url": "https://www.conradmaldives.com/travel-with-purpose/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef to witness the wonders of the underwater world firsthand",
+    "source_url": "https://www.conradmaldives.com/explore/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef snorkeling",
+    "source_url": "https://www.conradmaldives.com/dive-centre/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "House Reef for two adults",
+    "source_url": "https://www.conradmaldives.com/offers/romantic-escape/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef right at your villa’s doorstep, or drift across the calm waters on a kayak or paddle-board",
+    "source_url": "https://www.conradmaldives.com/offers/maldivian-getaway/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "House Reef",
+    "source_url": "https://www.conradmaldives.com/offers/island-family-retreat/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef where living colors bloom beneath the surface",
+    "source_url": "https://www.conradmaldives.com",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reefs, and world-first experiences such as Ithaa, the undersea restaurant, and The Muraka, the world’s first underwater residence, the resort blends iconic innovati",
+    "source_url": "https://www.neoscapesmaldives.com/resort/conrad-maldives-rangali-island/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reefs and trips to world renowned dive sites for snorkeling and diving",
+    "source_url": "https://www.mymaldives.com/resort-guide/conrad-maldives-rangali-island/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef, accessible directly from the resort",
+    "source_url": "https://www.teletextholidays.co.uk/hotels/conrad-maldives-rangali-island-hotel-maldivas-male-maldives",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "meal_plans": [
+   {
+    "value": "HB",
+    "source_url": "https://www.conradmaldives.com/wp-content/uploads/2025/12/2025-Signature-Island-Experiences.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "FB",
+    "source_url": "https://www.conradmaldives.com/wp-content/uploads/2025/12/2025-Signature-Island-Experiences.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "FB",
+    "source_url": "https://cdnm.heyzine.com/files/uploaded/v3/78f628514af279e4b0bec32d84b7aad63639a6db-4.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "HB",
+    "source_url": "https://www.conradmaldives.com/offers/ultimate-rangali-experience/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "FB",
+    "source_url": "https://www.conradmaldives.com/offers/ultimate-rangali-experience/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "HB",
+    "source_url": "https://www.conradmaldives.com/celebrations/plan-your-celebration/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "HB",
+    "source_url": "https://www.conradmaldives.com/celebrations/weddings-vow-renewals/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "HB",
+    "source_url": "https://www.conradmaldives.com/offers/romantic-escape/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "HB",
+    "source_url": "https://www.conradmaldives.com/offers/hilton-honors-exclusive/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "HB",
+    "source_url": "https://www.conradmaldives.com/offers/maldivian-getaway/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "HB",
+    "source_url": "https://www.conradmaldives.com/offers/island-family-retreat/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "HB",
+    "source_url": "https://www.conradmaldives.com/offers/oceanic-luxury-the-muraka-odyssey/",
+    "as_of": "2026-10-04"
    }
   ],
   "transfer.modes": [
+   {
+    "value": "speedboat",
+    "source_url": "https://www.conradmaldives.com/wp-content/uploads/2026/05/Resort-Experience-Map-2026-copy.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.conradmaldives.com/celebrations/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.conradmaldives.com/itinerary-builder/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.conradmaldives.com/itinerary-builder/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yacht",
+    "source_url": "https://www.conradmaldives.com/itinerary-builder/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.conradmaldives.com/offers/ultimate-rangali-experience/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.conradmaldives.com/celebrations/plan-your-celebration/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yacht",
+    "source_url": "https://www.conradmaldives.com/celebrations/plan-your-celebration/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.conradmaldives.com/celebrations/weddings-vow-renewals/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yacht",
+    "source_url": "https://www.conradmaldives.com/celebrations/weddings-vow-renewals/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.conradmaldives.com/explore/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yacht",
+    "source_url": "https://www.conradmaldives.com/explore/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.conradmaldives.com/getting-here/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.conradmaldives.com/getting-here/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "domestic flight",
+    "source_url": "https://www.conradmaldives.com/getting-here/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.conradmaldives.com/watersports-centre/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.conradmaldives.com/offers/romantic-escape/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.conradmaldives.com/offers/hilton-honors-exclusive/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.conradmaldives.com/offers/maldivian-getaway/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.conradmaldives.com/offers/island-family-retreat/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.conradmaldives.com/offers/oceanic-luxury-the-muraka-odyssey/",
+    "as_of": "2026-10-04"
+   },
    {
     "value": "seaplane",
     "source_url": "https://www.neoscapesmaldives.com/resort/conrad-maldives-rangali-island/",
@@ -500,39 +3605,1299 @@
     "value": "yacht",
     "source_url": "https://www.neoscapesmaldives.com/resort/conrad-maldives-rangali-island/",
     "as_of": "2026-10-04"
-   }
-  ],
-  "transfer.minutes.seaplane": [
+   },
    {
-    "value": 30,
-    "source_url": "https://www.neoscapesmaldives.com/resort/conrad-maldives-rangali-island/",
+    "value": "seaplane",
+    "source_url": "https://www.maldivesholidayoffers.com/accomodation/resorts/conrad-rangali-maldives-island-hotel/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.maldivesholidayoffers.com/accomodation/resorts/conrad-rangali-maldives-island-hotel/",
     "as_of": "2026-10-04"
    }
   ],
-  "island_size": [
+  "kids_family.kids_club": [
    {
-    "value": "480 m x 240 m",
+    "value": "Teens Club",
+    "source_url": "https://www.conradmaldives.com/wp-content/uploads/2026/05/Resort-Experience-Map-2026-copy.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "Ocean Dive Center\nKids Club",
+    "source_url": "https://www.conradmaldives.com/sitemap/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Kids Club",
     "source_url": "https://www.neoscapesmaldives.com/resort/conrad-maldives-rangali-island/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Kids Club",
+    "source_url": "https://malediven.de/malediven-hotels/conrad-maldives-rangali-island/",
     "as_of": "2026-10-04"
    }
   ],
   "dining": [
    {
     "value": {
-     "name": "Dining",
+     "name": "Ithaa Undersea Restaurant",
      "cuisine": null,
      "type": "restaurant"
     },
-    "source_url": "https://www.neoscapesmaldives.com/resort/conrad-maldives-rangali-island/",
+    "source_url": "https://www.conradmaldives.com/",
     "as_of": "2026-10-04"
    },
    {
     "value": {
-     "name": "Dining",
+     "name": "Ithaa Undersea Restaurant",
      "cuisine": null,
      "type": "restaurant"
     },
-    "source_url": "https://www.neoscapesmaldives.com/resort/conrad-maldives-rangali-island/",
+    "source_url": "https://www.conradmaldives.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Ithaa Undersea Restaurant",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.conradmaldives.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Aaraha Champagne Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.conradmaldives.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Sunset Grill",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.conradmaldives.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Mandhoo Restaurant",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.conradmaldives.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Rangali Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.conradmaldives.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Ithaa Undersea Restaurant",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.conradmaldives.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Sunset Grill",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.conradmaldives.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Mandhoo Spa Restaurant",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.conradmaldives.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "The Wine Cellar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.conradmaldives.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "KOKO Grill",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.conradmaldives.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "The Cheese & Wine Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.conradmaldives.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Rangali Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.conradmaldives.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Nebo Restaurant & Lounge",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.conradmaldives.com/dining/atoll-market/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "The Elephant Restaurant",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.conradmaldives.com/dining/atoll-market/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Saturday Kitchen",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.conradmaldives.com/dining/atoll-market/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Aaraha Champagne Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.conradmaldives.com/dining/atoll-market/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Rangali Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.conradmaldives.com/dining/atoll-market/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Mandhoo Restaurant",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.conradmaldives.com/dining/atoll-market/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Sunset Grill",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.conradmaldives.com/dining/atoll-market/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Sunset Grill",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.conradmaldives.com/dining/sunset-grill/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Nebo Restaurant & Lounge",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.conradmaldives.com/dining/sunset-grill/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "The Elephant Restaurant",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.conradmaldives.com/dining/sunset-grill/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Saturday Kitchen",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.conradmaldives.com/dining/sunset-grill/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Aaraha Champagne Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.conradmaldives.com/dining/sunset-grill/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Rangali Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.conradmaldives.com/dining/sunset-grill/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Mandhoo Restaurant",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.conradmaldives.com/dining/sunset-grill/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Mandhoo Restaurant",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.conradmaldives.com/wellness/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Aaraha Champagne Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.conradmaldives.com/dining/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Sunset Grill",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.conradmaldives.com/dining/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Mandhoo Restaurant",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.conradmaldives.com/dining/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Rangali Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.conradmaldives.com/dining/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Nebo Restaurant & Lounge",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.conradmaldives.com/dining/destination-dining/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "The Elephant Restaurant",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.conradmaldives.com/dining/destination-dining/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Saturday Kitchen",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.conradmaldives.com/dining/destination-dining/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Aaraha Champagne Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.conradmaldives.com/dining/destination-dining/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Rangali Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.conradmaldives.com/dining/destination-dining/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Mandhoo Restaurant",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.conradmaldives.com/dining/destination-dining/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Sunset Grill",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.conradmaldives.com/dining/destination-dining/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Nebo Restaurant & Lounge",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.conradmaldives.com/dining/in-villa-dining/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "The Elephant Restaurant",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.conradmaldives.com/dining/in-villa-dining/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Saturday Kitchen",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.conradmaldives.com/dining/in-villa-dining/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Aaraha Champagne Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.conradmaldives.com/dining/in-villa-dining/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Rangali Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.conradmaldives.com/dining/in-villa-dining/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Mandhoo Restaurant",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.conradmaldives.com/dining/in-villa-dining/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Sunset Grill",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.conradmaldives.com/dining/in-villa-dining/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Rangali Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.conradmaldives.com/dining/rangali-bar/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Nebo Restaurant & Lounge",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.conradmaldives.com/dining/rangali-bar/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "The Elephant Restaurant",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.conradmaldives.com/dining/rangali-bar/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Saturday Kitchen",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.conradmaldives.com/dining/rangali-bar/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Aaraha Champagne Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.conradmaldives.com/dining/rangali-bar/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Mandhoo Restaurant",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.conradmaldives.com/dining/rangali-bar/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Sunset Grill",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.conradmaldives.com/dining/rangali-bar/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Nebo Restaurant & Lounge",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.conradmaldives.com/dining/ufaa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "The Elephant Restaurant",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.conradmaldives.com/dining/ufaa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Saturday Kitchen",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.conradmaldives.com/dining/ufaa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Aaraha Champagne Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.conradmaldives.com/dining/ufaa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Rangali Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.conradmaldives.com/dining/ufaa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Mandhoo Restaurant",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.conradmaldives.com/dining/ufaa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Sunset Grill",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.conradmaldives.com/dining/ufaa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Ithaa Undersea Restaurant",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.conradmaldives.com/gallery/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Lunch at Ithaa Undersea Restaurant",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.conradmaldives.com/gallery/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Seafood Platter at Sunset Grill",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.conradmaldives.com/gallery/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Lunch date at Mandhoo Restaurant",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.conradmaldives.com/gallery/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Champagne & Canapes at Aaraha Champagne Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.conradmaldives.com/gallery/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Sunset Grill",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.conradmaldives.com/gallery/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Dinner at Mandhoo Restaurant",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.conradmaldives.com/gallery/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Tomahawk at Sunset Grill",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.conradmaldives.com/gallery/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Koko Grill",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.conradmaldives.com/gallery/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Nebo Restaurant & Lounge",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.conradmaldives.com/dining/ranthelibeachclub/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "The Elephant Restaurant",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.conradmaldives.com/dining/ranthelibeachclub/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Saturday Kitchen",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.conradmaldives.com/dining/ranthelibeachclub/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Aaraha Champagne Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.conradmaldives.com/dining/ranthelibeachclub/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Rangali Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.conradmaldives.com/dining/ranthelibeachclub/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Mandhoo Restaurant",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.conradmaldives.com/dining/ranthelibeachclub/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Sunset Grill",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.conradmaldives.com/dining/ranthelibeachclub/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "The Conrad Lounge",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.conradmaldives.com/getting-here/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Aaraha Champagne Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.conradmaldives.com/dining/aaraha-champagne-bar/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Nebo Restaurant & Lounge",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.conradmaldives.com/dining/aaraha-champagne-bar/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "The Elephant Restaurant",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.conradmaldives.com/dining/aaraha-champagne-bar/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Saturday Kitchen",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.conradmaldives.com/dining/aaraha-champagne-bar/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Rangali Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.conradmaldives.com/dining/aaraha-champagne-bar/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Mandhoo Restaurant",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.conradmaldives.com/dining/aaraha-champagne-bar/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Sunset Grill",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.conradmaldives.com/dining/aaraha-champagne-bar/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Aaraha Champagne Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.conradmaldives.com/sitemap/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Cheese & Wine Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.conradmaldives.com/sitemap/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Wine Cellar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.conradmaldives.com/sitemap/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Rangali Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.conradmaldives.com/sitemap/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Mandhoo Restaurant",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.conradmaldives.com/sitemap/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Sunset Grill",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.conradmaldives.com/sitemap/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Ithaa Undersea Restaurant",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.conradmaldives.com/sitemap/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Mandhoo Restaurant",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.conradmaldives.com/dining/mandhoo-restaurant/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Nebo Restaurant & Lounge",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.conradmaldives.com/dining/mandhoo-restaurant/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "The Elephant Restaurant",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.conradmaldives.com/dining/mandhoo-restaurant/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Saturday Kitchen",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.conradmaldives.com/dining/mandhoo-restaurant/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Aaraha Champagne Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.conradmaldives.com/dining/mandhoo-restaurant/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Rangali Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.conradmaldives.com/dining/mandhoo-restaurant/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Sunset Grill",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.conradmaldives.com/dining/mandhoo-restaurant/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Kitchen and bar",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.conradmaldives.com/villa/the-muraka/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Ithaa Undersea Restaurant",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.conradmaldives.com/our-story/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "The Maldives' First Underground Wine Cellar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.conradmaldives.com/our-story/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Ithaa Undersea Restaurant",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.conradmaldives.com/dining/ithaa-undersea-restaurant/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Ithaa Underwater Restaurant",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.conradmaldives.com/dining/ithaa-undersea-restaurant/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Ithaa Underwater Restaurant",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.conradmaldives.com/dining/ithaa-undersea-restaurant/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Nebo Restaurant & Lounge",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.conradmaldives.com/dining/ithaa-undersea-restaurant/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "The Elephant Restaurant",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.conradmaldives.com/dining/ithaa-undersea-restaurant/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Saturday Kitchen",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.conradmaldives.com/dining/ithaa-undersea-restaurant/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Aaraha Champagne Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.conradmaldives.com/dining/ithaa-undersea-restaurant/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Rangali Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.conradmaldives.com/dining/ithaa-undersea-restaurant/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Mandhoo Restaurant",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.conradmaldives.com/dining/ithaa-undersea-restaurant/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Sunset Grill",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.conradmaldives.com/dining/ithaa-undersea-restaurant/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Nebo Restaurant & Lounge",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.conradmaldives.com/dining/koko/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "The Elephant Restaurant",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.conradmaldives.com/dining/koko/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Saturday Kitchen",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.conradmaldives.com/dining/koko/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Aaraha Champagne Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.conradmaldives.com/dining/koko/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Rangali Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.conradmaldives.com/dining/koko/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Mandhoo Restaurant",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.conradmaldives.com/dining/koko/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Sunset Grill",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.conradmaldives.com/dining/koko/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Nebo Restaurant & Lounge",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.conradmaldives.com/dining/vilu-restaurant-bar/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "The Elephant Restaurant",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.conradmaldives.com/dining/vilu-restaurant-bar/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Saturday Kitchen",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.conradmaldives.com/dining/vilu-restaurant-bar/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Aaraha Champagne Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.conradmaldives.com/dining/vilu-restaurant-bar/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Rangali Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.conradmaldives.com/dining/vilu-restaurant-bar/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Mandhoo Restaurant",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.conradmaldives.com/dining/vilu-restaurant-bar/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Sunset Grill",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.conradmaldives.com/dining/vilu-restaurant-bar/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Ithaa Undersea Restaurant",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.conradmaldives.com",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Ithaa Undersea Restaurant",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.conradmaldives.com",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Ithaa Undersea Restaurant",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.conradmaldives.com",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Aaraha Champagne Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.conradmaldives.com",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Sunset Grill",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.conradmaldives.com",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Mandhoo Restaurant",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.conradmaldives.com",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Rangali Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.conradmaldives.com",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Ithaa Undersea Restaurant",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.conradmaldives.com",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Sunset Grill",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.conradmaldives.com",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Mandhoo Spa Restaurant",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.conradmaldives.com",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "The Wine Cellar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.conradmaldives.com",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "KOKO Grill",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.conradmaldives.com",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "The Cheese & Wine Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.conradmaldives.com",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Rangali Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.conradmaldives.com",
     "as_of": "2026-10-04"
    },
    {
@@ -600,65 +4965,131 @@
    },
    {
     "value": {
-     "name": "Destination Dining",
+     "name": "Conrad Tokyo features at Koko Grill",
      "cuisine": null,
      "type": "restaurant"
     },
-    "source_url": "https://www.neoscapesmaldives.com/resort/conrad-maldives-rangali-island/",
+    "source_url": "https://www.mymaldives.com/blog/destination-dining-travel-conrad-maldives-rangali-island/",
     "as_of": "2026-10-04"
    },
    {
     "value": {
-     "name": "In-Villa Dining",
+     "name": "Ithaa Restaurant",
      "cuisine": null,
      "type": "restaurant"
     },
-    "source_url": "https://www.neoscapesmaldives.com/resort/conrad-maldives-rangali-island/",
+    "source_url": "https://www.mymaldives.com/resort-guide/conrad-maldives-rangali-island/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Ithaa Undersea Restaurant",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.teletextholidays.co.uk/hotels/conrad-maldives-rangali-island-hotel-maldivas-male-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Sunset Grill Restaurant",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.teletextholidays.co.uk/hotels/conrad-maldives-rangali-island-hotel-maldivas-male-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Cheese & Wine Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.teletextholidays.co.uk/hotels/conrad-maldives-rangali-island-hotel-maldivas-male-maldives",
     "as_of": "2026-10-04"
    }
   ],
-  "spa.name": [
+  "island": [
    {
-    "value": "Facilities\nDive Centre\nSpa",
-    "source_url": "https://www.neoscapesmaldives.com/resort/conrad-maldives-rangali-island/",
-    "as_of": "2026-10-04"
-   }
-  ],
-  "diving_watersports.operator": [
-   {
-    "value": "Dive Centre",
-    "source_url": "https://www.neoscapesmaldives.com/resort/conrad-maldives-rangali-island/",
-    "as_of": "2026-10-04"
-   }
-  ],
-  "diving_watersports.house_reef": [
-   {
-    "value": "house reefs, and world-first experiences such as Ithaa, the undersea restaurant, and The Muraka, the world’s first underwater residence, the resort blends iconic innovati",
-    "source_url": "https://www.neoscapesmaldives.com/resort/conrad-maldives-rangali-island/",
-    "as_of": "2026-10-04"
-   }
-  ],
-  "kids_family.kids_club": [
-   {
-    "value": "Kids Club",
-    "source_url": "https://www.neoscapesmaldives.com/resort/conrad-maldives-rangali-island/",
-    "as_of": "2026-10-04"
-   }
-  ],
-  "weddings.offered": [
-   {
-    "value": true,
-    "source_url": "https://www.neoscapesmaldives.com/resort/conrad-maldives-rangali-island/",
+    "value": "Rangali",
+    "source_url": "https://www.conradmaldives.com/wellness/fitness-and-yoga/",
     "as_of": "2026-10-04"
    }
   ],
   "contacts_public.reservations_email": [
    {
+    "value": "info@conradhotels.com",
+    "source_url": "https://www.conradmaldives.com/contact/",
+    "as_of": "2026-10-04"
+   },
+   {
     "value": "info@neoscapesmaldives.com",
     "source_url": "https://www.neoscapesmaldives.com/resort/conrad-maldives-rangali-island/",
     "as_of": "2026-10-04"
    }
+  ],
+  "events_mice.capacity_max": [
+   {
+    "value": 10,
+    "source_url": "https://www.conradmaldives.com/celebrations/plan-your-celebration/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 10,
+    "source_url": "https://www.conradmaldives.com/celebrations/weddings-vow-renewals/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "transfer.minutes.seaplane": [
+   {
+    "value": 30,
+    "source_url": "https://www.conradmaldives.com/getting-here/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 30,
+    "source_url": "https://www.neoscapesmaldives.com/resort/conrad-maldives-rangali-island/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 55,
+    "source_url": "https://www.maldivesholidayoffers.com/accomodation/resorts/conrad-rangali-maldives-island-hotel/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "transfer.minutes.speedboat": [
+   {
+    "value": 30,
+    "source_url": "https://www.conradmaldives.com/getting-here/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 55,
+    "source_url": "https://www.maldivesholidayoffers.com/accomodation/resorts/conrad-rangali-maldives-island-hotel/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "transfer.minutes.domestic flight": [
+   {
+    "value": 30,
+    "source_url": "https://www.conradmaldives.com/getting-here/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "island_size": [
+   {
+    "value": "480 m x 240 m",
+    "source_url": "https://www.neoscapesmaldives.com/resort/conrad-maldives-rangali-island/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "star_rating": [
+   {
+    "value": "5-star",
+    "source_url": "https://www.teletextholidays.co.uk/hotels/conrad-maldives-rangali-island-hotel-maldivas-male-maldives",
+    "as_of": "2026-10-04"
+   }
   ]
  },
- "last_updated": "2026-10-04"
+ "last_updated": "2026-10-05"
 }

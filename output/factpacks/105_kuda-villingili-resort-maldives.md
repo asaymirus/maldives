@@ -1,6 +1,6 @@
 # 105. Kuda Villingili Resort Maldives
 
-**Official site:** n/a (None)  
+**Official site:** https://www.kudavillingili.com/ (ok)  
 **Brand:** n/a  
 **Atoll:** North Malé Atoll  **Island:** n/a  
 **Opened/renovated:** n/a  **Rating:** n/a  
@@ -16,45 +16,46 @@
 
 ## Dining
 
-- Seperate Dining Area (restaurant)
-- Dining (restaurant)
 - The Restaurant (restaurant)
 - The Cigar Lounge Near the Beach (bar)
-- Destination Dining On Request (restaurant)
 - Breakfast at The Restaurant (restaurant)
 - Raalhu Bar (bar)
 - Teppanyaki (restaurant)
-- Destination Dining (restaurant)
+- Venue: The Restaurant (restaurant)
+- Teppanyaki by Mar-Umi (restaurant)
+- The Bar (bar)
+- The Cigar Lounge (bar)
+- Teppanyaki Dinner (restaurant)
+- Healthier, Tastier Options at The Restaurant (restaurant)
 - Raalhu Bar – Your Ideal Sunset Spot (bar)
 - The Cigar Lounge – An Exclusive Haven (bar)
-- Destination & In-Villa Dining (restaurant)
 
-Meal plans: n/a
+Meal plans: BB, HB, FB, AI
+All-inclusive: all-inclusive escape designed for an unforgettable extended stay in paradise.
 
 ## Spa & wellness
 
-- Spa: n/a; treatment rooms: ?; menu: none
-- Wellness/fitness: yoga, gym, tennis, padel, ayurveda, steam, fitness centre
+- Spa: Spa; treatment rooms: ?; menu: https://dhshr15av118h.cloudfront.net/2026/07/Spa-Menu-A4-Square.pdf
+- Wellness/fitness: yoga, gym, tennis, padel, ayurveda, steam, sound healing, fitness centre, pilates, meditation, badminton
 
 ## Diving, water sports & excursions
 
-- Operator: n/a
+- Operator: Dive Centre
 - House reef: n/a
-- Activities: snorkeling, scuba diving, surfing, fishing, snorkelling, windsurfing, kayaking, jet ski, wakeboarding, manta
+- Activities: snorkeling, scuba diving, surfing, fishing, snorkelling, sunset cruise, paddleboard, windsurfing, kayaking, jet ski, wakeboarding, manta, stand-up paddle, dolphin cruise
 - Price list: none
-- Excursions: sunset fishing, turtle, manta
+- Excursions: sunset fishing, turtle, sandbank, cinema, manta, dolphin, big game fishing
 
 ## Kids & family
 
-- Kids club: Speedboat
-Kids Club; ages: n/a; teens: n/a
+- Kids club: At Kuda Fiyo Kids Club; ages: n/a; teens: teens programme mentioned
 
 ## Weddings
 
-- Offered: True; vow renewal: None
-- Venues: n/a
+- Offered: True; vow renewal: True
+- Venues: Venue: Mar-Umi Beach
 - Packages: n/a
-- Brochure: none
+- Brochure: https://dhshr15av118h.cloudfront.net/2026/03/Wedding-Brochure-2026-Kuda-Villingili-1.pdf
 
 ## Events / MICE
 
@@ -63,28 +64,25 @@ Kids Club; ages: n/a; teens: n/a
 
 ## Sustainability
 
-- n/a
+- solar, desalination, coral restoration, Green Globe, organic garden, composting
 
 ## Public contacts
 
-- Reservations: info@neoscapesmaldives.com; weddings: n/a; phone: +960 736 5425
+- Reservations: reservations@kudavillingili.com; weddings: n/a; phone: +960 400 0900
 
 ## Latest documents
 
 - factsheet: https://www.neoscapesmaldives.com/wp-content/uploads/241220_-_Factsheet.pdf
-- map: https://www.neoscapesmaldives.com/wp-content/uploads/Kuda-Villingili-Resort-Map.pdf
-- wedding: none
-- spa_menu: none
-- dining_menu: none
+- map: https://dhshr15av118h.cloudfront.net/2026/07/Kuda-Villingili-Resort-Map.pdf
+- wedding: https://dhshr15av118h.cloudfront.net/2026/03/Wedding-Brochure-2026-Kuda-Villingili-1.pdf
+- spa_menu: https://dhshr15av118h.cloudfront.net/2026/07/Spa-Menu-A4-Square.pdf
+- dining_menu: https://dhshr15av118h.cloudfront.net/2026/02/Valentines-Day-2026_Kuda-Villingili-Maldives.pdf
 - dive_prices: none
 - events: none
-- calendar: none
+- calendar: https://dhshr15av118h.cloudfront.net/2026/02/Kuda-Villingili-Maldives-Easter-Brochure-2026.pdf
 
 ## Gaps
 
-- wedding brochure
 - events/MICE document
-- fact: spa
-- fact: dive operator
 
-_Facts extracted by rules from 14 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-04._
+_Facts extracted by rules from 22 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

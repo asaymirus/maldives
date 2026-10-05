@@ -5,8 +5,8 @@
  "aliases": [
   "Komandoo"
  ],
- "official_url": null,
- "official_site_status": null,
+ "official_url": "https://www.komandoo.com/",
+ "official_site_status": "ok",
  "operator_brand": null,
  "atoll": "Lhaviyani Atoll",
  "island": "Komandoo",
@@ -79,18 +79,7 @@
    }
   ]
  },
- "dining": [
-  {
-   "name": "Aqua Restaurant located over the shimmering lagoon with a",
-   "cuisine": null,
-   "type": "restaurant"
-  },
-  {
-   "name": "Kandu Bar boasts an outdoor deck with stunning views of the",
-   "cuisine": null,
-   "type": "bar"
-  }
- ],
+ "dining": [],
  "meal_plans": [],
  "all_inclusive_details": "All-Inclusive Plus Package.",
  "spa": {
@@ -155,12 +144,13 @@
   "dining_menu": null,
   "dive_prices": null,
   "events": null,
-  "calendar": null
+  "calendar": "https://d2qwq69i2ic1pk.cloudfront.net/2023/11/CCR_2024_Calendar_compressed.pdf"
  },
- "documents_count": 7,
+ "documents_count": 9,
  "gaps": [
   "wedding brochure",
   "events/MICE document",
+  "fact: dining",
   "fact: kids club"
  ],
  "sources": {
@@ -174,6 +164,11 @@
     "value": "Lhaviyani Atoll",
     "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2025/12/KomandooAll-InclusivePlus110125103126Ver081724.pdf",
     "as_of": 2025
+   },
+   {
+    "value": "Lhaviyani Atoll",
+    "source_url": "https://malediven.de/malediven-hotels/komandoo-island/",
+    "as_of": "2026-10-04"
    }
   ],
   "island": [
@@ -309,31 +304,16 @@
     "as_of": 2025
    }
   ],
-  "dining": [
-   {
-    "value": {
-     "name": "Aqua Restaurant located over the shimmering lagoon with a",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2025/12/KomandooFactsheet110125103126Ver170824.pdf",
-    "as_of": 2025
-   },
-   {
-    "value": {
-     "name": "Kandu Bar boasts an outdoor deck with stunning views of the",
-     "cuisine": null,
-     "type": "bar"
-    },
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2025/12/KomandooFactsheet110125103126Ver170824.pdf",
-    "as_of": 2025
-   }
-  ],
   "spa.name": [
    {
     "value": "Spa",
     "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2025/12/KomandooFactsheet110125103126Ver170824.pdf",
     "as_of": 2025
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://malediven.de/malediven-hotels/komandoo-island/",
+    "as_of": "2026-10-04"
    }
   ],
   "diving_watersports.operator": [
@@ -480,5 +460,5 @@
    }
   ]
  },
- "last_updated": "2026-10-04"
+ "last_updated": "2026-10-05"
 }

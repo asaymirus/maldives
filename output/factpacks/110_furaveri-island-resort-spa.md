@@ -1,10 +1,10 @@
 # 110. Furaveri Island Resort & Spa
 
-**Official site:** n/a (None)  
+**Official site:** https://furaveri.com/ (ok)  
 **Brand:** Furaveri  
-**Atoll:** n/a  **Island:** n/a  
+**Atoll:** Raa Atoll  **Island:** n/a  
 **Opened/renovated:** n/a  **Rating:** n/a  
-**Transfer:** n/a; minutes: {}  
+**Transfer:** speedboat, seaplane; minutes: {"speedboat": 15}  
 **Island size:** n/a  
 
 ## Villas (? total)
@@ -13,31 +13,32 @@
 ## Dining
 
 
-Meal plans: n/a
+Meal plans: Dine Around
+All-inclusive: All-Inclusive Dine Around package.
 
 ## Spa & wellness
 
-- Spa: n/a; treatment rooms: ?; menu: none
-- Wellness/fitness: n/a
+- Spa: Spa; treatment rooms: ?; menu: https://furaveri.com/wp-content/uploads/2025/07/WELLNESS-VILLAGE-MENU-17-gst.pdf
+- Wellness/fitness: yoga, meditation, sound healing, sauna, steam, beach volleyball, fitness centre, tennis, badminton, pilates
 
 ## Diving, water sports & excursions
 
-- Operator: n/a
+- Operator: Dive Club
 - House reef: n/a
-- Activities: n/a
-- Price list: none
-- Excursions: n/a
+- Activities: snorkeling, scuba diving, fishing, dolphin cruise, manta, windsurfing, surfing, kayaking, catamaran, jet ski, parasailing, water skiing, seabob, sailing, flyboard, snorkelling, sunset cruise
+- Price list: https://furaveri.com/wp-content/uploads/2026/01/DCF-Price-List-new.pdf
+- Excursions: dolphin, sunset fishing, night fishing, manta, turtle, cooking class, sandbank, big game fishing, island hopping
 
 ## Kids & family
 
-- Kids club: n/a; ages: n/a; teens: n/a
+- Kids club: Kids Club; ages: n/a; teens: n/a
 
 ## Weddings
 
-- Offered: None; vow renewal: None
+- Offered: True; vow renewal: None
 - Venues: n/a
 - Packages: n/a
-- Brochure: none
+- Brochure: https://furaveri.com/wp-content/uploads/2022/05/FM_Website_SignatureWeddingPackage-min.pdf
 
 ## Events / MICE
 
@@ -55,29 +56,21 @@ Meal plans: n/a
 ## Latest documents
 
 - factsheet: none
-- map: none
-- wedding: none
-- spa_menu: none
-- dining_menu: none
-- dive_prices: none
+- map: https://furaveri.com/wp-content/uploads/2026/07/Furaveri_Maldives-_Premium-All-Inclusive-plan_2027-2028_rev04072026_243.pdf
+- wedding: https://furaveri.com/wp-content/uploads/2022/05/FM_Website_SignatureWeddingPackage-min.pdf
+- spa_menu: https://furaveri.com/wp-content/uploads/2025/07/WELLNESS-VILLAGE-MENU-17-gst.pdf
+- dining_menu: https://furaveri.com/wp-content/uploads/2025/12/INTO-THE-BLUES.pdf
+- dive_prices: https://furaveri.com/wp-content/uploads/2026/01/DCF-Price-List-new.pdf
 - events: none
 - calendar: none
 
 ## Gaps
 
 - factsheet
-- wedding brochure
 - events/MICE document
 - fact: villas.total
 - fact: villa categories
 - fact: dining
-- fact: transfer
-- fact: atoll
-- fact: spa
-- fact: dive operator
-- fact: kids club
-- fact: weddings
 - fact: contacts
-- no documents or pages collected
 
-_Facts extracted by rules from 0 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-04._
+_Facts extracted by rules from 12 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

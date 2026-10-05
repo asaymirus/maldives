@@ -1,49 +1,48 @@
 # 180. Lux* South Ari Atoll, Maldives
 
-**Official site:** n/a (None)  
+**Official site:** https://www.luxresorts.com/en/maldives/hotel/luxsouthariatoll (unreachable)  
 **Brand:** LUX*  
-**Atoll:** Ari Atoll  **Island:** n/a  
+**Atoll:** Ari Atoll  **Island:** Dhidhoofinolhu  
 **Opened/renovated:** n/a  **Rating:** n/a  
 **Transfer:** seaplane; minutes: {"seaplane": 25}  
 **Island size:** 1500 m x 90 m  
 
-## Villas (? total)
+## Villas (193 total)
 
-- Number of Villas: count 193, ? sqm, max ?
 - lu south ari atoll hlsaaromanticpoolwatervillas: count 57, ? sqm, max ?, pool
 
 ## Dining
 
-- Dining (restaurant)
 - Senses Restaurant (restaurant)
 - Senses Lounge & Bar (bar)
 - East Bar – Overwater Cocktails & Chill (bar)
-- Veli Pool Bar – Lagoon Views & Refreshing Sips (bar)
 - Café LUX* (restaurant)
 - Lagoon Bar – Reggae Beats & Beachfront Vibes (bar)
+- LUX South Ari Atoll, Cafe Lux and Allegria (restaurant)
 
 Meal plans: n/a
+All-inclusive: All Inclusive.
 
 ## Spa & wellness
 
 - Spa: Me Spa; treatment rooms: ?; menu: none
-- Wellness/fitness: yoga, meditation, fitness centre, tennis
+- Wellness/fitness: yoga, meditation, fitness centre, tennis, badminton, sauna, gym, fitness center
 
 ## Diving, water sports & excursions
 
 - Operator: Dive Centre
 - House reef: n/a
-- Activities: snorkelling, surfing, paddleboard, catamaran, jet ski, whale shark, manta, sailing, flyboard
+- Activities: snorkelling, surfing, paddleboard, catamaran, jet ski, whale shark, manta, sailing, flyboard, scuba diving, windsurfing, parasailing, water skiing, fishing, canoe, sunset cruise, snorkeling
 - Price list: none
-- Excursions: whale shark, manta
+- Excursions: whale shark, manta, big game fishing, cinema
 
 ## Kids & family
 
-- Kids club: Kids Club; ages: n/a; teens: n/a
+- Kids club: Kids Club; ages: n/a; teens: teens programme mentioned
 
 ## Weddings
 
-- Offered: True; vow renewal: None
+- Offered: True; vow renewal: True
 - Venues: n/a
 - Packages: n/a
 - Brochure: none
@@ -70,12 +69,11 @@ Meal plans: n/a
 - dining_menu: none
 - dive_prices: none
 - events: none
-- calendar: none
+- calendar: https://letsgomaldives.com/wp-content/uploads/2026/08/LSAA_-FESTIVE-BROCHURE_2627.pdf
 
 ## Gaps
 
 - wedding brochure
 - events/MICE document
-- fact: villas.total
 
-_Facts extracted by rules from 16 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-04._
+_Facts extracted by rules from 21 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

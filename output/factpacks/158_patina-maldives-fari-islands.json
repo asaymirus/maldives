@@ -6,20 +6,21 @@
   "Patina Maldives",
   "Patina Fari Islands"
  ],
- "official_url": null,
- "official_site_status": null,
+ "official_url": "https://patinahotels.com/maldives",
+ "official_site_status": "ok",
  "operator_brand": "Patina",
  "atoll": "North Malé Atoll",
- "island": null,
+ "island": "Patina Osaka",
  "opened_or_renovated": null,
- "star_rating": null,
+ "star_rating": "5-star",
  "transfer": {
   "modes": [
    "speedboat",
-   "yacht"
+   "yacht",
+   "seaplane"
   ],
   "minutes": {
-   "seaplane": null,
+   "seaplane": 10,
    "speedboat": 45,
    "domestic flight": null,
    "yacht": null
@@ -113,9 +114,9 @@
  },
  "dining": [
   {
-   "name": "Dining",
+   "name": "E Veli Bar",
    "cuisine": null,
-   "type": "restaurant"
+   "type": "bar"
   },
   {
    "name": "Veli Bar",
@@ -123,41 +124,48 @@
    "type": "bar"
   },
   {
-   "name": "Destination Dining",
+   "name": "在 Portico 和 Veli Bar 餐厅享用午餐。",
    "cuisine": null,
-   "type": "restaurant"
+   "type": "bar"
   }
  ],
- "meal_plans": [],
+ "meal_plans": [
+  "AI",
+  "Dine Around"
+ ],
  "all_inclusive_details": null,
  "spa": {
-  "name": "Flow Spa",
+  "name": "Spa",
   "treatment_rooms": null,
   "signature_treatments": [],
   "menu_doc": null
  },
  "diving_watersports": {
-  "operator": null,
-  "house_reef": null,
+  "operator": "Dive Centre",
+  "house_reef": "house reef at Patina Maldives, Fari Islands?",
   "activities": [
    "snorkelling",
    "stand-up paddle",
+   "paddleboard",
+   "snorkeling",
+   "scuba diving",
    "surfing",
    "fishing"
   ],
   "price_list_doc": null
  },
  "excursions": [
-  "sandbank",
-  "dolphin",
   "turtle",
-  "picnic",
   "cinema",
-  "cooking class"
+  "private dinner",
+  "cooking class",
+  "dolphin",
+  "sandbank",
+  "picnic"
  ],
  "kids_family": {
   "kids_club": "Footprints Kids Club",
-  "age_range": null,
+  "age_range": "4-11 years",
   "teens": null
  },
  "wellness_fitness": [
@@ -167,6 +175,8 @@
   "pilates",
   "sound healing",
   "steam",
+  "hammam",
+  "gym",
   "meditation"
  ],
  "weddings": {
@@ -184,28 +194,32 @@
  },
  "sustainability": [
   "organic garden",
+  "marine biologist",
+  "carbon neutral",
+  "Olive Ridley Project",
+  "solar",
+  "EarthCheck",
   "coral restoration"
  ],
  "contacts_public": {
-  "reservations_email": "info@neoscapesmaldives.com",
+  "reservations_email": "reservations.maldives@patinahotels.com",
   "weddings_email": null,
-  "phone": "+960 736 5425"
+  "phone": "+960 4000 555"
  },
  "documents_latest": {
   "factsheet": "https://www.neoscapesmaldives.com/wp-content/uploads/PAM_FACTSHEET_2025.pdf",
-  "map": "https://www.neoscapesmaldives.com/wp-content/uploads/Patina-Maldives-Fari-Islands_-Resort_Map.pdf",
+  "map": "https://maldives.ru/doc/pdf/hotels/revised%20Patina%20Maldives%20Map_2026.pdf",
   "wedding": null,
   "spa_menu": null,
   "dining_menu": null,
   "dive_prices": null,
   "events": null,
-  "calendar": null
+  "calendar": "https://letsgomaldives.com/wp-content/uploads/2026/08/Patina_Maldives_Festive_Brochure.pdf"
  },
- "documents_count": 2,
+ "documents_count": 6,
  "gaps": [
   "wedding brochure",
-  "events/MICE document",
-  "fact: dive operator"
+  "events/MICE document"
  ],
  "sources": {
   "atoll": [
@@ -213,6 +227,11 @@
     "value": "North Malé Atoll",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/PAM_FACTSHEET_2025.pdf",
     "as_of": 2025
+   },
+   {
+    "value": "North Malé Atoll",
+    "source_url": "https://maldives.ru/doc/doc/PAM%20Maldives%20E-Brochure.pdf",
+    "as_of": 2021
    },
    {
     "value": "North Malé Atoll",
@@ -225,6 +244,46 @@
     "value": "speedboat",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/PAM_FACTSHEET_2025.pdf",
     "as_of": 2025
+   },
+   {
+    "value": "yacht",
+    "source_url": "https://patinahotels.com/maldives/accommodation/the-beach-house",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://patinahotels.com/maldives/reserve-hub",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://patinahotels.com/maldives/faq",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://patinahotels.com/maldives/faq",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yacht",
+    "source_url": "https://patinahotels.com/maldives/faq",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yacht",
+    "source_url": "https://patinahotels.com/maldives/offers/patina-journey",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://patinahotels.com/maldives/offers/stay-longer-at-fari-studios",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://patinahotels.com/maldives/accommodation/two-bedroom-water-pool-villa",
+    "as_of": "2026-10-04"
    },
    {
     "value": "speedboat",
@@ -242,6 +301,11 @@
     "value": 45,
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/PAM_FACTSHEET_2025.pdf",
     "as_of": 2025
+   },
+   {
+    "value": 45,
+    "source_url": "https://patinahotels.com/maldives/faq",
+    "as_of": "2026-10-04"
    },
    {
     "value": 45,
@@ -479,6 +543,116 @@
     "as_of": 2025
    },
    {
+    "value": "paddleboard",
+    "source_url": "https://patinahotels.com/maldives/de/accommodation/fari-studios",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "paddleboard",
+    "source_url": "https://patinahotels.com/maldives/de/offers/festive-getaway",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://patinahotels.com/maldives/accommodation/the-beach-house",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "stand-up paddle",
+    "source_url": "https://patinahotels.com/maldives/accommodation/the-beach-house",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "paddleboard",
+    "source_url": "https://patinahotels.com/maldives/accommodation/the-beach-house",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "paddleboard",
+    "source_url": "https://patinahotels.com/maldives/de/accommodation/two-bedroom-sunset-water-pool-villa",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "paddleboard",
+    "source_url": "https://patinahotels.com/maldives/de/offers/family-moments",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "paddleboard",
+    "source_url": "https://patinahotels.com/maldives/de/accommodation/the-beach-house",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://patinahotels.com/maldives/faq",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://patinahotels.com/maldives/faq",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "surfing",
+    "source_url": "https://patinahotels.com/maldives/faq",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "paddleboard",
+    "source_url": "https://patinahotels.com/maldives/faq",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://patinahotels.com/maldives/faq",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://patinahotels.com/maldives/offers/patina-journey",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "stand-up paddle",
+    "source_url": "https://patinahotels.com/maldives/offers/patina-journey",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "paddleboard",
+    "source_url": "https://patinahotels.com/maldives/offers/patina-journey",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://patinahotels.com/maldives/accommodation/two-bedroom-water-pool-villa",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "stand-up paddle",
+    "source_url": "https://patinahotels.com/maldives/accommodation/two-bedroom-water-pool-villa",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "paddleboard",
+    "source_url": "https://patinahotels.com/maldives/accommodation/two-bedroom-water-pool-villa",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "paddleboard",
+    "source_url": "https://patinahotels.com/maldives/de/accommodation/one-bedroom-water-pool-villa",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "paddleboard",
+    "source_url": "https://patinahotels.com/maldives/de/offers/patina-journey",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "paddleboard",
+    "source_url": "https://patinahotels.com/maldives/de/accommodation/one-bedroom-beach-pool-villa",
+    "as_of": "2026-10-04"
+   },
+   {
     "value": "snorkelling",
     "source_url": "https://www.neoscapesmaldives.com/resort/patina-maldives/",
     "as_of": "2026-10-04"
@@ -526,6 +700,126 @@
     "as_of": 2025
    },
    {
+    "value": "hammam",
+    "source_url": "https://maldives.ru/doc/doc/PAM%20Maldives%20E-Brochure.pdf",
+    "as_of": 2021
+   },
+   {
+    "value": "gym",
+    "source_url": "https://maldives.ru/doc/pdf/hotels/revised%20Patina%20Maldives%20Map_2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://maldives.ru/doc/pdf/hotels/revised%20Patina%20Maldives%20Map_2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "padel",
+    "source_url": "https://maldives.ru/doc/pdf/hotels/revised%20Patina%20Maldives%20Map_2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "meditation",
+    "source_url": "https://patinahotels.com/maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "meditation",
+    "source_url": "https://patinahotels.com/maldives/wellbeing",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "gym",
+    "source_url": "https://patinahotels.com/maldives/wellbeing",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://patinahotels.com/maldives/de/accommodation/fari-studios",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "pilates",
+    "source_url": "https://patinahotels.com/maldives/de/accommodation/fari-studios",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://patinahotels.com/maldives/accommodation/the-beach-house",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "gym",
+    "source_url": "https://patinahotels.com/maldives/accommodation/the-beach-house",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://patinahotels.com/maldives/de/accommodation/the-beach-house",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "gym",
+    "source_url": "https://patinahotels.com/maldives/reserve-hub",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "gym",
+    "source_url": "https://patinahotels.com/maldives/faq",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://patinahotels.com/maldives/faq",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "padel",
+    "source_url": "https://patinahotels.com/maldives/faq",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://patinahotels.com/maldives/offers/patina-journey",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "gym",
+    "source_url": "https://patinahotels.com/maldives/offers/patina-journey",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sound healing",
+    "source_url": "https://patinahotels.com/maldives/offers/patina-journey",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "gym",
+    "source_url": "https://patinahotels.com/maldives/accommodation/two-bedroom-water-pool-villa",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "meditation",
+    "source_url": "https://patinahotels.com/maldives/artistry-and-spaces/synthesis-monoliths",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://patinahotels.com/maldives/de/offers/patina-journey",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://patinahotels.com/maldives/de/offers/reconnect-recharge-renew-at-fari-studios",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "pilates",
+    "source_url": "https://patinahotels.com/maldives/de/offers/reconnect-recharge-renew-at-fari-studios",
+    "as_of": "2026-10-04"
+   },
+   {
     "value": "yoga",
     "source_url": "https://www.neoscapesmaldives.com/resort/patina-maldives/",
     "as_of": "2026-10-04"
@@ -558,6 +852,71 @@
     "as_of": 2025
    },
    {
+    "value": "marine biologist",
+    "source_url": "https://maldives.ru/doc/doc/PAM%20Maldives%20E-Brochure.pdf",
+    "as_of": 2021
+   },
+   {
+    "value": "carbon neutral",
+    "source_url": "https://maldives.ru/doc/doc/PAM%20Maldives%20E-Brochure.pdf",
+    "as_of": 2021
+   },
+   {
+    "value": "organic garden",
+    "source_url": "https://maldives.ru/doc/doc/PAM%20Maldives%20E-Brochure.pdf",
+    "as_of": 2021
+   },
+   {
+    "value": "Olive Ridley Project",
+    "source_url": "https://maldives.ru/doc/doc/PAM%20Maldives%20E-Brochure.pdf",
+    "as_of": 2021
+   },
+   {
+    "value": "solar",
+    "source_url": "https://patinahotels.com/maldives/press",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Olive Ridley Project",
+    "source_url": "https://patinahotels.com/maldives/press",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "solar",
+    "source_url": "https://patinahotels.com/maldives/de/sustainability",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "EarthCheck",
+    "source_url": "https://patinahotels.com/maldives/de/sustainability",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "solar",
+    "source_url": "https://patinahotels.com/maldives/sustainability",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "EarthCheck",
+    "source_url": "https://patinahotels.com/maldives/sustainability",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "EarthCheck",
+    "source_url": "https://patinahotels.com/maldives/ja/sustainability",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "solar",
+    "source_url": "https://patinahotels.com/maldives/the-story",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "EarthCheck",
+    "source_url": "https://patinahotels.com/maldives/the-story",
+    "as_of": "2026-10-04"
+   },
+   {
     "value": "coral restoration",
     "source_url": "https://www.neoscapesmaldives.com/resort/patina-maldives/",
     "as_of": "2026-10-04"
@@ -568,6 +927,101 @@
     "value": "reservations.maldives@patinahotels.com",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/PAM_FACTSHEET_2025.pdf",
     "as_of": 2025
+   },
+   {
+    "value": "info.maldives@patinahotels.com",
+    "source_url": "https://maldives.ru/doc/doc/PAM%20Maldives%20E-Brochure.pdf",
+    "as_of": 2021
+   },
+   {
+    "value": "reservations.maldives@patinahotels.com",
+    "source_url": "https://patinahotels.com/maldives/de/drink-and-dine/portico",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "reservations.maldives@patinahotels.com",
+    "source_url": "https://patinahotels.com/maldives/drink-and-dine/veli-bar",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "reservations.maldives@patinahotels.com",
+    "source_url": "https://patinahotels.com/maldives/de/drink-and-dine/arabesque",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "reservations.maldives@patinahotels.com",
+    "source_url": "https://patinahotels.com/maldives/zh/drink-and-dine/brasa",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "reservations.maldives@patinahotels.com",
+    "source_url": "https://patinahotels.com/maldives/drink-and-dine/kandu",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "reservations.maldives@patinahotels.com",
+    "source_url": "https://patinahotels.com/maldives/ja/drink-and-dine/helios",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "reservations.maldives@patinahotels.com",
+    "source_url": "https://patinahotels.com/maldives/ja/drink-and-dine/portico",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "reservations.maldives@patinahotels.com",
+    "source_url": "https://patinahotels.com/maldives/de/drink-and-dine/kandu",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "reservations.maldives@patinahotels.com",
+    "source_url": "https://patinahotels.com/maldives/de/drink-and-dine/veli-bar",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "reservations.maldives@patinahotels.com",
+    "source_url": "https://patinahotels.com/maldives/faq",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "reservations.maldives@patinahotels.com",
+    "source_url": "https://patinahotels.com/maldives/zh/faq",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "reservations.maldives@patinahotels.com",
+    "source_url": "https://patinahotels.com/maldives/de/drink-and-dine/farine",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "reservations.maldives@patinahotels.com",
+    "source_url": "https://patinahotels.com/maldives/de/drink-and-dine/brasa",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "reservations.maldives@patinahotels.com",
+    "source_url": "https://patinahotels.com/maldives/zh/drink-and-dine/helios",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "reservations.maldives@patinahotels.com",
+    "source_url": "https://patinahotels.com/maldives/zh/drink-and-dine/kandu",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "reservations.maldives@patinahotels.com",
+    "source_url": "https://patinahotels.com/maldives/drink-and-dine/brasa",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "reservations.maldives@patinahotels.com",
+    "source_url": "https://patinahotels.com/maldives/drink-and-dine/fari-beach-club",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "reservations.maldives@patinahotels.com",
+    "source_url": "https://patinahotels.com/maldives/ja/drink-and-dine/farine",
+    "as_of": "2026-10-04"
    },
    {
     "value": "info@neoscapesmaldives.com",
@@ -582,71 +1036,157 @@
     "as_of": 2025
    },
    {
+    "value": "+960 4000 555",
+    "source_url": "https://maldives.ru/doc/doc/PAM%20Maldives%20E-Brochure.pdf",
+    "as_of": 2021
+   },
+   {
+    "value": "+960 4000 555",
+    "source_url": "https://patinahotels.com/maldives/de/drink-and-dine/portico",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 4000 555",
+    "source_url": "https://patinahotels.com/maldives/drink-and-dine/veli-bar",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 4000 555",
+    "source_url": "https://patinahotels.com/maldives/de/drink-and-dine/arabesque",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 4000 555",
+    "source_url": "https://patinahotels.com/maldives/zh/drink-and-dine/brasa",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 4000 555",
+    "source_url": "https://patinahotels.com/maldives/drink-and-dine/kandu",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 4000 555",
+    "source_url": "https://patinahotels.com/maldives/ja/drink-and-dine/helios",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 4000 555",
+    "source_url": "https://patinahotels.com/maldives/ja/drink-and-dine/portico",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 4000 555",
+    "source_url": "https://patinahotels.com/maldives/de/drink-and-dine/kandu",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 4000 555",
+    "source_url": "https://patinahotels.com/maldives/de/drink-and-dine/veli-bar",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 4000555",
+    "source_url": "https://patinahotels.com/maldives/faq",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 4000555",
+    "source_url": "https://patinahotels.com/maldives/zh/faq",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 4000 555",
+    "source_url": "https://patinahotels.com/maldives/de/drink-and-dine/farine",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 4000 555",
+    "source_url": "https://patinahotels.com/maldives/de/drink-and-dine/brasa",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 4000 555",
+    "source_url": "https://patinahotels.com/maldives/zh/drink-and-dine/helios",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 4000 555",
+    "source_url": "https://patinahotels.com/maldives/zh/drink-and-dine/kandu",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 4000 555",
+    "source_url": "https://patinahotels.com/maldives/drink-and-dine/brasa",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 4000 555",
+    "source_url": "https://patinahotels.com/maldives/drink-and-dine/fari-beach-club",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 4000 555",
+    "source_url": "https://patinahotels.com/maldives/ja/drink-and-dine/farine",
+    "as_of": "2026-10-04"
+   },
+   {
     "value": "+960 736 5425",
     "source_url": "https://www.neoscapesmaldives.com/resort/patina-maldives/",
     "as_of": "2026-10-04"
    }
   ],
-  "island_size": [
-   {
-    "value": "180 m x 650 m",
-    "source_url": "https://www.neoscapesmaldives.com/resort/patina-maldives/",
-    "as_of": "2026-10-04"
-   }
-  ],
-  "villas.total": [
-   {
-    "value": 90,
-    "source_url": "https://www.neoscapesmaldives.com/resort/patina-maldives/",
-    "as_of": "2026-10-04"
-   }
-  ],
-  "dining": [
-   {
-    "value": {
-     "name": "Dining",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/patina-maldives/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Dining",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/patina-maldives/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Veli Bar",
-     "cuisine": null,
-     "type": "bar"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/patina-maldives/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Destination Dining",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/patina-maldives/",
-    "as_of": "2026-10-04"
-   }
-  ],
-  "spa.name": [
-   {
-    "value": "Flow Spa",
-    "source_url": "https://www.neoscapesmaldives.com/resort/patina-maldives/",
-    "as_of": "2026-10-04"
-   }
-  ],
   "excursions": [
+   {
+    "value": "turtle",
+    "source_url": "https://maldives.ru/doc/doc/PAM%20Maldives%20E-Brochure.pdf",
+    "as_of": 2021
+   },
+   {
+    "value": "cinema",
+    "source_url": "https://maldives.ru/doc/pdf/hotels/revised%20Patina%20Maldives%20Map_2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://patinahotels.com/maldives/press",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "private dinner",
+    "source_url": "https://patinahotels.com/maldives/faq",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "cooking class",
+    "source_url": "https://patinahotels.com/maldives/faq",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://patinahotels.com/maldives/accommodation/two-bedroom-water-pool-villa",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://patinahotels.com/maldives/sustainability",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://patinahotels.com/maldives/sustainability",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://patinahotels.com/maldives/the-story",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://patinahotels.com/maldives/the-story",
+    "as_of": "2026-10-04"
+   },
    {
     "value": "sandbank",
     "source_url": "https://www.neoscapesmaldives.com/resort/patina-maldives/",
@@ -678,20 +1218,243 @@
     "as_of": "2026-10-04"
    }
   ],
-  "kids_family.kids_club": [
+  "dining": [
    {
-    "value": "Footprints Kids Club",
+    "value": {
+     "name": "E Veli Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://maldives.ru/doc/pdf/hotels/revised%20Patina%20Maldives%20Map_2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": {
+     "name": "Veli Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://patinahotels.com/maldives/reserve-hub",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "在 Portico 和 Veli Bar 餐厅享用午餐。",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://patinahotels.com/maldives/zh/faq",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Veli Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
     "source_url": "https://www.neoscapesmaldives.com/resort/patina-maldives/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "spa.name": [
+   {
+    "value": "Spa",
+    "source_url": "https://maldives.ru/doc/pdf/hotels/revised%20Patina%20Maldives%20Map_2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://patinahotels.com/maldives/wellbeing",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://patinahotels.com/maldives/de/offers/festive-getaway",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Geister\nWellness\nSpa",
+    "source_url": "https://patinahotels.com/maldives/de/offers",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://patinahotels.com/maldives/reserve-hub",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Flow Spa",
+    "source_url": "https://www.neoscapesmaldives.com/resort/patina-maldives/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "diving_watersports.operator": [
+   {
+    "value": "Dive Centre",
+    "source_url": "https://maldives.ru/doc/pdf/hotels/revised%20Patina%20Maldives%20Map_2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "Dive Butler",
+    "source_url": "https://patinahotels.com/maldives/faq",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Dive Butler",
+    "source_url": "https://patinahotels.com/maldives/zh/faq",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "island": [
+   {
+    "value": "Patina Osaka",
+    "source_url": "https://patinahotels.com/maldives",
     "as_of": "2026-10-04"
    }
   ],
   "weddings.offered": [
    {
     "value": true,
+    "source_url": "https://patinahotels.com/maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://patinahotels.com/maldives/reserve-hub",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://patinahotels.com/maldives/de/events-and-weddings",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://patinahotels.com/maldives/de/events-and-weddings",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://patinahotels.com/maldives/faq",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://patinahotels.com/maldives/zh/faq",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://patinahotels.com/maldives/zh/events-and-weddings",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://patinahotels.com/maldives/zh/events-and-weddings",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.neoscapesmaldives.com/resort/patina-maldives/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "kids_family.kids_club": [
+   {
+    "value": "Footprints Kids Club",
+    "source_url": "https://patinahotels.com/maldives/accommodation/the-beach-house",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Kids Club",
+    "source_url": "https://patinahotels.com/maldives/faq",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Footprints Kids Club",
+    "source_url": "https://patinahotels.com/maldives/offers/patina-journey",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Footprints Kids Club",
+    "source_url": "https://patinahotels.com/maldives/accommodation/two-bedroom-water-pool-villa",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Footprints Kids Club",
+    "source_url": "https://www.neoscapesmaldives.com/resort/patina-maldives/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "kids_family.age_range": [
+   {
+    "value": "4-11 years",
+    "source_url": "https://patinahotels.com/maldives/accommodation/the-beach-house",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "4-11 years",
+    "source_url": "https://patinahotels.com/maldives/faq",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "4-11 years",
+    "source_url": "https://patinahotels.com/maldives/offers/patina-journey",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "4-11 years",
+    "source_url": "https://patinahotels.com/maldives/accommodation/two-bedroom-water-pool-villa",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "transfer.minutes.seaplane": [
+   {
+    "value": 10,
+    "source_url": "https://patinahotels.com/maldives/faq",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "meal_plans": [
+   {
+    "value": "AI",
+    "source_url": "https://patinahotels.com/maldives/faq",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Dine Around",
+    "source_url": "https://patinahotels.com/maldives/faq",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "diving_watersports.house_reef": [
+   {
+    "value": "house reef at Patina Maldives, Fari Islands?",
+    "source_url": "https://patinahotels.com/maldives/faq",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "star_rating": [
+   {
+    "value": "5-star",
+    "source_url": "https://patinahotels.com/maldives/the-story",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "island_size": [
+   {
+    "value": "180 m x 650 m",
+    "source_url": "https://www.neoscapesmaldives.com/resort/patina-maldives/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "villas.total": [
+   {
+    "value": 90,
     "source_url": "https://www.neoscapesmaldives.com/resort/patina-maldives/",
     "as_of": "2026-10-04"
    }
   ]
  },
- "last_updated": "2026-10-04"
+ "last_updated": "2026-10-05"
 }

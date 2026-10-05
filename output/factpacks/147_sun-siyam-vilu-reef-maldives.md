@@ -1,57 +1,63 @@
 # 147. Sun Siyam Vilu Reef Maldives
 
-**Official site:** n/a (None)  
+**Official site:** https://www.sunsiyam.com/sun-siyam-vilu-reef/ (ok)  
 **Brand:** Sun Siyam  
 **Atoll:** Dhaalu Atoll  **Island:** n/a  
 **Opened/renovated:** n/a  **Rating:** 5-star  
-**Transfer:** seaplane, domestic flight, speedboat; minutes: {"seaplane": 45, "domestic flight": 35}  
+**Transfer:** seaplane, speedboat; minutes: {"seaplane": 35}  
 **Island size:** n/a  
 
 ## Villas (103 total)
 
-- Beach Villa / + King: count 1, ? sqm, max ?
-- Delu e Beach Villa / + King: count 1, ? sqm, max ?
-- Jacuzzi Delu e Beach Villa / + King: count 1, ? sqm, max ?
-- Sun Aqua Pool Villa / + King: count 1, ? sqm, max ?, pool
-- Reef Villa / + King: count 1, ? sqm, max ?
-- Aqua Villa / + King: count 1, ? sqm, max ?
-- Aqua Suite / + King: count 2, ? sqm, max ?
-- Grand Reef Suite bedrooms / + King/Twin: count 2, ? sqm, max ?
+- Reef Villa adults & King: count 1, ? sqm, max ?
+- Villa with Pool adults & King: count 2, ? sqm, max ?, pool
+- Signature Villa adults & +: count 2, ? sqm, max ?
+- Accommodation: villas: count 103, ? sqm, max ?
 - Villas: count 103, ? sqm, max ?
+- Garden Villas: count 20, ? sqm, max ?
+- Beach Villas: count 60, ? sqm, max ?
+- Jacuzzi Water Villas: count 35, ? sqm, max ?
+- Honeymoon Water Villas: count 5, ? sqm, max ?
 
 ## Dining
 
-- Separate Dining (restaurant)
-- Dining (restaurant)
+- Restaurants Bar Dining Experience (restaurant)
+- Beach Grill Family pool bar (restaurant)
+- The Spice Wine Cellar (bar)
+- Grill by the Sea (restaurant)
+- Golden Catch & Grill (restaurant)
+- Extensive buffet at Aqua Restaurant (restaurant)
+- Theme buffet at Aqua Restaurant (restaurant)
+- Positive Energy Bar (bar)
+- Wine Cellar (bar)
 - The Wine Cellar (bar)
-- Destination Dining (restaurant)
 
-Meal plans: n/a
+Meal plans: AI, Premium AI, Dine Around
+All-inclusive: All-Inclusive Dine Around.
 
 ## Spa & wellness
 
-- Spa: Sports
-Sun Aqua Spa; treatment rooms: ?; menu: none
-- Wellness/fitness: gym, tennis, badminton, ayurveda, sauna, steam, yoga
+- Spa: Spa; treatment rooms: ?; menu: none
+- Wellness/fitness: gym, tennis, badminton, ayurveda, fitness center, yoga, steam
 
 ## Diving, water sports & excursions
 
-- Operator: n/a
-- House reef: house reef, just 30 metres from the shoreline, or venture further to discover underwater caves and coral-covered shipwrecks
-- Activities: snorkelling, fishing, dolphin cruise, snorkeling, surfing, catamaran, sunset cruise, sailing, canoe
-- Price list: none
-- Excursions: local island, dolphin, turtle, picnic, cinema
+- Operator: Dive Centre
+- House reef: house reef and sun-lit seclusion
+- Activities: scuba diving, sunset cruise, snorkelling, jet ski, seabob, kayaking, dolphin cruise, canoe, fishing, whale shark, manta, snorkeling, catamaran, sailing, surfing
+- Price list: https://www.sunsiyam.com/media/dv1fvxyl/ssvr-golden-week-gazette-260921.pdf
+- Excursions: turtle, cinema, local island, dolphin, sandbank, whale shark, manta, cooking class, picnic
 
 ## Kids & family
 
-- Kids club: Kids Club; ages: n/a; teens: n/a
+- Kids club: Kids Club; ages: 4-12 years; teens: n/a
 
 ## Weddings
 
-- Offered: True; vow renewal: None
+- Offered: True; vow renewal: True
 - Venues: n/a
 - Packages: n/a
-- Brochure: none
+- Brochure: https://www.sunsiyam.com/media/jv5nmz43/ultimate-honeymoon-ssvr.pdf
 
 ## Events / MICE
 
@@ -64,23 +70,21 @@ Sun Aqua Spa; treatment rooms: ?; menu: none
 
 ## Public contacts
 
-- Reservations: info@neoscapesmaldives.com; weddings: n/a; phone: +960 736 5425
+- Reservations: info.vilureef@sunsiyam.com; weddings: n/a; phone: +960 676 0011
 
 ## Latest documents
 
-- factsheet: https://www.neoscapesmaldives.com/wp-content/uploads/Fact-Sheet-2019.pdf
-- map: https://www.neoscapesmaldives.com/wp-content/uploads/MAP.pdf
-- wedding: none
+- factsheet: https://www.sunsiyam.com/media/5q0hgbtr/factsheet-vilu-reef-2026-hr.pdf
+- map: https://www.sunsiyam.com/media/jn3h3idp/ssvr-ai-meal-plan-26.pdf
+- wedding: https://www.sunsiyam.com/media/jv5nmz43/ultimate-honeymoon-ssvr.pdf
 - spa_menu: none
-- dining_menu: none
-- dive_prices: none
+- dining_menu: https://www.sunsiyam.com/media/yqgbihlu/athireege.pdf
+- dive_prices: https://www.sunsiyam.com/media/dv1fvxyl/ssvr-golden-week-gazette-260921.pdf
 - events: none
-- calendar: none
+- calendar: https://www.sunsiyam.com/media/j1vp02dn/ssvr-festive-gazette-26-27-eutopia-r.pdf
 
 ## Gaps
 
-- wedding brochure
 - events/MICE document
-- fact: dive operator
 
-_Facts extracted by rules from 17 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-04._
+_Facts extracted by rules from 21 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

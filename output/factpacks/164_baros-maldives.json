@@ -5,57 +5,59 @@
  "aliases": [
   "Baros"
  ],
- "official_url": null,
- "official_site_status": null,
+ "official_url": "https://www.baros.com/",
+ "official_site_status": "ok",
  "operator_brand": "Baros",
- "atoll": "North Malé Atoll",
- "island": null,
- "opened_or_renovated": null,
- "star_rating": null,
+ "atoll": "Malé Atoll",
+ "island": "Male",
+ "opened_or_renovated": "opened 1979",
+ "star_rating": "5-star",
  "transfer": {
   "modes": [
    "speedboat",
-   "yacht"
+   "yacht",
+   "seaplane",
+   "domestic flight"
   ],
   "minutes": {
    "seaplane": null,
-   "speedboat": 15,
+   "speedboat": 25,
    "domestic flight": null,
    "yacht": null
   }
  },
  "island_size": null,
  "villas": {
-  "total": null,
+  "total": 75,
   "categories": [
    {
-    "name": "Baros Residence",
+    "name": "Baros Two-bedroom Retreat",
     "count": 1,
-    "size_sqm": 270,
+    "size_sqm": null,
     "max_occupancy": null,
     "pool": null,
     "overwater": null
    },
    {
     "name": "Baros Suites",
-    "count": 4,
+    "count": 7,
     "size_sqm": 200,
     "max_occupancy": null,
     "pool": null,
     "overwater": null
    },
    {
-    "name": "Water Pool Villas",
-    "count": 15,
-    "size_sqm": 126,
+    "name": "Baros Pool Villas",
+    "count": 8,
+    "size_sqm": 134,
     "max_occupancy": null,
     "pool": true,
     "overwater": null
    },
    {
-    "name": "Baros Pool Villas",
-    "count": 8,
-    "size_sqm": 134,
+    "name": "Water Pool Villas",
+    "count": 15,
+    "size_sqm": 126,
     "max_occupancy": null,
     "pool": true,
     "overwater": null
@@ -69,17 +71,25 @@
     "overwater": null
    },
    {
-    "name": "Baros Villas | • Beach sun loungers • Make-up/shaving mirror",
-    "count": 8,
+    "name": "Delu e Villas",
+    "count": 23,
+    "size_sqm": 89,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "Baros Villas",
+    "count": 5,
     "size_sqm": 103,
     "max_occupancy": null,
     "pool": null,
     "overwater": null
    },
    {
-    "name": "Delu e Villas | • Flat-screen television",
-    "count": 24,
-    "size_sqm": 89,
+    "name": "In-villa champagne breakfast",
+    "count": 6,
+    "size_sqm": null,
     "max_occupancy": null,
     "pool": null,
     "overwater": null
@@ -104,67 +114,17 @@
  },
  "dining": [
   {
-   "name": "BAROS The Lighthouse Lounge",
-   "cuisine": null,
-   "type": "bar"
-  },
-  {
-   "name": "Restaurant accompanied by delectable",
+   "name": "The Lighthouse Restaurant",
    "cuisine": null,
    "type": "restaurant"
   },
   {
-   "name": "beacon as you approach Baros Sails Bar",
-   "cuisine": null,
-   "type": "bar"
-  },
-  {
-   "name": "Cayenne Grill the balmy night air.",
+   "name": "Cayenne Grill",
    "cuisine": null,
    "type": "restaurant"
   },
   {
-   "name": "al fresco dining experience with a Destination Dining",
-   "cuisine": null,
-   "type": "restaurant"
-  },
-  {
-   "name": "Lime Restaurant of the most romantic experiences",
-   "cuisine": null,
-   "type": "restaurant"
-  },
-  {
-   "name": "pool table • Lounge with complimentary Internet station",
-   "cuisine": null,
-   "type": "bar"
-  },
-  {
-   "name": "Dining",
-   "cuisine": null,
-   "type": "restaurant"
-  },
-  {
-   "name": "In-villa Dining",
-   "cuisine": null,
-   "type": "restaurant"
-  },
-  {
-   "name": "Piano Deck Dining",
-   "cuisine": null,
-   "type": "restaurant"
-  },
-  {
-   "name": "Nooma Dining",
-   "cuisine": null,
-   "type": "restaurant"
-  },
-  {
-   "name": "Island Dining",
-   "cuisine": null,
-   "type": "restaurant"
-  },
-  {
-   "name": "Sandbank Dining",
+   "name": "Teppanyaki",
    "cuisine": null,
    "type": "restaurant"
   },
@@ -179,12 +139,12 @@
    "type": "bar"
   },
   {
-   "name": "The Lighthouse Restaurant",
+   "name": "Classic Grill House Dining in the Maldives",
    "cuisine": null,
    "type": "restaurant"
   },
   {
-   "name": "Cayenne Grill",
+   "name": "Fine Dining Restaurant In Maldives",
    "cuisine": null,
    "type": "restaurant"
   },
@@ -192,39 +152,113 @@
    "name": "Lime Restaurant",
    "cuisine": null,
    "type": "restaurant"
+  },
+  {
+   "name": "Sails Bar Menu",
+   "cuisine": null,
+   "type": "bar"
+  },
+  {
+   "name": "Daily breakfast at Lime Restaurant.",
+   "cuisine": null,
+   "type": "restaurant"
+  },
+  {
+   "name": "Wine Cellar",
+   "cuisine": null,
+   "type": "bar"
+  },
+  {
+   "name": "Shisha Bar",
+   "cuisine": null,
+   "type": "bar"
+  },
+  {
+   "name": "OLIVES (Restaurant)",
+   "cuisine": null,
+   "type": "restaurant"
+  },
+  {
+   "name": "SAIGON (Restaurant)",
+   "cuisine": null,
+   "type": "restaurant"
+  },
+  {
+   "name": "LA LUCE (Restaurant)",
+   "cuisine": null,
+   "type": "restaurant"
+  },
+  {
+   "name": "BARBAROSSA BEACH RESTAURANT (Restaurant)",
+   "cuisine": null,
+   "type": "restaurant"
+  },
+  {
+   "name": "BARBLUE (Bar)",
+   "cuisine": null,
+   "type": "bar"
+  },
+  {
+   "name": "POOL RESTAURANT (Restaurant)",
+   "cuisine": null,
+   "type": "restaurant"
+  },
+  {
+   "name": "Dinner at The Lighthouse Restaurant for two",
+   "cuisine": null,
+   "type": "restaurant"
   }
  ],
- "meal_plans": [],
+ "meal_plans": [
+  "HB"
+ ],
  "all_inclusive_details": null,
  "spa": {
-  "name": "Meditation\nSerenity Spa",
+  "name": "Serenity Spa",
   "treatment_rooms": null,
   "signature_treatments": [],
-  "menu_doc": null
+  "menu_doc": "https://www.baros.com/wp-content/uploads/2026/02/Serenity-Spa-Menu-Digital.pdf"
  },
  "diving_watersports": {
   "operator": "Dive Centre",
-  "house_reef": "house reef",
+  "house_reef": "HOUSE\nREEF SNORKELLING",
   "activities": [
    "snorkelling",
-   "windsurfing",
    "catamaran",
    "water skiing",
    "wakeboarding",
-   "fishing",
+   "whale shark",
    "sailing",
    "canoe",
-   "snorkeling",
-   "manta"
+   "fishing",
+   "sunset cruise",
+   "scuba diving",
+   "manta",
+   "dolphin cruise",
+   "kayaking",
+   "glass-bottom",
+   "paddleboard",
+   "stand-up paddle",
+   "windsurfing",
+   "snorkeling"
   ],
-  "price_list_doc": null
+  "price_list_doc": "https://www.baros.com/wp-content/uploads/2026/02/Frequently-Asked-Questions-FAQ.pdf"
  },
  "excursions": [
   "sandbank",
   "dolphin",
+  "whale shark",
   "private dinner",
+  "sunset fishing",
   "manta",
+  "local island",
+  "big game fishing",
   "turtle",
+  "cooking class",
+  "cinema",
+  "castaway",
+  "island hopping",
+  "night fishing",
   "picnic"
  ],
  "kids_family": {
@@ -237,69 +271,232 @@
   "meditation",
   "fitness centre",
   "tennis",
-  "fitness center"
+  "steam",
+  "sound healing",
+  "fitness center",
+  "gym",
+  "sauna",
+  "badminton"
  ],
  "weddings": {
   "offered": true,
-  "vow_renewal": null,
-  "venues": [],
-  "packages": [],
-  "brochure_doc": null
+  "vow_renewal": true,
+  "venues": [
+   "USD 1225 PER BOAT VENUE: PALM GARDEN",
+   "VENUE: PALM GARDEN",
+   "USD 73 PER PERSON VENUE: PALM GARDEN",
+   "VENUE: PALM GARDEN USD 125 PER PERSON VENUE: PALM GARDEN",
+   "USD 185 PER PERSON 5:30 PM TO 6:30 PM VENUE: PALM GARDEN",
+   "VENUE: LIME VENUE: PALM GARDEN VENUE: OVERWATER DECK",
+   "VENUE: PALM GARDEN VENUE: CAYENNE 5 PM TO 6:30 PM",
+   "VENUE: PALM GARDEN VENUE: MALDIVIAN LOUNGE 6 PM TO 7 PM",
+   "VENUE: PALM GARDEN USD 150 PER PERSON VENUE: PALM GARDEN",
+   "10 AM TO 11.30 AM USD 150 PER PERSON VENUE: PALM GARDEN / CAYENNE",
+   "9 AM TO 10 AM 2:30 PM TO 4 PM VENUE: PALM GARDEN",
+   "VENUE: SERENITY SPA VENUE: PALM GARDEN"
+  ],
+  "packages": [
+   {
+    "name": "Vow",
+    "price": "2500",
+    "currency": "USD",
+    "as_of": 2026
+   },
+   {
+    "name": "Maldivian Experience",
+    "price": "1310",
+    "currency": "USD",
+    "as_of": "2026-10-04"
+   },
+   {
+    "name": "Sri Lankan Experience",
+    "price": "1345",
+    "currency": "USD",
+    "as_of": "2026-10-04"
+   },
+   {
+    "name": "Indian Experience",
+    "price": "1345",
+    "currency": "USD",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "brochure_doc": "https://www.baros.com/wp-content/uploads/2026/04/Renewal-of-Vows-Baros-Maldives-2026.pdf"
  },
  "events_mice": {
-  "venues": [],
+  "venues": [
+   "BALLROOM"
+  ],
   "capacity_max": null,
   "buyout": null,
   "doc": null
  },
  "sustainability": [
-  "marine biologist"
+  "marine biologist",
+  "single-use plastic",
+  "coral restoration",
+  "solar",
+  "coral nursery",
+  "reef restoration"
  ],
  "contacts_public": {
-  "reservations_email": "info@neoscapesmaldives.com",
+  "reservations_email": "reservations@baros.com",
   "weddings_email": null,
-  "phone": "+960 736 5425"
+  "phone": "+960 664 26 72"
  },
  "documents_latest": {
-  "factsheet": "https://www.neoscapesmaldives.com/wp-content/uploads/Factsheet-Baros-Maldives.pdf",
-  "map": "https://www.neoscapesmaldives.com/wp-content/uploads/Resort-Map-Baros-Maldives.pdf",
-  "wedding": null,
-  "spa_menu": null,
-  "dining_menu": null,
-  "dive_prices": null,
+  "factsheet": "https://www.baros.com/wp-content/uploads/2026/06/Baros-Factsheet-June-2026.pdf",
+  "map": "https://www.baros.com/wp-content/uploads/2026/02/5-Watersports-Map_A4.pdf",
+  "wedding": "https://www.baros.com/wp-content/uploads/2026/04/Renewal-of-Vows-Baros-Maldives-2026.pdf",
+  "spa_menu": "https://www.baros.com/wp-content/uploads/2026/02/Serenity-Spa-Menu-Digital.pdf",
+  "dining_menu": "https://www.baros.com/wp-content/uploads/2025/07/IVD-MENU-JUNE-2025.pdf",
+  "dive_prices": "https://www.baros.com/wp-content/uploads/2026/02/Frequently-Asked-Questions-FAQ.pdf",
   "events": null,
-  "calendar": null
+  "calendar": "https://www.baros.com/wp-content/uploads/2026/05/Baros_Events-Calendar-2026.pdf"
  },
- "documents_count": 2,
+ "documents_count": 89,
  "gaps": [
-  "wedding brochure",
   "events/MICE document",
-  "fact: villas.total",
   "fact: kids club"
  ],
  "sources": {
-  "atoll": [
+  "opened_or_renovated": [
    {
-    "value": "North Malé Atoll",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Factsheet-Baros-Maldives.pdf",
-    "as_of": 2022
+    "value": "opened 1979",
+    "source_url": "https://www.baros.com/wp-content/uploads/2026/06/Baros-Factsheet-June-2026.pdf",
+    "as_of": 2026
    },
    {
-    "value": "North Malé Atoll",
-    "source_url": "https://www.neoscapesmaldives.com/resort/baros-maldives/",
+    "value": "opened 1973",
+    "source_url": "https://www.baros.com/blog/an-unforgettable-honeymoon-at-baros-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "opened 1979",
+    "source_url": "https://www.baros.com/divers-baros-maldives/diving",
     "as_of": "2026-10-04"
    }
   ],
   "transfer.modes": [
    {
     "value": "speedboat",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Factsheet-Baros-Maldives.pdf",
-    "as_of": 2022
+    "source_url": "https://www.baros.com/wp-content/uploads/2026/06/Baros-Factsheet-June-2026.pdf",
+    "as_of": 2026
    },
    {
     "value": "yacht",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Factsheet-Baros-Maldives.pdf",
-    "as_of": 2022
+    "source_url": "https://www.baros.com/wp-content/uploads/2026/06/Baros-Factsheet-June-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "yacht",
+    "source_url": "https://www.baros.com/wp-content/uploads/2026/09/BarosFestiveOffer.pdf",
+    "as_of": 2027
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.baros.com/wp-content/uploads/2024/07/PRESS-RELEASE_Coral-Preservation.pdf",
+    "as_of": 2016
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.baros.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.baros.com/blogs/all-posts",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.baros.com/blog/celebrate-eid-al-adha-in-the-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.baros.com/blog/an-unforgettable-honeymoon-at-baros-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yacht",
+    "source_url": "https://www.baros.com/blog/20-maldives-inspo-ideas",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yacht",
+    "source_url": "https://www.baros.com/blog/the-maldives-is-one-of-the-most-romantic-places-in-the-world-to-propose",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yacht",
+    "source_url": "https://www.baros.com/blog/five-must-take-excursions-in-the-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.baros.com/blog/best-tips-for-travelling-to-maldives-2023",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.baros.com/blog/best-tips-for-travelling-to-maldives-2023",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yacht",
+    "source_url": "https://www.baros.com/blog/10-things-to-do-in-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yacht",
+    "source_url": "https://www.baros.com/blog/boundless-baros-blue-excursions",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.baros.com/blog/the-best-hotel-in-the-world-for-luxury",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.baros.com/blog/where-is-baros-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.baros.com/blog/where-is-baros-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.baros.com/blog/celebrating-ramadan-in-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.baros.com/blog/escape-to-bliss-indulging-in-a-relaxing-holiday-resort-in-the-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.baros.com/blog/why-baros-makes-the-best-weekend-escape",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.baros.com/blog/why-baros-makes-the-best-weekend-escape",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "domestic flight",
+    "source_url": "https://www.baros.com/blog/why-baros-makes-the-best-weekend-escape",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yacht",
+    "source_url": "https://www.baros.com/blog/why-baros-makes-the-best-weekend-escape",
+    "as_of": "2026-10-04"
    },
    {
     "value": "speedboat",
@@ -310,56 +507,144 @@
     "value": "yacht",
     "source_url": "https://www.neoscapesmaldives.com/resort/baros-maldives/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://letsgomaldives.com/news/baros-maldives-hosts-exclusive-duval-leroy-champagne-pairing-dinner-at-the-lighthouse/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://hummingbird.travel/property/baros-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yacht",
+    "source_url": "https://hummingbird.travel/property/baros-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.mymaldives.com/blog/baros-maldives-re-opens-on-october-2020-with-a-brand-new-residence/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.maldivesholidayoffers.com/accomodation/resorts/baros-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.mymaldives.com/resort-guide/baros-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.dnatatravel.com/2-1516198-1/baros-maldives?oc=true",
+    "as_of": "2026-10-04"
    }
   ],
   "transfer.minutes.speedboat": [
    {
     "value": 25,
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Factsheet-Baros-Maldives.pdf",
-    "as_of": 2022
+    "source_url": "https://www.baros.com/wp-content/uploads/2026/06/Baros-Factsheet-June-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": 25,
+    "source_url": "https://www.baros.com/wp-content/uploads/2024/07/PRESS-RELEASE_Coral-Preservation.pdf",
+    "as_of": 2016
+   },
+   {
+    "value": 25,
+    "source_url": "https://www.baros.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 25,
+    "source_url": "https://www.baros.com/blogs/all-posts",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 25,
+    "source_url": "https://www.baros.com/blog/celebrate-eid-al-adha-in-the-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 25,
+    "source_url": "https://www.baros.com/blog/an-unforgettable-honeymoon-at-baros-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 25,
+    "source_url": "https://www.baros.com/blog/the-best-hotel-in-the-world-for-luxury",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 25,
+    "source_url": "https://www.baros.com/blog/where-is-baros-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 25,
+    "source_url": "https://www.baros.com/blog/escape-to-bliss-indulging-in-a-relaxing-holiday-resort-in-the-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 25,
+    "source_url": "https://www.baros.com/blog/why-baros-makes-the-best-weekend-escape",
+    "as_of": "2026-10-04"
    },
    {
     "value": 15,
     "source_url": "https://www.neoscapesmaldives.com/resort/baros-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 25,
+    "source_url": "https://letsgomaldives.com/news/baros-maldives-hosts-exclusive-duval-leroy-champagne-pairing-dinner-at-the-lighthouse/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 25,
+    "source_url": "https://hummingbird.travel/property/baros-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 40,
+    "source_url": "https://www.maldivesholidayoffers.com/accomodation/resorts/baros-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 25,
+    "source_url": "https://www.dnatatravel.com/2-1516198-1/baros-maldives?oc=true",
     "as_of": "2026-10-04"
    }
   ],
   "villas.categories": [
    {
     "value": {
-     "name": "Baros Residence",
+     "name": "Baros Two-bedroom Retreat",
      "count": 1,
-     "size_sqm": 270,
+     "size_sqm": null,
      "max_occupancy": null,
      "pool": null,
      "overwater": null
     },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Factsheet-Baros-Maldives.pdf",
-    "as_of": 2022
+    "source_url": "https://www.baros.com/wp-content/uploads/2026/06/Baros-Factsheet-June-2026.pdf",
+    "as_of": 2026
    },
    {
     "value": {
      "name": "Baros Suites",
-     "count": 4,
+     "count": 7,
      "size_sqm": 200,
      "max_occupancy": null,
      "pool": null,
      "overwater": null
     },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Factsheet-Baros-Maldives.pdf",
-    "as_of": 2022
-   },
-   {
-    "value": {
-     "name": "Water Pool Villas",
-     "count": 15,
-     "size_sqm": 126,
-     "max_occupancy": null,
-     "pool": true,
-     "overwater": null
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Factsheet-Baros-Maldives.pdf",
-    "as_of": 2022
+    "source_url": "https://www.baros.com/wp-content/uploads/2026/06/Baros-Factsheet-June-2026.pdf",
+    "as_of": 2026
    },
    {
     "value": {
@@ -370,8 +655,20 @@
      "pool": true,
      "overwater": null
     },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Factsheet-Baros-Maldives.pdf",
-    "as_of": 2022
+    "source_url": "https://www.baros.com/wp-content/uploads/2026/06/Baros-Factsheet-June-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": {
+     "name": "Water Pool Villas",
+     "count": 15,
+     "size_sqm": 126,
+     "max_occupancy": null,
+     "pool": true,
+     "overwater": null
+    },
+    "source_url": "https://www.baros.com/wp-content/uploads/2026/06/Baros-Factsheet-June-2026.pdf",
+    "as_of": 2026
    },
    {
     "value": {
@@ -382,32 +679,44 @@
      "pool": null,
      "overwater": null
     },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Factsheet-Baros-Maldives.pdf",
-    "as_of": 2022
+    "source_url": "https://www.baros.com/wp-content/uploads/2026/06/Baros-Factsheet-June-2026.pdf",
+    "as_of": 2026
    },
    {
     "value": {
-     "name": "Baros Villas | • Beach sun loungers • Make-up/shaving mirror",
-     "count": 8,
-     "size_sqm": 103,
-     "max_occupancy": null,
-     "pool": null,
-     "overwater": null
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Factsheet-Baros-Maldives.pdf",
-    "as_of": 2022
-   },
-   {
-    "value": {
-     "name": "Delu e Villas | • Flat-screen television",
-     "count": 24,
+     "name": "Delu e Villas",
+     "count": 23,
      "size_sqm": 89,
      "max_occupancy": null,
      "pool": null,
      "overwater": null
     },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Factsheet-Baros-Maldives.pdf",
-    "as_of": 2022
+    "source_url": "https://www.baros.com/wp-content/uploads/2026/06/Baros-Factsheet-June-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": {
+     "name": "Baros Villas",
+     "count": 5,
+     "size_sqm": 103,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://www.baros.com/wp-content/uploads/2026/06/Baros-Factsheet-June-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": {
+     "name": "In-villa champagne breakfast",
+     "count": 6,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://www.baros.com/blog/an-unforgettable-honeymoon-at-baros-maldives",
+    "as_of": "2026-10-04"
    },
    {
     "value": {
@@ -485,128 +794,209 @@
   "dining": [
    {
     "value": {
-     "name": "BAROS The Lighthouse Lounge",
+     "name": "The Lighthouse Restaurant",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.baros.com/wp-content/uploads/2026/06/Baros-Factsheet-June-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": {
+     "name": "Cayenne Grill",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.baros.com/wp-content/uploads/2026/06/Baros-Factsheet-June-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": {
+     "name": "Teppanyaki",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.baros.com/wp-content/uploads/2026/06/Baros-Factsheet-June-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": {
+     "name": "The Lighthouse Lounge",
      "cuisine": null,
      "type": "bar"
     },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Factsheet-Baros-Maldives.pdf",
-    "as_of": 2022
+    "source_url": "https://www.baros.com/wp-content/uploads/2026/06/Baros-Factsheet-June-2026.pdf",
+    "as_of": 2026
    },
    {
     "value": {
-     "name": "Restaurant accompanied by delectable",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Factsheet-Baros-Maldives.pdf",
-    "as_of": 2022
-   },
-   {
-    "value": {
-     "name": "beacon as you approach Baros Sails Bar",
+     "name": "Sails Bar",
      "cuisine": null,
      "type": "bar"
     },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Factsheet-Baros-Maldives.pdf",
-    "as_of": 2022
+    "source_url": "https://www.baros.com/wp-content/uploads/2026/06/Baros-Factsheet-June-2026.pdf",
+    "as_of": 2026
    },
    {
     "value": {
-     "name": "Cayenne Grill the balmy night air.",
+     "name": "Classic Grill House Dining in the Maldives",
      "cuisine": null,
      "type": "restaurant"
     },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Factsheet-Baros-Maldives.pdf",
-    "as_of": 2022
+    "source_url": "https://www.baros.com/blogs/all-posts",
+    "as_of": "2026-10-04"
    },
    {
     "value": {
-     "name": "al fresco dining experience with a Destination Dining",
+     "name": "Fine Dining Restaurant In Maldives",
      "cuisine": null,
      "type": "restaurant"
     },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Factsheet-Baros-Maldives.pdf",
-    "as_of": 2022
+    "source_url": "https://www.baros.com/blogs/all-posts",
+    "as_of": "2026-10-04"
    },
    {
     "value": {
-     "name": "Lime Restaurant of the most romantic experiences",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Factsheet-Baros-Maldives.pdf",
-    "as_of": 2022
-   },
-   {
-    "value": {
-     "name": "pool table • Lounge with complimentary Internet station",
+     "name": "The Lighthouse Lounge",
      "cuisine": null,
      "type": "bar"
     },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Factsheet-Baros-Maldives.pdf",
-    "as_of": 2022
-   },
-   {
-    "value": {
-     "name": "Dining",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/baros-maldives/",
+    "source_url": "https://www.baros.com/blog/panoramic-ocean-views-at-the-best-restaurant-in-the-maldives",
     "as_of": "2026-10-04"
    },
    {
     "value": {
-     "name": "Dining",
+     "name": "The Lighthouse Restaurant",
      "cuisine": null,
      "type": "restaurant"
     },
-    "source_url": "https://www.neoscapesmaldives.com/resort/baros-maldives/",
+    "source_url": "https://www.baros.com/blog/an-unforgettable-honeymoon-at-baros-maldives",
     "as_of": "2026-10-04"
    },
    {
     "value": {
-     "name": "In-villa Dining",
+     "name": "The Lighthouse Restaurant",
      "cuisine": null,
      "type": "restaurant"
     },
-    "source_url": "https://www.neoscapesmaldives.com/resort/baros-maldives/",
+    "source_url": "https://www.baros.com/blog/best-fine-dining-maldives-restaurant",
     "as_of": "2026-10-04"
    },
    {
     "value": {
-     "name": "Piano Deck Dining",
+     "name": "Lime Restaurant",
      "cuisine": null,
      "type": "restaurant"
     },
-    "source_url": "https://www.neoscapesmaldives.com/resort/baros-maldives/",
+    "source_url": "https://www.baros.com/sitemap",
     "as_of": "2026-10-04"
    },
    {
     "value": {
-     "name": "Nooma Dining",
+     "name": "Cayenne Grill",
      "cuisine": null,
      "type": "restaurant"
     },
-    "source_url": "https://www.neoscapesmaldives.com/resort/baros-maldives/",
+    "source_url": "https://www.baros.com/sitemap",
     "as_of": "2026-10-04"
    },
    {
     "value": {
-     "name": "Island Dining",
+     "name": "The Lighthouse Restaurant",
      "cuisine": null,
      "type": "restaurant"
     },
-    "source_url": "https://www.neoscapesmaldives.com/resort/baros-maldives/",
+    "source_url": "https://www.baros.com/sitemap",
     "as_of": "2026-10-04"
    },
    {
     "value": {
-     "name": "Sandbank Dining",
+     "name": "Sails Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.baros.com/sitemap",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "The Lighthouse Lounge",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.baros.com/sitemap",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Sails Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.baros.com/dining/sails-bar",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Sails Bar Menu",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.baros.com/dining/sails-bar",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Lime Restaurant",
      "cuisine": null,
      "type": "restaurant"
     },
-    "source_url": "https://www.neoscapesmaldives.com/resort/baros-maldives/",
+    "source_url": "https://www.baros.com/dining/sails-bar",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Cayenne Grill",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.baros.com/dining/sails-bar",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "The Lighthouse Restaurant",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.baros.com/dining/sails-bar",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "The Lighthouse Lounge",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.baros.com/dining/sails-bar",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Classic Grill House Dining in the Maldives",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.baros.com/blogs/experience",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Daily breakfast at Lime Restaurant.",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.baros.com/maldives-offers/baros-escapes",
     "as_of": "2026-10-04"
    },
    {
@@ -653,79 +1043,1100 @@
     },
     "source_url": "https://www.neoscapesmaldives.com/resort/baros-maldives/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "The Lighthouse Restaurant",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://hummingbird.travel/property/baros-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Cayenne Grill",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://hummingbird.travel/property/baros-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Lime Restaurant",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://hummingbird.travel/property/baros-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "The Lighthouse Lounge",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://hummingbird.travel/property/baros-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Sails Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://hummingbird.travel/property/baros-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Wine Cellar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://hummingbird.travel/property/baros-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Shisha Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://unihotel.org/kempinski-barbaros-bay-bodrum",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "OLIVES (Restaurant)",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://unihotel.org/kempinski-barbaros-bay-bodrum",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "SAIGON (Restaurant)",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://unihotel.org/kempinski-barbaros-bay-bodrum",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "LA LUCE (Restaurant)",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://unihotel.org/kempinski-barbaros-bay-bodrum",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "BARBAROSSA BEACH RESTAURANT (Restaurant)",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://unihotel.org/kempinski-barbaros-bay-bodrum",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "BARBLUE (Bar)",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://unihotel.org/kempinski-barbaros-bay-bodrum",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "POOL RESTAURANT (Restaurant)",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://unihotel.org/kempinski-barbaros-bay-bodrum",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Dinner at The Lighthouse Restaurant for two",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://letsgomaldives.com/news/celebrate-mothers-day-at-baros/",
+    "as_of": "2026-10-04"
    }
   ],
   "spa.name": [
    {
-    "value": "Baros Serenity Spa",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Factsheet-Baros-Maldives.pdf",
-    "as_of": 2022
+    "value": "Serenity Spa",
+    "source_url": "https://www.baros.com/wp-content/uploads/2026/06/Baros-Factsheet-June-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "Serenity Spa",
+    "source_url": "https://www.baros.com/wp-content/uploads/2026/03/Eid-Al-Adha-brochure-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "Signature Spa",
+    "source_url": "https://www.baros.com/wp-content/uploads/2026/04/Renewal-of-Vows-Baros-Maldives-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "Serenity Spa",
+    "source_url": "https://www.baros.com/wp-content/uploads/2026/02/Serenity-Spa-Menu-Digital.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "Serenity Spa",
+    "source_url": "https://www.baros.com/wp-content/uploads/2026/02/Eid-Al-Fitr-at-Baros.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "Boundless Adventures\nSerenity Spa",
+    "source_url": "https://www.baros.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Serenity Spa",
+    "source_url": "https://www.baros.com/blogs/all-posts",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Serenity Spa",
+    "source_url": "https://www.baros.com/blog/the-maldives-dream",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "EXPERIENCE\nVILLAS\nMust-Try Spa",
+    "source_url": "https://www.baros.com/blog/must-try-spa-rituals-at-baros-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Serenity Spa",
+    "source_url": "https://www.baros.com/blog/celebrate-eid-al-adha-in-the-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Serenity Spa",
+    "source_url": "https://www.baros.com/blog/top-ten-things-to-do-to-feel-the-love-this-valentines-day",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Serenity Spa",
+    "source_url": "https://www.baros.com/blog/an-unforgettable-honeymoon-at-baros-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Serenity Spa",
+    "source_url": "https://www.baros.com/blog/enjoy-iconic-moments-at-baros-maldives-this-festive-season",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Serenity Spa",
+    "source_url": "https://www.baros.com/blog/celebrate-an-entrancing-eid-at-baros-maldives-2",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Indulgent Spa",
+    "source_url": "https://www.baros.com/blog/20-maldives-inspo-ideas",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Serenity Spa",
+    "source_url": "https://www.baros.com/wellness-practitioner",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Wellness\nSpa",
+    "source_url": "https://www.baros.com/sitemap",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Serenity Spa",
+    "source_url": "https://www.baros.com/blog/best-tips-for-travelling-to-maldives-2023",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.baros.com/blog/10-things-to-do-in-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Discover More\nIndulgent Spa",
+    "source_url": "https://www.baros.com/romance",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Serenity Spa",
+    "source_url": "https://www.baros.com/blog/baros-maldives-the-ultimate-romantic-escape",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Serenity Spa",
+    "source_url": "https://www.baros.com/blogs/experience",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Serenity Spa",
+    "source_url": "https://www.baros.com/blog/escape-to-bliss-indulging-in-a-relaxing-holiday-resort-in-the-maldives",
+    "as_of": "2026-10-04"
    },
    {
     "value": "Meditation\nSerenity Spa",
     "source_url": "https://www.neoscapesmaldives.com/resort/baros-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://hummingbird.travel/property/baros-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://unihotel.org/kempinski-barbaros-bay-bodrum",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "TV\nResort Facilities\nSpa",
+    "source_url": "https://www.mymaldives.com/resort-guide/baros-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Unique Spa",
+    "source_url": "https://www.maldivestourism.net/blog/festive-season-at-baros-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://malediven.de/malediven-hotels/baros/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Serenity Spa",
+    "source_url": "https://www.dnatatravel.com/2-1516198-1/baros-maldives?oc=true",
     "as_of": "2026-10-04"
    }
   ],
   "diving_watersports.operator": [
    {
     "value": "Dive Centre",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Factsheet-Baros-Maldives.pdf",
-    "as_of": 2022
+    "source_url": "https://www.baros.com/wp-content/uploads/2026/06/Baros-Factsheet-June-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "Dive Centre",
+    "source_url": "https://www.baros.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Dive Centre",
+    "source_url": "https://www.baros.com/environment/underwater-ambassadors/ambra-divers-baros-maldives-base-leader-dive-instructor-marine-biologist-duplicate-1",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Dive Centre",
+    "source_url": "https://www.baros.com/environment/eco-dive-centre",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Dive Centre",
+    "source_url": "https://www.baros.com/blog/baros-treasure-hunt",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Dive Centre",
+    "source_url": "https://www.baros.com/divers-baros-maldives/diving",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Dive Centre",
+    "source_url": "https://www.baros.com/blog/best-diving-in-the-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Dive Centre",
+    "source_url": "https://www.baros.com/sitemap",
+    "as_of": "2026-10-04"
    }
   ],
   "diving_watersports.house_reef": [
    {
     "value": "house reef",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Factsheet-Baros-Maldives.pdf",
-    "as_of": 2022
+    "source_url": "https://www.baros.com/wp-content/uploads/2026/06/Baros-Factsheet-June-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "house reef in a playful",
+    "source_url": "https://www.baros.com/wp-content/uploads/2026/03/Eid-Al-Adha-brochure-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "House Reef is one of the country’s most highly regarded house",
+    "source_url": "https://www.baros.com/wp-content/uploads/2026/02/Frequently-Asked-Questions-FAQ.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "HOUSE\nREEF SNORKELLING",
+    "source_url": "https://www.baros.com/wp-content/uploads/2026/09/BarosFestiveOffer.pdf",
+    "as_of": 2027
+   },
+   {
+    "value": "house reef",
+    "source_url": "https://www.baros.com/wp-content/uploads/2024/07/PRESS-RELEASE_Coral-Preservation.pdf",
+    "as_of": 2016
+   },
+   {
+    "value": "House Reef",
+    "source_url": "https://www.baros.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef, or participate in a coral gardening workshop",
+    "source_url": "https://www.baros.com/blog/5-of-the-top-reasons-to-honeymoon-at-baros",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef, 30 nearby dive sites and a resident marine biologist, Baros is a haven for underwater enthusiasts",
+    "source_url": "https://www.baros.com/blogs/all-posts",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef, 30 nearby dive sites and a resident marine biologist, Baros is a haven for underwater enthusiasts",
+    "source_url": "https://www.baros.com/blogs/events",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef",
+    "source_url": "https://www.baros.com/blogs/villas",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef",
+    "source_url": "https://www.baros.com/blog/panoramic-ocean-views-at-the-best-restaurant-in-the-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef",
+    "source_url": "https://www.baros.com/environment/underwater-ambassadors/ambra-divers-baros-maldives-base-leader-dive-instructor-marine-biologist-duplicate-1",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef and lagoon",
+    "source_url": "https://www.baros.com/blog/the-maldives-dream",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef",
+    "source_url": "https://www.baros.com/blog/celebrate-eid-al-adha-in-the-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reefs in the Maldives",
+    "source_url": "https://www.baros.com/divers-baros-maldives/snorkelling",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef is home to three types of reef sharks: whitetip, blacktip and nurse sharks",
+    "source_url": "https://www.baros.com/environment/underwater-ambassadors",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef and fantastic",
+    "source_url": "https://www.baros.com/blog/baros-the-ultimate-diving-destination",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef",
+    "source_url": "https://www.baros.com/blog/how-the-maldives-is-saving-its-coral-reefs",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef in a Molokini clear-bottom canoe",
+    "source_url": "https://www.baros.com/blog/top-ten-things-to-do-to-feel-the-love-this-valentines-day",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef or arrange a bespoke dive to any of the 30 nearby dive sites that include some of the Maldives best",
+    "source_url": "https://www.baros.com/blog/the-best-dive-sites-in-the-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef",
+    "source_url": "https://www.baros.com/blog/five-must-have-underwater-experiences-in-the-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef, Baros is the perfect place to begin your forever",
+    "source_url": "https://www.baros.com/blog/an-unforgettable-honeymoon-at-baros-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef, acclaimed for its thriving marine ecosystem, and home to a myriad of colourful fish and other enchanting marine creatures",
+    "source_url": "https://www.baros.com/blog/enjoy-iconic-moments-at-baros-maldives-this-festive-season",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef, nestled safely between the shore and the protective boundary wall",
+    "source_url": "https://www.baros.com/blog/baros-treasure-hunt",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef",
+    "source_url": "https://www.baros.com/blog/20-maldives-inspo-ideas",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef",
+    "source_url": "https://www.baros.com/blog/the-maldives-is-one-of-the-most-romantic-places-in-the-world-to-propose",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef",
+    "source_url": "https://www.baros.com/blog/best-diving-in-the-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef",
+    "source_url": "https://www.baros.com/sitemap",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef and other famous dive sites in the atoll, you’ll find one of the most unspoilt underwater habitats in the world",
+    "source_url": "https://www.baros.com/blog/10-things-to-do-in-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef",
+    "source_url": "https://www.baros.com/blog/boundless-baros-blue-excursions",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef, 30 nearby dive sites and a resident marine biologist, Baros is a haven for underwater enthusiasts",
+    "source_url": "https://www.baros.com/blogs/experience",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "House Reef",
+    "source_url": "https://www.baros.com/blog/water-villas-in-the-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef are just metres away",
+    "source_url": "https://www.baros.com/villas-maldives/baros-pool-villas",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef, while the olive ridley and green sea turtles are also sighted on occasion",
+    "source_url": "https://www.baros.com/blog/10-intriguing-facts-about-the-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef, including floating lines and coral frames on which corals can grow",
+    "source_url": "https://www.baros.com/blog/coral-reefs-in-the-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef",
+    "source_url": "https://www.baros.com/villas-maldives/deluxe-villas",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef",
+    "source_url": "https://www.baros.com/blog/what-is-better-beach-or-water-villa",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef, swimming with turtles, rays and a myriad of vibrantly coloured fish",
+    "source_url": "https://www.baros.com/blog/escape-to-bliss-indulging-in-a-relaxing-holiday-resort-in-the-maldives",
+    "as_of": "2026-10-04"
    },
    {
     "value": "house reef",
     "source_url": "https://www.neoscapesmaldives.com/resort/baros-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "House Reefs in the Maldives",
+    "source_url": "https://hummingbird.travel/property/baros-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef",
+    "source_url": "https://www.maldivesholidayoffers.com/accomodation/resorts/baros-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef rich with marine life and being so close to the shore (10 to 15 metres) that even non-divers can swim to it and spend hours effortlessly snorkeling",
+    "source_url": "https://www.mymaldives.com/resort-guide/baros-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef exploration, and from exclusive moments together as a couple or family on a secluded sandbank to an adventurous expedition fishing for dinner and preparing the",
+    "source_url": "https://www.maldivestourism.net/blog/festive-season-at-baros-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef, a quick paddle away",
+    "source_url": "https://www.dnatatravel.com/2-1516198-1/baros-maldives?oc=true",
     "as_of": "2026-10-04"
    }
   ],
   "diving_watersports.activities": [
    {
     "value": "snorkelling",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Factsheet-Baros-Maldives.pdf",
-    "as_of": 2022
-   },
-   {
-    "value": "windsurfing",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Factsheet-Baros-Maldives.pdf",
-    "as_of": 2022
+    "source_url": "https://www.baros.com/wp-content/uploads/2026/06/Baros-Factsheet-June-2026.pdf",
+    "as_of": 2026
    },
    {
     "value": "catamaran",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Factsheet-Baros-Maldives.pdf",
-    "as_of": 2022
+    "source_url": "https://www.baros.com/wp-content/uploads/2026/06/Baros-Factsheet-June-2026.pdf",
+    "as_of": 2026
    },
    {
     "value": "water skiing",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Factsheet-Baros-Maldives.pdf",
-    "as_of": 2022
+    "source_url": "https://www.baros.com/wp-content/uploads/2026/06/Baros-Factsheet-June-2026.pdf",
+    "as_of": 2026
    },
    {
     "value": "wakeboarding",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Factsheet-Baros-Maldives.pdf",
-    "as_of": 2022
+    "source_url": "https://www.baros.com/wp-content/uploads/2026/06/Baros-Factsheet-June-2026.pdf",
+    "as_of": 2026
    },
    {
-    "value": "fishing",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Factsheet-Baros-Maldives.pdf",
-    "as_of": 2022
+    "value": "whale shark",
+    "source_url": "https://www.baros.com/wp-content/uploads/2026/06/Baros-Factsheet-June-2026.pdf",
+    "as_of": 2026
    },
    {
     "value": "sailing",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Factsheet-Baros-Maldives.pdf",
-    "as_of": 2022
+    "source_url": "https://www.baros.com/wp-content/uploads/2026/06/Baros-Factsheet-June-2026.pdf",
+    "as_of": 2026
    },
    {
     "value": "canoe",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Factsheet-Baros-Maldives.pdf",
-    "as_of": 2022
+    "source_url": "https://www.baros.com/wp-content/uploads/2026/06/Baros-Factsheet-June-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.baros.com/wp-content/uploads/2026/03/Eid-Al-Adha-brochure-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "sailing",
+    "source_url": "https://www.baros.com/wp-content/uploads/2026/03/Eid-Al-Adha-brochure-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.baros.com/wp-content/uploads/2026/04/Renewal-of-Vows-Baros-Maldives-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.baros.com/wp-content/uploads/2026/02/Frequently-Asked-Questions-FAQ.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://www.baros.com/wp-content/uploads/2026/02/Frequently-Asked-Questions-FAQ.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.baros.com/wp-content/uploads/2026/02/Frequently-Asked-Questions-FAQ.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.baros.com/wp-content/uploads/2026/02/Frequently-Asked-Questions-FAQ.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.baros.com/wp-content/uploads/2026/02/Eid-Al-Fitr-at-Baros.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.baros.com/wp-content/uploads/2026/09/BarosFestiveOffer.pdf",
+    "as_of": 2027
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.baros.com/wp-content/uploads/2026/09/BarosFestiveOffer.pdf",
+    "as_of": 2027
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.baros.com/wp-content/uploads/2026/09/BarosFestiveOffer.pdf",
+    "as_of": 2027
+   },
+   {
+    "value": "dolphin cruise",
+    "source_url": "https://www.baros.com/wp-content/uploads/2026/09/BarosFestiveOffer.pdf",
+    "as_of": 2027
+   },
+   {
+    "value": "sailing",
+    "source_url": "https://www.baros.com/wp-content/uploads/2026/09/BarosFestiveOffer.pdf",
+    "as_of": 2027
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.baros.com/wp-content/uploads/2026/02/5-Watersports-Map_A4.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.baros.com/blog/5-of-the-top-reasons-to-honeymoon-at-baros",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "kayaking",
+    "source_url": "https://www.baros.com/blog/5-of-the-top-reasons-to-honeymoon-at-baros",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.baros.com/blog/5-of-the-top-reasons-to-honeymoon-at-baros",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.baros.com/blogs/all-posts",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sailing",
+    "source_url": "https://www.baros.com/blogs/all-posts",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.baros.com/blogs/events",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.baros.com/maldives-offers/the-nooma-experience",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.baros.com/blogs/villas",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sailing",
+    "source_url": "https://www.baros.com/blogs/villas",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.baros.com/environment/underwater-ambassadors/ambra-divers-baros-maldives-base-leader-dive-instructor-marine-biologist-duplicate-1",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.baros.com/blog/the-maldives-dream",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.baros.com/blog/the-maldives-dream",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sailing",
+    "source_url": "https://www.baros.com/blog/the-maldives-dream",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "glass-bottom",
+    "source_url": "https://www.baros.com/blog/the-maldives-dream",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.baros.com/maldives-offers/baros-eco-explorer",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.baros.com/blog/celebrate-eid-al-adha-in-the-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.baros.com/divers-baros-maldives/snorkelling",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.baros.com/environment/underwater-ambassadors",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.baros.com/blog/baros-the-ultimate-diving-destination",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.baros.com/blog/baros-the-ultimate-diving-destination",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "kayaking",
+    "source_url": "https://www.baros.com/blog/top-ten-things-to-do-to-feel-the-love-this-valentines-day",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "canoe",
+    "source_url": "https://www.baros.com/blog/top-ten-things-to-do-to-feel-the-love-this-valentines-day",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.baros.com/blog/sailing-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.baros.com/blog/sailing-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.baros.com/blog/sailing-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sailing",
+    "source_url": "https://www.baros.com/blog/sailing-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.baros.com/blog/the-best-dive-sites-in-the-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.baros.com/environment/eco-dive-centre",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.baros.com/blog/five-must-have-underwater-experiences-in-the-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.baros.com/blog/five-must-have-underwater-experiences-in-the-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "paddleboard",
+    "source_url": "https://www.baros.com/blog/an-unforgettable-honeymoon-at-baros-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "wakeboarding",
+    "source_url": "https://www.baros.com/blog/an-unforgettable-honeymoon-at-baros-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.baros.com/blog/an-unforgettable-honeymoon-at-baros-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin cruise",
+    "source_url": "https://www.baros.com/blog/an-unforgettable-honeymoon-at-baros-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.baros.com/blog/enjoy-iconic-moments-at-baros-maldives-this-festive-season",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.baros.com/blog/enjoy-iconic-moments-at-baros-maldives-this-festive-season",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin cruise",
+    "source_url": "https://www.baros.com/blog/enjoy-iconic-moments-at-baros-maldives-this-festive-season",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.baros.com/blog/baros-treasure-hunt",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.baros.com/blog/celebrate-an-entrancing-eid-at-baros-maldives-2",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "kayaking",
+    "source_url": "https://www.baros.com/blog/celebrate-an-entrancing-eid-at-baros-maldives-2",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "stand-up paddle",
+    "source_url": "https://www.baros.com/blog/celebrate-an-entrancing-eid-at-baros-maldives-2",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "paddleboard",
+    "source_url": "https://www.baros.com/blog/celebrate-an-entrancing-eid-at-baros-maldives-2",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.baros.com/blog/celebrate-an-entrancing-eid-at-baros-maldives-2",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.baros.com/blog/celebrate-an-entrancing-eid-at-baros-maldives-2",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.baros.com/divers-baros-maldives/diving",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.baros.com/divers-baros-maldives/diving",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.baros.com/blog/20-maldives-inspo-ideas",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "windsurfing",
+    "source_url": "https://www.baros.com/blog/20-maldives-inspo-ideas",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "kayaking",
+    "source_url": "https://www.baros.com/blog/20-maldives-inspo-ideas",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "stand-up paddle",
+    "source_url": "https://www.baros.com/blog/20-maldives-inspo-ideas",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.baros.com/blog/20-maldives-inspo-ideas",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.baros.com/blog/20-maldives-inspo-ideas",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin cruise",
+    "source_url": "https://www.baros.com/blog/20-maldives-inspo-ideas",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.baros.com/blog/20-maldives-inspo-ideas",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sailing",
+    "source_url": "https://www.baros.com/blog/20-maldives-inspo-ideas",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sailing",
+    "source_url": "https://www.baros.com/blog/the-maldives-is-one-of-the-most-romantic-places-in-the-world-to-propose",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.baros.com/blog/best-diving-in-the-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.baros.com/sitemap",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.baros.com/blog/five-must-take-excursions-in-the-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.baros.com/blog/five-must-take-excursions-in-the-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sailing",
+    "source_url": "https://www.baros.com/blog/five-must-take-excursions-in-the-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.baros.com/blog/best-tips-for-travelling-to-maldives-2023",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.baros.com/blog/best-tips-for-travelling-to-maldives-2023",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.baros.com/blog/10-things-to-do-in-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://www.baros.com/blog/10-things-to-do-in-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.baros.com/blog/10-things-to-do-in-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.baros.com/blog/10-things-to-do-in-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.baros.com/blog/10-things-to-do-in-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sailing",
+    "source_url": "https://www.baros.com/blog/10-things-to-do-in-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.baros.com/romance",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.baros.com/blog/boundless-baros-blue-excursions",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.baros.com/blog/boundless-baros-blue-excursions",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.baros.com/blog/boundless-baros-blue-excursions",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sailing",
+    "source_url": "https://www.baros.com/blog/boundless-baros-blue-excursions",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.baros.com/blog/baros-maldives-the-ultimate-romantic-escape",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.baros.com/blog/baros-maldives-the-ultimate-romantic-escape",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sailing",
+    "source_url": "https://www.baros.com/blog/baros-maldives-the-ultimate-romantic-escape",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.baros.com/blogs/experience",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sailing",
+    "source_url": "https://www.baros.com/blogs/experience",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.baros.com/blog/sunset-activities-at-baros",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.baros.com/blog/sunset-activities-at-baros",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sailing",
+    "source_url": "https://www.baros.com/blog/sunset-activities-at-baros",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.baros.com/blog/the-best-hotel-in-the-world-for-luxury",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.baros.com/blog/10-intriguing-facts-about-the-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.baros.com/blog/10-intriguing-facts-about-the-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sailing",
+    "source_url": "https://www.baros.com/blog/10-intriguing-facts-about-the-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.baros.com/blog/coral-reefs-in-the-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.baros.com/blog/coral-reefs-in-the-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.baros.com/blog/what-is-better-beach-or-water-villa",
+    "as_of": "2026-10-04"
    },
    {
     "value": "snorkelling",
@@ -751,23 +2162,593 @@
     "value": "sailing",
     "source_url": "https://www.neoscapesmaldives.com/resort/baros-maldives/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://hummingbird.travel/property/baros-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://hummingbird.travel/property/baros-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.mymaldives.com/resort-guide/baros-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://www.mymaldives.com/resort-guide/baros-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "windsurfing",
+    "source_url": "https://www.mymaldives.com/resort-guide/baros-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "catamaran",
+    "source_url": "https://www.mymaldives.com/resort-guide/baros-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "water skiing",
+    "source_url": "https://www.mymaldives.com/resort-guide/baros-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.mymaldives.com/resort-guide/baros-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sailing",
+    "source_url": "https://www.mymaldives.com/resort-guide/baros-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "canoe",
+    "source_url": "https://www.mymaldives.com/resort-guide/baros-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.maldivestourism.net/blog/festive-season-at-baros-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.maldivestourism.net/blog/festive-season-at-baros-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.maldivestourism.net/resorts/baros-island-resort/",
+    "as_of": "2026-10-04"
    }
   ],
   "excursions": [
    {
     "value": "sandbank",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Factsheet-Baros-Maldives.pdf",
-    "as_of": 2022
+    "source_url": "https://www.baros.com/wp-content/uploads/2026/06/Baros-Factsheet-June-2026.pdf",
+    "as_of": 2026
    },
    {
     "value": "dolphin",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Factsheet-Baros-Maldives.pdf",
-    "as_of": 2022
+    "source_url": "https://www.baros.com/wp-content/uploads/2026/06/Baros-Factsheet-June-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.baros.com/wp-content/uploads/2026/06/Baros-Factsheet-June-2026.pdf",
+    "as_of": 2026
    },
    {
     "value": "private dinner",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Factsheet-Baros-Maldives.pdf",
-    "as_of": 2022
+    "source_url": "https://www.baros.com/wp-content/uploads/2026/06/Baros-Factsheet-June-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "sunset fishing",
+    "source_url": "https://www.baros.com/wp-content/uploads/2026/03/Eid-Al-Adha-brochure-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.baros.com/wp-content/uploads/2026/04/Renewal-of-Vows-Baros-Maldives-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.baros.com/wp-content/uploads/2026/02/Frequently-Asked-Questions-FAQ.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.baros.com/wp-content/uploads/2026/02/Frequently-Asked-Questions-FAQ.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "local island",
+    "source_url": "https://www.baros.com/wp-content/uploads/2026/09/BarosFestiveOffer.pdf",
+    "as_of": 2027
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.baros.com/wp-content/uploads/2026/09/BarosFestiveOffer.pdf",
+    "as_of": 2027
+   },
+   {
+    "value": "big game fishing",
+    "source_url": "https://www.baros.com/wp-content/uploads/2026/09/BarosFestiveOffer.pdf",
+    "as_of": 2027
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.baros.com/wp-content/uploads/2026/09/BarosFestiveOffer.pdf",
+    "as_of": 2027
+   },
+   {
+    "value": "cooking class",
+    "source_url": "https://www.baros.com/wp-content/uploads/2026/09/BarosFestiveOffer.pdf",
+    "as_of": 2027
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.baros.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.baros.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "private dinner",
+    "source_url": "https://www.baros.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "cinema",
+    "source_url": "https://www.baros.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "castaway",
+    "source_url": "https://www.baros.com/blog/5-of-the-top-reasons-to-honeymoon-at-baros",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "island hopping",
+    "source_url": "https://www.baros.com/blogs/all-posts",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.baros.com/blogs/all-posts",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.baros.com/blogs/all-posts",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.baros.com/blogs/events",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.baros.com/blogs/villas",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.baros.com/blogs/villas",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.baros.com/environment/underwater-ambassadors/ambra-divers-baros-maldives-base-leader-dive-instructor-marine-biologist-duplicate-1",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.baros.com/environment/underwater-ambassadors/ambra-divers-baros-maldives-base-leader-dive-instructor-marine-biologist-duplicate-1",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.baros.com/blog/the-maldives-dream",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.baros.com/divers-baros-maldives/snorkelling",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.baros.com/environment/underwater-ambassadors",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.baros.com/blog/baros-the-ultimate-diving-destination",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.baros.com/blog/baros-the-ultimate-diving-destination",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.baros.com/blog/top-ten-things-to-do-to-feel-the-love-this-valentines-day",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.baros.com/dining/destination-dining/in-villa-dining",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.baros.com/blog/sailing-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "night fishing",
+    "source_url": "https://www.baros.com/blog/sailing-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "big game fishing",
+    "source_url": "https://www.baros.com/blog/sailing-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.baros.com/blog/sailing-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.baros.com/blog/the-best-dive-sites-in-the-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.baros.com/blog/the-best-dive-sites-in-the-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.baros.com/environment/eco-dive-centre",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.baros.com/blog/five-must-have-underwater-experiences-in-the-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.baros.com/blog/five-must-have-underwater-experiences-in-the-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.baros.com/blog/an-unforgettable-honeymoon-at-baros-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.baros.com/blog/an-unforgettable-honeymoon-at-baros-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.baros.com/blog/an-unforgettable-honeymoon-at-baros-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "picnic",
+    "source_url": "https://www.baros.com/blog/an-unforgettable-honeymoon-at-baros-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.baros.com/blog/enjoy-iconic-moments-at-baros-maldives-this-festive-season",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "big game fishing",
+    "source_url": "https://www.baros.com/blog/enjoy-iconic-moments-at-baros-maldives-this-festive-season",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "cinema",
+    "source_url": "https://www.baros.com/blog/enjoy-iconic-moments-at-baros-maldives-this-festive-season",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "private dinner",
+    "source_url": "https://www.baros.com/blog/celebrate-an-entrancing-eid-at-baros-maldives-2",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.baros.com/divers-baros-maldives/diving",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.baros.com/divers-baros-maldives/diving",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.baros.com/dining/destination-dining/island-dining",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "island hopping",
+    "source_url": "https://www.baros.com/blog/20-maldives-inspo-ideas",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.baros.com/blog/20-maldives-inspo-ideas",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.baros.com/blog/20-maldives-inspo-ideas",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "night fishing",
+    "source_url": "https://www.baros.com/blog/20-maldives-inspo-ideas",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "big game fishing",
+    "source_url": "https://www.baros.com/blog/20-maldives-inspo-ideas",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.baros.com/blog/20-maldives-inspo-ideas",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.baros.com/blog/20-maldives-inspo-ideas",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "picnic",
+    "source_url": "https://www.baros.com/blog/20-maldives-inspo-ideas",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "castaway",
+    "source_url": "https://www.baros.com/blog/20-maldives-inspo-ideas",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.baros.com/blog/the-maldives-is-one-of-the-most-romantic-places-in-the-world-to-propose",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "picnic",
+    "source_url": "https://www.baros.com/blog/the-maldives-is-one-of-the-most-romantic-places-in-the-world-to-propose",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.baros.com/blog/best-diving-in-the-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.baros.com/blog/best-diving-in-the-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.baros.com/sitemap",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.baros.com/blog/five-must-take-excursions-in-the-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.baros.com/blog/five-must-take-excursions-in-the-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "picnic",
+    "source_url": "https://www.baros.com/blog/five-must-take-excursions-in-the-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.baros.com/blog/best-tips-for-travelling-to-maldives-2023",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.baros.com/blog/10-things-to-do-in-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.baros.com/blog/10-things-to-do-in-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.baros.com/blog/10-things-to-do-in-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.baros.com/blog/10-things-to-do-in-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "picnic",
+    "source_url": "https://www.baros.com/blog/10-things-to-do-in-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.baros.com/romance/renewal-of-vows",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.baros.com/dining/destination-dining/sandbank-dining",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "picnic",
+    "source_url": "https://www.baros.com/dining/destination-dining/sandbank-dining",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "island hopping",
+    "source_url": "https://www.baros.com/blog/boundless-baros-blue-excursions",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.baros.com/blog/boundless-baros-blue-excursions",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.baros.com/blog/boundless-baros-blue-excursions",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "night fishing",
+    "source_url": "https://www.baros.com/blog/boundless-baros-blue-excursions",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "big game fishing",
+    "source_url": "https://www.baros.com/blog/boundless-baros-blue-excursions",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "castaway",
+    "source_url": "https://www.baros.com/blog/boundless-baros-blue-excursions",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.baros.com/blog/baros-maldives-the-ultimate-romantic-escape",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "island hopping",
+    "source_url": "https://www.baros.com/blogs/experience",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.baros.com/blogs/experience",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.baros.com/blogs/experience",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.baros.com/blog/sunset-activities-at-baros",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.baros.com/blog/sunset-activities-at-baros",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset fishing",
+    "source_url": "https://www.baros.com/blog/sunset-activities-at-baros",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.baros.com/blog/the-best-hotel-in-the-world-for-luxury",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "private dinner",
+    "source_url": "https://www.baros.com/blog/the-best-hotel-in-the-world-for-luxury",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "private dinner",
+    "source_url": "https://www.baros.com/villas-maldives/baros-pool-villas",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.baros.com/blog/10-intriguing-facts-about-the-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.baros.com/blog/10-intriguing-facts-about-the-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.baros.com/blog/coral-reefs-in-the-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.baros.com/blog/coral-reefs-in-the-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.baros.com/blog/coral-reefs-in-the-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "private dinner",
+    "source_url": "https://www.baros.com/villas-maldives/deluxe-villas",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "local island",
+    "source_url": "https://www.baros.com/blog/celebrating-ramadan-in-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.baros.com/blog/escape-to-bliss-indulging-in-a-relaxing-holiday-resort-in-the-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.baros.com/blog/escape-to-bliss-indulging-in-a-relaxing-holiday-resort-in-the-maldives",
+    "as_of": "2026-10-04"
    },
    {
     "value": "sandbank",
@@ -788,28 +2769,183 @@
     "value": "picnic",
     "source_url": "https://www.neoscapesmaldives.com/resort/baros-maldives/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "big game fishing",
+    "source_url": "https://www.mymaldives.com/resort-guide/baros-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.maldivestourism.net/blog/festive-season-at-baros-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.maldivestourism.net/resorts/baros-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://malediven.de/malediven-hotels/baros/",
+    "as_of": "2026-10-04"
    }
   ],
   "wellness_fitness": [
    {
     "value": "yoga",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Factsheet-Baros-Maldives.pdf",
-    "as_of": 2022
+    "source_url": "https://www.baros.com/wp-content/uploads/2026/06/Baros-Factsheet-June-2026.pdf",
+    "as_of": 2026
    },
    {
     "value": "meditation",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Factsheet-Baros-Maldives.pdf",
-    "as_of": 2022
+    "source_url": "https://www.baros.com/wp-content/uploads/2026/06/Baros-Factsheet-June-2026.pdf",
+    "as_of": 2026
    },
    {
     "value": "fitness centre",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Factsheet-Baros-Maldives.pdf",
-    "as_of": 2022
+    "source_url": "https://www.baros.com/wp-content/uploads/2026/06/Baros-Factsheet-June-2026.pdf",
+    "as_of": 2026
    },
    {
     "value": "tennis",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Factsheet-Baros-Maldives.pdf",
-    "as_of": 2022
+    "source_url": "https://www.baros.com/wp-content/uploads/2026/06/Baros-Factsheet-June-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "steam",
+    "source_url": "https://www.baros.com/wp-content/uploads/2026/04/Renewal-of-Vows-Baros-Maldives-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.baros.com/wp-content/uploads/2026/02/Serenity-Spa-Menu-Digital.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "meditation",
+    "source_url": "https://www.baros.com/wp-content/uploads/2026/02/Serenity-Spa-Menu-Digital.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "sound healing",
+    "source_url": "https://www.baros.com/wp-content/uploads/2026/02/Serenity-Spa-Menu-Digital.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "steam",
+    "source_url": "https://www.baros.com/wp-content/uploads/2025/07/IVD-MENU-JUNE-2025.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.baros.com/wp-content/uploads/2026/09/BarosFestiveOffer.pdf",
+    "as_of": 2027
+   },
+   {
+    "value": "meditation",
+    "source_url": "https://www.baros.com/wp-content/uploads/2026/09/BarosFestiveOffer.pdf",
+    "as_of": 2027
+   },
+   {
+    "value": "sound healing",
+    "source_url": "https://www.baros.com/wp-content/uploads/2026/09/BarosFestiveOffer.pdf",
+    "as_of": 2027
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.baros.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.baros.com/blogs/all-posts",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "steam",
+    "source_url": "https://www.baros.com/blog/must-try-spa-rituals-at-baros-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.baros.com/blog/celebrate-eid-al-adha-in-the-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.baros.com/blog/top-ten-things-to-do-to-feel-the-love-this-valentines-day",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "steam",
+    "source_url": "https://www.baros.com/blog/top-ten-things-to-do-to-feel-the-love-this-valentines-day",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.baros.com/blog/an-unforgettable-honeymoon-at-baros-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.baros.com/blog/enjoy-iconic-moments-at-baros-maldives-this-festive-season",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.baros.com/blog/20-maldives-inspo-ideas",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.baros.com/wellness-practitioner",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sound healing",
+    "source_url": "https://www.baros.com/wellness-practitioner",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.baros.com/sitemap",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "meditation",
+    "source_url": "https://www.baros.com/sitemap",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.baros.com/blog/10-things-to-do-in-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "meditation",
+    "source_url": "https://www.baros.com/blog/10-things-to-do-in-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.baros.com/blogs/experience",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.baros.com/maldives-offers/baros-escapes",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fitness centre",
+    "source_url": "https://www.baros.com/blog/the-best-hotel-in-the-world-for-luxury",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.baros.com/blog/escape-to-bliss-indulging-in-a-relaxing-holiday-resort-in-the-maldives",
+    "as_of": "2026-10-04"
    },
    {
     "value": "yoga",
@@ -825,23 +2961,368 @@
     "value": "fitness center",
     "source_url": "https://www.neoscapesmaldives.com/resort/baros-maldives/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://hummingbird.travel/property/baros-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "gym",
+    "source_url": "https://hummingbird.travel/property/baros-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://unihotel.org/kempinski-barbaros-bay-bodrum",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sauna",
+    "source_url": "https://unihotel.org/kempinski-barbaros-bay-bodrum",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "steam",
+    "source_url": "https://unihotel.org/kempinski-barbaros-bay-bodrum",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "badminton",
+    "source_url": "https://www.maldivestourism.net/resorts/baros-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://malediven.de/malediven-hotels/baros/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "meditation",
+    "source_url": "https://malediven.de/malediven-hotels/baros/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.dnatatravel.com/2-1516198-1/baros-maldives?oc=true",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "gym",
+    "source_url": "https://www.dnatatravel.com/2-1516198-1/baros-maldives?oc=true",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "steam",
+    "source_url": "https://www.dnatatravel.com/2-1516198-1/baros-maldives?oc=true",
+    "as_of": "2026-10-04"
    }
   ],
   "sustainability": [
    {
     "value": "marine biologist",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Factsheet-Baros-Maldives.pdf",
-    "as_of": 2022
+    "source_url": "https://www.baros.com/wp-content/uploads/2026/06/Baros-Factsheet-June-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "single-use plastic",
+    "source_url": "https://www.baros.com/wp-content/uploads/2026/06/Baros-Factsheet-June-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "coral restoration",
+    "source_url": "https://www.baros.com/wp-content/uploads/2024/07/PRESS-RELEASE_Coral-Preservation.pdf",
+    "as_of": 2016
+   },
+   {
+    "value": "marine biologist",
+    "source_url": "https://www.baros.com/wp-content/uploads/2024/07/PRESS-RELEASE_Coral-Preservation.pdf",
+    "as_of": 2016
+   },
+   {
+    "value": "solar",
+    "source_url": "https://www.baros.com/wp-content/uploads/2024/07/PRESS-RELEASE_Coral-Preservation.pdf",
+    "as_of": 2016
+   },
+   {
+    "value": "coral nursery",
+    "source_url": "https://www.baros.com/wp-content/uploads/2026/02/5-Watersports-Map_A4.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "marine biologist",
+    "source_url": "https://www.baros.com/blogs/all-posts",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "marine biologist",
+    "source_url": "https://www.baros.com/blogs/events",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "marine biologist",
+    "source_url": "https://www.baros.com/environment/underwater-ambassadors/ambra-divers-baros-maldives-base-leader-dive-instructor-marine-biologist-duplicate-1",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "marine biologist",
+    "source_url": "https://www.baros.com/blog/the-maldives-dream",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "marine biologist",
+    "source_url": "https://www.baros.com/maldives-offers/baros-eco-explorer",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "reef restoration",
+    "source_url": "https://www.baros.com/maldives-offers/baros-eco-explorer",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "marine biologist",
+    "source_url": "https://www.baros.com/divers-baros-maldives/snorkelling",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "coral restoration",
+    "source_url": "https://www.baros.com/environment/underwater-ambassadors",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "marine biologist",
+    "source_url": "https://www.baros.com/environment/underwater-ambassadors",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "marine biologist",
+    "source_url": "https://www.baros.com/blog/how-the-maldives-is-saving-its-coral-reefs",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "marine biologist",
+    "source_url": "https://www.baros.com/blog/sailing-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "coral restoration",
+    "source_url": "https://www.baros.com/blog/five-must-have-underwater-experiences-in-the-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "marine biologist",
+    "source_url": "https://www.baros.com/blog/five-must-have-underwater-experiences-in-the-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "coral restoration",
+    "source_url": "https://www.baros.com/blog/20-maldives-inspo-ideas",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "marine biologist",
+    "source_url": "https://www.baros.com/blog/20-maldives-inspo-ideas",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "marine biologist",
+    "source_url": "https://www.baros.com/blog/best-diving-in-the-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "marine biologist",
+    "source_url": "https://www.baros.com/sitemap",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "marine biologist",
+    "source_url": "https://www.baros.com/blogs/experience",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "coral restoration",
+    "source_url": "https://www.baros.com/blog/coral-reefs-in-the-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "marine biologist",
+    "source_url": "https://www.baros.com/blog/coral-reefs-in-the-maldives",
+    "as_of": "2026-10-04"
    }
   ],
-  "weddings.offered": [
+  "atoll": [
    {
-    "value": true,
+    "value": "Malé Atoll",
+    "source_url": "https://www.baros.com/wp-content/uploads/2026/03/Eid-Al-Adha-brochure-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "North Malé Atoll",
+    "source_url": "https://www.baros.com/wp-content/uploads/2026/02/Frequently-Asked-Questions-FAQ.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "North Malé Atoll",
+    "source_url": "https://www.baros.com/environment/underwater-ambassadors",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "North Malé Atoll",
+    "source_url": "https://www.baros.com/blog/20-maldives-inspo-ideas",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "North Malé Atoll",
     "source_url": "https://www.neoscapesmaldives.com/resort/baros-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "North Malé Atoll",
+    "source_url": "https://letsgomaldives.com/news/baros-maldives-hosts-exclusive-duval-leroy-champagne-pairing-dinner-at-the-lighthouse/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "North Malé Atoll",
+    "source_url": "https://hummingbird.travel/property/baros-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "North Male Atoll",
+    "source_url": "https://www.maldivesholidayoffers.com/accomodation/resorts/baros-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Kaafu Atoll",
+    "source_url": "https://www.mymaldives.com/resort-guide/baros-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Male Atoll",
+    "source_url": "https://malediven.de/malediven-hotels/baros/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "North Male Atoll",
+    "source_url": "https://www.dnatatravel.com/2-1516198-1/baros-maldives?oc=true",
     "as_of": "2026-10-04"
    }
   ],
   "contacts_public.reservations_email": [
+   {
+    "value": "reservations@baros.com",
+    "source_url": "https://www.baros.com/wp-content/uploads/2026/03/Eid-Al-Adha-brochure-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "reservations@baros.com",
+    "source_url": "https://www.baros.com/wp-content/uploads/2026/04/Renewal-of-Vows-Baros-Maldives-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "reservations@baros.com",
+    "source_url": "https://www.baros.com/wp-content/uploads/2024/07/PRESS-RELEASE_Coral-Preservation.pdf",
+    "as_of": 2016
+   },
+   {
+    "value": "reservations@baros.com",
+    "source_url": "https://www.baros.com/maldives-offers/the-nooma-experience",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "reservations@baros.com",
+    "source_url": "https://www.baros.com/blog/the-ultimate-guide-to-beach-wedding-in-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "reservations@baros.com",
+    "source_url": "https://www.baros.com/blog/panoramic-ocean-views-at-the-best-restaurant-in-the-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "reservations@baros.com",
+    "source_url": "https://www.baros.com/blog/the-maldives-dream",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "reservations@baros.com",
+    "source_url": "https://www.baros.com/blog/exploring-the-culinary-delights-of-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "reservations@baros.com",
+    "source_url": "https://www.baros.com/blog/how-the-maldives-is-saving-its-coral-reefs",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "reservations@baros.com",
+    "source_url": "https://www.baros.com/blog/top-ten-things-to-do-to-feel-the-love-this-valentines-day",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "reservations@baros.com",
+    "source_url": "https://www.baros.com/blog/five-must-have-underwater-experiences-in-the-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "reservations@baros.com",
+    "source_url": "https://www.baros.com/blog/an-unforgettable-honeymoon-at-baros-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "reservations@baros.com",
+    "source_url": "https://www.baros.com/blog/enjoy-iconic-moments-at-baros-maldives-this-festive-season",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "reservations@baros.com",
+    "source_url": "https://www.baros.com/blog/baros-treasure-hunt",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "reservations@baros.com",
+    "source_url": "https://www.baros.com/blog/celebrate-an-entrancing-eid-at-baros-maldives-2",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "reservations@baros.com",
+    "source_url": "https://www.baros.com/blog/best-fine-dining-maldives-restaurant",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "reservations@baros.com",
+    "source_url": "https://www.baros.com/blog/best-tips-for-travelling-to-maldives-2023",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "reservations@baros.com",
+    "source_url": "https://www.baros.com/blog/boundless-baros-blue-excursions",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "reservations@baros.com",
+    "source_url": "https://www.baros.com/blog/baros-maldives-the-ultimate-romantic-escape",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "reservations@baros.com",
+    "source_url": "https://www.baros.com/blog/10-intriguing-facts-about-the-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "reservations@baros.com",
+    "source_url": "https://www.baros.com/blog/coral-reefs-in-the-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "reservations@baros.com",
+    "source_url": "https://www.baros.com/blog/what-is-better-beach-or-water-villa",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "reservations@baros.com",
+    "source_url": "https://www.baros.com/blog/escape-to-bliss-indulging-in-a-relaxing-holiday-resort-in-the-maldives",
+    "as_of": "2026-10-04"
+   },
    {
     "value": "info@neoscapesmaldives.com",
     "source_url": "https://www.neoscapesmaldives.com/resort/baros-maldives/",
@@ -850,11 +3331,529 @@
   ],
   "contacts_public.phone": [
    {
+    "value": "+960 664 26 72",
+    "source_url": "https://www.baros.com/wp-content/uploads/2026/03/Eid-Al-Adha-brochure-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "+960 664 26 72",
+    "source_url": "https://www.baros.com/wp-content/uploads/2024/07/PRESS-RELEASE_Coral-Preservation.pdf",
+    "as_of": 2016
+   },
+   {
+    "value": "+960 664 26 72",
+    "source_url": "https://www.baros.com/blog/an-unforgettable-honeymoon-at-baros-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 664 2672",
+    "source_url": "https://www.baros.com/blog/baros-treasure-hunt",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 664 2672",
+    "source_url": "https://www.baros.com/blog/celebrate-an-entrancing-eid-at-baros-maldives-2",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 664 2672",
+    "source_url": "https://www.baros.com/blog/baros-maldives-the-ultimate-romantic-escape",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 664 26 72",
+    "source_url": "https://www.baros.com/blog/coral-reefs-in-the-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
     "value": "+960 736 5425",
     "source_url": "https://www.neoscapesmaldives.com/resort/baros-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 664 26 72",
+    "source_url": "https://www.mymaldives.com/blog/baros-maldives-re-opens-on-october-2020-with-a-brand-new-residence/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 7773 699",
+    "source_url": "https://www.maldivesholidayoffers.com/accomodation/resorts/baros-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 664 26 72",
+    "source_url": "https://www.mymaldives.com/resort-guide/baros-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 664 26 72",
+    "source_url": "https://www.maldivestourism.net/blog/festive-season-at-baros-maldives/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "weddings.offered": [
+   {
+    "value": true,
+    "source_url": "https://www.baros.com/wp-content/uploads/2026/04/Renewal-of-Vows-Baros-Maldives-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": true,
+    "source_url": "https://www.baros.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.baros.com/blog/5-of-the-top-reasons-to-honeymoon-at-baros",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.baros.com/blog/5-of-the-top-reasons-to-honeymoon-at-baros",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.baros.com/blogs/all-posts",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.baros.com/blogs/events",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.baros.com/blog/the-ultimate-guide-to-beach-wedding-in-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.baros.com/blog/the-ultimate-guide-to-beach-wedding-in-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.baros.com/blog/celebrate-eid-al-adha-in-the-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.baros.com/blog/an-unforgettable-honeymoon-at-baros-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.baros.com/blog/an-unforgettable-honeymoon-at-baros-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.baros.com/blog/celebrate-an-entrancing-eid-at-baros-maldives-2",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.baros.com/blog/10-things-to-do-in-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.baros.com/romance",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.baros.com/romance/renewal-of-vows",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.baros.com/romance/renewal-of-vows",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.baros.com/blogs/experience",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.baros.com/blog/celebrating-ramadan-in-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.neoscapesmaldives.com/resort/baros-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://unihotel.org/kempinski-barbaros-bay-bodrum",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://letsgomaldives.com/news/celebrate-mothers-day-at-baros/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://malediven.de/malediven-hotels/baros/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "weddings.vow_renewal": [
+   {
+    "value": true,
+    "source_url": "https://www.baros.com/wp-content/uploads/2026/04/Renewal-of-Vows-Baros-Maldives-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": true,
+    "source_url": "https://www.baros.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.baros.com/blogs/all-posts",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.baros.com/blogs/events",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.baros.com/blog/20-maldives-inspo-ideas",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.baros.com/sitemap",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.baros.com/blog/10-things-to-do-in-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.baros.com/romance",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.baros.com/romance/renewal-of-vows",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.baros.com/blogs/experience",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "weddings.packages": [
+   {
+    "value": {
+     "name": "Vow",
+     "price": "2500",
+     "currency": "USD",
+     "as_of": 2026
+    },
+    "source_url": "https://www.baros.com/wp-content/uploads/2026/04/Renewal-of-Vows-Baros-Maldives-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": {
+     "name": "Maldivian Experience",
+     "price": "1310",
+     "currency": "USD",
+     "as_of": "2026-10-04"
+    },
+    "source_url": "https://www.baros.com/maldives-offers/the-nooma-experience",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Sri Lankan Experience",
+     "price": "1345",
+     "currency": "USD",
+     "as_of": "2026-10-04"
+    },
+    "source_url": "https://www.baros.com/maldives-offers/the-nooma-experience",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Indian Experience",
+     "price": "1345",
+     "currency": "USD",
+     "as_of": "2026-10-04"
+    },
+    "source_url": "https://www.baros.com/maldives-offers/the-nooma-experience",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "star_rating": [
+   {
+    "value": "5-star",
+    "source_url": "https://www.baros.com/wp-content/uploads/2026/02/Frequently-Asked-Questions-FAQ.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "5-star",
+    "source_url": "https://www.baros.com/blog/water-villas-in-the-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "5-star",
+    "source_url": "https://hummingbird.travel/property/baros-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "4-star",
+    "source_url": "https://www.maldivestourism.net/resorts/baros-island-resort/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "weddings.venues": [
+   {
+    "value": "USD 1225 PER BOAT VENUE: PALM GARDEN",
+    "source_url": "https://www.baros.com/wp-content/uploads/2026/09/BarosFestiveOffer.pdf",
+    "as_of": 2027
+   },
+   {
+    "value": "VENUE: PALM GARDEN",
+    "source_url": "https://www.baros.com/wp-content/uploads/2026/09/BarosFestiveOffer.pdf",
+    "as_of": 2027
+   },
+   {
+    "value": "USD 73 PER PERSON VENUE: PALM GARDEN",
+    "source_url": "https://www.baros.com/wp-content/uploads/2026/09/BarosFestiveOffer.pdf",
+    "as_of": 2027
+   },
+   {
+    "value": "VENUE: PALM GARDEN USD 125 PER PERSON VENUE: PALM GARDEN",
+    "source_url": "https://www.baros.com/wp-content/uploads/2026/09/BarosFestiveOffer.pdf",
+    "as_of": 2027
+   },
+   {
+    "value": "USD 185 PER PERSON 5:30 PM TO 6:30 PM VENUE: PALM GARDEN",
+    "source_url": "https://www.baros.com/wp-content/uploads/2026/09/BarosFestiveOffer.pdf",
+    "as_of": 2027
+   },
+   {
+    "value": "VENUE: LIME VENUE: PALM GARDEN VENUE: OVERWATER DECK",
+    "source_url": "https://www.baros.com/wp-content/uploads/2026/09/BarosFestiveOffer.pdf",
+    "as_of": 2027
+   },
+   {
+    "value": "VENUE: PALM GARDEN VENUE: CAYENNE 5 PM TO 6:30 PM",
+    "source_url": "https://www.baros.com/wp-content/uploads/2026/09/BarosFestiveOffer.pdf",
+    "as_of": 2027
+   },
+   {
+    "value": "VENUE: PALM GARDEN VENUE: MALDIVIAN LOUNGE 6 PM TO 7 PM",
+    "source_url": "https://www.baros.com/wp-content/uploads/2026/09/BarosFestiveOffer.pdf",
+    "as_of": 2027
+   },
+   {
+    "value": "VENUE: PALM GARDEN USD 150 PER PERSON VENUE: PALM GARDEN",
+    "source_url": "https://www.baros.com/wp-content/uploads/2026/09/BarosFestiveOffer.pdf",
+    "as_of": 2027
+   },
+   {
+    "value": "10 AM TO 11.30 AM USD 150 PER PERSON VENUE: PALM GARDEN / CAYENNE",
+    "source_url": "https://www.baros.com/wp-content/uploads/2026/09/BarosFestiveOffer.pdf",
+    "as_of": 2027
+   },
+   {
+    "value": "9 AM TO 10 AM 2:30 PM TO 4 PM VENUE: PALM GARDEN",
+    "source_url": "https://www.baros.com/wp-content/uploads/2026/09/BarosFestiveOffer.pdf",
+    "as_of": 2027
+   },
+   {
+    "value": "VENUE: SERENITY SPA VENUE: PALM GARDEN",
+    "source_url": "https://www.baros.com/wp-content/uploads/2026/09/BarosFestiveOffer.pdf",
+    "as_of": 2027
+   },
+   {
+    "value": "USD 73 PER PERSON 5 PM TO 6:30 PM VENUE: PALM GARDEN",
+    "source_url": "https://www.baros.com/wp-content/uploads/2026/09/BarosFestiveOffer.pdf",
+    "as_of": 2027
+   },
+   {
+    "value": "USD 115 PER PERSON VENUE: PALM GARDEN",
+    "source_url": "https://www.baros.com/wp-content/uploads/2026/09/BarosFestiveOffer.pdf",
+    "as_of": 2027
+   },
+   {
+    "value": "11 AM TO NOON VENUE: PALM GARDEN",
+    "source_url": "https://www.baros.com/wp-content/uploads/2026/09/BarosFestiveOffer.pdf",
+    "as_of": 2027
+   },
+   {
+    "value": "VENUE: SERENITY SPA USD 73 PER PERSON VENUE: PALM GARDEN",
+    "source_url": "https://www.baros.com/wp-content/uploads/2026/09/BarosFestiveOffer.pdf",
+    "as_of": 2027
+   },
+   {
+    "value": "VENUE: LIGHTHOUSE DECK VENUE: SAILS BAR 6 PM TO 7 PM",
+    "source_url": "https://www.baros.com/wp-content/uploads/2026/09/BarosFestiveOffer.pdf",
+    "as_of": 2027
+   },
+   {
+    "value": "VENUE: PALM GARDEN 2 PM TO 4 PM VENUE: PALM GARDEN",
+    "source_url": "https://www.baros.com/wp-content/uploads/2026/09/BarosFestiveOffer.pdf",
+    "as_of": 2027
+   },
+   {
+    "value": "VENUE: PALM GARDEN 5:30 PM TO 6:30 PM VENUE: PALM GARDEN",
+    "source_url": "https://www.baros.com/wp-content/uploads/2026/09/BarosFestiveOffer.pdf",
+    "as_of": 2027
+   },
+   {
+    "value": "COMPLIMENTARY VENUE: PIANO DECK",
+    "source_url": "https://www.baros.com/wp-content/uploads/2026/09/BarosFestiveOffer.pdf",
+    "as_of": 2027
+   },
+   {
+    "value": "USD 22 PER DRINK USD 125 PER PERSON VENUE: PALM GARDEN",
+    "source_url": "https://www.baros.com/wp-content/uploads/2026/09/BarosFestiveOffer.pdf",
+    "as_of": 2027
+   },
+   {
+    "value": "VENUE: PALM GARDEN",
+    "source_url": "https://www.baros.com/wp-content/uploads/2026/09/BarosFestiveOffer.pdf",
+    "as_of": 2027
+   },
+   {
+    "value": "AFTERNOON (1 PM TO 5 PM) VENUE: PALM GARDEN",
+    "source_url": "https://www.baros.com/wp-content/uploads/2026/09/BarosFestiveOffer.pdf",
+    "as_of": 2027
+   },
+   {
+    "value": "VENUE: SERENITY SPA USD 135 PER PERSON 7 PM TO 10 PM | VENUE: BEACH",
+    "source_url": "https://www.baros.com/wp-content/uploads/2026/09/BarosFestiveOffer.pdf",
+    "as_of": 2027
+   },
+   {
+    "value": "AS FROM 9 AM 4 PM TO 5 PM VENUE: PALM GARDEN",
+    "source_url": "https://www.baros.com/wp-content/uploads/2026/09/BarosFestiveOffer.pdf",
+    "as_of": 2027
+   },
+   {
+    "value": "USD 72 PER PERSON VENUE: SAILS BAR VENUE: PALM GARDEN",
+    "source_url": "https://www.baros.com/wp-content/uploads/2026/09/BarosFestiveOffer.pdf",
+    "as_of": 2027
+   },
+   {
+    "value": "AS FROM 9 AM 4:30 PM TO 6:30 PM 7 PM TO 10 PM | VENUE: PALM GARDEN",
+    "source_url": "https://www.baros.com/wp-content/uploads/2026/09/BarosFestiveOffer.pdf",
+    "as_of": 2027
+   },
+   {
+    "value": "7:30 AM TO 10:30 AM VENUE: OVERWATER DECK VENUE: SAILS BAR",
+    "source_url": "https://www.baros.com/wp-content/uploads/2026/09/BarosFestiveOffer.pdf",
+    "as_of": 2027
+   },
+   {
+    "value": "THE ULTIMATE GUIDE TO A BEACH WEDDING IN MALDIVES",
+    "source_url": "https://www.baros.com/blogs/all-posts",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "THE ULTIMATE GUIDE TO A BEACH WEDDING IN MALDIVES",
+    "source_url": "https://www.baros.com/blogs/events",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "THE ULTIMATE GUIDE TO A BEACH WEDDING IN MALDIVES",
+    "source_url": "https://www.baros.com/blog/the-ultimate-guide-to-beach-wedding-in-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "2. Beach Ceremony",
+    "source_url": "https://www.baros.com/blog/the-ultimate-guide-to-beach-wedding-in-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Venue: The Palm Garden",
+    "source_url": "https://www.baros.com/blog/celebrate-an-entrancing-eid-at-baros-maldives-2",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Venue: The Palm Garden",
+    "source_url": "https://www.baros.com/blog/celebrate-an-entrancing-eid-at-baros-maldives-2",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Venue: Palm Garden",
+    "source_url": "https://www.baros.com/blog/celebrate-an-entrancing-eid-at-baros-maldives-2",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "THE ULTIMATE GUIDE TO A BEACH WEDDING IN MALDIVES",
+    "source_url": "https://www.baros.com/blogs/experience",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "island": [
+   {
+    "value": "Male",
+    "source_url": "https://www.baros.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Baros",
+    "source_url": "https://www.baros.com/blog/baros-the-ultimate-diving-destination",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Baros",
+    "source_url": "https://www.baros.com/blog/baros-treasure-hunt",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Baros",
+    "source_url": "https://www.baros.com/blogs/experience",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Baros",
+    "source_url": "https://www.maldivestourism.net/blog/festive-season-at-baros-maldives/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "meal_plans": [
+   {
+    "value": "HB",
+    "source_url": "https://www.baros.com/blog/an-unforgettable-honeymoon-at-baros-maldives",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "villas.total": [
+   {
+    "value": 75,
+    "source_url": "https://hummingbird.travel/property/baros-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 75,
+    "source_url": "https://www.mymaldives.com/resort-guide/baros-maldives/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "events_mice.venues": [
+   {
+    "value": "BALLROOM",
+    "source_url": "https://unihotel.org/kempinski-barbaros-bay-bodrum",
     "as_of": "2026-10-04"
    }
   ]
  },
- "last_updated": "2026-10-04"
+ "last_updated": "2026-10-05"
 }

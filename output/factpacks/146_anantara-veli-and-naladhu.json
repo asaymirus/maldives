@@ -8,13 +8,13 @@
   "Naladhu",
   "Veligandu Huraa"
  ],
- "official_url": null,
- "official_site_status": null,
+ "official_url": "https://www.naladhu.com/",
+ "official_site_status": "blocked-partial",
  "operator_brand": "Anantara",
- "atoll": "South Malé Atoll",
- "island": null,
+ "atoll": "South Male Atoll",
+ "island": "Naladhu",
  "opened_or_renovated": "opened 2008",
- "star_rating": null,
+ "star_rating": "5-star",
  "transfer": {
   "modes": [
    "seaplane",
@@ -32,14 +32,6 @@
  "villas": {
   "total": null,
   "categories": [
-   {
-    "name": "The Pavilion Pontoon to Dhigu",
-    "count": 2,
-    "size_sqm": null,
-    "max_occupancy": null,
-    "pool": null,
-    "overwater": null
-   },
    {
     "name": "Dive Centre Water Sports Superior Overwater Villa",
     "count": 5,
@@ -118,42 +110,7 @@
    "type": "bar"
   },
   {
-   "name": "Drinks and Light Dining",
-   "cuisine": null,
-   "type": "restaurant"
-  },
-  {
-   "name": "Seating capacity: 26, Lounge area 45",
-   "cuisine": null,
-   "type": "bar"
-  },
-  {
-   "name": "Dining by Design",
-   "cuisine": null,
-   "type": "restaurant"
-  },
-  {
-   "name": "Dining by Design is a signature Anantara experience",
-   "cuisine": null,
-   "type": "restaurant"
-  },
-  {
    "name": "Fushi Café",
-   "cuisine": null,
-   "type": "restaurant"
-  },
-  {
-   "name": "10 Lounge 24 Deluxe Overwater Pool Villa: 179 - 184 201 202",
-   "cuisine": null,
-   "type": "bar"
-  },
-  {
-   "name": "12 Dhoni Bar 27 Beach Pool Villa: 300 - 305",
-   "cuisine": null,
-   "type": "bar"
-  },
-  {
-   "name": "Dining",
    "cuisine": null,
    "type": "restaurant"
   },
@@ -161,11 +118,6 @@
    "name": "Aqua Bar",
    "cuisine": null,
    "type": "bar"
-  },
-  {
-   "name": "Designer Dining by Anantara",
-   "cuisine": null,
-   "type": "restaurant"
   },
   {
    "name": "Wine Cellar",
@@ -176,13 +128,13 @@
  "meal_plans": [],
  "all_inclusive_details": null,
  "spa": {
-  "name": "Anantara Spa",
+  "name": "Spa",
   "treatment_rooms": null,
   "signature_treatments": [],
   "menu_doc": null
  },
  "diving_watersports": {
-  "operator": "Aquafanatics",
+  "operator": "Dive Centre",
   "house_reef": "House Reef",
   "activities": [
    "snorkelling",
@@ -192,7 +144,16 @@
    "sailing",
    "snorkeling",
    "kayaking",
-   "paddleboard"
+   "paddleboard",
+   "windsurfing",
+   "fishing",
+   "scuba diving",
+   "stand-up paddle",
+   "catamaran",
+   "parasailing",
+   "water skiing",
+   "wakeboarding",
+   "sunset cruise"
   ],
   "price_list_doc": null
  },
@@ -202,7 +163,11 @@
   "manta",
   "turtle",
   "cooking class",
-  "picnic"
+  "local island",
+  "picnic",
+  "stargazing",
+  "private dinner",
+  "castaway"
  ],
  "kids_family": {
   "kids_club": null,
@@ -217,7 +182,8 @@
   "badminton",
   "hammam",
   "sauna",
-  "steam"
+  "steam",
+  "ayurveda"
  ],
  "weddings": {
   "offered": true,
@@ -234,11 +200,13 @@
   "buyout": null,
   "doc": null
  },
- "sustainability": [],
+ "sustainability": [
+  "marine biologist"
+ ],
  "contacts_public": {
-  "reservations_email": "info@neoscapesmaldives.com",
+  "reservations_email": "stay@naladhu.com",
   "weddings_email": null,
-  "phone": "+960 736 5425"
+  "phone": "+960 664 4100"
  },
  "documents_latest": {
   "factsheet": "https://www.neoscapesmaldives.com/wp-content/uploads/Anantara_Veli_Maldives_Factsheet_January_2023.pdf",
@@ -265,8 +233,28 @@
     "as_of": 2023
    },
    {
+    "value": "South Male Atoll",
+    "source_url": "https://www.naladhu.com/",
+    "as_of": "2026-10-04"
+   },
+   {
     "value": "South Malé Atoll",
     "source_url": "https://www.neoscapesmaldives.com/resort/anantara-veli-maldives-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "South Malé Atoll",
+    "source_url": "https://www.mymaldives.com/blog/naladhu/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "South Male Atoll",
+    "source_url": "https://www.maldivesholidayoffers.com/accomodation/resorts/anantara-veli/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Kaafu Atoll",
+    "source_url": "https://malediven.de/malediven-hotels/naladhu-maldives/",
     "as_of": "2026-10-04"
    }
   ],
@@ -295,12 +283,37 @@
    },
    {
     "value": "speedboat",
+    "source_url": "https://www.naladhu.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yacht",
+    "source_url": "https://www.naladhu.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
     "source_url": "https://www.neoscapesmaldives.com/resort/anantara-veli-maldives-resort/",
     "as_of": "2026-10-04"
    },
    {
     "value": "yacht",
     "source_url": "https://www.neoscapesmaldives.com/resort/anantara-veli-maldives-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.mymaldives.com/blog/naladhu/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.maldivesholidayoffers.com/accomodation/resorts/anantara-veli/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yacht",
+    "source_url": "https://www.maldivesholidayoffers.com/accomodation/resorts/anantara-veli/",
     "as_of": "2026-10-04"
    }
   ],
@@ -312,7 +325,17 @@
    },
    {
     "value": 30,
+    "source_url": "https://www.naladhu.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 30,
     "source_url": "https://www.neoscapesmaldives.com/resort/anantara-veli-maldives-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 40,
+    "source_url": "https://www.maldivesholidayoffers.com/accomodation/resorts/anantara-veli/",
     "as_of": "2026-10-04"
    }
   ],
@@ -337,42 +360,6 @@
    },
    {
     "value": {
-     "name": "Drinks and Light Dining",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Anantara_Veli_Maldives_Factsheet_January_2023.pdf",
-    "as_of": 2023
-   },
-   {
-    "value": {
-     "name": "Seating capacity: 26, Lounge area 45",
-     "cuisine": null,
-     "type": "bar"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Anantara_Veli_Maldives_Factsheet_January_2023.pdf",
-    "as_of": 2023
-   },
-   {
-    "value": {
-     "name": "Dining by Design",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Anantara_Veli_Maldives_Factsheet_January_2023.pdf",
-    "as_of": 2023
-   },
-   {
-    "value": {
-     "name": "Dining by Design is a signature Anantara experience",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Anantara_Veli_Maldives_Factsheet_January_2023.pdf",
-    "as_of": 2023
-   },
-   {
-    "value": {
      "name": "Fushi Café",
      "cuisine": null,
      "type": "restaurant"
@@ -382,38 +369,11 @@
    },
    {
     "value": {
-     "name": "10 Lounge 24 Deluxe Overwater Pool Villa: 179 - 184 201 202",
-     "cuisine": null,
-     "type": "bar"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Anantara_Veli_Maldives_Siteplan_January_2023.pdf",
-    "as_of": 2023
-   },
-   {
-    "value": {
-     "name": "12 Dhoni Bar 27 Beach Pool Villa: 300 - 305",
-     "cuisine": null,
-     "type": "bar"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Anantara_Veli_Maldives_Siteplan_January_2023.pdf",
-    "as_of": 2023
-   },
-   {
-    "value": {
-     "name": "Dining",
+     "name": "Fushi Cafe",
      "cuisine": null,
      "type": "restaurant"
     },
-    "source_url": "https://www.neoscapesmaldives.com/resort/anantara-veli-maldives-resort/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Dining",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/anantara-veli-maldives-resort/",
+    "source_url": "https://www.naladhu.com/",
     "as_of": "2026-10-04"
    },
    {
@@ -445,15 +405,6 @@
    },
    {
     "value": {
-     "name": "Designer Dining by Anantara",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/anantara-veli-maldives-resort/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
      "name": "Wine Cellar",
      "cuisine": null,
      "type": "bar"
@@ -469,8 +420,23 @@
     "as_of": 2023
    },
    {
+    "value": "Spa",
+    "source_url": "https://www.naladhu.com/",
+    "as_of": "2026-10-04"
+   },
+   {
     "value": "Anantara Spa",
     "source_url": "https://www.neoscapesmaldives.com/resort/anantara-veli-maldives-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Balance Wellness Spa",
+    "source_url": "https://www.maldivesholidayoffers.com/accomodation/resorts/anantara-veli/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://malediven.de/malediven-hotels/naladhu-maldives/",
     "as_of": "2026-10-04"
    }
   ],
@@ -484,6 +450,16 @@
     "value": "Dive Centre",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Anantara_Veli_Maldives_Siteplan_January_2023.pdf",
     "as_of": 2023
+   },
+   {
+    "value": "Dive Centre",
+    "source_url": "https://www.mymaldives.com/blog/naladhu/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Aquafanatics",
+    "source_url": "https://www.maldivesholidayoffers.com/accomodation/resorts/anantara-veli/",
+    "as_of": "2026-10-04"
    }
   ],
   "diving_watersports.activities": [
@@ -511,6 +487,21 @@
     "value": "sailing",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Anantara_Veli_Maldives_Factsheet_January_2023.pdf",
     "as_of": 2023
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.naladhu.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "surfing",
+    "source_url": "https://www.naladhu.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sailing",
+    "source_url": "https://www.naladhu.com/",
+    "as_of": "2026-10-04"
    },
    {
     "value": "snorkeling",
@@ -541,6 +532,91 @@
     "value": "manta",
     "source_url": "https://www.neoscapesmaldives.com/resort/anantara-veli-maldives-resort/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.mymaldives.com/blog/naladhu/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "windsurfing",
+    "source_url": "https://www.mymaldives.com/blog/naladhu/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "kayaking",
+    "source_url": "https://www.mymaldives.com/blog/naladhu/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.mymaldives.com/blog/naladhu/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sailing",
+    "source_url": "https://www.mymaldives.com/blog/naladhu/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.maldivesholidayoffers.com/accomodation/resorts/anantara-veli/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.maldivesholidayoffers.com/accomodation/resorts/anantara-veli/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://www.maldivesholidayoffers.com/accomodation/resorts/anantara-veli/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "surfing",
+    "source_url": "https://www.maldivesholidayoffers.com/accomodation/resorts/anantara-veli/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "stand-up paddle",
+    "source_url": "https://www.maldivesholidayoffers.com/accomodation/resorts/anantara-veli/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "paddleboard",
+    "source_url": "https://www.maldivesholidayoffers.com/accomodation/resorts/anantara-veli/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "catamaran",
+    "source_url": "https://www.maldivesholidayoffers.com/accomodation/resorts/anantara-veli/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "parasailing",
+    "source_url": "https://www.maldivesholidayoffers.com/accomodation/resorts/anantara-veli/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "water skiing",
+    "source_url": "https://www.maldivesholidayoffers.com/accomodation/resorts/anantara-veli/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "wakeboarding",
+    "source_url": "https://www.maldivesholidayoffers.com/accomodation/resorts/anantara-veli/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.maldivesholidayoffers.com/accomodation/resorts/anantara-veli/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sailing",
+    "source_url": "https://www.maldivesholidayoffers.com/accomodation/resorts/anantara-veli/",
+    "as_of": "2026-10-04"
    }
   ],
   "excursions": [
@@ -570,6 +646,26 @@
     "as_of": 2023
    },
    {
+    "value": "local island",
+    "source_url": "https://www.naladhu.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.naladhu.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.naladhu.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "cooking class",
+    "source_url": "https://www.naladhu.com/",
+    "as_of": "2026-10-04"
+   },
+   {
     "value": "dolphin",
     "source_url": "https://www.neoscapesmaldives.com/resort/anantara-veli-maldives-resort/",
     "as_of": "2026-10-04"
@@ -592,6 +688,36 @@
    {
     "value": "picnic",
     "source_url": "https://www.neoscapesmaldives.com/resort/anantara-veli-maldives-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "picnic",
+    "source_url": "https://www.mymaldives.com/blog/naladhu/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "stargazing",
+    "source_url": "https://www.mymaldives.com/blog/naladhu/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.maldivesholidayoffers.com/accomodation/resorts/anantara-veli/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "picnic",
+    "source_url": "https://www.maldivesholidayoffers.com/accomodation/resorts/anantara-veli/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "private dinner",
+    "source_url": "https://www.maldivesholidayoffers.com/accomodation/resorts/anantara-veli/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "castaway",
+    "source_url": "https://www.maldivesholidayoffers.com/accomodation/resorts/anantara-veli/",
     "as_of": "2026-10-04"
    }
   ],
@@ -648,6 +774,21 @@
    },
    {
     "value": "yoga",
+    "source_url": "https://www.naladhu.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "meditation",
+    "source_url": "https://www.naladhu.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://www.naladhu.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
     "source_url": "https://www.neoscapesmaldives.com/resort/anantara-veli-maldives-resort/",
     "as_of": "2026-10-04"
    },
@@ -669,6 +810,61 @@
    {
     "value": "hammam",
     "source_url": "https://www.neoscapesmaldives.com/resort/anantara-veli-maldives-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.mymaldives.com/blog/naladhu/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "meditation",
+    "source_url": "https://www.mymaldives.com/blog/naladhu/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fitness centre",
+    "source_url": "https://www.mymaldives.com/blog/naladhu/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "steam",
+    "source_url": "https://www.mymaldives.com/blog/naladhu/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.maldivesholidayoffers.com/accomodation/resorts/anantara-veli/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "meditation",
+    "source_url": "https://www.maldivesholidayoffers.com/accomodation/resorts/anantara-veli/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "badminton",
+    "source_url": "https://www.maldivesholidayoffers.com/accomodation/resorts/anantara-veli/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "ayurveda",
+    "source_url": "https://www.maldivesholidayoffers.com/accomodation/resorts/anantara-veli/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "hammam",
+    "source_url": "https://www.maldivesholidayoffers.com/accomodation/resorts/anantara-veli/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sauna",
+    "source_url": "https://www.maldivesholidayoffers.com/accomodation/resorts/anantara-veli/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "steam",
+    "source_url": "https://www.maldivesholidayoffers.com/accomodation/resorts/anantara-veli/",
     "as_of": "2026-10-04"
    }
   ],
@@ -698,6 +894,11 @@
     "as_of": 2023
    },
    {
+    "value": "stay@naladhu.com",
+    "source_url": "https://www.naladhu.com/",
+    "as_of": "2026-10-04"
+   },
+   {
     "value": "info@neoscapesmaldives.com",
     "source_url": "https://www.neoscapesmaldives.com/resort/anantara-veli-maldives-resort/",
     "as_of": "2026-10-04"
@@ -710,24 +911,22 @@
     "as_of": 2023
    },
    {
+    "value": "+960 664 4100",
+    "source_url": "https://www.naladhu.com/",
+    "as_of": "2026-10-04"
+   },
+   {
     "value": "+960 736 5425",
     "source_url": "https://www.neoscapesmaldives.com/resort/anantara-veli-maldives-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 7773 699",
+    "source_url": "https://www.maldivesholidayoffers.com/accomodation/resorts/anantara-veli/",
     "as_of": "2026-10-04"
    }
   ],
   "villas.categories": [
-   {
-    "value": {
-     "name": "The Pavilion Pontoon to Dhigu",
-     "count": 2,
-     "size_sqm": null,
-     "max_occupancy": null,
-     "pool": null,
-     "overwater": null
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Anantara_Veli_Maldives_Siteplan_January_2023.pdf",
-    "as_of": 2023
-   },
    {
     "value": {
      "name": "Dive Centre Water Sports Superior Overwater Villa",
@@ -825,16 +1024,33 @@
     "as_of": "2026-10-04"
    }
   ],
-  "island_size": [
+  "island": [
    {
-    "value": "220 m x 200 m",
-    "source_url": "https://www.neoscapesmaldives.com/resort/anantara-veli-maldives-resort/",
+    "value": "Naladhu",
+    "source_url": "https://www.naladhu.com/",
     "as_of": "2026-10-04"
    }
   ],
   "diving_watersports.house_reef": [
    {
     "value": "House Reef",
+    "source_url": "https://www.naladhu.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "House Reef",
+    "source_url": "https://www.neoscapesmaldives.com/resort/anantara-veli-maldives-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef",
+    "source_url": "https://www.maldivesholidayoffers.com/accomodation/resorts/anantara-veli/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "island_size": [
+   {
+    "value": "220 m x 200 m",
     "source_url": "https://www.neoscapesmaldives.com/resort/anantara-veli-maldives-resort/",
     "as_of": "2026-10-04"
    }
@@ -845,7 +1061,21 @@
     "source_url": "https://www.neoscapesmaldives.com/resort/anantara-veli-maldives-resort/",
     "as_of": "2026-10-04"
    }
+  ],
+  "star_rating": [
+   {
+    "value": "5-star",
+    "source_url": "https://www.maldivesholidayoffers.com/accomodation/resorts/anantara-veli/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "sustainability": [
+   {
+    "value": "marine biologist",
+    "source_url": "https://www.maldivesholidayoffers.com/accomodation/resorts/anantara-veli/",
+    "as_of": "2026-10-04"
+   }
   ]
  },
- "last_updated": "2026-10-04"
+ "last_updated": "2026-10-05"
 }

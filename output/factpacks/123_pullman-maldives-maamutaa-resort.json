@@ -7,51 +7,104 @@
   "Pullman Maamutaa",
   "Maamutaa"
  ],
- "official_url": null,
- "official_site_status": null,
+ "official_url": "https://www.pullmanmaldivesmaamutaa.com/",
+ "official_site_status": "blocked-partial",
  "operator_brand": "Pullman",
- "atoll": null,
+ "atoll": "Gaafu Alifu Atoll",
  "island": null,
  "opened_or_renovated": null,
- "star_rating": null,
+ "star_rating": "5-star",
  "transfer": {
-  "modes": [],
+  "modes": [
+   "speedboat"
+  ],
   "minutes": {
    "seaplane": null,
-   "speedboat": null,
+   "speedboat": 15,
    "domestic flight": null,
    "yacht": null
   }
  },
- "island_size": null,
+ "island_size": "18 ha",
  "villas": {
-  "total": null,
+  "total": 122,
   "categories": []
  },
- "dining": [],
- "meal_plans": [],
- "all_inclusive_details": null,
+ "dining": [
+  {
+   "name": "Lounge with balcony",
+   "cuisine": null,
+   "type": "bar"
+  },
+  {
+   "name": "Bar / Lounge",
+   "cuisine": null,
+   "type": "bar"
+  },
+  {
+   "name": "Lounge in balcony",
+   "cuisine": null,
+   "type": "bar"
+  }
+ ],
+ "meal_plans": [
+  "AI"
+ ],
+ "all_inclusive_details": "all-inclusive haven where luxury meets limitless possibilities.",
  "spa": {
-  "name": null,
+  "name": "Spa",
   "treatment_rooms": null,
   "signature_treatments": [],
   "menu_doc": null
  },
  "diving_watersports": {
-  "operator": null,
-  "house_reef": null,
-  "activities": [],
+  "operator": "Dive Centre",
+  "house_reef": "house reef, which is constantly rated as one of the best snorkeling/diving spots in the Maldives",
+  "activities": [
+   "snorkeling",
+   "jet ski",
+   "sunset cruise",
+   "snorkelling",
+   "dolphin cruise",
+   "paddleboard",
+   "catamaran",
+   "fishing",
+   "whale shark",
+   "sailing",
+   "flyboard",
+   "scuba diving",
+   "fun tube",
+   "kayaking"
+  ],
   "price_list_doc": null
  },
- "excursions": [],
+ "excursions": [
+  "local island",
+  "dolphin",
+  "turtle",
+  "sunset fishing",
+  "whale shark",
+  "picnic",
+  "private dinner",
+  "cinema"
+ ],
  "kids_family": {
   "kids_club": null,
   "age_range": null,
-  "teens": null
+  "teens": "teens programme mentioned"
  },
- "wellness_fitness": [],
+ "wellness_fitness": [
+  "yoga",
+  "gym",
+  "steam",
+  "meditation",
+  "tennis",
+  "badminton",
+  "beach volleyball",
+  "pilates"
+ ],
  "weddings": {
-  "offered": null,
+  "offered": true,
   "vow_renewal": null,
   "venues": [],
   "packages": [],
@@ -63,14 +116,19 @@
   "buyout": null,
   "doc": null
  },
- "sustainability": [],
+ "sustainability": [
+  "solar",
+  "Green Globe",
+  "marine biologist",
+  "organic garden"
+ ],
  "contacts_public": {
   "reservations_email": null,
   "weddings_email": null,
-  "phone": null
+  "phone": "+960 6820909"
  },
  "documents_latest": {
-  "factsheet": null,
+  "factsheet": "https://d2e5ushqwiltxm.cloudfront.net/wp-content/uploads/sites/209/2020/06/23204710/Pullman-Maldives_Aqua-Villa-Factsheet_June-2020.pdf",
   "map": null,
   "wedding": null,
   "spa_menu": null,
@@ -79,23 +137,1048 @@
   "events": null,
   "calendar": null
  },
- "documents_count": 0,
+ "documents_count": 5,
  "gaps": [
-  "factsheet",
   "wedding brochure",
   "events/MICE document",
-  "fact: villas.total",
   "fact: villa categories",
-  "fact: dining",
-  "fact: transfer",
-  "fact: atoll",
-  "fact: spa",
-  "fact: dive operator",
   "fact: kids club",
-  "fact: weddings",
-  "fact: contacts",
-  "no documents or pages collected"
+  "fact: contacts"
  ],
- "sources": {},
- "last_updated": "2026-10-04"
+ "sources": {
+  "dining": [
+   {
+    "value": {
+     "name": "Lounge with balcony",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://d2e5ushqwiltxm.cloudfront.net/wp-content/uploads/sites/209/2020/06/23204710/Pullman-Maldives_Aqua-Villa-Factsheet_June-2020.pdf",
+    "as_of": 2020
+   },
+   {
+    "value": {
+     "name": "Bar / Lounge",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/restaurants-bars-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Bar / Lounge",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/restaurants-bars-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Bar / Lounge",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/restaurants-bars-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Lounge in balcony",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/villas-suites/underwater-bedroom-maldives/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "diving_watersports.house_reef": [
+   {
+    "value": "house reef, which is constantly rated as one of the best snorkeling/diving spots in the Maldives",
+    "source_url": "https://d2e5ushqwiltxm.cloudfront.net/wp-content/uploads/sites/209/2022/12/23124117/Pullman-Maldives-SMP.pdf",
+    "as_of": 2022
+   }
+  ],
+  "diving_watersports.activities": [
+   {
+    "value": "snorkeling",
+    "source_url": "https://d2e5ushqwiltxm.cloudfront.net/wp-content/uploads/sites/209/2022/12/23124117/Pullman-Maldives-SMP.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "jet ski",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/villas-suites/luxury-royal-suite-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/expriences/excursions/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/expriences/excursions/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin cruise",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/expriences/excursions/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "paddleboard",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "catamaran",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sailing",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "flyboard",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/zh-hans/villas-suites/luxury-royal-suite-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/womens-day-offer-2024/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/the-hotel/the-most-generous-all-inclusive-resort-in-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/the-hotel/the-most-generous-all-inclusive-resort-in-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/the-hotel/the-most-generous-all-inclusive-resort-in-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/the-hotel/the-most-generous-all-inclusive-resort-in-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/zh-hans/restaurants-bars-maldives/vegan-restaurant-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fun tube",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/blognews/festive-2023/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/diving-center-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "kayaking",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/diving-center-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/the-hotel/family-resort-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/the-hotel/family-resort-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/restaurants-bars-maldives/vegan-restaurant-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "paddleboard",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/news/fitness-bootcamp-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/media-tag/diving/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "excursions": [
+   {
+    "value": "local island",
+    "source_url": "https://d2e5ushqwiltxm.cloudfront.net/wp-content/uploads/sites/209/2022/12/23124117/Pullman-Maldives-SMP.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/expriences/excursions/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/expriences/excursions/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset fishing",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "picnic",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/restaurants-bars-maldives/destination-dining/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "private dinner",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/restaurants-bars-maldives/destination-dining/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset fishing",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/the-hotel/the-most-generous-all-inclusive-resort-in-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "cinema",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/blognews/festive-2023/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/the-hotel/family-resort-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/the-hotel/family-resort-maldives/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "sustainability": [
+   {
+    "value": "solar",
+    "source_url": "https://d2e5ushqwiltxm.cloudfront.net/wp-content/uploads/sites/209/2022/12/23124117/Pullman-Maldives-SMP.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": "Green Globe",
+    "source_url": "https://d2e5ushqwiltxm.cloudfront.net/wp-content/uploads/sites/209/2022/12/23124117/Pullman-Maldives-SMP.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": "Green Globe",
+    "source_url": "https://d2e5ushqwiltxm.cloudfront.net/wp-content/uploads/sites/209/2025/09/16092302/Pullman-Maldives-Maamutaa_GreenGlobeCertified_2025-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "marine biologist",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "marine biologist",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/marine-biologist-blog/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "marine biologist",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/the-hotel/family-resort-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "marine biologist",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/marine-biologist-blog/5-tips-to-be-an-ecotourist/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "solar",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/marine-biologist-blog/5-tips-to-be-an-ecotourist/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "organic garden",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/news/fitness-bootcamp-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "marine biologist",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/marine-biologist-new/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "atoll": [
+   {
+    "value": "Gaafu Alifu Atoll",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Gaafu Alifu Atoll",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/virtual-tour/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Gaafu Alifu Atoll",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/media-tag/alloaua-gaham/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Gaafu Alifu Atoll",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/expriences/excursions/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Gaafu Alifu Atoll",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/custom-links/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Gaafu Alifu Atoll",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Gaafu Alifu Atoll",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/zh-hans/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Gaafu Alifu Atoll",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/restaurants-bars-maldives/melange-restaurant/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Gaafu Alifu Atoll",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/legal-notice/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Gaafu Alifu Atoll",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/overwater-spa-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Gaafu Alifu Atoll",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/places/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Gaafu Alifu Atoll",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/restaurants-bars-maldives/destination-dining/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Gaafu Alifu Atoll",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/womens-day-offer-2024/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Gaafu Alifu Atoll",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/media-tag/skydive/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Gaafu Alifu Atoll",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/the-hotel/the-most-generous-all-inclusive-resort-in-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Gaafu Alifu Atoll",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/cookie-policy/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Gaafu Alifu Atoll",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/zh-hans/sitemap/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Gaafu Alifu Atoll",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/zh-hans/restaurants-bars-maldives/vegan-restaurant-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Gaafu Alifu Atoll",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/zh-hans/restaurants-bars-maldives/saffron-affair/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Gaafu Alifu Atoll",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/zh-hans/restaurants-bars-maldives/the-hub/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Gaafu Alifu Atoll",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/diving-center-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Gaafu Alifu Atoll",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/the-hotel/family-resort-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Gaafu Alifu Atoll",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/restaurants-bars-maldives/sol-rising/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Gaafu Alifu Atoll",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/zh-hans/restaurants-bars-maldives/melange/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Gaafu Alifu Atoll",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/restaurants-bars-maldives/vegan-restaurant-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Gaafu Alifu Atoll",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/know-more-about-pullman-maldives-maamutaa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Gaafu Alifu Atoll",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/media-tag/diving/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Gaafu Alifu Atoll",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/media-tag/majah-resuello/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Gaafu Alifu Atoll",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/restaurants-bars-maldives/saffron-affair/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "star_rating": [
+   {
+    "value": "5-star",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "5-star",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "5-star",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/news/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "5-star",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/diving-center-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "5-star",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/blognews/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "5-star",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/the-hotel/family-resort-maldives/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "island_size": [
+   {
+    "value": "18 ha",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "18 ha",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/the-hotel/the-most-generous-all-inclusive-resort-in-the-maldives/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "meal_plans": [
+   {
+    "value": "AI",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/offers/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/zh-hans/events/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/villas-suites/luxury-royal-suite-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/zh-hans/villas-suites/luxury-royal-suite-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/offers/romantic-escapes/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/womens-day-offer-2024/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/news/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/the-hotel/the-most-generous-all-inclusive-resort-in-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/special-offers-2/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/zh-hans/special-offers/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/zh-hans/restaurants-bars-maldives/vegan-restaurant-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/special-offers/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/zh-hans/restaurants-bars-maldives/saffron-affair/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/events/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/restaurants-bars-maldives/vegan-restaurant-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/news/fitness-bootcamp-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/restaurants-bars-maldives/saffron-affair/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://mondomaldive.it/it/villaggio/pullman-maldives-maamutaa-resort/racconti",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "all_inclusive_details": [
+   {
+    "value": "all-inclusive haven where luxury meets limitless possibilities.",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "all-inclusive benefits.",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/zh-hans/events/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "all-inclusive experience, featuring exquisite dining options and refreshing beverages to savor throughout your stay.",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/offers/romantic-escapes/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "all-inclusive 5-star resort in the Maldives.",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/news/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "all-inclusive resort in the Maldives.",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/the-hotel/the-most-generous-all-inclusive-resort-in-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "all-inclusive menu showcasing imaginative cocktail creations, premium liqueurs, and spirits.",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/zh-hans/restaurants-bars-maldives/saffron-affair/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "all-inclusive benefits.",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/events/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "All-Inclusive guests may select any three dishes from the menu under All-Inclusive plan from 11h00 to 14h00.",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/zh-hans/restaurants-bars-maldives/the-hub/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "all inclusive benefits.",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/news/fitness-bootcamp-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "all-inclusive menu showcasing imaginative cocktail creations, premium liqueurs, and spirits.",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/restaurants-bars-maldives/saffron-affair/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "all inclusive è Senza dubbio molto buono e tutto il personale è cordiale e disponibile,ma ci sono tante criticità su cui non posso sorvolare.",
+    "source_url": "https://mondomaldive.it/it/villaggio/pullman-maldives-maamutaa-resort/racconti",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "diving_watersports.operator": [
+   {
+    "value": "Dive Centre",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Dive Centre",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/diving-center-maldives/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "contacts_public.phone": [
+   {
+    "value": "+960 6820909",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 6820909",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/virtual-tour/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 6820909",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/media-tag/alloaua-gaham/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 6820909",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/custom-links/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 6820909",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/zh-hans/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 6820909",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/restaurants-bars-maldives/melange-restaurant/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 6820909",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/legal-notice/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 6820909",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/overwater-spa-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 6820909",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/places/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 6820909",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/restaurants-bars-maldives/destination-dining/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 6820909",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/womens-day-offer-2024/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 6820909",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/media-tag/skydive/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 6820909",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/the-hotel/the-most-generous-all-inclusive-resort-in-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 6820909",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/cookie-policy/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 6820909",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/zh-hans/sitemap/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 6820909",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/zh-hans/restaurants-bars-maldives/vegan-restaurant-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 6820909",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/zh-hans/restaurants-bars-maldives/saffron-affair/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 6820909",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/zh-hans/restaurants-bars-maldives/the-hub/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 6820909",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/the-hotel/family-resort-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 6820909",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/restaurants-bars-maldives/sol-rising/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 6820909",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/zh-hans/restaurants-bars-maldives/melange/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 6820909",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/restaurants-bars-maldives/vegan-restaurant-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 6820909",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/know-more-about-pullman-maldives-maamutaa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 6820909",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/media-tag/diving/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 6820909",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/media-tag/majah-resuello/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 6820909",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/restaurants-bars-maldives/saffron-affair/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "weddings.offered": [
+   {
+    "value": true,
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/offers/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/restaurants-bars-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/offers/romantic-escapes/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/special-offers-2/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/special-offers/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "spa.name": [
+   {
+    "value": "Spa",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/villas-suites/luxury-royal-suite-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/zh-hans/villas-suites/luxury-royal-suite-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Pullman\nSpa",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/zh-hans/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa\nSpa",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/overwater-spa-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "The Pullman Spa",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/the-hotel/the-most-generous-all-inclusive-resort-in-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Adventures\nOFFERS\nPullman Spa",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/zh-hans/sitemap/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Pullman Spa",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/the-hotel/family-resort-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Pullman Spa",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/news/fitness-bootcamp-maldives/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "wellness_fitness": [
+   {
+    "value": "yoga",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/villas-suites/luxury-royal-suite-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "gym",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/villas-suites/luxury-royal-suite-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "steam",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/villas-suites/luxury-royal-suite-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/zh-hans/villas-suites/luxury-royal-suite-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "gym",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/zh-hans/villas-suites/luxury-royal-suite-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "steam",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/zh-hans/villas-suites/luxury-royal-suite-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/womens-day-offer-2024/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/the-hotel/the-most-generous-all-inclusive-resort-in-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "meditation",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/the-hotel/the-most-generous-all-inclusive-resort-in-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "gym",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/the-hotel/the-most-generous-all-inclusive-resort-in-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/the-hotel/the-most-generous-all-inclusive-resort-in-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "badminton",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/the-hotel/the-most-generous-all-inclusive-resort-in-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "beach volleyball",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/the-hotel/the-most-generous-all-inclusive-resort-in-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/blognews/festive-2023/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "pilates",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/blognews/festive-2023/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/the-hotel/family-resort-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/the-hotel/family-resort-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "beach volleyball",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/the-hotel/family-resort-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/villas-suites/underwater-bedroom-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/fitness-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/fitness-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/news/fitness-bootcamp-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "meditation",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/news/fitness-bootcamp-maldives/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "transfer.modes": [
+   {
+    "value": "speedboat",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/the-hotel/the-most-generous-all-inclusive-resort-in-the-maldives/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "transfer.minutes.speedboat": [
+   {
+    "value": 15,
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/the-hotel/the-most-generous-all-inclusive-resort-in-the-maldives/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "villas.total": [
+   {
+    "value": 122,
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/the-hotel/the-most-generous-all-inclusive-resort-in-the-maldives/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "kids_family.teens": [
+   {
+    "value": "teens programme mentioned",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/the-hotel/the-most-generous-all-inclusive-resort-in-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "teens programme mentioned",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/the-hotel/family-resort-maldives/",
+    "as_of": "2026-10-04"
+   }
+  ]
+ },
+ "last_updated": "2026-10-05"
 }

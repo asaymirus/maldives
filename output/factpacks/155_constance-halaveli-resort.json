@@ -7,8 +7,8 @@
   "Halaveli",
   "CHRG"
  ],
- "official_url": null,
- "official_site_status": null,
+ "official_url": "https://www.constancehotels.com/en/hotels-resorts/maldives/halaveli/",
+ "official_site_status": "blocked",
  "operator_brand": "Constance",
  "atoll": "Ari Atoll",
  "island": null,
@@ -63,14 +63,6 @@
     "overwater": null
    },
    {
-    "name": "Number of Villas",
-    "count": 86,
-    "size_sqm": null,
-    "max_occupancy": null,
-    "pool": null,
-    "overwater": null
-   },
-   {
     "name": "Each Water Villa measuring , For a",
     "count": null,
     "size_sqm": 100,
@@ -105,6 +97,30 @@
    {
     "name": "halaveli maldives water villa bedroom",
     "count": 2,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "Water Villas",
+    "count": 57,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "Beach Villas",
+    "count": 20,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "Double Storey Beach Villas",
+    "count": 8,
     "size_sqm": null,
     "max_occupancy": null,
     "pool": null,
@@ -149,25 +165,27 @@
    "type": "bar"
   },
   {
-   "name": "Dining",
+   "name": "Welcome Lounge",
+   "cuisine": null,
+   "type": "bar"
+  },
+  {
+   "name": "{{Restaurant.Description}}",
    "cuisine": null,
    "type": "restaurant"
   },
   {
-   "name": "Courtesy Lounge",
+   "name": "Restaurant Type",
    "cuisine": null,
-   "type": "bar"
-  },
-  {
-   "name": "Welcome Lounge",
-   "cuisine": null,
-   "type": "bar"
+   "type": "restaurant"
   }
  ],
- "meal_plans": [],
- "all_inclusive_details": null,
+ "meal_plans": [
+  "AI"
+ ],
+ "all_inclusive_details": "All-inclusive rates are available at this resort.",
  "spa": {
-  "name": "Spa",
+  "name": "Constance Spa",
   "treatment_rooms": null,
   "signature_treatments": [],
   "menu_doc": null
@@ -188,14 +206,17 @@
    "banana boat",
    "fun tube",
    "canoe",
-   "scuba diving"
+   "snorkelling",
+   "scuba diving",
+   "kayaking"
   ],
   "price_list_doc": null
  },
  "excursions": [
   "dolphin",
   "big game fishing",
-  "whale shark"
+  "whale shark",
+  "stargazing"
  ],
  "kids_family": {
   "kids_club": "Kids Club",
@@ -221,7 +242,7 @@
   "venues": [],
   "capacity_max": null,
   "buyout": null,
-  "doc": null
+  "doc": "https://maldives.ru/doc/static/Constance-Hotels-Resorts-Corporate-Brochure-En_removed%20(1).pdf"
  },
  "sustainability": [],
  "contacts_public": {
@@ -231,18 +252,17 @@
  },
  "documents_latest": {
   "factsheet": "https://www.neoscapesmaldives.com/wp-content/uploads/halaveli-factsheet-en-24april2023.pdf",
-  "map": "https://www.neoscapesmaldives.com/wp-content/uploads/constance-halaveli-location-map.pdf",
+  "map": "https://maldives.ru/doc/2024-Halaveli-Map-BV2B-SALES.pdf",
   "wedding": null,
   "spa_menu": null,
   "dining_menu": null,
   "dive_prices": null,
-  "events": null,
+  "events": "https://maldives.ru/doc/static/Constance-Hotels-Resorts-Corporate-Brochure-En_removed%20(1).pdf",
   "calendar": null
  },
- "documents_count": 2,
+ "documents_count": 4,
  "gaps": [
-  "wedding brochure",
-  "events/MICE document"
+  "wedding brochure"
  ],
  "sources": {
   "atoll": [
@@ -253,7 +273,17 @@
    },
    {
     "value": "Ari Atoll",
+    "source_url": "https://maldives.ru/doc/static/Constance-Hotels-Resorts-Corporate-Brochure-En_removed%20(1).pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "Ari Atoll",
     "source_url": "https://www.neoscapesmaldives.com/resort/constance-halaveli-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Ari Atoll",
+    "source_url": "https://www.maldivestourism.net/resorts/constance-halaveli-resort-maldives/",
     "as_of": "2026-10-04"
    }
   ],
@@ -262,6 +292,11 @@
     "value": "5-star",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/halaveli-factsheet-en-24april2023.pdf",
     "as_of": 2023
+   },
+   {
+    "value": "5-star",
+    "source_url": "https://www.dnatatravel.com/2-2044767-1/constance-halaveli-resort?oc=true",
+    "as_of": "2026-10-04"
    }
   ],
   "transfer.modes": [
@@ -277,7 +312,27 @@
    },
    {
     "value": "seaplane",
+    "source_url": "https://maldives.ru/doc/static/Constance-Hotels-Resorts-Corporate-Brochure-En_removed%20(1).pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "seaplane",
     "source_url": "https://www.neoscapesmaldives.com/resort/constance-halaveli-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.maldivestourism.net/resorts/constance-halaveli-resort-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.dnatatravel.com/2-2044767-1/constance-halaveli-resort?oc=true",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.dnatatravel.com/2-2044767-1/constance-halaveli-resort?oc=true",
     "as_of": "2026-10-04"
    }
   ],
@@ -291,6 +346,16 @@
     "value": 35,
     "source_url": "https://www.neoscapesmaldives.com/resort/constance-halaveli-maldives/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": 20,
+    "source_url": "https://www.maldivestourism.net/resorts/constance-halaveli-resort-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 25,
+    "source_url": "https://www.dnatatravel.com/2-2044767-1/constance-halaveli-resort?oc=true",
+    "as_of": "2026-10-04"
    }
   ],
   "transfer.minutes.speedboat": [
@@ -298,6 +363,11 @@
     "value": 30,
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/halaveli-factsheet-en-24april2023.pdf",
     "as_of": 2023
+   },
+   {
+    "value": 30,
+    "source_url": "https://www.dnatatravel.com/2-2044767-1/constance-halaveli-resort?oc=true",
+    "as_of": "2026-10-04"
    }
   ],
   "villas.total": [
@@ -355,18 +425,6 @@
     },
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/halaveli-factsheet-en-24april2023.pdf",
     "as_of": 2023
-   },
-   {
-    "value": {
-     "name": "Number of Villas",
-     "count": 86,
-     "size_sqm": null,
-     "max_occupancy": null,
-     "pool": null,
-     "overwater": null
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/constance-halaveli-maldives/",
-    "as_of": "2026-10-04"
    },
    {
     "value": {
@@ -463,6 +521,42 @@
     },
     "source_url": "https://www.neoscapesmaldives.com/resort/constance-halaveli-maldives/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Water Villas",
+     "count": 57,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://www.maldivestourism.net/resorts/constance-halaveli-resort-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Beach Villas",
+     "count": 20,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://www.maldivestourism.net/resorts/constance-halaveli-resort-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Double Storey Beach Villas",
+     "count": 8,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://www.maldivestourism.net/resorts/constance-halaveli-resort-maldives/",
+    "as_of": "2026-10-04"
    }
   ],
   "dining": [
@@ -540,24 +634,6 @@
    },
    {
     "value": {
-     "name": "Dining",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/constance-halaveli-maldives/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Dining",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/constance-halaveli-maldives/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
      "name": "Jahaz Restaurant",
      "cuisine": null,
      "type": "restaurant"
@@ -612,7 +688,7 @@
    },
    {
     "value": {
-     "name": "Courtesy Lounge",
+     "name": "Welcome Lounge",
      "cuisine": null,
      "type": "bar"
     },
@@ -621,11 +697,20 @@
    },
    {
     "value": {
-     "name": "Welcome Lounge",
+     "name": "{{Restaurant.Description}}",
      "cuisine": null,
-     "type": "bar"
+     "type": "restaurant"
     },
-    "source_url": "https://www.neoscapesmaldives.com/resort/constance-halaveli-maldives/",
+    "source_url": "https://www.letsgo2.com/hotels/maldives/constance-halaveli-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Restaurant Type",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.letsgo2.com/hotels/maldives/constance-halaveli-resort/",
     "as_of": "2026-10-04"
    }
   ],
@@ -636,8 +721,23 @@
     "as_of": 2023
    },
    {
+    "value": "Constance Spa",
+    "source_url": "https://maldives.ru/doc/static/Constance-Hotels-Resorts-Corporate-Brochure-En_removed%20(1).pdf",
+    "as_of": 2026
+   },
+   {
     "value": "Spa",
     "source_url": "https://www.neoscapesmaldives.com/resort/constance-halaveli-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.maldivestourism.net/resorts/constance-halaveli-resort-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Club\nGym\nRestaurant\nSpa",
+    "source_url": "https://www.dnatatravel.com/2-2044767-1/constance-halaveli-resort?oc=true",
     "as_of": "2026-10-04"
    }
   ],
@@ -710,6 +810,31 @@
     "as_of": 2023
    },
    {
+    "value": "snorkelling",
+    "source_url": "https://maldives.ru/doc/static/Constance-Hotels-Resorts-Corporate-Brochure-En_removed%20(1).pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://maldives.ru/doc/static/Constance-Hotels-Resorts-Corporate-Brochure-En_removed%20(1).pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "windsurfing",
+    "source_url": "https://maldives.ru/doc/static/Constance-Hotels-Resorts-Corporate-Brochure-En_removed%20(1).pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "kayaking",
+    "source_url": "https://maldives.ru/doc/static/Constance-Hotels-Resorts-Corporate-Brochure-En_removed%20(1).pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://maldives.ru/doc/static/Constance-Hotels-Resorts-Corporate-Brochure-En_removed%20(1).pdf",
+    "as_of": 2026
+   },
+   {
     "value": "scuba diving",
     "source_url": "https://www.neoscapesmaldives.com/resort/constance-halaveli-maldives/",
     "as_of": "2026-10-04"
@@ -737,6 +862,11 @@
     "as_of": 2023
    },
    {
+    "value": "stargazing",
+    "source_url": "https://maldives.ru/doc/static/Constance-Hotels-Resorts-Corporate-Brochure-En_removed%20(1).pdf",
+    "as_of": 2026
+   },
+   {
     "value": "whale shark",
     "source_url": "https://www.neoscapesmaldives.com/resort/constance-halaveli-maldives/",
     "as_of": "2026-10-04"
@@ -751,6 +881,11 @@
    {
     "value": "Kids Club",
     "source_url": "https://www.neoscapesmaldives.com/resort/constance-halaveli-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Childcare\nBar\nChildren's Club",
+    "source_url": "https://www.dnatatravel.com/2-2044767-1/constance-halaveli-resort?oc=true",
     "as_of": "2026-10-04"
    }
   ],
@@ -787,6 +922,16 @@
    },
    {
     "value": "yoga",
+    "source_url": "https://maldives.ru/doc/static/Constance-Hotels-Resorts-Corporate-Brochure-En_removed%20(1).pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://maldives.ru/doc/static/Constance-Hotels-Resorts-Corporate-Brochure-En_removed%20(1).pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "yoga",
     "source_url": "https://www.neoscapesmaldives.com/resort/constance-halaveli-maldives/",
     "as_of": "2026-10-04"
    },
@@ -814,6 +959,16 @@
     "value": "steam",
     "source_url": "https://www.neoscapesmaldives.com/resort/constance-halaveli-maldives/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "gym",
+    "source_url": "https://www.dnatatravel.com/2-2044767-1/constance-halaveli-resort?oc=true",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fitness center",
+    "source_url": "https://www.dnatatravel.com/2-2044767-1/constance-halaveli-resort?oc=true",
+    "as_of": "2026-10-04"
    }
   ],
   "weddings.offered": [
@@ -821,6 +976,11 @@
     "value": true,
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/halaveli-factsheet-en-24april2023.pdf",
     "as_of": 2023
+   },
+   {
+    "value": true,
+    "source_url": "https://maldives.ru/doc/static/Constance-Hotels-Resorts-Corporate-Brochure-En_removed%20(1).pdf",
+    "as_of": 2026
    },
    {
     "value": true,
@@ -848,7 +1008,21 @@
     "source_url": "https://www.neoscapesmaldives.com/resort/constance-halaveli-maldives/",
     "as_of": "2026-10-04"
    }
+  ],
+  "meal_plans": [
+   {
+    "value": "AI",
+    "source_url": "https://www.dnatatravel.com/2-2044767-1/constance-halaveli-resort?oc=true",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "all_inclusive_details": [
+   {
+    "value": "All-inclusive rates are available at this resort.",
+    "source_url": "https://www.dnatatravel.com/2-2044767-1/constance-halaveli-resort?oc=true",
+    "as_of": "2026-10-04"
+   }
   ]
  },
- "last_updated": "2026-10-04"
+ "last_updated": "2026-10-05"
 }

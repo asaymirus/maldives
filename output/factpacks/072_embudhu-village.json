@@ -7,55 +7,110 @@
   "Embudhu Village",
   "Embudu"
  ],
- "official_url": null,
- "official_site_status": null,
+ "official_url": "https://www.embuduvillage.com/",
+ "official_site_status": "ok",
  "operator_brand": "Villa",
- "atoll": null,
+ "atoll": "South Malé Atoll",
  "island": null,
- "opened_or_renovated": null,
- "star_rating": null,
+ "opened_or_renovated": "opened 1979",
+ "star_rating": "5-star",
  "transfer": {
-  "modes": [],
+  "modes": [
+   "speedboat",
+   "seaplane",
+   "domestic flight"
+  ],
   "minutes": {
    "seaplane": null,
-   "speedboat": null,
-   "domestic flight": null,
+   "speedboat": 25,
+   "domestic flight": 20,
    "yacht": null
   }
  },
  "island_size": null,
  "villas": {
-  "total": null,
-  "categories": []
+  "total": 118,
+  "categories": [
+   {
+    "name": "Amazing Days in Embudu Village",
+    "count": 14,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   }
+  ]
  },
- "dining": [],
- "meal_plans": [],
- "all_inclusive_details": null,
+ "dining": [
+  {
+   "name": "Main Restaurant",
+   "cuisine": null,
+   "type": "restaurant"
+  },
+  {
+   "name": "Bar & Coffeeshop",
+   "cuisine": null,
+   "type": "bar"
+  }
+ ],
+ "meal_plans": [
+  "FB",
+  "AI"
+ ],
+ "all_inclusive_details": "All Inclusive Package, encompassing meals, snacks and drinks.",
  "spa": {
-  "name": null,
+  "name": "Spa",
   "treatment_rooms": null,
   "signature_treatments": [],
-  "menu_doc": null
+  "menu_doc": "https://embuduvillage.eme-devops.com/2024/01/spa-menu.pdf"
  },
  "diving_watersports": {
-  "operator": null,
-  "house_reef": null,
-  "activities": [],
+  "operator": "Diverland",
+  "house_reef": "house reef is beautiful with lots of fishes, sharks and stingrays",
+  "activities": [
+   "snorkeling",
+   "scuba diving",
+   "surfing",
+   "catamaran",
+   "fishing",
+   "dolphin cruise",
+   "sailing",
+   "snorkelling",
+   "manta",
+   "sunset cruise",
+   "kayaking",
+   "canoe",
+   "stand-up paddle",
+   "paddleboard",
+   "windsurfing"
+  ],
   "price_list_doc": null
  },
- "excursions": [],
+ "excursions": [
+  "island hopping",
+  "dolphin",
+  "night fishing",
+  "local island",
+  "turtle",
+  "manta",
+  "sunset fishing"
+ ],
  "kids_family": {
   "kids_club": null,
   "age_range": null,
   "teens": null
  },
- "wellness_fitness": [],
+ "wellness_fitness": [
+  "tennis",
+  "badminton",
+  "gym"
+ ],
  "weddings": {
-  "offered": null,
-  "vow_renewal": null,
+  "offered": true,
+  "vow_renewal": true,
   "venues": [],
   "packages": [],
-  "brochure_doc": null
+  "brochure_doc": "https://embuduvillage.eme-devops.com/2026/04/Simple-Wedding-Package.pdf"
  },
  "events_mice": {
   "venues": [],
@@ -63,39 +118,1506 @@
   "buyout": null,
   "doc": null
  },
- "sustainability": [],
+ "sustainability": [
+  "solar",
+  "carbon neutral",
+  "coral restoration",
+  "Travelife",
+  "composting"
+ ],
  "contacts_public": {
-  "reservations_email": null,
+  "reservations_email": "sales@embuduvillage.com",
   "weddings_email": null,
-  "phone": null
+  "phone": "+960 664 4776"
  },
  "documents_latest": {
-  "factsheet": null,
+  "factsheet": "https://embuduvillage.eme-devops.com/2023/12/Embudu-Village-Fact-Sheet-2023.pdf",
   "map": null,
-  "wedding": null,
-  "spa_menu": null,
-  "dining_menu": null,
+  "wedding": "https://embuduvillage.eme-devops.com/2026/04/Simple-Wedding-Package.pdf",
+  "spa_menu": "https://embuduvillage.eme-devops.com/2024/01/spa-menu.pdf",
+  "dining_menu": "https://embuduvillage.eme-devops.com/2025/10/All-Sea-Food-Menus-from-1.11.-2025.pdf",
   "dive_prices": null,
   "events": null,
   "calendar": null
  },
- "documents_count": 0,
+ "documents_count": 15,
  "gaps": [
-  "factsheet",
-  "wedding brochure",
   "events/MICE document",
-  "fact: villas.total",
-  "fact: villa categories",
-  "fact: dining",
-  "fact: transfer",
-  "fact: atoll",
-  "fact: spa",
-  "fact: dive operator",
-  "fact: kids club",
-  "fact: weddings",
-  "fact: contacts",
-  "no documents or pages collected"
+  "fact: kids club"
  ],
- "sources": {},
- "last_updated": "2026-10-04"
+ "sources": {
+  "atoll": [
+   {
+    "value": "South Malé Atoll",
+    "source_url": "https://embuduvillage.eme-devops.com/2023/12/Embudu-Village-Fact-Sheet-2023.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": "South Malé Atoll",
+    "source_url": "https://www.embuduvillage.com/blog/embudu-village-maldives-a-traditional-resort-with-a-remarkable-house-reef/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "South Malé Atoll",
+    "source_url": "https://www.embuduvillage.com/blog/unveiling-the-health-benefits-of-scuba-diving-at-embudu-village/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Kaafu Atoll",
+    "source_url": "https://www.mymaldives.com/resort-guide/embudu-village/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "star_rating": [
+   {
+    "value": "5-star",
+    "source_url": "https://embuduvillage.eme-devops.com/2023/12/Embudu-Village-Fact-Sheet-2023.pdf",
+    "as_of": 2023
+   }
+  ],
+  "transfer.modes": [
+   {
+    "value": "speedboat",
+    "source_url": "https://embuduvillage.eme-devops.com/2023/12/Embudu-Village-Fact-Sheet-2023.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.embuduvillage.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.embuduvillage.com/location",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.embuduvillage.com",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://embuduvillage.com",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.embuduvillage.com/blog/embudu-village-maldives-a-traditional-resort-with-a-remarkable-house-reef/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.embuduvillage.com/blog/embudu-village-maldives-a-traditional-resort-with-a-remarkable-house-reef/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "domestic flight",
+    "source_url": "https://www.embuduvillage.com/blog/embudu-village-maldives-a-traditional-resort-with-a-remarkable-house-reef/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.embuduvillage.com/blog/an-affordable-maldives-escape-awaits-at-embudu-village/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://maldivestraveller.mv/de/holidays/maldives-tours/day-visit-to-embudu-village",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "transfer.minutes.speedboat": [
+   {
+    "value": 25,
+    "source_url": "https://embuduvillage.eme-devops.com/2023/12/Embudu-Village-Fact-Sheet-2023.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": 25,
+    "source_url": "https://www.embuduvillage.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 20,
+    "source_url": "https://www.embuduvillage.com/location",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 25,
+    "source_url": "https://www.embuduvillage.com",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 25,
+    "source_url": "https://embuduvillage.com",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 20,
+    "source_url": "https://www.embuduvillage.com/blog/embudu-village-maldives-a-traditional-resort-with-a-remarkable-house-reef/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 20,
+    "source_url": "https://www.embuduvillage.com/blog/an-affordable-maldives-escape-awaits-at-embudu-village/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "dining": [
+   {
+    "value": {
+     "name": "Main Restaurant",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://embuduvillage.eme-devops.com/2023/12/Embudu-Village-Fact-Sheet-2023.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": {
+     "name": "Bar & Coffeeshop",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.embuduvillage.com/dining-delights/bar-coffeeshop",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Main Restaurant",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.embuduvillage.com/dining-delights/bar-coffeeshop",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Main Restaurant",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.embuduvillage.com/dining-delights/all-inclusive",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Bar & Coffeeshop",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.embuduvillage.com/dining-delights/all-inclusive",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Main Restaurant",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.embuduvillage.com/dining-delights/private-dining",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Bar & Coffeeshop",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.embuduvillage.com/dining-delights/private-dining",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Main Restaurant",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.embuduvillage.com/dining-delights",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Bar & Coffeeshop",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.embuduvillage.com/dining-delights",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Main Restaurant",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.embuduvillage.com/dining-delights/main-restaurant",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Bar & Coffeeshop",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.embuduvillage.com/dining-delights/main-restaurant",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Main Restaurant",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.embuduvillage.com/sitemap",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Bar & Coffeeshop",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.embuduvillage.com/sitemap",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "spa.name": [
+   {
+    "value": "Shop\nWater Sports Spa",
+    "source_url": "https://embuduvillage.eme-devops.com/2023/12/Embudu-Village-Fact-Sheet-2023.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.embuduvillage.com/experiences/excursions",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.embuduvillage.com/experiences/diving",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.embuduvillage.com/experiences/water-sports",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Rate Guaranteed\nSerena Spa",
+    "source_url": "https://www.embuduvillage.com/experiences/spa",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.embuduvillage.com/experiences/snorkelling",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "List\nFact Sheet\nSpa",
+    "source_url": "https://www.embuduvillage.com/media-downloads",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.embuduvillage.com/experiences",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Water Sports\nExcursions\nSpa",
+    "source_url": "https://www.embuduvillage.com/sitemap",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.embuduvillage.com/experiences/hiri-boutique",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Serena Spa",
+    "source_url": "https://www.embuduvillage.com/blog/embudu-village-maldives-a-traditional-resort-with-a-remarkable-house-reef/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Serena Spa",
+    "source_url": "https://www.embuduvillage.com/blog/an-affordable-maldives-escape-awaits-at-embudu-village/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://maldivestraveller.mv/de/holidays/maldives-tours/day-visit-to-embudu-village",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.mymaldives.com/resort-guide/embudu-village/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "diving_watersports.operator": [
+   {
+    "value": "Diverland",
+    "source_url": "https://embuduvillage.eme-devops.com/2023/12/Embudu-Village-Fact-Sheet-2023.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": "Diverland",
+    "source_url": "https://www.embuduvillage.com/experiences/diving",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Diverland",
+    "source_url": "https://www.embuduvillage.com/blog/adventure-awaits-maldives-excursions-at-embudu-village/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Diverland",
+    "source_url": "https://www.embuduvillage.com/blog/embudu-village-maldives-a-traditional-resort-with-a-remarkable-house-reef/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Diverland",
+    "source_url": "https://www.embuduvillage.com/blog/celebrate-the-festive-season-in-island-style-at-embudu-village/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Diverland",
+    "source_url": "https://www.embuduvillage.com/blog/unveiling-the-health-benefits-of-scuba-diving-at-embudu-village/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Diverland",
+    "source_url": "https://www.embuduvillage.com/blog/when-is-the-best-time-to-visit-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Diverland",
+    "source_url": "https://www.embuduvillage.com/blog/must-have-experiences-at-embudu-village/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "diving_watersports.house_reef": [
+   {
+    "value": "house reef with colourful underwater gardens you can wander in straight from the",
+    "source_url": "https://embuduvillage.eme-devops.com/2023/12/Embudu-Village-Fact-Sheet-2023.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": "house reef is beautiful with lots of fishes, sharks and stingrays",
+    "source_url": "https://www.embuduvillage.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef teeming with table coral and a mesmerising array of underwater wildlife including tropical fish, reef sharks, and the occasional graceful turtle",
+    "source_url": "https://www.embuduvillage.com/experiences/excursions",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef teeming with table coral and a mesmerising array of underwater wildlife including tropical fish, reef sharks, and the occasional graceful turtle",
+    "source_url": "https://www.embuduvillage.com/experiences/diving",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef teeming with table coral and a mesmerising array of underwater wildlife including tropical fish, reef sharks, and the occasional graceful turtle",
+    "source_url": "https://www.embuduvillage.com/experiences/water-sports",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef is a thriving haven of colourful corals and marine life, making it the perfect place to immerse yourself in the beauty of the underwater world",
+    "source_url": "https://www.embuduvillage.com/experiences/snorkelling",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef teeming with table coral and a mesmerising array of underwater wildlife including tropical fish, reef sharks, and the occasional graceful turtle",
+    "source_url": "https://www.embuduvillage.com/experiences",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef is beautiful with lots of fishes, sharks and stingrays",
+    "source_url": "https://www.embuduvillage.com",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "House Reef",
+    "source_url": "https://www.embuduvillage.com/blog",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef teeming with table coral and a mesmerising array of underwater wildlife including tropical fish, reef sharks, and the occasional graceful turtle",
+    "source_url": "https://www.embuduvillage.com/experiences/hiri-boutique",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef is beautiful with lots of fishes, sharks and stingrays",
+    "source_url": "https://embuduvillage.com",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "House Reef at Embudu Village: A Snorkeller’s Paradise",
+    "source_url": "https://www.embuduvillage.com/blog/category/uncategorized/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "House Reef",
+    "source_url": "https://www.embuduvillage.com/blog/category/travel-tips/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "House Reef",
+    "source_url": "https://www.embuduvillage.com/blog/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "House Reef at Embudu Village: A Snorkeller’s Paradise",
+    "source_url": "https://www.embuduvillage.com/blog/discover-the-house-reef-at-embudu-village-a-snorkellers-paradise/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "House Reef",
+    "source_url": "https://www.embuduvillage.com/blog/adventure-awaits-maldives-excursions-at-embudu-village/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "House Reef",
+    "source_url": "https://www.embuduvillage.com/blog/embudu-village-maldives-a-traditional-resort-with-a-remarkable-house-reef/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "House Reef",
+    "source_url": "https://www.embuduvillage.com/blog/an-affordable-maldives-escape-awaits-at-embudu-village/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "House Reef",
+    "source_url": "https://www.embuduvillage.com/blog/category/expereince/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "House Reef",
+    "source_url": "https://www.embuduvillage.com/blog/2026/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef, and warm Maldivian hospitality",
+    "source_url": "https://www.embuduvillage.com/blog/47-years-countless-memories/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reefs in the Maldives and thriving marine life, it offers a n unmatched underwater experience",
+    "source_url": "https://www.embuduvillage.com/blog/unveiling-the-health-benefits-of-scuba-diving-at-embudu-village/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "House Reef",
+    "source_url": "https://www.embuduvillage.com/blog/celebrating-46-years-of-timeless-memories-at-embudu-village/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef or lounging on the beach, you’ll be spending lots of time in the water",
+    "source_url": "https://www.embuduvillage.com/blog/what-to-wear-on-your-island-getaway-in-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "House Reef",
+    "source_url": "https://www.embuduvillage.com/blog/embudu-village-chefs-triumph-at-fham-2025/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef",
+    "source_url": "https://www.embuduvillage.com/blog/when-is-the-best-time-to-visit-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef",
+    "source_url": "https://www.embuduvillage.com/blog/must-have-experiences-at-embudu-village/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef surrounding it completely",
+    "source_url": "https://www.mymaldives.com/resort-guide/embudu-village/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "diving_watersports.activities": [
+   {
+    "value": "snorkeling",
+    "source_url": "https://embuduvillage.eme-devops.com/2023/12/Embudu-Village-Fact-Sheet-2023.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://embuduvillage.eme-devops.com/2023/12/Embudu-Village-Fact-Sheet-2023.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": "surfing",
+    "source_url": "https://embuduvillage.eme-devops.com/2023/12/Embudu-Village-Fact-Sheet-2023.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": "catamaran",
+    "source_url": "https://embuduvillage.eme-devops.com/2023/12/Embudu-Village-Fact-Sheet-2023.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://embuduvillage.eme-devops.com/2023/12/Embudu-Village-Fact-Sheet-2023.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": "dolphin cruise",
+    "source_url": "https://embuduvillage.eme-devops.com/2023/12/Embudu-Village-Fact-Sheet-2023.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": "sailing",
+    "source_url": "https://embuduvillage.eme-devops.com/2023/12/Embudu-Village-Fact-Sheet-2023.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://embuduvillage.eme-devops.com/2025/05/Annual-Sustainability-Assessment.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.embuduvillage.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.embuduvillage.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.embuduvillage.com/experiences/excursions",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.embuduvillage.com/experiences/excursions",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.embuduvillage.com/experiences/excursions",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.embuduvillage.com/experiences/diving",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.embuduvillage.com/experiences/diving",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.embuduvillage.com/experiences/diving",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.embuduvillage.com/experiences/water-sports",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "kayaking",
+    "source_url": "https://www.embuduvillage.com/experiences/water-sports",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.embuduvillage.com/experiences/water-sports",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.embuduvillage.com/experiences/water-sports",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.embuduvillage.com/experiences/water-sports",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "canoe",
+    "source_url": "https://www.embuduvillage.com/experiences/water-sports",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.embuduvillage.com/experiences/snorkelling",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.embuduvillage.com/experiences/snorkelling",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.embuduvillage.com/experiences/snorkelling",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.embuduvillage.com/experiences/snorkelling",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.embuduvillage.com/experiences",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.embuduvillage.com/experiences",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.embuduvillage.com/experiences",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.embuduvillage.com/experiences",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.embuduvillage.com/sitemap",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.embuduvillage.com",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.embuduvillage.com",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://www.embuduvillage.com/blog",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.embuduvillage.com/experiences/hiri-boutique",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.embuduvillage.com/experiences/hiri-boutique",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.embuduvillage.com/experiences/hiri-boutique",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.embuduvillage.com/experiences/hiri-boutique",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://embuduvillage.com",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://embuduvillage.com",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://www.embuduvillage.com/blog/category/uncategorized/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://www.embuduvillage.com/blog/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.embuduvillage.com/blog/discover-the-house-reef-at-embudu-village-a-snorkellers-paradise/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://www.embuduvillage.com/blog/discover-the-house-reef-at-embudu-village-a-snorkellers-paradise/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.embuduvillage.com/blog/adventure-awaits-maldives-excursions-at-embudu-village/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.embuduvillage.com/blog/adventure-awaits-maldives-excursions-at-embudu-village/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.embuduvillage.com/blog/adventure-awaits-maldives-excursions-at-embudu-village/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin cruise",
+    "source_url": "https://www.embuduvillage.com/blog/adventure-awaits-maldives-excursions-at-embudu-village/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.embuduvillage.com/blog/embudu-village-maldives-a-traditional-resort-with-a-remarkable-house-reef/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "kayaking",
+    "source_url": "https://www.embuduvillage.com/blog/embudu-village-maldives-a-traditional-resort-with-a-remarkable-house-reef/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "stand-up paddle",
+    "source_url": "https://www.embuduvillage.com/blog/embudu-village-maldives-a-traditional-resort-with-a-remarkable-house-reef/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "paddleboard",
+    "source_url": "https://www.embuduvillage.com/blog/embudu-village-maldives-a-traditional-resort-with-a-remarkable-house-reef/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.embuduvillage.com/blog/embudu-village-maldives-a-traditional-resort-with-a-remarkable-house-reef/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.embuduvillage.com/blog/embudu-village-maldives-a-traditional-resort-with-a-remarkable-house-reef/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "canoe",
+    "source_url": "https://www.embuduvillage.com/blog/embudu-village-maldives-a-traditional-resort-with-a-remarkable-house-reef/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://www.embuduvillage.com/blog/2025/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.embuduvillage.com/blog/an-affordable-maldives-escape-awaits-at-embudu-village/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "windsurfing",
+    "source_url": "https://www.embuduvillage.com/blog/an-affordable-maldives-escape-awaits-at-embudu-village/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "kayaking",
+    "source_url": "https://www.embuduvillage.com/blog/an-affordable-maldives-escape-awaits-at-embudu-village/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.embuduvillage.com/blog/an-affordable-maldives-escape-awaits-at-embudu-village/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://www.embuduvillage.com/blog/celebrate-the-festive-season-in-island-style-at-embudu-village/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://www.embuduvillage.com/blog/unveiling-the-health-benefits-of-scuba-diving-at-embudu-village/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://www.embuduvillage.com/blog/celebrating-46-years-of-timeless-memories-at-embudu-village/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.embuduvillage.com/blog/what-to-wear-on-your-island-getaway-in-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://www.embuduvillage.com/blog/what-to-wear-on-your-island-getaway-in-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "kayaking",
+    "source_url": "https://www.embuduvillage.com/blog/what-to-wear-on-your-island-getaway-in-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.embuduvillage.com/blog/what-to-wear-on-your-island-getaway-in-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.embuduvillage.com/blog/when-is-the-best-time-to-visit-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.embuduvillage.com/blog/must-have-experiences-at-embudu-village/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.embuduvillage.com/blog/must-have-experiences-at-embudu-village/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://maldivestraveller.mv/it/holidays/maldives-tours/day-visit-to-embudu-village",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://maldivestraveller.mv/it/holidays/maldives-tours/day-visit-to-embudu-village",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://maldivestraveller.mv/de/holidays/maldives-tours/day-visit-to-embudu-village",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.mymaldives.com/resort-guide/embudu-village/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://www.mymaldives.com/resort-guide/embudu-village/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "windsurfing",
+    "source_url": "https://www.mymaldives.com/resort-guide/embudu-village/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "catamaran",
+    "source_url": "https://www.mymaldives.com/resort-guide/embudu-village/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sailing",
+    "source_url": "https://www.mymaldives.com/resort-guide/embudu-village/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://maldivestraveller.mv/en/holidays/maldives-tours/day-visit-to-embudu-village",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "excursions": [
+   {
+    "value": "island hopping",
+    "source_url": "https://embuduvillage.eme-devops.com/2023/12/Embudu-Village-Fact-Sheet-2023.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://embuduvillage.eme-devops.com/2023/12/Embudu-Village-Fact-Sheet-2023.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": "night fishing",
+    "source_url": "https://embuduvillage.eme-devops.com/2023/12/Embudu-Village-Fact-Sheet-2023.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": "local island",
+    "source_url": "https://embuduvillage.eme-devops.com/2025/05/Annual-Sustainability-Assessment.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://embuduvillage.eme-devops.com/2025/05/Annual-Sustainability-Assessment.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.embuduvillage.com/experiences/excursions",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "night fishing",
+    "source_url": "https://www.embuduvillage.com/experiences/excursions",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.embuduvillage.com/experiences/excursions",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.embuduvillage.com/experiences/excursions",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "local island",
+    "source_url": "https://www.embuduvillage.com/experiences/diving",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.embuduvillage.com/experiences/diving",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "night fishing",
+    "source_url": "https://www.embuduvillage.com/experiences/diving",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.embuduvillage.com/experiences/diving",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "local island",
+    "source_url": "https://www.embuduvillage.com/experiences/water-sports",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.embuduvillage.com/experiences/water-sports",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "night fishing",
+    "source_url": "https://www.embuduvillage.com/experiences/water-sports",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.embuduvillage.com/experiences/water-sports",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.embuduvillage.com/experiences/water-sports",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "local island",
+    "source_url": "https://www.embuduvillage.com/experiences/snorkelling",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.embuduvillage.com/experiences/snorkelling",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "night fishing",
+    "source_url": "https://www.embuduvillage.com/experiences/snorkelling",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.embuduvillage.com/experiences/snorkelling",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.embuduvillage.com/experiences/snorkelling",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "local island",
+    "source_url": "https://www.embuduvillage.com/experiences",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.embuduvillage.com/experiences",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "night fishing",
+    "source_url": "https://www.embuduvillage.com/experiences",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.embuduvillage.com/experiences",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.embuduvillage.com/experiences",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "local island",
+    "source_url": "https://www.embuduvillage.com/experiences/hiri-boutique",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.embuduvillage.com/experiences/hiri-boutique",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "night fishing",
+    "source_url": "https://www.embuduvillage.com/experiences/hiri-boutique",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.embuduvillage.com/experiences/hiri-boutique",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.embuduvillage.com/experiences/hiri-boutique",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.embuduvillage.com/blog/discover-the-house-reef-at-embudu-village-a-snorkellers-paradise/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "island hopping",
+    "source_url": "https://www.embuduvillage.com/blog/adventure-awaits-maldives-excursions-at-embudu-village/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "local island",
+    "source_url": "https://www.embuduvillage.com/blog/adventure-awaits-maldives-excursions-at-embudu-village/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.embuduvillage.com/blog/adventure-awaits-maldives-excursions-at-embudu-village/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "night fishing",
+    "source_url": "https://www.embuduvillage.com/blog/adventure-awaits-maldives-excursions-at-embudu-village/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "local island",
+    "source_url": "https://www.embuduvillage.com/blog/embudu-village-maldives-a-traditional-resort-with-a-remarkable-house-reef/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "night fishing",
+    "source_url": "https://www.embuduvillage.com/blog/embudu-village-maldives-a-traditional-resort-with-a-remarkable-house-reef/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.embuduvillage.com/blog/embudu-village-maldives-a-traditional-resort-with-a-remarkable-house-reef/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "local island",
+    "source_url": "https://www.embuduvillage.com/blog/what-to-wear-on-your-island-getaway-in-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "island hopping",
+    "source_url": "https://www.embuduvillage.com/blog/must-have-experiences-at-embudu-village/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset fishing",
+    "source_url": "https://www.embuduvillage.com/blog/must-have-experiences-at-embudu-village/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.embuduvillage.com/blog/must-have-experiences-at-embudu-village/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "wellness_fitness": [
+   {
+    "value": "tennis",
+    "source_url": "https://embuduvillage.eme-devops.com/2023/12/Embudu-Village-Fact-Sheet-2023.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": "badminton",
+    "source_url": "https://embuduvillage.eme-devops.com/2023/12/Embudu-Village-Fact-Sheet-2023.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": "gym",
+    "source_url": "https://www.embuduvillage.com/privacy-policy",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "gym",
+    "source_url": "https://www.embuduvillage.com/facilities",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://www.embuduvillage.com/facilities",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "badminton",
+    "source_url": "https://www.embuduvillage.com/facilities",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "badminton",
+    "source_url": "https://www.mymaldives.com/resort-guide/embudu-village/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "contacts_public.reservations_email": [
+   {
+    "value": "sales@embuduvillage.com",
+    "source_url": "https://embuduvillage.eme-devops.com/2023/12/Embudu-Village-Fact-Sheet-2023.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": "sales@embuduvillage.com",
+    "source_url": "https://embuduvillage.eme-devops.com/2026/04/Simple-Wedding-Package.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "sales@embuduvillage.com",
+    "source_url": "https://www.embuduvillage.com/blog/discover-the-house-reef-at-embudu-village-a-snorkellers-paradise/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sales@embuduvillage.com",
+    "source_url": "https://www.embuduvillage.com/blog/adventure-awaits-maldives-excursions-at-embudu-village/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sales@embuduvillage.com",
+    "source_url": "https://www.embuduvillage.com/blog/embudu-village-maldives-a-traditional-resort-with-a-remarkable-house-reef/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sales@embuduvillage.com",
+    "source_url": "https://www.embuduvillage.com/blog/an-affordable-maldives-escape-awaits-at-embudu-village/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sales@embuduvillage.com",
+    "source_url": "https://www.embuduvillage.com/blog/celebrate-the-festive-season-in-island-style-at-embudu-village/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sales@embuduvillage.com",
+    "source_url": "https://www.embuduvillage.com/blog/what-to-wear-on-your-island-getaway-in-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sales@embuduvillage.com",
+    "source_url": "https://www.embuduvillage.com/blog/when-is-the-best-time-to-visit-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sales@embuduvillage.com",
+    "source_url": "https://www.embuduvillage.com/blog/must-have-experiences-at-embudu-village/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "contacts_public.phone": [
+   {
+    "value": "+960 6644776",
+    "source_url": "https://embuduvillage.eme-devops.com/2023/12/Embudu-Village-Fact-Sheet-2023.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": "+960 664 4776",
+    "source_url": "https://embuduvillage.eme-devops.com/2026/04/Simple-Wedding-Package.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "+960 332 2212",
+    "source_url": "https://www.embuduvillage.com/privacy-policy",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 664 4776",
+    "source_url": "https://www.embuduvillage.com/blog/discover-the-house-reef-at-embudu-village-a-snorkellers-paradise/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 664 4776",
+    "source_url": "https://www.embuduvillage.com/blog/embudu-village-maldives-a-traditional-resort-with-a-remarkable-house-reef/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+9606644776",
+    "source_url": "https://www.embuduvillage.com/blog/an-affordable-maldives-escape-awaits-at-embudu-village/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 664 4776",
+    "source_url": "https://www.embuduvillage.com/blog/celebrate-the-festive-season-in-island-style-at-embudu-village/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 664 4776",
+    "source_url": "https://www.embuduvillage.com/blog/what-to-wear-on-your-island-getaway-in-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 664 4776",
+    "source_url": "https://www.embuduvillage.com/blog/must-have-experiences-at-embudu-village/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+9607776038",
+    "source_url": "https://maldivestraveller.mv/jp/holidays/maldives-tours/day-visit-to-embudu-village",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+9607776038",
+    "source_url": "https://maldivestraveller.mv/it/holidays/maldives-tours/day-visit-to-embudu-village",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+9607776038",
+    "source_url": "https://maldivestraveller.mv/de/holidays/maldives-tours/day-visit-to-embudu-village",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+9607776038",
+    "source_url": "https://maldivestraveller.mv/en/holidays/maldives-tours/day-visit-to-embudu-village",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "meal_plans": [
+   {
+    "value": "FB",
+    "source_url": "https://embuduvillage.eme-devops.com/2026/04/Simple-Wedding-Package.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "AI",
+    "source_url": "https://maldivestraveller.mv/it/holidays/maldives-tours/day-visit-to-embudu-village",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "weddings.offered": [
+   {
+    "value": true,
+    "source_url": "https://embuduvillage.eme-devops.com/2026/04/Simple-Wedding-Package.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": true,
+    "source_url": "https://www.embuduvillage.com/celebrations/eternal-love-renewed",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.embuduvillage.com/celebrations/eternal-love-renewed",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.embuduvillage.com/celebrations",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.embuduvillage.com/celebrations/milestones-in-paradise",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.embuduvillage.com/celebrations/whispers-of-forever",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.embuduvillage.com/blog/2025/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.embuduvillage.com/blog/celebrate-the-festive-season-in-island-style-at-embudu-village/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.embuduvillage.com/blog/celebrating-46-years-of-timeless-memories-at-embudu-village/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "sustainability": [
+   {
+    "value": "solar",
+    "source_url": "https://embuduvillage.eme-devops.com/2025/05/Embudu-Village-Environmental-Policy.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "carbon neutral",
+    "source_url": "https://embuduvillage.eme-devops.com/2025/05/Embudu-Village-Environmental-Policy.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "coral restoration",
+    "source_url": "https://embuduvillage.eme-devops.com/2025/05/Annual-Sustainability-Assessment.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "Travelife",
+    "source_url": "https://embuduvillage.eme-devops.com/2025/05/Annual-Sustainability-Assessment.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "composting",
+    "source_url": "https://embuduvillage.eme-devops.com/2025/05/Annual-Sustainability-Assessment.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "Travelife",
+    "source_url": "https://www.embuduvillage.com/media-downloads",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "villas.total": [
+   {
+    "value": 200,
+    "source_url": "https://embuduvillage.eme-devops.com/2025/05/Annual-Sustainability-Assessment.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": 118,
+    "source_url": "https://www.mymaldives.com/resort-guide/embudu-village/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "villas.categories": [
+   {
+    "value": {
+     "name": "Amazing Days in Embudu Village",
+     "count": 14,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://www.embuduvillage.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Amazing Days in Embudu Village",
+     "count": 14,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://www.embuduvillage.com",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Amazing Days in Embudu Village",
+     "count": 14,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://embuduvillage.com",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "weddings.vow_renewal": [
+   {
+    "value": true,
+    "source_url": "https://www.embuduvillage.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.embuduvillage.com/celebrations/eternal-love-renewed",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.embuduvillage.com",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://embuduvillage.com",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "all_inclusive_details": [
+   {
+    "value": "All Inclusive Package, encompassing meals, snacks and drinks.",
+    "source_url": "https://www.embuduvillage.com/dining-delights/bar-coffeeshop",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "All Inclusive Package, encompassing meals, snacks and drinks.",
+    "source_url": "https://www.embuduvillage.com/dining-delights/private-dining",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "All Inclusive Package, encompassing meals, snacks and drinks.",
+    "source_url": "https://www.embuduvillage.com/dining-delights",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "All Inclusive Package, encompassing meals, snacks and drinks.",
+    "source_url": "https://www.embuduvillage.com/dining-delights/main-restaurant",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "opened_or_renovated": [
+   {
+    "value": "opened 1979",
+    "source_url": "https://www.embuduvillage.com/blog/embudu-village-maldives-a-traditional-resort-with-a-remarkable-house-reef/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "transfer.minutes.domestic flight": [
+   {
+    "value": 20,
+    "source_url": "https://www.embuduvillage.com/blog/embudu-village-maldives-a-traditional-resort-with-a-remarkable-house-reef/",
+    "as_of": "2026-10-04"
+   }
+  ]
+ },
+ "last_updated": "2026-10-05"
 }

@@ -6,8 +6,8 @@
   "Landaa Giraavaru",
   "Four Seasons Landaa"
  ],
- "official_url": null,
- "official_site_status": null,
+ "official_url": "https://www.fourseasons.com/maldiveslg/",
+ "official_site_status": "blocked",
  "operator_brand": "VARU",
  "atoll": "Baa Atoll",
  "island": "Finolhas",
@@ -26,7 +26,7 @@
  },
  "island_size": null,
  "villas": {
-  "total": 67,
+  "total": 103,
   "categories": [
    {
     "name": "Villas",
@@ -48,11 +48,6 @@
  },
  "dining": [
   {
-   "name": "Dining",
-   "cuisine": null,
-   "type": "restaurant"
-  },
-  {
    "name": "Café Landaa",
    "cuisine": null,
    "type": "restaurant"
@@ -71,11 +66,6 @@
    "name": "Poolside Bar",
    "cuisine": null,
    "type": "bar"
-  },
-  {
-   "name": "In-villa Dining",
-   "cuisine": null,
-   "type": "restaurant"
   }
  ],
  "meal_plans": [],
@@ -96,7 +86,12 @@
    "whale shark",
    "manta",
    "snorkelling",
-   "scuba diving"
+   "scuba diving",
+   "windsurfing",
+   "catamaran",
+   "water skiing",
+   "sailing",
+   "canoe"
   ],
   "price_list_doc": null
  },
@@ -108,7 +103,8 @@
   "whale shark",
   "manta",
   "sunset fishing",
-  "stargazing"
+  "stargazing",
+  "big game fishing"
  ],
  "kids_family": {
   "kids_club": "Kids Club",
@@ -120,7 +116,8 @@
   "gym",
   "tennis",
   "badminton",
-  "fitness centre"
+  "fitness centre",
+  "sauna"
  ],
  "weddings": {
   "offered": true,
@@ -176,6 +173,16 @@
     "value": "Baa Atoll",
     "source_url": "https://www.neoscapesmaldives.com/resort/landaa-giraavaru-four-seasons/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "Baa Atoll",
+    "source_url": "https://www.mymaldives.com/resort-guide/four-seasons-resort-maldives-at-landaa-giraavaru/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Baa Atoll",
+    "source_url": "https://www.airtours.de/four-seasons-resort-maldives-at-landaa-giraavaru/",
+    "as_of": "2026-10-04"
    }
   ],
   "island": [
@@ -190,6 +197,11 @@
     "value": 67,
     "source_url": "https://amilla.com/wp-content/uploads/Amilla-Sustainability-Policy.pdf",
     "as_of": 2025
+   },
+   {
+    "value": 103,
+    "source_url": "https://www.mymaldives.com/resort-guide/four-seasons-resort-maldives-at-landaa-giraavaru/",
+    "as_of": "2026-10-04"
    }
   ],
   "diving_watersports.activities": [
@@ -206,17 +218,17 @@
    {
     "value": "dolphin cruise",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Landaa-Giraavaru-Resort-Map.pdf",
-    "as_of": 2023
+    "as_of": 2022
    },
    {
     "value": "whale shark",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Landaa-Giraavaru-Resort-Map.pdf",
-    "as_of": 2023
+    "as_of": 2022
    },
    {
     "value": "manta",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Landaa-Giraavaru-Resort-Map.pdf",
-    "as_of": 2023
+    "as_of": 2022
    },
    {
     "value": "snorkelling",
@@ -236,6 +248,51 @@
    {
     "value": "manta",
     "source_url": "https://www.neoscapesmaldives.com/resort/landaa-giraavaru-four-seasons/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://www.mymaldives.com/resort-guide/four-seasons-resort-maldives-at-landaa-giraavaru/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "windsurfing",
+    "source_url": "https://www.mymaldives.com/resort-guide/four-seasons-resort-maldives-at-landaa-giraavaru/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "catamaran",
+    "source_url": "https://www.mymaldives.com/resort-guide/four-seasons-resort-maldives-at-landaa-giraavaru/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "water skiing",
+    "source_url": "https://www.mymaldives.com/resort-guide/four-seasons-resort-maldives-at-landaa-giraavaru/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.mymaldives.com/resort-guide/four-seasons-resort-maldives-at-landaa-giraavaru/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.mymaldives.com/resort-guide/four-seasons-resort-maldives-at-landaa-giraavaru/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.mymaldives.com/resort-guide/four-seasons-resort-maldives-at-landaa-giraavaru/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sailing",
+    "source_url": "https://www.mymaldives.com/resort-guide/four-seasons-resort-maldives-at-landaa-giraavaru/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "canoe",
+    "source_url": "https://www.mymaldives.com/resort-guide/four-seasons-resort-maldives-at-landaa-giraavaru/",
     "as_of": "2026-10-04"
    }
   ],
@@ -258,27 +315,27 @@
    {
     "value": "sandbank",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Landaa-Giraavaru-Resort-Map.pdf",
-    "as_of": 2023
+    "as_of": 2022
    },
    {
     "value": "dolphin",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Landaa-Giraavaru-Resort-Map.pdf",
-    "as_of": 2023
+    "as_of": 2022
    },
    {
     "value": "whale shark",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Landaa-Giraavaru-Resort-Map.pdf",
-    "as_of": 2023
+    "as_of": 2022
    },
    {
     "value": "manta",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Landaa-Giraavaru-Resort-Map.pdf",
-    "as_of": 2023
+    "as_of": 2022
    },
    {
     "value": "turtle",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Landaa-Giraavaru-Resort-Map.pdf",
-    "as_of": 2023
+    "as_of": 2022
    },
    {
     "value": "sandbank",
@@ -309,6 +366,36 @@
     "value": "stargazing",
     "source_url": "https://www.neoscapesmaldives.com/resort/landaa-giraavaru-four-seasons/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.mymaldives.com/resort-guide/four-seasons-resort-maldives-at-landaa-giraavaru/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.mymaldives.com/resort-guide/four-seasons-resort-maldives-at-landaa-giraavaru/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "big game fishing",
+    "source_url": "https://www.mymaldives.com/resort-guide/four-seasons-resort-maldives-at-landaa-giraavaru/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.mymaldives.com/resort-guide/four-seasons-resort-maldives-at-landaa-giraavaru/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.mymaldives.com/resort-guide/four-seasons-resort-maldives-at-landaa-giraavaru/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.mymaldives.com/resort-guide/four-seasons-resort-maldives-at-landaa-giraavaru/",
+    "as_of": "2026-10-04"
    }
   ],
   "wellness_fitness": [
@@ -335,21 +422,31 @@
    {
     "value": "yoga",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Landaa-Giraavaru-Resort-Map.pdf",
-    "as_of": 2023
+    "as_of": 2022
    },
    {
     "value": "gym",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Landaa-Giraavaru-Resort-Map.pdf",
-    "as_of": 2023
+    "as_of": 2022
    },
    {
     "value": "tennis",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Landaa-Giraavaru-Resort-Map.pdf",
-    "as_of": 2023
+    "as_of": 2022
    },
    {
     "value": "fitness centre",
     "source_url": "https://www.neoscapesmaldives.com/resort/landaa-giraavaru-four-seasons/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://www.mymaldives.com/resort-guide/four-seasons-resort-maldives-at-landaa-giraavaru/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sauna",
+    "source_url": "https://www.mymaldives.com/resort-guide/four-seasons-resort-maldives-at-landaa-giraavaru/",
     "as_of": "2026-10-04"
    }
   ],
@@ -367,7 +464,7 @@
    {
     "value": "solar",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Landaa-Giraavaru-Resort-Map.pdf",
-    "as_of": 2023
+    "as_of": 2022
    },
    {
     "value": "marine biologist",
@@ -384,7 +481,7 @@
    {
     "value": true,
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Landaa-Giraavaru-Resort-Map.pdf",
-    "as_of": 2023
+    "as_of": 2022
    },
    {
     "value": true,
@@ -435,24 +532,6 @@
   "dining": [
    {
     "value": {
-     "name": "Dining",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/landaa-giraavaru-four-seasons/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Dining",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/landaa-giraavaru-four-seasons/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
      "name": "Café Landaa",
      "cuisine": null,
      "type": "restaurant"
@@ -483,15 +562,6 @@
      "name": "Poolside Bar",
      "cuisine": null,
      "type": "bar"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/landaa-giraavaru-four-seasons/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "In-villa Dining",
-     "cuisine": null,
-     "type": "restaurant"
     },
     "source_url": "https://www.neoscapesmaldives.com/resort/landaa-giraavaru-four-seasons/",
     "as_of": "2026-10-04"
@@ -526,5 +596,5 @@
    }
   ]
  },
- "last_updated": "2026-10-04"
+ "last_updated": "2026-10-05"
 }

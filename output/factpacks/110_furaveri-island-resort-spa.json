@@ -5,18 +5,21 @@
  "aliases": [
   "Furaveri"
  ],
- "official_url": null,
- "official_site_status": null,
+ "official_url": "https://furaveri.com/",
+ "official_site_status": "ok",
  "operator_brand": "Furaveri",
- "atoll": null,
+ "atoll": "Raa Atoll",
  "island": null,
  "opened_or_renovated": null,
  "star_rating": null,
  "transfer": {
-  "modes": [],
+  "modes": [
+   "speedboat",
+   "seaplane"
+  ],
   "minutes": {
    "seaplane": null,
-   "speedboat": null,
+   "speedboat": 15,
    "domestic flight": null,
    "yacht": null
   }
@@ -27,33 +30,74 @@
   "categories": []
  },
  "dining": [],
- "meal_plans": [],
- "all_inclusive_details": null,
+ "meal_plans": [
+  "Dine Around"
+ ],
+ "all_inclusive_details": "All-Inclusive Dine Around package.",
  "spa": {
-  "name": null,
+  "name": "Spa",
   "treatment_rooms": null,
   "signature_treatments": [],
-  "menu_doc": null
+  "menu_doc": "https://furaveri.com/wp-content/uploads/2025/07/WELLNESS-VILLAGE-MENU-17-gst.pdf"
  },
  "diving_watersports": {
-  "operator": null,
+  "operator": "Dive Club",
   "house_reef": null,
-  "activities": [],
-  "price_list_doc": null
+  "activities": [
+   "snorkeling",
+   "scuba diving",
+   "fishing",
+   "dolphin cruise",
+   "manta",
+   "windsurfing",
+   "surfing",
+   "kayaking",
+   "catamaran",
+   "jet ski",
+   "parasailing",
+   "water skiing",
+   "seabob",
+   "sailing",
+   "flyboard",
+   "snorkelling",
+   "sunset cruise"
+  ],
+  "price_list_doc": "https://furaveri.com/wp-content/uploads/2026/01/DCF-Price-List-new.pdf"
  },
- "excursions": [],
+ "excursions": [
+  "dolphin",
+  "sunset fishing",
+  "night fishing",
+  "manta",
+  "turtle",
+  "cooking class",
+  "sandbank",
+  "big game fishing",
+  "island hopping"
+ ],
  "kids_family": {
-  "kids_club": null,
+  "kids_club": "Kids Club",
   "age_range": null,
   "teens": null
  },
- "wellness_fitness": [],
+ "wellness_fitness": [
+  "yoga",
+  "meditation",
+  "sound healing",
+  "sauna",
+  "steam",
+  "beach volleyball",
+  "fitness centre",
+  "tennis",
+  "badminton",
+  "pilates"
+ ],
  "weddings": {
-  "offered": null,
+  "offered": true,
   "vow_renewal": null,
   "venues": [],
   "packages": [],
-  "brochure_doc": null
+  "brochure_doc": "https://furaveri.com/wp-content/uploads/2022/05/FM_Website_SignatureWeddingPackage-min.pdf"
  },
  "events_mice": {
   "venues": [],
@@ -69,31 +113,343 @@
  },
  "documents_latest": {
   "factsheet": null,
-  "map": null,
-  "wedding": null,
-  "spa_menu": null,
-  "dining_menu": null,
-  "dive_prices": null,
+  "map": "https://furaveri.com/wp-content/uploads/2026/07/Furaveri_Maldives-_Premium-All-Inclusive-plan_2027-2028_rev04072026_243.pdf",
+  "wedding": "https://furaveri.com/wp-content/uploads/2022/05/FM_Website_SignatureWeddingPackage-min.pdf",
+  "spa_menu": "https://furaveri.com/wp-content/uploads/2025/07/WELLNESS-VILLAGE-MENU-17-gst.pdf",
+  "dining_menu": "https://furaveri.com/wp-content/uploads/2025/12/INTO-THE-BLUES.pdf",
+  "dive_prices": "https://furaveri.com/wp-content/uploads/2026/01/DCF-Price-List-new.pdf",
   "events": null,
   "calendar": null
  },
- "documents_count": 0,
+ "documents_count": 32,
  "gaps": [
   "factsheet",
-  "wedding brochure",
   "events/MICE document",
   "fact: villas.total",
   "fact: villa categories",
   "fact: dining",
-  "fact: transfer",
-  "fact: atoll",
-  "fact: spa",
-  "fact: dive operator",
-  "fact: kids club",
-  "fact: weddings",
-  "fact: contacts",
-  "no documents or pages collected"
+  "fact: contacts"
  ],
- "sources": {},
- "last_updated": "2026-10-04"
+ "sources": {
+  "spa.name": [
+   {
+    "value": "Spa",
+    "source_url": "https://furaveri.com/wp-content/uploads/2025/07/WELLNESS-VILLAGE-MENU-17-gst.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://furaveri.com/wp-content/uploads/2026/07/Furaveri_Maldives-_Premium-All-Inclusive-plan_2027-2028_rev04072026_243.pdf",
+    "as_of": 2028
+   }
+  ],
+  "wellness_fitness": [
+   {
+    "value": "yoga",
+    "source_url": "https://furaveri.com/wp-content/uploads/2025/07/WELLNESS-VILLAGE-MENU-17-gst.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "meditation",
+    "source_url": "https://furaveri.com/wp-content/uploads/2025/07/WELLNESS-VILLAGE-MENU-17-gst.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "sound healing",
+    "source_url": "https://furaveri.com/wp-content/uploads/2025/07/WELLNESS-VILLAGE-MENU-17-gst.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "sauna",
+    "source_url": "https://furaveri.com/wp-content/uploads/2025/07/WELLNESS-VILLAGE-MENU-17-gst.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "steam",
+    "source_url": "https://furaveri.com/wp-content/uploads/2025/07/WELLNESS-VILLAGE-MENU-17-gst.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://furaveri.com/wp-content/uploads/2025/12/INTO-THE-BLUES.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "beach volleyball",
+    "source_url": "https://furaveri.com/wp-content/uploads/2025/12/INTO-THE-BLUES.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://furaveri.com/wp-content/uploads/2026/07/Furaveri_Maldives-_Premium-All-Inclusive-plan_2027-2028_rev04072026_243.pdf",
+    "as_of": 2028
+   },
+   {
+    "value": "meditation",
+    "source_url": "https://furaveri.com/wp-content/uploads/2026/07/Furaveri_Maldives-_Premium-All-Inclusive-plan_2027-2028_rev04072026_243.pdf",
+    "as_of": 2028
+   },
+   {
+    "value": "fitness centre",
+    "source_url": "https://furaveri.com/wp-content/uploads/2026/07/Furaveri_Maldives-_Premium-All-Inclusive-plan_2027-2028_rev04072026_243.pdf",
+    "as_of": 2028
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://furaveri.com/wp-content/uploads/2026/07/Furaveri_Maldives-_Premium-All-Inclusive-plan_2027-2028_rev04072026_243.pdf",
+    "as_of": 2028
+   },
+   {
+    "value": "badminton",
+    "source_url": "https://furaveri.com/wp-content/uploads/2026/07/Furaveri_Maldives-_Premium-All-Inclusive-plan_2027-2028_rev04072026_243.pdf",
+    "as_of": 2028
+   },
+   {
+    "value": "pilates",
+    "source_url": "https://furaveri.com/wp-content/uploads/2026/07/Furaveri_Maldives-_Premium-All-Inclusive-plan_2027-2028_rev04072026_243.pdf",
+    "as_of": 2028
+   }
+  ],
+  "diving_watersports.operator": [
+   {
+    "value": "Dive Club",
+    "source_url": "https://furaveri.com/wp-content/uploads/2025/12/INTO-THE-BLUES.pdf",
+    "as_of": 2025
+   }
+  ],
+  "diving_watersports.activities": [
+   {
+    "value": "snorkeling",
+    "source_url": "https://furaveri.com/wp-content/uploads/2025/12/INTO-THE-BLUES.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://furaveri.com/wp-content/uploads/2025/12/INTO-THE-BLUES.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://furaveri.com/wp-content/uploads/2025/12/INTO-THE-BLUES.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "dolphin cruise",
+    "source_url": "https://furaveri.com/wp-content/uploads/2025/12/INTO-THE-BLUES.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "manta",
+    "source_url": "https://furaveri.com/wp-content/uploads/2025/12/INTO-THE-BLUES.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://furaveri.com/wp-content/uploads/2025/07/Reyla-Adventure-Brochure-2025-AMENDED.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "windsurfing",
+    "source_url": "https://furaveri.com/wp-content/uploads/2025/07/Reyla-Adventure-Brochure-2025-AMENDED.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "surfing",
+    "source_url": "https://furaveri.com/wp-content/uploads/2025/07/Reyla-Adventure-Brochure-2025-AMENDED.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "kayaking",
+    "source_url": "https://furaveri.com/wp-content/uploads/2025/07/Reyla-Adventure-Brochure-2025-AMENDED.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "catamaran",
+    "source_url": "https://furaveri.com/wp-content/uploads/2025/07/Reyla-Adventure-Brochure-2025-AMENDED.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "jet ski",
+    "source_url": "https://furaveri.com/wp-content/uploads/2025/07/Reyla-Adventure-Brochure-2025-AMENDED.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "parasailing",
+    "source_url": "https://furaveri.com/wp-content/uploads/2025/07/Reyla-Adventure-Brochure-2025-AMENDED.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "water skiing",
+    "source_url": "https://furaveri.com/wp-content/uploads/2025/07/Reyla-Adventure-Brochure-2025-AMENDED.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "seabob",
+    "source_url": "https://furaveri.com/wp-content/uploads/2025/07/Reyla-Adventure-Brochure-2025-AMENDED.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://furaveri.com/wp-content/uploads/2025/07/Reyla-Adventure-Brochure-2025-AMENDED.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "manta",
+    "source_url": "https://furaveri.com/wp-content/uploads/2025/07/Reyla-Adventure-Brochure-2025-AMENDED.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "sailing",
+    "source_url": "https://furaveri.com/wp-content/uploads/2025/07/Reyla-Adventure-Brochure-2025-AMENDED.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "flyboard",
+    "source_url": "https://furaveri.com/wp-content/uploads/2025/07/Reyla-Adventure-Brochure-2025-AMENDED.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://furaveri.com/wp-content/uploads/2026/07/Furaveri_Maldives-_Premium-All-Inclusive-plan_2027-2028_rev04072026_243.pdf",
+    "as_of": 2028
+   },
+   {
+    "value": "jet ski",
+    "source_url": "https://furaveri.com/wp-content/uploads/2026/07/Furaveri_Maldives-_Premium-All-Inclusive-plan_2027-2028_rev04072026_243.pdf",
+    "as_of": 2028
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://furaveri.com/wp-content/uploads/2026/07/Furaveri_Maldives-_Premium-All-Inclusive-plan_2027-2028_rev04072026_243.pdf",
+    "as_of": 2028
+   },
+   {
+    "value": "dolphin cruise",
+    "source_url": "https://furaveri.com/wp-content/uploads/2026/07/Furaveri_Maldives-_Premium-All-Inclusive-plan_2027-2028_rev04072026_243.pdf",
+    "as_of": 2028
+   }
+  ],
+  "excursions": [
+   {
+    "value": "dolphin",
+    "source_url": "https://furaveri.com/wp-content/uploads/2025/12/INTO-THE-BLUES.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "sunset fishing",
+    "source_url": "https://furaveri.com/wp-content/uploads/2025/12/INTO-THE-BLUES.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "night fishing",
+    "source_url": "https://furaveri.com/wp-content/uploads/2025/12/INTO-THE-BLUES.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "manta",
+    "source_url": "https://furaveri.com/wp-content/uploads/2025/12/INTO-THE-BLUES.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://furaveri.com/wp-content/uploads/2025/12/INTO-THE-BLUES.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "cooking class",
+    "source_url": "https://furaveri.com/wp-content/uploads/2025/12/INTO-THE-BLUES.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://furaveri.com/wp-content/uploads/2025/07/Reyla-Adventure-Brochure-2025-AMENDED.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://furaveri.com/wp-content/uploads/2025/07/Reyla-Adventure-Brochure-2025-AMENDED.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "big game fishing",
+    "source_url": "https://furaveri.com/wp-content/uploads/2025/07/Reyla-Adventure-Brochure-2025-AMENDED.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "manta",
+    "source_url": "https://furaveri.com/wp-content/uploads/2025/07/Reyla-Adventure-Brochure-2025-AMENDED.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://furaveri.com/wp-content/uploads/2025/07/Reyla-Adventure-Brochure-2025-AMENDED.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "island hopping",
+    "source_url": "https://furaveri.com/wp-content/uploads/2026/07/Furaveri_Maldives-_Premium-All-Inclusive-plan_2027-2028_rev04072026_243.pdf",
+    "as_of": 2028
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://furaveri.com/wp-content/uploads/2026/07/Furaveri_Maldives-_Premium-All-Inclusive-plan_2027-2028_rev04072026_243.pdf",
+    "as_of": 2028
+   }
+  ],
+  "atoll": [
+   {
+    "value": "Raa Atoll",
+    "source_url": "https://furaveri.com/wp-content/uploads/2025/07/Reyla-Adventure-Brochure-2025-AMENDED.pdf",
+    "as_of": 2025
+   }
+  ],
+  "transfer.modes": [
+   {
+    "value": "speedboat",
+    "source_url": "https://furaveri.com/wp-content/uploads/2025/07/Reyla-Adventure-Brochure-2025-AMENDED.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://furaveri.com/wp-content/uploads/2026/07/Furaveri_Maldives-_Premium-All-Inclusive-plan_2027-2028_rev04072026_243.pdf",
+    "as_of": 2028
+   }
+  ],
+  "transfer.minutes.speedboat": [
+   {
+    "value": 15,
+    "source_url": "https://furaveri.com/wp-content/uploads/2025/07/Reyla-Adventure-Brochure-2025-AMENDED.pdf",
+    "as_of": 2025
+   }
+  ],
+  "meal_plans": [
+   {
+    "value": "Dine Around",
+    "source_url": "https://furaveri.com/wp-content/uploads/2026/07/Furaveri_Maldives-_Premium-All-Inclusive-plan_2027-2028_rev04072026_243.pdf",
+    "as_of": 2028
+   }
+  ],
+  "all_inclusive_details": [
+   {
+    "value": "All-Inclusive Dine Around package.",
+    "source_url": "https://furaveri.com/wp-content/uploads/2026/07/Furaveri_Maldives-_Premium-All-Inclusive-plan_2027-2028_rev04072026_243.pdf",
+    "as_of": 2028
+   }
+  ],
+  "kids_family.kids_club": [
+   {
+    "value": "Kids Club",
+    "source_url": "https://furaveri.com/wp-content/uploads/2026/07/Furaveri_Maldives-_Premium-All-Inclusive-plan_2027-2028_rev04072026_243.pdf",
+    "as_of": 2028
+   }
+  ],
+  "weddings.offered": [
+   {
+    "value": true,
+    "source_url": "https://furaveri.com/wp-content/uploads/2026/07/Furaveri_Maldives-_Premium-All-Inclusive-plan_2027-2028_rev04072026_243.pdf",
+    "as_of": 2028
+   }
+  ]
+ },
+ "last_updated": "2026-10-05"
 }

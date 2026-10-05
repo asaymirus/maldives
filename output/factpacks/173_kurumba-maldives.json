@@ -6,74 +6,107 @@
   "Kurumba",
   "Vihamanaafushi"
  ],
- "official_url": null,
- "official_site_status": null,
+ "official_url": "https://www.nivakurumba.com",
+ "official_site_status": "ok",
  "operator_brand": "Kurumba",
- "atoll": null,
- "island": null,
- "opened_or_renovated": null,
- "star_rating": null,
+ "atoll": "Ari Atoll",
+ "island": "Vihamanafushi",
+ "opened_or_renovated": "opened 1972",
+ "star_rating": "4-star",
  "transfer": {
   "modes": [
+   "seaplane",
    "speedboat"
   ],
   "minutes": {
    "seaplane": null,
-   "speedboat": 10,
+   "speedboat": 75,
    "domestic flight": null,
    "yacht": null
   }
  },
  "island_size": null,
  "villas": {
-  "total": null,
+  "total": 180,
   "categories": [
    {
-    "name": "Thila Two Bedroom Kurumba Residence",
+    "name": "Beach Villas - Highlights",
+    "count": 71,
+    "size_sqm": 70,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "Beach Bungalows - Highlights",
+    "count": 33,
+    "size_sqm": 90,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "Superior Beach Villas - Highlights",
+    "count": 35,
+    "size_sqm": 90,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "Delu e Beach Villas - Highlights",
+    "count": 31,
+    "size_sqm": 95,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "Water Villas - Highlights",
+    "count": 50,
+    "size_sqm": 90,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "Delu e Water Villas - Highlights",
+    "count": 30,
+    "size_sqm": 115,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "Pool Villas - Highlights",
+    "count": 12,
+    "size_sqm": 165,
+    "max_occupancy": null,
+    "pool": true,
+    "overwater": null
+   },
+   {
+    "name": "Water Villas with Pool - Highlights",
+    "count": 33,
+    "size_sqm": 142,
+    "max_occupancy": null,
+    "pool": true,
+    "overwater": null
+   },
+   {
+    "name": "Thundi Water Villas with Pool - Highlights",
+    "count": 16,
+    "size_sqm": 142,
+    "max_occupancy": null,
+    "pool": true,
+    "overwater": null
+   },
+   {
+    "name": "Honeymoon Pool Villas - Highlights",
     "count": 2,
-    "size_sqm": null,
-    "max_occupancy": null,
-    "pool": null,
-    "overwater": null
-   },
-   {
-    "name": "Khing Thai Delu e Pool Villa",
-    "count": 7,
-    "size_sqm": null,
+    "size_sqm": 310,
     "max_occupancy": null,
     "pool": true,
-    "overwater": null
-   },
-   {
-    "name": "Beach Villa",
-    "count": 192,
-    "size_sqm": null,
-    "max_occupancy": null,
-    "pool": null,
-    "overwater": null
-   },
-   {
-    "name": "BARS Garden Pool Villa",
-    "count": 9,
-    "size_sqm": null,
-    "max_occupancy": null,
-    "pool": true,
-    "overwater": null
-   },
-   {
-    "name": "Kandu Beachfront Delu e Bungalow",
-    "count": 9,
-    "size_sqm": null,
-    "max_occupancy": null,
-    "pool": null,
-    "overwater": null
-   },
-   {
-    "name": "Number of Villas",
-    "count": 180,
-    "size_sqm": null,
-    "max_occupancy": null,
-    "pool": null,
     "overwater": null
    },
    {
@@ -96,24 +129,54 @@
  },
  "dining": [
   {
-   "name": "Isola Café",
-   "cuisine": null,
-   "type": "restaurant"
-  },
-  {
-   "name": "4 Café",
-   "cuisine": null,
-   "type": "restaurant"
-  },
-  {
-   "name": "33 VIP Lounge 28",
+   "name": "Doctors on Site - Lounge with Lockers",
    "cuisine": null,
    "type": "bar"
   },
   {
-   "name": "Dining",
+   "name": "Fung Bar Havana Club Wine & Cigar Bar",
    "cuisine": null,
-   "type": "restaurant"
+   "type": "bar"
+  },
+  {
+   "name": "Dhoni Bar Sand Bar",
+   "cuisine": null,
+   "type": "bar"
+  },
+  {
+   "name": "Laguna Bar Champagne Loft",
+   "cuisine": null,
+   "type": "bar"
+  },
+  {
+   "name": "Sky Bar",
+   "cuisine": null,
+   "type": "bar"
+  },
+  {
+   "name": "pool, and a Pool Bar.",
+   "cuisine": null,
+   "type": "bar"
+  },
+  {
+   "name": "Main Convention Hall VIP Lounge Board Room",
+   "cuisine": null,
+   "type": "bar"
+  },
+  {
+   "name": "Kandu and Fez Lounge",
+   "cuisine": null,
+   "type": "bar"
+  },
+  {
+   "name": "Athiri, Kandu & Fez Bar",
+   "cuisine": null,
+   "type": "bar"
+  },
+  {
+   "name": "Lounge",
+   "cuisine": null,
+   "type": "bar"
   },
   {
    "name": "Vihamana - International Buffet Restaurant",
@@ -151,11 +214,6 @@
    "type": "restaurant"
   },
   {
-   "name": "Cafe - Classic Cafe, Pizza and Madivian Specialities",
-   "cuisine": null,
-   "type": "restaurant"
-  },
-  {
    "name": "Kandu - Cocktail and Entertainment Bar",
    "cuisine": null,
    "type": "bar"
@@ -171,109 +229,438 @@
    "type": "bar"
   },
   {
-   "name": "Sounds of the Sea - Romantic Seaside Dining",
+   "name": "Café",
    "cuisine": null,
    "type": "restaurant"
   },
   {
-   "name": "In-Vila Dining - Classic Comfot foods and Cafe menu",
+   "name": "Kandu Bar",
    "cuisine": null,
-   "type": "restaurant"
+   "type": "bar"
   },
   {
-   "name": "Every Thursday 1630 hrs Kandu Bar",
+   "name": "Athiri Bar",
+   "cuisine": null,
+   "type": "bar"
+  },
+  {
+   "name": "Wine Cellar",
    "cuisine": null,
    "type": "bar"
   }
  ],
- "meal_plans": [],
- "all_inclusive_details": "All-Inclusive s .",
+ "meal_plans": [
+  "AI",
+  "FB"
+ ],
+ "all_inclusive_details": "all inclusive packages.",
  "spa": {
-  "name": "Veli Spa",
+  "name": "Spa",
   "treatment_rooms": null,
   "signature_treatments": [],
-  "menu_doc": null
+  "menu_doc": "https://www.nivakurumba.com/wp-content/uploads/2026/09/LIME-KurumbaSpaMenuWeb.pdf"
  },
  "diving_watersports": {
-  "operator": null,
-  "house_reef": "house reef",
+  "operator": "Dive Centre",
+  "house_reef": "house reef directly accessible",
   "activities": [
    "snorkelling",
-   "scuba diving",
+   "windsurfing",
    "surfing",
-   "fishing",
-   "snorkeling",
+   "kayaking",
+   "paddleboard",
    "catamaran",
    "jet ski",
    "parasailing",
-   "wakeboarding"
+   "wakeboarding",
+   "fishing",
+   "manta",
+   "sailing",
+   "semi-submarine",
+   "fun tube",
+   "canoe",
+   "snorkeling",
+   "scuba diving",
+   "sunset cruise"
   ],
-  "price_list_doc": null
+  "price_list_doc": "https://www.nivakurumba.com/wp-content/uploads/2026/03/Watersports-Pricelist-March-17-NIVA-LR.pdf"
  },
  "excursions": [
+  "island hopping",
+  "local island",
   "sandbank",
   "dolphin",
-  "picnic",
-  "turtle"
+  "big game fishing",
+  "manta",
+  "private dinner",
+  "cooking class",
+  "turtle",
+  "picnic"
  ],
  "kids_family": {
-  "kids_club": "Kids Club",
-  "age_range": null,
+  "kids_club": "Bageecha Kids Club",
+  "age_range": "4-12 years",
   "teens": "teens programme mentioned"
  },
  "wellness_fitness": [
-  "tennis",
+  "yoga",
   "gym",
+  "fitness centre",
+  "tennis",
+  "badminton",
+  "sauna",
+  "steam",
+  "meditation",
   "fitness center"
  ],
  "weddings": {
   "offered": true,
-  "vow_renewal": null,
+  "vow_renewal": true,
   "venues": [],
-  "packages": [],
-  "brochure_doc": null
+  "packages": [
+   {
+    "name": "Family Fun Package",
+    "price": "430",
+    "currency": "USD",
+    "as_of": 2026
+   },
+   {
+    "name": "Extreme Package",
+    "price": "330",
+    "currency": "USD",
+    "as_of": 2026
+   },
+   {
+    "name": "Couple Adventure Package",
+    "price": "360",
+    "currency": "USD",
+    "as_of": 2026
+   },
+   {
+    "name": "Splash Seeker Package",
+    "price": "150",
+    "currency": "USD",
+    "as_of": 2026
+   }
+  ],
+  "brochure_doc": "https://www.nivakurumba.com/wp-content/uploads/2026/04/Kurumba-Event-Destinations-LR.pdf"
  },
  "events_mice": {
-  "venues": [
-   "34 Boardroom 9 2"
-  ],
-  "capacity_max": null,
+  "venues": [],
+  "capacity_max": 200,
   "buyout": null,
-  "doc": null
+  "doc": "https://www.nivakurumba.com/wp-content/uploads/2026/07/Kurumba-Key-Employment-Policies.pdf"
  },
- "sustainability": [],
+ "sustainability": [
+  "marine biologist"
+ ],
  "contacts_public": {
   "reservations_email": "info@neoscapesmaldives.com",
-  "weddings_email": null,
+  "weddings_email": "events@nivakurumba.com",
   "phone": "+960 736 5425"
  },
  "documents_latest": {
-  "factsheet": "https://www.neoscapesmaldives.com/wp-content/uploads/Factsheet-Kurumba-Maldives.pdf",
-  "map": "https://www.neoscapesmaldives.com/wp-content/uploads/Map-Kurumba-Maldives.pdf",
-  "wedding": null,
-  "spa_menu": null,
-  "dining_menu": null,
-  "dive_prices": null,
-  "events": null,
-  "calendar": null
+  "factsheet": "https://www.nivakurumba.com/wp-content/uploads/2026/02/Kuramathi-Fact-Sheet.pdf",
+  "map": "https://www.nivakurumba.com/wp-content/uploads/2026/03/Dining-Plan.pdf",
+  "wedding": "https://www.nivakurumba.com/wp-content/uploads/2026/04/Kurumba-Event-Destinations-LR.pdf",
+  "spa_menu": "https://www.nivakurumba.com/wp-content/uploads/2026/09/LIME-KurumbaSpaMenuWeb.pdf",
+  "dining_menu": "https://www.nivakurumba.com/wp-content/uploads/2025/09/Kurumba-beverage-List-LR-1.pdf",
+  "dive_prices": "https://www.nivakurumba.com/wp-content/uploads/2026/03/Watersports-Pricelist-March-17-NIVA-LR.pdf",
+  "events": "https://www.nivakurumba.com/wp-content/uploads/2026/07/Kurumba-Key-Employment-Policies.pdf",
+  "calendar": "https://www.nivakurumba.com/wp-content/uploads/2026/07/Niva-Kurumba_Festive-2026-web-1.pdf"
  },
- "documents_count": 2,
- "gaps": [
-  "wedding brochure",
-  "events/MICE document",
-  "fact: villas.total",
-  "fact: atoll",
-  "fact: dive operator"
- ],
+ "documents_count": 88,
+ "gaps": [],
  "sources": {
+  "atoll": [
+   {
+    "value": "Ari Atoll",
+    "source_url": "https://www.nivakurumba.com/wp-content/uploads/2026/02/Kuramathi-Fact-Sheet.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "North Male Atoll",
+    "source_url": "https://hummingbird.travel/property/kurumba-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "North Male Atoll",
+    "source_url": "https://www.mymaldives.com/resort-guide/kurumba-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "North Male Atoll",
+    "source_url": "https://www.mymaldives.com/blog/kurumba-maldives-announces-majaa-kids-club/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "North Male Atoll",
+    "source_url": "https://www.dnatatravel.com/2-218589-1/kurumba-maldives?oc=true",
+    "as_of": "2026-10-04"
+   }
+  ],
   "transfer.modes": [
    {
-    "value": "speedboat",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Factsheet-Kurumba-Maldives.pdf",
-    "as_of": 2019
+    "value": "seaplane",
+    "source_url": "https://www.nivakurumba.com/wp-content/uploads/2026/02/Kuramathi-Fact-Sheet.pdf",
+    "as_of": 2026
    },
    {
     "value": "speedboat",
+    "source_url": "https://www.nivakurumba.com/wp-content/uploads/2026/02/Kuramathi-Fact-Sheet.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.neoscapesmaldives.com/resort/kurumba-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://hummingbird.travel/property/kurumba-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.mymaldives.com/blog/kurumba-maldives-announces-40-activities-to-celebrate-its-40th-years-anniversary/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.mymaldives.com/resort-guide/kurumba-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.mymaldives.com/blog/kurumba-maldives-announces-majaa-kids-club/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.maldivestourism.net/resorts/kurumba-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.dnatatravel.com/2-218589-1/kurumba-maldives?oc=true",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "transfer.minutes.speedboat": [
+   {
+    "value": 75,
+    "source_url": "https://www.nivakurumba.com/wp-content/uploads/2026/02/Kuramathi-Fact-Sheet.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": 10,
+    "source_url": "https://www.neoscapesmaldives.com/resort/kurumba-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 10,
+    "source_url": "https://www.mymaldives.com/blog/kurumba-maldives-announces-40-activities-to-celebrate-its-40th-years-anniversary/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 10,
+    "source_url": "https://www.mymaldives.com/resort-guide/kurumba-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 10,
+    "source_url": "https://www.mymaldives.com/blog/kurumba-maldives-announces-majaa-kids-club/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 15,
+    "source_url": "https://www.maldivestourism.net/resorts/kurumba-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 10,
+    "source_url": "https://www.dnatatravel.com/2-218589-1/kurumba-maldives?oc=true",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "villas.categories": [
+   {
+    "value": {
+     "name": "Beach Villas - Highlights",
+     "count": 71,
+     "size_sqm": 70,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://www.nivakurumba.com/wp-content/uploads/2026/02/Kuramathi-Fact-Sheet.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": {
+     "name": "Beach Bungalows - Highlights",
+     "count": 33,
+     "size_sqm": 90,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://www.nivakurumba.com/wp-content/uploads/2026/02/Kuramathi-Fact-Sheet.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": {
+     "name": "Superior Beach Villas - Highlights",
+     "count": 35,
+     "size_sqm": 90,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://www.nivakurumba.com/wp-content/uploads/2026/02/Kuramathi-Fact-Sheet.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": {
+     "name": "Delu e Beach Villas - Highlights",
+     "count": 31,
+     "size_sqm": 95,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://www.nivakurumba.com/wp-content/uploads/2026/02/Kuramathi-Fact-Sheet.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": {
+     "name": "Water Villas - Highlights",
+     "count": 50,
+     "size_sqm": 90,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://www.nivakurumba.com/wp-content/uploads/2026/02/Kuramathi-Fact-Sheet.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": {
+     "name": "Delu e Water Villas - Highlights",
+     "count": 30,
+     "size_sqm": 115,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://www.nivakurumba.com/wp-content/uploads/2026/02/Kuramathi-Fact-Sheet.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": {
+     "name": "Pool Villas - Highlights",
+     "count": 12,
+     "size_sqm": 165,
+     "max_occupancy": null,
+     "pool": true,
+     "overwater": null
+    },
+    "source_url": "https://www.nivakurumba.com/wp-content/uploads/2026/02/Kuramathi-Fact-Sheet.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": {
+     "name": "Water Villas with Pool - Highlights",
+     "count": 33,
+     "size_sqm": 142,
+     "max_occupancy": null,
+     "pool": true,
+     "overwater": null
+    },
+    "source_url": "https://www.nivakurumba.com/wp-content/uploads/2026/02/Kuramathi-Fact-Sheet.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": {
+     "name": "Thundi Water Villas with Pool - Highlights",
+     "count": 16,
+     "size_sqm": 142,
+     "max_occupancy": null,
+     "pool": true,
+     "overwater": null
+    },
+    "source_url": "https://www.nivakurumba.com/wp-content/uploads/2026/02/Kuramathi-Fact-Sheet.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": {
+     "name": "Honeymoon Pool Villas - Highlights",
+     "count": 2,
+     "size_sqm": 310,
+     "max_occupancy": null,
+     "pool": true,
+     "overwater": null
+    },
+    "source_url": "https://www.nivakurumba.com/wp-content/uploads/2026/02/Kuramathi-Fact-Sheet.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": {
+     "name": "A beautifully appointed bungalow with direct beach access",
+     "count": null,
+     "size_sqm": 74,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://www.neoscapesmaldives.com/resort/kurumba-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "beach villa - kurumba maldives",
+     "count": 4,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://www.neoscapesmaldives.com/resort/kurumba-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "beach villa kurumba maldives",
+     "count": 3,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://www.neoscapesmaldives.com/resort/kurumba-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "beach villa kurumba maldives",
+     "count": 2,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://www.neoscapesmaldives.com/resort/kurumba-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "beach villa kurumba maldives",
+     "count": 1,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
     "source_url": "https://www.neoscapesmaldives.com/resort/kurumba-maldives/",
     "as_of": "2026-10-04"
    }
@@ -281,47 +668,92 @@
   "dining": [
    {
     "value": {
-     "name": "Isola Café",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Factsheet-Kurumba-Maldives.pdf",
-    "as_of": 2019
-   },
-   {
-    "value": {
-     "name": "4 Café",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Map-Kurumba-Maldives.pdf",
-    "as_of": 2019
-   },
-   {
-    "value": {
-     "name": "33 VIP Lounge 28",
+     "name": "Doctors on Site - Lounge with Lockers",
      "cuisine": null,
      "type": "bar"
     },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Map-Kurumba-Maldives.pdf",
-    "as_of": 2019
+    "source_url": "https://www.nivakurumba.com/wp-content/uploads/2026/02/Kuramathi-Fact-Sheet.pdf",
+    "as_of": 2026
    },
    {
     "value": {
-     "name": "Dining",
+     "name": "Fung Bar Havana Club Wine & Cigar Bar",
      "cuisine": null,
-     "type": "restaurant"
+     "type": "bar"
     },
-    "source_url": "https://www.neoscapesmaldives.com/resort/kurumba-maldives/",
-    "as_of": "2026-10-04"
+    "source_url": "https://www.nivakurumba.com/wp-content/uploads/2026/02/Kuramathi-Fact-Sheet.pdf",
+    "as_of": 2026
    },
    {
     "value": {
-     "name": "Dining",
+     "name": "Dhoni Bar Sand Bar",
      "cuisine": null,
-     "type": "restaurant"
+     "type": "bar"
     },
-    "source_url": "https://www.neoscapesmaldives.com/resort/kurumba-maldives/",
+    "source_url": "https://www.nivakurumba.com/wp-content/uploads/2026/02/Kuramathi-Fact-Sheet.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": {
+     "name": "Laguna Bar Champagne Loft",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.nivakurumba.com/wp-content/uploads/2026/02/Kuramathi-Fact-Sheet.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": {
+     "name": "Sky Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.nivakurumba.com/wp-content/uploads/2026/02/Kuramathi-Fact-Sheet.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": {
+     "name": "pool, and a Pool Bar.",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.nivakurumba.com/wp-content/uploads/2026/02/Kuramathi-Fact-Sheet.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": {
+     "name": "Main Convention Hall VIP Lounge Board Room",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.nivakurumba.com/wp-content/uploads/2026/04/Kurumba-Event-Destinations-LR.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": {
+     "name": "Kandu and Fez Lounge",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.nivakurumba.com/wp-content/uploads/2026/03/Dining-Plan.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": {
+     "name": "Athiri, Kandu & Fez Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.nivakurumba.com/wp-content/uploads/2026/03/Dining-Plan.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": {
+     "name": "Lounge",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.nivakurumba.com/meetings-incentives-conferences/",
     "as_of": "2026-10-04"
    },
    {
@@ -389,15 +821,6 @@
    },
    {
     "value": {
-     "name": "Cafe - Classic Cafe, Pizza and Madivian Specialities",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/kurumba-maldives/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
      "name": "Kandu - Cocktail and Entertainment Bar",
      "cuisine": null,
      "type": "bar"
@@ -425,71 +848,274 @@
    },
    {
     "value": {
-     "name": "Sounds of the Sea - Romantic Seaside Dining",
+     "name": "Café",
      "cuisine": null,
      "type": "restaurant"
     },
-    "source_url": "https://www.neoscapesmaldives.com/resort/kurumba-maldives/",
+    "source_url": "https://hummingbird.travel/property/kurumba-maldives",
     "as_of": "2026-10-04"
    },
    {
     "value": {
-     "name": "In-Vila Dining - Classic Comfot foods and Cafe menu",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/kurumba-maldives/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Every Thursday 1630 hrs Kandu Bar",
+     "name": "Kandu Bar",
      "cuisine": null,
      "type": "bar"
     },
-    "source_url": "https://www.neoscapesmaldives.com/resort/kurumba-maldives/",
+    "source_url": "https://hummingbird.travel/property/kurumba-maldives",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Athiri Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://hummingbird.travel/property/kurumba-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Wine Cellar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://hummingbird.travel/property/kurumba-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Café",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.dnatatravel.com/2-218589-1/kurumba-maldives?oc=true",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Kandu Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.dnatatravel.com/2-218589-1/kurumba-maldives?oc=true",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "meal_plans": [
+   {
+    "value": "AI",
+    "source_url": "https://www.nivakurumba.com/wp-content/uploads/2026/02/Kuramathi-Fact-Sheet.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "FB",
+    "source_url": "https://www.nivakurumba.com/wp-content/uploads/2025/09/Kurumba-beverage-List-LR-1.pdf",
+    "as_of": 2026
    }
   ],
   "all_inclusive_details": [
    {
-    "value": "All-Inclusive s .",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Factsheet-Kurumba-Maldives.pdf",
-    "as_of": 2019
+    "value": "all inclusive packages.",
+    "source_url": "https://www.nivakurumba.com/wp-content/uploads/2026/02/Kuramathi-Fact-Sheet.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "All Inclusive: For stays 7 nights and above, 2 excursions may be chosen.",
+    "source_url": "https://www.nivakurumba.com/wp-content/uploads/2026/03/Dining-Plan.pdf",
+    "as_of": 2026
+   }
+  ],
+  "spa.name": [
+   {
+    "value": "Spa",
+    "source_url": "https://www.nivakurumba.com/wp-content/uploads/2026/02/Kuramathi-Fact-Sheet.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.nivakurumba.com/wp-content/uploads/2026/03/Dining-Plan.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "Veli Spa",
+    "source_url": "https://www.neoscapesmaldives.com/resort/kurumba-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://hummingbird.travel/property/kurumba-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.mymaldives.com/blog/kurumba-maldives-announces-40-activities-to-celebrate-its-40th-years-anniversary/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.mymaldives.com/resort-guide/kurumba-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Veli Spa",
+    "source_url": "https://www.dnatatravel.com/2-218589-1/kurumba-maldives?oc=true",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "diving_watersports.operator": [
+   {
+    "value": "Dive Centre",
+    "source_url": "https://www.nivakurumba.com/wp-content/uploads/2026/02/Kuramathi-Fact-Sheet.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "Euro Divers",
+    "source_url": "https://www.mymaldives.com/blog/earth-day-at-kurumba-maldives-2019/",
+    "as_of": "2026-10-04"
    }
   ],
   "diving_watersports.house_reef": [
    {
-    "value": "house reef combined with never ending choices of fun activities and social events",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Factsheet-Kurumba-Maldives.pdf",
-    "as_of": 2019
+    "value": "house reef directly accessible",
+    "source_url": "https://www.nivakurumba.com/wp-content/uploads/2026/02/Kuramathi-Fact-Sheet.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "HOUSE REEF TOUR",
+    "source_url": "https://www.nivakurumba.com/wp-content/uploads/2026/01/NIVA-Kurumba_Kids_Activity_Schedule4-6-LR.pdf",
+    "as_of": 2026
    },
    {
     "value": "house reef",
     "source_url": "https://www.neoscapesmaldives.com/resort/kurumba-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "House Reef",
+    "source_url": "https://hummingbird.travel/property/kurumba-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef",
+    "source_url": "https://www.mymaldives.com/blog/kurumba-maldives-announces-40-activities-to-celebrate-its-40th-years-anniversary/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef are the hallmarks of this classic Maldivian resort",
+    "source_url": "https://www.mymaldives.com/resort-guide/kurumba-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef are the hallmarks of this classic Maldivian resort",
+    "source_url": "https://www.mymaldives.com/blog/kurumba-maldives-announces-majaa-kids-club/",
     "as_of": "2026-10-04"
    }
   ],
   "diving_watersports.activities": [
    {
     "value": "snorkelling",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Factsheet-Kurumba-Maldives.pdf",
-    "as_of": 2019
+    "source_url": "https://www.nivakurumba.com/wp-content/uploads/2026/02/Kuramathi-Fact-Sheet.pdf",
+    "as_of": 2026
    },
    {
-    "value": "scuba diving",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Factsheet-Kurumba-Maldives.pdf",
-    "as_of": 2019
+    "value": "windsurfing",
+    "source_url": "https://www.nivakurumba.com/wp-content/uploads/2026/02/Kuramathi-Fact-Sheet.pdf",
+    "as_of": 2026
    },
    {
     "value": "surfing",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Factsheet-Kurumba-Maldives.pdf",
-    "as_of": 2019
+    "source_url": "https://www.nivakurumba.com/wp-content/uploads/2026/02/Kuramathi-Fact-Sheet.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "kayaking",
+    "source_url": "https://www.nivakurumba.com/wp-content/uploads/2026/02/Kuramathi-Fact-Sheet.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "paddleboard",
+    "source_url": "https://www.nivakurumba.com/wp-content/uploads/2026/02/Kuramathi-Fact-Sheet.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "catamaran",
+    "source_url": "https://www.nivakurumba.com/wp-content/uploads/2026/02/Kuramathi-Fact-Sheet.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "jet ski",
+    "source_url": "https://www.nivakurumba.com/wp-content/uploads/2026/02/Kuramathi-Fact-Sheet.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "parasailing",
+    "source_url": "https://www.nivakurumba.com/wp-content/uploads/2026/02/Kuramathi-Fact-Sheet.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "wakeboarding",
+    "source_url": "https://www.nivakurumba.com/wp-content/uploads/2026/02/Kuramathi-Fact-Sheet.pdf",
+    "as_of": 2026
    },
    {
     "value": "fishing",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Factsheet-Kurumba-Maldives.pdf",
-    "as_of": 2019
+    "source_url": "https://www.nivakurumba.com/wp-content/uploads/2026/02/Kuramathi-Fact-Sheet.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.nivakurumba.com/wp-content/uploads/2026/02/Kuramathi-Fact-Sheet.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "sailing",
+    "source_url": "https://www.nivakurumba.com/wp-content/uploads/2026/02/Kuramathi-Fact-Sheet.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "semi-submarine",
+    "source_url": "https://www.nivakurumba.com/wp-content/uploads/2026/02/Kuramathi-Fact-Sheet.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.nivakurumba.com/wp-content/uploads/2026/03/Watersports-Pricelist-March-17-NIVA-LR.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "windsurfing",
+    "source_url": "https://www.nivakurumba.com/wp-content/uploads/2026/03/Watersports-Pricelist-March-17-NIVA-LR.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "jet ski",
+    "source_url": "https://www.nivakurumba.com/wp-content/uploads/2026/03/Watersports-Pricelist-March-17-NIVA-LR.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "wakeboarding",
+    "source_url": "https://www.nivakurumba.com/wp-content/uploads/2026/03/Watersports-Pricelist-March-17-NIVA-LR.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "fun tube",
+    "source_url": "https://www.nivakurumba.com/wp-content/uploads/2026/03/Watersports-Pricelist-March-17-NIVA-LR.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "canoe",
+    "source_url": "https://www.nivakurumba.com/wp-content/uploads/2026/03/Watersports-Pricelist-March-17-NIVA-LR.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.nivakurumba.com/wp-content/uploads/2026/01/NIVA-Kurumba_Kids_Activity_Schedule4-6-LR.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.nivakurumba.com/wp-content/uploads/2026/07/Kurumba-Responsible-Team-Member-Guide.pdf",
+    "as_of": 2026
    },
    {
     "value": "snorkelling",
@@ -525,240 +1151,460 @@
     "value": "wakeboarding",
     "source_url": "https://www.neoscapesmaldives.com/resort/kurumba-maldives/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://hummingbird.travel/property/kurumba-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://hummingbird.travel/property/kurumba-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "surfing",
+    "source_url": "https://hummingbird.travel/property/kurumba-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.mymaldives.com/blog/kurumba-maldives-announces-40-activities-to-celebrate-its-40th-years-anniversary/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://www.mymaldives.com/resort-guide/kurumba-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "windsurfing",
+    "source_url": "https://www.mymaldives.com/resort-guide/kurumba-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "catamaran",
+    "source_url": "https://www.mymaldives.com/resort-guide/kurumba-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "parasailing",
+    "source_url": "https://www.mymaldives.com/resort-guide/kurumba-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.mymaldives.com/resort-guide/kurumba-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sailing",
+    "source_url": "https://www.mymaldives.com/resort-guide/kurumba-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "canoe",
+    "source_url": "https://www.mymaldives.com/resort-guide/kurumba-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.maldivestourism.net/resorts/kurumba-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "catamaran",
+    "source_url": "https://www.dnatatravel.com/2-218589-1/kurumba-maldives?oc=true",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "jet ski",
+    "source_url": "https://www.dnatatravel.com/2-218589-1/kurumba-maldives?oc=true",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "parasailing",
+    "source_url": "https://www.dnatatravel.com/2-218589-1/kurumba-maldives?oc=true",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "wakeboarding",
+    "source_url": "https://www.dnatatravel.com/2-218589-1/kurumba-maldives?oc=true",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.dnatatravel.com/2-218589-1/kurumba-maldives?oc=true",
+    "as_of": "2026-10-04"
    }
   ],
   "excursions": [
    {
+    "value": "island hopping",
+    "source_url": "https://www.nivakurumba.com/wp-content/uploads/2026/02/Kuramathi-Fact-Sheet.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "local island",
+    "source_url": "https://www.nivakurumba.com/wp-content/uploads/2026/02/Kuramathi-Fact-Sheet.pdf",
+    "as_of": 2026
+   },
+   {
     "value": "sandbank",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Factsheet-Kurumba-Maldives.pdf",
-    "as_of": 2019
+    "source_url": "https://www.nivakurumba.com/wp-content/uploads/2026/02/Kuramathi-Fact-Sheet.pdf",
+    "as_of": 2026
    },
    {
     "value": "dolphin",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Factsheet-Kurumba-Maldives.pdf",
-    "as_of": 2019
+    "source_url": "https://www.nivakurumba.com/wp-content/uploads/2026/02/Kuramathi-Fact-Sheet.pdf",
+    "as_of": 2026
    },
    {
-    "value": "picnic",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Factsheet-Kurumba-Maldives.pdf",
-    "as_of": 2019
+    "value": "big game fishing",
+    "source_url": "https://www.nivakurumba.com/wp-content/uploads/2026/02/Kuramathi-Fact-Sheet.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.nivakurumba.com/wp-content/uploads/2026/02/Kuramathi-Fact-Sheet.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "private dinner",
+    "source_url": "https://www.nivakurumba.com/wp-content/uploads/2026/04/Kurumba-Event-Destinations-LR.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.nivakurumba.com/wp-content/uploads/2026/03/Watersports-Pricelist-March-17-NIVA-LR.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.nivakurumba.com/wp-content/uploads/2026/03/Watersports-Pricelist-March-17-NIVA-LR.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "cooking class",
+    "source_url": "https://www.nivakurumba.com/wp-content/uploads/2026/01/NIVA-Kurumba_Kids_Activity_Schedule4-6-LR.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.nivakurumba.com/wp-content/uploads/2026/03/Dining-Plan.pdf",
+    "as_of": 2026
    },
    {
     "value": "turtle",
     "source_url": "https://www.neoscapesmaldives.com/resort/kurumba-maldives/",
     "as_of": "2026-10-04"
-   }
-  ],
-  "kids_family.teens": [
-   {
-    "value": "teens programme mentioned",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Factsheet-Kurumba-Maldives.pdf",
-    "as_of": 2019
    },
    {
-    "value": "teens programme mentioned",
-    "source_url": "https://www.neoscapesmaldives.com/resort/kurumba-maldives/",
-    "as_of": "2026-10-04"
-   }
-  ],
-  "wellness_fitness": [
-   {
-    "value": "tennis",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Factsheet-Kurumba-Maldives.pdf",
-    "as_of": 2019
-   },
-   {
-    "value": "gym",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Map-Kurumba-Maldives.pdf",
-    "as_of": 2019
-   },
-   {
-    "value": "tennis",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Map-Kurumba-Maldives.pdf",
-    "as_of": 2019
-   },
-   {
-    "value": "fitness center",
-    "source_url": "https://www.neoscapesmaldives.com/resort/kurumba-maldives/",
-    "as_of": "2026-10-04"
-   }
-  ],
-  "villas.categories": [
-   {
-    "value": {
-     "name": "Thila Two Bedroom Kurumba Residence",
-     "count": 2,
-     "size_sqm": null,
-     "max_occupancy": null,
-     "pool": null,
-     "overwater": null
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Map-Kurumba-Maldives.pdf",
-    "as_of": 2019
-   },
-   {
-    "value": {
-     "name": "Khing Thai Delu e Pool Villa",
-     "count": 7,
-     "size_sqm": null,
-     "max_occupancy": null,
-     "pool": true,
-     "overwater": null
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Map-Kurumba-Maldives.pdf",
-    "as_of": 2019
-   },
-   {
-    "value": {
-     "name": "Beach Villa",
-     "count": 192,
-     "size_sqm": null,
-     "max_occupancy": null,
-     "pool": null,
-     "overwater": null
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Map-Kurumba-Maldives.pdf",
-    "as_of": 2019
-   },
-   {
-    "value": {
-     "name": "BARS Garden Pool Villa",
-     "count": 9,
-     "size_sqm": null,
-     "max_occupancy": null,
-     "pool": true,
-     "overwater": null
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Map-Kurumba-Maldives.pdf",
-    "as_of": 2019
-   },
-   {
-    "value": {
-     "name": "Kandu Beachfront Delu e Bungalow",
-     "count": 9,
-     "size_sqm": null,
-     "max_occupancy": null,
-     "pool": null,
-     "overwater": null
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Map-Kurumba-Maldives.pdf",
-    "as_of": 2019
-   },
-   {
-    "value": {
-     "name": "Number of Villas",
-     "count": 180,
-     "size_sqm": null,
-     "max_occupancy": null,
-     "pool": null,
-     "overwater": null
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/kurumba-maldives/",
+    "value": "local island",
+    "source_url": "https://www.mymaldives.com/blog/kurumba-maldives-announces-40-activities-to-celebrate-its-40th-years-anniversary/",
     "as_of": "2026-10-04"
    },
    {
-    "value": {
-     "name": "A beautifully appointed bungalow with direct beach access",
-     "count": null,
-     "size_sqm": 74,
-     "max_occupancy": null,
-     "pool": null,
-     "overwater": null
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/kurumba-maldives/",
+    "value": "cooking class",
+    "source_url": "https://www.mymaldives.com/blog/kurumba-maldives-announces-40-activities-to-celebrate-its-40th-years-anniversary/",
     "as_of": "2026-10-04"
    },
    {
-    "value": {
-     "name": "beach villa - kurumba maldives",
-     "count": 4,
-     "size_sqm": null,
-     "max_occupancy": null,
-     "pool": null,
-     "overwater": null
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/kurumba-maldives/",
+    "value": "sandbank",
+    "source_url": "https://www.mymaldives.com/blog/earth-day-at-kurumba-maldives-2019/",
     "as_of": "2026-10-04"
    },
    {
-    "value": {
-     "name": "beach villa kurumba maldives",
-     "count": 3,
-     "size_sqm": null,
-     "max_occupancy": null,
-     "pool": null,
-     "overwater": null
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/kurumba-maldives/",
+    "value": "big game fishing",
+    "source_url": "https://www.mymaldives.com/resort-guide/kurumba-maldives/",
     "as_of": "2026-10-04"
    },
    {
-    "value": {
-     "name": "beach villa kurumba maldives",
-     "count": 2,
-     "size_sqm": null,
-     "max_occupancy": null,
-     "pool": null,
-     "overwater": null
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/kurumba-maldives/",
+    "value": "sandbank",
+    "source_url": "https://www.dnatatravel.com/2-218589-1/kurumba-maldives?oc=true",
     "as_of": "2026-10-04"
    },
    {
-    "value": {
-     "name": "beach villa kurumba maldives",
-     "count": 1,
-     "size_sqm": null,
-     "max_occupancy": null,
-     "pool": null,
-     "overwater": null
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/kurumba-maldives/",
+    "value": "dolphin",
+    "source_url": "https://www.dnatatravel.com/2-218589-1/kurumba-maldives?oc=true",
     "as_of": "2026-10-04"
-   }
-  ],
-  "spa.name": [
-   {
-    "value": "Veli Spa",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Map-Kurumba-Maldives.pdf",
-    "as_of": 2019
    },
    {
-    "value": "Veli Spa",
-    "source_url": "https://www.neoscapesmaldives.com/resort/kurumba-maldives/",
+    "value": "picnic",
+    "source_url": "https://www.dnatatravel.com/2-218589-1/kurumba-maldives?oc=true",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "cooking class",
+    "source_url": "https://www.dnatatravel.com/2-218589-1/kurumba-maldives?oc=true",
     "as_of": "2026-10-04"
    }
   ],
   "kids_family.kids_club": [
    {
-    "value": "Majaa Kids Club",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Map-Kurumba-Maldives.pdf",
-    "as_of": 2019
+    "value": "Bageecha Kids Club",
+    "source_url": "https://www.nivakurumba.com/wp-content/uploads/2026/02/Kuramathi-Fact-Sheet.pdf",
+    "as_of": 2026
    },
    {
     "value": "Kids Club",
     "source_url": "https://www.neoscapesmaldives.com/resort/kurumba-maldives/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "Kids Club",
+    "source_url": "https://hummingbird.travel/property/kurumba-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Majaa Kids Club",
+    "source_url": "https://www.mymaldives.com/blog/kurumba-maldives-announces-majaa-kids-club/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Childcare\nBar\nChildren's Club",
+    "source_url": "https://www.dnatatravel.com/2-218589-1/kurumba-maldives?oc=true",
+    "as_of": "2026-10-04"
    }
   ],
-  "events_mice.venues": [
+  "wellness_fitness": [
    {
-    "value": "34 Boardroom 9 2",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Map-Kurumba-Maldives.pdf",
-    "as_of": 2019
-   }
-  ],
-  "transfer.minutes.speedboat": [
+    "value": "yoga",
+    "source_url": "https://www.nivakurumba.com/wp-content/uploads/2026/02/Kuramathi-Fact-Sheet.pdf",
+    "as_of": 2026
+   },
    {
-    "value": 10,
+    "value": "gym",
+    "source_url": "https://www.nivakurumba.com/wp-content/uploads/2026/02/Kuramathi-Fact-Sheet.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "fitness centre",
+    "source_url": "https://www.nivakurumba.com/wp-content/uploads/2026/02/Kuramathi-Fact-Sheet.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://www.nivakurumba.com/wp-content/uploads/2026/02/Kuramathi-Fact-Sheet.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "badminton",
+    "source_url": "https://www.nivakurumba.com/wp-content/uploads/2026/02/Kuramathi-Fact-Sheet.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "sauna",
+    "source_url": "https://www.nivakurumba.com/wp-content/uploads/2026/02/Kuramathi-Fact-Sheet.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "steam",
+    "source_url": "https://www.nivakurumba.com/wp-content/uploads/2026/02/Kuramathi-Fact-Sheet.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "gym",
+    "source_url": "https://www.nivakurumba.com/wp-content/uploads/2026/07/Kurumba-Key-Employment-Policies.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.nivakurumba.com/wp-content/uploads/2026/09/LIME-KurumbaSpaMenuWeb.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.nivakurumba.com/wp-content/uploads/2026/01/NIVA-Kurumba_Kids_Activity_Schedule4-6-LR.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "meditation",
+    "source_url": "https://www.nivakurumba.com/wp-content/uploads/2026/01/NIVA-Kurumba_Kids_Activity_Schedule4-6-LR.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.nivakurumba.com/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fitness center",
     "source_url": "https://www.neoscapesmaldives.com/resort/kurumba-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://hummingbird.travel/property/kurumba-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "gym",
+    "source_url": "https://hummingbird.travel/property/kurumba-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://hummingbird.travel/property/kurumba-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://www.mymaldives.com/resort-guide/kurumba-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "badminton",
+    "source_url": "https://www.mymaldives.com/resort-guide/kurumba-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sauna",
+    "source_url": "https://www.mymaldives.com/resort-guide/kurumba-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "gym",
+    "source_url": "https://www.maldivestourism.net/resorts/kurumba-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://www.maldivestourism.net/resorts/kurumba-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.dnatatravel.com/2-218589-1/kurumba-maldives?oc=true",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "gym",
+    "source_url": "https://www.dnatatravel.com/2-218589-1/kurumba-maldives?oc=true",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://www.dnatatravel.com/2-218589-1/kurumba-maldives?oc=true",
     "as_of": "2026-10-04"
    }
   ],
   "weddings.offered": [
    {
     "value": true,
+    "source_url": "https://www.nivakurumba.com/wp-content/uploads/2026/02/Kuramathi-Fact-Sheet.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": true,
+    "source_url": "https://www.nivakurumba.com/wp-content/uploads/2026/04/Kurumba-Event-Destinations-LR.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": true,
     "source_url": "https://www.neoscapesmaldives.com/resort/kurumba-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.mymaldives.com/blog/kurumba-maldives-announces-40-activities-to-celebrate-its-40th-years-anniversary/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "weddings.vow_renewal": [
+   {
+    "value": true,
+    "source_url": "https://www.nivakurumba.com/wp-content/uploads/2026/02/Kuramathi-Fact-Sheet.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": true,
+    "source_url": "https://www.nivakurumba.com/wp-content/uploads/2026/04/Kurumba-Event-Destinations-LR.pdf",
+    "as_of": 2026
+   }
+  ],
+  "sustainability": [
+   {
+    "value": "marine biologist",
+    "source_url": "https://www.nivakurumba.com/wp-content/uploads/2026/02/Kuramathi-Fact-Sheet.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "marine biologist",
+    "source_url": "https://www.mymaldives.com/blog/kurumba-maldives-announces-40-activities-to-celebrate-its-40th-years-anniversary/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "events_mice.capacity_max": [
+   {
+    "value": 200,
+    "source_url": "https://www.nivakurumba.com/wp-content/uploads/2026/04/Kurumba-Event-Destinations-LR.pdf",
+    "as_of": 2026
+   }
+  ],
+  "contacts_public.weddings_email": [
+   {
+    "value": "events@nivakurumba.com",
+    "source_url": "https://www.nivakurumba.com/wp-content/uploads/2026/04/Kurumba-Event-Destinations-LR.pdf",
+    "as_of": 2026
+   }
+  ],
+  "weddings.packages": [
+   {
+    "value": {
+     "name": "Family Fun Package",
+     "price": "430",
+     "currency": "USD",
+     "as_of": 2026
+    },
+    "source_url": "https://www.nivakurumba.com/wp-content/uploads/2026/03/Watersports-Pricelist-March-17-NIVA-LR.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": {
+     "name": "Extreme Package",
+     "price": "330",
+     "currency": "USD",
+     "as_of": 2026
+    },
+    "source_url": "https://www.nivakurumba.com/wp-content/uploads/2026/03/Watersports-Pricelist-March-17-NIVA-LR.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": {
+     "name": "Couple Adventure Package",
+     "price": "360",
+     "currency": "USD",
+     "as_of": 2026
+    },
+    "source_url": "https://www.nivakurumba.com/wp-content/uploads/2026/03/Watersports-Pricelist-March-17-NIVA-LR.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": {
+     "name": "Splash Seeker Package",
+     "price": "150",
+     "currency": "USD",
+     "as_of": 2026
+    },
+    "source_url": "https://www.nivakurumba.com/wp-content/uploads/2026/03/Watersports-Pricelist-March-17-NIVA-LR.pdf",
+    "as_of": 2026
+   }
+  ],
+  "kids_family.teens": [
+   {
+    "value": "teens programme mentioned",
+    "source_url": "https://www.nivakurumba.com/wp-content/uploads/2026/03/Dining-Plan.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "teens programme mentioned",
+    "source_url": "https://www.neoscapesmaldives.com/resort/kurumba-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "teens programme mentioned",
+    "source_url": "https://hummingbird.travel/property/kurumba-maldives",
     "as_of": "2026-10-04"
    }
   ],
@@ -775,7 +1621,57 @@
     "source_url": "https://www.neoscapesmaldives.com/resort/kurumba-maldives/",
     "as_of": "2026-10-04"
    }
+  ],
+  "star_rating": [
+   {
+    "value": "4-star",
+    "source_url": "https://hummingbird.travel/property/kurumba-maldives",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "villas.total": [
+   {
+    "value": 180,
+    "source_url": "https://hummingbird.travel/property/kurumba-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 180,
+    "source_url": "https://www.mymaldives.com/blog/kurumba-maldives-announces-40-activities-to-celebrate-its-40th-years-anniversary/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 181,
+    "source_url": "https://www.mymaldives.com/resort-guide/kurumba-maldives/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "island": [
+   {
+    "value": "Vihamanafushi",
+    "source_url": "https://www.mymaldives.com/blog/kurumba-maldives-announces-40-activities-to-celebrate-its-40th-years-anniversary/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "opened_or_renovated": [
+   {
+    "value": "opened 1972",
+    "source_url": "https://www.mymaldives.com/blog/earth-day-at-kurumba-maldives-2019/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "renovated 2020",
+    "source_url": "https://www.mymaldives.com/blog/earth-day-at-kurumba-maldives-2019/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "kids_family.age_range": [
+   {
+    "value": "4-12 years",
+    "source_url": "https://www.mymaldives.com/blog/kurumba-maldives-announces-majaa-kids-club/",
+    "as_of": "2026-10-04"
+   }
   ]
  },
- "last_updated": "2026-10-04"
+ "last_updated": "2026-10-05"
 }

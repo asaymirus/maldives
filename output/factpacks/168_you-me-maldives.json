@@ -8,8 +8,8 @@
   "You & Me by Cocoon",
   "Uthurumaafaru"
  ],
- "official_url": null,
- "official_site_status": null,
+ "official_url": "https://www.youandmemaldives.com/",
+ "official_site_status": "ok",
  "operator_brand": "Coco",
  "atoll": "Raa Atoll",
  "island": null,
@@ -28,7 +28,7 @@
    "yacht": null
   }
  },
- "island_size": null,
+ "island_size": "30 ha",
  "villas": {
   "total": 109,
   "categories": []
@@ -53,30 +53,60 @@
    "name": "Airport Lounge",
    "cuisine": null,
    "type": "bar"
+  },
+  {
+   "name": "Cheers Bar",
+   "cuisine": null,
+   "type": "bar"
+  },
+  {
+   "name": "Sushi Bar",
+   "cuisine": null,
+   "type": "bar"
+  },
+  {
+   "name": "Teppanyaki",
+   "cuisine": null,
+   "type": "restaurant"
   }
  ],
  "meal_plans": [
-  "Dine Around"
+  "Dine Around",
+  "AI",
+  "Premium AI"
  ],
- "all_inclusive_details": null,
+ "all_inclusive_details": "All-Inclusive concept ensures an elevated dining journey, combining variety, quality, and sophistication at every meal.",
  "spa": {
   "name": "Elizabeth Arden Spa",
   "treatment_rooms": null,
   "signature_treatments": [],
-  "menu_doc": null
+  "menu_doc": "https://www.youandmemaldives.com/_files/ugd/d8b687_f7f971d3bdbd43899c948277a932b172.pdf"
  },
  "diving_watersports": {
-  "operator": null,
-  "house_reef": null,
+  "operator": "Dive Centre",
+  "house_reef": "house reef from You & Me?",
   "activities": [
    "snorkeling",
    "surfing",
    "fishing",
    "sunset cruise",
    "dolphin cruise",
-   "manta"
+   "manta",
+   "snorkelling",
+   "paddleboard",
+   "catamaran",
+   "jet ski",
+   "parasailing",
+   "seabob",
+   "sailing",
+   "flyboard",
+   "canoe",
+   "kayaking",
+   "stand-up paddle",
+   "scuba diving",
+   "fun tube"
   ],
-  "price_list_doc": null
+  "price_list_doc": "https://cdnm.heyzine.com/files/uploaded/v3/5df5c124623a5fd8fc58bb0529806d378b131788.pdf"
  },
  "excursions": [
   "island hopping",
@@ -86,7 +116,10 @@
   "sunset fishing",
   "big game fishing",
   "manta",
-  "cinema"
+  "cinema",
+  "turtle",
+  "cooking class",
+  "picnic"
  ],
  "kids_family": {
   "kids_club": null,
@@ -98,14 +131,32 @@
   "gym",
   "fitness centre",
   "sauna",
-  "steam"
+  "steam",
+  "fitness center",
+  "pilates",
+  "tennis"
  ],
  "weddings": {
   "offered": true,
-  "vow_renewal": null,
-  "venues": [],
-  "packages": [],
-  "brochure_doc": null
+  "vow_renewal": true,
+  "venues": [
+   "(Beach Ceremony) (Beach Ceremony) (Underwater Ceremony)"
+  ],
+  "packages": [
+   {
+    "name": "Beach Ceremony",
+    "price": "1500",
+    "currency": "USD",
+    "as_of": 2026
+   },
+   {
+    "name": "Ceremony",
+    "price": "2500",
+    "currency": "USD",
+    "as_of": 2026
+   }
+  ],
+  "brochure_doc": "https://cdnm.heyzine.com/files/uploaded/ad6cddf745cb8d5aca3c2e28c2beece656b9b68f.pdf"
  },
  "events_mice": {
   "venues": [],
@@ -121,20 +172,18 @@
  },
  "documents_latest": {
   "factsheet": "https://www.neoscapesmaldives.com/wp-content/uploads/GB-_-You-_-Me-Maldives-_-Fact-Sheet-2026.pdf",
-  "map": "https://www.neoscapesmaldives.com/wp-content/uploads/You-Me-Maldives-_-Resort-Map.pdf",
-  "wedding": null,
-  "spa_menu": null,
+  "map": "https://cdnm.heyzine.com/flip-book/pdf/d2f08a94a4745c1adc132b27e299356e2d5ef63b.pdf",
+  "wedding": "https://cdnm.heyzine.com/files/uploaded/ad6cddf745cb8d5aca3c2e28c2beece656b9b68f.pdf",
+  "spa_menu": "https://www.youandmemaldives.com/_files/ugd/d8b687_f7f971d3bdbd43899c948277a932b172.pdf",
   "dining_menu": null,
-  "dive_prices": null,
+  "dive_prices": "https://cdnm.heyzine.com/files/uploaded/v3/5df5c124623a5fd8fc58bb0529806d378b131788.pdf",
   "events": null,
   "calendar": null
  },
- "documents_count": 2,
+ "documents_count": 8,
  "gaps": [
-  "wedding brochure",
   "events/MICE document",
   "fact: villa categories",
-  "fact: dive operator",
   "fact: kids club"
  ],
  "sources": {
@@ -143,6 +192,36 @@
     "value": "Raa Atoll",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/GB-_-You-_-Me-Maldives-_-Fact-Sheet-2026.pdf",
     "as_of": 2026
+   },
+   {
+    "value": "North Malé Atoll",
+    "source_url": "https://www.youandmemaldives.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "North Malé Atoll",
+    "source_url": "https://www.youandmemaldives.com",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Raa Atoll",
+    "source_url": "https://www.youandmemaldives.com/excursions",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Raa Atoll",
+    "source_url": "https://www.youandmemaldives.com/accommodation",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Raa Atoll",
+    "source_url": "https://www.youandmemaldives.com/contactus",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "North Malé Atoll",
+    "source_url": "https://www.youandmemaldives.com/you-me",
+    "as_of": "2026-10-04"
    }
   ],
   "star_rating": [
@@ -150,6 +229,21 @@
     "value": "5-star",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/GB-_-You-_-Me-Maldives-_-Fact-Sheet-2026.pdf",
     "as_of": 2026
+   },
+   {
+    "value": "5-star",
+    "source_url": "https://www.youandmemaldives.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "5-star",
+    "source_url": "https://www.youandmemaldives.com",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "5-star",
+    "source_url": "https://www.youandmemaldives.com/you-me",
+    "as_of": "2026-10-04"
    }
   ],
   "transfer.modes": [
@@ -167,6 +261,76 @@
     "value": "domestic flight",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/GB-_-You-_-Me-Maldives-_-Fact-Sheet-2026.pdf",
     "as_of": 2026
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://cdnm.heyzine.com/files/uploaded/v3/5df5c124623a5fd8fc58bb0529806d378b131788.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://cdnm.heyzine.com/flip-book/pdf/d2f08a94a4745c1adc132b27e299356e2d5ef63b.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.youandmemaldives.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.youandmemaldives.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.youandmemaldives.com",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.youandmemaldives.com",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.youandmemaldives.com/frequently-asked-questions",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.youandmemaldives.com/early-birds-savings",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.youandmemaldives.com/honeymoongetaway",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.youandmemaldives.com/timeless-love-offer",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.youandmemaldives.com/premium-all-inclusive",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.youandmemaldives.com/winterescapes",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.youandmemaldives.com/you-me",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.youandmemaldives.com/you-me",
+    "as_of": "2026-10-04"
    }
   ],
   "transfer.minutes.seaplane": [
@@ -174,6 +338,26 @@
     "value": 30,
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/GB-_-You-_-Me-Maldives-_-Fact-Sheet-2026.pdf",
     "as_of": 2026
+   },
+   {
+    "value": 45,
+    "source_url": "https://www.youandmemaldives.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 45,
+    "source_url": "https://www.youandmemaldives.com",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 45,
+    "source_url": "https://www.youandmemaldives.com/frequently-asked-questions",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 45,
+    "source_url": "https://www.youandmemaldives.com/you-me",
+    "as_of": "2026-10-04"
    }
   ],
   "transfer.minutes.speedboat": [
@@ -181,6 +365,21 @@
     "value": 20,
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/GB-_-You-_-Me-Maldives-_-Fact-Sheet-2026.pdf",
     "as_of": 2026
+   },
+   {
+    "value": 40,
+    "source_url": "https://www.youandmemaldives.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 40,
+    "source_url": "https://www.youandmemaldives.com",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 40,
+    "source_url": "https://www.youandmemaldives.com/you-me",
+    "as_of": "2026-10-04"
    }
   ],
   "transfer.minutes.domestic flight": [
@@ -195,6 +394,16 @@
     "value": 109,
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/GB-_-You-_-Me-Maldives-_-Fact-Sheet-2026.pdf",
     "as_of": 2026
+   },
+   {
+    "value": 109,
+    "source_url": "https://www.youandmemaldives.com/accommodation",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 15,
+    "source_url": "https://www.youandmemaldives.com/lagoon-suite",
+    "as_of": "2026-10-04"
    }
   ],
   "dining": [
@@ -233,6 +442,69 @@
     },
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/GB-_-You-_-Me-Maldives-_-Fact-Sheet-2026.pdf",
     "as_of": 2026
+   },
+   {
+    "value": {
+     "name": "Cheers Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.youandmemaldives.com/copia-di-dining",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Sushi Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.youandmemaldives.com/copia-di-dining",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Sushi Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.youandmemaldives.com/sushi-bar",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Sushi Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.youandmemaldives.com/sushi-bar",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Cheers Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.youandmemaldives.com/cheers-bar",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Cheers Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.youandmemaldives.com/cheers-bar",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Teppanyaki",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.youandmemaldives.com/rising-sun",
+    "as_of": "2026-10-04"
    }
   ],
   "meal_plans": [
@@ -240,6 +512,16 @@
     "value": "Dine Around",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/GB-_-You-_-Me-Maldives-_-Fact-Sheet-2026.pdf",
     "as_of": 2026
+   },
+   {
+    "value": "AI",
+    "source_url": "https://www.youandmemaldives.com/exclusiveaugustoffer",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Premium AI",
+    "source_url": "https://www.youandmemaldives.com/exclusiveaugustoffer",
+    "as_of": "2026-10-04"
    }
   ],
   "spa.name": [
@@ -247,6 +529,31 @@
     "value": "Elizabeth Arden Spa",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/GB-_-You-_-Me-Maldives-_-Fact-Sheet-2026.pdf",
     "as_of": 2026
+   },
+   {
+    "value": "You&Me Spa",
+    "source_url": "https://cdnm.heyzine.com/files/uploaded/ad6cddf745cb8d5aca3c2e28c2beece656b9b68f.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "You&Me Spa",
+    "source_url": "https://www.youandmemaldives.com/_files/ugd/d8b687_f7f971d3bdbd43899c948277a932b172.pdf",
+    "as_of": 2011
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.youandmemaldives.com/spa",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Me Spa",
+    "source_url": "https://www.youandmemaldives.com/timeless-love-offer",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Me Spa",
+    "source_url": "https://www.youandmemaldives.com/exclusiveaugustoffer",
+    "as_of": "2026-10-04"
    }
   ],
   "diving_watersports.activities": [
@@ -279,6 +586,276 @@
     "value": "manta",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/GB-_-You-_-Me-Maldives-_-Fact-Sheet-2026.pdf",
     "as_of": 2026
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://cdnm.heyzine.com/files/uploaded/ad6cddf745cb8d5aca3c2e28c2beece656b9b68f.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://cdnm.heyzine.com/files/uploaded/v3/5df5c124623a5fd8fc58bb0529806d378b131788.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://cdnm.heyzine.com/files/uploaded/v3/5df5c124623a5fd8fc58bb0529806d378b131788.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "surfing",
+    "source_url": "https://cdnm.heyzine.com/files/uploaded/v3/5df5c124623a5fd8fc58bb0529806d378b131788.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "paddleboard",
+    "source_url": "https://cdnm.heyzine.com/files/uploaded/v3/5df5c124623a5fd8fc58bb0529806d378b131788.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "catamaran",
+    "source_url": "https://cdnm.heyzine.com/files/uploaded/v3/5df5c124623a5fd8fc58bb0529806d378b131788.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "jet ski",
+    "source_url": "https://cdnm.heyzine.com/files/uploaded/v3/5df5c124623a5fd8fc58bb0529806d378b131788.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "parasailing",
+    "source_url": "https://cdnm.heyzine.com/files/uploaded/v3/5df5c124623a5fd8fc58bb0529806d378b131788.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "seabob",
+    "source_url": "https://cdnm.heyzine.com/files/uploaded/v3/5df5c124623a5fd8fc58bb0529806d378b131788.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://cdnm.heyzine.com/files/uploaded/v3/5df5c124623a5fd8fc58bb0529806d378b131788.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "manta",
+    "source_url": "https://cdnm.heyzine.com/files/uploaded/v3/5df5c124623a5fd8fc58bb0529806d378b131788.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "sailing",
+    "source_url": "https://cdnm.heyzine.com/files/uploaded/v3/5df5c124623a5fd8fc58bb0529806d378b131788.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "flyboard",
+    "source_url": "https://cdnm.heyzine.com/files/uploaded/v3/5df5c124623a5fd8fc58bb0529806d378b131788.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "canoe",
+    "source_url": "https://cdnm.heyzine.com/files/uploaded/v3/5df5c124623a5fd8fc58bb0529806d378b131788.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://cdnm.heyzine.com/flip-book/pdf/d2f08a94a4745c1adc132b27e299356e2d5ef63b.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "paddleboard",
+    "source_url": "https://cdnm.heyzine.com/flip-book/pdf/d2f08a94a4745c1adc132b27e299356e2d5ef63b.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "catamaran",
+    "source_url": "https://cdnm.heyzine.com/flip-book/pdf/d2f08a94a4745c1adc132b27e299356e2d5ef63b.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://cdnm.heyzine.com/flip-book/pdf/d2f08a94a4745c1adc132b27e299356e2d5ef63b.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "canoe",
+    "source_url": "https://cdnm.heyzine.com/flip-book/pdf/d2f08a94a4745c1adc132b27e299356e2d5ef63b.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.youandmemaldives.com/excursions",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.youandmemaldives.com/excursions",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin cruise",
+    "source_url": "https://www.youandmemaldives.com/excursions",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.youandmemaldives.com/frequently-asked-questions",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.youandmemaldives.com/experiences",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.youandmemaldives.com/experiences",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin cruise",
+    "source_url": "https://www.youandmemaldives.com/experiences",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.youandmemaldives.com/honeymoongetaway",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.youandmemaldives.com/meal-plan-overview",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "kayaking",
+    "source_url": "https://www.youandmemaldives.com/meal-plan-overview",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "stand-up paddle",
+    "source_url": "https://www.youandmemaldives.com/meal-plan-overview",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "paddleboard",
+    "source_url": "https://www.youandmemaldives.com/meal-plan-overview",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://www.youandmemaldives.com/scubadiving",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.youandmemaldives.com/scubadiving",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.youandmemaldives.com/timeless-love-offer",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "paddleboard",
+    "source_url": "https://www.youandmemaldives.com/timeless-love-offer",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.youandmemaldives.com/timeless-love-offer",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "canoe",
+    "source_url": "https://www.youandmemaldives.com/timeless-love-offer",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.youandmemaldives.com/watersportssss",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "jet ski",
+    "source_url": "https://www.youandmemaldives.com/watersportssss",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sailing",
+    "source_url": "https://www.youandmemaldives.com/watersportssss",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.youandmemaldives.com/watersports-diving",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "jet ski",
+    "source_url": "https://www.youandmemaldives.com/watersports-diving",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "seabob",
+    "source_url": "https://www.youandmemaldives.com/watersports-diving",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.youandmemaldives.com/watersports-diving",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sailing",
+    "source_url": "https://www.youandmemaldives.com/watersports-diving",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fun tube",
+    "source_url": "https://www.youandmemaldives.com/watersports-diving",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "flyboard",
+    "source_url": "https://www.youandmemaldives.com/watersports-diving",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.youandmemaldives.com/premium-all-inclusive",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "paddleboard",
+    "source_url": "https://www.youandmemaldives.com/premium-all-inclusive",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "catamaran",
+    "source_url": "https://www.youandmemaldives.com/premium-all-inclusive",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.youandmemaldives.com/premium-all-inclusive",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.youandmemaldives.com/exclusiveaugustoffer",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "paddleboard",
+    "source_url": "https://www.youandmemaldives.com/exclusiveaugustoffer",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.youandmemaldives.com/exclusiveaugustoffer",
+    "as_of": "2026-10-04"
    }
   ],
   "excursions": [
@@ -321,6 +898,141 @@
     "value": "cinema",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/GB-_-You-_-Me-Maldives-_-Fact-Sheet-2026.pdf",
     "as_of": 2026
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://cdnm.heyzine.com/files/uploaded/v3/5df5c124623a5fd8fc58bb0529806d378b131788.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://cdnm.heyzine.com/files/uploaded/v3/5df5c124623a5fd8fc58bb0529806d378b131788.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "big game fishing",
+    "source_url": "https://cdnm.heyzine.com/files/uploaded/v3/5df5c124623a5fd8fc58bb0529806d378b131788.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "manta",
+    "source_url": "https://cdnm.heyzine.com/files/uploaded/v3/5df5c124623a5fd8fc58bb0529806d378b131788.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://cdnm.heyzine.com/files/uploaded/v3/5df5c124623a5fd8fc58bb0529806d378b131788.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "cooking class",
+    "source_url": "https://cdnm.heyzine.com/flip-book/pdf/d2f08a94a4745c1adc132b27e299356e2d5ef63b.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.youandmemaldives.com/entertainment",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "local island",
+    "source_url": "https://www.youandmemaldives.com/excursions",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.youandmemaldives.com/excursions",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset fishing",
+    "source_url": "https://www.youandmemaldives.com/excursions",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "big game fishing",
+    "source_url": "https://www.youandmemaldives.com/excursions",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "picnic",
+    "source_url": "https://www.youandmemaldives.com/excursions",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "local island",
+    "source_url": "https://www.youandmemaldives.com/experiences",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.youandmemaldives.com/experiences",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.youandmemaldives.com/experiences",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset fishing",
+    "source_url": "https://www.youandmemaldives.com/experiences",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "big game fishing",
+    "source_url": "https://www.youandmemaldives.com/experiences",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "picnic",
+    "source_url": "https://www.youandmemaldives.com/experiences",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "cinema",
+    "source_url": "https://www.youandmemaldives.com/experiences",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.youandmemaldives.com/honeymoongetaway",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.youandmemaldives.com/honeymoongetaway",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.youandmemaldives.com/scubadiving",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.youandmemaldives.com/scubadiving",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.youandmemaldives.com/watersports-diving",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.youandmemaldives.com/watersports-diving",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.youandmemaldives.com/watersports-diving",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "cooking class",
+    "source_url": "https://www.youandmemaldives.com/premium-all-inclusive",
+    "as_of": "2026-10-04"
    }
   ],
   "wellness_fitness": [
@@ -348,6 +1060,131 @@
     "value": "steam",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/GB-_-You-_-Me-Maldives-_-Fact-Sheet-2026.pdf",
     "as_of": 2026
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.youandmemaldives.com/_files/ugd/d8b687_f7f971d3bdbd43899c948277a932b172.pdf",
+    "as_of": 2011
+   },
+   {
+    "value": "sauna",
+    "source_url": "https://www.youandmemaldives.com/_files/ugd/d8b687_f7f971d3bdbd43899c948277a932b172.pdf",
+    "as_of": 2011
+   },
+   {
+    "value": "steam",
+    "source_url": "https://www.youandmemaldives.com/_files/ugd/d8b687_f7f971d3bdbd43899c948277a932b172.pdf",
+    "as_of": 2011
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://cdnm.heyzine.com/flip-book/pdf/d2f08a94a4745c1adc132b27e299356e2d5ef63b.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "gym",
+    "source_url": "https://cdnm.heyzine.com/flip-book/pdf/d2f08a94a4745c1adc132b27e299356e2d5ef63b.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "fitness center",
+    "source_url": "https://cdnm.heyzine.com/flip-book/pdf/d2f08a94a4745c1adc132b27e299356e2d5ef63b.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "pilates",
+    "source_url": "https://cdnm.heyzine.com/flip-book/pdf/d2f08a94a4745c1adc132b27e299356e2d5ef63b.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "gym",
+    "source_url": "https://www.youandmemaldives.com/youandmesuite-with-poolandslide",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.youandmemaldives.com/experiences",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "gym",
+    "source_url": "https://www.youandmemaldives.com/experiences",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fitness centre",
+    "source_url": "https://www.youandmemaldives.com/experiences",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://www.youandmemaldives.com/experiences",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "pilates",
+    "source_url": "https://www.youandmemaldives.com/experiences",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.youandmemaldives.com/fitnesscentre",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "gym",
+    "source_url": "https://www.youandmemaldives.com/fitnesscentre",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fitness centre",
+    "source_url": "https://www.youandmemaldives.com/fitnesscentre",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://www.youandmemaldives.com/fitnesscentre",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "pilates",
+    "source_url": "https://www.youandmemaldives.com/fitnesscentre",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "gym",
+    "source_url": "https://www.youandmemaldives.com/accommodation",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.youandmemaldives.com/timeless-love-offer",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fitness centre",
+    "source_url": "https://www.youandmemaldives.com/timeless-love-offer",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "pilates",
+    "source_url": "https://www.youandmemaldives.com/timeless-love-offer",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.youandmemaldives.com/premium-all-inclusive",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "gym",
+    "source_url": "https://www.youandmemaldives.com/premium-all-inclusive",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "pilates",
+    "source_url": "https://www.youandmemaldives.com/premium-all-inclusive",
+    "as_of": "2026-10-04"
    }
   ],
   "weddings.offered": [
@@ -355,6 +1192,31 @@
     "value": true,
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/GB-_-You-_-Me-Maldives-_-Fact-Sheet-2026.pdf",
     "as_of": 2026
+   },
+   {
+    "value": true,
+    "source_url": "https://cdnm.heyzine.com/files/uploaded/ad6cddf745cb8d5aca3c2e28c2beece656b9b68f.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": true,
+    "source_url": "https://www.youandmemaldives.com/experiences",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.youandmemaldives.com/honeymoongetaway",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.youandmemaldives.com/wedding",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.youandmemaldives.com/wedding",
+    "as_of": "2026-10-04"
    }
   ],
   "contacts_public.reservations_email": [
@@ -362,6 +1224,36 @@
     "value": "booking@youandmemaldives.com",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/GB-_-You-_-Me-Maldives-_-Fact-Sheet-2026.pdf",
     "as_of": 2026
+   },
+   {
+    "value": "booking@youandmemaldives.com",
+    "source_url": "https://cdnm.heyzine.com/files/uploaded/v3/5df5c124623a5fd8fc58bb0529806d378b131788.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "booking@youandmemaldives.com",
+    "source_url": "https://cdnm.heyzine.com/flip-book/pdf/d2f08a94a4745c1adc132b27e299356e2d5ef63b.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "booking@youandmemaldives.com",
+    "source_url": "https://www.youandmemaldives.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "booking@youandmemaldives.com",
+    "source_url": "https://www.youandmemaldives.com",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "booking@youandmemaldives.com",
+    "source_url": "https://www.youandmemaldives.com/contactus",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "booking@youandmemaldives.com",
+    "source_url": "https://www.youandmemaldives.com/you-me",
+    "as_of": "2026-10-04"
    }
   ],
   "contacts_public.phone": [
@@ -369,8 +1261,142 @@
     "value": "+960 658 1000",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/GB-_-You-_-Me-Maldives-_-Fact-Sheet-2026.pdf",
     "as_of": 2026
+   },
+   {
+    "value": "+960 658 1000",
+    "source_url": "https://cdnm.heyzine.com/files/uploaded/v3/5df5c124623a5fd8fc58bb0529806d378b131788.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "+960 658 1000",
+    "source_url": "https://cdnm.heyzine.com/flip-book/pdf/d2f08a94a4745c1adc132b27e299356e2d5ef63b.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "+960 658 1000",
+    "source_url": "https://www.youandmemaldives.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 658 1000",
+    "source_url": "https://www.youandmemaldives.com",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 658-1000",
+    "source_url": "https://www.youandmemaldives.com/contactus",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 658 1000",
+    "source_url": "https://www.youandmemaldives.com/you-me",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "weddings.vow_renewal": [
+   {
+    "value": true,
+    "source_url": "https://cdnm.heyzine.com/files/uploaded/ad6cddf745cb8d5aca3c2e28c2beece656b9b68f.pdf",
+    "as_of": 2026
+   }
+  ],
+  "weddings.venues": [
+   {
+    "value": "(Beach Ceremony) (Beach Ceremony) (Underwater Ceremony)",
+    "source_url": "https://cdnm.heyzine.com/files/uploaded/ad6cddf745cb8d5aca3c2e28c2beece656b9b68f.pdf",
+    "as_of": 2026
+   }
+  ],
+  "weddings.packages": [
+   {
+    "value": {
+     "name": "Beach Ceremony",
+     "price": "1500",
+     "currency": "USD",
+     "as_of": 2026
+    },
+    "source_url": "https://cdnm.heyzine.com/files/uploaded/ad6cddf745cb8d5aca3c2e28c2beece656b9b68f.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": {
+     "name": "Ceremony",
+     "price": "2500",
+     "currency": "USD",
+     "as_of": 2026
+    },
+    "source_url": "https://cdnm.heyzine.com/files/uploaded/ad6cddf745cb8d5aca3c2e28c2beece656b9b68f.pdf",
+    "as_of": 2026
+   }
+  ],
+  "diving_watersports.house_reef": [
+   {
+    "value": "House Reef Snorkeling 1 HR 58 USD",
+    "source_url": "https://cdnm.heyzine.com/files/uploaded/v3/5df5c124623a5fd8fc58bb0529806d378b131788.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "house reef from You & Me?",
+    "source_url": "https://www.youandmemaldives.com/frequently-asked-questions",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "island_size": [
+   {
+    "value": "30 ha",
+    "source_url": "https://www.youandmemaldives.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "30 ha",
+    "source_url": "https://www.youandmemaldives.com",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "30 ha",
+    "source_url": "https://www.youandmemaldives.com/you-me",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "all_inclusive_details": [
+   {
+    "value": "All-Inclusive concept ensures an elevated dining journey, combining variety, quality, and sophistication at every meal.",
+    "source_url": "https://www.youandmemaldives.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "All-Inclusive concept ensures an elevated dining journey, combining variety, quality, and sophistication at every meal.",
+    "source_url": "https://www.youandmemaldives.com",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "All-Inclusive, designed to elevate your stay to new heights.",
+    "source_url": "https://www.youandmemaldives.com/meal-plan-overview",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "All-Inclusive beverage experience is available across all outlets, with the exception of H2O.",
+    "source_url": "https://www.youandmemaldives.com/premium-all-inclusive",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "All-Inclusive luxury covering every detail, your tropical dream is closer than you think.",
+    "source_url": "https://www.youandmemaldives.com/contactus",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "All-Inclusive concept ensures an elevated dining journey, combining variety, quality, and sophistication at every meal.",
+    "source_url": "https://www.youandmemaldives.com/you-me",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "diving_watersports.operator": [
+   {
+    "value": "Dive Centre",
+    "source_url": "https://www.youandmemaldives.com/watersportssss",
+    "as_of": "2026-10-04"
    }
   ]
  },
- "last_updated": "2026-10-04"
+ "last_updated": "2026-10-05"
 }

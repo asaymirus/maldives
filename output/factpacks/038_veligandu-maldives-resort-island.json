@@ -6,29 +6,79 @@
   "Veligandu",
   "Veli"
  ],
- "official_url": null,
- "official_site_status": null,
+ "official_url": "https://veligandu.com/",
+ "official_site_status": "ok",
  "operator_brand": null,
- "atoll": null,
+ "atoll": "Kaafu Atoll",
  "island": null,
  "opened_or_renovated": null,
  "star_rating": null,
  "transfer": {
   "modes": [
+   "seaplane",
    "speedboat",
    "yacht"
   ],
   "minutes": {
-   "seaplane": null,
-   "speedboat": null,
+   "seaplane": 20,
+   "speedboat": 60,
    "domestic flight": null,
    "yacht": null
   }
  },
- "island_size": null,
+ "island_size": "9 ha",
  "villas": {
-  "total": null,
-  "categories": []
+  "total": 74,
+  "categories": [
+   {
+    "name": "side of the island. Each villa is and offers a crisp",
+    "count": null,
+    "size_sqm": 270,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "e quisite brand-new villas offer of refined lu ury",
+    "count": null,
+    "size_sqm": 125,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "These villas are ideal for couples seeking love and",
+    "count": null,
+    "size_sqm": 102,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "view over the ocean. Each of the villas offers stun",
+    "count": null,
+    "size_sqm": 86,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": true
+   },
+   {
+    "name": "Residences Powered",
+    "count": 15,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "Villas",
+    "count": 90,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   }
+  ]
  },
  "dining": [
   {
@@ -37,53 +87,118 @@
    "type": "bar"
   },
   {
-   "name": "Step One: From Fresh Juice To Tropical Bar Snacks",
+   "name": "Thundi Bar",
    "cuisine": null,
    "type": "bar"
+  },
+  {
+   "name": "Madivaru Teppankai Grill",
+   "cuisine": null,
+   "type": "restaurant"
+  },
+  {
+   "name": "Hot POT & Grill by Shore",
+   "cuisine": null,
+   "type": "restaurant"
+  },
+  {
+   "name": "Teppanyaki Experience",
+   "cuisine": null,
+   "type": "restaurant"
+  },
+  {
+   "name": "Dhonveli Restaurant",
+   "cuisine": null,
+   "type": "restaurant"
+  },
+  {
+   "name": "Madivaru -  Restaurant and Teppanyaki Grill",
+   "cuisine": null,
+   "type": "restaurant"
   }
  ],
- "meal_plans": [],
- "all_inclusive_details": null,
+ "meal_plans": [
+  "Dine Around",
+  "BB",
+  "FB",
+  "AI"
+ ],
+ "all_inclusive_details": "All-\n Inclusive Dine Around Package.",
  "spa": {
-  "name": null,
+  "name": "Himeyn Spa",
   "treatment_rooms": null,
   "signature_treatments": [],
-  "menu_doc": null
+  "menu_doc": "https://veligandu.com/wp-content/uploads/2025/06/HimeynSpaMenuVer300425.pdf"
  },
  "diving_watersports": {
-  "operator": "Ocean Group",
-  "house_reef": "House Reef here at Veligandu",
+  "operator": "Ocean Watersports",
+  "house_reef": "house reefs",
   "activities": [
-   "snorkelling",
-   "scuba diving",
    "snorkeling",
+   "scuba diving",
    "windsurfing",
    "kayaking",
-   "paddleboard",
    "jet ski",
    "fishing",
    "dolphin cruise",
-   "manta"
+   "manta",
+   "surfing",
+   "catamaran",
+   "water skiing",
+   "wakeboarding",
+   "seabob",
+   "sailing",
+   "sunset cruise",
+   "whale shark",
+   "stand-up paddle",
+   "paddleboard",
+   "snorkelling",
+   "canoe",
+   "parasailing"
   ],
-  "price_list_doc": "https://sales.crownandchamparesorts.com/wp-content/uploads/2020/07/OceanDiveandSportsCenterSOP-071720VELI.pdf"
+  "price_list_doc": "https://veligandu.com/wp-content/uploads/2026/01/VeliWaterSportsCentre2026_010126-123126.pdf"
  },
  "excursions": [
+  "local island",
+  "sandbank",
   "dolphin",
   "manta",
-  "turtle"
+  "turtle",
+  "picnic",
+  "cinema",
+  "sunset fishing",
+  "big game fishing",
+  "whale shark",
+  "private dinner",
+  "stargazing"
  ],
  "kids_family": {
   "kids_club": null,
   "age_range": null,
-  "teens": null
+  "teens": "teens programme mentioned"
  },
- "wellness_fitness": [],
+ "wellness_fitness": [
+  "yoga",
+  "tennis",
+  "padel",
+  "meditation",
+  "sound healing",
+  "steam",
+  "fitness center",
+  "badminton",
+  "gym",
+  "beach volleyball",
+  "ayurveda",
+  "fitness centre"
+ ],
  "weddings": {
-  "offered": null,
-  "vow_renewal": null,
-  "venues": [],
+  "offered": true,
+  "vow_renewal": true,
+  "venues": [
+   "Wedding Pavilion decorated ✔ ✔ ✔ ✔ ✔"
+  ],
   "packages": [],
-  "brochure_doc": null
+  "brochure_doc": "https://veligandu.com/wp-content/uploads/2024/09/Veli-HoneymoonGuestInfoRenewalsOfVows_110124-103125_Rev081524-240924.pdf"
  },
  "events_mice": {
   "venues": [],
@@ -92,58 +207,799 @@
   "doc": null
  },
  "sustainability": [
-  "marine biologist"
+  "marine biologist",
+  "coral restoration",
+  "solar",
+  "desalination"
  ],
  "contacts_public": {
-  "reservations_email": null,
+  "reservations_email": "reservations@veligandu.com",
   "weddings_email": null,
-  "phone": null
+  "phone": "+960 666 0519"
  },
  "documents_latest": {
-  "factsheet": "https://sales.crownandchamparesorts.com/wp-content/uploads/2025/08/Veli-Factsheet-W25-26S26Ver17062025.pdf",
-  "map": "https://sales.crownandchamparesorts.com/wp-content/uploads/2025/08/Veli-IslandMap110125103126Ver140625.pdf",
-  "wedding": null,
-  "spa_menu": null,
-  "dining_menu": null,
-  "dive_prices": "https://sales.crownandchamparesorts.com/wp-content/uploads/2020/07/OceanDiveandSportsCenterSOP-071720VELI.pdf",
+  "factsheet": "https://veligandu.com/wp-content/uploads/2025/06/Factsheet-W25-26S26Ver17062025.pdf",
+  "map": "https://veligandu.com/wp-content/uploads/2026/09/Veli-IslandMapFY2026Ver092126.pdf",
+  "wedding": "https://veligandu.com/wp-content/uploads/2024/09/Veli-HoneymoonGuestInfoRenewalsOfVows_110124-103125_Rev081524-240924.pdf",
+  "spa_menu": "https://veligandu.com/wp-content/uploads/2025/06/HimeynSpaMenuVer300425.pdf",
+  "dining_menu": "https://veligandu.com/wp-content/uploads/2024/11/Veligandu_MasterWineMenu_Landscape_09-11-2024.pdf",
+  "dive_prices": "https://veligandu.com/wp-content/uploads/2026/01/VeliWaterSportsCentre2026_010126-123126.pdf",
   "events": null,
-  "calendar": null
+  "calendar": "https://d2qwq69i2ic1pk.cloudfront.net/2023/11/CCR_2024_Calendar_compressed.pdf"
  },
- "documents_count": 7,
+ "documents_count": 54,
  "gaps": [
-  "wedding brochure",
   "events/MICE document",
-  "fact: villas.total",
-  "fact: villa categories",
-  "fact: atoll",
-  "fact: spa",
-  "fact: kids club",
-  "fact: weddings",
-  "fact: contacts"
+  "fact: kids club"
  ],
  "sources": {
+  "atoll": [
+   {
+    "value": "Kaafu Atoll",
+    "source_url": "https://veligandu.com/wp-content/uploads/2025/06/Factsheet-W25-26S26Ver17062025.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "Ari Atoll",
+    "source_url": "https://veligandu.com/wp-content/uploads/2025/02/veligandu-valentines-day-brochure-2025.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "Ari Atoll",
+    "source_url": "https://veligandu.com/wp-content/uploads/2024/09/Veli-HoneymoonGuestInfoRenewalsOfVows_110124-103125_Rev081524-240924.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "Ari Atoll",
+    "source_url": "https://veligandu.com/wp-content/uploads/2026/01/VeliExcursionsCentreCatalogue2026_010126-123126_.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "Ari Atoll",
+    "source_url": "https://veligandu.com/wp-content/uploads/2025/06/AIl-InclusiveDineAroundPack103125_Rev24.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "Ari Atoll",
+    "source_url": "https://veligandu.com/blog/2026/07/30/the-dive-every-diver-talks-about-veligandu-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Ari Atoll",
+    "source_url": "https://veligandu.com/blog/2026/02/09/luxury-yachting-at-veligandu/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Ari Atoll",
+    "source_url": "https://veligandu.com/blog/2025/05/22/a-3-day-escape-to-veligandu/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Lhaviyani Atoll",
+    "source_url": "https://veligandu.com/blog/2025/10/11/meet-the-team-villa-attendant-shahid/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Ari Atoll",
+    "source_url": "https://veligandu.com/blog/2025/04/04/discover-the-graceful-giants-of-the-maldives-manta-rays-and-eagle-rays/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Ari Atoll",
+    "source_url": "https://veligandu.com/blog/category/blog/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Ari Atoll",
+    "source_url": "https://letsgomaldives.com/news/escape-to-paradise-veligandu-island-resort-spa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Ari Atoll",
+    "source_url": "https://www.mymaldives.com/resort-guide/veligandu-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Ari Atoll",
+    "source_url": "https://www.maldivestourism.net/resorts/veligandu-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Ari Atoll",
+    "source_url": "https://www.maldivestourism.net/blog/veligandu-island-resort-reopens/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Ari Atoll",
+    "source_url": "https://www.tropicalsky.co.uk/indian-ocean-holidays/maldives/veligandu-island-resort-spa-hotel",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "transfer.modes": [
+   {
+    "value": "seaplane",
+    "source_url": "https://veligandu.com/wp-content/uploads/2025/06/Factsheet-W25-26S26Ver17062025.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://veligandu.com/wp-content/uploads/2025/06/Factsheet-W25-26S26Ver17062025.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "yacht",
+    "source_url": "https://veligandu.com/wp-content/uploads/2025/06/Factsheet-W25-26S26Ver17062025.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "yacht",
+    "source_url": "https://veligandu.com/wp-content/uploads/2024/09/Veli-HoneymoonGuestInfoRenewalsOfVows_110124-103125_Rev081524-240924.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://veligandu.com/wp-content/uploads/2026/01/VeliExcursionsCentreCatalogue2026_010126-123126_.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "yacht",
+    "source_url": "https://veligandu.com/wp-content/uploads/2026/01/VeliExcursionsCentreCatalogue2026_010126-123126_.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://veligandu.com/blog/2025/08/30/join-my-ocean-world-at-veligandu/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yacht",
+    "source_url": "https://veligandu.com/blog/2025/08/30/join-my-ocean-world-at-veligandu/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yacht",
+    "source_url": "https://veligandu.com/blog/2026/02/09/luxury-yachting-at-veligandu/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://veligandu.com/blog/2025/05/22/a-3-day-escape-to-veligandu/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yacht",
+    "source_url": "https://veligandu.com/blog/2025/05/22/a-3-day-escape-to-veligandu/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yacht",
+    "source_url": "https://veligandu.com/blog/2025/05/24/family-travel-to-maldives-with-teenagers/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://veligandu.com/blog/2026/07/29/ocean-adventures-beyond-the-reefs-of-veligandu-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yacht",
+    "source_url": "https://veligandu.com/blog/2026/05/25/how-to-celebrate-weddings-birtdays-milestones-in-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yacht",
+    "source_url": "https://veligandu.com/blog/2025/05/18/one-island-infinite-wedding-options/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yacht",
+    "source_url": "https://veligandu.com/blog/2025/12/05/moments-we-love-to-create-for-you-lifestyle-recommendations/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.mymaldives.com/resort-guide/veligandu-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.maldivestourism.net/resorts/veligandu-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.tropicalsky.co.uk/indian-ocean-holidays/maldives/veligandu-island-resort-spa-hotel",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.tropicalsky.co.uk/indian-ocean-holidays/maldives/veligandu-island-resort-spa-hotel",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yacht",
+    "source_url": "https://www.tropicalsky.co.uk/indian-ocean-holidays/maldives/veligandu-island-resort-spa-hotel",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "transfer.minutes.seaplane": [
+   {
+    "value": 20,
+    "source_url": "https://veligandu.com/wp-content/uploads/2025/06/Factsheet-W25-26S26Ver17062025.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": 20,
+    "source_url": "https://veligandu.com/blog/2025/05/22/a-3-day-escape-to-veligandu/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 20,
+    "source_url": "https://www.mymaldives.com/resort-guide/veligandu-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 60,
+    "source_url": "https://www.tropicalsky.co.uk/indian-ocean-holidays/maldives/veligandu-island-resort-spa-hotel",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "transfer.minutes.speedboat": [
+   {
+    "value": 60,
+    "source_url": "https://veligandu.com/wp-content/uploads/2025/06/Factsheet-W25-26S26Ver17062025.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": 60,
+    "source_url": "https://www.tropicalsky.co.uk/indian-ocean-holidays/maldives/veligandu-island-resort-spa-hotel",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "island_size": [
+   {
+    "value": "9 ha",
+    "source_url": "https://veligandu.com/wp-content/uploads/2025/06/Factsheet-W25-26S26Ver17062025.pdf",
+    "as_of": 2026
+   }
+  ],
+  "villas.categories": [
+   {
+    "value": {
+     "name": "side of the island. Each villa is and offers a crisp",
+     "count": null,
+     "size_sqm": 270,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://veligandu.com/wp-content/uploads/2025/06/Factsheet-W25-26S26Ver17062025.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": {
+     "name": "e quisite brand-new villas offer of refined lu ury",
+     "count": null,
+     "size_sqm": 125,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://veligandu.com/wp-content/uploads/2025/06/Factsheet-W25-26S26Ver17062025.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": {
+     "name": "These villas are ideal for couples seeking love and",
+     "count": null,
+     "size_sqm": 102,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://veligandu.com/wp-content/uploads/2025/06/Factsheet-W25-26S26Ver17062025.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": {
+     "name": "view over the ocean. Each of the villas offers stun",
+     "count": null,
+     "size_sqm": 86,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": true
+    },
+    "source_url": "https://veligandu.com/wp-content/uploads/2025/06/Factsheet-W25-26S26Ver17062025.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": {
+     "name": "Residences Powered",
+     "count": 15,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://d2qwq69i2ic1pk.cloudfront.net/2026/02/Sustainablity-Initiatives-Brochure-CCR-2025.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": {
+     "name": "Villas",
+     "count": 90,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://d2qwq69i2ic1pk.cloudfront.net/2026/02/Sustainablity-Initiatives-Brochure-CCR-2025.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": {
+     "name": "Villas",
+     "count": 100,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://d2qwq69i2ic1pk.cloudfront.net/2026/02/Sustainablity-Initiatives-Brochure-CCR-2025.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": {
+     "name": "Villas",
+     "count": 290,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://d2qwq69i2ic1pk.cloudfront.net/2026/02/Sustainablity-Initiatives-Brochure-CCR-2025.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": {
+     "name": "Villas",
+     "count": 65,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://d2qwq69i2ic1pk.cloudfront.net/2026/02/Sustainablity-Initiatives-Brochure-CCR-2025.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": {
+     "name": "Villas",
+     "count": 284,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://d2qwq69i2ic1pk.cloudfront.net/2026/02/Sustainablity-Initiatives-Brochure-CCR-2025.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": {
+     "name": "Villas",
+     "count": 389,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://d2qwq69i2ic1pk.cloudfront.net/2026/02/Sustainablity-Initiatives-Brochure-CCR-2025.pdf",
+    "as_of": 2025
+   }
+  ],
+  "meal_plans": [
+   {
+    "value": "Dine Around",
+    "source_url": "https://veligandu.com/wp-content/uploads/2025/06/Factsheet-W25-26S26Ver17062025.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "BB",
+    "source_url": "https://letsgomaldives.com/news/escape-to-paradise-veligandu-island-resort-spa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "FB",
+    "source_url": "https://letsgomaldives.com/news/escape-to-paradise-veligandu-island-resort-spa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "FB",
+    "source_url": "https://www.maldivestourism.net/resorts/veligandu-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://www.maldivestourism.net/resorts/veligandu-island-resort/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "spa.name": [
+   {
+    "value": "Himeyn Spa",
+    "source_url": "https://veligandu.com/wp-content/uploads/2025/06/Factsheet-W25-26S26Ver17062025.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "Himeyn Spa",
+    "source_url": "https://veligandu.com/wp-content/uploads/2024/09/Veli-HoneymoonGuestInfoRenewalsOfVows_110124-103125_Rev081524-240924.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "Himeyn Spa",
+    "source_url": "https://veligandu.com/wp-content/uploads/2025/06/HimeynSpaMenuVer300425.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "Himeyn Spa",
+    "source_url": "https://veligandu.com/wp-content/uploads/2025/06/AIl-InclusiveDineAroundPack103125_Rev24.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://d2qwq69i2ic1pk.cloudfront.net/2026/02/Sustainablity-Initiatives-Brochure-CCR-2025.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "Himeyn Spa",
+    "source_url": "https://veligandu.com/blog/2025/05/22/a-3-day-escape-to-veligandu/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Himeyn Spa",
+    "source_url": "https://veligandu.com/blog/2025/05/24/family-travel-to-maldives-with-teenagers/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Himeyn Spa",
+    "source_url": "https://veligandu.com/blog/2025/08/04/through-my-hands-through-my-heart-discover-himeyn-spa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "At Himeyn Spa",
+    "source_url": "https://veligandu.com/blog/2026/05/25/how-to-celebrate-weddings-birtdays-milestones-in-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://veligandu.com/blog/2024/08/23/veligandu-maldives-logo-the-story/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Manta Ray Spa",
+    "source_url": "https://veligandu.com/blog/2025/04/04/discover-the-graceful-giants-of-the-maldives-manta-rays-and-eagle-rays/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Romantic Spa",
+    "source_url": "https://veligandu.com/blog/2025/12/05/moments-we-love-to-create-for-you-lifestyle-recommendations/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://letsgomaldives.com/news/escape-to-paradise-veligandu-island-resort-spa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.mymaldives.com/resort-guide/veligandu-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.maldivestourism.net/resorts/veligandu-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.tropicalsky.co.uk/indian-ocean-holidays/maldives/veligandu-island-resort-spa-hotel",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://malediven.de/malediven-hotels/veligandu/",
+    "as_of": "2026-10-04"
+   }
+  ],
   "diving_watersports.operator": [
    {
-    "value": "Dive Centre",
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2020/07/OceanDiveandSportsCenterSOP-071720VELI.pdf",
-    "as_of": 2020
+    "value": "Ocean Watersports",
+    "source_url": "https://veligandu.com/wp-content/uploads/2025/06/Factsheet-W25-26S26Ver17062025.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "Euro Divers",
+    "source_url": "https://d2qwq69i2ic1pk.cloudfront.net/2026/02/Sustainablity-Initiatives-Brochure-CCR-2025.pdf",
+    "as_of": 2025
    },
    {
     "value": "Ocean Group",
     "source_url": "https://veligandu.com/blog/2025/08/30/join-my-ocean-world-at-veligandu/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "Dive Centre",
+    "source_url": "https://veligandu.com/blog/2026/05/06/protecting-the-beauty-beneath-the-surface-coral-restoration/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Dive Centre",
+    "source_url": "https://veligandu.com/blog/2026/07/30/the-dive-every-diver-talks-about-veligandu-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Ocean-Pro",
+    "source_url": "https://www.maldivestourism.net/resorts/veligandu-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Ocean Watersports",
+    "source_url": "https://www.tropicalsky.co.uk/indian-ocean-holidays/maldives/veligandu-island-resort-spa-hotel",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "diving_watersports.house_reef": [
+   {
+    "value": "house reefs",
+    "source_url": "https://veligandu.com/wp-content/uploads/2025/06/Factsheet-W25-26S26Ver17062025.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "house reef",
+    "source_url": "https://veligandu.com/wp-content/uploads/2026/01/VeliExcursionsCentreCatalogue2026_010126-123126_.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "House Reef here at Veligandu",
+    "source_url": "https://veligandu.com/blog/2025/08/30/join-my-ocean-world-at-veligandu/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef is now home to thriving restoration structures, including five coral frames and six coral lines that have already been carefully planted and nurtured",
+    "source_url": "https://veligandu.com/blog/2026/05/06/protecting-the-beauty-beneath-the-surface-coral-restoration/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Housereef »",
+    "source_url": "https://veligandu.com/blog/2026/07/30/the-dive-every-diver-talks-about-veligandu-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef, spending quality time with loved ones, or simply looking to try something new, TYPTI offers the perfect balance of recreation, connection, and friendly compet",
+    "source_url": "https://veligandu.com/blog/2026/09/07/discover-typti-at-veligandu/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef—perhaps even meet a sea turtle or two",
+    "source_url": "https://veligandu.com/blog/2025/05/22/a-3-day-escape-to-veligandu/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "House Reef »",
+    "source_url": "https://veligandu.com/blog/2026/09/08/active-holidays-in-maldives-with-veligandu/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Housereef",
+    "source_url": "https://veligandu.com/blog/2026/07/29/ocean-adventures-beyond-the-reefs-of-veligandu-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "HOUSE REEF",
+    "source_url": "https://veligandu.com/blog/2026/05/23/best-time-to-snorkel-at-veligandu-maldives-house-reef/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "housereef, the long stretch of white sandy beach and the Veligandu sandbank",
+    "source_url": "https://veligandu.com/blog/2025/10/11/meet-the-team-villa-attendant-shahid/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef and lagoon with Veligandu’s",
+    "source_url": "https://veligandu.com/blog/2025/04/04/discover-the-graceful-giants-of-the-maldives-manta-rays-and-eagle-rays/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef is located on the south-east side of Veligandu Island, facing the outer edge of the atoll",
+    "source_url": "https://veligandu.com/blog/2025/03/05/exploring-the-vibrant-coral-reefs-of-veligandu/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "House Reef of Veligandu Maldives",
+    "source_url": "https://veligandu.com/blog/category/blog/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "House Reef Snorkelling",
+    "source_url": "https://veligandu.com/blog/2025/12/05/moments-we-love-to-create-for-you-lifestyle-recommendations/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef teeming with marine life, or indulge in windsurfing and canoeing for a touch of exhilaration on the waves",
+    "source_url": "https://www.mymaldives.com/resort-guide/veligandu-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef of the resort is about 150 metres away from the beach",
+    "source_url": "https://www.maldivestourism.net/resorts/veligandu-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef and silky soft beach",
+    "source_url": "https://www.tropicalsky.co.uk/indian-ocean-holidays/maldives/veligandu-island-resort-spa-hotel",
+    "as_of": "2026-10-04"
    }
   ],
   "diving_watersports.activities": [
    {
-    "value": "snorkelling",
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2020/07/OceanDiveandSportsCenterSOP-071720VELI.pdf",
-    "as_of": 2020
+    "value": "snorkeling",
+    "source_url": "https://veligandu.com/wp-content/uploads/2025/06/Factsheet-W25-26S26Ver17062025.pdf",
+    "as_of": 2026
    },
    {
     "value": "scuba diving",
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2020/07/OceanDiveandSportsCenterSOP-071720VELI.pdf",
-    "as_of": 2020
+    "source_url": "https://veligandu.com/wp-content/uploads/2025/06/Factsheet-W25-26S26Ver17062025.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "windsurfing",
+    "source_url": "https://veligandu.com/wp-content/uploads/2025/06/Factsheet-W25-26S26Ver17062025.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "kayaking",
+    "source_url": "https://veligandu.com/wp-content/uploads/2025/06/Factsheet-W25-26S26Ver17062025.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "jet ski",
+    "source_url": "https://veligandu.com/wp-content/uploads/2025/06/Factsheet-W25-26S26Ver17062025.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://veligandu.com/wp-content/uploads/2025/06/Factsheet-W25-26S26Ver17062025.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "dolphin cruise",
+    "source_url": "https://veligandu.com/wp-content/uploads/2025/06/Factsheet-W25-26S26Ver17062025.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "manta",
+    "source_url": "https://veligandu.com/wp-content/uploads/2025/06/Factsheet-W25-26S26Ver17062025.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://veligandu.com/wp-content/uploads/2024/09/Veli-HoneymoonGuestInfoRenewalsOfVows_110124-103125_Rev081524-240924.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "dolphin cruise",
+    "source_url": "https://veligandu.com/wp-content/uploads/2024/09/Veli-HoneymoonGuestInfoRenewalsOfVows_110124-103125_Rev081524-240924.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "manta",
+    "source_url": "https://veligandu.com/wp-content/uploads/2024/09/Veli-HoneymoonGuestInfoRenewalsOfVows_110124-103125_Rev081524-240924.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "windsurfing",
+    "source_url": "https://veligandu.com/wp-content/uploads/2026/01/VeliWaterSportsCentre2026_010126-123126.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "surfing",
+    "source_url": "https://veligandu.com/wp-content/uploads/2026/01/VeliWaterSportsCentre2026_010126-123126.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "catamaran",
+    "source_url": "https://veligandu.com/wp-content/uploads/2026/01/VeliWaterSportsCentre2026_010126-123126.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "jet ski",
+    "source_url": "https://veligandu.com/wp-content/uploads/2026/01/VeliWaterSportsCentre2026_010126-123126.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "water skiing",
+    "source_url": "https://veligandu.com/wp-content/uploads/2026/01/VeliWaterSportsCentre2026_010126-123126.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "wakeboarding",
+    "source_url": "https://veligandu.com/wp-content/uploads/2026/01/VeliWaterSportsCentre2026_010126-123126.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "seabob",
+    "source_url": "https://veligandu.com/wp-content/uploads/2026/01/VeliWaterSportsCentre2026_010126-123126.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "manta",
+    "source_url": "https://veligandu.com/wp-content/uploads/2026/01/VeliWaterSportsCentre2026_010126-123126.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "sailing",
+    "source_url": "https://veligandu.com/wp-content/uploads/2026/01/VeliWaterSportsCentre2026_010126-123126.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://veligandu.com/wp-content/uploads/2026/01/VeliExcursionsCentreCatalogue2026_010126-123126_.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://veligandu.com/wp-content/uploads/2026/01/VeliExcursionsCentreCatalogue2026_010126-123126_.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://veligandu.com/wp-content/uploads/2026/01/VeliExcursionsCentreCatalogue2026_010126-123126_.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "dolphin cruise",
+    "source_url": "https://veligandu.com/wp-content/uploads/2026/01/VeliExcursionsCentreCatalogue2026_010126-123126_.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://veligandu.com/wp-content/uploads/2026/01/VeliExcursionsCentreCatalogue2026_010126-123126_.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "manta",
+    "source_url": "https://veligandu.com/wp-content/uploads/2026/01/VeliExcursionsCentreCatalogue2026_010126-123126_.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://veligandu.com/wp-content/uploads/2025/06/AIl-InclusiveDineAroundPack103125_Rev24.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "windsurfing",
+    "source_url": "https://veligandu.com/wp-content/uploads/2025/06/AIl-InclusiveDineAroundPack103125_Rev24.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "stand-up paddle",
+    "source_url": "https://veligandu.com/wp-content/uploads/2025/06/AIl-InclusiveDineAroundPack103125_Rev24.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "paddleboard",
+    "source_url": "https://veligandu.com/wp-content/uploads/2025/06/AIl-InclusiveDineAroundPack103125_Rev24.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://d2qwq69i2ic1pk.cloudfront.net/2026/02/Sustainablity-Initiatives-Brochure-CCR-2025.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://d2qwq69i2ic1pk.cloudfront.net/2026/02/Sustainablity-Initiatives-Brochure-CCR-2025.pdf",
+    "as_of": 2025
    },
    {
     "value": "snorkelling",
@@ -189,28 +1045,444 @@
     "value": "manta",
     "source_url": "https://veligandu.com/blog/2025/08/30/join-my-ocean-world-at-veligandu/",
     "as_of": "2026-10-04"
-   }
-  ],
-  "transfer.modes": [
+   },
    {
-    "value": "speedboat",
-    "source_url": "https://veligandu.com/blog/2025/08/30/join-my-ocean-world-at-veligandu/",
+    "value": "snorkelling",
+    "source_url": "https://veligandu.com/blog/2026/07/30/the-dive-every-diver-talks-about-veligandu-maldives/",
     "as_of": "2026-10-04"
    },
    {
-    "value": "yacht",
-    "source_url": "https://veligandu.com/blog/2025/08/30/join-my-ocean-world-at-veligandu/",
+    "value": "snorkeling",
+    "source_url": "https://veligandu.com/blog/2026/07/30/the-dive-every-diver-talks-about-veligandu-maldives/",
     "as_of": "2026-10-04"
-   }
-  ],
-  "diving_watersports.house_reef": [
+   },
    {
-    "value": "House Reef here at Veligandu",
-    "source_url": "https://veligandu.com/blog/2025/08/30/join-my-ocean-world-at-veligandu/",
+    "value": "scuba diving",
+    "source_url": "https://veligandu.com/blog/2026/07/30/the-dive-every-diver-talks-about-veligandu-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://veligandu.com/blog/2026/02/09/luxury-yachting-at-veligandu/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin cruise",
+    "source_url": "https://veligandu.com/blog/2026/02/09/luxury-yachting-at-veligandu/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://veligandu.com/blog/2026/02/09/luxury-yachting-at-veligandu/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://veligandu.com/blog/2026/02/09/luxury-yachting-at-veligandu/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://veligandu.com/blog/2026/09/07/discover-typti-at-veligandu/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://veligandu.com/blog/2025/05/22/a-3-day-escape-to-veligandu/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "stand-up paddle",
+    "source_url": "https://veligandu.com/blog/2025/05/22/a-3-day-escape-to-veligandu/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "paddleboard",
+    "source_url": "https://veligandu.com/blog/2025/05/22/a-3-day-escape-to-veligandu/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin cruise",
+    "source_url": "https://veligandu.com/blog/2025/05/22/a-3-day-escape-to-veligandu/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://veligandu.com/blog/2025/05/22/a-3-day-escape-to-veligandu/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://veligandu.com/blog/2025/05/24/family-travel-to-maldives-with-teenagers/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://veligandu.com/blog/2025/05/24/family-travel-to-maldives-with-teenagers/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://veligandu.com/blog/2025/05/24/family-travel-to-maldives-with-teenagers/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://veligandu.com/blog/2025/05/24/family-travel-to-maldives-with-teenagers/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://veligandu.com/blog/2026/07/29/ocean-adventures-beyond-the-reefs-of-veligandu-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://veligandu.com/blog/2026/07/29/ocean-adventures-beyond-the-reefs-of-veligandu-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "jet ski",
+    "source_url": "https://veligandu.com/blog/2026/07/29/ocean-adventures-beyond-the-reefs-of-veligandu-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://veligandu.com/blog/2026/07/29/ocean-adventures-beyond-the-reefs-of-veligandu-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://veligandu.com/blog/2026/05/25/how-to-celebrate-weddings-birtdays-milestones-in-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://veligandu.com/blog/2026/05/23/best-time-to-snorkel-at-veligandu-maldives-house-reef/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://veligandu.com/blog/2026/05/23/best-time-to-snorkel-at-veligandu-maldives-house-reef/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://veligandu.com/blog/2026/05/23/best-time-to-snorkel-at-veligandu-maldives-house-reef/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://veligandu.com/blog/2026/05/23/best-time-to-snorkel-at-veligandu-maldives-house-reef/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://veligandu.com/blog/2025/10/11/meet-the-team-villa-attendant-shahid/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://veligandu.com/blog/2025/10/11/meet-the-team-villa-attendant-shahid/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://veligandu.com/blog/2025/04/04/discover-the-graceful-giants-of-the-maldives-manta-rays-and-eagle-rays/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://veligandu.com/blog/2025/04/04/discover-the-graceful-giants-of-the-maldives-manta-rays-and-eagle-rays/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://veligandu.com/blog/2025/04/04/discover-the-graceful-giants-of-the-maldives-manta-rays-and-eagle-rays/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin cruise",
+    "source_url": "https://veligandu.com/blog/2025/05/18/one-island-infinite-wedding-options/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://veligandu.com/blog/2025/03/05/exploring-the-vibrant-coral-reefs-of-veligandu/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://veligandu.com/blog/2025/03/05/exploring-the-vibrant-coral-reefs-of-veligandu/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://veligandu.com/blog/2025/12/05/moments-we-love-to-create-for-you-lifestyle-recommendations/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://veligandu.com/blog/2025/12/05/moments-we-love-to-create-for-you-lifestyle-recommendations/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "jet ski",
+    "source_url": "https://veligandu.com/blog/2025/12/05/moments-we-love-to-create-for-you-lifestyle-recommendations/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://veligandu.com/blog/2025/12/05/moments-we-love-to-create-for-you-lifestyle-recommendations/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://veligandu.com/blog/2025/12/05/moments-we-love-to-create-for-you-lifestyle-recommendations/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://letsgomaldives.com/news/escape-to-paradise-veligandu-island-resort-spa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://letsgomaldives.com/news/escape-to-paradise-veligandu-island-resort-spa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.mymaldives.com/resort-guide/veligandu-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://www.mymaldives.com/resort-guide/veligandu-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "windsurfing",
+    "source_url": "https://www.mymaldives.com/resort-guide/veligandu-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "catamaran",
+    "source_url": "https://www.mymaldives.com/resort-guide/veligandu-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.mymaldives.com/resort-guide/veligandu-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sailing",
+    "source_url": "https://www.mymaldives.com/resort-guide/veligandu-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "canoe",
+    "source_url": "https://www.mymaldives.com/resort-guide/veligandu-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.maldivestourism.net/resorts/veligandu-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.maldivestourism.net/resorts/veligandu-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.tropicalsky.co.uk/indian-ocean-holidays/maldives/veligandu-island-resort-spa-hotel",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.tropicalsky.co.uk/indian-ocean-holidays/maldives/veligandu-island-resort-spa-hotel",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://www.tropicalsky.co.uk/indian-ocean-holidays/maldives/veligandu-island-resort-spa-hotel",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "windsurfing",
+    "source_url": "https://www.tropicalsky.co.uk/indian-ocean-holidays/maldives/veligandu-island-resort-spa-hotel",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "kayaking",
+    "source_url": "https://www.tropicalsky.co.uk/indian-ocean-holidays/maldives/veligandu-island-resort-spa-hotel",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "stand-up paddle",
+    "source_url": "https://www.tropicalsky.co.uk/indian-ocean-holidays/maldives/veligandu-island-resort-spa-hotel",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "paddleboard",
+    "source_url": "https://www.tropicalsky.co.uk/indian-ocean-holidays/maldives/veligandu-island-resort-spa-hotel",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "jet ski",
+    "source_url": "https://www.tropicalsky.co.uk/indian-ocean-holidays/maldives/veligandu-island-resort-spa-hotel",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "parasailing",
+    "source_url": "https://www.tropicalsky.co.uk/indian-ocean-holidays/maldives/veligandu-island-resort-spa-hotel",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.tropicalsky.co.uk/indian-ocean-holidays/maldives/veligandu-island-resort-spa-hotel",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin cruise",
+    "source_url": "https://www.tropicalsky.co.uk/indian-ocean-holidays/maldives/veligandu-island-resort-spa-hotel",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://malediven.de/malediven-hotels/veligandu/",
     "as_of": "2026-10-04"
    }
   ],
   "excursions": [
+   {
+    "value": "local island",
+    "source_url": "https://veligandu.com/wp-content/uploads/2025/06/Factsheet-W25-26S26Ver17062025.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://veligandu.com/wp-content/uploads/2025/06/Factsheet-W25-26S26Ver17062025.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://veligandu.com/wp-content/uploads/2025/06/Factsheet-W25-26S26Ver17062025.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "manta",
+    "source_url": "https://veligandu.com/wp-content/uploads/2025/06/Factsheet-W25-26S26Ver17062025.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://veligandu.com/wp-content/uploads/2025/06/Factsheet-W25-26S26Ver17062025.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "picnic",
+    "source_url": "https://veligandu.com/wp-content/uploads/2025/06/Factsheet-W25-26S26Ver17062025.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "cinema",
+    "source_url": "https://veligandu.com/wp-content/uploads/2025/06/Factsheet-W25-26S26Ver17062025.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://veligandu.com/wp-content/uploads/2024/09/Veli-HoneymoonGuestInfoRenewalsOfVows_110124-103125_Rev081524-240924.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://veligandu.com/wp-content/uploads/2024/09/Veli-HoneymoonGuestInfoRenewalsOfVows_110124-103125_Rev081524-240924.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "manta",
+    "source_url": "https://veligandu.com/wp-content/uploads/2024/09/Veli-HoneymoonGuestInfoRenewalsOfVows_110124-103125_Rev081524-240924.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://veligandu.com/wp-content/uploads/2024/09/Veli-HoneymoonGuestInfoRenewalsOfVows_110124-103125_Rev081524-240924.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "cinema",
+    "source_url": "https://veligandu.com/wp-content/uploads/2024/09/Veli-HoneymoonGuestInfoRenewalsOfVows_110124-103125_Rev081524-240924.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://veligandu.com/wp-content/uploads/2026/01/VeliWaterSportsCentre2026_010126-123126.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "manta",
+    "source_url": "https://veligandu.com/wp-content/uploads/2026/01/VeliWaterSportsCentre2026_010126-123126.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "local island",
+    "source_url": "https://veligandu.com/wp-content/uploads/2026/01/VeliExcursionsCentreCatalogue2026_010126-123126_.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://veligandu.com/wp-content/uploads/2026/01/VeliExcursionsCentreCatalogue2026_010126-123126_.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://veligandu.com/wp-content/uploads/2026/01/VeliExcursionsCentreCatalogue2026_010126-123126_.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "sunset fishing",
+    "source_url": "https://veligandu.com/wp-content/uploads/2026/01/VeliExcursionsCentreCatalogue2026_010126-123126_.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "big game fishing",
+    "source_url": "https://veligandu.com/wp-content/uploads/2026/01/VeliExcursionsCentreCatalogue2026_010126-123126_.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://veligandu.com/wp-content/uploads/2026/01/VeliExcursionsCentreCatalogue2026_010126-123126_.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "manta",
+    "source_url": "https://veligandu.com/wp-content/uploads/2026/01/VeliExcursionsCentreCatalogue2026_010126-123126_.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://veligandu.com/wp-content/uploads/2026/01/VeliExcursionsCentreCatalogue2026_010126-123126_.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "picnic",
+    "source_url": "https://veligandu.com/wp-content/uploads/2026/01/VeliExcursionsCentreCatalogue2026_010126-123126_.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "local island",
+    "source_url": "https://veligandu.com/wp-content/uploads/2025/06/AIl-InclusiveDineAroundPack103125_Rev24.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://d2qwq69i2ic1pk.cloudfront.net/2026/02/Sustainablity-Initiatives-Brochure-CCR-2025.pdf",
+    "as_of": 2025
+   },
    {
     "value": "dolphin",
     "source_url": "https://veligandu.com/blog/2025/08/30/join-my-ocean-world-at-veligandu/",
@@ -225,12 +1497,683 @@
     "value": "turtle",
     "source_url": "https://veligandu.com/blog/2025/08/30/join-my-ocean-world-at-veligandu/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://veligandu.com/blog/2026/07/30/the-dive-every-diver-talks-about-veligandu-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://veligandu.com/blog/2026/02/09/luxury-yachting-at-veligandu/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://veligandu.com/blog/2026/02/09/luxury-yachting-at-veligandu/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://veligandu.com/blog/2026/02/09/luxury-yachting-at-veligandu/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://veligandu.com/blog/2026/02/09/luxury-yachting-at-veligandu/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://veligandu.com/blog/2026/02/09/luxury-yachting-at-veligandu/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "private dinner",
+    "source_url": "https://veligandu.com/blog/2026/02/09/luxury-yachting-at-veligandu/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://veligandu.com/blog/2025/09/30/bars-mixology-crafting-moments-in-every-pour/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://veligandu.com/blog/2025/05/22/a-3-day-escape-to-veligandu/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://veligandu.com/blog/2025/05/22/a-3-day-escape-to-veligandu/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://veligandu.com/blog/2025/05/22/a-3-day-escape-to-veligandu/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://veligandu.com/blog/2025/05/24/family-travel-to-maldives-with-teenagers/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://veligandu.com/blog/2025/05/24/family-travel-to-maldives-with-teenagers/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "picnic",
+    "source_url": "https://veligandu.com/blog/2025/05/24/family-travel-to-maldives-with-teenagers/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://veligandu.com/blog/2026/07/29/ocean-adventures-beyond-the-reefs-of-veligandu-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://veligandu.com/blog/2026/07/29/ocean-adventures-beyond-the-reefs-of-veligandu-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://veligandu.com/blog/2026/07/29/ocean-adventures-beyond-the-reefs-of-veligandu-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://veligandu.com/blog/2026/05/25/how-to-celebrate-weddings-birtdays-milestones-in-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://veligandu.com/blog/2024/08/23/veligandu-maldives-logo-the-story/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://veligandu.com/blog/2026/05/23/best-time-to-snorkel-at-veligandu-maldives-house-reef/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://veligandu.com/blog/2026/05/23/best-time-to-snorkel-at-veligandu-maldives-house-reef/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://veligandu.com/blog/2026/05/23/best-time-to-snorkel-at-veligandu-maldives-house-reef/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://veligandu.com/blog/2026/05/23/best-time-to-snorkel-at-veligandu-maldives-house-reef/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://veligandu.com/blog/2025/10/11/meet-the-team-villa-attendant-shahid/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://veligandu.com/blog/2025/04/04/discover-the-graceful-giants-of-the-maldives-manta-rays-and-eagle-rays/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://veligandu.com/blog/2025/05/18/one-island-infinite-wedding-options/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://veligandu.com/blog/2025/03/05/exploring-the-vibrant-coral-reefs-of-veligandu/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://veligandu.com/blog/2025/03/05/exploring-the-vibrant-coral-reefs-of-veligandu/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://veligandu.com/blog/category/blog/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://veligandu.com/blog/2025/12/05/moments-we-love-to-create-for-you-lifestyle-recommendations/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://veligandu.com/blog/2025/12/05/moments-we-love-to-create-for-you-lifestyle-recommendations/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://veligandu.com/blog/2025/12/05/moments-we-love-to-create-for-you-lifestyle-recommendations/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://veligandu.com/blog/2025/12/05/moments-we-love-to-create-for-you-lifestyle-recommendations/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://veligandu.com/blog/2025/12/05/moments-we-love-to-create-for-you-lifestyle-recommendations/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "stargazing",
+    "source_url": "https://veligandu.com/blog/2025/12/05/moments-we-love-to-create-for-you-lifestyle-recommendations/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "private dinner",
+    "source_url": "https://veligandu.com/blog/2025/12/05/moments-we-love-to-create-for-you-lifestyle-recommendations/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://letsgomaldives.com/news/escape-to-paradise-veligandu-island-resort-spa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "picnic",
+    "source_url": "https://letsgomaldives.com/news/escape-to-paradise-veligandu-island-resort-spa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "private dinner",
+    "source_url": "https://www.mymaldives.com/resort-guide/veligandu-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.maldivestourism.net/resorts/veligandu-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "local island",
+    "source_url": "https://www.tropicalsky.co.uk/indian-ocean-holidays/maldives/veligandu-island-resort-spa-hotel",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.tropicalsky.co.uk/indian-ocean-holidays/maldives/veligandu-island-resort-spa-hotel",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.tropicalsky.co.uk/indian-ocean-holidays/maldives/veligandu-island-resort-spa-hotel",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "picnic",
+    "source_url": "https://www.tropicalsky.co.uk/indian-ocean-holidays/maldives/veligandu-island-resort-spa-hotel",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://malediven.de/malediven-hotels/veligandu/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "wellness_fitness": [
+   {
+    "value": "yoga",
+    "source_url": "https://veligandu.com/wp-content/uploads/2025/06/Factsheet-W25-26S26Ver17062025.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://veligandu.com/wp-content/uploads/2025/06/Factsheet-W25-26S26Ver17062025.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "padel",
+    "source_url": "https://veligandu.com/wp-content/uploads/2025/06/Factsheet-W25-26S26Ver17062025.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://veligandu.com/wp-content/uploads/2025/06/HimeynSpaMenuVer300425.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "meditation",
+    "source_url": "https://veligandu.com/wp-content/uploads/2025/06/HimeynSpaMenuVer300425.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "sound healing",
+    "source_url": "https://veligandu.com/wp-content/uploads/2025/06/HimeynSpaMenuVer300425.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "steam",
+    "source_url": "https://veligandu.com/wp-content/uploads/2025/06/HimeynSpaMenuVer300425.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://veligandu.com/wp-content/uploads/2025/06/AIl-InclusiveDineAroundPack103125_Rev24.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "fitness center",
+    "source_url": "https://veligandu.com/wp-content/uploads/2025/06/AIl-InclusiveDineAroundPack103125_Rev24.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://veligandu.com/wp-content/uploads/2025/06/AIl-InclusiveDineAroundPack103125_Rev24.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "padel",
+    "source_url": "https://veligandu.com/wp-content/uploads/2025/06/AIl-InclusiveDineAroundPack103125_Rev24.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://veligandu.com/blog/2026/01/09/world-class-padel-pickleball-veligandu-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "padel",
+    "source_url": "https://veligandu.com/blog/2026/01/09/world-class-padel-pickleball-veligandu-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://veligandu.com/blog/2026/09/07/discover-typti-at-veligandu/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "badminton",
+    "source_url": "https://veligandu.com/blog/2026/09/07/discover-typti-at-veligandu/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://veligandu.com/blog/2025/05/22/a-3-day-escape-to-veligandu/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://veligandu.com/blog/2025/05/24/family-travel-to-maldives-with-teenagers/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://veligandu.com/blog/2025/05/24/family-travel-to-maldives-with-teenagers/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "padel",
+    "source_url": "https://veligandu.com/blog/2025/05/24/family-travel-to-maldives-with-teenagers/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sound healing",
+    "source_url": "https://veligandu.com/blog/2025/05/24/family-travel-to-maldives-with-teenagers/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://veligandu.com/blog/2026/09/08/active-holidays-in-maldives-with-veligandu/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "gym",
+    "source_url": "https://veligandu.com/blog/2026/09/08/active-holidays-in-maldives-with-veligandu/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://veligandu.com/blog/2026/09/08/active-holidays-in-maldives-with-veligandu/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "padel",
+    "source_url": "https://veligandu.com/blog/2026/09/08/active-holidays-in-maldives-with-veligandu/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "beach volleyball",
+    "source_url": "https://veligandu.com/blog/2026/09/08/active-holidays-in-maldives-with-veligandu/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://veligandu.com/blog/2025/08/04/through-my-hands-through-my-heart-discover-himeyn-spa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sound healing",
+    "source_url": "https://veligandu.com/blog/2025/08/04/through-my-hands-through-my-heart-discover-himeyn-spa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://veligandu.com/blog/2026/05/25/how-to-celebrate-weddings-birtdays-milestones-in-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "steam",
+    "source_url": "https://veligandu.com/blog/2024/08/24/mas-riha-maldivian-fish-curry-by-chef-didi-taste-of-maldives-by-veligandu/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://veligandu.com/blog/category/blog/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "padel",
+    "source_url": "https://veligandu.com/blog/category/blog/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "steam",
+    "source_url": "https://veligandu.com/blog/2026/07/05/hidden-touches-of-sustainable-luxury/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.mymaldives.com/resort-guide/veligandu-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://www.mymaldives.com/resort-guide/veligandu-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "badminton",
+    "source_url": "https://www.mymaldives.com/resort-guide/veligandu-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "ayurveda",
+    "source_url": "https://www.maldivestourism.net/resorts/veligandu-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.tropicalsky.co.uk/indian-ocean-holidays/maldives/veligandu-island-resort-spa-hotel",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fitness centre",
+    "source_url": "https://www.tropicalsky.co.uk/indian-ocean-holidays/maldives/veligandu-island-resort-spa-hotel",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fitness center",
+    "source_url": "https://www.tropicalsky.co.uk/indian-ocean-holidays/maldives/veligandu-island-resort-spa-hotel",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://www.tropicalsky.co.uk/indian-ocean-holidays/maldives/veligandu-island-resort-spa-hotel",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "padel",
+    "source_url": "https://www.tropicalsky.co.uk/indian-ocean-holidays/maldives/veligandu-island-resort-spa-hotel",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://malediven.de/malediven-hotels/veligandu/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "weddings.offered": [
+   {
+    "value": true,
+    "source_url": "https://veligandu.com/wp-content/uploads/2025/06/Factsheet-W25-26S26Ver17062025.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": true,
+    "source_url": "https://veligandu.com/wp-content/uploads/2024/09/Veli-HoneymoonGuestInfoRenewalsOfVows_110124-103125_Rev081524-240924.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": true,
+    "source_url": "https://veligandu.com/blog/2026/02/09/luxury-yachting-at-veligandu/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://veligandu.com/blog/2026/05/25/how-to-celebrate-weddings-birtdays-milestones-in-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://veligandu.com/blog/2026/05/25/how-to-celebrate-weddings-birtdays-milestones-in-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://veligandu.com/blog/2025/05/18/one-island-infinite-wedding-options/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://veligandu.com/blog/2025/05/18/one-island-infinite-wedding-options/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://veligandu.com/blog/category/blog/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.tropicalsky.co.uk/indian-ocean-holidays/maldives/veligandu-island-resort-spa-hotel",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "weddings.vow_renewal": [
+   {
+    "value": true,
+    "source_url": "https://veligandu.com/wp-content/uploads/2025/06/Factsheet-W25-26S26Ver17062025.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": true,
+    "source_url": "https://veligandu.com/wp-content/uploads/2024/09/Veli-HoneymoonGuestInfoRenewalsOfVows_110124-103125_Rev081524-240924.pdf",
+    "as_of": 2025
    }
   ],
   "sustainability": [
    {
     "value": "marine biologist",
+    "source_url": "https://veligandu.com/wp-content/uploads/2025/06/Factsheet-W25-26S26Ver17062025.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "coral restoration",
+    "source_url": "https://d2qwq69i2ic1pk.cloudfront.net/2026/02/Sustainablity-Initiatives-Brochure-CCR-2025.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "marine biologist",
+    "source_url": "https://d2qwq69i2ic1pk.cloudfront.net/2026/02/Sustainablity-Initiatives-Brochure-CCR-2025.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "solar",
+    "source_url": "https://d2qwq69i2ic1pk.cloudfront.net/2026/02/Sustainablity-Initiatives-Brochure-CCR-2025.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "desalination",
+    "source_url": "https://d2qwq69i2ic1pk.cloudfront.net/2026/02/Sustainablity-Initiatives-Brochure-CCR-2025.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "marine biologist",
     "source_url": "https://veligandu.com/blog/2025/08/30/join-my-ocean-world-at-veligandu/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "coral restoration",
+    "source_url": "https://veligandu.com/blog/2026/05/06/protecting-the-beauty-beneath-the-surface-coral-restoration/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "marine biologist",
+    "source_url": "https://veligandu.com/blog/2026/05/06/protecting-the-beauty-beneath-the-surface-coral-restoration/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "marine biologist",
+    "source_url": "https://veligandu.com/blog/2025/05/24/family-travel-to-maldives-with-teenagers/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "solar",
+    "source_url": "https://veligandu.com/blog/2026/06/30/renewable-energy-nitiatives-at-veligandu-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "marine biologist",
+    "source_url": "https://veligandu.com/blog/2025/03/05/exploring-the-vibrant-coral-reefs-of-veligandu/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "solar",
+    "source_url": "https://veligandu.com/blog/category/blog/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "contacts_public.reservations_email": [
+   {
+    "value": "reservations@veligandu.com",
+    "source_url": "https://veligandu.com/wp-content/uploads/2025/06/Factsheet-W25-26S26Ver17062025.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "reservations@veligandu.com",
+    "source_url": "https://veligandu.com/wp-content/uploads/2025/02/veligandu-valentines-day-brochure-2025.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "reservations@veligandu.com",
+    "source_url": "https://veligandu.com/wp-content/uploads/2024/09/Veli-HoneymoonGuestInfoRenewalsOfVows_110124-103125_Rev081524-240924.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "reservations@veligandu.com",
+    "source_url": "https://veligandu.com/wp-content/uploads/2024/09/Veli-GuestVillaSizes_Rev081524.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "reservations@veligandu.com",
+    "source_url": "https://veligandu.com/wp-content/uploads/2025/06/AIl-InclusiveDineAroundPack103125_Rev24.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "info@crownandchamparesorts.com",
+    "source_url": "https://d2qwq69i2ic1pk.cloudfront.net/2026/02/Sustainablity-Initiatives-Brochure-CCR-2025.pdf",
+    "as_of": 2025
+   }
+  ],
+  "contacts_public.phone": [
+   {
+    "value": "+960 666 0519",
+    "source_url": "https://veligandu.com/wp-content/uploads/2025/06/Factsheet-W25-26S26Ver17062025.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "+960 666 0519",
+    "source_url": "https://veligandu.com/wp-content/uploads/2025/02/veligandu-valentines-day-brochure-2025.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "+960 6660519",
+    "source_url": "https://veligandu.com/wp-content/uploads/2024/09/Veli-HoneymoonGuestInfoRenewalsOfVows_110124-103125_Rev081524-240924.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "+960 6660519",
+    "source_url": "https://veligandu.com/wp-content/uploads/2024/09/Veli-GuestVillaSizes_Rev081524.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "+960 666 0519",
+    "source_url": "https://veligandu.com/wp-content/uploads/2025/06/AIl-InclusiveDineAroundPack103125_Rev24.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "+960 664 0219",
+    "source_url": "https://d2qwq69i2ic1pk.cloudfront.net/2026/02/Sustainablity-Initiatives-Brochure-CCR-2025.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "+960 666 0519",
+    "source_url": "https://www.mymaldives.com/resort-guide/veligandu-island-resort/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "weddings.venues": [
+   {
+    "value": "Wedding Pavilion decorated ✔ ✔ ✔ ✔ ✔",
+    "source_url": "https://veligandu.com/wp-content/uploads/2024/09/Veli-HoneymoonGuestInfoRenewalsOfVows_110124-103125_Rev081524-240924.pdf",
+    "as_of": 2025
+   }
+  ],
+  "all_inclusive_details": [
+   {
+    "value": "All-\n Inclusive Dine Around Package.",
+    "source_url": "https://veligandu.com/wp-content/uploads/2025/06/AIl-InclusiveDineAroundPack103125_Rev24.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "All Inclusive Plan option.",
+    "source_url": "https://www.mymaldives.com/resort-guide/veligandu-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "all inclusive basis only.",
+    "source_url": "https://www.maldivestourism.net/resorts/veligandu-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "All Inclusive Programm, Kulinarik 12/10, eine unbeschreibliche Freundlichkeit und Gastfreundschaft! Hier bleiben definitiv keine Wünsche offen! Eines ist klar – wenn Malediven, dann nur über Stop Over Reisen.",
+    "source_url": "https://malediven.de/malediven-hotels/veligandu/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "villas.total": [
+   {
+    "value": 15,
+    "source_url": "https://d2qwq69i2ic1pk.cloudfront.net/2026/02/Sustainablity-Initiatives-Brochure-CCR-2025.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": 74,
+    "source_url": "https://www.mymaldives.com/resort-guide/veligandu-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 100,
+    "source_url": "https://www.tropicalsky.co.uk/indian-ocean-holidays/maldives/veligandu-island-resort-spa-hotel",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 100,
+    "source_url": "https://www.tropicalsky.co.uk/indian-ocean-holidays/maldives/veligandu-island-resort-spa-hotel",
     "as_of": "2026-10-04"
    }
   ],
@@ -246,14 +2189,103 @@
    },
    {
     "value": {
-     "name": "Step One: From Fresh Juice To Tropical Bar Snacks",
+     "name": "Thundi Bar",
      "cuisine": null,
      "type": "bar"
     },
-    "source_url": "https://veligandu.com/blog/2026/07/03/sustainable-food-how-pineapples-are-repurposed/",
+    "source_url": "https://veligandu.com/blog/2025/09/30/bars-mixology-crafting-moments-in-every-pour/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Thundi Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://veligandu.com/blog/2025/09/30/bars-mixology-crafting-moments-in-every-pour/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Madivaru Teppankai Grill",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://veligandu.com/blog/2025/05/24/family-travel-to-maldives-with-teenagers/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Hot POT & Grill by Shore",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://veligandu.com/blog/2025/08/29/hot-grill-and-floating-tea-at-veligandu/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Teppanyaki Experience",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://veligandu.com/blog/2025/12/05/moments-we-love-to-create-for-you-lifestyle-recommendations/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Teppanyaki experience",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://veligandu.com/blog/2025/12/05/moments-we-love-to-create-for-you-lifestyle-recommendations/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Dhonveli Restaurant",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.tropicalsky.co.uk/indian-ocean-holidays/maldives/veligandu-island-resort-spa-hotel",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Madivaru -  Restaurant and Teppanyaki Grill",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.tropicalsky.co.uk/indian-ocean-holidays/maldives/veligandu-island-resort-spa-hotel",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Thundi Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.tropicalsky.co.uk/indian-ocean-holidays/maldives/veligandu-island-resort-spa-hotel",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "kids_family.teens": [
+   {
+    "value": "teens programme mentioned",
+    "source_url": "https://veligandu.com/blog/2025/05/24/family-travel-to-maldives-with-teenagers/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "teens programme mentioned",
+    "source_url": "https://veligandu.com/blog/2025/08/03/your-island-your-way-villas-for-all-ages/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "teens programme mentioned",
+    "source_url": "https://veligandu.com/blog/2025/05/18/one-island-infinite-wedding-options/",
     "as_of": "2026-10-04"
    }
   ]
  },
- "last_updated": "2026-10-04"
+ "last_updated": "2026-10-05"
 }
