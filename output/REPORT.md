@@ -134,7 +134,7 @@
 | # | resort | missing | official site |
 |---|---|---|---|
 | 1 | Six Senses Laamu | factsheet, wedding, events | blocked |
-| 2 | Filitheyo Island Resort | factsheet, wedding, events | unverified |
+| 2 | Filitheyo Island Resort | factsheet, wedding, events | blocked-partial |
 | 4 | Ayada Maldives | events | ok |
 | 5 | Bolifushi Island Resort | wedding, events | blocked |
 | 6 | Joali Being Bodufushi | wedding, events | unreachable |
@@ -148,31 +148,31 @@
 | 14 | Baglioni Resort Maldives | factsheet, wedding, events | blocked |
 | 15 | Alila Kothaifaru Maldives | wedding, events | blocked |
 | 16 | JW Marriott Kaafu Atoll Island Resort | factsheet, wedding, events | blocked |
-| 17 | Rihiveli Maldives Resort | factsheet, wedding, events | unverified |
+| 17 | Rihiveli Maldives Resort | factsheet, wedding, events | blocked-partial |
 | 18 | JW Marriott Maldives Resort & Spa | wedding, events | blocked |
 | 19 | The Residence Maldives | factsheet | ok |
 | 20 | The Residence Maldives At Dhigurah | factsheet, events | ok |
 | 21 | Brennia Kottefaru | wedding, events | ok |
 | 22 | Barceló Whale Lagoon Maldives | wedding, events | unverified |
-| 23 | Nooe Maldives Kunavashi | wedding, events | unreachable |
+| 23 | Nooe Maldives Kunavashi | wedding, events | ok |
 | 24 | Canareef Resort Maldives | factsheet, wedding, events | ok |
 | 25 | Raffles Maldives Meradhoo Resort | wedding, events | blocked |
 | 27 | Grand Park Kodhipparu Maldives | wedding, events | ok |
 | 28 | Kudadoo Maldives Private island | wedding, events | ok |
 | 29 | Dheruhfinolhu by Jawakara Islands Maldives | factsheet, wedding, events | ok |
 | 30 | Hurawalhi Island Resort | events | ok |
-| 31 | Innahura Maldives Resort | wedding, events | unverified |
+| 31 | Innahura Maldives Resort | wedding, events | ok |
 | 32 | Cocoon Maldives | wedding, events | ok |
 | 33 | Dhigali Maldives | events | ok |
 | 34 | Adaaran Select Meedhupparu | events | ok |
 | 35 | Heritance Aarah | events | ok |
-| 36 | Coastline Residences | factsheet, wedding, events | unreachable |
+| 36 | Coastline Residences | factsheet, wedding, events | unverified |
 | 37 | The Ritz Carlton Maldives Fari Islands | wedding, events | unreachable |
 | 38 | Veligandu Maldives Resort Island | events | ok |
 | 39 | NH Collection Maldives Havodda Resort | wedding, events | blocked |
 | 40 | Le Méridien Maldives Resort and Spa | wedding, events | blocked |
 | 41 | Ozen By Atmosphere At Maadhoo | wedding, events | unverified |
-| 42 | Dhiggiri Tourist Resort | factsheet, wedding, events | unverified |
+| 42 | Dhiggiri Tourist Resort | factsheet, wedding, events | ok |
 | 43 | Dhigufaru Island Resort | events | ok |
 | 44 | Hard Rock Hotel Maldives | factsheet, events | ok |
 | 45 | Saii Lagoon Maldives | wedding | ok |
@@ -186,7 +186,7 @@
 | 55 | Fihaalhohi Maldives | factsheet, wedding, events | unreachable |
 | 56 | Four Seasons Resort Maldives at Kuda Huraa | factsheet, wedding, events | blocked |
 | 57 | Fushifaru Maldives | factsheet, wedding, events | blocked-partial |
-| 58 | Sirru Fen Fushi | wedding, events | unverified |
+| 58 | Sirru Fen Fushi | wedding, events | ok |
 | 59 | Jumeirah Maldives Olhahali Island | wedding, events | ok |
 | 60 | Reethi Beach Resort | factsheet, wedding, events | unverified |
 | 61 | Equator Village | wedding, events | ok |
@@ -209,7 +209,7 @@
 | 81 | Kuredu Island Resort | wedding, events | ok |
 | 82 | Ifuru Island Maldives | wedding, events | ok |
 | 83 | Mabinhura by Jawakara Islands Maldives | factsheet, wedding, events | ok |
-| 84 | Alimatha Aquatic Resort | factsheet, wedding, events | unreachable |
+| 84 | Alimatha Aquatic Resort | factsheet, wedding, events | blocked-partial |
 | 85 | Centara Mirage Lagoon Maldives & Centara Grand Lagoon Maldives | wedding | ok |
 | 86 | Four Seasons Private Island Maldives at Voavah | factsheet, wedding, events | blocked |
 | 87 | Four Seasons Resort Maldives at Landaa Giraavaru | factsheet, wedding, events | blocked |
@@ -257,7 +257,7 @@
 | 132 | Noku Maldives | wedding, events | unreachable |
 | 133 | Oblu By Atmosphere at Helengeli | factsheet, wedding, events | ok |
 | 134 | The St. Regis Vommuli Resort, Maldives | wedding, events | blocked |
-| 135 | Diamonds Thudufushi Beach and Water Villas | wedding, events | unreachable |
+| 135 | Diamonds Thudufushi Beach and Water Villas | wedding, events | ok |
 | 137 | Soneva Secret | factsheet, events | ok |
 | 138 | Varu Island Resort | factsheet, wedding, events | blocked-partial |
 | 139 | Kudafushi Resort & Spa | events | ok |
@@ -271,7 +271,7 @@
 | 147 | Sun Siyam Vilu Reef Maldives | events | ok |
 | 148 | Sun Siyam Iru Fushi Maldives | events | ok |
 | 149 | Biyaadhoo Island Resort | factsheet, wedding, events | unreachable |
-| 150 | Coco Bodu Hithi | wedding, events | unverified |
+| 150 | Coco Bodu Hithi | wedding, events | ok |
 | 151 | Coco Palm Dhunikolhu | factsheet, wedding, events | ok |
 | 152 | Makunudu Island | events | ok |
 | 153 | Taj Coral Reef Resort and Spa | wedding, events | blocked |
@@ -297,7 +297,7 @@
 | 174 | Vilamendhoo Island Resort | events | ok |
 | 176 | Villa Park Sun Island | wedding | ok |
 | 177 | Royal Island Resort and Spa | events | ok |
-| 178 | Diamonds Athuruga Beach & Water Villas | wedding, events | unreachable |
+| 178 | Diamonds Athuruga Beach & Water Villas | wedding, events | ok |
 | 179 | Siyam World Maldives | events | ok |
 | 180 | Lux* South Ari Atoll, Maldives | wedding, events | unreachable |
 | 181 | Yash Nature Resort | factsheet, wedding, events | unreachable |
@@ -328,7 +328,6 @@
 | # | resort | status | url |
 |---|---|---|---|
 | 1 | Six Senses Laamu | blocked | https://www.sixsenses.com/en/resorts/laamu |
-| 2 | Filitheyo Island Resort | unverified | https://www.filitheyo.com/ |
 | 5 | Bolifushi Island Resort | blocked | https://www.ozenreservebolifushi.com/ |
 | 6 | Joali Being Bodufushi | unreachable | https://www.joalibeing.com/ |
 | 7 | Joali Muravandhoo | unreachable | https://www.joali.com/ |
@@ -336,26 +335,20 @@
 | 14 | Baglioni Resort Maldives | blocked | https://www.baglionihotels.com/maldives/ |
 | 15 | Alila Kothaifaru Maldives | blocked | https://www.alilahotels.com/kothaifaru |
 | 16 | JW Marriott Kaafu Atoll Island Resort | blocked | https://www.marriott.com/en-us/hotels/mlejk-jw-marriott-kaafu-atoll-island-resort/overview/ |
-| 17 | Rihiveli Maldives Resort | unverified | https://www.rihiveli-maldives.com/ |
 | 18 | JW Marriott Maldives Resort & Spa | blocked | https://www.marriott.com/en-us/hotels/mlejw-jw-marriott-maldives-resort-and-spa/overview/ |
 | 22 | Barceló Whale Lagoon Maldives | unverified | https://www.barcelo.com/en-ww/barcelo-whale-lagoon-maldives/ |
-| 23 | Nooe Maldives Kunavashi | unreachable | https://www.nooemaldives.com/ |
 | 25 | Raffles Maldives Meradhoo Resort | blocked | https://www.raffles.com/maldives/ |
-| 31 | Innahura Maldives Resort | unverified | https://www.innahura.com/ |
-| 36 | Coastline Residences | unreachable | https://coastlineresidences.com/ |
+| 36 | Coastline Residences | unverified | https://coastlineresidences.com/ |
 | 37 | The Ritz Carlton Maldives Fari Islands | unreachable | https://www.ritzcarlton.com/en/hotels/mlerz-the-ritz-carlton-maldives-fari-islands/overview/ |
 | 39 | NH Collection Maldives Havodda Resort | blocked | https://www.nh-hotels.com/en/hotel/nh-collection-maldives-havodda-resort |
 | 40 | Le Méridien Maldives Resort and Spa | blocked | https://www.marriott.com/en-us/hotels/mlemd-le-meridien-maldives-resort-and-spa/overview/ |
 | 41 | Ozen By Atmosphere At Maadhoo | unverified | https://www.ozenlifemaadhoo.com/ |
-| 42 | Dhiggiri Tourist Resort | unverified | https://dhiggiri.com/ |
 | 47 | Park Hyatt Maldives, Hadahaa | unverified | https://www.hyatt.com/en-US/hotel/maldives/park-hyatt-maldives-hadahaa/mlemh |
 | 48 | Dusit Thani Maldives | unverified | https://www.dusit.com/dusitthani-maldives/ |
-| 55 | Fihaalhohi Maldives | unreachable | https://www.fihalhohi.net/ |
+| 55 | Fihaalhohi Maldives | unreachable | https://fihalhohi.com/ |
 | 56 | Four Seasons Resort Maldives at Kuda Huraa | blocked | https://www.fourseasons.com/maldiveskh/ |
-| 58 | Sirru Fen Fushi | unverified | https://www.fairmont.com/maldives/ |
 | 60 | Reethi Beach Resort | unverified | https://www.reethibeach.com/ |
 | 64 | Radisson Blu Resort Maldives | unverified | https://www.radissonhotels.com/en-us/hotels/radisson-blu-resort-maldives |
-| 84 | Alimatha Aquatic Resort | unreachable | https://www.alimatha.com/ |
 | 86 | Four Seasons Private Island Maldives at Voavah | blocked | https://www.fourseasons.com/maldivesvoavah/ |
 | 87 | Four Seasons Resort Maldives at Landaa Giraavaru | blocked | https://www.fourseasons.com/maldiveslg/ |
 | 88 | Holiday Inn Resort Kandooma Maldives | blocked | https://www.ihg.com/holidayinnresorts/hotels/us/en/kandooma-maldives/mlemv/hoteldetail |
@@ -377,17 +370,14 @@
 | 131 | Robinson Maldives | unreachable | https://www.robinson.com/de/clubs/robinson-maldives |
 | 132 | Noku Maldives | unreachable | https://www.nokumaldives.com/ |
 | 134 | The St. Regis Vommuli Resort, Maldives | blocked | https://www.marriott.com/en-us/hotels/mlexr-the-st-regis-maldives-vommuli-resort/overview/ |
-| 135 | Diamonds Thudufushi Beach and Water Villas | unreachable | https://www.planhotel.com/en/hotel/diamonds-thudufushi-beach-water-villas |
 | 140 | The Standard Huruvalhi Maldives | blocked | https://www.standardhotels.com/maldives/properties/huruvalhi |
 | 144 | South Palm Resort Maldives | unreachable | https://southpalm.com.mv/ |
 | 145 | Anantara Resort and Spa Maldives | blocked | https://www.anantara.com/en/dhigu-maldives |
 | 149 | Biyaadhoo Island Resort | unreachable | https://www.biyadhoo.com/ |
-| 150 | Coco Bodu Hithi | unverified | https://www.cococollection.com/bodu-hithi |
 | 153 | Taj Coral Reef Resort and Spa | blocked | https://www.tajhotels.com/en-in/taj/taj-coral-reef-maldives/ |
 | 154 | Taj Exotica Resort & Spa Maldives | blocked | https://www.tajhotels.com/en-in/taj/taj-exotica-maldives/ |
 | 155 | Constance Halaveli Resort | blocked | https://www.constancehotels.com/en/hotels-resorts/maldives/halaveli/ |
 | 156 | Drift Theluveliga Retreat | unreachable | https://drift-theluveliga.com/ |
-| 178 | Diamonds Athuruga Beach & Water Villas | unreachable | https://www.planhotel.com/en/hotel/diamonds-athuruga-beach-water-villas |
 | 180 | Lux* South Ari Atoll, Maldives | unreachable | https://www.luxresorts.com/en/maldives/hotel/luxsouthariatoll |
 | 181 | Yash Nature Resort | unreachable | https://yashnatureresort.com/ |
 
