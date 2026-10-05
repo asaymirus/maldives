@@ -1373,3 +1373,49 @@ FileNotFoundError: [Errno 2] No such file or directory: '/home/user/maldives/sta
 2026-10-05 01:56:46,586 INFO progress 175/199 {'failed': 97, 'stored': 63, 'duplicate': 10, 'unmatched': 4, 'rejected': 1}
 2026-10-05 01:56:55,013 INFO queue done: {'failed': 107, 'stored': 70, 'duplicate': 15, 'unmatched': 6, 'rejected': 1}
 2026-10-05 01:57:04,119 INFO reset 39 official sites for retry: [2, 6, 7, 8, 17, 22, 23, 31, 36, 37, 41, 42, 47, 48, 55, 58, 60, 64, 84, 92, 93, 96, 101, 112, 113, 114, 124, 128, 130, 131, 132, 135, 144, 149, 150, 156, 178, 180, 181]
+2026-10-05 01:57:13,956 INFO RETRY   7 Joali Muravandhoo                        unreachable  pages=0 pdfs=0
+2026-10-05 01:57:18,610 INFO RETRY   8 Hilton Maldives Amingiri Resort & Spa    unverified   pages=0 pdfs=0
+2026-10-05 01:57:19,777 INFO BLOCKED www.melia.com (403)
+2026-10-05 01:57:20,908 INFO RETRY   6 Joali Being Bodufushi                    unreachable  pages=0 pdfs=0
+2026-10-05 01:57:24,580 INFO BLOCKED www.filitheyo.com (403)
+2026-10-05 01:57:24,582 INFO RETRY   2 Filitheyo Island Resort                  blocked-partial pages=1 pdfs=0
+2026-10-05 01:57:41,652 INFO BLOCKED www.rihiveli-maldives.com (403)
+2026-10-05 01:57:41,655 INFO RETRY  17 Rihiveli Maldives Resort                 blocked-partial pages=1 pdfs=0
+2026-10-05 01:57:46,960 INFO RETRY  31 Innahura Maldives Resort                 ok           pages=1 pdfs=0
+2026-10-05 01:57:55,184 INFO RETRY  22 Barceló Whale Lagoon Maldives            unverified   pages=0 pdfs=0
+2026-10-05 01:57:56,176 INFO BLOCKED www.ozenlifemaadhoo.com (403)
+2026-10-05 01:58:00,786 INFO RETRY  23 Nooe Maldives Kunavashi                  ok           pages=1 pdfs=0
+2026-10-05 01:58:01,064 INFO RETRY  37 The Ritz Carlton Maldives Fari Islands   unreachable  pages=0 pdfs=0
+2026-10-05 01:58:06,236 INFO RETRY  36 Coastline Residences                     unverified   pages=0 pdfs=0
+2026-10-05 01:58:07,142 INFO BLOCKED www.dusit.com (403)
+2026-10-05 01:58:28,795 INFO RETRY  41 Ozen By Atmosphere At Maadhoo            unverified   pages=0 pdfs=0
+2026-10-05 01:58:45,630 INFO RETRY  48 Dusit Thani Maldives                     unverified   pages=0 pdfs=0
+2026-10-05 01:58:51,429 INFO RETRY  42 Dhiggiri Tourist Resort                  ok           pages=2 pdfs=0
+2026-10-05 01:58:52,548 INFO BLOCKED www.reethibeach.com (403)
+2026-10-05 01:59:10,549 INFO RETRY  47 Park Hyatt Maldives, Hadahaa             unverified   pages=0 pdfs=0
+2026-10-05 01:59:16,802 INFO RETRY  58 Sirru Fen Fushi                          ok           pages=1 pdfs=0
+2026-10-05 01:59:23,672 INFO RETRY  60 Reethi Beach Resort                      unverified   pages=0 pdfs=0
+2026-10-05 01:59:24,367 INFO BLOCKED www.nh-hotels.com (403)
+2026-10-05 01:59:40,191 INFO RETRY  64 Radisson Blu Resort Maldives             unverified   pages=0 pdfs=0
+2026-10-05 01:59:45,587 INFO RETRY  92 Amaya Kuda Rah Maldives                  unverified   pages=0 pdfs=0
+2026-10-05 01:59:49,815 INFO RETRY  96 Dhawa Ihuru                              unreachable  pages=0 pdfs=0
+2026-10-05 01:59:50,516 INFO RETRY  55 Fihaalhohi Maldives                      unreachable  pages=0 pdfs=0
+2026-10-05 01:59:52,271 INFO BLOCKED www.alimatha.com (403)
+2026-10-05 01:59:52,274 INFO RETRY  84 Alimatha Aquatic Resort                  blocked-partial pages=1 pdfs=0
+2026-10-05 01:59:52,800 INFO RETRY 101 Club Med Finolhu Villas                  unreachable  pages=0 pdfs=0
+2026-10-05 01:59:53,140 INFO BLOCKED all.accor.com (403)
+2026-10-05 01:59:55,616 INFO RETRY  93 Maayafushi Tourist Resort                unreachable  pages=0 pdfs=0
+2026-10-05 02:00:00,335 INFO RETRY 112 Nika Island Resort and Spa               unreachable  pages=0 pdfs=0
+2026-10-05 02:00:01,309 INFO RETRY 114 Gangehi Island Resort                    unreachable  pages=0 pdfs=0
+2026-10-05 02:00:04,466 INFO RETRY 130 Robinson Noonu                           unreachable  pages=0 pdfs=0
+2026-10-05 02:00:06,643 INFO RETRY 131 Robinson Maldives                        unreachable  pages=0 pdfs=0
+2026-10-05 02:00:08,574 INFO BLOCKED www.nokuhotels.com (403)
+2026-10-05 02:00:08,919 INFO RETRY 124 Aanugandu Island Resort                  unreachable  pages=0 pdfs=0
+2026-10-05 02:00:11,788 INFO RETRY 113 Mercure Maldives Kooddoo                 unreachable  pages=0 pdfs=0
+2026-10-05 02:00:19,602 INFO RETRY 144 South Palm Resort Maldives               unreachable  pages=0 pdfs=0
+2026-10-05 02:00:25,294 INFO RETRY 132 Noku Maldives                            unreachable  pages=0 pdfs=0
+2026-10-05 02:00:34,586 INFO RETRY 135 Diamonds Thudufushi Beach and Water Vill ok           pages=1 pdfs=0
+2026-10-05 02:00:46,175 INFO RETRY 149 Biyaadhoo Island Resort                  unreachable  pages=0 pdfs=0
+2026-10-05 02:00:47,760 INFO RETRY 156 Drift Theluveliga Retreat                unreachable  pages=0 pdfs=0
+2026-10-05 02:00:48,695 INFO RETRY 180 Lux* South Ari Atoll, Maldives           unreachable  pages=0 pdfs=0
+2026-10-05 02:01:01,733 INFO RETRY 181 Yash Nature Resort                       unreachable  pages=0 pdfs=0
