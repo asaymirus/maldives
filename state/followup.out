@@ -537,3 +537,16 @@ FileNotFoundError: [Errno 2] No such file or directory: '/home/user/maldives/sta
 == coverage: factsheet 122/182  wedding 55  events 23  map 125  nothing 24  docs 3344
 
 {"factsheet": 122, "wedding": 55, "events": 23, "spa_menu": 77, "dining_menu": 79, "dive_prices": 58, "map": 125, "nothing": 24, "docs": 3344, "resorts_with_docs": 158}
++ python3 phase_c.py
+2026-10-05 02:02:26,740 INFO C agency https://www.hummingbird.travel/               ok           pages=150 pdfs=12
+2026-10-05 02:02:26,795 INFO C agency https://www.unihotel.org/                     ok           pages=150 pdfs=18
+2026-10-05 02:02:26,894 INFO C agency https://www.awesomegetawaymaldives.com/       ok           pages=10 pdfs=22
+2026-10-05 02:02:27,147 INFO C agency https://www.mondomaldive.it/                  ok           pages=150 pdfs=0
+2026-10-05 02:02:27,147 INFO C agency https://www.kellyan.co.jp/                    ok           pages=12 pdfs=0
+2026-10-05 02:02:28,148 INFO C agency https://www.suntravelsmaldives.com/           ok           pages=139 pdfs=0
+2026-10-05 02:02:28,219 INFO C agency https://www.voyagesmaldives.com/              ok           pages=27 pdfs=1
+2026-10-05 02:02:28,275 INFO C agency https://www.letsgomaldives.com/               ok           pages=150 pdfs=89
+2026-10-05 02:02:28,687 INFO C agency https://www.innermaldives.com/                ok           pages=12 pdfs=0
+2026-10-05 02:02:29,229 INFO C agency https://www.capitaltravel.com/                ok           pages=150 pdfs=0
+2026-10-05 02:02:29,764 INFO C agency https://www.maldivesholidayoffers.com/        ok           pages=72 pdfs=1
+2026-10-05 02:02:29,848 INFO C agency https://www.maldivestraveller.mv/             ok           pages=150 pdfs=0
