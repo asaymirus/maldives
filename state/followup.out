@@ -624,3 +624,15 @@ FileNotFoundError: [Errno 2] No such file or directory: '/home/user/maldives/sta
 == coverage: factsheet 122/182  wedding 55  events 23  map 125  nothing 24  docs 3344
 
 {"factsheet": 122, "wedding": 55, "events": 23, "spa_menu": 77, "dining_menu": 79, "dive_prices": 58, "map": 125, "nothing": 24, "docs": 3344, "resorts_with_docs": 158}
++ python3 phase_d.py cc wayback run all
+2026-10-05 02:02:57,594 INFO Common Crawl collections: ['CC-MAIN-2026-39', 'CC-MAIN-2026-34', 'CC-MAIN-2026-30', 'CC-MAIN-2026-25']
+Traceback (most recent call last):
+  File "/home/user/maldives/phase_d.py", line 196, in <module>
+    run_common_crawl(only_missing="all" not in which)
+  File "/home/user/maldives/phase_d.py", line 114, in run_common_crawl
+    targets = archive_domains()
+              ^^^^^^^^^^^^^^^^^
+  File "/home/user/maldives/phase_d.py", line 86, in archive_domains
+    doms.add((f"{h}/{path}" if path else h, [rid]))
+TypeError: unhashable type: 'list'
++ python3 phase_e.py
