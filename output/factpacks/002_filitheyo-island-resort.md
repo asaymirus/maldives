@@ -41,6 +41,12 @@ All-inclusive: All Inclusive in Superior Villa.
 - Packages: n/a
 - Brochure: none
 
+## Destination dining
+
+- Experiences: romantic dinner
+- Packages: n/a
+- Sandbank events: None; document: none
+
 ## Events / MICE
 
 - Venues: n/a; capacity max: n/a; buyout: None
@@ -64,6 +70,7 @@ All-inclusive: All Inclusive in Superior Villa.
 - dive_prices: none
 - events: none
 - calendar: none
+- destination_dining: none
 
 ## Gaps
 
@@ -76,4 +83,4 @@ All-inclusive: All Inclusive in Superior Villa.
 - fact: weddings
 - fact: contacts
 
-_Facts extracted by rules from 12 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._
+_Facts extracted by rules from 13 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

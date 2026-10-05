@@ -156,6 +156,20 @@
   "packages": [],
   "brochure_doc": null
  },
+ "destination_dining": {
+  "experiences": [
+   "in-villa barbecue",
+   "wine dinner",
+   "in-villa dining",
+   "private dining",
+   "candlelit dinner",
+   "sunset cruise",
+   "sunset dinner"
+  ],
+  "packages": [],
+  "sandbank_events": null,
+  "doc": null
+ },
  "events_mice": {
   "venues": [],
   "capacity_max": 30,
@@ -178,10 +192,11 @@
   "map": null,
   "wedding": null,
   "spa_menu": null,
-  "dining_menu": "https://awesomegetawaymaldives.com/wp-content/uploads/2026/03/Six-Senses-Laamu.pdf",
+  "dining_menu": null,
   "dive_prices": null,
   "events": null,
-  "calendar": null
+  "calendar": null,
+  "destination_dining": null
  },
  "documents_count": 3,
  "gaps": [
@@ -611,6 +626,58 @@
    {
     "value": "yoga",
     "source_url": "https://malediven.de/malediven-hotels/six-senses-laamu/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "destination_dining.experiences": [
+   {
+    "value": "in-villa barbecue",
+    "source_url": "https://awesomegetawaymaldives.com/wp-content/uploads/2026/03/Six-Senses-Laamu.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "wine dinner",
+    "source_url": "https://awesomegetawaymaldives.com/wp-content/uploads/2026/03/Six-Senses-Laamu.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "in-villa dining",
+    "source_url": "https://awesomegetawaymaldives.com/wp-content/uploads/2026/03/Six-Senses-Laamu.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "in-villa dining",
+    "source_url": "https://awesomegetawaymaldives.com/wp-content/uploads/2026/03/Six-Senses-Laamu.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "private dining",
+    "source_url": "https://awesomegetawaymaldives.com/wp-content/uploads/2026/03/Six-Senses-Laamu.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "candlelit dinner",
+    "source_url": "https://awesomegetawaymaldives.com/wp-content/uploads/2026/03/Six-Senses-Laamu.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "private dining",
+    "source_url": "https://awesomegetawaymaldives.com/wp-content/uploads/2026/03/Six-Senses-Laamu.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://awesomegetawaymaldives.com/wp-content/uploads/2026/03/Six-Senses-Laamu.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "wine dinner",
+    "source_url": "https://awesomegetawaymaldives.com/wp-content/uploads/2026/03/Six-Senses-Laamu.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "sunset dinner",
+    "source_url": "https://www.maldivestourism.net/resorts/six-senses-laamu/",
     "as_of": "2026-10-04"
    }
   ],

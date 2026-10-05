@@ -1,3 +1,16 @@
 + cd /home/user/maldives
 + python3 -c 'import lib; s=lib.run_queue(); lib.print_progress(); lib.run_log('\''B+'\'', f'\''destination-dining pass: {s}'\'')'
 2026-10-05 06:37:16,066 INFO queue: 151 candidates to process
+2026-10-05 06:37:34,976 INFO progress 25/151 {'duplicate': 1, 'stored': 7, 'failed': 13, 'unmatched': 4}
+2026-10-05 06:37:50,428 INFO progress 50/151 {'duplicate': 4, 'stored': 12, 'failed': 25, 'unmatched': 9}
+2026-10-05 06:38:00,249 INFO progress 75/151 {'duplicate': 5, 'stored': 26, 'failed': 26, 'unmatched': 18}
+2026-10-05 06:38:13,238 INFO progress 100/151 {'duplicate': 5, 'stored': 28, 'failed': 32, 'unmatched': 35}
+2026-10-05 06:38:21,393 INFO progress 125/151 {'duplicate': 16, 'stored': 36, 'failed': 37, 'unmatched': 36}
+2026-10-05 06:38:31,555 INFO progress 150/151 {'duplicate': 20, 'stored': 54, 'failed': 39, 'unmatched': 37}
+2026-10-05 06:38:31,992 INFO queue done: {'duplicate': 20, 'stored': 54, 'failed': 40, 'unmatched': 37}
+
+== coverage: factsheet 122/182  wedding 54  events 20  map 125  nothing 23  docs 3398
+
++ python3 phase_f.py
+F   1 Six Senses Laamu                       docs=  3 villas=None dining=0 gaps=6
+F   2 Filitheyo Island Resort                docs=  0 villas=125 dining=1 gaps=8

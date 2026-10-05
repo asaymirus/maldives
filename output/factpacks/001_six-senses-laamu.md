@@ -48,6 +48,12 @@ Six Senses Spa; treatment rooms: ?; menu: none
 - Packages: n/a
 - Brochure: none
 
+## Destination dining
+
+- Experiences: in-villa barbecue, wine dinner, in-villa dining, private dining, candlelit dinner, sunset cruise, sunset dinner
+- Packages: n/a
+- Sandbank events: None; document: none
+
 ## Events / MICE
 
 - Venues: n/a; capacity max: 30; buyout: None
@@ -67,10 +73,11 @@ Six Senses Spa; treatment rooms: ?; menu: none
 - map: none
 - wedding: none
 - spa_menu: none
-- dining_menu: https://awesomegetawaymaldives.com/wp-content/uploads/2026/03/Six-Senses-Laamu.pdf
+- dining_menu: none
 - dive_prices: none
 - events: none
 - calendar: none
+- destination_dining: none
 
 ## Gaps
 
@@ -81,4 +88,4 @@ Six Senses Spa; treatment rooms: ?; menu: none
 - fact: dining
 - fact: contacts
 
-_Facts extracted by rules from 17 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._
+_Facts extracted by rules from 18 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._
