@@ -276,3 +276,75 @@ Traceback (most recent call last):
 openpyxl.utils.exceptions.IllegalCharacterError:  IN-ROOM DINING POUR COMMANDER, CONTACTEZ IN-ROOM DINING READY TO ORDER, JUST DIAL IN-ROOM DINING PICNIC POUR COMMANDER, CONTACTEZ IN-ROOM DINING   cannot be used in worksheets.
 2026-10-05 00:01:39,533 INFO === Phase B batch 121-140
 2026-10-05 00:01:39,952 INFO BLOCKED www.avanihotels.com (403)
+2026-10-05 00:01:47,636 INFO BLOCKED www.avanihotels.com (403)
+2026-10-05 00:01:48,336 INFO B official 122 Avani + Fares Maldives                   blocked-partial pages=1 pdfs=0 js=True
+2026-10-05 00:01:52,670 INFO B official 124 Aanugandu Island Resort                  unreachable pages=0 pdfs=0 js=False
+2026-10-05 00:02:01,253 INFO B official 126 Centara Grand Island Resort & Spa Maldiv ok         pages=2 pdfs=2 js=False
+2026-10-05 00:02:41,440 INFO B official 121 Cocoa Island                             ok         pages=68 pdfs=38 js=False
+2026-10-05 00:02:53,003 INFO B official 129 Riu Atoll and Riu Palace Maldivas        ok         pages=4 pdfs=1 js=True
+2026-10-05 00:02:55,419 INFO B official 130 Robinson Noonu                           unreachable pages=0 pdfs=0 js=False
+2026-10-05 00:02:56,968 INFO B official 131 Robinson Maldives                        unreachable pages=0 pdfs=0 js=False
+2026-10-05 00:02:58,425 INFO BLOCKED www.nokuhotels.com (403)
+2026-10-05 00:03:08,072 INFO B official 125 Gili Lankanfushi                         ok         pages=70 pdfs=77 js=False
+2026-10-05 00:03:15,440 INFO BLOCKED www.oblu-helengeli.com (403)
+2026-10-05 00:03:26,461 INFO B official 133 Oblu By Atmosphere at Helengeli          ok         pages=1 pdfs=2 js=True
+2026-10-05 00:03:26,470 INFO B official 134 The St. Regis Vommuli Resort, Maldives   blocked    pages=0 pdfs=0 js=False
+2026-10-05 00:03:35,405 INFO B official 135 Diamonds Thudufushi Beach and Water Vill unreachable pages=0 pdfs=0 js=False
+2026-10-05 00:03:40,255 INFO B official 128 One & Only Reethi Rah, Maldives          unreachable pages=0 pdfs=0 js=False
+2026-10-05 00:03:47,696 INFO B official 132 Noku Maldives                            unreachable pages=0 pdfs=0 js=False
+2026-10-05 00:03:47,928 INFO BLOCKED www.varu-atmosphere.com (403)
+2026-10-05 00:03:57,739 INFO BLOCKED www.varu-atmosphere.com (403)
+2026-10-05 00:03:58,047 INFO B official 138 Varu Island Resort                       blocked-partial pages=1 pdfs=3 js=True
+2026-10-05 00:04:02,134 INFO B official 127 Oaga Art Resort                          ok         pages=70 pdfs=25 js=True
+2026-10-05 00:04:02,617 INFO BLOCKED www.standardhotels.com (403)
+2026-10-05 00:04:08,339 INFO B official 140 The Standard Huruvalhi Maldives          blocked    pages=0 pdfs=0 js=False
+2026-10-05 00:04:13,281 INFO BLOCKED www.pullmanmaldivesmaamutaa.com (403)
+2026-10-05 00:04:13,315 INFO B official 123 Pullman Maldives Maamutaa Resort         blocked-partial pages=63 pdfs=5 js=False
+2026-10-05 00:04:13,768 INFO B official 137 Soneva Secret                            ok         pages=9 pdfs=89 js=False
+2026-10-05 00:04:43,422 INFO B official 136 Finolhu Baa Atoll Maldives               ok         pages=70 pdfs=55 js=False
+2026-10-05 00:05:58,280 INFO B official 139 Kudafushi Resort & Spa                   ok         pages=17 pdfs=30 js=False
+2026-10-05 00:05:58,333 INFO queue: 427 candidates to process
+2026-10-05 00:06:17,346 INFO progress 25/427 {'unmatched': 25}
+2026-10-05 00:06:26,140 INFO progress 50/427 {'unmatched': 49, 'failed': 1}
+2026-10-05 00:06:38,048 INFO progress 75/427 {'unmatched': 69, 'failed': 1, 'stored': 4, 'duplicate': 1}
+2026-10-05 00:06:50,683 INFO progress 100/427 {'unmatched': 72, 'failed': 1, 'stored': 26, 'duplicate': 1}
+2026-10-05 00:07:10,930 INFO progress 125/427 {'unmatched': 72, 'failed': 1, 'stored': 48, 'duplicate': 1, 'rejected': 3}
+2026-10-05 00:07:30,977 INFO progress 150/427 {'unmatched': 72, 'failed': 1, 'stored': 72, 'duplicate': 1, 'rejected': 4}
+2026-10-05 00:07:44,557 INFO progress 175/427 {'unmatched': 72, 'failed': 1, 'stored': 96, 'duplicate': 2, 'rejected': 4}
+2026-10-05 00:07:57,888 INFO progress 200/427 {'unmatched': 72, 'failed': 1, 'stored': 121, 'duplicate': 2, 'rejected': 4}
+2026-10-05 00:08:12,928 INFO progress 225/427 {'unmatched': 73, 'failed': 3, 'stored': 142, 'duplicate': 2, 'rejected': 5}
+2026-10-05 00:08:22,076 INFO progress 250/427 {'unmatched': 83, 'failed': 7, 'stored': 153, 'duplicate': 2, 'rejected': 5}
+2026-10-05 00:08:42,136 INFO progress 275/427 {'unmatched': 83, 'failed': 7, 'stored': 177, 'duplicate': 2, 'rejected': 6}
+2026-10-05 00:08:55,386 INFO progress 300/427 {'unmatched': 84, 'failed': 11, 'stored': 197, 'duplicate': 2, 'rejected': 6}
+2026-10-05 00:09:15,322 INFO progress 325/427 {'unmatched': 84, 'failed': 11, 'stored': 219, 'duplicate': 2, 'rejected': 9}
+2026-10-05 00:09:35,228 INFO progress 350/427 {'unmatched': 84, 'failed': 11, 'stored': 244, 'duplicate': 2, 'rejected': 9}
+2026-10-05 00:09:55,193 INFO progress 375/427 {'unmatched': 84, 'failed': 11, 'stored': 269, 'duplicate': 2, 'rejected': 9}
+2026-10-05 00:10:08,072 INFO progress 400/427 {'unmatched': 86, 'failed': 11, 'stored': 292, 'duplicate': 2, 'rejected': 9}
+2026-10-05 00:10:26,744 INFO progress 425/427 {'unmatched': 88, 'failed': 12, 'stored': 314, 'duplicate': 2, 'rejected': 9}
+2026-10-05 00:10:30,180 INFO queue done: {'unmatched': 88, 'failed': 14, 'stored': 314, 'duplicate': 2, 'rejected': 9}
+
+== coverage: factsheet 123/182  wedding 42  events 15  map 119  nothing 29  docs 2542
+
+2026-10-05 00:10:31,144 ERROR build_outputs failed
+Traceback (most recent call last):
+  File "/home/user/maldives/phase_b.py", line 119, in commit
+    build_outputs.build_all()
+  File "/home/user/maldives/build_outputs.py", line 252, in build_all
+    "- PDFs: `library/<NNN>_<slug>/<doc_type>/<year>_<file>.pdf` (git-ignored; private). R2 upload only when `CLOUDFLARE_API_TOKEN`/`CLOUDFLARE_ACCOUNT_ID` are set.",
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/user/maldives/build_outputs.py", line 147, in build_workbook
+    a["pdf_matched"] += s.get("pdf_matched", 0) or 0
+  File "/usr/local/lib/python3.11/dist-packages/openpyxl/worksheet/worksheet.py", line 673, in append
+    cell = Cell(self, row=row_idx, column=col_idx, value=content)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/dist-packages/openpyxl/cell/cell.py", line 119, in __init__
+    self.value = value
+    ^^^^^^^^^^
+  File "/usr/local/lib/python3.11/dist-packages/openpyxl/cell/cell.py", line 218, in value
+    self._bind_value(value)
+  File "/usr/local/lib/python3.11/dist-packages/openpyxl/cell/cell.py", line 197, in _bind_value
+    value = self.check_string(value)
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/dist-packages/openpyxl/cell/cell.py", line 165, in check_string
+    raise IllegalCharacterError(f"{value} cannot be used in worksheets.")
+openpyxl.utils.exceptions.IllegalCharacterError:  IN-ROOM DINING POUR COMMANDER, CONTACTEZ IN-ROOM DINING READY TO ORDER, JUST DIAL IN-ROOM DINING PICNIC POUR COMMANDER, CONTACTEZ IN-ROOM DINING   cannot be used in worksheets.
