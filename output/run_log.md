@@ -18,3 +18,4 @@
 | 2026-10-05 00:29 | B | official sites 161-180: {'stored': 572, 'unmatched': 5, 'duplicate': 107, 'rejected': 34, 'failed': 10} | 3156 |
 | 2026-10-05 00:29 | B | official sites 181-182: {} | 3156 |
 | 2026-10-05 01:22 | B | group/brand hub sites | 3274 |
+| 2026-10-05 01:56 | B | DAM follow-up | 3344 |

@@ -5,15 +5,15 @@
 | metric | resorts |
 |---|---|
 | factsheet | 122 / 182 |
-| wedding | 53 / 182 |
-| events | 22 / 182 |
-| spa_menu | 76 / 182 |
-| dining_menu | 77 / 182 |
-| dive_prices | 57 / 182 |
+| wedding | 55 / 182 |
+| events | 23 / 182 |
+| spa_menu | 77 / 182 |
+| dining_menu | 79 / 182 |
+| dive_prices | 58 / 182 |
 | map | 125 / 182 |
 | resorts_with_docs | 158 / 182 |
 | nothing | 24 / 182 |
-| documents stored (unique by SHA-256) | 3274 |
+| documents stored (unique by SHA-256) | 3344 |
 
 ## Resorts without a factsheet
 
@@ -197,7 +197,6 @@
 | 67 | Waldorf Astoria Maldives Ithaafushi | events | ok |
 | 68 | JA Manafaru | wedding, events | ok |
 | 69 | Adaaran Club Rannalhi | events | ok |
-| 70 | Joy Island | wedding, events | ok |
 | 71 | Kagi Maldives Resort and Spa | events | ok |
 | 72 | Embudhu Village | events | ok |
 | 73 | Summer Island Maldives | wedding, events | ok |
@@ -290,7 +289,7 @@
 | 165 | Velassaru Maldives | events | ok |
 | 166 | Kuramathi Maldives | events | ok |
 | 167 | Milaidhoo Island Maldives | factsheet, events | ok |
-| 168 | You & Me Maldives | wedding, events | ok |
+| 168 | You & Me Maldives | events | ok |
 | 169 | Banyan Tree Maldives Vabbinfaru | wedding | ok |
 | 170 | Cocogiri Island Resort | wedding, events | ok |
 | 171 | Velaa Private Island Maldives | wedding, events | ok |
