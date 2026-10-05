@@ -419,6 +419,34 @@
 | 165 | Velassaru Maldives | official site now at www.nivavelassaru.com (discovered) |
 | 173 | Kurumba Maldives | official site now at www.nivakurumba.com (discovered) |
 
+## How the sources performed
+
+- **Official websites**: 115 crawled fully, 14 partially (bot wall on some paths), 24 blocked (CAPTCHA/WAF: Marriott, Hilton, Hyatt, Six Senses, Anantara/Minor, Four Seasons, Constance, Baglioni, ...), 9 unverified (JavaScript shell with no resort text even after headless render), 20 unreachable (TLS/DNS failures from this egress, e.g. joali.com, coastlineresidences.com).
+- **Dash (dash.app) brand portals** (new this run): the public-portal guest API was reverse-engineered from the page's own requests (portal lookup → guest access token → asset search; DOCUMENT previews are the PDFs). Portals read: pulse/kandima-maldives-official-library (14 PDFs); pulse/nova-maldives-official-library (30 PDFs); pulse/pulse-hotels-and-resorts (102 PDFs); villaresorts/villa-resorts (54 PDFs); villaresorts/villa-nautica (15 PDFs); villaresorts/villa-park (14 PDFs); villaresorts/royal-island (10 PDFs); soneva/media-library (0 PDFs, login required); soneva/brand-assets (0 PDFs, login required). 97 documents in the library come from Dash (Kandima incl. MICE brochure 2026 and 2024 factsheet, Nova, Pulse brand kit, Villa Nautica / Villa Park / Royal Island). Soneva's Dash portals exist but require a login, so they were not accessed.
+- **Other DAMs**: the crawler logged every Brandfolder / Bynder / Canto / Widen / flipbook / cloud-storage link seen on resort pages (`state/dam_hosts.jsonl`) and rendered the shareable ones; COMO's CloudFront press room and a Heyzine flipbook yielded PDFs. Constance's Brandfolder (cdn.bfldr.com) links were only reachable through constancehotels.com, which blocks us.
+- **Crown & Champa portal**: WP media API + section pages; validity codes decoded (mmddyy pairs, e.g. 110125103126 = 1 Nov 2025 – 31 Oct 2026) into valid_from / valid_to.
+- **Agencies / DMCs**: 252 domains crawled (robots.txt respected); neoscapesmaldives.com is the single most useful mirror (222 docs), then unihotel.org, awesomegetawaymaldives.com, maldives.ru. The Ministry of Tourism register (tourism.gov.mv) returns HTTP 403 to this egress, so a curated list was used.
+- **Archives**: Wayback CDX returns 403 and web.archive.org resets connections through this egress; the availability API located 88 archived copies of failed PDF URLs but none could be fetched. Common Crawl's index worked earlier in the session (e.g. 21 Sun Siyam and 37 COMO PDFs indexed) but returned 503/504 for the final run; `python3 phase_d.py cc run all` is ready to re-run when the index recovers (288 domain/path targets prepared, 1 done).
+- **Flipbook platforms**: Issuu's rendered search page exposes no document links and Yumpu's results do not match the resorts; after 69 resorts with zero hits the stage was stopped (metadata-only by design). **Search API**: skipped, no `BRAVE_API_KEY` / `SERPAPI_KEY` set.
+
+## Processing outcomes
+
+- Candidate URLs processed: 5147 → stored 3398, duplicates 439, unmatched 470, rejected foreign sister-property 113, excluded trade-only 9, failed 717.
+- 672 stored documents are `needs-review`: the file does not name the resort itself (typical for menus, maps and price lists) and the match rests on the official page/portal it was found on. 427 documents have no text layer (OCR tools are installed; run `ocrmypdf` on these before fact extraction).
+- Excluded as trade-only (9): https://www.neoscapesmaldives.com/wp-content/uploads/InterContinental-Maldives-Resort-Island-Map.pdf, https://dreamland.com.mv/wp-content/uploads/2024/08/Duny-Spa-menu-2023.pdf, https://dreamland.com.mv/wp-content/uploads/2024/07/Duny-Spa-menu-2023.pdf, https://www.angaga.com.mv/wp-content/uploads/2018/12/Duny-Spa-menu-english-1.pdf, https://www.angaga.com.mv/wp-content/uploads/2018/12/Duny-Spa-menu-english.pdf, https://angaga.com.mv/wp-content/uploads/2018/12/Duny-Spa-menu-english.pdf, https://kagimaldives.com/wp-content/uploads/2020/09/Kagi_Special_Offer_Extension_Jan-Apr2021Ver012521.pdf, https://kagimaldives.com/wp-content/uploads/2021/01/1609419140_Kagi_Special_Offer_Extension_Jan-Apr2021Ver123120.pdf ...
+- Rejected as foreign sister properties (113), e.g.: Haali-Takeover_Halloween-Week-Giorgio-Chiarello-Ex, Aarah-Hathaa-Tokyo-Street-Food-Menu-11.08.2025.pdf, SKS-SAii-Club-Drink-List.pdf, SKS_wedding_brochure_2025_01_low.pdf, so_paris_eco-practices_EN_1208.pdf, so_paris_eco-practices_EN_1108.pdf, so_paris_eco-practices_EN.pdf, so_paris_pressrelease_samaritaine_EN.pdf
+
+## Fact packs
+
+- `output/factpacks/<NNN>_<slug>.json|.md` for all 182 resorts, `all_resorts.csv` flat table. Extraction is rule-based (regexes over the latest factsheet/brochure/menus and the scraped pages); every fact carries `source_url` + `as_of` in the pack's `sources` map and fields the rules could not fill are null and listed under `gaps`. Villa-category and dining lists need a human read for two-column factsheet layouts.
+
+## Recommended next steps
+
+1. Re-run `python3 phase_d.py cc run all` when index.commoncrawl.org stops returning 503 (it covers the blocked chain sites: Marriott/Hilton/Hyatt/Six Senses/Anantara/Four Seasons/Constance).
+2. Direct email requests for wedding and MICE brochures to the resorts still missing them (see table above); the Dash/brand-portal route worked for Pulse and Villa Resorts, so ask other groups (Atmosphere Core, Sun Siyam, Universal, Coco Collection) for their portal links.
+3. Give the crawler a residential/office egress or a Brave/SerpAPI key for the search gap-fill; 79 previously blocked official sites were retried from this IP and most remain behind bot walls.
+4. Review the `needs-review` documents and the villa/dining fields in the fact packs; OCR the no-text-layer files.
+
 ## Storage
 
 - PDFs: `library/<NNN>_<slug>/<doc_type>/<year>_<file>.pdf` (git-ignored; private). R2 upload only when `CLOUDFLARE_API_TOKEN`/`CLOUDFLARE_ACCOUNT_ID` are set.

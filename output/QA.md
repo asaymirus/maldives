@@ -10,12 +10,12 @@
 | 2024_Kebab-Kurry-Menu.pdf | The Marina at Crossroads Maldi | N | dining_menu | dining_menu | Y |
 | 2019_Factsheet-Kuramathi-Maldives.pdf | Kuramathi Maldives | Y | factsheet | factsheet | Y |
 | 2025_Veli-Factsheet-W25-26S26Ver17062025.pdf | Veligandu Maldives Resort Isla | N | factsheet | factsheet | Y |
+| 2022_Romantic-Dinner-Hard-Rock-Hotel-Los-Cabos.pdf | Hard Rock Hotel Maldives | N | destination_dining | destination_dining | Y |
 | 2024_Bandos-Dive-Menu-2024.pdf | Bandos Maldives | Y | dining_menu | dining_menu | Y |
 | 2025_Karol_Menu.pdf | Amilla Fushi | N | dining_menu | dining_menu | Y |
 | 2025_cmf_cs_advance_cleanse_itinerary.pdf | Como Maalifushi | Y | dining_menu | dining_menu | Y |
-| 2022_Ilsy-Catamaran-Finolhu-01-Dec-2021-to-01-Mar- | Finolhu Baa Atoll Maldives | Y | dive_prices | dive_prices | Y |
 
-Resort match confirmed: 5/10; doc type stable: 10/10
+Resort match confirmed: 4/10; doc type stable: 10/10
 
 ## 2. Latest factsheets: edition year vs text
 
@@ -37,10 +37,10 @@ Resort match confirmed: 5/10; doc type stable: 10/10
 
 Coverage sheet, first rows after recalculation:
 
-- ['#', 'Resort', 'Official site status', 'factsheet (latest yr)', 'wedding (latest yr)', 'events (latest yr)', 'map (latest yr)', 'dive_map (latest yr)']
+- ['#', 'Resort', 'Official site status', 'factsheet (latest yr)', 'wedding (latest yr)', 'events (latest yr)', 'destination_dining (latest yr)', 'map (latest yr)']
 - [1, 'Six Senses Laamu', 'blocked', None, None, None, None, None]
 - [2, 'Filitheyo Island Resort', 'blocked-partial', None, None, None, None, None]
-- [3, 'Adaaran Select Hudhuranfushi', 'ok', 2026, 2027, 2027, 2025, None]
+- [3, 'Adaaran Select Hudhuranfushi', 'ok', 2026, 2027, 2027, None, 2025]
 
 ## 4. Resorts without a factsheet (60)
 
