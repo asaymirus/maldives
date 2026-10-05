@@ -1,0 +1,3 @@
++ cd /home/user/maldives
++ python3 -c 'import lib; s=lib.run_queue(); lib.print_progress(); lib.run_log('\''B+'\'', f'\''destination-dining pass: {s}'\'')'
+2026-10-05 06:37:16,066 INFO queue: 151 candidates to process

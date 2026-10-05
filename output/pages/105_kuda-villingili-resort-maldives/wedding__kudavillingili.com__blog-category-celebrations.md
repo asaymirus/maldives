@@ -1,7 +1,7 @@
 # Celebrations | Kuda Villingili
 
-Source: https://www.kudavillingili.com/blog/category/celebrations/
-Scraped: 2026-10-04
+Source: https://www.kudavillingili.com/blog/category/celebrations/?curpage=1
+Scraped: 2026-10-05
 Resort: Kuda Villingili Resort Maldives
 Page type: wedding
 
