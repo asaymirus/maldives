@@ -13,3 +13,4 @@
 | 2026-10-04 23:50 | B | official sites 81-100: {'unmatched': 64, 'failed': 188, 'stored': 76, 'duplicate': 7, 'rejected': 1} | 1967 |
 | 2026-10-05 00:01 | B | official sites 101-120: {'unmatched': 32, 'failed': 22, 'stored': 261, 'duplicate': 7, 'rejected': 2} | 2228 |
 | 2026-10-05 00:10 | B | official sites 121-140: {'unmatched': 88, 'failed': 14, 'stored': 314, 'duplicate': 2, 'rejected': 9} | 2542 |
+| 2026-10-05 00:13 | B | official sites 141-160: {'unmatched': 11, 'stored': 42, 'failed': 31, 'duplicate': 1} | 2584 |
