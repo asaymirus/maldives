@@ -889,3 +889,44 @@ F 182 Kuredhivaru Resort and Spa             docs=  2 villas=None dining=0 gaps=
 + python3 build_outputs.py
 {"factsheet": 122, "wedding": 55, "events": 23, "spa_menu": 77, "dining_menu": 79, "dive_prices": 58, "map": 125, "nothing": 24, "docs": 3344, "resorts_with_docs": 158}
 + python3 qa.py
+# QA report (2026-10-05)
+
+## 1. Random re-check of 10 documents
+
+| file | resort | resort match | type stored | type re-check | ok |
+|---|---|---|---|---|---|
+| 2026_Easter-Brochure-2026.pdf | Milaidhoo Island Maldives | Y | calendar | calendar | Y |
+| 2026_International-Coffee-Day.pdf | Dhigali Maldives | N | dining_menu | dining_menu | Y |
+| 2019_Nonna-Beverage-Menu-Updated18042023.pdf | Kagi Maldives Resort and Spa | N | dining_menu | dining_menu | Y |
+| 2024_Kebab-Kurry-Menu.pdf | The Marina at Crossroads Maldi | N | dining_menu | dining_menu | Y |
+| 2019_Factsheet-Kuramathi-Maldives.pdf | Kuramathi Maldives | Y | factsheet | factsheet | Y |
+| 2025_Veli-Factsheet-W25-26S26Ver17062025.pdf | Veligandu Maldives Resort Isla | N | factsheet | factsheet | Y |
+| 2024_Bandos-Dive-Menu-2024.pdf | Bandos Maldives | Y | dining_menu | dining_menu | Y |
+| 2025_Karol_Menu.pdf | Amilla Fushi | N | dining_menu | dining_menu | Y |
+| 2025_cmf_cs_advance_cleanse_itinerary.pdf | Como Maalifushi | Y | dining_menu | dining_menu | Y |
+| 2022_Ilsy-Catamaran-Finolhu-01-Dec-2021-to-01-Mar- | Finolhu Baa Atoll Maldives | Y | dive_prices | dive_prices | Y |
+
+Resort match confirmed: 5/10; doc type stable: 10/10
+
+## 2. Latest factsheets: edition year vs text
+
+112/119 consistent.
+
+| resort | file | year | source | years in text | ok |
+|---|---|---|---|---|---|
+| Constance Moofushi Resort | 2023_moofushi-factsheet-en-24april2023.pdf | 2023 | filename | [2010] | N |
+| JW Marriott Maldives Resort &  | 2023_JW-Marriott-Maldives-Resort-Spa-Factshee | 2023 | filename | [2019] | N |
+| Nova Maldives | 2022_Factsheet-Nova-Maldives-NEO.pdf | 2022 | pdf-date | [2021] | N |
+| Ozen By Atmosphere At Maadhoo | 2025_OZEN-LIFE-MAADHOO-Fact-Sheet-2025.pdf | 2025 | filename | [2016] | N |
+| Royal Island Resort and Spa | 2026_Royal - Factsheet Jun 2026.pdf | 2026 | filename | [2024] | N |
+| Villa Nautica Paradise Island | 2026_Villa Nautica - Factsheet Jul 2026.pdf | 2026 | filename | [2025] | N |
+| Diamonds Thudufushi Beach and  | 2026_Diamonds-Leisure-Beach-Golf-Resort-Fact- | 2026 | filename | [2025] | N |
+
+## 3. Workbook recalculation
+
+`{"recalculated": true, "formula_errors": 0, "examples": []}`
+
+Coverage sheet, first rows after recalculation:
+
+- ['#', 'Resort', 'Official site status', 'factsheet (latest yr)', 'wedding (latest yr)', 'events (latest yr)', 'map (latest yr)', 'dive_map (latest yr)']
++ git add -A
