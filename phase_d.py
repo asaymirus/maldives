@@ -112,6 +112,11 @@ def run_common_crawl(only_missing=True):
     done = {(r["coll"], r["domain"]) for r in lib.jsonl_read(CC_DONE)}
     colls = cc_collections()
     log.info("Common Crawl collections: %s", colls)
+    probe = cc_query(colls[0], "kuredu.com")
+    if probe is None:
+        log.info("Common Crawl index is unavailable (503/504 throttling); skipping this run. Re-run `python3 phase_d.py cc run` later.")
+        record_source("index.commoncrawl.org", "commoncrawl", "index-unavailable", 0, 0, "503/504 at run time; re-run later")
+        return
     targets = archive_domains()
     if only_missing:
         targets = [(d, ids) for d, ids in targets if any(i not in have_fs for i in ids) or len(ids) > 3]
