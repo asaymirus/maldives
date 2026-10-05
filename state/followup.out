@@ -55,3 +55,16 @@ FileNotFoundError: [Errno 2] No such file or directory: '/home/user/maldives/sta
 2026-10-05 01:20:03,300 INFO progress 175/433 {'rejected': 22, 'unmatched': 1, 'failed': 123, 'stored': 21, 'duplicate': 7, 'error FileNotFoundError': 1}
 2026-10-05 01:20:19,458 INFO progress 200/433 {'rejected': 23, 'unmatched': 3, 'failed': 138, 'stored': 28, 'duplicate': 7, 'error FileNotFoundError': 1}
 2026-10-05 01:20:34,958 INFO progress 225/433 {'rejected': 23, 'unmatched': 6, 'failed': 141, 'stored': 47, 'duplicate': 7, 'error FileNotFoundError': 1}
+2026-10-05 01:20:51,091 INFO progress 250/433 {'rejected': 23, 'unmatched': 6, 'failed': 141, 'stored': 60, 'duplicate': 19, 'error FileNotFoundError': 1}
+2026-10-05 01:21:11,976 INFO progress 275/433 {'rejected': 23, 'unmatched': 6, 'failed': 141, 'stored': 68, 'duplicate': 36, 'error FileNotFoundError': 1}
+2026-10-05 01:21:30,982 INFO progress 300/433 {'rejected': 23, 'unmatched': 9, 'failed': 141, 'stored': 73, 'duplicate': 53, 'error FileNotFoundError': 1}
+2026-10-05 01:21:52,128 INFO progress 325/433 {'rejected': 23, 'unmatched': 9, 'failed': 141, 'stored': 78, 'duplicate': 73, 'error FileNotFoundError': 1}
+2026-10-05 01:22:07,502 INFO progress 350/433 {'rejected': 23, 'unmatched': 13, 'failed': 141, 'stored': 88, 'duplicate': 84, 'error FileNotFoundError': 1}
+2026-10-05 01:22:21,499 INFO progress 375/433 {'rejected': 23, 'unmatched': 16, 'failed': 151, 'stored': 97, 'duplicate': 87, 'error FileNotFoundError': 1}
+2026-10-05 01:22:35,539 INFO progress 400/433 {'rejected': 23, 'unmatched': 18, 'failed': 154, 'stored': 111, 'duplicate': 93, 'error FileNotFoundError': 1}
+2026-10-05 01:22:50,998 INFO progress 425/433 {'rejected': 23, 'unmatched': 18, 'failed': 155, 'stored': 135, 'duplicate': 93, 'error FileNotFoundError': 1}
+2026-10-05 01:22:55,356 INFO queue done: {'rejected': 24, 'unmatched': 18, 'failed': 156, 'stored': 141, 'duplicate': 93, 'error FileNotFoundError': 1}
+
+== coverage: factsheet 122/182  wedding 53  events 22  map 125  nothing 24  docs 3274
+
+{"factsheet": 122, "wedding": 53, "events": 22, "spa_menu": 76, "dining_menu": 77, "dive_prices": 57, "map": 125, "nothing": 24, "docs": 3274, "resorts_with_docs": 158}
