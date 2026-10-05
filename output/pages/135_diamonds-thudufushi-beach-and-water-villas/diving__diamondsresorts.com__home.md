@@ -1,6 +1,6 @@
 # Diamonds Hotels & Resorts  in the Indian Ocean - Book a real all inclusive resorts hotel
 
-Source: https://www.diamondsresorts.com/
+Source: http://www.diamondsresorts.com/
 Scraped: 2026-10-05
 Resort: Diamonds Thudufushi Beach and Water Villas
 Page type: diving

@@ -1,6 +1,6 @@
 # Diamonds Hotels & Resorts à L'océan Indien - Réserver un hôtel all inclusive resorts
 
-Source: https://www.diamondsresorts.com/fr
+Source: https://www.diamondsresorts.com/fr/
 Scraped: 2026-10-05
 Resort: Diamonds Athuruga Beach & Water Villas
 Page type: overview
