@@ -31,23 +31,21 @@ def cc_collections(n=4):
 
 
 def cc_query(coll, domain):
+    """Returns a list of records, or None when the index could not be queried (503/504 overload, timeouts)."""
     out = []
-    for attempt in range(4):
-        r = get(f"{CC_INDEX}/{coll}-index?url={quote(domain + '/*')}&filter=mime:application/pdf&output=json&limit=500", timeout=90)
-        if r is None:
-            time.sleep(4)
-            continue
-        if r.status_code == 404:
+    for attempt in range(5):
+        r = get(f"{CC_INDEX}/{coll}-index?url={quote(domain + '/*')}&filter=mime:application/pdf&output=json&limit=500", timeout=90, allow_block=True)
+        if r is not None and r.status_code == 404:
             return out
-        if r.ok:
+        if r is not None and r.ok:
             for line in r.text.splitlines():
                 try:
                     out.append(json.loads(line))
                 except Exception:
                     pass
             return out
-        time.sleep(4)
-    return out
+        time.sleep(min(90, 10 * (2 ** attempt)))  # the public index throttles with 503/504; back off hard
+    return None
 
 
 def cc_fetch(rec):
@@ -119,11 +117,15 @@ def run_common_crawl(only_missing=True):
         targets = [(d, ids) for d, ids in targets if any(i not in have_fs for i in ids) or len(ids) > 3]
     log.info("Common Crawl: %d domains", len(targets))
     n_found = n_stored = 0
-    for coll in colls[:2]:
+    for coll in colls[:1]:
         for domain, ids in targets:
             if (coll, domain) in done:
                 continue
             recs = cc_query(coll, domain)
+            if recs is None:
+                log.info("Common Crawl index unavailable for %s (%s); will retry on next run", domain, coll)
+                record_source(domain, f"commoncrawl {coll}", "index-unavailable", 0, 0)
+                continue
             hint = ids[0] if len(ids) == 1 else ids
             for rec in recs:
                 if rec.get("status") not in ("200", 200):
