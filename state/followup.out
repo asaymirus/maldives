@@ -480,3 +480,5 @@ FileNotFoundError: [Errno 2] No such file or directory: '/home/user/maldives/sta
 == coverage: factsheet 122/182  wedding 55  events 23  map 125  nothing 24  docs 3344
 
 {"factsheet": 122, "wedding": 55, "events": 23, "spa_menu": 77, "dining_menu": 79, "dive_prices": 58, "map": 125, "nothing": 24, "docs": 3344, "resorts_with_docs": 158}
++ python3 retry_sites.py
+2026-10-05 01:57:04,119 INFO reset 39 official sites for retry: [2, 6, 7, 8, 17, 22, 23, 31, 36, 37, 41, 42, 47, 48, 55, 58, 60, 64, 84, 92, 93, 96, 101, 112, 113, 114, 124, 128, 130, 131, 132, 135, 144, 149, 150, 156, 178, 180, 181]
