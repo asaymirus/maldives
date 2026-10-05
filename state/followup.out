@@ -2,3 +2,8 @@
 + python3 reprocess.py purge
 2026-10-05 00:31:45,830 INFO purged 23 extra/foreign docs
 + python3 reprocess.py
+2026-10-05 00:37:09,493 INFO reprocessed 3133 docs, 32 changed
++ python3 reconcile.py
+2026-10-05 00:37:10,695 INFO reconcile: dropped 123 results, removed 0 orphan files, 0 index entries without file
++ python3 phase_b.py group
+2026-10-05 00:37:17,715 INFO B group pulsehotels    unreachable pages=0 pdfs=0
