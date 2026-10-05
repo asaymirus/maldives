@@ -23,3 +23,4 @@
 | 2026-10-05 02:02 | C | agency/DMC crawl 78 domains (crawl) | 3344 |
 | 2026-10-05 02:02 | C | agency/DMC queue: {} | 3344 |
 | 2026-10-05 02:35 | F | fact packs for 182 resorts | 3344 |
+| 2026-10-05 03:27 | D | archives: {'failed': 88} | 3344 |

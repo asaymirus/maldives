@@ -5,3 +5,11 @@
 2026-10-05 03:19:30,695 INFO Wayback: 232 failed urls to check
 2026-10-05 03:26:33,416 INFO Wayback: 88 archived copies queued
 2026-10-05 03:26:33,512 INFO queue: 88 candidates to process
+2026-10-05 03:26:52,814 INFO progress 25/88 {'failed': 25}
+2026-10-05 03:27:12,827 INFO progress 50/88 {'failed': 50}
+2026-10-05 03:27:32,811 INFO progress 75/88 {'failed': 75}
+2026-10-05 03:27:43,249 INFO queue done: {'failed': 88}
+
+== coverage: factsheet 122/182  wedding 55  events 23  map 125  nothing 24  docs 3344
+
+{"factsheet": 122, "wedding": 55, "events": 23, "spa_menu": 77, "dining_menu": 79, "dive_prices": 58, "map": 125, "nothing": 24, "docs": 3344, "resorts_with_docs": 158}
