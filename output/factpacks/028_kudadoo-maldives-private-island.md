@@ -2,34 +2,36 @@
 
 **Official site:** https://www.kudadoo.com/ (ok)  
 **Brand:** Kudadoo  
-**Atoll:** Lhaviyani Atoll  **Island:** n/a  
-**Opened/renovated:** n/a  **Rating:** n/a  
-**Transfer:** seaplane, speedboat, domestic flight, yacht; minutes: {"seaplane": 40, "domestic flight": 35}  
+**Atoll:** Lhaviyani Atoll  **Island:** Meerufenfushi  
+**Opened/renovated:** opened 2000  **Rating:** 5-star  
+**Transfer:** seaplane, speedboat, domestic flight, yacht; minutes: {"seaplane": 40, "speedboat": 55, "domestic flight": 35}  
 **Island size:** n/a  
 
-## Villas (? total)
+## Villas (15 total)
 
 - Ocean Residences of one: count 13, 310 sqm, max ?, overwater
+- Residences Powered: count 15, ? sqm, max ?
+- Villas: count 90, ? sqm, max ?
 
 ## Dining
 
-- The Kudadoo Lounge at the Seaplane Terminal embraces (bar)
-- gardening outside 5.8 Undersea Restaurant at Hu (restaurant)
+- Kitchen (restaurant)
 
-Meal plans: AI
+Meal plans: AI, Dine Around
+All-inclusive: all-inclusive plan is available in Hurawalhi.
 
 ## Spa & wellness
 
-- Spa: Sulha Spa; treatment rooms: ?; menu: https://sales.crownandchamparesorts.com/wp-content/uploads/2025/12/KudadooSulhaSpaMenu110125103126Ver112023.pdf
-- Wellness/fitness: yoga, gym, sauna, steam, personal trainer, meditation
+- Spa: Spa; treatment rooms: ?; menu: https://sales.crownandchamparesorts.com/wp-content/uploads/2025/12/KudadooSulhaSpaMenu110125103126Ver112023.pdf
+- Wellness/fitness: yoga, gym, sauna, steam, personal trainer, meditation, tennis, badminton
 
 ## Diving, water sports & excursions
 
-- Operator: Prodivers
-- House reef: house reef and
-- Activities: snorkelling, windsurfing, paddleboard, catamaran, jet ski, water skiing, wakeboarding, manta, sailing, snorkeling, scuba diving, kitesurfing, fishing, seabob, flyboard
+- Operator: Euro Divers
+- House reef: house reef and Maldivian hospitality
+- Activities: snorkelling, windsurfing, paddleboard, catamaran, jet ski, water skiing, wakeboarding, manta, sailing, snorkeling, scuba diving, kitesurfing, fishing, seabob, flyboard, dolphin cruise, whale shark, kayaking, sunset cruise, parasailing
 - Price list: none
-- Excursions: sandbank, dolphin, manta, turtle, picnic, big game fishing
+- Excursions: sandbank, dolphin, manta, turtle, picnic, big game fishing, whale shark
 
 ## Kids & family
 
@@ -44,16 +46,16 @@ Meal plans: AI
 
 ## Events / MICE
 
-- Venues: meeting room as well as the Sulha Spa; encompassing; capacity max: 30; buyout: None
+- Venues: meeting room as well as the Sulha Spa; encompassing; capacity max: 30; buyout: True
 - Document: none
 
 ## Sustainability
 
-- marine biologist, solar, manta trust, coral nursery, single-use plastic, Travelife, composting, Olive Ridley Project
+- marine biologist, solar, manta trust, coral restoration, desalination, Travelife
 
 ## Public contacts
 
-- Reservations: reservations@kudadoo.com; weddings: n/a; phone: n/a
+- Reservations: reservations@kagimaldives.com; weddings: n/a; phone: +960 664 3157
 
 ## Latest documents
 
@@ -64,13 +66,12 @@ Meal plans: AI
 - dining_menu: none
 - dive_prices: none
 - events: none
-- calendar: none
+- calendar: https://d2qwq69i2ic1pk.cloudfront.net/2023/11/CCR_2024_Calendar_compressed.pdf
 
 ## Gaps
 
 - wedding brochure
 - events/MICE document
-- fact: villas.total
 - fact: kids club
 
-_Facts extracted by rules from 18 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-04._
+_Facts extracted by rules from 26 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

@@ -10,7 +10,7 @@
  "operator_brand": null,
  "atoll": "Ari Atoll",
  "island": null,
- "opened_or_renovated": null,
+ "opened_or_renovated": "opened 2025",
  "star_rating": null,
  "transfer": {
   "modes": [
@@ -25,7 +25,7 @@
  },
  "island_size": null,
  "villas": {
-  "total": null,
+  "total": 70,
   "categories": []
  },
  "dining": [
@@ -45,22 +45,7 @@
    "type": "bar"
   },
   {
-   "name": "Dining Menus",
-   "cuisine": null,
-   "type": "restaurant"
-  },
-  {
    "name": "Dolphin Restaurant",
-   "cuisine": null,
-   "type": "restaurant"
-  },
-  {
-   "name": "Restaurant",
-   "cuisine": null,
-   "type": "restaurant"
-  },
-  {
-   "name": "Dining",
    "cuisine": null,
    "type": "restaurant"
   },
@@ -96,7 +81,8 @@
   }
  ],
  "meal_plans": [
-  "AI"
+  "AI",
+  "FB"
  ],
  "all_inclusive_details": "ALL INCLUSIVE Drinks are served until Midnight only.",
  "spa": {
@@ -123,7 +109,8 @@
    "scuba diving",
    "windsurfing",
    "jet ski",
-   "wakeboarding"
+   "wakeboarding",
+   "water skiing"
   ],
   "price_list_doc": "https://www.angaga.com.mv/wp-content/uploads/2018/12/Angaga-Water-Sports-Activities-Information.pdf"
  },
@@ -135,7 +122,8 @@
   "manta",
   "turtle",
   "dolphin",
-  "island hopping"
+  "island hopping",
+  "big game fishing"
  ],
  "kids_family": {
   "kids_club": null,
@@ -192,7 +180,6 @@
  "documents_count": 27,
  "gaps": [
   "events/MICE document",
-  "fact: villas.total",
   "fact: villa categories",
   "fact: dive operator",
   "fact: kids club",
@@ -247,119 +234,11 @@
    },
    {
     "value": {
-     "name": "Dining Menus",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.angaga.com.mv/downloads/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
      "name": "Dolphin Restaurant",
      "cuisine": null,
      "type": "restaurant"
     },
     "source_url": "https://www.angaga.com.mv/dine/dolphin-restaurant/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Restaurant",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.angaga.com.mv/dine/dolphin-restaurant/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Restaurant",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.angaga.com.mv/dine/dolphin-restaurant/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Restaurant",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.angaga.com.mv/dine/dolphin-restaurant/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Restaurant",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.angaga.com.mv/dine/dolphin-restaurant/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Restaurant",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.angaga.com.mv/dine/dolphin-restaurant/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Restaurant",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.angaga.com.mv/dine/dolphin-restaurant/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Restaurant",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.angaga.com.mv/dine/dolphin-restaurant/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Restaurant",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.angaga.com.mv/dine/dolphin-restaurant/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Restaurant",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.angaga.com.mv/dine/dolphin-restaurant/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Restaurant",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.angaga.com.mv/dine/dolphin-restaurant/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Dining",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.angaga.com.mv/dine/",
     "as_of": "2026-10-04"
    },
    {
@@ -553,15 +432,6 @@
    },
    {
     "value": {
-     "name": "Dining Menus",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://angaga.com.mv/downloads/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
      "name": "Mini Bar",
      "cuisine": null,
      "type": "bar"
@@ -576,15 +446,6 @@
      "type": "bar"
     },
     "source_url": "https://angaga.com.mv",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Dining",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://angaga.com.mv/dine/",
     "as_of": "2026-10-04"
    },
    {
@@ -716,6 +577,16 @@
    {
     "value": "Spa",
     "source_url": "https://angaga.com.mv/spa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.mymaldives.com/resort-guide/angaga-island-resort-spa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "The Top Spa",
+    "source_url": "https://www.maldivesholidayoffers.com/blogs/blog-detail/treat-yourself-the-top-spa-packages-at-duny-thai-spa--angaga-island-resorts/",
     "as_of": "2026-10-04"
    }
   ],
@@ -893,6 +764,16 @@
    {
     "value": "meditation",
     "source_url": "https://angaga.com.mv/spa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://www.mymaldives.com/resort-guide/angaga-island-resort-spa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "badminton",
+    "source_url": "https://www.mymaldives.com/resort-guide/angaga-island-resort-spa/",
     "as_of": "2026-10-04"
    }
   ],
@@ -1223,6 +1104,56 @@
     "value": "whale shark",
     "source_url": "https://angaga.com.mv/plan-your-visit/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://mondomaldive.it/it/villaggio/angaga-island-resort/recensione/6606",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://mondomaldive.it/it/villaggio/angaga-island-resort/recensione/4603",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://mondomaldive.it/it/villaggio/angaga-island-resort/recensione/6173",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://www.mymaldives.com/resort-guide/angaga-island-resort-spa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "windsurfing",
+    "source_url": "https://www.mymaldives.com/resort-guide/angaga-island-resort-spa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "catamaran",
+    "source_url": "https://www.mymaldives.com/resort-guide/angaga-island-resort-spa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "water skiing",
+    "source_url": "https://www.mymaldives.com/resort-guide/angaga-island-resort-spa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.mymaldives.com/resort-guide/angaga-island-resort-spa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sailing",
+    "source_url": "https://www.mymaldives.com/resort-guide/angaga-island-resort-spa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "canoe",
+    "source_url": "https://www.mymaldives.com/resort-guide/angaga-island-resort-spa/",
+    "as_of": "2026-10-04"
    }
   ],
   "excursions": [
@@ -1390,6 +1321,11 @@
     "value": "dolphin",
     "source_url": "https://angaga.com.mv/dine/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "big game fishing",
+    "source_url": "https://www.mymaldives.com/resort-guide/angaga-island-resort-spa/",
+    "as_of": "2026-10-04"
    }
   ],
   "meal_plans": [
@@ -1397,6 +1333,36 @@
     "value": "AI",
     "source_url": "https://www.angaga.com.mv/wp-content/uploads/2018/12/All-Inclusive-Package-3.pdf",
     "as_of": 2018
+   },
+   {
+    "value": "AI",
+    "source_url": "https://mondomaldive.it/it/villaggio/angaga-island-resort/recensione/5039",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://mondomaldive.it/it/villaggio/angaga-island-resort/recensione/5859",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "FB",
+    "source_url": "https://mondomaldive.it/it/villaggio/angaga-island-resort/recensione/6606",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://mondomaldive.it/it/villaggio/angaga-island-resort/recensione/6606",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://mondomaldive.it/it/villaggio/angaga-island-resort/recensione/4603",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://mondomaldive.it/it/villaggio/angaga-island-resort/recensione/6173",
+    "as_of": "2026-10-04"
    }
   ],
   "all_inclusive_details": [
@@ -1423,6 +1389,11 @@
    {
     "value": "All Inclusive – USD$ 74 per adult per night.",
     "source_url": "https://angaga.com.mv/hotel-policy/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "all inclusive é di 38USD al giorno a persona.",
+    "source_url": "https://mondomaldive.it/it/villaggio/angaga-island-resort/recensione/6606",
     "as_of": "2026-10-04"
    }
   ],
@@ -1485,6 +1456,11 @@
    {
     "value": "Ari Atoll",
     "source_url": "https://angaga.com.mv/plan-your-visit/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Ari Atoll",
+    "source_url": "https://www.mymaldives.com/resort-guide/angaga-island-resort-spa/",
     "as_of": "2026-10-04"
    }
   ],
@@ -1650,7 +1626,21 @@
     "source_url": "https://angaga.com.mv/wedding/",
     "as_of": "2026-10-04"
    }
+  ],
+  "villas.total": [
+   {
+    "value": 70,
+    "source_url": "https://www.mymaldives.com/resort-guide/angaga-island-resort-spa/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "opened_or_renovated": [
+   {
+    "value": "opened 2025",
+    "source_url": "https://www.maldivesholidayoffers.com/blogs/blog-detail/treat-yourself-the-top-spa-packages-at-duny-thai-spa--angaga-island-resorts/",
+    "as_of": "2026-10-04"
+   }
   ]
  },
- "last_updated": "2026-10-04"
+ "last_updated": "2026-10-05"
 }

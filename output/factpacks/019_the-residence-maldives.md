@@ -2,44 +2,45 @@
 
 **Official site:** https://www.cenizaro.com/theresidence/maldives-fm (ok)  
 **Brand:** n/a  
-**Atoll:** Gaafu Alifu Atoll  **Island:** Falhumaafushi  
-**Opened/renovated:** opened 1996  **Rating:** 5-star  
+**Atoll:** Gaafu Alifu Atoll  **Island:** Unguja  
+**Opened/renovated:** opened 1998  **Rating:** 5-star  
 **Transfer:** speedboat, domestic flight, seaplane; minutes: {"seaplane": 90, "speedboat": 7, "domestic flight": 55}  
-**Island size:** n/a  
+**Island size:** 2 ha  
 
 ## Villas (94 total)
 
 - No. of villas: count 2, ? sqm, max ?
+- No. of suites: count 3, ? sqm, max ?
 
 ## Dining
 
+- Welcome Lounge featuring relaxation area (bar)
 - Beach Bar) (bar)
-- Northern End) (Dhigurah Lounge) Library Bar) (Meeting point (bar)
-- Private Dining Extension: 527 (restaurant)
-- Private Dining (restaurant)
 - The Beach Bar (bar)
-- Bar & Adjacent Beach Area: 10.00 am till late (bar)
 - The Beach Bar Menu (bar)
 - The Beach Bar Tapas Menu (bar)
-- The Dining Room (restaurant)
-- Memorable Dining Experiences (restaurant)
-- Private Dining All Day Menu (restaurant)
+- The Bar (bar)
+- The Dining Room Bar (bar)
+- Piano Bar (bar)
+- Le Restaurant (restaurant)
+- Poolside Bar (bar)
+- The Sunset Grill (restaurant)
 
-Meal plans: BB
+Meal plans: BB, AI, FB, HB
 All-inclusive: All-Inclusive meal plan.
 
 ## Spa & wellness
 
-- Spa: Couple Spa; treatment rooms: ?; menu: https://cenizaro.com/docs/maldives-fm/TRML_Spa_by_Clarins_-_Reception_Menu_-_Jan_23.pdf
-- Wellness/fitness: yoga, meditation, ayurveda, tennis, wellness programme, fitness centre, sauna, steam
+- Spa: The Residence Bintan Spa; treatment rooms: ?; menu: https://www.cenizaro.com/docs/bintan/TRB_SPA_Menu_-_September_2026.pdf
+- Wellness/fitness: yoga, meditation, ayurveda, gym, steam, tennis, wellness programme, fitness centre, sauna, hammam, pilates, beach volleyball, fitness center
 
 ## Diving, water sports & excursions
 
 - Operator: Dive Centre
 - House reef: house reef begins just meters from shore, offering effortless access to some of the Maldives’ most vibrant marine life
-- Activities: snorkelling, windsurfing, kayaking, catamaran, fishing, dolphin cruise, sailing, snorkeling, surfing, scuba diving, stand-up paddle, jet ski, water skiing, fun tube, manta
+- Activities: snorkelling, windsurfing, kayaking, catamaran, fishing, dolphin cruise, sailing, snorkeling, surfing, scuba diving, stand-up paddle, jet ski, water skiing, fun tube, manta, paddleboard, parasailing
 - Price list: https://www.cenizaro.com/docs/maldives-dg/Dive_Centre_Price_List-March_2026.pdf
-- Excursions: dolphin, castaway, local island, cooking class, turtle, island hopping, big game fishing, picnic, manta
+- Excursions: dolphin, castaway, local island, cooking class, turtle, island hopping, big game fishing, picnic, manta, sandbank, cinema
 
 ## Kids & family
 
@@ -48,8 +49,8 @@ All-inclusive: All-Inclusive meal plan.
 ## Weddings
 
 - Offered: True; vow renewal: True
-- Venues: n/a
-- Packages: Wedding Ceremony Package USD 1200 (2026); Grand Celebration USD 799 (2026); Wedding USD 1200 (2026); Ceremony USD 599 (2026)
+- Venues: SUNSET BEACH WEDDING
+- Packages: Wedding Ceremony Package USD 1200 (2026); Grand Celebration USD 799 (2026); Wedding USD 1200 (2026); Ceremony USD 599 (2026); Single Package EUR 1770 (2026-10-05); Double Package EUR 2095 (2026-10-05); VIBES Destination Dining Experience USD 500 (2026-10-05); Island Summer Savings Package USD 450 (2026-10-05)
 - Brochure: https://www.cenizaro.com/docs/maldives-fm/Maldives_Wedding_Ceremony_Packages-2026.pdf
 
 ## Events / MICE
@@ -59,7 +60,7 @@ All-inclusive: All-Inclusive meal plan.
 
 ## Sustainability
 
-- Blue Marine Foundation
+- Blue Marine Foundation, solar, composting
 
 ## Public contacts
 
@@ -70,14 +71,14 @@ All-inclusive: All-Inclusive meal plan.
 - factsheet: none
 - map: none
 - wedding: https://www.cenizaro.com/docs/maldives-fm/Maldives_Wedding_Ceremony_Packages-2026.pdf
-- spa_menu: https://cenizaro.com/docs/maldives-fm/TRML_Spa_by_Clarins_-_Reception_Menu_-_Jan_23.pdf
-- dining_menu: https://www.cenizaro.com/docs/maldives-fm/Private_Dining_All_Day_Menu_-_28.06.25.pdf
+- spa_menu: https://www.cenizaro.com/docs/bintan/TRB_SPA_Menu_-_September_2026.pdf
+- dining_menu: https://www.cenizaro.com/docs/bintan/TRB_Earth_Basket_Cooking_Class_Menu.pdf
 - dive_prices: https://www.cenizaro.com/docs/maldives-dg/Dive_Centre_Price_List-March_2026.pdf
 - events: https://www.cenizaro.com//docs/maldives-fm/2024_TR_MALDIVES_MICE_FACTSHEET_FA_v3_PAGEBYPAGE.pdf
-- calendar: none
+- calendar: https://www.cenizaro.com/docs/pressclippings/luxurytravelmagazine.com%2C_06.07.22.pdf
 
 ## Gaps
 
 - factsheet
 
-_Facts extracted by rules from 30 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-04._
+_Facts extracted by rules from 32 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

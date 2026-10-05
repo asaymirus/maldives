@@ -2,39 +2,46 @@
 
 **Official site:** https://www.baglionihotels.com/maldives/ (blocked)  
 **Brand:** Baglioni  
-**Atoll:** n/a  **Island:** n/a  
+**Atoll:** Dhaalu Atoll  **Island:** Maagau Island  
 **Opened/renovated:** n/a  **Rating:** n/a  
-**Transfer:** n/a; minutes: {}  
+**Transfer:** seaplane, yacht; minutes: {"seaplane": 40}  
 **Island size:** n/a  
 
-## Villas (? total)
+## Villas (96 total)
 
 
 ## Dining
 
+- Yama Restaurant at Baglioni Maldives (restaurant)
+- Mirto Pool Bar (bar)
+- Refined Wine Cellar (bar)
+- Lunch at Pizza Boat and Mirto Pool Bar (bar)
+- Terrace Bar (bar)
 
-Meal plans: n/a
+Meal plans: AI
+All-inclusive: all inclusive plan adds a sense of ease to each day, with exceptional Italian and international dining, snacks, drinks and activities all taken care of.
 
 ## Spa & wellness
 
-- Spa: n/a; treatment rooms: ?; menu: none
-- Wellness/fitness: n/a
+- Spa: Aura Spa; treatment rooms: 4; menu: none
+- Wellness/fitness: yoga, meditation, gym, fitness centre, tennis
 
 ## Diving, water sports & excursions
 
-- Operator: n/a
-- House reef: n/a
-- Activities: n/a
+- Operator: Dive Centre
+- House reef: house reef and white‑sand beaches-all within reach yet distinct from higher‑traffic atolls
+- Activities: snorkelling, kayaking, stand-up paddle, jet ski, water skiing, wakeboarding, manta, canoe, snorkeling
 - Price list: none
-- Excursions: n/a
+- Excursions: manta, turtle, picnic
 
 ## Kids & family
 
-- Kids club: n/a; ages: n/a; teens: n/a
+- Kids club: For Families
+Baglioni Kids Club; ages: 4-12 years; teens: teens programme mentioned
 
 ## Weddings
 
-- Offered: None; vow renewal: None
+- Offered: True; vow renewal: None
 - Venues: n/a
 - Packages: n/a
 - Brochure: none
@@ -46,7 +53,7 @@ Meal plans: n/a
 
 ## Sustainability
 
-- n/a
+- Green Globe
 
 ## Public contacts
 
@@ -68,16 +75,7 @@ Meal plans: n/a
 - factsheet
 - wedding brochure
 - events/MICE document
-- fact: villas.total
 - fact: villa categories
-- fact: dining
-- fact: transfer
-- fact: atoll
-- fact: spa
-- fact: dive operator
-- fact: kids club
-- fact: weddings
 - fact: contacts
-- no documents or pages collected
 
-_Facts extracted by rules from 0 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-04._
+_Facts extracted by rules from 20 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

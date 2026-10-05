@@ -37,14 +37,6 @@
     "overwater": null
    },
    {
-    "name": "Sunrise Earth Pool Pavilion",
-    "count": 5,
-    "size_sqm": null,
-    "max_occupancy": null,
-    "pool": true,
-    "overwater": null
-   },
-   {
     "name": "Ocean Pool Suite",
     "count": 23,
     "size_sqm": null,
@@ -61,7 +53,7 @@
     "overwater": true
    },
    {
-    "name": "Villas | Villa Size: | Area Size",
+    "name": "Villas",
     "count": 31,
     "size_sqm": 88,
     "max_occupancy": null,
@@ -69,7 +61,7 @@
     "overwater": null
    },
    {
-    "name": "Without Slide: Suites | Villa Size: | Area Size",
+    "name": "Without Slide: Suites",
     "count": null,
     "size_sqm": 100,
     "max_occupancy": null,
@@ -77,17 +69,9 @@
     "overwater": null
    },
    {
-    "name": "With Slide – Suites | Villa Size: | Area Size",
+    "name": "With Slide – Suites",
     "count": null,
     "size_sqm": 100,
-    "max_occupancy": null,
-    "pool": null,
-    "overwater": null
-   },
-   {
-    "name": "RESERVE | Villa Size: | Area Size",
-    "count": 7,
-    "size_sqm": 175,
     "max_occupancy": null,
     "pool": null,
     "overwater": null
@@ -95,14 +79,6 @@
    {
     "name": "Boutique Village",
     "count": 903,
-    "size_sqm": null,
-    "max_occupancy": null,
-    "pool": null,
-    "overwater": null
-   },
-   {
-    "name": "Number of Villas",
-    "count": 90,
     "size_sqm": null,
     "max_occupancy": null,
     "pool": null,
@@ -133,22 +109,7 @@
    "type": "bar"
   },
   {
-   "name": "Access to Beach, Wi-Fi, Maxi Bar, Walk-in Wardrobe",
-   "cuisine": null,
-   "type": "bar"
-  },
-  {
-   "name": "Bar turns into an adults-only as the clock strikes nine!",
-   "cuisine": null,
-   "type": "bar"
-  },
-  {
    "name": "Kids Club and Teen Lounge",
-   "cuisine": null,
-   "type": "bar"
-  },
-  {
-   "name": "Kids Klub and Teen Lounge. Within our weekly program,",
    "cuisine": null,
    "type": "bar"
   },
@@ -166,11 +127,6 @@
    "name": "OZAR - Bar & Pool Royal RESERVE",
    "cuisine": null,
    "type": "bar"
-  },
-  {
-   "name": "Dining",
-   "cuisine": null,
-   "type": "restaurant"
   },
   {
    "name": "Origine Restaurant",
@@ -191,6 +147,16 @@
    "name": "Kuda Koli Kids Club & Teen Lounge",
    "cuisine": null,
    "type": "bar"
+  },
+  {
+   "name": "{{Restaurant.Description}}",
+   "cuisine": null,
+   "type": "restaurant"
+  },
+  {
+   "name": "Restaurant Type",
+   "cuisine": null,
+   "type": "restaurant"
   }
  ],
  "meal_plans": [
@@ -331,18 +297,6 @@
    },
    {
     "value": {
-     "name": "Sunrise Earth Pool Pavilion",
-     "count": 5,
-     "size_sqm": null,
-     "max_occupancy": null,
-     "pool": true,
-     "overwater": null
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/OZEN-RESERVE-BOLIFUSHI-Fact-Sheet.pdf",
-    "as_of": 2023
-   },
-   {
-    "value": {
      "name": "Ocean Pool Suite",
      "count": 23,
      "size_sqm": null,
@@ -367,7 +321,7 @@
    },
    {
     "value": {
-     "name": "Villas | Villa Size: | Area Size",
+     "name": "Villas",
      "count": 31,
      "size_sqm": 88,
      "max_occupancy": null,
@@ -379,7 +333,7 @@
    },
    {
     "value": {
-     "name": "Villas | Villa Size: | Area Size",
+     "name": "Villas",
      "count": 5,
      "size_sqm": 118,
      "max_occupancy": null,
@@ -391,7 +345,7 @@
    },
    {
     "value": {
-     "name": "Villas | Villa Size: | Area Size",
+     "name": "Villas",
      "count": 6,
      "size_sqm": 228,
      "max_occupancy": null,
@@ -403,7 +357,7 @@
    },
    {
     "value": {
-     "name": "Without Slide: Suites | Villa Size: | Area Size",
+     "name": "Without Slide: Suites",
      "count": null,
      "size_sqm": 100,
      "max_occupancy": null,
@@ -415,33 +369,9 @@
    },
    {
     "value": {
-     "name": "With Slide – Suites | Villa Size: | Area Size",
+     "name": "With Slide – Suites",
      "count": null,
      "size_sqm": 100,
-     "max_occupancy": null,
-     "pool": null,
-     "overwater": null
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/OZEN-RESERVE-BOLIFUSHI-Fact-Sheet.pdf",
-    "as_of": 2023
-   },
-   {
-    "value": {
-     "name": "RESERVE | Villa Size: | Area Size",
-     "count": 7,
-     "size_sqm": 175,
-     "max_occupancy": null,
-     "pool": null,
-     "overwater": null
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/OZEN-RESERVE-BOLIFUSHI-Fact-Sheet.pdf",
-    "as_of": 2023
-   },
-   {
-    "value": {
-     "name": "RESERVE | Villa Size: | Area Size",
-     "count": 1,
-     "size_sqm": 278,
      "max_occupancy": null,
      "pool": null,
      "overwater": null
@@ -472,18 +402,6 @@
     },
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/OZEN-RESERVE-BOLIFUSHI-Resort-Map-1.pdf",
     "as_of": 2023
-   },
-   {
-    "value": {
-     "name": "Number of Villas",
-     "count": 90,
-     "size_sqm": null,
-     "max_occupancy": null,
-     "pool": null,
-     "overwater": null
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/ozen-reserve-bolifushi/",
-    "as_of": "2026-10-04"
    },
    {
     "value": {
@@ -534,24 +452,6 @@
    },
    {
     "value": {
-     "name": "Access to Beach, Wi-Fi, Maxi Bar, Walk-in Wardrobe",
-     "cuisine": null,
-     "type": "bar"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/OZEN-RESERVE-BOLIFUSHI-Fact-Sheet.pdf",
-    "as_of": 2023
-   },
-   {
-    "value": {
-     "name": "Bar turns into an adults-only as the clock strikes nine!",
-     "cuisine": null,
-     "type": "bar"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/OZEN-RESERVE-BOLIFUSHI-Fact-Sheet.pdf",
-    "as_of": 2023
-   },
-   {
-    "value": {
      "name": "Kids Club and Teen Lounge",
      "cuisine": null,
      "type": "bar"
@@ -561,15 +461,6 @@
    },
    {
     "value": {
-     "name": "Kids Klub and Teen Lounge. Within our weekly program,",
-     "cuisine": null,
-     "type": "bar"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/OZEN-RESERVE-BOLIFUSHI-Fact-Sheet.pdf",
-    "as_of": 2023
-   },
-   {
-    "value": {
      "name": "Lounge",
      "cuisine": null,
      "type": "bar"
@@ -621,24 +512,6 @@
     },
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/OZEN-RESERVE-BOLIFUSHI-Resort-Map-1.pdf",
     "as_of": 2023
-   },
-   {
-    "value": {
-     "name": "Dining",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/ozen-reserve-bolifushi/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Dining",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/ozen-reserve-bolifushi/",
-    "as_of": "2026-10-04"
    },
    {
     "value": {
@@ -674,6 +547,24 @@
      "type": "bar"
     },
     "source_url": "https://www.neoscapesmaldives.com/resort/ozen-reserve-bolifushi/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "{{Restaurant.Description}}",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.letsgo2.com/hotels/maldives/ozen-reserve-bolifushi/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Restaurant Type",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.letsgo2.com/hotels/maldives/ozen-reserve-bolifushi/",
     "as_of": "2026-10-04"
    }
   ],
@@ -968,5 +859,5 @@
    }
   ]
  },
- "last_updated": "2026-10-04"
+ "last_updated": "2026-10-05"
 }

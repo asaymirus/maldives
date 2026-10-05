@@ -9,15 +9,12 @@
 
 ## Villas (? total)
 
-- Total Number of Villas: count 109, ? sqm, max ?
 
 ## Dining
 
-- Dining (restaurant)
 - Aura Pool Bar & Cocktail Lab (bar)
 - Eden Champagne & Gin Bar (bar)
 - Sip Tea Lounge (bar)
-- Dining Experiences (restaurant)
 
 Meal plans: n/a
 
@@ -36,7 +33,7 @@ Meal plans: n/a
 
 ## Kids & family
 
-- Kids club: n/a; ages: n/a; teens: teens programme mentioned
+- Kids club: Kids Club; ages: n/a; teens: teens programme mentioned
 
 ## Weddings
 
@@ -74,7 +71,7 @@ Meal plans: n/a
 - wedding brochure
 - events/MICE document
 - fact: villas.total
+- fact: villa categories
 - fact: dive operator
-- fact: kids club
 
-_Facts extracted by rules from 15 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-04._
+_Facts extracted by rules from 15 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

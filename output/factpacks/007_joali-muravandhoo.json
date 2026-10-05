@@ -55,6 +55,38 @@
     "overwater": true
    },
    {
+    "name": "Water Villa with Pool Beach Villa with Pool",
+    "count": 10,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": true,
+    "overwater": null
+   },
+   {
+    "name": "Lu ury Water Villa with Pool Lu ury Beach Villa with Pool",
+    "count": 19,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": true,
+    "overwater": null
+   },
+   {
+    "name": "with Two Pools Three Bedroom Beach Residence with Pool",
+    "count": 1,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": true,
+    "overwater": null
+   },
+   {
+    "name": "Four Bedroom Beach Residence with Pool",
+    "count": 1,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": true,
+    "overwater": null
+   },
+   {
     "name": "Villas",
     "count": 73,
     "size_sqm": null,
@@ -74,7 +106,12 @@
  },
  "dining": [
   {
-   "name": "Lounge seating in villa | Cabana completes the offering.",
+   "name": "Seating Lounge",
+   "cuisine": null,
+   "type": "bar"
+  },
+  {
+   "name": "Lounge seating in villa",
    "cuisine": null,
    "type": "bar"
   },
@@ -89,17 +126,22 @@
    "type": "bar"
   },
   {
-   "name": "Dining",
-   "cuisine": null,
-   "type": "restaurant"
-  },
-  {
    "name": "Mura Bar",
    "cuisine": null,
    "type": "bar"
   },
   {
-   "name": "Destination Dining",
+   "name": "Whiskey and Cigar Lounge",
+   "cuisine": null,
+   "type": "bar"
+  },
+  {
+   "name": "Wine Cellar",
+   "cuisine": null,
+   "type": "bar"
+  },
+  {
+   "name": "Teppanyaki at Saoke",
    "cuisine": null,
    "type": "restaurant"
   },
@@ -138,7 +180,7 @@
   "cooking class"
  ],
  "kids_family": {
-  "kids_club": "Kids Club",
+  "kids_club": "At Muramas Kids Club",
   "age_range": null,
   "teens": null
  },
@@ -147,7 +189,11 @@
   "tennis",
   "hammam",
   "sauna",
-  "steam"
+  "steam",
+  "yoga",
+  "meditation",
+  "padel",
+  "pilates"
  ],
  "weddings": {
   "offered": true,
@@ -163,6 +209,7 @@
   "doc": null
  },
  "sustainability": [
+  "Green Key",
   "marine biologist"
  ],
  "contacts_public": {
@@ -180,7 +227,7 @@
   "events": null,
   "calendar": null
  },
- "documents_count": 2,
+ "documents_count": 5,
  "gaps": [
   "wedding brochure",
   "events/MICE document",
@@ -195,7 +242,17 @@
    },
    {
     "value": "Raa Atoll",
+    "source_url": "https://awesomegetawaymaldives.com/wp-content/uploads/2026/03/Joali-Maldives.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "Raa Atoll",
     "source_url": "https://www.neoscapesmaldives.com/resort/joali-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Raa Atoll",
+    "source_url": "https://malediven.de/malediven-hotels/joali-maldives/",
     "as_of": "2026-10-04"
    }
   ],
@@ -243,6 +300,11 @@
     "value": 73,
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/JOALI-Maldives-Factsheet.pdf",
     "as_of": 2023
+   },
+   {
+    "value": 73,
+    "source_url": "https://awesomegetawaymaldives.com/wp-content/uploads/2026/03/Joali-Maldives.pdf",
+    "as_of": 2026
    }
   ],
   "villas.categories": [
@@ -284,6 +346,54 @@
    },
    {
     "value": {
+     "name": "Water Villa with Pool Beach Villa with Pool",
+     "count": 10,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": true,
+     "overwater": null
+    },
+    "source_url": "https://awesomegetawaymaldives.com/wp-content/uploads/2026/03/Joali-Maldives.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": {
+     "name": "Lu ury Water Villa with Pool Lu ury Beach Villa with Pool",
+     "count": 19,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": true,
+     "overwater": null
+    },
+    "source_url": "https://awesomegetawaymaldives.com/wp-content/uploads/2026/03/Joali-Maldives.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": {
+     "name": "with Two Pools Three Bedroom Beach Residence with Pool",
+     "count": 1,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": true,
+     "overwater": null
+    },
+    "source_url": "https://awesomegetawaymaldives.com/wp-content/uploads/2026/03/Joali-Maldives.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": {
+     "name": "Four Bedroom Beach Residence with Pool",
+     "count": 1,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": true,
+     "overwater": null
+    },
+    "source_url": "https://awesomegetawaymaldives.com/wp-content/uploads/2026/03/Joali-Maldives.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": {
      "name": "Villas",
      "count": 73,
      "size_sqm": null,
@@ -310,7 +420,16 @@
   "dining": [
    {
     "value": {
-     "name": "Lounge seating in villa | Cabana completes the offering.",
+     "name": "Seating Lounge",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/JOALI-Maldives-Factsheet.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": {
+     "name": "Lounge seating in villa",
      "cuisine": null,
      "type": "bar"
     },
@@ -337,21 +456,48 @@
    },
    {
     "value": {
-     "name": "Dining",
+     "name": "Mura Bar",
      "cuisine": null,
-     "type": "restaurant"
+     "type": "bar"
     },
-    "source_url": "https://www.neoscapesmaldives.com/resort/joali-maldives/",
-    "as_of": "2026-10-04"
+    "source_url": "https://awesomegetawaymaldives.com/wp-content/uploads/2026/03/Joali-Maldives.pdf",
+    "as_of": 2026
    },
    {
     "value": {
-     "name": "Dining",
+     "name": "Whiskey and Cigar Lounge",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://awesomegetawaymaldives.com/wp-content/uploads/2026/03/Joali-Maldives.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": {
+     "name": "Her Kitchen",
      "cuisine": null,
      "type": "restaurant"
     },
-    "source_url": "https://www.neoscapesmaldives.com/resort/joali-maldives/",
-    "as_of": "2026-10-04"
+    "source_url": "https://awesomegetawaymaldives.com/wp-content/uploads/2026/03/Joali-Maldives.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": {
+     "name": "Wine Cellar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://awesomegetawaymaldives.com/wp-content/uploads/2026/03/Joali-Maldives.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": {
+     "name": "Teppanyaki at Saoke",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://awesomegetawaymaldives.com/wp-content/uploads/2026/03/Joali-Maldives.pdf",
+    "as_of": 2026
    },
    {
     "value": {
@@ -367,15 +513,6 @@
      "name": "Mura Bar",
      "cuisine": null,
      "type": "bar"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/joali-maldives/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Destination Dining",
-     "cuisine": null,
-     "type": "restaurant"
     },
     "source_url": "https://www.neoscapesmaldives.com/resort/joali-maldives/",
     "as_of": "2026-10-04"
@@ -400,6 +537,11 @@
     "value": "Fitness\nJOALI Spa",
     "source_url": "https://www.neoscapesmaldives.com/resort/joali-maldives/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "Kids Spa",
+    "source_url": "https://malediven.de/malediven-hotels/joali-maldives/",
+    "as_of": "2026-10-04"
    }
   ],
   "diving_watersports.activities": [
@@ -417,6 +559,11 @@
     "value": "manta",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/JOALI-Maldives-Factsheet.pdf",
     "as_of": 2023
+   },
+   {
+    "value": "manta",
+    "source_url": "https://awesomegetawaymaldives.com/wp-content/uploads/2026/03/Joali-Maldives.pdf",
+    "as_of": 2026
    },
    {
     "value": "snorkelling",
@@ -452,6 +599,16 @@
     "value": "sailing",
     "source_url": "https://www.neoscapesmaldives.com/resort/joali-maldives/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "parasailing",
+    "source_url": "https://malediven.de/malediven-hotels/joali-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "wakeboarding",
+    "source_url": "https://malediven.de/malediven-hotels/joali-maldives/",
+    "as_of": "2026-10-04"
    }
   ],
   "excursions": [
@@ -464,6 +621,16 @@
     "value": "manta",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/JOALI-Maldives-Factsheet.pdf",
     "as_of": 2023
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://awesomegetawaymaldives.com/wp-content/uploads/2026/03/Joali-Maldives.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "manta",
+    "source_url": "https://awesomegetawaymaldives.com/wp-content/uploads/2026/03/Joali-Maldives.pdf",
+    "as_of": 2026
    },
    {
     "value": "manta",
@@ -481,6 +648,11 @@
     "value": "Muramas Kids Club",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/JOALI-Maldives-Factsheet.pdf",
     "as_of": 2023
+   },
+   {
+    "value": "At Muramas Kids Club",
+    "source_url": "https://awesomegetawaymaldives.com/wp-content/uploads/2026/03/Joali-Maldives.pdf",
+    "as_of": 2026
    },
    {
     "value": "Kids Club",
@@ -515,6 +687,26 @@
     "as_of": 2023
    },
    {
+    "value": "yoga",
+    "source_url": "https://letsgomaldives.com/wp-content/uploads/2026/03/Joali-Eid-Al-Fitr-Digital-Flyer_V2-002-1.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "meditation",
+    "source_url": "https://letsgomaldives.com/wp-content/uploads/2026/03/Joali-Eid-Al-Fitr-Digital-Flyer_V2-002-1.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://awesomegetawaymaldives.com/wp-content/uploads/2026/03/Joali-Maldives.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "padel",
+    "source_url": "https://awesomegetawaymaldives.com/wp-content/uploads/2026/03/Joali-Maldives.pdf",
+    "as_of": 2026
+   },
+   {
     "value": "fitness centre",
     "source_url": "https://www.neoscapesmaldives.com/resort/joali-maldives/",
     "as_of": "2026-10-04"
@@ -538,6 +730,21 @@
     "value": "steam",
     "source_url": "https://www.neoscapesmaldives.com/resort/joali-maldives/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://malediven.de/malediven-hotels/joali-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "padel",
+    "source_url": "https://malediven.de/malediven-hotels/joali-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "pilates",
+    "source_url": "https://malediven.de/malediven-hotels/joali-maldives/",
+    "as_of": "2026-10-04"
    }
   ],
   "weddings.offered": [
@@ -548,11 +755,26 @@
    },
    {
     "value": true,
+    "source_url": "https://awesomegetawaymaldives.com/wp-content/uploads/2026/03/Joali-Maldives.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": true,
     "source_url": "https://www.neoscapesmaldives.com/resort/joali-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://malediven.de/malediven-hotels/joali-maldives/",
     "as_of": "2026-10-04"
    }
   ],
   "sustainability": [
+   {
+    "value": "Green Key",
+    "source_url": "https://so-hotels.com/wp-content/uploads/sites/19/2026/01/so_sotogrande_press-release_green-key_ES.pdf",
+    "as_of": 2026
+   },
    {
     "value": "marine biologist",
     "source_url": "https://www.neoscapesmaldives.com/resort/joali-maldives/",
@@ -574,5 +796,5 @@
    }
   ]
  },
- "last_updated": "2026-10-04"
+ "last_updated": "2026-10-05"
 }

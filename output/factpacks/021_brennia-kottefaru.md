@@ -15,15 +15,6 @@
 
 ## Dining
 
-- Dine Around All Inclusive (Manta & Sunset Grill) (restaurant)
-- 03 Lime (Main Restaurant) (restaurant)
-- 04 La Pella (Main Bar) (bar)
-- 06 Sunset Grill (restaurant)
-- 08 Beach Bar (bar)
-- Dining (restaurant)
-- Lime – All-Day Dining (restaurant)
-- Manta – Asian Specialty Dining (restaurant)
-- Sunset Grill & Bar – Island Dining (bar)
 - Beach Bar – Sunrise Serenity (bar)
 - Wine Cellar – An Intimate Escape (bar)
 
@@ -31,15 +22,15 @@ Meal plans: n/a
 
 ## Spa & wellness
 
-- Spa: Beauty Spa; treatment rooms: 18; menu: none
-- Wellness/fitness: gym, yoga, fitness centre
+- Spa: Beauty Spa; treatment rooms: 18; menu: https://brennia.com/wp-content/uploads/pdf/Brennia-Kottefaru-Eternity-Spa-Package-Price.pdf
+- Wellness/fitness: gym, ayurveda, steam, yoga, fitness centre
 
 ## Diving, water sports & excursions
 
 - Operator: Ocean Dimensions
 - House reef: n/a
-- Activities: manta, snorkelling, jet ski, parasailing, wakeboarding, fishing, dolphin cruise
-- Price list: none
+- Activities: manta, snorkeling, catamaran, jet ski, fun tube, snorkelling, parasailing, wakeboarding, fishing, dolphin cruise
+- Price list: https://brennia.com/wp-content/uploads/pdf/Brennia-Kottefaru-Water-Sports-Price-List.pdf
 - Excursions: manta, sandbank, dolphin, big game fishing, picnic
 
 ## Kids & family
@@ -71,9 +62,9 @@ Meal plans: n/a
 - factsheet: https://www.neoscapesmaldives.com/wp-content/uploads/English-Fact-Sheet-Resort-Map.pdf
 - map: none
 - wedding: none
-- spa_menu: none
-- dining_menu: none
-- dive_prices: none
+- spa_menu: https://brennia.com/wp-content/uploads/pdf/Brennia-Kottefaru-Eternity-Spa-Package-Price.pdf
+- dining_menu: https://brennia.com/wp-content/uploads/pdf/Brennia-Kottefaru-Sunset-Grill-Bar-Dinner-Menu.pdf
+- dive_prices: https://brennia.com/wp-content/uploads/pdf/Brennia-Kottefaru-Water-Sports-Price-List.pdf
 - events: none
 - calendar: none
 
@@ -83,4 +74,4 @@ Meal plans: n/a
 - events/MICE document
 - fact: kids club
 
-_Facts extracted by rules from 17 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-04._
+_Facts extracted by rules from 17 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

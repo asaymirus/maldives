@@ -6,8 +6,8 @@
   "Cocoon",
   "Ookolhufinolhu"
  ],
- "official_url": null,
- "official_site_status": null,
+ "official_url": "https://www.cocoonmaldives.com/",
+ "official_site_status": "ok",
  "operator_brand": "Coco",
  "atoll": "North Malé Atoll",
  "island": null,
@@ -31,14 +31,6 @@
  "villas": {
   "total": 150,
   "categories": [
-   {
-    "name": "Number of Villas",
-    "count": 150,
-    "size_sqm": null,
-    "max_occupancy": null,
-    "pool": null,
-    "overwater": null
-   },
    {
     "name": "beach suite",
     "count": 5,
@@ -69,31 +61,6 @@
    "type": "bar"
   },
   {
-   "name": "3 Departure Lounge 14 Kids Playground 11",
-   "cuisine": null,
-   "type": "bar"
-  },
-  {
-   "name": "24 Cocoon – Day & Night Bar",
-   "cuisine": null,
-   "type": "bar"
-  },
-  {
-   "name": "25 Baraveli – All Day Dining",
-   "cuisine": null,
-   "type": "restaurant"
-  },
-  {
-   "name": "31 – Asian Restaurant",
-   "cuisine": null,
-   "type": "restaurant"
-  },
-  {
-   "name": "Explore Dining Options",
-   "cuisine": null,
-   "type": "restaurant"
-  },
-  {
    "name": "Kurum-Bar",
    "cuisine": null,
    "type": "bar"
@@ -102,16 +69,6 @@
    "name": "Loabi Loabi Bar",
    "cuisine": null,
    "type": "bar"
-  },
-  {
-   "name": "20% discount on Shisha at Loabi Loabi Bar.",
-   "cuisine": null,
-   "type": "bar"
-  },
-  {
-   "name": "Restaurant",
-   "cuisine": null,
-   "type": "restaurant"
   },
   {
    "name": "Octopus Restaurant",
@@ -129,7 +86,12 @@
    "type": "bar"
   },
   {
-   "name": "Dining",
+   "name": "Private Seaplane Lounge",
+   "cuisine": null,
+   "type": "bar"
+  },
+  {
+   "name": "Manta Restaurant at",
    "cuisine": null,
    "type": "restaurant"
   },
@@ -137,11 +99,6 @@
    "name": "Cheers Bar",
    "cuisine": null,
    "type": "bar"
-  },
-  {
-   "name": "H2O Underwater Restaurant",
-   "cuisine": null,
-   "type": "restaurant"
   }
  ],
  "meal_plans": [
@@ -153,7 +110,7 @@
   "name": "The Cube Spa",
   "treatment_rooms": null,
   "signature_treatments": [],
-  "menu_doc": null
+  "menu_doc": "https://www.finolhu.com/wp-content/uploads/2023/03/finolhu-fehi-spa-pricelist.pdf"
  },
  "diving_watersports": {
   "operator": "Dive Centre",
@@ -164,9 +121,9 @@
    "dolphin cruise",
    "manta",
    "snorkeling",
+   "banana boat",
    "scuba diving",
    "jet ski",
-   "banana boat",
    "flyboard",
    "stand-up paddle",
    "paddleboard",
@@ -188,10 +145,12 @@
   "turtle",
   "picnic",
   "cinema",
+  "private dinner",
+  "cooking class",
   "whale shark"
  ],
  "kids_family": {
-  "kids_club": "Kids Club",
+  "kids_club": "Kids Village\nKids Club",
   "age_range": null,
   "teens": "teens programme mentioned"
  },
@@ -200,12 +159,12 @@
   "gym",
   "fitness centre",
   "pilates",
-  "fitness center",
-  "tennis",
-  "beach volleyball",
   "meditation",
+  "tennis",
   "sauna",
-  "steam"
+  "steam",
+  "fitness center",
+  "beach volleyball"
  ],
  "weddings": {
   "offered": true,
@@ -230,13 +189,13 @@
   "factsheet": "https://www.neoscapesmaldives.com/wp-content/uploads/Cocoon-Maldives-_-Fact-Sheet.pdf",
   "map": "https://www.neoscapesmaldives.com/wp-content/uploads/DUSIT-D2-FEYDHOO-MAP-DIGITAL-HIGH-RES-.pdf",
   "wedding": null,
-  "spa_menu": null,
-  "dining_menu": null,
+  "spa_menu": "https://www.finolhu.com/wp-content/uploads/2023/03/finolhu-fehi-spa-pricelist.pdf",
+  "dining_menu": "https://cdnm.heyzine.com/files/uploaded/e4cbbb8c54b0ae734776b93f959202aa3da9dc60.pdf",
   "dive_prices": null,
   "events": null,
   "calendar": null
  },
- "documents_count": 3,
+ "documents_count": 8,
  "gaps": [
   "wedding brochure",
   "events/MICE document"
@@ -281,6 +240,11 @@
    {
     "value": "Raa Atoll",
     "source_url": "https://www.neoscapesmaldives.com/resort/you-me-by-cocoon-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Lhaviyani Atoll",
+    "source_url": "https://letsgomaldives.com/news/cocoon-maldives-resort/",
     "as_of": "2026-10-04"
    }
   ],
@@ -337,6 +301,26 @@
    },
    {
     "value": "seaplane",
+    "source_url": "https://www.cocoonmaldives.com/faq",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.cocoonmaldives.com/winter-bliss-offer",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.cocoonmaldives.com/family-getaway",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.cocoonmaldives.com/honeymoon-getaway",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "seaplane",
     "source_url": "https://www.neoscapesmaldives.com/resort/cocoon-maldives/",
     "as_of": "2026-10-04"
    },
@@ -358,6 +342,11 @@
    {
     "value": "yacht",
     "source_url": "https://www.neoscapesmaldives.com/resort/you-me-by-cocoon-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://letsgomaldives.com/news/cocoon-maldives-resort/",
     "as_of": "2026-10-04"
    }
   ],
@@ -384,12 +373,22 @@
    },
    {
     "value": 30,
+    "source_url": "https://www.cocoonmaldives.com/faq",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 30,
     "source_url": "https://www.neoscapesmaldives.com/resort/cocoon-maldives/",
     "as_of": "2026-10-04"
    },
    {
     "value": 55,
     "source_url": "https://www.neoscapesmaldives.com/resort/you-me-by-cocoon-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 35,
+    "source_url": "https://letsgomaldives.com/news/cocoon-maldives-resort/",
     "as_of": "2026-10-04"
    }
   ],
@@ -411,60 +410,6 @@
     },
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Cocoon-Maldives-_-Fact-Sheet.pdf",
     "as_of": 2025
-   },
-   {
-    "value": {
-     "name": "3 Departure Lounge 14 Kids Playground 11",
-     "cuisine": null,
-     "type": "bar"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/DUSIT-D2-FEYDHOO-MAP-DIGITAL-HIGH-RES-.pdf",
-    "as_of": 2025
-   },
-   {
-    "value": {
-     "name": "24 Cocoon – Day & Night Bar",
-     "cuisine": null,
-     "type": "bar"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/DUSIT-D2-FEYDHOO-MAP-DIGITAL-HIGH-RES-.pdf",
-    "as_of": 2025
-   },
-   {
-    "value": {
-     "name": "25 Baraveli – All Day Dining",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/DUSIT-D2-FEYDHOO-MAP-DIGITAL-HIGH-RES-.pdf",
-    "as_of": 2025
-   },
-   {
-    "value": {
-     "name": "31 – Asian Restaurant",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/DUSIT-D2-FEYDHOO-MAP-DIGITAL-HIGH-RES-.pdf",
-    "as_of": 2025
-   },
-   {
-    "value": {
-     "name": "Explore Dining Options",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.cocoonmaldives.com/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Explore Dining Options",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.cocoonmaldives.com",
-    "as_of": "2026-10-04"
    },
    {
     "value": {
@@ -500,24 +445,6 @@
      "type": "bar"
     },
     "source_url": "https://www.cocoonmaldives.com/loabiloabi-bar",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "20% discount on Shisha at Loabi Loabi Bar.",
-     "cuisine": null,
-     "type": "bar"
-    },
-    "source_url": "https://www.cocoonmaldives.com/august-escape-offer",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Restaurant",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.cocoonmaldives.com/dining",
     "as_of": "2026-10-04"
    },
    {
@@ -612,20 +539,38 @@
    },
    {
     "value": {
-     "name": "Dining",
+     "name": "Private Seaplane Lounge",
      "cuisine": null,
-     "type": "restaurant"
+     "type": "bar"
     },
-    "source_url": "https://www.neoscapesmaldives.com/resort/cocoon-maldives/",
+    "source_url": "https://www.cocoonmaldives.com/winter-bliss-offer",
     "as_of": "2026-10-04"
    },
    {
     "value": {
-     "name": "Dining",
+     "name": "Octopus Restaurant",
      "cuisine": null,
      "type": "restaurant"
     },
-    "source_url": "https://www.neoscapesmaldives.com/resort/cocoon-maldives/",
+    "source_url": "https://www.cocoonmaldives.com/octopus-restaurant",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Octopus Restaurant",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.cocoonmaldives.com/octopus-restaurant",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Manta Restaurant at",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.cocoonmaldives.com/news/manta-restaurant-wins-traveler's-choice-award-by-tripadvisor",
     "as_of": "2026-10-04"
    },
    {
@@ -666,45 +611,9 @@
    },
    {
     "value": {
-     "name": "Dining",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/cocoon-maldives/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Dining",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/you-me-by-cocoon-maldives/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Dining",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/you-me-by-cocoon-maldives/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
      "name": "Cheers Bar",
      "cuisine": null,
      "type": "bar"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/you-me-by-cocoon-maldives/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "H2O Underwater Restaurant",
-     "cuisine": null,
-     "type": "restaurant"
     },
     "source_url": "https://www.neoscapesmaldives.com/resort/you-me-by-cocoon-maldives/",
     "as_of": "2026-10-04"
@@ -714,6 +623,11 @@
    {
     "value": "Cube\nSpa",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Cocoon-Maldives-_-Fact-Sheet.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://cdnm.heyzine.com/files/uploaded/e4cbbb8c54b0ae734776b93f959202aa3da9dc60.pdf",
     "as_of": 2025
    },
    {
@@ -742,6 +656,11 @@
     "as_of": "2026-10-04"
    },
    {
+    "value": "Cube Spa",
+    "source_url": "https://www.cocoonmaldives.com/winter-bliss-offer",
+    "as_of": "2026-10-04"
+   },
+   {
     "value": "The Cube Spa",
     "source_url": "https://www.neoscapesmaldives.com/resort/cocoon-maldives/",
     "as_of": "2026-10-04"
@@ -749,6 +668,11 @@
    {
     "value": "Elizabeth Arden Spa",
     "source_url": "https://www.neoscapesmaldives.com/resort/you-me-by-cocoon-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Cube Spa",
+    "source_url": "https://letsgomaldives.com/news/cocoon-maldives-resort/",
     "as_of": "2026-10-04"
    }
   ],
@@ -771,6 +695,31 @@
    {
     "value": "manta",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Cocoon-Maldives-_-Fact-Sheet.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://cdnm.heyzine.com/files/uploaded/e4cbbb8c54b0ae734776b93f959202aa3da9dc60.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://cdnm.heyzine.com/files/uploaded/e4cbbb8c54b0ae734776b93f959202aa3da9dc60.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "dolphin cruise",
+    "source_url": "https://cdnm.heyzine.com/files/uploaded/e4cbbb8c54b0ae734776b93f959202aa3da9dc60.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "manta",
+    "source_url": "https://cdnm.heyzine.com/files/uploaded/e4cbbb8c54b0ae734776b93f959202aa3da9dc60.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "banana boat",
+    "source_url": "https://cdnm.heyzine.com/files/uploaded/e4cbbb8c54b0ae734776b93f959202aa3da9dc60.pdf",
     "as_of": 2025
    },
    {
@@ -876,6 +825,81 @@
    {
     "value": "paddleboard",
     "source_url": "https://www.cocoonmaldives.com/what-snewatcocoonmaldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.cocoonmaldives.com/experiences",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.cocoonmaldives.com/experiences",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.cocoonmaldives.com/experiences",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin cruise",
+    "source_url": "https://www.cocoonmaldives.com/experiences",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.cocoonmaldives.com/winter-bliss-offer",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "kayaking",
+    "source_url": "https://www.cocoonmaldives.com/winter-bliss-offer",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "stand-up paddle",
+    "source_url": "https://www.cocoonmaldives.com/winter-bliss-offer",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "paddleboard",
+    "source_url": "https://www.cocoonmaldives.com/winter-bliss-offer",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.cocoonmaldives.com/fishing",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.cocoonmaldives.com/festive",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.cocoonmaldives.com/excursions",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.cocoonmaldives.com/excursions",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.cocoonmaldives.com/excursions",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin cruise",
+    "source_url": "https://www.cocoonmaldives.com/excursions",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.cocoonmaldives.com/news/manta-restaurant-wins-traveler's-choice-award-by-tripadvisor",
     "as_of": "2026-10-04"
    },
    {
@@ -1001,6 +1025,46 @@
     "as_of": 2025
    },
    {
+    "value": "local island",
+    "source_url": "https://cdnm.heyzine.com/files/uploaded/e4cbbb8c54b0ae734776b93f959202aa3da9dc60.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://cdnm.heyzine.com/files/uploaded/e4cbbb8c54b0ae734776b93f959202aa3da9dc60.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://cdnm.heyzine.com/files/uploaded/e4cbbb8c54b0ae734776b93f959202aa3da9dc60.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "sunset fishing",
+    "source_url": "https://cdnm.heyzine.com/files/uploaded/e4cbbb8c54b0ae734776b93f959202aa3da9dc60.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "manta",
+    "source_url": "https://cdnm.heyzine.com/files/uploaded/e4cbbb8c54b0ae734776b93f959202aa3da9dc60.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://cdnm.heyzine.com/files/uploaded/e4cbbb8c54b0ae734776b93f959202aa3da9dc60.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "picnic",
+    "source_url": "https://cdnm.heyzine.com/files/uploaded/e4cbbb8c54b0ae734776b93f959202aa3da9dc60.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "private dinner",
+    "source_url": "https://cdnm.heyzine.com/files/uploaded/e4cbbb8c54b0ae734776b93f959202aa3da9dc60.pdf",
+    "as_of": 2025
+   },
+   {
     "value": "sandbank",
     "source_url": "https://www.cocoonmaldives.com/",
     "as_of": "2026-10-04"
@@ -1107,6 +1171,101 @@
    },
    {
     "value": "local island",
+    "source_url": "https://www.cocoonmaldives.com/experiences",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.cocoonmaldives.com/experiences",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.cocoonmaldives.com/experiences",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset fishing",
+    "source_url": "https://www.cocoonmaldives.com/experiences",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "night fishing",
+    "source_url": "https://www.cocoonmaldives.com/experiences",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "big game fishing",
+    "source_url": "https://www.cocoonmaldives.com/experiences",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "picnic",
+    "source_url": "https://www.cocoonmaldives.com/experiences",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "cinema",
+    "source_url": "https://www.cocoonmaldives.com/experiences",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "cooking class",
+    "source_url": "https://www.cocoonmaldives.com/experiences",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "cinema",
+    "source_url": "https://www.cocoonmaldives.com/kids-club",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "cooking class",
+    "source_url": "https://www.cocoonmaldives.com/kids-club",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "local island",
+    "source_url": "https://www.cocoonmaldives.com/excursions",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.cocoonmaldives.com/excursions",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.cocoonmaldives.com/excursions",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset fishing",
+    "source_url": "https://www.cocoonmaldives.com/excursions",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "night fishing",
+    "source_url": "https://www.cocoonmaldives.com/excursions",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "big game fishing",
+    "source_url": "https://www.cocoonmaldives.com/excursions",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "picnic",
+    "source_url": "https://www.cocoonmaldives.com/excursions",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.cocoonmaldives.com/news/manta-restaurant-wins-traveler's-choice-award-by-tripadvisor",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "local island",
     "source_url": "https://www.neoscapesmaldives.com/resort/cocoon-maldives/",
     "as_of": "2026-10-04"
    },
@@ -1208,6 +1367,41 @@
     "as_of": 2025
    },
    {
+    "value": "yoga",
+    "source_url": "https://www.finolhu.com/wp-content/uploads/2023/03/finolhu-fehi-spa-pricelist.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://cdnm.heyzine.com/files/uploaded/e4cbbb8c54b0ae734776b93f959202aa3da9dc60.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "meditation",
+    "source_url": "https://cdnm.heyzine.com/files/uploaded/e4cbbb8c54b0ae734776b93f959202aa3da9dc60.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://cdnm.heyzine.com/files/uploaded/e4cbbb8c54b0ae734776b93f959202aa3da9dc60.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "pilates",
+    "source_url": "https://cdnm.heyzine.com/files/uploaded/e4cbbb8c54b0ae734776b93f959202aa3da9dc60.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "sauna",
+    "source_url": "https://cdnm.heyzine.com/files/uploaded/e4cbbb8c54b0ae734776b93f959202aa3da9dc60.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "steam",
+    "source_url": "https://cdnm.heyzine.com/files/uploaded/e4cbbb8c54b0ae734776b93f959202aa3da9dc60.pdf",
+    "as_of": 2025
+   },
+   {
     "value": "fitness center",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/DUSIT-D2-FEYDHOO-MAP-DIGITAL-HIGH-RES-.pdf",
     "as_of": 2025
@@ -1264,6 +1458,46 @@
    },
    {
     "value": "yoga",
+    "source_url": "https://www.cocoonmaldives.com/experiences",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "gym",
+    "source_url": "https://www.cocoonmaldives.com/experiences",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fitness centre",
+    "source_url": "https://www.cocoonmaldives.com/experiences",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://www.cocoonmaldives.com/experiences",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "pilates",
+    "source_url": "https://www.cocoonmaldives.com/experiences",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.cocoonmaldives.com/winter-bliss-offer",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fitness centre",
+    "source_url": "https://www.cocoonmaldives.com/winter-bliss-offer",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.cocoonmaldives.com/festive",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
     "source_url": "https://www.neoscapesmaldives.com/resort/cocoon-maldives/",
     "as_of": "2026-10-04"
    },
@@ -1296,6 +1530,31 @@
     "value": "steam",
     "source_url": "https://www.neoscapesmaldives.com/resort/you-me-by-cocoon-maldives/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://letsgomaldives.com/news/cocoon-maldives-temporarily-closed-for-renovation-august-15-september-30-2024/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "gym",
+    "source_url": "https://letsgomaldives.com/news/cocoon-maldives-temporarily-closed-for-renovation-august-15-september-30-2024/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "gym",
+    "source_url": "https://letsgomaldives.com/news/cocoon-maldives-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sauna",
+    "source_url": "https://letsgomaldives.com/news/cocoon-maldives-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "steam",
+    "source_url": "https://letsgomaldives.com/news/cocoon-maldives-resort/",
+    "as_of": "2026-10-04"
    }
   ],
   "weddings.offered": [
@@ -1303,6 +1562,11 @@
     "value": true,
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Cocoon-Maldives-_-Fact-Sheet.pdf",
     "as_of": 2025
+   },
+   {
+    "value": true,
+    "source_url": "https://www.finolhu.com/wp-content/uploads/2023/03/finolhu-fehi-spa-pricelist.pdf",
+    "as_of": 2023
    },
    {
     "value": true,
@@ -1317,6 +1581,16 @@
    {
     "value": true,
     "source_url": "https://www.cocoonmaldives.com/wedding",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.cocoonmaldives.com/experiences",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.cocoonmaldives.com/honeymoon-getaway",
     "as_of": "2026-10-04"
    },
    {
@@ -1364,6 +1638,23 @@
     "as_of": "2026-10-04"
    }
   ],
+  "kids_family.teens": [
+   {
+    "value": "teens programme mentioned",
+    "source_url": "https://www.finolhu.com/wp-content/uploads/2023/03/finolhu-fehi-spa-pricelist.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": "teens programme mentioned",
+    "source_url": "https://cdnm.heyzine.com/files/uploaded/e4cbbb8c54b0ae734776b93f959202aa3da9dc60.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "teens programme mentioned",
+    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/DUSIT-D2-FEYDHOO-MAP-DIGITAL-HIGH-RES-.pdf",
+    "as_of": 2025
+   }
+  ],
   "kids_family.kids_club": [
    {
     "value": "Kids Club",
@@ -1371,16 +1662,19 @@
     "as_of": 2025
    },
    {
+    "value": "Kids Village\nKids Club",
+    "source_url": "https://www.cocoonmaldives.com/experiences",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Kids Club\nKids Club",
+    "source_url": "https://www.cocoonmaldives.com/kids-club",
+    "as_of": "2026-10-04"
+   },
+   {
     "value": "Kids Club",
     "source_url": "https://www.neoscapesmaldives.com/resort/cocoon-maldives/",
     "as_of": "2026-10-04"
-   }
-  ],
-  "kids_family.teens": [
-   {
-    "value": "teens programme mentioned",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/DUSIT-D2-FEYDHOO-MAP-DIGITAL-HIGH-RES-.pdf",
-    "as_of": 2025
    }
   ],
   "transfer.minutes.speedboat": [
@@ -1456,6 +1750,11 @@
     "value": "house reef once during your stay (snorkeling equipment provided)",
     "source_url": "https://www.cocoonmaldives.com/august-escape-offer",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "House Reef Snorkeling",
+    "source_url": "https://www.cocoonmaldives.com/winter-bliss-offer",
+    "as_of": "2026-10-04"
    }
   ],
   "all_inclusive_details": [
@@ -1482,21 +1781,19 @@
     "value": 150,
     "source_url": "https://www.cocoonmaldives.com/news/cocoon-maldives-appoints-ahmed-jihad-jay-as-new-general-manager",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": 150,
+    "source_url": "https://www.cocoonmaldives.com/lago-design",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 150,
+    "source_url": "https://letsgomaldives.com/news/cocoon-maldives-resort/",
+    "as_of": "2026-10-04"
    }
   ],
   "villas.categories": [
-   {
-    "value": {
-     "name": "Number of Villas",
-     "count": 150,
-     "size_sqm": null,
-     "max_occupancy": null,
-     "pool": null,
-     "overwater": null
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/cocoon-maldives/",
-    "as_of": "2026-10-04"
-   },
    {
     "value": {
      "name": "beach suite",
@@ -1566,5 +1863,5 @@
    }
   ]
  },
- "last_updated": "2026-10-04"
+ "last_updated": "2026-10-05"
 }

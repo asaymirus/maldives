@@ -15,7 +15,8 @@
  "star_rating": null,
  "transfer": {
   "modes": [
-   "speedboat"
+   "speedboat",
+   "yacht"
   ],
   "minutes": {
    "seaplane": null,
@@ -29,78 +30,310 @@
   "total": 120,
   "categories": [
    {
-    "name": "Number of Villas",
-    "count": 120,
+    "name": "contemporarily decorated water villas perched on the",
+    "count": 27,
     "size_sqm": null,
     "max_occupancy": null,
     "pool": null,
     "overwater": null
    },
    {
-    "name": "beach pool villa",
-    "count": 12,
+    "name": "elegantly poised beach villas lines up our pristine shores",
+    "count": 18,
     "size_sqm": null,
     "max_occupancy": null,
-    "pool": true,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "Anantara Kihavah Villas Baa Kihavah Huravalhi -Jul",
+    "count": 41,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "Embudhu Village Kaafu Embudhu -Sep",
+    "count": 69,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "Drift Thelu Veliga Retreat Theluveliga -Sep",
+    "count": 77,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "The Residence Maldives Falhumaafushi -Nov",
+    "count": 119,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "Club Med Finolhu Villas Kaafu Gasfinolhu -Dec",
+    "count": 139,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "Equator Village Seenu Gan -Sep",
+    "count": 3,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "Azuvia Beach Retreat Hulhumale' Kaafu Hulhumale' -Dec",
+    "count": 4,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "Vista Beach Retreat Kaafu Hulhumale' -Dec",
+    "count": 8,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "Casa Retreat Kaafu Hulhumale' -Dec",
+    "count": 13,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "Sunny Suites Inn Kaafu Hulhumale' -Dec",
+    "count": 18,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "Hulhu Villa Beach Kaafu Hulhumale' -Dec",
+    "count": 21,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "Awesome Suite Kaafu Hulhumale' -Jan",
+    "count": 34,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "Sala Boutique Residence Kaafu Male' -Jan",
+    "count": 36,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "Contento Retreat Kaafu Hulhumale' -Mar",
+    "count": 47,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "Turquoise Residence Kaafu Hulhumale' -Mar",
+    "count": 48,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "Manaam Residence Haa Alifu Hoarafushi -Sep",
+    "count": 2,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "Holiday Home Kelaa Retreat Haa Alifu Kelaa -Dec",
+    "count": 3,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "Vilu Veli Holiday Retreat Haa Dhaalu Hanimaadhoo -Jan",
+    "count": 14,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "Himeyn Beach Retreat Haa Dhaalu Hanimaadhoo -Aug",
+    "count": 17,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "Cerulean View Residence Haa Dhaalu Hanimaadhoo -Nov",
+    "count": 18,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "Cliff Retreat Shaviyani Komandoo -Aug",
+    "count": 26,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "Sabba Beach Suite Noonu Fodhdhoo -Oct",
+    "count": 27,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "Ocean Village Maldives Noonu Holhudhoo -Aug",
+    "count": 28,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": true
+   },
+   {
+    "name": "Palm Villa Noonu Velidhoo -Apr",
+    "count": 30,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "Pandanus Villa Noonu Velidhoo -Aug",
+    "count": 32,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "Manta Retreat Baa Dharavandhoo -Feb",
+    "count": 38,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "Aveyla Manta Village Baa Dharavandhoo -Apr",
+    "count": 39,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "Tropical Village Baa Fehendhoo -Dec",
+    "count": 46,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
     "overwater": null
    }
   ]
  },
  "dining": [
   {
-   "name": "Dining",
-   "cuisine": null,
-   "type": "restaurant"
-  },
-  {
    "name": "Breeze Poolside Dining & Bar",
    "cuisine": null,
    "type": "bar"
   },
   {
-   "name": "Private Dining",
+   "name": "Ristoranti e Bar",
    "cuisine": null,
-   "type": "restaurant"
+   "type": "bar"
   }
  ],
- "meal_plans": [],
+ "meal_plans": [
+  "Dine Around",
+  "BB"
+ ],
  "all_inclusive_details": null,
  "spa": {
   "name": "Spa",
   "treatment_rooms": null,
   "signature_treatments": [],
-  "menu_doc": null
+  "menu_doc": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf"
  },
  "diving_watersports": {
-  "operator": null,
-  "house_reef": null,
+  "operator": "Fun Azul",
+  "house_reef": "house reef to observe the Dolphins",
   "activities": [
+   "windsurfing",
+   "kitesurfing",
+   "kayaking",
+   "jet ski",
+   "fishing",
+   "surfing",
+   "manta",
+   "sailing",
    "snorkeling",
    "snorkelling",
    "scuba diving",
-   "surfing",
-   "kayaking",
-   "jet ski",
    "parasailing",
-   "fishing",
-   "dolphin cruise"
+   "dolphin cruise",
+   "catamaran"
   ],
   "price_list_doc": null
  },
  "excursions": [
-  "island hopping",
   "sandbank",
   "dolphin",
-  "cinema"
+  "cinema",
+  "local island",
+  "manta",
+  "turtle",
+  "island hopping"
  ],
  "kids_family": {
   "kids_club": "Kids Club",
-  "age_range": null,
+  "age_range": "3-12 years",
   "teens": null
  },
  "wellness_fitness": [
   "yoga",
   "gym",
+  "fitness center",
+  "sauna",
   "meditation",
   "fitness centre"
  ],
@@ -126,153 +359,1426 @@
   "phone": "+960 736 5425"
  },
  "documents_latest": {
-  "factsheet": "https://www.neoscapesmaldives.com/wp-content/uploads/GPKD-Resort-Factsheet-2022.pdf",
+  "factsheet": "https://maldives.ru/doc/GrandPark-Kodiparru-Resort-Factsheet-2023.pdf",
   "map": "https://www.neoscapesmaldives.com/wp-content/uploads/Grand-Park-Kodhipparu-Maldives-Resort-Map.pdf",
   "wedding": null,
-  "spa_menu": null,
+  "spa_menu": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
   "dining_menu": null,
   "dive_prices": null,
   "events": null,
-  "calendar": null
+  "calendar": "https://letsgomaldives.com/wp-content/uploads/2026/08/Grand-Park-Kodhipparu.pdf"
  },
- "documents_count": 2,
+ "documents_count": 14,
  "gaps": [
   "wedding brochure",
-  "events/MICE document",
-  "fact: dive operator"
+  "events/MICE document"
  ],
  "sources": {
-  "diving_watersports.activities": [
-   {
-    "value": "snorkeling",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Grand-Park-Kodhipparu-Maldives-Resort-Map.pdf",
-    "as_of": 2022
-   },
-   {
-    "value": "snorkelling",
-    "source_url": "https://www.neoscapesmaldives.com/resort/grand-park-kodhipparu-resort/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": "scuba diving",
-    "source_url": "https://www.neoscapesmaldives.com/resort/grand-park-kodhipparu-resort/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": "surfing",
-    "source_url": "https://www.neoscapesmaldives.com/resort/grand-park-kodhipparu-resort/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": "kayaking",
-    "source_url": "https://www.neoscapesmaldives.com/resort/grand-park-kodhipparu-resort/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": "jet ski",
-    "source_url": "https://www.neoscapesmaldives.com/resort/grand-park-kodhipparu-resort/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": "parasailing",
-    "source_url": "https://www.neoscapesmaldives.com/resort/grand-park-kodhipparu-resort/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": "fishing",
-    "source_url": "https://www.neoscapesmaldives.com/resort/grand-park-kodhipparu-resort/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": "dolphin cruise",
-    "source_url": "https://www.neoscapesmaldives.com/resort/grand-park-kodhipparu-resort/",
-    "as_of": "2026-10-04"
-   }
-  ],
-  "wellness_fitness": [
-   {
-    "value": "yoga",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Grand-Park-Kodhipparu-Maldives-Resort-Map.pdf",
-    "as_of": 2022
-   },
-   {
-    "value": "gym",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Grand-Park-Kodhipparu-Maldives-Resort-Map.pdf",
-    "as_of": 2022
-   },
-   {
-    "value": "yoga",
-    "source_url": "https://www.neoscapesmaldives.com/resort/grand-park-kodhipparu-resort/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": "meditation",
-    "source_url": "https://www.neoscapesmaldives.com/resort/grand-park-kodhipparu-resort/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": "gym",
-    "source_url": "https://www.neoscapesmaldives.com/resort/grand-park-kodhipparu-resort/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": "fitness centre",
-    "source_url": "https://www.neoscapesmaldives.com/resort/grand-park-kodhipparu-resort/",
-    "as_of": "2026-10-04"
-   }
-  ],
   "atoll": [
    {
     "value": "North Male Atoll",
+    "source_url": "https://maldives.ru/doc/GrandPark-Kodiparru-Resort-Factsheet-2023.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": "Baa Atoll",
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": "North Male Atoll",
     "source_url": "https://www.neoscapesmaldives.com/resort/grand-park-kodhipparu-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "North Male Atoll",
+    "source_url": "https://www.maldivesholidayoffers.com/accomodation/resorts/grand-park-kodhipparu/",
     "as_of": "2026-10-04"
    }
   ],
   "transfer.modes": [
    {
     "value": "speedboat",
-    "source_url": "https://www.neoscapesmaldives.com/resort/grand-park-kodhipparu-resort/",
-    "as_of": "2026-10-04"
-   }
-  ],
-  "transfer.minutes.speedboat": [
+    "source_url": "https://maldives.ru/doc/GrandPark-Kodiparru-Resort-Factsheet-2023.pdf",
+    "as_of": 2023
+   },
    {
-    "value": 20,
-    "source_url": "https://www.neoscapesmaldives.com/resort/grand-park-kodhipparu-resort/",
-    "as_of": "2026-10-04"
-   }
-  ],
-  "island_size": [
+    "value": "yacht",
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
    {
-    "value": "260 m x 130 m",
-    "source_url": "https://www.neoscapesmaldives.com/resort/grand-park-kodhipparu-resort/",
-    "as_of": "2026-10-04"
-   }
-  ],
-  "villas.total": [
-   {
-    "value": 120,
+    "value": "speedboat",
     "source_url": "https://www.neoscapesmaldives.com/resort/grand-park-kodhipparu-resort/",
     "as_of": "2026-10-04"
    },
    {
-    "value": 120,
-    "source_url": "https://www.neoscapesmaldives.com/resort/grand-park-kodhipparu-resort/",
+    "value": "speedboat",
+    "source_url": "https://letsgomaldives.com/news/festive-family-offer-grand-park-kodhipparu-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.maldivesholidayoffers.com/accomodation/resorts/grand-park-kodhipparu/",
     "as_of": "2026-10-04"
    }
   ],
   "villas.categories": [
    {
     "value": {
-     "name": "Number of Villas",
+     "name": "contemporarily decorated water villas perched on the",
+     "count": 27,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://maldives.ru/doc/GrandPark-Kodiparru-Resort-Factsheet-2023.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": {
+     "name": "elegantly poised beach villas lines up our pristine shores",
+     "count": 18,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://maldives.ru/doc/GrandPark-Kodiparru-Resort-Factsheet-2023.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": {
+     "name": "Anantara Kihavah Villas Baa Kihavah Huravalhi -Jul",
+     "count": 41,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Embudhu Village Kaafu Embudhu -Sep",
+     "count": 69,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Drift Thelu Veliga Retreat Theluveliga -Sep",
+     "count": 77,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "The Residence Maldives Falhumaafushi -Nov",
+     "count": 119,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Club Med Finolhu Villas Kaafu Gasfinolhu -Dec",
+     "count": 139,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Equator Village Seenu Gan -Sep",
+     "count": 3,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Azuvia Beach Retreat Hulhumale' Kaafu Hulhumale' -Dec",
+     "count": 4,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Vista Beach Retreat Kaafu Hulhumale' -Dec",
+     "count": 8,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Casa Retreat Kaafu Hulhumale' -Dec",
+     "count": 13,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Sunny Suites Inn Kaafu Hulhumale' -Dec",
+     "count": 18,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Hulhu Villa Beach Kaafu Hulhumale' -Dec",
+     "count": 21,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Awesome Suite Kaafu Hulhumale' -Jan",
+     "count": 34,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Sala Boutique Residence Kaafu Male' -Jan",
+     "count": 36,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Contento Retreat Kaafu Hulhumale' -Mar",
+     "count": 47,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Turquoise Residence Kaafu Hulhumale' -Mar",
+     "count": 48,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Manaam Residence Haa Alifu Hoarafushi -Sep",
+     "count": 2,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Holiday Home Kelaa Retreat Haa Alifu Kelaa -Dec",
+     "count": 3,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Vilu Veli Holiday Retreat Haa Dhaalu Hanimaadhoo -Jan",
+     "count": 14,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Himeyn Beach Retreat Haa Dhaalu Hanimaadhoo -Aug",
+     "count": 17,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Cerulean View Residence Haa Dhaalu Hanimaadhoo -Nov",
+     "count": 18,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Cliff Retreat Shaviyani Komandoo -Aug",
+     "count": 26,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Sabba Beach Suite Noonu Fodhdhoo -Oct",
+     "count": 27,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Ocean Village Maldives Noonu Holhudhoo -Aug",
+     "count": 28,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": true
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Palm Villa Noonu Velidhoo -Apr",
+     "count": 30,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Pandanus Villa Noonu Velidhoo -Aug",
+     "count": 32,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Manta Retreat Baa Dharavandhoo -Feb",
+     "count": 38,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Aveyla Manta Village Baa Dharavandhoo -Apr",
+     "count": 39,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Tropical Village Baa Fehendhoo -Dec",
+     "count": 46,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Coastline Residences Baa Finolhas -Nov",
+     "count": 48,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Palms Retreat Baa Fulhadhoo -Mar",
+     "count": 51,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Villa Kamadhoo Baa Kamadhoo -Nov",
+     "count": 60,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Sand Inn Residence Baa Kamadhoo -Dec",
+     "count": 62,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Moonshell Residence Baa Maalhos -Jan",
+     "count": 73,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Dhonkamana Beach Villa Baa Thulhaadhoo -Dec",
+     "count": 74,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Crown Beach Villas Kaafu Dhiffushi -Jan",
+     "count": 89,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Nirili Villa Kaafu Dhiffushi -Jan",
+     "count": 91,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Sea Side Villa Kaafu Dhiffushi -Apr",
+     "count": 94,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Kaani Villa Kaafu Dhiffushi -Jun",
+     "count": 96,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Dhiffushi Island Villa Kaafu Dhiffushi -Aug",
+     "count": 98,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Ocean Villa Kaafu Dhiffushi -Sep",
+     "count": 101,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": true
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Pearlshine Retreat Maldives Kaafu Gulhi -Dec",
+     "count": 113,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Beach Walk Villa Kaafu Gulhi -Jan",
      "count": 120,
      "size_sqm": null,
      "max_occupancy": null,
      "pool": null,
      "overwater": null
     },
-    "source_url": "https://www.neoscapesmaldives.com/resort/grand-park-kodhipparu-resort/",
-    "as_of": "2026-10-04"
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Iris Beach Residence Kaafu Guraidhoo -Nov",
+     "count": 128,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Rosy Villa Kaafu Guraidhoo -Dec",
+     "count": 131,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Natural Surf Villa Kaafu Himmafushi -Feb",
+     "count": 150,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Surf Yoga Retreat Kaafu Himmafushi -Aug",
+     "count": 155,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Sunshine Villa Kaafu Huraa -Feb",
+     "count": 170,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Summer Villa Guest House Kaafu Maafushi -Nov",
+     "count": 184,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Kurumba Villa Kaafu Maafushi -Dec",
+     "count": 191,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Crystal Sands Villa Kaafu Maafushi -Dec",
+     "count": 198,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Nala Island Village Kaafu Maafushi -Dec",
+     "count": 199,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Kaani Village Kaafu Maafushi -Feb",
+     "count": 201,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Handhuvaru Villa Kaafu Maafushi -Apr",
+     "count": 206,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Paradise Retreat Kaafu Maafushi -Jul",
+     "count": 210,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Holiday Village Retreat Alifu Alifu Bodufolhudhoo -Jan",
+     "count": 253,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Surf Retreat Alifu Alifu Bodufolhudhoo -Mar",
+     "count": 255,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Villa Rosa Alifu Alifu Feridhoo -Dec",
+     "count": 258,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "The Cast Away Retreat Alifu Alifu Feridhoo -Jan",
+     "count": 259,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Marina Bay Villa Himandhoo Alifu Alifu Himandhoo -Sep",
+     "count": 268,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Ari Villa Seaview Alifu Alifu Mathiveri -Oct",
+     "count": 273,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Palm Residence Alifu Alifu Rasdhoo -Dec",
+     "count": 288,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Rasvillage Alifu Alifu Rasdhoo -Aug",
+     "count": 295,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Lagoon Villa Thoddoo Alifu Alifu Thoddoo -Oct",
+     "count": 314,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": true
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Rela Residence Alifu Alifu Thoddoo -Nov",
+     "count": 316,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Coco Villa Alifu Alifu Thoddoo -Nov",
+     "count": 317,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Thoddoo Dive Villa Alifu Alifu Thoddoo -Nov",
+     "count": 320,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Karaa Village Alifu Alifu Thoddoo -Dec",
+     "count": 325,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Lunara Residence Alifu Alifu Thoddoo -Dec",
+     "count": 330,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Thoddoo Retreat Grand Alifu Alifu Thoddoo -Mar",
+     "count": 336,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Heavenly Residence Alifu Alifu Thoddoo -Feb",
+     "count": 350,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Ukulhas Villa Alifu Alifu Ukulhas -Oct",
+     "count": 354,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Nala Veli Villa Alifu Alifu Ukulhas -Nov",
+     "count": 356,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Trip Villa Alifu Alifu Ukulhas -Nov",
+     "count": 359,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Ukulhas Beach Villa Alifu Alifu Ukulhas -Dec",
+     "count": 364,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Salt Villa Ukulhas Alifu Alifu Ukulhas -Jan",
+     "count": 365,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Sea View Villa Alifu Alifu Ukulhas -Jan",
+     "count": 366,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Coral Villa Ukulhas Alifu Alifu Ukulhas -Jan",
+     "count": 368,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "La Palma Villa Alifu Alifu Ukulhas -Jan",
+     "count": 369,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Shaviyani Retreat Alifu Alifu Ukulhas -Jan",
+     "count": 370,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Paguro Villa Alifu Alifu Ukulhas -Mar",
+     "count": 373,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "New Moon Village Alifu Alifu Ukulhas -Aug",
+     "count": 375,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Banyan Villa Alifu Dhaalu Dhangethi -Dec",
+     "count": 379,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Dhangethi Retreat Alifu Dhaalu Dhangethi -Dec",
+     "count": 387,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "TME Retreats , Dhigurah Alifu Dhaalu Dhigurah -Dec",
+     "count": 399,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Atollkey Beachvilla Alifu Dhaalu Dhigurah -Mar",
+     "count": 402,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Vevu Villa Fenfushi Alifu Dhaalu Fenfushi -Jan",
+     "count": 407,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Noovilu Suites Alifu Dhaalu Mahibadhoo -Feb",
+     "count": 430,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Karanka Villas Alifu Dhaalu Mahibadhoo -Aug",
+     "count": 431,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Wow Retreat Vaavu Felidhoo -Mar",
+     "count": 452,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Kinan Retreat Vaavu Fulidhoo -Oct",
+     "count": 456,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Culture Villa Vaavu Thinadhoo -Apr",
+     "count": 480,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Venus Villa Vaavu Keyodhoo -Nov",
+     "count": 483,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Kandoofa Village Meemu Mulah -Feb",
+     "count": 499,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Mathige Retreat Faafu Magoodhoo -Aug",
+     "count": 502,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Villa Stella Dhaalu Rinbudhoo -Dec",
+     "count": 513,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Villa Buruni Maldives Thaa Buruni -Feb",
+     "count": 514,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Bambukeyo Villa Thaa Gaadhiffushi -Aug",
+     "count": 515,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Finimas Residence Thaa Thimarafushi -Dec",
+     "count": 516,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Reveries Diving Village Laamu Gan -Dec",
+     "count": 519,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Nazaki Residences Laamu Gan -Dec",
+     "count": 520,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Village Life Gaafu Alifu Maamendhoo -Aug",
+     "count": 525,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Vaaruge Residence Gaafu Dhaalu Hoadedhdhoo -Aug",
+     "count": 530,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Ala Fehi Retreat Gnaviyani Fuvahmulah -Dec",
+     "count": 540,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Zero Degree Residence Gnaviyani Fuvahmulah -Dec",
+     "count": 541,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Tiger Shark Residence Gnaviyani Fuvahmulah -Feb",
+     "count": 544,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Millenium Island Residence Gnaviyani Fuvahmulah -Mar",
+     "count": 546,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Veyli Residence Gnaviyani Fuvahmulah -Mar",
+     "count": 548,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Scuba Residence Gnaviyani Fuvahmulah -Mar",
+     "count": 549,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Suffi Retreat Gnaviyani Fuvahmulah -Jan",
+     "count": 552,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Vista Villa Seenu Hithadhoo -Sep",
+     "count": 560,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": {
+     "name": "Turquoise Residence Kaafu Hulhumale' -Jul",
+     "count": 7,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
    },
    {
     "value": {
@@ -359,61 +1865,175 @@
     "as_of": "2026-10-04"
    }
   ],
-  "dining": [
+  "meal_plans": [
    {
-    "value": {
-     "name": "Dining",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/grand-park-kodhipparu-resort/",
-    "as_of": "2026-10-04"
+    "value": "Dine Around",
+    "source_url": "https://maldives.ru/doc/GrandPark-Kodiparru-Resort-Factsheet-2023.pdf",
+    "as_of": 2023
    },
    {
-    "value": {
-     "name": "Dining",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/grand-park-kodhipparu-resort/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Breeze Poolside Dining & Bar",
-     "cuisine": null,
-     "type": "bar"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/grand-park-kodhipparu-resort/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Private Dining",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/grand-park-kodhipparu-resort/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Private Dining",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/grand-park-kodhipparu-resort/",
+    "value": "BB",
+    "source_url": "https://mondomaldive.it/it/villaggio/grand-park-kodhipparu",
     "as_of": "2026-10-04"
    }
   ],
   "spa.name": [
    {
     "value": "Spa",
+    "source_url": "https://maldives.ru/doc/GrandPark-Kodiparru-Resort-Factsheet-2023.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": "Spa",
     "source_url": "https://www.neoscapesmaldives.com/resort/grand-park-kodhipparu-resort/",
     "as_of": "2026-10-04"
    }
   ],
+  "diving_watersports.house_reef": [
+   {
+    "value": "house reef to observe the Dolphins",
+    "source_url": "https://maldives.ru/doc/GrandPark-Kodiparru-Resort-Factsheet-2023.pdf",
+    "as_of": 2023
+   }
+  ],
+  "diving_watersports.activities": [
+   {
+    "value": "windsurfing",
+    "source_url": "https://maldives.ru/doc/GrandPark-Kodiparru-Resort-Factsheet-2023.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": "kitesurfing",
+    "source_url": "https://maldives.ru/doc/GrandPark-Kodiparru-Resort-Factsheet-2023.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": "kayaking",
+    "source_url": "https://maldives.ru/doc/GrandPark-Kodiparru-Resort-Factsheet-2023.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": "jet ski",
+    "source_url": "https://maldives.ru/doc/GrandPark-Kodiparru-Resort-Factsheet-2023.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://maldives.ru/doc/GrandPark-Kodiparru-Resort-Factsheet-2023.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": "surfing",
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": "manta",
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": "sailing",
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Grand-Park-Kodhipparu-Maldives-Resort-Map.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.neoscapesmaldives.com/resort/grand-park-kodhipparu-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://www.neoscapesmaldives.com/resort/grand-park-kodhipparu-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "surfing",
+    "source_url": "https://www.neoscapesmaldives.com/resort/grand-park-kodhipparu-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "kayaking",
+    "source_url": "https://www.neoscapesmaldives.com/resort/grand-park-kodhipparu-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "jet ski",
+    "source_url": "https://www.neoscapesmaldives.com/resort/grand-park-kodhipparu-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "parasailing",
+    "source_url": "https://www.neoscapesmaldives.com/resort/grand-park-kodhipparu-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.neoscapesmaldives.com/resort/grand-park-kodhipparu-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin cruise",
+    "source_url": "https://www.neoscapesmaldives.com/resort/grand-park-kodhipparu-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "surfing",
+    "source_url": "https://mondomaldive.it/it/villaggio/grand-park-kodhipparu",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "catamaran",
+    "source_url": "https://mondomaldive.it/it/villaggio/grand-park-kodhipparu",
+    "as_of": "2026-10-04"
+   }
+  ],
   "excursions": [
+   {
+    "value": "sandbank",
+    "source_url": "https://maldives.ru/doc/GrandPark-Kodiparru-Resort-Factsheet-2023.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://maldives.ru/doc/GrandPark-Kodiparru-Resort-Factsheet-2023.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": "cinema",
+    "source_url": "https://maldives.ru/doc/GrandPark-Kodiparru-Resort-Factsheet-2023.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": "local island",
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": "manta",
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
    {
     "value": "island hopping",
     "source_url": "https://www.neoscapesmaldives.com/resort/grand-park-kodhipparu-resort/",
@@ -435,10 +2055,183 @@
     "as_of": "2026-10-04"
    }
   ],
+  "kids_family.age_range": [
+   {
+    "value": "3-12 years",
+    "source_url": "https://maldives.ru/doc/GrandPark-Kodiparru-Resort-Factsheet-2023.pdf",
+    "as_of": 2023
+   }
+  ],
+  "wellness_fitness": [
+   {
+    "value": "yoga",
+    "source_url": "https://maldives.ru/doc/GrandPark-Kodiparru-Resort-Factsheet-2023.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": "gym",
+    "source_url": "https://maldives.ru/doc/GrandPark-Kodiparru-Resort-Factsheet-2023.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": "fitness center",
+    "source_url": "https://maldives.ru/doc/GrandPark-Kodiparru-Resort-Factsheet-2023.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": "sauna",
+    "source_url": "https://maldives.ru/doc/GrandPark-Kodiparru-Resort-Factsheet-2023.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Grand-Park-Kodhipparu-Maldives-Resort-Map.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": "gym",
+    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Grand-Park-Kodhipparu-Maldives-Resort-Map.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.neoscapesmaldives.com/resort/grand-park-kodhipparu-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "meditation",
+    "source_url": "https://www.neoscapesmaldives.com/resort/grand-park-kodhipparu-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "gym",
+    "source_url": "https://www.neoscapesmaldives.com/resort/grand-park-kodhipparu-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fitness centre",
+    "source_url": "https://www.neoscapesmaldives.com/resort/grand-park-kodhipparu-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://mondomaldive.it/it/villaggio/grand-park-kodhipparu",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "sustainability": [
+   {
+    "value": "solar",
+    "source_url": "https://maldives.ru/doc/GrandPark-Kodiparru-Resort-Factsheet-2023.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": "solar",
+    "source_url": "https://www.neoscapesmaldives.com/resort/grand-park-kodhipparu-resort/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "contacts_public.phone": [
+   {
+    "value": "+960 665-1111",
+    "source_url": "https://maldives.ru/doc/GrandPark-Kodiparru-Resort-Factsheet-2023.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": "+960 736 5425",
+    "source_url": "https://www.neoscapesmaldives.com/resort/grand-park-kodhipparu-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 7773 699",
+    "source_url": "https://www.maldivesholidayoffers.com/accomodation/resorts/grand-park-kodhipparu/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "diving_watersports.operator": [
+   {
+    "value": "Fun Azul",
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   }
+  ],
+  "contacts_public.reservations_email": [
+   {
+    "value": "info@tourism.gov.mv",
+    "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": "info@neoscapesmaldives.com",
+    "source_url": "https://www.neoscapesmaldives.com/resort/grand-park-kodhipparu-resort/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "transfer.minutes.speedboat": [
+   {
+    "value": 20,
+    "source_url": "https://www.neoscapesmaldives.com/resort/grand-park-kodhipparu-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 20,
+    "source_url": "https://www.maldivesholidayoffers.com/accomodation/resorts/grand-park-kodhipparu/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "island_size": [
+   {
+    "value": "260 m x 130 m",
+    "source_url": "https://www.neoscapesmaldives.com/resort/grand-park-kodhipparu-resort/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "villas.total": [
+   {
+    "value": 120,
+    "source_url": "https://www.neoscapesmaldives.com/resort/grand-park-kodhipparu-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 120,
+    "source_url": "https://www.neoscapesmaldives.com/resort/grand-park-kodhipparu-resort/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "dining": [
+   {
+    "value": {
+     "name": "Breeze Poolside Dining & Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.neoscapesmaldives.com/resort/grand-park-kodhipparu-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Ristoranti e Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://mondomaldive.it/it/villaggio/grand-park-kodhipparu",
+    "as_of": "2026-10-04"
+   }
+  ],
   "kids_family.kids_club": [
    {
     "value": "Kids Club",
     "source_url": "https://www.neoscapesmaldives.com/resort/grand-park-kodhipparu-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Kids Club",
+    "source_url": "https://letsgomaldives.com/news/festive-family-offer-grand-park-kodhipparu-maldives/",
     "as_of": "2026-10-04"
    }
   ],
@@ -448,28 +2241,7 @@
     "source_url": "https://www.neoscapesmaldives.com/resort/grand-park-kodhipparu-resort/",
     "as_of": "2026-10-04"
    }
-  ],
-  "sustainability": [
-   {
-    "value": "solar",
-    "source_url": "https://www.neoscapesmaldives.com/resort/grand-park-kodhipparu-resort/",
-    "as_of": "2026-10-04"
-   }
-  ],
-  "contacts_public.reservations_email": [
-   {
-    "value": "info@neoscapesmaldives.com",
-    "source_url": "https://www.neoscapesmaldives.com/resort/grand-park-kodhipparu-resort/",
-    "as_of": "2026-10-04"
-   }
-  ],
-  "contacts_public.phone": [
-   {
-    "value": "+960 736 5425",
-    "source_url": "https://www.neoscapesmaldives.com/resort/grand-park-kodhipparu-resort/",
-    "as_of": "2026-10-04"
-   }
   ]
  },
- "last_updated": "2026-10-04"
+ "last_updated": "2026-10-05"
 }

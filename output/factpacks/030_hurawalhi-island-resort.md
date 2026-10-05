@@ -2,39 +2,41 @@
 
 **Official site:** https://www.hurawalhi.com/ (ok)  
 **Brand:** Hurawalhi  
-**Atoll:** Lhaviyani Atoll  **Island:** n/a  
-**Opened/renovated:** n/a  **Rating:** 5-star  
-**Transfer:** seaplane, speedboat, domestic flight, yacht; minutes: {"seaplane": 40, "domestic flight": 35}  
+**Atoll:** Lhaviyani Atoll  **Island:** Meerufenfushi  
+**Opened/renovated:** opened 2000  **Rating:** 5-star  
+**Transfer:** seaplane, speedboat, domestic flight, yacht; minutes: {"seaplane": 40, "speedboat": 55, "domestic flight": 35}  
 **Island size:** 6.5 ha  
 
-## Villas (90 total)
+## Villas (15 total)
 
-- OCEAN POOL VILLAS suspended over: count ?, 132 sqm, max ?, pool, overwater
-- ROMANTIC OCEAN VILLAS this chic: count ?, 105 sqm, max ?, overwater
-- OCEAN VILLAS ocean wonder and: count ?, 105 sqm, max ?, overwater
-- BEACH SUNSET POOL VILLAS these: count ?, 132 sqm, max ?, pool
-- BEACH POOL VILLAS these sanctuaries: count ?, 132 sqm, max ?, pool
-- Number of Villas: count 90, ? sqm, max ?
+- OCEAN POOL VILLAS: count ?, 132 sqm, max ?, pool, overwater
+- ROMANTIC OCEAN VILLAS: count ?, 105 sqm, max ?, overwater
+- OCEAN VILLAS: count ?, 105 sqm, max ?, overwater
+- BEACH SUNSET POOL VILLAS: count ?, 132 sqm, max ?, pool
+- BEACH POOL VILLAS: count ?, 132 sqm, max ?, pool
+- Residences Powered: count 15, ? sqm, max ?
+- Villas: count 90, ? sqm, max ?
 
 ## Dining
 
-- Dining (restaurant)
+- Kitchen (restaurant)
 - Underwater Restaurant (restaurant)
 
-Meal plans: AI
+Meal plans: AI, Dine Around
+All-inclusive: all-inclusive plan is available in Hurawalhi.
 
 ## Spa & wellness
 
 - Spa: Spa; treatment rooms: ?; menu: none
-- Wellness/fitness: yoga, meditation, fitness centre, fitness center, tennis, badminton, personal trainer, gym
+- Wellness/fitness: yoga, meditation, fitness centre, fitness center, tennis, badminton, personal trainer, gym, padel
 
 ## Diving, water sports & excursions
 
-- Operator: Prodivers
-- House reef: HOUSE REEF DIVING –
-- Activities: snorkelling, snorkeling, windsurfing, catamaran, jet ski, parasailing, water skiing, wakeboarding, fishing, dolphin cruise, manta, sailing, scuba diving, kitesurfing, canoe
+- Operator: Euro Divers
+- House reef: house reef and Maldivian hospitality
+- Activities: snorkelling, snorkeling, windsurfing, catamaran, jet ski, parasailing, water skiing, wakeboarding, fishing, dolphin cruise, manta, sailing, scuba diving, kitesurfing, whale shark, kayaking, sunset cruise, canoe
 - Price list: none
-- Excursions: sandbank, dolphin, manta, turtle, big game fishing
+- Excursions: sandbank, dolphin, manta, turtle, big game fishing, whale shark
 
 ## Kids & family
 
@@ -49,16 +51,16 @@ Meal plans: AI
 
 ## Events / MICE
 
-- Venues: n/a; capacity max: n/a; buyout: None
+- Venues: n/a; capacity max: n/a; buyout: True
 - Document: none
 
 ## Sustainability
 
-- marine biologist, manta trust
+- marine biologist, manta trust, coral restoration, solar, desalination, Travelife
 
 ## Public contacts
 
-- Reservations: info@neoscapesmaldives.com; weddings: n/a; phone: +960 736 5425
+- Reservations: reservations@kagimaldives.com; weddings: n/a; phone: +960 664 3157
 
 ## Latest documents
 
@@ -69,10 +71,10 @@ Meal plans: AI
 - dining_menu: none
 - dive_prices: none
 - events: none
-- calendar: none
+- calendar: https://d2qwq69i2ic1pk.cloudfront.net/2023/11/CCR_2024_Calendar_compressed.pdf
 
 ## Gaps
 
 - events/MICE document
 
-_Facts extracted by rules from 22 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-04._
+_Facts extracted by rules from 27 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

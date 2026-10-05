@@ -8,89 +8,149 @@
  "official_url": "https://www.sixsenses.com/en/resorts/laamu",
  "official_site_status": "blocked",
  "operator_brand": "Six Senses",
- "atoll": "Lhaviyani Atoll",
- "island": null,
+ "atoll": "Laamu Atoll",
+ "island": "Fonadhoo Island",
  "opened_or_renovated": null,
- "star_rating": null,
+ "star_rating": "5-star",
  "transfer": {
   "modes": [
    "seaplane",
-   "speedboat"
+   "yacht",
+   "speedboat",
+   "domestic flight"
   ],
   "minutes": {
-   "seaplane": 35,
+   "seaplane": 65,
    "speedboat": null,
    "domestic flight": null,
    "yacht": null
   }
  },
- "island_size": "10 ha",
+ "island_size": null,
  "villas": {
   "total": null,
-  "categories": []
+  "categories": [
+   {
+    "name": "LAGOON WATER VILLA /",
+    "count": 16,
+    "size_sqm": 108,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": true
+   },
+   {
+    "name": "OCEAN WATER VILLA /",
+    "count": 16,
+    "size_sqm": 108,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": true
+   },
+   {
+    "name": "LAGOON BEACH VILLA /",
+    "count": 2,
+    "size_sqm": 212,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": true
+   },
+   {
+    "name": "LAGOON BEACH VILLA WITH POOL / . and a hammock",
+    "count": 5,
+    "size_sqm": 238,
+    "max_occupancy": null,
+    "pool": true,
+    "overwater": true
+   },
+   {
+    "name": "OCEAN BEACH VILLA WITH POOL /",
+    "count": 10,
+    "size_sqm": 238,
+    "max_occupancy": null,
+    "pool": true,
+    "overwater": true
+   },
+   {
+    "name": "OCEAN WATER VILLA WITH POOL /",
+    "count": 4,
+    "size_sqm": 126,
+    "max_occupancy": null,
+    "pool": true,
+    "overwater": true
+   },
+   {
+    "name": "LAAMU WATER VILLA WITH POOL /",
+    "count": 8,
+    "size_sqm": 126,
+    "max_occupancy": null,
+    "pool": true,
+    "overwater": null
+   },
+   {
+    "name": "THE RETREAT /",
+    "count": 1,
+    "size_sqm": 728,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   }
+  ]
  },
- "dining": [
-  {
-   "name": "warm coastal charm and relaxed elegance, Milos Bar invites",
-   "cuisine": null,
-   "type": "bar"
-  },
-  {
-   "name": "55 premium spirits/liqueurs, port, sherry (Velu Bar only)",
-   "cuisine": null,
-   "type": "bar"
-  }
- ],
+ "dining": [],
  "meal_plans": [],
  "all_inclusive_details": null,
  "spa": {
-  "name": "Spa",
+  "name": "ACTIVITIES\nSix Senses Spa",
   "treatment_rooms": null,
   "signature_treatments": [],
   "menu_doc": null
  },
  "diving_watersports": {
-  "operator": "Prodivers",
-  "house_reef": "house reef for snorkeling; pre bookings are required",
+  "operator": "Secret Paradise",
+  "house_reef": "house reef, Chill bar is of their delightful villa, a variety of Mediterranean, Asian and",
   "activities": [
    "snorkeling",
    "windsurfing",
    "kayaking",
    "stand-up paddle",
-   "paddleboard",
    "catamaran",
-   "jet ski",
-   "wakeboarding",
    "fishing",
    "sunset cruise",
-   "manta",
+   "dolphin cruise",
    "sailing",
-   "fun tube",
-   "flyboard"
+   "surfing",
+   "snorkelling",
+   "water skiing",
+   "wakeboarding",
+   "canoe"
   ],
   "price_list_doc": null
  },
  "excursions": [
   "dolphin",
-  "manta",
-  "turtle"
+  "sunset fishing",
+  "big game fishing",
+  "picnic",
+  "cinema",
+  "local island",
+  "turtle",
+  "cooking class",
+  "sandbank"
  ],
  "kids_family": {
-  "kids_club": null,
+  "kids_club": "The Den Kids Club",
   "age_range": null,
   "teens": null
  },
  "wellness_fitness": [
   "yoga",
+  "gym",
   "fitness center",
-  "tennis",
-  "padel",
-  "badminton",
   "ayurveda",
-  "sauna"
+  "steam"
  ],
  "weddings": {
-  "offered": null,
+  "offered": true,
   "vow_renewal": null,
   "venues": [],
   "packages": [],
@@ -98,264 +158,536 @@
  },
  "events_mice": {
   "venues": [],
-  "capacity_max": null,
+  "capacity_max": 30,
   "buyout": null,
   "doc": null
  },
  "sustainability": [
-  "solar"
+  "marine biologist",
+  "marine lab",
+  "organic garden",
+  "Travelife"
  ],
  "contacts_public": {
-  "reservations_email": "reservations@nalamaldives.com",
+  "reservations_email": null,
   "weddings_email": null,
-  "phone": "+960 662 9999"
+  "phone": "+960 680 0800"
  },
  "documents_latest": {
-  "factsheet": "https://sales.crownandchamparesorts.com/wp-content/uploads/2026/04/NalaMaldivesFactsheet011125311026Ver030426.pdf",
+  "factsheet": null,
   "map": null,
   "wedding": null,
   "spa_menu": null,
-  "dining_menu": null,
+  "dining_menu": "https://awesomegetawaymaldives.com/wp-content/uploads/2026/03/Six-Senses-Laamu.pdf",
   "dive_prices": null,
   "events": null,
   "calendar": null
  },
- "documents_count": 1,
+ "documents_count": 3,
  "gaps": [
+  "factsheet",
   "wedding brochure",
   "events/MICE document",
   "fact: villas.total",
-  "fact: villa categories",
-  "fact: kids club",
-  "fact: weddings"
+  "fact: dining",
+  "fact: contacts"
  ],
  "sources": {
   "atoll": [
    {
-    "value": "Lhaviyani Atoll",
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2026/04/NalaMaldivesFactsheet011125311026Ver030426.pdf",
-    "as_of": 2025
+    "value": "Laamu Atoll",
+    "source_url": "https://awesomegetawaymaldives.com/wp-content/uploads/2026/03/Six-Senses-Laamu.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "Noonu Atoll",
+    "source_url": "https://secretparadise.mv/wp-content/uploads/2025/07/IMPACT-REPORT-2024-1.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "Laamu Atoll",
+    "source_url": "https://mondomaldive.it/it/villaggio/six-senses-laamu/recensioni",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Laamu Atoll",
+    "source_url": "https://www.mymaldives.com/resort-guide/laamu-atoll/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Laamu Atoll",
+    "source_url": "https://www.maldivestourism.net/blog/peter-evans-in-maldives-cooking-at-six-senses-laamu/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Laamu Atoll",
+    "source_url": "https://www.maldivestourism.net/resorts/six-senses-laamu/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Laamu Atoll",
+    "source_url": "https://malediven.de/malediven-hotels/six-senses-laamu/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "star_rating": [
+   {
+    "value": "5-star",
+    "source_url": "https://awesomegetawaymaldives.com/wp-content/uploads/2026/03/Six-Senses-Laamu.pdf",
+    "as_of": 2026
    }
   ],
   "transfer.modes": [
    {
     "value": "seaplane",
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2026/04/NalaMaldivesFactsheet011125311026Ver030426.pdf",
-    "as_of": 2025
+    "source_url": "https://awesomegetawaymaldives.com/wp-content/uploads/2026/03/Six-Senses-Laamu.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "yacht",
+    "source_url": "https://awesomegetawaymaldives.com/wp-content/uploads/2026/03/Six-Senses-Laamu.pdf",
+    "as_of": 2026
    },
    {
     "value": "speedboat",
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2026/04/NalaMaldivesFactsheet011125311026Ver030426.pdf",
-    "as_of": 2025
+    "source_url": "https://www.maldivestourism.net/resorts/six-senses-laamu/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "domestic flight",
+    "source_url": "https://www.maldivestourism.net/resorts/six-senses-laamu/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://malediven.de/malediven-hotels/six-senses-laamu/",
+    "as_of": "2026-10-04"
    }
   ],
   "transfer.minutes.seaplane": [
    {
-    "value": 35,
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2026/04/NalaMaldivesFactsheet011125311026Ver030426.pdf",
-    "as_of": 2025
+    "value": 65,
+    "source_url": "https://awesomegetawaymaldives.com/wp-content/uploads/2026/03/Six-Senses-Laamu.pdf",
+    "as_of": 2026
    }
   ],
-  "island_size": [
-   {
-    "value": "10 ha",
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2026/04/NalaMaldivesFactsheet011125311026Ver030426.pdf",
-    "as_of": 2025
-   },
-   {
-    "value": "600 m x 180 m",
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2026/04/NalaMaldivesFactsheet011125311026Ver030426.pdf",
-    "as_of": 2025
-   }
-  ],
-  "dining": [
+  "villas.categories": [
    {
     "value": {
-     "name": "warm coastal charm and relaxed elegance, Milos Bar invites",
-     "cuisine": null,
-     "type": "bar"
+     "name": "LAGOON WATER VILLA /",
+     "count": 16,
+     "size_sqm": 108,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": true
     },
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2026/04/NalaMaldivesFactsheet011125311026Ver030426.pdf",
-    "as_of": 2025
+    "source_url": "https://awesomegetawaymaldives.com/wp-content/uploads/2026/03/Six-Senses-Laamu.pdf",
+    "as_of": 2026
    },
    {
     "value": {
-     "name": "55 premium spirits/liqueurs, port, sherry (Velu Bar only)",
-     "cuisine": null,
-     "type": "bar"
+     "name": "OCEAN WATER VILLA /",
+     "count": 16,
+     "size_sqm": 108,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": true
     },
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2026/04/NalaMaldivesFactsheet011125311026Ver030426.pdf",
-    "as_of": 2025
+    "source_url": "https://awesomegetawaymaldives.com/wp-content/uploads/2026/03/Six-Senses-Laamu.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": {
+     "name": "LAGOON BEACH VILLA /",
+     "count": 2,
+     "size_sqm": 212,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": true
+    },
+    "source_url": "https://awesomegetawaymaldives.com/wp-content/uploads/2026/03/Six-Senses-Laamu.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": {
+     "name": "LAGOON BEACH VILLA WITH POOL / . and a hammock",
+     "count": 5,
+     "size_sqm": 238,
+     "max_occupancy": null,
+     "pool": true,
+     "overwater": true
+    },
+    "source_url": "https://awesomegetawaymaldives.com/wp-content/uploads/2026/03/Six-Senses-Laamu.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": {
+     "name": "OCEAN BEACH VILLA WITH POOL /",
+     "count": 10,
+     "size_sqm": 238,
+     "max_occupancy": null,
+     "pool": true,
+     "overwater": true
+    },
+    "source_url": "https://awesomegetawaymaldives.com/wp-content/uploads/2026/03/Six-Senses-Laamu.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": {
+     "name": "OCEAN WATER VILLA WITH POOL /",
+     "count": 4,
+     "size_sqm": 126,
+     "max_occupancy": null,
+     "pool": true,
+     "overwater": true
+    },
+    "source_url": "https://awesomegetawaymaldives.com/wp-content/uploads/2026/03/Six-Senses-Laamu.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": {
+     "name": "LAAMU WATER VILLA WITH POOL /",
+     "count": 8,
+     "size_sqm": 126,
+     "max_occupancy": null,
+     "pool": true,
+     "overwater": null
+    },
+    "source_url": "https://awesomegetawaymaldives.com/wp-content/uploads/2026/03/Six-Senses-Laamu.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": {
+     "name": "THE RETREAT /",
+     "count": 1,
+     "size_sqm": 728,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://awesomegetawaymaldives.com/wp-content/uploads/2026/03/Six-Senses-Laamu.pdf",
+    "as_of": 2026
    }
   ],
   "spa.name": [
    {
-    "value": "Spa",
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2026/04/NalaMaldivesFactsheet011125311026Ver030426.pdf",
-    "as_of": 2025
-   }
-  ],
-  "diving_watersports.operator": [
+    "value": "ACTIVITIES\nSix Senses Spa",
+    "source_url": "https://awesomegetawaymaldives.com/wp-content/uploads/2026/03/Six-Senses-Laamu.pdf",
+    "as_of": 2026
+   },
    {
-    "value": "Prodivers",
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2026/04/NalaMaldivesFactsheet011125311026Ver030426.pdf",
-    "as_of": 2025
+    "value": "Six Senses Spa",
+    "source_url": "https://www.maldivestourism.net/resorts/six-senses-laamu/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Der Six Senses Spa",
+    "source_url": "https://malediven.de/malediven-hotels/six-senses-laamu/",
+    "as_of": "2026-10-04"
    }
   ],
   "diving_watersports.house_reef": [
    {
-    "value": "house reef for snorkeling; pre bookings are required",
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2026/04/NalaMaldivesFactsheet011125311026Ver030426.pdf",
-    "as_of": 2025
+    "value": "house reef, Chill bar is of their delightful villa, a variety of Mediterranean, Asian and",
+    "source_url": "https://awesomegetawaymaldives.com/wp-content/uploads/2026/03/Six-Senses-Laamu.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "house reef at Villimale”",
+    "source_url": "https://secretparadise.mv/wp-content/uploads/2025/07/IMPACT-REPORT-2024-1.pdf",
+    "as_of": 2024
    }
   ],
   "diving_watersports.activities": [
    {
     "value": "snorkeling",
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2026/04/NalaMaldivesFactsheet011125311026Ver030426.pdf",
-    "as_of": 2025
+    "source_url": "https://awesomegetawaymaldives.com/wp-content/uploads/2026/03/Six-Senses-Laamu.pdf",
+    "as_of": 2026
    },
    {
     "value": "windsurfing",
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2026/04/NalaMaldivesFactsheet011125311026Ver030426.pdf",
-    "as_of": 2025
+    "source_url": "https://awesomegetawaymaldives.com/wp-content/uploads/2026/03/Six-Senses-Laamu.pdf",
+    "as_of": 2026
    },
    {
     "value": "kayaking",
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2026/04/NalaMaldivesFactsheet011125311026Ver030426.pdf",
-    "as_of": 2025
+    "source_url": "https://awesomegetawaymaldives.com/wp-content/uploads/2026/03/Six-Senses-Laamu.pdf",
+    "as_of": 2026
    },
    {
     "value": "stand-up paddle",
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2026/04/NalaMaldivesFactsheet011125311026Ver030426.pdf",
-    "as_of": 2025
-   },
-   {
-    "value": "paddleboard",
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2026/04/NalaMaldivesFactsheet011125311026Ver030426.pdf",
-    "as_of": 2025
+    "source_url": "https://awesomegetawaymaldives.com/wp-content/uploads/2026/03/Six-Senses-Laamu.pdf",
+    "as_of": 2026
    },
    {
     "value": "catamaran",
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2026/04/NalaMaldivesFactsheet011125311026Ver030426.pdf",
-    "as_of": 2025
-   },
-   {
-    "value": "jet ski",
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2026/04/NalaMaldivesFactsheet011125311026Ver030426.pdf",
-    "as_of": 2025
-   },
-   {
-    "value": "wakeboarding",
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2026/04/NalaMaldivesFactsheet011125311026Ver030426.pdf",
-    "as_of": 2025
+    "source_url": "https://awesomegetawaymaldives.com/wp-content/uploads/2026/03/Six-Senses-Laamu.pdf",
+    "as_of": 2026
    },
    {
     "value": "fishing",
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2026/04/NalaMaldivesFactsheet011125311026Ver030426.pdf",
-    "as_of": 2025
+    "source_url": "https://awesomegetawaymaldives.com/wp-content/uploads/2026/03/Six-Senses-Laamu.pdf",
+    "as_of": 2026
    },
    {
     "value": "sunset cruise",
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2026/04/NalaMaldivesFactsheet011125311026Ver030426.pdf",
-    "as_of": 2025
+    "source_url": "https://awesomegetawaymaldives.com/wp-content/uploads/2026/03/Six-Senses-Laamu.pdf",
+    "as_of": 2026
    },
    {
-    "value": "manta",
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2026/04/NalaMaldivesFactsheet011125311026Ver030426.pdf",
-    "as_of": 2025
+    "value": "dolphin cruise",
+    "source_url": "https://awesomegetawaymaldives.com/wp-content/uploads/2026/03/Six-Senses-Laamu.pdf",
+    "as_of": 2026
    },
    {
     "value": "sailing",
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2026/04/NalaMaldivesFactsheet011125311026Ver030426.pdf",
-    "as_of": 2025
+    "source_url": "https://awesomegetawaymaldives.com/wp-content/uploads/2026/03/Six-Senses-Laamu.pdf",
+    "as_of": 2026
    },
    {
-    "value": "fun tube",
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2026/04/NalaMaldivesFactsheet011125311026Ver030426.pdf",
-    "as_of": 2025
+    "value": "snorkeling",
+    "source_url": "https://www.mymaldives.com/resort-guide/laamu-atoll/",
+    "as_of": "2026-10-04"
    },
    {
-    "value": "flyboard",
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2026/04/NalaMaldivesFactsheet011125311026Ver030426.pdf",
-    "as_of": 2025
+    "value": "surfing",
+    "source_url": "https://www.mymaldives.com/resort-guide/laamu-atoll/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.maldivestourism.net/resorts/six-senses-laamu/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "windsurfing",
+    "source_url": "https://www.maldivestourism.net/resorts/six-senses-laamu/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "surfing",
+    "source_url": "https://www.maldivestourism.net/resorts/six-senses-laamu/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "catamaran",
+    "source_url": "https://www.maldivestourism.net/resorts/six-senses-laamu/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "water skiing",
+    "source_url": "https://www.maldivestourism.net/resorts/six-senses-laamu/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "wakeboarding",
+    "source_url": "https://www.maldivestourism.net/resorts/six-senses-laamu/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.maldivestourism.net/resorts/six-senses-laamu/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sailing",
+    "source_url": "https://www.maldivestourism.net/resorts/six-senses-laamu/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "canoe",
+    "source_url": "https://www.maldivestourism.net/resorts/six-senses-laamu/",
+    "as_of": "2026-10-04"
    }
   ],
   "excursions": [
    {
     "value": "dolphin",
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2026/04/NalaMaldivesFactsheet011125311026Ver030426.pdf",
-    "as_of": 2025
+    "source_url": "https://awesomegetawaymaldives.com/wp-content/uploads/2026/03/Six-Senses-Laamu.pdf",
+    "as_of": 2026
    },
    {
-    "value": "manta",
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2026/04/NalaMaldivesFactsheet011125311026Ver030426.pdf",
-    "as_of": 2025
+    "value": "sunset fishing",
+    "source_url": "https://awesomegetawaymaldives.com/wp-content/uploads/2026/03/Six-Senses-Laamu.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "big game fishing",
+    "source_url": "https://awesomegetawaymaldives.com/wp-content/uploads/2026/03/Six-Senses-Laamu.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "picnic",
+    "source_url": "https://awesomegetawaymaldives.com/wp-content/uploads/2026/03/Six-Senses-Laamu.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "cinema",
+    "source_url": "https://awesomegetawaymaldives.com/wp-content/uploads/2026/03/Six-Senses-Laamu.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "local island",
+    "source_url": "https://secretparadise.mv/wp-content/uploads/2025/07/IMPACT-REPORT-2024-1.pdf",
+    "as_of": 2024
    },
    {
     "value": "turtle",
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2026/04/NalaMaldivesFactsheet011125311026Ver030426.pdf",
-    "as_of": 2025
+    "source_url": "https://secretparadise.mv/wp-content/uploads/2025/07/IMPACT-REPORT-2024-1.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.mymaldives.com/resort-guide/laamu-atoll/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "cooking class",
+    "source_url": "https://www.maldivestourism.net/blog/peter-evans-in-maldives-cooking-at-six-senses-laamu/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "local island",
+    "source_url": "https://www.maldivestourism.net/resorts/six-senses-laamu/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.maldivestourism.net/resorts/six-senses-laamu/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.maldivestourism.net/resorts/six-senses-laamu/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "picnic",
+    "source_url": "https://www.maldivestourism.net/resorts/six-senses-laamu/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "cinema",
+    "source_url": "https://www.maldivestourism.net/resorts/six-senses-laamu/",
+    "as_of": "2026-10-04"
    }
   ],
   "wellness_fitness": [
    {
     "value": "yoga",
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2026/04/NalaMaldivesFactsheet011125311026Ver030426.pdf",
-    "as_of": 2025
+    "source_url": "https://awesomegetawaymaldives.com/wp-content/uploads/2026/03/Six-Senses-Laamu.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "gym",
+    "source_url": "https://awesomegetawaymaldives.com/wp-content/uploads/2026/03/Six-Senses-Laamu.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.maldivestourism.net/resorts/six-senses-laamu/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "gym",
+    "source_url": "https://www.maldivestourism.net/resorts/six-senses-laamu/",
+    "as_of": "2026-10-04"
    },
    {
     "value": "fitness center",
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2026/04/NalaMaldivesFactsheet011125311026Ver030426.pdf",
-    "as_of": 2025
-   },
-   {
-    "value": "tennis",
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2026/04/NalaMaldivesFactsheet011125311026Ver030426.pdf",
-    "as_of": 2025
-   },
-   {
-    "value": "padel",
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2026/04/NalaMaldivesFactsheet011125311026Ver030426.pdf",
-    "as_of": 2025
-   },
-   {
-    "value": "badminton",
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2026/04/NalaMaldivesFactsheet011125311026Ver030426.pdf",
-    "as_of": 2025
+    "source_url": "https://www.maldivestourism.net/resorts/six-senses-laamu/",
+    "as_of": "2026-10-04"
    },
    {
     "value": "ayurveda",
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2026/04/NalaMaldivesFactsheet011125311026Ver030426.pdf",
-    "as_of": 2025
+    "source_url": "https://www.maldivestourism.net/resorts/six-senses-laamu/",
+    "as_of": "2026-10-04"
    },
    {
-    "value": "sauna",
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2026/04/NalaMaldivesFactsheet011125311026Ver030426.pdf",
-    "as_of": 2025
+    "value": "steam",
+    "source_url": "https://www.maldivestourism.net/resorts/six-senses-laamu/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://malediven.de/malediven-hotels/six-senses-laamu/",
+    "as_of": "2026-10-04"
    }
   ],
   "sustainability": [
    {
-    "value": "solar",
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2026/04/NalaMaldivesFactsheet011125311026Ver030426.pdf",
-    "as_of": 2025
+    "value": "marine biologist",
+    "source_url": "https://awesomegetawaymaldives.com/wp-content/uploads/2026/03/Six-Senses-Laamu.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "marine lab",
+    "source_url": "https://awesomegetawaymaldives.com/wp-content/uploads/2026/03/Six-Senses-Laamu.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "organic garden",
+    "source_url": "https://awesomegetawaymaldives.com/wp-content/uploads/2026/03/Six-Senses-Laamu.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "Travelife",
+    "source_url": "https://secretparadise.mv/wp-content/uploads/2025/07/IMPACT-REPORT-2024-1.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "organic garden",
+    "source_url": "https://www.maldivestourism.net/blog/peter-evans-in-maldives-cooking-at-six-senses-laamu/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "marine biologist",
+    "source_url": "https://www.maldivestourism.net/resorts/six-senses-laamu/",
+    "as_of": "2026-10-04"
    }
   ],
-  "contacts_public.reservations_email": [
+  "diving_watersports.operator": [
    {
-    "value": "reservations@nalamaldives.com",
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2026/04/NalaMaldivesFactsheet011125311026Ver030426.pdf",
-    "as_of": 2025
+    "value": "Secret Paradise",
+    "source_url": "https://secretparadise.mv/wp-content/uploads/2025/07/IMPACT-REPORT-2024-1.pdf",
+    "as_of": 2024
+   }
+  ],
+  "island": [
+   {
+    "value": "Fonadhoo Island",
+    "source_url": "https://www.mymaldives.com/resort-guide/laamu-atoll/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "events_mice.capacity_max": [
+   {
+    "value": 30,
+    "source_url": "https://www.maldivestourism.net/blog/peter-evans-in-maldives-cooking-at-six-senses-laamu/",
+    "as_of": "2026-10-04"
    }
   ],
   "contacts_public.phone": [
    {
-    "value": "+960 662 9999",
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2026/04/NalaMaldivesFactsheet011125311026Ver030426.pdf",
-    "as_of": 2025
+    "value": "+960 680 0800",
+    "source_url": "https://www.maldivestourism.net/resorts/six-senses-laamu/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "kids_family.kids_club": [
+   {
+    "value": "The Den Kids Club",
+    "source_url": "https://malediven.de/malediven-hotels/six-senses-laamu/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "weddings.offered": [
+   {
+    "value": true,
+    "source_url": "https://malediven.de/malediven-hotels/six-senses-laamu/",
+    "as_of": "2026-10-04"
    }
   ]
  },
- "last_updated": "2026-10-04"
+ "last_updated": "2026-10-05"
 }

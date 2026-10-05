@@ -1,6 +1,6 @@
 # 31. Innahura Maldives Resort
 
-**Official site:** https://www.innahura.com/ (unverified)  
+**Official site:** https://www.innahura.com/ (ok)  
 **Brand:** n/a  
 **Atoll:** Lhaviyani Atoll  **Island:** Innahura  
 **Opened/renovated:** n/a  **Rating:** n/a  
@@ -63,7 +63,7 @@ All-inclusive: all-inclusive package.
 - dining_menu: none
 - dive_prices: none
 - events: none
-- calendar: none
+- calendar: https://d2qwq69i2ic1pk.cloudfront.net/2023/11/CCR_2024_Calendar_compressed.pdf
 
 ## Gaps
 
@@ -76,4 +76,4 @@ All-inclusive: all-inclusive package.
 - fact: kids club
 - fact: contacts
 
-_Facts extracted by rules from 14 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-04._
+_Facts extracted by rules from 14 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

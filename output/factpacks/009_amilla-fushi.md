@@ -9,51 +9,43 @@
 
 ## Villas (67 total)
 
-- Villas | Bedroom | interior | Pool: count 9, 130 sqm, max ?, pool
-- Two-Bedroom Villas | Bedrooms | interior: count ?, 235 sqm, max ?
-- YOGA PAVILION | AMILLA ODEON: count 11, ? sqm, max ?
+- Villas: count 10, 100 sqm, max ?, pool, overwater
+- Two-Bedroom Villas: count ?, 235 sqm, max ?
+- Residence: count 1, 1090 sqm, max ?
 - BEACH RESIDENCES: count 33, ? sqm, max ?
 - THE GREAT BEACH RESIDENCE: count 34, ? sqm, max ?
-- TENNIS COURT | BEDROOM VILLAS: count 29, ? sqm, max ?
-- BOCCE COURT | ACCESIBLE VILLAS: count 30, ? sqm, max ?
 - Bedroom Beach Pool Villa: count 2, ? sqm, max ?, pool
 - Bedroom Beach Residences: count 4, ? sqm, max ?
-- Total Number of Villas: count 67, ? sqm, max ?
 - amilla fushi bedresidencepool: count 1, ? sqm, max ?, pool
 - lagoonvillas: count 3, ? sqm, max ?, overwater
 
 ## Dining
 
-- Alchemy Bar Cardio Studio (bar)
-- Beauty and Skin Bar Tranquility Pool (bar)
-- The Cellar Doorpm - 4:00 pm (bar)
-- Accessible Dining (restaurant)
-- Dining (restaurant)
-- Customisable Dining (restaurant)
 - Sunset Bar (bar)
 - Baa Bar (bar)
 - The Cellar Door (bar)
 - Kitchen (restaurant)
 - Alchemy Bar (bar)
 - Feeling Koi Restaurant & Sunset Bar (restaurant)
-- Amilla Dining (restaurant)
 - Hair & Beauty Lounge (bar)
+- Barolo Grill (restaurant)
+- Baazaar Bar (bar)
 
-Meal plans: Dine Around, HB, FB
+Meal plans: Dine Around, HB, FB, AI
 All-inclusive: All Inclusive package, which provides you the best value and optimum peace of mind during your stay including breakfast, lunch, dinner, plus selected drinks and minibar.
 
 ## Spa & wellness
 
 - Spa: Overwater Spa; treatment rooms: ?; menu: https://amilla.com/wp-content/uploads/Mothers-Day_2026.pdf
-- Wellness/fitness: yoga, meditation, gym, tennis, badminton, beach volleyball, pilates, sauna, steam, wellness programme, ayurveda, sound healing
+- Wellness/fitness: yoga, meditation, gym, tennis, badminton, beach volleyball, pilates, sauna, steam, wellness programme, ayurveda, sound healing, fitness center
 
 ## Diving, water sports & excursions
 
 - Operator: Dive Butler
 - House reef: House Reefs, 2024 Accommodation 2025
-- Activities: snorkelling, scuba diving, wakeboarding, seabob, fishing, sunset cruise, dolphin cruise, whale shark, manta, windsurfing, surfing, catamaran, jet ski, sailing, fun tube, snorkeling, stand-up paddle, paddleboard
-- Price list: https://amilla.com/wp-content/uploads/GSTUPD_DBI-Amilla-WS-Price-List-2025_online.pdf
-- Excursions: local island, sandbank, dolphin, night fishing, whale shark, manta, turtle, picnic, cinema, sunset fishing, big game fishing
+- Activities: snorkelling, scuba diving, wakeboarding, seabob, fishing, sunset cruise, dolphin cruise, whale shark, manta, windsurfing, surfing, catamaran, jet ski, parasailing, sailing, fun tube, stand-up paddle, paddleboard, snorkeling, kayaking
+- Price list: https://cdnm.heyzine.com/files/uploaded/bf3b327762e3c4a482f3926ee4a6d5c54b92ccda-2.pdf
+- Excursions: local island, sandbank, dolphin, night fishing, whale shark, manta, turtle, picnic, cinema, sunset fishing, cooking class
 
 ## Kids & family
 
@@ -63,8 +55,8 @@ All-inclusive: All Inclusive package, which provides you the best value and opti
 
 - Offered: True; vow renewal: True
 - Venues: n/a
-- Packages: Family Bonanza Package USD 350 (2025); Photo Package USD 220 (2025); Ceremony USD 765 (2025)
-- Brochure: https://amilla.com/wp-content/uploads/Football-Camp-with-Mikael-Silvestre.pdf
+- Packages: Ceremony USD 5000 (2026); Family Bonanza Package USD 350 (2026); Photo Package USD 220 (2025)
+- Brochure: https://cdnm.heyzine.com/files/uploaded/v3/04df2b6e63a93cb41205ebd6ed21d4ba4359dce4-1.pdf
 
 ## Events / MICE
 
@@ -77,16 +69,16 @@ All-inclusive: All Inclusive package, which provides you the best value and opti
 
 ## Public contacts
 
-- Reservations: reserve@amilla.com; weddings: n/a; phone: +960 660 6444
+- Reservations: reserve@amilla.com; weddings: n/a; phone: +960 6606444
 
 ## Latest documents
 
 - factsheet: https://amilla.com/wp-content/uploads/Amilla-Maldives_Fact-Sheet_2026.pdf
 - map: https://amilla.com/wp-content/uploads/2023/04/Resort-Map-2024_Updated_LR.pdf
-- wedding: https://amilla.com/wp-content/uploads/Football-Camp-with-Mikael-Silvestre.pdf
+- wedding: https://cdnm.heyzine.com/files/uploaded/v3/04df2b6e63a93cb41205ebd6ed21d4ba4359dce4-1.pdf
 - spa_menu: https://amilla.com/wp-content/uploads/Mothers-Day_2026.pdf
 - dining_menu: https://amilla.com/wp-content/uploads/Francesc_Menu.pdf
-- dive_prices: https://amilla.com/wp-content/uploads/GSTUPD_DBI-Amilla-WS-Price-List-2025_online.pdf
+- dive_prices: https://cdnm.heyzine.com/files/uploaded/bf3b327762e3c4a482f3926ee4a6d5c54b92ccda-2.pdf
 - events: none
 - calendar: https://amilla.com/wp-content/uploads/Orthodox-Easter_2024.pdf
 
@@ -94,4 +86,4 @@ All-inclusive: All Inclusive package, which provides you the best value and opti
 
 - events/MICE document
 
-_Facts extracted by rules from 28 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-04._
+_Facts extracted by rules from 28 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

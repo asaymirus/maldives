@@ -46,14 +46,6 @@
     "overwater": null
    },
    {
-    "name": "Total Villa Area: Total Villa Area",
-    "count": null,
-    "size_sqm": 260,
-    "max_occupancy": null,
-    "pool": null,
-    "overwater": null
-   },
-   {
     "name": "Sunset Ocean Pool Villa Grand Beach Pool Villa",
     "count": 4,
     "size_sqm": null,
@@ -86,14 +78,6 @@
     "overwater": null
    },
    {
-    "name": "Total Villa Area: Interior Villa Area",
-    "count": null,
-    "size_sqm": 430,
-    "max_occupancy": null,
-    "pool": null,
-    "overwater": null
-   },
-   {
     "name": "Two Bedroom Wellbeing Beach Pool Villa",
     "count": 1,
     "size_sqm": null,
@@ -110,14 +94,6 @@
     "overwater": null
    },
    {
-    "name": "Total Villa Area",
-    "count": null,
-    "size_sqm": 1180,
-    "max_occupancy": null,
-    "pool": null,
-    "overwater": null
-   },
-   {
     "name": "Pool Residence",
     "count": 1,
     "size_sqm": null,
@@ -126,11 +102,11 @@
     "overwater": null
    },
    {
-    "name": "Total Number of Villas",
-    "count": 68,
+    "name": "Beach Pool Villa",
+    "count": 4,
     "size_sqm": null,
     "max_occupancy": null,
-    "pool": null,
+    "pool": true,
     "overwater": null
    }
   ]
@@ -142,17 +118,7 @@
    "type": "bar"
   },
   {
-   "name": "Destination Dining",
-   "cuisine": null,
-   "type": "restaurant"
-  },
-  {
    "name": "S Rakuzen - Teppanyaki B",
-   "cuisine": null,
-   "type": "restaurant"
-  },
-  {
-   "name": "T FLOW Restaurant 35 26",
    "cuisine": null,
    "type": "restaurant"
   },
@@ -160,11 +126,6 @@
    "name": "W SAI Tea Lounge",
    "cuisine": null,
    "type": "bar"
-  },
-  {
-   "name": "Dining",
-   "cuisine": null,
-   "type": "restaurant"
   },
   {
    "name": "MOJO Bar",
@@ -260,7 +221,7 @@
    {
     "value": "Raa Atoll",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/JoaliBeing_Factsheet_V13.pdf",
-    "as_of": 2025
+    "as_of": 2023
    },
    {
     "value": "Raa Atoll",
@@ -277,19 +238,19 @@
    {
     "value": "Bodufushi",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/JoaliBeing_Factsheet_V13.pdf",
-    "as_of": 2025
+    "as_of": 2023
    }
   ],
   "transfer.modes": [
    {
     "value": "seaplane",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/JoaliBeing_Factsheet_V13.pdf",
-    "as_of": 2025
+    "as_of": 2023
    },
    {
     "value": "yacht",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/JoaliBeing_Factsheet_V13.pdf",
-    "as_of": 2025
+    "as_of": 2023
    },
    {
     "value": "seaplane",
@@ -301,7 +262,7 @@
    {
     "value": 40,
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/JoaliBeing_Factsheet_V13.pdf",
-    "as_of": 2025
+    "as_of": 2023
    },
    {
     "value": 45,
@@ -320,7 +281,7 @@
      "overwater": true
     },
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/JoaliBeing_Factsheet_V13.pdf",
-    "as_of": 2025
+    "as_of": 2023
    },
    {
     "value": {
@@ -332,19 +293,7 @@
      "overwater": null
     },
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/JoaliBeing_Factsheet_V13.pdf",
-    "as_of": 2025
-   },
-   {
-    "value": {
-     "name": "Total Villa Area: Total Villa Area",
-     "count": null,
-     "size_sqm": 260,
-     "max_occupancy": null,
-     "pool": null,
-     "overwater": null
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/JoaliBeing_Factsheet_V13.pdf",
-    "as_of": 2025
+    "as_of": 2023
    },
    {
     "value": {
@@ -356,7 +305,7 @@
      "overwater": true
     },
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/JoaliBeing_Factsheet_V13.pdf",
-    "as_of": 2025
+    "as_of": 2023
    },
    {
     "value": {
@@ -368,19 +317,7 @@
      "overwater": null
     },
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/JoaliBeing_Factsheet_V13.pdf",
-    "as_of": 2025
-   },
-   {
-    "value": {
-     "name": "Total Villa Area: Total Villa Area",
-     "count": null,
-     "size_sqm": 260,
-     "max_occupancy": null,
-     "pool": null,
-     "overwater": null
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/JoaliBeing_Factsheet_V13.pdf",
-    "as_of": 2025
+    "as_of": 2023
    },
    {
     "value": {
@@ -392,7 +329,7 @@
      "overwater": true
     },
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/JoaliBeing_Factsheet_V13.pdf",
-    "as_of": 2025
+    "as_of": 2023
    },
    {
     "value": {
@@ -404,19 +341,7 @@
      "overwater": null
     },
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/JoaliBeing_Factsheet_V13.pdf",
-    "as_of": 2025
-   },
-   {
-    "value": {
-     "name": "Total Villa Area: Total Villa Area",
-     "count": null,
-     "size_sqm": 230,
-     "max_occupancy": null,
-     "pool": null,
-     "overwater": null
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/JoaliBeing_Factsheet_V13.pdf",
-    "as_of": 2025
+    "as_of": 2023
    },
    {
     "value": {
@@ -428,7 +353,7 @@
      "overwater": true
     },
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/JoaliBeing_Factsheet_V13.pdf",
-    "as_of": 2025
+    "as_of": 2023
    },
    {
     "value": {
@@ -440,19 +365,7 @@
      "overwater": null
     },
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/JoaliBeing_Factsheet_V13.pdf",
-    "as_of": 2025
-   },
-   {
-    "value": {
-     "name": "Total Villa Area: Total Villa Area",
-     "count": null,
-     "size_sqm": 230,
-     "max_occupancy": null,
-     "pool": null,
-     "overwater": null
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/JoaliBeing_Factsheet_V13.pdf",
-    "as_of": 2025
+    "as_of": 2023
    },
    {
     "value": {
@@ -464,19 +377,7 @@
      "overwater": null
     },
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/JoaliBeing_Factsheet_V13.pdf",
-    "as_of": 2025
-   },
-   {
-    "value": {
-     "name": "Total Villa Area: Interior Villa Area",
-     "count": null,
-     "size_sqm": 430,
-     "max_occupancy": null,
-     "pool": null,
-     "overwater": null
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/JoaliBeing_Factsheet_V13.pdf",
-    "as_of": 2025
+    "as_of": 2023
    },
    {
     "value": {
@@ -488,7 +389,7 @@
      "overwater": null
     },
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/JoaliBeing_Factsheet_V13.pdf",
-    "as_of": 2025
+    "as_of": 2023
    },
    {
     "value": {
@@ -500,19 +401,7 @@
      "overwater": null
     },
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/JoaliBeing_Factsheet_V13.pdf",
-    "as_of": 2025
-   },
-   {
-    "value": {
-     "name": "Total Villa Area",
-     "count": null,
-     "size_sqm": 1180,
-     "max_occupancy": null,
-     "pool": null,
-     "overwater": null
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/JoaliBeing_Factsheet_V13.pdf",
-    "as_of": 2025
+    "as_of": 2023
    },
    {
     "value": {
@@ -524,31 +413,19 @@
      "overwater": null
     },
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/JoaliBeing_Factsheet_V13.pdf",
-    "as_of": 2025
+    "as_of": 2023
    },
    {
     "value": {
-     "name": "Total Villa Area",
-     "count": null,
-     "size_sqm": 1700,
-     "max_occupancy": null,
-     "pool": null,
-     "overwater": null
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/JoaliBeing_Factsheet_V13.pdf",
-    "as_of": 2025
-   },
-   {
-    "value": {
-     "name": "Total Number of Villas",
-     "count": 68,
+     "name": "Beach Pool Villa",
+     "count": 4,
      "size_sqm": null,
      "max_occupancy": null,
-     "pool": null,
+     "pool": true,
      "overwater": null
     },
-    "source_url": "https://www.neoscapesmaldives.com/resort/joali-being/",
-    "as_of": "2026-10-04"
+    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Map_25x30_V3.pdf",
+    "as_of": 2024
    }
   ],
   "dining": [
@@ -559,29 +436,11 @@
      "type": "bar"
     },
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/JoaliBeing_Factsheet_V13.pdf",
-    "as_of": 2025
-   },
-   {
-    "value": {
-     "name": "Destination Dining",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/JoaliBeing_Factsheet_V13.pdf",
-    "as_of": 2025
+    "as_of": 2023
    },
    {
     "value": {
      "name": "S Rakuzen - Teppanyaki B",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Map_25x30_V3.pdf",
-    "as_of": 2024
-   },
-   {
-    "value": {
-     "name": "T FLOW Restaurant 35 26",
      "cuisine": null,
      "type": "restaurant"
     },
@@ -596,24 +455,6 @@
     },
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Map_25x30_V3.pdf",
     "as_of": 2024
-   },
-   {
-    "value": {
-     "name": "Dining",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/joali-being/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Dining",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/joali-being/",
-    "as_of": "2026-10-04"
    },
    {
     "value": {
@@ -632,32 +473,23 @@
     },
     "source_url": "https://www.neoscapesmaldives.com/resort/joali-being/",
     "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Destination Dining",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/joali-being/",
-    "as_of": "2026-10-04"
    }
   ],
   "excursions": [
    {
     "value": "sandbank",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/JoaliBeing_Factsheet_V13.pdf",
-    "as_of": 2025
+    "as_of": 2023
    },
    {
     "value": "turtle",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/JoaliBeing_Factsheet_V13.pdf",
-    "as_of": 2025
+    "as_of": 2023
    },
    {
     "value": "cooking class",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/JoaliBeing_Factsheet_V13.pdf",
-    "as_of": 2025
+    "as_of": 2023
    },
    {
     "value": "turtle",
@@ -684,27 +516,27 @@
    {
     "value": "meditation",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/JoaliBeing_Factsheet_V13.pdf",
-    "as_of": 2025
+    "as_of": 2023
    },
    {
     "value": "tennis",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/JoaliBeing_Factsheet_V13.pdf",
-    "as_of": 2025
+    "as_of": 2023
    },
    {
     "value": "padel",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/JoaliBeing_Factsheet_V13.pdf",
-    "as_of": 2025
+    "as_of": 2023
    },
    {
     "value": "sound healing",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/JoaliBeing_Factsheet_V13.pdf",
-    "as_of": 2025
+    "as_of": 2023
    },
    {
     "value": "sauna",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/JoaliBeing_Factsheet_V13.pdf",
-    "as_of": 2025
+    "as_of": 2023
    },
    {
     "value": "tennis",
@@ -741,22 +573,22 @@
    {
     "value": "coral nursery",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/JoaliBeing_Factsheet_V13.pdf",
-    "as_of": 2025
+    "as_of": 2023
    },
    {
     "value": "turtle rehabilitation",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/JoaliBeing_Factsheet_V13.pdf",
-    "as_of": 2025
+    "as_of": 2023
    },
    {
     "value": "reef restoration",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/JoaliBeing_Factsheet_V13.pdf",
-    "as_of": 2025
+    "as_of": 2023
    },
    {
     "value": "Olive Ridley Project",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/JoaliBeing_Factsheet_V13.pdf",
-    "as_of": 2025
+    "as_of": 2023
    },
    {
     "value": "turtle rehabilitation",
@@ -824,5 +656,5 @@
    }
   ]
  },
- "last_updated": "2026-10-04"
+ "last_updated": "2026-10-05"
 }

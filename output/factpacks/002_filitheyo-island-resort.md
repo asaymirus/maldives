@@ -1,32 +1,34 @@
 # 2. Filitheyo Island Resort
 
-**Official site:** https://www.filitheyo.com/ (unverified)  
+**Official site:** https://www.filitheyo.com/ (blocked-partial)  
 **Brand:** n/a  
-**Atoll:** n/a  **Island:** n/a  
+**Atoll:** Faafu Atoll  **Island:** n/a  
 **Opened/renovated:** n/a  **Rating:** n/a  
 **Transfer:** n/a; minutes: {}  
 **Island size:** n/a  
 
-## Villas (? total)
+## Villas (125 total)
 
 
 ## Dining
 
+- Mini Bar (bar)
 
-Meal plans: n/a
+Meal plans: AI
+All-inclusive: All Inclusive in Superior Villa.
 
 ## Spa & wellness
 
-- Spa: n/a; treatment rooms: ?; menu: none
-- Wellness/fitness: n/a
+- Spa: Spa; treatment rooms: ?; menu: none
+- Wellness/fitness: gym, badminton
 
 ## Diving, water sports & excursions
 
-- Operator: n/a
-- House reef: n/a
-- Activities: n/a
+- Operator: Werner Lau
+- House reef: house reef è vicina alla riva e bella, i punti di entrata e uscita sono ben segnalati
+- Activities: snorkeling, scuba diving, windsurfing, catamaran, fishing, sailing, canoe
 - Price list: none
-- Excursions: n/a
+- Excursions: dolphin, big game fishing, night fishing
 
 ## Kids & family
 
@@ -50,7 +52,7 @@ Meal plans: n/a
 
 ## Public contacts
 
-- Reservations: n/a; weddings: n/a; phone: n/a
+- Reservations: n/a; weddings: n/a; phone: +960 674 0025
 
 ## Latest documents
 
@@ -68,15 +70,10 @@ Meal plans: n/a
 - factsheet
 - wedding brochure
 - events/MICE document
-- fact: villas.total
 - fact: villa categories
-- fact: dining
 - fact: transfer
-- fact: atoll
-- fact: spa
-- fact: dive operator
 - fact: kids club
 - fact: weddings
 - fact: contacts
 
-_Facts extracted by rules from 0 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-04._
+_Facts extracted by rules from 12 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

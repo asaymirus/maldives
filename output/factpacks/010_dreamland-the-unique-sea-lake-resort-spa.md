@@ -9,20 +9,14 @@
 
 ## Villas (90 total)
 
-- Dreamland holds a total of villas in , island: count ?, 52886 sqm, max ?
 
 ## Dining
 
-- Restaurant/Essenszeiten Rezeption Shop Lake Bar (restaurant)
-- 16. Bar Man‘s Special 9.00 (bar)
 - und Lake View Restaurant serviert. (restaurant)
-- *10.00 - 11.30 Uhr in der LakeView Bar (bar)
-- *15.00 - 17.00 Uhr in der LakeView Bar (bar)
 - Restaurant und in den Bars. (restaurant)
 - Lake View Bar (bar)
 - Sea View Restaurant (restaurant)
 - Lake View Restaurant (restaurant)
-- Dream Dining (restaurant)
 - Main Bar with the Lake & BIOTOP Pool View (bar)
 - Beach Bar (bar)
 
@@ -32,15 +26,15 @@ All-inclusive: All Inclusive guests can enjoy their entitled drinks till 00:00 m
 ## Spa & wellness
 
 - Spa: Spa; treatment rooms: ?; menu: https://dreamland.com.mv/wp-content/uploads/2024/08/Duny-Spa-menu-chineese-2023.pdf
-- Wellness/fitness: tennis, badminton, gym, fitness centre, sauna, steam, meditation
+- Wellness/fitness: tennis, badminton, gym, fitness centre, sauna, steam, meditation, yoga
 
 ## Diving, water sports & excursions
 
 - Operator: Dive Centre
 - House reef: house reef shimmering just offshore
-- Activities: manta, snorkeling, scuba diving, fishing, whale shark, snorkelling, windsurfing
+- Activities: manta, snorkeling, scuba diving, fishing, whale shark, snorkelling, windsurfing, sunset cruise
 - Price list: https://dreamland.com.mv/wp-content/uploads/2023/08/DC-Pricelist-2023-Dreamland.pdf
-- Excursions: manta, dolphin, sunset fishing, turtle, local island, whale shark, castaway
+- Excursions: manta, dolphin, sunset fishing, turtle, local island, whale shark, castaway, picnic
 
 ## Kids & family
 
@@ -60,7 +54,7 @@ All-inclusive: All Inclusive guests can enjoy their entitled drinks till 00:00 m
 
 ## Sustainability
 
-- n/a
+- organic garden
 
 ## Public contacts
 
@@ -80,7 +74,8 @@ All-inclusive: All Inclusive guests can enjoy their entitled drinks till 00:00 m
 ## Gaps
 
 - events/MICE document
+- fact: villa categories
 - fact: kids club
 - fact: contacts
 
-_Facts extracted by rules from 21 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-04._
+_Facts extracted by rules from 21 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

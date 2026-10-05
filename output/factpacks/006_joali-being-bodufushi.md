@@ -11,26 +11,20 @@
 
 - Ocean Pool Villa Beach Pool Villa: count 10, ? sqm, max ?, pool, overwater
 - Interior Villa Area: Interior Villa Area: count ?, 87 sqm, max ?
-- Total Villa Area: Total Villa Area: count ?, 260 sqm, max ?
 - Sunset Ocean Pool Villa Grand Beach Pool Villa: count 4, ? sqm, max ?, pool, overwater
 - Grand Ocean Pool Villa Two Bedroom Ocean Pool Villa: count 10, ? sqm, max ?, pool, overwater
 - Sunset Grand Ocean Pool Villa Two Bedroom Beach Pool Villa: count 8, ? sqm, max ?, pool, overwater
 - Interior Villa Area: Two Pools: count 1, 170 sqm, max ?, pool
-- Total Villa Area: Interior Villa Area: count ?, 430 sqm, max ?
 - Two Bedroom Wellbeing Beach Pool Villa: count 1, ? sqm, max ?, pool
 - Interior Villa Area: count ?, 308 sqm, max ?
-- Total Villa Area: count ?, 1180 sqm, max ?
 - Pool Residence: count 1, ? sqm, max ?, pool
-- Total Number of Villas: count 68, ? sqm, max ?
+- Beach Pool Villa: count 4, ? sqm, max ?, pool
 
 ## Dining
 
 - Air Conditioning Wellbeing Bar (bar)
-- Destination Dining (restaurant)
 - S Rakuzen - Teppanyaki B (restaurant)
-- T FLOW Restaurant 35 26 (restaurant)
 - W SAI Tea Lounge (bar)
-- Dining (restaurant)
 - MOJO Bar (bar)
 - SAI Tea Lounge (bar)
 
@@ -91,4 +85,4 @@ Meal plans: n/a
 - fact: villas.total
 - fact: dive operator
 
-_Facts extracted by rules from 16 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-04._
+_Facts extracted by rules from 16 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

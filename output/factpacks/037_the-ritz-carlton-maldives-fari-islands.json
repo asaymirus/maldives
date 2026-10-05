@@ -24,7 +24,7 @@
    "seaplane": 10,
    "speedboat": 10,
    "domestic flight": null,
-   "yacht": null
+   "yacht": 10
   }
  },
  "island_size": null,
@@ -115,14 +115,14 @@
  },
  "dining": [
   {
-   "name": "Dining",
-   "cuisine": null,
-   "type": "restaurant"
-  },
-  {
    "name": "Eau Bar",
    "cuisine": null,
    "type": "bar"
+  },
+  {
+   "name": "Chef’s Table Teppanyaki",
+   "cuisine": null,
+   "type": "restaurant"
   }
  ],
  "meal_plans": [],
@@ -139,12 +139,16 @@
   "activities": [
    "scuba diving",
    "jet ski",
-   "flyboard"
+   "flyboard",
+   "snorkeling",
+   "kayaking",
+   "manta"
   ],
   "price_list_doc": null
  },
  "excursions": [
-  "sandbank"
+  "sandbank",
+  "manta"
  ],
  "kids_family": {
   "kids_club": "Ritz Kids Club",
@@ -156,7 +160,9 @@
   "fitness centre",
   "tennis",
   "sauna",
-  "steam"
+  "steam",
+  "sound healing",
+  "pilates"
  ],
  "weddings": {
   "offered": true,
@@ -171,7 +177,11 @@
   "buyout": null,
   "doc": null
  },
- "sustainability": [],
+ "sustainability": [
+  "coral restoration",
+  "coral nursery",
+  "solar"
+ ],
  "contacts_public": {
   "reservations_email": "info@neoscapesmaldives.com",
   "weddings_email": null,
@@ -218,6 +228,16 @@
     "value": "speedboat",
     "source_url": "https://www.neoscapesmaldives.com/resort/the-ritz-carlton-maldives/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://letsgomaldives.com/news/the-ritz-carlton-maldives-fari-islands-immerse-yourself-in-the-spirit-of-water-this-festive-season/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yacht",
+    "source_url": "https://letsgomaldives.com/news/the-ritz-carlton-maldives-fari-islands-immerse-yourself-in-the-spirit-of-water-this-festive-season/",
+    "as_of": "2026-10-04"
    }
   ],
   "transfer.minutes.seaplane": [
@@ -229,6 +249,11 @@
    {
     "value": 10,
     "source_url": "https://www.neoscapesmaldives.com/resort/the-ritz-carlton-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 10,
+    "source_url": "https://letsgomaldives.com/news/the-ritz-carlton-maldives-fari-islands-immerse-yourself-in-the-spirit-of-water-this-festive-season/",
     "as_of": "2026-10-04"
    }
   ],
@@ -443,6 +468,11 @@
     "value": "Facilities\nThe Ritz-Carlton Spa",
     "source_url": "https://www.neoscapesmaldives.com/resort/the-ritz-carlton-maldives/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://malediven.de/malediven-hotels/ritz-carlton-maldives/",
+    "as_of": "2026-10-04"
    }
   ],
   "spa.treatment_rooms": [
@@ -472,6 +502,26 @@
     "value": "flyboard",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/The-Ritz-Carlton-Maldives-Factsheet.pdf",
     "as_of": 2021
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://letsgomaldives.com/news/the-ritz-carlton-maldives-fari-islands-immerse-yourself-in-the-spirit-of-water-this-festive-season/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://letsgomaldives.com/news/the-ritz-carlton-maldives-fari-islands-marks-international-womens-day-2026-with-give-to-gain/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "kayaking",
+    "source_url": "https://malediven.de/malediven-hotels/ritz-carlton-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://malediven.de/malediven-hotels/ritz-carlton-maldives/",
+    "as_of": "2026-10-04"
    }
   ],
   "excursions": [
@@ -479,6 +529,11 @@
     "value": "sandbank",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/The-Ritz-Carlton-Maldives-Factsheet.pdf",
     "as_of": 2021
+   },
+   {
+    "value": "manta",
+    "source_url": "https://malediven.de/malediven-hotels/ritz-carlton-maldives/",
+    "as_of": "2026-10-04"
    }
   ],
   "kids_family.kids_club": [
@@ -543,6 +598,21 @@
     "value": "steam",
     "source_url": "https://www.neoscapesmaldives.com/resort/the-ritz-carlton-maldives/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "sound healing",
+    "source_url": "https://letsgomaldives.com/news/the-ritz-carlton-maldives-fari-islands-marks-international-womens-day-2026-with-give-to-gain/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://malediven.de/malediven-hotels/ritz-carlton-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "pilates",
+    "source_url": "https://malediven.de/malediven-hotels/ritz-carlton-maldives/",
+    "as_of": "2026-10-04"
    }
   ],
   "atoll": [
@@ -550,27 +620,19 @@
     "value": "North Malé Atoll",
     "source_url": "https://www.neoscapesmaldives.com/resort/the-ritz-carlton-maldives/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "North Malé Atoll",
+    "source_url": "https://letsgomaldives.com/news/leadership-strengthens-ultra-luxury-positioning-at-the-ritz-carlton-maldives-fari-islands/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "North Malé Atoll",
+    "source_url": "https://letsgomaldives.com/news/the-ritz-carlton-maldives-fari-islands-immerse-yourself-in-the-spirit-of-water-this-festive-season/",
+    "as_of": "2026-10-04"
    }
   ],
   "dining": [
-   {
-    "value": {
-     "name": "Dining",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/the-ritz-carlton-maldives/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Dining",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/the-ritz-carlton-maldives/",
-    "as_of": "2026-10-04"
-   },
    {
     "value": {
      "name": "Eau Bar",
@@ -578,6 +640,15 @@
      "type": "bar"
     },
     "source_url": "https://www.neoscapesmaldives.com/resort/the-ritz-carlton-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Chef’s Table Teppanyaki",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://letsgomaldives.com/news/leadership-strengthens-ultra-luxury-positioning-at-the-ritz-carlton-maldives-fari-islands/",
     "as_of": "2026-10-04"
    }
   ],
@@ -608,7 +679,31 @@
     "source_url": "https://www.neoscapesmaldives.com/resort/the-ritz-carlton-maldives/",
     "as_of": "2026-10-04"
    }
+  ],
+  "transfer.minutes.yacht": [
+   {
+    "value": 10,
+    "source_url": "https://letsgomaldives.com/news/the-ritz-carlton-maldives-fari-islands-immerse-yourself-in-the-spirit-of-water-this-festive-season/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "sustainability": [
+   {
+    "value": "coral restoration",
+    "source_url": "https://letsgomaldives.com/news/the-ritz-carlton-maldives-fari-islands-marks-international-womens-day-2026-with-give-to-gain/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "coral nursery",
+    "source_url": "https://letsgomaldives.com/news/the-ritz-carlton-maldives-fari-islands-marks-international-womens-day-2026-with-give-to-gain/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "solar",
+    "source_url": "https://letsgomaldives.com/news/the-ritz-carlton-maldives-fari-islands-marks-international-womens-day-2026-with-give-to-gain/",
+    "as_of": "2026-10-04"
+   }
   ]
  },
- "last_updated": "2026-10-04"
+ "last_updated": "2026-10-05"
 }

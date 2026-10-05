@@ -9,12 +9,7 @@
 
 ## Villas (42 total)
 
-- Villas | . | King Bed: count 42, 155 sqm, max ?
-- Villas | Bedroom | Living Room: count 3, ? sqm, max ?
-- Villas | Bedroom: count 3, ? sqm, max ?
-- Villas | bedrooms | living room: count 2, ? sqm, max ?
-- Villa | Bedrooms | Living Room: count 1, ? sqm, max ?
-- Arrival Pavilion: count 1, ? sqm, max ?
+- Villas: count 42, 155 sqm, max ?
 - Water Villa with Pool: count 14, ? sqm, max ?, pool
 - BR water Villa with Pool: count 3, ? sqm, max ?, pool
 - • BR Water Pool Villa: count 16, ? sqm, max ?, pool
@@ -26,20 +21,11 @@
 - Water Villa Jetty: count 24, ? sqm, max ?
 - General Manager's Villa ': count 28, ? sqm, max ?
 - Sea Villas Pump Room: count 54, ? sqm, max ?
-- Total Number of Villas: count 80, ? sqm, max ?
 - Bedroom Overwater Pool Villa: count 1, ? sqm, max ?, pool, overwater
 - Bedroom Beach Pool Villa: count 2, ? sqm, max ?, pool
 
 ## Dining
 
-- Dining Room | Spa Room | Pantry |Water slide (restaurant)
-- 3 Restaurants | 2 Bars | Deli (restaurant)
-- 02 -Departure Lounge (bar)
-- 05 -Speciality Restaurant 14 14 14 (restaurant)
-- 06 -Semi Underwater Restaurant (restaurant)
-- 26 -Specialty Restaurant Jetty (restaurant)
-- 32 -Staff Kitchen & Mess -------j (restaurant)
-- Dining (restaurant)
 
 Meal plans: n/a
 
@@ -96,6 +82,7 @@ Meal plans: n/a
 - factsheet
 - wedding brochure
 - events/MICE document
+- fact: dining
 - fact: dive operator
 
-_Facts extracted by rules from 16 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-04._
+_Facts extracted by rules from 15 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

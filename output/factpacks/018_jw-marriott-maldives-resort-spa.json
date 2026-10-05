@@ -24,9 +24,9 @@
    "yacht": null
   }
  },
- "island_size": null,
+ "island_size": "5 ha",
  "villas": {
-  "total": null,
+  "total": 86,
   "categories": [
    {
     "name": "sunset view Duple Beach Pool Villas",
@@ -59,38 +59,10 @@
     "max_occupancy": null,
     "pool": null,
     "overwater": null
-   },
-   {
-    "name": "Number of Villas",
-    "count": 60,
-    "size_sqm": null,
-    "max_occupancy": null,
-    "pool": null,
-    "overwater": null
    }
   ]
  },
  "dining": [
-  {
-   "name": "Dining",
-   "cuisine": null,
-   "type": "restaurant"
-  },
-  {
-   "name": "Aailaa – All-Day Dining",
-   "cuisine": null,
-   "type": "restaurant"
-  },
-  {
-   "name": "Fiamma – Italian Dining",
-   "cuisine": null,
-   "type": "restaurant"
-  },
-  {
-   "name": "Kaashi – Thai Dining",
-   "cuisine": null,
-   "type": "restaurant"
-  },
   {
    "name": "Hashi – Japanese Teppanyaki",
    "cuisine": null,
@@ -112,32 +84,12 @@
    "type": "bar"
   },
   {
-   "name": "In-Villa Dining",
-   "cuisine": null,
-   "type": "restaurant"
-  },
-  {
-   "name": "Destination Dining",
-   "cuisine": null,
-   "type": "restaurant"
-  },
-  {
    "name": "Horizon – Beach Bar",
    "cuisine": null,
    "type": "bar"
   },
   {
-   "name": "Lounge 18 (Adults-only lounge)",
-   "cuisine": null,
-   "type": "bar"
-  },
-  {
    "name": "Teen Lounge",
-   "cuisine": null,
-   "type": "bar"
-  },
-  {
-   "name": "Lounge 18",
    "cuisine": null,
    "type": "bar"
   }
@@ -163,7 +115,11 @@
    "stand-up paddle",
    "paddleboard",
    "jet ski",
-   "sailing"
+   "sailing",
+   "scuba diving",
+   "windsurfing",
+   "catamaran",
+   "canoe"
   ],
   "price_list_doc": null
  },
@@ -179,7 +135,10 @@
  "wellness_fitness": [
   "yoga",
   "gym",
-  "steam"
+  "steam",
+  "fitness center",
+  "tennis",
+  "badminton"
  ],
  "weddings": {
   "offered": true,
@@ -216,7 +175,6 @@
  "gaps": [
   "wedding brochure",
   "events/MICE document",
-  "fact: villas.total",
   "fact: dive operator"
  ],
  "sources": {
@@ -230,6 +188,16 @@
     "value": "Shaviyani Atoll",
     "source_url": "https://www.neoscapesmaldives.com/resort/jw-marriott-maldives/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "Shaviyani Atoll",
+    "source_url": "https://www.mymaldives.com/resort-guide/jw-marriott-maldives-resort-spa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Shaviyani Atoll",
+    "source_url": "https://www.airtours.de/jw-marriott-maldives-resort/",
+    "as_of": "2026-10-04"
    }
   ],
   "transfer.modes": [
@@ -242,6 +210,11 @@
     "value": "seaplane",
     "source_url": "https://www.neoscapesmaldives.com/resort/jw-marriott-maldives/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://letsgomaldives.com/news/jw-marriott-maldives-resort-spa-elevates-nowruz-with-a-curated-spring-festival-series/",
+    "as_of": "2026-10-04"
    }
   ],
   "transfer.minutes.seaplane": [
@@ -253,6 +226,11 @@
    {
     "value": 55,
     "source_url": "https://www.neoscapesmaldives.com/resort/jw-marriott-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 55,
+    "source_url": "https://letsgomaldives.com/news/jw-marriott-maldives-resort-spa-elevates-nowruz-with-a-curated-spring-festival-series/",
     "as_of": "2026-10-04"
    }
   ],
@@ -316,18 +294,6 @@
     },
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/JW-Marriott-Maldives-Resort-Spa-Factsheet-2023.pdf",
     "as_of": 2023
-   },
-   {
-    "value": {
-     "name": "Number of Villas",
-     "count": 60,
-     "size_sqm": null,
-     "max_occupancy": null,
-     "pool": null,
-     "overwater": null
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/jw-marriott-maldives/",
-    "as_of": "2026-10-04"
    }
   ],
   "spa.name": [
@@ -339,6 +305,26 @@
    {
     "value": "Spa",
     "source_url": "https://www.neoscapesmaldives.com/resort/jw-marriott-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://letsgomaldives.com/news/jw-marriott-maldives-resort-spa-elevates-nowruz-with-a-curated-spring-festival-series/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://letsgomaldives.com/news/symphony-of-the-sea-festive-celebration-at-jw-marriott-maldives-resort-spa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.mymaldives.com/resort-guide/jw-marriott-maldives-resort-spa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.airtours.de/jw-marriott-maldives-resort/",
     "as_of": "2026-10-04"
    }
   ],
@@ -429,6 +415,36 @@
     "value": "banana boat",
     "source_url": "https://www.neoscapesmaldives.com/resort/jw-marriott-maldives/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://www.mymaldives.com/resort-guide/jw-marriott-maldives-resort-spa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "windsurfing",
+    "source_url": "https://www.mymaldives.com/resort-guide/jw-marriott-maldives-resort-spa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "catamaran",
+    "source_url": "https://www.mymaldives.com/resort-guide/jw-marriott-maldives-resort-spa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "jet ski",
+    "source_url": "https://www.mymaldives.com/resort-guide/jw-marriott-maldives-resort-spa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sailing",
+    "source_url": "https://www.mymaldives.com/resort-guide/jw-marriott-maldives-resort-spa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "canoe",
+    "source_url": "https://www.mymaldives.com/resort-guide/jw-marriott-maldives-resort-spa/",
+    "as_of": "2026-10-04"
    }
   ],
   "excursions": [
@@ -457,6 +473,11 @@
    {
     "value": "Little Griffins Kids Club",
     "source_url": "https://www.neoscapesmaldives.com/resort/jw-marriott-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Der Kids Club",
+    "source_url": "https://www.airtours.de/jw-marriott-maldives-resort/",
     "as_of": "2026-10-04"
    }
   ],
@@ -490,6 +511,26 @@
     "value": "steam",
     "source_url": "https://www.neoscapesmaldives.com/resort/jw-marriott-maldives/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "fitness center",
+    "source_url": "https://www.mymaldives.com/resort-guide/jw-marriott-maldives-resort-spa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://www.mymaldives.com/resort-guide/jw-marriott-maldives-resort-spa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "badminton",
+    "source_url": "https://www.mymaldives.com/resort-guide/jw-marriott-maldives-resort-spa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.airtours.de/jw-marriott-maldives-resort/",
+    "as_of": "2026-10-04"
    }
   ],
   "weddings.offered": [
@@ -502,6 +543,11 @@
     "value": true,
     "source_url": "https://www.neoscapesmaldives.com/resort/jw-marriott-maldives/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://letsgomaldives.com/news/symphony-of-the-sea-festive-celebration-at-jw-marriott-maldives-resort-spa/",
+    "as_of": "2026-10-04"
    }
   ],
   "weddings.vow_renewal": [
@@ -512,51 +558,6 @@
    }
   ],
   "dining": [
-   {
-    "value": {
-     "name": "Dining",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/jw-marriott-maldives/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Dining",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/jw-marriott-maldives/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Aailaa – All-Day Dining",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/jw-marriott-maldives/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Fiamma – Italian Dining",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/jw-marriott-maldives/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Kaashi – Thai Dining",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/jw-marriott-maldives/",
-    "as_of": "2026-10-04"
-   },
    {
     "value": {
      "name": "Hashi – Japanese Teppanyaki",
@@ -595,24 +596,6 @@
    },
    {
     "value": {
-     "name": "In-Villa Dining",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/jw-marriott-maldives/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Destination Dining",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/jw-marriott-maldives/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
      "name": "Horizon – Beach Bar",
      "cuisine": null,
      "type": "bar"
@@ -622,25 +605,7 @@
    },
    {
     "value": {
-     "name": "Lounge 18 (Adults-only lounge)",
-     "cuisine": null,
-     "type": "bar"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/jw-marriott-maldives/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
      "name": "Teen Lounge",
-     "cuisine": null,
-     "type": "bar"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/jw-marriott-maldives/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Lounge 18",
      "cuisine": null,
      "type": "bar"
     },
@@ -674,8 +639,27 @@
     "value": "+960 736 5425",
     "source_url": "https://www.neoscapesmaldives.com/resort/jw-marriott-maldives/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960-654 6666",
+    "source_url": "https://www.mymaldives.com/resort-guide/jw-marriott-maldives-resort-spa/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "island_size": [
+   {
+    "value": "5 ha",
+    "source_url": "https://letsgomaldives.com/news/jw-marriott-maldives-resort-spa-elevates-nowruz-with-a-curated-spring-festival-series/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "villas.total": [
+   {
+    "value": 86,
+    "source_url": "https://www.mymaldives.com/resort-guide/jw-marriott-maldives-resort-spa/",
+    "as_of": "2026-10-04"
    }
   ]
  },
- "last_updated": "2026-10-04"
+ "last_updated": "2026-10-05"
 }

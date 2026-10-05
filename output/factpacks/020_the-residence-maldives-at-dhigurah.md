@@ -3,41 +3,43 @@
 **Official site:** https://www.cenizaro.com/theresidence/maldives-dg (ok)  
 **Brand:** n/a  
 **Atoll:** Gaafu Alifu Atoll  **Island:** Falhumaafushi  
-**Opened/renovated:** n/a  **Rating:** 5-star  
+**Opened/renovated:** opened 1998  **Rating:** 5-star  
 **Transfer:** domestic flight, speedboat; minutes: {"speedboat": 5, "domestic flight": 55}  
-**Island size:** n/a  
+**Island size:** 2 ha  
 
-## Villas (? total)
+## Villas (135 total)
 
 - No. of villas: count 50, ? sqm, max ?
+- No. of suites: count 3, ? sqm, max ?
 
 ## Dining
 
-- Seafood Mixed Grill (for two ) 116 (restaurant)
+- Welcome Lounge featuring relaxation area (bar)
 - Poolside Bar (bar)
-- Bar: 10.00pm till late (bar)
-- Sunset Cocktails and Dining (restaurant)
 - Cafe Del Sol Tapas Menu (restaurant)
 - Cafe Del Sol A La Carte Menu (restaurant)
 - Cafe Del Sol Kid's Menu (restaurant)
-- The Dining Room Kid's Menu (restaurant)
-- The Dining Room Menu (restaurant)
+- The Bar (bar)
+- The Beach Bar (bar)
+- The Dining Room Bar (bar)
+- Piano Bar (bar)
+- Le Restaurant (restaurant)
 
-Meal plans: n/a
+Meal plans: AI, FB, HB
 All-inclusive: All-Inclusive meal plan, and delight in a world of flavors across our 9 restaurants and bars (2-resorts combined).
 
 ## Spa & wellness
 
-- Spa: Couple Spa; treatment rooms: ?; menu: https://www.cenizaro.com/docs/maldives-dg/Spa_by_Clarins_-_Reception_Menu_-_JULY_25.pdf
-- Wellness/fitness: yoga, meditation, fitness centre, ayurveda, steam, wellness programme, gym
+- Spa: The Residence Bintan Spa; treatment rooms: ?; menu: https://www.cenizaro.com/docs/bintan/TRB_SPA_Menu_-_September_2026.pdf
+- Wellness/fitness: yoga, gym, steam, wellness programme, fitness centre, meditation, ayurveda, tennis, hammam, sauna, pilates, beach volleyball
 
 ## Diving, water sports & excursions
 
 - Operator: Dive Centre
 - House reef: House Reef orientation (once during the stay)
-- Activities: snorkeling, fishing, stand-up paddle, dolphin cruise, snorkelling, scuba diving, windsurfing, kayaking, catamaran, parasailing, sailing, whale shark, manta
+- Activities: snorkeling, fishing, stand-up paddle, dolphin cruise, snorkelling, scuba diving, windsurfing, kayaking, catamaran, parasailing, sailing, whale shark, manta, surfing
 - Price list: none
-- Excursions: local island, dolphin, big game fishing, turtle, picnic, cooking class, island hopping, castaway, whale shark, manta
+- Excursions: cooking class, local island, dolphin, big game fishing, turtle, picnic, island hopping, castaway, whale shark, manta, sandbank, cinema
 
 ## Kids & family
 
@@ -46,13 +48,13 @@ All-inclusive: All-Inclusive meal plan, and delight in a world of flavors across
 ## Weddings
 
 - Offered: True; vow renewal: None
-- Venues: n/a
-- Packages: Wedding Ceremony Package USD 1200 (2022); Wedding USD 1200 (2022)
+- Venues: SUNSET BEACH WEDDING
+- Packages: Wedding Ceremony Package USD 1200 (2022); Wedding USD 1200 (2022); Single Package EUR 1770 (2026-10-05); Double Package EUR 2095 (2026-10-05); VIBES Destination Dining Experience USD 500 (2026-10-05); Island Summer Savings Package USD 450 (2026-10-05)
 - Brochure: https://www.cenizaro.com/docs/maldives-dg/Maldives_Wedding_Ceremony_Packages.pdf
 
 ## Events / MICE
 
-- Venues: n/a; capacity max: n/a; buyout: None
+- Venues: n/a; capacity max: 240; buyout: None
 - Document: none
 
 ## Sustainability
@@ -61,23 +63,22 @@ All-inclusive: All-Inclusive meal plan, and delight in a world of flavors across
 
 ## Public contacts
 
-- Reservations: info-dhigurah.maldives@theresidence.com; weddings: n/a; phone: +960 682 0089
+- Reservations: reservation-bintan@theresidence.com; weddings: n/a; phone: +960 682 0089
 
 ## Latest documents
 
 - factsheet: none
 - map: none
 - wedding: https://www.cenizaro.com/docs/maldives-dg/Maldives_Wedding_Ceremony_Packages.pdf
-- spa_menu: https://www.cenizaro.com/docs/maldives-dg/Spa_by_Clarins_-_Reception_Menu_-_JULY_25.pdf
-- dining_menu: https://www.cenizaro.com/docs/maldives-dg/trmd-the-dining-room-2026-03.pdf
+- spa_menu: https://www.cenizaro.com/docs/bintan/TRB_SPA_Menu_-_September_2026.pdf
+- dining_menu: https://www.cenizaro.com/docs/bintan/TRB_Earth_Basket_Cooking_Class_Menu.pdf
 - dive_prices: none
 - events: none
-- calendar: none
+- calendar: https://www.cenizaro.com/docs/pressclippings/luxurytravelmagazine.com%2C_06.07.22.pdf
 
 ## Gaps
 
 - factsheet
 - events/MICE document
-- fact: villas.total
 
-_Facts extracted by rules from 23 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-04._
+_Facts extracted by rules from 29 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

@@ -29,49 +29,9 @@
   "total": 42,
   "categories": [
    {
-    "name": "Villas | . | King Bed",
+    "name": "Villas",
     "count": 42,
     "size_sqm": 155,
-    "max_occupancy": null,
-    "pool": null,
-    "overwater": null
-   },
-   {
-    "name": "Villas | Bedroom | Living Room",
-    "count": 3,
-    "size_sqm": null,
-    "max_occupancy": null,
-    "pool": null,
-    "overwater": null
-   },
-   {
-    "name": "Villas | Bedroom",
-    "count": 3,
-    "size_sqm": null,
-    "max_occupancy": null,
-    "pool": null,
-    "overwater": null
-   },
-   {
-    "name": "Villas | bedrooms | living room",
-    "count": 2,
-    "size_sqm": null,
-    "max_occupancy": null,
-    "pool": null,
-    "overwater": null
-   },
-   {
-    "name": "Villa | Bedrooms | Living Room",
-    "count": 1,
-    "size_sqm": null,
-    "max_occupancy": null,
-    "pool": null,
-    "overwater": null
-   },
-   {
-    "name": "Arrival Pavilion",
-    "count": 1,
-    "size_sqm": null,
     "max_occupancy": null,
     "pool": null,
     "overwater": null
@@ -165,14 +125,6 @@
     "overwater": null
    },
    {
-    "name": "Total Number of Villas",
-    "count": 80,
-    "size_sqm": null,
-    "max_occupancy": null,
-    "pool": null,
-    "overwater": null
-   },
-   {
     "name": "Bedroom Overwater Pool Villa",
     "count": 1,
     "size_sqm": null,
@@ -190,48 +142,7 @@
    }
   ]
  },
- "dining": [
-  {
-   "name": "Dining Room | Spa Room | Pantry |Water slide",
-   "cuisine": null,
-   "type": "restaurant"
-  },
-  {
-   "name": "3 Restaurants | 2 Bars | Deli",
-   "cuisine": null,
-   "type": "restaurant"
-  },
-  {
-   "name": "02 -Departure Lounge",
-   "cuisine": null,
-   "type": "bar"
-  },
-  {
-   "name": "05 -Speciality Restaurant 14 14 14",
-   "cuisine": null,
-   "type": "restaurant"
-  },
-  {
-   "name": "06 -Semi Underwater Restaurant",
-   "cuisine": null,
-   "type": "restaurant"
-  },
-  {
-   "name": "26 -Specialty Restaurant Jetty",
-   "cuisine": null,
-   "type": "restaurant"
-  },
-  {
-   "name": "32 -Staff Kitchen & Mess -------j",
-   "cuisine": null,
-   "type": "restaurant"
-  },
-  {
-   "name": "Dining",
-   "cuisine": null,
-   "type": "restaurant"
-  }
- ],
+ "dining": [],
  "meal_plans": [],
  "all_inclusive_details": null,
  "spa": {
@@ -298,6 +209,7 @@
   "factsheet",
   "wedding brochure",
   "events/MICE document",
+  "fact: dining",
   "fact: dive operator"
  ],
  "sources": {
@@ -347,7 +259,7 @@
   "villas.categories": [
    {
     "value": {
-     "name": "Villas | . | King Bed",
+     "name": "Villas",
      "count": 42,
      "size_sqm": 155,
      "max_occupancy": null,
@@ -359,7 +271,7 @@
    },
    {
     "value": {
-     "name": "Villas | . | King Bed",
+     "name": "Villas",
      "count": 20,
      "size_sqm": 155,
      "max_occupancy": null,
@@ -371,7 +283,7 @@
    },
    {
     "value": {
-     "name": "Villas | . | King Bed",
+     "name": "Villas",
      "count": 7,
      "size_sqm": 155,
      "max_occupancy": null,
@@ -383,7 +295,7 @@
    },
    {
     "value": {
-     "name": "Villas | Bedroom | Living Room",
+     "name": "Villas",
      "count": 3,
      "size_sqm": null,
      "max_occupancy": null,
@@ -395,7 +307,7 @@
    },
    {
     "value": {
-     "name": "Villas | Bedroom",
+     "name": "Villas",
      "count": 3,
      "size_sqm": null,
      "max_occupancy": null,
@@ -407,7 +319,7 @@
    },
    {
     "value": {
-     "name": "Villas | bedrooms | living room",
+     "name": "Villas",
      "count": 2,
      "size_sqm": null,
      "max_occupancy": null,
@@ -419,7 +331,7 @@
    },
    {
     "value": {
-     "name": "Villas | Bedrooms | Living Room",
+     "name": "Villas",
      "count": 2,
      "size_sqm": null,
      "max_occupancy": null,
@@ -427,30 +339,6 @@
      "overwater": null
     },
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/JW-Marriott-Kaafu-Atoll-Island-Resort_Presentation.pdf",
-    "as_of": 2024
-   },
-   {
-    "value": {
-     "name": "Villa | Bedrooms | Living Room",
-     "count": 1,
-     "size_sqm": null,
-     "max_occupancy": null,
-     "pool": null,
-     "overwater": null
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/JW-Marriott-Kaafu-Atoll-Island-Resort_Presentation.pdf",
-    "as_of": 2024
-   },
-   {
-    "value": {
-     "name": "Arrival Pavilion",
-     "count": 1,
-     "size_sqm": null,
-     "max_occupancy": null,
-     "pool": null,
-     "overwater": null
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/RESORT-MAP_Original.pdf",
     "as_of": 2024
    },
    {
@@ -587,18 +475,6 @@
    },
    {
     "value": {
-     "name": "Total Number of Villas",
-     "count": 80,
-     "size_sqm": null,
-     "max_occupancy": null,
-     "pool": null,
-     "overwater": null
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/jw-marriott-kaafu-atoll-island-resort/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
      "name": "Bedroom Overwater Pool Villa",
      "count": 1,
      "size_sqm": null,
@@ -730,89 +606,6 @@
     "as_of": "2026-10-04"
    }
   ],
-  "dining": [
-   {
-    "value": {
-     "name": "Dining Room | Spa Room | Pantry |Water slide",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/JW-Marriott-Kaafu-Atoll-Island-Resort_Presentation.pdf",
-    "as_of": 2024
-   },
-   {
-    "value": {
-     "name": "3 Restaurants | 2 Bars | Deli",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/JW-Marriott-Kaafu-Atoll-Island-Resort_Presentation.pdf",
-    "as_of": 2024
-   },
-   {
-    "value": {
-     "name": "02 -Departure Lounge",
-     "cuisine": null,
-     "type": "bar"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/RESORT-MAP_Original.pdf",
-    "as_of": 2024
-   },
-   {
-    "value": {
-     "name": "05 -Speciality Restaurant 14 14 14",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/RESORT-MAP_Original.pdf",
-    "as_of": 2024
-   },
-   {
-    "value": {
-     "name": "06 -Semi Underwater Restaurant",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/RESORT-MAP_Original.pdf",
-    "as_of": 2024
-   },
-   {
-    "value": {
-     "name": "26 -Specialty Restaurant Jetty",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/RESORT-MAP_Original.pdf",
-    "as_of": 2024
-   },
-   {
-    "value": {
-     "name": "32 -Staff Kitchen & Mess -------j",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/RESORT-MAP_Original.pdf",
-    "as_of": 2024
-   },
-   {
-    "value": {
-     "name": "Dining",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/jw-marriott-kaafu-atoll-island-resort/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Dining",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/jw-marriott-kaafu-atoll-island-resort/",
-    "as_of": "2026-10-04"
-   }
-  ],
   "spa.name": [
    {
     "value": "Spa",
@@ -929,5 +722,5 @@
    }
   ]
  },
- "last_updated": "2026-10-04"
+ "last_updated": "2026-10-05"
 }

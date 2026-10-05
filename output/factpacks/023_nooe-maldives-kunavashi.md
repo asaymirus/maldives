@@ -1,6 +1,6 @@
 # 23. Nooe Maldives Kunavashi
 
-**Official site:** https://www.nooemaldives.com/ (unreachable)  
+**Official site:** https://nooemaldives.com/ (ok)  
 **Brand:** Nooe  
 **Atoll:** Vaavu Atoll  **Island:** n/a  
 **Opened/renovated:** n/a  **Rating:** n/a  
@@ -13,7 +13,6 @@
 - Sunset Beach Villa: count 21, ? sqm, max ?
 - Duple Overwater Villa with Private Pool: count 38, ? sqm, max ?, pool, overwater
 - Grand Solana Bedroom Beach Villa with Private Pool & Jacuzzi: count 1, ? sqm, max ?, pool
-- Total Number of Villas: count 72, ? sqm, max ?
 - duple overwater villa pool nooe maldives kunavaashi: count 8, ? sqm, max ?, pool, overwater
 - duple overwater villa outdoor deck nooe maldives kunavaashi: count 6, ? sqm, max ?, overwater
 - duple overwater villa outdoor nooe maldives kunavaashi: count 7, ? sqm, max ?, overwater
@@ -25,12 +24,7 @@
 
 - Moodhu (Sports Bar) (bar)
 - Iru - All Day Dining Veli Bar (bar)
-- Flame - Grill House Washoku - Japanese Inspired Dining (restaurant)
-- Dining (restaurant)
-- A Journey of Japanese-Inspired Dining (restaurant)
-- Signature Chargrill Dining Over the Vaavu Atoll (restaurant)
 - Veli Pool Bar (bar)
-- Private Dining (restaurant)
 
 Meal plans: n/a
 
@@ -81,7 +75,7 @@ Th-ari Spa; treatment rooms: ?; menu: none
 - dining_menu: none
 - dive_prices: none
 - events: none
-- calendar: none
+- calendar: https://letsgomaldives.com/wp-content/uploads/2026/02/Easter-Brochure-2026-1.pdf
 
 ## Gaps
 
@@ -90,4 +84,4 @@ Th-ari Spa; treatment rooms: ?; menu: none
 - fact: villas.total
 - fact: dive operator
 
-_Facts extracted by rules from 16 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-04._
+_Facts extracted by rules from 16 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

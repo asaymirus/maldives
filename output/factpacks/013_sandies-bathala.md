@@ -2,19 +2,21 @@
 
 **Official site:** https://www.planhotel.com/en/hotel/sandies-bathala-maldives (ok)  
 **Brand:** Sandies  
-**Atoll:** Ari Atoll  **Island:** n/a  
+**Atoll:** Ari Atoll  **Island:** Kuramathi  
 **Opened/renovated:** n/a  **Rating:** 5-star  
 **Transfer:** seaplane, yacht; minutes: {"seaplane": 35}  
 **Island size:** n/a  
 
-## Villas (? total)
+## Villas (18 total)
 
 - Sandies Tropical Village . / Sandies Tropical Village . /: count 5, ? sqm, max ?
 
 ## Dining
 
 - Onda Restaurant (restaurant)
-- View Fine Dining propone anche il menu (restaurant)
+- – Restaurant (restaurant)
+- – Bar & coffee shop (bar)
+- The Island Bar (bar)
 
 Meal plans: Dine Around, AI, FB
 All-inclusive: All-Inclusive plan.
@@ -22,15 +24,15 @@ All-inclusive: All-Inclusive plan.
 ## Spa & wellness
 
 - Spa: Mvua African Rain Spa; treatment rooms: ?; menu: https://d1vp8nomjxwyf1.cloudfront.net/wp-content/uploads/sites/212/2017/07/02141435/Planhotel-Hospitality-Group-Company-Profile_dsp.pdf
-- Wellness/fitness: gym, yoga, tennis
+- Wellness/fitness: gym, yoga, tennis, ayurveda, beach volleyball
 
 ## Diving, water sports & excursions
 
-- Operator: n/a
+- Operator: Dive Centre
 - House reef: house reef, achieving a
-- Activities: snorkeling, scuba diving, snorkelling, whale shark, windsurfing, surfing, sailing, fishing
+- Activities: snorkeling, scuba diving, snorkelling, whale shark, windsurfing, surfing, sailing, fishing, manta
 - Price list: none
-- Excursions: turtle, cinema, cooking class, whale shark
+- Excursions: turtle, cinema, cooking class, whale shark, manta, sandbank
 
 ## Kids & family
 
@@ -45,12 +47,12 @@ All-inclusive: All-Inclusive plan.
 
 ## Events / MICE
 
-- Venues: Venue Theatre Classroom U-Shape Boardroom Banquet Cocktail; Main Ballroom 400 280 100 80 200 350; Boardroom 20 20 20 14 — —; capacity max: 60; buyout: None
+- Venues: Venue Theatre Classroom U-Shape Boardroom Banquet Cocktail; Main Ballroom 400 280 100 80 200 350; Boardroom 20 20 20 14 — —; Meeting Room; capacity max: 60; buyout: None
 - Document: https://d1vp8nomjxwyf1.cloudfront.net/wp-content/uploads/sites/212/2017/07/03081145/DIAMONDS-Malindi-MICE-Booklet-2026.pdf
 
 ## Sustainability
 
-- solar, Travelife, marine lab, reef restoration, coral restoration, marine biologist, Olive Ridley Project
+- solar, Travelife, marine lab, reef restoration, coral restoration, marine biologist, Olive Ridley Project, single-use plastic
 
 ## Public contacts
 
@@ -71,8 +73,6 @@ All-inclusive: All-Inclusive plan.
 
 - factsheet
 - wedding brochure
-- fact: villas.total
-- fact: dive operator
 - fact: kids club
 
-_Facts extracted by rules from 18 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-04._
+_Facts extracted by rules from 21 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

@@ -78,14 +78,6 @@
     "overwater": null
    },
    {
-    "name": "Number of Villas",
-    "count": 80,
-    "size_sqm": null,
-    "max_occupancy": null,
-    "pool": null,
-    "overwater": null
-   },
-   {
     "name": "alila kothaifaru maldives watervilla aerial",
     "count": 2,
     "size_sqm": null,
@@ -105,11 +97,6 @@
    "name": "Yakitori Bar Wedding and Celebration",
    "cuisine": null,
    "type": "bar"
-  },
-  {
-   "name": "Dining",
-   "cuisine": null,
-   "type": "restaurant"
   },
   {
    "name": "Mirus Bar",
@@ -139,7 +126,9 @@
    "sunset cruise",
    "whale shark",
    "manta",
-   "snorkeling"
+   "snorkeling",
+   "paddleboard",
+   "dolphin cruise"
   ],
   "price_list_doc": null
  },
@@ -148,7 +137,10 @@
   "whale shark",
   "manta",
   "picnic",
-  "stargazing"
+  "stargazing",
+  "cooking class",
+  "dolphin",
+  "cinema"
  ],
  "kids_family": {
   "kids_club": "Kids Club",
@@ -158,7 +150,11 @@
  "wellness_fitness": [
   "yoga",
   "gym",
-  "fitness centre"
+  "fitness centre",
+  "fitness center",
+  "tennis",
+  "beach volleyball",
+  "padel"
  ],
  "weddings": {
   "offered": true,
@@ -175,7 +171,8 @@
  },
  "sustainability": [
   "single-use plastic",
-  "EarthCheck"
+  "EarthCheck",
+  "solar"
  ],
  "contacts_public": {
   "reservations_email": "info@neoscapesmaldives.com",
@@ -209,6 +206,21 @@
     "value": "Baa Atoll",
     "source_url": "https://www.neoscapesmaldives.com/resort/alila-kothaifaru-maldives/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "Raa Atoll",
+    "source_url": "https://letsgomaldives.com/news/alila-kothaifaru-maldives-luxury-meets-sustainability/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Raa Atoll",
+    "source_url": "https://visitmaldives.com/en/resorts/alila-kothaifaru-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Raa Atoll",
+    "source_url": "https://malediven.de/malediven-hotels/alila-kothaifaru/",
+    "as_of": "2026-10-04"
    }
   ],
   "transfer.modes": [
@@ -226,6 +238,16 @@
     "value": "speedboat",
     "source_url": "https://www.neoscapesmaldives.com/resort/alila-kothaifaru-maldives/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://letsgomaldives.com/news/alila-kothaifaru-maldives-luxury-meets-sustainability/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://visitmaldives.com/en/resorts/alila-kothaifaru-maldives",
+    "as_of": "2026-10-04"
    }
   ],
   "transfer.minutes.seaplane": [
@@ -237,6 +259,16 @@
    {
     "value": 45,
     "source_url": "https://www.neoscapesmaldives.com/resort/alila-kothaifaru-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 45,
+    "source_url": "https://letsgomaldives.com/news/alila-kothaifaru-maldives-luxury-meets-sustainability/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 45,
+    "source_url": "https://visitmaldives.com/en/resorts/alila-kothaifaru-maldives",
     "as_of": "2026-10-04"
    }
   ],
@@ -327,18 +359,6 @@
    },
    {
     "value": {
-     "name": "Number of Villas",
-     "count": 80,
-     "size_sqm": null,
-     "max_occupancy": null,
-     "pool": null,
-     "overwater": null
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/alila-kothaifaru-maldives/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
      "name": "alila kothaifaru maldives watervilla aerial",
      "count": 2,
      "size_sqm": null,
@@ -371,24 +391,6 @@
    },
    {
     "value": {
-     "name": "Dining",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/alila-kothaifaru-maldives/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Dining",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/alila-kothaifaru-maldives/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
      "name": "Mirus Bar",
      "cuisine": null,
      "type": "bar"
@@ -404,6 +406,15 @@
     },
     "source_url": "https://www.neoscapesmaldives.com/resort/alila-kothaifaru-maldives/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Mirus Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://letsgomaldives.com/news/alila-kothaifaru-maldives-luxury-meets-sustainability/",
+    "as_of": "2026-10-04"
    }
   ],
   "spa.name": [
@@ -415,6 +426,16 @@
    {
     "value": "Spa",
     "source_url": "https://www.neoscapesmaldives.com/resort/alila-kothaifaru-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://letsgomaldives.com/news/alila-kothaifaru-maldives-luxury-meets-sustainability/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://malediven.de/malediven-hotels/alila-kothaifaru/",
     "as_of": "2026-10-04"
    }
   ],
@@ -439,6 +460,11 @@
    {
     "value": "house reef and nearby sites, including the Baa Atoll UNESCO World Biosphere Reserve and Hanifaru Bay’s seasonal manta gatherings",
     "source_url": "https://www.neoscapesmaldives.com/resort/alila-kothaifaru-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef",
+    "source_url": "https://letsgomaldives.com/news/alila-kothaifaru-maldives-luxury-meets-sustainability/",
     "as_of": "2026-10-04"
    }
   ],
@@ -487,6 +513,31 @@
     "value": "manta",
     "source_url": "https://www.neoscapesmaldives.com/resort/alila-kothaifaru-maldives/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://letsgomaldives.com/news/alila-kothaifaru-maldives-luxury-meets-sustainability/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "kayaking",
+    "source_url": "https://letsgomaldives.com/news/alila-kothaifaru-maldives-luxury-meets-sustainability/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "paddleboard",
+    "source_url": "https://letsgomaldives.com/news/alila-kothaifaru-maldives-luxury-meets-sustainability/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://visitmaldives.com/en/resorts/alila-kothaifaru-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin cruise",
+    "source_url": "https://malediven.de/malediven-hotels/alila-kothaifaru/",
+    "as_of": "2026-10-04"
    }
   ],
   "excursions": [
@@ -534,6 +585,26 @@
     "value": "stargazing",
     "source_url": "https://www.neoscapesmaldives.com/resort/alila-kothaifaru-maldives/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "cooking class",
+    "source_url": "https://visitmaldives.com/en/resorts/alila-kothaifaru-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://malediven.de/malediven-hotels/alila-kothaifaru/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://malediven.de/malediven-hotels/alila-kothaifaru/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "cinema",
+    "source_url": "https://malediven.de/malediven-hotels/alila-kothaifaru/",
+    "as_of": "2026-10-04"
    }
   ],
   "wellness_fitness": [
@@ -561,6 +632,46 @@
     "value": "fitness centre",
     "source_url": "https://www.neoscapesmaldives.com/resort/alila-kothaifaru-maldives/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://letsgomaldives.com/news/alila-kothaifaru-maldives-luxury-meets-sustainability/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fitness center",
+    "source_url": "https://letsgomaldives.com/news/alila-kothaifaru-maldives-luxury-meets-sustainability/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://letsgomaldives.com/news/alila-kothaifaru-maldives-luxury-meets-sustainability/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "beach volleyball",
+    "source_url": "https://letsgomaldives.com/news/alila-kothaifaru-maldives-luxury-meets-sustainability/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://visitmaldives.com/en/resorts/alila-kothaifaru-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "gym",
+    "source_url": "https://visitmaldives.com/en/resorts/alila-kothaifaru-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://malediven.de/malediven-hotels/alila-kothaifaru/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "padel",
+    "source_url": "https://malediven.de/malediven-hotels/alila-kothaifaru/",
+    "as_of": "2026-10-04"
    }
   ],
   "weddings.offered": [
@@ -572,6 +683,16 @@
    {
     "value": true,
     "source_url": "https://www.neoscapesmaldives.com/resort/alila-kothaifaru-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://visitmaldives.com/en/resorts/alila-kothaifaru-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://malediven.de/malediven-hotels/alila-kothaifaru/",
     "as_of": "2026-10-04"
    }
   ],
@@ -597,12 +718,22 @@
     "value": "EarthCheck",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Alila-Kothaifaru-Maldives-Factsheet-2022.pdf",
     "as_of": 2022
+   },
+   {
+    "value": "solar",
+    "source_url": "https://letsgomaldives.com/news/alila-kothaifaru-maldives-luxury-meets-sustainability/",
+    "as_of": "2026-10-04"
    }
   ],
   "kids_family.kids_club": [
    {
     "value": "Kids Club",
     "source_url": "https://www.neoscapesmaldives.com/resort/alila-kothaifaru-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Wi-Fi\nFamily Accommodation\nKids Club",
+    "source_url": "https://visitmaldives.com/en/resorts/alila-kothaifaru-maldives",
     "as_of": "2026-10-04"
    }
   ],
@@ -618,8 +749,13 @@
     "value": "+960 736 5425",
     "source_url": "https://www.neoscapesmaldives.com/resort/alila-kothaifaru-maldives/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 659 1234",
+    "source_url": "https://visitmaldives.com/en/resorts/alila-kothaifaru-maldives",
+    "as_of": "2026-10-04"
    }
   ]
  },
- "last_updated": "2026-10-04"
+ "last_updated": "2026-10-05"
 }

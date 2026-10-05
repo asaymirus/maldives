@@ -13,7 +13,6 @@
 - Beach Pool Villa: count 19, ? sqm, max ?, pool
 - Family Oceanfront Beach Pool Villa: count 4, ? sqm, max ?, pool, overwater
 - Family Beach Pool Villa: count 6, ? sqm, max ?, pool
-- Overwater Pool Villa Wellness Pavilion: count 21, ? sqm, max ?, pool, overwater
 - Sunset Overwater Pool Villa Beach Villas: count 20, ? sqm, max ?, pool, overwater
 - Size: / Units Family Villas: count ?, 230 sqm, max ?
 - Pool Size: . . . meters Overwater Retreats: count 17, ? sqm, max ?, pool, overwater
@@ -23,7 +22,6 @@
 - Sunset Overwater Pool Villa - BR King A A + C or A: count 7, ? sqm, max ?, pool, overwater
 - Sunset Beach Pool Villa - BR Super King A A + C or A: count 3, ? sqm, max ?, pool
 - Thari Dive Centre Oceanfront Beach Pool Villa: count 3, ? sqm, max ?, pool, overwater
-- PDR Padel Court Beach Pool Villa: count 5, ? sqm, max ?, pool
 - Fire Pit Yapa Bar Sunset Beach Pool Villa: count 7, ? sqm, max ?, pool
 - Faru - Kids Club Yuzu Family Oceanfront Beach Pool Villa: count 8, ? sqm, max ?, pool, overwater
 - Horizon Overwater Retreat: count 8, ? sqm, max ?, overwater
@@ -33,13 +31,6 @@
 
 ## Dining
 
-- 2 Adults + 4 Children 2 Bell Bar (bar)
-- Horizon Overwater Retreat 20 Yapa Bar (bar)
-- Bell Bar Yapa Bar Destination Dining (bar)
-- High tea at Bell Bar - - - Once per stay Daily (bar)
-- 2 Bell Bar 10 Watersports 18 Fitness Studio (bar)
-- 7 Fire Pit 15 Yapa Bar 23 Sunset Beach Pool Villa (bar)
-- Dining (restaurant)
 - Bell Bar (bar)
 - Yapa Sunset Bar (bar)
 
@@ -91,11 +82,11 @@ Meal plans: BB, HB, FB, AI
 - dining_menu: none
 - dive_prices: none
 - events: none
-- calendar: none
+- calendar: https://letsgomaldives.com/wp-content/uploads/2026/02/The-Halcyon-Maldives-Easter-Brochure-2026.pdf
 
 ## Gaps
 
 - wedding brochure
 - events/MICE document
 
-_Facts extracted by rules from 20 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-04._
+_Facts extracted by rules from 20 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

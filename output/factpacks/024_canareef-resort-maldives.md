@@ -13,6 +13,7 @@
 
 ## Dining
 
+- Bar Dhor (bar)
 - Kilhi Restaurant (restaurant)
 - Dhoni Bar (bar)
 - Meera Bar (bar)
@@ -22,13 +23,8 @@
 - Sunnyside Lounge (bar)
 - Keymaa Restaurant (restaurant)
 - Restaurant MENU (restaurant)
-- Daily Dining (restaurant)
-- Enjoy a 15% discount on a la carte dining at Meera Bar. (bar)
 - Dhoni Bar Beach (bar)
-- Restaurant (restaurant)
-- Dining Options (restaurant)
 - Beach Bar (bar)
-- Dining (restaurant)
 - Dhoni Bar Deck (bar)
 - Mini Bar Service (Additional Charges Apply) (bar)
 
@@ -38,15 +34,15 @@ All-inclusive: All-Inclusive Package at Canareef Resort Maldives.
 ## Spa & wellness
 
 - Spa: Spa; treatment rooms: ?; menu: none
-- Wellness/fitness: gym, tennis, beach volleyball, yoga, meditation
+- Wellness/fitness: gym, tennis, beach volleyball, yoga, meditation, badminton, fitness center
 
 ## Diving, water sports & excursions
 
 - Operator: Diverland
 - House reef: house reef make it a favourite for both relaxation and adventure
-- Activities: dolphin cruise, manta, snorkelling, fishing, sunset cruise, snorkeling, scuba diving, canoe
+- Activities: dolphin cruise, manta, snorkelling, fishing, sunset cruise, snorkeling, scuba diving, canoe, windsurfing, catamaran, sailing
 - Price list: none
-- Excursions: dolphin, manta, picnic, local island, turtle, island hopping, sunset fishing, big game fishing, cooking class, stargazing
+- Excursions: dolphin, manta, picnic, local island, turtle, island hopping, sunset fishing, big game fishing, cooking class, stargazing, night fishing
 
 ## Kids & family
 
@@ -61,7 +57,7 @@ All-inclusive: All-Inclusive Package at Canareef Resort Maldives.
 
 ## Events / MICE
 
-- Venues: n/a; capacity max: n/a; buyout: None
+- Venues: n/a; capacity max: 30; buyout: None
 - Document: none
 
 ## Sustainability
@@ -75,13 +71,13 @@ All-inclusive: All-Inclusive Package at Canareef Resort Maldives.
 ## Latest documents
 
 - factsheet: none
-- map: none
+- map: https://canareef.com/wp-content/uploads/2023/11/Canareef-Resort-Maldives-Map.pdf
 - wedding: none
 - spa_menu: none
-- dining_menu: none
+- dining_menu: https://canareef.com/wp-content/uploads/2025/02/Valentines-Day-Dinner-Menu-2025.pdf
 - dive_prices: none
 - events: none
-- calendar: none
+- calendar: https://canareef.com/wp-content/uploads/2024/12/Festive-Brochure-2024-Canareef-Resort-Maldives.pdf
 
 ## Gaps
 
@@ -89,4 +85,4 @@ All-inclusive: All-Inclusive Package at Canareef Resort Maldives.
 - wedding brochure
 - events/MICE document
 
-_Facts extracted by rules from 25 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-04._
+_Facts extracted by rules from 26 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

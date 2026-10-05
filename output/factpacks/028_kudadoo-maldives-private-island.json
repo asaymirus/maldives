@@ -9,9 +9,9 @@
  "official_site_status": "ok",
  "operator_brand": "Kudadoo",
  "atoll": "Lhaviyani Atoll",
- "island": null,
- "opened_or_renovated": null,
- "star_rating": null,
+ "island": "Meerufenfushi",
+ "opened_or_renovated": "opened 2000",
+ "star_rating": "5-star",
  "transfer": {
   "modes": [
    "seaplane",
@@ -21,14 +21,14 @@
   ],
   "minutes": {
    "seaplane": 40,
-   "speedboat": null,
+   "speedboat": 55,
    "domestic flight": 35,
    "yacht": null
   }
  },
  "island_size": null,
  "villas": {
-  "total": null,
+  "total": 15,
   "categories": [
    {
     "name": "Ocean Residences of one",
@@ -37,34 +37,46 @@
     "max_occupancy": null,
     "pool": null,
     "overwater": true
+   },
+   {
+    "name": "Residences Powered",
+    "count": 15,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "Villas",
+    "count": 90,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
    }
   ]
  },
  "dining": [
   {
-   "name": "The Kudadoo Lounge at the Seaplane Terminal embraces",
-   "cuisine": null,
-   "type": "bar"
-  },
-  {
-   "name": "gardening outside 5.8 Undersea Restaurant at Hu",
+   "name": "Kitchen",
    "cuisine": null,
    "type": "restaurant"
   }
  ],
  "meal_plans": [
-  "AI"
+  "AI",
+  "Dine Around"
  ],
- "all_inclusive_details": null,
+ "all_inclusive_details": "all-inclusive plan is available in Hurawalhi.",
  "spa": {
-  "name": "Sulha Spa",
+  "name": "Spa",
   "treatment_rooms": null,
   "signature_treatments": [],
   "menu_doc": "https://sales.crownandchamparesorts.com/wp-content/uploads/2025/12/KudadooSulhaSpaMenu110125103126Ver112023.pdf"
  },
  "diving_watersports": {
-  "operator": "Prodivers",
-  "house_reef": "house reef and",
+  "operator": "Euro Divers",
+  "house_reef": "house reef and Maldivian hospitality",
   "activities": [
    "snorkelling",
    "windsurfing",
@@ -80,7 +92,12 @@
    "kitesurfing",
    "fishing",
    "seabob",
-   "flyboard"
+   "flyboard",
+   "dolphin cruise",
+   "whale shark",
+   "kayaking",
+   "sunset cruise",
+   "parasailing"
   ],
   "price_list_doc": null
  },
@@ -90,7 +107,8 @@
   "manta",
   "turtle",
   "picnic",
-  "big game fishing"
+  "big game fishing",
+  "whale shark"
  ],
  "kids_family": {
   "kids_club": null,
@@ -103,7 +121,9 @@
   "sauna",
   "steam",
   "personal trainer",
-  "meditation"
+  "meditation",
+  "tennis",
+  "badminton"
  ],
  "weddings": {
   "offered": true,
@@ -117,23 +137,21 @@
    "meeting room as well as the Sulha Spa; encompassing"
   ],
   "capacity_max": 30,
-  "buyout": null,
+  "buyout": true,
   "doc": null
  },
  "sustainability": [
   "marine biologist",
   "solar",
   "manta trust",
-  "coral nursery",
-  "single-use plastic",
-  "Travelife",
-  "composting",
-  "Olive Ridley Project"
+  "coral restoration",
+  "desalination",
+  "Travelife"
  ],
  "contacts_public": {
-  "reservations_email": "reservations@kudadoo.com",
+  "reservations_email": "reservations@kagimaldives.com",
   "weddings_email": null,
-  "phone": null
+  "phone": "+960 664 3157"
  },
  "documents_latest": {
   "factsheet": "https://sales.crownandchamparesorts.com/wp-content/uploads/2025/12/KudadooFactsheet110125103126Ver0526255.pdf",
@@ -143,13 +161,12 @@
   "dining_menu": null,
   "dive_prices": null,
   "events": null,
-  "calendar": null
+  "calendar": "https://d2qwq69i2ic1pk.cloudfront.net/2023/11/CCR_2024_Calendar_compressed.pdf"
  },
- "documents_count": 14,
+ "documents_count": 28,
  "gaps": [
   "wedding brochure",
   "events/MICE document",
-  "fact: villas.total",
   "fact: kids club"
  ],
  "sources": {
@@ -176,8 +193,58 @@
    },
    {
     "value": "Lhaviyani Atoll",
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2025/12/KudadooSustainabilityBrochure110125103126Ver042024.pdf",
-    "as_of": 2025
+    "source_url": "https://www.crownandchamparesorts.com/our-resorts/jawakara-islands-maldives.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Ari Atoll",
+    "source_url": "https://www.crownandchamparesorts.com/our-resorts/vilamendhoo.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Lhaviyani Atoll",
+    "source_url": "https://www.crownandchamparesorts.com/our-resorts/kudadoo.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Ari Atoll",
+    "source_url": "https://www.crownandchamparesorts.com/our-resorts/veligandu.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Lhaviyani Atoll",
+    "source_url": "https://www.crownandchamparesorts.com/our-resorts/kuredu.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Lhaviyani Atoll",
+    "source_url": "https://www.crownandchamparesorts.com/our-resorts/hurawalhi.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Lhaviyani Atoll",
+    "source_url": "https://www.crownandchamparesorts.com/our-resorts/komandoo.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "North Malé Atoll",
+    "source_url": "https://www.crownandchamparesorts.com/our-resorts/kagi-maldives.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Lhaviyani Atoll",
+    "source_url": "https://www.crownandchamparesorts.com/inquire-now.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Lhaviyani Atoll",
+    "source_url": "https://malediven.de/malediven-hotels/kudadoo/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Lhaviyani Atoll",
+    "source_url": "https://www.airtours.de/reiseziele/asien/malediven/kudadoo-malediven/",
+    "as_of": "2026-10-04"
    }
   ],
   "transfer.modes": [
@@ -215,6 +282,71 @@
     "value": "yacht",
     "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2025/12/KudadooAnythingAnytimeAnywherePackage110125103126Ver052625.pdf",
     "as_of": 2025
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.crownandchamparesorts.com/travel-guidance.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.crownandchamparesorts.com/our-resorts/jawakara-islands-maldives.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.crownandchamparesorts.com/our-resorts/vilamendhoo.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.crownandchamparesorts.com/our-resorts/kudadoo.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.crownandchamparesorts.com/our-resorts/veligandu.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.crownandchamparesorts.com/our-resorts/nala-maldives.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.crownandchamparesorts.com/our-resorts/kuredu.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.crownandchamparesorts.com/our-resorts/meeru.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.crownandchamparesorts.com/our-resorts/hurawalhi.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.crownandchamparesorts.com/festive-season-in-the-maldives.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.crownandchamparesorts.com/testimonials.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.crownandchamparesorts.com/our-resorts/komandoo.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.crownandchamparesorts.com/our-resorts/kagi-maldives.html",
+    "as_of": "2026-10-05"
    }
   ],
   "transfer.minutes.seaplane": [
@@ -222,6 +354,46 @@
     "value": 40,
     "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2025/12/KudadooFactsheet110125103126Ver0526255.pdf",
     "as_of": 2025
+   },
+   {
+    "value": 40,
+    "source_url": "https://www.crownandchamparesorts.com/our-resorts/jawakara-islands-maldives.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": 25,
+    "source_url": "https://www.crownandchamparesorts.com/our-resorts/vilamendhoo.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": 40,
+    "source_url": "https://www.crownandchamparesorts.com/our-resorts/kudadoo.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": 20,
+    "source_url": "https://www.crownandchamparesorts.com/our-resorts/veligandu.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": 40,
+    "source_url": "https://www.crownandchamparesorts.com/our-resorts/nala-maldives.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": 40,
+    "source_url": "https://www.crownandchamparesorts.com/our-resorts/kuredu.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": 40,
+    "source_url": "https://www.crownandchamparesorts.com/our-resorts/hurawalhi.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": 40,
+    "source_url": "https://www.crownandchamparesorts.com/our-resorts/komandoo.html",
+    "as_of": "2026-10-05"
    }
   ],
   "transfer.minutes.domestic flight": [
@@ -243,25 +415,89 @@
     },
     "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2025/12/KudadooFactsheet110125103126Ver0526255.pdf",
     "as_of": 2025
-   }
-  ],
-  "dining": [
+   },
    {
     "value": {
-     "name": "The Kudadoo Lounge at the Seaplane Terminal embraces",
-     "cuisine": null,
-     "type": "bar"
+     "name": "Residences Powered",
+     "count": 15,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
     },
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2025/12/KudadooFactsheet110125103126Ver0526255.pdf",
+    "source_url": "https://d2qwq69i2ic1pk.cloudfront.net/2026/02/Sustainablity-Initiatives-Brochure-CCR-2025.pdf",
     "as_of": 2025
    },
    {
     "value": {
-     "name": "gardening outside 5.8 Undersea Restaurant at Hu",
-     "cuisine": null,
-     "type": "restaurant"
+     "name": "Villas",
+     "count": 90,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
     },
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2025/12/KudadooSustainabilityBrochure110125103126Ver042024.pdf",
+    "source_url": "https://d2qwq69i2ic1pk.cloudfront.net/2026/02/Sustainablity-Initiatives-Brochure-CCR-2025.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": {
+     "name": "Villas",
+     "count": 100,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://d2qwq69i2ic1pk.cloudfront.net/2026/02/Sustainablity-Initiatives-Brochure-CCR-2025.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": {
+     "name": "Villas",
+     "count": 290,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://d2qwq69i2ic1pk.cloudfront.net/2026/02/Sustainablity-Initiatives-Brochure-CCR-2025.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": {
+     "name": "Villas",
+     "count": 65,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://d2qwq69i2ic1pk.cloudfront.net/2026/02/Sustainablity-Initiatives-Brochure-CCR-2025.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": {
+     "name": "Villas",
+     "count": 284,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://d2qwq69i2ic1pk.cloudfront.net/2026/02/Sustainablity-Initiatives-Brochure-CCR-2025.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": {
+     "name": "Villas",
+     "count": 389,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://d2qwq69i2ic1pk.cloudfront.net/2026/02/Sustainablity-Initiatives-Brochure-CCR-2025.pdf",
     "as_of": 2025
    }
   ],
@@ -283,8 +519,98 @@
    },
    {
     "value": "Spa",
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2025/12/KudadooSustainabilityBrochure110125103126Ver042024.pdf",
+    "source_url": "https://d2qwq69i2ic1pk.cloudfront.net/2026/02/Sustainablity-Initiatives-Brochure-CCR-2025.pdf",
     "as_of": 2025
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.crownandchamparesorts.com/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.crownandchamparesorts.com/offers.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.crownandchamparesorts.com/resorts-mobile-apps.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.crownandchamparesorts.com/our-resorts.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.crownandchamparesorts.com/sitemap.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.crownandchamparesorts.com/travel-agents.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.crownandchamparesorts.com",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.crownandchamparesorts.com/our-resorts/kuredu.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.crownandchamparesorts.com/our-resorts/meeru.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.crownandchamparesorts.com/testimonials.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.crownandchamparesorts.com/careers.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.crownandchamparesorts.com/our-resorts/komandoo.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.crownandchamparesorts.com/about-us.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.crownandchamparesorts.com/our-resorts/kagi-maldives.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.crownandchamparesorts.com/inquire-now.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.crownandchamparesorts.com/komandoo-careers/assistant-financial-controller-department-head.html?htl=NzcxOA==&jb=QXNzaXN0YW50IEZpbmFuY2lhbCBDb250cm9sbGVyIOKAkyBEZXBhcnRtZW50IEhlYWQ=&jcat=QWNjb3VudGluZw==",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://malediven.de/malediven-hotels/kudadoo/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.airtours.de/reiseziele/asien/malediven/kudadoo-malediven/",
+    "as_of": "2026-10-04"
    }
   ],
   "diving_watersports.house_reef": [
@@ -294,9 +620,49 @@
     "as_of": 2025
    },
    {
-    "value": "house reef snorkel and scuba dive clean up on a local house reef",
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2025/12/KudadooSustainabilityBrochure110125103126Ver042024.pdf",
-    "as_of": 2025
+    "value": "house reef and Maldivian hospitality",
+    "source_url": "https://www.crownandchamparesorts.com/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "house reef and Maldivian hospitality",
+    "source_url": "https://www.crownandchamparesorts.com/our-resorts.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "House Reef",
+    "source_url": "https://www.crownandchamparesorts.com/our-resorts/vilamendhoo.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "house reefs and warm Maldivian hospitality",
+    "source_url": "https://www.crownandchamparesorts.com/our-resorts/veligandu.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "house reef and Maldivian hospitality",
+    "source_url": "https://www.crownandchamparesorts.com",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "house reefs",
+    "source_url": "https://www.crownandchamparesorts.com/festive-season-in-the-maldives.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "house reef is breathtaking",
+    "source_url": "https://www.crownandchamparesorts.com/testimonials.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "house reef and award-winning hospitality",
+    "source_url": "https://www.crownandchamparesorts.com/our-resorts/komandoo.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "house reef and Maldivian hospitality",
+    "source_url": "https://www.crownandchamparesorts.com/about-us.html",
+    "as_of": "2026-10-05"
    }
   ],
   "diving_watersports.activities": [
@@ -406,19 +772,179 @@
     "as_of": 2025
    },
    {
-    "value": "scuba diving",
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2025/12/KudadooSustainabilityBrochure110125103126Ver042024.pdf",
+    "value": "snorkeling",
+    "source_url": "https://d2qwq69i2ic1pk.cloudfront.net/2026/02/Sustainablity-Initiatives-Brochure-CCR-2025.pdf",
     "as_of": 2025
    },
    {
     "value": "fishing",
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2025/12/KudadooSustainabilityBrochure110125103126Ver042024.pdf",
+    "source_url": "https://d2qwq69i2ic1pk.cloudfront.net/2026/02/Sustainablity-Initiatives-Brochure-CCR-2025.pdf",
     "as_of": 2025
    },
    {
+    "value": "snorkeling",
+    "source_url": "https://www.crownandchamparesorts.com/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://www.crownandchamparesorts.com/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.crownandchamparesorts.com/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "dolphin cruise",
+    "source_url": "https://www.crownandchamparesorts.com/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.crownandchamparesorts.com/",
+    "as_of": "2026-10-05"
+   },
+   {
     "value": "manta",
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2025/12/KudadooSustainabilityBrochure110125103126Ver042024.pdf",
-    "as_of": 2025
+    "source_url": "https://www.crownandchamparesorts.com/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.crownandchamparesorts.com/our-resorts/vilamendhoo.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.crownandchamparesorts.com/our-resorts/vilamendhoo.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.crownandchamparesorts.com/sustainable-tourism-by-ccr.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.crownandchamparesorts.com",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://www.crownandchamparesorts.com",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.crownandchamparesorts.com",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "dolphin cruise",
+    "source_url": "https://www.crownandchamparesorts.com",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.crownandchamparesorts.com",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.crownandchamparesorts.com",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.crownandchamparesorts.com/our-resorts/hurawalhi.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "kayaking",
+    "source_url": "https://www.crownandchamparesorts.com/festive-season-in-the-maldives.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "catamaran",
+    "source_url": "https://www.crownandchamparesorts.com/festive-season-in-the-maldives.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "jet ski",
+    "source_url": "https://www.crownandchamparesorts.com/festive-season-in-the-maldives.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.crownandchamparesorts.com/festive-season-in-the-maldives.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.crownandchamparesorts.com/festive-season-in-the-maldives.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sailing",
+    "source_url": "https://www.crownandchamparesorts.com/festive-season-in-the-maldives.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.crownandchamparesorts.com/testimonials.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.crownandchamparesorts.com/testimonials.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.crownandchamparesorts.com/testimonials.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.crownandchamparesorts.com/testimonials.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.crownandchamparesorts.com/our-resorts/komandoo.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.crownandchamparesorts.com/about-us.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.crownandchamparesorts.com/our-resorts/kagi-maldives.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "dolphin cruise",
+    "source_url": "https://www.crownandchamparesorts.com/our-resorts/kagi-maldives.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "kayaking",
+    "source_url": "https://malediven.de/malediven-hotels/kudadoo/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "jet ski",
+    "source_url": "https://malediven.de/malediven-hotels/kudadoo/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "parasailing",
+    "source_url": "https://malediven.de/malediven-hotels/kudadoo/",
+    "as_of": "2026-10-04"
    }
   ],
   "excursions": [
@@ -483,19 +1009,174 @@
     "as_of": 2025
    },
    {
-    "value": "dolphin",
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2025/12/KudadooSustainabilityBrochure110125103126Ver042024.pdf",
+    "value": "turtle",
+    "source_url": "https://d2qwq69i2ic1pk.cloudfront.net/2026/02/Sustainablity-Initiatives-Brochure-CCR-2025.pdf",
     "as_of": 2025
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.crownandchamparesorts.com/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.crownandchamparesorts.com/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.crownandchamparesorts.com/",
+    "as_of": "2026-10-05"
    },
    {
     "value": "manta",
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2025/12/KudadooSustainabilityBrochure110125103126Ver042024.pdf",
-    "as_of": 2025
+    "source_url": "https://www.crownandchamparesorts.com/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.crownandchamparesorts.com/our-resorts.html",
+    "as_of": "2026-10-05"
    },
    {
     "value": "turtle",
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2025/12/KudadooSustainabilityBrochure110125103126Ver042024.pdf",
-    "as_of": 2025
+    "source_url": "https://www.crownandchamparesorts.com/our-resorts/jawakara-islands-maldives.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.crownandchamparesorts.com/our-resorts/vilamendhoo.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.crownandchamparesorts.com/our-resorts/vilamendhoo.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.crownandchamparesorts.com/our-resorts/vilamendhoo.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.crownandchamparesorts.com/our-resorts/kudadoo.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.crownandchamparesorts.com/our-resorts/veligandu.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.crownandchamparesorts.com/our-resorts/veligandu.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.crownandchamparesorts.com/the-maldives.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.crownandchamparesorts.com/our-resorts/nala-maldives.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.crownandchamparesorts.com",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.crownandchamparesorts.com",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.crownandchamparesorts.com",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.crownandchamparesorts.com",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.crownandchamparesorts.com/our-resorts/kuredu.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.crownandchamparesorts.com/our-resorts/meeru.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.crownandchamparesorts.com/our-resorts/hurawalhi.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.crownandchamparesorts.com/our-resorts/hurawalhi.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.crownandchamparesorts.com/festive-season-in-the-maldives.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.crownandchamparesorts.com/festive-season-in-the-maldives.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.crownandchamparesorts.com/testimonials.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.crownandchamparesorts.com/testimonials.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.crownandchamparesorts.com/our-resorts/komandoo.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.crownandchamparesorts.com/about-us.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.crownandchamparesorts.com/about-us.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.crownandchamparesorts.com/our-resorts/kagi-maldives.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.crownandchamparesorts.com/our-resorts/kagi-maldives.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.crownandchamparesorts.com/news-events.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://malediven.de/malediven-hotels/kudadoo/",
+    "as_of": "2026-10-04"
    }
   ],
   "wellness_fitness": [
@@ -555,19 +1236,164 @@
     "as_of": 2025
    },
    {
+    "value": "yoga",
+    "source_url": "https://www.crownandchamparesorts.com/festive-season-in-the-maldives.html",
+    "as_of": "2026-10-05"
+   },
+   {
     "value": "gym",
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2025/12/KudadooSustainabilityBrochure110125103126Ver042024.pdf",
-    "as_of": 2025
+    "source_url": "https://www.crownandchamparesorts.com/hurawalhi-careers/executive-office-8.html?htl=NzcwOQ==&jb=UmVzZXJ2YXRpb25zIEFnZW50&jcat=UmVzZXJ2YXRpb25z",
+    "as_of": "2026-10-05"
    },
    {
-    "value": "sauna",
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2025/12/KudadooSustainabilityBrochure110125103126Ver042024.pdf",
-    "as_of": 2025
+    "value": "tennis",
+    "source_url": "https://www.crownandchamparesorts.com/hurawalhi-careers/executive-office-8.html?htl=NzcwOQ==&jb=UmVzZXJ2YXRpb25zIEFnZW50&jcat=UmVzZXJ2YXRpb25z",
+    "as_of": "2026-10-05"
    },
    {
-    "value": "steam",
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2025/12/KudadooSustainabilityBrochure110125103126Ver042024.pdf",
-    "as_of": 2025
+    "value": "badminton",
+    "source_url": "https://www.crownandchamparesorts.com/hurawalhi-careers/executive-office-8.html?htl=NzcwOQ==&jb=UmVzZXJ2YXRpb25zIEFnZW50&jcat=UmVzZXJ2YXRpb25z",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "gym",
+    "source_url": "https://www.crownandchamparesorts.com/hurawalhi-careers/executive-office-6.html?htl=NzcwOQ==&jb=TGF1bmRyeSBTdXBlcnZpc29y&jcat=TGF1bmRyeQ==",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://www.crownandchamparesorts.com/hurawalhi-careers/executive-office-6.html?htl=NzcwOQ==&jb=TGF1bmRyeSBTdXBlcnZpc29y&jcat=TGF1bmRyeQ==",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "badminton",
+    "source_url": "https://www.crownandchamparesorts.com/hurawalhi-careers/executive-office-6.html?htl=NzcwOQ==&jb=TGF1bmRyeSBTdXBlcnZpc29y&jcat=TGF1bmRyeQ==",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "gym",
+    "source_url": "https://www.crownandchamparesorts.com/hurawalhi-careers/executive-office-2.html?htl=NzcwOQ==&jb=Qm9hdCBDcmV3IChMb2NhbCk=&jcat=R3Vlc3QgVHJhbnNwb3J0",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://www.crownandchamparesorts.com/hurawalhi-careers/executive-office-2.html?htl=NzcwOQ==&jb=Qm9hdCBDcmV3IChMb2NhbCk=&jcat=R3Vlc3QgVHJhbnNwb3J0",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "badminton",
+    "source_url": "https://www.crownandchamparesorts.com/hurawalhi-careers/executive-office-2.html?htl=NzcwOQ==&jb=Qm9hdCBDcmV3IChMb2NhbCk=&jcat=R3Vlc3QgVHJhbnNwb3J0",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "gym",
+    "source_url": "https://www.crownandchamparesorts.com/hurawalhi-careers/executive-office-4.html?htl=NzcwOQ==&jb=Q2hlZiBkZSBwYXJ0aWU=&jcat=S2l0Y2hlbg==",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://www.crownandchamparesorts.com/hurawalhi-careers/executive-office-4.html?htl=NzcwOQ==&jb=Q2hlZiBkZSBwYXJ0aWU=&jcat=S2l0Y2hlbg==",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "badminton",
+    "source_url": "https://www.crownandchamparesorts.com/hurawalhi-careers/executive-office-4.html?htl=NzcwOQ==&jb=Q2hlZiBkZSBwYXJ0aWU=&jcat=S2l0Y2hlbg==",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "gym",
+    "source_url": "https://www.crownandchamparesorts.com/hurawalhi-careers/executive-office-3.html?htl=NzcwOQ==&jb=Q2hlZiBEZSBDdWlzaW5l&jcat=S2l0Y2hlbg==",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://www.crownandchamparesorts.com/hurawalhi-careers/executive-office-3.html?htl=NzcwOQ==&jb=Q2hlZiBEZSBDdWlzaW5l&jcat=S2l0Y2hlbg==",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "badminton",
+    "source_url": "https://www.crownandchamparesorts.com/hurawalhi-careers/executive-office-3.html?htl=NzcwOQ==&jb=Q2hlZiBEZSBDdWlzaW5l&jcat=S2l0Y2hlbg==",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "gym",
+    "source_url": "https://www.crownandchamparesorts.com/hurawalhi-careers/executive-office-10.html?htl=NzcwOQ==&jb=VkFMRVQ=&jcat=R3Vlc3QgU2VydmljZXM=",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://www.crownandchamparesorts.com/hurawalhi-careers/executive-office-10.html?htl=NzcwOQ==&jb=VkFMRVQ=&jcat=R3Vlc3QgU2VydmljZXM=",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "badminton",
+    "source_url": "https://www.crownandchamparesorts.com/hurawalhi-careers/executive-office-10.html?htl=NzcwOQ==&jb=VkFMRVQ=&jcat=R3Vlc3QgU2VydmljZXM=",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "gym",
+    "source_url": "https://www.crownandchamparesorts.com/hurawalhi-careers/executive-office-7.html?htl=NzcwOQ==&jb=TGVhcm5pbmcsIERldmVsb3BtZW50ICZhbXA7IFF1YWxpdHkgQXNzdXJhbmNlIE1hbmFnZXI=&jcat=TGVhcm5pbmcgJmFtcDsgRGV2ZWxvcG1lbnQ=",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://www.crownandchamparesorts.com/hurawalhi-careers/executive-office-7.html?htl=NzcwOQ==&jb=TGVhcm5pbmcsIERldmVsb3BtZW50ICZhbXA7IFF1YWxpdHkgQXNzdXJhbmNlIE1hbmFnZXI=&jcat=TGVhcm5pbmcgJmFtcDsgRGV2ZWxvcG1lbnQ=",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "badminton",
+    "source_url": "https://www.crownandchamparesorts.com/hurawalhi-careers/executive-office-7.html?htl=NzcwOQ==&jb=TGVhcm5pbmcsIERldmVsb3BtZW50ICZhbXA7IFF1YWxpdHkgQXNzdXJhbmNlIE1hbmFnZXI=&jcat=TGVhcm5pbmcgJmFtcDsgRGV2ZWxvcG1lbnQ=",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "gym",
+    "source_url": "https://www.crownandchamparesorts.com/hurawalhi-careers/executive-office-9.html?htl=NzcwOQ==&jb=QXNzaXN0YW50IEd1ZXN0IFNlcnZpY2VzIE1hbmFnZXIgW0dlcm1hbiBTcGVha2VyXQ==&jcat=R3Vlc3QgU2VydmljZXM=",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://www.crownandchamparesorts.com/hurawalhi-careers/executive-office-9.html?htl=NzcwOQ==&jb=QXNzaXN0YW50IEd1ZXN0IFNlcnZpY2VzIE1hbmFnZXIgW0dlcm1hbiBTcGVha2VyXQ==&jcat=R3Vlc3QgU2VydmljZXM=",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "badminton",
+    "source_url": "https://www.crownandchamparesorts.com/hurawalhi-careers/executive-office-9.html?htl=NzcwOQ==&jb=QXNzaXN0YW50IEd1ZXN0IFNlcnZpY2VzIE1hbmFnZXIgW0dlcm1hbiBTcGVha2VyXQ==&jcat=R3Vlc3QgU2VydmljZXM=",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "gym",
+    "source_url": "https://www.crownandchamparesorts.com/hurawalhi-careers/executive-office-5.html?htl=NzcwOQ==&jb=RGVtaSBDaGVmIERlIFBhcnRpZQ==&jcat=S2l0Y2hlbg==",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://www.crownandchamparesorts.com/hurawalhi-careers/executive-office-5.html?htl=NzcwOQ==&jb=RGVtaSBDaGVmIERlIFBhcnRpZQ==&jcat=S2l0Y2hlbg==",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "badminton",
+    "source_url": "https://www.crownandchamparesorts.com/hurawalhi-careers/executive-office-5.html?htl=NzcwOQ==&jb=RGVtaSBDaGVmIERlIFBhcnRpZQ==&jcat=S2l0Y2hlbg==",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://malediven.de/malediven-hotels/kudadoo/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "meditation",
+    "source_url": "https://malediven.de/malediven-hotels/kudadoo/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://malediven.de/malediven-hotels/kudadoo/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "personal trainer",
+    "source_url": "https://malediven.de/malediven-hotels/kudadoo/",
+    "as_of": "2026-10-04"
    }
   ],
   "weddings.offered": [
@@ -580,6 +1406,91 @@
     "value": true,
     "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2025/12/KudadooAnythingAnytimeAnywherePackage110125103126Ver052625.pdf",
     "as_of": 2025
+   },
+   {
+    "value": true,
+    "source_url": "https://www.crownandchamparesorts.com/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.crownandchamparesorts.com/offers.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.crownandchamparesorts.com/our-resorts/jawakara-islands-maldives.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.crownandchamparesorts.com/our-resorts/vilamendhoo.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.crownandchamparesorts.com/our-resorts/kudadoo.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.crownandchamparesorts.com/our-resorts/veligandu.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.crownandchamparesorts.com/the-maldives.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.crownandchamparesorts.com/our-resorts/nala-maldives.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.crownandchamparesorts.com",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.crownandchamparesorts.com/our-resorts/kuredu.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.crownandchamparesorts.com/our-resorts/meeru.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.crownandchamparesorts.com/our-resorts/hurawalhi.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.crownandchamparesorts.com/festive-season-in-the-maldives.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.crownandchamparesorts.com/our-resorts/komandoo.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.crownandchamparesorts.com/our-resorts/kagi-maldives.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.crownandchamparesorts.com/news-events.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": true,
+    "source_url": "https://malediven.de/malediven-hotels/kudadoo/",
+    "as_of": "2026-10-04"
    }
   ],
   "events_mice.capacity_max": [
@@ -618,44 +1529,234 @@
     "as_of": 2019
    },
    {
-    "value": "coral nursery",
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2025/12/KudadooSustainabilityBrochure110125103126Ver042024.pdf",
+    "value": "coral restoration",
+    "source_url": "https://d2qwq69i2ic1pk.cloudfront.net/2026/02/Sustainablity-Initiatives-Brochure-CCR-2025.pdf",
     "as_of": 2025
    },
    {
     "value": "marine biologist",
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2025/12/KudadooSustainabilityBrochure110125103126Ver042024.pdf",
+    "source_url": "https://d2qwq69i2ic1pk.cloudfront.net/2026/02/Sustainablity-Initiatives-Brochure-CCR-2025.pdf",
     "as_of": 2025
    },
    {
     "value": "solar",
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2025/12/KudadooSustainabilityBrochure110125103126Ver042024.pdf",
+    "source_url": "https://d2qwq69i2ic1pk.cloudfront.net/2026/02/Sustainablity-Initiatives-Brochure-CCR-2025.pdf",
     "as_of": 2025
    },
    {
-    "value": "single-use plastic",
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2025/12/KudadooSustainabilityBrochure110125103126Ver042024.pdf",
+    "value": "desalination",
+    "source_url": "https://d2qwq69i2ic1pk.cloudfront.net/2026/02/Sustainablity-Initiatives-Brochure-CCR-2025.pdf",
     "as_of": 2025
    },
    {
     "value": "Travelife",
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2025/12/KudadooSustainabilityBrochure110125103126Ver042024.pdf",
-    "as_of": 2025
+    "source_url": "https://www.crownandchamparesorts.com/",
+    "as_of": "2026-10-05"
    },
    {
-    "value": "composting",
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2025/12/KudadooSustainabilityBrochure110125103126Ver042024.pdf",
-    "as_of": 2025
+    "value": "Travelife",
+    "source_url": "https://www.crownandchamparesorts.com/crown-champa-resorts-maldives-calendar-2026.html",
+    "as_of": "2026-10-05"
    },
    {
-    "value": "manta trust",
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2025/12/KudadooSustainabilityBrochure110125103126Ver042024.pdf",
-    "as_of": 2025
+    "value": "Travelife",
+    "source_url": "https://www.crownandchamparesorts.com/travel-guidance.html",
+    "as_of": "2026-10-05"
    },
    {
-    "value": "Olive Ridley Project",
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2025/12/KudadooSustainabilityBrochure110125103126Ver042024.pdf",
-    "as_of": 2025
+    "value": "Travelife",
+    "source_url": "https://www.crownandchamparesorts.com/offers.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Travelife",
+    "source_url": "https://www.crownandchamparesorts.com/contact-us.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Travelife",
+    "source_url": "https://www.crownandchamparesorts.com/resorts-mobile-apps.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Travelife",
+    "source_url": "https://www.crownandchamparesorts.com/our-resorts.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Travelife",
+    "source_url": "https://www.crownandchamparesorts.com/terms-conditions.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Travelife",
+    "source_url": "https://www.crownandchamparesorts.com/media-galleries.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Travelife",
+    "source_url": "https://www.crownandchamparesorts.com/sitemap.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Travelife",
+    "source_url": "https://www.crownandchamparesorts.com/why-choose-ccr.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Travelife",
+    "source_url": "https://www.crownandchamparesorts.com/travel-agents.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "solar",
+    "source_url": "https://www.crownandchamparesorts.com/our-resorts/kudadoo.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "coral restoration",
+    "source_url": "https://www.crownandchamparesorts.com/sustainable-tourism-by-ccr.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "solar",
+    "source_url": "https://www.crownandchamparesorts.com/sustainable-tourism-by-ccr.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Travelife",
+    "source_url": "https://www.crownandchamparesorts.com/sustainable-tourism-by-ccr.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Travelife",
+    "source_url": "https://www.crownandchamparesorts.com/the-maldives.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Travelife",
+    "source_url": "https://www.crownandchamparesorts.com",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Travelife",
+    "source_url": "https://www.crownandchamparesorts.com/privacy-policy.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Travelife",
+    "source_url": "https://www.crownandchamparesorts.com/festive-season-in-the-maldives.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Travelife",
+    "source_url": "https://www.crownandchamparesorts.com/testimonials.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Travelife",
+    "source_url": "https://www.crownandchamparesorts.com/careers.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Travelife",
+    "source_url": "https://www.crownandchamparesorts.com/about-us.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Travelife",
+    "source_url": "https://www.crownandchamparesorts.com/news-events.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Travelife",
+    "source_url": "https://www.crownandchamparesorts.com/influencer-media-collaboration-request-form.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Travelife",
+    "source_url": "https://www.crownandchamparesorts.com/newsletter.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Travelife",
+    "source_url": "https://www.crownandchamparesorts.com/gdpr-compliance.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Travelife",
+    "source_url": "https://www.crownandchamparesorts.com/inquire-now.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Travelife",
+    "source_url": "https://www.crownandchamparesorts.com/maldives-resort-offers-by-crown-and-champa-resorts-collection.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Travelife",
+    "source_url": "https://www.crownandchamparesorts.com/discover-crown-and-champa-resorts-maldives.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Travelife",
+    "source_url": "https://www.crownandchamparesorts.com/hurawalhi-careers/executive-office-8.html?htl=NzcwOQ==&jb=UmVzZXJ2YXRpb25zIEFnZW50&jcat=UmVzZXJ2YXRpb25z",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Travelife",
+    "source_url": "https://www.crownandchamparesorts.com/hurawalhi-careers/executive-office-6.html?htl=NzcwOQ==&jb=TGF1bmRyeSBTdXBlcnZpc29y&jcat=TGF1bmRyeQ==",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Travelife",
+    "source_url": "https://www.crownandchamparesorts.com/hurawalhi-careers/executive-office-2.html?htl=NzcwOQ==&jb=Qm9hdCBDcmV3IChMb2NhbCk=&jcat=R3Vlc3QgVHJhbnNwb3J0",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Travelife",
+    "source_url": "https://www.crownandchamparesorts.com/komandoo-careers/assistant-financial-controller-department-head.html?htl=NzcxOA==&jb=QXNzaXN0YW50IEZpbmFuY2lhbCBDb250cm9sbGVyIOKAkyBEZXBhcnRtZW50IEhlYWQ=&jcat=QWNjb3VudGluZw==",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Travelife",
+    "source_url": "https://www.crownandchamparesorts.com/meeru-island-careers/island-host-german-speaking-3.html?htl=NzcyMQ==&jb=SXNsYW5kIEhvc3QgLSBHZXJtYW4gU3BlYWtpbmc=&jcat=IA==",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Travelife",
+    "source_url": "https://www.crownandchamparesorts.com/hurawalhi-careers/executive-office-4.html?htl=NzcwOQ==&jb=Q2hlZiBkZSBwYXJ0aWU=&jcat=S2l0Y2hlbg==",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Travelife",
+    "source_url": "https://www.crownandchamparesorts.com/hurawalhi-careers/executive-office-3.html?htl=NzcwOQ==&jb=Q2hlZiBEZSBDdWlzaW5l&jcat=S2l0Y2hlbg==",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Travelife",
+    "source_url": "https://www.crownandchamparesorts.com/nala-maldives/vacancies-at-nala-maldives.html?htl=MTcxNzg=&jb=VmFjYW5jaWVzIGF0IE5hbGEgTWFsZGl2ZXM=&jcat=IA==",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Travelife",
+    "source_url": "https://www.crownandchamparesorts.com/hurawalhi-careers/executive-office-10.html?htl=NzcwOQ==&jb=VkFMRVQ=&jcat=R3Vlc3QgU2VydmljZXM=",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Travelife",
+    "source_url": "https://www.crownandchamparesorts.com/hurawalhi-careers/executive-office-7.html?htl=NzcwOQ==&jb=TGVhcm5pbmcsIERldmVsb3BtZW50ICZhbXA7IFF1YWxpdHkgQXNzdXJhbmNlIE1hbmFnZXI=&jcat=TGVhcm5pbmcgJmFtcDsgRGV2ZWxvcG1lbnQ=",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Travelife",
+    "source_url": "https://www.crownandchamparesorts.com/hurawalhi-careers/executive-office-9.html?htl=NzcwOQ==&jb=QXNzaXN0YW50IEd1ZXN0IFNlcnZpY2VzIE1hbmFnZXIgW0dlcm1hbiBTcGVha2VyXQ==&jcat=R3Vlc3QgU2VydmljZXM=",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Travelife",
+    "source_url": "https://www.crownandchamparesorts.com/hurawalhi-careers/executive-office-5.html?htl=NzcwOQ==&jb=RGVtaSBDaGVmIERlIFBhcnRpZQ==&jcat=S2l0Y2hlbg==",
+    "as_of": "2026-10-05"
    }
   ],
   "contacts_public.reservations_email": [
@@ -675,9 +1776,109 @@
     "as_of": 2025
    },
    {
-    "value": "reservations@kudadoo.com",
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2025/12/KudadooSustainabilityBrochure110125103126Ver042024.pdf",
+    "value": "info@crownandchamparesorts.com",
+    "source_url": "https://d2qwq69i2ic1pk.cloudfront.net/2026/02/Sustainablity-Initiatives-Brochure-CCR-2025.pdf",
     "as_of": 2025
+   },
+   {
+    "value": "reservations@kagimaldives.com",
+    "source_url": "https://www.crownandchamparesorts.com/travel-guidance.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "reservations@veligandu.com",
+    "source_url": "https://www.crownandchamparesorts.com/travel-guidance.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "reservations@hurawalhi.com",
+    "source_url": "https://www.crownandchamparesorts.com/travel-guidance.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "reservations@kuredu.com",
+    "source_url": "https://www.crownandchamparesorts.com/travel-guidance.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "reservations@komandoo.com",
+    "source_url": "https://www.crownandchamparesorts.com/travel-guidance.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "reservations@kudadoo.com",
+    "source_url": "https://www.crownandchamparesorts.com/travel-guidance.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "reservations@nalamaldives.com",
+    "source_url": "https://www.crownandchamparesorts.com/travel-guidance.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "reservations@meeru.com",
+    "source_url": "https://www.crownandchamparesorts.com/travel-guidance.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "reservations@jawakara.com",
+    "source_url": "https://www.crownandchamparesorts.com/travel-guidance.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "info@vilamendhoo.com",
+    "source_url": "https://www.crownandchamparesorts.com/inquire-now.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "info@kudadoo.com",
+    "source_url": "https://www.crownandchamparesorts.com/inquire-now.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "info@kagimaldives.com",
+    "source_url": "https://www.crownandchamparesorts.com/inquire-now.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "info@veligandu.com",
+    "source_url": "https://www.crownandchamparesorts.com/inquire-now.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "info@hurawalhi.com",
+    "source_url": "https://www.crownandchamparesorts.com/inquire-now.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "info@nalamaldives.com",
+    "source_url": "https://www.crownandchamparesorts.com/inquire-now.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "info@komandoo.com",
+    "source_url": "https://www.crownandchamparesorts.com/inquire-now.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "info@meeru.com",
+    "source_url": "https://www.crownandchamparesorts.com/inquire-now.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "info@crownandchamparesorts.com",
+    "source_url": "https://www.crownandchamparesorts.com/inquire-now.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "info@kuredu.com",
+    "source_url": "https://www.crownandchamparesorts.com/inquire-now.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "reservations@jawakara.com",
+    "source_url": "https://www.crownandchamparesorts.com/inquire-now.html",
+    "as_of": "2026-10-05"
    }
   ],
   "meal_plans": [
@@ -685,15 +1886,254 @@
     "value": "AI",
     "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2020/10/KUD_Brochure_Effortless-Adventure2.pdf",
     "as_of": 2019
+   },
+   {
+    "value": "AI",
+    "source_url": "https://www.crownandchamparesorts.com/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Dine Around",
+    "source_url": "https://www.crownandchamparesorts.com/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://www.crownandchamparesorts.com/our-resorts/vilamendhoo.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://www.crownandchamparesorts.com",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Dine Around",
+    "source_url": "https://www.crownandchamparesorts.com",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://www.crownandchamparesorts.com/our-resorts/kuredu.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://www.crownandchamparesorts.com/our-resorts/hurawalhi.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Dine Around",
+    "source_url": "https://www.crownandchamparesorts.com/our-resorts/kagi-maldives.html",
+    "as_of": "2026-10-05"
+   }
+  ],
+  "villas.total": [
+   {
+    "value": 15,
+    "source_url": "https://d2qwq69i2ic1pk.cloudfront.net/2026/02/Sustainablity-Initiatives-Brochure-CCR-2025.pdf",
+    "as_of": 2025
    }
   ],
   "diving_watersports.operator": [
    {
-    "value": "Prodivers",
-    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2025/12/KudadooSustainabilityBrochure110125103126Ver042024.pdf",
+    "value": "Euro Divers",
+    "source_url": "https://d2qwq69i2ic1pk.cloudfront.net/2026/02/Sustainablity-Initiatives-Brochure-CCR-2025.pdf",
     "as_of": 2025
+   },
+   {
+    "value": "Euro Divers",
+    "source_url": "https://www.crownandchamparesorts.com/about-us.html",
+    "as_of": "2026-10-05"
+   }
+  ],
+  "contacts_public.phone": [
+   {
+    "value": "+960 664 0219",
+    "source_url": "https://d2qwq69i2ic1pk.cloudfront.net/2026/02/Sustainablity-Initiatives-Brochure-CCR-2025.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "+960 664 3157",
+    "source_url": "https://www.crownandchamparesorts.com/privacy-policy.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "+960 665 3200",
+    "source_url": "https://www.crownandchamparesorts.com/inquire-now.html",
+    "as_of": "2026-10-05"
+   }
+  ],
+  "island": [
+   {
+    "value": "Meerufenfushi",
+    "source_url": "https://www.crownandchamparesorts.com/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Meerufenfushi",
+    "source_url": "https://www.crownandchamparesorts.com",
+    "as_of": "2026-10-05"
+   }
+  ],
+  "all_inclusive_details": [
+   {
+    "value": "all-inclusive plan is available in Hurawalhi.",
+    "source_url": "https://www.crownandchamparesorts.com/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "All-Inclusive Hotel by Condé Nast Traveler.",
+    "source_url": "https://www.crownandchamparesorts.com/our-resorts/jawakara-islands-maldives.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "all-inclusive at Vilamendhoo for a seamless holiday in the Maldives.",
+    "source_url": "https://www.crownandchamparesorts.com/our-resorts/vilamendhoo.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "All-Inclusive packages that have been designed to ensure hassle-free holidays in paradise.",
+    "source_url": "https://www.crownandchamparesorts.com/why-choose-ccr.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "All-Inclusive Hotel by Condé Nast Traveler.",
+    "source_url": "https://www.crownandchamparesorts.com/our-resorts/kudadoo.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "All-Inclusive Plus package.",
+    "source_url": "https://www.crownandchamparesorts.com/our-resorts/veligandu.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "All-Inclusive Hotel by Condé Nast Traveler.",
+    "source_url": "https://www.crownandchamparesorts.com/our-resorts/nala-maldives.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "all-inclusive plan is available in Hurawalhi.",
+    "source_url": "https://www.crownandchamparesorts.com",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "all-inclusive packages and facilities.",
+    "source_url": "https://www.crownandchamparesorts.com/our-resorts/kuredu.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "All Inclusive resorts.",
+    "source_url": "https://www.crownandchamparesorts.com/our-resorts/meeru.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "all-inclusive plan is available in Hurawalhi.",
+    "source_url": "https://www.crownandchamparesorts.com/our-resorts/hurawalhi.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "All-Inclusive Gold Package is full of additional activities and services, carefully selected to exceed even the highest of expectations.",
+    "source_url": "https://www.crownandchamparesorts.com/our-resorts/komandoo.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "All-Inclusive Hotel by Condé Nast Traveler.",
+    "source_url": "https://www.crownandchamparesorts.com/our-resorts/kagi-maldives.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "All-Inclusive Hotel by Condé Nast Traveler.",
+    "source_url": "https://www.crownandchamparesorts.com/news-events.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "All Inclusive, Essen und Trinken was, wann und wo immer Sie möchten.",
+    "source_url": "https://malediven.de/malediven-hotels/kudadoo/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "All Inclusive.",
+    "source_url": "https://www.airtours.de/reiseziele/asien/malediven/kudadoo-malediven/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "star_rating": [
+   {
+    "value": "5-star",
+    "source_url": "https://www.crownandchamparesorts.com/our-resorts/jawakara-islands-maldives.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "5-star",
+    "source_url": "https://www.crownandchamparesorts.com/hurawalhi-careers/executive-office-7.html?htl=NzcwOQ==&jb=TGVhcm5pbmcsIERldmVsb3BtZW50ICZhbXA7IFF1YWxpdHkgQXNzdXJhbmNlIE1hbmFnZXI=&jcat=TGVhcm5pbmcgJmFtcDsgRGV2ZWxvcG1lbnQ=",
+    "as_of": "2026-10-05"
+   }
+  ],
+  "events_mice.buyout": [
+   {
+    "value": true,
+    "source_url": "https://www.crownandchamparesorts.com/our-resorts/kudadoo.html",
+    "as_of": "2026-10-05"
+   }
+  ],
+  "transfer.minutes.speedboat": [
+   {
+    "value": 55,
+    "source_url": "https://www.crownandchamparesorts.com/our-resorts/meeru.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": 60,
+    "source_url": "https://www.crownandchamparesorts.com/our-resorts/kagi-maldives.html",
+    "as_of": "2026-10-05"
+   }
+  ],
+  "dining": [
+   {
+    "value": {
+     "name": "Kitchen",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.crownandchamparesorts.com/careers.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": {
+     "name": "Kitchen",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.crownandchamparesorts.com/careers.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": {
+     "name": "Kitchen",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.crownandchamparesorts.com/careers.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": {
+     "name": "Kitchen",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.crownandchamparesorts.com/careers.html",
+    "as_of": "2026-10-05"
+   }
+  ],
+  "opened_or_renovated": [
+   {
+    "value": "opened 2000",
+    "source_url": "https://www.crownandchamparesorts.com/about-us.html",
+    "as_of": "2026-10-05"
    }
   ]
  },
- "last_updated": "2026-10-04"
+ "last_updated": "2026-10-05"
 }

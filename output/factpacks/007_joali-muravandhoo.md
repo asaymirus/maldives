@@ -12,17 +12,23 @@
 - Water Villa with Pool Family Beach Villa with Pools: count 5, ? sqm, max ?, pool
 - Lu ury Water Villa with Pool: count 19, ? sqm, max ?, pool
 - Within this Ocean Residence guests can e pect over of: count ?, 400 sqm, max ?, overwater
+- Water Villa with Pool Beach Villa with Pool: count 10, ? sqm, max ?, pool
+- Lu ury Water Villa with Pool Lu ury Beach Villa with Pool: count 19, ? sqm, max ?, pool
+- with Two Pools Three Bedroom Beach Residence with Pool: count 1, ? sqm, max ?, pool
+- Four Bedroom Beach Residence with Pool: count 1, ? sqm, max ?, pool
 - Villas: count 73, ? sqm, max ?
 - villa design: count 1, ? sqm, max ?
 
 ## Dining
 
-- Lounge seating in villa | Cabana completes the offering. (bar)
+- Seating Lounge (bar)
+- Lounge seating in villa (bar)
 - Her Kitchen (restaurant)
 - Mura Bar which you’ll experience your meal. (bar)
-- Dining (restaurant)
 - Mura Bar (bar)
-- Destination Dining (restaurant)
+- Whiskey and Cigar Lounge (bar)
+- Wine Cellar (bar)
+- Teppanyaki at Saoke (restaurant)
 - Whiskey & Cigar Lounge (bar)
 
 Meal plans: n/a
@@ -31,7 +37,7 @@ Meal plans: n/a
 
 - Spa: Fitness
 JOALI Spa; treatment rooms: ?; menu: none
-- Wellness/fitness: fitness centre, tennis, hammam, sauna, steam
+- Wellness/fitness: fitness centre, tennis, hammam, sauna, steam, yoga, meditation, padel, pilates
 
 ## Diving, water sports & excursions
 
@@ -43,7 +49,7 @@ JOALI Spa; treatment rooms: ?; menu: none
 
 ## Kids & family
 
-- Kids club: Kids Club; ages: n/a; teens: n/a
+- Kids club: At Muramas Kids Club; ages: n/a; teens: n/a
 
 ## Weddings
 
@@ -59,7 +65,7 @@ JOALI Spa; treatment rooms: ?; menu: none
 
 ## Sustainability
 
-- marine biologist
+- Green Key, marine biologist
 
 ## Public contacts
 
@@ -82,4 +88,4 @@ JOALI Spa; treatment rooms: ?; menu: none
 - events/MICE document
 - fact: dive operator
 
-_Facts extracted by rules from 15 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-04._
+_Facts extracted by rules from 15 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

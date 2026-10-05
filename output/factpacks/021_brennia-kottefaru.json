@@ -56,51 +56,6 @@
  },
  "dining": [
   {
-   "name": "Dine Around All Inclusive (Manta & Sunset Grill)",
-   "cuisine": null,
-   "type": "restaurant"
-  },
-  {
-   "name": "03 Lime (Main Restaurant)",
-   "cuisine": null,
-   "type": "restaurant"
-  },
-  {
-   "name": "04 La Pella (Main Bar)",
-   "cuisine": null,
-   "type": "bar"
-  },
-  {
-   "name": "06 Sunset Grill",
-   "cuisine": null,
-   "type": "restaurant"
-  },
-  {
-   "name": "08 Beach Bar",
-   "cuisine": null,
-   "type": "bar"
-  },
-  {
-   "name": "Dining",
-   "cuisine": null,
-   "type": "restaurant"
-  },
-  {
-   "name": "Lime – All-Day Dining",
-   "cuisine": null,
-   "type": "restaurant"
-  },
-  {
-   "name": "Manta – Asian Specialty Dining",
-   "cuisine": null,
-   "type": "restaurant"
-  },
-  {
-   "name": "Sunset Grill & Bar – Island Dining",
-   "cuisine": null,
-   "type": "bar"
-  },
-  {
    "name": "Beach Bar – Sunrise Serenity",
    "cuisine": null,
    "type": "bar"
@@ -117,21 +72,24 @@
   "name": "Beauty Spa",
   "treatment_rooms": 18,
   "signature_treatments": [],
-  "menu_doc": null
+  "menu_doc": "https://brennia.com/wp-content/uploads/pdf/Brennia-Kottefaru-Eternity-Spa-Package-Price.pdf"
  },
  "diving_watersports": {
   "operator": "Ocean Dimensions",
   "house_reef": null,
   "activities": [
    "manta",
-   "snorkelling",
+   "snorkeling",
+   "catamaran",
    "jet ski",
+   "fun tube",
+   "snorkelling",
    "parasailing",
    "wakeboarding",
    "fishing",
    "dolphin cruise"
   ],
-  "price_list_doc": null
+  "price_list_doc": "https://brennia.com/wp-content/uploads/pdf/Brennia-Kottefaru-Water-Sports-Price-List.pdf"
  },
  "excursions": [
   "manta",
@@ -147,6 +105,8 @@
  },
  "wellness_fitness": [
   "gym",
+  "ayurveda",
+  "steam",
   "yoga",
   "fitness centre"
  ],
@@ -173,13 +133,13 @@
   "factsheet": "https://www.neoscapesmaldives.com/wp-content/uploads/English-Fact-Sheet-Resort-Map.pdf",
   "map": null,
   "wedding": null,
-  "spa_menu": null,
-  "dining_menu": null,
-  "dive_prices": null,
+  "spa_menu": "https://brennia.com/wp-content/uploads/pdf/Brennia-Kottefaru-Eternity-Spa-Package-Price.pdf",
+  "dining_menu": "https://brennia.com/wp-content/uploads/pdf/Brennia-Kottefaru-Sunset-Grill-Bar-Dinner-Menu.pdf",
+  "dive_prices": "https://brennia.com/wp-content/uploads/pdf/Brennia-Kottefaru-Water-Sports-Price-List.pdf",
   "events": null,
   "calendar": null
  },
- "documents_count": 2,
+ "documents_count": 10,
  "gaps": [
   "wedding brochure",
   "events/MICE document",
@@ -272,120 +232,15 @@
     "as_of": "2026-10-04"
    }
   ],
-  "dining": [
-   {
-    "value": {
-     "name": "Dine Around All Inclusive (Manta & Sunset Grill)",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/English-Fact-Sheet-Resort-Map.pdf",
-    "as_of": 2025
-   },
-   {
-    "value": {
-     "name": "03 Lime (Main Restaurant)",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/English-Fact-Sheet-Resort-Map.pdf",
-    "as_of": 2025
-   },
-   {
-    "value": {
-     "name": "04 La Pella (Main Bar)",
-     "cuisine": null,
-     "type": "bar"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/English-Fact-Sheet-Resort-Map.pdf",
-    "as_of": 2025
-   },
-   {
-    "value": {
-     "name": "06 Sunset Grill",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/English-Fact-Sheet-Resort-Map.pdf",
-    "as_of": 2025
-   },
-   {
-    "value": {
-     "name": "08 Beach Bar",
-     "cuisine": null,
-     "type": "bar"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/English-Fact-Sheet-Resort-Map.pdf",
-    "as_of": 2025
-   },
-   {
-    "value": {
-     "name": "Dining",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/brennia-kottefaru-maldives/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Dining",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/brennia-kottefaru-maldives/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Lime – All-Day Dining",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/brennia-kottefaru-maldives/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Manta – Asian Specialty Dining",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/brennia-kottefaru-maldives/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Sunset Grill & Bar – Island Dining",
-     "cuisine": null,
-     "type": "bar"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/brennia-kottefaru-maldives/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Beach Bar – Sunrise Serenity",
-     "cuisine": null,
-     "type": "bar"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/brennia-kottefaru-maldives/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Wine Cellar – An Intimate Escape",
-     "cuisine": null,
-     "type": "bar"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/brennia-kottefaru-maldives/",
-    "as_of": "2026-10-04"
-   }
-  ],
   "spa.name": [
    {
     "value": "Beauty Spa",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/English-Fact-Sheet-Resort-Map.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "Eternity Spa",
+    "source_url": "https://brennia.com/wp-content/uploads/pdf/Brennia-Kottefaru-Eternity-Spa-Package-Price.pdf",
     "as_of": 2025
    }
   ],
@@ -393,6 +248,31 @@
    {
     "value": "manta",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/English-Fact-Sheet-Resort-Map.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://brennia.com/wp-content/uploads/pdf/Brennia-Kottefaru-Water-Sports-Price-List.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "catamaran",
+    "source_url": "https://brennia.com/wp-content/uploads/pdf/Brennia-Kottefaru-Water-Sports-Price-List.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "jet ski",
+    "source_url": "https://brennia.com/wp-content/uploads/pdf/Brennia-Kottefaru-Water-Sports-Price-List.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "manta",
+    "source_url": "https://brennia.com/wp-content/uploads/pdf/Brennia-Kottefaru-Water-Sports-Price-List.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "fun tube",
+    "source_url": "https://brennia.com/wp-content/uploads/pdf/Brennia-Kottefaru-Water-Sports-Price-List.pdf",
     "as_of": 2025
    },
    {
@@ -439,6 +319,21 @@
    },
    {
     "value": "sandbank",
+    "source_url": "https://brennia.com/wp-content/uploads/pdf/Brennia-Kottefaru-Water-Sports-Price-List.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://brennia.com/wp-content/uploads/pdf/Brennia-Kottefaru-Water-Sports-Price-List.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "manta",
+    "source_url": "https://brennia.com/wp-content/uploads/pdf/Brennia-Kottefaru-Water-Sports-Price-List.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "sandbank",
     "source_url": "https://www.neoscapesmaldives.com/resort/brennia-kottefaru-maldives/",
     "as_of": "2026-10-04"
    },
@@ -467,6 +362,16 @@
    {
     "value": "gym",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/English-Fact-Sheet-Resort-Map.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "ayurveda",
+    "source_url": "https://brennia.com/wp-content/uploads/pdf/Brennia-Kottefaru-Eternity-Spa-Package-Price.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "steam",
+    "source_url": "https://brennia.com/wp-content/uploads/pdf/Brennia-Kottefaru-Sunset-Grill-Bar-Dinner-Menu.pdf",
     "as_of": 2025
    },
    {
@@ -527,6 +432,26 @@
     "as_of": "2026-10-04"
    }
   ],
+  "dining": [
+   {
+    "value": {
+     "name": "Beach Bar – Sunrise Serenity",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.neoscapesmaldives.com/resort/brennia-kottefaru-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Wine Cellar – An Intimate Escape",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.neoscapesmaldives.com/resort/brennia-kottefaru-maldives/",
+    "as_of": "2026-10-04"
+   }
+  ],
   "spa.treatment_rooms": [
    {
     "value": 18,
@@ -563,5 +488,5 @@
    }
   ]
  },
- "last_updated": "2026-10-04"
+ "last_updated": "2026-10-05"
 }

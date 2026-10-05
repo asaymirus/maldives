@@ -377,3 +377,5 @@
 {"domain": "cococollection.com", "method": "crawl", "status": "ok", "pdf_found": 1, "pdf_matched": 1, "notes": "pages=14 js=True dam=2", "date": "2026-10-05"}
 {"domain": "maldivesresorts.com", "method": "crawl", "status": "blocked-partial", "pdf_found": 0, "pdf_matched": 0, "notes": "pages=1 js=False dam=0", "date": "2026-10-05"}
 {"domain": "allmaldives.com", "method": "crawl", "status": "blocked-partial", "pdf_found": 0, "pdf_matched": 0, "notes": "pages=1 js=False dam=0", "date": "2026-10-05"}
+{"domain": "issuu.com/yumpu.com/scribd.com", "method": "search-render", "status": "no-results", "pdf_found": 0, "pdf_matched": 0, "notes": "rendered search pages return no matching resort documents; stage stopped after 69 resorts, 0 hits", "date": "2026-10-05"}
+{"domain": "search-api", "method": "brave/serpapi", "status": "skipped", "pdf_found": 0, "pdf_matched": 0, "notes": "no BRAVE_API_KEY / SERPAPI_KEY set", "date": "2026-10-05"}

@@ -41,6 +41,11 @@
  },
  "dining": [
   {
+   "name": "Bar Dhor",
+   "cuisine": null,
+   "type": "bar"
+  },
+  {
    "name": "Kilhi Restaurant",
    "cuisine": null,
    "type": "restaurant"
@@ -86,39 +91,14 @@
    "type": "restaurant"
   },
   {
-   "name": "Daily Dining",
-   "cuisine": null,
-   "type": "restaurant"
-  },
-  {
-   "name": "Enjoy a 15% discount on a la carte dining at Meera Bar.",
-   "cuisine": null,
-   "type": "bar"
-  },
-  {
    "name": "Dhoni Bar Beach",
    "cuisine": null,
    "type": "bar"
   },
   {
-   "name": "Restaurant",
-   "cuisine": null,
-   "type": "restaurant"
-  },
-  {
-   "name": "Dining Options",
-   "cuisine": null,
-   "type": "restaurant"
-  },
-  {
    "name": "Beach Bar",
    "cuisine": null,
    "type": "bar"
-  },
-  {
-   "name": "Dining",
-   "cuisine": null,
-   "type": "restaurant"
   },
   {
    "name": "Dhoni Bar Deck",
@@ -154,7 +134,10 @@
    "sunset cruise",
    "snorkeling",
    "scuba diving",
-   "canoe"
+   "canoe",
+   "windsurfing",
+   "catamaran",
+   "sailing"
   ],
   "price_list_doc": null
  },
@@ -168,7 +151,8 @@
   "sunset fishing",
   "big game fishing",
   "cooking class",
-  "stargazing"
+  "stargazing",
+  "night fishing"
  ],
  "kids_family": {
   "kids_club": "Kids Club",
@@ -180,7 +164,9 @@
   "tennis",
   "beach volleyball",
   "yoga",
-  "meditation"
+  "meditation",
+  "badminton",
+  "fitness center"
  ],
  "weddings": {
   "offered": true,
@@ -193,7 +179,7 @@
  },
  "events_mice": {
   "venues": [],
-  "capacity_max": null,
+  "capacity_max": 30,
   "buyout": null,
   "doc": null
  },
@@ -209,21 +195,275 @@
  },
  "documents_latest": {
   "factsheet": null,
-  "map": null,
+  "map": "https://canareef.com/wp-content/uploads/2023/11/Canareef-Resort-Maldives-Map.pdf",
   "wedding": null,
   "spa_menu": null,
-  "dining_menu": null,
+  "dining_menu": "https://canareef.com/wp-content/uploads/2025/02/Valentines-Day-Dinner-Menu-2025.pdf",
   "dive_prices": null,
   "events": null,
-  "calendar": null
+  "calendar": "https://canareef.com/wp-content/uploads/2024/12/Festive-Brochure-2024-Canareef-Resort-Maldives.pdf"
  },
- "documents_count": 0,
+ "documents_count": 5,
  "gaps": [
   "factsheet",
   "wedding brochure",
   "events/MICE document"
  ],
  "sources": {
+  "dining": [
+   {
+    "value": {
+     "name": "Bar Dhor",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://canareef.com/wp-content/uploads/2023/11/Canareef-Resort-Maldives-Map.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": {
+     "name": "Kilhi Restaurant",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://canareef.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Dhoni Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://canareef.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Meera Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://canareef.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Bar-Kuda Beach Bar & Grill",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://canareef.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Lounge Access",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://canareef.com/transfer/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Moonimaa Lounge Service",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://canareef.com/transfer/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Sunnyside Lounge",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://canareef.com/transfer/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Lounge Access",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://canareef.com/transfer/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Keymaa Restaurant",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://canareef.com/keymaa-restaurant/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Restaurant MENU",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://canareef.com/keymaa-restaurant/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Dhoni Bar Beach",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://canareef.com/festive-season/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Dhoni Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://canareef.com/festive-season/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Meera Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://canareef.com/dining/meera-bar/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Restaurant Menu",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://canareef.com/dining/meera-bar/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Kilhi Restaurant",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://canareef.com/guide-choosing-best-romantic-getaway-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Beach Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://canareef.com/dining/beach-bar/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Keymaa Restaurant",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://canareef.com/html-sitemap/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Beach Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://canareef.com/html-sitemap/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Dhoni Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://canareef.com/html-sitemap/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Meera Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://canareef.com/html-sitemap/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Kilhi Restaurant",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://canareef.com/html-sitemap/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Dhoni Bar Deck",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://canareef.com/festive-season-canareef-resort-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Dhoni Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://canareef.com/canareef-maldives-international-womens-day-yoga/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Dhoni Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://canareef.com/canareef-maldives-international-womens-day-yoga/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Kilhi Restaurant",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://canareef.com/canareef-resort-maldives-family-honeymooners-experience/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Meera Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://canareef.com/canareef-resort-maldives-family-honeymooners-experience/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Mini Bar Service (Additional Charges Apply)",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://canareef.com/villas/sunrise-villas/",
+    "as_of": "2026-10-04"
+   }
+  ],
   "atoll": [
    {
     "value": "Addu Atoll",
@@ -359,304 +599,15 @@
     "value": "Addu Atoll",
     "source_url": "https://canareef.com/vote-canareef-sata-2026/",
     "as_of": "2026-10-04"
-   }
-  ],
-  "dining": [
+   },
    {
-    "value": {
-     "name": "Kilhi Restaurant",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://canareef.com/",
+    "value": "Seenu Atoll",
+    "source_url": "https://www.mymaldives.com/resort-guide/herathera-island-resort/",
     "as_of": "2026-10-04"
    },
    {
-    "value": {
-     "name": "Dhoni Bar",
-     "cuisine": null,
-     "type": "bar"
-    },
-    "source_url": "https://canareef.com/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Meera Bar",
-     "cuisine": null,
-     "type": "bar"
-    },
-    "source_url": "https://canareef.com/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Bar-Kuda Beach Bar & Grill",
-     "cuisine": null,
-     "type": "bar"
-    },
-    "source_url": "https://canareef.com/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Lounge Access",
-     "cuisine": null,
-     "type": "bar"
-    },
-    "source_url": "https://canareef.com/transfer/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Moonimaa Lounge Service",
-     "cuisine": null,
-     "type": "bar"
-    },
-    "source_url": "https://canareef.com/transfer/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Sunnyside Lounge",
-     "cuisine": null,
-     "type": "bar"
-    },
-    "source_url": "https://canareef.com/transfer/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Lounge Access",
-     "cuisine": null,
-     "type": "bar"
-    },
-    "source_url": "https://canareef.com/transfer/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Keymaa Restaurant",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://canareef.com/keymaa-restaurant/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Restaurant MENU",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://canareef.com/keymaa-restaurant/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Daily Dining",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://canareef.com/all-inclusive-package/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Enjoy a 15% discount on a la carte dining at Meera Bar.",
-     "cuisine": null,
-     "type": "bar"
-    },
-    "source_url": "https://canareef.com/all-inclusive-package/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Dhoni Bar Beach",
-     "cuisine": null,
-     "type": "bar"
-    },
-    "source_url": "https://canareef.com/festive-season/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Dhoni Bar",
-     "cuisine": null,
-     "type": "bar"
-    },
-    "source_url": "https://canareef.com/festive-season/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Restaurant",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://canareef.com/festive-season/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Restaurant",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://canareef.com/festive-season/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Meera Bar",
-     "cuisine": null,
-     "type": "bar"
-    },
-    "source_url": "https://canareef.com/dining/meera-bar/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Restaurant Menu",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://canareef.com/dining/meera-bar/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Dining Options",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://canareef.com/guide-choosing-best-romantic-getaway-maldives/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Kilhi Restaurant",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://canareef.com/guide-choosing-best-romantic-getaway-maldives/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Beach Bar",
-     "cuisine": null,
-     "type": "bar"
-    },
-    "source_url": "https://canareef.com/dining/beach-bar/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Keymaa Restaurant",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://canareef.com/html-sitemap/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Dining",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://canareef.com/html-sitemap/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Beach Bar",
-     "cuisine": null,
-     "type": "bar"
-    },
-    "source_url": "https://canareef.com/html-sitemap/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Dhoni Bar",
-     "cuisine": null,
-     "type": "bar"
-    },
-    "source_url": "https://canareef.com/html-sitemap/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Meera Bar",
-     "cuisine": null,
-     "type": "bar"
-    },
-    "source_url": "https://canareef.com/html-sitemap/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Kilhi Restaurant",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://canareef.com/html-sitemap/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Dhoni Bar Deck",
-     "cuisine": null,
-     "type": "bar"
-    },
-    "source_url": "https://canareef.com/festive-season-canareef-resort-maldives/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Dhoni Bar",
-     "cuisine": null,
-     "type": "bar"
-    },
-    "source_url": "https://canareef.com/canareef-maldives-international-womens-day-yoga/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Dhoni Bar",
-     "cuisine": null,
-     "type": "bar"
-    },
-    "source_url": "https://canareef.com/canareef-maldives-international-womens-day-yoga/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Kilhi Restaurant",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://canareef.com/canareef-resort-maldives-family-honeymooners-experience/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Meera Bar",
-     "cuisine": null,
-     "type": "bar"
-    },
-    "source_url": "https://canareef.com/canareef-resort-maldives-family-honeymooners-experience/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Mini Bar Service (Additional Charges Apply)",
-     "cuisine": null,
-     "type": "bar"
-    },
-    "source_url": "https://canareef.com/villas/sunrise-villas/",
+    "value": "Addu Atoll",
+    "source_url": "https://www.maldivestourism.net/resorts/herathera-island/",
     "as_of": "2026-10-04"
    }
   ],
@@ -839,6 +790,56 @@
    {
     "value": "manta",
     "source_url": "https://canareef.com/vote-canareef-sata-2026/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://www.mymaldives.com/resort-guide/herathera-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "windsurfing",
+    "source_url": "https://www.mymaldives.com/resort-guide/herathera-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "catamaran",
+    "source_url": "https://www.mymaldives.com/resort-guide/herathera-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.mymaldives.com/resort-guide/herathera-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sailing",
+    "source_url": "https://www.mymaldives.com/resort-guide/herathera-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "canoe",
+    "source_url": "https://www.mymaldives.com/resort-guide/herathera-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.maldivestourism.net/resorts/herathera-island/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "windsurfing",
+    "source_url": "https://www.maldivestourism.net/resorts/herathera-island/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.maldivestourism.net/resorts/herathera-island/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.maldivestourism.net/resorts/herathera-island/",
     "as_of": "2026-10-04"
    }
   ],
@@ -1062,6 +1063,16 @@
     "value": "manta",
     "source_url": "https://canareef.com/vote-canareef-sata-2026/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "big game fishing",
+    "source_url": "https://www.mymaldives.com/resort-guide/herathera-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "night fishing",
+    "source_url": "https://www.maldivestourism.net/resorts/herathera-island/",
+    "as_of": "2026-10-04"
    }
   ],
   "transfer.modes": [
@@ -1133,6 +1144,16 @@
    {
     "value": "speedboat",
     "source_url": "https://canareef.com/island-getaway-locals-and-expats/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.mymaldives.com/resort-guide/herathera-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.maldivestourism.net/resorts/herathera-island/",
     "as_of": "2026-10-04"
    }
   ],
@@ -1325,6 +1346,36 @@
     "value": "gym",
     "source_url": "https://canareef.com/island-getaway-locals-and-expats/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://www.mymaldives.com/resort-guide/herathera-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "badminton",
+    "source_url": "https://www.mymaldives.com/resort-guide/herathera-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fitness center",
+    "source_url": "https://www.maldivestourism.net/resorts/herathera-island/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://www.maldivestourism.net/resorts/herathera-island/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "badminton",
+    "source_url": "https://www.maldivestourism.net/resorts/herathera-island/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "beach volleyball",
+    "source_url": "https://www.maldivestourism.net/resorts/herathera-island/",
+    "as_of": "2026-10-04"
    }
   ],
   "transfer.minutes.speedboat": [
@@ -1341,6 +1392,16 @@
    {
     "value": 10,
     "source_url": "https://canareef.com/about/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 70,
+    "source_url": "https://www.mymaldives.com/resort-guide/herathera-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 70,
+    "source_url": "https://www.maldivestourism.net/resorts/herathera-island/",
     "as_of": "2026-10-04"
    }
   ],
@@ -1434,6 +1495,16 @@
    {
     "value": "Spa",
     "source_url": "https://canareef.com/vote-canareef-sata-2026/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.mymaldives.com/resort-guide/herathera-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Dhoni Bar\nHerathera Spa",
+    "source_url": "https://www.maldivestourism.net/resorts/herathera-island/",
     "as_of": "2026-10-04"
    }
   ],
@@ -1544,6 +1615,11 @@
     "value": true,
     "source_url": "https://canareef.com/canareef-resort-maldives-family-honeymooners-experience/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.maldivestourism.net/resorts/herathera-island/",
+    "as_of": "2026-10-04"
    }
   ],
   "weddings.venues": [
@@ -1584,6 +1660,16 @@
    {
     "value": 271,
     "source_url": "https://canareef.com/about/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 271,
+    "source_url": "https://www.mymaldives.com/resort-guide/herathera-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 273,
+    "source_url": "https://www.maldivestourism.net/resorts/herathera-island/",
     "as_of": "2026-10-04"
    }
   ],
@@ -1631,6 +1717,11 @@
     "value": "+960 689-6677",
     "source_url": "https://canareef.com/contact-us/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 689 7766",
+    "source_url": "https://www.maldivestourism.net/resorts/herathera-island/",
+    "as_of": "2026-10-04"
    }
   ],
   "weddings.vow_renewal": [
@@ -1638,12 +1729,27 @@
     "value": true,
     "source_url": "https://canareef.com/about/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.maldivestourism.net/resorts/herathera-island/",
+    "as_of": "2026-10-04"
    }
   ],
   "island": [
    {
     "value": "Herathera",
     "source_url": "https://canareef.com/canareef-tripadvisor-best-of-best-2026/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Herathera",
+    "source_url": "https://www.mymaldives.com/resort-guide/herathera-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Herathera",
+    "source_url": "https://www.maldivestourism.net/resorts/herathera-island/",
     "as_of": "2026-10-04"
    }
   ],
@@ -1672,7 +1778,14 @@
     "source_url": "https://canareef.com/villas/sunrise-villas/",
     "as_of": "2026-10-04"
    }
+  ],
+  "events_mice.capacity_max": [
+   {
+    "value": 30,
+    "source_url": "https://www.maldivestourism.net/resorts/herathera-island/",
+    "as_of": "2026-10-04"
+   }
   ]
  },
- "last_updated": "2026-10-04"
+ "last_updated": "2026-10-05"
 }

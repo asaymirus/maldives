@@ -6,9 +6,9 @@
   "Filitheyo"
  ],
  "official_url": "https://www.filitheyo.com/",
- "official_site_status": "unverified",
+ "official_site_status": "blocked-partial",
  "operator_brand": null,
- "atoll": null,
+ "atoll": "Faafu Atoll",
  "island": null,
  "opened_or_renovated": null,
  "star_rating": null,
@@ -23,31 +23,54 @@
  },
  "island_size": null,
  "villas": {
-  "total": null,
+  "total": 125,
   "categories": []
  },
- "dining": [],
- "meal_plans": [],
- "all_inclusive_details": null,
+ "dining": [
+  {
+   "name": "Mini Bar",
+   "cuisine": null,
+   "type": "bar"
+  }
+ ],
+ "meal_plans": [
+  "AI"
+ ],
+ "all_inclusive_details": "All Inclusive in Superior Villa.",
  "spa": {
-  "name": null,
+  "name": "Spa",
   "treatment_rooms": null,
   "signature_treatments": [],
   "menu_doc": null
  },
  "diving_watersports": {
-  "operator": null,
-  "house_reef": null,
-  "activities": [],
+  "operator": "Werner Lau",
+  "house_reef": "house reef è vicina alla riva e bella, i punti di entrata e uscita sono ben segnalati",
+  "activities": [
+   "snorkeling",
+   "scuba diving",
+   "windsurfing",
+   "catamaran",
+   "fishing",
+   "sailing",
+   "canoe"
+  ],
   "price_list_doc": null
  },
- "excursions": [],
+ "excursions": [
+  "dolphin",
+  "big game fishing",
+  "night fishing"
+ ],
  "kids_family": {
   "kids_club": null,
   "age_range": null,
   "teens": null
  },
- "wellness_fitness": [],
+ "wellness_fitness": [
+  "gym",
+  "badminton"
+ ],
  "weddings": {
   "offered": null,
   "vow_renewal": null,
@@ -65,7 +88,7 @@
  "contacts_public": {
   "reservations_email": null,
   "weddings_email": null,
-  "phone": null
+  "phone": "+960 674 0025"
  },
  "documents_latest": {
   "factsheet": null,
@@ -82,17 +105,206 @@
   "factsheet",
   "wedding brochure",
   "events/MICE document",
-  "fact: villas.total",
   "fact: villa categories",
-  "fact: dining",
   "fact: transfer",
-  "fact: atoll",
-  "fact: spa",
-  "fact: dive operator",
   "fact: kids club",
   "fact: weddings",
   "fact: contacts"
  ],
- "sources": {},
- "last_updated": "2026-10-04"
+ "sources": {
+  "atoll": [
+   {
+    "value": "Faafu Atoll",
+    "source_url": "https://mondomaldive.it/it/villaggio/filitheyo-island-resort/racconto/una-settimana-in-paradiso-1",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Faafu Atoll",
+    "source_url": "https://mondomaldive.it/it/villaggio/filitheyo-island-resort/recensione/6784",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Faafu Atoll",
+    "source_url": "https://mondomaldive.it/it/villaggio/filitheyo-island-resort/recensione/6386",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Faafu Atoll",
+    "source_url": "https://www.mymaldives.com/resort-guide/filitheyo-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Faafu Atoll",
+    "source_url": "https://www.maldivestourism.net/resorts/filitheyo-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Faafu Atoll",
+    "source_url": "https://malediven.de/malediven-hotels/filitheyo-island-resort/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "all_inclusive_details": [
+   {
+    "value": "All Inclusive in Superior Villa.",
+    "source_url": "https://mondomaldive.it/it/villaggio/filitheyo-island-resort/racconto/una-settimana-in-paradiso-1",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "meal_plans": [
+   {
+    "value": "AI",
+    "source_url": "https://mondomaldive.it/it/villaggio/filitheyo-island-resort/recensione/6784",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://mondomaldive.it/it/villaggio/filitheyo-island-resort/recensione/6386",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "diving_watersports.house_reef": [
+   {
+    "value": "house reef è vicina alla riva e bella, i punti di entrata e uscita sono ben segnalati",
+    "source_url": "https://mondomaldive.it/it/villaggio/filitheyo-island-resort/recensione/6784",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef",
+    "source_url": "https://www.maldivestourism.net/resorts/filitheyo-island-resort/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "villas.total": [
+   {
+    "value": 125,
+    "source_url": "https://www.mymaldives.com/resort-guide/filitheyo-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 125,
+    "source_url": "https://www.maldivestourism.net/resorts/filitheyo-island-resort/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "spa.name": [
+   {
+    "value": "Spa",
+    "source_url": "https://www.mymaldives.com/resort-guide/filitheyo-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Laundry Service\nFilitheyo Spa",
+    "source_url": "https://www.maldivestourism.net/resorts/filitheyo-island-resort/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "diving_watersports.activities": [
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.mymaldives.com/resort-guide/filitheyo-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://www.mymaldives.com/resort-guide/filitheyo-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "windsurfing",
+    "source_url": "https://www.mymaldives.com/resort-guide/filitheyo-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "catamaran",
+    "source_url": "https://www.mymaldives.com/resort-guide/filitheyo-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.mymaldives.com/resort-guide/filitheyo-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sailing",
+    "source_url": "https://www.mymaldives.com/resort-guide/filitheyo-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "canoe",
+    "source_url": "https://www.mymaldives.com/resort-guide/filitheyo-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.maldivestourism.net/resorts/filitheyo-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.maldivestourism.net/resorts/filitheyo-island-resort/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "excursions": [
+   {
+    "value": "dolphin",
+    "source_url": "https://www.mymaldives.com/resort-guide/filitheyo-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "big game fishing",
+    "source_url": "https://www.mymaldives.com/resort-guide/filitheyo-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "night fishing",
+    "source_url": "https://www.maldivestourism.net/resorts/filitheyo-island-resort/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "wellness_fitness": [
+   {
+    "value": "gym",
+    "source_url": "https://www.mymaldives.com/resort-guide/filitheyo-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "badminton",
+    "source_url": "https://www.mymaldives.com/resort-guide/filitheyo-island-resort/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "contacts_public.phone": [
+   {
+    "value": "+960 674 0025",
+    "source_url": "https://www.mymaldives.com/resort-guide/filitheyo-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 6740025",
+    "source_url": "https://www.maldivestourism.net/resorts/filitheyo-island-resort/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "dining": [
+   {
+    "value": {
+     "name": "Mini Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.maldivestourism.net/resorts/filitheyo-island-resort/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "diving_watersports.operator": [
+   {
+    "value": "Werner Lau",
+    "source_url": "https://www.maldivestourism.net/resorts/filitheyo-island-resort/",
+    "as_of": "2026-10-04"
+   }
+  ]
+ },
+ "last_updated": "2026-10-05"
 }

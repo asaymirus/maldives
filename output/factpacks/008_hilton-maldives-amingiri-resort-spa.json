@@ -27,23 +27,9 @@
  "island_size": "280 m x 628 m",
  "villas": {
   "total": null,
-  "categories": [
-   {
-    "name": "Total Number of Villas",
-    "count": 109,
-    "size_sqm": null,
-    "max_occupancy": null,
-    "pool": null,
-    "overwater": null
-   }
-  ]
+  "categories": []
  },
  "dining": [
-  {
-   "name": "Dining",
-   "cuisine": null,
-   "type": "restaurant"
-  },
   {
    "name": "Aura Pool Bar & Cocktail Lab",
    "cuisine": null,
@@ -58,11 +44,6 @@
    "name": "Sip Tea Lounge",
    "cuisine": null,
    "type": "bar"
-  },
-  {
-   "name": "Dining Experiences",
-   "cuisine": null,
-   "type": "restaurant"
   }
  ],
  "meal_plans": [],
@@ -97,7 +78,7 @@
   "cinema"
  ],
  "kids_family": {
-  "kids_club": null,
+  "kids_club": "Kids Club",
   "age_range": null,
   "teens": "teens programme mentioned"
  },
@@ -141,13 +122,13 @@
   "events": null,
   "calendar": null
  },
- "documents_count": 2,
+ "documents_count": 5,
  "gaps": [
   "wedding brochure",
   "events/MICE document",
   "fact: villas.total",
-  "fact: dive operator",
-  "fact: kids club"
+  "fact: villa categories",
+  "fact: dive operator"
  ],
  "sources": {
   "atoll": [
@@ -160,6 +141,11 @@
     "value": "North Malé Atoll",
     "source_url": "https://www.neoscapesmaldives.com/resort/hilton-maldives-amingiri-resort-spa/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "Kaafu Atoll",
+    "source_url": "https://malediven.de/malediven-hotels/hilton-maldives-amingiri/",
+    "as_of": "2026-10-04"
    }
   ],
   "spa.name": [
@@ -171,6 +157,11 @@
    {
     "value": "Spa",
     "source_url": "https://www.neoscapesmaldives.com/resort/hilton-maldives-amingiri-resort-spa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://malediven.de/malediven-hotels/hilton-maldives-amingiri/",
     "as_of": "2026-10-04"
    }
   ],
@@ -370,39 +361,7 @@
     "as_of": "2026-10-04"
    }
   ],
-  "villas.categories": [
-   {
-    "value": {
-     "name": "Total Number of Villas",
-     "count": 109,
-     "size_sqm": null,
-     "max_occupancy": null,
-     "pool": null,
-     "overwater": null
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/hilton-maldives-amingiri-resort-spa/",
-    "as_of": "2026-10-04"
-   }
-  ],
   "dining": [
-   {
-    "value": {
-     "name": "Dining",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/hilton-maldives-amingiri-resort-spa/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Dining",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/hilton-maldives-amingiri-resort-spa/",
-    "as_of": "2026-10-04"
-   },
    {
     "value": {
      "name": "Aura Pool Bar & Cocktail Lab",
@@ -429,15 +388,6 @@
     },
     "source_url": "https://www.neoscapesmaldives.com/resort/hilton-maldives-amingiri-resort-spa/",
     "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Dining Experiences",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/hilton-maldives-amingiri-resort-spa/",
-    "as_of": "2026-10-04"
    }
   ],
   "kids_family.teens": [
@@ -460,7 +410,14 @@
     "source_url": "https://www.neoscapesmaldives.com/resort/hilton-maldives-amingiri-resort-spa/",
     "as_of": "2026-10-04"
    }
+  ],
+  "kids_family.kids_club": [
+   {
+    "value": "Kids Club",
+    "source_url": "https://malediven.de/malediven-hotels/hilton-maldives-amingiri/",
+    "as_of": "2026-10-04"
+   }
   ]
  },
- "last_updated": "2026-10-04"
+ "last_updated": "2026-10-05"
 }

@@ -12,7 +12,7 @@
  "atoll": "Raa Atoll",
  "island": "Aarah",
  "opened_or_renovated": null,
- "star_rating": null,
+ "star_rating": "5-star",
  "transfer": {
   "modes": [
    "seaplane",
@@ -21,7 +21,7 @@
   ],
   "minutes": {
    "seaplane": 40,
-   "speedboat": null,
+   "speedboat": 60,
    "domestic flight": null,
    "yacht": null
   }
@@ -30,6 +30,54 @@
  "villas": {
   "total": 124,
   "categories": [
+   {
+    "name": "Beach Villa",
+    "count": 3,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "Pool Beach Villa",
+    "count": 3,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": true,
+    "overwater": null
+   },
+   {
+    "name": "Family Pool Beach Villa",
+    "count": 6,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": true,
+    "overwater": null
+   },
+   {
+    "name": "Ocean Villa",
+    "count": 3,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": true
+   },
+   {
+    "name": "Ocean Suite with",
+    "count": 2,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": true
+   },
+   {
+    "name": "Ocean Residence",
+    "count": 5,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": true
+   },
    {
     "name": "Villas",
     "count": 124,
@@ -41,14 +89,6 @@
    {
     "name": "Suites",
     "count": 26,
-    "size_sqm": null,
-    "max_occupancy": null,
-    "pool": null,
-    "overwater": null
-   },
-   {
-    "name": "Number of Villas",
-    "count": 150,
     "size_sqm": null,
     "max_occupancy": null,
     "pool": null,
@@ -106,22 +146,32 @@
  },
  "dining": [
   {
-   "name": "Mini Bar",
+   "name": "Pool Bar",
+   "cuisine": null,
+   "type": "bar"
+  },
+  {
+   "name": "Café Latte",
+   "cuisine": null,
+   "type": "restaurant"
+  },
+  {
+   "name": "island resort. At Bandhi Bar, every drink is",
+   "cuisine": null,
+   "type": "bar"
+  },
+  {
+   "name": "Bar is where the Maldives meets mixology",
+   "cuisine": null,
+   "type": "bar"
+  },
+  {
+   "name": "Mini Bar replenished twice daily",
    "cuisine": null,
    "type": "bar"
   },
   {
    "name": "Ralu Overwater Restaurant in Maldives",
-   "cuisine": null,
-   "type": "restaurant"
-  },
-  {
-   "name": "Dining Options",
-   "cuisine": null,
-   "type": "restaurant"
-  },
-  {
-   "name": "Ginifati Private Dining in Maldives",
    "cuisine": null,
    "type": "restaurant"
   },
@@ -134,21 +184,6 @@
    "name": "Ambula Overwater Restaurant in Maldives",
    "cuisine": null,
    "type": "restaurant"
-  },
-  {
-   "name": "Baani Overwater Fine Dining Maldives",
-   "cuisine": null,
-   "type": "restaurant"
-  },
-  {
-   "name": "Hathaa Overwater Japanese Restaurant in Maldives",
-   "cuisine": null,
-   "type": "restaurant"
-  },
-  {
-   "name": "Udaras Overwater Infinity Pool Bar in Maldives",
-   "cuisine": null,
-   "type": "bar"
   },
   {
    "name": "Bandhi Pool Bar in Maldives",
@@ -176,39 +211,19 @@
    "type": "bar"
   },
   {
-   "name": "Mini Bar replenished twice daily.",
-   "cuisine": null,
-   "type": "bar"
-  },
-  {
-   "name": "Bandhi Bar | 9.00 pm – 11.00 pm",
-   "cuisine": null,
-   "type": "bar"
-  },
-  {
-   "name": "Ranba Main Restaurant | 7.30 pm – 10.00 pm",
-   "cuisine": null,
-   "type": "restaurant"
-  },
-  {
-   "name": "Ambula Restaurant | 7.00 pm – 10.00 pm",
-   "cuisine": null,
-   "type": "restaurant"
-  },
-  {
-   "name": "Dining",
-   "cuisine": null,
-   "type": "restaurant"
-  },
-  {
-   "name": "Dining at Heritance Aarah",
-   "cuisine": null,
-   "type": "restaurant"
-  },
-  {
    "name": "Bandhi Bar",
    "cuisine": null,
    "type": "bar"
+  },
+  {
+   "name": "Ranba Main Restaurant",
+   "cuisine": null,
+   "type": "restaurant"
+  },
+  {
+   "name": "Ambula Restaurant",
+   "cuisine": null,
+   "type": "restaurant"
   },
   {
    "name": "Sky Bar",
@@ -229,82 +244,91 @@
    "name": "Ralu Lounge Bar",
    "cuisine": null,
    "type": "bar"
+  },
+  {
+   "name": "Dinner im Sand: Ginifati Restaurant.",
+   "cuisine": null,
+   "type": "restaurant"
   }
  ],
  "meal_plans": [
   "AI",
-  "Dine Around",
-  "Premium AI"
+  "Premium AI",
+  "Dine Around"
  ],
  "all_inclusive_details": "All-Inclusive Resort in maldives.",
  "spa": {
-  "name": "Spa",
+  "name": "Medi Spa",
   "treatment_rooms": null,
   "signature_treatments": [],
-  "menu_doc": null
+  "menu_doc": "https://heritancehotels.eme-devops.com/sites/2/2025/09/Wellness-Activities-IASO-Spa.pdf"
  },
  "diving_watersports": {
   "operator": "Dive Centre",
   "house_reef": "house reef (thrice a week)",
   "activities": [
    "snorkeling",
-   "surfing",
    "catamaran",
    "jet ski",
+   "parasailing",
    "water skiing",
+   "dolphin cruise",
    "sailing",
    "flyboard",
-   "paddleboard",
-   "sunset cruise",
-   "dolphin cruise",
-   "glass-bottom",
+   "canoe",
    "snorkelling",
-   "windsurfing",
-   "fishing",
    "scuba diving",
+   "sunset cruise",
+   "windsurfing",
+   "surfing",
+   "fishing",
+   "kayaking",
+   "whale shark",
+   "paddleboard",
+   "glass-bottom",
    "manta",
    "banana boat",
    "fun tube",
-   "kitesurfing",
-   "kayaking",
-   "parasailing"
+   "kitesurfing"
   ],
-  "price_list_doc": null
+  "price_list_doc": "https://heritancehotels.eme-devops.com/sites/2/2026/03/Kaito-Water-Sports-Brochure_compressed.pdf"
  },
  "excursions": [
-  "local island",
   "dolphin",
-  "cooking class",
+  "local island",
   "night fishing",
+  "turtle",
+  "cooking class",
+  "whale shark",
   "manta",
   "big game fishing",
   "sandbank",
   "cinema",
-  "stargazing",
-  "turtle"
+  "stargazing"
  ],
  "kids_family": {
-  "kids_club": "KOKA Kids Club",
+  "kids_club": "Koka Kids Club",
   "age_range": null,
-  "teens": "teens programme mentioned"
+  "teens": null
  },
  "wellness_fitness": [
   "yoga",
   "gym",
   "tennis",
-  "badminton",
-  "beach volleyball",
-  "steam",
   "padel",
+  "badminton",
+  "steam",
   "meditation",
-  "sound healing"
+  "sound healing",
+  "ayurveda",
+  "fitness centre"
  ],
  "weddings": {
   "offered": true,
   "vow_renewal": null,
   "venues": [],
   "packages": [],
-  "brochure_doc": null
+  "brochure_doc": "https://heritancehotels.eme-devops.com/2026/09/Heritance-Aarah-Wedding-Document.pdf"
  },
  "events_mice": {
   "venues": [],
@@ -313,34 +337,57 @@
   "doc": null
  },
  "sustainability": [
-  "Green Globe"
+  "solar",
+  "single-use plastic",
+  "Green Globe",
+  "Travelife",
+  "composting"
  ],
  "contacts_public": {
   "reservations_email": "info@neoscapesmaldives.com",
   "weddings_email": null,
-  "phone": "+960 736 5425"
+  "phone": "+960 6580222"
  },
  "documents_latest": {
-  "factsheet": "https://www.neoscapesmaldives.com/wp-content/uploads/Heritance-Aarah-Fact-Sheet_Dec-V2.pdf",
-  "map": "https://www.neoscapesmaldives.com/wp-content/uploads/Heritance-Aarah-Resort-map.pdf",
-  "wedding": null,
-  "spa_menu": null,
-  "dining_menu": null,
-  "dive_prices": null,
+  "factsheet": "https://heritancehotels.eme-devops.com/sites/2/2026/09/Heritance-Aarah-Fact-Sheet.pdf",
+  "map": "https://visitmaldives.s3.amazonaws.com/5qRxGdwx/0gbnvxkn.pdf",
+  "wedding": "https://heritancehotels.eme-devops.com/2026/09/Heritance-Aarah-Wedding-Document.pdf",
+  "spa_menu": "https://heritancehotels.eme-devops.com/sites/2/2025/09/Wellness-Activities-IASO-Spa.pdf",
+  "dining_menu": "https://heritancehotels.eme-devops.com/2026/08/Premium-All-Inclusive-Wine-Beverage-List-25.08.2026.pdf",
+  "dive_prices": "https://heritancehotels.eme-devops.com/sites/2/2026/03/Kaito-Water-Sports-Brochure_compressed.pdf",
   "events": null,
   "calendar": null
  },
- "documents_count": 2,
+ "documents_count": 189,
  "gaps": [
-  "wedding brochure",
   "events/MICE document"
  ],
  "sources": {
   "atoll": [
    {
     "value": "Raa Atoll",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Heritance-Aarah-Fact-Sheet_Dec-V2.pdf",
-    "as_of": 2020
+    "source_url": "https://heritancehotels.eme-devops.com/sites/2/2026/09/Heritance-Aarah-Fact-Sheet.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "Raa Atoll",
+    "source_url": "https://heritancehotels.eme-devops.com/2026/09/Heritance-Aarah-Wedding-Document.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "Raa Atoll",
+    "source_url": "https://heritancehotels.eme-devops.com/sites/2/2026/09/Heritance-Aarah-Premium-All-Inclusive.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "Raa Atoll",
+    "source_url": "https://heritancehotels.eme-devops.com/sites/2/2026/06/Heritance-Aarah-SMP-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "Kaafu Atoll",
+    "source_url": "https://visitmaldives.s3.amazonaws.com/5qRxGdwx/0gbnvxkn.pdf",
+    "as_of": 2022
    },
    {
     "value": "Raa Atoll",
@@ -371,13 +418,38 @@
     "value": "Raa Atoll",
     "source_url": "https://www.neoscapesmaldives.com/resort/heritance-aarah/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "Raa Atoll",
+    "source_url": "https://malediven.de/malediven-hotels/heritance-aarah/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Raa Atoll",
+    "source_url": "https://www.airtours.de/reiseziele/asien/malediven/heritance-aarah-malediven-medical-spa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Baa Atoll",
+    "source_url": "https://www.dnatatravel.com/2-8202733-1/heritance-aarah-maldives?oc=true",
+    "as_of": "2026-10-04"
    }
   ],
   "transfer.modes": [
    {
     "value": "seaplane",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Heritance-Aarah-Fact-Sheet_Dec-V2.pdf",
-    "as_of": 2020
+    "source_url": "https://heritancehotels.eme-devops.com/sites/2/2026/09/Heritance-Aarah-Fact-Sheet.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://heritancehotels.eme-devops.com/sites/2/2026/03/Kaito-Water-Sports-Brochure_compressed.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://heritancehotels.eme-devops.com/sites/2/2026/09/Heritance-Aarah-Premium-All-Inclusive.pdf",
+    "as_of": 2026
    },
    {
     "value": "seaplane",
@@ -1221,6 +1293,338 @@
    },
    {
     "value": "seaplane",
+    "source_url": "https://www.neoscapesmaldives.com/resort/heritance-aarah/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "transfer.minutes.seaplane": [
+   {
+    "value": 40,
+    "source_url": "https://heritancehotels.eme-devops.com/sites/2/2026/09/Heritance-Aarah-Fact-Sheet.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": 40,
+    "source_url": "https://www.heritancehotels.com/aarah/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 40,
+    "source_url": "https://www.heritancehotels.com/aarah/offers/bologna-fc/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 40,
+    "source_url": "https://www.heritancehotels.com/aarah/location/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 40,
+    "source_url": "https://www.heritancehotels.com/aarah/?lang=zh-hans",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 40,
+    "source_url": "https://www.heritancehotels.com/aarah/?lang=ja",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 40,
+    "source_url": "https://www.heritancehotels.com/aarah/?lang=ru",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 40,
+    "source_url": "https://www.neoscapesmaldives.com/resort/heritance-aarah/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "villas.categories": [
+   {
+    "value": {
+     "name": "Beach Villa",
+     "count": 3,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://heritancehotels.eme-devops.com/sites/2/2026/09/Heritance-Aarah-Fact-Sheet.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": {
+     "name": "Pool Beach Villa",
+     "count": 3,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": true,
+     "overwater": null
+    },
+    "source_url": "https://heritancehotels.eme-devops.com/sites/2/2026/09/Heritance-Aarah-Fact-Sheet.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": {
+     "name": "Family Pool Beach Villa",
+     "count": 6,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": true,
+     "overwater": null
+    },
+    "source_url": "https://heritancehotels.eme-devops.com/sites/2/2026/09/Heritance-Aarah-Fact-Sheet.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": {
+     "name": "Ocean Villa",
+     "count": 3,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": true
+    },
+    "source_url": "https://heritancehotels.eme-devops.com/sites/2/2026/09/Heritance-Aarah-Fact-Sheet.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": {
+     "name": "Ocean Suite with",
+     "count": 2,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": true
+    },
+    "source_url": "https://heritancehotels.eme-devops.com/sites/2/2026/09/Heritance-Aarah-Fact-Sheet.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": {
+     "name": "Ocean Residence",
+     "count": 5,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": true
+    },
+    "source_url": "https://heritancehotels.eme-devops.com/sites/2/2026/09/Heritance-Aarah-Fact-Sheet.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": {
+     "name": "Villas",
+     "count": 124,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://www.heritancehotels.com/aarah/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Suites",
+     "count": 26,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://www.heritancehotels.com/aarah/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Villas",
+     "count": 124,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://www.heritancehotels.com/aarah/accommodation/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Suites",
+     "count": 26,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://www.heritancehotels.com/aarah/accommodation/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Villas",
+     "count": 124,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://www.heritancehotels.com/aarah/?lang=zh-hans",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Suites",
+     "count": 26,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://www.heritancehotels.com/aarah/?lang=zh-hans",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Villas",
+     "count": 124,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://www.heritancehotels.com/aarah/?lang=ja",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Suites",
+     "count": 26,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://www.heritancehotels.com/aarah/?lang=ja",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Villas",
+     "count": 124,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://www.heritancehotels.com/aarah/?lang=ru",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Suites",
+     "count": 26,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://www.heritancehotels.com/aarah/?lang=ru",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "beach villa heritance aarah",
+     "count": 5,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://www.neoscapesmaldives.com/resort/heritance-aarah/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "beach villa wash room heritance aarah",
+     "count": 19,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://www.neoscapesmaldives.com/resort/heritance-aarah/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "beach villa view from beach heritance aarah",
+     "count": 18,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://www.neoscapesmaldives.com/resort/heritance-aarah/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "beach villa interier heritance aarah",
+     "count": 14,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://www.neoscapesmaldives.com/resort/heritance-aarah/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "beach villa heritance aarah",
+     "count": 20,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://www.neoscapesmaldives.com/resort/heritance-aarah/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "beach villa heritance aarah",
+     "count": 6,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://www.neoscapesmaldives.com/resort/heritance-aarah/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "family beach villa copy heritance aarah",
+     "count": 1,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://www.neoscapesmaldives.com/resort/heritance-aarah/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "family beach villa heritance aarah",
+     "count": 15,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
     "source_url": "https://www.neoscapesmaldives.com/resort/heritance-aarah/",
     "as_of": "2026-10-04"
    }
@@ -1228,34 +1632,52 @@
   "dining": [
    {
     "value": {
-     "name": "Mini Bar",
+     "name": "Pool Bar",
      "cuisine": null,
      "type": "bar"
     },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Heritance-Aarah-Fact-Sheet_Dec-V2.pdf",
-    "as_of": 2020
+    "source_url": "https://heritancehotels.eme-devops.com/sites/2/2026/09/Heritance-Aarah-Fact-Sheet.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": {
+     "name": "Café Latte",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://heritancehotels.eme-devops.com/2026/08/Premium-All-Inclusive-Wine-Beverage-List-25.08.2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": {
+     "name": "island resort. At Bandhi Bar, every drink is",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://heritancehotels.eme-devops.com/sites/2/2026/09/Heritance-Aarah-Premium-All-Inclusive.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": {
+     "name": "Bar is where the Maldives meets mixology",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://heritancehotels.eme-devops.com/sites/2/2026/09/Heritance-Aarah-Premium-All-Inclusive.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": {
+     "name": "Mini Bar replenished twice daily",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://heritancehotels.eme-devops.com/sites/2/2026/09/Heritance-Aarah-Premium-All-Inclusive.pdf",
+    "as_of": 2026
    },
    {
     "value": {
      "name": "Ralu Overwater Restaurant in Maldives",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.heritancehotels.com/aarah/dining/ralu-overwater-restaurant/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Dining Options",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.heritancehotels.com/aarah/dining/ralu-overwater-restaurant/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Ginifati Private Dining in Maldives",
      "cuisine": null,
      "type": "restaurant"
     },
@@ -1276,33 +1698,6 @@
      "name": "Ambula Overwater Restaurant in Maldives",
      "cuisine": null,
      "type": "restaurant"
-    },
-    "source_url": "https://www.heritancehotels.com/aarah/dining/ralu-overwater-restaurant/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Baani Overwater Fine Dining Maldives",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.heritancehotels.com/aarah/dining/ralu-overwater-restaurant/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Hathaa Overwater Japanese Restaurant in Maldives",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.heritancehotels.com/aarah/dining/ralu-overwater-restaurant/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Udaras Overwater Infinity Pool Bar in Maldives",
-     "cuisine": null,
-     "type": "bar"
     },
     "source_url": "https://www.heritancehotels.com/aarah/dining/ralu-overwater-restaurant/",
     "as_of": "2026-10-04"
@@ -1345,33 +1740,6 @@
    },
    {
     "value": {
-     "name": "Hathaa Overwater Japanese Restaurant in Maldives",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.heritancehotels.com/aarah/dining/hathaa-overwater-restaurant/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Dining Options",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.heritancehotels.com/aarah/dining/hathaa-overwater-restaurant/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Ginifati Private Dining in Maldives",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.heritancehotels.com/aarah/dining/hathaa-overwater-restaurant/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
      "name": "Ranba Restaurant in Maldives",
      "cuisine": null,
      "type": "restaurant"
@@ -1390,27 +1758,9 @@
    },
    {
     "value": {
-     "name": "Baani Overwater Fine Dining Maldives",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.heritancehotels.com/aarah/dining/hathaa-overwater-restaurant/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
      "name": "Ralu Overwater Restaurant in Maldives",
      "cuisine": null,
      "type": "restaurant"
-    },
-    "source_url": "https://www.heritancehotels.com/aarah/dining/hathaa-overwater-restaurant/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Udaras Overwater Infinity Pool Bar in Maldives",
-     "cuisine": null,
-     "type": "bar"
     },
     "source_url": "https://www.heritancehotels.com/aarah/dining/hathaa-overwater-restaurant/",
     "as_of": "2026-10-04"
@@ -1471,24 +1821,6 @@
    },
    {
     "value": {
-     "name": "Dining Options",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.heritancehotels.com/aarah/dining/ralu-overwater-lounge-bar/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Ginifati Private Dining in Maldives",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.heritancehotels.com/aarah/dining/ralu-overwater-lounge-bar/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
      "name": "Ranba Restaurant in Maldives",
      "cuisine": null,
      "type": "restaurant"
@@ -1507,36 +1839,9 @@
    },
    {
     "value": {
-     "name": "Baani Overwater Fine Dining Maldives",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.heritancehotels.com/aarah/dining/ralu-overwater-lounge-bar/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
      "name": "Ralu Overwater Restaurant in Maldives",
      "cuisine": null,
      "type": "restaurant"
-    },
-    "source_url": "https://www.heritancehotels.com/aarah/dining/ralu-overwater-lounge-bar/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Hathaa Overwater Japanese Restaurant in Maldives",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.heritancehotels.com/aarah/dining/ralu-overwater-lounge-bar/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Udaras Overwater Infinity Pool Bar in Maldives",
-     "cuisine": null,
-     "type": "bar"
     },
     "source_url": "https://www.heritancehotels.com/aarah/dining/ralu-overwater-lounge-bar/",
     "as_of": "2026-10-04"
@@ -1570,33 +1875,6 @@
    },
    {
     "value": {
-     "name": "Baani Overwater Fine Dining Maldives",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.heritancehotels.com/aarah/dining/baani-overwater-fine-dining/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Dining Options",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.heritancehotels.com/aarah/dining/baani-overwater-fine-dining/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Ginifati Private Dining in Maldives",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.heritancehotels.com/aarah/dining/baani-overwater-fine-dining/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
      "name": "Ranba Restaurant in Maldives",
      "cuisine": null,
      "type": "restaurant"
@@ -1618,24 +1896,6 @@
      "name": "Ralu Overwater Restaurant in Maldives",
      "cuisine": null,
      "type": "restaurant"
-    },
-    "source_url": "https://www.heritancehotels.com/aarah/dining/baani-overwater-fine-dining/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Hathaa Overwater Japanese Restaurant in Maldives",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.heritancehotels.com/aarah/dining/baani-overwater-fine-dining/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Udaras Overwater Infinity Pool Bar in Maldives",
-     "cuisine": null,
-     "type": "bar"
     },
     "source_url": "https://www.heritancehotels.com/aarah/dining/baani-overwater-fine-dining/",
     "as_of": "2026-10-04"
@@ -1687,34 +1947,7 @@
    },
    {
     "value": {
-     "name": "Dining Options",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.heritancehotels.com/aarah/dining/ranba-restaurant/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Ginifati Private Dining in Maldives",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.heritancehotels.com/aarah/dining/ranba-restaurant/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
      "name": "Ambula Overwater Restaurant in Maldives",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.heritancehotels.com/aarah/dining/ranba-restaurant/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Baani Overwater Fine Dining Maldives",
      "cuisine": null,
      "type": "restaurant"
     },
@@ -1726,24 +1959,6 @@
      "name": "Ralu Overwater Restaurant in Maldives",
      "cuisine": null,
      "type": "restaurant"
-    },
-    "source_url": "https://www.heritancehotels.com/aarah/dining/ranba-restaurant/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Hathaa Overwater Japanese Restaurant in Maldives",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.heritancehotels.com/aarah/dining/ranba-restaurant/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Udaras Overwater Infinity Pool Bar in Maldives",
-     "cuisine": null,
-     "type": "bar"
     },
     "source_url": "https://www.heritancehotels.com/aarah/dining/ranba-restaurant/",
     "as_of": "2026-10-04"
@@ -1795,24 +2010,6 @@
    },
    {
     "value": {
-     "name": "Dining Options",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.heritancehotels.com/aarah/dining/bandhi-pool-bar/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Ginifati Private Dining in Maldives",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.heritancehotels.com/aarah/dining/bandhi-pool-bar/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
      "name": "Ranba Restaurant in Maldives",
      "cuisine": null,
      "type": "restaurant"
@@ -1831,36 +2028,9 @@
    },
    {
     "value": {
-     "name": "Baani Overwater Fine Dining Maldives",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.heritancehotels.com/aarah/dining/bandhi-pool-bar/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
      "name": "Ralu Overwater Restaurant in Maldives",
      "cuisine": null,
      "type": "restaurant"
-    },
-    "source_url": "https://www.heritancehotels.com/aarah/dining/bandhi-pool-bar/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Hathaa Overwater Japanese Restaurant in Maldives",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.heritancehotels.com/aarah/dining/bandhi-pool-bar/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Udaras Overwater Infinity Pool Bar in Maldives",
-     "cuisine": null,
-     "type": "bar"
     },
     "source_url": "https://www.heritancehotels.com/aarah/dining/bandhi-pool-bar/",
     "as_of": "2026-10-04"
@@ -1903,24 +2073,6 @@
    },
    {
     "value": {
-     "name": "Dining Options",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.heritancehotels.com/aarah/dining/sky-overwater-bar/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Ginifati Private Dining in Maldives",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.heritancehotels.com/aarah/dining/sky-overwater-bar/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
      "name": "Ranba Restaurant in Maldives",
      "cuisine": null,
      "type": "restaurant"
@@ -1939,36 +2091,9 @@
    },
    {
     "value": {
-     "name": "Baani Overwater Fine Dining Maldives",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.heritancehotels.com/aarah/dining/sky-overwater-bar/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
      "name": "Ralu Overwater Restaurant in Maldives",
      "cuisine": null,
      "type": "restaurant"
-    },
-    "source_url": "https://www.heritancehotels.com/aarah/dining/sky-overwater-bar/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Hathaa Overwater Japanese Restaurant in Maldives",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.heritancehotels.com/aarah/dining/sky-overwater-bar/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Udaras Overwater Infinity Pool Bar in Maldives",
-     "cuisine": null,
-     "type": "bar"
     },
     "source_url": "https://www.heritancehotels.com/aarah/dining/sky-overwater-bar/",
     "as_of": "2026-10-04"
@@ -2020,34 +2145,7 @@
    },
    {
     "value": {
-     "name": "Ginifati Private Dining in Maldives",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.heritancehotels.com/aarah/premium-all-inclusive-packages/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
      "name": "Ambula Overwater Restaurant in Maldives",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.heritancehotels.com/aarah/premium-all-inclusive-packages/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Hathaa Overwater Japanese Restaurant in Maldives",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.heritancehotels.com/aarah/premium-all-inclusive-packages/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Baani Overwater Fine Dining Maldives",
      "cuisine": null,
      "type": "restaurant"
     },
@@ -2075,15 +2173,6 @@
    {
     "value": {
      "name": "Ralu Overwater Lounge Bar in Maldives",
-     "cuisine": null,
-     "type": "bar"
-    },
-    "source_url": "https://www.heritancehotels.com/aarah/premium-all-inclusive-packages/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Udaras Overwater Infinity Pool Bar in Maldives",
      "cuisine": null,
      "type": "bar"
     },
@@ -2110,7 +2199,7 @@
    },
    {
     "value": {
-     "name": "Bandhi Bar | 9.00 pm – 11.00 pm",
+     "name": "Bandhi Bar",
      "cuisine": null,
      "type": "bar"
     },
@@ -2119,7 +2208,7 @@
    },
    {
     "value": {
-     "name": "Bandhi Bar | 9.00 pm – 11.00 pm",
+     "name": "Bandhi Bar",
      "cuisine": null,
      "type": "bar"
     },
@@ -2128,7 +2217,7 @@
    },
    {
     "value": {
-     "name": "Bandhi Bar | 9.00 pm – 11.00 pm",
+     "name": "Bandhi Bar",
      "cuisine": null,
      "type": "bar"
     },
@@ -2137,7 +2226,7 @@
    },
    {
     "value": {
-     "name": "Bandhi Bar | 9.00 pm – 11.00 pm",
+     "name": "Bandhi Bar",
      "cuisine": null,
      "type": "bar"
     },
@@ -2146,7 +2235,7 @@
    },
    {
     "value": {
-     "name": "Ranba Main Restaurant | 7.30 pm – 10.00 pm",
+     "name": "Ranba Main Restaurant",
      "cuisine": null,
      "type": "restaurant"
     },
@@ -2155,7 +2244,7 @@
    },
    {
     "value": {
-     "name": "Bandhi Bar | 9.00 pm – 11.00 pm",
+     "name": "Bandhi Bar",
      "cuisine": null,
      "type": "bar"
     },
@@ -2164,7 +2253,7 @@
    },
    {
     "value": {
-     "name": "Ambula Restaurant | 7.00 pm – 10.00 pm",
+     "name": "Ambula Restaurant",
      "cuisine": null,
      "type": "restaurant"
     },
@@ -2173,7 +2262,7 @@
    },
    {
     "value": {
-     "name": "Ambula Restaurant | 7.00 pm – 10.00 pm",
+     "name": "Ambula Restaurant",
      "cuisine": null,
      "type": "restaurant"
     },
@@ -2182,29 +2271,11 @@
    },
    {
     "value": {
-     "name": "Bandhi Bar | 9.00 pm – 11.00 pm",
+     "name": "Bandhi Bar",
      "cuisine": null,
      "type": "bar"
     },
     "source_url": "https://www.heritancehotels.com/aarah/facilities/daily-activities-and-entertainment-in-maldives/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Dining Options",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.heritancehotels.com/aarah/dining/pizza-shack/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Ginifati Private Dining in Maldives",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.heritancehotels.com/aarah/dining/pizza-shack/",
     "as_of": "2026-10-04"
    },
    {
@@ -2227,36 +2298,9 @@
    },
    {
     "value": {
-     "name": "Baani Overwater Fine Dining Maldives",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.heritancehotels.com/aarah/dining/pizza-shack/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
      "name": "Ralu Overwater Restaurant in Maldives",
      "cuisine": null,
      "type": "restaurant"
-    },
-    "source_url": "https://www.heritancehotels.com/aarah/dining/pizza-shack/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Hathaa Overwater Japanese Restaurant in Maldives",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.heritancehotels.com/aarah/dining/pizza-shack/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Udaras Overwater Infinity Pool Bar in Maldives",
-     "cuisine": null,
-     "type": "bar"
     },
     "source_url": "https://www.heritancehotels.com/aarah/dining/pizza-shack/",
     "as_of": "2026-10-04"
@@ -2299,24 +2343,6 @@
    },
    {
     "value": {
-     "name": "Dining",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.heritancehotels.com/aarah/sitemap/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Ginifati Private Dining in Maldives",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.heritancehotels.com/aarah/sitemap/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
      "name": "Ranba Restaurant in Maldives",
      "cuisine": null,
      "type": "restaurant"
@@ -2335,36 +2361,9 @@
    },
    {
     "value": {
-     "name": "Baani Overwater Fine Dining Maldives",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.heritancehotels.com/aarah/sitemap/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
      "name": "Ralu Overwater Restaurant in Maldives",
      "cuisine": null,
      "type": "restaurant"
-    },
-    "source_url": "https://www.heritancehotels.com/aarah/sitemap/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Hathaa Overwater Japanese Restaurant in Maldives",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.heritancehotels.com/aarah/sitemap/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Udaras Overwater Infinity Pool Bar in Maldives",
-     "cuisine": null,
-     "type": "bar"
     },
     "source_url": "https://www.heritancehotels.com/aarah/sitemap/",
     "as_of": "2026-10-04"
@@ -2416,24 +2415,6 @@
    },
    {
     "value": {
-     "name": "Dining Options",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.heritancehotels.com/aarah/dining/falhu-overwater-bar/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Ginifati Private Dining in Maldives",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.heritancehotels.com/aarah/dining/falhu-overwater-bar/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
      "name": "Ranba Restaurant in Maldives",
      "cuisine": null,
      "type": "restaurant"
@@ -2452,36 +2433,9 @@
    },
    {
     "value": {
-     "name": "Baani Overwater Fine Dining Maldives",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.heritancehotels.com/aarah/dining/falhu-overwater-bar/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
      "name": "Ralu Overwater Restaurant in Maldives",
      "cuisine": null,
      "type": "restaurant"
-    },
-    "source_url": "https://www.heritancehotels.com/aarah/dining/falhu-overwater-bar/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Hathaa Overwater Japanese Restaurant in Maldives",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.heritancehotels.com/aarah/dining/falhu-overwater-bar/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Udaras Overwater Infinity Pool Bar in Maldives",
-     "cuisine": null,
-     "type": "bar"
     },
     "source_url": "https://www.heritancehotels.com/aarah/dining/falhu-overwater-bar/",
     "as_of": "2026-10-04"
@@ -2515,24 +2469,6 @@
    },
    {
     "value": {
-     "name": "Dining at Heritance Aarah",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.heritancehotels.com/aarah/dining/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Ginifati Private Dining in Maldives",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.heritancehotels.com/aarah/dining/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
      "name": "Ranba Restaurant in Maldives",
      "cuisine": null,
      "type": "restaurant"
@@ -2551,36 +2487,9 @@
    },
    {
     "value": {
-     "name": "Baani Overwater Fine Dining Maldives",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.heritancehotels.com/aarah/dining/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
      "name": "Ralu Overwater Restaurant in Maldives",
      "cuisine": null,
      "type": "restaurant"
-    },
-    "source_url": "https://www.heritancehotels.com/aarah/dining/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Hathaa Overwater Japanese Restaurant in Maldives",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.heritancehotels.com/aarah/dining/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Udaras Overwater Infinity Pool Bar in Maldives",
-     "cuisine": null,
-     "type": "bar"
     },
     "source_url": "https://www.heritancehotels.com/aarah/dining/",
     "as_of": "2026-10-04"
@@ -2623,33 +2532,6 @@
    },
    {
     "value": {
-     "name": "Udaras Overwater Infinity Pool Bar in Maldives",
-     "cuisine": null,
-     "type": "bar"
-    },
-    "source_url": "https://www.heritancehotels.com/aarah/dining/udaras-overwater-infinity-pool-bar/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Dining Options",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.heritancehotels.com/aarah/dining/udaras-overwater-infinity-pool-bar/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Ginifati Private Dining in Maldives",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.heritancehotels.com/aarah/dining/udaras-overwater-infinity-pool-bar/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
      "name": "Ranba Restaurant in Maldives",
      "cuisine": null,
      "type": "restaurant"
@@ -2668,25 +2550,7 @@
    },
    {
     "value": {
-     "name": "Baani Overwater Fine Dining Maldives",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.heritancehotels.com/aarah/dining/udaras-overwater-infinity-pool-bar/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
      "name": "Ralu Overwater Restaurant in Maldives",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.heritancehotels.com/aarah/dining/udaras-overwater-infinity-pool-bar/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Hathaa Overwater Japanese Restaurant in Maldives",
      "cuisine": null,
      "type": "restaurant"
     },
@@ -2727,24 +2591,6 @@
      "type": "bar"
     },
     "source_url": "https://www.heritancehotels.com/aarah/dining/udaras-overwater-infinity-pool-bar/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Dining",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/heritance-aarah/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Dining",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/heritance-aarah/",
     "as_of": "2026-10-04"
    },
    {
@@ -2791,13 +2637,199 @@
     },
     "source_url": "https://www.neoscapesmaldives.com/resort/heritance-aarah/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Dinner im Sand: Ginifati Restaurant.",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.airtours.de/reiseziele/asien/malediven/heritance-aarah-malediven-medical-spa/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "meal_plans": [
+   {
+    "value": "AI",
+    "source_url": "https://heritancehotels.eme-devops.com/sites/2/2026/09/Heritance-Aarah-Fact-Sheet.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "AI",
+    "source_url": "https://heritancehotels.eme-devops.com/sites/2/2026/09/Heritance-Aarah-Premium-All-Inclusive.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "Premium AI",
+    "source_url": "https://heritancehotels.eme-devops.com/sites/2/2026/09/Heritance-Aarah-Premium-All-Inclusive.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "AI",
+    "source_url": "https://www.heritancehotels.com/aarah/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Dine Around",
+    "source_url": "https://www.heritancehotels.com/aarah/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Premium AI",
+    "source_url": "https://www.heritancehotels.com/aarah/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://www.heritancehotels.com/aarah/storrington-collective-family-getaway/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Premium AI",
+    "source_url": "https://www.heritancehotels.com/aarah/storrington-collective-family-getaway/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://www.heritancehotels.com/aarah/offers/family-getaway/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Premium AI",
+    "source_url": "https://www.heritancehotels.com/aarah/offers/family-getaway/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://www.heritancehotels.com/aarah/accommodation/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://www.heritancehotels.com/aarah/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Premium AI",
+    "source_url": "https://www.heritancehotels.com/aarah/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://www.heritancehotels.com/aarah/offers/romantic-getaway/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Premium AI",
+    "source_url": "https://www.heritancehotels.com/aarah/offers/romantic-getaway/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Dine Around",
+    "source_url": "https://www.heritancehotels.com/aarah/offers/heritance-exclusive/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://www.heritancehotels.com/aarah/premium-all-inclusive-packages/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Dine Around",
+    "source_url": "https://www.heritancehotels.com/aarah/premium-all-inclusive-packages/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://www.heritancehotels.com/aarah/offers/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://www.heritancehotels.com/aarah/?lang=zh-hans",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Dine Around",
+    "source_url": "https://www.heritancehotels.com/aarah/?lang=zh-hans",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Premium AI",
+    "source_url": "https://www.heritancehotels.com/aarah/?lang=zh-hans",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://www.heritancehotels.com/aarah/?lang=ja",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Dine Around",
+    "source_url": "https://www.heritancehotels.com/aarah/?lang=ja",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Premium AI",
+    "source_url": "https://www.heritancehotels.com/aarah/?lang=ja",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://www.heritancehotels.com/aarah/?lang=ru",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Dine Around",
+    "source_url": "https://www.heritancehotels.com/aarah/?lang=ru",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Premium AI",
+    "source_url": "https://www.heritancehotels.com/aarah/?lang=ru",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://www.heritancehotels.com/aarah/storrington-collective-family-getaway/?lang=ru",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Premium AI",
+    "source_url": "https://www.heritancehotels.com/aarah/storrington-collective-family-getaway/?lang=ru",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://www.heritancehotels.com/aarah/%d0%bf%d1%80%d0%b5%d0%b4%d0%bb%d0%be%d0%b6%d0%b5%d0%bd%d0%b8%d1%8f/family-getaway/?lang=ru",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Premium AI",
+    "source_url": "https://www.heritancehotels.com/aarah/%d0%bf%d1%80%d0%b5%d0%b4%d0%bb%d0%be%d0%b6%d0%b5%d0%bd%d0%b8%d1%8f/family-getaway/?lang=ru",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://www.neoscapesmaldives.com/resort/heritance-aarah/",
+    "as_of": "2026-10-04"
    }
   ],
   "spa.name": [
    {
     "value": "Medi Spa",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Heritance-Aarah-Fact-Sheet_Dec-V2.pdf",
-    "as_of": 2020
+    "source_url": "https://heritancehotels.eme-devops.com/sites/2/2026/09/Heritance-Aarah-Fact-Sheet.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "IASO Medi Spa",
+    "source_url": "https://heritancehotels.eme-devops.com/2026/09/Heritance-Aarah-Wedding-Document.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://heritancehotels.eme-devops.com/sites/2/2026/09/Heritance-Aarah-Premium-All-Inclusive.pdf",
+    "as_of": 2026
    },
    {
     "value": "Spa",
@@ -3068,43 +3100,168 @@
     "value": "Facilities\nMedi Spa",
     "source_url": "https://www.neoscapesmaldives.com/resort/heritance-aarah/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://malediven.de/malediven-hotels/heritance-aarah/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.airtours.de/reiseziele/asien/malediven/heritance-aarah-malediven-medical-spa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Bar\nGym\nRestaurant\nSpa",
+    "source_url": "https://www.dnatatravel.com/2-8202733-1/heritance-aarah-maldives?oc=true",
+    "as_of": "2026-10-04"
    }
   ],
   "diving_watersports.activities": [
    {
     "value": "snorkeling",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Heritance-Aarah-Fact-Sheet_Dec-V2.pdf",
-    "as_of": 2020
-   },
-   {
-    "value": "surfing",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Heritance-Aarah-Fact-Sheet_Dec-V2.pdf",
-    "as_of": 2020
+    "source_url": "https://heritancehotels.eme-devops.com/sites/2/2026/09/Heritance-Aarah-Fact-Sheet.pdf",
+    "as_of": 2026
    },
    {
     "value": "catamaran",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Heritance-Aarah-Fact-Sheet_Dec-V2.pdf",
-    "as_of": 2020
+    "source_url": "https://heritancehotels.eme-devops.com/sites/2/2026/09/Heritance-Aarah-Fact-Sheet.pdf",
+    "as_of": 2026
    },
    {
     "value": "jet ski",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Heritance-Aarah-Fact-Sheet_Dec-V2.pdf",
-    "as_of": 2020
+    "source_url": "https://heritancehotels.eme-devops.com/sites/2/2026/09/Heritance-Aarah-Fact-Sheet.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "parasailing",
+    "source_url": "https://heritancehotels.eme-devops.com/sites/2/2026/09/Heritance-Aarah-Fact-Sheet.pdf",
+    "as_of": 2026
    },
    {
     "value": "water skiing",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Heritance-Aarah-Fact-Sheet_Dec-V2.pdf",
-    "as_of": 2020
+    "source_url": "https://heritancehotels.eme-devops.com/sites/2/2026/09/Heritance-Aarah-Fact-Sheet.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "dolphin cruise",
+    "source_url": "https://heritancehotels.eme-devops.com/sites/2/2026/09/Heritance-Aarah-Fact-Sheet.pdf",
+    "as_of": 2026
    },
    {
     "value": "sailing",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Heritance-Aarah-Fact-Sheet_Dec-V2.pdf",
-    "as_of": 2020
+    "source_url": "https://heritancehotels.eme-devops.com/sites/2/2026/09/Heritance-Aarah-Fact-Sheet.pdf",
+    "as_of": 2026
    },
    {
     "value": "flyboard",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Heritance-Aarah-Fact-Sheet_Dec-V2.pdf",
-    "as_of": 2020
+    "source_url": "https://heritancehotels.eme-devops.com/sites/2/2026/09/Heritance-Aarah-Fact-Sheet.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "canoe",
+    "source_url": "https://heritancehotels.eme-devops.com/sites/2/2026/09/Heritance-Aarah-Fact-Sheet.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://heritancehotels.eme-devops.com/2026/09/Heritance-Aarah-Wedding-Document.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://heritancehotels.eme-devops.com/2026/09/Heritance-Aarah-Wedding-Document.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://heritancehotels.eme-devops.com/2026/09/Heritance-Aarah-Wedding-Document.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "windsurfing",
+    "source_url": "https://heritancehotels.eme-devops.com/sites/2/2026/03/Kaito-Water-Sports-Brochure_compressed.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "surfing",
+    "source_url": "https://heritancehotels.eme-devops.com/sites/2/2026/03/Kaito-Water-Sports-Brochure_compressed.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "catamaran",
+    "source_url": "https://heritancehotels.eme-devops.com/sites/2/2026/03/Kaito-Water-Sports-Brochure_compressed.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "jet ski",
+    "source_url": "https://heritancehotels.eme-devops.com/sites/2/2026/03/Kaito-Water-Sports-Brochure_compressed.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "parasailing",
+    "source_url": "https://heritancehotels.eme-devops.com/sites/2/2026/03/Kaito-Water-Sports-Brochure_compressed.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "flyboard",
+    "source_url": "https://heritancehotels.eme-devops.com/sites/2/2026/03/Kaito-Water-Sports-Brochure_compressed.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "canoe",
+    "source_url": "https://heritancehotels.eme-devops.com/sites/2/2026/03/Kaito-Water-Sports-Brochure_compressed.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://heritancehotels.eme-devops.com/sites/2/2026/04/Excursion-Brochure_HAR.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://heritancehotels.eme-devops.com/sites/2/2026/09/Heritance-Aarah-Premium-All-Inclusive.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "kayaking",
+    "source_url": "https://heritancehotels.eme-devops.com/sites/2/2026/09/Heritance-Aarah-Premium-All-Inclusive.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "catamaran",
+    "source_url": "https://heritancehotels.eme-devops.com/sites/2/2026/09/Heritance-Aarah-Premium-All-Inclusive.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://heritancehotels.eme-devops.com/sites/2/2026/09/Heritance-Aarah-Premium-All-Inclusive.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://heritancehotels.eme-devops.com/sites/2/2026/09/Heritance-Aarah-Premium-All-Inclusive.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "dolphin cruise",
+    "source_url": "https://heritancehotels.eme-devops.com/sites/2/2026/09/Heritance-Aarah-Premium-All-Inclusive.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "sailing",
+    "source_url": "https://heritancehotels.eme-devops.com/sites/2/2026/09/Heritance-Aarah-Premium-All-Inclusive.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://heritancehotels.eme-devops.com/sites/2/2026/06/Heritance-Aarah-SMP-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://visitmaldives.s3.amazonaws.com/5qRxGdwx/0gbnvxkn.pdf",
+    "as_of": 2022
    },
    {
     "value": "snorkeling",
@@ -4524,14 +4681,54 @@
   ],
   "excursions": [
    {
+    "value": "dolphin",
+    "source_url": "https://heritancehotels.eme-devops.com/sites/2/2026/09/Heritance-Aarah-Fact-Sheet.pdf",
+    "as_of": 2026
+   },
+   {
     "value": "local island",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Heritance-Aarah-Fact-Sheet_Dec-V2.pdf",
-    "as_of": 2020
+    "source_url": "https://heritancehotels.eme-devops.com/2026/09/Heritance-Aarah-Wedding-Document.pdf",
+    "as_of": 2026
    },
    {
     "value": "dolphin",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Heritance-Aarah-Fact-Sheet_Dec-V2.pdf",
-    "as_of": 2020
+    "source_url": "https://heritancehotels.eme-devops.com/sites/2/2026/04/Excursion-Brochure_HAR.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://heritancehotels.eme-devops.com/sites/2/2026/09/Heritance-Aarah-Premium-All-Inclusive.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "night fishing",
+    "source_url": "https://heritancehotels.eme-devops.com/sites/2/2026/09/Heritance-Aarah-Premium-All-Inclusive.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://heritancehotels.eme-devops.com/sites/2/2026/09/Heritance-Aarah-Premium-All-Inclusive.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "cooking class",
+    "source_url": "https://heritancehotels.eme-devops.com/sites/2/2026/09/Heritance-Aarah-Premium-All-Inclusive.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "local island",
+    "source_url": "https://heritancehotels.eme-devops.com/sites/2/2026/06/Heritance-Aarah-SMP-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://heritancehotels.eme-devops.com/sites/2/2026/06/Heritance-Aarah-SMP-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://visitmaldives.s3.amazonaws.com/5qRxGdwx/0gbnvxkn.pdf",
+    "as_of": 2022
    },
    {
     "value": "dolphin",
@@ -4899,43 +5096,81 @@
     "as_of": "2026-10-04"
    }
   ],
-  "kids_family.teens": [
-   {
-    "value": "teens programme mentioned",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Heritance-Aarah-Fact-Sheet_Dec-V2.pdf",
-    "as_of": 2020
-   }
-  ],
   "wellness_fitness": [
    {
     "value": "yoga",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Heritance-Aarah-Fact-Sheet_Dec-V2.pdf",
-    "as_of": 2020
+    "source_url": "https://heritancehotels.eme-devops.com/sites/2/2026/09/Heritance-Aarah-Fact-Sheet.pdf",
+    "as_of": 2026
    },
    {
     "value": "gym",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Heritance-Aarah-Fact-Sheet_Dec-V2.pdf",
-    "as_of": 2020
+    "source_url": "https://heritancehotels.eme-devops.com/sites/2/2026/09/Heritance-Aarah-Fact-Sheet.pdf",
+    "as_of": 2026
    },
    {
     "value": "tennis",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Heritance-Aarah-Fact-Sheet_Dec-V2.pdf",
-    "as_of": 2020
+    "source_url": "https://heritancehotels.eme-devops.com/sites/2/2026/09/Heritance-Aarah-Fact-Sheet.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "padel",
+    "source_url": "https://heritancehotels.eme-devops.com/sites/2/2026/09/Heritance-Aarah-Fact-Sheet.pdf",
+    "as_of": 2026
    },
    {
     "value": "badminton",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Heritance-Aarah-Fact-Sheet_Dec-V2.pdf",
-    "as_of": 2020
-   },
-   {
-    "value": "beach volleyball",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Heritance-Aarah-Fact-Sheet_Dec-V2.pdf",
-    "as_of": 2020
+    "source_url": "https://heritancehotels.eme-devops.com/sites/2/2026/09/Heritance-Aarah-Fact-Sheet.pdf",
+    "as_of": 2026
    },
    {
     "value": "steam",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Heritance-Aarah-Fact-Sheet_Dec-V2.pdf",
-    "as_of": 2020
+    "source_url": "https://heritancehotels.eme-devops.com/sites/2/2026/09/Heritance-Aarah-Fact-Sheet.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://heritancehotels.eme-devops.com/sites/2/2025/09/Wellness-Activities-IASO-Spa.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "meditation",
+    "source_url": "https://heritancehotels.eme-devops.com/sites/2/2025/09/Wellness-Activities-IASO-Spa.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "sound healing",
+    "source_url": "https://heritancehotels.eme-devops.com/sites/2/2025/09/Wellness-Activities-IASO-Spa.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "ayurveda",
+    "source_url": "https://heritancehotels.eme-devops.com/sites/2/2025/09/Wellness-Activities-IASO-Spa.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "gym",
+    "source_url": "https://heritancehotels.eme-devops.com/sites/2/2026/09/Heritance-Aarah-Premium-All-Inclusive.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://heritancehotels.eme-devops.com/sites/2/2026/09/Heritance-Aarah-Premium-All-Inclusive.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "padel",
+    "source_url": "https://heritancehotels.eme-devops.com/sites/2/2026/09/Heritance-Aarah-Premium-All-Inclusive.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "badminton",
+    "source_url": "https://heritancehotels.eme-devops.com/sites/2/2026/09/Heritance-Aarah-Premium-All-Inclusive.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "steam",
+    "source_url": "https://heritancehotels.eme-devops.com/sites/2/2026/09/Heritance-Aarah-Premium-All-Inclusive.pdf",
+    "as_of": 2026
    },
    {
     "value": "padel",
@@ -5011,42 +5246,185 @@
     "value": "steam",
     "source_url": "https://www.neoscapesmaldives.com/resort/heritance-aarah/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "gym",
+    "source_url": "https://www.dnatatravel.com/2-8202733-1/heritance-aarah-maldives?oc=true",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fitness centre",
+    "source_url": "https://www.dnatatravel.com/2-8202733-1/heritance-aarah-maldives?oc=true",
+    "as_of": "2026-10-04"
    }
   ],
-  "transfer.minutes.seaplane": [
+  "weddings.offered": [
    {
-    "value": 40,
-    "source_url": "https://www.heritancehotels.com/aarah/",
+    "value": true,
+    "source_url": "https://heritancehotels.eme-devops.com/sites/2/2026/09/Heritance-Aarah-Fact-Sheet.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": true,
+    "source_url": "https://heritancehotels.eme-devops.com/2026/09/Heritance-Aarah-Wedding-Document.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": true,
+    "source_url": "https://www.heritancehotels.com/aarah/experiences/photography-and-videography/",
     "as_of": "2026-10-04"
    },
    {
-    "value": 40,
-    "source_url": "https://www.heritancehotels.com/aarah/offers/bologna-fc/",
+    "value": true,
+    "source_url": "https://www.heritancehotels.com/aarah/offers/romantic-getaway/",
     "as_of": "2026-10-04"
    },
    {
-    "value": 40,
-    "source_url": "https://www.heritancehotels.com/aarah/location/",
+    "value": true,
+    "source_url": "https://www.heritancehotels.com/aarah/offers/romantic-getaway/",
     "as_of": "2026-10-04"
    },
    {
-    "value": 40,
-    "source_url": "https://www.heritancehotels.com/aarah/?lang=zh-hans",
+    "value": true,
+    "source_url": "https://www.heritancehotels.com/aarah/facilities/weddings/",
     "as_of": "2026-10-04"
    },
    {
-    "value": 40,
-    "source_url": "https://www.heritancehotels.com/aarah/?lang=ja",
+    "value": true,
+    "source_url": "https://www.heritancehotels.com/aarah/facilities/weddings/",
     "as_of": "2026-10-04"
    },
    {
-    "value": 40,
-    "source_url": "https://www.heritancehotels.com/aarah/?lang=ru",
+    "value": true,
+    "source_url": "https://www.heritancehotels.com/aarah/premium-all-inclusive-packages/",
     "as_of": "2026-10-04"
    },
    {
-    "value": 40,
+    "value": true,
+    "source_url": "https://www.heritancehotels.com/aarah/sitemap/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
     "source_url": "https://www.neoscapesmaldives.com/resort/heritance-aarah/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "contacts_public.phone": [
+   {
+    "value": "+960 6580222",
+    "source_url": "https://heritancehotels.eme-devops.com/sites/2/2026/09/Heritance-Aarah-Fact-Sheet.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "+960 6580222",
+    "source_url": "https://heritancehotels.eme-devops.com/2026/09/Heritance-Aarah-Wedding-Document.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "+960 6580222",
+    "source_url": "https://heritancehotels.eme-devops.com/sites/2/2026/09/Heritance-Aarah-Premium-All-Inclusive.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "+960 736 5425",
+    "source_url": "https://www.neoscapesmaldives.com/resort/heritance-aarah/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "transfer.minutes.speedboat": [
+   {
+    "value": 60,
+    "source_url": "https://heritancehotels.eme-devops.com/sites/2/2026/03/Kaito-Water-Sports-Brochure_compressed.pdf",
+    "as_of": 2025
+   }
+  ],
+  "kids_family.kids_club": [
+   {
+    "value": "Koka Kids Club",
+    "source_url": "https://heritancehotels.eme-devops.com/2025/03/Aarah-Kids-Club-Baby-Sitting-Services.pdf",
+    "as_of": 2021
+   },
+   {
+    "value": "Koka Kids Club",
+    "source_url": "https://heritancehotels.eme-devops.com/sites/2/2026/09/Heritance-Aarah-Premium-All-Inclusive.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "KOKA Kids Club",
+    "source_url": "https://www.heritancehotels.com/aarah/storrington-collective-family-getaway/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "KOKAA Kids Club",
+    "source_url": "https://www.heritancehotels.com/aarah/offers/family-getaway/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Koka Kids Club",
+    "source_url": "https://www.heritancehotels.com/aarah/accommodation/two-bedroom-family-pool-beach-villas/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Conditions Apply\nKokaa Kids Club",
+    "source_url": "https://www.heritancehotels.com/aarah/facilities/kokaa-kids-club/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Equipped Gymnasium\nKokaa Kids Club",
+    "source_url": "https://www.heritancehotels.com/aarah/sitemap/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Kokaa Kids Club",
+    "source_url": "https://www.heritancehotels.com/aarah/wind-surfing/?lang=ja",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "KOKA Kids Club",
+    "source_url": "https://www.heritancehotels.com/aarah/storrington-collective-family-getaway/?lang=ru",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "KOKAA Kids Club",
+    "source_url": "https://www.heritancehotels.com/aarah/%d0%bf%d1%80%d0%b5%d0%b4%d0%bb%d0%be%d0%b6%d0%b5%d0%bd%d0%b8%d1%8f/family-getaway/?lang=ru",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Kids Club",
+    "source_url": "https://www.neoscapesmaldives.com/resort/heritance-aarah/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "sustainability": [
+   {
+    "value": "solar",
+    "source_url": "https://heritancehotels.eme-devops.com/sites/2/2026/06/Heritance-Aarah-SMP-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "single-use plastic",
+    "source_url": "https://heritancehotels.eme-devops.com/sites/2/2026/06/Heritance-Aarah-SMP-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "Green Globe",
+    "source_url": "https://heritancehotels.eme-devops.com/sites/2/2026/06/Heritance-Aarah-SMP-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "Travelife",
+    "source_url": "https://heritancehotels.eme-devops.com/sites/2/2026/06/Heritance-Aarah-SMP-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "composting",
+    "source_url": "https://heritancehotels.eme-devops.com/sites/2/2026/06/Heritance-Aarah-SMP-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "Green Globe",
+    "source_url": "https://www.heritancehotels.com/aarah/sustainability/",
     "as_of": "2026-10-04"
    }
   ],
@@ -5099,388 +5477,6 @@
    {
     "value": 124,
     "source_url": "https://www.heritancehotels.com/aarah/?lang=ru",
-    "as_of": "2026-10-04"
-   }
-  ],
-  "villas.categories": [
-   {
-    "value": {
-     "name": "Villas",
-     "count": 124,
-     "size_sqm": null,
-     "max_occupancy": null,
-     "pool": null,
-     "overwater": null
-    },
-    "source_url": "https://www.heritancehotels.com/aarah/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Suites",
-     "count": 26,
-     "size_sqm": null,
-     "max_occupancy": null,
-     "pool": null,
-     "overwater": null
-    },
-    "source_url": "https://www.heritancehotels.com/aarah/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Villas",
-     "count": 124,
-     "size_sqm": null,
-     "max_occupancy": null,
-     "pool": null,
-     "overwater": null
-    },
-    "source_url": "https://www.heritancehotels.com/aarah/accommodation/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Suites",
-     "count": 26,
-     "size_sqm": null,
-     "max_occupancy": null,
-     "pool": null,
-     "overwater": null
-    },
-    "source_url": "https://www.heritancehotels.com/aarah/accommodation/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Villas",
-     "count": 124,
-     "size_sqm": null,
-     "max_occupancy": null,
-     "pool": null,
-     "overwater": null
-    },
-    "source_url": "https://www.heritancehotels.com/aarah/?lang=zh-hans",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Suites",
-     "count": 26,
-     "size_sqm": null,
-     "max_occupancy": null,
-     "pool": null,
-     "overwater": null
-    },
-    "source_url": "https://www.heritancehotels.com/aarah/?lang=zh-hans",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Villas",
-     "count": 124,
-     "size_sqm": null,
-     "max_occupancy": null,
-     "pool": null,
-     "overwater": null
-    },
-    "source_url": "https://www.heritancehotels.com/aarah/?lang=ja",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Suites",
-     "count": 26,
-     "size_sqm": null,
-     "max_occupancy": null,
-     "pool": null,
-     "overwater": null
-    },
-    "source_url": "https://www.heritancehotels.com/aarah/?lang=ja",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Villas",
-     "count": 124,
-     "size_sqm": null,
-     "max_occupancy": null,
-     "pool": null,
-     "overwater": null
-    },
-    "source_url": "https://www.heritancehotels.com/aarah/?lang=ru",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Suites",
-     "count": 26,
-     "size_sqm": null,
-     "max_occupancy": null,
-     "pool": null,
-     "overwater": null
-    },
-    "source_url": "https://www.heritancehotels.com/aarah/?lang=ru",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Number of Villas",
-     "count": 150,
-     "size_sqm": null,
-     "max_occupancy": null,
-     "pool": null,
-     "overwater": null
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/heritance-aarah/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "beach villa heritance aarah",
-     "count": 5,
-     "size_sqm": null,
-     "max_occupancy": null,
-     "pool": null,
-     "overwater": null
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/heritance-aarah/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "beach villa wash room heritance aarah",
-     "count": 19,
-     "size_sqm": null,
-     "max_occupancy": null,
-     "pool": null,
-     "overwater": null
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/heritance-aarah/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "beach villa view from beach heritance aarah",
-     "count": 18,
-     "size_sqm": null,
-     "max_occupancy": null,
-     "pool": null,
-     "overwater": null
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/heritance-aarah/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "beach villa interier heritance aarah",
-     "count": 14,
-     "size_sqm": null,
-     "max_occupancy": null,
-     "pool": null,
-     "overwater": null
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/heritance-aarah/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "beach villa heritance aarah",
-     "count": 20,
-     "size_sqm": null,
-     "max_occupancy": null,
-     "pool": null,
-     "overwater": null
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/heritance-aarah/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "beach villa heritance aarah",
-     "count": 6,
-     "size_sqm": null,
-     "max_occupancy": null,
-     "pool": null,
-     "overwater": null
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/heritance-aarah/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "family beach villa copy heritance aarah",
-     "count": 1,
-     "size_sqm": null,
-     "max_occupancy": null,
-     "pool": null,
-     "overwater": null
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/heritance-aarah/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "family beach villa heritance aarah",
-     "count": 15,
-     "size_sqm": null,
-     "max_occupancy": null,
-     "pool": null,
-     "overwater": null
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/heritance-aarah/",
-    "as_of": "2026-10-04"
-   }
-  ],
-  "meal_plans": [
-   {
-    "value": "AI",
-    "source_url": "https://www.heritancehotels.com/aarah/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": "Dine Around",
-    "source_url": "https://www.heritancehotels.com/aarah/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": "Premium AI",
-    "source_url": "https://www.heritancehotels.com/aarah/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": "AI",
-    "source_url": "https://www.heritancehotels.com/aarah/storrington-collective-family-getaway/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": "Premium AI",
-    "source_url": "https://www.heritancehotels.com/aarah/storrington-collective-family-getaway/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": "AI",
-    "source_url": "https://www.heritancehotels.com/aarah/offers/family-getaway/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": "Premium AI",
-    "source_url": "https://www.heritancehotels.com/aarah/offers/family-getaway/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": "AI",
-    "source_url": "https://www.heritancehotels.com/aarah/accommodation/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": "AI",
-    "source_url": "https://www.heritancehotels.com/aarah/experiences/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": "Premium AI",
-    "source_url": "https://www.heritancehotels.com/aarah/experiences/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": "AI",
-    "source_url": "https://www.heritancehotels.com/aarah/offers/romantic-getaway/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": "Premium AI",
-    "source_url": "https://www.heritancehotels.com/aarah/offers/romantic-getaway/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": "Dine Around",
-    "source_url": "https://www.heritancehotels.com/aarah/offers/heritance-exclusive/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": "AI",
-    "source_url": "https://www.heritancehotels.com/aarah/premium-all-inclusive-packages/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": "Dine Around",
-    "source_url": "https://www.heritancehotels.com/aarah/premium-all-inclusive-packages/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": "AI",
-    "source_url": "https://www.heritancehotels.com/aarah/offers/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": "AI",
-    "source_url": "https://www.heritancehotels.com/aarah/?lang=zh-hans",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": "Dine Around",
-    "source_url": "https://www.heritancehotels.com/aarah/?lang=zh-hans",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": "Premium AI",
-    "source_url": "https://www.heritancehotels.com/aarah/?lang=zh-hans",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": "AI",
-    "source_url": "https://www.heritancehotels.com/aarah/?lang=ja",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": "Dine Around",
-    "source_url": "https://www.heritancehotels.com/aarah/?lang=ja",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": "Premium AI",
-    "source_url": "https://www.heritancehotels.com/aarah/?lang=ja",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": "AI",
-    "source_url": "https://www.heritancehotels.com/aarah/?lang=ru",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": "Dine Around",
-    "source_url": "https://www.heritancehotels.com/aarah/?lang=ru",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": "Premium AI",
-    "source_url": "https://www.heritancehotels.com/aarah/?lang=ru",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": "AI",
-    "source_url": "https://www.heritancehotels.com/aarah/storrington-collective-family-getaway/?lang=ru",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": "Premium AI",
-    "source_url": "https://www.heritancehotels.com/aarah/storrington-collective-family-getaway/?lang=ru",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": "AI",
-    "source_url": "https://www.heritancehotels.com/aarah/%d0%bf%d1%80%d0%b5%d0%b4%d0%bb%d0%be%d0%b6%d0%b5%d0%bd%d0%b8%d1%8f/family-getaway/?lang=ru",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": "Premium AI",
-    "source_url": "https://www.heritancehotels.com/aarah/%d0%bf%d1%80%d0%b5%d0%b4%d0%bb%d0%be%d0%b6%d0%b5%d0%bd%d0%b8%d1%8f/family-getaway/?lang=ru",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": "AI",
-    "source_url": "https://www.neoscapesmaldives.com/resort/heritance-aarah/",
     "as_of": "2026-10-04"
    }
   ],
@@ -5554,6 +5550,21 @@
     "value": "All-Inclusive offering, guests enjoy exceptional dining across multiple restaurants and bars, curated wellness experiences, exciting water sports, and unforgettable excursions.",
     "source_url": "https://www.neoscapesmaldives.com/resort/heritance-aarah/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "All-Inclusive-Resort auf den Malediven als der perfekte Ort für einen unvergesslichen Rückzug.",
+    "source_url": "https://malediven.de/malediven-hotels/heritance-aarah/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "All-Inclusive Luxusresort Heritance Aarah bietet mit dem IASO Medical-Spa ein Wellness-Konzept, das der altgriechischen Philosophie des Heilens folgt: Iaso ist die Göttin der Gesundung und Heilung.",
+    "source_url": "https://www.airtours.de/reiseziele/asien/malediven/heritance-aarah-malediven-medical-spa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "All Inclusive features accommodation in Raa Atoll.",
+    "source_url": "https://www.dnatatravel.com/2-8202733-1/heritance-aarah-maldives?oc=true",
+    "as_of": "2026-10-04"
    }
   ],
   "diving_watersports.house_reef": [
@@ -5588,102 +5599,6 @@
     "as_of": "2026-10-04"
    }
   ],
-  "kids_family.kids_club": [
-   {
-    "value": "KOKA Kids Club",
-    "source_url": "https://www.heritancehotels.com/aarah/storrington-collective-family-getaway/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": "KOKAA Kids Club",
-    "source_url": "https://www.heritancehotels.com/aarah/offers/family-getaway/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": "Koka Kids Club",
-    "source_url": "https://www.heritancehotels.com/aarah/accommodation/two-bedroom-family-pool-beach-villas/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": "Conditions Apply\nKokaa Kids Club",
-    "source_url": "https://www.heritancehotels.com/aarah/facilities/kokaa-kids-club/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": "Equipped Gymnasium\nKokaa Kids Club",
-    "source_url": "https://www.heritancehotels.com/aarah/sitemap/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": "Kokaa Kids Club",
-    "source_url": "https://www.heritancehotels.com/aarah/wind-surfing/?lang=ja",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": "KOKA Kids Club",
-    "source_url": "https://www.heritancehotels.com/aarah/storrington-collective-family-getaway/?lang=ru",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": "KOKAA Kids Club",
-    "source_url": "https://www.heritancehotels.com/aarah/%d0%bf%d1%80%d0%b5%d0%b4%d0%bb%d0%be%d0%b6%d0%b5%d0%bd%d0%b8%d1%8f/family-getaway/?lang=ru",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": "Kids Club",
-    "source_url": "https://www.neoscapesmaldives.com/resort/heritance-aarah/",
-    "as_of": "2026-10-04"
-   }
-  ],
-  "weddings.offered": [
-   {
-    "value": true,
-    "source_url": "https://www.heritancehotels.com/aarah/experiences/photography-and-videography/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": true,
-    "source_url": "https://www.heritancehotels.com/aarah/offers/romantic-getaway/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": true,
-    "source_url": "https://www.heritancehotels.com/aarah/offers/romantic-getaway/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": true,
-    "source_url": "https://www.heritancehotels.com/aarah/facilities/weddings/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": true,
-    "source_url": "https://www.heritancehotels.com/aarah/facilities/weddings/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": true,
-    "source_url": "https://www.heritancehotels.com/aarah/premium-all-inclusive-packages/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": true,
-    "source_url": "https://www.heritancehotels.com/aarah/sitemap/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": true,
-    "source_url": "https://www.neoscapesmaldives.com/resort/heritance-aarah/",
-    "as_of": "2026-10-04"
-   }
-  ],
-  "sustainability": [
-   {
-    "value": "Green Globe",
-    "source_url": "https://www.heritancehotels.com/aarah/sustainability/",
-    "as_of": "2026-10-04"
-   }
-  ],
   "island": [
    {
     "value": "Aarah",
@@ -5712,13 +5627,13 @@
     "as_of": "2026-10-04"
    }
   ],
-  "contacts_public.phone": [
+  "star_rating": [
    {
-    "value": "+960 736 5425",
-    "source_url": "https://www.neoscapesmaldives.com/resort/heritance-aarah/",
+    "value": "5-star",
+    "source_url": "https://www.dnatatravel.com/2-8202733-1/heritance-aarah-maldives?oc=true",
     "as_of": "2026-10-04"
    }
   ]
  },
- "last_updated": "2026-10-04"
+ "last_updated": "2026-10-05"
 }

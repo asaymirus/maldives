@@ -2,76 +2,83 @@
 
 **Official site:** https://www.sixsenses.com/en/resorts/laamu (blocked)  
 **Brand:** Six Senses  
-**Atoll:** Lhaviyani Atoll  **Island:** n/a  
-**Opened/renovated:** n/a  **Rating:** n/a  
-**Transfer:** seaplane, speedboat; minutes: {"seaplane": 35}  
-**Island size:** 10 ha  
+**Atoll:** Laamu Atoll  **Island:** Fonadhoo Island  
+**Opened/renovated:** n/a  **Rating:** 5-star  
+**Transfer:** seaplane, yacht, speedboat, domestic flight; minutes: {"seaplane": 65}  
+**Island size:** n/a  
 
 ## Villas (? total)
 
+- LAGOON WATER VILLA /: count 16, 108 sqm, max ?, overwater
+- OCEAN WATER VILLA /: count 16, 108 sqm, max ?, overwater
+- LAGOON BEACH VILLA /: count 2, 212 sqm, max ?, overwater
+- LAGOON BEACH VILLA WITH POOL / . and a hammock: count 5, 238 sqm, max ?, pool, overwater
+- OCEAN BEACH VILLA WITH POOL /: count 10, 238 sqm, max ?, pool, overwater
+- OCEAN WATER VILLA WITH POOL /: count 4, 126 sqm, max ?, pool, overwater
+- LAAMU WATER VILLA WITH POOL /: count 8, 126 sqm, max ?, pool
+- THE RETREAT /: count 1, 728 sqm, max ?
 
 ## Dining
 
-- warm coastal charm and relaxed elegance, Milos Bar invites (bar)
-- 55 premium spirits/liqueurs, port, sherry (Velu Bar only) (bar)
 
 Meal plans: n/a
 
 ## Spa & wellness
 
-- Spa: Spa; treatment rooms: ?; menu: none
-- Wellness/fitness: yoga, fitness center, tennis, padel, badminton, ayurveda, sauna
+- Spa: ACTIVITIES
+Six Senses Spa; treatment rooms: ?; menu: none
+- Wellness/fitness: yoga, gym, fitness center, ayurveda, steam
 
 ## Diving, water sports & excursions
 
-- Operator: Prodivers
-- House reef: house reef for snorkeling; pre bookings are required
-- Activities: snorkeling, windsurfing, kayaking, stand-up paddle, paddleboard, catamaran, jet ski, wakeboarding, fishing, sunset cruise, manta, sailing, fun tube, flyboard
+- Operator: Secret Paradise
+- House reef: house reef, Chill bar is of their delightful villa, a variety of Mediterranean, Asian and
+- Activities: snorkeling, windsurfing, kayaking, stand-up paddle, catamaran, fishing, sunset cruise, dolphin cruise, sailing, surfing, snorkelling, water skiing, wakeboarding, canoe
 - Price list: none
-- Excursions: dolphin, manta, turtle
+- Excursions: dolphin, sunset fishing, big game fishing, picnic, cinema, local island, turtle, cooking class, sandbank
 
 ## Kids & family
 
-- Kids club: n/a; ages: n/a; teens: n/a
+- Kids club: The Den Kids Club; ages: n/a; teens: n/a
 
 ## Weddings
 
-- Offered: None; vow renewal: None
+- Offered: True; vow renewal: None
 - Venues: n/a
 - Packages: n/a
 - Brochure: none
 
 ## Events / MICE
 
-- Venues: n/a; capacity max: n/a; buyout: None
+- Venues: n/a; capacity max: 30; buyout: None
 - Document: none
 
 ## Sustainability
 
-- solar
+- marine biologist, marine lab, organic garden, Travelife
 
 ## Public contacts
 
-- Reservations: reservations@nalamaldives.com; weddings: n/a; phone: +960 662 9999
+- Reservations: n/a; weddings: n/a; phone: +960 680 0800
 
 ## Latest documents
 
-- factsheet: https://sales.crownandchamparesorts.com/wp-content/uploads/2026/04/NalaMaldivesFactsheet011125311026Ver030426.pdf
+- factsheet: none
 - map: none
 - wedding: none
 - spa_menu: none
-- dining_menu: none
+- dining_menu: https://awesomegetawaymaldives.com/wp-content/uploads/2026/03/Six-Senses-Laamu.pdf
 - dive_prices: none
 - events: none
 - calendar: none
 
 ## Gaps
 
+- factsheet
 - wedding brochure
 - events/MICE document
 - fact: villas.total
-- fact: villa categories
-- fact: kids club
-- fact: weddings
+- fact: dining
+- fact: contacts
 
-_Facts extracted by rules from 14 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-04._
+_Facts extracted by rules from 17 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

@@ -4,7 +4,7 @@
 **Brand:** Ritz-Carlton  
 **Atoll:** North Malé Atoll  **Island:** n/a  
 **Opened/renovated:** n/a  **Rating:** n/a  
-**Transfer:** seaplane, speedboat, yacht; minutes: {"seaplane": 10, "speedboat": 10}  
+**Transfer:** seaplane, speedboat, yacht; minutes: {"seaplane": 10, "speedboat": 10, "yacht": 10}  
 **Island size:** n/a  
 
 ## Villas (100 total)
@@ -22,8 +22,8 @@
 
 ## Dining
 
-- Dining (restaurant)
 - Eau Bar (bar)
+- Chef’s Table Teppanyaki (restaurant)
 
 Meal plans: n/a
 
@@ -31,15 +31,15 @@ Meal plans: n/a
 
 - Spa: Facilities
 The Ritz-Carlton Spa; treatment rooms: 9; menu: none
-- Wellness/fitness: yoga, fitness centre, tennis, sauna, steam
+- Wellness/fitness: yoga, fitness centre, tennis, sauna, steam, sound healing, pilates
 
 ## Diving, water sports & excursions
 
 - Operator: Dive Centre
 - House reef: n/a
-- Activities: scuba diving, jet ski, flyboard
+- Activities: scuba diving, jet ski, flyboard, snorkeling, kayaking, manta
 - Price list: none
-- Excursions: sandbank
+- Excursions: sandbank, manta
 
 ## Kids & family
 
@@ -59,7 +59,7 @@ The Ritz-Carlton Spa; treatment rooms: 9; menu: none
 
 ## Sustainability
 
-- n/a
+- coral restoration, coral nursery, solar
 
 ## Public contacts
 
@@ -81,4 +81,4 @@ The Ritz-Carlton Spa; treatment rooms: 9; menu: none
 - wedding brochure
 - events/MICE document
 
-_Facts extracted by rules from 17 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-04._
+_Facts extracted by rules from 19 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

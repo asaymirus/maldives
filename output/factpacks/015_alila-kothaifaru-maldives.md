@@ -15,14 +15,12 @@
 - Sunrise Water Villa: count ?, 125 sqm, max ?
 - Sunset Water Villa: count ?, 125 sqm, max ?
 - Sunrise Beach Villa: count ?, 202 sqm, max ?
-- Number of Villas: count 80, ? sqm, max ?
 - alila kothaifaru maldives watervilla aerial: count 2, ? sqm, max ?
 
 ## Dining
 
 - Water Sports and Dive Centre Mirus Bar (bar)
 - Yakitori Bar Wedding and Celebration (bar)
-- Dining (restaurant)
 - Mirus Bar (bar)
 - Yakitori Bar (bar)
 
@@ -31,15 +29,15 @@ Meal plans: n/a
 ## Spa & wellness
 
 - Spa: Spa; treatment rooms: ?; menu: none
-- Wellness/fitness: yoga, gym, fitness centre
+- Wellness/fitness: yoga, gym, fitness centre, fitness center, tennis, beach volleyball, padel
 
 ## Diving, water sports & excursions
 
 - Operator: Euro Divers
 - House reef: house reef and nearby sites, including the Baa Atoll UNESCO World Biosphere Reserve and Hanifaru Bay’s seasonal manta gatherings
-- Activities: snorkelling, kayaking, sunset cruise, whale shark, manta, snorkeling
+- Activities: snorkelling, kayaking, sunset cruise, whale shark, manta, snorkeling, paddleboard, dolphin cruise
 - Price list: none
-- Excursions: sandbank, whale shark, manta, picnic, stargazing
+- Excursions: sandbank, whale shark, manta, picnic, stargazing, cooking class, dolphin, cinema
 
 ## Kids & family
 
@@ -59,7 +57,7 @@ Meal plans: n/a
 
 ## Sustainability
 
-- single-use plastic, EarthCheck
+- single-use plastic, EarthCheck, solar
 
 ## Public contacts
 
@@ -82,4 +80,4 @@ Meal plans: n/a
 - events/MICE document
 - fact: villas.total
 
-_Facts extracted by rules from 18 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-04._
+_Facts extracted by rules from 18 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

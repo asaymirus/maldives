@@ -10,13 +10,10 @@
 
 ## Villas (100 total)
 
-- VILLAS life. Recognized for year-round: count 100, ? sqm, max ?
-- Number of Villas: count 100, ? sqm, max ?
-- Villas: count 100, ? sqm, max ?
+- VILLAS: count 100, ? sqm, max ?
 
 ## Dining
 
-- Dining (restaurant)
 - Sea Salt Restaurant & Buffet (restaurant)
 - Aqua Specialty Restaurant (restaurant)
 - Magical Cocktail Snack Bar (bar)
@@ -76,4 +73,4 @@ Meal plans: n/a
 - wedding brochure
 - events/MICE document
 
-_Facts extracted by rules from 18 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-04._
+_Facts extracted by rules from 18 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

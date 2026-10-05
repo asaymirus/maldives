@@ -3,11 +3,11 @@
 **Official site:** https://www.angaga.com.mv/ (ok)  
 **Brand:** n/a  
 **Atoll:** Ari Atoll  **Island:** n/a  
-**Opened/renovated:** n/a  **Rating:** n/a  
+**Opened/renovated:** opened 2025  **Rating:** n/a  
 **Transfer:** seaplane; minutes: {"seaplane": 25}  
 **Island size:** n/a  
 
-## Villas (? total)
+## Villas (70 total)
 
 
 ## Dining
@@ -15,10 +15,7 @@
 - Restaurant (Meal Hours) (restaurant)
 - Mini Bar (bar)
 - Sundown Bar (bar)
-- Dining Menus (restaurant)
 - Dolphin Restaurant (restaurant)
-- Restaurant (restaurant)
-- Dining (restaurant)
 - Beach Bar (bar)
 - Main Bar & Coffee Shop (bar)
 - Main Restaurant (Buffet) (restaurant)
@@ -26,7 +23,7 @@
 - Main Bar (bar)
 - Lakeview Restaurant Night (restaurant)
 
-Meal plans: AI
+Meal plans: AI, FB
 All-inclusive: ALL INCLUSIVE Drinks are served until Midnight only.
 
 ## Spa & wellness
@@ -40,9 +37,9 @@ Spa; treatment rooms: ?; menu: https://www.angaga.com.mv/wp-content/uploads/2018
 
 - Operator: n/a
 - House reef: house reef full of colorful fish species which is heaven for snorkeling and diving
-- Activities: snorkeling, catamaran, sailing, banana boat, fun tube, canoe, fishing, sunset cruise, whale shark, manta, snorkelling, scuba diving, windsurfing, jet ski, wakeboarding
+- Activities: snorkeling, catamaran, sailing, banana boat, fun tube, canoe, fishing, sunset cruise, whale shark, manta, snorkelling, scuba diving, windsurfing, jet ski, wakeboarding, water skiing
 - Price list: https://www.angaga.com.mv/wp-content/uploads/2018/12/Angaga-Water-Sports-Activities-Information.pdf
-- Excursions: sandbank, local island, sunset fishing, whale shark, manta, turtle, dolphin, island hopping
+- Excursions: sandbank, local island, sunset fishing, whale shark, manta, turtle, dolphin, island hopping, big game fishing
 
 ## Kids & family
 
@@ -82,10 +79,9 @@ Spa; treatment rooms: ?; menu: https://www.angaga.com.mv/wp-content/uploads/2018
 ## Gaps
 
 - events/MICE document
-- fact: villas.total
 - fact: villa categories
 - fact: dive operator
 - fact: kids club
 - fact: contacts
 
-_Facts extracted by rules from 13 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-04._
+_Facts extracted by rules from 15 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

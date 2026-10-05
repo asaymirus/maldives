@@ -31,23 +31,7 @@
   "total": 100,
   "categories": [
    {
-    "name": "VILLAS life. Recognized for year-round",
-    "count": 100,
-    "size_sqm": null,
-    "max_occupancy": null,
-    "pool": null,
-    "overwater": null
-   },
-   {
-    "name": "Number of Villas",
-    "count": 100,
-    "size_sqm": null,
-    "max_occupancy": null,
-    "pool": null,
-    "overwater": null
-   },
-   {
-    "name": "Villas",
+    "name": "VILLAS",
     "count": 100,
     "size_sqm": null,
     "max_occupancy": null,
@@ -57,11 +41,6 @@
   ]
  },
  "dining": [
-  {
-   "name": "Dining",
-   "cuisine": null,
-   "type": "restaurant"
-  },
   {
    "name": "Sea Salt Restaurant & Buffet",
    "cuisine": null,
@@ -171,7 +150,7 @@
   "villas.categories": [
    {
     "value": {
-     "name": "VILLAS life. Recognized for year-round",
+     "name": "VILLAS",
      "count": 100,
      "size_sqm": null,
      "max_occupancy": null,
@@ -180,18 +159,6 @@
     },
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Factsheet_MWLM_March2026_Digital-updated.pdf",
     "as_of": 2026
-   },
-   {
-    "value": {
-     "name": "Number of Villas",
-     "count": 100,
-     "size_sqm": null,
-     "max_occupancy": null,
-     "pool": null,
-     "overwater": null
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/melia-whale-lagoon-maldives",
-    "as_of": "2026-10-04"
    },
    {
     "value": {
@@ -401,24 +368,6 @@
   "dining": [
    {
     "value": {
-     "name": "Dining",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/melia-whale-lagoon-maldives",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Dining",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/melia-whale-lagoon-maldives",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
      "name": "Sea Salt Restaurant & Buffet",
      "cuisine": null,
      "type": "restaurant"
@@ -467,5 +416,5 @@
    }
   ]
  },
- "last_updated": "2026-10-04"
+ "last_updated": "2026-10-05"
 }

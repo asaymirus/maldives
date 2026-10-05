@@ -8,7 +8,7 @@
  "official_url": "https://www.thulhagiri.com.mv/",
  "official_site_status": "ok",
  "operator_brand": null,
- "atoll": null,
+ "atoll": "Kaafu Atoll",
  "island": null,
  "opened_or_renovated": null,
  "star_rating": null,
@@ -26,7 +26,7 @@
  },
  "island_size": null,
  "villas": {
-  "total": 34,
+  "total": 69,
   "categories": [
    {
     "name": "Beach Bungalows",
@@ -48,32 +48,12 @@
  },
  "dining": [
   {
-   "name": "269 Sand Bar",
-   "cuisine": null,
-   "type": "bar"
-  },
-  {
-   "name": "270 Restaurant",
-   "cuisine": null,
-   "type": "restaurant"
-  },
-  {
    "name": "Restaurant /Bars/Coffee Shop",
    "cuisine": null,
    "type": "restaurant"
   },
   {
    "name": "Restaurant Buffet",
-   "cuisine": null,
-   "type": "restaurant"
-  },
-  {
-   "name": "Sand Bar 0730 – Last guest leaves",
-   "cuisine": null,
-   "type": "bar"
-  },
-  {
-   "name": "Dining Menus",
    "cuisine": null,
    "type": "restaurant"
   },
@@ -101,16 +81,12 @@
    "name": "Main Restaurant",
    "cuisine": null,
    "type": "restaurant"
-  },
-  {
-   "name": "Restaurant",
-   "cuisine": null,
-   "type": "restaurant"
   }
  ],
  "meal_plans": [
   "HB",
-  "AI"
+  "AI",
+  "FB"
  ],
  "all_inclusive_details": "All Inclusive drinks from 0800 – 00:00 hrs and two snacks breaks from 10:00 to 11:30 and from 15:00 –1700 hrs.",
  "spa": {
@@ -137,7 +113,8 @@
    "jet ski",
    "wakeboarding",
    "banana boat",
-   "fun tube"
+   "fun tube",
+   "windsurfing"
   ],
   "price_list_doc": "https://www.thulhagiri.com.mv/wp-content/uploads/2025/10/Dive-Center-Pricelist-2025.pdf"
  },
@@ -162,7 +139,8 @@
   "tennis",
   "fitness centre",
   "sauna",
-  "meditation"
+  "meditation",
+  "badminton"
  ],
  "weddings": {
   "offered": true,
@@ -204,7 +182,6 @@
  "gaps": [
   "factsheet",
   "events/MICE document",
-  "fact: atoll",
   "fact: dive operator",
   "fact: kids club"
  ],
@@ -308,6 +285,11 @@
    {
     "value": "Water Sports\nExcursions\nSpa",
     "source_url": "https://thulhagiri.com.mv",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.mymaldives.com/resort-guide/thulhagiri-island-resort/",
     "as_of": "2026-10-04"
    }
   ],
@@ -485,6 +467,16 @@
    {
     "value": "tennis",
     "source_url": "https://thulhagiri.com.mv/activities/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://www.mymaldives.com/resort-guide/thulhagiri-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "badminton",
+    "source_url": "https://www.mymaldives.com/resort-guide/thulhagiri-island-resort/",
     "as_of": "2026-10-04"
    }
   ],
@@ -787,6 +779,61 @@
     "value": "sunset cruise",
     "source_url": "https://thulhagiri.com.mv/activities/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://mondomaldive.it/it/villaggio/thulhagiri-island-resort/recensione/6265",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://mondomaldive.it/it/villaggio/thulhagiri-island-resort/recensione/6070",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://mondomaldive.it/it/villaggio/thulhagiri-island-resort/recensione/5428",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.mymaldives.com/resort-guide/thulhagiri-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://www.mymaldives.com/resort-guide/thulhagiri-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "windsurfing",
+    "source_url": "https://www.mymaldives.com/resort-guide/thulhagiri-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "catamaran",
+    "source_url": "https://www.mymaldives.com/resort-guide/thulhagiri-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "water skiing",
+    "source_url": "https://www.mymaldives.com/resort-guide/thulhagiri-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.mymaldives.com/resort-guide/thulhagiri-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sailing",
+    "source_url": "https://www.mymaldives.com/resort-guide/thulhagiri-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "canoe",
+    "source_url": "https://www.mymaldives.com/resort-guide/thulhagiri-island-resort/",
+    "as_of": "2026-10-04"
    }
   ],
   "kids_family.age_range": [
@@ -868,6 +915,11 @@
     "value": 34,
     "source_url": "https://www.thulhagiri.com.mv/wp-content/uploads/2018/12/Welcome-to-Thulhagiri.pdf",
     "as_of": 2018
+   },
+   {
+    "value": 69,
+    "source_url": "https://www.mymaldives.com/resort-guide/thulhagiri-island-resort/",
+    "as_of": "2026-10-04"
    }
   ],
   "villas.categories": [
@@ -899,24 +951,6 @@
   "dining": [
    {
     "value": {
-     "name": "269 Sand Bar",
-     "cuisine": null,
-     "type": "bar"
-    },
-    "source_url": "https://www.thulhagiri.com.mv/wp-content/uploads/2018/12/Welcome-to-Thulhagiri.pdf",
-    "as_of": 2018
-   },
-   {
-    "value": {
-     "name": "270 Restaurant",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.thulhagiri.com.mv/wp-content/uploads/2018/12/Welcome-to-Thulhagiri.pdf",
-    "as_of": 2018
-   },
-   {
-    "value": {
      "name": "Restaurant /Bars/Coffee Shop",
      "cuisine": null,
      "type": "restaurant"
@@ -932,24 +966,6 @@
     },
     "source_url": "https://www.thulhagiri.com.mv/wp-content/uploads/2018/12/Welcome-to-Thulhagiri.pdf",
     "as_of": 2018
-   },
-   {
-    "value": {
-     "name": "Sand Bar 0730 – Last guest leaves",
-     "cuisine": null,
-     "type": "bar"
-    },
-    "source_url": "https://www.thulhagiri.com.mv/wp-content/uploads/2018/12/Welcome-to-Thulhagiri.pdf",
-    "as_of": 2018
-   },
-   {
-    "value": {
-     "name": "Dining Menus",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.thulhagiri.com.mv/downloads/",
-    "as_of": "2026-10-04"
    },
    {
     "value": {
@@ -1079,78 +1095,6 @@
    },
    {
     "value": {
-     "name": "Restaurant",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.thulhagiri.com.mv/dine/main-restaurant/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Restaurant",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.thulhagiri.com.mv/dine/main-restaurant/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Restaurant",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.thulhagiri.com.mv/dine/main-restaurant/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Restaurant",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.thulhagiri.com.mv/dine/main-restaurant/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Restaurant",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.thulhagiri.com.mv/dine/main-restaurant/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Restaurant",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.thulhagiri.com.mv/dine/main-restaurant/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Restaurant",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.thulhagiri.com.mv/dine/main-restaurant/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Restaurant",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.thulhagiri.com.mv/dine/main-restaurant/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
      "name": "Main Restaurant",
      "cuisine": null,
      "type": "restaurant"
@@ -1193,15 +1137,6 @@
     },
     "source_url": "https://thulhagiri.com.mv/gallery/",
     "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Dining Menus",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://thulhagiri.com.mv/downloads/",
-    "as_of": "2026-10-04"
    }
   ],
   "meal_plans": [
@@ -1214,6 +1149,31 @@
     "value": "AI",
     "source_url": "https://www.thulhagiri.com.mv/wp-content/uploads/2025/10/All-inclusive-HBP_Package-Details-.pdf",
     "as_of": 2024
+   },
+   {
+    "value": "AI",
+    "source_url": "https://mondomaldive.it/it/villaggio/thulhagiri-island-resort/recensione/4999",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://mondomaldive.it/it/villaggio/thulhagiri-island-resort/recensione/6265",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://mondomaldive.it/it/villaggio/thulhagiri-island-resort/recensione/6070",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "FB",
+    "source_url": "https://mondomaldive.it/it/villaggio/thulhagiri-island-resort/recensione/5428",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://mondomaldive.it/it/villaggio/thulhagiri-island-resort/recensione/5428",
+    "as_of": "2026-10-04"
    }
   ],
   "all_inclusive_details": [
@@ -1373,6 +1333,11 @@
     "value": "sunset fishing",
     "source_url": "https://thulhagiri.com.mv/activities/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "big game fishing",
+    "source_url": "https://www.mymaldives.com/resort-guide/thulhagiri-island-resort/",
+    "as_of": "2026-10-04"
    }
   ],
   "contacts_public.phone": [
@@ -1519,7 +1484,14 @@
     "source_url": "https://thulhagiri.com.mv/hotel-policy/",
     "as_of": "2026-10-04"
    }
+  ],
+  "atoll": [
+   {
+    "value": "Kaafu Atoll",
+    "source_url": "https://www.mymaldives.com/resort-guide/thulhagiri-island-resort/",
+    "as_of": "2026-10-04"
+   }
   ]
  },
- "last_updated": "2026-10-04"
+ "last_updated": "2026-10-05"
 }

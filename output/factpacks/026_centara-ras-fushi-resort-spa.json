@@ -11,18 +11,20 @@
  "official_site_status": "ok",
  "operator_brand": "VARU",
  "atoll": "North Male Atoll",
- "island": null,
- "opened_or_renovated": null,
- "star_rating": null,
+ "island": "Machchafushi",
+ "opened_or_renovated": "opened 2020",
+ "star_rating": "5-star",
  "transfer": {
   "modes": [
    "speedboat",
-   "yacht"
+   "yacht",
+   "seaplane",
+   "domestic flight"
   ],
   "minutes": {
    "seaplane": null,
    "speedboat": 15,
-   "domestic flight": null,
+   "domestic flight": 15,
    "yacht": null
   }
  },
@@ -31,12 +33,12 @@
   "total": 140,
   "categories": [
    {
-    "name": "Number of Villas",
-    "count": 140,
-    "size_sqm": null,
+    "name": "Ocean, each villa offers",
+    "count": null,
+    "size_sqm": 42,
     "max_occupancy": null,
     "pool": null,
-    "overwater": null
+    "overwater": true
    },
    {
     "name": "delu e ocean front beach villa",
@@ -50,9 +52,9 @@
  },
  "dining": [
   {
-   "name": "15% off Dining, Drinks & Spa",
+   "name": "Giraavaru Lobby Bar is a convenient spot",
    "cuisine": null,
-   "type": "restaurant"
+   "type": "bar"
   },
   {
    "name": "Giraavaru Lobby Bar",
@@ -85,26 +87,83 @@
    "type": "restaurant"
   },
   {
-   "name": "Dining",
+   "name": "Rooftop Bar Hopping",
+   "cuisine": null,
+   "type": "bar"
+  },
+  {
+   "name": "Café-Hopping with a View",
    "cuisine": null,
    "type": "restaurant"
   },
   {
-   "name": "Dining Experiences",
+   "name": "Brown Café",
+   "cuisine": null,
+   "type": "restaurant"
+  },
+  {
+   "name": "The Alley Cafe",
+   "cuisine": null,
+   "type": "restaurant"
+  },
+  {
+   "name": "Café Hopping",
+   "cuisine": null,
+   "type": "restaurant"
+  },
+  {
+   "name": "CRU Champagne Bar",
+   "cuisine": null,
+   "type": "bar"
+  },
+  {
+   "name": "Reef Café",
+   "cuisine": null,
+   "type": "restaurant"
+  },
+  {
+   "name": "Coral Bar",
+   "cuisine": null,
+   "type": "bar"
+  },
+  {
+   "name": "BBQ & Grill",
+   "cuisine": null,
+   "type": "restaurant"
+  },
+  {
+   "name": "Splash Bar",
+   "cuisine": null,
+   "type": "bar"
+  },
+  {
+   "name": "Bistro Grill & Bar",
+   "cuisine": null,
+   "type": "bar"
+  },
+  {
+   "name": "Buffet lunch at Ocean Buffet Restaurant",
+   "cuisine": null,
+   "type": "restaurant"
+  },
+  {
+   "name": "Underwater Restaurant Dining Experience",
    "cuisine": null,
    "type": "restaurant"
   }
  ],
  "meal_plans": [
   "AI",
-  "Dine Around"
+  "Dine Around",
+  "HB",
+  "FB"
  ],
  "all_inclusive_details": "all-inclusive plan is your key to indulgence.",
  "spa": {
   "name": "Spa",
   "treatment_rooms": null,
   "signature_treatments": [],
-  "menu_doc": null
+  "menu_doc": "https://www.centarahotelsresorts.com/centara/sites/centara-centara/files/2026-10/Centara-Ras-Fushi-Resort--Spa-Maldives-Brochure_withEdited.pdf"
  },
  "diving_watersports": {
   "operator": "Dive Centre",
@@ -112,72 +171,87 @@
   "activities": [
    "snorkelling",
    "windsurfing",
-   "catamaran",
-   "sunset cruise",
-   "scuba diving",
    "kayaking",
-   "wakeboarding",
+   "stand-up paddle",
+   "catamaran",
+   "sailing",
+   "semi-submarine",
+   "sunset cruise",
    "fishing",
+   "scuba diving",
+   "wakeboarding",
    "whale shark",
    "manta",
    "banana boat",
    "fun tube",
-   "semi-submarine",
+   "paddleboard",
+   "canoe",
+   "snorkeling",
    "surfing",
-   "water skiing",
-   "sailing",
-   "canoe"
+   "water skiing"
   ],
   "price_list_doc": null
  },
  "excursions": [
+  "dolphin",
   "turtle",
-  "island hopping",
+  "sunset fishing",
+  "snorkel safari",
   "cooking class",
+  "island hopping",
   "private dinner",
   "stargazing",
   "local island",
-  "dolphin",
   "whale shark",
   "manta",
-  "sunset fishing",
+  "cinema",
+  "picnic",
   "big game fishing",
-  "snorkel safari"
+  "sandbank"
  ],
  "kids_family": {
   "kids_club": "Kids Club",
   "age_range": null,
-  "teens": null
+  "teens": "teens programme mentioned"
  },
  "wellness_fitness": [
   "fitness centre",
-  "beach volleyball",
+  "steam",
   "yoga",
   "sauna",
-  "steam",
-  "gym"
+  "beach volleyball",
+  "hammam",
+  "gym",
+  "tennis"
  ],
  "weddings": {
   "offered": true,
   "vow_renewal": true,
   "venues": [
+   "Ceremony on a Dhoni at sunset (total 90 minutes) USD 900 ++",
    "Ceremony on a Dhoni at sunset (total 90 minutes) - $370"
   ],
   "packages": [
+   {
+    "name": "Vow",
+    "price": "988",
+    "currency": "USD",
+    "as_of": 2025
+   },
+   {
+    "name": "Ceremony",
+    "price": "4588",
+    "currency": "USD",
+    "as_of": 2025
+   },
    {
     "name": "Wedding",
     "price": "368",
     "currency": "USD",
     "as_of": "2026-10-04"
-   },
-   {
-    "name": "Ceremony",
-    "price": "246",
-    "currency": "USD",
-    "as_of": "2026-10-04"
    }
   ],
-  "brochure_doc": null
+  "brochure_doc": "https://prod.centarahotelsresorts.com/centara/sites/centara-centara/files/2025-07/CRF-Wedding-Brochure-2025.pdf"
  },
  "events_mice": {
   "venues": [
@@ -185,47 +259,232 @@
   ],
   "capacity_max": 20,
   "buyout": null,
-  "doc": null
+  "doc": "https://investor.centarahotelsresorts.com/storage/download/cg-document/20190108-centel-cg-2018-en.pdf"
  },
- "sustainability": [],
+ "sustainability": [
+  "coral restoration",
+  "composting",
+  "organic garden",
+  "solar",
+  "single-use plastic",
+  "EarthCheck",
+  "hydroponic"
+ ],
  "contacts_public": {
   "reservations_email": "info@neoscapesmaldives.com",
   "weddings_email": null,
-  "phone": "+960) 664-3880"
+  "phone": "+960 664 3880"
  },
  "documents_latest": {
-  "factsheet": "https://neoscapesmaldives.com/wp-content/uploads/crf-factsheet-en.pdf",
+  "factsheet": "https://www.centarahotelsresorts.com/centara/sites/centara-centara/files/2025-12/609_CRF_Factsheet_Y251203.pdf",
   "map": "https://www.neoscapesmaldives.com/wp-content/uploads/centara-ras-fushi-Map.pdf",
-  "wedding": null,
-  "spa_menu": null,
+  "wedding": "https://prod.centarahotelsresorts.com/centara/sites/centara-centara/files/2025-07/CRF-Wedding-Brochure-2025.pdf",
+  "spa_menu": "https://www.centarahotelsresorts.com/centara/sites/centara-centara/files/2026-10/Centara-Ras-Fushi-Resort--Spa-Maldives-Brochure_withEdited.pdf",
   "dining_menu": null,
   "dive_prices": null,
-  "events": null,
+  "events": "https://investor.centarahotelsresorts.com/storage/download/cg-document/20190108-centel-cg-2018-en.pdf",
   "calendar": null
  },
- "documents_count": 2,
- "gaps": [
-  "wedding brochure",
-  "events/MICE document"
- ],
+ "documents_count": 24,
+ "gaps": [],
  "sources": {
-  "villas.total": [
+  "transfer.modes": [
    {
-    "value": 140,
-    "source_url": "https://neoscapesmaldives.com/wp-content/uploads/crf-factsheet-en.pdf",
-    "as_of": 2019
+    "value": "speedboat",
+    "source_url": "https://www.centarahotelsresorts.com/centara/sites/centara-centara/files/2025-12/609_CRF_Factsheet_Y251203.pdf",
+    "as_of": 2025
    },
    {
-    "value": 140,
-    "source_url": "https://www.centarahotelsresorts.com/centara/crf/honeymoon",
+    "value": "speedboat",
+    "source_url": "https://www.centarahotelsresorts.com/centara/sites/centara-centara/files/2026-10/Centara-Ras-Fushi-Resort--Spa-Maldives-Brochure_withEdited.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.centarahotelsresorts.com/centara/crf",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.centarahotelsresorts.com/centara/crf/centara-rasfushi-offer",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.centarahotelsresorts.com/centara/crf/meal-plans",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.centarahotelsresorts.com/centara/crf/transfer",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yacht",
+    "source_url": "https://www.centarahotelsresorts.com/centara/crf/transfer",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.centarahotelsresorts.com/centara/crf/corporate-events/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.centarahotelsresorts.com/centara/crf/lagoon-view-beach-villa-with-swirl-pool",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.centarahotelsresorts.com/centara/crf/deluxe-overwater-villa",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.centarahotelsresorts.com/centara/crf/deluxe-spa-overwater-villa",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.centarahotelsresorts.com/centara/crf/social-events",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.centarahotelsresorts.com/centara/crf/premium-deluxe-sunset-overwater-villa",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.centarahotelsresorts.com/centara/crf/deluxe-sunset-overwater-villa",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.centarahotelsresorts.com/centara/crf/weddings",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.centarahotelsresorts.com/centara/crf/lagoon-view-beach-villa",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.centarahotelsresorts.com/centara/crf/diving-and-excursions",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.centarahotelsresorts.com/centara/crf/al-khaimah-restaurant-event-venue",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.centarahotelsresorts.com/centara/crf/corporate-events",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.centarahotelsresorts.com/centara/crf/overwater-villa-with-swirl-pool",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.centarahotelsresorts.com/centara/crf/overwater-villa",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.centarahotelsresorts.com/centara/crf/sunset-overwater-villa-with-swirl-pool",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.centarahotelsresorts.com/centara/crf/sunset-overwater-villa",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.centarahotelsresorts.com/centara-spotlight/centara-ultimate-twin-island-escape-campaign",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.centarahotelsresorts.com/centara-spotlight/two-maldives-resorts-offer-irresistible",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "domestic flight",
+    "source_url": "https://www.centarahotelsresorts.com/centara-spotlight/two-maldives-resorts-offer-irresistible",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.centarahotelsresorts.com/b2b/register",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.centarahotelsresorts.com/b2b/register",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "domestic flight",
+    "source_url": "https://www.centarahotelsresorts.com/b2b/register",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.centarahotelsresorts.com/centara-spotlight/four-experiences-with-centara-in-the-maldives",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.centarahotelsresorts.com/centara-spotlight/four-experiences-with-centara-in-the-maldives",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.centarahotelsresorts.com/centara-spotlight/centara-grand-mirage-pattaya-and-havaianas-thailand",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.centarahotelsresorts.com/journal/adults-only-maldives-romantic-resort-escape",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.centarahotelsresorts.com/journal/adults-only-maldives-romantic-resort-escape",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.neoscapesmaldives.com/resort/centara-ras-fushi-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://maldivestraveller.mv/en/holidays/maldives-tours/day-visit-to-centara-ras-fushi",
     "as_of": "2026-10-04"
    }
   ],
   "spa.name": [
    {
-    "value": "Deluxe Spa",
-    "source_url": "https://neoscapesmaldives.com/wp-content/uploads/crf-factsheet-en.pdf",
-    "as_of": 2019
+    "value": "Spa",
+    "source_url": "https://www.centarahotelsresorts.com/centara/sites/centara-centara/files/2025-12/609_CRF_Factsheet_Y251203.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.centarahotelsresorts.com/centara/sites/centara-centara/files/2026-10/Centara-Ras-Fushi-Resort--Spa-Maldives-Brochure_withEdited.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.centarahotelsresorts.com/centara/sites/centara-centara/files/2026-04/ED-CRF-Meal-Plans.pdf",
+    "as_of": 2026
    },
    {
     "value": "Spa",
@@ -364,22 +623,220 @@
    },
    {
     "value": "Spa",
+    "source_url": "https://www.centarahotelsresorts.com/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.centarahotelsresorts.com/hainanairlines-2024",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Candy Spa",
+    "source_url": "https://www.centarahotelsresorts.com/c1triplepoints-2024",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.centarahotelsresorts.com/centara-spotlight/centara-appoints-general-manager-centara-ubon",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.centarahotelsresorts.com/book-direct-benefits",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.centarahotelsresorts.com/centarareserve/social-events",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.centarahotelsresorts.com/centara-spotlight/centara-ultimate-twin-island-escape-campaign",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.centarahotelsresorts.com/centara-spotlight/two-maldives-resorts-offer-irresistible",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "This Koh Samui Spa",
+    "source_url": "https://www.centarahotelsresorts.com/journal/10-quick-tips-to-surviving-the-full-moon-party",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.centarahotelsresorts.com/b2b/register",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Deluxe Spa",
+    "source_url": "https://www.centarahotelsresorts.com/journal/phuket-three-day-itinerary",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.centarahotelsresorts.com/gofirst-2022-year-end",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.centarahotelsresorts.com/centara-spotlight/four-experiences-with-centara-in-the-maldives",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.centarahotelsresorts.com/journal/7-unique-bachelorette-party-ideas",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.centarahotelsresorts.com/centarareserve/gofirst-2022-year-end",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.centarahotelsresorts.com/centara-spotlight/g-green-awards-2019",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.centarahotelsresorts.com/journal/on-site-water-sports-and-beach-activities-for-kids",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Cenvaree Reserve Spa",
+    "source_url": "https://www.centarahotelsresorts.com/centara-spotlight/centara-reserve-brand-unveiled",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.centarahotelsresorts.com/journal/shipwreck-diving-maldives",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Reserve Spa",
+    "source_url": "https://www.centarahotelsresorts.com/centarareserve/crs/uob-offer",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.centarahotelsresorts.com/centara-spotlight/embrace-the-allure-of-the-maldives-with-exclusive-introductory-privileges",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.centarahotelsresorts.com/centarareserve/tg-jp-2023",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Reserve Spa",
+    "source_url": "https://www.centarahotelsresorts.com/centarareserve/crs/the-villa-reserve-experience",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.centarahotelsresorts.com/corporate-deloitte",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.centarahotelsresorts.com/centarareserve/centara-place-to-be",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.centarahotelsresorts.com/centara-spotlight/centara-ras-fushi-resort-spa-maldives-shines-at-the-2023-world-luxury-spa-awards-%20winning-three-prestigious-accolade",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Reserve Spa",
+    "source_url": "https://www.centarahotelsresorts.com/centarareserve/crs-scb-offer",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.centarahotelsresorts.com/staying-well",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Candy Spa",
+    "source_url": "https://www.centarahotelsresorts.com/centara-spotlight/centara-grand-mirage-pattaya-and-havaianas-thailand",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.centarahotelsresorts.com/centara-spotlight/certification-for-environmental-performance",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.centarahotelsresorts.com/journal/the-ultimate-list-of-phuket-attractions",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.centarahotelsresorts.com/centara-spotlight/more-gold-for-green",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.centarahotelsresorts.com/journal/spa-cenvaree-treatments-maldives",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Reserve Spa",
+    "source_url": "https://www.centarahotelsresorts.com/centarareserve/crs-benz",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.centarahotelsresorts.com/centara-spotlight/transforming-a-vacation-into-an-experience-with-centara",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.centarahotelsresorts.com/journal/adults-only-maldives-romantic-resort-escape",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.centarahotelsresorts.com/journal/best-maldives-resort-diving-snorkelling",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.centarahotelsresorts.com/centara-spotlight/centara-rediscover-thailand-package",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Spa",
     "source_url": "https://www.neoscapesmaldives.com/resort/centara-ras-fushi-resort/",
     "as_of": "2026-10-04"
-   }
-  ],
-  "diving_watersports.operator": [
+   },
    {
-    "value": "Dive Centre",
-    "source_url": "https://neoscapesmaldives.com/wp-content/uploads/crf-factsheet-en.pdf",
-    "as_of": 2019
+    "value": "Spa",
+    "source_url": "https://maldivestraveller.mv/it/holidays/maldives-tours/day-visit-to-centara-ras-fushi",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://maldivestraveller.mv/de/holidays/maldives-tours/day-visit-to-centara-ras-fushi",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://maldivestraveller.mv/en/holidays/maldives-tours/day-visit-to-centara-ras-fushi",
+    "as_of": "2026-10-04"
    }
   ],
   "diving_watersports.house_reef": [
    {
-    "value": "house reef",
-    "source_url": "https://neoscapesmaldives.com/wp-content/uploads/crf-factsheet-en.pdf",
-    "as_of": 2019
+    "value": "house reef and",
+    "source_url": "https://www.centarahotelsresorts.com/centara/sites/centara-centara/files/2025-12/609_CRF_Factsheet_Y251203.pdf",
+    "as_of": 2025
    },
    {
     "value": "house reef",
@@ -390,23 +847,83 @@
     "value": "house reef by day, and return after the sun has set to experience the underwater world in a whole new light",
     "source_url": "https://www.centarahotelsresorts.com/centara/crf/diving-and-excursions",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef teeming with marine life, PADI diving, guided shipwreck exploration, and unforgettable wildlife encounters with whale sharks and more, while beachfront and ove",
+    "source_url": "https://www.centarahotelsresorts.com/centara-spotlight/four-experiences-with-centara-in-the-maldives",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "House Reef",
+    "source_url": "https://www.centarahotelsresorts.com/journal/shipwreck-diving-maldives",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "house reefs, along with water sports such as windsurfing and catamaran sailing",
+    "source_url": "https://www.centarahotelsresorts.com/journal/adults-only-maldives-romantic-resort-escape",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "house reef",
+    "source_url": "https://www.centarahotelsresorts.com/journal/best-maldives-resort-diving-snorkelling",
+    "as_of": "2026-10-05"
    }
   ],
   "diving_watersports.activities": [
    {
     "value": "snorkelling",
-    "source_url": "https://neoscapesmaldives.com/wp-content/uploads/crf-factsheet-en.pdf",
-    "as_of": 2019
+    "source_url": "https://www.centarahotelsresorts.com/centara/sites/centara-centara/files/2025-12/609_CRF_Factsheet_Y251203.pdf",
+    "as_of": 2025
    },
    {
     "value": "windsurfing",
-    "source_url": "https://neoscapesmaldives.com/wp-content/uploads/crf-factsheet-en.pdf",
-    "as_of": 2019
+    "source_url": "https://www.centarahotelsresorts.com/centara/sites/centara-centara/files/2025-12/609_CRF_Factsheet_Y251203.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "kayaking",
+    "source_url": "https://www.centarahotelsresorts.com/centara/sites/centara-centara/files/2025-12/609_CRF_Factsheet_Y251203.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "stand-up paddle",
+    "source_url": "https://www.centarahotelsresorts.com/centara/sites/centara-centara/files/2025-12/609_CRF_Factsheet_Y251203.pdf",
+    "as_of": 2025
    },
    {
     "value": "catamaran",
-    "source_url": "https://neoscapesmaldives.com/wp-content/uploads/crf-factsheet-en.pdf",
-    "as_of": 2019
+    "source_url": "https://www.centarahotelsresorts.com/centara/sites/centara-centara/files/2025-12/609_CRF_Factsheet_Y251203.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "sailing",
+    "source_url": "https://www.centarahotelsresorts.com/centara/sites/centara-centara/files/2025-12/609_CRF_Factsheet_Y251203.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "semi-submarine",
+    "source_url": "https://www.centarahotelsresorts.com/centara/sites/centara-centara/files/2025-12/609_CRF_Factsheet_Y251203.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://prod.centarahotelsresorts.com/centara/sites/centara-centara/files/2025-07/CRF-Wedding-Brochure-2025.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "catamaran",
+    "source_url": "https://www.centarahotelsresorts.com/centara/sites/centara-centara/files/2026-10/Centara-Ras-Fushi-Resort--Spa-Maldives-Brochure_withEdited.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.centarahotelsresorts.com/centara/sites/centara-centara/files/2026-10/Centara-Ras-Fushi-Resort--Spa-Maldives-Brochure_withEdited.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.centarahotelsresorts.com/centara/sites/centara-centara/files/2026-10/Centara-Ras-Fushi-Resort--Spa-Maldives-Brochure_withEdited.pdf",
+    "as_of": 2026
    },
    {
     "value": "snorkelling",
@@ -545,6 +1062,176 @@
    },
    {
     "value": "snorkelling",
+    "source_url": "https://www.centarahotelsresorts.com/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.centarahotelsresorts.com/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.centarahotelsresorts.com/centara-spotlight/new-beachfront-hotel-in-sriracha",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "stand-up paddle",
+    "source_url": "https://www.centarahotelsresorts.com/journal/First-timer-guide-to-Pokhara",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "paddleboard",
+    "source_url": "https://www.centarahotelsresorts.com/journal/First-timer-guide-to-Pokhara",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.centarahotelsresorts.com/centara-spotlight/centara-ultimate-twin-island-escape-campaign",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.centarahotelsresorts.com/centara-spotlight/centara-ultimate-twin-island-escape-campaign",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.centarahotelsresorts.com/centara-spotlight/centara-ultimate-twin-island-escape-campaign",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "canoe",
+    "source_url": "https://www.centarahotelsresorts.com/centara-spotlight/centara-ultimate-twin-island-escape-campaign",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.centarahotelsresorts.com/journal/phuket-three-day-itinerary",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://www.centarahotelsresorts.com/centara-spotlight/four-experiences-with-centara-in-the-maldives",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.centarahotelsresorts.com/centara-spotlight/four-experiences-with-centara-in-the-maldives",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sailing",
+    "source_url": "https://www.centarahotelsresorts.com/centara-spotlight/centara-co-sponsors-olympic-sailor-world-championships",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "kayaking",
+    "source_url": "https://www.centarahotelsresorts.com/journal/on-site-water-sports-and-beach-activities-for-kids",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "canoe",
+    "source_url": "https://www.centarahotelsresorts.com/journal/on-site-water-sports-and-beach-activities-for-kids",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.centarahotelsresorts.com/journal/shipwreck-diving-maldives",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.centarahotelsresorts.com/journal/shipwreck-diving-maldives",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "kayaking",
+    "source_url": "https://www.centarahotelsresorts.com/journal/these-3-waterparks-in-pattaya-will-add-a-real-splash-to-your-holiday",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.centarahotelsresorts.com/journal/celebrating-the-full-moon-party-in-koh-phangan",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.centarahotelsresorts.com/events/katara-traditional-dhow-festival",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sailing",
+    "source_url": "https://www.centarahotelsresorts.com/events/katara-traditional-dhow-festival",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.centarahotelsresorts.com/events/ultra-trail-koh-chang",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.centarahotelsresorts.com/journal/planning-3-day-honeymoon-itinerary-phuket",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.centarahotelsresorts.com/centara-spotlight/transforming-a-vacation-into-an-experience-with-centara",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.centarahotelsresorts.com/journal/adults-only-maldives-romantic-resort-escape",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "windsurfing",
+    "source_url": "https://www.centarahotelsresorts.com/journal/adults-only-maldives-romantic-resort-escape",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "catamaran",
+    "source_url": "https://www.centarahotelsresorts.com/journal/adults-only-maldives-romantic-resort-escape",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.centarahotelsresorts.com/journal/adults-only-maldives-romantic-resort-escape",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sailing",
+    "source_url": "https://www.centarahotelsresorts.com/journal/adults-only-maldives-romantic-resort-escape",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.centarahotelsresorts.com/journal/best-maldives-resort-diving-snorkelling",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://www.centarahotelsresorts.com/journal/best-maldives-resort-diving-snorkelling",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.centarahotelsresorts.com/journal/best-maldives-resort-diving-snorkelling",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.centarahotelsresorts.com/journal/best-maldives-resort-diving-snorkelling",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "paddleboard",
+    "source_url": "https://www.centarahotelsresorts.com/centara-spotlight/centara-rediscover-thailand-package",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "snorkelling",
     "source_url": "https://www.neoscapesmaldives.com/resort/centara-ras-fushi-resort/",
     "as_of": "2026-10-04"
    },
@@ -587,13 +1274,290 @@
     "value": "canoe",
     "source_url": "https://www.neoscapesmaldives.com/resort/centara-ras-fushi-resort/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://maldivestraveller.mv/it/holidays/maldives-tours/day-visit-to-centara-ras-fushi",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://maldivestraveller.mv/it/holidays/maldives-tours/day-visit-to-centara-ras-fushi",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://maldivestraveller.mv/it/holidays/maldives-tours/day-visit-to-centara-ras-fushi",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://maldivestraveller.mv/de/holidays/maldives-tours/day-visit-to-centara-ras-fushi",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://maldivestraveller.mv/en/holidays/maldives-tours/day-visit-to-centara-ras-fushi",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "excursions": [
+   {
+    "value": "dolphin",
+    "source_url": "https://www.centarahotelsresorts.com/centara/sites/centara-centara/files/2025-12/609_CRF_Factsheet_Y251203.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.centarahotelsresorts.com/centara/sites/centara-centara/files/2025-12/609_CRF_Factsheet_Y251203.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "sunset fishing",
+    "source_url": "https://www.centarahotelsresorts.com/centara/sites/centara-centara/files/2026-10/Centara-Ras-Fushi-Resort--Spa-Maldives-Brochure_withEdited.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "snorkel safari",
+    "source_url": "https://www.centarahotelsresorts.com/centara/sites/centara-centara/files/2026-10/Centara-Ras-Fushi-Resort--Spa-Maldives-Brochure_withEdited.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "cooking class",
+    "source_url": "https://www.centarahotelsresorts.com/centara/sites/centara-centara/files/2026-10/Centara-Ras-Fushi-Resort--Spa-Maldives-Brochure_withEdited.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.centarahotelsresorts.com/centara/crf",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "island hopping",
+    "source_url": "https://www.centarahotelsresorts.com/centara/crf/corporate-events/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "cooking class",
+    "source_url": "https://www.centarahotelsresorts.com/centara/crf/corporate-events/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "private dinner",
+    "source_url": "https://www.centarahotelsresorts.com/centara/crf/restaurants-and-bars",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "stargazing",
+    "source_url": "https://www.centarahotelsresorts.com/centara/crf/honeymoon",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "island hopping",
+    "source_url": "https://www.centarahotelsresorts.com/centara/crf/social-events",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "cooking class",
+    "source_url": "https://www.centarahotelsresorts.com/centara/crf/social-events",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "local island",
+    "source_url": "https://www.centarahotelsresorts.com/centara/crf/diving-and-excursions",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.centarahotelsresorts.com/centara/crf/diving-and-excursions",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.centarahotelsresorts.com/centara/crf/diving-and-excursions",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.centarahotelsresorts.com/centara/crf/diving-and-excursions",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.centarahotelsresorts.com/centara/crf/diving-and-excursions",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "island hopping",
+    "source_url": "https://www.centarahotelsresorts.com/centara/crf/al-khaimah-restaurant-event-venue",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "cooking class",
+    "source_url": "https://www.centarahotelsresorts.com/centara/crf/al-khaimah-restaurant-event-venue",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "island hopping",
+    "source_url": "https://www.centarahotelsresorts.com/centara/crf/corporate-events",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "cooking class",
+    "source_url": "https://www.centarahotelsresorts.com/centara/crf/corporate-events",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.centarahotelsresorts.com/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.centarahotelsresorts.com/centara-spotlight/centara-ultimate-twin-island-escape-campaign",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "cooking class",
+    "source_url": "https://www.centarahotelsresorts.com/centara-spotlight/centara-ultimate-twin-island-escape-campaign",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "island hopping",
+    "source_url": "https://www.centarahotelsresorts.com/journal/phuket-three-day-itinerary",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.centarahotelsresorts.com/centara-spotlight/four-experiences-with-centara-in-the-maldives",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "cooking class",
+    "source_url": "https://www.centarahotelsresorts.com/journal/7-unique-bachelorette-party-ideas",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "cooking class",
+    "source_url": "https://www.centarahotelsresorts.com/journal/how-to-pick-seafood-like-a-pro-with-centara-chef",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.centarahotelsresorts.com/journal/shipwreck-diving-maldives",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.centarahotelsresorts.com/journal/shipwreck-diving-maldives",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "cinema",
+    "source_url": "https://www.centarahotelsresorts.com/journal/where-to-go-when-it-rains-in-Cha-Am",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "cinema",
+    "source_url": "https://www.centarahotelsresorts.com/centarareserve/discover-shopping-in-thailand",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "picnic",
+    "source_url": "https://www.centarahotelsresorts.com/centarareserve/crs-benz",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "island hopping",
+    "source_url": "https://www.centarahotelsresorts.com/journal/planning-3-day-honeymoon-itinerary-phuket",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.centarahotelsresorts.com/journal/best-maldives-resort-diving-snorkelling",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.centarahotelsresorts.com/journal/best-maldives-resort-diving-snorkelling",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.centarahotelsresorts.com/journal/best-maldives-resort-diving-snorkelling",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "stargazing",
+    "source_url": "https://www.centarahotelsresorts.com/journal/best-maldives-resort-diving-snorkelling",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "cooking class",
+    "source_url": "https://www.centarahotelsresorts.com/centara-spotlight/centara-rediscover-thailand-package",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "local island",
+    "source_url": "https://www.neoscapesmaldives.com/resort/centara-ras-fushi-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset fishing",
+    "source_url": "https://www.neoscapesmaldives.com/resort/centara-ras-fushi-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "big game fishing",
+    "source_url": "https://www.neoscapesmaldives.com/resort/centara-ras-fushi-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkel safari",
+    "source_url": "https://www.neoscapesmaldives.com/resort/centara-ras-fushi-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://maldivestraveller.mv/de/holidays/maldives-tours/day-visit-to-centara-ras-fushi",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://maldivestraveller.mv/en/holidays/maldives-tours/day-visit-to-centara-ras-fushi",
+    "as_of": "2026-10-04"
    }
   ],
   "wellness_fitness": [
    {
     "value": "fitness centre",
-    "source_url": "https://neoscapesmaldives.com/wp-content/uploads/crf-factsheet-en.pdf",
-    "as_of": 2019
+    "source_url": "https://www.centarahotelsresorts.com/centara/sites/centara-centara/files/2025-12/609_CRF_Factsheet_Y251203.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "steam",
+    "source_url": "https://prod.centarahotelsresorts.com/centara/sites/centara-centara/files/2025-07/CRF-Wedding-Brochure-2025.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.centarahotelsresorts.com/centara/sites/centara-centara/files/2026-10/Centara-Ras-Fushi-Resort--Spa-Maldives-Brochure_withEdited.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "fitness centre",
+    "source_url": "https://www.centarahotelsresorts.com/centara/sites/centara-centara/files/2026-10/Centara-Ras-Fushi-Resort--Spa-Maldives-Brochure_withEdited.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "sauna",
+    "source_url": "https://www.centarahotelsresorts.com/centara/sites/centara-centara/files/2026-10/Centara-Ras-Fushi-Resort--Spa-Maldives-Brochure_withEdited.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "steam",
+    "source_url": "https://www.centarahotelsresorts.com/centara/sites/centara-centara/files/2026-10/Centara-Ras-Fushi-Resort--Spa-Maldives-Brochure_withEdited.pdf",
+    "as_of": 2026
    },
    {
     "value": "fitness centre",
@@ -641,6 +1605,91 @@
     "as_of": "2026-10-04"
    },
    {
+    "value": "fitness centre",
+    "source_url": "https://www.centarahotelsresorts.com/centara-spotlight/official-opening-of-centara%20-ubon",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "fitness centre",
+    "source_url": "https://www.centarahotelsresorts.com/journal/phuket-three-day-itinerary",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "hammam",
+    "source_url": "https://www.centarahotelsresorts.com/centara-complete-care",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sauna",
+    "source_url": "https://www.centarahotelsresorts.com/centara-complete-care",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "steam",
+    "source_url": "https://www.centarahotelsresorts.com/centara-complete-care",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "fitness centre",
+    "source_url": "https://www.centarahotelsresorts.com/centara-spotlight/centara-open-centra-by-centara-bangkok-phra-nakhon",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "steam",
+    "source_url": "https://www.centarahotelsresorts.com/journal/7-unique-bachelorette-party-ideas",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "gym",
+    "source_url": "https://www.centarahotelsresorts.com/centara-spotlight/centara-confirms-agreement-al-hail-waves",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "beach volleyball",
+    "source_url": "https://www.centarahotelsresorts.com/journal/on-site-water-sports-and-beach-activities-for-kids",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "fitness centre",
+    "source_url": "https://www.centarahotelsresorts.com/centara-spotlight/stunning-glimpse-of-soon-to-be-open-centara-ayutthaya",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.centarahotelsresorts.com/journal/celebrating-the-full-moon-party-in-koh-phangan",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.centarahotelsresorts.com/staying-well",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "fitness centre",
+    "source_url": "https://www.centarahotelsresorts.com/staying-well",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "fitness centre",
+    "source_url": "https://www.centarahotelsresorts.com/centara-spotlight/grand-opening-of-centara-west-bay-residences-and-suites-doha",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://www.centarahotelsresorts.com/centara-spotlight/grand-opening-of-centara-west-bay-residences-and-suites-doha",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "fitness centre",
+    "source_url": "https://www.centarahotelsresorts.com/centara-spotlight/first-hotel-in-the-middle-east",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.centarahotelsresorts.com/centara-spotlight/centara-rediscover-thailand-package",
+    "as_of": "2026-10-05"
+   },
+   {
     "value": "yoga",
     "source_url": "https://www.neoscapesmaldives.com/resort/centara-ras-fushi-resort/",
     "as_of": "2026-10-04"
@@ -656,114 +1705,832 @@
     "as_of": "2026-10-04"
    }
   ],
-  "transfer.modes": [
+  "sustainability": [
    {
-    "value": "speedboat",
+    "value": "coral restoration",
+    "source_url": "https://www.centarahotelsresorts.com/centara/sites/centara-centara/files/2025-12/609_CRF_Factsheet_Y251203.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "composting",
+    "source_url": "https://www.centarahotelsresorts.com/centara-spotlight/programme-that-puts-surplus-food-to-good-use",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "organic garden",
+    "source_url": "https://www.centarahotelsresorts.com/journal",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "solar",
+    "source_url": "https://www.centarahotelsresorts.com/centara-spotlight/pave-the-way%20for-smart-hotels-with-renewable-energy",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "single-use plastic",
+    "source_url": "https://www.centarahotelsresorts.com/centara-spotlight/dual-honours-at-iaa-awards-for-listed-companies-2024",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "EarthCheck",
+    "source_url": "https://www.centarahotelsresorts.com/centara-spotlight/certification-for-environmental-performance",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "EarthCheck",
+    "source_url": "https://www.centarahotelsresorts.com/centara-spotlight/more-gold-for-green",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "hydroponic",
+    "source_url": "https://www.centarahotelsresorts.com/centara-spotlight/transforming-a-vacation-into-an-experience-with-centara",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "solar",
+    "source_url": "https://maldivestraveller.mv/it/holidays/maldives-tours/day-visit-to-centara-ras-fushi",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "solar",
+    "source_url": "https://maldivestraveller.mv/en/holidays/maldives-tours/day-visit-to-centara-ras-fushi",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "contacts_public.phone": [
+   {
+    "value": "+960 664 3880",
+    "source_url": "https://www.centarahotelsresorts.com/centara/sites/centara-centara/files/2025-12/609_CRF_Factsheet_Y251203.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "+960 664 3880",
+    "source_url": "https://www.centarahotelsresorts.com/centara/sites/centara-centara/files/2026-10/Centara-Ras-Fushi-Resort--Spa-Maldives-Brochure_withEdited.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "+960) 664-3880",
     "source_url": "https://www.centarahotelsresorts.com/centara/crf",
     "as_of": "2026-10-04"
    },
    {
-    "value": "speedboat",
-    "source_url": "https://www.centarahotelsresorts.com/centara/crf/centara-rasfushi-offer",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": "speedboat",
-    "source_url": "https://www.centarahotelsresorts.com/centara/crf/meal-plans",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": "speedboat",
-    "source_url": "https://www.centarahotelsresorts.com/centara/crf/transfer",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": "yacht",
-    "source_url": "https://www.centarahotelsresorts.com/centara/crf/transfer",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": "speedboat",
+    "value": "+960) 664-3880 (",
     "source_url": "https://www.centarahotelsresorts.com/centara/crf/corporate-events/",
     "as_of": "2026-10-04"
    },
    {
-    "value": "speedboat",
+    "value": "+960) 664-3880",
     "source_url": "https://www.centarahotelsresorts.com/centara/crf/lagoon-view-beach-villa-with-swirl-pool",
     "as_of": "2026-10-04"
    },
    {
-    "value": "speedboat",
+    "value": "+960) 664-3880",
+    "source_url": "https://www.centarahotelsresorts.com/centara/crf/restaurants-and-bars",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960) 664-3880",
     "source_url": "https://www.centarahotelsresorts.com/centara/crf/deluxe-overwater-villa",
     "as_of": "2026-10-04"
    },
    {
-    "value": "speedboat",
+    "value": "+960) 664-3880",
+    "source_url": "https://www.centarahotelsresorts.com/centara/crf/waves-pool-bar",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960) 664-3880",
     "source_url": "https://www.centarahotelsresorts.com/centara/crf/deluxe-spa-overwater-villa",
     "as_of": "2026-10-04"
    },
    {
-    "value": "speedboat",
+    "value": "+960) 664-3880 (",
     "source_url": "https://www.centarahotelsresorts.com/centara/crf/social-events",
     "as_of": "2026-10-04"
    },
    {
-    "value": "speedboat",
+    "value": "+960) 664-3880",
+    "source_url": "https://www.centarahotelsresorts.com/centara/crf/spa",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960) 664-3880",
     "source_url": "https://www.centarahotelsresorts.com/centara/crf/premium-deluxe-sunset-overwater-villa",
     "as_of": "2026-10-04"
    },
    {
-    "value": "speedboat",
+    "value": "+960) 664-3880",
     "source_url": "https://www.centarahotelsresorts.com/centara/crf/deluxe-sunset-overwater-villa",
     "as_of": "2026-10-04"
    },
    {
-    "value": "speedboat",
+    "value": "+960) 664-3880",
+    "source_url": "https://www.centarahotelsresorts.com/centara/crf/viu-bar",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960) 664-3880 (",
     "source_url": "https://www.centarahotelsresorts.com/centara/crf/weddings",
     "as_of": "2026-10-04"
    },
    {
-    "value": "speedboat",
+    "value": "+960) 664-3880",
     "source_url": "https://www.centarahotelsresorts.com/centara/crf/lagoon-view-beach-villa",
     "as_of": "2026-10-04"
    },
    {
-    "value": "speedboat",
-    "source_url": "https://www.centarahotelsresorts.com/centara/crf/diving-and-excursions",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": "speedboat",
+    "value": "+960) 664-3880 (",
     "source_url": "https://www.centarahotelsresorts.com/centara/crf/al-khaimah-restaurant-event-venue",
     "as_of": "2026-10-04"
    },
    {
-    "value": "speedboat",
+    "value": "+960) 664-3880 (",
     "source_url": "https://www.centarahotelsresorts.com/centara/crf/corporate-events",
     "as_of": "2026-10-04"
    },
    {
-    "value": "speedboat",
+    "value": "+960) 664-3880",
     "source_url": "https://www.centarahotelsresorts.com/centara/crf/overwater-villa-with-swirl-pool",
     "as_of": "2026-10-04"
    },
    {
-    "value": "speedboat",
+    "value": "+960) 664-3880",
     "source_url": "https://www.centarahotelsresorts.com/centara/crf/overwater-villa",
     "as_of": "2026-10-04"
    },
    {
-    "value": "speedboat",
+    "value": "+960) 664-3880",
     "source_url": "https://www.centarahotelsresorts.com/centara/crf/sunset-overwater-villa-with-swirl-pool",
     "as_of": "2026-10-04"
    },
    {
-    "value": "speedboat",
+    "value": "+960) 664-3880",
     "source_url": "https://www.centarahotelsresorts.com/centara/crf/sunset-overwater-villa",
     "as_of": "2026-10-04"
    },
    {
-    "value": "speedboat",
+    "value": "+960 736 5425",
+    "source_url": "https://www.neoscapesmaldives.com/resort/centara-ras-fushi-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+9607776038",
+    "source_url": "https://maldivestraveller.mv/it/holidays/maldives-tours/day-visit-to-centara-ras-fushi",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+9607776038",
+    "source_url": "https://maldivestraveller.mv/jp/holidays/maldives-tours/day-visit-to-centara-ras-fushi",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+9607776038",
+    "source_url": "https://maldivestraveller.mv/de/holidays/maldives-tours/day-visit-to-centara-ras-fushi",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+9607776038",
+    "source_url": "https://maldivestraveller.mv/en/holidays/maldives-tours/day-visit-to-centara-ras-fushi",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "weddings.offered": [
+   {
+    "value": true,
+    "source_url": "https://prod.centarahotelsresorts.com/centara/sites/centara-centara/files/2025-07/CRF-Wedding-Brochure-2025.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": true,
+    "source_url": "https://www.centarahotelsresorts.com/centara/crf/honeymoon",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.centarahotelsresorts.com/centara/crf/honeymoon",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.centarahotelsresorts.com/centara/crf/weddings",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.centarahotelsresorts.com/centara/crf/weddings",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.centarahotelsresorts.com/centara/crf/al-khaimah-restaurant-event-venue",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.centarahotelsresorts.com/centara/crf/underwater-wedding-ceremony",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.centarahotelsresorts.com/centara/crf/underwater-wedding-ceremony",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.centarahotelsresorts.com/centara/crf/abadhuves-loabi-vey-wedding-package",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.centarahotelsresorts.com/centara/crf/abadhuves-loabi-vey-wedding-package",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.centarahotelsresorts.com/centara/crf/ocean-blessings-wedding-package",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.centarahotelsresorts.com/centara/crf/ocean-blessings-wedding-package",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.centarahotelsresorts.com/centara/crf/umuru-dhvahuge-wedding-package",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.centarahotelsresorts.com/centara/crf/umuru-dhvahuge-wedding-package",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.centarahotelsresorts.com/centara-spotlight/celebrate-christmas-and-new-year-at-centara-grand-hotels-resorts",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.centarahotelsresorts.com/centara-spotlight/official-opening-of-centara%20-ubon",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.centarahotelsresorts.com/journal/10-quick-tips-to-surviving-the-full-moon-party",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.centarahotelsresorts.com/centara-spotlight/centarathe1-celebrates-10th-anniversary",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.centarahotelsresorts.com/centara-spotlight/four-experiences-with-centara-in-the-maldives",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.centarahotelsresorts.com/journal/7-unique-bachelorette-party-ideas",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.centarahotelsresorts.com/journal/a-guide-to-middle-eastern-food-in-oman",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.centarahotelsresorts.com/journal/celebrating-the-full-moon-party-in-koh-phangan",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.centarahotelsresorts.com/journal/planning-3-day-honeymoon-itinerary-phuket",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.centarahotelsresorts.com/journal/adults-only-maldives-romantic-resort-escape",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.centarahotelsresorts.com/journal/adults-only-maldives-romantic-resort-escape",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.neoscapesmaldives.com/resort/centara-ras-fushi-resort/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "weddings.vow_renewal": [
+   {
+    "value": true,
+    "source_url": "https://prod.centarahotelsresorts.com/centara/sites/centara-centara/files/2025-07/CRF-Wedding-Brochure-2025.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": true,
+    "source_url": "https://www.centarahotelsresorts.com/centara/crf",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.centarahotelsresorts.com/centara/crf/weddings",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.centarahotelsresorts.com/centara/crf/underwater-wedding-ceremony",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.centarahotelsresorts.com/centara/crf/abadhuves-loabi-vey-wedding-package",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.centarahotelsresorts.com/centara/crf/ocean-blessings-wedding-package",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.centarahotelsresorts.com/centara/crf/umuru-dhvahuge-wedding-package",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.centarahotelsresorts.com/journal/pet%E2%80%91friendly-stays",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.centarahotelsresorts.com/journal/adults-only-maldives-romantic-resort-escape",
+    "as_of": "2026-10-05"
+   }
+  ],
+  "weddings.venues": [
+   {
+    "value": "Ceremony on a Dhoni at sunset (total 90 minutes) USD 900 ++",
+    "source_url": "https://prod.centarahotelsresorts.com/centara/sites/centara-centara/files/2025-07/CRF-Wedding-Brochure-2025.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "Ceremony on a Dhoni at sunset (total 90 minutes) - $370",
+    "source_url": "https://www.centarahotelsresorts.com/centara/crf/underwater-wedding-ceremony",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Ceremony on a Dhoni at sunset (total 90 minutes) - $370",
+    "source_url": "https://www.centarahotelsresorts.com/centara/crf/abadhuves-loabi-vey-wedding-package",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Ceremony on a Dhoni at sunset (total 90 minutes) - $370",
+    "source_url": "https://www.centarahotelsresorts.com/centara/crf/ocean-blessings-wedding-package",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Ceremony on a Dhoni at sunset (total 90 minutes) - $370",
+    "source_url": "https://www.centarahotelsresorts.com/centara/crf/umuru-dhvahuge-wedding-package",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "weddings.packages": [
+   {
+    "value": {
+     "name": "Vow",
+     "price": "988",
+     "currency": "USD",
+     "as_of": 2025
+    },
+    "source_url": "https://prod.centarahotelsresorts.com/centara/sites/centara-centara/files/2025-07/CRF-Wedding-Brochure-2025.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": {
+     "name": "Ceremony",
+     "price": "4588",
+     "currency": "USD",
+     "as_of": 2025
+    },
+    "source_url": "https://prod.centarahotelsresorts.com/centara/sites/centara-centara/files/2025-07/CRF-Wedding-Brochure-2025.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": {
+     "name": "Ceremony",
+     "price": "250",
+     "currency": "USD",
+     "as_of": 2025
+    },
+    "source_url": "https://prod.centarahotelsresorts.com/centara/sites/centara-centara/files/2025-07/CRF-Wedding-Brochure-2025.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": {
+     "name": "Ceremony",
+     "price": "200",
+     "currency": "USD",
+     "as_of": 2025
+    },
+    "source_url": "https://prod.centarahotelsresorts.com/centara/sites/centara-centara/files/2025-07/CRF-Wedding-Brochure-2025.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": {
+     "name": "Ceremony",
+     "price": "280",
+     "currency": "USD",
+     "as_of": 2025
+    },
+    "source_url": "https://prod.centarahotelsresorts.com/centara/sites/centara-centara/files/2025-07/CRF-Wedding-Brochure-2025.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": {
+     "name": "Wedding",
+     "price": "368",
+     "currency": "USD",
+     "as_of": "2026-10-04"
+    },
+    "source_url": "https://www.centarahotelsresorts.com/centara/crf/underwater-wedding-ceremony",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Wedding",
+     "price": "130",
+     "currency": "USD",
+     "as_of": "2026-10-04"
+    },
+    "source_url": "https://www.centarahotelsresorts.com/centara/crf/underwater-wedding-ceremony",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Wedding",
+     "price": "246",
+     "currency": "USD",
+     "as_of": "2026-10-04"
+    },
+    "source_url": "https://www.centarahotelsresorts.com/centara/crf/underwater-wedding-ceremony",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Ceremony",
+     "price": "246",
+     "currency": "USD",
+     "as_of": "2026-10-04"
+    },
+    "source_url": "https://www.centarahotelsresorts.com/centara/crf/underwater-wedding-ceremony",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Wedding",
+     "price": "620",
+     "currency": "USD",
+     "as_of": "2026-10-04"
+    },
+    "source_url": "https://www.centarahotelsresorts.com/centara/crf/underwater-wedding-ceremony",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Wedding",
+     "price": "368",
+     "currency": "USD",
+     "as_of": "2026-10-04"
+    },
+    "source_url": "https://www.centarahotelsresorts.com/centara/crf/abadhuves-loabi-vey-wedding-package",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Wedding",
+     "price": "130",
+     "currency": "USD",
+     "as_of": "2026-10-04"
+    },
+    "source_url": "https://www.centarahotelsresorts.com/centara/crf/abadhuves-loabi-vey-wedding-package",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Wedding",
+     "price": "246",
+     "currency": "USD",
+     "as_of": "2026-10-04"
+    },
+    "source_url": "https://www.centarahotelsresorts.com/centara/crf/abadhuves-loabi-vey-wedding-package",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Ceremony",
+     "price": "246",
+     "currency": "USD",
+     "as_of": "2026-10-04"
+    },
+    "source_url": "https://www.centarahotelsresorts.com/centara/crf/abadhuves-loabi-vey-wedding-package",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Wedding",
+     "price": "620",
+     "currency": "USD",
+     "as_of": "2026-10-04"
+    },
+    "source_url": "https://www.centarahotelsresorts.com/centara/crf/abadhuves-loabi-vey-wedding-package",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Wedding",
+     "price": "368",
+     "currency": "USD",
+     "as_of": "2026-10-04"
+    },
+    "source_url": "https://www.centarahotelsresorts.com/centara/crf/ocean-blessings-wedding-package",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Wedding",
+     "price": "130",
+     "currency": "USD",
+     "as_of": "2026-10-04"
+    },
+    "source_url": "https://www.centarahotelsresorts.com/centara/crf/ocean-blessings-wedding-package",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Wedding",
+     "price": "246",
+     "currency": "USD",
+     "as_of": "2026-10-04"
+    },
+    "source_url": "https://www.centarahotelsresorts.com/centara/crf/ocean-blessings-wedding-package",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Ceremony",
+     "price": "246",
+     "currency": "USD",
+     "as_of": "2026-10-04"
+    },
+    "source_url": "https://www.centarahotelsresorts.com/centara/crf/ocean-blessings-wedding-package",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Wedding",
+     "price": "620",
+     "currency": "USD",
+     "as_of": "2026-10-04"
+    },
+    "source_url": "https://www.centarahotelsresorts.com/centara/crf/ocean-blessings-wedding-package",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Wedding",
+     "price": "368",
+     "currency": "USD",
+     "as_of": "2026-10-04"
+    },
+    "source_url": "https://www.centarahotelsresorts.com/centara/crf/umuru-dhvahuge-wedding-package",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Wedding",
+     "price": "130",
+     "currency": "USD",
+     "as_of": "2026-10-04"
+    },
+    "source_url": "https://www.centarahotelsresorts.com/centara/crf/umuru-dhvahuge-wedding-package",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Wedding",
+     "price": "246",
+     "currency": "USD",
+     "as_of": "2026-10-04"
+    },
+    "source_url": "https://www.centarahotelsresorts.com/centara/crf/umuru-dhvahuge-wedding-package",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Ceremony",
+     "price": "246",
+     "currency": "USD",
+     "as_of": "2026-10-04"
+    },
+    "source_url": "https://www.centarahotelsresorts.com/centara/crf/umuru-dhvahuge-wedding-package",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Wedding",
+     "price": "620",
+     "currency": "USD",
+     "as_of": "2026-10-04"
+    },
+    "source_url": "https://www.centarahotelsresorts.com/centara/crf/umuru-dhvahuge-wedding-package",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "events_mice.capacity_max": [
+   {
+    "value": 20,
+    "source_url": "https://prod.centarahotelsresorts.com/centara/sites/centara-centara/files/2025-07/CRF-Wedding-Brochure-2025.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": 20,
+    "source_url": "https://www.centarahotelsresorts.com/centara/crf/underwater-wedding-ceremony",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 20,
+    "source_url": "https://www.centarahotelsresorts.com/centara/crf/abadhuves-loabi-vey-wedding-package",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 20,
+    "source_url": "https://www.centarahotelsresorts.com/centara/crf/ocean-blessings-wedding-package",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 20,
+    "source_url": "https://www.centarahotelsresorts.com/centara/crf/umuru-dhvahuge-wedding-package",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 200,
+    "source_url": "https://www.centarahotelsresorts.com/centarareserve/crs/corporate-events",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": 200,
+    "source_url": "https://www.centarahotelsresorts.com/centarareserve/crs/event-hall-4",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": 150,
+    "source_url": "https://www.centarahotelsresorts.com/centara-spotlight/centara-confirms-agreement-al-hail-waves",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": 80,
+    "source_url": "https://www.centarahotelsresorts.com/centara-spotlight/first-hotel-in-the-middle-east",
+    "as_of": "2026-10-05"
+   }
+  ],
+  "transfer.minutes.speedboat": [
+   {
+    "value": 15,
+    "source_url": "https://www.centarahotelsresorts.com/centara/sites/centara-centara/files/2026-10/Centara-Ras-Fushi-Resort--Spa-Maldives-Brochure_withEdited.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": 15,
+    "source_url": "https://www.centarahotelsresorts.com/centara/crf/meal-plans",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 15,
+    "source_url": "https://www.centarahotelsresorts.com/centara/crf/transfer",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 15,
+    "source_url": "https://www.centarahotelsresorts.com/b2b/register",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": 20,
+    "source_url": "https://www.centarahotelsresorts.com/journal/adults-only-maldives-romantic-resort-escape",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": 20,
+    "source_url": "https://www.neoscapesmaldives.com/resort/centara-ras-fushi-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 15,
+    "source_url": "https://maldivestraveller.mv/en/holidays/maldives-tours/day-visit-to-centara-ras-fushi",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "villas.total": [
+   {
+    "value": 140,
+    "source_url": "https://www.centarahotelsresorts.com/centara/sites/centara-centara/files/2026-10/Centara-Ras-Fushi-Resort--Spa-Maldives-Brochure_withEdited.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": 140,
+    "source_url": "https://www.centarahotelsresorts.com/centara/sites/centara-centara/files/2026-10/Centara-Ras-Fushi-Resort--Spa-Maldives-Brochure_withEdited.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": 140,
+    "source_url": "https://www.centarahotelsresorts.com/centara/crf/honeymoon",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 120,
+    "source_url": "https://www.centarahotelsresorts.com/centara-spotlight/centara-hotels-and-resorts-supports-medical-staff",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": 10,
+    "source_url": "https://www.centarahotelsresorts.com/corporate-deloitte",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": 10,
+    "source_url": "https://www.centarahotelsresorts.com/trip-to-world",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": 50,
+    "source_url": "https://www.centarahotelsresorts.com/journal/planning-3-day-honeymoon-itinerary-phuket",
+    "as_of": "2026-10-05"
+   }
+  ],
+  "villas.categories": [
+   {
+    "value": {
+     "name": "Ocean, each villa offers",
+     "count": null,
+     "size_sqm": 42,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": true
+    },
+    "source_url": "https://www.centarahotelsresorts.com/centara/sites/centara-centara/files/2026-10/Centara-Ras-Fushi-Resort--Spa-Maldives-Brochure_withEdited.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": {
+     "name": "delu e ocean front beach villa",
+     "count": 5,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": true
+    },
+    "source_url": "https://www.neoscapesmaldives.com/resort/centara-ras-fushi-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "delu e ocean front beach villa",
+     "count": 3,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": true
+    },
+    "source_url": "https://www.neoscapesmaldives.com/resort/centara-ras-fushi-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "delu e ocean front beach villa",
+     "count": 2,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": true
+    },
+    "source_url": "https://www.neoscapesmaldives.com/resort/centara-ras-fushi-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "delu e-ocean-front-beach-villa",
+     "count": 1,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": true
+    },
     "source_url": "https://www.neoscapesmaldives.com/resort/centara-ras-fushi-resort/",
     "as_of": "2026-10-04"
    }
@@ -771,12 +2538,12 @@
   "dining": [
    {
     "value": {
-     "name": "15% off Dining, Drinks & Spa",
+     "name": "Giraavaru Lobby Bar is a convenient spot",
      "cuisine": null,
-     "type": "restaurant"
+     "type": "bar"
     },
-    "source_url": "https://www.centarahotelsresorts.com/centara/crf",
-    "as_of": "2026-10-04"
+    "source_url": "https://www.centarahotelsresorts.com/centara/sites/centara-centara/files/2026-10/Centara-Ras-Fushi-Resort--Spa-Maldives-Brochure_withEdited.pdf",
+    "as_of": 2026
    },
    {
     "value": {
@@ -1050,30 +2817,102 @@
    },
    {
     "value": {
-     "name": "Dining",
+     "name": "Rooftop Bar Hopping",
      "cuisine": null,
-     "type": "restaurant"
+     "type": "bar"
     },
-    "source_url": "https://www.neoscapesmaldives.com/resort/centara-ras-fushi-resort/",
-    "as_of": "2026-10-04"
+    "source_url": "https://www.centarahotelsresorts.com/journal/7-unique-bachelorette-party-ideas",
+    "as_of": "2026-10-05"
    },
    {
     "value": {
-     "name": "Dining",
+     "name": "Café-Hopping with a View",
      "cuisine": null,
      "type": "restaurant"
     },
-    "source_url": "https://www.neoscapesmaldives.com/resort/centara-ras-fushi-resort/",
-    "as_of": "2026-10-04"
+    "source_url": "https://www.centarahotelsresorts.com/journal/where-to-go-when-it-rains-in-Cha-Am",
+    "as_of": "2026-10-05"
    },
    {
     "value": {
-     "name": "Dining Experiences",
+     "name": "Brown Café",
      "cuisine": null,
      "type": "restaurant"
     },
-    "source_url": "https://www.neoscapesmaldives.com/resort/centara-ras-fushi-resort/",
-    "as_of": "2026-10-04"
+    "source_url": "https://www.centarahotelsresorts.com/journal/ten-places-to-try-boba-milk-tea-in-bangkok",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": {
+     "name": "The Alley Cafe",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.centarahotelsresorts.com/journal/ten-places-to-try-boba-milk-tea-in-bangkok",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": {
+     "name": "Café Hopping",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.centarahotelsresorts.com/journal/5-Cool-Things-to-Do-in-Korat-Nakhon-Ratchasima-Thailand",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": {
+     "name": "CRU Champagne Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.centarahotelsresorts.com/restaurants-and-bars",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": {
+     "name": "Reef Café",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.centarahotelsresorts.com/restaurants-and-bars",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": {
+     "name": "Coral Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.centarahotelsresorts.com/restaurants-and-bars",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": {
+     "name": "BBQ & Grill",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.centarahotelsresorts.com/restaurants-and-bars",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": {
+     "name": "Splash Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.centarahotelsresorts.com/journal/best-sunset-spots-in-phuket",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": {
+     "name": "Bistro Grill & Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.centarahotelsresorts.com/journal/best-sunset-spots-in-phuket",
+    "as_of": "2026-10-05"
    },
    {
     "value": {
@@ -1101,6 +2940,31 @@
     },
     "source_url": "https://www.neoscapesmaldives.com/resort/centara-ras-fushi-resort/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Buffet lunch at Ocean Buffet Restaurant",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://maldivestraveller.mv/en/holidays/maldives-tours/day-visit-to-centara-ras-fushi",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Underwater Restaurant Dining Experience",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://maldivestraveller.mv/en/holidays/maldives-tours/day-visit-to-centara-ras-fushi",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "diving_watersports.operator": [
+   {
+    "value": "Dive Centre",
+    "source_url": "https://www.centarahotelsresorts.com/centara/sites/centara-centara/files/2026-10/Centara-Ras-Fushi-Resort--Spa-Maldives-Brochure_withEdited.pdf",
+    "as_of": 2026
    }
   ],
   "meal_plans": [
@@ -1117,6 +2981,81 @@
    {
     "value": "AI",
     "source_url": "https://www.centarahotelsresorts.com/centara/crf/weddings",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://www.centarahotelsresorts.com/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "HB",
+    "source_url": "https://www.centarahotelsresorts.com/book-direct-benefits",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "FB",
+    "source_url": "https://www.centarahotelsresorts.com/book-direct-benefits",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "FB",
+    "source_url": "https://www.centarahotelsresorts.com/centara-spotlight/celebrate-christmas-and-new-year-at-centara-grand-hotels-resorts",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://www.centarahotelsresorts.com/centara-spotlight/celebrate-christmas-and-new-year-at-centara-grand-hotels-resorts",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "FB",
+    "source_url": "https://www.centarahotelsresorts.com/centara-spotlight/centara-ultimate-twin-island-escape-campaign",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://www.centarahotelsresorts.com/centara-spotlight/centara-ultimate-twin-island-escape-campaign",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://www.centarahotelsresorts.com/centara-spotlight/two-maldives-resorts-offer-irresistible",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://www.centarahotelsresorts.com/centarareserve/best-rate-guarantee",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://www.centarahotelsresorts.com/journal/best-maldives-resort-diving-snorkelling",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "HB",
+    "source_url": "https://www.centarahotelsresorts.com/centara-spotlight/centara-rediscover-thailand-package",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "FB",
+    "source_url": "https://www.centarahotelsresorts.com/centara-spotlight/centara-rediscover-thailand-package",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://maldivestraveller.mv/it/holidays/maldives-tours/day-visit-to-centara-ras-fushi",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://maldivestraveller.mv/de/holidays/maldives-tours/day-visit-to-centara-ras-fushi",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://maldivestraveller.mv/en/holidays/maldives-tours/day-visit-to-centara-ras-fushi",
     "as_of": "2026-10-04"
    }
   ],
@@ -1140,107 +3079,40 @@
     "value": "All-Inclusive and enjoy spa credit at SPA Cenvaree: Unwind with soothing massages, body rituals or facials designed to relax, refresh and reconnect.",
     "source_url": "https://www.centarahotelsresorts.com/centara/crf/spa-credit",
     "as_of": "2026-10-04"
-   }
-  ],
-  "excursions": [
+   },
    {
-    "value": "turtle",
-    "source_url": "https://www.centarahotelsresorts.com/centara/crf",
+    "value": "all-inclusive package at least once.",
+    "source_url": "https://www.centarahotelsresorts.com/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "all-inclusive packages, dinner is only THB 2,000 net per person.",
+    "source_url": "https://www.centarahotelsresorts.com/centara-spotlight/celebrate-christmas-and-new-year-at-centara-grand-hotels-resorts",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "all-inclusive experience with the “Luxury Twin Island Escape” package or a Bed & Breakfast meal plan with “Grand Twin Island Escape” for bookings and stays from now until 20th December 2021.",
+    "source_url": "https://www.centarahotelsresorts.com/centara-spotlight/centara-ultimate-twin-island-escape-campaign",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "All-Inclusive Concept.",
+    "source_url": "https://www.centarahotelsresorts.com/centara-spotlight/two-maldives-resorts-offer-irresistible",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "all-inclusive includerà bevande, una piscina e alcuni sport acquatici.",
+    "source_url": "https://maldivestraveller.mv/it/holidays/maldives-tours/day-visit-to-centara-ras-fushi",
     "as_of": "2026-10-04"
    },
    {
-    "value": "island hopping",
-    "source_url": "https://www.centarahotelsresorts.com/centara/crf/corporate-events/",
+    "value": "All-Inclusive beinhaltet Getränke, einen Swimmingpool und einige Wassersportarten.",
+    "source_url": "https://maldivestraveller.mv/de/holidays/maldives-tours/day-visit-to-centara-ras-fushi",
     "as_of": "2026-10-04"
    },
    {
-    "value": "cooking class",
-    "source_url": "https://www.centarahotelsresorts.com/centara/crf/corporate-events/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": "private dinner",
-    "source_url": "https://www.centarahotelsresorts.com/centara/crf/restaurants-and-bars",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": "stargazing",
-    "source_url": "https://www.centarahotelsresorts.com/centara/crf/honeymoon",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": "island hopping",
-    "source_url": "https://www.centarahotelsresorts.com/centara/crf/social-events",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": "cooking class",
-    "source_url": "https://www.centarahotelsresorts.com/centara/crf/social-events",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": "local island",
-    "source_url": "https://www.centarahotelsresorts.com/centara/crf/diving-and-excursions",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": "dolphin",
-    "source_url": "https://www.centarahotelsresorts.com/centara/crf/diving-and-excursions",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": "whale shark",
-    "source_url": "https://www.centarahotelsresorts.com/centara/crf/diving-and-excursions",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": "manta",
-    "source_url": "https://www.centarahotelsresorts.com/centara/crf/diving-and-excursions",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": "turtle",
-    "source_url": "https://www.centarahotelsresorts.com/centara/crf/diving-and-excursions",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": "island hopping",
-    "source_url": "https://www.centarahotelsresorts.com/centara/crf/al-khaimah-restaurant-event-venue",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": "cooking class",
-    "source_url": "https://www.centarahotelsresorts.com/centara/crf/al-khaimah-restaurant-event-venue",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": "island hopping",
-    "source_url": "https://www.centarahotelsresorts.com/centara/crf/corporate-events",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": "cooking class",
-    "source_url": "https://www.centarahotelsresorts.com/centara/crf/corporate-events",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": "local island",
-    "source_url": "https://www.neoscapesmaldives.com/resort/centara-ras-fushi-resort/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": "sunset fishing",
-    "source_url": "https://www.neoscapesmaldives.com/resort/centara-ras-fushi-resort/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": "big game fishing",
-    "source_url": "https://www.neoscapesmaldives.com/resort/centara-ras-fushi-resort/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": "snorkel safari",
-    "source_url": "https://www.neoscapesmaldives.com/resort/centara-ras-fushi-resort/",
+    "value": "all-inclusive Maldives day pass.",
+    "source_url": "https://maldivestraveller.mv/en/holidays/maldives-tours/day-visit-to-centara-ras-fushi",
     "as_of": "2026-10-04"
    }
   ],
@@ -1252,145 +3124,36 @@
    },
    {
     "value": "Kids Club",
-    "source_url": "https://www.neoscapesmaldives.com/resort/centara-ras-fushi-resort/",
-    "as_of": "2026-10-04"
-   }
-  ],
-  "weddings.vow_renewal": [
-   {
-    "value": true,
-    "source_url": "https://www.centarahotelsresorts.com/centara/crf",
-    "as_of": "2026-10-04"
+    "source_url": "https://www.centarahotelsresorts.com/",
+    "as_of": "2026-10-05"
    },
    {
-    "value": true,
-    "source_url": "https://www.centarahotelsresorts.com/centara/crf/weddings",
-    "as_of": "2026-10-04"
+    "value": "Kids Club",
+    "source_url": "https://www.centarahotelsresorts.com/journal/on-site-water-sports-and-beach-activities-for-kids",
+    "as_of": "2026-10-05"
    },
    {
-    "value": true,
-    "source_url": "https://www.centarahotelsresorts.com/centara/crf/underwater-wedding-ceremony",
-    "as_of": "2026-10-04"
+    "value": "Kids Club",
+    "source_url": "https://www.centarahotelsresorts.com/journal/shipwreck-diving-maldives",
+    "as_of": "2026-10-05"
    },
    {
-    "value": true,
-    "source_url": "https://www.centarahotelsresorts.com/centara/crf/abadhuves-loabi-vey-wedding-package",
-    "as_of": "2026-10-04"
+    "value": "Kids Club",
+    "source_url": "https://www.centarahotelsresorts.com/journal/spa-cenvaree-treatments-maldives",
+    "as_of": "2026-10-05"
    },
    {
-    "value": true,
-    "source_url": "https://www.centarahotelsresorts.com/centara/crf/ocean-blessings-wedding-package",
-    "as_of": "2026-10-04"
+    "value": "Kids Club",
+    "source_url": "https://www.centarahotelsresorts.com/journal/adults-only-maldives-romantic-resort-escape",
+    "as_of": "2026-10-05"
    },
    {
-    "value": true,
-    "source_url": "https://www.centarahotelsresorts.com/centara/crf/umuru-dhvahuge-wedding-package",
-    "as_of": "2026-10-04"
-   }
-  ],
-  "contacts_public.phone": [
-   {
-    "value": "+960) 664-3880",
-    "source_url": "https://www.centarahotelsresorts.com/centara/crf",
-    "as_of": "2026-10-04"
+    "value": "Kids Club",
+    "source_url": "https://www.centarahotelsresorts.com/journal/best-maldives-resort-diving-snorkelling",
+    "as_of": "2026-10-05"
    },
    {
-    "value": "+960) 664-3880 (",
-    "source_url": "https://www.centarahotelsresorts.com/centara/crf/corporate-events/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": "+960) 664-3880",
-    "source_url": "https://www.centarahotelsresorts.com/centara/crf/lagoon-view-beach-villa-with-swirl-pool",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": "+960) 664-3880",
-    "source_url": "https://www.centarahotelsresorts.com/centara/crf/restaurants-and-bars",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": "+960) 664-3880",
-    "source_url": "https://www.centarahotelsresorts.com/centara/crf/deluxe-overwater-villa",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": "+960) 664-3880",
-    "source_url": "https://www.centarahotelsresorts.com/centara/crf/waves-pool-bar",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": "+960) 664-3880",
-    "source_url": "https://www.centarahotelsresorts.com/centara/crf/deluxe-spa-overwater-villa",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": "+960) 664-3880 (",
-    "source_url": "https://www.centarahotelsresorts.com/centara/crf/social-events",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": "+960) 664-3880",
-    "source_url": "https://www.centarahotelsresorts.com/centara/crf/spa",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": "+960) 664-3880",
-    "source_url": "https://www.centarahotelsresorts.com/centara/crf/premium-deluxe-sunset-overwater-villa",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": "+960) 664-3880",
-    "source_url": "https://www.centarahotelsresorts.com/centara/crf/deluxe-sunset-overwater-villa",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": "+960) 664-3880",
-    "source_url": "https://www.centarahotelsresorts.com/centara/crf/viu-bar",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": "+960) 664-3880 (",
-    "source_url": "https://www.centarahotelsresorts.com/centara/crf/weddings",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": "+960) 664-3880",
-    "source_url": "https://www.centarahotelsresorts.com/centara/crf/lagoon-view-beach-villa",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": "+960) 664-3880 (",
-    "source_url": "https://www.centarahotelsresorts.com/centara/crf/al-khaimah-restaurant-event-venue",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": "+960) 664-3880 (",
-    "source_url": "https://www.centarahotelsresorts.com/centara/crf/corporate-events",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": "+960) 664-3880",
-    "source_url": "https://www.centarahotelsresorts.com/centara/crf/overwater-villa-with-swirl-pool",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": "+960) 664-3880",
-    "source_url": "https://www.centarahotelsresorts.com/centara/crf/overwater-villa",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": "+960) 664-3880",
-    "source_url": "https://www.centarahotelsresorts.com/centara/crf/sunset-overwater-villa-with-swirl-pool",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": "+960) 664-3880",
-    "source_url": "https://www.centarahotelsresorts.com/centara/crf/sunset-overwater-villa",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": "+960 736 5425",
+    "value": "Kids Club",
     "source_url": "https://www.neoscapesmaldives.com/resort/centara-ras-fushi-resort/",
     "as_of": "2026-10-04"
    }
@@ -1407,96 +3170,52 @@
     "as_of": "2026-10-04"
    },
    {
+    "value": "North Male Atoll",
+    "source_url": "https://www.centarahotelsresorts.com/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "North Male Atoll",
+    "source_url": "https://www.centarahotelsresorts.com/c1triplepoints-2024",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Ari Atoll",
+    "source_url": "https://www.centarahotelsresorts.com/b2b/register",
+    "as_of": "2026-10-05"
+   },
+   {
     "value": "North Malé Atoll",
-    "source_url": "https://www.neoscapesmaldives.com/resort/centara-ras-fushi-resort/",
-    "as_of": "2026-10-04"
-   }
-  ],
-  "transfer.minutes.speedboat": [
-   {
-    "value": 15,
-    "source_url": "https://www.centarahotelsresorts.com/centara/crf/meal-plans",
-    "as_of": "2026-10-04"
+    "source_url": "https://www.centarahotelsresorts.com/centara-spotlight/four-experiences-with-centara-in-the-maldives",
+    "as_of": "2026-10-05"
    },
    {
-    "value": 15,
-    "source_url": "https://www.centarahotelsresorts.com/centara/crf/transfer",
-    "as_of": "2026-10-04"
+    "value": "Ari Atoll",
+    "source_url": "https://www.centarahotelsresorts.com/journal/things-to-know-before-going-to-dune-safari",
+    "as_of": "2026-10-05"
    },
    {
-    "value": 20,
-    "source_url": "https://www.neoscapesmaldives.com/resort/centara-ras-fushi-resort/",
-    "as_of": "2026-10-04"
-   }
-  ],
-  "weddings.offered": [
-   {
-    "value": true,
-    "source_url": "https://www.centarahotelsresorts.com/centara/crf/honeymoon",
-    "as_of": "2026-10-04"
+    "value": "Ari Atoll",
+    "source_url": "https://www.centarahotelsresorts.com/journal/shipwreck-diving-maldives",
+    "as_of": "2026-10-05"
    },
    {
-    "value": true,
-    "source_url": "https://www.centarahotelsresorts.com/centara/crf/honeymoon",
-    "as_of": "2026-10-04"
+    "value": "North Male Atoll",
+    "source_url": "https://www.centarahotelsresorts.com/journal/pet%E2%80%91friendly-stays",
+    "as_of": "2026-10-05"
    },
    {
-    "value": true,
-    "source_url": "https://www.centarahotelsresorts.com/centara/crf/weddings",
-    "as_of": "2026-10-04"
+    "value": "Ari Atoll",
+    "source_url": "https://www.centarahotelsresorts.com/journal/5-things-to-do-in-hat-yai",
+    "as_of": "2026-10-05"
    },
    {
-    "value": true,
-    "source_url": "https://www.centarahotelsresorts.com/centara/crf/weddings",
-    "as_of": "2026-10-04"
+    "value": "Ari Atoll",
+    "source_url": "https://www.centarahotelsresorts.com/journal/best-maldives-resort-diving-snorkelling",
+    "as_of": "2026-10-05"
    },
    {
-    "value": true,
-    "source_url": "https://www.centarahotelsresorts.com/centara/crf/al-khaimah-restaurant-event-venue",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": true,
-    "source_url": "https://www.centarahotelsresorts.com/centara/crf/underwater-wedding-ceremony",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": true,
-    "source_url": "https://www.centarahotelsresorts.com/centara/crf/underwater-wedding-ceremony",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": true,
-    "source_url": "https://www.centarahotelsresorts.com/centara/crf/abadhuves-loabi-vey-wedding-package",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": true,
-    "source_url": "https://www.centarahotelsresorts.com/centara/crf/abadhuves-loabi-vey-wedding-package",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": true,
-    "source_url": "https://www.centarahotelsresorts.com/centara/crf/ocean-blessings-wedding-package",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": true,
-    "source_url": "https://www.centarahotelsresorts.com/centara/crf/ocean-blessings-wedding-package",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": true,
-    "source_url": "https://www.centarahotelsresorts.com/centara/crf/umuru-dhvahuge-wedding-package",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": true,
-    "source_url": "https://www.centarahotelsresorts.com/centara/crf/umuru-dhvahuge-wedding-package",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": true,
+    "value": "North Malé Atoll",
     "source_url": "https://www.neoscapesmaldives.com/resort/centara-ras-fushi-resort/",
     "as_of": "2026-10-04"
    }
@@ -1508,312 +3227,79 @@
     "as_of": "2026-10-04"
    }
   ],
-  "weddings.venues": [
+  "star_rating": [
    {
-    "value": "Ceremony on a Dhoni at sunset (total 90 minutes) - $370",
-    "source_url": "https://www.centarahotelsresorts.com/centara/crf/underwater-wedding-ceremony",
-    "as_of": "2026-10-04"
+    "value": "5-star",
+    "source_url": "https://www.centarahotelsresorts.com/centara-spotlight/5-year-vision-and-strategy-for-growth",
+    "as_of": "2026-10-05"
    },
    {
-    "value": "Ceremony on a Dhoni at sunset (total 90 minutes) - $370",
-    "source_url": "https://www.centarahotelsresorts.com/centara/crf/abadhuves-loabi-vey-wedding-package",
-    "as_of": "2026-10-04"
+    "value": "5-star",
+    "source_url": "https://www.centarahotelsresorts.com/journal/best-maldives-resort-diving-snorkelling",
+    "as_of": "2026-10-05"
    },
    {
-    "value": "Ceremony on a Dhoni at sunset (total 90 minutes) - $370",
-    "source_url": "https://www.centarahotelsresorts.com/centara/crf/ocean-blessings-wedding-package",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": "Ceremony on a Dhoni at sunset (total 90 minutes) - $370",
-    "source_url": "https://www.centarahotelsresorts.com/centara/crf/umuru-dhvahuge-wedding-package",
+    "value": "5-star",
+    "source_url": "https://maldivestraveller.mv/en/holidays/maldives-tours/day-visit-to-centara-ras-fushi",
     "as_of": "2026-10-04"
    }
   ],
-  "weddings.packages": [
+  "kids_family.teens": [
    {
-    "value": {
-     "name": "Wedding",
-     "price": "368",
-     "currency": "USD",
-     "as_of": "2026-10-04"
-    },
-    "source_url": "https://www.centarahotelsresorts.com/centara/crf/underwater-wedding-ceremony",
-    "as_of": "2026-10-04"
+    "value": "teens programme mentioned",
+    "source_url": "https://www.centarahotelsresorts.com/centara-spotlight/official-opening-of-centara%20-ubon",
+    "as_of": "2026-10-05"
    },
    {
-    "value": {
-     "name": "Wedding",
-     "price": "130",
-     "currency": "USD",
-     "as_of": "2026-10-04"
-    },
-    "source_url": "https://www.centarahotelsresorts.com/centara/crf/underwater-wedding-ceremony",
-    "as_of": "2026-10-04"
+    "value": "teens programme mentioned",
+    "source_url": "https://www.centarahotelsresorts.com/centara-spotlight/four-experiences-with-centara-in-the-maldives",
+    "as_of": "2026-10-05"
    },
    {
-    "value": {
-     "name": "Wedding",
-     "price": "246",
-     "currency": "USD",
-     "as_of": "2026-10-04"
-    },
-    "source_url": "https://www.centarahotelsresorts.com/centara/crf/underwater-wedding-ceremony",
-    "as_of": "2026-10-04"
+    "value": "teens programme mentioned",
+    "source_url": "https://www.centarahotelsresorts.com/journal/on-site-water-sports-and-beach-activities-for-kids",
+    "as_of": "2026-10-05"
    },
    {
-    "value": {
-     "name": "Ceremony",
-     "price": "246",
-     "currency": "USD",
-     "as_of": "2026-10-04"
-    },
-    "source_url": "https://www.centarahotelsresorts.com/centara/crf/underwater-wedding-ceremony",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Wedding",
-     "price": "620",
-     "currency": "USD",
-     "as_of": "2026-10-04"
-    },
-    "source_url": "https://www.centarahotelsresorts.com/centara/crf/underwater-wedding-ceremony",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Wedding",
-     "price": "368",
-     "currency": "USD",
-     "as_of": "2026-10-04"
-    },
-    "source_url": "https://www.centarahotelsresorts.com/centara/crf/abadhuves-loabi-vey-wedding-package",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Wedding",
-     "price": "130",
-     "currency": "USD",
-     "as_of": "2026-10-04"
-    },
-    "source_url": "https://www.centarahotelsresorts.com/centara/crf/abadhuves-loabi-vey-wedding-package",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Wedding",
-     "price": "246",
-     "currency": "USD",
-     "as_of": "2026-10-04"
-    },
-    "source_url": "https://www.centarahotelsresorts.com/centara/crf/abadhuves-loabi-vey-wedding-package",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Ceremony",
-     "price": "246",
-     "currency": "USD",
-     "as_of": "2026-10-04"
-    },
-    "source_url": "https://www.centarahotelsresorts.com/centara/crf/abadhuves-loabi-vey-wedding-package",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Wedding",
-     "price": "620",
-     "currency": "USD",
-     "as_of": "2026-10-04"
-    },
-    "source_url": "https://www.centarahotelsresorts.com/centara/crf/abadhuves-loabi-vey-wedding-package",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Wedding",
-     "price": "368",
-     "currency": "USD",
-     "as_of": "2026-10-04"
-    },
-    "source_url": "https://www.centarahotelsresorts.com/centara/crf/ocean-blessings-wedding-package",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Wedding",
-     "price": "130",
-     "currency": "USD",
-     "as_of": "2026-10-04"
-    },
-    "source_url": "https://www.centarahotelsresorts.com/centara/crf/ocean-blessings-wedding-package",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Wedding",
-     "price": "246",
-     "currency": "USD",
-     "as_of": "2026-10-04"
-    },
-    "source_url": "https://www.centarahotelsresorts.com/centara/crf/ocean-blessings-wedding-package",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Ceremony",
-     "price": "246",
-     "currency": "USD",
-     "as_of": "2026-10-04"
-    },
-    "source_url": "https://www.centarahotelsresorts.com/centara/crf/ocean-blessings-wedding-package",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Wedding",
-     "price": "620",
-     "currency": "USD",
-     "as_of": "2026-10-04"
-    },
-    "source_url": "https://www.centarahotelsresorts.com/centara/crf/ocean-blessings-wedding-package",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Wedding",
-     "price": "368",
-     "currency": "USD",
-     "as_of": "2026-10-04"
-    },
-    "source_url": "https://www.centarahotelsresorts.com/centara/crf/umuru-dhvahuge-wedding-package",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Wedding",
-     "price": "130",
-     "currency": "USD",
-     "as_of": "2026-10-04"
-    },
-    "source_url": "https://www.centarahotelsresorts.com/centara/crf/umuru-dhvahuge-wedding-package",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Wedding",
-     "price": "246",
-     "currency": "USD",
-     "as_of": "2026-10-04"
-    },
-    "source_url": "https://www.centarahotelsresorts.com/centara/crf/umuru-dhvahuge-wedding-package",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Ceremony",
-     "price": "246",
-     "currency": "USD",
-     "as_of": "2026-10-04"
-    },
-    "source_url": "https://www.centarahotelsresorts.com/centara/crf/umuru-dhvahuge-wedding-package",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Wedding",
-     "price": "620",
-     "currency": "USD",
-     "as_of": "2026-10-04"
-    },
-    "source_url": "https://www.centarahotelsresorts.com/centara/crf/umuru-dhvahuge-wedding-package",
-    "as_of": "2026-10-04"
+    "value": "teens programme mentioned",
+    "source_url": "https://www.centarahotelsresorts.com/journal/best-maldives-resort-diving-snorkelling",
+    "as_of": "2026-10-05"
    }
   ],
-  "events_mice.capacity_max": [
+  "transfer.minutes.domestic flight": [
    {
-    "value": 20,
-    "source_url": "https://www.centarahotelsresorts.com/centara/crf/underwater-wedding-ceremony",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": 20,
-    "source_url": "https://www.centarahotelsresorts.com/centara/crf/abadhuves-loabi-vey-wedding-package",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": 20,
-    "source_url": "https://www.centarahotelsresorts.com/centara/crf/ocean-blessings-wedding-package",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": 20,
-    "source_url": "https://www.centarahotelsresorts.com/centara/crf/umuru-dhvahuge-wedding-package",
-    "as_of": "2026-10-04"
+    "value": 15,
+    "source_url": "https://www.centarahotelsresorts.com/b2b/register",
+    "as_of": "2026-10-05"
    }
   ],
-  "villas.categories": [
+  "opened_or_renovated": [
    {
-    "value": {
-     "name": "Number of Villas",
-     "count": 140,
-     "size_sqm": null,
-     "max_occupancy": null,
-     "pool": null,
-     "overwater": null
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/centara-ras-fushi-resort/",
-    "as_of": "2026-10-04"
+    "value": "opened 2020",
+    "source_url": "https://www.centarahotelsresorts.com/centara-spotlight/centara-reserve-brand-unveiled",
+    "as_of": "2026-10-05"
    },
    {
-    "value": {
-     "name": "delu e ocean front beach villa",
-     "count": 5,
-     "size_sqm": null,
-     "max_occupancy": null,
-     "pool": null,
-     "overwater": true
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/centara-ras-fushi-resort/",
-    "as_of": "2026-10-04"
+    "value": "opened 2025",
+    "source_url": "https://www.centarahotelsresorts.com/centara-spotlight/embrace-the-allure-of-the-maldives-with-exclusive-introductory-privileges",
+    "as_of": "2026-10-05"
    },
    {
-    "value": {
-     "name": "delu e ocean front beach villa",
-     "count": 3,
-     "size_sqm": null,
-     "max_occupancy": null,
-     "pool": null,
-     "overwater": true
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/centara-ras-fushi-resort/",
-    "as_of": "2026-10-04"
+    "value": "opened 2022",
+    "source_url": "https://www.centarahotelsresorts.com/journal/these-3-waterparks-in-pattaya-will-add-a-real-splash-to-your-holiday",
+    "as_of": "2026-10-05"
    },
    {
-    "value": {
-     "name": "delu e ocean front beach villa",
-     "count": 2,
-     "size_sqm": null,
-     "max_occupancy": null,
-     "pool": null,
-     "overwater": true
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/centara-ras-fushi-resort/",
-    "as_of": "2026-10-04"
-   },
+    "value": "opened 2017",
+    "source_url": "https://www.centarahotelsresorts.com/centara-spotlight/grand-opening-of-centara-west-bay-residences-and-suites-doha",
+    "as_of": "2026-10-05"
+   }
+  ],
+  "island": [
    {
-    "value": {
-     "name": "delu e-ocean-front-beach-villa",
-     "count": 1,
-     "size_sqm": null,
-     "max_occupancy": null,
-     "pool": null,
-     "overwater": true
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/centara-ras-fushi-resort/",
-    "as_of": "2026-10-04"
+    "value": "Machchafushi",
+    "source_url": "https://www.centarahotelsresorts.com/journal/shipwreck-diving-maldives",
+    "as_of": "2026-10-05"
    }
   ],
   "contacts_public.reservations_email": [
@@ -1824,5 +3310,5 @@
    }
   ]
  },
- "last_updated": "2026-10-04"
+ "last_updated": "2026-10-05"
 }

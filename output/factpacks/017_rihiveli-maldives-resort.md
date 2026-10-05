@@ -1,6 +1,6 @@
 # 17. Rihiveli Maldives Resort
 
-**Official site:** https://www.rihiveli-maldives.com/ (unverified)  
+**Official site:** https://www.rihiveli-maldives.com/ (blocked-partial)  
 **Brand:** n/a  
 **Atoll:** n/a  **Island:** n/a  
 **Opened/renovated:** n/a  **Rating:** n/a  
@@ -79,4 +79,4 @@ Meal plans: AI
 - fact: weddings
 - fact: contacts
 
-_Facts extracted by rules from 1 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-04._
+_Facts extracted by rules from 1 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

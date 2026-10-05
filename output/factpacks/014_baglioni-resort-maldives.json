@@ -9,14 +9,17 @@
  "official_url": "https://www.baglionihotels.com/maldives/",
  "official_site_status": "blocked",
  "operator_brand": "Baglioni",
- "atoll": null,
- "island": null,
+ "atoll": "Dhaalu Atoll",
+ "island": "Maagau Island",
  "opened_or_renovated": null,
  "star_rating": null,
  "transfer": {
-  "modes": [],
+  "modes": [
+   "seaplane",
+   "yacht"
+  ],
   "minutes": {
-   "seaplane": null,
+   "seaplane": 40,
    "speedboat": null,
    "domestic flight": null,
    "yacht": null
@@ -24,33 +27,81 @@
  },
  "island_size": null,
  "villas": {
-  "total": null,
+  "total": 96,
   "categories": []
  },
- "dining": [],
- "meal_plans": [],
- "all_inclusive_details": null,
+ "dining": [
+  {
+   "name": "Yama Restaurant at Baglioni Maldives",
+   "cuisine": null,
+   "type": "restaurant"
+  },
+  {
+   "name": "Mirto Pool Bar",
+   "cuisine": null,
+   "type": "bar"
+  },
+  {
+   "name": "Refined Wine Cellar",
+   "cuisine": null,
+   "type": "bar"
+  },
+  {
+   "name": "Lunch at Pizza Boat and Mirto Pool Bar",
+   "cuisine": null,
+   "type": "bar"
+  },
+  {
+   "name": "Terrace Bar",
+   "cuisine": null,
+   "type": "bar"
+  }
+ ],
+ "meal_plans": [
+  "AI"
+ ],
+ "all_inclusive_details": "all inclusive plan adds a sense of ease to each day, with exceptional Italian and international dining, snacks, drinks and activities all taken care of.",
  "spa": {
-  "name": null,
-  "treatment_rooms": null,
+  "name": "Aura Spa",
+  "treatment_rooms": 4,
   "signature_treatments": [],
   "menu_doc": null
  },
  "diving_watersports": {
-  "operator": null,
-  "house_reef": null,
-  "activities": [],
+  "operator": "Dive Centre",
+  "house_reef": "house reef and white‑sand beaches-all within reach yet distinct from higher‑traffic atolls",
+  "activities": [
+   "snorkelling",
+   "kayaking",
+   "stand-up paddle",
+   "jet ski",
+   "water skiing",
+   "wakeboarding",
+   "manta",
+   "canoe",
+   "snorkeling"
+  ],
   "price_list_doc": null
  },
- "excursions": [],
+ "excursions": [
+  "manta",
+  "turtle",
+  "picnic"
+ ],
  "kids_family": {
-  "kids_club": null,
-  "age_range": null,
-  "teens": null
+  "kids_club": "For Families\nBaglioni Kids Club",
+  "age_range": "4-12 years",
+  "teens": "teens programme mentioned"
  },
- "wellness_fitness": [],
+ "wellness_fitness": [
+  "yoga",
+  "meditation",
+  "gym",
+  "fitness centre",
+  "tennis"
+ ],
  "weddings": {
-  "offered": null,
+  "offered": true,
   "vow_renewal": null,
   "venues": [],
   "packages": [],
@@ -62,7 +113,9 @@
   "buyout": null,
   "doc": null
  },
- "sustainability": [],
+ "sustainability": [
+  "Green Globe"
+ ],
  "contacts_public": {
   "reservations_email": null,
   "weddings_email": null,
@@ -83,18 +136,355 @@
   "factsheet",
   "wedding brochure",
   "events/MICE document",
-  "fact: villas.total",
   "fact: villa categories",
-  "fact: dining",
-  "fact: transfer",
-  "fact: atoll",
-  "fact: spa",
-  "fact: dive operator",
-  "fact: kids club",
-  "fact: weddings",
-  "fact: contacts",
-  "no documents or pages collected"
+  "fact: contacts"
  ],
- "sources": {},
- "last_updated": "2026-10-04"
+ "sources": {
+  "atoll": [
+   {
+    "value": "Dhaalu Atoll",
+    "source_url": "https://letsgomaldives.com/news/baglioni-resort-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Dhaalu Atoll",
+    "source_url": "https://www.tropicalsky.co.uk/indian-ocean-holidays/maldives/baglioni-maldives-luxury-all-inclusive-hotel",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Dhaalu Atoll",
+    "source_url": "https://malediven.de/malediven-hotels/baglioni-resort-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Dhaalu Atoll",
+    "source_url": "https://www.airtours.de/baglioni-maldives-luxury-all-inclusive/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "island": [
+   {
+    "value": "Maagau Island",
+    "source_url": "https://letsgomaldives.com/news/baglioni-resort-maldives/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "transfer.modes": [
+   {
+    "value": "seaplane",
+    "source_url": "https://letsgomaldives.com/news/baglioni-resort-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.tropicalsky.co.uk/indian-ocean-holidays/maldives/baglioni-maldives-luxury-all-inclusive-hotel",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yacht",
+    "source_url": "https://www.carrier.co.uk/design/hotels/baglioni-resort-sardinia",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "transfer.minutes.seaplane": [
+   {
+    "value": 40,
+    "source_url": "https://letsgomaldives.com/news/baglioni-resort-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 45,
+    "source_url": "https://www.tropicalsky.co.uk/indian-ocean-holidays/maldives/baglioni-maldives-luxury-all-inclusive-hotel",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "villas.total": [
+   {
+    "value": 96,
+    "source_url": "https://letsgomaldives.com/news/baglioni-resort-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 85,
+    "source_url": "https://www.tropicalsky.co.uk/indian-ocean-holidays/maldives/baglioni-maldives-luxury-all-inclusive-hotel",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "meal_plans": [
+   {
+    "value": "AI",
+    "source_url": "https://letsgomaldives.com/news/baglioni-resort-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://www.tropicalsky.co.uk/indian-ocean-holidays/maldives/baglioni-maldives-luxury-all-inclusive-hotel",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "diving_watersports.house_reef": [
+   {
+    "value": "house reef and white‑sand beaches-all within reach yet distinct from higher‑traffic atolls",
+    "source_url": "https://letsgomaldives.com/news/baglioni-resort-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "House Reef - Just steps from shore, the vibrant House Reef invites you to snorkel among colourful corals and tropical marine life, with complimentary equipment and no boa",
+    "source_url": "https://www.tropicalsky.co.uk/indian-ocean-holidays/maldives/baglioni-maldives-luxury-all-inclusive-hotel",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "diving_watersports.activities": [
+   {
+    "value": "snorkelling",
+    "source_url": "https://letsgomaldives.com/news/baglioni-resort-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.tropicalsky.co.uk/indian-ocean-holidays/maldives/baglioni-maldives-luxury-all-inclusive-hotel",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "kayaking",
+    "source_url": "https://www.tropicalsky.co.uk/indian-ocean-holidays/maldives/baglioni-maldives-luxury-all-inclusive-hotel",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "stand-up paddle",
+    "source_url": "https://www.tropicalsky.co.uk/indian-ocean-holidays/maldives/baglioni-maldives-luxury-all-inclusive-hotel",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "jet ski",
+    "source_url": "https://www.tropicalsky.co.uk/indian-ocean-holidays/maldives/baglioni-maldives-luxury-all-inclusive-hotel",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "water skiing",
+    "source_url": "https://www.tropicalsky.co.uk/indian-ocean-holidays/maldives/baglioni-maldives-luxury-all-inclusive-hotel",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "wakeboarding",
+    "source_url": "https://www.tropicalsky.co.uk/indian-ocean-holidays/maldives/baglioni-maldives-luxury-all-inclusive-hotel",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.tropicalsky.co.uk/indian-ocean-holidays/maldives/baglioni-maldives-luxury-all-inclusive-hotel",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "canoe",
+    "source_url": "https://www.tropicalsky.co.uk/indian-ocean-holidays/maldives/baglioni-maldives-luxury-all-inclusive-hotel",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.carrier.co.uk/design/hotels/baglioni-resort-sardinia",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://malediven.de/malediven-hotels/baglioni-resort-maldives/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "sustainability": [
+   {
+    "value": "Green Globe",
+    "source_url": "https://letsgomaldives.com/news/baglioni-resort-maldives/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "dining": [
+   {
+    "value": {
+     "name": "Yama Restaurant at Baglioni Maldives",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.tropicalsky.co.uk/indian-ocean-holidays/maldives/baglioni-maldives-luxury-all-inclusive-hotel",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Mirto Pool Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.tropicalsky.co.uk/indian-ocean-holidays/maldives/baglioni-maldives-luxury-all-inclusive-hotel",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Refined Wine Cellar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.tropicalsky.co.uk/indian-ocean-holidays/maldives/baglioni-maldives-luxury-all-inclusive-hotel",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Lunch at Pizza Boat and Mirto Pool Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.tropicalsky.co.uk/indian-ocean-holidays/maldives/baglioni-maldives-luxury-all-inclusive-hotel",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Terrace Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.carrier.co.uk/design/hotels/baglioni-resort-sardinia",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "all_inclusive_details": [
+   {
+    "value": "all inclusive plan adds a sense of ease to each day, with exceptional Italian and international dining, snacks, drinks and activities all taken care of.",
+    "source_url": "https://www.tropicalsky.co.uk/indian-ocean-holidays/maldives/baglioni-maldives-luxury-all-inclusive-hotel",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "All-Inclusive-Konzept prägen das Erlebnis.",
+    "source_url": "https://malediven.de/malediven-hotels/baglioni-resort-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "All-Inclusive ist darauf ausgelegt, dass Sie Ihre Traumreise in vollen Zügen genießen können – mit allem, was Sie brauchen – und alles inklusive.",
+    "source_url": "https://www.airtours.de/baglioni-maldives-luxury-all-inclusive/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "spa.name": [
+   {
+    "value": "Aura Spa",
+    "source_url": "https://www.tropicalsky.co.uk/indian-ocean-holidays/maldives/baglioni-maldives-luxury-all-inclusive-hotel",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.carrier.co.uk/design/hotels/baglioni-resort-sardinia",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Aura Spa",
+    "source_url": "https://www.airtours.de/baglioni-masseria-muzza/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://malediven.de/malediven-hotels/baglioni-resort-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Aura Spa",
+    "source_url": "https://www.airtours.de/baglioni-maldives-luxury-all-inclusive/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "spa.treatment_rooms": [
+   {
+    "value": 4,
+    "source_url": "https://www.tropicalsky.co.uk/indian-ocean-holidays/maldives/baglioni-maldives-luxury-all-inclusive-hotel",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "diving_watersports.operator": [
+   {
+    "value": "Dive Centre",
+    "source_url": "https://www.tropicalsky.co.uk/indian-ocean-holidays/maldives/baglioni-maldives-luxury-all-inclusive-hotel",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "excursions": [
+   {
+    "value": "manta",
+    "source_url": "https://www.tropicalsky.co.uk/indian-ocean-holidays/maldives/baglioni-maldives-luxury-all-inclusive-hotel",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.tropicalsky.co.uk/indian-ocean-holidays/maldives/baglioni-maldives-luxury-all-inclusive-hotel",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "picnic",
+    "source_url": "https://www.tropicalsky.co.uk/indian-ocean-holidays/maldives/baglioni-maldives-luxury-all-inclusive-hotel",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "kids_family.kids_club": [
+   {
+    "value": "For Families\nBaglioni Kids Club",
+    "source_url": "https://www.tropicalsky.co.uk/indian-ocean-holidays/maldives/baglioni-maldives-luxury-all-inclusive-hotel",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "kids_family.age_range": [
+   {
+    "value": "4-12 years",
+    "source_url": "https://www.tropicalsky.co.uk/indian-ocean-holidays/maldives/baglioni-maldives-luxury-all-inclusive-hotel",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "kids_family.teens": [
+   {
+    "value": "teens programme mentioned",
+    "source_url": "https://www.tropicalsky.co.uk/indian-ocean-holidays/maldives/baglioni-maldives-luxury-all-inclusive-hotel",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "wellness_fitness": [
+   {
+    "value": "yoga",
+    "source_url": "https://www.tropicalsky.co.uk/indian-ocean-holidays/maldives/baglioni-maldives-luxury-all-inclusive-hotel",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "meditation",
+    "source_url": "https://www.tropicalsky.co.uk/indian-ocean-holidays/maldives/baglioni-maldives-luxury-all-inclusive-hotel",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "gym",
+    "source_url": "https://www.tropicalsky.co.uk/indian-ocean-holidays/maldives/baglioni-maldives-luxury-all-inclusive-hotel",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fitness centre",
+    "source_url": "https://www.tropicalsky.co.uk/indian-ocean-holidays/maldives/baglioni-maldives-luxury-all-inclusive-hotel",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://www.tropicalsky.co.uk/indian-ocean-holidays/maldives/baglioni-maldives-luxury-all-inclusive-hotel",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "meditation",
+    "source_url": "https://malediven.de/malediven-hotels/baglioni-resort-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.airtours.de/baglioni-maldives-luxury-all-inclusive/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "weddings.offered": [
+   {
+    "value": true,
+    "source_url": "https://malediven.de/malediven-hotels/baglioni-resort-maldives/",
+    "as_of": "2026-10-04"
+   }
+  ]
+ },
+ "last_updated": "2026-10-05"
 }

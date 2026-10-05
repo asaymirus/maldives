@@ -10,8 +10,8 @@
  "official_site_status": "ok",
  "operator_brand": null,
  "atoll": "Gaafu Alifu Atoll",
- "island": "Falhumaafushi",
- "opened_or_renovated": "opened 1996",
+ "island": "Unguja",
+ "opened_or_renovated": "opened 1998",
  "star_rating": "5-star",
  "transfer": {
   "modes": [
@@ -26,7 +26,7 @@
    "yacht": null
   }
  },
- "island_size": null,
+ "island_size": "2 ha",
  "villas": {
   "total": 94,
   "categories": [
@@ -37,37 +37,30 @@
     "max_occupancy": null,
     "pool": null,
     "overwater": null
+   },
+   {
+    "name": "No. of suites",
+    "count": 3,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
    }
   ]
  },
  "dining": [
+  {
+   "name": "Welcome Lounge featuring relaxation area",
+   "cuisine": null,
+   "type": "bar"
+  },
   {
    "name": "Beach Bar)",
    "cuisine": null,
    "type": "bar"
   },
   {
-   "name": "Northern End) (Dhigurah Lounge) Library Bar) (Meeting point",
-   "cuisine": null,
-   "type": "bar"
-  },
-  {
-   "name": "Private Dining Extension: 527",
-   "cuisine": null,
-   "type": "restaurant"
-  },
-  {
-   "name": "Private Dining",
-   "cuisine": null,
-   "type": "restaurant"
-  },
-  {
    "name": "The Beach Bar",
-   "cuisine": null,
-   "type": "bar"
-  },
-  {
-   "name": "Bar & Adjacent Beach Area: 10.00 am till late",
    "cuisine": null,
    "type": "bar"
   },
@@ -82,30 +75,48 @@
    "type": "bar"
   },
   {
-   "name": "The Dining Room",
+   "name": "The Bar",
+   "cuisine": null,
+   "type": "bar"
+  },
+  {
+   "name": "The Dining Room Bar",
+   "cuisine": null,
+   "type": "bar"
+  },
+  {
+   "name": "Piano Bar",
+   "cuisine": null,
+   "type": "bar"
+  },
+  {
+   "name": "Le Restaurant",
    "cuisine": null,
    "type": "restaurant"
   },
   {
-   "name": "Memorable Dining Experiences",
+   "name": "Poolside Bar",
    "cuisine": null,
-   "type": "restaurant"
+   "type": "bar"
   },
   {
-   "name": "Private Dining All Day Menu",
+   "name": "The Sunset Grill",
    "cuisine": null,
    "type": "restaurant"
   }
  ],
  "meal_plans": [
-  "BB"
+  "BB",
+  "AI",
+  "FB",
+  "HB"
  ],
  "all_inclusive_details": "All-Inclusive meal plan.",
  "spa": {
-  "name": "Couple Spa",
+  "name": "The Residence Bintan Spa",
   "treatment_rooms": null,
   "signature_treatments": [],
-  "menu_doc": "https://cenizaro.com/docs/maldives-fm/TRML_Spa_by_Clarins_-_Reception_Menu_-_Jan_23.pdf"
+  "menu_doc": "https://www.cenizaro.com/docs/bintan/TRB_SPA_Menu_-_September_2026.pdf"
  },
  "diving_watersports": {
   "operator": "Dive Centre",
@@ -125,7 +136,9 @@
    "jet ski",
    "water skiing",
    "fun tube",
-   "manta"
+   "manta",
+   "paddleboard",
+   "parasailing"
   ],
   "price_list_doc": "https://www.cenizaro.com/docs/maldives-dg/Dive_Centre_Price_List-March_2026.pdf"
  },
@@ -138,7 +151,9 @@
   "island hopping",
   "big game fishing",
   "picnic",
-  "manta"
+  "manta",
+  "sandbank",
+  "cinema"
  ],
  "kids_family": {
   "kids_club": "Kids Club",
@@ -149,16 +164,23 @@
   "yoga",
   "meditation",
   "ayurveda",
+  "gym",
+  "steam",
   "tennis",
   "wellness programme",
   "fitness centre",
   "sauna",
-  "steam"
+  "hammam",
+  "pilates",
+  "beach volleyball",
+  "fitness center"
  ],
  "weddings": {
   "offered": true,
   "vow_renewal": true,
-  "venues": [],
+  "venues": [
+   "SUNSET BEACH WEDDING"
+  ],
   "packages": [
    {
     "name": "Wedding Ceremony Package",
@@ -183,6 +205,30 @@
     "price": "599",
     "currency": "USD",
     "as_of": 2026
+   },
+   {
+    "name": "Single Package",
+    "price": "1770",
+    "currency": "EUR",
+    "as_of": "2026-10-05"
+   },
+   {
+    "name": "Double Package",
+    "price": "2095",
+    "currency": "EUR",
+    "as_of": "2026-10-05"
+   },
+   {
+    "name": "VIBES Destination Dining Experience",
+    "price": "500",
+    "currency": "USD",
+    "as_of": "2026-10-05"
+   },
+   {
+    "name": "Island Summer Savings Package",
+    "price": "450",
+    "currency": "USD",
+    "as_of": "2026-10-05"
    }
   ],
   "brochure_doc": "https://www.cenizaro.com/docs/maldives-fm/Maldives_Wedding_Ceremony_Packages-2026.pdf"
@@ -196,7 +242,9 @@
   "doc": "https://www.cenizaro.com//docs/maldives-fm/2024_TR_MALDIVES_MICE_FACTSHEET_FA_v3_PAGEBYPAGE.pdf"
  },
  "sustainability": [
-  "Blue Marine Foundation"
+  "Blue Marine Foundation",
+  "solar",
+  "composting"
  ],
  "contacts_public": {
   "reservations_email": "sales-maldives@theresidence.com",
@@ -207,13 +255,13 @@
   "factsheet": null,
   "map": null,
   "wedding": "https://www.cenizaro.com/docs/maldives-fm/Maldives_Wedding_Ceremony_Packages-2026.pdf",
-  "spa_menu": "https://cenizaro.com/docs/maldives-fm/TRML_Spa_by_Clarins_-_Reception_Menu_-_Jan_23.pdf",
-  "dining_menu": "https://www.cenizaro.com/docs/maldives-fm/Private_Dining_All_Day_Menu_-_28.06.25.pdf",
+  "spa_menu": "https://www.cenizaro.com/docs/bintan/TRB_SPA_Menu_-_September_2026.pdf",
+  "dining_menu": "https://www.cenizaro.com/docs/bintan/TRB_Earth_Basket_Cooking_Class_Menu.pdf",
   "dive_prices": "https://www.cenizaro.com/docs/maldives-dg/Dive_Centre_Price_List-March_2026.pdf",
   "events": "https://www.cenizaro.com//docs/maldives-fm/2024_TR_MALDIVES_MICE_FACTSHEET_FA_v3_PAGEBYPAGE.pdf",
-  "calendar": null
+  "calendar": "https://www.cenizaro.com/docs/pressclippings/luxurytravelmagazine.com%2C_06.07.22.pdf"
  },
- "documents_count": 19,
+ "documents_count": 34,
  "gaps": [
   "factsheet"
  ],
@@ -222,7 +270,7 @@
    {
     "value": "Gaafu Alifu Atoll",
     "source_url": "https://www.cenizaro.com/docs/maldives-fm/TRMaldives-Combined_-Brochure-200512.pdf",
-    "as_of": 2020
+    "as_of": 2019
    },
    {
     "value": "Gaafu Alifu Atoll",
@@ -253,20 +301,50 @@
     "value": "Gaafu Alifu Atoll",
     "source_url": "https://www.cenizaro.com/theresidence/maldives-fm/destination/location",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "Gaafu Alifu Atoll",
+    "source_url": "https://www.cenizaro.com/media/press/2019/wellnesswayforward",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Gaafu Alifu Atoll",
+    "source_url": "https://www.maldivestourism.net/resorts/the-residence-maldives-falhumaafushi/",
+    "as_of": "2026-10-04"
    }
   ],
   "opened_or_renovated": [
    {
     "value": "opened 1996",
     "source_url": "https://www.cenizaro.com/docs/maldives-fm/TRMaldives-Combined_-Brochure-200512.pdf",
-    "as_of": 2020
+    "as_of": 2019
+   },
+   {
+    "value": "opened 1998",
+    "source_url": "https://www.cenizaro.com/media/press/2021/riad-elegancia",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "renovated 2020",
+    "source_url": "https://www.cenizaro.com/media/press/2021/riad-elegancia",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "opened 2011",
+    "source_url": "https://www.cenizaro.com/media/press/2014/tripadvisor-awards-2014",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "opened 1960",
+    "source_url": "https://www.cenizaro.com/media/press/2018/familyfirstatmauritius",
+    "as_of": "2026-10-05"
    }
   ],
   "transfer.modes": [
    {
     "value": "speedboat",
     "source_url": "https://www.cenizaro.com/docs/maldives-fm/TRMaldives-Combined_-Brochure-200512.pdf",
-    "as_of": 2020
+    "as_of": 2019
    },
    {
     "value": "speedboat",
@@ -328,49 +406,54 @@
    {
     "value": 161,
     "source_url": "https://www.cenizaro.com/docs/maldives-fm/TRMaldives-Combined_-Brochure-200512.pdf",
-    "as_of": 2020
+    "as_of": 2019
    },
    {
     "value": 94,
     "source_url": "https://www.cenizaro.com/theresidence/maldives-fm/accommodation",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": 135,
+    "source_url": "https://www.cenizaro.com/media/press/2018/familyfirstatmauritius",
+    "as_of": "2026-10-05"
    }
   ],
   "diving_watersports.activities": [
    {
     "value": "snorkelling",
     "source_url": "https://www.cenizaro.com/docs/maldives-fm/TRMaldives-Combined_-Brochure-200512.pdf",
-    "as_of": 2020
+    "as_of": 2019
    },
    {
     "value": "windsurfing",
     "source_url": "https://www.cenizaro.com/docs/maldives-fm/TRMaldives-Combined_-Brochure-200512.pdf",
-    "as_of": 2020
+    "as_of": 2019
    },
    {
     "value": "kayaking",
     "source_url": "https://www.cenizaro.com/docs/maldives-fm/TRMaldives-Combined_-Brochure-200512.pdf",
-    "as_of": 2020
+    "as_of": 2019
    },
    {
     "value": "catamaran",
     "source_url": "https://www.cenizaro.com/docs/maldives-fm/TRMaldives-Combined_-Brochure-200512.pdf",
-    "as_of": 2020
+    "as_of": 2019
    },
    {
     "value": "fishing",
     "source_url": "https://www.cenizaro.com/docs/maldives-fm/TRMaldives-Combined_-Brochure-200512.pdf",
-    "as_of": 2020
+    "as_of": 2019
    },
    {
     "value": "dolphin cruise",
     "source_url": "https://www.cenizaro.com/docs/maldives-fm/TRMaldives-Combined_-Brochure-200512.pdf",
-    "as_of": 2020
+    "as_of": 2019
    },
    {
     "value": "sailing",
     "source_url": "https://www.cenizaro.com/docs/maldives-fm/TRMaldives-Combined_-Brochure-200512.pdf",
-    "as_of": 2020
+    "as_of": 2019
    },
    {
     "value": "snorkeling",
@@ -606,18 +689,178 @@
     "value": "snorkelling",
     "source_url": "https://www.cenizaro.com/theresidence/maldives-fm/about/facilities",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.cenizaro.com/media/press/2019/spiceupyourlifetrz",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "surfing",
+    "source_url": "https://www.cenizaro.com/media/press/2019/spiceupyourlifetrz",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.cenizaro.com/theresidence/maldives-dg/destination/itineraries",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.cenizaro.com/theresidence/maldives-dg/destination/itineraries",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "dolphin cruise",
+    "source_url": "https://www.cenizaro.com/theresidence/maldives-dg/destination/itineraries",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.cenizaro.com/theresidence/maldives-dg/destination/itineraries",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.cenizaro.com/media/press/2013/an-african-holiday",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.cenizaro.com/theresidence/zanzibar/about/activities",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "catamaran",
+    "source_url": "https://www.cenizaro.com/theresidence/zanzibar/about/activities",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.cenizaro.com/theresidence/zanzibar/experiences/sandbank-escapes",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "stand-up paddle",
+    "source_url": "https://www.cenizaro.com/theresidence/maldives-dg/offers/dhigurah-early-bird-offer",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.cenizaro.com/theresidence/mauritius/destination/discover",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.cenizaro.com/media/press/2016/the-residence-maldives-launches-new-after-dark-experiences",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.cenizaro.com/media/press/2016/the-residence-maldives-launches-new-after-dark-experiences",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.cenizaro.com/theresidence/maldives-dg/experiences",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.cenizaro.com/theresidence/maldives-dg/experiences",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "dolphin cruise",
+    "source_url": "https://www.cenizaro.com/theresidence/maldives-dg/experiences",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.cenizaro.com/media/press/2017/healthy-hour",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.cenizaro.com/theresidence/maldives-fm/destination/itineraries",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.cenizaro.com/theresidence/maldives-fm/destination/itineraries",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "dolphin cruise",
+    "source_url": "https://www.cenizaro.com/theresidence/maldives-fm/destination/itineraries",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.cenizaro.com/theresidence/maldives-fm/destination/itineraries",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "surfing",
+    "source_url": "https://www.cenizaro.com/theresidence/tunis/destination/discover",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.maldivestourism.net/resorts/the-residence-maldives-falhumaafushi/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "windsurfing",
+    "source_url": "https://www.maldivestourism.net/resorts/the-residence-maldives-falhumaafushi/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "kayaking",
+    "source_url": "https://www.maldivestourism.net/resorts/the-residence-maldives-falhumaafushi/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "stand-up paddle",
+    "source_url": "https://www.maldivestourism.net/resorts/the-residence-maldives-falhumaafushi/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "paddleboard",
+    "source_url": "https://www.maldivestourism.net/resorts/the-residence-maldives-falhumaafushi/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "catamaran",
+    "source_url": "https://www.maldivestourism.net/resorts/the-residence-maldives-falhumaafushi/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "parasailing",
+    "source_url": "https://www.maldivestourism.net/resorts/the-residence-maldives-falhumaafushi/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "water skiing",
+    "source_url": "https://www.maldivestourism.net/resorts/the-residence-maldives-falhumaafushi/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.maldivestourism.net/resorts/the-residence-maldives-falhumaafushi/",
+    "as_of": "2026-10-04"
    }
   ],
   "excursions": [
    {
     "value": "dolphin",
     "source_url": "https://www.cenizaro.com/docs/maldives-fm/TRMaldives-Combined_-Brochure-200512.pdf",
-    "as_of": 2020
+    "as_of": 2019
    },
    {
     "value": "castaway",
     "source_url": "https://www.cenizaro.com/docs/maldives-fm/TRMaldives-Combined_-Brochure-200512.pdf",
-    "as_of": 2020
+    "as_of": 2019
    },
    {
     "value": "local island",
@@ -638,6 +881,11 @@
     "value": "cooking class",
     "source_url": "https://www.cenizaro.com//docs/maldives-fm/2024_TR_MALDIVES_MICE_FACTSHEET_FA_v3_PAGEBYPAGE.pdf",
     "as_of": 2024
+   },
+   {
+    "value": "cooking class",
+    "source_url": "https://www.cenizaro.com/docs/bintan/TRB_Earth_Basket_Cooking_Class_Menu.pdf",
+    "as_of": 2026
    },
    {
     "value": "castaway",
@@ -753,28 +1001,193 @@
     "value": "castaway",
     "source_url": "https://www.cenizaro.com/theresidence/maldives-fm/dining/private-dining",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.cenizaro.com/media/press/2019/spiceupyourlifetrz",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.cenizaro.com/media/press/2019/spiceupyourlifetrz",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.cenizaro.com/theresidence/maldives-dg/destination/itineraries",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.cenizaro.com/theresidence/maldives-dg/destination/itineraries",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.cenizaro.com/theresidence/maldives-dg/destination/itineraries",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "castaway",
+    "source_url": "https://www.cenizaro.com/theresidence/maldives-fm/dining/private-dining",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.cenizaro.com/theresidence/zanzibar/about/activities",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "cooking class",
+    "source_url": "https://www.cenizaro.com/media/press/2021/riad-elegancia",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "cooking class",
+    "source_url": "https://www.cenizaro.com/theresidence/bintan/experiences/cooking",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.cenizaro.com/theresidence/zanzibar/experiences/sandbank-escapes",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "castaway",
+    "source_url": "https://www.cenizaro.com/theresidence/zanzibar/experiences/sandbank-escapes",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "picnic",
+    "source_url": "https://www.cenizaro.com/theresidence/tunis-dz/experiences/the-sands-of-time-tembaine",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "cooking class",
+    "source_url": "https://www.cenizaro.com/lamaisonarabe/marrakech/offers/argan-oil-discovery-package",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "cooking class",
+    "source_url": "https://www.cenizaro.com/lamaisonarabe/marrakech/events-meetings/meetings-incentives",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "cooking class",
+    "source_url": "https://www.cenizaro.com/theresidence/tunis/from-the-sea-to-the-sand",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.cenizaro.com/theresidence/zanzibar/destination/travel-tips",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "cooking class",
+    "source_url": "https://www.cenizaro.com/theresidence/zanzibar/events-meetings/meetings-incentives",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "castaway",
+    "source_url": "https://www.cenizaro.com/media/press/2017/food-and-beverages-experience",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "cinema",
+    "source_url": "https://www.cenizaro.com/media/press/2017/food-and-beverages-experience",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "cooking class",
+    "source_url": "https://www.cenizaro.com/media/press/2017/food-and-beverages-experience",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.cenizaro.com/theresidence/tunis/about/facilities",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.cenizaro.com/theresidence/maldives-dg/experiences",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.cenizaro.com/theresidence/maldives-fm/destination/itineraries",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.cenizaro.com/theresidence/maldives-fm/destination/itineraries",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.cenizaro.com/theresidence/maldives-fm/destination/itineraries",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.maldivestourism.net/resorts/the-residence-maldives-falhumaafushi/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "picnic",
+    "source_url": "https://www.maldivestourism.net/resorts/the-residence-maldives-falhumaafushi/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "castaway",
+    "source_url": "https://www.maldivestourism.net/resorts/the-residence-maldives-falhumaafushi/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "cooking class",
+    "source_url": "https://www.maldivestourism.net/resorts/the-residence-maldives-falhumaafushi/",
+    "as_of": "2026-10-04"
    }
   ],
   "wellness_fitness": [
    {
     "value": "yoga",
     "source_url": "https://www.cenizaro.com/docs/maldives-fm/TRMaldives-Combined_-Brochure-200512.pdf",
-    "as_of": 2020
+    "as_of": 2019
    },
    {
     "value": "meditation",
     "source_url": "https://www.cenizaro.com/docs/maldives-fm/TRMaldives-Combined_-Brochure-200512.pdf",
-    "as_of": 2020
+    "as_of": 2019
    },
    {
     "value": "ayurveda",
     "source_url": "https://www.cenizaro.com/docs/maldives-fm/TRMaldives-Combined_-Brochure-200512.pdf",
-    "as_of": 2020
+    "as_of": 2019
    },
    {
     "value": "yoga",
     "source_url": "https://www.cenizaro.com//docs/maldives-fm/2024_TR_MALDIVES_MICE_FACTSHEET_FA_v3_PAGEBYPAGE.pdf",
     "as_of": 2024
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.cenizaro.com/docs/bintan/TRB_SPA_Menu_-_September_2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "gym",
+    "source_url": "https://www.cenizaro.com/docs/bintan/TRB_SPA_Menu_-_September_2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "steam",
+    "source_url": "https://www.cenizaro.com/docs/bintan/TRB_SPA_Menu_-_September_2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "steam",
+    "source_url": "https://www.cenizaro.com/docs/bintan/TRB_Earth_Basket_Cooking_Class_Menu.pdf",
+    "as_of": 2026
    },
    {
     "value": "yoga",
@@ -850,20 +1263,245 @@
     "value": "steam",
     "source_url": "https://www.cenizaro.com/theresidence/maldives-fm/about/facilities",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "meditation",
+    "source_url": "https://www.cenizaro.com/offers/solo-soulcations",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.cenizaro.com/media/press/2013/an-african-holiday",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "fitness centre",
+    "source_url": "https://www.cenizaro.com/media/press/2013/an-african-holiday",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://www.cenizaro.com/media/press/2013/an-african-holiday",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "hammam",
+    "source_url": "https://www.cenizaro.com/media/press/2013/an-african-holiday",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sauna",
+    "source_url": "https://www.cenizaro.com/media/press/2013/an-african-holiday",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.cenizaro.com/theresidence/tunis-dz/about/guest-services",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://www.cenizaro.com/theresidence/zanzibar/about/activities",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.cenizaro.com/media/press/2021/riad-elegancia",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "hammam",
+    "source_url": "https://www.cenizaro.com/media/press/2021/riad-elegancia",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "wellness programme",
+    "source_url": "https://www.cenizaro.com/media/press/2016/the-residence-bintan-opening-autumn-2016",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.cenizaro.com/media/press/2019/wellnesswayforward",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.cenizaro.com/theresidence/maldives-dg/offers/dhigurah-early-bird-offer",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.cenizaro.com/theresidence/bintan/offers",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.cenizaro.com/theresidence/bintan/spa-wellness",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.cenizaro.com/media/press/2017/daley-thompson-wellness-week",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://www.cenizaro.com/media/press/2017/daley-thompson-wellness-week",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "pilates",
+    "source_url": "https://www.cenizaro.com/media/press/2017/daley-thompson-wellness-week",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.cenizaro.com/media/press/2017",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://www.cenizaro.com/media/press/2017",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "pilates",
+    "source_url": "https://www.cenizaro.com/media/press/2017",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.cenizaro.com/media/press/2016/the-residence-maldives-launches-new-after-dark-experiences",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "wellness programme",
+    "source_url": "https://www.cenizaro.com/offers/renewal-retreats",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.cenizaro.com/theresidence/bintan/accommodation/sanctuary-villa",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.cenizaro.com/media/press/2022/trh-defining-wellness",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "meditation",
+    "source_url": "https://www.cenizaro.com/media/press/2022/trh-defining-wellness",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "hammam",
+    "source_url": "https://www.cenizaro.com/media/press/2022/trh-defining-wellness",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "fitness centre",
+    "source_url": "https://www.cenizaro.com/theresidence/tunis/about/facilities",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://www.cenizaro.com/theresidence/tunis/about/facilities",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "hammam",
+    "source_url": "https://www.cenizaro.com/theresidence/tunis/about/facilities",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sauna",
+    "source_url": "https://www.cenizaro.com/theresidence/tunis/about/facilities",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.cenizaro.com/media/press/2014",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.cenizaro.com/media/press/2017/healthy-hour",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "meditation",
+    "source_url": "https://www.cenizaro.com/media/press/2017/healthy-hour",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "pilates",
+    "source_url": "https://www.cenizaro.com/media/press/2017/healthy-hour",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.cenizaro.com/media/press/2018/familyfirstatmauritius",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "hammam",
+    "source_url": "https://www.cenizaro.com/theresidence/tunis/destination/location",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "beach volleyball",
+    "source_url": "https://www.cenizaro.com/theresidence/tunis/events-meetings/meetings-incentives",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "hammam",
+    "source_url": "https://www.cenizaro.com/about/la-maison-arabe",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.maldivestourism.net/resorts/the-residence-maldives-falhumaafushi/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fitness centre",
+    "source_url": "https://www.maldivestourism.net/resorts/the-residence-maldives-falhumaafushi/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fitness center",
+    "source_url": "https://www.maldivestourism.net/resorts/the-residence-maldives-falhumaafushi/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "beach volleyball",
+    "source_url": "https://www.maldivestourism.net/resorts/the-residence-maldives-falhumaafushi/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sauna",
+    "source_url": "https://www.maldivestourism.net/resorts/the-residence-maldives-falhumaafushi/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "steam",
+    "source_url": "https://www.maldivestourism.net/resorts/the-residence-maldives-falhumaafushi/",
+    "as_of": "2026-10-04"
    }
   ],
   "weddings.vow_renewal": [
    {
     "value": true,
     "source_url": "https://www.cenizaro.com/docs/maldives-fm/TRMaldives-Combined_-Brochure-200512.pdf",
-    "as_of": 2020
+    "as_of": 2019
    }
   ],
   "contacts_public.phone": [
    {
     "value": "+960 682 0089",
     "source_url": "https://www.cenizaro.com/docs/maldives-fm/TRMaldives-Combined_-Brochure-200512.pdf",
-    "as_of": 2020
+    "as_of": 2019
    },
    {
     "value": "+960 682 0088",
@@ -904,6 +1542,11 @@
     "value": "+960 682 0088",
     "source_url": "https://www.cenizaro.com/theresidence/maldives-fm/offers/renewal-retreats",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 682 0089",
+    "source_url": "https://www.cenizaro.com/theresidence/maldives-dg/offers/dhigurah-early-bird-offer",
+    "as_of": "2026-10-05"
    }
   ],
   "weddings.offered": [
@@ -946,6 +1589,81 @@
     "value": true,
     "source_url": "https://www.cenizaro.com/theresidence/maldives-fm/events-meetings/weddings-events",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.cenizaro.com/theresidence/tunis-dz/events/catering",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.cenizaro.com/theresidence/zanzibar/offers/romance-package",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.cenizaro.com/theresidence/bintan/offers",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.cenizaro.com/theresidence/mauritius/events-meetings/event-venues",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.cenizaro.com/lamaisonarabe/marrakech/offers/romance-in-marrakech",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.cenizaro.com/theresidence/maldives-dg/events-meetings",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.cenizaro.com/theresidence/tunis/events-meetings/event-venues",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.cenizaro.com/theresidence/tunis-dz/events/weddings-events",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.cenizaro.com/theresidence/tunis-dz/events/weddings-events",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.cenizaro.com/lamaisonarabe/marrakech/events-meetings/meetings-incentives",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.cenizaro.com/theresidence/zanzibar",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.cenizaro.com/offers/renewal-retreats",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.cenizaro.com/theresidence/zanzibar/events-meetings/meetings-incentives",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.cenizaro.com/media/press/2014/rediscover-the-residence-by-cenizaro-with-its-renewed-refreshed-website",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.cenizaro.com/theresidence/tunis/events-meetings/meetings-incentives",
+    "as_of": "2026-10-05"
    }
   ],
   "weddings.packages": [
@@ -998,6 +1716,66 @@
     },
     "source_url": "https://www.cenizaro.com/docs/maldives-fm/Maldives_Wedding_Ceremony_Packages-2026.pdf",
     "as_of": 2026
+   },
+   {
+    "value": {
+     "name": "Single Package",
+     "price": "1770",
+     "currency": "EUR",
+     "as_of": "2026-10-05"
+    },
+    "source_url": "https://www.cenizaro.com/theresidence/tunis/from-the-sea-to-the-sand",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": {
+     "name": "Double Package",
+     "price": "2095",
+     "currency": "EUR",
+     "as_of": "2026-10-05"
+    },
+    "source_url": "https://www.cenizaro.com/theresidence/tunis/from-the-sea-to-the-sand",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": {
+     "name": "VIBES Destination Dining Experience",
+     "price": "500",
+     "currency": "USD",
+     "as_of": "2026-10-05"
+    },
+    "source_url": "https://www.cenizaro.com/media/press/2017/food-and-beverages-experience",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": {
+     "name": "Island Summer Savings Package",
+     "price": "450",
+     "currency": "USD",
+     "as_of": "2026-10-05"
+    },
+    "source_url": "https://www.cenizaro.com/media/press/2017/food-and-beverages-experience",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": {
+     "name": "Single Package",
+     "price": "965",
+     "currency": "EUR",
+     "as_of": "2026-10-05"
+    },
+    "source_url": "https://www.cenizaro.com/theresidence/tunis/offers/your-golfing-paradise-awaits",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": {
+     "name": "Double Package",
+     "price": "1249",
+     "currency": "EUR",
+     "as_of": "2026-10-05"
+    },
+    "source_url": "https://www.cenizaro.com/theresidence/tunis/offers/your-golfing-paradise-awaits",
+    "as_of": "2026-10-05"
    }
   ],
   "contacts_public.reservations_email": [
@@ -1010,6 +1788,11 @@
     "value": "info-maldives@theresidence.com",
     "source_url": "https://www.cenizaro.com//docs/maldives-fm/2024_TR_MALDIVES_MICE_FACTSHEET_FA_v3_PAGEBYPAGE.pdf",
     "as_of": 2024
+   },
+   {
+    "value": "reservation-bintan@theresidence.com",
+    "source_url": "https://www.cenizaro.com/docs/bintan/TRB_SPA_Menu_-_September_2026.pdf",
+    "as_of": 2026
    },
    {
     "value": "info-maldives@theresidence.com",
@@ -1060,6 +1843,66 @@
     "value": "sales-maldives@theresidence.com",
     "source_url": "https://www.cenizaro.com/theresidence/maldives-fm/contact",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "reservation-zanzibar@theresidence.com",
+    "source_url": "https://www.cenizaro.com/theresidence/zanzibar/offers/romance-package",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "info@riadelegancia.com",
+    "source_url": "https://www.cenizaro.com/media/press/2021/riad-elegancia",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "reservation-dhigurah@theresidence.com",
+    "source_url": "https://www.cenizaro.com/theresidence/maldives-dg/offers/dhigurah-early-bird-offer",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "reservation@lamaisonarabe.com",
+    "source_url": "https://www.cenizaro.com/lamaisonarabe/marrakech/offers/argan-oil-discovery-package",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "reservation-mauritius@theresidence.com",
+    "source_url": "https://www.cenizaro.com/theresidence/mauritius/events-meetings/event-venues",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "reservation@lamaisonarabe.com",
+    "source_url": "https://www.cenizaro.com/lamaisonarabe/marrakech/offers/romance-in-marrakech",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "reservation-bintan@theresidence.com",
+    "source_url": "https://www.cenizaro.com/theresidence/bintan/spa-wellness",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "reservation-tunis@theresidence.com",
+    "source_url": "https://www.cenizaro.com/theresidence/tunis/events-meetings/event-venues",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "info-zanzibar@theresidence.com",
+    "source_url": "https://www.cenizaro.com/theresidence/zanzibar",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "reservation-tunis@theresidence.com",
+    "source_url": "https://www.cenizaro.com/theresidence/tunis/offers/your-golfing-paradise-awaits",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "reservation@lamaisonarabe.com",
+    "source_url": "https://www.cenizaro.com/lamaisonarabe/marrakech/dining/the-rooftop",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "reservation-tunis@theresidence.com",
+    "source_url": "https://www.cenizaro.com/theresidence/tunis/events-meetings/meetings-incentives",
+    "as_of": "2026-10-05"
    }
   ],
   "island": [
@@ -1067,6 +1910,31 @@
     "value": "Falhumaafushi",
     "source_url": "https://www.cenizaro.com//docs/maldives-fm/2024_TR_MALDIVES_MICE_FACTSHEET_FA_v3_PAGEBYPAGE.pdf",
     "as_of": 2024
+   },
+   {
+    "value": "Unguja",
+    "source_url": "https://www.cenizaro.com/media/press/2019/spiceupyourlifetrz",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Ile",
+    "source_url": "https://www.cenizaro.com/theresidence/mauritius/destination/discover",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Falhumaafushi",
+    "source_url": "https://www.cenizaro.com/media/press/2016/the-residence-maldives-launches-new-after-dark-experiences",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Falhumaafushi",
+    "source_url": "https://www.cenizaro.com/media/press/2017/food-and-beverages-experience",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Falhumaafushi",
+    "source_url": "https://www.maldivestourism.net/resorts/the-residence-maldives-falhumaafushi/",
+    "as_of": "2026-10-04"
    }
   ],
   "events_mice.capacity_max": [
@@ -1079,6 +1947,11 @@
     "value": 50,
     "source_url": "https://www.cenizaro.com/theresidence/maldives-fm/events-meetings/event-venues",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": 240,
+    "source_url": "https://www.cenizaro.com/theresidence/mauritius/events-meetings/event-venues",
+    "as_of": "2026-10-05"
    }
   ],
   "events_mice.venues": [
@@ -1088,19 +1961,185 @@
     "as_of": 2024
    }
   ],
-  "kids_family.age_range": [
+  "dining": [
    {
-    "value": "8-9 years",
-    "source_url": "https://www.cenizaro.com/docs/maldives-dg/Dive_Centre_Price_List-March_2026.pdf",
+    "value": {
+     "name": "Welcome Lounge featuring relaxation area",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.cenizaro.com/docs/bintan/TRB_SPA_Menu_-_September_2026.pdf",
     "as_of": 2026
    },
    {
-    "value": "3-12 years",
-    "source_url": "https://www.cenizaro.com/theresidence/maldives-fm/about/facilities",
+    "value": {
+     "name": "Beach Bar)",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://cenizaro.com/docs/maldives-fm/The_Residence_Maldives_-_Teens_Program.pdf",
+    "as_of": 2021
+   },
+   {
+    "value": {
+     "name": "The Beach Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.cenizaro.com/theresidence/maldives-fm/dining/the-beach-bar",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "The Beach Bar Menu",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.cenizaro.com/theresidence/maldives-fm/dining/the-beach-bar",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "The Beach Bar Tapas Menu",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.cenizaro.com/theresidence/maldives-fm/dining/the-beach-bar",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "The Beach Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.cenizaro.com/theresidence/maldives-fm/dining/private-dining",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "The Beach Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.cenizaro.com/theresidence/maldives-fm/dining/the-falhumaa",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "The Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.cenizaro.com/theresidence/mauritius/dining/the-bar",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": {
+     "name": "The Beach Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.cenizaro.com/theresidence/maldives-fm/dining/private-dining",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": {
+     "name": "The Dining Room Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.cenizaro.com/theresidence/zanzibar/dining/the-dining-room",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": {
+     "name": "The Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.cenizaro.com/theresidence/mauritius/dining/the-plantation",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": {
+     "name": "Piano Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.cenizaro.com/lamaisonarabe/marrakech/dining/le-figuier",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": {
+     "name": "Le Restaurant",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.cenizaro.com/lamaisonarabe/marrakech/dining/le-figuier",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": {
+     "name": "Poolside Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.cenizaro.com/lamaisonarabe/marrakech/dining/le-figuier",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": {
+     "name": "Piano Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.cenizaro.com/lamaisonarabe/marrakech/dining",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": {
+     "name": "Poolside Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.cenizaro.com/lamaisonarabe/marrakech/dining",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": {
+     "name": "Le Restaurant",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.cenizaro.com/lamaisonarabe/marrakech/dining",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": {
+     "name": "The Beach Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.maldivestourism.net/resorts/the-residence-maldives-falhumaafushi/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "The Sunset Grill",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.maldivestourism.net/resorts/the-residence-maldives-falhumaafushi/",
     "as_of": "2026-10-04"
    }
   ],
   "spa.name": [
+   {
+    "value": "The Residence Bintan Spa",
+    "source_url": "https://www.cenizaro.com/docs/bintan/TRB_SPA_Menu_-_September_2026.pdf",
+    "as_of": 2026
+   },
    {
     "value": "Dhigurah Spa",
     "source_url": "https://www.cenizaro.com/docs/maldives-dg/Maldives_Schedule_of_Daily_Activities.pdf",
@@ -1140,170 +2179,100 @@
     "value": "Spa",
     "source_url": "https://www.cenizaro.com/theresidence/maldives-fm/about/facilities",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "The Ila Spa",
+    "source_url": "https://www.cenizaro.com/media/press/2019/spiceupyourlifetrz",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.cenizaro.com/media/press/2017/bruce-bowan-general-manager-zanzibar",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.cenizaro.com/media/press/2021/riad-elegancia",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.cenizaro.com/media/press/2019/wellnesswayforward",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.cenizaro.com/theresidence/maldives-dg/offers/dhigurah-early-bird-offer",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.cenizaro.com/media/press/2017",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.cenizaro.com/theresidence/tunis/spa-wellness/signature-treatments",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.cenizaro.com/media/press/2022/trh-defining-wellness",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.cenizaro.com/media/press/2014",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.cenizaro.com/media/press/2017/healthy-hour",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.maldivestourism.net/resorts/the-residence-maldives-falhumaafushi/",
+    "as_of": "2026-10-04"
    }
   ],
-  "dining": [
+  "kids_family.teens": [
    {
-    "value": {
-     "name": "Beach Bar)",
-     "cuisine": null,
-     "type": "bar"
-    },
+    "value": "teens programme mentioned",
+    "source_url": "https://www.cenizaro.com/docs/bintan/TRB_SPA_Menu_-_September_2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "teens programme mentioned",
     "source_url": "https://cenizaro.com/docs/maldives-fm/The_Residence_Maldives_-_Teens_Program.pdf",
     "as_of": 2021
    },
    {
-    "value": {
-     "name": "Northern End) (Dhigurah Lounge) Library Bar) (Meeting point",
-     "cuisine": null,
-     "type": "bar"
-    },
-    "source_url": "https://cenizaro.com/docs/maldives-fm/The_Residence_Maldives_-_Teens_Program.pdf",
-    "as_of": 2021
-   },
-   {
-    "value": {
-     "name": "Private Dining Extension: 527",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.cenizaro.com/docs/maldives-fm/Vibes-by-The-Residence-Maldives-2025-July.pdf",
-    "as_of": 2025
-   },
-   {
-    "value": {
-     "name": "Private Dining",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.cenizaro.com/theresidence/maldives-fm/dining/the-beach-bar",
+    "value": "teens programme mentioned",
+    "source_url": "https://www.cenizaro.com/theresidence/maldives-fm/about/facilities",
     "as_of": "2026-10-04"
    },
    {
-    "value": {
-     "name": "The Beach Bar",
-     "cuisine": null,
-     "type": "bar"
-    },
-    "source_url": "https://www.cenizaro.com/theresidence/maldives-fm/dining/the-beach-bar",
+    "value": "teens programme mentioned",
+    "source_url": "https://www.cenizaro.com/media/press/2018/familyfirstatmauritius",
+    "as_of": "2026-10-05"
+   }
+  ],
+  "kids_family.age_range": [
+   {
+    "value": "8-9 years",
+    "source_url": "https://www.cenizaro.com/docs/maldives-dg/Dive_Centre_Price_List-March_2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "3-12 years",
+    "source_url": "https://www.cenizaro.com/theresidence/maldives-fm/about/facilities",
     "as_of": "2026-10-04"
    },
    {
-    "value": {
-     "name": "Bar & Adjacent Beach Area: 10.00 am till late",
-     "cuisine": null,
-     "type": "bar"
-    },
-    "source_url": "https://www.cenizaro.com/theresidence/maldives-fm/dining/the-beach-bar",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "The Beach Bar Menu",
-     "cuisine": null,
-     "type": "bar"
-    },
-    "source_url": "https://www.cenizaro.com/theresidence/maldives-fm/dining/the-beach-bar",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "The Beach Bar Tapas Menu",
-     "cuisine": null,
-     "type": "bar"
-    },
-    "source_url": "https://www.cenizaro.com/theresidence/maldives-fm/dining/the-beach-bar",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Private Dining",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.cenizaro.com/theresidence/maldives-fm/dining/the-dining-room",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "The Dining Room",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.cenizaro.com/theresidence/maldives-fm/dining/the-dining-room",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Memorable Dining Experiences",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.cenizaro.com/theresidence/maldives-fm/events-meetings",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Memorable Dining Experiences",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.cenizaro.com/theresidence/maldives-fm/events-meetings/catering",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "The Beach Bar",
-     "cuisine": null,
-     "type": "bar"
-    },
-    "source_url": "https://www.cenizaro.com/theresidence/maldives-fm/dining/private-dining",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "The Dining Room",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.cenizaro.com/theresidence/maldives-fm/dining/private-dining",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Private Dining",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.cenizaro.com/theresidence/maldives-fm/dining/private-dining",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "Private Dining All Day Menu",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.cenizaro.com/theresidence/maldives-fm/dining/private-dining",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "The Dining Room",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.cenizaro.com/theresidence/maldives-fm/dining/the-falhumaa",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": {
-     "name": "The Beach Bar",
-     "cuisine": null,
-     "type": "bar"
-    },
-    "source_url": "https://www.cenizaro.com/theresidence/maldives-fm/dining/the-falhumaa",
-    "as_of": "2026-10-04"
+    "value": "3-12 years",
+    "source_url": "https://www.cenizaro.com/theresidence/tunis/about/facilities",
+    "as_of": "2026-10-05"
    }
   ],
   "kids_family.kids_club": [
@@ -1314,18 +2283,6 @@
    },
    {
     "value": "Kids Club",
-    "source_url": "https://www.cenizaro.com/theresidence/maldives-fm/about/facilities",
-    "as_of": "2026-10-04"
-   }
-  ],
-  "kids_family.teens": [
-   {
-    "value": "teens programme mentioned",
-    "source_url": "https://cenizaro.com/docs/maldives-fm/The_Residence_Maldives_-_Teens_Program.pdf",
-    "as_of": 2021
-   },
-   {
-    "value": "teens programme mentioned",
     "source_url": "https://www.cenizaro.com/theresidence/maldives-fm/about/facilities",
     "as_of": "2026-10-04"
    }
@@ -1345,6 +2302,16 @@
     "value": "5-star",
     "source_url": "https://www.cenizaro.com/theresidence/maldives-fm/about/facilities",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "5-star",
+    "source_url": "https://www.cenizaro.com/theresidence/maldives-dg/destination/itineraries",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "5-star",
+    "source_url": "https://www.cenizaro.com/theresidence/maldives-fm/destination/itineraries",
+    "as_of": "2026-10-05"
    }
   ],
   "diving_watersports.operator": [
@@ -1372,6 +2339,16 @@
     "value": "Dive Centre",
     "source_url": "https://www.cenizaro.com/theresidence/maldives-fm/about/facilities",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "Dive Centre",
+    "source_url": "https://www.cenizaro.com/theresidence/maldives-dg/destination/itineraries",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Dive Centre",
+    "source_url": "https://www.cenizaro.com/theresidence/maldives-fm/destination/itineraries",
+    "as_of": "2026-10-05"
    }
   ],
   "diving_watersports.house_reef": [
@@ -1393,6 +2370,21 @@
    {
     "value": "house reef snorkelling (available three times a week, reservations required)",
     "source_url": "https://www.cenizaro.com/theresidence/maldives-fm/offers/best-of-the-best",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef, or journey by dhoni, a traditional Maldivian boat, to several amazing dive sites within a one-hour radius, including Vilingili Kandu, Ekkala Thila and Nilandu",
+    "source_url": "https://www.cenizaro.com/theresidence/maldives-dg/destination/itineraries",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "house reef, The Falhumaa Reef, starts at around one metre and descends to around 28 metres",
+    "source_url": "https://www.cenizaro.com/theresidence/maldives-fm/destination/itineraries",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "house reef is home to a variety of marine life, including sharks and turtles",
+    "source_url": "https://www.maldivestourism.net/resorts/the-residence-maldives-falhumaafushi/",
     "as_of": "2026-10-04"
    }
   ],
@@ -1480,6 +2472,90 @@
     },
     "source_url": "https://www.cenizaro.com/theresidence/maldives-fm/accommodation/water-water-pool-villas",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "No. of suites",
+     "count": 3,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://www.cenizaro.com/theresidence/tunis/accommodation/sea-view-suite",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": {
+     "name": "No. of villas",
+     "count": 34,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://www.cenizaro.com/theresidence/zanzibar/accommodation/luxury-garden-pool-villas",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": {
+     "name": "No. of villas",
+     "count": 1,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://www.cenizaro.com/theresidence/bintan/accommodation/sanctuary-villa",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": {
+     "name": "No. of villas",
+     "count": 4,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://www.cenizaro.com/theresidence/maldives-fm/accommodation/deluxe-water-pool-villas",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": {
+     "name": "No. of villas",
+     "count": 39,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://www.cenizaro.com/theresidence/maldives-fm/accommodation/water-water-pool-villas",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": {
+     "name": "No. of villas",
+     "count": 28,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://www.cenizaro.com/theresidence/maldives-fm/accommodation/water-water-pool-villas",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": {
+     "name": "No. of villas",
+     "count": 2,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://www.cenizaro.com/theresidence/maldives-fm/accommodation/beach-pool-villas",
+    "as_of": "2026-10-05"
    }
   ],
   "all_inclusive_details": [
@@ -1487,12 +2563,32 @@
     "value": "All-Inclusive meal plan.",
     "source_url": "https://www.cenizaro.com/theresidence/maldives-fm/offers/summerbreak-offers",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "all inclusive and gourmet getaways to cultural destination from literacy buffs.",
+    "source_url": "https://www.cenizaro.com/media/press-clippings",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "all-inclusive package for 2013.",
+    "source_url": "https://www.cenizaro.com/media/press/2013/an-african-holiday",
+    "as_of": "2026-10-05"
    }
   ],
   "sustainability": [
    {
     "value": "Blue Marine Foundation",
     "source_url": "https://www.cenizaro.com/theresidence/maldives-fm/destination",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "solar",
+    "source_url": "https://www.maldivestourism.net/resorts/the-residence-maldives-falhumaafushi/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "composting",
+    "source_url": "https://www.maldivestourism.net/resorts/the-residence-maldives-falhumaafushi/",
     "as_of": "2026-10-04"
    }
   ],
@@ -1501,6 +2597,26 @@
     "value": "BB",
     "source_url": "https://www.cenizaro.com/theresidence/maldives-fm/offers/best-of-the-best",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://www.cenizaro.com/media/press-clippings",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://www.cenizaro.com/media/press/2013/an-african-holiday",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "FB",
+    "source_url": "https://www.cenizaro.com/media/press/2014/rediscover-the-residence-by-cenizaro-with-its-renewed-refreshed-website",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "HB",
+    "source_url": "https://www.cenizaro.com/media/press/2017/healthy-hour",
+    "as_of": "2026-10-05"
    }
   ],
   "transfer.minutes.seaplane": [
@@ -1523,7 +2639,41 @@
     "source_url": "https://www.cenizaro.com/theresidence/maldives-fm/destination/location",
     "as_of": "2026-10-04"
    }
+  ],
+  "island_size": [
+   {
+    "value": "2 ha",
+    "source_url": "https://www.cenizaro.com/media/press/2019/spiceupyourlifetrz",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "50 ha",
+    "source_url": "https://www.cenizaro.com/theresidence/tunis/experiences/ode-to-the-olive",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "10 ha",
+    "source_url": "https://www.cenizaro.com/media/press/2014/tripadvisor-awards-2014",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "32 ha",
+    "source_url": "https://www.cenizaro.com/theresidence/zanzibar",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "32 ha",
+    "source_url": "https://www.cenizaro.com/media/press/2017/healthy-hour",
+    "as_of": "2026-10-05"
+   }
+  ],
+  "weddings.venues": [
+   {
+    "value": "SUNSET BEACH WEDDING",
+    "source_url": "https://www.cenizaro.com/theresidence/bintan/offers",
+    "as_of": "2026-10-05"
+   }
   ]
  },
- "last_updated": "2026-10-04"
+ "last_updated": "2026-10-05"
 }

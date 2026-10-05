@@ -12,7 +12,7 @@
  "atoll": "Raa Atoll",
  "island": "Dhigali",
  "opened_or_renovated": null,
- "star_rating": null,
+ "star_rating": "5-star",
  "transfer": {
   "modes": [
    "seaplane",
@@ -28,10 +28,10 @@
  },
  "island_size": null,
  "villas": {
-  "total": null,
+  "total": 180,
   "categories": [
    {
-    "name": "Beach Bungalows",
+    "name": "Beach Bungalows - Highlights",
     "count": 20,
     "size_sqm": 70,
     "max_occupancy": null,
@@ -39,15 +39,23 @@
     "overwater": null
    },
    {
-    "name": "Delu e Beach Bungalows",
-    "count": 33,
+    "name": "Delu e Beach Bungalows - Highlights",
+    "count": 27,
     "size_sqm": 85,
     "max_occupancy": null,
     "pool": null,
     "overwater": null
    },
    {
-    "name": "Water Villas",
+    "name": "Beach Villas - Highlights",
+    "count": 52,
+    "size_sqm": 115,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "Water Villas - Highlights",
     "count": 24,
     "size_sqm": 85,
     "max_occupancy": null,
@@ -55,23 +63,23 @@
     "overwater": null
    },
    {
-    "name": "Beach Villas",
-    "count": 62,
-    "size_sqm": 115,
-    "max_occupancy": null,
-    "pool": null,
-    "overwater": null
-   },
-   {
-    "name": "Beach Villas with Pool",
-    "count": 21,
+    "name": "Beach Villas with Pool - Highlights",
+    "count": 19,
     "size_sqm": 121,
     "max_occupancy": null,
     "pool": true,
     "overwater": null
    },
    {
-    "name": "Lagoon Villas with Pool",
+    "name": "Beach Villas with Garden Pool - ՞ King bed",
+    "count": 2,
+    "size_sqm": 121,
+    "max_occupancy": null,
+    "pool": true,
+    "overwater": null
+   },
+   {
+    "name": "Lagoon Villas with Pool - Highlights",
     "count": 16,
     "size_sqm": 117,
     "max_occupancy": null,
@@ -79,49 +87,41 @@
     "overwater": true
    },
    {
-    "name": "Beach Suites with Pool",
-    "count": 3,
+    "name": "Beach Suites with Pool - Highlights",
+    "count": 2,
     "size_sqm": 170,
     "max_occupancy": null,
     "pool": true,
     "overwater": null
    },
    {
-    "name": "Dhigali Suite",
+    "name": "Beach Suite with Garden Pool - ՞ King bed",
+    "count": 1,
+    "size_sqm": 170,
+    "max_occupancy": null,
+    "pool": true,
+    "overwater": null
+   },
+   {
+    "name": "Two-Bedroom Delu e Beach Bungalow - Highlights",
+    "count": 3,
+    "size_sqm": 184,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "Two-Bedroom Beach Villa - Highlights",
+    "count": 5,
+    "size_sqm": 262,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
+    "name": "Two-Bedroom Dhigali Suite - Highlights",
     "count": 1,
     "size_sqm": 400,
-    "max_occupancy": null,
-    "pool": null,
-    "overwater": null
-   },
-   {
-    "name": "Arrival Pavilion Beach Bungalow",
-    "count": 1,
-    "size_sqm": null,
-    "max_occupancy": null,
-    "pool": null,
-    "overwater": null
-   },
-   {
-    "name": "Delu e Beach Bungalow N",
-    "count": 13,
-    "size_sqm": null,
-    "max_occupancy": null,
-    "pool": null,
-    "overwater": null
-   },
-   {
-    "name": "Beach Villa",
-    "count": 4,
-    "size_sqm": null,
-    "max_occupancy": null,
-    "pool": null,
-    "overwater": null
-   },
-   {
-    "name": "Number of Villas",
-    "count": 180,
-    "size_sqm": null,
     "max_occupancy": null,
     "pool": null,
     "overwater": null
@@ -146,69 +146,59 @@
  },
  "dining": [
   {
-   "name": "Arrival/Departure Lounge",
+   "name": "Arrival/Departure Lounge - Fitness Centre",
    "cuisine": null,
    "type": "bar"
   },
   {
-   "name": "Café",
+   "name": "Capers Cafe",
    "cuisine": null,
    "type": "restaurant"
   },
   {
-   "name": "Pizzeria",
+   "name": "backdrop of the Indian Ocean. Pizzeria",
    "cuisine": null,
    "type": "restaurant"
   },
   {
-   "name": "Relaxation Lounge",
+   "name": "Café Garden",
+   "cuisine": null,
+   "type": "restaurant"
+  },
+  {
+   "name": "From the Sushi Bar",
    "cuisine": null,
    "type": "bar"
   },
   {
-   "name": "3 Capers (Main Restaurant) 3",
-   "cuisine": null,
-   "type": "restaurant"
-  },
-  {
-   "name": "4 Jade (All Day Dining) Beach Villa with Pool 11",
-   "cuisine": null,
-   "type": "restaurant"
-  },
-  {
-   "name": "5 Faru (Grill Restaurant) Lagoon Villa with Pool 14",
-   "cuisine": null,
-   "type": "restaurant"
-  },
-  {
-   "name": "6 Battuta (Signature Restaurant) Beach Suite",
-   "cuisine": null,
-   "type": "restaurant"
-  },
-  {
-   "name": "7 Café",
-   "cuisine": null,
-   "type": "restaurant"
-  },
-  {
-   "name": "Haali (Sunset Bar) S PO",
+   "name": "Haali Bar",
    "cuisine": null,
    "type": "bar"
   },
   {
-   "name": "9 East (Main Bar) Not suitable for Snorkeling",
+   "name": "Lo Brizan Bar",
    "cuisine": null,
    "type": "bar"
   },
   {
-   "name": "16 Day Lounge",
+   "name": "Chill Bar",
    "cuisine": null,
    "type": "bar"
   },
   {
-   "name": "Dining",
+   "name": "Laguna Bar",
+   "cuisine": null,
+   "type": "bar"
+  },
+  {
+   "name": "Brasserie Dauban",
    "cuisine": null,
    "type": "restaurant"
+  },
+  {
+   "name": "Fen Bar",
+   "cuisine": null,
+   "type": "bar"
   },
   {
    "name": "Capers - Buffet Restaurant",
@@ -226,72 +216,92 @@
    "type": "restaurant"
   },
   {
+   "name": "Café",
+   "cuisine": null,
+   "type": "restaurant"
+  },
+  {
    "name": "East Bar",
    "cuisine": null,
    "type": "bar"
   },
   {
-   "name": "Haali Bar",
+   "name": "Pizzeria",
    "cuisine": null,
-   "type": "bar"
+   "type": "restaurant"
   }
  ],
  "meal_plans": [
   "AI",
   "Premium AI"
  ],
- "all_inclusive_details": "all-inclusive offering.",
+ "all_inclusive_details": "all-inclusive escape.",
  "spa": {
-  "name": "Facilities\nDhigali Spa",
+  "name": "Lime Spa",
   "treatment_rooms": 12,
   "signature_treatments": [],
-  "menu_doc": null
+  "menu_doc": "https://www.nivahotelsandresorts.com/wp-content/uploads/2026/04/Dhigali-Wellness-Week-LR.pdf"
  },
  "diving_watersports": {
-  "operator": "Dive Centre",
-  "house_reef": "house reef",
+  "operator": "Euro Divers",
+  "house_reef": "house reef brimming with marine life or simply soak it all in from your sun deck",
   "activities": [
    "snorkelling",
-   "snorkeling",
+   "scuba diving",
    "windsurfing",
-   "surfing",
-   "catamaran",
+   "jet ski",
    "water skiing",
    "wakeboarding",
    "fishing",
    "dolphin cruise",
-   "sailing",
+   "manta",
    "banana boat",
-   "sunset cruise"
+   "kayaking",
+   "sailing",
+   "glass-bottom",
+   "stand-up paddle",
+   "paddleboard",
+   "fun tube",
+   "sunset cruise",
+   "surfing"
   ],
-  "price_list_doc": null
+  "price_list_doc": "https://www.nivadhigali.com/wp-content/uploads/2026/08/Snorkeling-Pricelist_Rev200826.pdf"
  },
  "excursions": [
   "local island",
+  "sandbank",
   "dolphin",
+  "manta",
+  "turtle",
   "picnic",
-  "private dinner",
   "castaway",
+  "big game fishing",
   "cinema"
  ],
  "kids_family": {
-  "kids_club": "SQM\nKids Club",
+  "kids_club": "PLAY Kids Club",
   "age_range": null,
   "teens": null
  },
  "wellness_fitness": [
   "yoga",
-  "gym",
+  "meditation",
   "fitness centre",
+  "beach volleyball",
   "steam",
-  "meditation"
+  "pilates",
+  "sound healing",
+  "personal trainer",
+  "badminton",
+  "tennis",
+  "gym"
  ],
  "weddings": {
   "offered": true,
   "vow_renewal": true,
   "venues": [],
   "packages": [],
-  "brochure_doc": null
+  "brochure_doc": "https://www.nivahotelsandresorts.com/wp-content/uploads/2026/05/Wedding-Brochure-NIVA-LR-1.pdf"
  },
  "events_mice": {
   "venues": [],
@@ -299,63 +309,150 @@
   "buyout": null,
   "doc": null
  },
- "sustainability": [],
+ "sustainability": [
+  "single-use plastic",
+  "Travelife",
+  "marine biologist"
+ ],
  "contacts_public": {
-  "reservations_email": "info@neoscapesmaldives.com",
+  "reservations_email": "reservations@nivadhigali.com",
   "weddings_email": null,
-  "phone": "+960 736 5425"
+  "phone": "+960 658 6060"
  },
  "documents_latest": {
-  "factsheet": "https://www.neoscapesmaldives.com/wp-content/uploads/Dhigali_Factsheet-03-15-2022.pdf",
+  "factsheet": "https://www.nivadhigali.com/wp-content/uploads/2026/01/DHIGALI_Factsheet.pdf",
   "map": "https://www.neoscapesmaldives.com/wp-content/uploads/Dhigali_Map-03-15-2022.pdf",
-  "wedding": null,
-  "spa_menu": null,
-  "dining_menu": null,
-  "dive_prices": null,
+  "wedding": "https://www.nivahotelsandresorts.com/wp-content/uploads/2026/05/Wedding-Brochure-NIVA-LR-1.pdf",
+  "spa_menu": "https://www.nivahotelsandresorts.com/wp-content/uploads/2026/04/Dhigali-Wellness-Week-LR.pdf",
+  "dining_menu": "https://www.nivadhigali.com/wp-content/uploads/2026/07/LIMESpaMenu-Dhigali.pdf",
+  "dive_prices": "https://www.nivadhigali.com/wp-content/uploads/2026/08/Snorkeling-Pricelist_Rev200826.pdf",
   "events": null,
-  "calendar": null
+  "calendar": "https://www.nivadhigali.com/wp-content/uploads/2026/05/Niva-Dhigali_Festive-2026_web-1.pdf"
  },
- "documents_count": 2,
+ "documents_count": 104,
  "gaps": [
-  "wedding brochure",
-  "events/MICE document",
-  "fact: villas.total"
+  "events/MICE document"
  ],
  "sources": {
   "atoll": [
    {
     "value": "Raa Atoll",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Dhigali_Factsheet-03-15-2022.pdf",
-    "as_of": 2022
+    "source_url": "https://www.nivadhigali.com/wp-content/uploads/2026/01/DHIGALI_Factsheet.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "Raa Atoll",
+    "source_url": "https://www.nivahotelsandresorts.com/wp-content/uploads/2026/05/Wedding-Brochure-NIVA-LR-1.pdf",
+    "as_of": 2027
+   },
+   {
+    "value": "Raa Atoll",
+    "source_url": "https://www.nivahotelsandresorts.com/wp-content/uploads/2026/04/Dhigali-Wellness-Week-LR.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "Raa Atoll",
+    "source_url": "https://www.nivahotelsandresorts.com/sustainability/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Raa Atoll",
+    "source_url": "https://www.nivahotelsandresorts.com/gallery/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Raa Atoll",
+    "source_url": "https://www.nivahotelsandresorts.com/about/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Raa Atoll",
+    "source_url": "https://www.nivahotelsandresorts.com/thank-you-for-contact/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Raa Atoll",
+    "source_url": "https://www.nivahotelsandresorts.com/property/niva-kurumba-maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Raa Atoll",
+    "source_url": "https://www.nivahotelsandresorts.com/property/niva-velassaru-maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Raa Atoll",
+    "source_url": "https://www.nivahotelsandresorts.com/property/niva-dhigali-maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Raa Atoll",
+    "source_url": "https://www.nivahotelsandresorts.com/property/niva-kuramathi-maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "North Malé Atoll",
+    "source_url": "https://www.nivahotelsandresorts.com/experience/sunset-sports-fishing/",
+    "as_of": "2026-10-05"
    },
    {
     "value": "Raa Atoll",
     "source_url": "https://www.neoscapesmaldives.com/resort/dhigali-maldives/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "Raa Atoll",
+    "source_url": "https://hummingbird.travel/property/dhigali-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Raa Atoll",
+    "source_url": "https://www.maldivesholidayoffers.com/accomodation/resorts/dhigali-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Raa Atoll",
+    "source_url": "https://malediven.de/malediven-hotels/dhigali-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Raa Atoll",
+    "source_url": "https://www.dnatatravel.com/2-6817740-1/dhigali-maldives",
+    "as_of": "2026-10-04"
    }
   ],
-  "island": [
+  "star_rating": [
    {
-    "value": "Dhigali",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Dhigali_Factsheet-03-15-2022.pdf",
-    "as_of": 2022
+    "value": "5-star",
+    "source_url": "https://www.nivadhigali.com/wp-content/uploads/2026/01/DHIGALI_Factsheet.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "5-star",
+    "source_url": "https://hummingbird.travel/property/dhigali-maldives",
+    "as_of": "2026-10-04"
    }
   ],
   "transfer.modes": [
    {
     "value": "seaplane",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Dhigali_Factsheet-03-15-2022.pdf",
-    "as_of": 2022
+    "source_url": "https://www.nivadhigali.com/wp-content/uploads/2026/01/DHIGALI_Factsheet.pdf",
+    "as_of": 2026
    },
    {
     "value": "speedboat",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Dhigali_Factsheet-03-15-2022.pdf",
-    "as_of": 2022
+    "source_url": "https://www.nivadhigali.com/wp-content/uploads/2026/01/DHIGALI_Factsheet.pdf",
+    "as_of": 2026
    },
    {
     "value": "domestic flight",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Dhigali_Factsheet-03-15-2022.pdf",
-    "as_of": 2022
+    "source_url": "https://www.nivadhigali.com/wp-content/uploads/2026/01/DHIGALI_Factsheet.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.nivahotelsandresorts.com/experience/motorised-water-sports-2/",
+    "as_of": "2026-10-05"
    },
    {
     "value": "seaplane",
@@ -371,200 +468,187 @@
     "value": "domestic flight",
     "source_url": "https://www.neoscapesmaldives.com/resort/dhigali-maldives/",
     "as_of": "2026-10-04"
-   }
-  ],
-  "transfer.minutes.seaplane": [
-   {
-    "value": 45,
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Dhigali_Factsheet-03-15-2022.pdf",
-    "as_of": 2022
    },
    {
-    "value": 40,
-    "source_url": "https://www.neoscapesmaldives.com/resort/dhigali-maldives/",
+    "value": "seaplane",
+    "source_url": "https://hummingbird.travel/property/dhigali-maldives",
     "as_of": "2026-10-04"
-   }
-  ],
-  "transfer.minutes.speedboat": [
-   {
-    "value": 70,
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Dhigali_Factsheet-03-15-2022.pdf",
-    "as_of": 2022
    },
    {
-    "value": 70,
-    "source_url": "https://www.neoscapesmaldives.com/resort/dhigali-maldives/",
+    "value": "speedboat",
+    "source_url": "https://hummingbird.travel/property/dhigali-maldives",
     "as_of": "2026-10-04"
-   }
-  ],
-  "transfer.minutes.domestic flight": [
-   {
-    "value": 70,
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Dhigali_Factsheet-03-15-2022.pdf",
-    "as_of": 2022
    },
    {
-    "value": 70,
-    "source_url": "https://www.neoscapesmaldives.com/resort/dhigali-maldives/",
+    "value": "domestic flight",
+    "source_url": "https://hummingbird.travel/property/dhigali-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.maldivesholidayoffers.com/accomodation/resorts/dhigali-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.dnatatravel.com/2-6817740-1/dhigali-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.dnatatravel.com/2-6817740-1/dhigali-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "domestic flight",
+    "source_url": "https://www.dnatatravel.com/2-6817740-1/dhigali-maldives",
     "as_of": "2026-10-04"
    }
   ],
   "villas.categories": [
    {
     "value": {
-     "name": "Beach Bungalows",
+     "name": "Beach Bungalows - Highlights",
      "count": 20,
      "size_sqm": 70,
      "max_occupancy": null,
      "pool": null,
      "overwater": null
     },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Dhigali_Factsheet-03-15-2022.pdf",
-    "as_of": 2022
+    "source_url": "https://www.nivadhigali.com/wp-content/uploads/2026/01/DHIGALI_Factsheet.pdf",
+    "as_of": 2026
    },
    {
     "value": {
-     "name": "Delu e Beach Bungalows",
-     "count": 33,
+     "name": "Delu e Beach Bungalows - Highlights",
+     "count": 27,
      "size_sqm": 85,
      "max_occupancy": null,
      "pool": null,
      "overwater": null
     },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Dhigali_Factsheet-03-15-2022.pdf",
-    "as_of": 2022
+    "source_url": "https://www.nivadhigali.com/wp-content/uploads/2026/01/DHIGALI_Factsheet.pdf",
+    "as_of": 2026
    },
    {
     "value": {
-     "name": "Water Villas",
+     "name": "Beach Villas - Highlights",
+     "count": 52,
+     "size_sqm": 115,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://www.nivadhigali.com/wp-content/uploads/2026/01/DHIGALI_Factsheet.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": {
+     "name": "Water Villas - Highlights",
      "count": 24,
      "size_sqm": 85,
      "max_occupancy": null,
      "pool": null,
      "overwater": null
     },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Dhigali_Factsheet-03-15-2022.pdf",
-    "as_of": 2022
+    "source_url": "https://www.nivadhigali.com/wp-content/uploads/2026/01/DHIGALI_Factsheet.pdf",
+    "as_of": 2026
    },
    {
     "value": {
-     "name": "Beach Villas",
-     "count": 62,
-     "size_sqm": 115,
-     "max_occupancy": null,
-     "pool": null,
-     "overwater": null
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Dhigali_Factsheet-03-15-2022.pdf",
-    "as_of": 2022
-   },
-   {
-    "value": {
-     "name": "Beach Villas with Pool",
-     "count": 21,
+     "name": "Beach Villas with Pool - Highlights",
+     "count": 19,
      "size_sqm": 121,
      "max_occupancy": null,
      "pool": true,
      "overwater": null
     },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Dhigali_Factsheet-03-15-2022.pdf",
-    "as_of": 2022
+    "source_url": "https://www.nivadhigali.com/wp-content/uploads/2026/01/DHIGALI_Factsheet.pdf",
+    "as_of": 2026
    },
    {
     "value": {
-     "name": "Lagoon Villas with Pool",
+     "name": "Beach Villas with Garden Pool - ՞ King bed",
+     "count": 2,
+     "size_sqm": 121,
+     "max_occupancy": null,
+     "pool": true,
+     "overwater": null
+    },
+    "source_url": "https://www.nivadhigali.com/wp-content/uploads/2026/01/DHIGALI_Factsheet.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": {
+     "name": "Lagoon Villas with Pool - Highlights",
      "count": 16,
      "size_sqm": 117,
      "max_occupancy": null,
      "pool": true,
      "overwater": true
     },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Dhigali_Factsheet-03-15-2022.pdf",
-    "as_of": 2022
+    "source_url": "https://www.nivadhigali.com/wp-content/uploads/2026/01/DHIGALI_Factsheet.pdf",
+    "as_of": 2026
    },
    {
     "value": {
-     "name": "Beach Suites with Pool",
-     "count": 3,
+     "name": "Beach Suites with Pool - Highlights",
+     "count": 2,
      "size_sqm": 170,
      "max_occupancy": null,
      "pool": true,
      "overwater": null
     },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Dhigali_Factsheet-03-15-2022.pdf",
-    "as_of": 2022
+    "source_url": "https://www.nivadhigali.com/wp-content/uploads/2026/01/DHIGALI_Factsheet.pdf",
+    "as_of": 2026
    },
    {
     "value": {
-     "name": "Dhigali Suite",
+     "name": "Beach Suite with Garden Pool - ՞ King bed",
+     "count": 1,
+     "size_sqm": 170,
+     "max_occupancy": null,
+     "pool": true,
+     "overwater": null
+    },
+    "source_url": "https://www.nivadhigali.com/wp-content/uploads/2026/01/DHIGALI_Factsheet.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": {
+     "name": "Two-Bedroom Delu e Beach Bungalow - Highlights",
+     "count": 3,
+     "size_sqm": 184,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://www.nivadhigali.com/wp-content/uploads/2026/01/DHIGALI_Factsheet.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": {
+     "name": "Two-Bedroom Beach Villa - Highlights",
+     "count": 5,
+     "size_sqm": 262,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://www.nivadhigali.com/wp-content/uploads/2026/01/DHIGALI_Factsheet.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": {
+     "name": "Two-Bedroom Dhigali Suite - Highlights",
      "count": 1,
      "size_sqm": 400,
      "max_occupancy": null,
      "pool": null,
      "overwater": null
     },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Dhigali_Factsheet-03-15-2022.pdf",
-    "as_of": 2022
-   },
-   {
-    "value": {
-     "name": "Arrival Pavilion Beach Bungalow",
-     "count": 1,
-     "size_sqm": null,
-     "max_occupancy": null,
-     "pool": null,
-     "overwater": null
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Dhigali_Factsheet-03-15-2022.pdf",
-    "as_of": 2022
-   },
-   {
-    "value": {
-     "name": "Delu e Beach Bungalow N",
-     "count": 13,
-     "size_sqm": null,
-     "max_occupancy": null,
-     "pool": null,
-     "overwater": null
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Dhigali_Factsheet-03-15-2022.pdf",
-    "as_of": 2022
-   },
-   {
-    "value": {
-     "name": "Beach Villa",
-     "count": 4,
-     "size_sqm": null,
-     "max_occupancy": null,
-     "pool": null,
-     "overwater": null
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Dhigali_Factsheet-03-15-2022.pdf",
-    "as_of": 2022
-   },
-   {
-    "value": {
-     "name": "Dhigali Suite",
-     "count": 16,
-     "size_sqm": null,
-     "max_occupancy": null,
-     "pool": null,
-     "overwater": null
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Dhigali_Factsheet-03-15-2022.pdf",
-    "as_of": 2022
-   },
-   {
-    "value": {
-     "name": "Number of Villas",
-     "count": 180,
-     "size_sqm": null,
-     "max_occupancy": null,
-     "pool": null,
-     "overwater": null
-    },
-    "source_url": "https://www.neoscapesmaldives.com/resort/dhigali-maldives/",
-    "as_of": "2026-10-04"
+    "source_url": "https://www.nivadhigali.com/wp-content/uploads/2026/01/DHIGALI_Factsheet.pdf",
+    "as_of": 2026
    },
    {
     "value": {
@@ -654,129 +738,111 @@
   "dining": [
    {
     "value": {
-     "name": "Arrival/Departure Lounge",
+     "name": "Arrival/Departure Lounge - Fitness Centre",
      "cuisine": null,
      "type": "bar"
     },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Dhigali_Factsheet-03-15-2022.pdf",
-    "as_of": 2022
+    "source_url": "https://www.nivadhigali.com/wp-content/uploads/2026/01/DHIGALI_Factsheet.pdf",
+    "as_of": 2026
    },
    {
     "value": {
-     "name": "Café",
+     "name": "Capers Cafe",
      "cuisine": null,
      "type": "restaurant"
     },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Dhigali_Factsheet-03-15-2022.pdf",
-    "as_of": 2022
+    "source_url": "https://www.nivadhigali.com/wp-content/uploads/2026/01/DHIGALI_Factsheet.pdf",
+    "as_of": 2026
    },
    {
     "value": {
-     "name": "Pizzeria",
+     "name": "backdrop of the Indian Ocean. Pizzeria",
      "cuisine": null,
      "type": "restaurant"
     },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Dhigali_Factsheet-03-15-2022.pdf",
-    "as_of": 2022
+    "source_url": "https://www.nivadhigali.com/wp-content/uploads/2026/01/DHIGALI_Factsheet.pdf",
+    "as_of": 2026
    },
    {
     "value": {
-     "name": "Relaxation Lounge",
+     "name": "Café Garden",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.nivadhigali.com/wp-content/uploads/2026/08/Plastic-Recycling-Workshop.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": {
+     "name": "From the Sushi Bar",
      "cuisine": null,
      "type": "bar"
     },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Dhigali_Factsheet-03-15-2022.pdf",
-    "as_of": 2022
+    "source_url": "https://www.nivahotelsandresorts.com/dining/kobe/",
+    "as_of": "2026-10-05"
    },
    {
     "value": {
-     "name": "3 Capers (Main Restaurant) 3",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Dhigali_Factsheet-03-15-2022.pdf",
-    "as_of": 2022
-   },
-   {
-    "value": {
-     "name": "4 Jade (All Day Dining) Beach Villa with Pool 11",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Dhigali_Factsheet-03-15-2022.pdf",
-    "as_of": 2022
-   },
-   {
-    "value": {
-     "name": "5 Faru (Grill Restaurant) Lagoon Villa with Pool 14",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Dhigali_Factsheet-03-15-2022.pdf",
-    "as_of": 2022
-   },
-   {
-    "value": {
-     "name": "6 Battuta (Signature Restaurant) Beach Suite",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Dhigali_Factsheet-03-15-2022.pdf",
-    "as_of": 2022
-   },
-   {
-    "value": {
-     "name": "7 Café",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Dhigali_Factsheet-03-15-2022.pdf",
-    "as_of": 2022
-   },
-   {
-    "value": {
-     "name": "Haali (Sunset Bar) S PO",
+     "name": "Haali Bar",
      "cuisine": null,
      "type": "bar"
     },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Dhigali_Factsheet-03-15-2022.pdf",
-    "as_of": 2022
+    "source_url": "https://www.nivahotelsandresorts.com/dining/haali-bar/",
+    "as_of": "2026-10-05"
    },
    {
     "value": {
-     "name": "9 East (Main Bar) Not suitable for Snorkeling",
+     "name": "Lo Brizan Bar",
      "cuisine": null,
      "type": "bar"
     },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Dhigali_Factsheet-03-15-2022.pdf",
-    "as_of": 2022
+    "source_url": "https://www.nivahotelsandresorts.com/dining/thila/",
+    "as_of": "2026-10-05"
    },
    {
     "value": {
-     "name": "16 Day Lounge",
+     "name": "Chill Bar",
      "cuisine": null,
      "type": "bar"
     },
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Dhigali_Factsheet-03-15-2022.pdf",
-    "as_of": 2022
+    "source_url": "https://www.nivahotelsandresorts.com/dining/the-reef/",
+    "as_of": "2026-10-05"
    },
    {
     "value": {
-     "name": "Dining",
+     "name": "Laguna Bar",
      "cuisine": null,
-     "type": "restaurant"
+     "type": "bar"
     },
-    "source_url": "https://www.neoscapesmaldives.com/resort/dhigali-maldives/",
-    "as_of": "2026-10-04"
+    "source_url": "https://www.nivahotelsandresorts.com/dining/island-barbeque/",
+    "as_of": "2026-10-05"
    },
    {
     "value": {
-     "name": "Dining",
+     "name": "Brasserie Dauban",
      "cuisine": null,
      "type": "restaurant"
     },
-    "source_url": "https://www.neoscapesmaldives.com/resort/dhigali-maldives/",
-    "as_of": "2026-10-04"
+    "source_url": "https://www.nivahotelsandresorts.com/dining/brasserie-dauban/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": {
+     "name": "Lo Brizan Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.nivahotelsandresorts.com/dining/brasserie-dauban/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": {
+     "name": "Fen Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.nivahotelsandresorts.com/dining/faru/",
+    "as_of": "2026-10-05"
    },
    {
     "value": {
@@ -840,120 +906,391 @@
     },
     "source_url": "https://www.neoscapesmaldives.com/resort/dhigali-maldives/",
     "as_of": "2026-10-04"
-   }
-  ],
-  "meal_plans": [
-   {
-    "value": "AI",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Dhigali_Factsheet-03-15-2022.pdf",
-    "as_of": 2022
    },
    {
-    "value": "Premium AI",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Dhigali_Factsheet-03-15-2022.pdf",
-    "as_of": 2022
-   }
-  ],
-  "all_inclusive_details": [
-   {
-    "value": "all-inclusive offering.",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Dhigali_Factsheet-03-15-2022.pdf",
-    "as_of": 2022
-   }
-  ],
-  "spa.name": [
-   {
-    "value": "Spa",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Dhigali_Factsheet-03-15-2022.pdf",
-    "as_of": 2022
+    "value": {
+     "name": "Pizzeria",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://hummingbird.travel/property/dhigali-maldives",
+    "as_of": "2026-10-04"
    },
    {
-    "value": "Facilities\nDhigali Spa",
-    "source_url": "https://www.neoscapesmaldives.com/resort/dhigali-maldives/",
+    "value": {
+     "name": "East Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://hummingbird.travel/property/dhigali-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Cafe",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://hummingbird.travel/property/dhigali-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Haali Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://hummingbird.travel/property/dhigali-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Café",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.dnatatravel.com/2-6817740-1/dhigali-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "East Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.dnatatravel.com/2-6817740-1/dhigali-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Haali Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.dnatatravel.com/2-6817740-1/dhigali-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Pizzeria",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.dnatatravel.com/2-6817740-1/dhigali-maldives",
     "as_of": "2026-10-04"
    }
   ],
   "spa.treatment_rooms": [
    {
     "value": 12,
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Dhigali_Factsheet-03-15-2022.pdf",
-    "as_of": 2022
+    "source_url": "https://www.nivadhigali.com/wp-content/uploads/2026/01/DHIGALI_Factsheet.pdf",
+    "as_of": 2026
    }
   ],
   "diving_watersports.operator": [
    {
-    "value": "Dive Centre",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Dhigali_Factsheet-03-15-2022.pdf",
-    "as_of": 2022
+    "value": "Euro Divers",
+    "source_url": "https://www.nivadhigali.com/wp-content/uploads/2026/01/DHIGALI_Factsheet.pdf",
+    "as_of": 2026
    }
   ],
   "diving_watersports.house_reef": [
    {
-    "value": "house\n reef, each villa has an oversized wooden sundeck with sun loungers",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Dhigali_Factsheet-03-15-2022.pdf",
-    "as_of": 2022
+    "value": "house reef brimming with marine life or simply soak it all in from your sun deck",
+    "source_url": "https://www.nivadhigali.com/wp-content/uploads/2026/01/DHIGALI_Factsheet.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "House Reef Snorkelling Price ($)",
+    "source_url": "https://www.nivadhigali.com/wp-content/uploads/2026/08/Snorkeling-Pricelist_Rev200826.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "House Reef Snorkelling Lesson",
+    "source_url": "https://www.nivahotelsandresorts.com/experience/tortoise-feeding/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "house reef, you share the water with seven resident sea turtles, each known by name, moving through the lagoon with a rhythm all their own",
+    "source_url": "https://www.nivahotelsandresorts.com/experience/meet-our-resident-sea-turtles/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "house reef, supported by coral nurseries around the island",
+    "source_url": "https://www.nivahotelsandresorts.com/experience/house-lagoon-reef-snorkel/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "House Reef Guided Snorkelling",
+    "source_url": "https://www.nivahotelsandresorts.com/experience/snorkelling-adventure-by-dhoni/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "House Reef Snorkelling Lesson",
+    "source_url": "https://www.nivahotelsandresorts.com/experience/house-reef-snorkelling-lesson/",
+    "as_of": "2026-10-05"
    },
    {
     "value": "house reef",
     "source_url": "https://www.neoscapesmaldives.com/resort/dhigali-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef make it appealing for both couples and families",
+    "source_url": "https://hummingbird.travel/property/dhigali-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef",
+    "source_url": "https://www.maldivesholidayoffers.com/accomodation/resorts/dhigali-maldives/",
     "as_of": "2026-10-04"
    }
   ],
   "diving_watersports.activities": [
    {
     "value": "snorkelling",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Dhigali_Factsheet-03-15-2022.pdf",
-    "as_of": 2022
+    "source_url": "https://www.nivadhigali.com/wp-content/uploads/2026/01/DHIGALI_Factsheet.pdf",
+    "as_of": 2026
    },
    {
-    "value": "snorkeling",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Dhigali_Factsheet-03-15-2022.pdf",
-    "as_of": 2022
+    "value": "scuba diving",
+    "source_url": "https://www.nivadhigali.com/wp-content/uploads/2026/01/DHIGALI_Factsheet.pdf",
+    "as_of": 2026
    },
    {
     "value": "windsurfing",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Dhigali_Factsheet-03-15-2022.pdf",
-    "as_of": 2022
+    "source_url": "https://www.nivadhigali.com/wp-content/uploads/2026/01/DHIGALI_Factsheet.pdf",
+    "as_of": 2026
    },
    {
-    "value": "surfing",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Dhigali_Factsheet-03-15-2022.pdf",
-    "as_of": 2022
-   },
-   {
-    "value": "catamaran",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Dhigali_Factsheet-03-15-2022.pdf",
-    "as_of": 2022
+    "value": "jet ski",
+    "source_url": "https://www.nivadhigali.com/wp-content/uploads/2026/01/DHIGALI_Factsheet.pdf",
+    "as_of": 2026
    },
    {
     "value": "water skiing",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Dhigali_Factsheet-03-15-2022.pdf",
-    "as_of": 2022
+    "source_url": "https://www.nivadhigali.com/wp-content/uploads/2026/01/DHIGALI_Factsheet.pdf",
+    "as_of": 2026
    },
    {
     "value": "wakeboarding",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Dhigali_Factsheet-03-15-2022.pdf",
-    "as_of": 2022
+    "source_url": "https://www.nivadhigali.com/wp-content/uploads/2026/01/DHIGALI_Factsheet.pdf",
+    "as_of": 2026
    },
    {
     "value": "fishing",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Dhigali_Factsheet-03-15-2022.pdf",
-    "as_of": 2022
+    "source_url": "https://www.nivadhigali.com/wp-content/uploads/2026/01/DHIGALI_Factsheet.pdf",
+    "as_of": 2026
    },
    {
     "value": "dolphin cruise",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Dhigali_Factsheet-03-15-2022.pdf",
-    "as_of": 2022
+    "source_url": "https://www.nivadhigali.com/wp-content/uploads/2026/01/DHIGALI_Factsheet.pdf",
+    "as_of": 2026
    },
    {
-    "value": "sailing",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Dhigali_Factsheet-03-15-2022.pdf",
-    "as_of": 2022
+    "value": "manta",
+    "source_url": "https://www.nivadhigali.com/wp-content/uploads/2026/01/DHIGALI_Factsheet.pdf",
+    "as_of": 2026
    },
    {
     "value": "banana boat",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Dhigali_Factsheet-03-15-2022.pdf",
-    "as_of": 2022
+    "source_url": "https://www.nivadhigali.com/wp-content/uploads/2026/01/DHIGALI_Factsheet.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.nivadhigali.com/wp-content/uploads/2026/08/Snorkeling-Pricelist_Rev200826.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.nivadhigali.com/wp-content/uploads/2026/08/Snorkeling-Pricelist_Rev200826.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "banana boat",
+    "source_url": "https://www.nivadhigali.com/wp-content/uploads/2026/06/Kids-Club-Program_Rev2May26.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.nivahotelsandresorts.com/experience/kids-club-2/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "kayaking",
+    "source_url": "https://www.nivahotelsandresorts.com/experience/kids-club-2/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.nivahotelsandresorts.com/experience/shark-point-snorkelling/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.nivahotelsandresorts.com/experience/shark-point-snorkelling/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.nivahotelsandresorts.com/experience/tortoise-feeding/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.nivahotelsandresorts.com/experience/male-tour/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.nivahotelsandresorts.com/experience/meet-our-resident-sea-turtles/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "windsurfing",
+    "source_url": "https://www.nivahotelsandresorts.com/experience/motorised-water-sports-2/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "jet ski",
+    "source_url": "https://www.nivahotelsandresorts.com/experience/motorised-water-sports-2/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "wakeboarding",
+    "source_url": "https://www.nivahotelsandresorts.com/experience/motorised-water-sports-2/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.nivahotelsandresorts.com/experience/manta-snorkelling-trip/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.nivahotelsandresorts.com/experience/manta-snorkelling-trip/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.nivahotelsandresorts.com/experience/turtle-snorkelling-by-dhoni/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.nivahotelsandresorts.com/experience/turtle-snorkelling-by-dhoni/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "windsurfing",
+    "source_url": "https://www.nivahotelsandresorts.com/experience/windsurfing-2/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sailing",
+    "source_url": "https://www.nivahotelsandresorts.com/experience/windsurfing-2/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.nivahotelsandresorts.com/experience/house-lagoon-reef-snorkel/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "jet ski",
+    "source_url": "https://www.nivahotelsandresorts.com/experience/jetski/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.nivahotelsandresorts.com/experience/jetski/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.nivahotelsandresorts.com/experience/big-game-fishing-2/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.nivahotelsandresorts.com/experience/glass-bottom-boat-experience/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "glass-bottom",
+    "source_url": "https://www.nivahotelsandresorts.com/experience/glass-bottom-boat-experience/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "windsurfing",
+    "source_url": "https://www.nivahotelsandresorts.com/experience/stand-up-paddle-kayak/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "stand-up paddle",
+    "source_url": "https://www.nivahotelsandresorts.com/experience/stand-up-paddle-kayak/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "paddleboard",
+    "source_url": "https://www.nivahotelsandresorts.com/experience/stand-up-paddle-kayak/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.nivahotelsandresorts.com/experience/manta-turtle-dolphin-trip/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.nivahotelsandresorts.com/experience/manta-turtle-dolphin-trip/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.nivahotelsandresorts.com/experience/manta-turtle-dolphin-sandbank-trip/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.nivahotelsandresorts.com/experience/manta-turtle-dolphin-sandbank-trip/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.nivahotelsandresorts.com/experience/snorkelling-adventure-by-dhoni/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "banana boat",
+    "source_url": "https://www.nivahotelsandresorts.com/experience/towable-rides/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "fun tube",
+    "source_url": "https://www.nivahotelsandresorts.com/experience/towable-rides/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "windsurfing",
+    "source_url": "https://www.nivahotelsandresorts.com/experience/pulse-and-flow/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.nivahotelsandresorts.com/experience/sunset-sports-fishing/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.nivahotelsandresorts.com/experience/sunset-sports-fishing/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.nivahotelsandresorts.com/experience/house-reef-snorkelling-lesson/",
+    "as_of": "2026-10-05"
    },
    {
     "value": "snorkelling",
@@ -974,38 +1311,233 @@
     "value": "dolphin cruise",
     "source_url": "https://www.neoscapesmaldives.com/resort/dhigali-maldives/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://hummingbird.travel/property/dhigali-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://hummingbird.travel/property/dhigali-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "surfing",
+    "source_url": "https://hummingbird.travel/property/dhigali-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://hummingbird.travel/property/dhigali-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://malediven.de/malediven-hotels/dhigali-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.dnatatravel.com/2-6817740-1/dhigali-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.dnatatravel.com/2-6817740-1/dhigali-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin cruise",
+    "source_url": "https://www.dnatatravel.com/2-6817740-1/dhigali-maldives",
+    "as_of": "2026-10-04"
    }
   ],
   "excursions": [
    {
     "value": "local island",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Dhigali_Factsheet-03-15-2022.pdf",
-    "as_of": 2022
+    "source_url": "https://www.nivadhigali.com/wp-content/uploads/2026/01/DHIGALI_Factsheet.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.nivadhigali.com/wp-content/uploads/2026/01/DHIGALI_Factsheet.pdf",
+    "as_of": 2026
    },
    {
     "value": "dolphin",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Dhigali_Factsheet-03-15-2022.pdf",
-    "as_of": 2022
+    "source_url": "https://www.nivadhigali.com/wp-content/uploads/2026/01/DHIGALI_Factsheet.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.nivadhigali.com/wp-content/uploads/2026/01/DHIGALI_Factsheet.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.nivadhigali.com/wp-content/uploads/2026/01/DHIGALI_Factsheet.pdf",
+    "as_of": 2026
    },
    {
     "value": "picnic",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Dhigali_Factsheet-03-15-2022.pdf",
-    "as_of": 2022
-   },
-   {
-    "value": "private dinner",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Dhigali_Factsheet-03-15-2022.pdf",
-    "as_of": 2022
+    "source_url": "https://www.nivadhigali.com/wp-content/uploads/2026/01/DHIGALI_Factsheet.pdf",
+    "as_of": 2026
    },
    {
     "value": "castaway",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Dhigali_Factsheet-03-15-2022.pdf",
-    "as_of": 2022
+    "source_url": "https://www.nivadhigali.com/wp-content/uploads/2026/01/DHIGALI_Factsheet.pdf",
+    "as_of": 2026
    },
    {
-    "value": "cinema",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Dhigali_Factsheet-03-15-2022.pdf",
-    "as_of": 2022
+    "value": "sandbank",
+    "source_url": "https://www.nivadhigali.com/wp-content/uploads/2026/08/Snorkeling-Pricelist_Rev200826.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.nivadhigali.com/wp-content/uploads/2026/08/Snorkeling-Pricelist_Rev200826.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.nivadhigali.com/wp-content/uploads/2026/08/Snorkeling-Pricelist_Rev200826.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.nivadhigali.com/wp-content/uploads/2026/08/Snorkeling-Pricelist_Rev200826.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.nivahotelsandresorts.com/experience/tortoise-feeding/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.nivahotelsandresorts.com/persona/adventure-seekers/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.nivahotelsandresorts.com/experience/meet-our-resident-sea-turtles/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.nivahotelsandresorts.com/experience/motorised-water-sports-2/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.nivahotelsandresorts.com/experience/manta-snorkelling-trip/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.nivahotelsandresorts.com/experience/manta-snorkelling-trip/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.nivahotelsandresorts.com/experience/manta-snorkelling-trip/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.nivahotelsandresorts.com/experience/turtle-snorkelling-by-dhoni/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.nivahotelsandresorts.com/experience/turtle-snorkelling-by-dhoni/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.nivahotelsandresorts.com/experience/house-lagoon-reef-snorkel/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.nivahotelsandresorts.com/experience/jetski/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.nivahotelsandresorts.com/experience/jetski/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.nivahotelsandresorts.com/experience/jetski/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.nivahotelsandresorts.com/experience/jetski/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "big game fishing",
+    "source_url": "https://www.nivahotelsandresorts.com/experience/big-game-fishing-2/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.nivahotelsandresorts.com/experience/manta-turtle-dolphin-trip/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.nivahotelsandresorts.com/experience/manta-turtle-dolphin-trip/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.nivahotelsandresorts.com/experience/manta-turtle-dolphin-trip/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.nivahotelsandresorts.com/experience/manta-turtle-dolphin-trip/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.nivahotelsandresorts.com/experience/manta-turtle-dolphin-sandbank-trip/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.nivahotelsandresorts.com/experience/manta-turtle-dolphin-sandbank-trip/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.nivahotelsandresorts.com/experience/manta-turtle-dolphin-sandbank-trip/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.nivahotelsandresorts.com/experience/manta-turtle-dolphin-sandbank-trip/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.nivahotelsandresorts.com/experience/snorkelling-adventure-by-dhoni/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.nivahotelsandresorts.com/experience/sunset-sports-fishing/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.nivahotelsandresorts.com/experience/fitness-centre-3/",
+    "as_of": "2026-10-05"
    },
    {
     "value": "dolphin",
@@ -1020,41 +1552,241 @@
    {
     "value": "cinema",
     "source_url": "https://www.neoscapesmaldives.com/resort/dhigali-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://hummingbird.travel/property/dhigali-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://hummingbird.travel/property/dhigali-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "castaway",
+    "source_url": "https://www.maldivesholidayoffers.com/accomodation/resorts/dhigali-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://malediven.de/malediven-hotels/dhigali-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.dnatatravel.com/2-6817740-1/dhigali-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.dnatatravel.com/2-6817740-1/dhigali-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "picnic",
+    "source_url": "https://www.dnatatravel.com/2-6817740-1/dhigali-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "castaway",
+    "source_url": "https://www.dnatatravel.com/2-6817740-1/dhigali-maldives",
     "as_of": "2026-10-04"
    }
   ],
   "kids_family.kids_club": [
    {
+    "value": "PLAY Kids Club",
+    "source_url": "https://www.nivadhigali.com/wp-content/uploads/2026/01/DHIGALI_Factsheet.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "Play Kids Club",
+    "source_url": "https://www.nivadhigali.com/wp-content/uploads/2026/06/Kids-Club-Program_Rev2May26.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "Jungle\nFun\nKids\nClub",
+    "source_url": "https://www.nivahotelsandresorts.com/events/",
+    "as_of": "2026-10-05"
+   },
+   {
     "value": "Kids Club",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Dhigali_Factsheet-03-15-2022.pdf",
-    "as_of": 2022
+    "source_url": "https://www.nivahotelsandresorts.com/experience/kids-club-2/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Website\nPrevious Post\nKids Club",
+    "source_url": "https://www.nivahotelsandresorts.com/experience/male-tour/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Centre\nNext Post\nKids Club",
+    "source_url": "https://www.nivahotelsandresorts.com/experience/tennis-3/",
+    "as_of": "2026-10-05"
    },
    {
     "value": "SQM\nKids Club",
     "source_url": "https://www.neoscapesmaldives.com/resort/dhigali-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Kids Club",
+    "source_url": "https://hummingbird.travel/property/dhigali-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Play Kids Club",
+    "source_url": "https://www.dnatatravel.com/2-6817740-1/dhigali-maldives",
     "as_of": "2026-10-04"
    }
   ],
   "wellness_fitness": [
    {
     "value": "yoga",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Dhigali_Factsheet-03-15-2022.pdf",
-    "as_of": 2022
+    "source_url": "https://www.nivadhigali.com/wp-content/uploads/2026/01/DHIGALI_Factsheet.pdf",
+    "as_of": 2026
    },
    {
-    "value": "gym",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Dhigali_Factsheet-03-15-2022.pdf",
-    "as_of": 2022
+    "value": "meditation",
+    "source_url": "https://www.nivadhigali.com/wp-content/uploads/2026/01/DHIGALI_Factsheet.pdf",
+    "as_of": 2026
    },
    {
     "value": "fitness centre",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Dhigali_Factsheet-03-15-2022.pdf",
-    "as_of": 2022
+    "source_url": "https://www.nivadhigali.com/wp-content/uploads/2026/01/DHIGALI_Factsheet.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "beach volleyball",
+    "source_url": "https://www.nivadhigali.com/wp-content/uploads/2026/01/DHIGALI_Factsheet.pdf",
+    "as_of": 2026
    },
    {
     "value": "steam",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Dhigali_Factsheet-03-15-2022.pdf",
-    "as_of": 2022
+    "source_url": "https://www.nivadhigali.com/wp-content/uploads/2026/01/DHIGALI_Factsheet.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.nivahotelsandresorts.com/wp-content/uploads/2026/04/Dhigali-Wellness-Week-LR.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "meditation",
+    "source_url": "https://www.nivahotelsandresorts.com/wp-content/uploads/2026/04/Dhigali-Wellness-Week-LR.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "pilates",
+    "source_url": "https://www.nivahotelsandresorts.com/wp-content/uploads/2026/04/Dhigali-Wellness-Week-LR.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "sound healing",
+    "source_url": "https://www.nivahotelsandresorts.com/wp-content/uploads/2026/04/Dhigali-Wellness-Week-LR.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "personal trainer",
+    "source_url": "https://www.nivahotelsandresorts.com/wp-content/uploads/2026/04/Dhigali-Wellness-Week-LR.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.nivadhigali.com/wp-content/uploads/2026/07/LIMESpaMenu-Dhigali.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "steam",
+    "source_url": "https://www.nivadhigali.com/wp-content/uploads/2026/07/LIMESpaMenu-Dhigali.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.nivadhigali.com/wp-content/uploads/2026/06/Kids-Club-Program_Rev2May26.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "badminton",
+    "source_url": "https://www.nivadhigali.com/wp-content/uploads/2026/06/Kids-Club-Program_Rev2May26.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.nivahotelsandresorts.com/experience/kids-club-2/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "meditation",
+    "source_url": "https://www.nivahotelsandresorts.com/experience/kids-club-2/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://www.nivahotelsandresorts.com/experience/kids-club-2/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "beach volleyball",
+    "source_url": "https://www.nivahotelsandresorts.com/experience/kids-club-2/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "fitness centre",
+    "source_url": "https://www.nivahotelsandresorts.com/experience/meet-our-resident-sea-turtles/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.nivahotelsandresorts.com/spa-wellness/yoga-and-mindfulness/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "meditation",
+    "source_url": "https://www.nivahotelsandresorts.com/spa-wellness/yoga-and-mindfulness/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.nivahotelsandresorts.com/spa-wellness/massage/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "gym",
+    "source_url": "https://www.nivahotelsandresorts.com/experience/recreation-centre/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://www.nivahotelsandresorts.com/experience/recreation-centre/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "badminton",
+    "source_url": "https://www.nivahotelsandresorts.com/experience/recreation-centre/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "fitness centre",
+    "source_url": "https://www.nivahotelsandresorts.com/experience/tennis-3/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://www.nivahotelsandresorts.com/experience/tennis-3/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "fitness centre",
+    "source_url": "https://www.nivahotelsandresorts.com/experience/fitness-centre-3/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://www.nivahotelsandresorts.com/experience/fitness-centre-3/",
+    "as_of": "2026-10-05"
    },
    {
     "value": "yoga",
@@ -1075,23 +1807,78 @@
     "value": "steam",
     "source_url": "https://www.neoscapesmaldives.com/resort/dhigali-maldives/",
     "as_of": "2026-10-04"
-   }
-  ],
-  "weddings.vow_renewal": [
+   },
    {
-    "value": true,
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Dhigali_Factsheet-03-15-2022.pdf",
-    "as_of": 2022
+    "value": "yoga",
+    "source_url": "https://hummingbird.travel/property/dhigali-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "gym",
+    "source_url": "https://hummingbird.travel/property/dhigali-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.dnatatravel.com/2-6817740-1/dhigali-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "gym",
+    "source_url": "https://www.dnatatravel.com/2-6817740-1/dhigali-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "fitness centre",
+    "source_url": "https://www.dnatatravel.com/2-6817740-1/dhigali-maldives",
+    "as_of": "2026-10-04"
    }
   ],
   "weddings.offered": [
+   {
+    "value": true,
+    "source_url": "https://www.nivadhigali.com/wp-content/uploads/2026/01/DHIGALI_Factsheet.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": true,
+    "source_url": "https://www.nivahotelsandresorts.com/wp-content/uploads/2026/05/Wedding-Brochure-NIVA-LR-1.pdf",
+    "as_of": 2027
+   },
+   {
+    "value": true,
+    "source_url": "https://www.nivahotelsandresorts.com/maldives-special-offers/labriz-romance/",
+    "as_of": "2026-10-05"
+   },
    {
     "value": true,
     "source_url": "https://www.neoscapesmaldives.com/resort/dhigali-maldives/",
     "as_of": "2026-10-04"
    }
   ],
+  "weddings.vow_renewal": [
+   {
+    "value": true,
+    "source_url": "https://www.nivadhigali.com/wp-content/uploads/2026/01/DHIGALI_Factsheet.pdf",
+    "as_of": 2026
+   }
+  ],
   "contacts_public.reservations_email": [
+   {
+    "value": "reservations@nivadhigali.com",
+    "source_url": "https://www.nivadhigali.com/wp-content/uploads/2026/01/DHIGALI_Factsheet.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "sales@nivahotelsandresorts.com",
+    "source_url": "https://www.nivahotelsandresorts.com/contact-us/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "info@mdscollective.com",
+    "source_url": "https://www.nivahotelsandresorts.com/contact-us/",
+    "as_of": "2026-10-05"
+   },
    {
     "value": "info@neoscapesmaldives.com",
     "source_url": "https://www.neoscapesmaldives.com/resort/dhigali-maldives/",
@@ -1100,11 +1887,219 @@
   ],
   "contacts_public.phone": [
    {
+    "value": "+960 658 6060",
+    "source_url": "https://www.nivadhigali.com/wp-content/uploads/2026/01/DHIGALI_Factsheet.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "+960 658 6060",
+    "source_url": "https://www.nivahotelsandresorts.com/wp-content/uploads/2026/04/Dhigali-Wellness-Week-LR.pdf",
+    "as_of": 2026
+   },
+   {
     "value": "+960 736 5425",
     "source_url": "https://www.neoscapesmaldives.com/resort/dhigali-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 7773 699",
+    "source_url": "https://www.maldivesholidayoffers.com/accomodation/resorts/dhigali-maldives/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "spa.name": [
+   {
+    "value": "Lime Spa",
+    "source_url": "https://www.nivahotelsandresorts.com/wp-content/uploads/2026/04/Dhigali-Wellness-Week-LR.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.nivahotelsandresorts.com/loyalty/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Facilities\nDhigali Spa",
+    "source_url": "https://www.neoscapesmaldives.com/resort/dhigali-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://hummingbird.travel/property/dhigali-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Beach Resort And Spa",
+    "source_url": "https://www.maldivesholidayoffers.com/accomodation/resorts/dhigali-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://malediven.de/malediven-hotels/dhigali-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Club\nGym\nRestaurant\nSpa",
+    "source_url": "https://www.dnatatravel.com/2-6817740-1/dhigali-maldives",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "sustainability": [
+   {
+    "value": "single-use plastic",
+    "source_url": "https://www.nivadhigali.com/wp-content/uploads/2026/07/Niva-Dhigali-Responsible-Guest-Guide.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "Travelife",
+    "source_url": "https://www.nivadhigali.com/wp-content/uploads/2026/07/Niva-Dhigali-Responsible-Guest-Guide.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "marine biologist",
+    "source_url": "https://www.nivahotelsandresorts.com/experience/meet-our-resident-sea-turtles/",
+    "as_of": "2026-10-05"
+   }
+  ],
+  "meal_plans": [
+   {
+    "value": "AI",
+    "source_url": "https://www.nivahotelsandresorts.com/property/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Premium AI",
+    "source_url": "https://www.nivahotelsandresorts.com/property/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://www.nivahotelsandresorts.com/property-travel-style/family/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Premium AI",
+    "source_url": "https://www.nivahotelsandresorts.com/property-travel-style/family/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://www.nivahotelsandresorts.com/property-travel-style/adventure/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Premium AI",
+    "source_url": "https://www.nivahotelsandresorts.com/property-travel-style/adventure/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://hummingbird.travel/property/dhigali-maldives",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "all_inclusive_details": [
+   {
+    "value": "all-inclusive escape.",
+    "source_url": "https://www.nivahotelsandresorts.com/property/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "All-Inclusive upgrades.",
+    "source_url": "https://www.nivahotelsandresorts.com/maldives-special-offers/best-available-rate/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "all-inclusive escape.",
+    "source_url": "https://www.nivahotelsandresorts.com/property-travel-style/family/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "all-inclusive escape.",
+    "source_url": "https://www.nivahotelsandresorts.com/property-travel-style/adventure/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "all-inclusive resort in Raa Atoll, set across a compact island with a strong sense of space and natural greenery.",
+    "source_url": "https://hummingbird.travel/property/dhigali-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "All-Inclusive benefits.",
+    "source_url": "https://www.maldivesholidayoffers.com/accomodation/resorts/dhigali-maldives/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "transfer.minutes.seaplane": [
+   {
+    "value": 40,
+    "source_url": "https://www.neoscapesmaldives.com/resort/dhigali-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 45,
+    "source_url": "https://hummingbird.travel/property/dhigali-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 40,
+    "source_url": "https://www.maldivesholidayoffers.com/accomodation/resorts/dhigali-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 45,
+    "source_url": "https://www.dnatatravel.com/2-6817740-1/dhigali-maldives",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "transfer.minutes.speedboat": [
+   {
+    "value": 70,
+    "source_url": "https://www.neoscapesmaldives.com/resort/dhigali-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 70,
+    "source_url": "https://hummingbird.travel/property/dhigali-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 70,
+    "source_url": "https://www.dnatatravel.com/2-6817740-1/dhigali-maldives",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "transfer.minutes.domestic flight": [
+   {
+    "value": 70,
+    "source_url": "https://www.neoscapesmaldives.com/resort/dhigali-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 70,
+    "source_url": "https://hummingbird.travel/property/dhigali-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": 70,
+    "source_url": "https://www.dnatatravel.com/2-6817740-1/dhigali-maldives",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "villas.total": [
+   {
+    "value": 180,
+    "source_url": "https://hummingbird.travel/property/dhigali-maldives",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "island": [
+   {
+    "value": "Dhigali",
+    "source_url": "https://www.dnatatravel.com/2-6817740-1/dhigali-maldives",
     "as_of": "2026-10-04"
    }
   ]
  },
- "last_updated": "2026-10-04"
+ "last_updated": "2026-10-05"
 }
