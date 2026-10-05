@@ -617,3 +617,47 @@ openpyxl.utils.exceptions.IllegalCharacterError:  IN-ROOM DINING POUR COMMANDER,
 2026-10-04 23:52:56,861 INFO B official 118 Sun Siyam Iru Veli Maldives              ok         pages=70 pdfs=7 js=False
 2026-10-04 23:54:06,226 INFO C agency https://www.alpitour.it/                      ok           pages=150 pdfs=5
 2026-10-04 23:54:24,924 INFO B official 120 Bandos Maldives                          ok         pages=70 pdfs=75 js=False
+2026-10-04 23:57:28,075 INFO C agency https://www.edenviaggi.it/                    ok           pages=150 pdfs=1
+2026-10-04 23:57:47,256 INFO C agency https://www.meiers-weltreisen.de/             ok           pages=150 pdfs=8
+2026-10-04 23:57:49,568 INFO B official 116 Nova Maldives                            ok         pages=70 pdfs=42 js=True
+2026-10-04 23:57:49,610 INFO queue: 324 candidates to process
+2026-10-04 23:57:50,740 INFO C agency https://www.francorosso.it/                   ok           pages=150 pdfs=0
+2026-10-04 23:57:51,666 INFO C agency https://www.dertour.de/                       ok           pages=150 pdfs=5
+2026-10-04 23:58:05,674 INFO progress 25/324 {'unmatched': 5, 'failed': 2, 'stored': 16, 'duplicate': 2}
+2026-10-04 23:58:05,678 INFO C agency https://www.malediven-reisen.de/              ok           pages=15 pdfs=0
+2026-10-04 23:58:23,489 INFO progress 50/324 {'unmatched': 5, 'failed': 2, 'stored': 41, 'duplicate': 2}
+2026-10-04 23:58:40,643 INFO progress 75/324 {'unmatched': 5, 'failed': 4, 'stored': 63, 'duplicate': 2, 'rejected': 1}
+2026-10-04 23:58:47,752 INFO C agency https://www.manta-reisen.ch/                  unreachable  pages=0 pdfs=0
+2026-10-04 23:59:01,389 INFO progress 100/324 {'unmatched': 5, 'failed': 4, 'stored': 88, 'duplicate': 2, 'rejected': 1}
+2026-10-04 23:59:21,318 INFO progress 125/324 {'unmatched': 5, 'failed': 4, 'stored': 112, 'duplicate': 2, 'rejected': 2}
+2026-10-04 23:59:38,581 INFO progress 150/324 {'unmatched': 6, 'failed': 8, 'stored': 130, 'duplicate': 4, 'rejected': 2}
+2026-10-04 23:59:48,413 INFO progress 175/324 {'unmatched': 6, 'failed': 19, 'stored': 142, 'duplicate': 6, 'rejected': 2}
+2026-10-05 00:00:06,638 INFO progress 200/324 {'unmatched': 6, 'failed': 20, 'stored': 166, 'duplicate': 6, 'rejected': 2}
+2026-10-05 00:00:25,559 INFO progress 225/324 {'unmatched': 6, 'failed': 20, 'stored': 191, 'duplicate': 6, 'rejected': 2}
+2026-10-05 00:00:45,535 INFO progress 250/324 {'unmatched': 6, 'failed': 21, 'stored': 215, 'duplicate': 6, 'rejected': 2}
+2026-10-05 00:01:05,166 INFO progress 275/324 {'unmatched': 6, 'failed': 21, 'stored': 240, 'duplicate': 6, 'rejected': 2}
+2026-10-05 00:01:20,898 INFO progress 300/324 {'unmatched': 10, 'failed': 22, 'stored': 259, 'duplicate': 7, 'rejected': 2}
+2026-10-05 00:01:33,439 INFO queue done: {'unmatched': 32, 'failed': 22, 'stored': 261, 'duplicate': 7, 'rejected': 2}
+2026-10-05 00:01:34,418 ERROR build_outputs failed
+Traceback (most recent call last):
+  File "/home/user/maldives/phase_b.py", line 119, in commit
+    build_outputs.build_all()
+  File "/home/user/maldives/build_outputs.py", line 252, in build_all
+    "- PDFs: `library/<NNN>_<slug>/<doc_type>/<year>_<file>.pdf` (git-ignored; private). R2 upload only when `CLOUDFLARE_API_TOKEN`/`CLOUDFLARE_ACCOUNT_ID` are set.",
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/user/maldives/build_outputs.py", line 147, in build_workbook
+    a["pdf_matched"] += s.get("pdf_matched", 0) or 0
+  File "/usr/local/lib/python3.11/dist-packages/openpyxl/worksheet/worksheet.py", line 673, in append
+    cell = Cell(self, row=row_idx, column=col_idx, value=content)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/dist-packages/openpyxl/cell/cell.py", line 119, in __init__
+    self.value = value
+    ^^^^^^^^^^
+  File "/usr/local/lib/python3.11/dist-packages/openpyxl/cell/cell.py", line 218, in value
+    self._bind_value(value)
+  File "/usr/local/lib/python3.11/dist-packages/openpyxl/cell/cell.py", line 197, in _bind_value
+    value = self.check_string(value)
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/dist-packages/openpyxl/cell/cell.py", line 165, in check_string
+    raise IllegalCharacterError(f"{value} cannot be used in worksheets.")
+openpyxl.utils.exceptions.IllegalCharacterError:  IN-ROOM DINING POUR COMMANDER, CONTACTEZ IN-ROOM DINING READY TO ORDER, JUST DIAL IN-ROOM DINING PICNIC POUR COMMANDER, CONTACTEZ IN-ROOM DINING   cannot be used in worksheets.
