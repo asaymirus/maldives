@@ -82,6 +82,12 @@ Meal plans: HB, FB
 - Packages: Honeymoon Bath Experience USD 255 (2025); Ceremony USD 4000 (2025); Wedding USD 350 (2025)
 - Brochure: https://www.conradmaldives.com/wp-content/uploads/2025/12/CMRI_Wedding-Brochure_July2025-2.pdf
 
+## Destination dining
+
+- Experiences: private dining, beach dinner, beach bbq, sandbank dinner, floating breakfast, underwater dining, underwater restaurant, in-villa dining, romantic dinner, destination dining, sunset cruise, romantic dining, candlelit dinner
+- Packages: VILLA BEACH BBQ USD 399 (2026); Honeymoon Bath Experience USD 255 (2025); Beach BBQ USD 145 (2026-10-04)
+- Sandbank events: True; document: https://www.conradmaldives.com/wp-content/uploads/2025/12/Island-Destination-Dining-Conrad-Maldives-Rangali-Island.pdf
+
 ## Events / MICE
 
 - Venues: n/a; capacity max: 10; buyout: None
@@ -105,9 +111,10 @@ Meal plans: HB, FB
 - dive_prices: https://www.conradmaldives.com/wp-content/uploads/2025/12/2025-Conrad-Dive-Centre-Brochure-.pdf
 - events: none
 - calendar: https://www.conradmaldives.com/wp-content/uploads/2026/02/An-Island-Safari-this-Easter-at-Conrad-Maldives.pdf
+- destination_dining: https://www.conradmaldives.com/wp-content/uploads/2025/12/Island-Destination-Dining-Conrad-Maldives-Rangali-Island.pdf
 
 ## Gaps
 
 - events/MICE document
 
-_Facts extracted by rules from 27 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._
+_Facts extracted by rules from 30 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

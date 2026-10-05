@@ -10,13 +10,14 @@
  "official_site_status": "ok",
  "operator_brand": "Adaaran",
  "atoll": "South Malé Atoll",
- "island": "Free",
+ "island": "Meedhupparu",
  "opened_or_renovated": null,
  "star_rating": null,
  "transfer": {
   "modes": [
    "speedboat",
-   "seaplane"
+   "seaplane",
+   "domestic flight"
   ],
   "minutes": {
    "seaplane": null,
@@ -98,8 +99,9 @@
    "snorkelling",
    "windsurfing",
    "whale shark",
-   "kayaking",
-   "sunset cruise"
+   "parasailing",
+   "sunset cruise",
+   "kayaking"
   ],
   "price_list_doc": "https://www.adaaran.com/clubrannalhi/view-download/?id=menu-05"
  },
@@ -113,6 +115,7 @@
   "sunset fishing",
   "Male city tour",
   "whale shark",
+  "cinema",
   "night fishing"
  ],
  "kids_family": {
@@ -137,9 +140,34 @@
     "price": "250",
     "currency": "USD",
     "as_of": 2026
+   },
+   {
+    "name": "Vow",
+    "price": "500",
+    "currency": "USD",
+    "as_of": "2026-10-05"
    }
   ],
   "brochure_doc": "https://www.adaaran.com/clubrannalhi/view-download/?id=acrweddingpack"
+ },
+ "destination_dining": {
+  "experiences": [
+   "destination dining",
+   "romantic dining",
+   "romantic dinner",
+   "lobster dinner",
+   "candlelit dinner",
+   "anniversary celebration",
+   "romantic candlelit dinner",
+   "beach dinner",
+   "sunset cruise",
+   "floating breakfast",
+   "jetty dinner",
+   "romantic beach dinner"
+  ],
+  "packages": [],
+  "sandbank_events": null,
+  "doc": null
  },
  "events_mice": {
   "venues": [],
@@ -167,7 +195,8 @@
   "dining_menu": "https://www.adaaran.com/clubrannalhi/view-download/?id=menu-01",
   "dive_prices": "https://www.adaaran.com/clubrannalhi/view-download/?id=menu-05",
   "events": null,
-  "calendar": null
+  "calendar": null,
+  "destination_dining": null
  },
  "documents_count": 16,
  "gaps": [
@@ -196,6 +225,11 @@
     "value": "South Malé Atoll",
     "source_url": "https://www.adaaran.com/clubrannalhi/offers/adaaran-local-escape/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "Raa Atoll",
+    "source_url": "https://www.adaaran.com/blog/adaaran-resorts-five-distinct-ways-to-experience-the-maldives/",
+    "as_of": "2026-10-05"
    },
    {
     "value": "South Male Atoll",
@@ -353,6 +387,26 @@
     "value": "speedboat",
     "source_url": "https://www.adaaran.com/clubrannalhi/facilities/daily-activities/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.adaaran.com/blog/adaaran-resorts-five-distinct-ways-to-experience-the-maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.adaaran.com/prestigewatervillas/experiences/diving/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.adaaran.com/prestigewatervillas/experiences/diving/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "domestic flight",
+    "source_url": "https://www.adaaran.com/prestigewatervillas/experiences/diving/",
+    "as_of": "2026-10-05"
    },
    {
     "value": "speedboat",
@@ -585,6 +639,26 @@
     "value": "Spa",
     "source_url": "https://www.adaaran.com/clubrannalhi/facilities/daily-activities/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "From Mandara Spa",
+    "source_url": "https://www.adaaran.com/blog/adaaran-resorts-five-distinct-ways-to-experience-the-maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.adaaran.com/experiences",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.adaaran.com/offers/romantic-getaway/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.adaaran.com/prestigewatervillas/experiences/diving/",
+    "as_of": "2026-10-05"
    },
    {
     "value": "Spa",
@@ -1089,6 +1163,66 @@
     "as_of": "2026-10-04"
    },
    {
+    "value": "snorkelling",
+    "source_url": "https://www.adaaran.com/blog/adaaran-resorts-five-distinct-ways-to-experience-the-maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "catamaran",
+    "source_url": "https://www.adaaran.com/blog/adaaran-resorts-five-distinct-ways-to-experience-the-maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "parasailing",
+    "source_url": "https://www.adaaran.com/blog/adaaran-resorts-five-distinct-ways-to-experience-the-maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.adaaran.com/blog/adaaran-resorts-five-distinct-ways-to-experience-the-maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.adaaran.com/blog/adaaran-resorts-five-distinct-ways-to-experience-the-maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sailing",
+    "source_url": "https://www.adaaran.com/blog/adaaran-resorts-five-distinct-ways-to-experience-the-maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.adaaran.com/experiences",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://www.adaaran.com/experiences",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.adaaran.com/offers/romantic-getaway/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.adaaran.com/prestigewatervillas/experiences/diving/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://www.adaaran.com/prestigewatervillas/experiences/diving/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.adaaran.com/prestigewatervillas/experiences/diving/",
+    "as_of": "2026-10-05"
+   },
+   {
     "value": "snorkeling",
     "source_url": "https://www.neoscapesmaldives.com/resort/adaaran-club-rannalhi/",
     "as_of": "2026-10-04"
@@ -1491,6 +1625,36 @@
     "as_of": "2026-10-04"
    },
    {
+    "value": "cinema",
+    "source_url": "https://www.adaaran.com/blog/adaaran-resorts-five-distinct-ways-to-experience-the-maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.adaaran.com/blog/valentines-day-at-adaaran-resorts-romance-redefined/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.adaaran.com/experiences",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "local island",
+    "source_url": "https://www.adaaran.com/prestigewatervillas/experiences/diving/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.adaaran.com/prestigewatervillas/experiences/diving/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.adaaran.com/prestigewatervillas/experiences/diving/",
+    "as_of": "2026-10-05"
+   },
+   {
     "value": "island hopping",
     "source_url": "https://www.neoscapesmaldives.com/resort/adaaran-club-rannalhi/",
     "as_of": "2026-10-04"
@@ -1695,6 +1859,138 @@
     "value": true,
     "source_url": "https://www.adaaran.com/clubrannalhi/view-download/?id=acr-factsheet",
     "as_of": 2026
+   },
+   {
+    "value": true,
+    "source_url": "https://www.adaaran.com/prestigewatervillas/experiences/diving/",
+    "as_of": "2026-10-05"
+   }
+  ],
+  "destination_dining.experiences": [
+   {
+    "value": "destination dining",
+    "source_url": "https://www.adaaran.com/clubrannalhi/view-download/?id=acr-factsheet",
+    "as_of": 2026
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://www.adaaran.com/clubrannalhi/view-download/?id=acr-factsheet",
+    "as_of": 2026
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://www.adaaran.com/clubrannalhi/view-download/?id=acr-factsheet",
+    "as_of": 2026
+   },
+   {
+    "value": "romantic dining",
+    "source_url": "https://www.adaaran.com/clubrannalhi/view-download/?id=DO",
+    "as_of": 2025
+   },
+   {
+    "value": "romantic dinner",
+    "source_url": "https://www.adaaran.com/clubrannalhi/view-download/?id=DO",
+    "as_of": 2025
+   },
+   {
+    "value": "romantic dinner",
+    "source_url": "https://www.adaaran.com/clubrannalhi/view-download/?id=DO",
+    "as_of": 2025
+   },
+   {
+    "value": "lobster dinner",
+    "source_url": "https://www.adaaran.com/clubrannalhi/view-download/?id=DO",
+    "as_of": 2025
+   },
+   {
+    "value": "lobster dinner",
+    "source_url": "https://www.adaaran.com/clubrannalhi/view-download/?id=DO",
+    "as_of": 2025
+   },
+   {
+    "value": "candlelit dinner",
+    "source_url": "https://www.adaaran.com/clubrannalhi/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "anniversary celebration",
+    "source_url": "https://www.adaaran.com/clubrannalhi/all-inclusive-offering/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "romantic candlelit dinner",
+    "source_url": "https://www.adaaran.com/clubrannalhi/offers/storrington-collective-romantic-getaway/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "candlelit dinner",
+    "source_url": "https://www.adaaran.com/clubrannalhi/offers/storrington-collective-romantic-getaway/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "beach dinner",
+    "source_url": "https://www.adaaran.com/clubrannalhi/weddings/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "candlelit dinner",
+    "source_url": "https://www.adaaran.com/clubrannalhi/dining/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.adaaran.com/blog/adaaran-resorts-five-distinct-ways-to-experience-the-maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://www.adaaran.com/blog/celebrate-100-days-to-christmas-with-adaaran-resorts/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "candlelit dinner",
+    "source_url": "https://www.adaaran.com/blog/celebrate-100-days-to-christmas-with-adaaran-resorts/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://www.adaaran.com/blog/celebrate-100-days-to-christmas-with-adaaran-resorts/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "candlelit dinner",
+    "source_url": "https://www.adaaran.com/blog/celebrate-100-days-to-christmas-with-adaaran-resorts/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "romantic dinner",
+    "source_url": "https://www.adaaran.com/blog/valentines-day-at-adaaran-resorts-romance-redefined/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "jetty dinner",
+    "source_url": "https://www.adaaran.com/blog/valentines-day-at-adaaran-resorts-romance-redefined/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://www.adaaran.com/offers/romantic-getaway/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "romantic beach dinner",
+    "source_url": "https://www.adaaran.com/offers/romantic-getaway/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://www.adaaran.com/offers/romantic-getaway/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.neoscapesmaldives.com/resort/adaaran-club-rannalhi/",
+    "as_of": "2026-10-04"
    }
   ],
   "contacts_public.phone": [
@@ -1836,6 +2132,16 @@
     },
     "source_url": "https://www.adaaran.com/clubrannalhi/view-download/?id=acrweddingpack",
     "as_of": 2026
+   },
+   {
+    "value": {
+     "name": "Vow",
+     "price": "500",
+     "currency": "USD",
+     "as_of": "2026-10-05"
+    },
+    "source_url": "https://www.adaaran.com/prestigewatervillas/experiences/diving/",
+    "as_of": "2026-10-05"
    }
   ],
   "contacts_public.reservations_email": [
@@ -2293,6 +2599,16 @@
     "as_of": "2026-10-04"
    },
    {
+    "value": "All-Inclusive rhythm that makes every day feel easy to inhabit.",
+    "source_url": "https://www.adaaran.com/blog/adaaran-resorts-five-distinct-ways-to-experience-the-maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "All-Inclusive experiences.",
+    "source_url": "https://www.adaaran.com/blog/valentines-day-at-adaaran-resorts-romance-redefined/",
+    "as_of": "2026-10-05"
+   },
+   {
     "value": "All-Inclusive dining, daily excursions, and friendly Maldivian hospitality make every moment unforgettable.",
     "source_url": "https://www.neoscapesmaldives.com/resort/adaaran-club-rannalhi/",
     "as_of": "2026-10-04"
@@ -2517,6 +2833,16 @@
     "value": "Dive Point",
     "source_url": "https://www.adaaran.com/clubrannalhi/experiences/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "Dive Point",
+    "source_url": "https://www.adaaran.com/experiences",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Dive Point",
+    "source_url": "https://www.adaaran.com/prestigewatervillas/experiences/diving/",
+    "as_of": "2026-10-05"
    }
   ],
   "diving_watersports.house_reef": [
@@ -2596,6 +2922,11 @@
     "as_of": "2026-10-04"
    },
    {
+    "value": "house reefs and family-friendly ease to adults-only overwater enclaves designed for quiet togetherness, Adaaran Resorts brings the Maldives to life through experiences th",
+    "source_url": "https://www.adaaran.com/blog/adaaran-resorts-five-distinct-ways-to-experience-the-maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
     "value": "House Reef Rannalhi and swim with tropical fish, manta rays, and gentle sea turtles",
     "source_url": "https://www.neoscapesmaldives.com/resort/adaaran-club-rannalhi/",
     "as_of": "2026-10-04"
@@ -2623,6 +2954,18 @@
     "as_of": "2026-10-04"
    }
   ],
+  "island": [
+   {
+    "value": "Meedhupparu",
+    "source_url": "https://www.adaaran.com/blog/adaaran-resorts-five-distinct-ways-to-experience-the-maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Free",
+    "source_url": "https://maldivestraveller.mv/en/holidays/maldives-tours/day-visit-to-adaaran-club-rannalhi",
+    "as_of": "2026-10-04"
+   }
+  ],
   "island_size": [
    {
     "value": "400 m x 150 m",
@@ -2634,13 +2977,6 @@
    {
     "value": 116,
     "source_url": "https://www.mymaldives.com/resort-guide/adaaran-club-rannalhi/",
-    "as_of": "2026-10-04"
-   }
-  ],
-  "island": [
-   {
-    "value": "Free",
-    "source_url": "https://maldivestraveller.mv/en/holidays/maldives-tours/day-visit-to-adaaran-club-rannalhi",
     "as_of": "2026-10-04"
    }
   ]

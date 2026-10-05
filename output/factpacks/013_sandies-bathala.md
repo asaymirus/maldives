@@ -45,6 +45,12 @@ All-inclusive: All-Inclusive plan.
 - Packages: n/a
 - Brochure: none
 
+## Destination dining
+
+- Experiences: romantic dinner, lobster dinner, underwater restaurant
+- Packages: n/a
+- Sandbank events: None; document: none
+
 ## Events / MICE
 
 - Venues: Venue Theatre Classroom U-Shape Boardroom Banquet Cocktail; Main Ballroom 400 280 100 80 200 350; Boardroom 20 20 20 14 — —; Meeting Room; capacity max: 60; buyout: None
@@ -68,6 +74,7 @@ All-inclusive: All-Inclusive plan.
 - dive_prices: none
 - events: https://d1vp8nomjxwyf1.cloudfront.net/wp-content/uploads/sites/212/2017/07/03081145/DIAMONDS-Malindi-MICE-Booklet-2026.pdf
 - calendar: none
+- destination_dining: none
 
 ## Gaps
 
@@ -75,4 +82,4 @@ All-inclusive: All-Inclusive plan.
 - wedding brochure
 - fact: kids club
 
-_Facts extracted by rules from 21 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._
+_Facts extracted by rules from 22 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

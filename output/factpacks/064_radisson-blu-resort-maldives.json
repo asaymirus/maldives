@@ -138,6 +138,14 @@
   "packages": [],
   "brochure_doc": null
  },
+ "destination_dining": {
+  "experiences": [
+   "floating breakfast"
+  ],
+  "packages": [],
+  "sandbank_events": null,
+  "doc": null
+ },
  "events_mice": {
   "venues": [
    "Event Space"
@@ -160,7 +168,8 @@
   "dining_menu": "https://letsgomaldives.com/wp-content/uploads/2026/03/Radisson-Blu-Resort-Maldives_Eid_2026.pdf",
   "dive_prices": null,
   "events": null,
-  "calendar": null
+  "calendar": null,
+  "destination_dining": null
  },
  "documents_count": 3,
  "gaps": [
@@ -459,6 +468,13 @@
   "weddings.offered": [
    {
     "value": true,
+    "source_url": "https://www.neoscapesmaldives.com/resort/radisson-blu-resort-maldives/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "destination_dining.experiences": [
+   {
+    "value": "floating breakfast",
     "source_url": "https://www.neoscapesmaldives.com/resort/radisson-blu-resort-maldives/",
     "as_of": "2026-10-04"
    }

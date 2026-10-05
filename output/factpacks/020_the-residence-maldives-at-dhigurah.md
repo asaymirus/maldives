@@ -24,8 +24,9 @@
 - The Dining Room Bar (bar)
 - Piano Bar (bar)
 - Le Restaurant (restaurant)
+- The Pool Bar (bar)
 
-Meal plans: AI, FB, HB
+Meal plans: AI, FB, HB, BB, Premium AI
 All-inclusive: All-Inclusive meal plan, and delight in a world of flavors across our 9 restaurants and bars (2-resorts combined).
 
 ## Spa & wellness
@@ -37,9 +38,9 @@ All-inclusive: All-Inclusive meal plan, and delight in a world of flavors across
 
 - Operator: Dive Centre
 - House reef: House Reef orientation (once during the stay)
-- Activities: snorkeling, fishing, stand-up paddle, dolphin cruise, snorkelling, scuba diving, windsurfing, kayaking, catamaran, parasailing, sailing, whale shark, manta, surfing
+- Activities: snorkeling, fishing, stand-up paddle, dolphin cruise, snorkelling, scuba diving, windsurfing, kayaking, catamaran, parasailing, sailing, whale shark, manta, surfing, jet ski
 - Price list: none
-- Excursions: cooking class, local island, dolphin, big game fishing, turtle, picnic, island hopping, castaway, whale shark, manta, sandbank, cinema
+- Excursions: cooking class, local island, dolphin, big game fishing, turtle, picnic, island hopping, castaway, whale shark, manta, sandbank, cinema, private dinner
 
 ## Kids & family
 
@@ -52,6 +53,12 @@ All-inclusive: All-Inclusive meal plan, and delight in a world of flavors across
 - Packages: Wedding Ceremony Package USD 1200 (2022); Wedding USD 1200 (2022); Single Package EUR 1770 (2026-10-05); Double Package EUR 2095 (2026-10-05); VIBES Destination Dining Experience USD 500 (2026-10-05); Island Summer Savings Package USD 450 (2026-10-05)
 - Brochure: https://www.cenizaro.com/docs/maldives-dg/Maldives_Wedding_Ceremony_Packages.pdf
 
+## Destination dining
+
+- Experiences: floating breakfast, private dining, dine under the stars, romantic dinner, in-villa dining, candlelit dinner, romantic candlelit dinner, sandbank escape, dinner under the stars, sand bank trip, romantic beach dinner, destination dining, private chef, in-villa bbq
+- Packages: VIBES Destination Dining USD 500 (2026-10-05)
+- Sandbank events: True; document: none
+
 ## Events / MICE
 
 - Venues: n/a; capacity max: 240; buyout: None
@@ -59,7 +66,7 @@ All-inclusive: All-Inclusive meal plan, and delight in a world of flavors across
 
 ## Sustainability
 
-- Blue Marine Foundation, single-use plastic
+- Blue Marine Foundation, single-use plastic, marine biologist
 
 ## Public contacts
 
@@ -75,10 +82,11 @@ All-inclusive: All-Inclusive meal plan, and delight in a world of flavors across
 - dive_prices: none
 - events: none
 - calendar: https://www.cenizaro.com/docs/pressclippings/luxurytravelmagazine.com%2C_06.07.22.pdf
+- destination_dining: none
 
 ## Gaps
 
 - factsheet
 - events/MICE document
 
-_Facts extracted by rules from 29 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._
+_Facts extracted by rules from 32 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

@@ -66,6 +66,12 @@ Kids Club; ages: n/a; teens: teens programme mentioned
 - Packages: n/a
 - Brochure: none
 
+## Destination dining
+
+- Experiences: destination dining, sunset cruise, in-villa dining, beach bbq, in-villa bbq, anniversary celebration, romantic dinner, in-villa barbecue, private dining, candlelit dinner, beach barbecue, floating breakfast, beach dinner, private chef, in villa dining, sandbank dinner
+- Packages: n/a
+- Sandbank events: True; document: none
+
 ## Events / MICE
 
 - Venues: Boardroom 32 sqm • • • • 10; Boardroom Banyan Room Summit Room 17; Extensive spa facilities, a luxurious ballroom; Total event space; Boardroom; Beyond the Meeting Room; capacity max: 600; buyout: None
@@ -77,7 +83,7 @@ Kids Club; ages: n/a; teens: teens programme mentioned
 
 ## Public contacts
 
-- Reservations: reservations-mayakoba@banyantree.com; weddings: n/a; phone: +960 664 3147
+- Reservations: reservationsbt@mayakobaexperiences.com; weddings: n/a; phone: +960 664 3147
 
 ## Latest documents
 
@@ -89,9 +95,10 @@ Kids Club; ages: n/a; teens: teens programme mentioned
 - dive_prices: none
 - events: https://www.banyantree.com/assets/2022-06/mice-bt-shanghai.pdf
 - calendar: none
+- destination_dining: none
 
 ## Gaps
 
 - wedding brochure
 
-_Facts extracted by rules from 26 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._
+_Facts extracted by rules from 28 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

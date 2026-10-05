@@ -18,6 +18,7 @@
 
 ## Dining
 
+- LOCATION: Ahima Restaurant Beach (restaurant)
 
 Meal plans: HB, FB, AI
 
@@ -45,6 +46,12 @@ Meal plans: HB, FB, AI
 - Packages: n/a
 - Brochure: none
 
+## Destination dining
+
+- Experiences: romantic dinner, beach dinner, destination dining, lagoon lunch, sunset dinner, dine under the stars, romantic beach dinner, sandbank picnic, floating breakfast
+- Packages: n/a
+- Sandbank events: True; document: none
+
 ## Events / MICE
 
 - Venues: n/a; capacity max: n/a; buyout: None
@@ -64,15 +71,15 @@ Meal plans: HB, FB, AI
 - map: https://www.neoscapesmaldives.com/wp-content/uploads/Resort-Map_EN.pdf
 - wedding: none
 - spa_menu: none
-- dining_menu: none
+- dining_menu: https://dra0pipbd8ype.cloudfront.net/sites/3/2020/12/FullMoonBBQBuffetMenu-min.pdf
 - dive_prices: none
 - events: none
 - calendar: https://www.finolhu.com/wp-content/uploads/2026/03/finolhu-easter-program-2026.pdf
+- destination_dining: none
 
 ## Gaps
 
 - wedding brochure
 - events/MICE document
-- fact: dining
 
-_Facts extracted by rules from 19 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._
+_Facts extracted by rules from 22 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

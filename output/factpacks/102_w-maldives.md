@@ -44,6 +44,12 @@ All-inclusive: all-inclusive package.
 - Packages: n/a
 - Brochure: none
 
+## Destination dining
+
+- Experiences: private dining, romantic dinner, wine pairing, private chef, underwater restaurant, floating breakfast
+- Packages: n/a
+- Sandbank events: None; document: none
+
 ## Events / MICE
 
 - Venues: n/a; capacity max: 10; buyout: None
@@ -67,6 +73,7 @@ All-inclusive: all-inclusive package.
 - dive_prices: none
 - events: none
 - calendar: none
+- destination_dining: none
 
 ## Gaps
 
@@ -74,4 +81,4 @@ All-inclusive: all-inclusive package.
 - events/MICE document
 - fact: kids club
 
-_Facts extracted by rules from 23 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._
+_Facts extracted by rules from 24 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

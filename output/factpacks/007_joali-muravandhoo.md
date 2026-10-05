@@ -58,6 +58,12 @@ JOALI Spa; treatment rooms: ?; menu: none
 - Packages: n/a
 - Brochure: none
 
+## Destination dining
+
+- Experiences: destination dining, in-villa dining, candlelit dinner
+- Packages: n/a
+- Sandbank events: None; document: none
+
 ## Events / MICE
 
 - Venues: n/a; capacity max: n/a; buyout: None
@@ -81,6 +87,7 @@ JOALI Spa; treatment rooms: ?; menu: none
 - dive_prices: none
 - events: none
 - calendar: none
+- destination_dining: none
 
 ## Gaps
 
@@ -88,4 +95,4 @@ JOALI Spa; treatment rooms: ?; menu: none
 - events/MICE document
 - fact: dive operator
 
-_Facts extracted by rules from 15 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._
+_Facts extracted by rules from 16 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

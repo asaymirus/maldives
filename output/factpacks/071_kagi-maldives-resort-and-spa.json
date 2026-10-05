@@ -220,6 +220,32 @@
   ],
   "brochure_doc": "https://kagimaldives.com/wp-content/uploads/2021/01/Kagi_PureRomanceWeddings2021.pdf"
  },
+ "destination_dining": {
+  "experiences": [
+   "sunset cruise",
+   "floating breakfast",
+   "destination dining",
+   "sandbank picnic",
+   "romantic private dinner",
+   "romantic dinner"
+  ],
+  "packages": [
+   {
+    "name": "Floating Breakfast",
+    "price": "105",
+    "currency": "USD",
+    "as_of": 2021
+   },
+   {
+    "name": "Healthy Floating Breakfast",
+    "price": "241",
+    "currency": "USD",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "sandbank_events": true,
+  "doc": null
+ },
  "events_mice": {
   "venues": [],
   "capacity_max": 12,
@@ -248,7 +274,8 @@
   "dining_menu": "https://www.saiihotels.com/wp-content/uploads/2026/07/SunRay_Drink_AllDay_297x105mm_05.pdf",
   "dive_prices": "https://kagimaldives.com/wp-content/uploads/2026/02/KagiMSTSDivingPriceList120125103126Ver220226.pdf",
   "events": null,
-  "calendar": "https://d2qwq69i2ic1pk.cloudfront.net/2023/11/CCR_2024_Calendar_compressed.pdf"
+  "calendar": "https://d2qwq69i2ic1pk.cloudfront.net/2023/11/CCR_2024_Calendar_compressed.pdf",
+  "destination_dining": null
  },
  "documents_count": 130,
  "gaps": [
@@ -1402,6 +1429,108 @@
     "as_of": "2026-10-04"
    }
   ],
+  "destination_dining.experiences": [
+   {
+    "value": "sunset cruise",
+    "source_url": "https://kagimaldives.com/wp-content/uploads/2026/07/FactSheetKagi110126103127Ver120726.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://kagimaldives.com/wp-content/uploads/2021/01/Kagi_PureRomanceWeddings2021.pdf",
+    "as_of": 2021
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://kagimaldives.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://kagimaldives.com/pure-life-experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank picnic",
+    "source_url": "https://kagimaldives.com/pure-life-experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "romantic private dinner",
+    "source_url": "https://kagimaldives.com/exclusive-book-direct-offer/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://kagimaldives.com/exclusive-book-direct-offer/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://kagimaldives.com/exclusive-book-direct-offer/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://kagimaldives.com/elegant-living-space/special-offers/exclusive-packages/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://kagimaldives.com/elegant-living-space/special-offers/exclusive-packages/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://kagimaldives.com/elegant-living-space/special-offers/exclusive-packages/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://kagimaldives.com/home/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://kagimaldives.com/elegant-living-space/special-offers/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://kagimaldives.com/elegant-living-space/special-offers/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "romantic dinner",
+    "source_url": "https://kagimaldives.com/elegant-living-space/special-offers/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://kagimaldives.com/elegant-living-space/special-offers/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://kagimaldives.com/elegant-living-space/special-offers/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://kagimaldives.com/pure-life-experiences",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank picnic",
+    "source_url": "https://kagimaldives.com/pure-life-experiences",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://kagimaldives.com",
+    "as_of": "2026-10-04"
+   }
+  ],
   "contacts_public.reservations_email": [
    {
     "value": "reservations@kagimaldives.com",
@@ -1575,6 +1704,28 @@
     },
     "source_url": "https://kagimaldives.com/wp-content/uploads/2021/01/Kagi_PureRomanceWeddings2021.pdf",
     "as_of": 2021
+   }
+  ],
+  "destination_dining.packages": [
+   {
+    "value": {
+     "name": "Floating Breakfast",
+     "price": "105",
+     "currency": "USD",
+     "as_of": 2021
+    },
+    "source_url": "https://kagimaldives.com/wp-content/uploads/2021/01/Kagi_PureRomanceWeddings2021.pdf",
+    "as_of": 2021
+   },
+   {
+    "value": {
+     "name": "Healthy Floating Breakfast",
+     "price": "241",
+     "currency": "USD",
+     "as_of": "2026-10-04"
+    },
+    "source_url": "https://kagimaldives.com/elegant-living-space/special-offers/exclusive-packages/",
+    "as_of": "2026-10-04"
    }
   ],
   "sustainability": [
@@ -1776,6 +1927,18 @@
    {
     "value": "5-star",
     "source_url": "https://kagimaldives.com/diving-water-sports",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "destination_dining.sandbank_events": [
+   {
+    "value": true,
+    "source_url": "https://kagimaldives.com/pure-life-experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://kagimaldives.com/pure-life-experiences",
     "as_of": "2026-10-04"
    }
   ],

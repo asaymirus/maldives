@@ -2,7 +2,7 @@
 
 **Official site:** https://www.adaaran.com/selectmeedhupparu/ (ok)  
 **Brand:** Adaaran  
-**Atoll:** Raa Atoll  **Island:** Bali  
+**Atoll:** Raa Atoll  **Island:** Meedhupparu  
 **Opened/renovated:** n/a  **Rating:** 5-star  
 **Transfer:** seaplane, speedboat, domestic flight; minutes: {"seaplane": 20, "speedboat": 45, "domestic flight": 20}  
 **Island size:** n/a  
@@ -79,6 +79,12 @@ Komas Kids Club; ages: n/a; teens: teens programme mentioned
 - Packages: Wedding USD 120 (2026); Vow USD 500 (2026-10-04)
 - Brochure: https://www.adaaran.com/selectmeedhupparu/view-download/?id=ASMW
 
+## Destination dining
+
+- Experiences: sandbank picnic, beach dinner, sunset cruise, romantic beach dinner, private dining, candlelit dinner, romantic candlelit dinner, floating breakfast, in-villa dining, anniversary celebration, wine dinner, beach bbq, romantic dinner, sand bank picnic, jetty dinner
+- Packages: n/a
+- Sandbank events: True; document: none
+
 ## Events / MICE
 
 - Venues: n/a; capacity max: 10; buyout: None
@@ -102,10 +108,11 @@ Komas Kids Club; ages: n/a; teens: teens programme mentioned
 - dive_prices: https://www.adaaran.com/selectmeedhupparu/view-download/?id=asm-watersport
 - events: none
 - calendar: none
+- destination_dining: none
 
 ## Gaps
 
 - events/MICE document
 - fact: contacts
 
-_Facts extracted by rules from 27 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._
+_Facts extracted by rules from 29 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

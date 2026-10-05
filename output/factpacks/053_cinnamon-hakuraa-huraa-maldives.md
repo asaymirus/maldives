@@ -52,6 +52,12 @@ All-inclusive: All Inclusive from £1,739 pp incl.
 - Packages: n/a
 - Brochure: none
 
+## Destination dining
+
+- Experiences: private dining, wine pairing, romantic dining, dine under the stars
+- Packages: n/a
+- Sandbank events: None; document: none
+
 ## Events / MICE
 
 - Venues: n/a; capacity max: n/a; buyout: None
@@ -75,6 +81,7 @@ All-inclusive: All Inclusive from £1,739 pp incl.
 - dive_prices: none
 - events: none
 - calendar: none
+- destination_dining: none
 
 ## Gaps
 
@@ -84,4 +91,4 @@ All-inclusive: All Inclusive from £1,739 pp incl.
 - fact: dive operator
 - fact: kids club
 
-_Facts extracted by rules from 19 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._
+_Facts extracted by rules from 20 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

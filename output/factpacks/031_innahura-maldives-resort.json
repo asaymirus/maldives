@@ -84,6 +84,15 @@
   "packages": [],
   "brochure_doc": null
  },
+ "destination_dining": {
+  "experiences": [
+   "beach dinner",
+   "sunset cruise"
+  ],
+  "packages": [],
+  "sandbank_events": null,
+  "doc": null
+ },
  "events_mice": {
   "venues": [],
   "capacity_max": null,
@@ -104,7 +113,8 @@
   "dining_menu": null,
   "dive_prices": null,
   "events": null,
-  "calendar": "https://d2qwq69i2ic1pk.cloudfront.net/2023/11/CCR_2024_Calendar_compressed.pdf"
+  "calendar": "https://d2qwq69i2ic1pk.cloudfront.net/2023/11/CCR_2024_Calendar_compressed.pdf",
+  "destination_dining": null
  },
  "documents_count": 6,
  "gaps": [
@@ -288,6 +298,18 @@
   "weddings.vow_renewal": [
    {
     "value": true,
+    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2023/08/FactSheetInnahura110121103122Ver110121.pdf",
+    "as_of": 2021
+   }
+  ],
+  "destination_dining.experiences": [
+   {
+    "value": "beach dinner",
+    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2023/08/FactSheetInnahura110121103122Ver110121.pdf",
+    "as_of": 2021
+   },
+   {
+    "value": "sunset cruise",
     "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2023/08/FactSheetInnahura110121103122Ver110121.pdf",
     "as_of": 2021
    }

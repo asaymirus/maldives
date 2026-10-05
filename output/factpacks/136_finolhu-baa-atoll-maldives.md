@@ -42,7 +42,7 @@ All-inclusive: All-Inclusive experience.
 - House reef: House Reef Complimentary 06:30 - 08:30 Sunrise ‘Baraa’ Trolling $170
 - Activities: manta, sunset cruise, snorkelling, scuba diving, windsurfing, surfing, stand-up paddle, paddleboard, catamaran, jet ski, parasailing, seabob, fishing, dolphin cruise, sailing, fun tube, whale shark, water skiing, wakeboarding
 - Price list: https://www.finolhu.com/wp-content/uploads/2026/04/Watersports-Price-List-2026.pdf
-- Excursions: manta, turtle, sandbank, local island, dolphin, big game fishing, picnic, whale shark
+- Excursions: manta, turtle, sandbank, local island, dolphin, big game fishing, picnic, whale shark, cinema
 
 ## Kids & family
 
@@ -55,6 +55,12 @@ Oceaneers Kids Club; ages: n/a; teens: teens programme mentioned
 - Venues: n/a
 - Packages: Ceremony USD 1600 (2025); Discover Mermaid Experience USD 180 (2025); Mermaid Photo Package USD 200 (2025); Family Bonanza Package USD 300 (2025); Reef Cruiser Twin Package USD 200 (2026)
 - Brochure: https://www.finolhu.com/wp-content/uploads/2025/02/Wedding-Packages-2025.pdf
+
+## Destination dining
+
+- Experiences: floating breakfast, sunset cruise, private dining, sandbank picnic, beach dinner, dine under the stars, beach barbecue
+- Packages: Sandbank Picnic USD 350 (2025)
+- Sandbank events: True; document: none
 
 ## Events / MICE
 
@@ -79,9 +85,10 @@ Oceaneers Kids Club; ages: n/a; teens: teens programme mentioned
 - dive_prices: https://www.finolhu.com/wp-content/uploads/2026/04/Watersports-Price-List-2026.pdf
 - events: https://www.neoscapesmaldives.com/wp-content/uploads/D2MD-MICE-Brochure-2.pdf
 - calendar: https://www.finolhu.com/wp-content/uploads/2026/03/finolhu-easter-program-2026.pdf
+- destination_dining: none
 
 ## Gaps
 
 - fact: villas.total
 
-_Facts extracted by rules from 27 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._
+_Facts extracted by rules from 30 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

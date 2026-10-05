@@ -12,7 +12,7 @@
  "atoll": "South Malé Atoll",
  "island": "Male",
  "opened_or_renovated": null,
- "star_rating": null,
+ "star_rating": "5-star",
  "transfer": {
   "modes": [
    "yacht",
@@ -145,17 +145,19 @@
    "jet ski",
    "whale shark",
    "manta",
+   "sunset cruise",
    "parasailing",
    "fishing",
-   "sunset cruise",
    "dolphin cruise",
-   "snorkelling",
    "seabob",
+   "scuba diving",
    "windsurfing",
-   "kayaking",
+   "kitesurfing",
    "catamaran",
-   "wakeboarding",
-   "sailing"
+   "snorkelling",
+   "sailing",
+   "kayaking",
+   "wakeboarding"
   ],
   "price_list_doc": "https://www.waldorfastoriamaldives.com/wp-content/uploads/2025/07/2025-WA-Recreation-Centre-.pdf"
  },
@@ -163,11 +165,13 @@
   "sandbank",
   "whale shark",
   "manta",
+  "picnic",
+  "cinema",
   "dolphin",
   "sunset fishing",
   "big game fishing",
   "turtle",
-  "cinema",
+  "cooking class",
   "castaway"
  ],
  "kids_family": {
@@ -199,6 +203,27 @@
   "packages": [],
   "brochure_doc": "https://www.waldorfastoriamaldives.com/wp-content/uploads/2025/07/Unforgettable-Honeymoon-and-Romantic-Anniversaries-TC-.pdf"
  },
+ "destination_dining": {
+  "experiences": [
+   "treetop dining",
+   "destination dining",
+   "sandbank dinner",
+   "floating breakfast",
+   "romantic dinner",
+   "beach dinner",
+   "lagoon lunch",
+   "private chef",
+   "sunset cruise",
+   "sunset dinner",
+   "sandbank picnic",
+   "private dining",
+   "wine pairing",
+   "wine dinner"
+  ],
+  "packages": [],
+  "sandbank_events": true,
+  "doc": "https://www.waldorfastoriamaldives.com/wp-content/uploads/2025/07/Destination-Dining-Brochure-V2.pdf"
+ },
  "events_mice": {
   "venues": [],
   "capacity_max": null,
@@ -207,7 +232,8 @@
  },
  "sustainability": [
   "solar",
-  "Green Key"
+  "Green Key",
+  "coral restoration"
  ],
  "contacts_public": {
   "reservations_email": "info@neoscapesmaldives.com",
@@ -222,7 +248,8 @@
   "dining_menu": "https://www.waldorfastoriamaldives.com/wp-content/uploads/2026/08/Nava-Menu.pdf",
   "dive_prices": "https://www.waldorfastoriamaldives.com/wp-content/uploads/2025/07/2025-WA-Recreation-Centre-.pdf",
   "events": null,
-  "calendar": "https://www.waldorfastoriamaldives.com/wp-content/uploads/2026/10/WAMI-Festive-Brochure-2026.pdf"
+  "calendar": "https://www.waldorfastoriamaldives.com/wp-content/uploads/2026/10/WAMI-Festive-Brochure-2026.pdf",
+  "destination_dining": "https://www.waldorfastoriamaldives.com/wp-content/uploads/2025/07/Destination-Dining-Brochure-V2.pdf"
  },
  "documents_count": 44,
  "gaps": [
@@ -241,6 +268,11 @@
     "as_of": "2026-10-04"
    },
    {
+    "value": "South Malé Atoll",
+    "source_url": "https://www.waldorfastoriamaldives.com/stories/romantic-holidays-in-maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
     "value": "South Male Atoll",
     "source_url": "https://www.neoscapesmaldives.com/resort/waldorf-astoria-maldives/",
     "as_of": "2026-10-04"
@@ -255,6 +287,11 @@
    {
     "value": "yacht",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Fact-Sheet.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "yacht",
+    "source_url": "https://www.waldorfastoriamaldives.com/wp-content/uploads/2025/07/Destination-Dining-Brochure-V2.pdf",
     "as_of": 2025
    },
    {
@@ -286,6 +323,16 @@
     "value": "yacht",
     "source_url": "https://www.waldorfastoriamaldives.com/stories/maldives-wellness-retreat/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.waldorfastoriamaldives.com/stories/romantic-holidays-in-maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "yacht",
+    "source_url": "https://www.waldorfastoriamaldives.com/stories/romantic-holidays-in-maldives/",
+    "as_of": "2026-10-05"
    },
    {
     "value": "yacht",
@@ -400,6 +447,11 @@
     "as_of": "2026-10-04"
    },
    {
+    "value": "Spa",
+    "source_url": "https://www.waldorfastoriamaldives.com/de/stories/romantic-holidays-in-maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
     "value": "Waldorf Astoria Spa",
     "source_url": "https://www.neoscapesmaldives.com/resort/waldorf-astoria-maldives/",
     "as_of": "2026-10-04"
@@ -439,6 +491,11 @@
    {
     "value": "manta",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Fact-Sheet.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.waldorfastoriamaldives.com/wp-content/uploads/2025/07/Destination-Dining-Brochure-V2.pdf",
     "as_of": 2025
    },
    {
@@ -485,6 +542,91 @@
     "value": "sunset cruise",
     "source_url": "https://www.waldorfastoriamaldives.com/stories/romantic-retreats/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "paddleboard",
+    "source_url": "https://www.waldorfastoriamaldives.com/de/experience/under-over-the-blue/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "parasailing",
+    "source_url": "https://www.waldorfastoriamaldives.com/de/experience/under-over-the-blue/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "seabob",
+    "source_url": "https://www.waldorfastoriamaldives.com/de/experience/under-over-the-blue/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.waldorfastoriamaldives.com/de/stories/romantic-holidays-in-maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.waldorfastoriamaldives.com/experience/under-over-the-blue/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://www.waldorfastoriamaldives.com/experience/under-over-the-blue/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "windsurfing",
+    "source_url": "https://www.waldorfastoriamaldives.com/experience/under-over-the-blue/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "kitesurfing",
+    "source_url": "https://www.waldorfastoriamaldives.com/experience/under-over-the-blue/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "paddleboard",
+    "source_url": "https://www.waldorfastoriamaldives.com/experience/under-over-the-blue/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "catamaran",
+    "source_url": "https://www.waldorfastoriamaldives.com/experience/under-over-the-blue/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "jet ski",
+    "source_url": "https://www.waldorfastoriamaldives.com/experience/under-over-the-blue/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "seabob",
+    "source_url": "https://www.waldorfastoriamaldives.com/experience/under-over-the-blue/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.waldorfastoriamaldives.com/experience/under-over-the-blue/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "dolphin cruise",
+    "source_url": "https://www.waldorfastoriamaldives.com/experience/under-over-the-blue/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.waldorfastoriamaldives.com/stories/romantic-holidays-in-maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.waldorfastoriamaldives.com/stories/romantic-holidays-in-maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sailing",
+    "source_url": "https://www.waldorfastoriamaldives.com/stories/romantic-holidays-in-maldives/",
+    "as_of": "2026-10-05"
    },
    {
     "value": "snorkelling",
@@ -600,6 +742,21 @@
    },
    {
     "value": "sandbank",
+    "source_url": "https://www.waldorfastoriamaldives.com/wp-content/uploads/2025/07/Destination-Dining-Brochure-V2.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "picnic",
+    "source_url": "https://www.waldorfastoriamaldives.com/wp-content/uploads/2025/07/Destination-Dining-Brochure-V2.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "cinema",
+    "source_url": "https://www.waldorfastoriamaldives.com/wp-content/uploads/2025/07/Destination-Dining-Brochure-V2.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "sandbank",
     "source_url": "https://www.waldorfastoriamaldives.com/wp-content/uploads/2025/07/2025-WA-Recreation-Centre-.pdf",
     "as_of": 2025
    },
@@ -657,6 +814,41 @@
     "value": "dolphin",
     "source_url": "https://www.waldorfastoriamaldives.com/stories/maldives-wellness-retreat/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.waldorfastoriamaldives.com/de/experience/under-over-the-blue/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.waldorfastoriamaldives.com/de/stories/romantic-holidays-in-maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "cooking class",
+    "source_url": "https://www.waldorfastoriamaldives.com/experience/the-stars-club/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.waldorfastoriamaldives.com/experience/under-over-the-blue/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.waldorfastoriamaldives.com/experience/under-over-the-blue/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "picnic",
+    "source_url": "https://www.waldorfastoriamaldives.com/experience/under-over-the-blue/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.waldorfastoriamaldives.com/stories/romantic-holidays-in-maldives/",
+    "as_of": "2026-10-05"
    },
    {
     "value": "sandbank",
@@ -936,6 +1128,51 @@
     "as_of": "2026-10-04"
    },
    {
+    "value": "tennis",
+    "source_url": "https://www.waldorfastoriamaldives.com/de/experience/daily-activities/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "padel",
+    "source_url": "https://www.waldorfastoriamaldives.com/de/experience/daily-activities/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://www.waldorfastoriamaldives.com/de/experience/two-types-of-tennis/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "padel",
+    "source_url": "https://www.waldorfastoriamaldives.com/de/experience/two-types-of-tennis/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://www.waldorfastoriamaldives.com/experience/daily-activities/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "padel",
+    "source_url": "https://www.waldorfastoriamaldives.com/experience/daily-activities/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://www.waldorfastoriamaldives.com/experience/the-stars-club/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://www.waldorfastoriamaldives.com/experience/tropical-retail/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://www.waldorfastoriamaldives.com/experience/under-over-the-blue/",
+    "as_of": "2026-10-05"
+   },
+   {
     "value": "yoga",
     "source_url": "https://www.neoscapesmaldives.com/resort/waldorf-astoria-maldives/",
     "as_of": "2026-10-04"
@@ -1029,8 +1266,252 @@
    },
    {
     "value": true,
+    "source_url": "https://www.waldorfastoriamaldives.com/wp-content/uploads/2025/07/Destination-Dining-Brochure-V2.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": true,
     "source_url": "https://www.waldorfastoriamaldives.com/wp-content/uploads/2025/07/Island-Map-Room-Numbers.pdf",
     "as_of": 2025
+   },
+   {
+    "value": true,
+    "source_url": "https://www.neoscapesmaldives.com/resort/waldorf-astoria-maldives/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "destination_dining.experiences": [
+   {
+    "value": "treetop dining",
+    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Fact-Sheet.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Fact-Sheet.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "sandbank dinner",
+    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Fact-Sheet.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Fact-Sheet.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://www.waldorfastoriamaldives.com/wp-content/uploads/2025/07/Unforgettable-Honeymoon-and-Romantic-Anniversaries-TC-.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "romantic dinner",
+    "source_url": "https://www.waldorfastoriamaldives.com/wp-content/uploads/2025/07/Unforgettable-Honeymoon-and-Romantic-Anniversaries-TC-.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "romantic dinner",
+    "source_url": "https://www.waldorfastoriamaldives.com/wp-content/uploads/2025/07/Unforgettable-Honeymoon-and-Romantic-Anniversaries-TC-.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "romantic dinner",
+    "source_url": "https://www.waldorfastoriamaldives.com/wp-content/uploads/2025/07/Unforgettable-Honeymoon-and-Romantic-Anniversaries-TC-.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "beach dinner",
+    "source_url": "https://www.waldorfastoriamaldives.com/wp-content/uploads/2025/07/Destination-Dining-Brochure-V2.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "romantic dinner",
+    "source_url": "https://www.waldorfastoriamaldives.com/wp-content/uploads/2025/07/Destination-Dining-Brochure-V2.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://www.waldorfastoriamaldives.com/wp-content/uploads/2025/07/Destination-Dining-Brochure-V2.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "lagoon lunch",
+    "source_url": "https://www.waldorfastoriamaldives.com/wp-content/uploads/2025/07/Destination-Dining-Brochure-V2.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "private chef",
+    "source_url": "https://www.waldorfastoriamaldives.com/wp-content/uploads/2025/07/Destination-Dining-Brochure-V2.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.waldorfastoriamaldives.com/wp-content/uploads/2025/07/Destination-Dining-Brochure-V2.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://www.waldorfastoriamaldives.com/wp-content/uploads/2025/07/Destination-Dining-Brochure-V2.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.waldorfastoriamaldives.com/wp-content/uploads/2025/07/Destination-Dining-Brochure-V2.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.waldorfastoriamaldives.com/wp-content/uploads/2025/07/2025-WA-Recreation-Centre-.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.waldorfastoriamaldives.com/wp-content/uploads/2025/07/2025-WA-Recreation-Centre-.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.waldorfastoriamaldives.com/wp-content/uploads/2025/07/2025-WA-Recreation-Centre-.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.waldorfastoriamaldives.com/wp-content/uploads/2025/07/2025-WA-Recreation-Centre-.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.waldorfastoriamaldives.com/de/stories/romantic-retreats/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://www.waldorfastoriamaldives.com/zh/cuisine/zuma-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.waldorfastoriamaldives.com/stories/romantic-retreats/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://www.waldorfastoriamaldives.com/stories/romantic-retreats/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.waldorfastoriamaldives.com/stories/romantic-retreats/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://www.waldorfastoriamaldives.com/de/stories/romantic-holidays-in-maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sunset dinner",
+    "source_url": "https://www.waldorfastoriamaldives.com/de/stories/romantic-holidays-in-maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://www.waldorfastoriamaldives.com/de/stories/romantic-holidays-in-maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sandbank picnic",
+    "source_url": "https://www.waldorfastoriamaldives.com/experience/under-over-the-blue/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "beach dinner",
+    "source_url": "https://www.waldorfastoriamaldives.com/stories/romantic-holidays-in-maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "romantic dinner",
+    "source_url": "https://www.waldorfastoriamaldives.com/stories/romantic-holidays-in-maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://www.waldorfastoriamaldives.com/stories/romantic-holidays-in-maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://www.neoscapesmaldives.com/resort/waldorf-astoria-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank dinner",
+    "source_url": "https://www.neoscapesmaldives.com/resort/waldorf-astoria-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "private dining",
+    "source_url": "https://www.neoscapesmaldives.com/resort/waldorf-astoria-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "wine pairing",
+    "source_url": "https://www.neoscapesmaldives.com/resort/waldorf-astoria-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://www.neoscapesmaldives.com/resort/waldorf-astoria-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.neoscapesmaldives.com/resort/waldorf-astoria-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "private dining",
+    "source_url": "https://www.neoscapesmaldives.com/resort/waldorf-astoria-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "private dining",
+    "source_url": "https://www.letsgo2.com/suites-and-villas/maldives/waldorf-astoria-maldives-ithaafushi/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "wine dinner",
+    "source_url": "https://www.letsgo2.com/suites-and-villas/maldives/waldorf-astoria-maldives-ithaafushi/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "wine pairing",
+    "source_url": "https://www.letsgo2.com/suites-and-villas/maldives/waldorf-astoria-maldives-ithaafushi/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.letsgo2.com/suites-and-villas/maldives/waldorf-astoria-maldives-ithaafushi/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "destination_dining.sandbank_events": [
+   {
+    "value": true,
+    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Fact-Sheet.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": true,
+    "source_url": "https://www.waldorfastoriamaldives.com/wp-content/uploads/2025/07/Destination-Dining-Brochure-V2.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": true,
+    "source_url": "https://www.waldorfastoriamaldives.com/experience/under-over-the-blue/",
+    "as_of": "2026-10-05"
    },
    {
     "value": true,
@@ -1218,6 +1699,11 @@
     "value": "Green Key",
     "source_url": "https://www.waldorfastoriamaldives.com/de/news/sustainable-hospitality/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "coral restoration",
+    "source_url": "https://www.waldorfastoriamaldives.com/experience/under-over-the-blue/",
+    "as_of": "2026-10-05"
    }
   ],
   "villas.total": [
@@ -1249,6 +1735,11 @@
     "as_of": "2026-10-04"
    },
    {
+    "value": 40,
+    "source_url": "https://www.waldorfastoriamaldives.com/stories/romantic-holidays-in-maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
     "value": 45,
     "source_url": "https://www.neoscapesmaldives.com/resort/waldorf-astoria-maldives/",
     "as_of": "2026-10-04"
@@ -1262,6 +1753,35 @@
     "value": 40,
     "source_url": "https://www.carrier.co.uk/design/hotels/ithaafushi-the-private-island-by-waldorf-astoria",
     "as_of": "2026-10-04"
+   }
+  ],
+  "kids_family.kids_club": [
+   {
+    "value": "Kids Club",
+    "source_url": "https://www.waldorfastoriamaldives.com/de/experience/the-stars-club/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Kids Club",
+    "source_url": "https://www.waldorfastoriamaldives.com/experience/the-stars-club/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Kids Club",
+    "source_url": "https://www.neoscapesmaldives.com/resort/waldorf-astoria-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa\nFitness Centre\nKids Club",
+    "source_url": "https://www.letsgo2.com/suites-and-villas/maldives/waldorf-astoria-maldives-ithaafushi/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "star_rating": [
+   {
+    "value": "5-star",
+    "source_url": "https://www.waldorfastoriamaldives.com/stories/romantic-holidays-in-maldives/",
+    "as_of": "2026-10-05"
    }
   ],
   "island_size": [
@@ -1282,18 +1802,6 @@
    {
     "value": "Dive Centre",
     "source_url": "https://www.neoscapesmaldives.com/resort/waldorf-astoria-maldives/",
-    "as_of": "2026-10-04"
-   }
-  ],
-  "kids_family.kids_club": [
-   {
-    "value": "Kids Club",
-    "source_url": "https://www.neoscapesmaldives.com/resort/waldorf-astoria-maldives/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": "Spa\nFitness Centre\nKids Club",
-    "source_url": "https://www.letsgo2.com/suites-and-villas/maldives/waldorf-astoria-maldives-ithaafushi/",
     "as_of": "2026-10-04"
    }
   ],

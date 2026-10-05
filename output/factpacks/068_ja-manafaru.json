@@ -211,13 +211,13 @@
   "activities": [
    "snorkeling",
    "sailing",
+   "fishing",
    "stand-up paddle",
    "paddleboard",
    "catamaran",
    "parasailing",
    "wakeboarding",
    "seabob",
-   "fishing",
    "fun tube"
   ],
   "price_list_doc": null
@@ -228,12 +228,14 @@
   "turtle",
   "picnic",
   "castaway",
+  "sunset fishing",
+  "cinema",
   "big game fishing",
   "private dinner"
  ],
  "kids_family": {
   "kids_club": "Classes\nReef Diving\nKids Club",
-  "age_range": null,
+  "age_range": "6-12 years",
   "teens": null
  },
  "wellness_fitness": [
@@ -246,6 +248,7 @@
   "ayurveda",
   "sauna",
   "steam",
+  "padel",
   "gym"
  ],
  "weddings": {
@@ -255,16 +258,27 @@
   "packages": [],
   "brochure_doc": null
  },
+ "destination_dining": {
+  "experiences": [
+   "destination dining",
+   "in-villa dining",
+   "private dining",
+   "candlelit dinner"
+  ],
+  "packages": [],
+  "sandbank_events": null,
+  "doc": "https://jaweb2019cdn.azureedge.net/assets/docs/default-source/jarh/siteredesign-docs/ja-mar-hall-menu/sample-private-dinner-menu.pdf?sfvrsn=2488d2a6_9"
+ },
  "events_mice": {
   "venues": [],
-  "capacity_max": null,
+  "capacity_max": 125,
   "buyout": null,
   "doc": null
  },
  "sustainability": [],
  "contacts_public": {
   "reservations_email": "reservations.manafaru@jaresorts.com",
-  "weddings_email": null,
+  "weddings_email": "events@marhall.com",
   "phone": "+960 6500 456"
  },
  "documents_latest": {
@@ -275,9 +289,10 @@
   "dining_menu": null,
   "dive_prices": null,
   "events": null,
-  "calendar": "https://letsgomaldives.com/wp-content/uploads/2026/08/JA-Manafaru.pdf"
+  "calendar": "https://letsgomaldives.com/wp-content/uploads/2026/08/JA-Manafaru.pdf",
+  "destination_dining": "https://jaweb2019cdn.azureedge.net/assets/docs/default-source/jarh/siteredesign-docs/ja-mar-hall-menu/sample-private-dinner-menu.pdf?sfvrsn=2488d2a6_9"
  },
- "documents_count": 4,
+ "documents_count": 5,
  "gaps": [
   "wedding brochure",
   "events/MICE document",
@@ -571,6 +586,15 @@
    },
    {
     "value": {
+     "name": "Sports Café",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.jaresortshotels.com/offer-detail/pool-beach-day-experience",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": {
      "name": "White Orchid Restaurant",
      "cuisine": null,
      "type": "restaurant"
@@ -655,6 +679,11 @@
     "as_of": "2026-10-04"
    },
    {
+    "value": "Spa",
+    "source_url": "https://www.jaresortshotels.com/de/angebotsdetails/signature-villa-experience--paket",
+    "as_of": "2026-10-05"
+   },
+   {
     "value": "Calm Spa",
     "source_url": "https://www.neoscapesmaldives.com/resort/ja-manafaru-resort/",
     "as_of": "2026-10-04"
@@ -682,6 +711,16 @@
     "value": "sailing",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/ja-jam-factsheet-digital.pdf",
     "as_of": 2024
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.jaresortshotels.com/leisure-detail/cinema-under-the-stars",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sailing",
+    "source_url": "https://www.jaresortshotels.com/leisure-detail/cinema-under-the-stars",
+    "as_of": "2026-10-05"
    },
    {
     "value": "snorkeling",
@@ -759,6 +798,26 @@
     "value": "castaway",
     "source_url": "https://www.jaresortshotels.com/maldives/ja-manafaru",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset fishing",
+    "source_url": "https://www.jaresortshotels.com/leisure-detail/cinema-under-the-stars",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "cinema",
+    "source_url": "https://www.jaresortshotels.com/leisure-detail/cinema-under-the-stars",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "picnic",
+    "source_url": "https://www.jaresortshotels.com/venue-detail/team-building-experiences",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "picnic",
+    "source_url": "https://www.jaresortshotels.com/venue-detail/team-building-experiences-at-hatta",
+    "as_of": "2026-10-05"
    },
    {
     "value": "dolphin",
@@ -843,6 +902,66 @@
     "as_of": "2026-10-04"
    },
    {
+    "value": "padel",
+    "source_url": "https://www.jaresortshotels.com/de/angebotsdetails/signature-villa-experience--paket",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sauna",
+    "source_url": "https://www.jaresortshotels.com/offer-detail/a-romantic-retreat",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "steam",
+    "source_url": "https://www.jaresortshotels.com/offer-detail/a-romantic-retreat",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sauna",
+    "source_url": "https://www.jaresortshotels.com/offer-detail/celebrate-special-moments",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "steam",
+    "source_url": "https://www.jaresortshotels.com/offer-detail/celebrate-special-moments",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://www.jaresortshotels.com/offer-detail/signature-villa-experience",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "padel",
+    "source_url": "https://www.jaresortshotels.com/offer-detail/signature-villa-experience",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "gym",
+    "source_url": "https://www.jaresortshotels.com/offer-detail/the-spa-escape-with-dinner",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sauna",
+    "source_url": "https://www.jaresortshotels.com/offer-detail/the-spa-escape-with-dinner",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "steam",
+    "source_url": "https://www.jaresortshotels.com/offer-detail/the-spa-escape-with-dinner",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "padel",
+    "source_url": "https://www.jaresortshotels.com/venue-detail/team-building-experiences",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "padel",
+    "source_url": "https://www.jaresortshotels.com/venue-detail/team-building-experiences-at-hatta",
+    "as_of": "2026-10-05"
+   },
+   {
     "value": "gym",
     "source_url": "https://www.neoscapesmaldives.com/resort/ja-manafaru-resort/",
     "as_of": "2026-10-04"
@@ -880,6 +999,53 @@
     "as_of": 2024
    }
   ],
+  "destination_dining.experiences": [
+   {
+    "value": "destination dining",
+    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/ja-jam-factsheet-digital.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "in-villa dining",
+    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/ja-jam-factsheet-digital.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "private dining",
+    "source_url": "https://www.jaresortshotels.com/de/restaurant-detail/schottland/ja-mar-hall/private-dining",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "candlelit dinner",
+    "source_url": "https://www.jaresortshotels.com/offer-detail/a-romantic-retreat",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "private dining",
+    "source_url": "https://www.jaresortshotels.com/restaurant-detail/scotland/ja-mar-hall/private-dining",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "private dining",
+    "source_url": "https://www.jaresortshotels.com/restaurant-detail/scotland/ja-mar-hall/private-dining",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "private dining",
+    "source_url": "https://www.jaresortshotels.com/venue-detail/team-building-experiences-at-ja-mar-hall",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "in-villa dining",
+    "source_url": "https://letsgomaldives.com/news/the-5-best-dining-options-at-ja-manafaru-island/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "in-villa dining",
+    "source_url": "https://letsgomaldives.com/news/discover-wellness-your-way-at-ja-manafaru/",
+    "as_of": "2026-10-04"
+   }
+  ],
   "contacts_public.reservations_email": [
    {
     "value": "reservations.manafaru@jaresorts.com",
@@ -890,6 +1056,41 @@
     "value": "reservations.manafaru@jaresorts.com",
     "source_url": "https://www.jaresortshotels.com/maldives/ja-manafaru",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "reservations.manafaru@jaresorts.com",
+    "source_url": "https://www.jaresortshotels.com/leisure-detail/cinema-under-the-stars",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "reservations.jamarh@jaresorts.com",
+    "source_url": "https://www.jaresortshotels.com/offer-detail/a-romantic-retreat",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "reservations.jamarh@jaresorts.com",
+    "source_url": "https://www.jaresortshotels.com/offer-detail/celebrate-christmas-at-ja-mar-hall",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "reservations.jamarh@jaresorts.com",
+    "source_url": "https://www.jaresortshotels.com/offer-detail/celebrate-new-year-at-ja-mar-hall",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "reservations.jamarh@jaresorts.com",
+    "source_url": "https://www.jaresortshotels.com/offer-detail/celebrate-special-moments",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "reservations.jamarh@jaresorts.com",
+    "source_url": "https://www.jaresortshotels.com/offer-detail/the-spa-escape-with-dinner",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sales.mice@jaresorts.com",
+    "source_url": "https://www.jaresortshotels.com/venue-detail/team-building-experiences",
+    "as_of": "2026-10-05"
    },
    {
     "value": "info@neoscapesmaldives.com",
@@ -907,6 +1108,11 @@
     "value": "+960 6500 456",
     "source_url": "https://www.jaresortshotels.com/maldives/ja-manafaru",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 6500 456",
+    "source_url": "https://www.jaresortshotels.com/leisure-detail/cinema-under-the-stars",
+    "as_of": "2026-10-05"
    },
    {
     "value": "+960 736 5425",
@@ -934,8 +1140,79 @@
    },
    {
     "value": true,
+    "source_url": "https://www.jaresortshotels.com/offer-detail/celebrate-christmas-at-ja-mar-hall",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.jaresortshotels.com/offer-detail/celebrate-new-year-at-ja-mar-hall",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.jaresortshotels.com/offer-detail/celebrate-special-moments",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.jaresortshotels.com/venue-detail/team-building-experiences",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.jaresortshotels.com/venue-detail/team-building-experiences-at-hatta",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": true,
     "source_url": "https://www.neoscapesmaldives.com/resort/ja-manafaru-resort/",
     "as_of": "2026-10-04"
+   }
+  ],
+  "contacts_public.weddings_email": [
+   {
+    "value": "events@marhall.com",
+    "source_url": "https://www.jaresortshotels.com/de/restaurant-detail/schottland/ja-mar-hall/private-dining",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "events.jamarh@jaresorts.com",
+    "source_url": "https://www.jaresortshotels.com/restaurant-detail/scotland/ja-mar-hall/private-dining",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "events.hatta@jaresorts.com",
+    "source_url": "https://www.jaresortshotels.com/venue-detail/team-building-experiences-at-hatta",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "events.jamarh@jaresorts.com",
+    "source_url": "https://www.jaresortshotels.com/venue-detail/team-building-experiences-at-ja-mar-hall",
+    "as_of": "2026-10-05"
+   }
+  ],
+  "kids_family.age_range": [
+   {
+    "value": "6-12 years",
+    "source_url": "https://www.jaresortshotels.com/offer-detail/pool-beach-day-experience",
+    "as_of": "2026-10-05"
+   }
+  ],
+  "events_mice.capacity_max": [
+   {
+    "value": 125,
+    "source_url": "https://www.jaresortshotels.com/venue-detail/team-building-experiences",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": 125,
+    "source_url": "https://www.jaresortshotels.com/venue-detail/team-building-experiences-at-hatta",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": 40,
+    "source_url": "https://www.jaresortshotels.com/venue-detail/team-building-experiences-at-ja-mar-hall",
+    "as_of": "2026-10-05"
    }
   ],
   "transfer.modes": [

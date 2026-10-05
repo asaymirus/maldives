@@ -58,6 +58,12 @@ Spa; treatment rooms: ?; menu: none
 - Packages: n/a
 - Brochure: none
 
+## Destination dining
+
+- Experiences: in-villa dining, floating breakfast, destination dining, underwater restaurant, underwater dining, treetop dining, romantic dinner, private chef
+- Packages: n/a
+- Sandbank events: None; document: none
+
 ## Events / MICE
 
 - Venues: n/a; capacity max: n/a; buyout: None
@@ -81,6 +87,7 @@ Spa; treatment rooms: ?; menu: none
 - dive_prices: none
 - events: none
 - calendar: https://letsgomaldives.com/wp-content/uploads/2026/02/Niyama-Private-Islands-Maldives-Easter-Brochure-2026-1.pdf
+- destination_dining: none
 
 ## Gaps
 
@@ -89,4 +96,4 @@ Spa; treatment rooms: ?; menu: none
 - fact: villas.total
 - fact: dive operator
 
-_Facts extracted by rules from 23 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._
+_Facts extracted by rules from 24 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

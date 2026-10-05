@@ -91,6 +91,16 @@
   "packages": [],
   "brochure_doc": null
  },
+ "destination_dining": {
+  "experiences": [
+   "in-villa dining",
+   "floating breakfast",
+   "romantic dinner"
+  ],
+  "packages": [],
+  "sandbank_events": null,
+  "doc": null
+ },
  "events_mice": {
   "venues": [],
   "capacity_max": null,
@@ -111,7 +121,8 @@
   "dining_menu": null,
   "dive_prices": null,
   "events": null,
-  "calendar": "https://letsgomaldives.com/wp-content/uploads/2026/08/Avani-Fares-Maldives-Festive-Brochure-2026-1.pdf"
+  "calendar": "https://letsgomaldives.com/wp-content/uploads/2026/08/Avani-Fares-Maldives-Festive-Brochure-2026-1.pdf",
+  "destination_dining": null
  },
  "documents_count": 5,
  "gaps": [
@@ -241,6 +252,28 @@
    {
     "value": "teens programme mentioned",
     "source_url": "https://www.avanihotels.com/en/fares-maldives",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "destination_dining.experiences": [
+   {
+    "value": "in-villa dining",
+    "source_url": "https://letsgomaldives.com/wp-content/uploads/2026/03/EID-Brochure-2026-1-1.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://www.avanihotels.com/en/fares-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "romantic dinner",
+    "source_url": "https://www.avanihotels.com/en/fares-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "romantic dinner",
+    "source_url": "https://www.dnatatravel.com/2-9857305-1/avani-fares-maldives-resort?oc=true",
     "as_of": "2026-10-04"
    }
   ],

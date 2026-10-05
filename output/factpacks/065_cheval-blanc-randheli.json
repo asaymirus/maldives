@@ -11,12 +11,11 @@
  "operator_brand": "Cheval Blanc",
  "atoll": "Noonu Atoll",
  "island": "Maakurandhoo",
- "opened_or_renovated": null,
+ "opened_or_renovated": "opened 1936",
  "star_rating": null,
  "transfer": {
   "modes": [
    "seaplane",
-   "speedboat",
    "yacht"
   ],
   "minutes": {
@@ -95,6 +94,14 @@
     "overwater": null
    },
    {
+    "name": "entrance of this Villa, located directly on",
+    "count": null,
+    "size_sqm": 650,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   },
+   {
     "name": "sq ft two-bedroom villa with ocean views",
     "count": 295,
     "size_sqm": 295,
@@ -143,11 +150,6 @@
    "type": "bar"
   },
   {
-   "name": "Eclectic Grill",
-   "cuisine": null,
-   "type": "restaurant"
-  },
-  {
    "name": "The Spa Bar",
    "cuisine": null,
    "type": "bar"
@@ -161,6 +163,26 @@
    "name": "The White Bar",
    "cuisine": null,
    "type": "bar"
+  },
+  {
+   "name": "Le Grill Alpin",
+   "cuisine": null,
+   "type": "restaurant"
+  },
+  {
+   "name": "Contemporary Brasserie & Bar",
+   "cuisine": null,
+   "type": "bar"
+  },
+  {
+   "name": "Tiki Bar",
+   "cuisine": null,
+   "type": "bar"
+  },
+  {
+   "name": "Le Bar Restaurant",
+   "cuisine": null,
+   "type": "restaurant"
   }
  ],
  "meal_plans": [],
@@ -181,32 +203,30 @@
    "water skiing",
    "seabob",
    "snorkelling",
-   "whale shark",
-   "manta",
-   "sailing",
    "scuba diving",
    "surfing",
    "wakeboarding",
-   "fishing"
+   "fishing",
+   "sailing",
+   "catamaran",
+   "whale shark"
   ],
   "price_list_doc": null
  },
  "excursions": [
+  "turtle",
+  "picnic",
   "cooking class",
-  "whale shark",
-  "manta",
-  "private dinner",
-  "cinema",
   "local island",
   "dolphin",
   "big game fishing",
-  "turtle",
-  "picnic",
-  "sandbank"
+  "private dinner",
+  "sandbank",
+  "whale shark"
  ],
  "kids_family": {
   "kids_club": "Kids Club",
-  "age_range": null,
+  "age_range": "4-7 years",
   "teens": "teens programme mentioned"
  },
  "wellness_fitness": [
@@ -237,9 +257,22 @@
   ],
   "brochure_doc": null
  },
+ "destination_dining": {
+  "experiences": [
+   "private dining",
+   "beach barbecue",
+   "in-villa dining",
+   "sandbank picnic",
+   "dinner under the stars",
+   "sandbank experience"
+  ],
+  "packages": [],
+  "sandbank_events": true,
+  "doc": null
+ },
  "events_mice": {
   "venues": [],
-  "capacity_max": null,
+  "capacity_max": 40,
   "buyout": null,
   "doc": null
  },
@@ -249,7 +282,7 @@
  ],
  "contacts_public": {
   "reservations_email": "info.randheli@chevalblanc.com",
-  "weddings_email": null,
+  "weddings_email": "events.stbarth@chevalblanc.com",
   "phone": "+ 960 656 15 15 2"
  },
  "documents_latest": {
@@ -257,12 +290,13 @@
   "map": null,
   "wedding": null,
   "spa_menu": "https://lvmh-chevalblanc.cdn.prismic.io/lvmh-chevalblanc/b-V7Jr1jqx8IEXUF_BrochureSpa_ChevalBlancRandheli_EN.pdf",
-  "dining_menu": null,
+  "dining_menu": "https://www.chevalblanc.com/service/download-media/?url=https%3A%2F%2Flvmh-chevalblanc.cdn.prismic.io%2Flvmh-chevalblanc%2FaAEXLOvxEdbNPMv2_CBI-PrivateOccasionsEN2.pdf&filename=CBI%20-%20Private%20Occasions%20EN%202.pdf",
   "dive_prices": null,
   "events": null,
-  "calendar": null
+  "calendar": null,
+  "destination_dining": null
  },
- "documents_count": 7,
+ "documents_count": 14,
  "gaps": [
   "wedding brochure",
   "events/MICE document"
@@ -272,21 +306,6 @@
    {
     "value": "seaplane",
     "source_url": "https://awesomegetawaymaldives.com/wp-content/uploads/2026/04/Cheval-Blanc-Randheli.pdf",
-    "as_of": 2026
-   },
-   {
-    "value": "seaplane",
-    "source_url": "https://lvmh-chevalblanc.cdn.prismic.io/lvmh-chevalblanc/a3v4hr_XlVvnJaFk_CBRExperiences-EN.pdf",
-    "as_of": 2026
-   },
-   {
-    "value": "speedboat",
-    "source_url": "https://lvmh-chevalblanc.cdn.prismic.io/lvmh-chevalblanc/a3v4hr_XlVvnJaFk_CBRExperiences-EN.pdf",
-    "as_of": 2026
-   },
-   {
-    "value": "yacht",
-    "source_url": "https://lvmh-chevalblanc.cdn.prismic.io/lvmh-chevalblanc/a3v4hr_XlVvnJaFk_CBRExperiences-EN.pdf",
     "as_of": 2026
    },
    {
@@ -348,6 +367,16 @@
     "value": "seaplane",
     "source_url": "https://www.chevalblanc.com/en/maison/randheli/rooms-and-suites/water-villa/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "yacht",
+    "source_url": "https://www.chevalblanc.com/en/maison/seychelles/experiences/marine-adventures/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "yacht",
+    "source_url": "https://www.chevalblanc.com/en/maison/st-barth/experiences/adventures-caribbean-living/",
+    "as_of": "2026-10-05"
    },
    {
     "value": "seaplane",
@@ -454,6 +483,18 @@
    },
    {
     "value": {
+     "name": "entrance of this Villa, located directly on",
+     "count": null,
+     "size_sqm": 650,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://www.chevalblanc.com/service/download-media/?url=https%3A%2F%2Flvmh-chevalblanc.cdn.prismic.io%2Flvmh-chevalblanc%2FaAEXLOvxEdbNPMv2_CBI-PrivateOccasionsEN2.pdf&filename=CBI%20-%20Private%20Occasions%20EN%202.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": {
      "name": "sq ft two-bedroom villa with ocean views",
      "count": 295,
      "size_sqm": 295,
@@ -522,11 +563,6 @@
    {
     "value": "Spa",
     "source_url": "https://lvmh-chevalblanc.cdn.prismic.io/lvmh-chevalblanc/b-V7Jr1jqx8IEXUF_BrochureSpa_ChevalBlancRandheli_EN.pdf",
-    "as_of": 2026
-   },
-   {
-    "value": "Spa",
-    "source_url": "https://lvmh-chevalblanc.cdn.prismic.io/lvmh-chevalblanc/a3v4hr_XlVvnJaFk_CBRExperiences-EN.pdf",
     "as_of": 2026
    },
    {
@@ -621,6 +657,81 @@
    },
    {
     "value": "Cheval Blanc Spa",
+    "source_url": "https://www.chevalblanc.com/en/maison/courchevel/experiences/ski-into-well-being/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Dior Spa",
+    "source_url": "https://www.chevalblanc.com/en/maison/paris/experiences/art-design/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Discover\nDior Spa",
+    "source_url": "https://www.chevalblanc.com/en/maison/paris/experiences/experience-romance-paris/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Discover\nDior Spa",
+    "source_url": "https://www.chevalblanc.com/en/maison/paris/experiences/experience-the-heart-of-paris/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Discover\nDior Spa",
+    "source_url": "https://www.chevalblanc.com/en/maison/paris/experiences/family-experience/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Discover\nDior Spa",
+    "source_url": "https://www.chevalblanc.com/en/maison/paris/experiences/la-table-ruinart-x-cheval-blanc-paris/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Discover\nDior Spa",
+    "source_url": "https://www.chevalblanc.com/en/maison/paris/experiences/le-carrousel/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Dior Spa",
+    "source_url": "https://www.chevalblanc.com/en/maison/paris/experiences/paris-festive/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Dior Spa",
+    "source_url": "https://www.chevalblanc.com/en/maison/paris/experiences/parisian-experience/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.chevalblanc.com/en/maison/randheli/experiences/carteblanche-randheli/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Download\nCheval Blanc Spa",
+    "source_url": "https://www.chevalblanc.com/en/maison/seychelles/experiences/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Download\nCheval Blanc Spa",
+    "source_url": "https://www.chevalblanc.com/en/maison/seychelles/experiences/cheval-blanc-experiences/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.chevalblanc.com/en/maison/st-barth/experiences/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Cheval Blanc Spa",
+    "source_url": "https://www.chevalblanc.com/en/maison/st-barth/experiences/couples/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Cheval Blanc Spa",
+    "source_url": "https://www.chevalblanc.com/en/maison/st-barth/experiences/well-being/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Cheval Blanc Spa",
     "source_url": "https://malediven.de/malediven-hotels/cheval-blanc-randheli/",
     "as_of": "2026-10-04"
    }
@@ -666,26 +777,6 @@
    {
     "value": "stand-up paddle",
     "source_url": "https://lvmh-chevalblanc.cdn.prismic.io/lvmh-chevalblanc/b-V7Jr1jqx8IEXUF_BrochureSpa_ChevalBlancRandheli_EN.pdf",
-    "as_of": 2026
-   },
-   {
-    "value": "snorkelling",
-    "source_url": "https://lvmh-chevalblanc.cdn.prismic.io/lvmh-chevalblanc/a3v4hr_XlVvnJaFk_CBRExperiences-EN.pdf",
-    "as_of": 2026
-   },
-   {
-    "value": "whale shark",
-    "source_url": "https://lvmh-chevalblanc.cdn.prismic.io/lvmh-chevalblanc/a3v4hr_XlVvnJaFk_CBRExperiences-EN.pdf",
-    "as_of": 2026
-   },
-   {
-    "value": "manta",
-    "source_url": "https://lvmh-chevalblanc.cdn.prismic.io/lvmh-chevalblanc/a3v4hr_XlVvnJaFk_CBRExperiences-EN.pdf",
-    "as_of": 2026
-   },
-   {
-    "value": "sailing",
-    "source_url": "https://lvmh-chevalblanc.cdn.prismic.io/lvmh-chevalblanc/a3v4hr_XlVvnJaFk_CBRExperiences-EN.pdf",
     "as_of": 2026
    },
    {
@@ -742,17 +833,52 @@
     "value": "sailing",
     "source_url": "https://www.chevalblanc.com/en/maison/randheli/experiences/adventures-destination-randheli/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.chevalblanc.com/en/maison/paris/experiences/le-carrousel/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "catamaran",
+    "source_url": "https://www.chevalblanc.com/en/maison/seychelles/experiences/marine-adventures/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.chevalblanc.com/en/maison/seychelles/experiences/marine-adventures/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.chevalblanc.com/en/maison/seychelles/experiences/marine-adventures/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "catamaran",
+    "source_url": "https://www.chevalblanc.com/en/maison/st-barth/experiences/adventures-caribbean-living/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "jet ski",
+    "source_url": "https://www.chevalblanc.com/en/maison/st-barth/experiences/adventures-caribbean-living/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sailing",
+    "source_url": "https://www.chevalblanc.com/en/maison/st-barth/experiences/adventures-caribbean-living/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sailing",
+    "source_url": "https://www.chevalblanc.com/en/maison/st-barth/experiences/couples/",
+    "as_of": "2026-10-05"
    }
   ],
   "kids_family.teens": [
    {
     "value": "teens programme mentioned",
     "source_url": "https://awesomegetawaymaldives.com/wp-content/uploads/2026/04/Cheval-Blanc-Randheli.pdf",
-    "as_of": 2026
-   },
-   {
-    "value": "teens programme mentioned",
-    "source_url": "https://lvmh-chevalblanc.cdn.prismic.io/lvmh-chevalblanc/a3v4hr_XlVvnJaFk_CBRExperiences-EN.pdf",
     "as_of": 2026
    },
    {
@@ -764,6 +890,11 @@
     "value": "teens programme mentioned",
     "source_url": "https://www.chevalblanc.com/en/maison/randheli/experiences/families-randheli/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "teens programme mentioned",
+    "source_url": "https://www.chevalblanc.com/en/maison/courchevel/experiences/families-courchevel/",
+    "as_of": "2026-10-05"
    },
    {
     "value": "teens programme mentioned",
@@ -809,6 +940,11 @@
    },
    {
     "value": "yoga",
+    "source_url": "https://hmlibrary.chevalblanc.com/asset/af849341-105d-4070-880a-3054dbb2d43d/Families-Portfolio.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "yoga",
     "source_url": "https://lvmh-chevalblanc.cdn.prismic.io/lvmh-chevalblanc/b-V7Jr1jqx8IEXUF_BrochureSpa_ChevalBlancRandheli_EN.pdf",
     "as_of": 2026
    },
@@ -829,17 +965,7 @@
    },
    {
     "value": "yoga",
-    "source_url": "https://lvmh-chevalblanc.cdn.prismic.io/lvmh-chevalblanc/a3v4hr_XlVvnJaFk_CBRExperiences-EN.pdf",
-    "as_of": 2026
-   },
-   {
-    "value": "fitness centre",
-    "source_url": "https://lvmh-chevalblanc.cdn.prismic.io/lvmh-chevalblanc/a3v4hr_XlVvnJaFk_CBRExperiences-EN.pdf",
-    "as_of": 2026
-   },
-   {
-    "value": "tennis",
-    "source_url": "https://lvmh-chevalblanc.cdn.prismic.io/lvmh-chevalblanc/a3v4hr_XlVvnJaFk_CBRExperiences-EN.pdf",
+    "source_url": "https://www.chevalblanc.com/service/download-media/?url=https%3A%2F%2Flvmh-chevalblanc.cdn.prismic.io%2Flvmh-chevalblanc%2FafJBg8BOoF08xcV1_ChevalBIancSt-Barth-Families.pdf&amp;filename=Cheval%20BIanc%20St-Barth%20-%20Families.pdf",
     "as_of": 2026
    },
    {
@@ -899,6 +1025,61 @@
    },
    {
     "value": "meditation",
+    "source_url": "https://www.chevalblanc.com/en/maison/courchevel/experiences/adventures-mountain-living/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "personal trainer",
+    "source_url": "https://www.chevalblanc.com/en/maison/paris/experiences/parisian-experience/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://www.chevalblanc.com/en/maison/seychelles/experiences/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "gym",
+    "source_url": "https://www.chevalblanc.com/en/maison/seychelles/experiences/sports-and-activities/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://www.chevalblanc.com/en/maison/seychelles/experiences/sports-and-activities/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "padel",
+    "source_url": "https://www.chevalblanc.com/en/maison/seychelles/experiences/sports-and-activities/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "hammam",
+    "source_url": "https://www.chevalblanc.com/en/maison/seychelles/experiences/sports-and-activities/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sauna",
+    "source_url": "https://www.chevalblanc.com/en/maison/seychelles/experiences/sports-and-activities/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.chevalblanc.com/en/maison/st-barth/experiences/well-being/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "meditation",
+    "source_url": "https://www.chevalblanc.com/en/maison/st-barth/experiences/well-being/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "personal trainer",
+    "source_url": "https://www.chevalblanc.com/en/maison/st-barth/experiences/well-being/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "meditation",
     "source_url": "https://www.neoscapesmaldives.com/resort/cheval-blanc-randheli/",
     "as_of": "2026-10-04"
    },
@@ -918,15 +1099,234 @@
     "as_of": "2026-10-04"
    }
   ],
-  "atoll": [
+  "destination_dining.experiences": [
    {
-    "value": "Noonu Atoll",
+    "value": "private dining",
+    "source_url": "https://awesomegetawaymaldives.com/wp-content/uploads/2026/04/Cheval-Blanc-Randheli.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "beach barbecue",
+    "source_url": "https://lvmh-chevalblanc.cdn.prismic.io/lvmh-chevalblanc/3D6MAkRHjqmgWdF-_FamiliesatChevalBlancRandheli-EN.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "in-villa dining",
+    "source_url": "https://www.chevalblanc.com/en/maison/randheli/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank picnic",
+    "source_url": "https://www.chevalblanc.com/en/maison/randheli/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "in-villa dining",
+    "source_url": "https://www.chevalblanc.com/en/maison/randheli/restaurants-and-bars/deelani/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank picnic",
+    "source_url": "https://www.chevalblanc.com/en/maison/randheli/restaurants-and-bars/deelani/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank picnic",
+    "source_url": "https://www.chevalblanc.com/en/maison/randheli/restaurants-and-bars/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank picnic",
+    "source_url": "https://www.chevalblanc.com/en/maison/randheli/restaurants-and-bars/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank picnic",
+    "source_url": "https://www.chevalblanc.com/en/maison/randheli/restaurants-and-bars/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank picnic",
+    "source_url": "https://www.chevalblanc.com/en/maison/randheli/restaurants-and-bars/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "in-villa dining",
+    "source_url": "https://www.chevalblanc.com/en/maison/randheli/restaurants-and-bars/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank picnic",
+    "source_url": "https://www.chevalblanc.com/en/maison/randheli/restaurants-and-bars/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "private dining",
+    "source_url": "https://www.chevalblanc.com/en/maison/courchevel/experiences/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "dinner under the stars",
+    "source_url": "https://www.chevalblanc.com/en/maison/paris/experiences/paris-festive/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "beach barbecue",
+    "source_url": "https://www.chevalblanc.com/en/maison/randheli/experiences/carteblanche-randheli/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "beach barbecue",
+    "source_url": "https://www.chevalblanc.com/en/maison/seychelles/experiences/cheval-blanc-experiences/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "private dining",
+    "source_url": "https://www.neoscapesmaldives.com/resort/cheval-blanc-randheli/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank experience",
+    "source_url": "https://www.neoscapesmaldives.com/resort/cheval-blanc-randheli/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "excursions": [
+   {
+    "value": "turtle",
+    "source_url": "https://hmlibrary.chevalblanc.com/asset/af849341-105d-4070-880a-3054dbb2d43d/Families-Portfolio.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "picnic",
+    "source_url": "https://hmlibrary.chevalblanc.com/asset/af849341-105d-4070-880a-3054dbb2d43d/Families-Portfolio.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "cooking class",
     "source_url": "https://lvmh-chevalblanc.cdn.prismic.io/lvmh-chevalblanc/b-V7Jr1jqx8IEXUF_BrochureSpa_ChevalBlancRandheli_EN.pdf",
     "as_of": 2026
    },
    {
-    "value": "Baa Atoll",
-    "source_url": "https://lvmh-chevalblanc.cdn.prismic.io/lvmh-chevalblanc/a3v4hr_XlVvnJaFk_CBRExperiences-EN.pdf",
+    "value": "turtle",
+    "source_url": "https://www.chevalblanc.com/service/download-media/?url=https%3A%2F%2Flvmh-chevalblanc.cdn.prismic.io%2Flvmh-chevalblanc%2FafJBg8BOoF08xcV1_ChevalBIancSt-Barth-Families.pdf&amp;filename=Cheval%20BIanc%20St-Barth%20-%20Families.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "picnic",
+    "source_url": "https://www.chevalblanc.com/service/download-media/?url=https%3A%2F%2Flvmh-chevalblanc.cdn.prismic.io%2Flvmh-chevalblanc%2FafJBg8BOoF08xcV1_ChevalBIancSt-Barth-Families.pdf&amp;filename=Cheval%20BIanc%20St-Barth%20-%20Families.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "local island",
+    "source_url": "https://lvmh-chevalblanc.cdn.prismic.io/lvmh-chevalblanc/3D6MAkRHjqmgWdF-_FamiliesatChevalBlancRandheli-EN.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://lvmh-chevalblanc.cdn.prismic.io/lvmh-chevalblanc/3D6MAkRHjqmgWdF-_FamiliesatChevalBlancRandheli-EN.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "big game fishing",
+    "source_url": "https://lvmh-chevalblanc.cdn.prismic.io/lvmh-chevalblanc/3D6MAkRHjqmgWdF-_FamiliesatChevalBlancRandheli-EN.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://lvmh-chevalblanc.cdn.prismic.io/lvmh-chevalblanc/3D6MAkRHjqmgWdF-_FamiliesatChevalBlancRandheli-EN.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "picnic",
+    "source_url": "https://lvmh-chevalblanc.cdn.prismic.io/lvmh-chevalblanc/3D6MAkRHjqmgWdF-_FamiliesatChevalBlancRandheli-EN.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "private dinner",
+    "source_url": "https://lvmh-chevalblanc.cdn.prismic.io/lvmh-chevalblanc/3D6MAkRHjqmgWdF-_FamiliesatChevalBlancRandheli-EN.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "cooking class",
+    "source_url": "https://lvmh-chevalblanc.cdn.prismic.io/lvmh-chevalblanc/3D6MAkRHjqmgWdF-_FamiliesatChevalBlancRandheli-EN.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.chevalblanc.com/en/maison/randheli/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "picnic",
+    "source_url": "https://www.chevalblanc.com/en/maison/randheli/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.chevalblanc.com/en/maison/randheli/restaurants-and-bars/deelani/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "picnic",
+    "source_url": "https://www.chevalblanc.com/en/maison/randheli/restaurants-and-bars/deelani/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.chevalblanc.com/en/maison/randheli/restaurants-and-bars/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "picnic",
+    "source_url": "https://www.chevalblanc.com/en/maison/randheli/restaurants-and-bars/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "picnic",
+    "source_url": "https://www.chevalblanc.com/en/maison/courchevel/experiences/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "private dinner",
+    "source_url": "https://www.chevalblanc.com/en/maison/randheli/experiences/carteblanche-randheli/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "picnic",
+    "source_url": "https://www.chevalblanc.com/en/maison/seychelles/experiences/cheval-blanc-experiences/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.chevalblanc.com/en/maison/seychelles/experiences/marine-adventures/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.chevalblanc.com/en/maison/seychelles/experiences/marine-adventures/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.chevalblanc.com/en/maison/seychelles/experiences/marine-adventures/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "picnic",
+    "source_url": "https://www.chevalblanc.com/en/maison/st-barth/experiences/adventures-caribbean-living/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.neoscapesmaldives.com/resort/cheval-blanc-randheli/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "atoll": [
+   {
+    "value": "Noonu Atoll",
+    "source_url": "https://lvmh-chevalblanc.cdn.prismic.io/lvmh-chevalblanc/b-V7Jr1jqx8IEXUF_BrochureSpa_ChevalBlancRandheli_EN.pdf",
     "as_of": 2026
    },
    {
@@ -1017,15 +1417,6 @@
    },
    {
     "value": {
-     "name": "Eclectic Grill",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://lvmh-chevalblanc.cdn.prismic.io/lvmh-chevalblanc/a3v4hr_XlVvnJaFk_CBRExperiences-EN.pdf",
-    "as_of": 2026
-   },
-   {
-    "value": {
      "name": "The Spa Bar",
      "cuisine": null,
      "type": "bar"
@@ -1080,6 +1471,96 @@
    },
    {
     "value": {
+     "name": "Le Grill Alpin",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.chevalblanc.com/en/maison/courchevel/experiences/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": {
+     "name": "Contemporary Brasserie & Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.chevalblanc.com/en/maison/paris/experiences/experience-romance-paris/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": {
+     "name": "Contemporary Brasserie & Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.chevalblanc.com/en/maison/paris/experiences/experience-the-heart-of-paris/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": {
+     "name": "Contemporary Brasserie & Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.chevalblanc.com/en/maison/paris/experiences/family-experience/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": {
+     "name": "Contemporary Brasserie & Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.chevalblanc.com/en/maison/paris/experiences/la-table-ruinart-x-cheval-blanc-paris/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": {
+     "name": "Contemporary Brasserie & Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.chevalblanc.com/en/maison/paris/experiences/le-carrousel/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": {
+     "name": "Contemporary Brasserie & Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.chevalblanc.com/en/maison/paris/experiences/parisian-experience/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": {
+     "name": "Tiki Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.chevalblanc.com/en/maison/st-barth/experiences/well-being/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": {
+     "name": "Le Bar Restaurant",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.chevalblanc.com/en/maison/st-tropez/experiences/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": {
+     "name": "Le Grill Alpin",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.chevalblanc.com/fr/maison/courchevel/experiences/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": {
      "name": "The White Bar",
      "cuisine": null,
      "type": "bar"
@@ -1102,103 +1583,6 @@
      "cuisine": null,
      "type": "bar"
     },
-    "source_url": "https://www.neoscapesmaldives.com/resort/cheval-blanc-randheli/",
-    "as_of": "2026-10-04"
-   }
-  ],
-  "excursions": [
-   {
-    "value": "cooking class",
-    "source_url": "https://lvmh-chevalblanc.cdn.prismic.io/lvmh-chevalblanc/b-V7Jr1jqx8IEXUF_BrochureSpa_ChevalBlancRandheli_EN.pdf",
-    "as_of": 2026
-   },
-   {
-    "value": "whale shark",
-    "source_url": "https://lvmh-chevalblanc.cdn.prismic.io/lvmh-chevalblanc/a3v4hr_XlVvnJaFk_CBRExperiences-EN.pdf",
-    "as_of": 2026
-   },
-   {
-    "value": "manta",
-    "source_url": "https://lvmh-chevalblanc.cdn.prismic.io/lvmh-chevalblanc/a3v4hr_XlVvnJaFk_CBRExperiences-EN.pdf",
-    "as_of": 2026
-   },
-   {
-    "value": "private dinner",
-    "source_url": "https://lvmh-chevalblanc.cdn.prismic.io/lvmh-chevalblanc/a3v4hr_XlVvnJaFk_CBRExperiences-EN.pdf",
-    "as_of": 2026
-   },
-   {
-    "value": "cinema",
-    "source_url": "https://lvmh-chevalblanc.cdn.prismic.io/lvmh-chevalblanc/a3v4hr_XlVvnJaFk_CBRExperiences-EN.pdf",
-    "as_of": 2026
-   },
-   {
-    "value": "local island",
-    "source_url": "https://lvmh-chevalblanc.cdn.prismic.io/lvmh-chevalblanc/3D6MAkRHjqmgWdF-_FamiliesatChevalBlancRandheli-EN.pdf",
-    "as_of": 2026
-   },
-   {
-    "value": "dolphin",
-    "source_url": "https://lvmh-chevalblanc.cdn.prismic.io/lvmh-chevalblanc/3D6MAkRHjqmgWdF-_FamiliesatChevalBlancRandheli-EN.pdf",
-    "as_of": 2026
-   },
-   {
-    "value": "big game fishing",
-    "source_url": "https://lvmh-chevalblanc.cdn.prismic.io/lvmh-chevalblanc/3D6MAkRHjqmgWdF-_FamiliesatChevalBlancRandheli-EN.pdf",
-    "as_of": 2026
-   },
-   {
-    "value": "turtle",
-    "source_url": "https://lvmh-chevalblanc.cdn.prismic.io/lvmh-chevalblanc/3D6MAkRHjqmgWdF-_FamiliesatChevalBlancRandheli-EN.pdf",
-    "as_of": 2026
-   },
-   {
-    "value": "picnic",
-    "source_url": "https://lvmh-chevalblanc.cdn.prismic.io/lvmh-chevalblanc/3D6MAkRHjqmgWdF-_FamiliesatChevalBlancRandheli-EN.pdf",
-    "as_of": 2026
-   },
-   {
-    "value": "private dinner",
-    "source_url": "https://lvmh-chevalblanc.cdn.prismic.io/lvmh-chevalblanc/3D6MAkRHjqmgWdF-_FamiliesatChevalBlancRandheli-EN.pdf",
-    "as_of": 2026
-   },
-   {
-    "value": "cooking class",
-    "source_url": "https://lvmh-chevalblanc.cdn.prismic.io/lvmh-chevalblanc/3D6MAkRHjqmgWdF-_FamiliesatChevalBlancRandheli-EN.pdf",
-    "as_of": 2026
-   },
-   {
-    "value": "sandbank",
-    "source_url": "https://www.chevalblanc.com/en/maison/randheli/experiences/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": "picnic",
-    "source_url": "https://www.chevalblanc.com/en/maison/randheli/experiences/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": "sandbank",
-    "source_url": "https://www.chevalblanc.com/en/maison/randheli/restaurants-and-bars/deelani/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": "picnic",
-    "source_url": "https://www.chevalblanc.com/en/maison/randheli/restaurants-and-bars/deelani/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": "sandbank",
-    "source_url": "https://www.chevalblanc.com/en/maison/randheli/restaurants-and-bars/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": "picnic",
-    "source_url": "https://www.chevalblanc.com/en/maison/randheli/restaurants-and-bars/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": "sandbank",
     "source_url": "https://www.neoscapesmaldives.com/resort/cheval-blanc-randheli/",
     "as_of": "2026-10-04"
    }
@@ -1235,11 +1619,6 @@
    },
    {
     "value": "info.randheli@chevalblanc.com",
-    "source_url": "https://lvmh-chevalblanc.cdn.prismic.io/lvmh-chevalblanc/a3v4hr_XlVvnJaFk_CBRExperiences-EN.pdf",
-    "as_of": 2026
-   },
-   {
-    "value": "info.randheli@chevalblanc.com",
     "source_url": "https://lvmh-chevalblanc.cdn.prismic.io/lvmh-chevalblanc/3D6MAkRHjqmgWdF-_FamiliesatChevalBlancRandheli-EN.pdf",
     "as_of": 2026
    },
@@ -1317,6 +1696,76 @@
     "value": "info.randheli@chevalblanc.com",
     "source_url": "https://www.chevalblanc.com/en/maison/randheli/restaurants-and-bars/white-bar-randheli/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "info.courchevel@chevalblanc.com",
+    "source_url": "https://www.chevalblanc.com/en/maison/courchevel/experiences/art-and-design-courchevel/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "info.courchevel@chevalblanc.com",
+    "source_url": "https://www.chevalblanc.com/en/maison/courchevel/experiences/families-courchevel/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "info.courchevel@chevalblanc.com",
+    "source_url": "https://www.chevalblanc.com/en/maison/courchevel/experiences/foodies-paradise/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "info.courchevel@chevalblanc.com",
+    "source_url": "https://www.chevalblanc.com/en/maison/courchevel/experiences/ski-into-well-being/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "info.paris@chevalblanc.com",
+    "source_url": "https://www.chevalblanc.com/en/maison/paris/experiences/art-design/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "info.randheli@chevalblanc.com",
+    "source_url": "https://www.chevalblanc.com/en/maison/randheli/experiences/carteblanche-randheli/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "info.seychelles@chevalblanc.com",
+    "source_url": "https://www.chevalblanc.com/en/maison/seychelles/experiences/art-and-design-seychelles/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "info.seychelles@chevalblanc.com",
+    "source_url": "https://www.chevalblanc.com/en/maison/seychelles/experiences/carrousel/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "info.seychelles@chevalblanc.com",
+    "source_url": "https://www.chevalblanc.com/en/maison/seychelles/experiences/cheval-blanc-experiences/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "info.seychelles@chevalblanc.com",
+    "source_url": "https://www.chevalblanc.com/en/maison/seychelles/experiences/marine-adventures/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "info.seychelles@chevalblanc.com",
+    "source_url": "https://www.chevalblanc.com/en/maison/seychelles/experiences/sports-and-activities/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sales.stbarth@chevalblanc.com",
+    "source_url": "https://www.chevalblanc.com/en/maison/st-barth/experiences/couples/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sales.stbarth@chevalblanc.com",
+    "source_url": "https://www.chevalblanc.com/en/maison/st-barth/experiences/private-occasions/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "info.sttropez@chevalblanc.com",
+    "source_url": "https://www.chevalblanc.com/en/maison/st-tropez/experiences/art-design-st-tropez/",
+    "as_of": "2026-10-05"
    },
    {
     "value": "info@neoscapesmaldives.com",
@@ -1332,11 +1781,6 @@
    },
    {
     "value": "+960 656 1515",
-    "source_url": "https://lvmh-chevalblanc.cdn.prismic.io/lvmh-chevalblanc/a3v4hr_XlVvnJaFk_CBRExperiences-EN.pdf",
-    "as_of": 2026
-   },
-   {
-    "value": "+960 656 1515",
     "source_url": "https://lvmh-chevalblanc.cdn.prismic.io/lvmh-chevalblanc/3D6MAkRHjqmgWdF-_FamiliesatChevalBlancRandheli-EN.pdf",
     "as_of": 2026
    },
@@ -1416,28 +1860,28 @@
     "as_of": "2026-10-04"
    },
    {
+    "value": "+9606561515",
+    "source_url": "https://www.chevalblanc.com/en/maison/randheli/experiences/carteblanche-randheli/",
+    "as_of": "2026-10-05"
+   },
+   {
     "value": "+960 736 5425",
     "source_url": "https://www.neoscapesmaldives.com/resort/cheval-blanc-randheli/",
     "as_of": "2026-10-04"
    }
   ],
-  "weddings.offered": [
+  "events_mice.capacity_max": [
    {
-    "value": true,
-    "source_url": "https://lvmh-chevalblanc.cdn.prismic.io/lvmh-chevalblanc/a3v4hr_XlVvnJaFk_CBRExperiences-EN.pdf",
-    "as_of": 2026
-   },
-   {
-    "value": true,
-    "source_url": "https://www.neoscapesmaldives.com/resort/cheval-blanc-randheli/",
-    "as_of": "2026-10-04"
+    "value": 40,
+    "source_url": "https://www.chevalblanc.com/service/download-media/?url=https%3A%2F%2Flvmh-chevalblanc.cdn.prismic.io%2Flvmh-chevalblanc%2FaAEXLOvxEdbNPMv2_CBI-PrivateOccasionsEN2.pdf&filename=CBI%20-%20Private%20Occasions%20EN%202.pdf",
+    "as_of": 2024
    }
   ],
-  "weddings.vow_renewal": [
+  "contacts_public.weddings_email": [
    {
-    "value": true,
-    "source_url": "https://lvmh-chevalblanc.cdn.prismic.io/lvmh-chevalblanc/a3v4hr_XlVvnJaFk_CBRExperiences-EN.pdf",
-    "as_of": 2026
+    "value": "events.stbarth@chevalblanc.com",
+    "source_url": "https://www.chevalblanc.com/service/download-media/?url=https%3A%2F%2Flvmh-chevalblanc.cdn.prismic.io%2Flvmh-chevalblanc%2FaAEXLOvxEdbNPMv2_CBI-PrivateOccasionsEN2.pdf&filename=CBI%20-%20Private%20Occasions%20EN%202.pdf",
+    "as_of": 2024
    }
   ],
   "island": [
@@ -1457,6 +1901,71 @@
     "value": 46,
     "source_url": "https://www.chevalblanc.com/en/maison/randheli/experiences/",
     "as_of": "2026-10-04"
+   }
+  ],
+  "destination_dining.sandbank_events": [
+   {
+    "value": true,
+    "source_url": "https://www.chevalblanc.com/en/maison/randheli/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.chevalblanc.com/en/maison/randheli/restaurants-and-bars/deelani/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.chevalblanc.com/en/maison/randheli/restaurants-and-bars/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.neoscapesmaldives.com/resort/cheval-blanc-randheli/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "weddings.offered": [
+   {
+    "value": true,
+    "source_url": "https://www.chevalblanc.com/en/maison/paris/experiences/experience-romance-paris/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.chevalblanc.com/en/maison/st-barth/experiences/couples/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.neoscapesmaldives.com/resort/cheval-blanc-randheli/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "kids_family.age_range": [
+   {
+    "value": "4-7 years",
+    "source_url": "https://www.chevalblanc.com/en/maison/paris/experiences/le-carrousel/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "3-12 years",
+    "source_url": "https://www.chevalblanc.com/en/maison/seychelles/experiences/carrousel/",
+    "as_of": "2026-10-05"
+   }
+  ],
+  "weddings.vow_renewal": [
+   {
+    "value": true,
+    "source_url": "https://www.chevalblanc.com/en/maison/st-barth/experiences/couples/",
+    "as_of": "2026-10-05"
+   }
+  ],
+  "opened_or_renovated": [
+   {
+    "value": "opened 1936",
+    "source_url": "https://www.chevalblanc.com/en/maison/st-tropez/experiences/art-design-st-tropez/",
+    "as_of": "2026-10-05"
    }
   ],
   "transfer.minutes.seaplane": [

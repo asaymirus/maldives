@@ -68,6 +68,12 @@ All-inclusive: All-Inclusive resort to 360° culinary experience and for them to
 - Packages: n/a
 - Brochure: none
 
+## Destination dining
+
+- Experiences: sunset cruise, in-villa dining, wine dinner, private chef, romantic dining, romantic dinner, romantic sunset dinner, floating breakfast, romantic beach dinner, sandbank lunch
+- Packages: n/a
+- Sandbank events: True; document: none
+
 ## Events / MICE
 
 - Venues: n/a; capacity max: n/a; buyout: None
@@ -91,6 +97,7 @@ All-inclusive: All-Inclusive resort to 360° culinary experience and for them to
 - dive_prices: https://cdn.prod.website-files.com/5d39ad82040fc87640dfdea6/69e9c7ea3f1ba46570ef6d9d_PriceList_2026_Fasmendhoo_070426.pdf
 - events: none
 - calendar: none
+- destination_dining: none
 
 ## Gaps
 
@@ -98,4 +105,4 @@ All-inclusive: All-Inclusive resort to 360° culinary experience and for them to
 - wedding brochure
 - events/MICE document
 
-_Facts extracted by rules from 27 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._
+_Facts extracted by rules from 29 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

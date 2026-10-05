@@ -200,6 +200,29 @@
   "packages": [],
   "brochure_doc": "https://veligandu.com/wp-content/uploads/2024/09/Veli-HoneymoonGuestInfoRenewalsOfVows_110124-103125_Rev081524-240924.pdf"
  },
+ "destination_dining": {
+  "experiences": [
+   "in-villa dining",
+   "in villa dining",
+   "destination dining",
+   "beach dinner",
+   "romantic dinner",
+   "romantic beach dinner",
+   "sunset cruise",
+   "floating breakfast",
+   "in-villa dinner",
+   "wine pairing",
+   "beach bbq",
+   "sandbank picnic",
+   "anniversary celebration",
+   "lagoon lunch",
+   "sandbank experience",
+   "wine dinner"
+  ],
+  "packages": [],
+  "sandbank_events": true,
+  "doc": null
+ },
  "events_mice": {
   "venues": [],
   "capacity_max": null,
@@ -225,7 +248,8 @@
   "dining_menu": "https://veligandu.com/wp-content/uploads/2024/11/Veligandu_MasterWineMenu_Landscape_09-11-2024.pdf",
   "dive_prices": "https://veligandu.com/wp-content/uploads/2026/01/VeliWaterSportsCentre2026_010126-123126.pdf",
   "events": null,
-  "calendar": "https://d2qwq69i2ic1pk.cloudfront.net/2023/11/CCR_2024_Calendar_compressed.pdf"
+  "calendar": "https://d2qwq69i2ic1pk.cloudfront.net/2023/11/CCR_2024_Calendar_compressed.pdf",
+  "destination_dining": null
  },
  "documents_count": 54,
  "gaps": [
@@ -1679,6 +1703,11 @@
     "as_of": "2026-10-04"
    },
    {
+    "value": "picnic",
+    "source_url": "https://veligandu.com/blog/2026/03/27/dining-experiences-beach-bum-corner/",
+    "as_of": "2026-10-05"
+   },
+   {
     "value": "sandbank",
     "source_url": "https://letsgomaldives.com/news/escape-to-paradise-veligandu-island-resort-spa/",
     "as_of": "2026-10-04"
@@ -1995,6 +2024,233 @@
     "as_of": 2025
    }
   ],
+  "destination_dining.experiences": [
+   {
+    "value": "in-villa dining",
+    "source_url": "https://veligandu.com/wp-content/uploads/2025/06/Factsheet-W25-26S26Ver17062025.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "in villa dining",
+    "source_url": "https://veligandu.com/wp-content/uploads/2025/06/Factsheet-W25-26S26Ver17062025.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://veligandu.com/wp-content/uploads/2025/06/Factsheet-W25-26S26Ver17062025.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://veligandu.com/wp-content/uploads/2025/06/Factsheet-W25-26S26Ver17062025.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "beach dinner",
+    "source_url": "https://veligandu.com/wp-content/uploads/2025/06/Factsheet-W25-26S26Ver17062025.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "romantic dinner",
+    "source_url": "https://veligandu.com/wp-content/uploads/2024/09/Veli-HoneymoonGuestInfoRenewalsOfVows_110124-103125_Rev081524-240924.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "romantic beach dinner",
+    "source_url": "https://veligandu.com/wp-content/uploads/2024/09/Veli-HoneymoonGuestInfoRenewalsOfVows_110124-103125_Rev081524-240924.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "romantic beach dinner",
+    "source_url": "https://veligandu.com/wp-content/uploads/2024/09/Veli-HoneymoonGuestInfoRenewalsOfVows_110124-103125_Rev081524-240924.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "romantic beach dinner",
+    "source_url": "https://veligandu.com/wp-content/uploads/2024/09/Veli-HoneymoonGuestInfoRenewalsOfVows_110124-103125_Rev081524-240924.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://veligandu.com/wp-content/uploads/2026/01/VeliExcursionsCentreCatalogue2026_010126-123126_.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://veligandu.com/wp-content/uploads/2026/01/VeliExcursionsCentreCatalogue2026_010126-123126_.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://veligandu.com/wp-content/uploads/2026/01/VeliExcursionsCentreCatalogue2026_010126-123126_.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://veligandu.com/wp-content/uploads/2026/01/VeliExcursionsCentreCatalogue2026_010126-123126_.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://veligandu.com/wp-content/uploads/2025/06/AIl-InclusiveDineAroundPack103125_Rev24.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "beach dinner",
+    "source_url": "https://veligandu.com/wp-content/uploads/2025/06/AIl-InclusiveDineAroundPack103125_Rev24.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://veligandu.com/wp-content/uploads/2025/06/AIl-InclusiveDineAroundPack103125_Rev24.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "in-villa dining",
+    "source_url": "https://veligandu.com/wp-content/uploads/2025/06/AIl-InclusiveDineAroundPack103125_Rev24.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "in-villa dining",
+    "source_url": "https://veligandu.com/wp-content/uploads/2025/06/AIl-InclusiveDineAroundPack103125_Rev24.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "in-villa dinner",
+    "source_url": "https://veligandu.com/blog/2025/05/22/a-3-day-escape-to-veligandu/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://veligandu.com/blog/2025/05/22/a-3-day-escape-to-veligandu/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "wine pairing",
+    "source_url": "https://veligandu.com/blog/2025/05/22/a-3-day-escape-to-veligandu/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "beach bbq",
+    "source_url": "https://veligandu.com/blog/2025/05/24/family-travel-to-maldives-with-teenagers/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank picnic",
+    "source_url": "https://veligandu.com/blog/2025/05/24/family-travel-to-maldives-with-teenagers/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "romantic dinner",
+    "source_url": "https://veligandu.com/blog/2026/05/25/how-to-celebrate-weddings-birtdays-milestones-in-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "anniversary celebration",
+    "source_url": "https://veligandu.com/blog/2026/05/25/how-to-celebrate-weddings-birtdays-milestones-in-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "lagoon lunch",
+    "source_url": "https://veligandu.com/blog/2026/05/25/how-to-celebrate-weddings-birtdays-milestones-in-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "romantic dinner",
+    "source_url": "https://veligandu.com/blog/2025/12/05/moments-we-love-to-create-for-you-lifestyle-recommendations/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank experience",
+    "source_url": "https://veligandu.com/blog/2025/12/05/moments-we-love-to-create-for-you-lifestyle-recommendations/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "wine dinner",
+    "source_url": "https://veligandu.com/blog/2025/12/05/moments-we-love-to-create-for-you-lifestyle-recommendations/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "in-villa dining",
+    "source_url": "https://veligandu.com/blog/2026/02/17/unforgettable-in-villa-experiences/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "in-villa dining",
+    "source_url": "https://veligandu.com/blog/2026/02/17/unforgettable-in-villa-experiences/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://veligandu.com/blog/2026/02/17/unforgettable-in-villa-experiences/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://veligandu.com/blog/2026/02/17/unforgettable-in-villa-experiences/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://letsgomaldives.com/news/escape-to-paradise-veligandu-island-resort-spa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank picnic",
+    "source_url": "https://letsgomaldives.com/news/escape-to-paradise-veligandu-island-resort-spa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://www.mymaldives.com/resort-guide/veligandu-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.mymaldives.com/resort-guide/veligandu-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.mymaldives.com/resort-guide/veligandu-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "in-villa dining",
+    "source_url": "https://www.tropicalsky.co.uk/indian-ocean-holidays/maldives/veligandu-island-resort-spa-hotel",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://www.tropicalsky.co.uk/indian-ocean-holidays/maldives/veligandu-island-resort-spa-hotel",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank picnic",
+    "source_url": "https://www.tropicalsky.co.uk/indian-ocean-holidays/maldives/veligandu-island-resort-spa-hotel",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://www.tropicalsky.co.uk/indian-ocean-holidays/maldives/veligandu-island-resort-spa-hotel",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "beach dinner",
+    "source_url": "https://www.tropicalsky.co.uk/indian-ocean-holidays/maldives/veligandu-island-resort-spa-hotel",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://malediven.de/malediven-hotels/veligandu/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://malediven.de/malediven-hotels/veligandu/",
+    "as_of": "2026-10-04"
+   }
+  ],
   "sustainability": [
    {
     "value": "marine biologist",
@@ -2283,6 +2539,28 @@
    {
     "value": "teens programme mentioned",
     "source_url": "https://veligandu.com/blog/2025/05/18/one-island-infinite-wedding-options/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "destination_dining.sandbank_events": [
+   {
+    "value": true,
+    "source_url": "https://veligandu.com/blog/2025/05/24/family-travel-to-maldives-with-teenagers/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://veligandu.com/blog/2025/12/05/moments-we-love-to-create-for-you-lifestyle-recommendations/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://letsgomaldives.com/news/escape-to-paradise-veligandu-island-resort-spa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.tropicalsky.co.uk/indian-ocean-holidays/maldives/veligandu-island-resort-spa-hotel",
     "as_of": "2026-10-04"
    }
   ]

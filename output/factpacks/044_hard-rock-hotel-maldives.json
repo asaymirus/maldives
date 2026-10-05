@@ -313,6 +313,11 @@
    "type": "bar"
   },
   {
+   "name": "Rock Royalty® Lounge",
+   "cuisine": null,
+   "type": "bar"
+  },
+  {
    "name": "Hard Rock Cafe Maldives",
    "cuisine": null,
    "type": "restaurant"
@@ -398,6 +403,8 @@
   "steam",
   "tennis",
   "padel",
+  "sauna",
+  "pilates",
   "fitness centre"
  ],
  "weddings": {
@@ -419,6 +426,23 @@
    }
   ],
   "brochure_doc": "https://hotel.hardrock.com/maldives/files/6016/HRH_Wedding_Brochure_2026.pdf"
+ },
+ "destination_dining": {
+  "experiences": [
+   "in-villa dining",
+   "floating breakfast",
+   "private chef",
+   "private dining",
+   "romantic dinner",
+   "destination dining",
+   "beach dinner",
+   "sunset cruise",
+   "in villa dining",
+   "honeymoon dinner"
+  ],
+  "packages": [],
+  "sandbank_events": null,
+  "doc": "https://hotel.hardrock.com/los-cabos/files/6148/Romantic-Dinner-Hard-Rock-Hotel-Los-Cabos.pdf"
  },
  "events_mice": {
   "venues": [],
@@ -443,9 +467,10 @@
   "dining_menu": "https://hotel.hardrock.com/maldives/files/6016/HRH_Signature_Menu_2026.06.21.pdf",
   "dive_prices": null,
   "events": null,
-  "calendar": null
+  "calendar": null,
+  "destination_dining": "https://hotel.hardrock.com/los-cabos/files/6148/Romantic-Dinner-Hard-Rock-Hotel-Los-Cabos.pdf"
  },
- "documents_count": 41,
+ "documents_count": 45,
  "gaps": [
   "factsheet",
   "events/MICE document"
@@ -2365,6 +2390,30 @@
    },
    {
     "value": {
+     "name": "Individual suites",
+     "count": 10,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://hotel.hardrock.com/cancun/experience.aspx",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": {
+     "name": "Couples' suites",
+     "count": 6,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://hotel.hardrock.com/cancun/experience.aspx",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": {
      "name": "Villas",
      "count": 178,
      "size_sqm": null,
@@ -2535,6 +2584,15 @@
    },
    {
     "value": {
+     "name": "Rock Royalty® Lounge",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://hotel.hardrock.com/penang/experience.aspx",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": {
      "name": "Hard Rock Cafe Maldives",
      "cuisine": null,
      "type": "restaurant"
@@ -2662,6 +2720,86 @@
     "value": "Beachfront Maldives Spa",
     "source_url": "https://hotel.hardrock.com/maldives/experiences/rock-spa",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "Rock Spa",
+    "source_url": "https://hotel.hardrock.com/bali/experience.aspx",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Lini Produk Rock Spa",
+    "source_url": "https://hotel.hardrock.com/bali/id/experience.aspx",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Rock Spa",
+    "source_url": "https://hotel.hardrock.com/cancun/experience.aspx",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Our Rock Spa",
+    "source_url": "https://hotel.hardrock.com/davos/honeymoon-switzerland.aspx",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Rock Spa",
+    "source_url": "https://hotel.hardrock.com/desaru-coast/experience.aspx",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Rock Spa",
+    "source_url": "https://hotel.hardrock.com/hard-rock-experience.aspx",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Rock Spa",
+    "source_url": "https://hotel.hardrock.com/malta/experience.aspx",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Rock Spa",
+    "source_url": "https://hotel.hardrock.com/marbella/experiences.aspx",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Rock Spa",
+    "source_url": "https://hotel.hardrock.com/marbella/fr/experiences.aspx",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Motion Spa",
+    "source_url": "https://hotel.hardrock.com/music-experiences.aspx",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Rock Spa",
+    "source_url": "https://hotel.hardrock.com/pattaya/experience.aspx",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Rock Spa",
+    "source_url": "https://hotel.hardrock.com/pattaya/th/experience.aspx",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Rock Spa",
+    "source_url": "https://hotel.hardrock.com/penang/experience.aspx",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Rock Spa",
+    "source_url": "https://hotel.hardrock.com/punta-cana/celebration-packages.aspx",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Punta Cana Spa",
+    "source_url": "https://hotel.hardrock.com/punta-cana/experience.aspx",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Rock Spa",
+    "source_url": "https://hotel.hardrock.com/riviera-maya/experience.aspx",
+    "as_of": "2026-10-05"
    },
    {
     "value": "Rock Spa",
@@ -2987,6 +3125,46 @@
     "as_of": "2026-10-04"
    },
    {
+    "value": "Roxity Kids Club",
+    "source_url": "https://hotel.hardrock.com/bali/experience.aspx",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Roxity Kids Club",
+    "source_url": "https://hotel.hardrock.com/bali/id/experience.aspx",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Kids Club",
+    "source_url": "https://hotel.hardrock.com/cancun/experience.aspx",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Roxity Kids Club",
+    "source_url": "https://hotel.hardrock.com/desaru-coast/experience.aspx",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Roxity Kids Club",
+    "source_url": "https://hotel.hardrock.com/malta/experience.aspx",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Hard Rock Roxity Kids Club",
+    "source_url": "https://hotel.hardrock.com/pattaya/experience.aspx",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Hard Rock Roxity Kids Club",
+    "source_url": "https://hotel.hardrock.com/pattaya/th/experience.aspx",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Hard Rock Roxity Kids Club",
+    "source_url": "https://hotel.hardrock.com/penang/experience.aspx",
+    "as_of": "2026-10-05"
+   },
+   {
     "value": "Camp\nRoxity Kids Club",
     "source_url": "https://www.neoscapesmaldives.com/resort/hard-rock-hotel-maldives/",
     "as_of": "2026-10-04"
@@ -3047,6 +3225,31 @@
     "value": "teens programme mentioned",
     "source_url": "https://hardrockhotels.com/maldives/russian.aspx",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "teens programme mentioned",
+    "source_url": "https://hotel.hardrock.com/bali/experience.aspx",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "teens programme mentioned",
+    "source_url": "https://hotel.hardrock.com/bali/id/experience.aspx",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "teens programme mentioned",
+    "source_url": "https://hotel.hardrock.com/hard-rock-experience.aspx",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "teens programme mentioned",
+    "source_url": "https://hotel.hardrock.com/malta/experience.aspx",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "teens programme mentioned",
+    "source_url": "https://hotel.hardrock.com/pattaya/experience.aspx",
+    "as_of": "2026-10-05"
    },
    {
     "value": "teens programme mentioned",
@@ -3151,6 +3354,121 @@
     "as_of": "2026-10-04"
    },
    {
+    "value": "gym",
+    "source_url": "https://hotel.hardrock.com/bali/experience.aspx",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "gym",
+    "source_url": "https://hotel.hardrock.com/bali/id/experience.aspx",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "fitness center",
+    "source_url": "https://hotel.hardrock.com/cancun/experience.aspx",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://hotel.hardrock.com/cancun/experience.aspx",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sauna",
+    "source_url": "https://hotel.hardrock.com/cancun/experience.aspx",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "steam",
+    "source_url": "https://hotel.hardrock.com/cancun/experience.aspx",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "fitness center",
+    "source_url": "https://hotel.hardrock.com/davos/honeymoon-switzerland.aspx",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "steam",
+    "source_url": "https://hotel.hardrock.com/davos/honeymoon-switzerland.aspx",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://hotel.hardrock.com/desaru-coast/experience.aspx",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://hotel.hardrock.com/hard-rock-experience.aspx",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://hotel.hardrock.com/malta/experience.aspx",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "meditation",
+    "source_url": "https://hotel.hardrock.com/malta/experience.aspx",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://hotel.hardrock.com/marbella/experiences.aspx",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "pilates",
+    "source_url": "https://hotel.hardrock.com/marbella/experiences.aspx",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sauna",
+    "source_url": "https://hotel.hardrock.com/marbella/experiences.aspx",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://hotel.hardrock.com/marbella/fr/experiences.aspx",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "pilates",
+    "source_url": "https://hotel.hardrock.com/marbella/fr/experiences.aspx",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sauna",
+    "source_url": "https://hotel.hardrock.com/marbella/fr/experiences.aspx",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://hotel.hardrock.com/music-experiences.aspx",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://hotel.hardrock.com/pattaya/experience.aspx",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "fitness center",
+    "source_url": "https://hotel.hardrock.com/pattaya/experience.aspx",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://hotel.hardrock.com/penang/experience.aspx",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "fitness center",
+    "source_url": "https://hotel.hardrock.com/penang/experience.aspx",
+    "as_of": "2026-10-05"
+   },
+   {
     "value": "yoga",
     "source_url": "https://www.neoscapesmaldives.com/resort/hard-rock-hotel-maldives/",
     "as_of": "2026-10-04"
@@ -3234,6 +3552,21 @@
    },
    {
     "value": true,
+    "source_url": "https://hotel.hardrock.com/davos/honeymoon-switzerland.aspx",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": true,
+    "source_url": "https://hotel.hardrock.com/punta-cana/celebration-packages.aspx",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": true,
+    "source_url": "https://hotel.hardrock.com/san-diego/vip-experiences.aspx",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": true,
     "source_url": "https://www.neoscapesmaldives.com/resort/hard-rock-hotel-maldives/",
     "as_of": "2026-10-04"
    },
@@ -3262,6 +3595,268 @@
    {
     "value": true,
     "source_url": "https://hotel.hardrock.com/maldives/meetings-and-weddings.aspx",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "destination_dining.experiences": [
+   {
+    "value": "in-villa dining",
+    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Hard-Rock-Hotel-Maldives-Info-Sheet-2025.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Hard-Rock-Hotel-Maldives-Info-Sheet-2025.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "private chef",
+    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Hard-Rock-Hotel-Maldives-Info-Sheet-2025.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "private dining",
+    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Hard-Rock-Hotel-Maldives-Info-Sheet-2025.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "romantic dinner",
+    "source_url": "https://hotel.hardrock.com/maldives/files/6016/HRH_Wedding_Brochure_2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "romantic dinner",
+    "source_url": "https://hotel.hardrock.com/los-cabos/files/6148/Romantic-Dinner-Hard-Rock-Hotel-Los-Cabos.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": "romantic dinner",
+    "source_url": "https://hotel.hardrock.com/maldives/files/6016/HRH_Signature_Menu_2026.06.21.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "in-villa dining",
+    "source_url": "https://hotel.hardrock.com/maldives/files/6016/HRH_Signature_Menu_2026.06.21.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "private chef",
+    "source_url": "https://hotel.hardrock.com/maldives/eat-and-drink.aspx",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "private dining",
+    "source_url": "https://hotel.hardrock.com/maldives/eat-and-drink.aspx",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "private dining",
+    "source_url": "https://hotel.hardrock.com/maldives/eat-and-drink.aspx",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "private dining",
+    "source_url": "https://hotel.hardrock.com/maldives/eat-and-drink.aspx",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "in-villa dining",
+    "source_url": "https://hotel.hardrock.com/maldives/eat-and-drink.aspx",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "in-villa dining",
+    "source_url": "https://hotel.hardrock.com/maldives/offers.aspx",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://hotel.hardrock.com/maldives/offers.aspx",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://hotel.hardrock.com/maldives/offers.aspx",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "beach dinner",
+    "source_url": "https://hotel.hardrock.com/maldives/offers.aspx",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://hotel.hardrock.com/maldives/resort-activities.aspx",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "in villa dining",
+    "source_url": "https://hotel.hardrock.com/maldives/an-iconic-all-inclusive-stay.aspx",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "in-villa dining",
+    "source_url": "https://hotel.hardrock.com/maldives/an-iconic-all-inclusive-stay.aspx",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "in-villa dining",
+    "source_url": "https://hotel.hardrock.com/maldives/rooms-and-villas.aspx",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "in-villa dining",
+    "source_url": "https://hotel.hardrock.com/maldives/meal-plans.aspx",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://hotel.hardrock.com/maldives/meal-plans.aspx",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "in villa dining",
+    "source_url": "https://hotel.hardrock.com/maldives/meal-plans.aspx",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "romantic dinner",
+    "source_url": "https://hotel.hardrock.com/cancun/celebration-packages.aspx",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "romantic dinner",
+    "source_url": "https://hotel.hardrock.com/cancun/celebration-packages.aspx",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "romantic dinner",
+    "source_url": "https://hotel.hardrock.com/cancun/gourmet-experiences.aspx",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "romantic dinner",
+    "source_url": "https://hotel.hardrock.com/cancun/gourmet-experiences.aspx",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "romantic dinner",
+    "source_url": "https://hotel.hardrock.com/cancun/gourmet-experiences.aspx",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "romantic dinner",
+    "source_url": "https://hotel.hardrock.com/cancun/gourmet-experiences.aspx",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "honeymoon dinner",
+    "source_url": "https://hotel.hardrock.com/cancun/honeymoon-packages.aspx",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "romantic dinner",
+    "source_url": "https://hotel.hardrock.com/cancun/honeymoon-packages.aspx",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "romantic dinner",
+    "source_url": "https://hotel.hardrock.com/cancun/honeymoon-packages.aspx",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "honeymoon dinner",
+    "source_url": "https://hotel.hardrock.com/los-cabos/celebration-packages.aspx",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "romantic dinner",
+    "source_url": "https://hotel.hardrock.com/los-cabos/celebration-packages.aspx",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "honeymoon dinner",
+    "source_url": "https://hotel.hardrock.com/los-cabos/honeymoon-packages.aspx",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "romantic dinner",
+    "source_url": "https://hotel.hardrock.com/punta-cana/gourmet-experiences.aspx",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "romantic dinner",
+    "source_url": "https://hotel.hardrock.com/riviera-maya/celebration-packages.aspx",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "romantic dinner",
+    "source_url": "https://hotel.hardrock.com/riviera-maya/celebration-packages.aspx",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "romantic dinner",
+    "source_url": "https://hotel.hardrock.com/riviera-maya/honeymoon-packages.aspx",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "romantic dinner",
+    "source_url": "https://hotel.hardrock.com/riviera-maya/honeymoon-packages.aspx",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "romantic dinner",
+    "source_url": "https://hotel.hardrock.com/riviera-maya/honeymoon-packages.aspx",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "private chef",
+    "source_url": "https://www.neoscapesmaldives.com/resort/hard-rock-hotel-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "private dining",
+    "source_url": "https://www.neoscapesmaldives.com/resort/hard-rock-hotel-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "private chef",
+    "source_url": "https://www.tropicalsky.co.uk/indian-ocean-holidays/maldives/hard-rock-hotel-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "private dining",
+    "source_url": "https://www.tropicalsky.co.uk/indian-ocean-holidays/maldives/hard-rock-hotel-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "in villa dining",
+    "source_url": "https://www.tropicalsky.co.uk/indian-ocean-holidays/maldives/hard-rock-hotel-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "in villa dining",
+    "source_url": "https://www.tropicalsky.co.uk/indian-ocean-holidays/maldives/hard-rock-hotel-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "in-villa dining",
+    "source_url": "https://www.tropicalsky.co.uk/indian-ocean-holidays/maldives/hard-rock-hotel-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://www.tropicalsky.co.uk/indian-ocean-holidays/maldives/hard-rock-hotel-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "in villa dining",
+    "source_url": "https://www.tropicalsky.co.uk/indian-ocean-holidays/maldives/hard-rock-hotel-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "private dining",
+    "source_url": "https://www.dnatatravel.com/2-8339915-1/hard-rock-hotel-maldives?oc=true",
     "as_of": "2026-10-04"
    }
   ],
@@ -3371,6 +3966,41 @@
     "as_of": "2026-10-04"
    },
    {
+    "value": "onlinereservations@pamhotels.com",
+    "source_url": "https://hotel.hardrock.com/cancun/celebration-packages.aspx",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "onlinereservations@pamhotels.com",
+    "source_url": "https://hotel.hardrock.com/los-cabos/celebration-packages.aspx",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "onlinereservations@rcdhotels.com",
+    "source_url": "https://hotel.hardrock.com/los-cabos/honeymoon-packages.aspx",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "reservaspc@hrhcpuntacana.com",
+    "source_url": "https://hotel.hardrock.com/punta-cana/celebration-packages.aspx",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "reservaspc@hrhcpuntacana.com",
+    "source_url": "https://hotel.hardrock.com/punta-cana/honeymoon-packages.aspx",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "onlinereservations@pamhotels.com",
+    "source_url": "https://hotel.hardrock.com/riviera-maya/celebration-packages.aspx",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "onlinereservations@rcdhotels.com",
+    "source_url": "https://hotel.hardrock.com/riviera-maya/honeymoon-packages.aspx",
+    "as_of": "2026-10-05"
+   },
+   {
     "value": "info@neoscapesmaldives.com",
     "source_url": "https://www.neoscapesmaldives.com/resort/hard-rock-hotel-maldives/",
     "as_of": "2026-10-04"
@@ -3423,6 +4053,16 @@
     "as_of": "2026-10-04"
    },
    {
+    "value": "AI",
+    "source_url": "https://hotel.hardrock.com/los-cabos/experience.aspx",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://hotel.hardrock.com/punta-cana/experience.aspx",
+    "as_of": "2026-10-05"
+   },
+   {
     "value": "HB",
     "source_url": "https://www.neoscapesmaldives.com/resort/hard-rock-hotel-maldives/",
     "as_of": "2026-10-04"
@@ -3470,6 +4110,16 @@
     "value": "All-Inclusive Plans: USD 100 per room per night (maximum 5 nights).",
     "source_url": "https://hotel.hardrock.com/maldives/hotel-policies.aspx",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "all-inclusive awesome for every member of your crew.",
+    "source_url": "https://hotel.hardrock.com/los-cabos/experience.aspx",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "All-Inclusive awesome for every member of your crew.",
+    "source_url": "https://hotel.hardrock.com/punta-cana/experience.aspx",
+    "as_of": "2026-10-05"
    }
   ],
   "weddings.packages": [
@@ -3492,6 +4142,16 @@
     },
     "source_url": "https://hotel.hardrock.com/maldives/offers.aspx",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Wedding",
+     "price": "220",
+     "currency": "USD",
+     "as_of": "2026-10-05"
+    },
+    "source_url": "https://hotel.hardrock.com/san-diego/vip-experiences.aspx",
+    "as_of": "2026-10-05"
    }
   ],
   "star_rating": [

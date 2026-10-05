@@ -198,6 +198,16 @@
   "packages": [],
   "brochure_doc": null
  },
+ "destination_dining": {
+  "experiences": [
+   "beach bbq",
+   "sunset cruise",
+   "floating breakfast"
+  ],
+  "packages": [],
+  "sandbank_events": null,
+  "doc": null
+ },
  "events_mice": {
   "venues": [],
   "capacity_max": null,
@@ -218,7 +228,8 @@
   "dining_menu": null,
   "dive_prices": null,
   "events": null,
-  "calendar": "https://letsgomaldives.com/wp-content/uploads/2023/11/Festive_Calendar_2023_2024_Atmosphere-Kanifushi_Maldives.pdf"
+  "calendar": "https://letsgomaldives.com/wp-content/uploads/2023/11/Festive_Calendar_2023_2024_Atmosphere-Kanifushi_Maldives.pdf",
+  "destination_dining": null
  },
  "documents_count": 3,
  "gaps": [
@@ -805,6 +816,38 @@
    {
     "value": "steam",
     "source_url": "https://www.letsgo2.com/suites-and-villas/maldives/atmosphere-kanifushi/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "destination_dining.experiences": [
+   {
+    "value": "beach bbq",
+    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/AKM-Resort-Brochure-MAR-2025-1.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "beach bbq",
+    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/AKM-Resort-Brochure-MAR-2025-1.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/AKM-Resort-Brochure-MAR-2025-1.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/AKM-Resort-Brochure-MAR-2025-1.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "beach bbq",
+    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/AKM-Resort-Brochure-MAR-2025-1.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.neoscapesmaldives.com/resort/atmosphere-kanifushi-maldives/",
     "as_of": "2026-10-04"
    }
   ],

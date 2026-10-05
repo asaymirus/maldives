@@ -116,6 +116,16 @@
   "packages": [],
   "brochure_doc": null
  },
+ "destination_dining": {
+  "experiences": [
+   "romantic dinner",
+   "lobster dinner",
+   "underwater restaurant"
+  ],
+  "packages": [],
+  "sandbank_events": null,
+  "doc": null
+ },
  "events_mice": {
   "venues": [
    "Venue Theatre Classroom U-Shape Boardroom Banquet Cocktail",
@@ -150,7 +160,8 @@
   "dining_menu": "https://d1vp8nomjxwyf1.cloudfront.net/wp-content/uploads/sites/212/2017/07/10144441/Italia-a-Tavola_Nov-2018.pdf",
   "dive_prices": null,
   "events": "https://d1vp8nomjxwyf1.cloudfront.net/wp-content/uploads/sites/212/2017/07/03081145/DIAMONDS-Malindi-MICE-Booklet-2026.pdf",
-  "calendar": null
+  "calendar": null,
+  "destination_dining": null
  },
  "documents_count": 32,
  "gaps": [
@@ -1304,26 +1315,6 @@
   ],
   "contacts_public.reservations_email": [
    {
-    "value": "info.doa@diamonds-resorts.com",
-    "source_url": "https://d1vp8nomjxwyf1.cloudfront.net/wp-content/uploads/sites/212/2017/07/02141435/Planhotel-Hospitality-Group-Company-Profile_dsp.pdf",
-    "as_of": 2018
-   },
-   {
-    "value": "info.mequfi@diamonds-resorts.com",
-    "source_url": "https://d1vp8nomjxwyf1.cloudfront.net/wp-content/uploads/sites/212/2017/07/02141435/Planhotel-Hospitality-Group-Company-Profile_dsp.pdf",
-    "as_of": 2018
-   },
-   {
-    "value": "info.bathala@sandies-resorts.com",
-    "source_url": "https://d1vp8nomjxwyf1.cloudfront.net/wp-content/uploads/sites/212/2017/07/02141435/Planhotel-Hospitality-Group-Company-Profile_dsp.pdf",
-    "as_of": 2018
-   },
-   {
-    "value": "info.tropical@sandies-resorts.com",
-    "source_url": "https://d1vp8nomjxwyf1.cloudfront.net/wp-content/uploads/sites/212/2017/07/02141435/Planhotel-Hospitality-Group-Company-Profile_dsp.pdf",
-    "as_of": 2018
-   },
-   {
     "value": "info@theviewlugano.com",
     "source_url": "https://d1vp8nomjxwyf1.cloudfront.net/wp-content/uploads/sites/212/2017/07/02141435/Planhotel-Hospitality-Group-Company-Profile_dsp.pdf",
     "as_of": 2018
@@ -1334,7 +1325,7 @@
     "as_of": 2018
    },
    {
-    "value": "info.malindidream@sandies-resorts.com",
+    "value": "info.doa@diamonds-resorts.com",
     "source_url": "https://d1vp8nomjxwyf1.cloudfront.net/wp-content/uploads/sites/212/2017/07/02141435/Planhotel-Hospitality-Group-Company-Profile_dsp.pdf",
     "as_of": 2018
    },
@@ -1344,12 +1335,32 @@
     "as_of": 2018
    },
    {
+    "value": "info.tropical@sandies-resorts.com",
+    "source_url": "https://d1vp8nomjxwyf1.cloudfront.net/wp-content/uploads/sites/212/2017/07/02141435/Planhotel-Hospitality-Group-Company-Profile_dsp.pdf",
+    "as_of": 2018
+   },
+   {
     "value": "info.baobab@sandies-resorts.com",
     "source_url": "https://d1vp8nomjxwyf1.cloudfront.net/wp-content/uploads/sites/212/2017/07/02141435/Planhotel-Hospitality-Group-Company-Profile_dsp.pdf",
     "as_of": 2018
    },
    {
+    "value": "info.bathala@sandies-resorts.com",
+    "source_url": "https://d1vp8nomjxwyf1.cloudfront.net/wp-content/uploads/sites/212/2017/07/02141435/Planhotel-Hospitality-Group-Company-Profile_dsp.pdf",
+    "as_of": 2018
+   },
+   {
     "value": "info.mapenzi@diamonds-resorts.com",
+    "source_url": "https://d1vp8nomjxwyf1.cloudfront.net/wp-content/uploads/sites/212/2017/07/02141435/Planhotel-Hospitality-Group-Company-Profile_dsp.pdf",
+    "as_of": 2018
+   },
+   {
+    "value": "info.mequfi@diamonds-resorts.com",
+    "source_url": "https://d1vp8nomjxwyf1.cloudfront.net/wp-content/uploads/sites/212/2017/07/02141435/Planhotel-Hospitality-Group-Company-Profile_dsp.pdf",
+    "as_of": 2018
+   },
+   {
+    "value": "info.malindidream@sandies-resorts.com",
     "source_url": "https://d1vp8nomjxwyf1.cloudfront.net/wp-content/uploads/sites/212/2017/07/02141435/Planhotel-Hospitality-Group-Company-Profile_dsp.pdf",
     "as_of": 2018
    },
@@ -1814,6 +1825,28 @@
    },
    {
     "value": 15,
+    "source_url": "https://www.kuoni.co.uk/destinations/indian-ocean/maldives/hotels/sandies-bathala/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "destination_dining.experiences": [
+   {
+    "value": "romantic dinner",
+    "source_url": "https://www.planhotel.com/travel-professional/weddings-ceremonies/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "lobster dinner",
+    "source_url": "https://www.planhotel.com/travel-professional/weddings-ceremonies/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "lobster dinner",
+    "source_url": "https://www.planhotel.com/travel-professional/weddings-ceremonies/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "underwater restaurant",
     "source_url": "https://www.kuoni.co.uk/destinations/indian-ocean/maldives/hotels/sandies-bathala/",
     "as_of": "2026-10-04"
    }

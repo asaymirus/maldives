@@ -184,6 +184,17 @@
   "packages": [],
   "brochure_doc": null
  },
+ "destination_dining": {
+  "experiences": [
+   "floating breakfast",
+   "destination dining",
+   "sunset cruise",
+   "sandbank experience"
+  ],
+  "packages": [],
+  "sandbank_events": true,
+  "doc": null
+ },
  "events_mice": {
   "venues": [
    "Champa Maa Conference Room 28 Pavilion Bar"
@@ -211,7 +222,8 @@
   "dining_menu": "https://www.meeru.com/wp-content/uploads/2026/10/ASIAN_WOK_FOOD_MENU.pdf",
   "dive_prices": "https://www.meeru.com/wp-content/uploads/2025/06/MEERU-DIVE-GERMAN.pdf",
   "events": null,
-  "calendar": "https://d2qwq69i2ic1pk.cloudfront.net/2023/11/CCR_2024_Calendar_compressed.pdf"
+  "calendar": "https://d2qwq69i2ic1pk.cloudfront.net/2023/11/CCR_2024_Calendar_compressed.pdf",
+  "destination_dining": null
  },
  "documents_count": 62,
  "gaps": [
@@ -996,6 +1008,45 @@
    {
     "value": "9 Duniye Spa - Land Spa South Wedding Pavilion",
     "source_url": "https://www.meeru.com/wp-content/uploads/2025/11/MeeruMaldivesColorMap110125103126Ver200425.pdf",
+    "as_of": 2025
+   }
+  ],
+  "destination_dining.experiences": [
+   {
+    "value": "floating breakfast",
+    "source_url": "https://www.meeru.com/wp-content/uploads/2025/11/FactSheetMeeru110125103126Ver01022025.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://www.meeru.com/wp-content/uploads/2025/11/FactSheetMeeru110125103126Ver01022025.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.meeru.com/wp-content/uploads/2025/11/FactSheetMeeru110125103126Ver01022025.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "sandbank experience",
+    "source_url": "https://www.meeru.com/wp-content/uploads/2025/11/FactSheetMeeru110125103126Ver01022025.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.meeru.com/wp-content/uploads/2025/11/FactSheetMeeru110125103126Ver01022025.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.meeru.com/wp-content/uploads/2025/11/AllInclusiveDineAroundPackageMeeru.pdf",
+    "as_of": 2026
+   }
+  ],
+  "destination_dining.sandbank_events": [
+   {
+    "value": true,
+    "source_url": "https://www.meeru.com/wp-content/uploads/2025/11/FactSheetMeeru110125103126Ver01022025.pdf",
     "as_of": 2025
    }
   ],

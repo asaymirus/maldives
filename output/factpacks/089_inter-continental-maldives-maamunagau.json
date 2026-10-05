@@ -154,10 +154,16 @@
    "name": "Private Seaplane Lounge Access",
    "cuisine": null,
    "type": "bar"
+  },
+  {
+   "name": "Zugang zur privaten Wasserflugzeug-Lounge",
+   "cuisine": null,
+   "type": "bar"
   }
  ],
  "meal_plans": [
-  "AI"
+  "AI",
+  "Dine Around"
  ],
  "all_inclusive_details": "All-Inclusive private island escape with breakfast, lunch and dinner, selected beverages and .",
  "spa": {
@@ -181,7 +187,8 @@
    "surfing",
    "fishing",
    "kayaking",
-   "stand-up paddle"
+   "stand-up paddle",
+   "paddleboard"
   ],
   "price_list_doc": null
  },
@@ -191,7 +198,9 @@
   "sandbank",
   "cooking class",
   "dolphin",
-  "local island"
+  "local island",
+  "stargazing",
+  "picnic"
  ],
  "kids_family": {
   "kids_club": "Unser Kids Club",
@@ -204,7 +213,9 @@
   "sound healing",
   "beach volleyball",
   "fitness centre",
-  "personal trainer"
+  "personal trainer",
+  "pilates",
+  "wellness programme"
  ],
  "weddings": {
   "offered": true,
@@ -212,6 +223,23 @@
   "venues": [],
   "packages": [],
   "brochure_doc": null
+ },
+ "destination_dining": {
+  "experiences": [
+   "sunset cruise",
+   "romantic dinner",
+   "floating breakfast",
+   "in-villa dining",
+   "wine dinner",
+   "private dining",
+   "wine pairing",
+   "candlelit dinner",
+   "beach dinner",
+   "romantic dining"
+  ],
+  "packages": [],
+  "sandbank_events": null,
+  "doc": null
  },
  "events_mice": {
   "venues": [],
@@ -223,7 +251,8 @@
   "manta trust",
   "solar",
   "single-use plastic",
-  "reef restoration"
+  "reef restoration",
+  "marine biologist"
  ],
  "contacts_public": {
   "reservations_email": null,
@@ -238,7 +267,8 @@
   "dining_menu": null,
   "dive_prices": null,
   "events": null,
-  "calendar": null
+  "calendar": null,
+  "destination_dining": null
  },
  "documents_count": 1,
  "gaps": [
@@ -468,6 +498,16 @@
     "value": "Baa Atoll",
     "source_url": "https://maldives.intercontinental.com/sustainability/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "Raa Atoll",
+    "source_url": "https://maldives.intercontinental.com/bespoke-guest-experiences/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Raa Atoll",
+    "source_url": "https://maldives.intercontinental.com/blog/the-manta-ray-experience/",
+    "as_of": "2026-10-05"
    }
   ],
   "transfer.modes": [
@@ -510,6 +550,16 @@
     "value": "seaplane",
     "source_url": "https://maldives.intercontinental.com/special-offer/maldives-premium-all-inclusive/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "yacht",
+    "source_url": "https://maldives.intercontinental.com/blog/culinary-experience-with-londons-most-acclaimed-michelin-starred-chef-tom-aikens/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://maldives.intercontinental.com/special-offer/island-romance/",
+    "as_of": "2026-10-05"
    }
   ],
   "all_inclusive_details": [
@@ -547,6 +597,11 @@
     "value": "all-inclusive with more to pour, wherever your day takes you.",
     "source_url": "https://maldives.intercontinental.com/special-offer/maldives-premium-all-inclusive/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "All-Inclusive private island escape with breakfast, lunch and dinner, selected beverages and .",
+    "source_url": "https://maldives.intercontinental.com/special-offer/island-romance/",
+    "as_of": "2026-10-05"
    }
   ],
   "spa.name": [
@@ -589,6 +644,46 @@
     "value": "AVI Spa",
     "source_url": "https://maldives.intercontinental.com/blog/new-beginnings-at-avi-spa-an-interview-with-phil-davies/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "AVI Spa",
+    "source_url": "https://maldives.intercontinental.com/ar/special-offer/island-romance/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "AVI Spa",
+    "source_url": "https://maldives.intercontinental.com/blog/exclusive-maldives-villas-that-will-take-your-honeymoon-to-the-next-level/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "At AVI Spa",
+    "source_url": "https://maldives.intercontinental.com/blog/honeymoon-to-remember-romantic-experiences-at-intercontinental-maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "At AVI Spa",
+    "source_url": "https://maldives.intercontinental.com/blog/why-february-is-the-best-time-to-visit-the-maldives-for-love-celebration/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://maldives.intercontinental.com/de/special-offer/island-romance/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "AVI Spa",
+    "source_url": "https://maldives.intercontinental.com/de/weddings-celebrations/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "AVI Spa",
+    "source_url": "https://maldives.intercontinental.com/ru/special-offer/island-romance/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "AVI Spa",
+    "source_url": "https://maldives.intercontinental.com/special-offer/island-romance/",
+    "as_of": "2026-10-05"
    }
   ],
   "diving_watersports.house_reef": [
@@ -601,6 +696,11 @@
     "value": "house reef surrounding our beautiful island, Maamunagau",
     "source_url": "https://maldives.intercontinental.com/blog/the-manta-retreat-is-back/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef together, where manta rays gracefully sweep through coral gardens",
+    "source_url": "https://maldives.intercontinental.com/blog/honeymoon-to-remember-romantic-experiences-at-intercontinental-maldives/",
+    "as_of": "2026-10-05"
    }
   ],
   "diving_watersports.activities": [
@@ -813,6 +913,121 @@
     "value": "snorkelling",
     "source_url": "https://maldives.intercontinental.com/blog/new-beginnings-at-avi-spa-an-interview-with-phil-davies/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://maldives.intercontinental.com/bespoke-guest-experiences/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://maldives.intercontinental.com/bespoke-guest-experiences/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://maldives.intercontinental.com/blog/celebrating-all-the-good-things-in-life/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://maldives.intercontinental.com/blog/culinary-experience-with-londons-most-acclaimed-michelin-starred-chef-tom-aikens/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://maldives.intercontinental.com/blog/exclusive-maldives-villas-that-will-take-your-honeymoon-to-the-next-level/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://maldives.intercontinental.com/blog/exclusive-maldives-villas-that-will-take-your-honeymoon-to-the-next-level/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://maldives.intercontinental.com/blog/honeymoon-to-remember-romantic-experiences-at-intercontinental-maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "jet ski",
+    "source_url": "https://maldives.intercontinental.com/blog/honeymoon-to-remember-romantic-experiences-at-intercontinental-maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://maldives.intercontinental.com/blog/honeymoon-to-remember-romantic-experiences-at-intercontinental-maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://maldives.intercontinental.com/blog/honeymoon-to-remember-romantic-experiences-at-intercontinental-maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sailing",
+    "source_url": "https://maldives.intercontinental.com/blog/honeymoon-to-remember-romantic-experiences-at-intercontinental-maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://maldives.intercontinental.com/blog/the-manta-ray-experience/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://maldives.intercontinental.com/blog/the-manta-ray-experience/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://maldives.intercontinental.com/blog/why-february-is-the-best-time-to-visit-the-maldives-for-love-celebration/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://maldives.intercontinental.com/blog/why-february-is-the-best-time-to-visit-the-maldives-for-love-celebration/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://maldives.intercontinental.com/de/club-intercontinental-experience/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://maldives.intercontinental.com/de/special-offer/island-romance/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "windsurfing",
+    "source_url": "https://maldives.intercontinental.com/special-offer/island-romance/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "stand-up paddle",
+    "source_url": "https://maldives.intercontinental.com/special-offer/island-romance/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "paddleboard",
+    "source_url": "https://maldives.intercontinental.com/special-offer/island-romance/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "catamaran",
+    "source_url": "https://maldives.intercontinental.com/special-offer/island-romance/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://maldives.intercontinental.com/special-offer/island-romance/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sailing",
+    "source_url": "https://maldives.intercontinental.com/special-offer/island-romance/",
+    "as_of": "2026-10-05"
    }
   ],
   "excursions": [
@@ -905,6 +1120,61 @@
     "value": "manta",
     "source_url": "https://maldives.intercontinental.com/special-offer/maldives-premium-all-inclusive/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://maldives.intercontinental.com/bespoke-guest-experiences/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "stargazing",
+    "source_url": "https://maldives.intercontinental.com/blog/exclusive-maldives-villas-that-will-take-your-honeymoon-to-the-next-level/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://maldives.intercontinental.com/blog/honeymoon-to-remember-romantic-experiences-at-intercontinental-maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://maldives.intercontinental.com/blog/honeymoon-to-remember-romantic-experiences-at-intercontinental-maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://maldives.intercontinental.com/blog/honeymoon-to-remember-romantic-experiences-at-intercontinental-maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "picnic",
+    "source_url": "https://maldives.intercontinental.com/blog/honeymoon-to-remember-romantic-experiences-at-intercontinental-maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://maldives.intercontinental.com/blog/the-manta-ray-experience/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://maldives.intercontinental.com/de/club-intercontinental-experience/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://maldives.intercontinental.com/de/special-offer/island-romance/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://maldives.intercontinental.com/de/weddings-celebrations/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://maldives.intercontinental.com/special-offer/island-romance/",
+    "as_of": "2026-10-05"
    }
   ],
   "weddings.offered": [
@@ -937,6 +1207,148 @@
     "value": true,
     "source_url": "https://maldives.intercontinental.com/ar/weddings-celebrations/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://maldives.intercontinental.com/ar/eid-celebrations-in-the-maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": true,
+    "source_url": "https://maldives.intercontinental.com/ar/special-offer/island-romance/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": true,
+    "source_url": "https://maldives.intercontinental.com/blog/celebrating-all-the-good-things-in-life/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": true,
+    "source_url": "https://maldives.intercontinental.com/ru/special-offer/island-romance/",
+    "as_of": "2026-10-05"
+   }
+  ],
+  "destination_dining.experiences": [
+   {
+    "value": "sunset cruise",
+    "source_url": "https://maldives.intercontinental.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "romantic dinner",
+    "source_url": "https://maldives.intercontinental.com/restaurantsandbars/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://maldives.intercontinental.com/blog/why-intercontinental-maldives-is-perfect-for-exclusive-resort-buyouts/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "in-villa dining",
+    "source_url": "https://maldives.intercontinental.com/silent-immersion-at-intercontinental-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "wine dinner",
+    "source_url": "https://maldives.intercontinental.com/bespoke-guest-experiences/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "wine dinner",
+    "source_url": "https://maldives.intercontinental.com/bespoke-guest-experiences/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "private dining",
+    "source_url": "https://maldives.intercontinental.com/blog/culinary-experience-with-londons-most-acclaimed-michelin-starred-chef-tom-aikens/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "wine pairing",
+    "source_url": "https://maldives.intercontinental.com/blog/culinary-experience-with-londons-most-acclaimed-michelin-starred-chef-tom-aikens/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "wine pairing",
+    "source_url": "https://maldives.intercontinental.com/blog/culinary-experience-with-londons-most-acclaimed-michelin-starred-chef-tom-aikens/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "private dining",
+    "source_url": "https://maldives.intercontinental.com/blog/culinary-experience-with-londons-most-acclaimed-michelin-starred-chef-tom-aikens/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "romantic dinner",
+    "source_url": "https://maldives.intercontinental.com/blog/exclusive-maldives-villas-that-will-take-your-honeymoon-to-the-next-level/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://maldives.intercontinental.com/blog/exclusive-maldives-villas-that-will-take-your-honeymoon-to-the-next-level/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://maldives.intercontinental.com/blog/honeymoon-to-remember-romantic-experiences-at-intercontinental-maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "candlelit dinner",
+    "source_url": "https://maldives.intercontinental.com/blog/honeymoon-to-remember-romantic-experiences-at-intercontinental-maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://maldives.intercontinental.com/blog/honeymoon-to-remember-romantic-experiences-at-intercontinental-maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "beach dinner",
+    "source_url": "https://maldives.intercontinental.com/blog/why-february-is-the-best-time-to-visit-the-maldives-for-love-celebration/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "wine pairing",
+    "source_url": "https://maldives.intercontinental.com/blog/why-february-is-the-best-time-to-visit-the-maldives-for-love-celebration/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://maldives.intercontinental.com/blog/why-february-is-the-best-time-to-visit-the-maldives-for-love-celebration/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://maldives.intercontinental.com/blog/why-february-is-the-best-time-to-visit-the-maldives-for-love-celebration/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://maldives.intercontinental.com/de/special-offer/island-romance/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://maldives.intercontinental.com/de/special-offer/island-romance/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "romantic dining",
+    "source_url": "https://maldives.intercontinental.com/special-offer/island-romance/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://maldives.intercontinental.com/special-offer/island-romance/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://maldives.intercontinental.com/special-offer/island-romance/",
+    "as_of": "2026-10-05"
    }
   ],
   "events_mice.buyout": [
@@ -981,6 +1393,16 @@
     "value": "reef restoration",
     "source_url": "https://maldives.intercontinental.com/sustainability/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "marine biologist",
+    "source_url": "https://maldives.intercontinental.com/blog/the-manta-ray-experience/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "manta trust",
+    "source_url": "https://maldives.intercontinental.com/blog/the-manta-ray-experience/",
+    "as_of": "2026-10-05"
    }
   ],
   "contacts_public.phone": [
@@ -1168,6 +1590,96 @@
     "value": "+960 730 9300",
     "source_url": "https://maldives.intercontinental.com/blog/new-beginnings-at-avi-spa-an-interview-with-phil-davies/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 730 9300",
+    "source_url": "https://maldives.intercontinental.com/ar/club-intercontinental-experience/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "+960 730 9300",
+    "source_url": "https://maldives.intercontinental.com/ar/eid-celebrations-in-the-maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "+960 730 9300",
+    "source_url": "https://maldives.intercontinental.com/ar/special-offer/island-romance/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "+960 730 9300",
+    "source_url": "https://maldives.intercontinental.com/bespoke-guest-experiences/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "+960 730 9300",
+    "source_url": "https://maldives.intercontinental.com/blog/celebrating-all-the-good-things-in-life/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "+960 730 9300",
+    "source_url": "https://maldives.intercontinental.com/blog/culinary-experience-with-londons-most-acclaimed-michelin-starred-chef-tom-aikens/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "+960 730 9300",
+    "source_url": "https://maldives.intercontinental.com/blog/exclusive-maldives-villas-that-will-take-your-honeymoon-to-the-next-level/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "+960 730 9300",
+    "source_url": "https://maldives.intercontinental.com/blog/honeymoon-to-remember-romantic-experiences-at-intercontinental-maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "+960 730 9300",
+    "source_url": "https://maldives.intercontinental.com/blog/the-manta-ray-experience/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "+960 730 9300",
+    "source_url": "https://maldives.intercontinental.com/blog/why-february-is-the-best-time-to-visit-the-maldives-for-love-celebration/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "+960 730 930",
+    "source_url": "https://maldives.intercontinental.com/de/club-intercontinental-experience/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "+960 730 9300",
+    "source_url": "https://maldives.intercontinental.com/de/special-offer/island-romance/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "+960 730 930",
+    "source_url": "https://maldives.intercontinental.com/de/weddings-celebrations/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "+960 730 930",
+    "source_url": "https://maldives.intercontinental.com/ru/club-intercontinental-experience/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "+960 730 9300",
+    "source_url": "https://maldives.intercontinental.com/ru/special-offer/island-romance/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "+960 730 9300",
+    "source_url": "https://maldives.intercontinental.com/special-offer/island-romance/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "+960 730 9300",
+    "source_url": "https://maldives.intercontinental.com/zh-hans/club-intercontinental-experience/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "+960 730 9300",
+    "source_url": "https://maldives.intercontinental.com/zh-hans/weddings-celebrations/",
+    "as_of": "2026-10-05"
    }
   ],
   "dining": [
@@ -1188,6 +1700,24 @@
     },
     "source_url": "https://maldives.intercontinental.com/club-intercontinental-experience/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "إفطار يومي في Café Umi وعشاء في مطاعم مختارة",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://maldives.intercontinental.com/ar/special-offer/island-romance/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": {
+     "name": "Zugang zur privaten Wasserflugzeug-Lounge",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://maldives.intercontinental.com/de/club-intercontinental-experience/",
+    "as_of": "2026-10-05"
    }
   ],
   "kids_family.kids_club": [
@@ -1225,6 +1755,16 @@
     "value": "Planet Trekkers Kids Club",
     "source_url": "https://maldives.intercontinental.com/special-offer/maldives-premium-all-inclusive/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "Planet Trekkers Kids Club",
+    "source_url": "https://maldives.intercontinental.com/de/special-offer/island-romance/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Planet Trekkers Kids Club",
+    "source_url": "https://maldives.intercontinental.com/special-offer/island-romance/",
+    "as_of": "2026-10-05"
    }
   ],
   "meal_plans": [
@@ -1247,6 +1787,11 @@
     "value": "AI",
     "source_url": "https://maldives.intercontinental.com/special-offer/maldives-premium-all-inclusive/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "Dine Around",
+    "source_url": "https://maldives.intercontinental.com/special-offer/island-romance/",
+    "as_of": "2026-10-05"
    }
   ],
   "wellness_fitness": [
@@ -1324,6 +1869,31 @@
     "value": "meditation",
     "source_url": "https://maldives.intercontinental.com/blog/new-beginnings-at-avi-spa-an-interview-with-phil-davies/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://maldives.intercontinental.com/bespoke-guest-experiences/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "meditation",
+    "source_url": "https://maldives.intercontinental.com/bespoke-guest-experiences/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "pilates",
+    "source_url": "https://maldives.intercontinental.com/bespoke-guest-experiences/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "wellness programme",
+    "source_url": "https://maldives.intercontinental.com/bespoke-guest-experiences/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sound healing",
+    "source_url": "https://maldives.intercontinental.com/blog/celebrating-all-the-good-things-in-life/",
+    "as_of": "2026-10-05"
    }
   ],
   "transfer.minutes.seaplane": [

@@ -50,7 +50,7 @@ Meal plans: Dine Around, BB
 ## Spa & wellness
 
 - Spa: Spa; treatment rooms: ?; menu: https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf
-- Wellness/fitness: yoga, gym, fitness center, sauna, meditation, fitness centre
+- Wellness/fitness: yoga, gym, fitness center, sauna, steam, meditation, fitness centre
 
 ## Diving, water sports & excursions
 
@@ -71,10 +71,16 @@ Meal plans: Dine Around, BB
 - Packages: n/a
 - Brochure: none
 
+## Destination dining
+
+- Experiences: dinner under the stars, in-villa dining, private dining, sunset dinner, private chef, dine under the stars, romantic dinner
+- Packages: n/a
+- Sandbank events: None; document: none
+
 ## Events / MICE
 
 - Venues: n/a; capacity max: n/a; buyout: None
-- Document: none
+- Document: https://document-tc.galaxy.tf/wdpdf-e3qcqstd984ityrjewx07jy6/corporate-social-events_cms-document.pdf
 
 ## Sustainability
 
@@ -82,7 +88,7 @@ Meal plans: Dine Around, BB
 
 ## Public contacts
 
-- Reservations: info@neoscapesmaldives.com; weddings: n/a; phone: +960 736 5425
+- Reservations: hello@tablescape.sg; weddings: n/a; phone: +960 736 5425
 
 ## Latest documents
 
@@ -90,14 +96,14 @@ Meal plans: Dine Around, BB
 - map: https://www.neoscapesmaldives.com/wp-content/uploads/Grand-Park-Kodhipparu-Maldives-Resort-Map.pdf
 - wedding: none
 - spa_menu: https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf
-- dining_menu: none
+- dining_menu: https://document-tc.galaxy.tf/wdpdf-2ht0xdr1fw2qrpwruotzv1wj8/catering_cms-document.pdf
 - dive_prices: none
-- events: none
+- events: https://document-tc.galaxy.tf/wdpdf-e3qcqstd984ityrjewx07jy6/corporate-social-events_cms-document.pdf
 - calendar: https://letsgomaldives.com/wp-content/uploads/2026/08/Grand-Park-Kodhipparu.pdf
+- destination_dining: none
 
 ## Gaps
 
 - wedding brochure
-- events/MICE document
 
-_Facts extracted by rules from 20 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._
+_Facts extracted by rules from 21 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

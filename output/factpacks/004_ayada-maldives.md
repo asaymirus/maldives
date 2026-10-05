@@ -77,6 +77,12 @@ All-inclusive: all-inclusive package.
 - Packages: Wedding USD 888 (2024)
 - Brochure: https://www.ayadamaldives.com/s/Ayada-Maldives-Wedding-Package-2024.pdf
 
+## Destination dining
+
+- Experiences: in-villa dining, sunset cruise, wine pairing, in villa dining, destination dining, romantic private dinner, beach bbq, floating breakfast, sandbank picnic, romantic dinner, candlelit dinner, private dining, teppanyaki dinner, beach barbecue, in-villa dinner, sandbank dinner, beach dinner, romantic dining, romantic beach dinner, private chef, sandbank experience
+- Packages: Sandbank Picnic USD 550 (2025); Floating Breakfast USD 104 (2026-10-04)
+- Sandbank events: True; document: https://www.ayadamaldives.com/s/Private-Dining-Menu-ca8b.pdf
+
 ## Events / MICE
 
 - Venues: n/a; capacity max: 450; buyout: None
@@ -88,7 +94,7 @@ All-inclusive: all-inclusive package.
 
 ## Public contacts
 
-- Reservations: info@ritzyholidays.com; weddings: n/a; phone: +960 3313256
+- Reservations: inquiry@reethifaru.com; weddings: n/a; phone: +960 3313256
 
 ## Latest documents
 
@@ -100,9 +106,10 @@ All-inclusive: all-inclusive package.
 - dive_prices: https://www.ayadamaldives.com/s/Watersports-_Prices_2025-2.pdf
 - events: none
 - calendar: none
+- destination_dining: https://www.ayadamaldives.com/s/Private-Dining-Menu-ca8b.pdf
 
 ## Gaps
 
 - events/MICE document
 
-_Facts extracted by rules from 28 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._
+_Facts extracted by rules from 31 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

@@ -132,7 +132,10 @@
    "snorkelling",
    "manta",
    "fishing",
-   "sunset cruise"
+   "sunset cruise",
+   "wakeboarding",
+   "scuba diving",
+   "jet ski"
   ],
   "price_list_doc": "https://coracoraresorts.com/wp-content/uploads/2026/01/CCM-Full-TGI-List-Price-Lists-2026.pdf"
  },
@@ -165,10 +168,29 @@
   "offered": true,
   "vow_renewal": null,
   "venues": [
-   "on the beach during the ceremony and ﬂower decoration on"
+   "on the beach during the ceremony and ﬂower decoration on",
+   "Decorated beach venue"
   ],
   "packages": [],
   "brochure_doc": "https://coracoraresorts.com/wp-content/uploads/2026/01/CCM_Wedding-Package_2026.pdf"
+ },
+ "destination_dining": {
+  "experiences": [
+   "romantic dinner",
+   "sunset cruise",
+   "private dining",
+   "anniversary celebration"
+  ],
+  "packages": [
+   {
+    "name": "Beach Cabana Dinner",
+    "price": "200",
+    "currency": "USD",
+    "as_of": 2026
+   }
+  ],
+  "sandbank_events": null,
+  "doc": null
  },
  "events_mice": {
   "venues": [],
@@ -199,9 +221,10 @@
   "dining_menu": "https://coracoraresorts.com/wp-content/uploads/2026/04/Ginger-Moon-Dinner-Russian.pdf",
   "dive_prices": "https://coracoraresorts.com/wp-content/uploads/2026/01/CCM-Full-TGI-List-Price-Lists-2026.pdf",
   "events": null,
-  "calendar": "https://coracoraresorts.com/wp-content/uploads/2025/12/CCM-Welcome-to-the-Northpole-Festive-Program-2025-2026.pdf"
+  "calendar": "https://coracoraresorts.com/wp-content/uploads/2025/12/CCM-Welcome-to-the-Northpole-Festive-Program-2025-2026.pdf",
+  "destination_dining": null
  },
- "documents_count": 62,
+ "documents_count": 67,
  "gaps": [
   "events/MICE document",
   "fact: villas.total"
@@ -427,6 +450,11 @@
    },
    {
     "value": "AI",
+    "source_url": "https://coracoraresorts.com/ho-chi-minh-city-navigating-adult-services-and-escort-experiences/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "AI",
     "source_url": "https://www.neoscapesmaldives.com/resort/cora-cora-maldives/",
     "as_of": "2026-10-04"
    }
@@ -444,6 +472,11 @@
    },
    {
     "value": "Spa",
+    "source_url": "https://coracoraresorts.com/de/experiences/hochzeiten-und-flitterwochen/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Spa",
     "source_url": "https://malediven.de/malediven-hotels/cora-cora-maldives/",
     "as_of": "2026-10-04"
    }
@@ -453,6 +486,16 @@
     "value": "house reef",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/CCM-Factsheet.pdf",
     "as_of": 2021
+   },
+   {
+    "value": "house reef",
+    "source_url": "https://coracoraresorts.com/experiences/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "House Reef, where bright sea creatures flit past as you float above the vibrant corals or explore the depths with scuba diving and freediving",
+    "source_url": "https://coracoraresorts.com/experiences/water-world/",
+    "as_of": "2026-10-05"
    }
   ],
   "diving_watersports.activities": [
@@ -647,6 +690,56 @@
     "as_of": "2026-10-04"
    },
    {
+    "value": "paddleboard",
+    "source_url": "https://coracoraresorts.com/de/experiences/wasserwelt/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "wakeboarding",
+    "source_url": "https://coracoraresorts.com/de/experiences/wasserwelt/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://coracoraresorts.com/experiences/water-world/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://coracoraresorts.com/experiences/water-world/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "windsurfing",
+    "source_url": "https://coracoraresorts.com/experiences/water-world/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "stand-up paddle",
+    "source_url": "https://coracoraresorts.com/experiences/water-world/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "paddleboard",
+    "source_url": "https://coracoraresorts.com/experiences/water-world/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "catamaran",
+    "source_url": "https://coracoraresorts.com/experiences/water-world/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "jet ski",
+    "source_url": "https://coracoraresorts.com/experiences/water-world/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "wakeboarding",
+    "source_url": "https://coracoraresorts.com/experiences/water-world/",
+    "as_of": "2026-10-05"
+   },
+   {
     "value": "snorkelling",
     "source_url": "https://www.neoscapesmaldives.com/resort/cora-cora-maldives/",
     "as_of": "2026-10-04"
@@ -795,6 +888,21 @@
    },
    {
     "value": "yoga",
+    "source_url": "https://coracoraresorts.com/de/experiences/cora-kids-club/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://coracoraresorts.com/experiences/cora-kids/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://coracoraresorts.com/fr/experiences/cora-kids-club/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "yoga",
     "source_url": "https://www.neoscapesmaldives.com/resort/cora-cora-maldives/",
     "as_of": "2026-10-04"
    },
@@ -871,6 +979,36 @@
    },
    {
     "value": true,
+    "source_url": "https://coracoraresorts.com/category/events-and-celebrations/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": true,
+    "source_url": "https://coracoraresorts.com/de/experiences/hochzeiten-und-flitterwochen/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": true,
+    "source_url": "https://coracoraresorts.com/experiences/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": true,
+    "source_url": "https://coracoraresorts.com/experiences/weddings-honeymoons/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": true,
+    "source_url": "https://coracoraresorts.com/fr/experiences/mariages-et-lunes-de-miel/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": true,
+    "source_url": "https://coracoraresorts.com/ru/experiences/%d1%81%d0%b2%d0%b0%d0%b4%d1%8c%d0%b1%d1%8b-%d0%b8-%d0%bc%d0%b5%d0%b4%d0%be%d0%b2%d1%8b%d0%b9-%d0%bc%d0%b5%d1%81%d1%8f%d1%86/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": true,
     "source_url": "https://www.neoscapesmaldives.com/resort/cora-cora-maldives/",
     "as_of": "2026-10-04"
    },
@@ -883,6 +1021,110 @@
   "weddings.venues": [
    {
     "value": "on the beach during the ceremony and ﬂower decoration on",
+    "source_url": "https://coracoraresorts.com/wp-content/uploads/2026/01/CCM_Wedding-Package_2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "Decorated beach venue",
+    "source_url": "https://coracoraresorts.com/experiences/weddings-honeymoons/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Decorated beach venue",
+    "source_url": "https://coracoraresorts.com/experiences/weddings-honeymoons/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Decorated beach venue",
+    "source_url": "https://coracoraresorts.com/fr/experiences/mariages-et-lunes-de-miel/",
+    "as_of": "2026-10-05"
+   }
+  ],
+  "destination_dining.experiences": [
+   {
+    "value": "romantic dinner",
+    "source_url": "https://coracoraresorts.com/wp-content/uploads/2026/01/CCM_Wedding-Package_2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://coracoraresorts.com/ko/offer/special-deal/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://coracoraresorts.com/fr/offer/book-direct/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "private dining",
+    "source_url": "https://coracoraresorts.com/jamaica-meets-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://coracoraresorts.com/ko/offer/cora-cora-anniversary-blowout/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://coracoraresorts.com/de/offer/last-minute-offer/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "anniversary celebration",
+    "source_url": "https://coracoraresorts.com/3rd-anniversary-celebration/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "romantic dinner",
+    "source_url": "https://coracoraresorts.com/experiences/weddings-honeymoons/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "romantic dinner",
+    "source_url": "https://coracoraresorts.com/fr/experiences/mariages-et-lunes-de-miel/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.neoscapesmaldives.com/resort/cora-cora-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.neoscapesmaldives.com/resort/cora-cora-maldives/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "destination_dining.packages": [
+   {
+    "value": {
+     "name": "Beach Cabana Dinner",
+     "price": "200",
+     "currency": "USD",
+     "as_of": 2026
+    },
+    "source_url": "https://coracoraresorts.com/wp-content/uploads/2026/01/CCM_Wedding-Package_2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": {
+     "name": "Beach Cabana Dinner",
+     "price": "200",
+     "currency": "USD",
+     "as_of": 2026
+    },
+    "source_url": "https://coracoraresorts.com/wp-content/uploads/2026/01/CCM_Wedding-Package_2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": {
+     "name": "Beach Cabana Dinner",
+     "price": "200",
+     "currency": "USD",
+     "as_of": 2026
+    },
     "source_url": "https://coracoraresorts.com/wp-content/uploads/2026/01/CCM_Wedding-Package_2026.pdf",
     "as_of": 2026
    }
@@ -1031,6 +1273,11 @@
     "value": "reef restoration",
     "source_url": "https://coracoraresorts.com/coral-restoration/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "coral restoration",
+    "source_url": "https://coracoraresorts.com/3rd-anniversary-celebration/",
+    "as_of": "2026-10-05"
    }
   ],
   "atoll": [
@@ -1159,6 +1406,26 @@
     "value": "All-Inclusive - Gourmet Meal Plan®.",
     "source_url": "https://coracoraresorts.com/de/offer/last-minute-offer/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "All-Inclusive-Paket enthaltenen nicht motorisierten Ausrüstung können Sie jeden Tag nach Lust und Laune auf Entdeckungstour gehen.",
+    "source_url": "https://coracoraresorts.com/de/experiences/wasserwelt/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "All-Inclusive package, you can explore all day, every day.",
+    "source_url": "https://coracoraresorts.com/experiences/water-world/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "all-inclusive fee, which might be around VND 15,000,000 (approximately $600 USD).",
+    "source_url": "https://coracoraresorts.com/ho-chi-minh-city-navigating-adult-services-and-escort-experiences/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "All-Inclusive, который вы можете исследовать весь день, каждый день.",
+    "source_url": "https://coracoraresorts.com/ru/experiences/%d0%b2%d0%be%d0%b4%d0%bd%d1%8b%d0%b9-%d0%bc%d0%b8%d1%80/",
+    "as_of": "2026-10-05"
    },
    {
     "value": "all-inclusive concept, and a relaxed, social atmosphere, Cora Cora welcomes couples, families, and friends alike.",

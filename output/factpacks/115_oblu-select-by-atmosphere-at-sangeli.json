@@ -248,6 +248,22 @@
   "packages": [],
   "brochure_doc": null
  },
+ "destination_dining": {
+  "experiences": [
+   "floating breakfast",
+   "sunset dinner",
+   "romantic dining",
+   "candlelit dinner",
+   "underwater restaurant",
+   "sunset cruise",
+   "romantic beach dinner",
+   "romantic dinner",
+   "private dining"
+  ],
+  "packages": [],
+  "sandbank_events": null,
+  "doc": null
+ },
  "events_mice": {
   "venues": [],
   "capacity_max": null,
@@ -265,10 +281,11 @@
   "map": "https://www.neoscapesmaldives.com/wp-content/uploads/OBLU-SELECT-Lobigili-Island-Map-MAY-2025.pdf",
   "wedding": null,
   "spa_menu": null,
-  "dining_menu": "https://cob-ucmsapi.coloursofoblu.com/OBLU/images/pdflinkd0d15eb6-736a-4194-8844-1d146f52d641file.pdf.pdf",
+  "dining_menu": null,
   "dive_prices": null,
   "events": null,
-  "calendar": null
+  "calendar": null,
+  "destination_dining": null
  },
  "documents_count": 5,
  "gaps": [
@@ -1204,6 +1221,73 @@
    {
     "value": "steam",
     "source_url": "https://www.letsgo2.com/suites-and-villas/maldives/oblu-select-at-sangeli/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "destination_dining.experiences": [
+   {
+    "value": "floating breakfast",
+    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/OBLU-SELECT-Sangeli-BROCHURE-FEB-2025.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://cob-ucmsapi.coloursofoblu.com/OBLU/images/pdflinkd0d15eb6-736a-4194-8844-1d146f52d641file.pdf.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://www.coloursofoblu.com/oblu-select-sangeli",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset dinner",
+    "source_url": "https://www.coloursofoblu.com/oblu-select-sangeli",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "romantic dining",
+    "source_url": "https://www.neoscapesmaldives.com/resort/oblu-select-at-sangeli/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "candlelit dinner",
+    "source_url": "https://www.neoscapesmaldives.com/resort/oblu-select-at-sangeli/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://www.neoscapesmaldives.com/resort/oblu-select-at-sangeli/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "underwater restaurant",
+    "source_url": "https://www.neoscapesmaldives.com/resort/oblu-select-lobigili/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.neoscapesmaldives.com/resort/oblu-select-lobigili/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "romantic beach dinner",
+    "source_url": "https://www.neoscapesmaldives.com/resort/oblu-select-lobigili/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "romantic dinner",
+    "source_url": "https://www.maldivesholidayoffers.com/blogs/blog-detail/treat-your-valentine-with-the-best-vegan-cuisine-in-maldives-at-oblu-select-sangeli/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "private dining",
+    "source_url": "https://www.maldivesholidayoffers.com/blogs/blog-detail/treat-your-valentine-with-the-best-vegan-cuisine-in-maldives-at-oblu-select-sangeli/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "romantic dinner",
+    "source_url": "https://www.maldivesholidayoffers.com/blogs/blog-detail/treat-your-valentine-with-the-best-vegan-cuisine-in-maldives-at-oblu-select-sangeli/",
     "as_of": "2026-10-04"
    }
   ],

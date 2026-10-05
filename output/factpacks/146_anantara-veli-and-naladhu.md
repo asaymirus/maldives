@@ -52,6 +52,12 @@ Meal plans: n/a
 - Packages: n/a
 - Brochure: none
 
+## Destination dining
+
+- Experiences: dine under the stars, wine dinner, romantic dinner, beach dinner, dinner under the stars, sunset cruise, private dining, in-villa dining
+- Packages: n/a
+- Sandbank events: None; document: none
+
 ## Events / MICE
 
 - Venues: n/a; capacity max: n/a; buyout: None
@@ -75,6 +81,7 @@ Meal plans: n/a
 - dive_prices: none
 - events: none
 - calendar: none
+- destination_dining: none
 
 ## Gaps
 
@@ -83,4 +90,4 @@ Meal plans: n/a
 - fact: villas.total
 - fact: kids club
 
-_Facts extracted by rules from 21 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._
+_Facts extracted by rules from 22 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

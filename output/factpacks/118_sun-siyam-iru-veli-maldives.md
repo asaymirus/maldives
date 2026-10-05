@@ -26,8 +26,8 @@
 - Grouper Grill Fresh Water (restaurant)
 - Roma Wine Cellar (bar)
 - Teppanyaki (restaurant)
-- lunch served at Chemistry Bar. (bar)
 - Location: Chemistry Bar (bar)
+- lunch served at Chemistry Bar. (bar)
 - Afternoon Tea at Chemistry Bar (bar)
 - Wines. Grill and Roma (restaurant)
 - at Chemistry Bar or Fresh Water Bar. (bar)
@@ -50,7 +50,7 @@ All-inclusive: All-Inclusive Dine-Around.
 - Operator: Dive Centre
 - House reef: house reef
 - Activities: scuba diving, canoe, whale shark, banana boat, fun tube, snorkelling, sunset cruise, snorkeling, manta, jet ski, kayaking, dolphin cruise, windsurfing, catamaran, sailing, stand-up paddle, paddleboard, fishing, parasailing, water skiing
-- Price list: https://www.sunsiyam.com/media/mz3pv4nj/ssiv-golden-week-gazette-26.pdf
+- Price list: https://www.sunsiyam.com/media/vtun4ndb/ssiv-halloween-2026-1.pdf
 - Excursions: dolphin, turtle, castaway, cinema, sandbank, whale shark, private dinner, local island, picnic, manta, sunset fishing, stargazing, big game fishing
 
 ## Kids & family
@@ -63,6 +63,12 @@ All-inclusive: All-Inclusive Dine-Around.
 - Venues: Beach Wedding
 - Packages: n/a
 - Brochure: https://www.sunsiyam.com/media/tbdbylep/ultimate-honeymoon-ssiv.pdf
+
+## Destination dining
+
+- Experiences: wine pairing, private dining, romantic beach dinner, floating breakfast, beach bbq, sunset cruise, sand bank picnic, romantic dinner, dinner under the stars, destination dining
+- Packages: n/a
+- Sandbank events: True; document: none
 
 ## Events / MICE
 
@@ -84,12 +90,13 @@ All-inclusive: All-Inclusive Dine-Around.
 - wedding: https://www.sunsiyam.com/media/tbdbylep/ultimate-honeymoon-ssiv.pdf
 - spa_menu: https://www.sunsiyam.com/media/0akcxrid/sun-siyam-iru-veli-spa-menu-2025.pdf
 - dining_menu: none
-- dive_prices: https://www.sunsiyam.com/media/mz3pv4nj/ssiv-golden-week-gazette-26.pdf
+- dive_prices: https://www.sunsiyam.com/media/vtun4ndb/ssiv-halloween-2026-1.pdf
 - events: none
 - calendar: https://www.sunsiyam.com/media/vmlphvhg/festive-gazette-26_27-prism.pdf
+- destination_dining: none
 
 ## Gaps
 
 - events/MICE document
 
-_Facts extracted by rules from 21 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._
+_Facts extracted by rules from 23 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

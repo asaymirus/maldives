@@ -42,7 +42,7 @@ All-inclusive: all-inclusive and meal-plan deals include complimentary non-motor
 - Operator: n/a
 - House reef: house reef
 - Activities: snorkelling, snorkeling, sunset cruise, windsurfing, surfing, paddleboard, catamaran, jet ski, seabob, fishing, sailing, fun tube, scuba diving, kayaking, parasailing, dolphin cruise, manta, canoe, flyboard, banana boat
-- Price list: https://kandima.com/images/News/2023/Kandima-dec.pdf
+- Price list: none
 - Excursions: cinema, turtle, picnic, private dinner, dolphin, sunset fishing, night fishing, big game fishing, local island, island hopping, manta, castaway
 
 ## Kids & family
@@ -55,6 +55,12 @@ All-inclusive: all-inclusive and meal-plan deals include complimentary non-motor
 - Venues: Tropikal wedding ceremony setup on the overwater platform; TropiKal wedding ceremony setup at Zest or Smoked beach; Signature tropiKal wedding ceremony setup on the beach
 - Packages: Wedding USD 800 (2024)
 - Brochure: https://d7h9v39iheghu.cloudfront.net/previews/7837a234-9635-4da8-b132-476aacd9b4c1/31206170-5ea3-465a-a437-631202d5a54d/31206170-5ea3-465a-a437-631202d5a54d?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy83ODM3YTIzNC05NjM1LTRkYTgtYjEzMi00NzZhYWNkOWI0YzEqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjg0MDEwfX19XX0_&Signature=0NCrDHEtg~3Ag4tUAPQa6ilJ6cyZ~w4zVuMSD7cG~r-mqETwrHjP~ymbFvuB7vZlbnPnlWCA1ED5pRAzfLnrljg2GzmBKzehdZ5pgyEdg2DhUh1PdoH9P3mOCEtIvAjK8OJMABLlrsk9l-sKHGYMa1a1Cwv28E-vbs9wjG1faMxEGG67VKe8YrbKJea-zq31p-n-SwDxEgYcBaFhSoyAOtk-LQQh4YnbO4e3Mh1O3qhd1CUPoi~QB1~gR8sul5CK0VJQczSIV5ZAIetLpT6YzKJjTsyOlpvwM1Ndaf6IhiW6ocfSJj45JPk5h8YsmO05fa9p1P7DalJRXVD6AH0o6g__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA
+
+## Destination dining
+
+- Experiences: destination dining, sunset cruise, floating breakfast, private dining, candlelit dinner, dinner under the stars, private chef, beach bbq, romantic dinner
+- Packages: Yummy Floating Breakfast USD 180 (2024); Destination Dining USD 4887 (2026-10-04)
+- Sandbank events: None; document: none
 
 ## Events / MICE
 
@@ -76,13 +82,14 @@ All-inclusive: all-inclusive and meal-plan deals include complimentary non-motor
 - wedding: https://d7h9v39iheghu.cloudfront.net/previews/7837a234-9635-4da8-b132-476aacd9b4c1/31206170-5ea3-465a-a437-631202d5a54d/31206170-5ea3-465a-a437-631202d5a54d?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy83ODM3YTIzNC05NjM1LTRkYTgtYjEzMi00NzZhYWNkOWI0YzEqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjg0MDEwfX19XX0_&Signature=0NCrDHEtg~3Ag4tUAPQa6ilJ6cyZ~w4zVuMSD7cG~r-mqETwrHjP~ymbFvuB7vZlbnPnlWCA1ED5pRAzfLnrljg2GzmBKzehdZ5pgyEdg2DhUh1PdoH9P3mOCEtIvAjK8OJMABLlrsk9l-sKHGYMa1a1Cwv28E-vbs9wjG1faMxEGG67VKe8YrbKJea-zq31p-n-SwDxEgYcBaFhSoyAOtk-LQQh4YnbO4e3Mh1O3qhd1CUPoi~QB1~gR8sul5CK0VJQczSIV5ZAIetLpT6YzKJjTsyOlpvwM1Ndaf6IhiW6ocfSJj45JPk5h8YsmO05fa9p1P7DalJRXVD6AH0o6g__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA
 - spa_menu: none
 - dining_menu: https://d7h9v39iheghu.cloudfront.net/previews/7837a234-9635-4da8-b132-476aacd9b4c1/84e465ab-4226-4c7d-b4fd-780347f67f94/84e465ab-4226-4c7d-b4fd-780347f67f94?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy83ODM3YTIzNC05NjM1LTRkYTgtYjEzMi00NzZhYWNkOWI0YzEqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjg0MDEwfX19XX0_&Signature=0NCrDHEtg~3Ag4tUAPQa6ilJ6cyZ~w4zVuMSD7cG~r-mqETwrHjP~ymbFvuB7vZlbnPnlWCA1ED5pRAzfLnrljg2GzmBKzehdZ5pgyEdg2DhUh1PdoH9P3mOCEtIvAjK8OJMABLlrsk9l-sKHGYMa1a1Cwv28E-vbs9wjG1faMxEGG67VKe8YrbKJea-zq31p-n-SwDxEgYcBaFhSoyAOtk-LQQh4YnbO4e3Mh1O3qhd1CUPoi~QB1~gR8sul5CK0VJQczSIV5ZAIetLpT6YzKJjTsyOlpvwM1Ndaf6IhiW6ocfSJj45JPk5h8YsmO05fa9p1P7DalJRXVD6AH0o6g__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA
-- dive_prices: https://kandima.com/images/News/2023/Kandima-dec.pdf
+- dive_prices: none
 - events: none
-- calendar: https://kandima.com/images/News/Festive_2023_Press_Release.pdf
+- calendar: https://kandima.com/images/News/2023/Kandima-dec.pdf
+- destination_dining: none
 
 ## Gaps
 
 - events/MICE document
 - fact: dive operator
 
-_Facts extracted by rules from 25 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._
+_Facts extracted by rules from 27 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

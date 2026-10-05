@@ -117,6 +117,14 @@
   "packages": [],
   "brochure_doc": null
  },
+ "destination_dining": {
+  "experiences": [
+   "private dining"
+  ],
+  "packages": [],
+  "sandbank_events": null,
+  "doc": null
+ },
  "events_mice": {
   "venues": [],
   "capacity_max": null,
@@ -137,7 +145,8 @@
   "dining_menu": "https://brennia.com/wp-content/uploads/pdf/Brennia-Kottefaru-Sunset-Grill-Bar-Dinner-Menu.pdf",
   "dive_prices": "https://brennia.com/wp-content/uploads/pdf/Brennia-Kottefaru-Water-Sports-Price-List.pdf",
   "events": null,
-  "calendar": null
+  "calendar": null,
+  "destination_dining": null
  },
  "documents_count": 10,
  "gaps": [
@@ -469,6 +478,13 @@
   "weddings.offered": [
    {
     "value": true,
+    "source_url": "https://www.neoscapesmaldives.com/resort/brennia-kottefaru-maldives/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "destination_dining.experiences": [
+   {
+    "value": "private dining",
     "source_url": "https://www.neoscapesmaldives.com/resort/brennia-kottefaru-maldives/",
     "as_of": "2026-10-04"
    }

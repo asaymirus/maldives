@@ -112,8 +112,8 @@
  "wellness_fitness": [
   "yoga",
   "tennis",
-  "meditation",
   "steam",
+  "meditation",
   "padel",
   "gym",
   "fitness centre",
@@ -130,6 +130,29 @@
   ],
   "packages": [],
   "brochure_doc": "https://cdnm.heyzine.com/flip-book/pdf/b1f0f96ff265d012f55d6fbd78eac7ce1d69c094.pdf"
+ },
+ "destination_dining": {
+  "experiences": [
+   "floating breakfast",
+   "sunset cruise",
+   "beach dinner",
+   "underwater dining",
+   "romantic dinner",
+   "destination dining",
+   "sandbank picnic",
+   "lagoon lunch",
+   "romantic candlelit dinner",
+   "in villa dining",
+   "in-villa dining",
+   "lagoon dinner",
+   "romantic beach dinner",
+   "anniversary celebration",
+   "romantic dining",
+   "romantic candle lit dinner"
+  ],
+  "packages": [],
+  "sandbank_events": true,
+  "doc": "https://cdnm.heyzine.com/files/uploaded/d7e764db3df5c310bca8c74afb4f92061e17c4bc.pdf"
  },
  "events_mice": {
   "venues": [],
@@ -148,10 +171,11 @@
   "map": "https://cdnm.heyzine.com/flip-book/pdf/9feff53d89333821741583c6787ddf21970c9578.pdf",
   "wedding": "https://cdnm.heyzine.com/flip-book/pdf/b1f0f96ff265d012f55d6fbd78eac7ce1d69c094.pdf",
   "spa_menu": "https://cdnm.heyzine.com/flip-book/pdf/0a11288452f369c938da10bb2d11722fd94a987a.pdf",
-  "dining_menu": "https://cdnm.heyzine.com/files/uploaded/d7e764db3df5c310bca8c74afb4f92061e17c4bc.pdf",
+  "dining_menu": null,
   "dive_prices": null,
   "events": "https://cdnm.heyzine.com/flip-book/pdf/561203caf7c34ac7410e440e2fb87685515def06-2.pdf",
-  "calendar": "https://cdnm.heyzine.com/files/uploaded/v3/77ce4a31ca1298b404d8cebf54e3bd8d20e8751f-3.pdf"
+  "calendar": "https://cdnm.heyzine.com/files/uploaded/v3/77ce4a31ca1298b404d8cebf54e3bd8d20e8751f-3.pdf",
+  "destination_dining": "https://cdnm.heyzine.com/files/uploaded/d7e764db3df5c310bca8c74afb4f92061e17c4bc.pdf"
  },
  "documents_count": 14,
  "gaps": [
@@ -175,6 +199,11 @@
     "as_of": 2026
    },
    {
+    "value": "steam",
+    "source_url": "https://cdnm.heyzine.com/files/uploaded/d7e764db3df5c310bca8c74afb4f92061e17c4bc.pdf",
+    "as_of": 2024
+   },
+   {
     "value": "yoga",
     "source_url": "https://cdnm.heyzine.com/flip-book/pdf/0a11288452f369c938da10bb2d11722fd94a987a.pdf",
     "as_of": 2026
@@ -183,11 +212,6 @@
     "value": "meditation",
     "source_url": "https://cdnm.heyzine.com/flip-book/pdf/0a11288452f369c938da10bb2d11722fd94a987a.pdf",
     "as_of": 2026
-   },
-   {
-    "value": "steam",
-    "source_url": "https://cdnm.heyzine.com/files/uploaded/d7e764db3df5c310bca8c74afb4f92061e17c4bc.pdf",
-    "as_of": 2024
    },
    {
     "value": "tennis",
@@ -892,6 +916,288 @@
     "as_of": 2026
    }
   ],
+  "destination_dining.experiences": [
+   {
+    "value": "floating breakfast",
+    "source_url": "https://cdnm.heyzine.com/flip-book/pdf/b1f0f96ff265d012f55d6fbd78eac7ce1d69c094.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://cdnm.heyzine.com/flip-book/pdf/b1f0f96ff265d012f55d6fbd78eac7ce1d69c094.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "beach dinner",
+    "source_url": "https://cdnm.heyzine.com/flip-book/pdf/b1f0f96ff265d012f55d6fbd78eac7ce1d69c094.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "underwater dining",
+    "source_url": "https://cdnm.heyzine.com/flip-book/pdf/561203caf7c34ac7410e440e2fb87685515def06-2.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "romantic dinner",
+    "source_url": "https://cdnm.heyzine.com/flip-book/pdf/561203caf7c34ac7410e440e2fb87685515def06-2.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://cdnm.heyzine.com/files/uploaded/d7e764db3df5c310bca8c74afb4f92061e17c4bc.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://cdnm.heyzine.com/files/uploaded/d7e764db3df5c310bca8c74afb4f92061e17c4bc.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "sandbank picnic",
+    "source_url": "https://cdnm.heyzine.com/files/uploaded/d7e764db3df5c310bca8c74afb4f92061e17c4bc.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://cdnm.heyzine.com/files/uploaded/d7e764db3df5c310bca8c74afb4f92061e17c4bc.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://cdnm.heyzine.com/files/uploaded/d7e764db3df5c310bca8c74afb4f92061e17c4bc.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://cdnm.heyzine.com/files/uploaded/d7e764db3df5c310bca8c74afb4f92061e17c4bc.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "lagoon lunch",
+    "source_url": "https://cdnm.heyzine.com/files/uploaded/d7e764db3df5c310bca8c74afb4f92061e17c4bc.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "lagoon lunch",
+    "source_url": "https://cdnm.heyzine.com/files/uploaded/d7e764db3df5c310bca8c74afb4f92061e17c4bc.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "romantic dinner",
+    "source_url": "https://cdnm.heyzine.com/files/uploaded/d7e764db3df5c310bca8c74afb4f92061e17c4bc.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "romantic candlelit dinner",
+    "source_url": "https://cdnm.heyzine.com/flip-book/pdf/0a11288452f369c938da10bb2d11722fd94a987a.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://cdnm.heyzine.com/files/uploaded/v3/a8586b7edfdc82c59b31a6f93dbbfe3adb198f24.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "sandbank picnic",
+    "source_url": "https://cdnm.heyzine.com/files/uploaded/v3/a8586b7edfdc82c59b31a6f93dbbfe3adb198f24.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://cdnm.heyzine.com/files/uploaded/v3/a8586b7edfdc82c59b31a6f93dbbfe3adb198f24.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://cdnm.heyzine.com/files/uploaded/v3/a8586b7edfdc82c59b31a6f93dbbfe3adb198f24.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "in villa dining",
+    "source_url": "https://cdnm.heyzine.com/flip-book/pdf/9feff53d89333821741583c6787ddf21970c9578.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://cdnm.heyzine.com/flip-book/pdf/9feff53d89333821741583c6787ddf21970c9578.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "in-villa dining",
+    "source_url": "https://cdnm.heyzine.com/flip-book/pdf/9feff53d89333821741583c6787ddf21970c9578.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://cdnm.heyzine.com/flip-book/pdf/9feff53d89333821741583c6787ddf21970c9578.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://www.joyisland.com/dining",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://www.joyisland.com/dining",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank picnic",
+    "source_url": "https://www.joyisland.com/dining",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "lagoon dinner",
+    "source_url": "https://www.joyisland.com/dining",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "romantic beach dinner",
+    "source_url": "https://www.joyisland.com/dining",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://www.joyisland.com/dining",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://www.joyisland.com/destination-dining",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://www.joyisland.com/destination-dining",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank picnic",
+    "source_url": "https://www.joyisland.com/destination-dining",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "lagoon dinner",
+    "source_url": "https://www.joyisland.com/destination-dining",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "romantic beach dinner",
+    "source_url": "https://www.joyisland.com/destination-dining",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://www.joyisland.com/destination-dining",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://www.joyisland.com/destination-dining",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank picnic",
+    "source_url": "https://www.joyisland.com/destination-dining",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "lagoon dinner",
+    "source_url": "https://www.joyisland.com/destination-dining",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "romantic beach dinner",
+    "source_url": "https://www.joyisland.com/destination-dining",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://www.joyisland.com/themarket",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://www.joyisland.com/palm-beach",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.joyisland.com/experiences",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "anniversary celebration",
+    "source_url": "https://www.joyisland.com/events",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "romantic dining",
+    "source_url": "https://www.joyisland.com/ayear-roundromanticretreat",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "romantic candle lit dinner",
+    "source_url": "https://www.joyisland.com/ayear-roundromanticretreat",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "anniversary celebration",
+    "source_url": "https://www.joyisland.com/joy-islands-3rd-year-anniversary",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://www.joyisland.com/joy-islands-3rd-year-anniversary",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://www.joyisland.com/il-basilico",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://www.joyisland.com/rainbow",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "romantic dining",
+    "source_url": "https://www.joyisland.com/offers",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "romantic dining",
+    "source_url": "https://www.joyisland.com/createcherishedmemoriestogether",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://www.neoscapesmaldives.com/resort/joy-island-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://www.neoscapesmaldives.com/resort/joy-island-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "romantic beach dinner",
+    "source_url": "https://www.neoscapesmaldives.com/resort/joy-island-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank picnic",
+    "source_url": "https://www.neoscapesmaldives.com/resort/joy-island-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "lagoon dinner",
+    "source_url": "https://www.neoscapesmaldives.com/resort/joy-island-maldives",
+    "as_of": "2026-10-04"
+   }
+  ],
   "transfer.modes": [
    {
     "value": "speedboat",
@@ -993,14 +1299,14 @@
   ],
   "spa.name": [
    {
-    "value": "Oasis Spa",
-    "source_url": "https://cdnm.heyzine.com/flip-book/pdf/0a11288452f369c938da10bb2d11722fd94a987a.pdf",
-    "as_of": 2026
-   },
-   {
     "value": "Spa",
     "source_url": "https://cdnm.heyzine.com/files/uploaded/d7e764db3df5c310bca8c74afb4f92061e17c4bc.pdf",
     "as_of": 2024
+   },
+   {
+    "value": "Oasis Spa",
+    "source_url": "https://cdnm.heyzine.com/flip-book/pdf/0a11288452f369c938da10bb2d11722fd94a987a.pdf",
+    "as_of": 2026
    },
    {
     "value": "Oasis Spa",
@@ -1030,6 +1336,33 @@
    {
     "value": "Spa",
     "source_url": "https://malediven.de/malediven-hotels/joy-island/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "destination_dining.sandbank_events": [
+   {
+    "value": true,
+    "source_url": "https://cdnm.heyzine.com/files/uploaded/d7e764db3df5c310bca8c74afb4f92061e17c4bc.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": true,
+    "source_url": "https://cdnm.heyzine.com/files/uploaded/v3/a8586b7edfdc82c59b31a6f93dbbfe3adb198f24.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": true,
+    "source_url": "https://www.joyisland.com/dining",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.joyisland.com/destination-dining",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.neoscapesmaldives.com/resort/joy-island-maldives",
     "as_of": "2026-10-04"
    }
   ],

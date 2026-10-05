@@ -2,9 +2,9 @@
 
 **Official site:** https://www.adaaran.com/clubrannalhi/ (ok)  
 **Brand:** Adaaran  
-**Atoll:** South Malé Atoll  **Island:** Free  
+**Atoll:** South Malé Atoll  **Island:** Meedhupparu  
 **Opened/renovated:** n/a  **Rating:** n/a  
-**Transfer:** speedboat, seaplane; minutes: {"speedboat": 45}  
+**Transfer:** speedboat, seaplane, domestic flight; minutes: {"speedboat": 45}  
 **Island size:** 400 m x 150 m  
 
 ## Villas (116 total)
@@ -32,9 +32,9 @@ All-inclusive: All Inclusive package.
 
 - Operator: Dive Centre
 - House reef: house reef
-- Activities: snorkeling, scuba diving, paddleboard, catamaran, jet ski, water skiing, flyboard, canoe, sailing, stand-up paddle, seabob, manta, fun tube, fishing, snorkelling, windsurfing, whale shark, kayaking, sunset cruise
+- Activities: snorkeling, scuba diving, paddleboard, catamaran, jet ski, water skiing, flyboard, canoe, sailing, stand-up paddle, seabob, manta, fun tube, fishing, snorkelling, windsurfing, whale shark, parasailing, sunset cruise, kayaking
 - Price list: https://www.adaaran.com/clubrannalhi/view-download/?id=menu-05
-- Excursions: island hopping, dolphin, sandbank, manta, local island, turtle, sunset fishing, Male city tour, whale shark, night fishing
+- Excursions: island hopping, dolphin, sandbank, manta, local island, turtle, sunset fishing, Male city tour, whale shark, cinema, night fishing
 
 ## Kids & family
 
@@ -44,8 +44,14 @@ All-inclusive: All Inclusive package.
 
 - Offered: True; vow renewal: True
 - Venues: Outdoor beach venue for wedding celebration
-- Packages: Wedding USD 250 (2026)
+- Packages: Wedding USD 250 (2026); Vow USD 500 (2026-10-05)
 - Brochure: https://www.adaaran.com/clubrannalhi/view-download/?id=acrweddingpack
+
+## Destination dining
+
+- Experiences: destination dining, romantic dining, romantic dinner, lobster dinner, candlelit dinner, anniversary celebration, romantic candlelit dinner, beach dinner, sunset cruise, floating breakfast, jetty dinner, romantic beach dinner
+- Packages: n/a
+- Sandbank events: None; document: none
 
 ## Events / MICE
 
@@ -70,6 +76,7 @@ All-inclusive: All Inclusive package.
 - dive_prices: https://www.adaaran.com/clubrannalhi/view-download/?id=menu-05
 - events: none
 - calendar: none
+- destination_dining: none
 
 ## Gaps
 
@@ -77,4 +84,4 @@ All-inclusive: All Inclusive package.
 - fact: villa categories
 - fact: kids club
 
-_Facts extracted by rules from 22 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._
+_Facts extracted by rules from 23 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

@@ -58,6 +58,12 @@ All-inclusive: All-Inclusive Packages designed for different types of holidaymak
 - Packages: Drone Package USD 220 (2026-10-04)
 - Brochure: none
 
+## Destination dining
+
+- Experiences: floating breakfast, destination dining, sunset cruise, beach bbq, private chef, in-villa bbq, anniversary celebration, private dining, lobster dinner, beach dinner, romantic dinner, romantic beach dinner, beach barbecue, romantic dining
+- Packages: n/a
+- Sandbank events: None; document: none
+
 ## Events / MICE
 
 - Venues: 45 minutes from Velana International Meeting Room; Boardroom 32 sqm • • • • 10; Boardroom Banyan Room Summit Room 17; Extensive spa facilities, a luxurious ballroom; Total event space; capacity max: n/a; buyout: None
@@ -81,9 +87,10 @@ All-inclusive: All-Inclusive Packages designed for different types of holidaymak
 - dive_prices: none
 - events: https://www.banyantree.com/assets/2022-06/mice-bt-shanghai.pdf
 - calendar: none
+- destination_dining: none
 
 ## Gaps
 
 - wedding brochure
 
-_Facts extracted by rules from 29 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._
+_Facts extracted by rules from 30 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

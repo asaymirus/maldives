@@ -52,6 +52,12 @@ All-inclusive: All-Inclusive Dine Around Package.
 - Packages: n/a
 - Brochure: none
 
+## Destination dining
+
+- Experiences: floating breakfast, destination dining, sunset cruise, sandbank experience
+- Packages: n/a
+- Sandbank events: True; document: none
+
 ## Events / MICE
 
 - Venues: Champa Maa Conference Room 28 Pavilion Bar; capacity max: n/a; buyout: None
@@ -75,6 +81,7 @@ All-inclusive: All-Inclusive Dine Around Package.
 - dive_prices: https://www.meeru.com/wp-content/uploads/2025/06/MEERU-DIVE-GERMAN.pdf
 - events: none
 - calendar: https://d2qwq69i2ic1pk.cloudfront.net/2023/11/CCR_2024_Calendar_compressed.pdf
+- destination_dining: none
 
 ## Gaps
 
@@ -82,4 +89,4 @@ All-inclusive: All-Inclusive Dine Around Package.
 - events/MICE document
 - fact: kids club
 
-_Facts extracted by rules from 24 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._
+_Facts extracted by rules from 26 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

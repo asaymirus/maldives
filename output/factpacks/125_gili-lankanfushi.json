@@ -36,6 +36,21 @@
    "name": "Overwater Bar",
    "cuisine": null,
    "type": "bar"
+  },
+  {
+   "name": "Underground Wine Cellar",
+   "cuisine": null,
+   "type": "bar"
+  },
+  {
+   "name": "Wine tasting in the Underground Wine Cellar",
+   "cuisine": null,
+   "type": "bar"
+  },
+  {
+   "name": "Private Dinner in the Wine Cellar",
+   "cuisine": null,
+   "type": "bar"
   }
  ],
  "meal_plans": [
@@ -68,6 +83,8 @@
    "canoe",
    "scuba diving",
    "sunset cruise",
+   "stand-up paddle",
+   "water skiing",
    "wakeboarding"
   ],
   "price_list_doc": null
@@ -83,12 +100,14 @@
   "turtle",
   "cooking class",
   "cinema",
-  "sandbank"
+  "sandbank",
+  "sunset fishing",
+  "big game fishing"
  ],
  "kids_family": {
   "kids_club": null,
   "age_range": null,
-  "teens": null
+  "teens": "teens programme mentioned"
  },
  "wellness_fitness": [
   "yoga",
@@ -104,9 +123,49 @@
  "weddings": {
   "offered": true,
   "vow_renewal": null,
-  "venues": [],
-  "packages": [],
+  "venues": [
+   "Lagoon Champa Wedding",
+   "Palm Beach Wedding"
+  ],
+  "packages": [
+   {
+    "name": "The Solo Travel Package",
+    "price": "4896",
+    "currency": "USD",
+    "as_of": "2026-10-05"
+   },
+   {
+    "name": "A Secret Wedding Experience",
+    "price": "13489",
+    "currency": "USD",
+    "as_of": "2026-10-05"
+   }
+  ],
   "brochure_doc": null
+ },
+ "destination_dining": {
+  "experiences": [
+   "castaway picnic",
+   "private dining",
+   "in-villa dining",
+   "dine under the stars",
+   "candlelit dinner",
+   "private chef",
+   "destination dining",
+   "sunset cruise",
+   "wine pairing",
+   "wine dinner"
+  ],
+  "packages": [
+   {
+    "name": "Destination Dining",
+    "price": "100",
+    "currency": "USD",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "sandbank_events": null,
+  "doc": "https://gili-lankanfushi.com/wp-content/uploads/2026/01/Destination-Dining-Package-Jan-2025.pdf"
  },
  "events_mice": {
   "venues": [],
@@ -142,7 +201,8 @@
   "dining_menu": "https://gili-lankanfushi.com/wp-content/uploads/2026/01/BTS-A-La-Carte.pdf",
   "dive_prices": null,
   "events": null,
-  "calendar": "https://gili-lankanfushi.com/wp-content/uploads/2026/03/GLM-Apr-Easter-in-Gili-website.pdf"
+  "calendar": "https://gili-lankanfushi.com/wp-content/uploads/2026/03/GLM-Apr-Easter-in-Gili-website.pdf",
+  "destination_dining": "https://gili-lankanfushi.com/wp-content/uploads/2026/01/Destination-Dining-Package-Jan-2025.pdf"
  },
  "documents_count": 73,
  "gaps": [
@@ -291,6 +351,96 @@
     "as_of": "2026-10-04"
    },
    {
+    "value": "tennis",
+    "source_url": "https://gili-lankanfushi.com/experience",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://gili-lankanfushi.com/experience/resort-activities/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://gili-lankanfushi.com/highlights/press-coverage/10-unique-experiences-not-to-be-missed-at-gili-lankanfushi-maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://gili-lankanfushi.com/highlights/press-coverage/flying-solo-at-gili-lankanfushi-introducing-new-experiences-for-single-travellers/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://gili-lankanfushi.com/highlights/press-coverage/gili-lankanfushi-maldives-awarded-best-honeymoon-resort/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://gili-lankanfushi.com/highlights/press-coverage/holistic-healing-for-body-and-soul-gili-lankanfushi-introduces-revolutionary-new-wellness-experiences-at-meera-spa/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "meditation",
+    "source_url": "https://gili-lankanfushi.com/highlights/press-coverage/holistic-healing-for-body-and-soul-gili-lankanfushi-introduces-revolutionary-new-wellness-experiences-at-meera-spa/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "ayurveda",
+    "source_url": "https://gili-lankanfushi.com/highlights/press-coverage/holistic-healing-for-body-and-soul-gili-lankanfushi-introduces-revolutionary-new-wellness-experiences-at-meera-spa/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sauna",
+    "source_url": "https://gili-lankanfushi.com/highlights/press-coverage/holistic-healing-for-body-and-soul-gili-lankanfushi-introduces-revolutionary-new-wellness-experiences-at-meera-spa/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "steam",
+    "source_url": "https://gili-lankanfushi.com/highlights/press-coverage/holistic-healing-for-body-and-soul-gili-lankanfushi-introduces-revolutionary-new-wellness-experiences-at-meera-spa/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "wellness programme",
+    "source_url": "https://gili-lankanfushi.com/highlights/press-coverage/holistic-healing-for-body-and-soul-gili-lankanfushi-introduces-revolutionary-new-wellness-experiences-at-meera-spa/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://gili-lankanfushi.com/offers/gili-romance-story/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "ayurveda",
+    "source_url": "https://gili-lankanfushi.com/offers/gili-romance-story/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sauna",
+    "source_url": "https://gili-lankanfushi.com/offers/gili-romance-story/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "steam",
+    "source_url": "https://gili-lankanfushi.com/offers/gili-romance-story/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://gili-lankanfushi.com/offers/gili-solo-experience/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sauna",
+    "source_url": "https://gili-lankanfushi.com/offers/gili-solo-experience/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "steam",
+    "source_url": "https://gili-lankanfushi.com/offers/gili-solo-experience/",
+    "as_of": "2026-10-05"
+   },
+   {
     "value": "gym",
     "source_url": "https://www.maldivesholidayoffers.com/accomodation/resorts/gili-lankanfushi-maldives/",
     "as_of": "2026-10-04"
@@ -391,6 +541,51 @@
     "value": "Ari Atoll",
     "source_url": "https://gili-lankanfushi.com/gili-veshi-environmental-initiatives/marine-biology-blog/whale-sharks-of-the-maldives/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "North Malé Atoll",
+    "source_url": "https://gili-lankanfushi.com/experience",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Male Atoll",
+    "source_url": "https://gili-lankanfushi.com/experience/diving/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "North Malé Atoll",
+    "source_url": "https://gili-lankanfushi.com/experience/snorkelling/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "North Male Atoll",
+    "source_url": "https://gili-lankanfushi.com/gili-veshi-environmental-initiatives/marine-biology-blog/migration-of-the-mantas-celebrating-world-manta-day-2022/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "North Malé Atoll",
+    "source_url": "https://gili-lankanfushi.com/highlights/press-coverage/10-unique-experiences-not-to-be-missed-at-gili-lankanfushi-maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "North Malé Atoll",
+    "source_url": "https://gili-lankanfushi.com/highlights/press-coverage/flying-solo-at-gili-lankanfushi-introducing-new-experiences-for-single-travellers/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "North Malé Atoll",
+    "source_url": "https://gili-lankanfushi.com/highlights/press-coverage/gili-lankanfushi-maldives-introduces-new-gastronomic-vision-with-restaurant-relaunch-and-new-gourmet-experiences/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "North Malé Atoll",
+    "source_url": "https://gili-lankanfushi.com/highlights/press-coverage/holistic-healing-for-body-and-soul-gili-lankanfushi-introduces-revolutionary-new-wellness-experiences-at-meera-spa/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "North Malé Atoll",
+    "source_url": "https://gili-lankanfushi.com/highlights/press-coverage/paddle-against-plastic-gili-lankanfushi-celebrates-earth-hour-and-global-recycling-day-with-a-range-of-new-activities-and-guest-experiences/",
+    "as_of": "2026-10-05"
    },
    {
     "value": "North Male Atoll",
@@ -827,6 +1022,176 @@
     "as_of": "2026-10-04"
    },
    {
+    "value": "castaway",
+    "source_url": "https://gili-lankanfushi.com/dine/private-beverage-experiences/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "private dinner",
+    "source_url": "https://gili-lankanfushi.com/dine/private-dining-experiences/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "local island",
+    "source_url": "https://gili-lankanfushi.com/experience",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://gili-lankanfushi.com/experience",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://gili-lankanfushi.com/experience",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "cooking class",
+    "source_url": "https://gili-lankanfushi.com/experience",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://gili-lankanfushi.com/experience/diving/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "local island",
+    "source_url": "https://gili-lankanfushi.com/experience/excursions/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://gili-lankanfushi.com/experience/excursions/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sunset fishing",
+    "source_url": "https://gili-lankanfushi.com/experience/excursions/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "big game fishing",
+    "source_url": "https://gili-lankanfushi.com/experience/excursions/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://gili-lankanfushi.com/experience/excursions/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "picnic",
+    "source_url": "https://gili-lankanfushi.com/experience/excursions/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "picnic",
+    "source_url": "https://gili-lankanfushi.com/experience/proposal-in-maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://gili-lankanfushi.com/experience/resort-activities/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "picnic",
+    "source_url": "https://gili-lankanfushi.com/experience/resort-activities/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "cinema",
+    "source_url": "https://gili-lankanfushi.com/experience/resort-activities/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "cooking class",
+    "source_url": "https://gili-lankanfushi.com/experience/resort-activities/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://gili-lankanfushi.com/experience/snorkelling/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "local island",
+    "source_url": "https://gili-lankanfushi.com/gili-veshi-environmental-initiatives/marine-biology-blog/gili-lankanfushi-celebrates-world-environment-day/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://gili-lankanfushi.com/gili-veshi-environmental-initiatives/marine-biology-blog/gili-lankanfushi-celebrates-world-environment-day/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://gili-lankanfushi.com/gili-veshi-environmental-initiatives/marine-biology-blog/gili-lankanfushi-celebrates-world-environment-day/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://gili-lankanfushi.com/gili-veshi-environmental-initiatives/marine-biology-blog/migration-of-the-mantas-celebrating-world-manta-day-2022/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://gili-lankanfushi.com/highlights/press-coverage/10-unique-experiences-not-to-be-missed-at-gili-lankanfushi-maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "castaway",
+    "source_url": "https://gili-lankanfushi.com/highlights/press-coverage/10-unique-experiences-not-to-be-missed-at-gili-lankanfushi-maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "cinema",
+    "source_url": "https://gili-lankanfushi.com/highlights/press-coverage/10-unique-experiences-not-to-be-missed-at-gili-lankanfushi-maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "cooking class",
+    "source_url": "https://gili-lankanfushi.com/highlights/press-coverage/10-unique-experiences-not-to-be-missed-at-gili-lankanfushi-maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "cooking class",
+    "source_url": "https://gili-lankanfushi.com/highlights/press-coverage/flying-solo-at-gili-lankanfushi-introducing-new-experiences-for-single-travellers/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://gili-lankanfushi.com/highlights/press-coverage/gili-lankanfushi-maldives-awarded-best-honeymoon-resort/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "private dinner",
+    "source_url": "https://gili-lankanfushi.com/highlights/press-coverage/gili-lankanfushi-maldives-awarded-best-honeymoon-resort/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "castaway",
+    "source_url": "https://gili-lankanfushi.com/highlights/press-coverage/gili-lankanfushi-maldives-awarded-best-honeymoon-resort/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "cinema",
+    "source_url": "https://gili-lankanfushi.com/highlights/press-coverage/paddle-against-plastic-gili-lankanfushi-celebrates-earth-hour-and-global-recycling-day-with-a-range-of-new-activities-and-guest-experiences/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "cinema",
+    "source_url": "https://gili-lankanfushi.com/highlights/press-coverage/secret-wedding-experience-the-most-luxury-and-intimate-way-for-couples-to-say-i-do-in-the-maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "cooking class",
+    "source_url": "https://gili-lankanfushi.com/offers/gili-solo-experience/",
+    "as_of": "2026-10-05"
+   },
+   {
     "value": "whale shark",
     "source_url": "https://hummingbird.travel/bespoke-journeys/indian-ocean/perfect-pairing-gili-lankanfushi-raffles-maldives",
     "as_of": "2026-10-04"
@@ -1087,6 +1452,91 @@
     "value": "marine biologist",
     "source_url": "https://gili-lankanfushi.com/gili-veshi-environmental-initiatives/marine-biology-blog/support-sea-grass/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "organic garden",
+    "source_url": "https://gili-lankanfushi.com/dine/private-beverage-experiences/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "organic garden",
+    "source_url": "https://gili-lankanfushi.com/dine/private-dining-experiences/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "marine biologist",
+    "source_url": "https://gili-lankanfushi.com/experience",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "marine biologist",
+    "source_url": "https://gili-lankanfushi.com/experience/snorkelling/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "marine biologist",
+    "source_url": "https://gili-lankanfushi.com/gili-veshi-environmental-initiatives/marine-biology-blog/migration-of-the-mantas-celebrating-world-manta-day-2022/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "manta trust",
+    "source_url": "https://gili-lankanfushi.com/gili-veshi-environmental-initiatives/marine-biology-blog/migration-of-the-mantas-celebrating-world-manta-day-2022/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "organic garden",
+    "source_url": "https://gili-lankanfushi.com/highlights/happenings/october-exclusive-experiences/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "marine biologist",
+    "source_url": "https://gili-lankanfushi.com/highlights/press-coverage/10-unique-experiences-not-to-be-missed-at-gili-lankanfushi-maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "organic garden",
+    "source_url": "https://gili-lankanfushi.com/highlights/press-coverage/10-unique-experiences-not-to-be-missed-at-gili-lankanfushi-maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "marine biologist",
+    "source_url": "https://gili-lankanfushi.com/highlights/press-coverage/flying-solo-at-gili-lankanfushi-introducing-new-experiences-for-single-travellers/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "organic garden",
+    "source_url": "https://gili-lankanfushi.com/highlights/press-coverage/flying-solo-at-gili-lankanfushi-introducing-new-experiences-for-single-travellers/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "organic garden",
+    "source_url": "https://gili-lankanfushi.com/highlights/press-coverage/gili-lankanfushi-maldives-introduces-new-gastronomic-vision-with-restaurant-relaunch-and-new-gourmet-experiences/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "marine biologist",
+    "source_url": "https://gili-lankanfushi.com/highlights/press-coverage/paddle-against-plastic-gili-lankanfushi-celebrates-earth-hour-and-global-recycling-day-with-a-range-of-new-activities-and-guest-experiences/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "single-use plastic",
+    "source_url": "https://gili-lankanfushi.com/highlights/press-coverage/paddle-against-plastic-gili-lankanfushi-celebrates-earth-hour-and-global-recycling-day-with-a-range-of-new-activities-and-guest-experiences/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "coral restoration",
+    "source_url": "https://gili-lankanfushi.com/highlights/press-coverage/secret-wedding-experience-the-most-luxury-and-intimate-way-for-couples-to-say-i-do-in-the-maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "organic garden",
+    "source_url": "https://gili-lankanfushi.com/highlights/press-coverage/secret-wedding-experience-the-most-luxury-and-intimate-way-for-couples-to-say-i-do-in-the-maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "marine biologist",
+    "source_url": "https://gili-lankanfushi.com/offers/gili-solo-experience/",
+    "as_of": "2026-10-05"
    }
   ],
   "star_rating": [
@@ -1201,6 +1651,61 @@
     "value": "seaplane",
     "source_url": "https://gili-lankanfushi.com/gili-veshi-environmental-initiatives/marine-biology-blog/whale-sharks-of-the-maldives/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "yacht",
+    "source_url": "https://gili-lankanfushi.com/experience",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "yacht",
+    "source_url": "https://gili-lankanfushi.com/experience/excursions/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://gili-lankanfushi.com/experience/snorkelling/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://gili-lankanfushi.com/experience/watersports/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://gili-lankanfushi.com/highlights/press-coverage/10-unique-experiences-not-to-be-missed-at-gili-lankanfushi-maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://gili-lankanfushi.com/highlights/press-coverage/flying-solo-at-gili-lankanfushi-introducing-new-experiences-for-single-travellers/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://gili-lankanfushi.com/highlights/press-coverage/gili-lankanfushi-maldives-awarded-best-honeymoon-resort/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://gili-lankanfushi.com/highlights/press-coverage/gili-lankanfushi-maldives-introduces-new-gastronomic-vision-with-restaurant-relaunch-and-new-gourmet-experiences/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://gili-lankanfushi.com/highlights/press-coverage/holistic-healing-for-body-and-soul-gili-lankanfushi-introduces-revolutionary-new-wellness-experiences-at-meera-spa/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://gili-lankanfushi.com/highlights/press-coverage/paddle-against-plastic-gili-lankanfushi-celebrates-earth-hour-and-global-recycling-day-with-a-range-of-new-activities-and-guest-experiences/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://gili-lankanfushi.com/highlights/press-coverage/secret-wedding-experience-the-most-luxury-and-intimate-way-for-couples-to-say-i-do-in-the-maldives/",
+    "as_of": "2026-10-05"
    },
    {
     "value": "speedboat",
@@ -1578,6 +2083,251 @@
    },
    {
     "value": "snorkelling",
+    "source_url": "https://gili-lankanfushi.com/experience",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "windsurfing",
+    "source_url": "https://gili-lankanfushi.com/experience",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "surfing",
+    "source_url": "https://gili-lankanfushi.com/experience",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "kayaking",
+    "source_url": "https://gili-lankanfushi.com/experience",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "catamaran",
+    "source_url": "https://gili-lankanfushi.com/experience",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://gili-lankanfushi.com/experience",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "dolphin cruise",
+    "source_url": "https://gili-lankanfushi.com/experience",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sailing",
+    "source_url": "https://gili-lankanfushi.com/experience",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "canoe",
+    "source_url": "https://gili-lankanfushi.com/experience",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://gili-lankanfushi.com/experience/anniversaries-honeymoons-packages-for-couples/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://gili-lankanfushi.com/experience/diving/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://gili-lankanfushi.com/experience/diving/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "surfing",
+    "source_url": "https://gili-lankanfushi.com/experience/diving/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://gili-lankanfushi.com/experience/diving/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://gili-lankanfushi.com/experience/excursions/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "surfing",
+    "source_url": "https://gili-lankanfushi.com/experience/excursions/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://gili-lankanfushi.com/experience/excursions/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "dolphin cruise",
+    "source_url": "https://gili-lankanfushi.com/experience/excursions/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://gili-lankanfushi.com/experience/excursions/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://gili-lankanfushi.com/experience/resort-activities/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "surfing",
+    "source_url": "https://gili-lankanfushi.com/experience/resort-activities/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://gili-lankanfushi.com/experience/snorkelling/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "surfing",
+    "source_url": "https://gili-lankanfushi.com/experience/snorkelling/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://gili-lankanfushi.com/experience/watersports/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "windsurfing",
+    "source_url": "https://gili-lankanfushi.com/experience/watersports/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "surfing",
+    "source_url": "https://gili-lankanfushi.com/experience/watersports/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "kayaking",
+    "source_url": "https://gili-lankanfushi.com/experience/watersports/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "stand-up paddle",
+    "source_url": "https://gili-lankanfushi.com/experience/watersports/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "paddleboard",
+    "source_url": "https://gili-lankanfushi.com/experience/watersports/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "catamaran",
+    "source_url": "https://gili-lankanfushi.com/experience/watersports/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "water skiing",
+    "source_url": "https://gili-lankanfushi.com/experience/watersports/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "wakeboarding",
+    "source_url": "https://gili-lankanfushi.com/experience/watersports/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sailing",
+    "source_url": "https://gili-lankanfushi.com/experience/watersports/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "canoe",
+    "source_url": "https://gili-lankanfushi.com/experience/watersports/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://gili-lankanfushi.com/gili-veshi-environmental-initiatives/marine-biology-blog/gili-lankanfushi-celebrates-world-environment-day/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://gili-lankanfushi.com/gili-veshi-environmental-initiatives/marine-biology-blog/migration-of-the-mantas-celebrating-world-manta-day-2022/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://gili-lankanfushi.com/gili-veshi-environmental-initiatives/marine-biology-blog/migration-of-the-mantas-celebrating-world-manta-day-2022/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://gili-lankanfushi.com/highlights/press-coverage/10-unique-experiences-not-to-be-missed-at-gili-lankanfushi-maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "surfing",
+    "source_url": "https://gili-lankanfushi.com/highlights/press-coverage/10-unique-experiences-not-to-be-missed-at-gili-lankanfushi-maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://gili-lankanfushi.com/highlights/press-coverage/10-unique-experiences-not-to-be-missed-at-gili-lankanfushi-maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://gili-lankanfushi.com/highlights/press-coverage/flying-solo-at-gili-lankanfushi-introducing-new-experiences-for-single-travellers/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sailing",
+    "source_url": "https://gili-lankanfushi.com/highlights/press-coverage/flying-solo-at-gili-lankanfushi-introducing-new-experiences-for-single-travellers/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://gili-lankanfushi.com/highlights/press-coverage/gili-lankanfushi-maldives-awarded-best-honeymoon-resort/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "dolphin cruise",
+    "source_url": "https://gili-lankanfushi.com/highlights/press-coverage/gili-lankanfushi-maldives-awarded-best-honeymoon-resort/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "stand-up paddle",
+    "source_url": "https://gili-lankanfushi.com/highlights/press-coverage/paddle-against-plastic-gili-lankanfushi-celebrates-earth-hour-and-global-recycling-day-with-a-range-of-new-activities-and-guest-experiences/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "paddleboard",
+    "source_url": "https://gili-lankanfushi.com/highlights/press-coverage/paddle-against-plastic-gili-lankanfushi-celebrates-earth-hour-and-global-recycling-day-with-a-range-of-new-activities-and-guest-experiences/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://gili-lankanfushi.com/highlights/press-coverage/secret-wedding-experience-the-most-luxury-and-intimate-way-for-couples-to-say-i-do-in-the-maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://gili-lankanfushi.com/offers/gili-solo-experience/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sailing",
+    "source_url": "https://gili-lankanfushi.com/offers/gili-solo-experience/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "snorkelling",
     "source_url": "https://hummingbird.travel/bespoke-journeys/indian-ocean/perfect-pairing-gili-lankanfushi-raffles-maldives",
     "as_of": "2026-10-04"
    },
@@ -1659,6 +2409,41 @@
     "as_of": "2026-10-04"
    },
    {
+    "value": "Spa",
+    "source_url": "https://gili-lankanfushi.com/highlights/happenings/full-moon-dinner/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Meera Spa",
+    "source_url": "https://gili-lankanfushi.com/highlights/press-coverage/flying-solo-at-gili-lankanfushi-introducing-new-experiences-for-single-travellers/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Meera Spa",
+    "source_url": "https://gili-lankanfushi.com/highlights/press-coverage/gili-lankanfushi-maldives-awarded-best-honeymoon-resort/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Meera Spa",
+    "source_url": "https://gili-lankanfushi.com/highlights/press-coverage/holistic-healing-for-body-and-soul-gili-lankanfushi-introduces-revolutionary-new-wellness-experiences-at-meera-spa/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Meera Spa",
+    "source_url": "https://gili-lankanfushi.com/highlights/press-coverage/secret-wedding-experience-the-most-luxury-and-intimate-way-for-couples-to-say-i-do-in-the-maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://gili-lankanfushi.com/offers/gili-romance-story/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Meera Spa",
+    "source_url": "https://gili-lankanfushi.com/offers/gili-solo-experience/",
+    "as_of": "2026-10-05"
+   },
+   {
     "value": "Meera Spa",
     "source_url": "https://www.maldivesholidayoffers.com/holidays/gili-lankanfushi-maldives/",
     "as_of": "2026-10-04"
@@ -1732,6 +2517,46 @@
    },
    {
     "value": 20,
+    "source_url": "https://gili-lankanfushi.com/experience/snorkelling/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": 20,
+    "source_url": "https://gili-lankanfushi.com/highlights/press-coverage/10-unique-experiences-not-to-be-missed-at-gili-lankanfushi-maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": 120,
+    "source_url": "https://gili-lankanfushi.com/highlights/press-coverage/flying-solo-at-gili-lankanfushi-introducing-new-experiences-for-single-travellers/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": 20,
+    "source_url": "https://gili-lankanfushi.com/highlights/press-coverage/gili-lankanfushi-maldives-awarded-best-honeymoon-resort/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": 20,
+    "source_url": "https://gili-lankanfushi.com/highlights/press-coverage/gili-lankanfushi-maldives-introduces-new-gastronomic-vision-with-restaurant-relaunch-and-new-gourmet-experiences/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": 20,
+    "source_url": "https://gili-lankanfushi.com/highlights/press-coverage/holistic-healing-for-body-and-soul-gili-lankanfushi-introduces-revolutionary-new-wellness-experiences-at-meera-spa/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": 20,
+    "source_url": "https://gili-lankanfushi.com/highlights/press-coverage/paddle-against-plastic-gili-lankanfushi-celebrates-earth-hour-and-global-recycling-day-with-a-range-of-new-activities-and-guest-experiences/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": 20,
+    "source_url": "https://gili-lankanfushi.com/highlights/press-coverage/secret-wedding-experience-the-most-luxury-and-intimate-way-for-couples-to-say-i-do-in-the-maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": 20,
     "source_url": "https://www.maldivesholidayoffers.com/holidays/gili-lankanfushi-maldives/",
     "as_of": "2026-10-04"
    },
@@ -1749,6 +2574,227 @@
      "type": "bar"
     },
     "source_url": "https://gili-lankanfushi.com/faq/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Overwater Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://gili-lankanfushi.com/dine/private-beverage-experiences/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": {
+     "name": "Underground Wine Cellar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://gili-lankanfushi.com/dine/private-beverage-experiences/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": {
+     "name": "Overwater Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://gili-lankanfushi.com/dine/private-dining-experiences/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": {
+     "name": "Underground Wine Cellar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://gili-lankanfushi.com/dine/private-dining-experiences/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": {
+     "name": "Wine tasting in the Underground Wine Cellar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://gili-lankanfushi.com/highlights/press-coverage/10-unique-experiences-not-to-be-missed-at-gili-lankanfushi-maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": {
+     "name": "Private Dinner in the Wine Cellar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://gili-lankanfushi.com/highlights/press-coverage/gili-lankanfushi-maldives-awarded-best-honeymoon-resort/",
+    "as_of": "2026-10-05"
+   }
+  ],
+  "destination_dining.experiences": [
+   {
+    "value": "castaway picnic",
+    "source_url": "https://gili-lankanfushi.com/faq/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "private dining",
+    "source_url": "https://gili-lankanfushi.com/faq/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "in-villa dining",
+    "source_url": "https://gili-lankanfushi.com/faq/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "private dining",
+    "source_url": "https://gili-lankanfushi.com/faq/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "private dining",
+    "source_url": "https://gili-lankanfushi.com/faq/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dine under the stars",
+    "source_url": "https://gili-lankanfushi.com/faq/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "candlelit dinner",
+    "source_url": "https://gili-lankanfushi.com/experience/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "private chef",
+    "source_url": "https://gili-lankanfushi.com/highlights/press-coverage/a-secluded-and-sustainable-paradise/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "in-villa dining",
+    "source_url": "https://gili-lankanfushi.com/highlights/press-coverage/a-secluded-and-sustainable-paradise/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://gili-lankanfushi.com/highlights/press-coverage/a-secluded-and-sustainable-paradise/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://gili-lankanfushi.com/highlights/press-coverage/a-secluded-and-sustainable-paradise/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "private dining",
+    "source_url": "https://gili-lankanfushi.com/dine/private-beverage-experiences/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "private chef",
+    "source_url": "https://gili-lankanfushi.com/dine/private-dining-experiences/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "private chef",
+    "source_url": "https://gili-lankanfushi.com/dine/private-dining-experiences/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "dine under the stars",
+    "source_url": "https://gili-lankanfushi.com/dine/private-dining-experiences/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "dine under the stars",
+    "source_url": "https://gili-lankanfushi.com/dine/private-dining-experiences/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "private dining",
+    "source_url": "https://gili-lankanfushi.com/dine/private-dining-experiences/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "candlelit dinner",
+    "source_url": "https://gili-lankanfushi.com/experience",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://gili-lankanfushi.com/experience/anniversaries-honeymoons-packages-for-couples/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "dine under the stars",
+    "source_url": "https://gili-lankanfushi.com/experience/anniversaries-honeymoons-packages-for-couples/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "candlelit dinner",
+    "source_url": "https://gili-lankanfushi.com/experience/proposal-in-maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "candlelit dinner",
+    "source_url": "https://gili-lankanfushi.com/experience/wedding-package-resort/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "dine under the stars",
+    "source_url": "https://gili-lankanfushi.com/highlights/happenings/full-moon-dinner/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "in-villa dining",
+    "source_url": "https://gili-lankanfushi.com/highlights/press-coverage/flying-solo-at-gili-lankanfushi-introducing-new-experiences-for-single-travellers/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://gili-lankanfushi.com/highlights/press-coverage/gili-lankanfushi-maldives-awarded-best-honeymoon-resort/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "private dining",
+    "source_url": "https://gili-lankanfushi.com/highlights/press-coverage/gili-lankanfushi-maldives-awarded-best-honeymoon-resort/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "wine pairing",
+    "source_url": "https://gili-lankanfushi.com/highlights/press-coverage/gili-lankanfushi-maldives-awarded-best-honeymoon-resort/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://gili-lankanfushi.com/highlights/press-coverage/gili-lankanfushi-maldives-introduces-new-gastronomic-vision-with-restaurant-relaunch-and-new-gourmet-experiences/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "wine pairing",
+    "source_url": "https://gili-lankanfushi.com/highlights/press-coverage/secret-wedding-experience-the-most-luxury-and-intimate-way-for-couples-to-say-i-do-in-the-maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "wine dinner",
+    "source_url": "https://gili-lankanfushi.com/highlights/press-coverage/secret-wedding-experience-the-most-luxury-and-intimate-way-for-couples-to-say-i-do-in-the-maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "in-villa dining",
+    "source_url": "https://gili-lankanfushi.com/offers/gili-solo-experience/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "in-villa dining",
+    "source_url": "https://www.maldivesholidayoffers.com/holidays/gili-lankanfushi-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://www.maldivesholidayoffers.com/holidays/gili-lankanfushi-maldives/",
     "as_of": "2026-10-04"
    }
   ],
@@ -1824,6 +2870,26 @@
     "as_of": "2026-10-04"
    },
    {
+    "value": "house reef, team up with a marine biologist to deepen your understanding of the natural world, or take a boat ride to nearby snorkelling spots for the chance to swim with",
+    "source_url": "https://gili-lankanfushi.com/experience",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "house reef",
+    "source_url": "https://gili-lankanfushi.com/experience/snorkelling/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "house reef",
+    "source_url": "https://gili-lankanfushi.com/gili-veshi-environmental-initiatives/marine-biology-blog/gili-lankanfushi-celebrates-world-environment-day/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "house reef",
+    "source_url": "https://gili-lankanfushi.com/highlights/press-coverage/secret-wedding-experience-the-most-luxury-and-intimate-way-for-couples-to-say-i-do-in-the-maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
     "value": "House Reef",
     "source_url": "https://malediven.de/malediven-hotels/gili-lankanfushi/",
     "as_of": "2026-10-04"
@@ -1884,6 +2950,16 @@
     "value": "Ocean Paradise",
     "source_url": "https://gili-lankanfushi.com/highlights/press-coverage/astronaut-buzz-aldrin-visits-gili-lankanfushis-private-reserve-the-maldives/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "Ocean Paradise",
+    "source_url": "https://gili-lankanfushi.com/experience/diving/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Ocean Paradise",
+    "source_url": "https://gili-lankanfushi.com/highlights/press-coverage/secret-wedding-experience-the-most-luxury-and-intimate-way-for-couples-to-say-i-do-in-the-maldives/",
+    "as_of": "2026-10-05"
    }
   ],
   "weddings.offered": [
@@ -1906,6 +2982,41 @@
     "value": true,
     "source_url": "https://gili-lankanfushi.com/gili-veshi-environmental-initiatives/marine-biology-blog/gili-celebrates-earth-hour/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://gili-lankanfushi.com/experience",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": true,
+    "source_url": "https://gili-lankanfushi.com/experience/anniversaries-honeymoons-packages-for-couples/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": true,
+    "source_url": "https://gili-lankanfushi.com/experience/proposal-in-maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": true,
+    "source_url": "https://gili-lankanfushi.com/experience/watersports/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": true,
+    "source_url": "https://gili-lankanfushi.com/experience/wedding-package-resort/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": true,
+    "source_url": "https://gili-lankanfushi.com/highlights/press-coverage/gili-lankanfushi-maldives-awarded-best-honeymoon-resort/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": true,
+    "source_url": "https://gili-lankanfushi.com/highlights/press-coverage/secret-wedding-experience-the-most-luxury-and-intimate-way-for-couples-to-say-i-do-in-the-maldives/",
+    "as_of": "2026-10-05"
    }
   ],
   "opened_or_renovated": [
@@ -1943,6 +3054,31 @@
     "value": "opened 2000",
     "source_url": "https://gili-lankanfushi.com/highlights/press-coverage/gili-lankanfushi-recognised-in-two-categories-at-the-world-travel-awards-2021/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "opened 2000",
+    "source_url": "https://gili-lankanfushi.com/highlights/press-coverage/10-unique-experiences-not-to-be-missed-at-gili-lankanfushi-maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "opened 2000",
+    "source_url": "https://gili-lankanfushi.com/highlights/press-coverage/flying-solo-at-gili-lankanfushi-introducing-new-experiences-for-single-travellers/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "opened 2000",
+    "source_url": "https://gili-lankanfushi.com/highlights/press-coverage/gili-lankanfushi-maldives-introduces-new-gastronomic-vision-with-restaurant-relaunch-and-new-gourmet-experiences/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "opened 2000",
+    "source_url": "https://gili-lankanfushi.com/highlights/press-coverage/holistic-healing-for-body-and-soul-gili-lankanfushi-introduces-revolutionary-new-wellness-experiences-at-meera-spa/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "opened 2000",
+    "source_url": "https://gili-lankanfushi.com/highlights/press-coverage/paddle-against-plastic-gili-lankanfushi-celebrates-earth-hour-and-global-recycling-day-with-a-range-of-new-activities-and-guest-experiences/",
+    "as_of": "2026-10-05"
    }
   ],
   "contacts_public.phone": [
@@ -1967,6 +3103,41 @@
     "as_of": "2026-10-04"
    },
    {
+    "value": "+960 664 0304",
+    "source_url": "https://gili-lankanfushi.com/highlights/press-coverage/flying-solo-at-gili-lankanfushi-introducing-new-experiences-for-single-travellers/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "+960 664 0304)",
+    "source_url": "https://gili-lankanfushi.com/highlights/press-coverage/gili-lankanfushi-maldives-introduces-new-gastronomic-vision-with-restaurant-relaunch-and-new-gourmet-experiences/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "+960 664 0304",
+    "source_url": "https://gili-lankanfushi.com/highlights/press-coverage/holistic-healing-for-body-and-soul-gili-lankanfushi-introduces-revolutionary-new-wellness-experiences-at-meera-spa/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "+960 664 0304",
+    "source_url": "https://gili-lankanfushi.com/highlights/press-coverage/paddle-against-plastic-gili-lankanfushi-celebrates-earth-hour-and-global-recycling-day-with-a-range-of-new-activities-and-guest-experiences/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "+960 664 0304",
+    "source_url": "https://gili-lankanfushi.com/highlights/press-coverage/secret-wedding-experience-the-most-luxury-and-intimate-way-for-couples-to-say-i-do-in-the-maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "+960 664 0304",
+    "source_url": "https://gili-lankanfushi.com/offers/gili-romance-story/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "+960 664 0304",
+    "source_url": "https://gili-lankanfushi.com/offers/gili-solo-experience/",
+    "as_of": "2026-10-05"
+   },
+   {
     "value": "+960 7773 699",
     "source_url": "https://www.maldivesholidayoffers.com/holidays/gili-lankanfushi-maldives/",
     "as_of": "2026-10-04"
@@ -1977,9 +3148,87 @@
     "as_of": "2026-10-04"
    }
   ],
+  "weddings.venues": [
+   {
+    "value": "Lagoon Champa Wedding",
+    "source_url": "https://gili-lankanfushi.com/experience/wedding-package-resort/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Palm Beach Wedding",
+    "source_url": "https://gili-lankanfushi.com/experience/wedding-package-resort/",
+    "as_of": "2026-10-05"
+   }
+  ],
   "meal_plans": [
    {
     "value": "HB",
+    "source_url": "https://gili-lankanfushi.com/highlights/press-coverage/10-unique-experiences-not-to-be-missed-at-gili-lankanfushi-maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "HB",
+    "source_url": "https://gili-lankanfushi.com/highlights/press-coverage/gili-lankanfushi-maldives-awarded-best-honeymoon-resort/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "HB",
+    "source_url": "https://gili-lankanfushi.com/offers/gili-romance-story/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "HB",
+    "source_url": "https://gili-lankanfushi.com/offers/gili-solo-experience/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "HB",
+    "source_url": "https://www.maldivesholidayoffers.com/holidays/gili-lankanfushi-maldives/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "weddings.packages": [
+   {
+    "value": {
+     "name": "The Solo Travel Package",
+     "price": "4896",
+     "currency": "USD",
+     "as_of": "2026-10-05"
+    },
+    "source_url": "https://gili-lankanfushi.com/highlights/press-coverage/flying-solo-at-gili-lankanfushi-introducing-new-experiences-for-single-travellers/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": {
+     "name": "A Secret Wedding Experience",
+     "price": "13489",
+     "currency": "USD",
+     "as_of": "2026-10-05"
+    },
+    "source_url": "https://gili-lankanfushi.com/highlights/press-coverage/secret-wedding-experience-the-most-luxury-and-intimate-way-for-couples-to-say-i-do-in-the-maldives/",
+    "as_of": "2026-10-05"
+   }
+  ],
+  "kids_family.teens": [
+   {
+    "value": "teens programme mentioned",
+    "source_url": "https://gili-lankanfushi.com/offers/gili-romance-story/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "teens programme mentioned",
+    "source_url": "https://gili-lankanfushi.com/offers/gili-solo-experience/",
+    "as_of": "2026-10-05"
+   }
+  ],
+  "destination_dining.packages": [
+   {
+    "value": {
+     "name": "Destination Dining",
+     "price": "100",
+     "currency": "USD",
+     "as_of": "2026-10-04"
+    },
     "source_url": "https://www.maldivesholidayoffers.com/holidays/gili-lankanfushi-maldives/",
     "as_of": "2026-10-04"
    }

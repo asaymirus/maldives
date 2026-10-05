@@ -39,6 +39,12 @@ Meal plans: n/a
 - Packages: n/a
 - Brochure: none
 
+## Destination dining
+
+- Experiences: n/a
+- Packages: n/a
+- Sandbank events: None; document: none
+
 ## Events / MICE
 
 - Venues: n/a; capacity max: n/a; buyout: None
@@ -62,11 +68,13 @@ Meal plans: n/a
 - dive_prices: https://sales.crownandchamparesorts.com/wp-content/uploads/2020/07/General-ProDivers-operation-guidelines-071720KURKOMHURKUDINN.pdf
 - events: none
 - calendar: https://d2qwq69i2ic1pk.cloudfront.net/2023/11/CCR_2024_Calendar_compressed.pdf
+- destination_dining: none
 
 ## Gaps
 
 - wedding brochure
 - events/MICE document
+- destination dining (romantic/sandbank dinners)
 - fact: villas.total
 - fact: villa categories
 - fact: dining

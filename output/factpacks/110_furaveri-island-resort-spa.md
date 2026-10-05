@@ -40,6 +40,12 @@ All-inclusive: All-Inclusive Dine Around package.
 - Packages: n/a
 - Brochure: https://furaveri.com/wp-content/uploads/2022/05/FM_Website_SignatureWeddingPackage-min.pdf
 
+## Destination dining
+
+- Experiences: lagoon lunch, wine pairing, in-villa dining, sunset cruise
+- Packages: n/a
+- Sandbank events: None; document: none
+
 ## Events / MICE
 
 - Venues: n/a; capacity max: n/a; buyout: None
@@ -63,6 +69,7 @@ All-inclusive: All-Inclusive Dine Around package.
 - dive_prices: https://furaveri.com/wp-content/uploads/2026/01/DCF-Price-List-new.pdf
 - events: none
 - calendar: none
+- destination_dining: none
 
 ## Gaps
 
@@ -73,4 +80,4 @@ All-inclusive: All-Inclusive Dine Around package.
 - fact: dining
 - fact: contacts
 
-_Facts extracted by rules from 12 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._
+_Facts extracted by rules from 13 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

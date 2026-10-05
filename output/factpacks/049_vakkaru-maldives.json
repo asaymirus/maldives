@@ -28,7 +28,7 @@
  },
  "island_size": null,
  "villas": {
-  "total": null,
+  "total": 125,
   "categories": [
    {
     "name": "Reception RECREATION BEACH VILLAS AND RESIDENCES",
@@ -289,10 +289,11 @@
   }
  ],
  "meal_plans": [
+  "AI",
   "HB",
   "Dine Around"
  ],
- "all_inclusive_details": null,
+ "all_inclusive_details": "all-inclusive-retreat or a class-by-class session.",
  "spa": {
   "name": "Merana Spa",
   "treatment_rooms": 12,
@@ -319,7 +320,7 @@
    "kayaking",
    "whale shark"
   ],
-  "price_list_doc": null
+  "price_list_doc": "https://www.vakkarumaldives.com/pdfs/vakkaru-maldives_house-and-garden_june-2019.pdf"
  },
  "excursions": [
   "sandbank",
@@ -332,8 +333,8 @@
   "big game fishing",
   "manta",
   "turtle",
-  "local island",
   "stargazing",
+  "local island",
   "whale shark",
   "cooking class"
  ],
@@ -351,12 +352,12 @@
   "beach volleyball",
   "sauna",
   "steam",
-  "meditation",
-  "ayurveda",
   "badminton",
   "personal trainer",
-  "wellness programme",
+  "meditation",
   "pilates",
+  "ayurveda",
+  "wellness programme",
   "sound healing",
   "fitness center"
  ],
@@ -367,7 +368,31 @@
    "venue by the beach to savour our finest selection of"
   ],
   "packages": [],
-  "brochure_doc": "https://www.vakkarumaldives.com/pdfs/news/valentines-day-2024.pdf"
+  "brochure_doc": "https://www.vakkarumaldives.com/pdfs/vakkaru-maldives-awarded-favorite-romantic-getaway.pdf"
+ },
+ "destination_dining": {
+  "experiences": [
+   "destination dining",
+   "wine dinner",
+   "castaway picnic",
+   "sunset cruise",
+   "private chef",
+   "private dining",
+   "beach barbecue",
+   "candlelit dinner",
+   "wine pairing",
+   "sandbank escape",
+   "romantic dining",
+   "beach bbq",
+   "floating breakfast",
+   "dinner under the stars",
+   "castaway dinner",
+   "beach dinner",
+   "sandbank picnic"
+  ],
+  "packages": [],
+  "sandbank_events": true,
+  "doc": null
  },
  "events_mice": {
   "venues": [],
@@ -376,8 +401,8 @@
   "doc": null
  },
  "sustainability": [
-  "organic garden",
   "marine biologist",
+  "organic garden",
   "single-use plastic",
   "composting"
  ],
@@ -389,17 +414,17 @@
  "documents_latest": {
   "factsheet": "https://www.vakkarumaldives.com/pdfs/vakkaru-maldives-fact-sheet-2025.pdf",
   "map": "https://www.neoscapesmaldives.com/wp-content/uploads/Vakkaru-Maldives-Resort-Map-A4.pdf",
-  "wedding": "https://www.vakkarumaldives.com/pdfs/news/valentines-day-2024.pdf",
+  "wedding": "https://www.vakkarumaldives.com/pdfs/vakkaru-maldives-awarded-favorite-romantic-getaway.pdf",
   "spa_menu": "https://www.vakkarumaldives.com/pdfs/spa-menus/merana-spa_menu_2026.pdf",
   "dining_menu": "https://www.vakkarumaldives.com/pdfs/dining-restaurant-menus/master-wine-list.-2026.pdf",
-  "dive_prices": null,
+  "dive_prices": "https://www.vakkarumaldives.com/pdfs/vakkaru-maldives_house-and-garden_june-2019.pdf",
   "events": null,
-  "calendar": "https://www.vakkarumaldives.com/pdfs/news/easter-brochure-2024.pdf"
+  "calendar": "https://www.vakkarumaldives.com/pdfs/news/easter-brochure-2024.pdf",
+  "destination_dining": null
  },
  "documents_count": 34,
  "gaps": [
-  "events/MICE document",
-  "fact: villas.total"
+  "events/MICE document"
  ],
  "sources": {
   "atoll": [
@@ -415,8 +440,13 @@
    },
    {
     "value": "Baa Atoll",
-    "source_url": "https://www.vakkarumaldives.com/pdfs/news/valentines-day-2024.pdf",
-    "as_of": 2024
+    "source_url": "https://www.vakkarumaldives.com/pdfs/vakkaru-maldives-awarded-favorite-romantic-getaway.pdf",
+    "as_of": 2019
+   },
+   {
+    "value": "Baa Atoll",
+    "source_url": "https://www.vakkarumaldives.com/pdfs/vakkaru-maldives_house-and-garden_june-2019.pdf",
+    "as_of": 2019
    },
    {
     "value": "Baa Atoll",
@@ -425,7 +455,7 @@
    },
    {
     "value": "Baa Atoll",
-    "source_url": "https://www.vakkarumaldives.com/pdfs/vakkaru-maldives-irish-daily-mail-22.07.2019.pdf",
+    "source_url": "https://www.vakkarumaldives.com/pdfs/hack-your-21st-century-digitised-body.pdf",
     "as_of": 2019
    },
    {
@@ -525,6 +555,36 @@
    },
    {
     "value": "Baa Atoll",
+    "source_url": "https://www.vakkarumaldives.com/dining/the-ultimate-sandbank-escape.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Baa Atoll",
+    "source_url": "https://www.vakkarumaldives.com/experiences/coconut-club.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Baa Atoll",
+    "source_url": "https://www.vakkarumaldives.com/experiences/padel.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Baa Atoll",
+    "source_url": "https://www.vakkarumaldives.com/honeymoon/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Baa Atoll",
+    "source_url": "https://www.vakkarumaldives.com/news/experience-the-magic-of-manta-rays-with-vakkaru-maldives.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Baa Atoll",
+    "source_url": "https://www.vakkarumaldives.com/news/unveils-five-romantic-experiences-for-valentines-day.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Baa Atoll",
     "source_url": "https://www.neoscapesmaldives.com/resort/vakkaru-maldives/",
     "as_of": "2026-10-04"
    },
@@ -576,9 +636,14 @@
     "as_of": 2026
    },
    {
-    "value": "yacht",
-    "source_url": "https://www.vakkarumaldives.com/pdfs/news/valentines-day-2024.pdf",
-    "as_of": 2024
+    "value": "seaplane",
+    "source_url": "https://www.vakkarumaldives.com/pdfs/vakkaru-maldives-awarded-favorite-romantic-getaway.pdf",
+    "as_of": 2019
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.vakkarumaldives.com/pdfs/vakkaru-maldives_house-and-garden_june-2019.pdf",
+    "as_of": 2019
    },
    {
     "value": "seaplane",
@@ -587,7 +652,12 @@
    },
    {
     "value": "seaplane",
-    "source_url": "https://www.vakkarumaldives.com/pdfs/vakkaru-maldives-irish-daily-mail-22.07.2019.pdf",
+    "source_url": "https://www.vakkarumaldives.com/pdfs/hack-your-21st-century-digitised-body.pdf",
+    "as_of": 2019
+   },
+   {
+    "value": "domestic flight",
+    "source_url": "https://www.vakkarumaldives.com/pdfs/hack-your-21st-century-digitised-body.pdf",
     "as_of": 2019
    },
    {
@@ -687,6 +757,21 @@
    },
    {
     "value": "seaplane",
+    "source_url": "https://www.vakkarumaldives.com/honeymoon/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "yacht",
+    "source_url": "https://www.vakkarumaldives.com/honeymoon/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "yacht",
+    "source_url": "https://www.vakkarumaldives.com/news/unveils-five-romantic-experiences-for-valentines-day.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "seaplane",
     "source_url": "https://www.neoscapesmaldives.com/resort/vakkaru-maldives/",
     "as_of": "2026-10-04"
    },
@@ -718,9 +803,24 @@
     "as_of": 2025
    },
    {
+    "value": 30,
+    "source_url": "https://www.vakkarumaldives.com/pdfs/vakkaru-maldives-awarded-favorite-romantic-getaway.pdf",
+    "as_of": 2019
+   },
+   {
+    "value": 30,
+    "source_url": "https://www.vakkarumaldives.com/pdfs/vakkaru-maldives_house-and-garden_june-2019.pdf",
+    "as_of": 2019
+   },
+   {
     "value": 25,
     "source_url": "https://www.vakkarumaldives.com/pdfs/vakkaru-maldives-a-timeless-sanctuary-in-unesco-biosphere-reserve.pdf",
     "as_of": 2017
+   },
+   {
+    "value": 30,
+    "source_url": "https://www.vakkarumaldives.com/pdfs/hack-your-21st-century-digitised-body.pdf",
+    "as_of": 2019
    },
    {
     "value": 30,
@@ -1159,6 +1259,11 @@
    },
    {
     "value": "Merana Spa",
+    "source_url": "https://www.vakkarumaldives.com/pdfs/vakkaru-maldives-awarded-favorite-romantic-getaway.pdf",
+    "as_of": 2019
+   },
+   {
+    "value": "Merana Spa",
     "source_url": "https://www.vakkarumaldives.com/pdfs/spa-menus/merana-spa_menu_2026.pdf",
     "as_of": 2026
    },
@@ -1166,6 +1271,11 @@
     "value": "Merana Spa",
     "source_url": "https://www.vakkarumaldives.com/pdfs/vakkaru-maldives-a-timeless-sanctuary-in-unesco-biosphere-reserve.pdf",
     "as_of": 2017
+   },
+   {
+    "value": "Vakku Beach Merana Spa",
+    "source_url": "https://www.vakkarumaldives.com/pdfs/hack-your-21st-century-digitised-body.pdf",
+    "as_of": 2019
    },
    {
     "value": "Beach Spa",
@@ -1221,6 +1331,11 @@
     "value": "Merana Spa",
     "source_url": "https://www.vakkarumaldives.com/offers/idyllic-romance-package-at-vakkaru-maldives.html",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "Merana Spa",
+    "source_url": "https://www.vakkarumaldives.com/news/unveils-five-romantic-experiences-for-valentines-day.html",
+    "as_of": "2026-10-05"
    },
    {
     "value": "Spa",
@@ -1349,29 +1464,14 @@
     "as_of": 2026
    },
    {
-    "value": "sandbank",
-    "source_url": "https://www.vakkarumaldives.com/pdfs/news/valentines-day-2024.pdf",
-    "as_of": 2024
-   },
-   {
-    "value": "castaway",
-    "source_url": "https://www.vakkarumaldives.com/pdfs/news/valentines-day-2024.pdf",
-    "as_of": 2024
-   },
-   {
-    "value": "cinema",
-    "source_url": "https://www.vakkarumaldives.com/pdfs/news/valentines-day-2024.pdf",
-    "as_of": 2024
+    "value": "stargazing",
+    "source_url": "https://www.vakkarumaldives.com/pdfs/vakkaru-maldives_house-and-garden_june-2019.pdf",
+    "as_of": 2019
    },
    {
     "value": "local island",
     "source_url": "https://www.vakkarumaldives.com/pdfs/vakkaru-maldives-a-timeless-sanctuary-in-unesco-biosphere-reserve.pdf",
     "as_of": 2017
-   },
-   {
-    "value": "local island",
-    "source_url": "https://www.vakkarumaldives.com/pdfs/vakkaru-maldives-irish-daily-mail-22.07.2019.pdf",
-    "as_of": 2019
    },
    {
     "value": "dolphin",
@@ -1685,6 +1785,121 @@
    },
    {
     "value": "sandbank",
+    "source_url": "https://www.vakkarumaldives.com/dining/the-ultimate-sandbank-escape.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "picnic",
+    "source_url": "https://www.vakkarumaldives.com/dining/the-ultimate-sandbank-escape.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "stargazing",
+    "source_url": "https://www.vakkarumaldives.com/dining/the-ultimate-sandbank-escape.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "castaway",
+    "source_url": "https://www.vakkarumaldives.com/dining/the-ultimate-sandbank-escape.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "cinema",
+    "source_url": "https://www.vakkarumaldives.com/dining/the-ultimate-sandbank-escape.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.vakkarumaldives.com/experiences/coconut-club.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "picnic",
+    "source_url": "https://www.vakkarumaldives.com/experiences/coconut-club.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "stargazing",
+    "source_url": "https://www.vakkarumaldives.com/experiences/coconut-club.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "castaway",
+    "source_url": "https://www.vakkarumaldives.com/experiences/coconut-club.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "cinema",
+    "source_url": "https://www.vakkarumaldives.com/experiences/coconut-club.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.vakkarumaldives.com/experiences/padel.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "picnic",
+    "source_url": "https://www.vakkarumaldives.com/experiences/padel.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "stargazing",
+    "source_url": "https://www.vakkarumaldives.com/experiences/padel.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "castaway",
+    "source_url": "https://www.vakkarumaldives.com/experiences/padel.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "cinema",
+    "source_url": "https://www.vakkarumaldives.com/experiences/padel.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.vakkarumaldives.com/honeymoon/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.vakkarumaldives.com/honeymoon/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "picnic",
+    "source_url": "https://www.vakkarumaldives.com/honeymoon/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.vakkarumaldives.com/news/celebrate-a-tropical-easter-at-vakkaru-maldives-with-five-days-in-wonderland-programme.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sunset fishing",
+    "source_url": "https://www.vakkarumaldives.com/news/celebrate-a-tropical-easter-at-vakkaru-maldives-with-five-days-in-wonderland-programme.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.vakkarumaldives.com/news/celebrate-a-tropical-easter-at-vakkaru-maldives-with-five-days-in-wonderland-programme.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.vakkarumaldives.com/news/experience-the-magic-of-manta-rays-with-vakkaru-maldives.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.vakkarumaldives.com/news/experience-the-magic-of-manta-rays-with-vakkaru-maldives.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sandbank",
     "source_url": "https://www.neoscapesmaldives.com/resort/vakkaru-maldives/",
     "as_of": "2026-10-04"
    },
@@ -1757,6 +1972,11 @@
    },
    {
     "value": "teens programme mentioned",
+    "source_url": "https://www.vakkarumaldives.com/pdfs/hack-your-21st-century-digitised-body.pdf",
+    "as_of": 2019
+   },
+   {
+    "value": "teens programme mentioned",
     "source_url": "https://www.vakkarumaldives.com/",
     "as_of": "2026-10-04"
    },
@@ -1794,6 +2014,21 @@
     "value": "teens programme mentioned",
     "source_url": "https://www.vakkarumaldives.com/dining/the-organic-farm.html",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "teens programme mentioned",
+    "source_url": "https://www.vakkarumaldives.com/dining/the-ultimate-sandbank-escape.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "teens programme mentioned",
+    "source_url": "https://www.vakkarumaldives.com/experiences/coconut-club.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "teens programme mentioned",
+    "source_url": "https://www.vakkarumaldives.com/experiences/padel.html",
+    "as_of": "2026-10-05"
    },
    {
     "value": "teens programme mentioned",
@@ -1843,14 +2078,24 @@
     "as_of": 2025
    },
    {
-    "value": "meditation",
-    "source_url": "https://www.vakkarumaldives.com/pdfs/news/valentines-day-2024.pdf",
-    "as_of": 2024
+    "value": "gym",
+    "source_url": "https://www.vakkarumaldives.com/pdfs/vakkaru-maldives-awarded-favorite-romantic-getaway.pdf",
+    "as_of": 2019
    },
    {
-    "value": "ayurveda",
-    "source_url": "https://www.vakkarumaldives.com/pdfs/news/valentines-day-2024.pdf",
-    "as_of": 2024
+    "value": "tennis",
+    "source_url": "https://www.vakkarumaldives.com/pdfs/vakkaru-maldives-awarded-favorite-romantic-getaway.pdf",
+    "as_of": 2019
+   },
+   {
+    "value": "badminton",
+    "source_url": "https://www.vakkarumaldives.com/pdfs/vakkaru-maldives-awarded-favorite-romantic-getaway.pdf",
+    "as_of": 2019
+   },
+   {
+    "value": "personal trainer",
+    "source_url": "https://www.vakkarumaldives.com/pdfs/vakkaru-maldives-awarded-favorite-romantic-getaway.pdf",
+    "as_of": 2019
    },
    {
     "value": "yoga",
@@ -1891,6 +2136,31 @@
     "value": "badminton",
     "source_url": "https://www.vakkarumaldives.com/pdfs/vakkaru-maldives-a-timeless-sanctuary-in-unesco-biosphere-reserve.pdf",
     "as_of": 2017
+   },
+   {
+    "value": "gym",
+    "source_url": "https://www.vakkarumaldives.com/pdfs/hack-your-21st-century-digitised-body.pdf",
+    "as_of": 2019
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://www.vakkarumaldives.com/pdfs/hack-your-21st-century-digitised-body.pdf",
+    "as_of": 2019
+   },
+   {
+    "value": "badminton",
+    "source_url": "https://www.vakkarumaldives.com/pdfs/hack-your-21st-century-digitised-body.pdf",
+    "as_of": 2019
+   },
+   {
+    "value": "pilates",
+    "source_url": "https://www.vakkarumaldives.com/pdfs/hack-your-21st-century-digitised-body.pdf",
+    "as_of": 2019
+   },
+   {
+    "value": "personal trainer",
+    "source_url": "https://www.vakkarumaldives.com/pdfs/hack-your-21st-century-digitised-body.pdf",
+    "as_of": 2019
    },
    {
     "value": "gym",
@@ -2323,6 +2593,111 @@
     "as_of": "2026-10-04"
    },
    {
+    "value": "tennis",
+    "source_url": "https://www.vakkarumaldives.com/dining/the-ultimate-sandbank-escape.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "padel",
+    "source_url": "https://www.vakkarumaldives.com/dining/the-ultimate-sandbank-escape.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "badminton",
+    "source_url": "https://www.vakkarumaldives.com/dining/the-ultimate-sandbank-escape.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "beach volleyball",
+    "source_url": "https://www.vakkarumaldives.com/dining/the-ultimate-sandbank-escape.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://www.vakkarumaldives.com/experiences/coconut-club.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "padel",
+    "source_url": "https://www.vakkarumaldives.com/experiences/coconut-club.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "badminton",
+    "source_url": "https://www.vakkarumaldives.com/experiences/coconut-club.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "beach volleyball",
+    "source_url": "https://www.vakkarumaldives.com/experiences/coconut-club.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://www.vakkarumaldives.com/experiences/padel.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "padel",
+    "source_url": "https://www.vakkarumaldives.com/experiences/padel.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "badminton",
+    "source_url": "https://www.vakkarumaldives.com/experiences/padel.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "beach volleyball",
+    "source_url": "https://www.vakkarumaldives.com/experiences/padel.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.vakkarumaldives.com/honeymoon/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "ayurveda",
+    "source_url": "https://www.vakkarumaldives.com/honeymoon/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://www.vakkarumaldives.com/news/celebrate-a-tropical-easter-at-vakkaru-maldives-with-five-days-in-wonderland-programme.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "ayurveda",
+    "source_url": "https://www.vakkarumaldives.com/news/celebrate-a-tropical-easter-at-vakkaru-maldives-with-five-days-in-wonderland-programme.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sound healing",
+    "source_url": "https://www.vakkarumaldives.com/news/unveils-five-romantic-experiences-for-valentines-day.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.vakkarumaldives.com/news/vakkaru-maldives-celebrates-world-wellness-weekend-with-a-fun-and-engaging-wellness-programme.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "meditation",
+    "source_url": "https://www.vakkarumaldives.com/news/vakkaru-maldives-celebrates-world-wellness-weekend-with-a-fun-and-engaging-wellness-programme.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "ayurveda",
+    "source_url": "https://www.vakkarumaldives.com/news/vakkaru-maldives-celebrates-world-wellness-weekend-with-a-fun-and-engaging-wellness-programme.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "wellness programme",
+    "source_url": "https://www.vakkarumaldives.com/news/vakkaru-maldives-celebrates-world-wellness-weekend-with-a-fun-and-engaging-wellness-programme.html",
+    "as_of": "2026-10-05"
+   },
+   {
     "value": "yoga",
     "source_url": "https://www.neoscapesmaldives.com/resort/vakkaru-maldives/",
     "as_of": "2026-10-04"
@@ -2436,6 +2811,16 @@
    },
    {
     "value": true,
+    "source_url": "https://www.vakkarumaldives.com/special-celebrations/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.vakkarumaldives.com/special-celebrations/index.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": true,
     "source_url": "https://www.neoscapesmaldives.com/resort/vakkaru-maldives/",
     "as_of": "2026-10-04"
    },
@@ -2452,6 +2837,860 @@
     "as_of": 2025
    }
   ],
+  "destination_dining.experiences": [
+   {
+    "value": "destination dining",
+    "source_url": "https://www.vakkarumaldives.com/pdfs/vakkaru-maldives-fact-sheet-2025.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "wine dinner",
+    "source_url": "https://www.vakkarumaldives.com/pdfs/vakkaru-maldives-fact-sheet-2025.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://www.vakkarumaldives.com/pdfs/vakkaru-maldives-fact-sheet-2025.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "castaway picnic",
+    "source_url": "https://www.vakkarumaldives.com/pdfs/vakkaru-maldives-fact-sheet-2025.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.vakkarumaldives.com/pdfs/splash/vakkaru-maldives---splash-brochure.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.vakkarumaldives.com/pdfs/splash/vakkaru-maldives---splash-brochure.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.vakkarumaldives.com/pdfs/splash/vakkaru-maldives---splash-brochure.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.vakkarumaldives.com/pdfs/splash/vakkaru-maldives---splash-brochure.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.vakkarumaldives.com/pdfs/splash/vakkaru-maldives---splash-brochure.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.vakkarumaldives.com/pdfs/splash/vakkaru-maldives---splash-brochure.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://www.vakkarumaldives.com/pdfs/vakkaru-maldives-a-timeless-sanctuary-in-unesco-biosphere-reserve.pdf",
+    "as_of": 2017
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.vakkarumaldives.com/pdfs/vakkaru-maldives-a-timeless-sanctuary-in-unesco-biosphere-reserve.pdf",
+    "as_of": 2017
+   },
+   {
+    "value": "private chef",
+    "source_url": "https://www.vakkarumaldives.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://www.vakkarumaldives.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "private dining",
+    "source_url": "https://www.vakkarumaldives.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.vakkarumaldives.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "private chef",
+    "source_url": "https://www.vakkarumaldives.com/accommodation/residences/vakkaru-over-water-residence.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "beach barbecue",
+    "source_url": "https://www.vakkarumaldives.com/accommodation/residences/vakkaru-over-water-residence.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "private chef",
+    "source_url": "https://www.vakkarumaldives.com/accommodation/residences/vakkaru-over-water-residence.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "private chef",
+    "source_url": "https://www.vakkarumaldives.com/index.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://www.vakkarumaldives.com/index.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "private dining",
+    "source_url": "https://www.vakkarumaldives.com/index.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.vakkarumaldives.com/index.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://www.vakkarumaldives.com/offers/index.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "private chef",
+    "source_url": "https://www.vakkarumaldives.com/accommodation/residences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://www.vakkarumaldives.com/accommodation/residences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "wine dinner",
+    "source_url": "https://www.vakkarumaldives.com/news/page4.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "wine dinner",
+    "source_url": "https://www.vakkarumaldives.com/news/page4.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "private chef",
+    "source_url": "https://www.vakkarumaldives.com/accommodation/villa/over-water-pool-villa.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://www.vakkarumaldives.com/experiences/parrotfish-club.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "castaway picnic",
+    "source_url": "https://www.vakkarumaldives.com/experiences/parrotfish-club.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "candlelit dinner",
+    "source_url": "https://www.vakkarumaldives.com/experiences/parrotfish-club.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "wine pairing",
+    "source_url": "https://www.vakkarumaldives.com/experiences/parrotfish-club.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://www.vakkarumaldives.com/experiences/parrotfish-club.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank escape",
+    "source_url": "https://www.vakkarumaldives.com/experiences/parrotfish-club.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "private dining",
+    "source_url": "https://www.vakkarumaldives.com/experiences/parrotfish-club.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "candlelit dinner",
+    "source_url": "https://www.vakkarumaldives.com/experiences/parrotfish-club.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://www.vakkarumaldives.com/experiences/sports-fields.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "castaway picnic",
+    "source_url": "https://www.vakkarumaldives.com/experiences/sports-fields.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "candlelit dinner",
+    "source_url": "https://www.vakkarumaldives.com/experiences/sports-fields.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "wine pairing",
+    "source_url": "https://www.vakkarumaldives.com/experiences/sports-fields.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://www.vakkarumaldives.com/experiences/sports-fields.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank escape",
+    "source_url": "https://www.vakkarumaldives.com/experiences/sports-fields.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "private dining",
+    "source_url": "https://www.vakkarumaldives.com/experiences/sports-fields.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "candlelit dinner",
+    "source_url": "https://www.vakkarumaldives.com/experiences/sports-fields.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "romantic dining",
+    "source_url": "https://www.vakkarumaldives.com/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://www.vakkarumaldives.com/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "castaway picnic",
+    "source_url": "https://www.vakkarumaldives.com/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "candlelit dinner",
+    "source_url": "https://www.vakkarumaldives.com/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "wine pairing",
+    "source_url": "https://www.vakkarumaldives.com/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://www.vakkarumaldives.com/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank escape",
+    "source_url": "https://www.vakkarumaldives.com/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "private dining",
+    "source_url": "https://www.vakkarumaldives.com/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "candlelit dinner",
+    "source_url": "https://www.vakkarumaldives.com/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://www.vakkarumaldives.com/accommodation/villa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "beach barbecue",
+    "source_url": "https://www.vakkarumaldives.com/offers/from-beach-to-beach.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "beach bbq",
+    "source_url": "https://www.vakkarumaldives.com/offers/from-beach-to-beach.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "private chef",
+    "source_url": "https://www.vakkarumaldives.com/offers/from-beach-to-beach.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "private chef",
+    "source_url": "https://www.vakkarumaldives.com/offers/from-beach-to-beach.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://www.vakkarumaldives.com/offers/from-beach-to-beach.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://www.vakkarumaldives.com/offers/from-beach-to-beach.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.vakkarumaldives.com/things-to-do-in-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://www.vakkarumaldives.com/offers/vakkaru-dream-getaway-exclusive-deal.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "private chef",
+    "source_url": "https://www.vakkarumaldives.com/accommodation/villa/beach-pool-villa.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "wine dinner",
+    "source_url": "https://www.vakkarumaldives.com/about/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "wine dinner",
+    "source_url": "https://www.vakkarumaldives.com/about/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "romantic dining",
+    "source_url": "https://www.vakkarumaldives.com/experiences/index.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://www.vakkarumaldives.com/experiences/index.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "castaway picnic",
+    "source_url": "https://www.vakkarumaldives.com/experiences/index.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "candlelit dinner",
+    "source_url": "https://www.vakkarumaldives.com/experiences/index.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "wine pairing",
+    "source_url": "https://www.vakkarumaldives.com/experiences/index.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://www.vakkarumaldives.com/experiences/index.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank escape",
+    "source_url": "https://www.vakkarumaldives.com/experiences/index.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "private dining",
+    "source_url": "https://www.vakkarumaldives.com/experiences/index.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "candlelit dinner",
+    "source_url": "https://www.vakkarumaldives.com/experiences/index.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://www.vakkarumaldives.com/dining/private-destination-dining.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "castaway picnic",
+    "source_url": "https://www.vakkarumaldives.com/dining/private-destination-dining.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "candlelit dinner",
+    "source_url": "https://www.vakkarumaldives.com/dining/private-destination-dining.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "wine pairing",
+    "source_url": "https://www.vakkarumaldives.com/dining/private-destination-dining.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://www.vakkarumaldives.com/dining/private-destination-dining.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "candlelit dinner",
+    "source_url": "https://www.vakkarumaldives.com/dining/private-destination-dining.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank escape",
+    "source_url": "https://www.vakkarumaldives.com/dining/private-destination-dining.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "private dining",
+    "source_url": "https://www.vakkarumaldives.com/dining/private-destination-dining.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "candlelit dinner",
+    "source_url": "https://www.vakkarumaldives.com/dining/private-destination-dining.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://www.vakkarumaldives.com/dining/the-organic-farm.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "castaway picnic",
+    "source_url": "https://www.vakkarumaldives.com/dining/the-organic-farm.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "candlelit dinner",
+    "source_url": "https://www.vakkarumaldives.com/dining/the-organic-farm.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "wine pairing",
+    "source_url": "https://www.vakkarumaldives.com/dining/the-organic-farm.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://www.vakkarumaldives.com/dining/the-organic-farm.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank escape",
+    "source_url": "https://www.vakkarumaldives.com/dining/the-organic-farm.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "private dining",
+    "source_url": "https://www.vakkarumaldives.com/dining/the-organic-farm.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "candlelit dinner",
+    "source_url": "https://www.vakkarumaldives.com/dining/the-organic-farm.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "romantic dining",
+    "source_url": "https://www.vakkarumaldives.com/news/world-leading-luxury-honeymoon-resort.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "candlelit dinner",
+    "source_url": "https://www.vakkarumaldives.com/dining/index.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://www.vakkarumaldives.com/dining/index.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "private dining",
+    "source_url": "https://www.vakkarumaldives.com/dining/index.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://www.vakkarumaldives.com/dining/index.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "castaway picnic",
+    "source_url": "https://www.vakkarumaldives.com/dining/index.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "candlelit dinner",
+    "source_url": "https://www.vakkarumaldives.com/dining/index.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "wine pairing",
+    "source_url": "https://www.vakkarumaldives.com/dining/index.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://www.vakkarumaldives.com/dining/index.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank escape",
+    "source_url": "https://www.vakkarumaldives.com/dining/index.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "private dining",
+    "source_url": "https://www.vakkarumaldives.com/dining/index.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "candlelit dinner",
+    "source_url": "https://www.vakkarumaldives.com/dining/index.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://www.vakkarumaldives.com/accommodation/villa/index.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "private dining",
+    "source_url": "https://www.vakkarumaldives.com/news/timeless-romance-valentines-day-celebration-at-vakkaru-maldives.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dinner under the stars",
+    "source_url": "https://www.vakkarumaldives.com/news/timeless-romance-valentines-day-celebration-at-vakkaru-maldives.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "castaway dinner",
+    "source_url": "https://www.vakkarumaldives.com/news/timeless-romance-valentines-day-celebration-at-vakkaru-maldives.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://www.vakkarumaldives.com/offers/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://www.vakkarumaldives.com/offers/idyllic-romance-package-at-vakkaru-maldives.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://www.vakkarumaldives.com/offers/idyllic-romance-package-at-vakkaru-maldives.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://www.vakkarumaldives.com/offers/idyllic-romance-package-at-vakkaru-maldives.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://www.vakkarumaldives.com/offers/idyllic-romance-package-at-vakkaru-maldives.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank escape",
+    "source_url": "https://www.vakkarumaldives.com/dining/the-ultimate-sandbank-escape.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "private dining",
+    "source_url": "https://www.vakkarumaldives.com/dining/the-ultimate-sandbank-escape.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "candlelit dinner",
+    "source_url": "https://www.vakkarumaldives.com/dining/the-ultimate-sandbank-escape.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://www.vakkarumaldives.com/dining/the-ultimate-sandbank-escape.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "castaway picnic",
+    "source_url": "https://www.vakkarumaldives.com/dining/the-ultimate-sandbank-escape.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "candlelit dinner",
+    "source_url": "https://www.vakkarumaldives.com/dining/the-ultimate-sandbank-escape.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "wine pairing",
+    "source_url": "https://www.vakkarumaldives.com/dining/the-ultimate-sandbank-escape.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://www.vakkarumaldives.com/dining/the-ultimate-sandbank-escape.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://www.vakkarumaldives.com/experiences/coconut-club.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "castaway picnic",
+    "source_url": "https://www.vakkarumaldives.com/experiences/coconut-club.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "candlelit dinner",
+    "source_url": "https://www.vakkarumaldives.com/experiences/coconut-club.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "wine pairing",
+    "source_url": "https://www.vakkarumaldives.com/experiences/coconut-club.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://www.vakkarumaldives.com/experiences/coconut-club.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sandbank escape",
+    "source_url": "https://www.vakkarumaldives.com/experiences/coconut-club.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "private dining",
+    "source_url": "https://www.vakkarumaldives.com/experiences/coconut-club.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "candlelit dinner",
+    "source_url": "https://www.vakkarumaldives.com/experiences/coconut-club.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://www.vakkarumaldives.com/experiences/padel.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "castaway picnic",
+    "source_url": "https://www.vakkarumaldives.com/experiences/padel.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "candlelit dinner",
+    "source_url": "https://www.vakkarumaldives.com/experiences/padel.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "wine pairing",
+    "source_url": "https://www.vakkarumaldives.com/experiences/padel.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://www.vakkarumaldives.com/experiences/padel.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sandbank escape",
+    "source_url": "https://www.vakkarumaldives.com/experiences/padel.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "private dining",
+    "source_url": "https://www.vakkarumaldives.com/experiences/padel.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "candlelit dinner",
+    "source_url": "https://www.vakkarumaldives.com/experiences/padel.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "private dining",
+    "source_url": "https://www.vakkarumaldives.com/honeymoon/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://www.vakkarumaldives.com/honeymoon/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "beach dinner",
+    "source_url": "https://www.vakkarumaldives.com/honeymoon/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sandbank picnic",
+    "source_url": "https://www.vakkarumaldives.com/honeymoon/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://www.vakkarumaldives.com/honeymoon/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "private dining",
+    "source_url": "https://www.vakkarumaldives.com/honeymoon/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://www.vakkarumaldives.com/honeymoon/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://www.vakkarumaldives.com/news/unveils-five-romantic-experiences-for-valentines-day.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "wine dinner",
+    "source_url": "https://www.vakkarumaldives.com/news/vakkaru-maldives-welcomes-michelin-star-chef-for-an-ultra-exclusive-wine-dinner.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "wine dinner",
+    "source_url": "https://www.vakkarumaldives.com/news/vakkaru-maldives-welcomes-michelin-star-chef-for-an-ultra-exclusive-wine-dinner.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "wine dinner",
+    "source_url": "https://www.vakkarumaldives.com/news/vakkaru-maldives-welcomes-michelin-star-chef-for-an-ultra-exclusive-wine-dinner.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "private dining",
+    "source_url": "https://www.vakkarumaldives.com/special-celebrations/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.vakkarumaldives.com/special-celebrations/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "private dining",
+    "source_url": "https://www.vakkarumaldives.com/special-celebrations/index.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.vakkarumaldives.com/special-celebrations/index.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "beach bbq",
+    "source_url": "https://www.neoscapesmaldives.com/resort/vakkaru-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://www.neoscapesmaldives.com/resort/vakkaru-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "castaway picnic",
+    "source_url": "https://www.neoscapesmaldives.com/resort/vakkaru-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "wine pairing",
+    "source_url": "https://www.neoscapesmaldives.com/resort/vakkaru-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank escape",
+    "source_url": "https://www.neoscapesmaldives.com/resort/vakkaru-maldives/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "destination_dining.sandbank_events": [
+   {
+    "value": true,
+    "source_url": "https://www.vakkarumaldives.com/pdfs/vakkaru-maldives-fact-sheet-2025.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": true,
+    "source_url": "https://www.vakkarumaldives.com/experiences/parrotfish-club.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.vakkarumaldives.com/experiences/sports-fields.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.vakkarumaldives.com/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.vakkarumaldives.com/experiences/index.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.vakkarumaldives.com/dining/private-destination-dining.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.vakkarumaldives.com/dining/the-organic-farm.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.vakkarumaldives.com/dining/index.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.vakkarumaldives.com/dining/the-ultimate-sandbank-escape.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.vakkarumaldives.com/experiences/coconut-club.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.vakkarumaldives.com/experiences/padel.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.vakkarumaldives.com/honeymoon/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.neoscapesmaldives.com/resort/vakkaru-maldives/",
+    "as_of": "2026-10-04"
+   }
+  ],
   "contacts_public.reservations_email": [
    {
     "value": "reservations@vakkarumaldives.com",
@@ -2460,8 +3699,23 @@
    },
    {
     "value": "info@vakkarumaldives.com",
+    "source_url": "https://www.vakkarumaldives.com/pdfs/vakkaru-maldives-awarded-favorite-romantic-getaway.pdf",
+    "as_of": 2019
+   },
+   {
+    "value": "info@vakkarumaldives.com",
     "source_url": "https://www.vakkarumaldives.com/pdfs/vakkaru-maldives-a-timeless-sanctuary-in-unesco-biosphere-reserve.pdf",
     "as_of": 2017
+   },
+   {
+    "value": "reservations@vakkarumaldives.com",
+    "source_url": "https://www.vakkarumaldives.com/pdfs/hack-your-21st-century-digitised-body.pdf",
+    "as_of": 2019
+   },
+   {
+    "value": "info@vakkarumaldives.com",
+    "source_url": "https://www.vakkarumaldives.com/pdfs/hack-your-21st-century-digitised-body.pdf",
+    "as_of": 2019
    },
    {
     "value": "info@neoscapesmaldives.com",
@@ -2477,8 +3731,18 @@
    },
    {
     "value": "+ 960 660 7000",
+    "source_url": "https://www.vakkarumaldives.com/pdfs/vakkaru-maldives-awarded-favorite-romantic-getaway.pdf",
+    "as_of": 2019
+   },
+   {
+    "value": "+ 960 660 7000",
     "source_url": "https://www.vakkarumaldives.com/pdfs/vakkaru-maldives-a-timeless-sanctuary-in-unesco-biosphere-reserve.pdf",
     "as_of": 2017
+   },
+   {
+    "value": "+960 660 7000",
+    "source_url": "https://www.vakkarumaldives.com/pdfs/hack-your-21st-century-digitised-body.pdf",
+    "as_of": 2019
    },
    {
     "value": "+960 660 7404",
@@ -2580,9 +3844,9 @@
     "as_of": 2026
    },
    {
-    "value": "sunset cruise",
-    "source_url": "https://www.vakkarumaldives.com/pdfs/news/valentines-day-2024.pdf",
-    "as_of": 2024
+    "value": "snorkelling",
+    "source_url": "https://www.vakkarumaldives.com/pdfs/vakkaru-maldives_house-and-garden_june-2019.pdf",
+    "as_of": 2019
    },
    {
     "value": "snorkeling",
@@ -2915,6 +4179,86 @@
     "as_of": "2026-10-04"
    },
    {
+    "value": "snorkelling",
+    "source_url": "https://www.vakkarumaldives.com/dining/the-ultimate-sandbank-escape.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://www.vakkarumaldives.com/dining/the-ultimate-sandbank-escape.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "kayaking",
+    "source_url": "https://www.vakkarumaldives.com/dining/the-ultimate-sandbank-escape.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.vakkarumaldives.com/experiences/coconut-club.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://www.vakkarumaldives.com/experiences/coconut-club.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "kayaking",
+    "source_url": "https://www.vakkarumaldives.com/experiences/coconut-club.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.vakkarumaldives.com/experiences/padel.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://www.vakkarumaldives.com/experiences/padel.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "kayaking",
+    "source_url": "https://www.vakkarumaldives.com/experiences/padel.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.vakkarumaldives.com/news/celebrate-a-tropical-easter-at-vakkaru-maldives-with-five-days-in-wonderland-programme.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.vakkarumaldives.com/news/celebrate-a-tropical-easter-at-vakkaru-maldives-with-five-days-in-wonderland-programme.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "dolphin cruise",
+    "source_url": "https://www.vakkarumaldives.com/news/celebrate-a-tropical-easter-at-vakkaru-maldives-with-five-days-in-wonderland-programme.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.vakkarumaldives.com/news/experience-the-magic-of-manta-rays-with-vakkaru-maldives.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.vakkarumaldives.com/news/experience-the-magic-of-manta-rays-with-vakkaru-maldives.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.vakkarumaldives.com/special-celebrations/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.vakkarumaldives.com/special-celebrations/index.html",
+    "as_of": "2026-10-05"
+   },
+   {
     "value": "snorkeling",
     "source_url": "https://www.neoscapesmaldives.com/resort/vakkaru-maldives/",
     "as_of": "2026-10-04"
@@ -2970,7 +4314,115 @@
     "as_of": "2026-10-04"
    }
   ],
+  "villas.total": [
+   {
+    "value": 125,
+    "source_url": "https://www.vakkarumaldives.com/pdfs/vakkaru-maldives-awarded-favorite-romantic-getaway.pdf",
+    "as_of": 2019
+   }
+  ],
+  "sustainability": [
+   {
+    "value": "marine biologist",
+    "source_url": "https://www.vakkarumaldives.com/pdfs/vakkaru-maldives_house-and-garden_june-2019.pdf",
+    "as_of": 2019
+   },
+   {
+    "value": "organic garden",
+    "source_url": "https://www.vakkarumaldives.com/pdfs/vakkaru-maldives_house-and-garden_june-2019.pdf",
+    "as_of": 2019
+   },
+   {
+    "value": "organic garden",
+    "source_url": "https://www.vakkarumaldives.com/experiences/parrotfish-club.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "organic garden",
+    "source_url": "https://www.vakkarumaldives.com/experiences/sports-fields.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "organic garden",
+    "source_url": "https://www.vakkarumaldives.com/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "marine biologist",
+    "source_url": "https://www.vakkarumaldives.com/offers/from-beach-to-beach.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "single-use plastic",
+    "source_url": "https://www.vakkarumaldives.com/sustainability.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "composting",
+    "source_url": "https://www.vakkarumaldives.com/sustainability.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "organic garden",
+    "source_url": "https://www.vakkarumaldives.com/experiences/index.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "organic garden",
+    "source_url": "https://www.vakkarumaldives.com/dining/private-destination-dining.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "organic garden",
+    "source_url": "https://www.vakkarumaldives.com/dining/the-organic-farm.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "organic garden",
+    "source_url": "https://www.vakkarumaldives.com/news/world-leading-luxury-honeymoon-resort.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "organic garden",
+    "source_url": "https://www.vakkarumaldives.com/dining/index.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "organic garden",
+    "source_url": "https://www.vakkarumaldives.com/dining/the-ultimate-sandbank-escape.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "organic garden",
+    "source_url": "https://www.vakkarumaldives.com/experiences/coconut-club.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "organic garden",
+    "source_url": "https://www.vakkarumaldives.com/experiences/padel.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "marine biologist",
+    "source_url": "https://www.neoscapesmaldives.com/resort/vakkaru-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "organic garden",
+    "source_url": "https://www.neoscapesmaldives.com/resort/vakkaru-maldives/",
+    "as_of": "2026-10-04"
+   }
+  ],
   "dining": [
+   {
+    "value": {
+     "name": "Lagoon Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.vakkarumaldives.com/pdfs/hack-your-21st-century-digitised-body.pdf",
+    "as_of": 2019
+   },
    {
     "value": {
      "name": "Lagoon Bar",
@@ -3145,6 +4597,11 @@
   ],
   "meal_plans": [
    {
+    "value": "AI",
+    "source_url": "https://www.vakkarumaldives.com/pdfs/hack-your-21st-century-digitised-body.pdf",
+    "as_of": 2019
+   },
+   {
     "value": "HB",
     "source_url": "https://www.vakkarumaldives.com/",
     "as_of": "2026-10-04"
@@ -3203,73 +4660,18 @@
     "value": "Dine Around",
     "source_url": "https://www.vakkarumaldives.com/offers/idyllic-romance-package-at-vakkaru-maldives.html",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "HB",
+    "source_url": "https://www.vakkarumaldives.com/honeymoon/",
+    "as_of": "2026-10-05"
    }
   ],
-  "sustainability": [
+  "all_inclusive_details": [
    {
-    "value": "organic garden",
-    "source_url": "https://www.vakkarumaldives.com/experiences/parrotfish-club.html",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": "organic garden",
-    "source_url": "https://www.vakkarumaldives.com/experiences/sports-fields.html",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": "organic garden",
-    "source_url": "https://www.vakkarumaldives.com/experiences/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": "marine biologist",
-    "source_url": "https://www.vakkarumaldives.com/offers/from-beach-to-beach.html",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": "single-use plastic",
-    "source_url": "https://www.vakkarumaldives.com/sustainability.html",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": "composting",
-    "source_url": "https://www.vakkarumaldives.com/sustainability.html",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": "organic garden",
-    "source_url": "https://www.vakkarumaldives.com/experiences/index.html",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": "organic garden",
-    "source_url": "https://www.vakkarumaldives.com/dining/private-destination-dining.html",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": "organic garden",
-    "source_url": "https://www.vakkarumaldives.com/dining/the-organic-farm.html",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": "organic garden",
-    "source_url": "https://www.vakkarumaldives.com/news/world-leading-luxury-honeymoon-resort.html",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": "organic garden",
-    "source_url": "https://www.vakkarumaldives.com/dining/index.html",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": "marine biologist",
-    "source_url": "https://www.neoscapesmaldives.com/resort/vakkaru-maldives/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": "organic garden",
-    "source_url": "https://www.neoscapesmaldives.com/resort/vakkaru-maldives/",
-    "as_of": "2026-10-04"
+    "value": "all-inclusive-retreat or a class-by-class session.",
+    "source_url": "https://www.vakkarumaldives.com/pdfs/hack-your-21st-century-digitised-body.pdf",
+    "as_of": 2019
    }
   ],
   "kids_family.kids_club": [

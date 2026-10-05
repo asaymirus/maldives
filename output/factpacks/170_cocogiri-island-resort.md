@@ -19,7 +19,7 @@ Meal plans: n/a
 ## Spa & wellness
 
 - Spa: n/a; treatment rooms: ?; menu: https://cocogiri.com/wp-content/uploads/2025/04/Spa-Menu.pdf
-- Wellness/fitness: yoga, steam
+- Wellness/fitness: steam, yoga
 
 ## Diving, water sports & excursions
 
@@ -40,6 +40,12 @@ Meal plans: n/a
 - Packages: n/a
 - Brochure: none
 
+## Destination dining
+
+- Experiences: n/a
+- Packages: n/a
+- Sandbank events: None; document: https://cocogiri.com/wp-content/uploads/2025/04/Candlelight-Dining-Menu.pdf
+
 ## Events / MICE
 
 - Venues: n/a; capacity max: n/a; buyout: None
@@ -59,10 +65,11 @@ Meal plans: n/a
 - map: https://cocogiri.com/wp-content/uploads/2025/07/ALL-INCLUSIVE-MEAL-PLAN.pdf
 - wedding: none
 - spa_menu: https://cocogiri.com/wp-content/uploads/2025/04/Spa-Menu.pdf
-- dining_menu: https://cocogiri.com/wp-content/uploads/2025/04/Candlelight-Dining-Menu.pdf
+- dining_menu: https://cocogiri.com/wp-content/uploads/2025/04/WHITESANDS-MENU.pdf
 - dive_prices: https://cocogiri.com/wp-content/uploads/2025/04/Dive-list-1-merged.pdf
 - events: none
 - calendar: none
+- destination_dining: https://cocogiri.com/wp-content/uploads/2025/04/Candlelight-Dining-Menu.pdf
 
 ## Gaps
 

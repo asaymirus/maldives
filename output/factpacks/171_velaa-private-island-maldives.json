@@ -308,7 +308,7 @@
  },
  "diving_watersports": {
   "operator": "Dive Centre",
-  "house_reef": "house reef tour by Seabob 9 AM – 11 AM WATER SPORTS CENTRE • 2 hour jetski adventure",
+  "house_reef": null,
   "activities": [
    "snorkeling",
    "windsurfing",
@@ -323,9 +323,6 @@
    "sailing",
    "semi-submarine",
    "snorkelling",
-   "scuba diving",
-   "banana boat",
-   "flyboard",
    "kayaking",
    "sunset cruise"
   ],
@@ -337,14 +334,13 @@
   "manta",
   "turtle",
   "local island",
-  "picnic",
   "sunset fishing",
   "sandbank"
  ],
  "kids_family": {
   "kids_club": "Kids Club\nKids Club",
   "age_range": null,
-  "teens": "teens programme mentioned"
+  "teens": null
  },
  "wellness_fitness": [
   "yoga",
@@ -355,7 +351,6 @@
   "padel",
   "pilates",
   "personal trainer",
-  "badminton",
   "sound healing",
   "ayurveda",
   "hammam",
@@ -368,12 +363,25 @@
   "packages": [],
   "brochure_doc": null
  },
+ "destination_dining": {
+  "experiences": [
+   "private chef",
+   "destination dining",
+   "in-villa dining",
+   "wine dinner",
+   "anniversary celebration",
+   "sunset cruise"
+  ],
+  "packages": [],
+  "sandbank_events": null,
+  "doc": null
+ },
  "events_mice": {
   "venues": [
    "the tradition of ballroom & Latin dance"
   ],
   "capacity_max": null,
-  "buyout": null,
+  "buyout": true,
   "doc": null
  },
  "sustainability": [
@@ -393,7 +401,8 @@
   "dining_menu": "https://framerusercontent.com/assets/P7OmVcMbnISlYoyJP0lcoPp3l4.pdf",
   "dive_prices": null,
   "events": null,
-  "calendar": "https://framerusercontent.com/assets/NDdHLKWbKRWEGzFBd6OxEgn0obk.pdf"
+  "calendar": "https://framerusercontent.com/assets/iiMt0QlX9FKHzhJmO6mIrkCM.pdf",
+  "destination_dining": null
  },
  "documents_count": 59,
  "gaps": [
@@ -619,6 +628,11 @@
     "as_of": "2026-10-04"
    },
    {
+    "value": 1,
+    "source_url": "https://www.velaaprivateisland.com/celebrations",
+    "as_of": "2026-10-05"
+   },
+   {
     "value": 45,
     "source_url": "https://letsgomaldives.com/news/exclusive-new-retreat-velaa-private-island-opens-today-in-the-maldives/",
     "as_of": "2026-10-04"
@@ -634,6 +648,11 @@
     "value": "Spa",
     "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
     "as_of": 2022
+   },
+   {
+    "value": "Velaa Spa",
+    "source_url": "https://framerusercontent.com/assets/j5BOj8caTz28wM5HiM4TETfyfY.pdf",
+    "as_of": 2021
    },
    {
     "value": "Spa",
@@ -861,6 +880,186 @@
     "as_of": "2026-10-04"
    },
    {
+    "value": "Spa\nSpa",
+    "source_url": "https://www.velaaprivateisland.com/celebrations",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Spa\nSpa",
+    "source_url": "https://www.velaaprivateisland.com/de/events-news/13th-anniversary-celebration",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Spa\nSpa",
+    "source_url": "https://www.velaaprivateisland.com/de/events-news/asahi-shuzo-sake-dinner-at-aragu",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Spa\nSpa",
+    "source_url": "https://www.velaaprivateisland.com/de/events-news/asahi-shuzo-sake-dinner-in-tavaru",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Spa\nSpa",
+    "source_url": "https://www.velaaprivateisland.com/de/events-news/candlelight-concerts-with-vanity-strings",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Spa\nSpa",
+    "source_url": "https://www.velaaprivateisland.com/de/events-news/celebrate-velaas-9th-anniversary",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Spa\nSpa",
+    "source_url": "https://www.velaaprivateisland.com/de/events-news/chateau-de-la-tour-domaine-labet-winemakers-dinner",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Spa\nSpa",
+    "source_url": "https://www.velaaprivateisland.com/de/events-news/christmas-eve-cocktail-party-gala-dinner-151",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Spa\nSpa",
+    "source_url": "https://www.velaaprivateisland.com/de/events-news/christmas-eve-cocktail-party-gala-dinner-196",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Spa\nSpa",
+    "source_url": "https://www.velaaprivateisland.com/de/events-news/christmas-eve-cocktail-party-gala-dinner-231",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Spa\nSpa",
+    "source_url": "https://www.velaaprivateisland.com/de/events-news/dassai-sake-dinners-in-tavaru",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Spa\nSpa",
+    "source_url": "https://www.velaaprivateisland.com/de/events-news/delamotte-salon-tiano-nareno-winemakers-dinner-in-aragu-204",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Spa\nSpa",
+    "source_url": "https://www.velaaprivateisland.com/de/events-news/festive-finale-gala-dinner-171",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Spa\nSpa",
+    "source_url": "https://www.velaaprivateisland.com/de/events-news/festive-finale-gala-dinner-202",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Spa\nSpa",
+    "source_url": "https://www.velaaprivateisland.com/de/events-news/festive-finale-gala-dinner-236",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Spa\nSpa",
+    "source_url": "https://www.velaaprivateisland.com/de/events-news/ficofi-wine-dinner-with-didier-depond",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Spa\nSpa",
+    "source_url": "https://www.velaaprivateisland.com/de/events-news/four-hands-dinner-in-aragu-with-jordy-navarra",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Spa\nSpa",
+    "source_url": "https://www.velaaprivateisland.com/de/events-news/four-hands-dinner-with-bruno-menard",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Spa\nSpa",
+    "source_url": "https://www.velaaprivateisland.com/de/events-news/four-hands-dinner-with-chef-brian-mark-hansen",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Spa\nSpa",
+    "source_url": "https://www.velaaprivateisland.com/de/events-news/four-hands-dinner-with-chef-jacob-kear",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Spa\nSpa",
+    "source_url": "https://www.velaaprivateisland.com/de/events-news/four-hands-dinner-with-christian-le-squer",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Spa\nSpa",
+    "source_url": "https://www.velaaprivateisland.com/de/events-news/four-hands-dinner-with-christian-le-squer-2",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Spa\nSpa",
+    "source_url": "https://www.velaaprivateisland.com/de/events-news/four-hands-dinner-with-maxime-gilbert",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Spa\nSpa",
+    "source_url": "https://www.velaaprivateisland.com/de/events-news/four-hands-dinner-with-natsuko-shoji",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Spa\nSpa",
+    "source_url": "https://www.velaaprivateisland.com/de/events-news/four-hands-dinner-with-thomas-buhner",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Spa\nSpa",
+    "source_url": "https://www.velaaprivateisland.com/de/events-news/four-hands-dinner-with-zizi-hattab",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Spa\nSpa",
+    "source_url": "https://www.velaaprivateisland.com/de/events-news/jazz-under-the-stars",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Spa\nSpa",
+    "source_url": "https://www.velaaprivateisland.com/de/events-news/la-dolce-velaa-10th-anniversary-celebration",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Spa\nSpa",
+    "source_url": "https://www.velaaprivateisland.com/de/events-news/nye-celebrations-metamorphosis-art-in-motion",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Spa\nSpa",
+    "source_url": "https://www.velaaprivateisland.com/de/events-news/pixie-lott-for-velaas-8th-anniversary",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Spa\nSpa",
+    "source_url": "https://www.velaaprivateisland.com/de/events-news/pop-night-under-the-stars-198",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Spa\nSpa",
+    "source_url": "https://www.velaaprivateisland.com/de/events-news/pop-night-under-the-stars-235",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Spa\nSpa",
+    "source_url": "https://www.velaaprivateisland.com/de/events-news/showtunes-under-the-stars",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Spa\nSpa",
+    "source_url": "https://www.velaaprivateisland.com/de/events-news/ticket-to-fabulous-velaas-nye-celebration",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Spa\nSpa",
+    "source_url": "https://www.velaaprivateisland.com/de/events-news/unveiling-the-velaa-art-gallery-for-the-10th-anniversary",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Spa\nSpa",
+    "source_url": "https://www.velaaprivateisland.com/de/events-news/velaa-s-7th-anniversary",
+    "as_of": "2026-10-05"
+   },
+   {
     "value": "Fitness\nSpa",
     "source_url": "https://www.neoscapesmaldives.com/resort/velaa-private-island/",
     "as_of": "2026-10-04"
@@ -953,39 +1152,9 @@
     "as_of": 2022
    },
    {
-    "value": "snorkelling",
-    "source_url": "https://framerusercontent.com/assets/iiMt0QlX9FKHzhJmO6mIrkCM.pdf",
-    "as_of": 2023
-   },
-   {
-    "value": "scuba diving",
-    "source_url": "https://framerusercontent.com/assets/iiMt0QlX9FKHzhJmO6mIrkCM.pdf",
-    "as_of": 2023
-   },
-   {
-    "value": "seabob",
-    "source_url": "https://framerusercontent.com/assets/iiMt0QlX9FKHzhJmO6mIrkCM.pdf",
-    "as_of": 2023
-   },
-   {
-    "value": "fishing",
-    "source_url": "https://framerusercontent.com/assets/iiMt0QlX9FKHzhJmO6mIrkCM.pdf",
-    "as_of": 2023
-   },
-   {
-    "value": "dolphin cruise",
-    "source_url": "https://framerusercontent.com/assets/iiMt0QlX9FKHzhJmO6mIrkCM.pdf",
-    "as_of": 2023
-   },
-   {
-    "value": "banana boat",
-    "source_url": "https://framerusercontent.com/assets/iiMt0QlX9FKHzhJmO6mIrkCM.pdf",
-    "as_of": 2023
-   },
-   {
-    "value": "flyboard",
-    "source_url": "https://framerusercontent.com/assets/iiMt0QlX9FKHzhJmO6mIrkCM.pdf",
-    "as_of": 2023
+    "value": "jet ski",
+    "source_url": "https://framerusercontent.com/assets/j5BOj8caTz28wM5HiM4TETfyfY.pdf",
+    "as_of": 2021
    },
    {
     "value": "snorkelling",
@@ -1136,16 +1305,6 @@
    },
    {
     "value": "dolphin",
-    "source_url": "https://framerusercontent.com/assets/iiMt0QlX9FKHzhJmO6mIrkCM.pdf",
-    "as_of": 2023
-   },
-   {
-    "value": "picnic",
-    "source_url": "https://framerusercontent.com/assets/iiMt0QlX9FKHzhJmO6mIrkCM.pdf",
-    "as_of": 2023
-   },
-   {
-    "value": "dolphin",
     "source_url": "https://www.neoscapesmaldives.com/resort/velaa-private-island/",
     "as_of": "2026-10-04"
    },
@@ -1195,6 +1354,11 @@
     "value": "Kids Club",
     "source_url": "https://neoscapesmaldives.com/wp-content/uploads/Velaa-Private-Island-Fact-Sheet.pdf",
     "as_of": 2019
+   },
+   {
+    "value": "Lha Velaa Kids Club",
+    "source_url": "https://framerusercontent.com/assets/j5BOj8caTz28wM5HiM4TETfyfY.pdf",
+    "as_of": 2021
    },
    {
     "value": "Kids Club",
@@ -1422,6 +1586,186 @@
     "as_of": "2026-10-04"
    },
    {
+    "value": "Kids Club\nKids Club",
+    "source_url": "https://www.velaaprivateisland.com/celebrations",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Kids Club\nKids Club",
+    "source_url": "https://www.velaaprivateisland.com/de/events-news/13th-anniversary-celebration",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Kids Club\nKids Club",
+    "source_url": "https://www.velaaprivateisland.com/de/events-news/asahi-shuzo-sake-dinner-at-aragu",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Kids Club\nKids Club",
+    "source_url": "https://www.velaaprivateisland.com/de/events-news/asahi-shuzo-sake-dinner-in-tavaru",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Kids Club\nKids Club",
+    "source_url": "https://www.velaaprivateisland.com/de/events-news/candlelight-concerts-with-vanity-strings",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Kids Club\nKids Club",
+    "source_url": "https://www.velaaprivateisland.com/de/events-news/celebrate-velaas-9th-anniversary",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Kids Club\nKids Club",
+    "source_url": "https://www.velaaprivateisland.com/de/events-news/chateau-de-la-tour-domaine-labet-winemakers-dinner",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Kids Club\nKids Club",
+    "source_url": "https://www.velaaprivateisland.com/de/events-news/christmas-eve-cocktail-party-gala-dinner-151",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Kids Club\nKids Club",
+    "source_url": "https://www.velaaprivateisland.com/de/events-news/christmas-eve-cocktail-party-gala-dinner-196",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Kids Club\nKids Club",
+    "source_url": "https://www.velaaprivateisland.com/de/events-news/christmas-eve-cocktail-party-gala-dinner-231",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Kids Club\nKids Club",
+    "source_url": "https://www.velaaprivateisland.com/de/events-news/dassai-sake-dinners-in-tavaru",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Kids Club\nKids Club",
+    "source_url": "https://www.velaaprivateisland.com/de/events-news/delamotte-salon-tiano-nareno-winemakers-dinner-in-aragu-204",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Kids Club\nKids Club",
+    "source_url": "https://www.velaaprivateisland.com/de/events-news/festive-finale-gala-dinner-171",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Kids Club\nKids Club",
+    "source_url": "https://www.velaaprivateisland.com/de/events-news/festive-finale-gala-dinner-202",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Kids Club\nKids Club",
+    "source_url": "https://www.velaaprivateisland.com/de/events-news/festive-finale-gala-dinner-236",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Kids Club\nKids Club",
+    "source_url": "https://www.velaaprivateisland.com/de/events-news/ficofi-wine-dinner-with-didier-depond",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Kids Club\nKids Club",
+    "source_url": "https://www.velaaprivateisland.com/de/events-news/four-hands-dinner-in-aragu-with-jordy-navarra",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Kids Club\nKids Club",
+    "source_url": "https://www.velaaprivateisland.com/de/events-news/four-hands-dinner-with-bruno-menard",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Kids Club\nKids Club",
+    "source_url": "https://www.velaaprivateisland.com/de/events-news/four-hands-dinner-with-chef-brian-mark-hansen",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Kids Club\nKids Club",
+    "source_url": "https://www.velaaprivateisland.com/de/events-news/four-hands-dinner-with-chef-jacob-kear",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Kids Club\nKids Club",
+    "source_url": "https://www.velaaprivateisland.com/de/events-news/four-hands-dinner-with-christian-le-squer",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Kids Club\nKids Club",
+    "source_url": "https://www.velaaprivateisland.com/de/events-news/four-hands-dinner-with-christian-le-squer-2",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Kids Club\nKids Club",
+    "source_url": "https://www.velaaprivateisland.com/de/events-news/four-hands-dinner-with-maxime-gilbert",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Kids Club\nKids Club",
+    "source_url": "https://www.velaaprivateisland.com/de/events-news/four-hands-dinner-with-natsuko-shoji",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Kids Club\nKids Club",
+    "source_url": "https://www.velaaprivateisland.com/de/events-news/four-hands-dinner-with-thomas-buhner",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Kids Club\nKids Club",
+    "source_url": "https://www.velaaprivateisland.com/de/events-news/four-hands-dinner-with-zizi-hattab",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Kids Club\nKids Club",
+    "source_url": "https://www.velaaprivateisland.com/de/events-news/jazz-under-the-stars",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Kids Club\nKids Club",
+    "source_url": "https://www.velaaprivateisland.com/de/events-news/la-dolce-velaa-10th-anniversary-celebration",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Kids Club\nKids Club",
+    "source_url": "https://www.velaaprivateisland.com/de/events-news/nye-celebrations-metamorphosis-art-in-motion",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Kids Club\nKids Club",
+    "source_url": "https://www.velaaprivateisland.com/de/events-news/pixie-lott-for-velaas-8th-anniversary",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Kids Club\nKids Club",
+    "source_url": "https://www.velaaprivateisland.com/de/events-news/pop-night-under-the-stars-198",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Kids Club\nKids Club",
+    "source_url": "https://www.velaaprivateisland.com/de/events-news/pop-night-under-the-stars-235",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Kids Club\nKids Club",
+    "source_url": "https://www.velaaprivateisland.com/de/events-news/showtunes-under-the-stars",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Kids Club\nKids Club",
+    "source_url": "https://www.velaaprivateisland.com/de/events-news/ticket-to-fabulous-velaas-nye-celebration",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Kids Club\nKids Club",
+    "source_url": "https://www.velaaprivateisland.com/de/events-news/unveiling-the-velaa-art-gallery-for-the-10th-anniversary",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Kids Club\nKids Club",
+    "source_url": "https://www.velaaprivateisland.com/de/events-news/velaa-s-7th-anniversary",
+    "as_of": "2026-10-05"
+   },
+   {
     "value": "Kids Club",
     "source_url": "https://www.neoscapesmaldives.com/resort/velaa-private-island/",
     "as_of": "2026-10-04"
@@ -1489,39 +1833,14 @@
     "as_of": 2022
    },
    {
-    "value": "yoga",
-    "source_url": "https://framerusercontent.com/assets/iiMt0QlX9FKHzhJmO6mIrkCM.pdf",
-    "as_of": 2023
-   },
-   {
-    "value": "gym",
-    "source_url": "https://framerusercontent.com/assets/iiMt0QlX9FKHzhJmO6mIrkCM.pdf",
-    "as_of": 2023
-   },
-   {
     "value": "tennis",
-    "source_url": "https://framerusercontent.com/assets/iiMt0QlX9FKHzhJmO6mIrkCM.pdf",
-    "as_of": 2023
+    "source_url": "https://framerusercontent.com/assets/j5BOj8caTz28wM5HiM4TETfyfY.pdf",
+    "as_of": 2021
    },
    {
     "value": "padel",
-    "source_url": "https://framerusercontent.com/assets/iiMt0QlX9FKHzhJmO6mIrkCM.pdf",
-    "as_of": 2023
-   },
-   {
-    "value": "badminton",
-    "source_url": "https://framerusercontent.com/assets/iiMt0QlX9FKHzhJmO6mIrkCM.pdf",
-    "as_of": 2023
-   },
-   {
-    "value": "beach volleyball",
-    "source_url": "https://framerusercontent.com/assets/iiMt0QlX9FKHzhJmO6mIrkCM.pdf",
-    "as_of": 2023
-   },
-   {
-    "value": "pilates",
-    "source_url": "https://framerusercontent.com/assets/iiMt0QlX9FKHzhJmO6mIrkCM.pdf",
-    "as_of": 2023
+    "source_url": "https://framerusercontent.com/assets/j5BOj8caTz28wM5HiM4TETfyfY.pdf",
+    "as_of": 2021
    },
    {
     "value": "gym",
@@ -1604,6 +1923,16 @@
     "as_of": "2026-10-04"
    },
    {
+    "value": "tennis",
+    "source_url": "https://www.velaaprivateisland.com/de/events-news/celebrate-velaas-9th-anniversary",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://www.velaaprivateisland.com/de/events-news/la-dolce-velaa-10th-anniversary-celebration",
+    "as_of": "2026-10-05"
+   },
+   {
     "value": "yoga",
     "source_url": "https://www.neoscapesmaldives.com/resort/velaa-private-island/",
     "as_of": "2026-10-04"
@@ -1674,6 +2003,108 @@
     "as_of": "2026-10-04"
    }
   ],
+  "destination_dining.experiences": [
+   {
+    "value": "private chef",
+    "source_url": "https://neoscapesmaldives.com/wp-content/uploads/Velaa-Private-Island-Fact-Sheet.pdf",
+    "as_of": 2019
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://neoscapesmaldives.com/wp-content/uploads/Velaa-Private-Island-Fact-Sheet.pdf",
+    "as_of": 2019
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://neoscapesmaldives.com/wp-content/uploads/Velaa-Private-Island-Fact-Sheet.pdf",
+    "as_of": 2019
+   },
+   {
+    "value": "in-villa dining",
+    "source_url": "https://neoscapesmaldives.com/wp-content/uploads/Velaa-Private-Island-Fact-Sheet.pdf",
+    "as_of": 2019
+   },
+   {
+    "value": "in-villa dining",
+    "source_url": "https://neoscapesmaldives.com/wp-content/uploads/Velaa-Private-Island-Fact-Sheet.pdf",
+    "as_of": 2019
+   },
+   {
+    "value": "wine dinner",
+    "source_url": "https://framerusercontent.com/assets/P7OmVcMbnISlYoyJP0lcoPp3l4.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": "wine dinner",
+    "source_url": "https://framerusercontent.com/assets/P7OmVcMbnISlYoyJP0lcoPp3l4.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": "wine dinner",
+    "source_url": "https://framerusercontent.com/assets/P7OmVcMbnISlYoyJP0lcoPp3l4.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": "anniversary celebration",
+    "source_url": "https://www.velaaprivateisland.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "wine dinner",
+    "source_url": "https://www.velaaprivateisland.com/ru/events-news/ficofi-wine-dinner-with-didier-depond",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "wine dinner",
+    "source_url": "https://www.velaaprivateisland.com/ru/events-news/ficofi-wine-dinner-with-didier-depond",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "wine dinner",
+    "source_url": "https://www.velaaprivateisland.com/ru/events-news/wine-dinners-with-chateau-de-la-tour",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "wine dinner",
+    "source_url": "https://www.velaaprivateisland.com/ru/events-news/wine-dinners-with-chateau-de-la-tour",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "anniversary celebration",
+    "source_url": "https://www.velaaprivateisland.com/ru/events-news",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "anniversary celebration",
+    "source_url": "https://www.velaaprivateisland.com/ru/events-news",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "wine dinner",
+    "source_url": "https://www.velaaprivateisland.com/events-news/the-world-of-fine-wine-with-beans-boughton",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "wine dinner",
+    "source_url": "https://www.velaaprivateisland.com/events-news/the-world-of-fine-wine-with-beans-boughton",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "anniversary celebration",
+    "source_url": "https://www.velaaprivateisland.com/de/events-news/13th-anniversary-celebration",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://letsgomaldives.com/news/exclusive-new-retreat-velaa-private-island-opens-today-in-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://letsgomaldives.com/news/exclusive-new-retreat-velaa-private-island-opens-today-in-the-maldives/",
+    "as_of": "2026-10-04"
+   }
+  ],
   "sustainability": [
    {
     "value": "marine biologist",
@@ -1682,8 +2113,13 @@
    },
    {
     "value": "coral restoration",
-    "source_url": "https://framerusercontent.com/assets/iiMt0QlX9FKHzhJmO6mIrkCM.pdf",
-    "as_of": 2023
+    "source_url": "https://framerusercontent.com/assets/j5BOj8caTz28wM5HiM4TETfyfY.pdf",
+    "as_of": 2021
+   },
+   {
+    "value": "marine biologist",
+    "source_url": "https://framerusercontent.com/assets/j5BOj8caTz28wM5HiM4TETfyfY.pdf",
+    "as_of": 2021
    },
    {
     "value": "marine biologist",
@@ -1708,6 +2144,16 @@
     "as_of": 2022
    },
    {
+    "value": "reservations@velaaisland.com",
+    "source_url": "https://framerusercontent.com/assets/j5BOj8caTz28wM5HiM4TETfyfY.pdf",
+    "as_of": 2021
+   },
+   {
+    "value": "info@tourism.gov.mv",
+    "source_url": "https://visitmaldives.s3.amazonaws.com/EongBdwM/zaguu9sk.pdf",
+    "as_of": 2020
+   },
+   {
     "value": "info@velaaisland.com",
     "source_url": "https://www.velaaprivateisland.com/",
     "as_of": "2026-10-04"
@@ -2051,6 +2497,186 @@
     "value": "info@velaaisland.com",
     "source_url": "https://www.velaaprivateisland.com/events-news/world-travel-awards-2021",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "info@velaaisland.com",
+    "source_url": "https://www.velaaprivateisland.com/celebrations",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "info@velaaisland.com",
+    "source_url": "https://www.velaaprivateisland.com/de/events-news/13th-anniversary-celebration",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "info@velaaisland.com",
+    "source_url": "https://www.velaaprivateisland.com/de/events-news/asahi-shuzo-sake-dinner-at-aragu",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "info@velaaisland.com",
+    "source_url": "https://www.velaaprivateisland.com/de/events-news/asahi-shuzo-sake-dinner-in-tavaru",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "info@velaaisland.com",
+    "source_url": "https://www.velaaprivateisland.com/de/events-news/candlelight-concerts-with-vanity-strings",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "info@velaaisland.com",
+    "source_url": "https://www.velaaprivateisland.com/de/events-news/celebrate-velaas-9th-anniversary",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "info@velaaisland.com",
+    "source_url": "https://www.velaaprivateisland.com/de/events-news/chateau-de-la-tour-domaine-labet-winemakers-dinner",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "info@velaaisland.com",
+    "source_url": "https://www.velaaprivateisland.com/de/events-news/christmas-eve-cocktail-party-gala-dinner-151",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "info@velaaisland.com",
+    "source_url": "https://www.velaaprivateisland.com/de/events-news/christmas-eve-cocktail-party-gala-dinner-196",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "info@velaaisland.com",
+    "source_url": "https://www.velaaprivateisland.com/de/events-news/christmas-eve-cocktail-party-gala-dinner-231",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "info@velaaisland.com",
+    "source_url": "https://www.velaaprivateisland.com/de/events-news/dassai-sake-dinners-in-tavaru",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "info@velaaisland.com",
+    "source_url": "https://www.velaaprivateisland.com/de/events-news/delamotte-salon-tiano-nareno-winemakers-dinner-in-aragu-204",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "info@velaaisland.com",
+    "source_url": "https://www.velaaprivateisland.com/de/events-news/festive-finale-gala-dinner-171",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "info@velaaisland.com",
+    "source_url": "https://www.velaaprivateisland.com/de/events-news/festive-finale-gala-dinner-202",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "info@velaaisland.com",
+    "source_url": "https://www.velaaprivateisland.com/de/events-news/festive-finale-gala-dinner-236",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "info@velaaisland.com",
+    "source_url": "https://www.velaaprivateisland.com/de/events-news/ficofi-wine-dinner-with-didier-depond",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "info@velaaisland.com",
+    "source_url": "https://www.velaaprivateisland.com/de/events-news/four-hands-dinner-in-aragu-with-jordy-navarra",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "info@velaaisland.com",
+    "source_url": "https://www.velaaprivateisland.com/de/events-news/four-hands-dinner-with-bruno-menard",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "info@velaaisland.com",
+    "source_url": "https://www.velaaprivateisland.com/de/events-news/four-hands-dinner-with-chef-brian-mark-hansen",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "info@velaaisland.com",
+    "source_url": "https://www.velaaprivateisland.com/de/events-news/four-hands-dinner-with-chef-jacob-kear",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "info@velaaisland.com",
+    "source_url": "https://www.velaaprivateisland.com/de/events-news/four-hands-dinner-with-christian-le-squer",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "info@velaaisland.com",
+    "source_url": "https://www.velaaprivateisland.com/de/events-news/four-hands-dinner-with-christian-le-squer-2",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "info@velaaisland.com",
+    "source_url": "https://www.velaaprivateisland.com/de/events-news/four-hands-dinner-with-maxime-gilbert",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "info@velaaisland.com",
+    "source_url": "https://www.velaaprivateisland.com/de/events-news/four-hands-dinner-with-natsuko-shoji",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "info@velaaisland.com",
+    "source_url": "https://www.velaaprivateisland.com/de/events-news/four-hands-dinner-with-thomas-buhner",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "info@velaaisland.com",
+    "source_url": "https://www.velaaprivateisland.com/de/events-news/four-hands-dinner-with-zizi-hattab",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "info@velaaisland.com",
+    "source_url": "https://www.velaaprivateisland.com/de/events-news/jazz-under-the-stars",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "info@velaaisland.com",
+    "source_url": "https://www.velaaprivateisland.com/de/events-news/la-dolce-velaa-10th-anniversary-celebration",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "info@velaaisland.com",
+    "source_url": "https://www.velaaprivateisland.com/de/events-news/nye-celebrations-metamorphosis-art-in-motion",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "info@velaaisland.com",
+    "source_url": "https://www.velaaprivateisland.com/de/events-news/pixie-lott-for-velaas-8th-anniversary",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "info@velaaisland.com",
+    "source_url": "https://www.velaaprivateisland.com/de/events-news/pop-night-under-the-stars-198",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "info@velaaisland.com",
+    "source_url": "https://www.velaaprivateisland.com/de/events-news/pop-night-under-the-stars-235",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "info@velaaisland.com",
+    "source_url": "https://www.velaaprivateisland.com/de/events-news/showtunes-under-the-stars",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "info@velaaisland.com",
+    "source_url": "https://www.velaaprivateisland.com/de/events-news/ticket-to-fabulous-velaas-nye-celebration",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "info@velaaisland.com",
+    "source_url": "https://www.velaaprivateisland.com/de/events-news/unveiling-the-velaa-art-gallery-for-the-10th-anniversary",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "info@velaaisland.com",
+    "source_url": "https://www.velaaprivateisland.com/de/events-news/velaa-s-7th-anniversary",
+    "as_of": "2026-10-05"
    },
    {
     "value": "info@neoscapesmaldives.com",
@@ -2071,6 +2697,11 @@
    },
    {
     "value": "+960 6565 000",
+    "source_url": "https://framerusercontent.com/assets/j5BOj8caTz28wM5HiM4TETfyfY.pdf",
+    "as_of": 2021
+   },
+   {
+    "value": "+960 6565 000",
     "source_url": "https://www.velaaprivateisland.com/",
     "as_of": "2026-10-04"
    },
@@ -2413,6 +3044,186 @@
     "value": "+960 6565 000",
     "source_url": "https://www.velaaprivateisland.com/events-news/world-travel-awards-2021",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 6565 000",
+    "source_url": "https://www.velaaprivateisland.com/celebrations",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "+960 6565 000",
+    "source_url": "https://www.velaaprivateisland.com/de/events-news/13th-anniversary-celebration",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "+960 6565 000",
+    "source_url": "https://www.velaaprivateisland.com/de/events-news/asahi-shuzo-sake-dinner-at-aragu",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "+960 6565 000",
+    "source_url": "https://www.velaaprivateisland.com/de/events-news/asahi-shuzo-sake-dinner-in-tavaru",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "+960 6565 000",
+    "source_url": "https://www.velaaprivateisland.com/de/events-news/candlelight-concerts-with-vanity-strings",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "+960 6565 000",
+    "source_url": "https://www.velaaprivateisland.com/de/events-news/celebrate-velaas-9th-anniversary",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "+960 6565 000",
+    "source_url": "https://www.velaaprivateisland.com/de/events-news/chateau-de-la-tour-domaine-labet-winemakers-dinner",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "+960 6565 000",
+    "source_url": "https://www.velaaprivateisland.com/de/events-news/christmas-eve-cocktail-party-gala-dinner-151",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "+960 6565 000",
+    "source_url": "https://www.velaaprivateisland.com/de/events-news/christmas-eve-cocktail-party-gala-dinner-196",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "+960 6565 000",
+    "source_url": "https://www.velaaprivateisland.com/de/events-news/christmas-eve-cocktail-party-gala-dinner-231",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "+960 6565 000",
+    "source_url": "https://www.velaaprivateisland.com/de/events-news/dassai-sake-dinners-in-tavaru",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "+960 6565 000",
+    "source_url": "https://www.velaaprivateisland.com/de/events-news/delamotte-salon-tiano-nareno-winemakers-dinner-in-aragu-204",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "+960 6565 000",
+    "source_url": "https://www.velaaprivateisland.com/de/events-news/festive-finale-gala-dinner-171",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "+960 6565 000",
+    "source_url": "https://www.velaaprivateisland.com/de/events-news/festive-finale-gala-dinner-202",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "+960 6565 000",
+    "source_url": "https://www.velaaprivateisland.com/de/events-news/festive-finale-gala-dinner-236",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "+960 6565 000",
+    "source_url": "https://www.velaaprivateisland.com/de/events-news/ficofi-wine-dinner-with-didier-depond",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "+960 6565 000",
+    "source_url": "https://www.velaaprivateisland.com/de/events-news/four-hands-dinner-in-aragu-with-jordy-navarra",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "+960 6565 000",
+    "source_url": "https://www.velaaprivateisland.com/de/events-news/four-hands-dinner-with-bruno-menard",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "+960 6565 000",
+    "source_url": "https://www.velaaprivateisland.com/de/events-news/four-hands-dinner-with-chef-brian-mark-hansen",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "+960 6565 000",
+    "source_url": "https://www.velaaprivateisland.com/de/events-news/four-hands-dinner-with-chef-jacob-kear",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "+960 6565 000",
+    "source_url": "https://www.velaaprivateisland.com/de/events-news/four-hands-dinner-with-christian-le-squer",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "+960 6565 000",
+    "source_url": "https://www.velaaprivateisland.com/de/events-news/four-hands-dinner-with-christian-le-squer-2",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "+960 6565 000",
+    "source_url": "https://www.velaaprivateisland.com/de/events-news/four-hands-dinner-with-maxime-gilbert",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "+960 6565 000",
+    "source_url": "https://www.velaaprivateisland.com/de/events-news/four-hands-dinner-with-natsuko-shoji",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "+960 6565 000",
+    "source_url": "https://www.velaaprivateisland.com/de/events-news/four-hands-dinner-with-thomas-buhner",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "+960 6565 000",
+    "source_url": "https://www.velaaprivateisland.com/de/events-news/four-hands-dinner-with-zizi-hattab",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "+960 6565 000",
+    "source_url": "https://www.velaaprivateisland.com/de/events-news/jazz-under-the-stars",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "+960 6565 000",
+    "source_url": "https://www.velaaprivateisland.com/de/events-news/la-dolce-velaa-10th-anniversary-celebration",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "+960 6565 000",
+    "source_url": "https://www.velaaprivateisland.com/de/events-news/nye-celebrations-metamorphosis-art-in-motion",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "+960 6565 000",
+    "source_url": "https://www.velaaprivateisland.com/de/events-news/pixie-lott-for-velaas-8th-anniversary",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "+960 6565 000",
+    "source_url": "https://www.velaaprivateisland.com/de/events-news/pop-night-under-the-stars-198",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "+960 6565 000",
+    "source_url": "https://www.velaaprivateisland.com/de/events-news/pop-night-under-the-stars-235",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "+960 6565 000",
+    "source_url": "https://www.velaaprivateisland.com/de/events-news/showtunes-under-the-stars",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "+960 6565 000",
+    "source_url": "https://www.velaaprivateisland.com/de/events-news/ticket-to-fabulous-velaas-nye-celebration",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "+960 6565 000",
+    "source_url": "https://www.velaaprivateisland.com/de/events-news/unveiling-the-velaa-art-gallery-for-the-10th-anniversary",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "+960 6565 000",
+    "source_url": "https://www.velaaprivateisland.com/de/events-news/velaa-s-7th-anniversary",
+    "as_of": "2026-10-05"
    },
    {
     "value": "+960 736 5425",
@@ -3755,6 +4566,18 @@
    },
    {
     "value": {
+     "name": "Villa Highlight",
+     "count": 15,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://framerusercontent.com/assets/j5BOj8caTz28wM5HiM4TETfyfY.pdf",
+    "as_of": 2021
+   },
+   {
+    "value": {
      "name": "Beachfront Villas",
      "count": 12,
      "size_sqm": null,
@@ -3904,20 +4727,6 @@
     "as_of": 2022
    }
   ],
-  "diving_watersports.house_reef": [
-   {
-    "value": "house reef tour by Seabob 9 AM – 11 AM WATER SPORTS CENTRE • 2 hour jetski adventure",
-    "source_url": "https://framerusercontent.com/assets/iiMt0QlX9FKHzhJmO6mIrkCM.pdf",
-    "as_of": 2023
-   }
-  ],
-  "kids_family.teens": [
-   {
-    "value": "teens programme mentioned",
-    "source_url": "https://framerusercontent.com/assets/goGjqEjmqFpKZ51LupcgvvSmhVU.pdf",
-    "as_of": 2015
-   }
-  ],
   "weddings.offered": [
    {
     "value": true,
@@ -3931,6 +4740,26 @@
    },
    {
     "value": true,
+    "source_url": "https://www.velaaprivateisland.com/celebrations",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.velaaprivateisland.com/celebrations",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.velaaprivateisland.com/de/events-news/nye-celebrations-metamorphosis-art-in-motion",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.velaaprivateisland.com/de/events-news/ticket-to-fabulous-velaas-nye-celebration",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": true,
     "source_url": "https://www.neoscapesmaldives.com/resort/velaa-private-island/",
     "as_of": "2026-10-04"
    },
@@ -3938,6 +4767,13 @@
     "value": true,
     "source_url": "https://malediven.de/malediven-hotels/velaa-private-island/",
     "as_of": "2026-10-04"
+   }
+  ],
+  "events_mice.buyout": [
+   {
+    "value": true,
+    "source_url": "https://www.velaaprivateisland.com/celebrations",
+    "as_of": "2026-10-05"
    }
   ],
   "transfer.minutes.seaplane": [

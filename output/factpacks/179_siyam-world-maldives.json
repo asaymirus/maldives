@@ -252,6 +252,20 @@
   "packages": [],
   "brochure_doc": "https://www.sunsiyam.com/media/grbf53ce/ultimate-honeymoon-sw.pdf"
  },
+ "destination_dining": {
+  "experiences": [
+   "private dining",
+   "wine pairing",
+   "floating breakfast",
+   "romantic beach dinner",
+   "sunset cruise",
+   "chef's table",
+   "honeymoon dinner"
+  ],
+  "packages": [],
+  "sandbank_events": null,
+  "doc": null
+ },
  "events_mice": {
   "venues": [],
   "capacity_max": null,
@@ -274,9 +288,10 @@
   "dining_menu": "https://letsgomaldives.com/wp-content/uploads/2023/11/SIYAM-WORLD_WOW-INCLUSIVE-W23S24_01-Nov-23.pdf",
   "dive_prices": null,
   "events": null,
-  "calendar": null
+  "calendar": null,
+  "destination_dining": null
  },
- "documents_count": 7,
+ "documents_count": 8,
  "gaps": [
   "events/MICE document"
  ],
@@ -1338,6 +1353,68 @@
     "value": "Breakfast venue Spanish cuisine Adult-Only pool bar Beach Bar",
     "source_url": "https://www.sunsiyam.com/media/ofahluyo/factsheet-siyam-world-2026.pdf",
     "as_of": 2026
+   }
+  ],
+  "destination_dining.experiences": [
+   {
+    "value": "private dining",
+    "source_url": "https://www.sunsiyam.com/media/ofahluyo/factsheet-siyam-world-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "wine pairing",
+    "source_url": "https://www.sunsiyam.com/media/ofahluyo/factsheet-siyam-world-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://www.sunsiyam.com/media/ofahluyo/factsheet-siyam-world-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "romantic beach dinner",
+    "source_url": "https://www.sunsiyam.com/media/ofahluyo/factsheet-siyam-world-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.sunsiyam.com/media/ofahluyo/factsheet-siyam-world-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://www.sunsiyam.com/media/grbf53ce/ultimate-honeymoon-sw.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://letsgomaldives.com/wp-content/uploads/2023/11/SIYAM-WORLD_WOW-INCLUSIVE-W23S24_01-Nov-23.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": "chef's table",
+    "source_url": "https://www.sunsiyam.com/siyam-world/restaurants-bars/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://www.sunsiyam.com/siyam-world/offers/fall-into-paradise-offer/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.sunsiyam.com/siyam-world/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "honeymoon dinner",
+    "source_url": "https://www.sunsiyam.com/siyam-world/offers/honeymoon-offer/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.neoscapesmaldives.com/resort/siyam-world-maldives/",
+    "as_of": "2026-10-04"
    }
   ],
   "contacts_public.reservations_email": [

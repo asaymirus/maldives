@@ -49,6 +49,12 @@ All-inclusive: all-inclusive plan is available in Hurawalhi.
 - Packages: n/a
 - Brochure: https://sales.crownandchamparesorts.com/wp-content/uploads/2020/01/HurawalhiCeremoniesPackagesVer110719.pdf
 
+## Destination dining
+
+- Experiences: in-villa dining, beach dinner, romantic beach dinner, sunset dinner, underwater restaurant, underwater dining, floating breakfast, sunset cruise, destination dining
+- Packages: n/a
+- Sandbank events: None; document: none
+
 ## Events / MICE
 
 - Venues: n/a; capacity max: n/a; buyout: True
@@ -60,7 +66,7 @@ All-inclusive: all-inclusive plan is available in Hurawalhi.
 
 ## Public contacts
 
-- Reservations: reservations@kudadoo.com; weddings: n/a; phone: +960 664 3157
+- Reservations: reservations@hurawalhi.com; weddings: n/a; phone: +960 664 3157
 
 ## Latest documents
 
@@ -72,9 +78,10 @@ All-inclusive: all-inclusive plan is available in Hurawalhi.
 - dive_prices: none
 - events: none
 - calendar: https://d2qwq69i2ic1pk.cloudfront.net/2023/11/CCR_2024_Calendar_compressed.pdf
+- destination_dining: none
 
 ## Gaps
 
 - events/MICE document
 
-_Facts extracted by rules from 27 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._
+_Facts extracted by rules from 28 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

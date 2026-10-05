@@ -60,6 +60,12 @@ Meal plans: Dine Around
 - Packages: n/a
 - Brochure: none
 
+## Destination dining
+
+- Experiences: in-villa dining, wine pairing, sandbank picnic
+- Packages: n/a
+- Sandbank events: True; document: none
+
 ## Events / MICE
 
 - Venues: n/a; capacity max: n/a; buyout: None
@@ -83,10 +89,11 @@ Meal plans: Dine Around
 - dive_prices: none
 - events: none
 - calendar: none
+- destination_dining: none
 
 ## Gaps
 
 - wedding brochure
 - events/MICE document
 
-_Facts extracted by rules from 21 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._
+_Facts extracted by rules from 23 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

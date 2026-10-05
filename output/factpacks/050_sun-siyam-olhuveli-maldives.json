@@ -383,6 +383,7 @@
    "dolphin cruise",
    "surfing",
    "sailing",
+   "fun tube",
    "snorkeling",
    "jet ski",
    "kayaking",
@@ -404,6 +405,7 @@
   "dolphin",
   "local island",
   "turtle",
+  "cooking class",
   "sunset fishing",
   "stargazing",
   "island hopping",
@@ -452,6 +454,29 @@
   ],
   "brochure_doc": "https://www.sunsiyam.com/media/g0lnezdr/wedding-package-ssom-2024-2025-direct.pdf"
  },
+ "destination_dining": {
+  "experiences": [
+   "romantic beach dinner",
+   "floating breakfast",
+   "sunset cruise",
+   "private dining",
+   "destination dining",
+   "beach bbq",
+   "beach dinner",
+   "in-villa dining",
+   "romantic dinner"
+  ],
+  "packages": [
+   {
+    "name": "Floating Breakfast",
+    "price": "94",
+    "currency": "USD",
+    "as_of": 2025
+   }
+  ],
+  "sandbank_events": null,
+  "doc": null
+ },
  "events_mice": {
   "venues": [],
   "capacity_max": 375,
@@ -473,12 +498,13 @@
   "map": "https://www.sunsiyam.com/media/qiflblcy/sso-ai-meal-plan-2026.pdf",
   "wedding": "https://www.sunsiyam.com/media/g0lnezdr/wedding-package-ssom-2024-2025-direct.pdf",
   "spa_menu": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
-  "dining_menu": "https://www.sunsiyam.com/media/etufj3oc/sun-siyam-olhuveli-diwali.pdf",
+  "dining_menu": "https://www.sunsiyam.com/media/sluirhj5/sso-repeater-guest-entitlements-2025pdf.pdf",
   "dive_prices": "https://www.sunsiyam.com/media/ijlfprg1/oktoberfest-sun-siyam-olhuveli-sep-2026.pdf",
   "events": "https://www.sunsiyam.com/media/gkhhf31k/ssr-mice-digital-book-2026.pdf",
-  "calendar": "https://www.sunsiyam.com/media/zirlx1ub/carnival-of-the-isles-festive-programme-2026-2027.pdf"
+  "calendar": "https://www.sunsiyam.com/media/zirlx1ub/carnival-of-the-isles-festive-programme-2026-2027.pdf",
+  "destination_dining": null
  },
- "documents_count": 23,
+ "documents_count": 24,
  "gaps": [],
  "sources": {
   "atoll": [
@@ -2523,6 +2549,11 @@
    },
    {
     "value": "Spa",
+    "source_url": "https://www.sunsiyam.com/media/sluirhj5/sso-repeater-guest-entitlements-2025pdf.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "Spa",
     "source_url": "https://www.sunsiyam.com/media/qiflblcy/sso-ai-meal-plan-2026.pdf",
     "as_of": 2026
    },
@@ -2683,6 +2714,26 @@
     "value": "sailing",
     "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
     "as_of": 2022
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.sunsiyam.com/media/sluirhj5/sso-repeater-guest-entitlements-2025pdf.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.sunsiyam.com/media/sluirhj5/sso-repeater-guest-entitlements-2025pdf.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "dolphin cruise",
+    "source_url": "https://www.sunsiyam.com/media/sluirhj5/sso-repeater-guest-entitlements-2025pdf.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "fun tube",
+    "source_url": "https://www.sunsiyam.com/media/sluirhj5/sso-repeater-guest-entitlements-2025pdf.pdf",
+    "as_of": 2025
    },
    {
     "value": "fishing",
@@ -3120,6 +3171,21 @@
     "value": "turtle",
     "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
     "as_of": 2022
+   },
+   {
+    "value": "local island",
+    "source_url": "https://www.sunsiyam.com/media/sluirhj5/sso-repeater-guest-entitlements-2025pdf.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.sunsiyam.com/media/sluirhj5/sso-repeater-guest-entitlements-2025pdf.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "cooking class",
+    "source_url": "https://www.sunsiyam.com/media/sluirhj5/sso-repeater-guest-entitlements-2025pdf.pdf",
+    "as_of": 2025
    },
    {
     "value": "cinema",
@@ -3583,6 +3649,188 @@
     "as_of": "2026-10-04"
    }
   ],
+  "destination_dining.experiences": [
+   {
+    "value": "romantic beach dinner",
+    "source_url": "https://www.sunsiyam.com/media/21sbkbn1/factsheet-olhuveli-2026-aug.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://www.sunsiyam.com/media/g0lnezdr/wedding-package-ssom-2024-2025-direct.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.sunsiyam.com/media/g0lnezdr/wedding-package-ssom-2024-2025-direct.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.sunsiyam.com/media/g0lnezdr/wedding-package-ssom-2024-2025-direct.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "private dining",
+    "source_url": "https://www.sunsiyam.com/media/gkhhf31k/ssr-mice-digital-book-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://www.sunsiyam.com/media/gkhhf31k/ssr-mice-digital-book-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://www.sunsiyam.com/media/gkhhf31k/ssr-mice-digital-book-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "private dining",
+    "source_url": "https://www.sunsiyam.com/media/gkhhf31k/ssr-mice-digital-book-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://www.sunsiyam.com/media/sluirhj5/sso-repeater-guest-entitlements-2025pdf.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.sunsiyam.com/media/sluirhj5/sso-repeater-guest-entitlements-2025pdf.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "beach bbq",
+    "source_url": "https://www.sunsiyam.com/media/ijlfprg1/oktoberfest-sun-siyam-olhuveli-sep-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "beach bbq",
+    "source_url": "https://www.sunsiyam.com/media/ijlfprg1/oktoberfest-sun-siyam-olhuveli-sep-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://letsgomaldives.com/wp-content/uploads/2026/08/Sun-Siyam-Olhuveli.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.sunsiyam.com/media/qiflblcy/sso-ai-meal-plan-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-olhuveli/offers/oktoberfest-offer/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-olhuveli/offers/oktoberfest-offer/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-olhuveli/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "beach dinner",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-olhuveli/offers/honeymoon-offer/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-olhuveli/offers/festive-offer/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-olhuveli/offers/festive-offer/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "romantic beach dinner",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-olhuveli/weddings-celebrations/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-olhuveli/weddings-celebrations/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "beach dinner",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-olhuveli/weddings-celebrations/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "in-villa dining",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-olhuveli/weddings-celebrations/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-olhuveli/weddings-celebrations/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-olhuveli/offers/romance-offer/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-olhuveli/offers/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-olhuveli/offers/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-olhuveli/offers/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-olhuveli/offers/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "beach dinner",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-olhuveli/offers/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-olhuveli/offers/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://www.sunsiyam.com/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "romantic dinner",
+    "source_url": "https://www.sunsiyam.com/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-iru-veli/experiences/cinema-by-moonlight/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://www.neoscapesmaldives.com/resort/olhuveli-beach-spa-maldives/",
+    "as_of": "2026-10-04"
+   }
+  ],
   "contacts_public.reservations_email": [
    {
     "value": "info.olhuveli@sunsiyam.com",
@@ -3677,6 +3925,18 @@
     "value": {
      "name": "Wedding",
      "price": "3000",
+     "currency": "USD",
+     "as_of": 2025
+    },
+    "source_url": "https://www.sunsiyam.com/media/g0lnezdr/wedding-package-ssom-2024-2025-direct.pdf",
+    "as_of": 2025
+   }
+  ],
+  "destination_dining.packages": [
+   {
+    "value": {
+     "name": "Floating Breakfast",
+     "price": "94",
      "currency": "USD",
      "as_of": 2025
     },

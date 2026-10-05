@@ -100,6 +100,15 @@
   "packages": [],
   "brochure_doc": null
  },
+ "destination_dining": {
+  "experiences": [
+   "romantic dinner",
+   "sandbank experience"
+  ],
+  "packages": [],
+  "sandbank_events": true,
+  "doc": null
+ },
  "events_mice": {
   "venues": [],
   "capacity_max": null,
@@ -120,7 +129,8 @@
   "dining_menu": null,
   "dive_prices": null,
   "events": null,
-  "calendar": null
+  "calendar": null,
+  "destination_dining": null
  },
  "documents_count": 2,
  "gaps": [
@@ -397,6 +407,25 @@
   "kids_family.kids_club": [
    {
     "value": "Kids Club",
+    "source_url": "https://www.neoscapesmaldives.com/resort/melia-whale-lagoon-maldives",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "destination_dining.experiences": [
+   {
+    "value": "romantic dinner",
+    "source_url": "https://www.neoscapesmaldives.com/resort/melia-whale-lagoon-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank experience",
+    "source_url": "https://www.neoscapesmaldives.com/resort/melia-whale-lagoon-maldives",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "destination_dining.sandbank_events": [
+   {
+    "value": true,
     "source_url": "https://www.neoscapesmaldives.com/resort/melia-whale-lagoon-maldives",
     "as_of": "2026-10-04"
    }

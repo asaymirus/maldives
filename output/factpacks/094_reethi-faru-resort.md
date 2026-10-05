@@ -64,7 +64,7 @@ All-inclusive: all-inclusive: molti resort offrono pacchetti all-inclusive che c
 - House reef: house reef that blends seamlessly into the infinite blue ocean
 - Activities: snorkeling, catamaran, jet ski, fishing, manta, flyboard, windsurfing, kitesurfing, parasailing, sailing, fun tube, canoe, snorkelling, scuba diving, kayaking, sunset cruise, paddleboard, stand-up paddle, seabob, wakeboarding, dolphin cruise
 - Price list: https://tablecells.com/api/v1/files/public/01M3BBAVWQNQ4HD8AS898Z0V9C-water-sports.pdf
-- Excursions: local island, sandbank, dolphin, manta, turtle, private dinner, picnic, sunset fishing, stargazing
+- Excursions: local island, sandbank, dolphin, manta, turtle, picnic, private dinner, sunset fishing, stargazing
 
 ## Kids & family
 
@@ -73,9 +73,15 @@ All-inclusive: all-inclusive: molti resort offrono pacchetti all-inclusive che c
 ## Weddings
 
 - Offered: True; vow renewal: True
-- Venues: n/a
+- Venues: Private Picnic by the Beach 2-Tier Wedding Cake Live Music per Hour
 - Packages: Days Package USD 308 (2026)
-- Brochure: none
+- Brochure: https://www.reethifaru.com/pdf/renewal-of-vows.pdf
+
+## Destination dining
+
+- Experiences: beach dinner, floating breakfast, sunset cruise, private dining, romantic dinner, sandbank trip, romantic private dinner, beach bbq, anniversary celebration, romantic dining
+- Packages: n/a
+- Sandbank events: True; document: none
 
 ## Events / MICE
 
@@ -84,27 +90,27 @@ All-inclusive: all-inclusive: molti resort offrono pacchetti all-inclusive che c
 
 ## Sustainability
 
-- reef restoration, solar, manta trust, Olive Ridley Project, coral nursery, single-use plastic, coral restoration, Green Globe, Travelife, desalination
+- reef restoration, solar, manta trust, Olive Ridley Project, coral nursery, single-use plastic, coral restoration, Green Globe, Travelife, desalination, marine biologist
 
 ## Public contacts
 
-- Reservations: reservation@reethifaru.com; weddings: n/a; phone: +960 400 4000
+- Reservations: inquiry@reethifaru.com; weddings: n/a; phone: +960 400 4000
 
 ## Latest documents
 
 - factsheet: https://www.reethifaru.com/pdf/fact-sheets-english.pdf
 - map: https://www.reethifaru.com/pdf/sustainability-management-plan.pdf
-- wedding: none
+- wedding: https://www.reethifaru.com/pdf/renewal-of-vows.pdf
 - spa_menu: https://www.reethifaru.com/pdf/coconut-spa.pdf
 - dining_menu: https://www.reethifaru.com/pdf/sunset-bar-menu.pdf
 - dive_prices: https://tablecells.com/api/v1/files/public/01M3BBAVWQNQ4HD8AS898Z0V9C-water-sports.pdf
 - events: none
 - calendar: https://www.reethifaru.com/pdf/festive-season-2026-27.pdf
+- destination_dining: none
 
 ## Gaps
 
-- wedding brochure
 - events/MICE document
 - fact: kids club
 
-_Facts extracted by rules from 25 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._
+_Facts extracted by rules from 28 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

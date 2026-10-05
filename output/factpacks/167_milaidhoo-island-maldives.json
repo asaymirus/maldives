@@ -60,6 +60,16 @@
    "type": "bar"
   },
   {
+   "name": "– A Floating Lounge and Restaurant",
+   "cuisine": null,
+   "type": "restaurant"
+  },
+  {
+   "name": "Ocean Restaurant",
+   "cuisine": null,
+   "type": "restaurant"
+  },
+  {
    "name": "The Shoreline Grill",
    "cuisine": null,
    "type": "restaurant"
@@ -71,11 +81,6 @@
   },
   {
    "name": "Shoreline Grill Wine Room",
-   "cuisine": null,
-   "type": "restaurant"
-  },
-  {
-   "name": "Ocean Restaurant",
    "cuisine": null,
    "type": "restaurant"
   },
@@ -134,10 +139,13 @@
    "windsurfing",
    "catamaran",
    "manta",
+   "sunset cruise",
    "whale shark",
    "stand-up paddle",
-   "sunset cruise",
-   "snorkeling"
+   "snorkeling",
+   "surfing",
+   "paddleboard",
+   "kayaking"
   ],
   "price_list_doc": "https://d1l3wviaauwkfu.cloudfront.net/2019/01/OceanStories_July-2025.pdf"
  },
@@ -148,13 +156,14 @@
   "turtle",
   "picnic",
   "manta",
-  "whale shark",
-  "castaway",
   "private dinner",
   "cinema",
+  "whale shark",
+  "castaway",
   "island hopping",
   "stargazing",
   "cooking class",
+  "sunset fishing",
   "big game fishing"
  ],
  "kids_family": {
@@ -173,10 +182,38 @@
  ],
  "weddings": {
   "offered": true,
-  "vow_renewal": null,
+  "vow_renewal": true,
   "venues": [],
   "packages": [],
   "brochure_doc": "https://d1l3wviaauwkfu.cloudfront.net/2026/03/Greg-Finck-to-Host-Exclusive-Photography-Workshop-at-Milaidhoo-Maldives.pdf"
+ },
+ "destination_dining": {
+  "experiences": [
+   "in villa dining",
+   "sandbank escape",
+   "sunset cruise",
+   "sandbank dinner",
+   "sandbank breakfast",
+   "floating breakfast",
+   "private dining",
+   "destination dining",
+   "candlelit dinner",
+   "romantic dining",
+   "romantic dinner",
+   "in-villa dining",
+   "beach dinner",
+   "romantic beach dinner",
+   "anniversary celebration",
+   "dinner under the stars",
+   "sandbank picnic",
+   "sandbank experience",
+   "private chef",
+   "chefs table",
+   "wine pairing"
+  ],
+  "packages": [],
+  "sandbank_events": true,
+  "doc": "https://d1l3wviaauwkfu.cloudfront.net/2025/07/Destination-Dining-2025.pdf"
  },
  "events_mice": {
   "venues": [],
@@ -189,7 +226,8 @@
   "coral regeneration",
   "composting",
   "reef restoration",
-  "coral nursery"
+  "coral nursery",
+  "single-use plastic"
  ],
  "contacts_public": {
   "reservations_email": "reservations@milaidhoo.com",
@@ -204,9 +242,10 @@
   "dining_menu": "https://d1l3wviaauwkfu.cloudfront.net/2026/04/IVD-Food-2026.pdf",
   "dive_prices": "https://d1l3wviaauwkfu.cloudfront.net/2019/01/OceanStories_July-2025.pdf",
   "events": null,
-  "calendar": "https://d1l3wviaauwkfu.cloudfront.net/2026/07/Festive27-Digital_2.pdf"
+  "calendar": "https://d1l3wviaauwkfu.cloudfront.net/2026/07/Festive27-Digital_2.pdf",
+  "destination_dining": "https://d1l3wviaauwkfu.cloudfront.net/2025/07/Destination-Dining-2025.pdf"
  },
- "documents_count": 90,
+ "documents_count": 91,
  "gaps": [
   "factsheet",
   "events/MICE document",
@@ -303,6 +342,41 @@
     "value": "Baa Atoll",
     "source_url": "https://www.milaidhoo.com/things-to-do/diving.html",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "Baa Atoll",
+    "source_url": "https://www.milaidhoo.com/10-reasons-to-experience-the-magic-of-baa-atoll.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Baa Atoll",
+    "source_url": "https://www.milaidhoo.com/a-celebration-of-maldivian-independence-at-milaidhoo.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Baa Atoll",
+    "source_url": "https://www.milaidhoo.com/blog/ultimate-honeymoon-in-the-maldives",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Baa Atoll",
+    "source_url": "https://www.milaidhoo.com/milaidhoo-the-most-romantic-place-on-earth.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Baa Atoll",
+    "source_url": "https://www.milaidhoo.com/stories/milaidhoo-island-maldives-the-honeymoon-destination-thats-also-perfect-for-a-solo-traveller.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Baa Atoll",
+    "source_url": "https://www.milaidhoo.com/the-maldives-bucket-list-spend-the-night-on-milaidhoos-private-sandbank.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Baa Atoll",
+    "source_url": "https://www.milaidhoo.com/the-perfect-ten-unmissable-experiences-as-milaidhoo-enters-its-10th-year.html",
+    "as_of": "2026-10-05"
    },
    {
     "value": "Baa Atoll",
@@ -440,6 +514,26 @@
     "value": "Milaidhoo",
     "source_url": "https://www.milaidhoo.com/ar/fluorescence-in-the-ocean-at-milaidhoo-island-maldives.html",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "Milaidhoo",
+    "source_url": "https://www.milaidhoo.com/ar/sleep-under-the-stars-on-your-private-sandbank.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Milaidhoo",
+    "source_url": "https://www.milaidhoo.com/de/sleep-under-the-stars-on-your-private-sandbank.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Milaidhoo",
+    "source_url": "https://www.milaidhoo.com/ja/sleep-under-the-stars-on-your-private-sandbank.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Milaidhoo",
+    "source_url": "https://www.milaidhoo.com/ru/sleep-under-the-stars-on-your-private-sandbank.html",
+    "as_of": "2026-10-05"
    }
   ],
   "spa.name": [
@@ -492,6 +586,26 @@
     "value": "Serenity Spa",
     "source_url": "https://www.milaidhoo.com/enchanting-easter-escape-at-milaidhoo-maldives",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.milaidhoo.com/5-reasons-why-maldives-is-the-perfect-honeymoon-destination.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Serenity Spa",
+    "source_url": "https://www.milaidhoo.com/blog/4-Mood-Dining-experiences-at-Milaidhoo",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Serenity Spa",
+    "source_url": "https://www.milaidhoo.com/blog/ultimate-honeymoon-in-the-maldives",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Serenity Spa",
+    "source_url": "https://www.milaidhoo.com/milaidhoo-the-most-romantic-place-on-earth.html",
+    "as_of": "2026-10-05"
    },
    {
     "value": "Facilities\nThe Serenity Spa",
@@ -726,6 +840,116 @@
     "as_of": "2026-10-04"
    },
    {
+    "value": "House Reef, with its fascinating Milaidhoo Wall and Milaidhoo Caves, offers a fascinating glimpse into this rich ecosystem, just steps from your villa",
+    "source_url": "https://www.milaidhoo.com/10-reasons-to-experience-the-magic-of-baa-atoll.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "house reef and radical rest",
+    "source_url": "https://www.milaidhoo.com/5-reasons-why-maldives-is-the-perfect-honeymoon-destination.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "house reef and radical rest",
+    "source_url": "https://www.milaidhoo.com/a-celebration-of-maldivian-independence-at-milaidhoo.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "House Reef",
+    "source_url": "https://www.milaidhoo.com/ar/sleep-under-the-stars-on-your-private-sandbank.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "house reef and radical rest",
+    "source_url": "https://www.milaidhoo.com/blog/4-Mood-Dining-experiences-at-Milaidhoo",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "house reef and radical rest",
+    "source_url": "https://www.milaidhoo.com/blog/Milaidhoo-Maldives-Celebrates-its-Festive-Season-Story+",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "house reef and radical rest",
+    "source_url": "https://www.milaidhoo.com/blog/adventurous-experiences-at-Milaidhoo",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "house reef and radical rest",
+    "source_url": "https://www.milaidhoo.com/blog/most-romantic-restaurants-in-the-maldives",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "house reef and radical rest",
+    "source_url": "https://www.milaidhoo.com/blog/ultimate-honeymoon-in-the-maldives",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "house reef and radical rest",
+    "source_url": "https://www.milaidhoo.com/crafting-the-perfect-maldives-honeymoon-a-romantic-escape-like-no-other.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "House Reef",
+    "source_url": "https://www.milaidhoo.com/de/sleep-under-the-stars-on-your-private-sandbank.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "house reef and radical rest",
+    "source_url": "https://www.milaidhoo.com/experience-luxury-in-maldives-overwater-villas-your-dream-stay-awaits.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "House Reef offers an otherworldly way to embrace the philosophy of slow living",
+    "source_url": "https://www.milaidhoo.com/experience-slow-living-at-its-best-in-the-maldives.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "house reef and radical rest",
+    "source_url": "https://www.milaidhoo.com/is-maldives-a-good-place-for-honeymoon-now.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "House Reef",
+    "source_url": "https://www.milaidhoo.com/ja/sleep-under-the-stars-on-your-private-sandbank.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "house reef and radical rest",
+    "source_url": "https://www.milaidhoo.com/milaidhoo-the-most-romantic-place-on-earth.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "House Reef",
+    "source_url": "https://www.milaidhoo.com/ru/sleep-under-the-stars-on-your-private-sandbank.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "house reef snorkelling",
+    "source_url": "https://www.milaidhoo.com/special-offers/10th-anniversary.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "house reef and radical rest",
+    "source_url": "https://www.milaidhoo.com/the-fishing-experience-of-milaidhoo.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "house reef and radical rest",
+    "source_url": "https://www.milaidhoo.com/the-maldives-bucket-list-spend-the-night-on-milaidhoos-private-sandbank.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "house reef",
+    "source_url": "https://www.milaidhoo.com/the-perfect-ten-unmissable-experiences-as-milaidhoo-enters-its-10th-year.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "house reef and radical rest",
+    "source_url": "https://www.milaidhoo.com/ultimate-guide-to-dining-experiences",
+    "as_of": "2026-10-05"
+   },
+   {
     "value": "house reef",
     "source_url": "https://www.neoscapesmaldives.com/resort/milaidhoo-island-maldives/",
     "as_of": "2026-10-04"
@@ -795,6 +1019,31 @@
    {
     "value": "sailing",
     "source_url": "https://d1l3wviaauwkfu.cloudfront.net/2019/01/OceanStories_July-2025.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://d1l3wviaauwkfu.cloudfront.net/2025/07/Exploring-Adventures_July2025.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "catamaran",
+    "source_url": "https://d1l3wviaauwkfu.cloudfront.net/2025/07/Exploring-Adventures_July2025.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://d1l3wviaauwkfu.cloudfront.net/2025/07/Exploring-Adventures_July2025.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://d1l3wviaauwkfu.cloudfront.net/2025/07/Exploring-Adventures_July2025.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "sailing",
+    "source_url": "https://d1l3wviaauwkfu.cloudfront.net/2025/07/Exploring-Adventures_July2025.pdf",
     "as_of": 2025
    },
    {
@@ -1339,6 +1588,266 @@
    },
    {
     "value": "snorkelling",
+    "source_url": "https://www.milaidhoo.com/10-reasons-to-experience-the-magic-of-baa-atoll.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.milaidhoo.com/10-reasons-to-experience-the-magic-of-baa-atoll.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.milaidhoo.com/10-reasons-to-experience-the-magic-of-baa-atoll.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.milaidhoo.com/ar/sleep-under-the-stars-on-your-private-sandbank.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "dolphin cruise",
+    "source_url": "https://www.milaidhoo.com/ar/sleep-under-the-stars-on-your-private-sandbank.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.milaidhoo.com/ar/sleep-under-the-stars-on-your-private-sandbank.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.milaidhoo.com/ar/sleep-under-the-stars-on-your-private-sandbank.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sailing",
+    "source_url": "https://www.milaidhoo.com/ar/sleep-under-the-stars-on-your-private-sandbank.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.milaidhoo.com/blog/Milaidhoo-Maldives-Celebrates-its-Festive-Season-Story+",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.milaidhoo.com/blog/adventurous-experiences-at-Milaidhoo",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "surfing",
+    "source_url": "https://www.milaidhoo.com/blog/adventurous-experiences-at-Milaidhoo",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "paddleboard",
+    "source_url": "https://www.milaidhoo.com/blog/adventurous-experiences-at-Milaidhoo",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.milaidhoo.com/blog/adventurous-experiences-at-Milaidhoo",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.milaidhoo.com/blog/adventurous-experiences-at-Milaidhoo",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sailing",
+    "source_url": "https://www.milaidhoo.com/blog/most-romantic-restaurants-in-the-maldives",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sailing",
+    "source_url": "https://www.milaidhoo.com/crafting-the-perfect-maldives-honeymoon-a-romantic-escape-like-no-other.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.milaidhoo.com/de/sleep-under-the-stars-on-your-private-sandbank.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "dolphin cruise",
+    "source_url": "https://www.milaidhoo.com/de/sleep-under-the-stars-on-your-private-sandbank.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.milaidhoo.com/de/sleep-under-the-stars-on-your-private-sandbank.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.milaidhoo.com/de/sleep-under-the-stars-on-your-private-sandbank.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sailing",
+    "source_url": "https://www.milaidhoo.com/de/sleep-under-the-stars-on-your-private-sandbank.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.milaidhoo.com/experience-slow-living-at-its-best-in-the-maldives.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "kayaking",
+    "source_url": "https://www.milaidhoo.com/experience-slow-living-at-its-best-in-the-maldives.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.milaidhoo.com/ja/sleep-under-the-stars-on-your-private-sandbank.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "dolphin cruise",
+    "source_url": "https://www.milaidhoo.com/ja/sleep-under-the-stars-on-your-private-sandbank.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.milaidhoo.com/ja/sleep-under-the-stars-on-your-private-sandbank.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.milaidhoo.com/ja/sleep-under-the-stars-on-your-private-sandbank.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sailing",
+    "source_url": "https://www.milaidhoo.com/ja/sleep-under-the-stars-on-your-private-sandbank.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.milaidhoo.com/milaidhoo-the-most-romantic-place-on-earth.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.milaidhoo.com/milaidhoo-the-most-romantic-place-on-earth.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.milaidhoo.com/milaidhoo-the-most-romantic-place-on-earth.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.milaidhoo.com/milaidhoo-the-most-romantic-place-on-earth.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.milaidhoo.com/ru/sleep-under-the-stars-on-your-private-sandbank.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "dolphin cruise",
+    "source_url": "https://www.milaidhoo.com/ru/sleep-under-the-stars-on-your-private-sandbank.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.milaidhoo.com/ru/sleep-under-the-stars-on-your-private-sandbank.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.milaidhoo.com/ru/sleep-under-the-stars-on-your-private-sandbank.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sailing",
+    "source_url": "https://www.milaidhoo.com/ru/sleep-under-the-stars-on-your-private-sandbank.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.milaidhoo.com/special-offers/10th-anniversary.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.milaidhoo.com/special-offers/book-direct-experience-more.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.milaidhoo.com/special-offers/book-direct-experience-more.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "dolphin cruise",
+    "source_url": "https://www.milaidhoo.com/special-offers/book-direct-experience-more.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.milaidhoo.com/special-offers/book-direct-experience-more.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.milaidhoo.com/stories/milaidhoo-island-maldives-the-honeymoon-destination-thats-also-perfect-for-a-solo-traveller.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.milaidhoo.com/stories/milaidhoo-island-maldives-the-honeymoon-destination-thats-also-perfect-for-a-solo-traveller.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "dolphin cruise",
+    "source_url": "https://www.milaidhoo.com/stories/milaidhoo-island-maldives-the-honeymoon-destination-thats-also-perfect-for-a-solo-traveller.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sailing",
+    "source_url": "https://www.milaidhoo.com/stories/milaidhoo-island-maldives-the-honeymoon-destination-thats-also-perfect-for-a-solo-traveller.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.milaidhoo.com/the-fishing-experience-of-milaidhoo.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.milaidhoo.com/the-maldives-bucket-list-spend-the-night-on-milaidhoos-private-sandbank.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.milaidhoo.com/the-maldives-bucket-list-spend-the-night-on-milaidhoos-private-sandbank.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.milaidhoo.com/the-perfect-ten-unmissable-experiences-as-milaidhoo-enters-its-10th-year.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "dolphin cruise",
+    "source_url": "https://www.milaidhoo.com/the-perfect-ten-unmissable-experiences-as-milaidhoo-enters-its-10th-year.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.milaidhoo.com/valentines-in-the-maldives-4-romantic-valentines-treats.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "snorkelling",
     "source_url": "https://www.neoscapesmaldives.com/resort/milaidhoo-island-maldives/",
     "as_of": "2026-10-04"
    },
@@ -1462,6 +1971,36 @@
    {
     "value": "turtle",
     "source_url": "https://d1l3wviaauwkfu.cloudfront.net/2019/01/OceanStories_July-2025.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "local island",
+    "source_url": "https://d1l3wviaauwkfu.cloudfront.net/2025/07/Exploring-Adventures_July2025.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://d1l3wviaauwkfu.cloudfront.net/2025/07/Exploring-Adventures_July2025.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://d1l3wviaauwkfu.cloudfront.net/2025/07/Exploring-Adventures_July2025.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "picnic",
+    "source_url": "https://d1l3wviaauwkfu.cloudfront.net/2025/07/Exploring-Adventures_July2025.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "private dinner",
+    "source_url": "https://d1l3wviaauwkfu.cloudfront.net/2025/07/Exploring-Adventures_July2025.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "cinema",
+    "source_url": "https://d1l3wviaauwkfu.cloudfront.net/2025/07/Exploring-Adventures_July2025.pdf",
     "as_of": 2025
    },
    {
@@ -2225,6 +2764,376 @@
     "as_of": "2026-10-04"
    },
    {
+    "value": "island hopping",
+    "source_url": "https://www.milaidhoo.com/10-reasons-to-experience-the-magic-of-baa-atoll.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "local island",
+    "source_url": "https://www.milaidhoo.com/10-reasons-to-experience-the-magic-of-baa-atoll.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.milaidhoo.com/10-reasons-to-experience-the-magic-of-baa-atoll.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.milaidhoo.com/10-reasons-to-experience-the-magic-of-baa-atoll.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.milaidhoo.com/10-reasons-to-experience-the-magic-of-baa-atoll.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.milaidhoo.com/5-reasons-why-maldives-is-the-perfect-honeymoon-destination.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.milaidhoo.com/5-reasons-why-maldives-is-the-perfect-honeymoon-destination.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.milaidhoo.com/ar/sleep-under-the-stars-on-your-private-sandbank.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.milaidhoo.com/ar/sleep-under-the-stars-on-your-private-sandbank.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.milaidhoo.com/ar/sleep-under-the-stars-on-your-private-sandbank.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.milaidhoo.com/ar/sleep-under-the-stars-on-your-private-sandbank.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.milaidhoo.com/ar/sleep-under-the-stars-on-your-private-sandbank.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "castaway",
+    "source_url": "https://www.milaidhoo.com/ar/sleep-under-the-stars-on-your-private-sandbank.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.milaidhoo.com/blog/4-Mood-Dining-experiences-at-Milaidhoo",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.milaidhoo.com/blog/Milaidhoo-Maldives-Celebrates-its-Festive-Season-Story+",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "cooking class",
+    "source_url": "https://www.milaidhoo.com/blog/Milaidhoo-Maldives-Celebrates-its-Festive-Season-Story+",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.milaidhoo.com/blog/adventurous-experiences-at-Milaidhoo",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "picnic",
+    "source_url": "https://www.milaidhoo.com/blog/adventurous-experiences-at-Milaidhoo",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.milaidhoo.com/blog/most-romantic-restaurants-in-the-maldives",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "island hopping",
+    "source_url": "https://www.milaidhoo.com/blog/ultimate-honeymoon-in-the-maldives",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "local island",
+    "source_url": "https://www.milaidhoo.com/blog/ultimate-honeymoon-in-the-maldives",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "island hopping",
+    "source_url": "https://www.milaidhoo.com/crafting-the-perfect-maldives-honeymoon-a-romantic-escape-like-no-other.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.milaidhoo.com/crafting-the-perfect-maldives-honeymoon-a-romantic-escape-like-no-other.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.milaidhoo.com/crafting-the-perfect-maldives-honeymoon-a-romantic-escape-like-no-other.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "picnic",
+    "source_url": "https://www.milaidhoo.com/crafting-the-perfect-maldives-honeymoon-a-romantic-escape-like-no-other.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "stargazing",
+    "source_url": "https://www.milaidhoo.com/crafting-the-perfect-maldives-honeymoon-a-romantic-escape-like-no-other.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "castaway",
+    "source_url": "https://www.milaidhoo.com/crafting-the-perfect-maldives-honeymoon-a-romantic-escape-like-no-other.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.milaidhoo.com/de/sleep-under-the-stars-on-your-private-sandbank.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.milaidhoo.com/de/sleep-under-the-stars-on-your-private-sandbank.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.milaidhoo.com/de/sleep-under-the-stars-on-your-private-sandbank.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.milaidhoo.com/de/sleep-under-the-stars-on-your-private-sandbank.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.milaidhoo.com/de/sleep-under-the-stars-on-your-private-sandbank.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "castaway",
+    "source_url": "https://www.milaidhoo.com/de/sleep-under-the-stars-on-your-private-sandbank.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.milaidhoo.com/experience-luxury-in-maldives-overwater-villas-your-dream-stay-awaits.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.milaidhoo.com/ja/sleep-under-the-stars-on-your-private-sandbank.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.milaidhoo.com/ja/sleep-under-the-stars-on-your-private-sandbank.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.milaidhoo.com/ja/sleep-under-the-stars-on-your-private-sandbank.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.milaidhoo.com/ja/sleep-under-the-stars-on-your-private-sandbank.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.milaidhoo.com/ja/sleep-under-the-stars-on-your-private-sandbank.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "castaway",
+    "source_url": "https://www.milaidhoo.com/ja/sleep-under-the-stars-on-your-private-sandbank.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.milaidhoo.com/milaidhoo-the-most-romantic-place-on-earth.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.milaidhoo.com/milaidhoo-the-most-romantic-place-on-earth.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.milaidhoo.com/milaidhoo-the-most-romantic-place-on-earth.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "stargazing",
+    "source_url": "https://www.milaidhoo.com/milaidhoo-the-most-romantic-place-on-earth.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "private dinner",
+    "source_url": "https://www.milaidhoo.com/milaidhoo-the-most-romantic-place-on-earth.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "castaway",
+    "source_url": "https://www.milaidhoo.com/milaidhoo-the-most-romantic-place-on-earth.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "cinema",
+    "source_url": "https://www.milaidhoo.com/milaidhoo-the-most-romantic-place-on-earth.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.milaidhoo.com/notes-from-a-chef/destination-dining",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "picnic",
+    "source_url": "https://www.milaidhoo.com/notes-from-a-chef/destination-dining",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.milaidhoo.com/ru/sleep-under-the-stars-on-your-private-sandbank.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.milaidhoo.com/ru/sleep-under-the-stars-on-your-private-sandbank.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.milaidhoo.com/ru/sleep-under-the-stars-on-your-private-sandbank.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.milaidhoo.com/ru/sleep-under-the-stars-on-your-private-sandbank.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.milaidhoo.com/ru/sleep-under-the-stars-on-your-private-sandbank.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "castaway",
+    "source_url": "https://www.milaidhoo.com/ru/sleep-under-the-stars-on-your-private-sandbank.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.milaidhoo.com/special-offers/book-direct-experience-more.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sunset fishing",
+    "source_url": "https://www.milaidhoo.com/special-offers/book-direct-experience-more.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.milaidhoo.com/special-offers/book-direct-experience-more.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.milaidhoo.com/stories/milaidhoo-island-maldives-the-honeymoon-destination-thats-also-perfect-for-a-solo-traveller.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.milaidhoo.com/stories/milaidhoo-island-maldives-the-honeymoon-destination-thats-also-perfect-for-a-solo-traveller.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.milaidhoo.com/stories/milaidhoo-island-maldives-the-honeymoon-destination-thats-also-perfect-for-a-solo-traveller.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "picnic",
+    "source_url": "https://www.milaidhoo.com/stories/milaidhoo-island-maldives-the-honeymoon-destination-thats-also-perfect-for-a-solo-traveller.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "cinema",
+    "source_url": "https://www.milaidhoo.com/stories/milaidhoo-island-maldives-the-honeymoon-destination-thats-also-perfect-for-a-solo-traveller.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "big game fishing",
+    "source_url": "https://www.milaidhoo.com/the-fishing-experience-of-milaidhoo.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.milaidhoo.com/the-maldives-bucket-list-spend-the-night-on-milaidhoos-private-sandbank.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.milaidhoo.com/the-maldives-bucket-list-spend-the-night-on-milaidhoos-private-sandbank.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "picnic",
+    "source_url": "https://www.milaidhoo.com/the-maldives-bucket-list-spend-the-night-on-milaidhoos-private-sandbank.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "local island",
+    "source_url": "https://www.milaidhoo.com/the-perfect-ten-unmissable-experiences-as-milaidhoo-enters-its-10th-year.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.milaidhoo.com/the-perfect-ten-unmissable-experiences-as-milaidhoo-enters-its-10th-year.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "cinema",
+    "source_url": "https://www.milaidhoo.com/the-perfect-ten-unmissable-experiences-as-milaidhoo-enters-its-10th-year.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "cooking class",
+    "source_url": "https://www.milaidhoo.com/the-perfect-ten-unmissable-experiences-as-milaidhoo-enters-its-10th-year.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.milaidhoo.com/ultimate-guide-to-dining-experiences",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "castaway",
+    "source_url": "https://www.milaidhoo.com/ultimate-guide-to-dining-experiences",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.milaidhoo.com/valentines-in-the-maldives-4-romantic-valentines-treats.html",
+    "as_of": "2026-10-05"
+   },
+   {
     "value": "sandbank",
     "source_url": "https://www.neoscapesmaldives.com/resort/milaidhoo-island-maldives/",
     "as_of": "2026-10-04"
@@ -2493,6 +3402,81 @@
    },
    {
     "value": "yoga",
+    "source_url": "https://www.milaidhoo.com/5-reasons-why-maldives-is-the-perfect-honeymoon-destination.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.milaidhoo.com/ar/sleep-under-the-stars-on-your-private-sandbank.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.milaidhoo.com/blog/4-Mood-Dining-experiences-at-Milaidhoo",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "meditation",
+    "source_url": "https://www.milaidhoo.com/blog/4-Mood-Dining-experiences-at-Milaidhoo",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "steam",
+    "source_url": "https://www.milaidhoo.com/blog/4-Mood-Dining-experiences-at-Milaidhoo",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.milaidhoo.com/de/sleep-under-the-stars-on-your-private-sandbank.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.milaidhoo.com/experience-slow-living-at-its-best-in-the-maldives.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "meditation",
+    "source_url": "https://www.milaidhoo.com/experience-slow-living-at-its-best-in-the-maldives.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.milaidhoo.com/ja/sleep-under-the-stars-on-your-private-sandbank.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.milaidhoo.com/milaidhoo-the-most-romantic-place-on-earth.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "meditation",
+    "source_url": "https://www.milaidhoo.com/milaidhoo-the-most-romantic-place-on-earth.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.milaidhoo.com/ru/sleep-under-the-stars-on-your-private-sandbank.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.milaidhoo.com/special-offers/book-direct-experience-more.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.milaidhoo.com/stories/milaidhoo-island-maldives-the-honeymoon-destination-thats-also-perfect-for-a-solo-traveller.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.milaidhoo.com/the-maldives-bucket-list-spend-the-night-on-milaidhoos-private-sandbank.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "yoga",
     "source_url": "https://www.neoscapesmaldives.com/resort/milaidhoo-island-maldives/",
     "as_of": "2026-10-04"
    },
@@ -2630,6 +3614,21 @@
    },
    {
     "value": "marine biologist",
+    "source_url": "https://www.milaidhoo.com/10-reasons-to-experience-the-magic-of-baa-atoll.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "single-use plastic",
+    "source_url": "https://www.milaidhoo.com/10-reasons-to-experience-the-magic-of-baa-atoll.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "marine biologist",
+    "source_url": "https://www.milaidhoo.com/the-perfect-ten-unmissable-experiences-as-milaidhoo-enters-its-10th-year.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "marine biologist",
     "source_url": "https://www.neoscapesmaldives.com/resort/milaidhoo-island-maldives/",
     "as_of": "2026-10-04"
    }
@@ -2659,6 +3658,46 @@
     "value": "+960 660 04 84",
     "source_url": "https://www.milaidhoo.com/sleep-under-the-stars-on-your-private-sandbank.html",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 660 7788",
+    "source_url": "https://www.milaidhoo.com/10-reasons-to-experience-the-magic-of-baa-atoll.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "+960 660 7788",
+    "source_url": "https://www.milaidhoo.com/a-celebration-of-maldivian-independence-at-milaidhoo.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "+960 660 04 84",
+    "source_url": "https://www.milaidhoo.com/ar/sleep-under-the-stars-on-your-private-sandbank.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "+960 660 04 84",
+    "source_url": "https://www.milaidhoo.com/de/sleep-under-the-stars-on-your-private-sandbank.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "+960 660 04 84",
+    "source_url": "https://www.milaidhoo.com/ja/sleep-under-the-stars-on-your-private-sandbank.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "+960 660 7788",
+    "source_url": "https://www.milaidhoo.com/milaidhoo-the-most-romantic-place-on-earth.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "+960 660 04 84",
+    "source_url": "https://www.milaidhoo.com/ru/sleep-under-the-stars-on-your-private-sandbank.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "+960 660 7788",
+    "source_url": "https://www.milaidhoo.com/the-maldives-bucket-list-spend-the-night-on-milaidhoos-private-sandbank.html",
+    "as_of": "2026-10-05"
    },
    {
     "value": "+960 736 5425",
@@ -2693,6 +3732,16 @@
     "as_of": 2025
    },
    {
+    "value": "speedboat",
+    "source_url": "https://d1l3wviaauwkfu.cloudfront.net/2025/07/Exploring-Adventures_July2025.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "yacht",
+    "source_url": "https://d1l3wviaauwkfu.cloudfront.net/2025/07/Exploring-Adventures_July2025.pdf",
+    "as_of": 2025
+   },
+   {
     "value": "yacht",
     "source_url": "https://www.milaidhoo.com/sleep-under-the-stars-on-your-private-sandbank.html",
     "as_of": "2026-10-04"
@@ -2706,6 +3755,46 @@
     "value": "yacht",
     "source_url": "https://www.milaidhoo.com/maldives-bucket-list-5-must-dos-when-travelling-to-maldives.html",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "yacht",
+    "source_url": "https://www.milaidhoo.com/ar/sleep-under-the-stars-on-your-private-sandbank.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "yacht",
+    "source_url": "https://www.milaidhoo.com/blog/Milaidhoo-Maldives-Celebrates-its-Festive-Season-Story+",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "yacht",
+    "source_url": "https://www.milaidhoo.com/crafting-the-perfect-maldives-honeymoon-a-romantic-escape-like-no-other.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "yacht",
+    "source_url": "https://www.milaidhoo.com/de/sleep-under-the-stars-on-your-private-sandbank.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "yacht",
+    "source_url": "https://www.milaidhoo.com/ja/sleep-under-the-stars-on-your-private-sandbank.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "yacht",
+    "source_url": "https://www.milaidhoo.com/ru/sleep-under-the-stars-on-your-private-sandbank.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.milaidhoo.com/stories/milaidhoo-island-maldives-the-honeymoon-destination-thats-also-perfect-for-a-solo-traveller.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "yacht",
+    "source_url": "https://www.milaidhoo.com/the-maldives-bucket-list-spend-the-night-on-milaidhoos-private-sandbank.html",
+    "as_of": "2026-10-05"
    },
    {
     "value": "seaplane",
@@ -2847,6 +3936,36 @@
    },
    {
     "value": true,
+    "source_url": "https://www.milaidhoo.com/5-reasons-why-maldives-is-the-perfect-honeymoon-destination.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.milaidhoo.com/a-love-story/honeymoons.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.milaidhoo.com/blog/ultimate-honeymoon-in-the-maldives",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.milaidhoo.com/crafting-the-perfect-maldives-honeymoon-a-romantic-escape-like-no-other.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.milaidhoo.com/is-maldives-a-good-place-for-honeymoon-now.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.milaidhoo.com/milaidhoo-the-most-romantic-place-on-earth.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": true,
     "source_url": "https://www.neoscapesmaldives.com/resort/milaidhoo-island-maldives/",
     "as_of": "2026-10-04"
    }
@@ -2868,6 +3987,11 @@
     "as_of": "2026-10-04"
    },
    {
+    "value": "HB",
+    "source_url": "https://www.milaidhoo.com/crafting-the-perfect-maldives-honeymoon-a-romantic-escape-like-no-other.html",
+    "as_of": "2026-10-05"
+   },
+   {
     "value": "Dine Around",
     "source_url": "https://www.neoscapesmaldives.com/resort/milaidhoo-island-maldives/",
     "as_of": "2026-10-04"
@@ -2876,6 +4000,385 @@
     "value": "AI",
     "source_url": "https://letsgomaldives.com/news/milaidhoo-maldives-elevates-culinary-travel-with-a-chateau-minuty-wine-pairing-dinner/",
     "as_of": "2026-10-04"
+   }
+  ],
+  "destination_dining.experiences": [
+   {
+    "value": "in villa dining",
+    "source_url": "https://d1l3wviaauwkfu.cloudfront.net/2026/04/IVD-Food-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "in villa dining",
+    "source_url": "https://d1l3wviaauwkfu.cloudfront.net/2026/04/IVD-Food-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "in villa dining",
+    "source_url": "https://d1l3wviaauwkfu.cloudfront.net/2026/04/IVD-Food-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "in villa dining",
+    "source_url": "https://d1l3wviaauwkfu.cloudfront.net/2026/04/IVD-Food-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "in villa dining",
+    "source_url": "https://d1l3wviaauwkfu.cloudfront.net/2026/04/IVD-Food-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "in villa dining",
+    "source_url": "https://d1l3wviaauwkfu.cloudfront.net/2026/04/IVD-Food-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "in villa dining",
+    "source_url": "https://d1l3wviaauwkfu.cloudfront.net/2026/04/IVD-Food-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "in villa dining",
+    "source_url": "https://d1l3wviaauwkfu.cloudfront.net/2026/04/IVD-Food-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "in villa dining",
+    "source_url": "https://d1l3wviaauwkfu.cloudfront.net/2026/04/IVD-Food-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "in villa dining",
+    "source_url": "https://d1l3wviaauwkfu.cloudfront.net/2026/04/IVD-Food-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "sandbank escape",
+    "source_url": "https://d1l3wviaauwkfu.cloudfront.net/2025/07/Exploring-Adventures_July2025.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://d1l3wviaauwkfu.cloudfront.net/2025/07/Exploring-Adventures_July2025.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "sandbank dinner",
+    "source_url": "https://d1l3wviaauwkfu.cloudfront.net/2025/07/Exploring-Adventures_July2025.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "sandbank breakfast",
+    "source_url": "https://d1l3wviaauwkfu.cloudfront.net/2025/07/Exploring-Adventures_July2025.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://d1l3wviaauwkfu.cloudfront.net/2025/07/Exploring-Adventures_July2025.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "private dining",
+    "source_url": "https://www.milaidhoo.com/romantic-escapes",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://www.milaidhoo.com/romantic-escapes",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "candlelit dinner",
+    "source_url": "https://www.milaidhoo.com/romantic-escapes",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "romantic dining",
+    "source_url": "https://www.milaidhoo.com/romantic-escapes",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.milaidhoo.com/special-offers/a-love-story.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.milaidhoo.com/special-offers/a-love-story.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "romantic dinner",
+    "source_url": "https://www.milaidhoo.com/special-offers/a-love-story.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "in-villa dining",
+    "source_url": "https://www.milaidhoo.com/de/notes-from-a-chef/in-villa-dining.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://www.milaidhoo.com/luxury-reinvented-10-irresistible-reasons-to-visit-milaidhoo-maldives.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "beach dinner",
+    "source_url": "https://www.milaidhoo.com/things-to-do.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://www.milaidhoo.com/blog/me-time-at-milaidhoo.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "candlelit dinner",
+    "source_url": "https://www.milaidhoo.com/milaidhoo-sees-stars.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "in-villa dining",
+    "source_url": "https://www.milaidhoo.com/accommodation/ocean-residence.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.milaidhoo.com/maldives-bucket-list-5-must-dos-when-travelling-to-maldives.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.milaidhoo.com/maldives-bucket-list-5-must-dos-when-travelling-to-maldives.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "private dining",
+    "source_url": "https://www.milaidhoo.com/enchanting-easter-escape-at-milaidhoo-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "private dining",
+    "source_url": "https://www.milaidhoo.com/10-reasons-to-experience-the-magic-of-baa-atoll.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "romantic beach dinner",
+    "source_url": "https://www.milaidhoo.com/5-reasons-why-maldives-is-the-perfect-honeymoon-destination.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "beach dinner",
+    "source_url": "https://www.milaidhoo.com/a-celebration-of-maldivian-independence-at-milaidhoo.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "candlelit dinner",
+    "source_url": "https://www.milaidhoo.com/a-love-story/honeymoons.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "anniversary celebration",
+    "source_url": "https://www.milaidhoo.com/blog/Milaidhoo-Maldives-Celebrates-its-Festive-Season-Story+",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "private dining",
+    "source_url": "https://www.milaidhoo.com/blog/most-romantic-restaurants-in-the-maldives",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://www.milaidhoo.com/crafting-the-perfect-maldives-honeymoon-a-romantic-escape-like-no-other.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://www.milaidhoo.com/crafting-the-perfect-maldives-honeymoon-a-romantic-escape-like-no-other.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "candlelit dinner",
+    "source_url": "https://www.milaidhoo.com/milaidhoo-the-most-romantic-place-on-earth.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "candlelit dinner",
+    "source_url": "https://www.milaidhoo.com/milaidhoo-the-most-romantic-place-on-earth.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://www.milaidhoo.com/notes-from-a-chef/destination-dining",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://www.milaidhoo.com/notes-from-a-chef/destination-dining",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "dinner under the stars",
+    "source_url": "https://www.milaidhoo.com/notes-from-a-chef/destination-dining",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "private dining",
+    "source_url": "https://www.milaidhoo.com/notes-from-a-chef/destination-dining",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "in-villa dining",
+    "source_url": "https://www.milaidhoo.com/notes-from-a-chef/destination-dining",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "in villa dining",
+    "source_url": "https://www.milaidhoo.com/notes-from-a-chef/destination-dining",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://www.milaidhoo.com/notes-from-a-chef/destination-dining",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://www.milaidhoo.com/special-offers/book-direct-experience-more.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://www.milaidhoo.com/special-offers/book-direct-experience-more.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sandbank picnic",
+    "source_url": "https://www.milaidhoo.com/the-maldives-bucket-list-spend-the-night-on-milaidhoos-private-sandbank.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sandbank experience",
+    "source_url": "https://www.milaidhoo.com/the-maldives-bucket-list-spend-the-night-on-milaidhoos-private-sandbank.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sandbank escape",
+    "source_url": "https://www.milaidhoo.com/the-maldives-bucket-list-spend-the-night-on-milaidhoos-private-sandbank.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.milaidhoo.com/the-maldives-bucket-list-spend-the-night-on-milaidhoos-private-sandbank.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://www.milaidhoo.com/the-maldives-bucket-list-spend-the-night-on-milaidhoos-private-sandbank.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "private chef",
+    "source_url": "https://www.milaidhoo.com/the-maldives-bucket-list-spend-the-night-on-milaidhoos-private-sandbank.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sandbank experience",
+    "source_url": "https://www.milaidhoo.com/the-maldives-bucket-list-spend-the-night-on-milaidhoos-private-sandbank.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "private dining",
+    "source_url": "https://www.milaidhoo.com/the-maldives-bucket-list-spend-the-night-on-milaidhoos-private-sandbank.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://www.milaidhoo.com/the-perfect-ten-unmissable-experiences-as-milaidhoo-enters-its-10th-year.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "chefs table",
+    "source_url": "https://www.milaidhoo.com/ultimate-guide-to-dining-experiences",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://www.milaidhoo.com/ultimate-guide-to-dining-experiences",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://www.milaidhoo.com/ultimate-guide-to-dining-experiences",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://www.milaidhoo.com/ultimate-guide-to-dining-experiences",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "candlelit dinner",
+    "source_url": "https://www.milaidhoo.com/ultimate-guide-to-dining-experiences",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://www.milaidhoo.com/ultimate-guide-to-dining-experiences",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.milaidhoo.com/valentines-in-the-maldives-4-romantic-valentines-treats.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "romantic beach dinner",
+    "source_url": "https://www.milaidhoo.com/valentines-in-the-maldives-4-romantic-valentines-treats.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "private chef",
+    "source_url": "https://www.neoscapesmaldives.com/resort/milaidhoo-island-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "in-villa dining",
+    "source_url": "https://www.neoscapesmaldives.com/resort/milaidhoo-island-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "in villa dining",
+    "source_url": "https://www.neoscapesmaldives.com/resort/milaidhoo-island-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "wine pairing",
+    "source_url": "https://letsgomaldives.com/news/milaidhoo-maldives-elevates-culinary-travel-with-a-chateau-minuty-wine-pairing-dinner/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://hummingbird.travel/property/milaidhoo-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://www.mymaldives.com/resort-guide/milaidhoo-island-maldives/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "destination_dining.sandbank_events": [
+   {
+    "value": true,
+    "source_url": "https://d1l3wviaauwkfu.cloudfront.net/2025/07/Exploring-Adventures_July2025.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": true,
+    "source_url": "https://www.milaidhoo.com/the-maldives-bucket-list-spend-the-night-on-milaidhoos-private-sandbank.html",
+    "as_of": "2026-10-05"
    }
   ],
   "dining": [
@@ -2896,6 +4399,42 @@
     },
     "source_url": "https://www.milaidhoo.com/notes-from-a-chef/compass-pool-bar.html",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "– A Floating Lounge and Restaurant",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.milaidhoo.com/ultimate-guide-to-dining-experiences",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": {
+     "name": "Ocean Restaurant",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.milaidhoo.com/ultimate-guide-to-dining-experiences",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": {
+     "name": "The Shoreline Grill",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.milaidhoo.com/ultimate-guide-to-dining-experiences",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": {
+     "name": "Compass Pool Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.milaidhoo.com/ultimate-guide-to-dining-experiences",
+    "as_of": "2026-10-05"
    },
    {
     "value": {
@@ -3055,6 +4594,11 @@
    },
    {
     "value": "opened 2016",
+    "source_url": "https://www.milaidhoo.com/stories/milaidhoo-island-maldives-the-honeymoon-destination-thats-also-perfect-for-a-solo-traveller.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "opened 2016",
     "source_url": "https://www.neoscapesmaldives.com/resort/milaidhoo-island-maldives/",
     "as_of": "2026-10-04"
    },
@@ -3082,6 +4626,16 @@
    },
    {
     "value": 50,
+    "source_url": "https://www.milaidhoo.com/10-reasons-to-experience-the-magic-of-baa-atoll.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": 50,
+    "source_url": "https://www.milaidhoo.com/milaidhoo-the-most-romantic-place-on-earth.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": 50,
     "source_url": "https://hummingbird.travel/property/milaidhoo-maldives",
     "as_of": "2026-10-04"
    },
@@ -3096,6 +4650,11 @@
     "value": "5-star",
     "source_url": "https://www.milaidhoo.com/romantic-escapes",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "5-star",
+    "source_url": "https://www.milaidhoo.com/10-reasons-to-experience-the-magic-of-baa-atoll.html",
+    "as_of": "2026-10-05"
    },
    {
     "value": "5-star",
@@ -3135,6 +4694,51 @@
     "as_of": "2026-10-04"
    },
    {
+    "value": "reservations@milaidhoo.com",
+    "source_url": "https://www.milaidhoo.com/ar/a-love-story/honeymoons.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "reservations@milaidhoo.com",
+    "source_url": "https://www.milaidhoo.com/ar/sleep-under-the-stars-on-your-private-sandbank.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "reservations@milaidhoo.com",
+    "source_url": "https://www.milaidhoo.com/blog/Milaidhoo-Maldives-Celebrates-its-Festive-Season-Story+",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "reservations@milaidhoo.com",
+    "source_url": "https://www.milaidhoo.com/de/a-love-story/honeymoons.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "reservations@milaidhoo.com",
+    "source_url": "https://www.milaidhoo.com/de/sleep-under-the-stars-on-your-private-sandbank.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "reservations@milaidhoo.com",
+    "source_url": "https://www.milaidhoo.com/ja/a-love-story/honeymoons.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "reservations@milaidhoo.com",
+    "source_url": "https://www.milaidhoo.com/ja/sleep-under-the-stars-on-your-private-sandbank.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "reservations@milaidhoo.com",
+    "source_url": "https://www.milaidhoo.com/ru/a-love-story/honeymoons.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "reservations@milaidhoo.com",
+    "source_url": "https://www.milaidhoo.com/ru/sleep-under-the-stars-on-your-private-sandbank.html",
+    "as_of": "2026-10-05"
+   },
+   {
     "value": "info@neoscapesmaldives.com",
     "source_url": "https://www.neoscapesmaldives.com/resort/milaidhoo-island-maldives/",
     "as_of": "2026-10-04"
@@ -3148,8 +4752,20 @@
    },
    {
     "value": "300 m x 180 m",
+    "source_url": "https://www.milaidhoo.com/10-reasons-to-experience-the-magic-of-baa-atoll.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "300 m x 180 m",
     "source_url": "https://www.neoscapesmaldives.com/resort/milaidhoo-island-maldives/",
     "as_of": "2026-10-04"
+   }
+  ],
+  "weddings.vow_renewal": [
+   {
+    "value": true,
+    "source_url": "https://www.milaidhoo.com/5-reasons-why-maldives-is-the-perfect-honeymoon-destination.html",
+    "as_of": "2026-10-05"
    }
   ],
   "villas.categories": [

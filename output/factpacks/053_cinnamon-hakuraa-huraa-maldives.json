@@ -170,6 +170,17 @@
   "packages": [],
   "brochure_doc": null
  },
+ "destination_dining": {
+  "experiences": [
+   "private dining",
+   "wine pairing",
+   "romantic dining",
+   "dine under the stars"
+  ],
+  "packages": [],
+  "sandbank_events": null,
+  "doc": null
+ },
  "events_mice": {
   "venues": [],
   "capacity_max": null,
@@ -203,7 +214,8 @@
   "dining_menu": "https://d18slle4wlf9ku.cloudfront.net/www.cinnamonhotels.com-1302818674/cms/pressroom/sapphire_dragon_menu.pdf",
   "dive_prices": null,
   "events": null,
-  "calendar": null
+  "calendar": null,
+  "destination_dining": null
  },
  "documents_count": 19,
  "gaps": [
@@ -403,6 +415,31 @@
    {
     "value": "Ari Atoll",
     "source_url": "https://www.cinnamonhotels.com/cinnamon-grand-colombo/dining/room-service",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Ari Atoll",
+    "source_url": "https://www.cinnamonhotels.com/cinnamon-bentota-beach/dining/destination-dining",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Ari Atoll",
+    "source_url": "https://www.cinnamonhotels.com/cinnamon-bey-beruwala/experiences",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Ari Atoll",
+    "source_url": "https://www.cinnamonhotels.com/cinnamon-citadel-kandy/dining/destination-dining",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Ari Atoll",
+    "source_url": "https://www.cinnamonhotels.com/cinnamon-citadel-kandy/experiences",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Ari Atoll",
+    "source_url": "https://www.cinnamonhotels.com/cinnamon-dhonveli-maldives/experiences",
     "as_of": "2026-10-05"
    },
    {
@@ -906,6 +943,38 @@
    },
    {
     "value": "beach volleyball",
+    "source_url": "https://www.tropicalsky.co.uk/indian-ocean-holidays/maldives/cinnamon-hakuraa-huraa-maldives-hotel",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "destination_dining.experiences": [
+   {
+    "value": "private dining",
+    "source_url": "https://d18slle4wlf9ku.cloudfront.net/www.cinnamonhotels.com-1302818674/cms/pressroom/john_keells_hotels_plc_annual_report_2425.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "private dining",
+    "source_url": "https://d18slle4wlf9ku.cloudfront.net/www.cinnamonhotels.com-1302818674/cms/pressroom/john_keells_hotels_plc_integrated_report_2024_25.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "wine pairing",
+    "source_url": "https://letsgomaldives.com/news/a-fresh-take-on-island-luxury-the-new-era-of-cinnamon-hakuraa-huraa-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "private dining",
+    "source_url": "https://visitmaldives.com/en/experience/private-sandbank-dining-at-cinnamon-hakuraa-huraa-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "romantic dining",
+    "source_url": "https://www.tropicalsky.co.uk/indian-ocean-holidays/maldives/cinnamon-hakuraa-huraa-maldives-hotel",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dine under the stars",
     "source_url": "https://www.tropicalsky.co.uk/indian-ocean-holidays/maldives/cinnamon-hakuraa-huraa-maldives-hotel",
     "as_of": "2026-10-04"
    }

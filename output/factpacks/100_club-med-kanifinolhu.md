@@ -2,13 +2,14 @@
 
 **Official site:** https://www.clubmed.us/r/kani/y (ok)  
 **Brand:** Club Med  
-**Atoll:** North Malé Atoll  **Island:** n/a  
+**Atoll:** North Malé Atoll  **Island:** San Salvador  
 **Opened/renovated:** opened 2024  **Rating:** n/a  
 **Transfer:** domestic flight, speedboat; minutes: {"speedboat": 25}  
 **Island size:** 60 ha  
 
 ## Villas (? total)
 
+- e clusive suites: count 43, ? sqm, max ?
 
 ## Dining
 
@@ -18,7 +19,7 @@
 - Main bar Exclusive Collection Bar (bar)
 - Underwater Restaurant Dining Experience (restaurant)
 
-Meal plans: AI
+Meal plans: AI, FB
 All-inclusive: All-Inclusive resort in the Maldives is simply paradise.
 
 ## Spa & wellness
@@ -30,9 +31,9 @@ All-inclusive: All-Inclusive resort in the Maldives is simply paradise.
 
 - Operator: n/a
 - House reef: house reef directly from the beach and is not recommended for guests primarily interested in snorkelling
-- Activities: snorkeling, scuba diving, surfing, catamaran, manta, sailing, fishing, snorkelling, kayaking, paddleboard, stand-up paddle
+- Activities: snorkeling, scuba diving, surfing, catamaran, manta, sailing, fishing, snorkelling, kayaking, paddleboard, windsurfing, kitesurfing, water skiing, wakeboarding, stand-up paddle
 - Price list: none
-- Excursions: sandbank, manta, picnic, dolphin, turtle
+- Excursions: sandbank, manta, picnic, dolphin, turtle, cinema
 
 ## Kids & family
 
@@ -40,10 +41,16 @@ All-inclusive: All-Inclusive resort in the Maldives is simply paradise.
 
 ## Weddings
 
-- Offered: None; vow renewal: None
+- Offered: True; vow renewal: None
 - Venues: n/a
 - Packages: n/a
 - Brochure: none
+
+## Destination dining
+
+- Experiences: anniversary celebration, sunset dinner, romantic dinner, dinner under the stars, underwater restaurant
+- Packages: n/a
+- Sandbank events: None; document: none
 
 ## Events / MICE
 
@@ -68,15 +75,14 @@ All-inclusive: All-Inclusive resort in the Maldives is simply paradise.
 - dive_prices: none
 - events: none
 - calendar: none
+- destination_dining: none
 
 ## Gaps
 
 - wedding brochure
 - events/MICE document
 - fact: villas.total
-- fact: villa categories
 - fact: dive operator
-- fact: weddings
 - fact: contacts
 
-_Facts extracted by rules from 17 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._
+_Facts extracted by rules from 21 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

@@ -202,6 +202,15 @@
   "packages": [],
   "brochure_doc": null
  },
+ "destination_dining": {
+  "experiences": [
+   "private dining",
+   "sunset cruise"
+  ],
+  "packages": [],
+  "sandbank_events": null,
+  "doc": null
+ },
  "events_mice": {
   "venues": [
    "Conference Room"
@@ -237,7 +246,8 @@
   "dining_menu": "https://d18slle4wlf9ku.cloudfront.net/www.cinnamonhotels.com-1302818674/cms/pressroom/sapphire_dragon_menu.pdf",
   "dive_prices": null,
   "events": null,
-  "calendar": "https://letsgomaldives.com/wp-content/uploads/2026/08/Dhonveli_Festive-Brochure.pdf"
+  "calendar": "https://letsgomaldives.com/wp-content/uploads/2026/08/Dhonveli_Festive-Brochure.pdf",
+  "destination_dining": null
  },
  "documents_count": 24,
  "gaps": [
@@ -445,6 +455,31 @@
    {
     "value": "Ari Atoll",
     "source_url": "https://www.cinnamonhotels.com/cinnamon-grand-colombo/dining/room-service",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Ari Atoll",
+    "source_url": "https://www.cinnamonhotels.com/cinnamon-bentota-beach/dining/destination-dining",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Ari Atoll",
+    "source_url": "https://www.cinnamonhotels.com/cinnamon-bey-beruwala/experiences",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Ari Atoll",
+    "source_url": "https://www.cinnamonhotels.com/cinnamon-citadel-kandy/dining/destination-dining",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Ari Atoll",
+    "source_url": "https://www.cinnamonhotels.com/cinnamon-citadel-kandy/experiences",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Ari Atoll",
+    "source_url": "https://www.cinnamonhotels.com/cinnamon-dhonveli-maldives/experiences",
     "as_of": "2026-10-05"
    },
    {
@@ -1338,6 +1373,23 @@
     "value": "house reefs while Cinnamon Hakuraa",
     "source_url": "https://d18slle4wlf9ku.cloudfront.net/www.cinnamonhotels.com-1302818674/cms/pressroom/john_keells_hotels_plc_integrated_report_2024_25.pdf",
     "as_of": 2024
+   }
+  ],
+  "destination_dining.experiences": [
+   {
+    "value": "private dining",
+    "source_url": "https://d18slle4wlf9ku.cloudfront.net/www.cinnamonhotels.com-1302818674/cms/pressroom/john_keells_hotels_plc_annual_report_2425.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "private dining",
+    "source_url": "https://d18slle4wlf9ku.cloudfront.net/www.cinnamonhotels.com-1302818674/cms/pressroom/john_keells_hotels_plc_integrated_report_2024_25.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.neoscapesmaldives.com/resort/cinnamon-dhonveli-maldives/",
+    "as_of": "2026-10-04"
    }
   ],
   "sustainability": [

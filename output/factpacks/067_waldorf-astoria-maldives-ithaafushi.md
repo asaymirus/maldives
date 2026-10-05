@@ -3,7 +3,7 @@
 **Official site:** https://www.waldorfastoriamaldives.com/ (ok)  
 **Brand:** Waldorf Astoria  
 **Atoll:** South Malé Atoll  **Island:** Male  
-**Opened/renovated:** n/a  **Rating:** n/a  
+**Opened/renovated:** n/a  **Rating:** 5-star  
 **Transfer:** yacht, speedboat, seaplane; minutes: {"seaplane": 5, "yacht": 45}  
 **Island size:** 500 m x 400 m  
 
@@ -37,9 +37,9 @@ Meal plans: Dine Around
 
 - Operator: Dive Centre
 - House reef: house reef offers fantastic snorkelling and a sunset cruise is the perfect way to round off your day
-- Activities: snorkeling, paddleboard, jet ski, whale shark, manta, parasailing, fishing, sunset cruise, dolphin cruise, snorkelling, seabob, windsurfing, kayaking, catamaran, wakeboarding, sailing
+- Activities: snorkeling, paddleboard, jet ski, whale shark, manta, sunset cruise, parasailing, fishing, dolphin cruise, seabob, scuba diving, windsurfing, kitesurfing, catamaran, snorkelling, sailing, kayaking, wakeboarding
 - Price list: https://www.waldorfastoriamaldives.com/wp-content/uploads/2025/07/2025-WA-Recreation-Centre-.pdf
-- Excursions: sandbank, whale shark, manta, dolphin, sunset fishing, big game fishing, turtle, cinema, castaway
+- Excursions: sandbank, whale shark, manta, picnic, cinema, dolphin, sunset fishing, big game fishing, turtle, cooking class, castaway
 
 ## Kids & family
 
@@ -52,6 +52,12 @@ Meal plans: Dine Around
 - Packages: n/a
 - Brochure: https://www.waldorfastoriamaldives.com/wp-content/uploads/2025/07/Unforgettable-Honeymoon-and-Romantic-Anniversaries-TC-.pdf
 
+## Destination dining
+
+- Experiences: treetop dining, destination dining, sandbank dinner, floating breakfast, romantic dinner, beach dinner, lagoon lunch, private chef, sunset cruise, sunset dinner, sandbank picnic, private dining, wine pairing, wine dinner
+- Packages: n/a
+- Sandbank events: True; document: https://www.waldorfastoriamaldives.com/wp-content/uploads/2025/07/Destination-Dining-Brochure-V2.pdf
+
 ## Events / MICE
 
 - Venues: n/a; capacity max: n/a; buyout: None
@@ -59,7 +65,7 @@ Meal plans: Dine Around
 
 ## Sustainability
 
-- solar, Green Key
+- solar, Green Key, coral restoration
 
 ## Public contacts
 
@@ -75,9 +81,10 @@ Meal plans: Dine Around
 - dive_prices: https://www.waldorfastoriamaldives.com/wp-content/uploads/2025/07/2025-WA-Recreation-Centre-.pdf
 - events: none
 - calendar: https://www.waldorfastoriamaldives.com/wp-content/uploads/2026/10/WAMI-Festive-Brochure-2026.pdf
+- destination_dining: https://www.waldorfastoriamaldives.com/wp-content/uploads/2025/07/Destination-Dining-Brochure-V2.pdf
 
 ## Gaps
 
 - events/MICE document
 
-_Facts extracted by rules from 23 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._
+_Facts extracted by rules from 26 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

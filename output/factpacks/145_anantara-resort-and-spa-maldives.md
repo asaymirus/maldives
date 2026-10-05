@@ -59,6 +59,12 @@ Meal plans: HB, FB, Dine Around, AI
 - Packages: n/a
 - Brochure: none
 
+## Destination dining
+
+- Experiences: candlelit dinner, sunset cruise, romantic dining, private dining, dine under the stars, romantic candlelit dinner
+- Packages: n/a
+- Sandbank events: None; document: none
+
 ## Events / MICE
 
 - Venues: n/a; capacity max: 50; buyout: None
@@ -82,10 +88,11 @@ Meal plans: HB, FB, Dine Around, AI
 - dive_prices: none
 - events: none
 - calendar: none
+- destination_dining: none
 
 ## Gaps
 
 - wedding brochure
 - events/MICE document
 
-_Facts extracted by rules from 24 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._
+_Facts extracted by rules from 25 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

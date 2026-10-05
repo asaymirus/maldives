@@ -239,6 +239,18 @@
   "packages": [],
   "brochure_doc": null
  },
+ "destination_dining": {
+  "experiences": [
+   "destination dining",
+   "private chef",
+   "floating breakfast",
+   "beach dinner",
+   "private dining"
+  ],
+  "packages": [],
+  "sandbank_events": null,
+  "doc": null
+ },
  "events_mice": {
   "venues": [],
   "capacity_max": null,
@@ -261,7 +273,8 @@
   "dining_menu": null,
   "dive_prices": null,
   "events": null,
-  "calendar": "https://letsgomaldives.com/wp-content/uploads/2026/02/The-Halcyon-Maldives-Easter-Brochure-2026.pdf"
+  "calendar": "https://letsgomaldives.com/wp-content/uploads/2026/02/The-Halcyon-Maldives-Easter-Brochure-2026.pdf",
+  "destination_dining": null
  },
  "documents_count": 3,
  "gaps": [
@@ -837,6 +850,43 @@
    },
    {
     "value": "fitness centre",
+    "source_url": "https://www.neoscapesmaldives.com/resort/raffles-maldives-meradhoo-resort/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "destination_dining.experiences": [
+   {
+    "value": "destination dining",
+    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Halcyon-Maldives-Factsheet-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "private chef",
+    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Halcyon-Maldives-Factsheet-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Halcyon-Maldives-Factsheet-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "beach dinner",
+    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Halcyon-Maldives-Factsheet-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "beach dinner",
+    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Halcyon-Maldives-Factsheet-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "beach dinner",
+    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Halcyon-Maldives-Factsheet-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "private dining",
     "source_url": "https://www.neoscapesmaldives.com/resort/raffles-maldives-meradhoo-resort/",
     "as_of": "2026-10-04"
    }

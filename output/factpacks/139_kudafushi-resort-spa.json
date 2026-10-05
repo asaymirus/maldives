@@ -206,6 +206,16 @@
   ],
   "brochure_doc": "https://kudafushiresort.com/en/wp-content/uploads/2026/08/KUDAFUSHI-WEDDING-PACKAGES.pdf"
  },
+ "destination_dining": {
+  "experiences": [
+   "sunset cruise",
+   "romantic dinner",
+   "sandbank experience"
+  ],
+  "packages": [],
+  "sandbank_events": true,
+  "doc": "https://kudafushiresort.com/en/wp-content/uploads/2026/08/ROMANTIC-DINNER-MENU.pdf"
+ },
  "events_mice": {
   "venues": [],
   "capacity_max": null,
@@ -226,7 +236,8 @@
   "dining_menu": "https://kudafushiresort.com/en/wp-content/uploads/2026/08/JUJU-ALL-DAY-DINING-MENU.pdf",
   "dive_prices": "https://kudafushiresort.com/en/wp-content/uploads/2026/08/AQUASOULS_WATERSPORTS.pdf",
   "events": null,
-  "calendar": "https://kudafushiresort.com/en/wp-content/uploads/2026/08/PADEL-COURT-RENTAL.pdf"
+  "calendar": "https://kudafushiresort.com/en/wp-content/uploads/2026/08/PADEL-COURT-RENTAL.pdf",
+  "destination_dining": "https://kudafushiresort.com/en/wp-content/uploads/2026/08/ROMANTIC-DINNER-MENU.pdf"
  },
  "documents_count": 36,
  "gaps": [
@@ -818,6 +829,11 @@
     "as_of": 2026
    },
    {
+    "value": "steam",
+    "source_url": "https://kudafushiresort.com/en/wp-content/uploads/2026/08/ROMANTIC-DINNER-MENU.pdf",
+    "as_of": 2025
+   },
+   {
     "value": "yoga",
     "source_url": "https://kudafushiresort.com/en/wp-content/uploads/2026/08/K-YOGA-WEEKLY-WELLNESS-PROGRAM_2026.pdf",
     "as_of": 2026
@@ -883,6 +899,60 @@
     "value": true,
     "source_url": "https://www.neoscapesmaldives.com/resort/kudafushi-maldives/",
     "as_of": "2026-10-04"
+   }
+  ],
+  "destination_dining.experiences": [
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/KUDAFUSHI_FACTSHEET.pdf",
+    "as_of": 2019
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://kudafushiresort.com/en/wp-content/uploads/2026/08/KUDAFUSHI-WEDDING-PACKAGES.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://kudafushiresort.com/en/wp-content/uploads/2026/08/KUDAFUSHI-WEDDING-PACKAGES.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "romantic dinner",
+    "source_url": "https://kudafushiresort.com/en/wp-content/uploads/2026/08/ROMANTIC-DINNER-MENU.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "romantic dinner",
+    "source_url": "https://kudafushiresort.com/en/wp-content/uploads/2026/08/ROMANTIC-DINNER-MENU.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "romantic dinner",
+    "source_url": "https://kudafushiresort.com/en/wp-content/uploads/2026/08/ROMANTIC-DINNER-MENU.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "romantic dinner",
+    "source_url": "https://kudafushiresort.com/en/wp-content/uploads/2026/08/ROMANTIC-DINNER-MENU.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "sandbank experience",
+    "source_url": "https://kudafushiresort.com/en/wp-content/uploads/2026/08/AQUASOULS_WATERSPORTS.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://kudafushiresort.com/en/wp-content/uploads/2026/08/AQUASOULS_WATERSPORTS.pdf",
+    "as_of": 2026
+   }
+  ],
+  "destination_dining.sandbank_events": [
+   {
+    "value": true,
+    "source_url": "https://kudafushiresort.com/en/wp-content/uploads/2026/08/AQUASOULS_WATERSPORTS.pdf",
+    "as_of": 2026
    }
   ],
   "kids_family.age_range": [

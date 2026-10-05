@@ -69,6 +69,12 @@ All-inclusive: all-inclusive escape.
 - Packages: n/a
 - Brochure: https://www.nivavelassaru.com/wp-content/uploads/2026/05/Renewal-of-Vows.pdf
 
+## Destination dining
+
+- Experiences: in-villa dining, private dining, beach barbecue, sunset cruise, romantic dinner, destination dining, sandbank trip, sandbank escape, wine dinner, romantic dining
+- Packages: n/a
+- Sandbank events: True; document: none
+
 ## Events / MICE
 
 - Venues: n/a; capacity max: n/a; buyout: None
@@ -92,9 +98,10 @@ All-inclusive: all-inclusive escape.
 - dive_prices: https://www.nivavelassaru.com/wp-content/uploads/2026/01/Bio-Diversity.pdf
 - events: none
 - calendar: https://www.nivavelassaru.com/wp-content/uploads/2026/09/Niva-Velassaru_Festive-2026_web.pdf
+- destination_dining: none
 
 ## Gaps
 
 - events/MICE document
 
-_Facts extracted by rules from 21 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._
+_Facts extracted by rules from 23 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

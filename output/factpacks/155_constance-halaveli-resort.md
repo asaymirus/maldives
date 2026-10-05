@@ -63,6 +63,12 @@ All-inclusive: All-inclusive rates are available at this resort.
 - Packages: n/a
 - Brochure: none
 
+## Destination dining
+
+- Experiences: sunset cruise, dine under the stars, candlelit dinner
+- Packages: n/a
+- Sandbank events: None; document: none
+
 ## Events / MICE
 
 - Venues: n/a; capacity max: n/a; buyout: None
@@ -86,9 +92,10 @@ All-inclusive: All-inclusive rates are available at this resort.
 - dive_prices: none
 - events: https://maldives.ru/doc/static/Constance-Hotels-Resorts-Corporate-Brochure-En_removed%20(1).pdf
 - calendar: none
+- destination_dining: none
 
 ## Gaps
 
 - wedding brochure
 
-_Facts extracted by rules from 20 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._
+_Facts extracted by rules from 21 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

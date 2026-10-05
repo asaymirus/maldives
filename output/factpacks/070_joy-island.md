@@ -23,7 +23,7 @@ All-inclusive: all-inclusive destination where every villa, from overwater sanct
 ## Spa & wellness
 
 - Spa: Oasis Spa; treatment rooms: ?; menu: https://cdnm.heyzine.com/flip-book/pdf/0a11288452f369c938da10bb2d11722fd94a987a.pdf
-- Wellness/fitness: yoga, tennis, meditation, steam, padel, gym, fitness centre, beach volleyball, pilates, fitness center
+- Wellness/fitness: yoga, tennis, steam, meditation, padel, gym, fitness centre, beach volleyball, pilates, fitness center
 
 ## Diving, water sports & excursions
 
@@ -45,6 +45,12 @@ Kids Club; ages: n/a; teens: n/a
 - Packages: n/a
 - Brochure: https://cdnm.heyzine.com/flip-book/pdf/b1f0f96ff265d012f55d6fbd78eac7ce1d69c094.pdf
 
+## Destination dining
+
+- Experiences: floating breakfast, sunset cruise, beach dinner, underwater dining, romantic dinner, destination dining, sandbank picnic, lagoon lunch, romantic candlelit dinner, in villa dining, in-villa dining, lagoon dinner, romantic beach dinner, anniversary celebration, romantic dining, romantic candle lit dinner
+- Packages: n/a
+- Sandbank events: True; document: https://cdnm.heyzine.com/files/uploaded/d7e764db3df5c310bca8c74afb4f92061e17c4bc.pdf
+
 ## Events / MICE
 
 - Venues: n/a; capacity max: 120; buyout: None
@@ -64,13 +70,14 @@ Kids Club; ages: n/a; teens: n/a
 - map: https://cdnm.heyzine.com/flip-book/pdf/9feff53d89333821741583c6787ddf21970c9578.pdf
 - wedding: https://cdnm.heyzine.com/flip-book/pdf/b1f0f96ff265d012f55d6fbd78eac7ce1d69c094.pdf
 - spa_menu: https://cdnm.heyzine.com/flip-book/pdf/0a11288452f369c938da10bb2d11722fd94a987a.pdf
-- dining_menu: https://cdnm.heyzine.com/files/uploaded/d7e764db3df5c310bca8c74afb4f92061e17c4bc.pdf
+- dining_menu: none
 - dive_prices: none
 - events: https://cdnm.heyzine.com/flip-book/pdf/561203caf7c34ac7410e440e2fb87685515def06-2.pdf
 - calendar: https://cdnm.heyzine.com/files/uploaded/v3/77ce4a31ca1298b404d8cebf54e3bd8d20e8751f-3.pdf
+- destination_dining: https://cdnm.heyzine.com/files/uploaded/d7e764db3df5c310bca8c74afb4f92061e17c4bc.pdf
 
 ## Gaps
 
 - fact: dive operator
 
-_Facts extracted by rules from 23 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._
+_Facts extracted by rules from 25 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

@@ -274,6 +274,11 @@
  },
  "dining": [
   {
+   "name": "Club Lounge",
+   "cuisine": null,
+   "type": "bar"
+  },
+  {
    "name": "Café Lounge",
    "cuisine": null,
    "type": "bar"
@@ -307,9 +312,11 @@
    "semi-submarine",
    "canoe",
    "sailing",
+   "kayaking",
+   "paddleboard",
+   "wakeboarding",
    "whale shark",
-   "water skiing",
-   "wakeboarding"
+   "water skiing"
   ],
   "price_list_doc": null
  },
@@ -321,13 +328,14 @@
   "manta",
   "turtle",
   "cinema",
+  "cooking class",
   "whale shark",
   "picnic"
  ],
  "kids_family": {
-  "kids_club": "Kids Club",
+  "kids_club": "Teens Club",
   "age_range": null,
-  "teens": null
+  "teens": "teens programme mentioned"
  },
  "wellness_fitness": [
   "yoga",
@@ -336,9 +344,13 @@
   "beach volleyball",
   "sauna",
   "steam",
+  "meditation",
+  "sound healing",
+  "hammam",
   "gym",
-  "badminton",
-  "sound healing"
+  "wellness programme",
+  "pilates",
+  "badminton"
  ],
  "weddings": {
   "offered": true,
@@ -347,15 +359,33 @@
   "packages": [],
   "brochure_doc": null
  },
+ "destination_dining": {
+  "experiences": [
+   "private dining",
+   "romantic dinner",
+   "sunset cruise",
+   "in-villa dining",
+   "sandbank experience",
+   "beach barbecue"
+  ],
+  "packages": [],
+  "sandbank_events": true,
+  "doc": null
+ },
  "events_mice": {
-  "venues": [],
-  "capacity_max": null,
+  "venues": [
+   "Godolphin Ballroom and Terrace at The Towers",
+   "Godolphin Ballroom"
+  ],
+  "capacity_max": 850,
   "buyout": null,
   "doc": null
  },
- "sustainability": [],
+ "sustainability": [
+  "turtle rehabilitation"
+ ],
  "contacts_public": {
-  "reservations_email": "info@neoscapesmaldives.com",
+  "reservations_email": "jetinfo@jumeirah.com",
   "weddings_email": null,
   "phone": "+960 736 5425"
  },
@@ -367,7 +397,8 @@
   "dining_menu": null,
   "dive_prices": null,
   "events": null,
-  "calendar": "https://letsgomaldives.com/wp-content/uploads/2026/03/Jumeirah-Olhahali-Island-From-Seasons-to-Stories-Eid-Al-Fitr-2026-1.pdf"
+  "calendar": "https://letsgomaldives.com/wp-content/uploads/2026/03/Jumeirah-Olhahali-Island-From-Seasons-to-Stories-Eid-Al-Fitr-2026-1.pdf",
+  "destination_dining": null
  },
  "documents_count": 6,
  "gaps": [
@@ -433,6 +464,21 @@
     "value": "speedboat",
     "source_url": "https://www.jumeirah.com/en/stay/maldives/jumeirah-olhahali-island",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "yacht",
+    "source_url": "https://www.jumeirah.com/en/article/experiences/dubai/jbh/yacht-charter",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "yacht",
+    "source_url": "https://www.jumeirah.com/en/article/experiences/dubai/mj/water-sports-at-madinat",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "yacht",
+    "source_url": "https://www.jumeirah.com/en/article/experiences/dubai/mj/yacht-services-at-madinat-jumeirah",
+    "as_of": "2026-10-05"
    },
    {
     "value": "seaplane",
@@ -1939,6 +1985,56 @@
    },
    {
     "value": "Talise Spa",
+    "source_url": "https://www.jumeirah.com/en/article/experiences/bali/amukti-jiwa-the-soul-liberation-at-jumeirah-bali",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "At\nTalise Spa",
+    "source_url": "https://www.jumeirah.com/en/article/experiences/bali/how-to-plan-an-unforgettable-wedding-in-bali",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Talise Spa",
+    "source_url": "https://www.jumeirah.com/en/article/experiences/bali/serenity-of-jumeirah-oceanfront-escape",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Talise Ottoman Spa",
+    "source_url": "https://www.jumeirah.com/en/article/experiences/dubai/jzs/zabeel-saray-romantic-experiences",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Talise Spa",
+    "source_url": "https://www.jumeirah.com/en/article/experiences/dubai/mj/360-womens-support-wellness",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Talise Spa",
+    "source_url": "https://www.jumeirah.com/en/article/experiences/dubai/mj/detox-wellness",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Talise Spa",
+    "source_url": "https://www.jumeirah.com/en/article/experiences/dubai/mj/family-wellness",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Talise Spa",
+    "source_url": "https://www.jumeirah.com/en/article/experiences/dubai/mj/focus-wellness",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Talise Spa",
+    "source_url": "https://www.jumeirah.com/en/article/experiences/dubai/mj/mother-to-be-wellness",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Talise Spa",
+    "source_url": "https://www.jumeirah.com/en/article/experiences/dubai/mj/recharge-wellness",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Talise Spa",
     "source_url": "https://www.neoscapesmaldives.com/resort/jumeirah-maldives-olhahali/",
     "as_of": "2026-10-04"
    },
@@ -2040,6 +2136,51 @@
     "as_of": 2022
    },
    {
+    "value": "fishing",
+    "source_url": "https://www.jumeirah.com/en/article/experiences/bali/serenity-of-jumeirah-oceanfront-escape",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "surfing",
+    "source_url": "https://www.jumeirah.com/en/article/experiences/dubai/jbh/partner-savings",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.jumeirah.com/en/article/experiences/dubai/jbh/partner-savings",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "kayaking",
+    "source_url": "https://www.jumeirah.com/en/article/experiences/dubai/mj/water-sports-at-madinat",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "paddleboard",
+    "source_url": "https://www.jumeirah.com/en/article/experiences/dubai/mj/water-sports-at-madinat",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "wakeboarding",
+    "source_url": "https://www.jumeirah.com/en/article/experiences/dubai/mj/water-sports-at-madinat",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.jumeirah.com/en/article/experiences/dubai/mj/water-sports-at-madinat",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sailing",
+    "source_url": "https://www.jumeirah.com/en/article/experiences/dubai/mj/water-sports-at-madinat",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "flyboard",
+    "source_url": "https://www.jumeirah.com/en/article/experiences/dubai/mj/water-sports-at-madinat",
+    "as_of": "2026-10-05"
+   },
+   {
     "value": "snorkelling",
     "source_url": "https://www.neoscapesmaldives.com/resort/jumeirah-maldives-olhahali/",
     "as_of": "2026-10-04"
@@ -2132,6 +2273,36 @@
     "as_of": 2022
    },
    {
+    "value": "turtle",
+    "source_url": "https://www.jumeirah.com/en/article/experiences/bali/amukti-jiwa-the-soul-liberation-at-jumeirah-bali",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.jumeirah.com/en/article/experiences/bali/of-tides-and-turtles",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "cinema",
+    "source_url": "https://www.jumeirah.com/en/article/experiences/bali/serenity-of-jumeirah-oceanfront-escape",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "cooking class",
+    "source_url": "https://www.jumeirah.com/en/article/experiences/bali/serenity-of-jumeirah-oceanfront-escape",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.jumeirah.com/en/article/experiences/dubai/jbh/partner-savings",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.jumeirah.com/en/article/experiences/dubai/mj/family-wellness",
+    "as_of": "2026-10-05"
+   },
+   {
     "value": "sandbank",
     "source_url": "https://www.neoscapesmaldives.com/resort/jumeirah-maldives-olhahali/",
     "as_of": "2026-10-04"
@@ -2209,6 +2380,181 @@
     "as_of": 2022
    },
    {
+    "value": "tennis",
+    "source_url": "https://www.jumeirah.com/en/article/experiences/abu-dhabi/couples",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "meditation",
+    "source_url": "https://www.jumeirah.com/en/article/experiences/bali/amukti-jiwa-the-soul-liberation-at-jumeirah-bali",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sound healing",
+    "source_url": "https://www.jumeirah.com/en/article/experiences/bali/amukti-jiwa-the-soul-liberation-at-jumeirah-bali",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.jumeirah.com/en/article/experiences/bali/how-to-plan-an-unforgettable-wedding-in-bali",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "hammam",
+    "source_url": "https://www.jumeirah.com/en/article/experiences/bali/how-to-plan-an-unforgettable-wedding-in-bali",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.jumeirah.com/en/article/experiences/bali/three-days-of-deep-renewal",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "meditation",
+    "source_url": "https://www.jumeirah.com/en/article/experiences/bali/three-days-of-deep-renewal",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "meditation",
+    "source_url": "https://www.jumeirah.com/en/article/experiences/bali/wedang-semilir-the-tea-ritual-reimagined",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "meditation",
+    "source_url": "https://www.jumeirah.com/en/article/experiences/bali/where-water-once-ruled",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.jumeirah.com/en/article/experiences/dubai/emirates-stay-in-shape",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "gym",
+    "source_url": "https://www.jumeirah.com/en/article/experiences/dubai/emirates-stay-in-shape",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://www.jumeirah.com/en/article/experiences/dubai/jzs/zabeel-saray-tennis",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.jumeirah.com/en/article/experiences/dubai/mj/360-womens-support-wellness",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "meditation",
+    "source_url": "https://www.jumeirah.com/en/article/experiences/dubai/mj/360-womens-support-wellness",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sound healing",
+    "source_url": "https://www.jumeirah.com/en/article/experiences/dubai/mj/360-womens-support-wellness",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "wellness programme",
+    "source_url": "https://www.jumeirah.com/en/article/experiences/dubai/mj/360-womens-support-wellness",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.jumeirah.com/en/article/experiences/dubai/mj/detox-wellness",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "meditation",
+    "source_url": "https://www.jumeirah.com/en/article/experiences/dubai/mj/detox-wellness",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "wellness programme",
+    "source_url": "https://www.jumeirah.com/en/article/experiences/dubai/mj/detox-wellness",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.jumeirah.com/en/article/experiences/dubai/mj/family-wellness",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "meditation",
+    "source_url": "https://www.jumeirah.com/en/article/experiences/dubai/mj/family-wellness",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sound healing",
+    "source_url": "https://www.jumeirah.com/en/article/experiences/dubai/mj/family-wellness",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "wellness programme",
+    "source_url": "https://www.jumeirah.com/en/article/experiences/dubai/mj/family-wellness",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.jumeirah.com/en/article/experiences/dubai/mj/focus-wellness",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "meditation",
+    "source_url": "https://www.jumeirah.com/en/article/experiences/dubai/mj/focus-wellness",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "pilates",
+    "source_url": "https://www.jumeirah.com/en/article/experiences/dubai/mj/focus-wellness",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "wellness programme",
+    "source_url": "https://www.jumeirah.com/en/article/experiences/dubai/mj/focus-wellness",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.jumeirah.com/en/article/experiences/dubai/mj/mother-to-be-wellness",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "meditation",
+    "source_url": "https://www.jumeirah.com/en/article/experiences/dubai/mj/mother-to-be-wellness",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sound healing",
+    "source_url": "https://www.jumeirah.com/en/article/experiences/dubai/mj/mother-to-be-wellness",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "wellness programme",
+    "source_url": "https://www.jumeirah.com/en/article/experiences/dubai/mj/mother-to-be-wellness",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.jumeirah.com/en/article/experiences/dubai/mj/recharge-wellness",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "meditation",
+    "source_url": "https://www.jumeirah.com/en/article/experiences/dubai/mj/recharge-wellness",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sound healing",
+    "source_url": "https://www.jumeirah.com/en/article/experiences/dubai/mj/recharge-wellness",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "wellness programme",
+    "source_url": "https://www.jumeirah.com/en/article/experiences/dubai/mj/recharge-wellness",
+    "as_of": "2026-10-05"
+   },
+   {
     "value": "yoga",
     "source_url": "https://www.neoscapesmaldives.com/resort/jumeirah-maldives-olhahali/",
     "as_of": "2026-10-04"
@@ -2262,6 +2608,26 @@
    },
    {
     "value": true,
+    "source_url": "https://www.jumeirah.com/en/article/experiences/bali/how-to-plan-an-unforgettable-wedding-in-bali",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.jumeirah.com/en/article/experiences/bali/how-to-plan-an-unforgettable-wedding-in-bali",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.jumeirah.com/en/article/experiences/bali/three-days-of-deep-renewal",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.jumeirah.com/en/article/experiences/dubai/emirates-godolphin-ballroom",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": true,
     "source_url": "https://www.neoscapesmaldives.com/resort/jumeirah-maldives-olhahali/",
     "as_of": "2026-10-04"
    },
@@ -2283,6 +2649,73 @@
     "as_of": "2026-10-04"
    }
   ],
+  "destination_dining.experiences": [
+   {
+    "value": "private dining",
+    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Jumeirah-Olhahali-Island-Resort-Factsheet-2025.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "romantic dinner",
+    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Jumeirah-Olhahali-Island-Resort-Factsheet-2025.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Jumeirah-Olhahali-Island-Resort-Factsheet-2025.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "in-villa dining",
+    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Jumeirah-Olhahali-Island-Resort-Factsheet-2025.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "private dining",
+    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Jumeirah-Olhahali-Island-Resort-Factsheet-2025.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "romantic dinner",
+    "source_url": "https://www.neoscapesmaldives.com/resort/jumeirah-maldives-olhahali/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "private dining",
+    "source_url": "https://www.neoscapesmaldives.com/resort/jumeirah-maldives-olhahali/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "romantic dinner",
+    "source_url": "https://www.neoscapesmaldives.com/resort/jumeirah-maldives-olhahali/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "in-villa dining",
+    "source_url": "https://www.neoscapesmaldives.com/resort/jumeirah-maldives-olhahali/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "private dining",
+    "source_url": "https://www.neoscapesmaldives.com/resort/jumeirah-maldives-olhahali/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank experience",
+    "source_url": "https://www.neoscapesmaldives.com/resort/jumeirah-maldives-olhahali/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "private dining",
+    "source_url": "https://www.neoscapesmaldives.com/resort/jumeirah-maldives-olhahali/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "beach barbecue",
+    "source_url": "https://letsgomaldives.com/news/celebrate-summer-with-connection-creativity-and-adventure-at-jumeirah-olhahali-island/",
+    "as_of": "2026-10-04"
+   }
+  ],
   "contacts_public.reservations_email": [
    {
     "value": "reservations.jmh@jumeirah.com",
@@ -2293,6 +2726,26 @@
     "value": "info@tourism.gov.mv",
     "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
     "as_of": 2022
+   },
+   {
+    "value": "jetinfo@jumeirah.com",
+    "source_url": "https://www.jumeirah.com/en/article/experiences/dubai/emirates-inspiring-place-to-work",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "jbhinfo@jumeirah.com",
+    "source_url": "https://www.jumeirah.com/en/article/experiences/dubai/jbh/partner-savings",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "mjinfo@jumeirah.com",
+    "source_url": "https://www.jumeirah.com/en/article/experiences/dubai/mj/water-sports-at-madinat",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "mjinfo@jumeirah.com",
+    "source_url": "https://www.jumeirah.com/en/article/experiences/dubai/mj/yacht-services-at-madinat-jumeirah",
+    "as_of": "2026-10-05"
    },
    {
     "value": "info@neoscapesmaldives.com",
@@ -2324,14 +2777,69 @@
     "as_of": "2026-10-04"
    }
   ],
-  "island_size": [
+  "kids_family.kids_club": [
    {
-    "value": "650 m x 100 m",
+    "value": "Teens Club",
+    "source_url": "https://www.jumeirah.com/en/article/experiences/abu-dhabi/kids-and-teens-club",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Peafowl Kids Club",
+    "source_url": "https://www.jumeirah.com/en/article/experiences/bali/how-to-plan-an-unforgettable-wedding-in-bali",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Kids Club",
     "source_url": "https://www.neoscapesmaldives.com/resort/jumeirah-maldives-olhahali/",
     "as_of": "2026-10-04"
    }
   ],
+  "kids_family.teens": [
+   {
+    "value": "teens programme mentioned",
+    "source_url": "https://www.jumeirah.com/en/article/experiences/abu-dhabi/kids-and-teens-club",
+    "as_of": "2026-10-05"
+   }
+  ],
+  "events_mice.capacity_max": [
+   {
+    "value": 850,
+    "source_url": "https://www.jumeirah.com/en/article/experiences/dubai/emirates-godolphin-ballroom",
+    "as_of": "2026-10-05"
+   }
+  ],
+  "events_mice.venues": [
+   {
+    "value": "Godolphin Ballroom and Terrace at The Towers",
+    "source_url": "https://www.jumeirah.com/en/article/experiences/dubai/emirates-godolphin-ballroom",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Godolphin Ballroom",
+    "source_url": "https://www.jumeirah.com/en/article/experiences/dubai/emirates-godolphin-ballroom",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Godolphin Ballroom and Terrace at The Towers",
+    "source_url": "https://www.jumeirah.com/en/article/experiences/dubai/emirates-inspiring-place-to-work",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Godolphin Ballroom and Terrace at The Towers",
+    "source_url": "https://www.jumeirah.com/en/article/experiences/dubai/emirates-stay-in-shape",
+    "as_of": "2026-10-05"
+   }
+  ],
   "dining": [
+   {
+    "value": {
+     "name": "Club Lounge",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.jumeirah.com/en/article/experiences/dubai/jet/museum-of-the-future",
+    "as_of": "2026-10-05"
+   },
    {
     "value": {
      "name": "Café Lounge",
@@ -2342,9 +2850,23 @@
     "as_of": "2026-10-04"
    }
   ],
-  "kids_family.kids_club": [
+  "sustainability": [
    {
-    "value": "Kids Club",
+    "value": "turtle rehabilitation",
+    "source_url": "https://www.jumeirah.com/en/article/experiences/dubai/mj/family-wellness",
+    "as_of": "2026-10-05"
+   }
+  ],
+  "island_size": [
+   {
+    "value": "650 m x 100 m",
+    "source_url": "https://www.neoscapesmaldives.com/resort/jumeirah-maldives-olhahali/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "destination_dining.sandbank_events": [
+   {
+    "value": true,
     "source_url": "https://www.neoscapesmaldives.com/resort/jumeirah-maldives-olhahali/",
     "as_of": "2026-10-04"
    }

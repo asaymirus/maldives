@@ -11,7 +11,7 @@
  "operator_brand": "Patina",
  "atoll": "North Malé Atoll",
  "island": "Patina Osaka",
- "opened_or_renovated": null,
+ "opened_or_renovated": "opened 2018",
  "star_rating": "5-star",
  "transfer": {
   "modes": [
@@ -160,6 +160,7 @@
   "private dinner",
   "cooking class",
   "dolphin",
+  "stargazing",
   "sandbank",
   "picnic"
  ],
@@ -177,7 +178,8 @@
   "steam",
   "hammam",
   "gym",
-  "meditation"
+  "meditation",
+  "sauna"
  ],
  "weddings": {
   "offered": true,
@@ -185,6 +187,23 @@
   "venues": [],
   "packages": [],
   "brochure_doc": null
+ },
+ "destination_dining": {
+  "experiences": [
+   "private dining",
+   "private chef",
+   "in-villa dining",
+   "destination dining",
+   "anniversary celebration",
+   "wine pairing",
+   "wine dinner",
+   "beach dinner",
+   "sandbank picnic",
+   "floating breakfast"
+  ],
+  "packages": [],
+  "sandbank_events": true,
+  "doc": null
  },
  "events_mice": {
   "venues": [],
@@ -214,7 +233,8 @@
   "dining_menu": null,
   "dive_prices": null,
   "events": null,
-  "calendar": "https://letsgomaldives.com/wp-content/uploads/2026/08/Patina_Maldives_Festive_Brochure.pdf"
+  "calendar": "https://letsgomaldives.com/wp-content/uploads/2026/08/Patina_Maldives_Festive_Brochure.pdf",
+  "destination_dining": null
  },
  "documents_count": 6,
  "gaps": [
@@ -820,6 +840,11 @@
     "as_of": "2026-10-04"
    },
    {
+    "value": "sauna",
+    "source_url": "https://patinahotels.com/osaka/anniversary",
+    "as_of": "2026-10-05"
+   },
+   {
     "value": "yoga",
     "source_url": "https://www.neoscapesmaldives.com/resort/patina-maldives/",
     "as_of": "2026-10-04"
@@ -1188,6 +1213,11 @@
     "as_of": "2026-10-04"
    },
    {
+    "value": "stargazing",
+    "source_url": "https://patinahotels.com/destination-experiences",
+    "as_of": "2026-10-05"
+   },
+   {
     "value": "sandbank",
     "source_url": "https://www.neoscapesmaldives.com/resort/patina-maldives/",
     "as_of": "2026-10-04"
@@ -1408,6 +1438,118 @@
     "as_of": "2026-10-04"
    }
   ],
+  "destination_dining.experiences": [
+   {
+    "value": "private dining",
+    "source_url": "https://patinahotels.com/maldives/accommodation/the-beach-house",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "private dining",
+    "source_url": "https://patinahotels.com/maldives/accommodation/the-beach-house",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "private chef",
+    "source_url": "https://patinahotels.com/maldives/accommodation/the-beach-house",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "in-villa dining",
+    "source_url": "https://patinahotels.com/maldives/faq",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://patinahotels.com/maldives/faq",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "in-villa dining",
+    "source_url": "https://patinahotels.com/maldives/faq",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://patinahotels.com/maldives/faq",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "in-villa dining",
+    "source_url": "https://patinahotels.com/maldives/faq",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://patinahotels.com/maldives/faq",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "in-villa dining",
+    "source_url": "https://patinahotels.com/maldives/faq",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://patinahotels.com/maldives/faq",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "in-villa dining",
+    "source_url": "https://patinahotels.com/maldives/faq",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "in-villa dining",
+    "source_url": "https://patinahotels.com/maldives/faq",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "anniversary celebration",
+    "source_url": "https://patinahotels.com/maldives/faq",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "private chef",
+    "source_url": "https://patinahotels.com/maldives/offers/patina-journey",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "wine pairing",
+    "source_url": "https://patinahotels.com/osaka/anniversary",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "wine dinner",
+    "source_url": "https://patinahotels.com/osaka/anniversary",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "wine pairing",
+    "source_url": "https://patinahotels.com/osaka/anniversary",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://www.neoscapesmaldives.com/resort/patina-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "beach dinner",
+    "source_url": "https://www.neoscapesmaldives.com/resort/patina-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank picnic",
+    "source_url": "https://www.neoscapesmaldives.com/resort/patina-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://www.neoscapesmaldives.com/resort/patina-maldives/",
+    "as_of": "2026-10-04"
+   }
+  ],
   "transfer.minutes.seaplane": [
    {
     "value": 10,
@@ -1441,6 +1583,13 @@
     "as_of": "2026-10-04"
    }
   ],
+  "opened_or_renovated": [
+   {
+    "value": "opened 2018",
+    "source_url": "https://patinahotels.com/osaka/drink-and-dine/nijiri/autumn-tea-experience",
+    "as_of": "2026-10-05"
+   }
+  ],
   "island_size": [
    {
     "value": "180 m x 650 m",
@@ -1451,6 +1600,13 @@
   "villas.total": [
    {
     "value": 90,
+    "source_url": "https://www.neoscapesmaldives.com/resort/patina-maldives/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "destination_dining.sandbank_events": [
+   {
+    "value": true,
     "source_url": "https://www.neoscapesmaldives.com/resort/patina-maldives/",
     "as_of": "2026-10-04"
    }

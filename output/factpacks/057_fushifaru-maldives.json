@@ -215,6 +215,31 @@
   "packages": [],
   "brochure_doc": null
  },
+ "destination_dining": {
+  "experiences": [
+   "sandbank experience",
+   "in-villa dining",
+   "destination dining",
+   "floating breakfast",
+   "sandbank picnic",
+   "sunset cruise",
+   "romantic beach dinner",
+   "candlelit dinner",
+   "anniversary celebration",
+   "romantic dinner",
+   "sunset dinner",
+   "beach dinner",
+   "sandbank dinner",
+   "sandbank escape",
+   "underwater dining",
+   "castaway picnic",
+   "dinner under the stars",
+   "romantic dining"
+  ],
+  "packages": [],
+  "sandbank_events": true,
+  "doc": null
+ },
  "events_mice": {
   "venues": [],
   "capacity_max": null,
@@ -239,7 +264,8 @@
   "dining_menu": null,
   "dive_prices": null,
   "events": null,
-  "calendar": "https://letsgomaldives.com/wp-content/uploads/2024/03/Easter-2024-Programme-Fushifaru-Maldives-mail-version-v2.pdf"
+  "calendar": "https://letsgomaldives.com/wp-content/uploads/2024/03/Easter-2024-Programme-Fushifaru-Maldives-mail-version-v2.pdf",
+  "destination_dining": null
  },
  "documents_count": 2,
  "gaps": [
@@ -560,6 +586,11 @@
     "as_of": "2026-10-04"
    },
    {
+    "value": "Heylhi Spa",
+    "source_url": "https://www.fushifaru.com/tag/honeymoon/",
+    "as_of": "2026-10-05"
+   },
+   {
     "value": "Spa",
     "source_url": "https://letsgomaldives.com/news/celebrate-a-wholesome-tropical-easter-at-fushifaru-maldives/",
     "as_of": "2026-10-04"
@@ -802,6 +833,66 @@
     "as_of": "2026-10-04"
    },
    {
+    "value": "local island",
+    "source_url": "https://www.fushifaru.com/experience/water-activities/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.fushifaru.com/experience/water-activities/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "cinema",
+    "source_url": "https://www.fushifaru.com/experience/water-activities/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "cooking class",
+    "source_url": "https://www.fushifaru.com/experience/water-activities/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.fushifaru.com/exquisite-dining-experiences-you-must-try/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.fushifaru.com/news/romance-beneath-the-maldivian-sky-fushifaru-maldives-unveils-sleep-under-the-stars/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.fushifaru.com/offer/celebrate-9-fantastic-years-of-fushifaru/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.fushifaru.com/sleep-under-the-stars/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.fushifaru.com/tag/honeymoon/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.fushifaru.com/tag/honeymoon/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "picnic",
+    "source_url": "https://www.fushifaru.com/tag/honeymoon/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "castaway",
+    "source_url": "https://www.fushifaru.com/tag/honeymoon/",
+    "as_of": "2026-10-05"
+   },
+   {
     "value": "sandbank",
     "source_url": "https://malediven.de/malediven-hotels/fushifaru/",
     "as_of": "2026-10-04"
@@ -900,6 +991,21 @@
    },
    {
     "value": "yoga",
+    "source_url": "https://www.fushifaru.com/experience/water-activities/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "gym",
+    "source_url": "https://www.fushifaru.com/experience/water-activities/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://www.fushifaru.com/experience/water-activities/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "yoga",
     "source_url": "https://malediven.de/malediven-hotels/fushifaru/",
     "as_of": "2026-10-04"
    }
@@ -952,8 +1058,407 @@
    },
    {
     "value": true,
+    "source_url": "https://www.fushifaru.com/5-ways-that-fushifaru-celebrates-maldivian-culture/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.fushifaru.com/offer/celebrate-9-fantastic-years-of-fushifaru/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": true,
     "source_url": "https://letsgomaldives.com/news/celebrate-a-wholesome-tropical-easter-at-fushifaru-maldives/",
     "as_of": "2026-10-04"
+   }
+  ],
+  "destination_dining.experiences": [
+   {
+    "value": "sandbank experience",
+    "source_url": "https://maldives.ru/doc/static/Fushifaru%20Presentation%20-%20Russian%20Version.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "in-villa dining",
+    "source_url": "https://www.fushifaru.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://www.fushifaru.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://www.fushifaru.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank picnic",
+    "source_url": "https://www.fushifaru.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.fushifaru.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://www.fushifaru.com/honeymoon-of-a-lifetime-at-fushifaru-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank picnic",
+    "source_url": "https://www.fushifaru.com/honeymoon-of-a-lifetime-at-fushifaru-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "romantic beach dinner",
+    "source_url": "https://www.fushifaru.com/honeymoon-of-a-lifetime-at-fushifaru-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "candlelit dinner",
+    "source_url": "https://www.fushifaru.com/news-press/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "anniversary celebration",
+    "source_url": "https://www.fushifaru.com/news-press/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "romantic dinner",
+    "source_url": "https://www.fushifaru.com/villa/beach-villa-sunrise/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset dinner",
+    "source_url": "https://www.fushifaru.com/why-celebrate-easter-2026-at-fushifaru-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.fushifaru.com/why-celebrate-easter-2026-at-fushifaru-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "beach dinner",
+    "source_url": "https://www.fushifaru.com/why-celebrate-easter-2026-at-fushifaru-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.fushifaru.com/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://www.fushifaru.com/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://www.fushifaru.com/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank dinner",
+    "source_url": "https://www.fushifaru.com/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "romantic dinner",
+    "source_url": "https://www.fushifaru.com/villas/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://www.fushifaru.com/villas/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "in-villa dining",
+    "source_url": "https://www.fushifaru.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://www.fushifaru.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://www.fushifaru.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank picnic",
+    "source_url": "https://www.fushifaru.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.fushifaru.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank escape",
+    "source_url": "https://www.fushifaru.com/news/fushifaru-maldives-invites-guests-to-rediscover-barefoot-luxury/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "underwater dining",
+    "source_url": "https://www.fushifaru.com/news/fushifaru-maldives-invites-guests-to-rediscover-barefoot-luxury/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "romantic dinner",
+    "source_url": "https://www.fushifaru.com/barefoot-luxury-at-fushifaru-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://www.fushifaru.com/a-foodies-guide-to-fushifaru/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://www.fushifaru.com/a-foodies-guide-to-fushifaru/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "castaway picnic",
+    "source_url": "https://www.fushifaru.com/a-foodies-guide-to-fushifaru/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "castaway picnic",
+    "source_url": "https://www.fushifaru.com/a-foodies-guide-to-fushifaru/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://www.fushifaru.com/a-day-in-the-life-at-fushifaru-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dinner under the stars",
+    "source_url": "https://www.fushifaru.com/a-day-in-the-life-at-fushifaru-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "romantic dinner",
+    "source_url": "https://www.fushifaru.com/a-day-in-the-life-at-fushifaru-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "in-villa dining",
+    "source_url": "https://www.fushifaru.com/wine-dine/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.fushifaru.com/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://www.fushifaru.com/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://www.fushifaru.com/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank dinner",
+    "source_url": "https://www.fushifaru.com/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.fushifaru.com/experience/water-activities/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://www.fushifaru.com/experience/water-activities/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://www.fushifaru.com/experience/water-activities/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sandbank dinner",
+    "source_url": "https://www.fushifaru.com/experience/water-activities/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "romantic dining",
+    "source_url": "https://www.fushifaru.com/exquisite-dining-experiences-you-must-try/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sandbank dinner",
+    "source_url": "https://www.fushifaru.com/exquisite-dining-experiences-you-must-try/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://www.fushifaru.com/exquisite-dining-experiences-you-must-try/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://www.fushifaru.com/exquisite-dining-experiences-you-must-try/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://www.fushifaru.com/exquisite-dining-experiences-you-must-try/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "romantic beach dinner",
+    "source_url": "https://www.fushifaru.com/exquisite-dining-experiences-you-must-try/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "romantic beach dinner",
+    "source_url": "https://www.fushifaru.com/exquisite-dining-experiences-you-must-try/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "beach dinner",
+    "source_url": "https://www.fushifaru.com/exquisite-dining-experiences-you-must-try/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://www.fushifaru.com/exquisite-dining-experiences-you-must-try/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "candlelit dinner",
+    "source_url": "https://www.fushifaru.com/news/romance-beneath-the-maldivian-sky-fushifaru-maldives-unveils-sleep-under-the-stars/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sandbank dinner",
+    "source_url": "https://www.fushifaru.com/offer/celebrate-9-fantastic-years-of-fushifaru/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "anniversary celebration",
+    "source_url": "https://www.fushifaru.com/offer/celebrate-9-fantastic-years-of-fushifaru/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sandbank escape",
+    "source_url": "https://www.fushifaru.com/sleep-under-the-stars/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sandbank escape",
+    "source_url": "https://www.fushifaru.com/sleep-under-the-stars/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "candlelit dinner",
+    "source_url": "https://www.fushifaru.com/sleep-under-the-stars/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://www.fushifaru.com/tag/honeymoon/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sandbank picnic",
+    "source_url": "https://www.fushifaru.com/tag/honeymoon/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "romantic beach dinner",
+    "source_url": "https://www.fushifaru.com/tag/honeymoon/",
+    "as_of": "2026-10-05"
+   }
+  ],
+  "destination_dining.sandbank_events": [
+   {
+    "value": true,
+    "source_url": "https://maldives.ru/doc/static/Fushifaru%20Presentation%20-%20Russian%20Version.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": true,
+    "source_url": "https://www.fushifaru.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.fushifaru.com/honeymoon-of-a-lifetime-at-fushifaru-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.fushifaru.com/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.fushifaru.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.fushifaru.com/news/fushifaru-maldives-invites-guests-to-rediscover-barefoot-luxury/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.fushifaru.com/weddings-celebrations/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.fushifaru.com/a-wedding-worthy-of-dreams-at-fushifaru/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.fushifaru.com/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.fushifaru.com/experience/water-activities/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.fushifaru.com/exquisite-dining-experiences-you-must-try/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.fushifaru.com/offer/celebrate-9-fantastic-years-of-fushifaru/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.fushifaru.com/sleep-under-the-stars/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.fushifaru.com/tag/honeymoon/",
+    "as_of": "2026-10-05"
    }
   ],
   "meal_plans": [
@@ -1370,6 +1875,86 @@
     "value": "sunset cruise",
     "source_url": "https://www.fushifaru.com/experiences/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.fushifaru.com/experience/water-activities/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.fushifaru.com/experience/water-activities/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.fushifaru.com/experience/water-activities/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.fushifaru.com/offer/celebrate-9-fantastic-years-of-fushifaru/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.fushifaru.com/offer/celebrate-9-fantastic-years-of-fushifaru/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "stand-up paddle",
+    "source_url": "https://www.fushifaru.com/offer/celebrate-9-fantastic-years-of-fushifaru/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "paddleboard",
+    "source_url": "https://www.fushifaru.com/offer/celebrate-9-fantastic-years-of-fushifaru/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "canoe",
+    "source_url": "https://www.fushifaru.com/offer/celebrate-9-fantastic-years-of-fushifaru/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.fushifaru.com/tag/honeymoon/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.fushifaru.com/tag/honeymoon/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "windsurfing",
+    "source_url": "https://www.fushifaru.com/tag/honeymoon/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "kayaking",
+    "source_url": "https://www.fushifaru.com/tag/honeymoon/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "paddleboard",
+    "source_url": "https://www.fushifaru.com/tag/honeymoon/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "jet ski",
+    "source_url": "https://www.fushifaru.com/tag/honeymoon/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "dolphin cruise",
+    "source_url": "https://www.fushifaru.com/tag/honeymoon/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "canoe",
+    "source_url": "https://www.fushifaru.com/tag/honeymoon/",
+    "as_of": "2026-10-05"
    }
   ],
   "kids_family.kids_club": [
@@ -1392,6 +1977,11 @@
     "value": "Kokko Kids Club",
     "source_url": "https://www.fushifaru.com/experiences/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "Kokko Kids Club",
+    "source_url": "https://www.fushifaru.com/experience/water-activities/",
+    "as_of": "2026-10-05"
    }
   ],
   "sustainability": [
@@ -1484,6 +2074,26 @@
    },
    {
     "value": "Lhaviyani Atoll",
+    "source_url": "https://www.fushifaru.com/exquisite-dining-experiences-you-must-try/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Lhaviyani Atoll",
+    "source_url": "https://www.fushifaru.com/news/romance-beneath-the-maldivian-sky-fushifaru-maldives-unveils-sleep-under-the-stars/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Lhaviyani Atoll",
+    "source_url": "https://www.fushifaru.com/sleep-under-the-stars/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Lhaviyani Atoll",
+    "source_url": "https://www.fushifaru.com/tag/honeymoon/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Lhaviyani Atoll",
     "source_url": "https://letsgomaldives.com/news/fushifaru-maldives-wins-four-awards-at-the-prestigious-luxe-global-awards/",
     "as_of": "2026-10-04"
    },
@@ -1538,6 +2148,11 @@
     "value": "domestic flight",
     "source_url": "https://www.fushifaru.com/getting-here/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.fushifaru.com/offer/celebrate-9-fantastic-years-of-fushifaru/",
+    "as_of": "2026-10-05"
    }
   ],
   "diving_watersports.house_reef": [
@@ -1585,6 +2200,11 @@
     "value": "house reef or opt for an excursion with our Dive Centre that offers tours to the best spots around the Lhaviyani Atoll, ensuring an unforgettable experience",
     "source_url": "https://www.fushifaru.com/a-day-in-the-life-at-fushifaru-maldives/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "House Reef",
+    "source_url": "https://www.fushifaru.com/offer/celebrate-9-fantastic-years-of-fushifaru/",
+    "as_of": "2026-10-05"
    }
   ],
   "transfer.minutes.seaplane": [
@@ -1616,6 +2236,11 @@
     "value": "reservations@fushifaru.com",
     "source_url": "https://www.fushifaru.com/privacy-policy/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "reservations@fushifaru.com",
+    "source_url": "https://www.fushifaru.com/news/romance-beneath-the-maldivian-sky-fushifaru-maldives-unveils-sleep-under-the-stars/",
+    "as_of": "2026-10-05"
    }
   ],
   "weddings.venues": [

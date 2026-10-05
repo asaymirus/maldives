@@ -55,6 +55,12 @@ All-inclusive: All Inclusive Plan.
 - Packages: Forever Photography Package USD 350 (2021); Pure Photography Package USD 200 (2021); Fly Drone Photography Package USD 200 (2021); Fly Drone Video Package USD 350 (2021)
 - Brochure: https://kagimaldives.com/wp-content/uploads/2021/01/Kagi_PureRomanceWeddings2021.pdf
 
+## Destination dining
+
+- Experiences: sunset cruise, floating breakfast, destination dining, sandbank picnic, romantic private dinner, romantic dinner
+- Packages: Floating Breakfast USD 105 (2021); Healthy Floating Breakfast USD 241 (2026-10-04)
+- Sandbank events: True; document: none
+
 ## Events / MICE
 
 - Venues: n/a; capacity max: 12; buyout: None
@@ -78,10 +84,11 @@ All-inclusive: All Inclusive Plan.
 - dive_prices: https://kagimaldives.com/wp-content/uploads/2026/02/KagiMSTSDivingPriceList120125103126Ver220226.pdf
 - events: none
 - calendar: https://d2qwq69i2ic1pk.cloudfront.net/2023/11/CCR_2024_Calendar_compressed.pdf
+- destination_dining: none
 
 ## Gaps
 
 - events/MICE document
 - fact: kids club
 
-_Facts extracted by rules from 25 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._
+_Facts extracted by rules from 28 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

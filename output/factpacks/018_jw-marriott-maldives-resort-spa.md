@@ -49,6 +49,12 @@ Meal plans: n/a
 - Packages: n/a
 - Brochure: none
 
+## Destination dining
+
+- Experiences: destination dining, floating breakfast, candle lit dinner, in-villa dining, romantic candlelit dinner, wine pairing, beach bbq
+- Packages: n/a
+- Sandbank events: None; document: none
+
 ## Events / MICE
 
 - Venues: n/a; capacity max: n/a; buyout: None
@@ -72,6 +78,7 @@ Meal plans: n/a
 - dive_prices: none
 - events: none
 - calendar: none
+- destination_dining: none
 
 ## Gaps
 
@@ -79,4 +86,4 @@ Meal plans: n/a
 - events/MICE document
 - fact: dive operator
 
-_Facts extracted by rules from 19 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._
+_Facts extracted by rules from 20 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

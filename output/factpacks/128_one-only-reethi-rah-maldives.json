@@ -140,6 +140,17 @@
   "packages": [],
   "brochure_doc": null
  },
+ "destination_dining": {
+  "experiences": [
+   "private dining",
+   "sandbank experience",
+   "sunset cruise",
+   "in-villa dining"
+  ],
+  "packages": [],
+  "sandbank_events": true,
+  "doc": null
+ },
  "events_mice": {
   "venues": [],
   "capacity_max": 30,
@@ -160,7 +171,8 @@
   "dining_menu": "https://amilla.com/wp-content/uploads/Francesc_Menu.pdf",
   "dive_prices": null,
   "events": null,
-  "calendar": null
+  "calendar": null,
+  "destination_dining": null
  },
  "documents_count": 4,
  "gaps": [
@@ -677,6 +689,53 @@
     "as_of": 2017
    }
   ],
+  "destination_dining.experiences": [
+   {
+    "value": "private dining",
+    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Factsheet-OneOnly-Reethi-Rah.pdf",
+    "as_of": 2019
+   },
+   {
+    "value": "private dining",
+    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Factsheet-OneOnly-Reethi-Rah.pdf",
+    "as_of": 2019
+   },
+   {
+    "value": "private dining",
+    "source_url": "https://www.neoscapesmaldives.com/resort/one-only-reethi-rah-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "private dining",
+    "source_url": "https://www.neoscapesmaldives.com/resort/one-only-reethi-rah-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank experience",
+    "source_url": "https://www.neoscapesmaldives.com/resort/one-only-reethi-rah-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.neoscapesmaldives.com/resort/one-only-reethi-rah-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank experience",
+    "source_url": "https://www.neoscapesmaldives.com/resort/one-only-reethi-rah-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "in-villa dining",
+    "source_url": "https://www.mymaldives.com/resort-guide/one-and-only-reethi-rah/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.turquoiseholidays.co.uk/destinations/indian-ocean/maldives/oneonly-reethi-rah/",
+    "as_of": "2026-10-04"
+   }
+  ],
   "events_mice.capacity_max": [
    {
     "value": 30,
@@ -686,17 +745,7 @@
   ],
   "contacts_public.reservations_email": [
    {
-    "value": "usasales@kerzner.com",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Factsheet-OneOnly-Reethi-Rah.pdf",
-    "as_of": 2019
-   },
-   {
-    "value": "infoce@kerzner.com",
-    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Factsheet-OneOnly-Reethi-Rah.pdf",
-    "as_of": 2019
-   },
-   {
-    "value": "inforu@kerzner.com",
+    "value": "infohkg@kerzner.com",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Factsheet-OneOnly-Reethi-Rah.pdf",
     "as_of": 2019
    },
@@ -711,7 +760,7 @@
     "as_of": 2019
    },
    {
-    "value": "gccsales@kerzner.com",
+    "value": "usasales@kerzner.com",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Factsheet-OneOnly-Reethi-Rah.pdf",
     "as_of": 2019
    },
@@ -721,12 +770,22 @@
     "as_of": 2019
    },
    {
+    "value": "inforu@kerzner.com",
+    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Factsheet-OneOnly-Reethi-Rah.pdf",
+    "as_of": 2019
+   },
+   {
     "value": "infoanz@kerzner.com",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Factsheet-OneOnly-Reethi-Rah.pdf",
     "as_of": 2019
    },
    {
-    "value": "infohkg@kerzner.com",
+    "value": "gccsales@kerzner.com",
+    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Factsheet-OneOnly-Reethi-Rah.pdf",
+    "as_of": 2019
+   },
+   {
+    "value": "infoce@kerzner.com",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Factsheet-OneOnly-Reethi-Rah.pdf",
     "as_of": 2019
    },
@@ -888,6 +947,13 @@
   "kids_family.kids_club": [
    {
     "value": "Kids Club",
+    "source_url": "https://www.neoscapesmaldives.com/resort/one-only-reethi-rah-resort/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "destination_dining.sandbank_events": [
+   {
+    "value": true,
     "source_url": "https://www.neoscapesmaldives.com/resort/one-only-reethi-rah-resort/",
     "as_of": "2026-10-04"
    }

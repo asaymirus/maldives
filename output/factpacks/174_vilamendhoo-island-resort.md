@@ -32,6 +32,7 @@
 - Boashi Bar (bar)
 - Sunset Bar (bar)
 - Asian Wok Bar (bar)
+- a refreshing cocktail or two at Bonthi Bar (bar)
 
 Meal plans: FB, AI, Dine Around
 All-inclusive: All-Inclusive Dine Around Package.
@@ -47,7 +48,7 @@ All-inclusive: All-Inclusive Dine Around Package.
 - House reef: house reef just a short swim away from the expansive sandy beach, the quintessential tropical diving
 - Activities: snorkeling, windsurfing, catamaran, jet ski, wakeboarding, sunset cruise, whale shark, manta, fun tube, scuba diving, fishing, sailing, snorkelling, kayaking, stand-up paddle, paddleboard, canoe, water skiing
 - Price list: https://dra0pipbd8ype.cloudfront.net/2025/12/Vilamendhoo-Dive-English_JAN26.pdf
-- Excursions: local island, whale shark, manta, turtle, sandbank, dolphin, picnic, island hopping, cooking class
+- Excursions: local island, whale shark, manta, turtle, sandbank, dolphin, picnic, island hopping, cooking class, private dinner
 
 ## Kids & family
 
@@ -59,6 +60,12 @@ All-inclusive: All-Inclusive Dine Around Package.
 - Venues: VILA VoWs ceremony in our tropical beach;  Tropical Ceremony Set‐Up at the Beach; a traditional Maldivian ceremony set on the beach
 - Packages: Vow USD 1485 (2024); Wedding USD 520 (2024)
 - Brochure: https://dra0pipbd8ype.cloudfront.net/2025/06/HoneymoonGuestInfoRatesVilamendhooVer020525.pdf
+
+## Destination dining
+
+- Experiences: sunset cruise, beach bbq, private chef, romantic beach dinner, lobster dinner, beach dinner, in-villa dining, candlelit dinner, romantic dinner, private dining, romantic private dinner
+- Packages: Romantic Candlelight Seafood Dinner USD 255 (2026)
+- Sandbank events: None; document: https://dra0pipbd8ype.cloudfront.net/2025/07/Vilamendhoo-Candle-Light-Dinner-Menu-010725.pdf
 
 ## Events / MICE
 
@@ -83,9 +90,10 @@ All-inclusive: All-Inclusive Dine Around Package.
 - dive_prices: https://dra0pipbd8ype.cloudfront.net/2025/12/Vilamendhoo-Dive-English_JAN26.pdf
 - events: none
 - calendar: https://d2qwq69i2ic1pk.cloudfront.net/2023/11/CCR_2024_Calendar_compressed.pdf
+- destination_dining: https://dra0pipbd8ype.cloudfront.net/2025/07/Vilamendhoo-Candle-Light-Dinner-Menu-010725.pdf
 
 ## Gaps
 
 - events/MICE document
 
-_Facts extracted by rules from 26 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._
+_Facts extracted by rules from 28 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

@@ -5,15 +5,15 @@
 | metric | resorts |
 |---|---|
 | factsheet | 122 / 182 |
-| wedding | 55 / 182 |
-| events | 23 / 182 |
-| spa_menu | 77 / 182 |
-| dining_menu | 79 / 182 |
-| dive_prices | 58 / 182 |
+| wedding | 54 / 182 |
+| events | 20 / 182 |
+| spa_menu | 74 / 182 |
+| dining_menu | 81 / 182 |
+| dive_prices | 56 / 182 |
 | map | 125 / 182 |
-| resorts_with_docs | 158 / 182 |
-| nothing | 24 / 182 |
-| documents stored (unique by SHA-256) | 3344 |
+| resorts_with_docs | 159 / 182 |
+| nothing | 23 / 182 |
+| documents stored (unique by SHA-256) | 3398 |
 
 ## Resorts without a factsheet
 
@@ -143,7 +143,7 @@
 | 9 | Amilla Fushi | events | ok |
 | 10 | Dreamland - The Unique Sea & Lake Resort/Spa | events | ok |
 | 11 | Angaga Island Resort and Spa | events | ok |
-| 12 | Thulhagiri Island Resort & Spa | factsheet, events | ok |
+| 12 | Thulhagiri Island Resort & Spa | factsheet, wedding, events | ok |
 | 13 | Sandies Bathala | factsheet, wedding | ok |
 | 14 | Baglioni Resort Maldives | factsheet, wedding, events | blocked |
 | 15 | Alila Kothaifaru Maldives | wedding, events | blocked |
@@ -157,7 +157,8 @@
 | 23 | Nooe Maldives Kunavashi | wedding, events | ok |
 | 24 | Canareef Resort Maldives | factsheet, wedding, events | ok |
 | 25 | Raffles Maldives Meradhoo Resort | wedding, events | blocked |
-| 27 | Grand Park Kodhipparu Maldives | wedding, events | ok |
+| 26 | Centara Ras Fushi Resort & Spa | events | ok |
+| 27 | Grand Park Kodhipparu Maldives | wedding | ok |
 | 28 | Kudadoo Maldives Private island | wedding, events | ok |
 | 29 | Dheruhfinolhu by Jawakara Islands Maldives | factsheet, wedding, events | ok |
 | 30 | Hurawalhi Island Resort | events | ok |
@@ -175,7 +176,7 @@
 | 42 | Dhiggiri Tourist Resort | factsheet, wedding, events | ok |
 | 43 | Dhigufaru Island Resort | events | ok |
 | 44 | Hard Rock Hotel Maldives | factsheet, events | ok |
-| 45 | Saii Lagoon Maldives | wedding | ok |
+| 45 | Saii Lagoon Maldives | wedding, events | ok |
 | 47 | Park Hyatt Maldives, Hadahaa | factsheet, wedding, events | unverified |
 | 48 | Dusit Thani Maldives | wedding, events | unverified |
 | 49 | Vakkaru Maldives | events | ok |
@@ -210,7 +211,7 @@
 | 82 | Ifuru Island Maldives | wedding, events | ok |
 | 83 | Mabinhura by Jawakara Islands Maldives | factsheet, wedding, events | ok |
 | 84 | Alimatha Aquatic Resort | factsheet, wedding, events | blocked-partial |
-| 85 | Centara Mirage Lagoon Maldives & Centara Grand Lagoon Maldives | wedding | ok |
+| 85 | Centara Mirage Lagoon Maldives & Centara Grand Lagoon Maldives | wedding, events | ok |
 | 86 | Four Seasons Private Island Maldives at Voavah | factsheet, wedding, events | blocked |
 | 87 | Four Seasons Resort Maldives at Landaa Giraavaru | factsheet, wedding, events | blocked |
 | 88 | Holiday Inn Resort Kandooma Maldives | factsheet, wedding, events | blocked |
@@ -219,7 +220,7 @@
 | 91 | Lily Beach Resort | wedding, events | ok |
 | 92 | Amaya Kuda Rah Maldives | wedding, events | unverified |
 | 93 | Maayafushi Tourist Resort | factsheet, wedding, events | unreachable |
-| 94 | Reethi Faru Resort | wedding, events | ok |
+| 94 | Reethi Faru Resort | events | ok |
 | 95 | Malahini Kuda Bandos | wedding, events | ok |
 | 96 | Dhawa Ihuru | wedding | unreachable |
 | 97 | Angsana Resort & Spa Maldives - Velavaru | wedding | ok |
@@ -248,7 +249,7 @@
 | 123 | Pullman Maldives Maamutaa Resort | wedding, events | blocked-partial |
 | 124 | Aanugandu Island Resort | factsheet, wedding, events | unreachable |
 | 125 | Gili Lankanfushi | factsheet, wedding, events | ok |
-| 126 | Centara Grand Island Resort & Spa Maldives | wedding | ok |
+| 126 | Centara Grand Island Resort & Spa Maldives | wedding, events | ok |
 | 127 | Oaga Art Resort | wedding, events | ok |
 | 128 | One & Only Reethi Rah, Maldives | wedding, events | unreachable |
 | 129 | Riu Atoll and Riu Palace Maldivas | factsheet, wedding, events | ok |
@@ -258,7 +259,7 @@
 | 133 | Oblu By Atmosphere at Helengeli | factsheet, wedding, events | ok |
 | 134 | The St. Regis Vommuli Resort, Maldives | wedding, events | blocked |
 | 135 | Diamonds Thudufushi Beach and Water Villas | wedding, events | ok |
-| 137 | Soneva Secret | factsheet, events | ok |
+| 137 | Soneva Secret | factsheet, wedding, events | ok |
 | 138 | Varu Island Resort | factsheet, wedding, events | blocked-partial |
 | 139 | Kudafushi Resort & Spa | events | ok |
 | 140 | The Standard Huruvalhi Maldives | wedding, events | blocked |
@@ -311,16 +312,16 @@
 | heritancehotels.com | 187 |
 | kagimaldives.com | 110 |
 | soneva.com | 103 |
-| vilamendhoo.com | 99 |
+| vilamendhoo.com | 102 |
 | amilla.com | 90 |
 | huvafenfushi.com | 88 |
+| milaidhoo.com | 87 |
 | comohotels.com | 86 |
-| milaidhoo.com | 86 |
+| baros.com | 86 |
 | dhigali.com | 84 |
-| baros.com | 84 |
 | kurumba.com | 84 |
 | saiiresorts.com | 81 |
-| kandolhu.com | 74 |
+| kandolhu.com | 75 |
 | sales.crownandchamparesorts.com | 73 |
 
 ## Blocked / unreachable official sites
@@ -417,34 +418,6 @@
 | 133 | Oblu By Atmosphere at Helengeli | official site now at www.coloursofoblu.com (discovered) |
 | 165 | Velassaru Maldives | official site now at www.nivavelassaru.com (discovered) |
 | 173 | Kurumba Maldives | official site now at www.nivakurumba.com (discovered) |
-
-## How the sources performed
-
-- **Official websites**: 115 crawled fully, 14 partially (bot wall on some paths), 24 blocked (CAPTCHA/WAF: Marriott, Hilton, Hyatt, Six Senses, Anantara/Minor, Four Seasons, Constance, Baglioni, ...), 9 unverified (JavaScript shell with no resort text even after headless render), 20 unreachable (TLS/DNS failures from this egress, e.g. joali.com, coastlineresidences.com).
-- **Dash (dash.app) brand portals** (new this run): the public-portal guest API was reverse-engineered from the page's own requests (portal lookup → guest access token → asset search; DOCUMENT previews are the PDFs). Portals read: pulse/kandima-maldives-official-library (14 PDFs); pulse/nova-maldives-official-library (30 PDFs); pulse/pulse-hotels-and-resorts (102 PDFs); villaresorts/villa-resorts (54 PDFs); villaresorts/villa-nautica (15 PDFs); villaresorts/villa-park (14 PDFs); villaresorts/royal-island (10 PDFs); soneva/media-library (0 PDFs, login required); soneva/brand-assets (0 PDFs, login required). 97 documents in the library come from Dash (Kandima incl. MICE brochure 2026 and 2024 factsheet, Nova, Pulse brand kit, Villa Nautica / Villa Park / Royal Island). Soneva's Dash portals exist but require a login, so they were not accessed.
-- **Other DAMs**: the crawler logged every Brandfolder / Bynder / Canto / Widen / flipbook / cloud-storage link seen on resort pages (`state/dam_hosts.jsonl`) and rendered the shareable ones; COMO's CloudFront press room and a Heyzine flipbook yielded PDFs. Constance's Brandfolder (cdn.bfldr.com) links were only reachable through constancehotels.com, which blocks us.
-- **Crown & Champa portal**: WP media API + section pages; validity codes decoded (mmddyy pairs, e.g. 110125103126 = 1 Nov 2025 – 31 Oct 2026) into valid_from / valid_to.
-- **Agencies / DMCs**: 252 domains crawled (robots.txt respected); neoscapesmaldives.com is the single most useful mirror (222 docs), then unihotel.org, awesomegetawaymaldives.com, maldives.ru. The Ministry of Tourism register (tourism.gov.mv) returns HTTP 403 to this egress, so a curated list was used.
-- **Archives**: Wayback CDX returns 403 and web.archive.org resets connections through this egress; the availability API located 88 archived copies of failed PDF URLs but none could be fetched. Common Crawl's index worked earlier in the session (e.g. 21 Sun Siyam and 37 COMO PDFs indexed) but returned 503/504 for the final run; `python3 phase_d.py cc run all` is ready to re-run when the index recovers (288 domain/path targets prepared, 1 done).
-- **Flipbook platforms**: Issuu's rendered search page exposes no document links and Yumpu's results do not match the resorts; after 69 resorts with zero hits the stage was stopped (metadata-only by design). **Search API**: skipped, no `BRAVE_API_KEY` / `SERPAPI_KEY` set.
-
-## Processing outcomes
-
-- Candidate URLs processed: 4996 → stored 3344, duplicates 419, unmatched 433, rejected foreign sister-property 113, excluded trade-only 9, failed 677.
-- 641 stored documents are `needs-review`: the file does not name the resort itself (typical for menus, maps and price lists) and the match rests on the official page/portal it was found on. 424 documents have no text layer (OCR tools are installed; run `ocrmypdf` on these before fact extraction).
-- Excluded as trade-only (9): https://www.neoscapesmaldives.com/wp-content/uploads/InterContinental-Maldives-Resort-Island-Map.pdf, https://dreamland.com.mv/wp-content/uploads/2024/08/Duny-Spa-menu-2023.pdf, https://dreamland.com.mv/wp-content/uploads/2024/07/Duny-Spa-menu-2023.pdf, https://www.angaga.com.mv/wp-content/uploads/2018/12/Duny-Spa-menu-english-1.pdf, https://www.angaga.com.mv/wp-content/uploads/2018/12/Duny-Spa-menu-english.pdf, https://angaga.com.mv/wp-content/uploads/2018/12/Duny-Spa-menu-english.pdf, https://kagimaldives.com/wp-content/uploads/2020/09/Kagi_Special_Offer_Extension_Jan-Apr2021Ver012521.pdf, https://kagimaldives.com/wp-content/uploads/2021/01/1609419140_Kagi_Special_Offer_Extension_Jan-Apr2021Ver123120.pdf ...
-- Rejected as foreign sister properties (113), e.g.: Haali-Takeover_Halloween-Week-Giorgio-Chiarello-Ex, Aarah-Hathaa-Tokyo-Street-Food-Menu-11.08.2025.pdf, SKS-SAii-Club-Drink-List.pdf, SKS_wedding_brochure_2025_01_low.pdf, so_paris_eco-practices_EN_1208.pdf, so_paris_eco-practices_EN_1108.pdf, so_paris_eco-practices_EN.pdf, so_paris_pressrelease_samaritaine_EN.pdf
-
-## Fact packs
-
-- `output/factpacks/<NNN>_<slug>.json|.md` for all 182 resorts, `all_resorts.csv` flat table. Extraction is rule-based (regexes over the latest factsheet/brochure/menus and the scraped pages); every fact carries `source_url` + `as_of` in the pack's `sources` map and fields the rules could not fill are null and listed under `gaps`. Villa-category and dining lists need a human read for two-column factsheet layouts.
-
-## Recommended next steps
-
-1. Re-run `python3 phase_d.py cc run all` when index.commoncrawl.org stops returning 503 (it covers the blocked chain sites: Marriott/Hilton/Hyatt/Six Senses/Anantara/Four Seasons/Constance).
-2. Direct email requests for wedding and MICE brochures to the resorts still missing them (see table above); the Dash/brand-portal route worked for Pulse and Villa Resorts, so ask other groups (Atmosphere Core, Sun Siyam, Universal, Coco Collection) for their portal links.
-3. Give the crawler a residential/office egress or a Brave/SerpAPI key for the search gap-fill; 79 previously blocked official sites were retried from this IP and most remain behind bot walls.
-4. Review the `needs-review` documents and the villa/dining fields in the fact packs; OCR the no-text-layer files.
 
 ## Storage
 

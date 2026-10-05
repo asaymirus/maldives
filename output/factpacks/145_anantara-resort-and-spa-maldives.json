@@ -241,6 +241,19 @@
   "packages": [],
   "brochure_doc": null
  },
+ "destination_dining": {
+  "experiences": [
+   "candlelit dinner",
+   "sunset cruise",
+   "romantic dining",
+   "private dining",
+   "dine under the stars",
+   "romantic candlelit dinner"
+  ],
+  "packages": [],
+  "sandbank_events": null,
+  "doc": null
+ },
  "events_mice": {
   "venues": [],
   "capacity_max": 50,
@@ -263,7 +276,8 @@
   "dining_menu": null,
   "dive_prices": null,
   "events": null,
-  "calendar": null
+  "calendar": null,
+  "destination_dining": null
  },
  "documents_count": 2,
  "gaps": [
@@ -1242,6 +1256,63 @@
    {
     "value": true,
     "source_url": "https://www.neoscapesmaldives.com/resort/anantara-dhigu-resort/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "destination_dining.experiences": [
+   {
+    "value": "candlelit dinner",
+    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Anantara_Dhigu_Maldives_Factsheet_January_2023.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.neoscapesmaldives.com/resort/anantara-dhigu-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "romantic dining",
+    "source_url": "https://www.neoscapesmaldives.com/resort/anantara-dhigu-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "private dining",
+    "source_url": "https://www.neoscapesmaldives.com/resort/anantara-dhigu-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dine under the stars",
+    "source_url": "https://www.neoscapesmaldives.com/resort/anantara-dhigu-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "private dining",
+    "source_url": "https://www.neoscapesmaldives.com/resort/anantara-dhigu-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "romantic candlelit dinner",
+    "source_url": "https://www.neoscapesmaldives.com/resort/anantara-dhigu-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "candlelit dinner",
+    "source_url": "https://www.maldivesholidayoffers.com/accomodation/resorts/anantara-dhigu/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.maldivesholidayoffers.com/accomodation/resorts/anantara-dhigu/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.maldivesholidayoffers.com/accomodation/resorts/anantara-dhigu/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "private dining",
+    "source_url": "https://www.maldivesholidayoffers.com/accomodation/resorts/anantara-dhigu/",
     "as_of": "2026-10-04"
    }
   ],

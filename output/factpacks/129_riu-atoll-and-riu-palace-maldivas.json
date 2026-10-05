@@ -14,8 +14,8 @@
  "operator_brand": "RIU",
  "atoll": "Dhaalu Atoll",
  "island": "Kedhigandu\nSpa",
- "opened_or_renovated": null,
- "star_rating": null,
+ "opened_or_renovated": "opened 2001",
+ "star_rating": "5-star",
  "transfer": {
   "modes": [],
   "minutes": {
@@ -28,19 +28,33 @@
  "island_size": null,
  "villas": {
   "total": 176,
-  "categories": []
+  "categories": [
+   {
+    "name": "junior suites and suites",
+    "count": 289,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   }
+  ]
  },
  "dining": [
   {
    "name": "Steakhouse",
    "cuisine": null,
    "type": "restaurant"
+  },
+  {
+   "name": "Temple Bar",
+   "cuisine": null,
+   "type": "bar"
   }
  ],
  "meal_plans": [
   "AI"
  ],
- "all_inclusive_details": null,
+ "all_inclusive_details": "All-Inclusive model is today, and how we have made it a key to the success of our service, considering the misgivings it inspired initially.",
  "spa": {
   "name": "Spa",
   "treatment_rooms": null,
@@ -52,25 +66,42 @@
   "house_reef": null,
   "activities": [
    "snorkeling",
-   "sunset cruise"
+   "sunset cruise",
+   "snorkelling",
+   "windsurfing",
+   "surfing",
+   "kayaking"
   ],
   "price_list_doc": null
  },
- "excursions": [],
+ "excursions": [
+  "turtle",
+  "private dinner"
+ ],
  "kids_family": {
-  "kids_club": null,
-  "age_range": null,
+  "kids_club": "Resorts Kids Club",
+  "age_range": "2-10 years",
   "teens": null
  },
  "wellness_fitness": [
-  "gym"
+  "gym",
+  "sauna"
  ],
  "weddings": {
-  "offered": null,
+  "offered": true,
   "vow_renewal": null,
   "venues": [],
   "packages": [],
   "brochure_doc": null
+ },
+ "destination_dining": {
+  "experiences": [
+   "sunset cruise",
+   "romantic dinner"
+  ],
+  "packages": [],
+  "sandbank_events": null,
+  "doc": null
  },
  "events_mice": {
   "venues": [],
@@ -78,7 +109,9 @@
   "buyout": null,
   "doc": null
  },
- "sustainability": [],
+ "sustainability": [
+  "Travelife"
+ ],
  "contacts_public": {
   "reservations_email": null,
   "weddings_email": null,
@@ -92,18 +125,16 @@
   "dining_menu": null,
   "dive_prices": null,
   "events": null,
-  "calendar": null
+  "calendar": null,
+  "destination_dining": null
  },
- "documents_count": 0,
+ "documents_count": 4,
  "gaps": [
   "factsheet",
   "wedding brochure",
   "events/MICE document",
-  "fact: villa categories",
   "fact: transfer",
   "fact: dive operator",
-  "fact: kids club",
-  "fact: weddings",
   "fact: contacts"
  ],
  "sources": {
@@ -124,6 +155,31 @@
     "value": "Kedhigandu\nSpa",
     "source_url": "https://www.riu.com/en/hotel/maldives/dhaalu-atoll/hotel-riu-palace-maldivas",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "Sal",
+    "source_url": "https://www.riu.com/blog/en/africa-avanza-celebrates-its-fifth-anniversary-in-cape-verde-with-more-than-700-surgical-operations-and-1600-beneficiaries/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Sal",
+    "source_url": "https://www.riu.com/blog/en/cape-verde-celebrates-female-talent/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Aruba",
+    "source_url": "https://www.riu.com/blog/en/riu-palace-antillas-anniversary/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Ku",
+    "source_url": "https://www.riu.com/blog/en/riu-plaza-berlin-celebrates-its-annual-itb-party/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Fuerteventura",
+    "source_url": "https://www.riu.com/blog/en/the-5-best-riu-hotels-for-your-honeymoon/",
+    "as_of": "2026-10-05"
    }
   ],
   "villas.total": [
@@ -131,6 +187,31 @@
     "value": 176,
     "source_url": "https://www.riu.com/en/hotel/maldives/dhaalu-atoll/hotel-riu-palace-maldivas",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": 340,
+    "source_url": "https://www.riu.com/blog/en/20-anniversary-riu-jamaica/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": 327,
+    "source_url": "https://www.riu.com/blog/en/riu-madeira-in-the-mood-for-a-romantic-dinner/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": 482,
+    "source_url": "https://www.riu.com/blog/en/riu-palace-antillas-anniversary/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": 482,
+    "source_url": "https://www.riu.com/blog/en/riu-palace-antillas-anniversary/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": 435,
+    "source_url": "https://www.riu.com/blog/en/the-riu-plaza-london-victoria-hotel-celebrates-its-first-anniversary/",
+    "as_of": "2026-10-05"
    }
   ],
   "meal_plans": [
@@ -138,6 +219,21 @@
     "value": "AI",
     "source_url": "https://www.riu.com/en/hotel/maldives/dhaalu-atoll/hotel-riu-palace-maldivas",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://www.riu.com/blog/en/25-anniversary-riu-hotels-mexico/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://www.riu.com/blog/en/experiences-customers-riu-postcovid19/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://www.riu.com/blog/en/riu-palace-antillas-anniversary/",
+    "as_of": "2026-10-05"
    }
   ],
   "spa.name": [
@@ -145,6 +241,16 @@
     "value": "Spa",
     "source_url": "https://www.riu.com/en/hotel/maldives/dhaalu-atoll/hotel-riu-palace-maldivas",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "Wellness Renova Spa",
+    "source_url": "https://www.riu.com/blog/en/enjoy-a-genuinely-adults-only-experience-in-cancun-at-the-riu-palace-las-americas/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Renova Spa",
+    "source_url": "https://www.riu.com/blog/en/riu-palace-antillas-anniversary/",
+    "as_of": "2026-10-05"
    }
   ],
   "diving_watersports.activities": [
@@ -157,6 +263,41 @@
     "value": "sunset cruise",
     "source_url": "https://www.riu.com/en/hotel/maldives/dhaalu-atoll/hotel-riu-palace-maldivas",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.riu.com/blog/en/celebrate-the-arrival-of-summer-with-riu/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "windsurfing",
+    "source_url": "https://www.riu.com/blog/en/celebrate-the-arrival-of-summer-with-riu/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "surfing",
+    "source_url": "https://www.riu.com/blog/en/celebrate-the-arrival-of-summer-with-riu/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "kayaking",
+    "source_url": "https://www.riu.com/blog/en/celebrate-the-arrival-of-summer-with-riu/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.riu.com/blog/en/five-incredible-experiences-in-cabo-san-lucas/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "kayaking",
+    "source_url": "https://www.riu.com/blog/en/five-incredible-experiences-in-cabo-san-lucas/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "surfing",
+    "source_url": "https://www.riu.com/blog/en/the-experience-of-surfing-and-kite-surfing-in-mauritius-told-by-professionals/",
+    "as_of": "2026-10-05"
    }
   ],
   "wellness_fitness": [
@@ -164,6 +305,58 @@
     "value": "gym",
     "source_url": "https://www.riu.com/en/hotel/maldives/dhaalu-atoll/hotel-riu-palace-maldivas",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "sauna",
+    "source_url": "https://www.riu.com/blog/en/enjoy-a-genuinely-adults-only-experience-in-cancun-at-the-riu-palace-las-americas/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "gym",
+    "source_url": "https://www.riu.com/blog/en/riu-madeira-in-the-mood-for-a-romantic-dinner/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sauna",
+    "source_url": "https://www.riu.com/blog/en/riu-madeira-in-the-mood-for-a-romantic-dinner/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "gym",
+    "source_url": "https://www.riu.com/blog/en/riu-palace-antillas-anniversary/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sauna",
+    "source_url": "https://www.riu.com/blog/en/riu-palace-youve-got-to-experience-it/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "gym",
+    "source_url": "https://www.riu.com/blog/en/the-riu-plaza-london-victoria-hotel-celebrates-its-first-anniversary/",
+    "as_of": "2026-10-05"
+   }
+  ],
+  "destination_dining.experiences": [
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.riu.com/en/hotel/maldives/dhaalu-atoll/hotel-riu-palace-maldivas",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "romantic dinner",
+    "source_url": "https://www.riu.com/blog/en/enjoy-a-genuinely-adults-only-experience-in-cancun-at-the-riu-palace-las-americas/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "romantic dinner",
+    "source_url": "https://www.riu.com/blog/en/riu-madeira-in-the-mood-for-a-romantic-dinner/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "romantic dinner",
+    "source_url": "https://www.riu.com/blog/en/romantic-holiday-riu-palace-jamaica/",
+    "as_of": "2026-10-05"
    }
   ],
   "contacts_public.phone": [
@@ -182,6 +375,209 @@
     },
     "source_url": "https://www.riu.com/en/hotel/maldives/dhaalu-atoll/hotel-riu-palace-maldivas/gastronomy",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Temple Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.riu.com/blog/en/new-years-eve-a-tradition-celebrated-in-lots-of-different-ways/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": {
+     "name": "Steakhouse",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.riu.com/blog/en/romantic-holiday-riu-palace-jamaica/",
+    "as_of": "2026-10-05"
+   }
+  ],
+  "opened_or_renovated": [
+   {
+    "value": "opened 2001",
+    "source_url": "https://www.riu.com/blog/en/20-anniversary-riu-jamaica/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "renovated 2018",
+    "source_url": "https://www.riu.com/blog/en/20-anniversary-riu-jamaica/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "opened 2020",
+    "source_url": "https://www.riu.com/blog/en/riu-dubai-an-unsurpassable-experience-with-all-inclusive/",
+    "as_of": "2026-10-05"
+   }
+  ],
+  "all_inclusive_details": [
+   {
+    "value": "All-Inclusive model is today, and how we have made it a key to the success of our service, considering the misgivings it inspired initially.",
+    "source_url": "https://www.riu.com/blog/en/20-anniversary-riu-jamaica/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "all-inclusive range was in Mexico.",
+    "source_url": "https://www.riu.com/blog/en/25-anniversary-riu-hotels-mexico/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "all-inclusive product.",
+    "source_url": "https://www.riu.com/blog/en/experiences-customers-riu-postcovid19/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "All Inclusive experience so you can enjoy the facilities and cuisine to the fullest during your stay in Dubai with RIU.",
+    "source_url": "https://www.riu.com/blog/en/riu-dubai-an-unsurpassable-experience-with-all-inclusive/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "all-inclusive service.",
+    "source_url": "https://www.riu.com/blog/en/riu-palace-antillas-anniversary/",
+    "as_of": "2026-10-05"
+   }
+  ],
+  "excursions": [
+   {
+    "value": "turtle",
+    "source_url": "https://www.riu.com/blog/en/5-experiences-holiday-hotel-riu-sri-lanka/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "private dinner",
+    "source_url": "https://www.riu.com/blog/en/celebrate-those-magic-moments-before-and-after-your-wedding-with-us/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.riu.com/blog/en/riu-celebrates-world-environment-day/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.riu.com/blog/en/riu-launches-the-video-green-human-to-celebrate-the-world-environment-day/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.riu.com/blog/en/riuland-a-unique-experience-for-the-little-ones-in-your-family/",
+    "as_of": "2026-10-05"
+   }
+  ],
+  "weddings.offered": [
+   {
+    "value": true,
+    "source_url": "https://www.riu.com/blog/en/cape-verde-celebrates-female-talent/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.riu.com/blog/en/celebrate-the-arrival-of-summer-with-riu/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.riu.com/blog/en/celebrate-those-magic-moments-before-and-after-your-wedding-with-us/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.riu.com/blog/en/celebrate-those-magic-moments-before-and-after-your-wedding-with-us/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.riu.com/blog/en/celebrate-world-tourism-day-with-us/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.riu.com/blog/en/celebrate-your-dream-wedding-with-us/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.riu.com/blog/en/celebrate-your-dream-wedding-with-us/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.riu.com/blog/en/come-experience-the-exciting-splash-water-world-at-the-hotel-riu-republica/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.riu.com/blog/en/el-grito-day-the-biggest-celebration-in-mexico/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.riu.com/blog/en/new-years-eve-a-tradition-celebrated-in-lots-of-different-ways/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.riu.com/blog/en/riu-celebrates-world-environment-day/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.riu.com/blog/en/riu-launches-the-video-green-human-to-celebrate-the-world-environment-day/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.riu.com/blog/en/riu-plaza-berlin-celebrates-its-annual-itb-party/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.riu.com/blog/en/riuland-a-unique-experience-for-the-little-ones-in-your-family/",
+    "as_of": "2026-10-05"
+   }
+  ],
+  "sustainability": [
+   {
+    "value": "Travelife",
+    "source_url": "https://www.riu.com/blog/en/riu-launches-the-video-green-human-to-celebrate-the-world-environment-day/",
+    "as_of": "2026-10-05"
+   }
+  ],
+  "star_rating": [
+   {
+    "value": "5-star",
+    "source_url": "https://www.riu.com/blog/en/riu-palace-antillas-anniversary/",
+    "as_of": "2026-10-05"
+   }
+  ],
+  "kids_family.kids_club": [
+   {
+    "value": "Resorts Kids Club",
+    "source_url": "https://www.riu.com/blog/en/riuland-a-unique-experience-for-the-little-ones-in-your-family/",
+    "as_of": "2026-10-05"
+   }
+  ],
+  "kids_family.age_range": [
+   {
+    "value": "2-10 years",
+    "source_url": "https://www.riu.com/blog/en/riuland-a-unique-experience-for-the-little-ones-in-your-family/",
+    "as_of": "2026-10-05"
+   }
+  ],
+  "villas.categories": [
+   {
+    "value": {
+     "name": "junior suites and suites",
+     "count": 289,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://www.riu.com/blog/en/romantic-holiday-riu-palace-jamaica/",
+    "as_of": "2026-10-05"
    }
   ]
  },

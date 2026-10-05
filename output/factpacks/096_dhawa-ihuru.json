@@ -243,6 +243,29 @@
   "packages": [],
   "brochure_doc": null
  },
+ "destination_dining": {
+  "experiences": [
+   "destination dining",
+   "sunset cruise",
+   "in-villa dining",
+   "beach bbq",
+   "in-villa bbq",
+   "anniversary celebration",
+   "romantic dinner",
+   "in-villa barbecue",
+   "private dining",
+   "candlelit dinner",
+   "beach barbecue",
+   "floating breakfast",
+   "beach dinner",
+   "private chef",
+   "in villa dining",
+   "sandbank dinner"
+  ],
+  "packages": [],
+  "sandbank_events": true,
+  "doc": null
+ },
  "events_mice": {
   "venues": [
    "Boardroom 32 sqm • • • • 10",
@@ -264,7 +287,7 @@
   "coral restoration"
  ],
  "contacts_public": {
-  "reservations_email": "reservations-mayakoba@banyantree.com",
+  "reservations_email": "reservationsbt@mayakobaexperiences.com",
   "weddings_email": null,
   "phone": "+960 664 3147"
  },
@@ -276,7 +299,8 @@
   "dining_menu": null,
   "dive_prices": null,
   "events": "https://www.banyantree.com/assets/2022-06/mice-bt-shanghai.pdf",
-  "calendar": null
+  "calendar": null,
+  "destination_dining": null
  },
  "documents_count": 22,
  "gaps": [
@@ -2742,6 +2766,523 @@
     "as_of": "2026-10-04"
    }
   ],
+  "destination_dining.experiences": [
+   {
+    "value": "destination dining",
+    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/DHMVIH-Fact-Sheet.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/DHMVIH-Fact-Sheet.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "in-villa dining",
+    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/DHMVIH-Fact-Sheet.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "beach bbq",
+    "source_url": "https://www.banyantree.com/assets/2025-06/bt-mayakoba-gastronomic-guide.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://www.banyantree.com/assets/2025-06/bt-mayakoba-gastronomic-guide.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.banyantree.com/assets/2025-06/bt-mayakoba-gastronomic-guide.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "in-villa bbq",
+    "source_url": "https://www.banyantree.com/assets/2025-06/bt-mayakoba-gastronomic-guide.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "anniversary celebration",
+    "source_url": "https://www.banyantree.com/assets/2021-11/under-the-banyan-tree-25th-anniversary-issue.pdf",
+    "as_of": 2019
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://www.banyantree.com/china/shanghai-on-the-bund",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://www.banyantree.com/vietnam/lang-co",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://www.banyantree.com/indonesia/bintan",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://www.banyantree.com/indonesia/bintan",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "romantic dinner",
+    "source_url": "https://www.banyantree.com/indonesia/bintan",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://www.banyantree.com/indonesia/bintan",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.banyantree.com/indonesia/bintan",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://www.banyantree.com/indonesia/bintan",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://www.banyantree.com/japan/kyoto",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://www.banyantree.com/thailand/krabi",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://www.banyantree.com/thailand/krabi",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://www.banyantree.com/singapore/mandai-rainforest-resort-by-banyan-tree",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "in-villa dining",
+    "source_url": "https://www.banyantree.com/singapore/mandai-rainforest-resort-by-banyan-tree",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://www.banyantree.com/offers",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "in-villa dining",
+    "source_url": "https://www.banyantree.com/mexico/cabo-marques",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "in-villa barbecue",
+    "source_url": "https://www.banyantree.com/mexico/cabo-marques",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "private dining",
+    "source_url": "https://www.banyantree.com/mexico/cabo-marques",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "in-villa barbecue",
+    "source_url": "https://www.banyantree.com/mexico/cabo-marques",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "candlelit dinner",
+    "source_url": "https://www.banyantree.com/mexico/cabo-marques",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://www.banyantree.com/dining",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://www.banyantree.com/experiences",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "beach barbecue",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "beach dinner",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://www.banyantree.com/maldives/vabbinfaru",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://www.banyantree.com/thailand/samui",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://www.banyantree.com/thailand/samui",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://www.banyantree.com/thailand/samui",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://www.banyantree.com/thailand/samui",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "in-villa dining",
+    "source_url": "https://www.banyantree.com/thailand/phuket",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "in-villa dining",
+    "source_url": "https://www.banyantree.com/thailand/phuket",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "private chef",
+    "source_url": "https://www.banyantree.com/mexico/mayakoba/experiences/mayakoba-experiences",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://www.banyantree.com/mexico/mayakoba/gallery",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://www.banyantree.com/mexico/mayakoba/gallery",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.banyantree.com/mexico/mayakoba/offers",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.banyantree.com/mexico/mayakoba/offers",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://www.banyantree.com/mexico/mayakoba/offers",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://www.banyantree.com/mexico/mayakoba/dining",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "beach bbq",
+    "source_url": "https://www.banyantree.com/mexico/mayakoba/dining",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "in-villa bbq",
+    "source_url": "https://www.banyantree.com/mexico/mayakoba/dining",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.banyantree.com/mexico/mayakoba/dining",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "in-villa dining",
+    "source_url": "https://www.banyantree.com/mexico/mayakoba/dining",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://www.banyantree.com/mexico/mayakoba/dining",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "in-villa dining",
+    "source_url": "https://www.banyantree.com/mexico/mayakoba/dining",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "beach bbq",
+    "source_url": "https://www.banyantree.com/mexico/mayakoba/dining",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.banyantree.com/mexico/mayakoba/dining",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "beach bbq",
+    "source_url": "https://www.banyantree.com/mexico/mayakoba/dining",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "private dining",
+    "source_url": "https://www.banyantree.com/mexico/mayakoba/dining",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "beach dinner",
+    "source_url": "https://www.banyantree.com/mexico/mayakoba/dining",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://www.banyantree.com/mexico/mayakoba/meetings-and-events",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "romantic dinner",
+    "source_url": "https://www.banyantree.com/china/shanghai-on-the-bund/weddings-honeymoons",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://www.banyantree.com/china/shanghai-on-the-bund/weddings-honeymoons",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://www.banyantree.com/china/shanghai-on-the-bund/weddings-honeymoons",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://www.banyantree.com/china/shanghai-on-the-bund/dining",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://www.banyantree.com/china/shanghai-on-the-bund/gallery",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "destination dining",
+    "source_url": "http://banyantree.com/china/shanghai-on-the-bund",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "destination dining",
+    "source_url": "http://banyantree.com/thailand/krabi",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "destination dining",
+    "source_url": "http://banyantree.com/thailand/krabi",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "destination dining",
+    "source_url": "http://banyantree.com/indonesia/bintan",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "destination dining",
+    "source_url": "http://banyantree.com/indonesia/bintan",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "romantic dinner",
+    "source_url": "http://banyantree.com/indonesia/bintan",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "destination dining",
+    "source_url": "http://banyantree.com/indonesia/bintan",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "http://banyantree.com/indonesia/bintan",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "destination dining",
+    "source_url": "http://banyantree.com/indonesia/bintan",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "in-villa dining",
+    "source_url": "http://banyantree.com/thailand/phuket",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "in-villa dining",
+    "source_url": "http://banyantree.com/thailand/phuket",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "destination dining",
+    "source_url": "http://banyantree.com/singapore/mandai-rainforest-resort-by-banyan-tree",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "in-villa dining",
+    "source_url": "http://banyantree.com/singapore/mandai-rainforest-resort-by-banyan-tree",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "destination dining",
+    "source_url": "http://banyantree.com/experiences",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "destination dining",
+    "source_url": "http://banyantree.com/vietnam/lang-co",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "destination dining",
+    "source_url": "http://banyantree.com/thailand/samui",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "destination dining",
+    "source_url": "http://banyantree.com/thailand/samui",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "destination dining",
+    "source_url": "http://banyantree.com/thailand/samui",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "destination dining",
+    "source_url": "http://banyantree.com/thailand/samui",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "in-villa dining",
+    "source_url": "http://banyantree.com/mexico/cabo-marques",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "in-villa barbecue",
+    "source_url": "http://banyantree.com/mexico/cabo-marques",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "private dining",
+    "source_url": "http://banyantree.com/mexico/cabo-marques",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "in-villa barbecue",
+    "source_url": "http://banyantree.com/mexico/cabo-marques",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "candlelit dinner",
+    "source_url": "http://banyantree.com/mexico/cabo-marques",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "destination dining",
+    "source_url": "http://banyantree.com/offers",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "destination dining",
+    "source_url": "http://banyantree.com/dining",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "destination dining",
+    "source_url": "http://banyantree.com/japan/kyoto",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "destination dining",
+    "source_url": "http://banyantree.com/maldives/vabbinfaru",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "destination dining",
+    "source_url": "http://banyantree.com/maldives/vabbinfaru",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "beach barbecue",
+    "source_url": "http://banyantree.com/maldives/vabbinfaru",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "http://banyantree.com/maldives/vabbinfaru",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "beach dinner",
+    "source_url": "http://banyantree.com/maldives/vabbinfaru",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "destination dining",
+    "source_url": "http://banyantree.com/maldives/vabbinfaru",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "in villa dining",
+    "source_url": "https://www.neoscapesmaldives.com/resort/angsana-ihuru/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://www.neoscapesmaldives.com/resort/angsana-ihuru/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank dinner",
+    "source_url": "https://www.neoscapesmaldives.com/resort/angsana-ihuru/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "in-villa barbecue",
+    "source_url": "https://www.maldivestourism.net/blog/stay-free-night-at-angsana-ihuru-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "romantic dinner",
+    "source_url": "https://www.maldivestourism.net/blog/stay-free-night-at-angsana-ihuru-maldives/",
+    "as_of": "2026-10-04"
+   }
+  ],
   "events_mice.capacity_max": [
    {
     "value": 20,
@@ -3202,62 +3743,17 @@
   ],
   "contacts_public.reservations_email": [
    {
-    "value": "reservations-mayakoba@banyantree.com",
-    "source_url": "https://www.banyantree.com/mexico/mayakoba",
-    "as_of": "2026-10-05"
-   },
-   {
     "value": "reservationsbt@mayakobaexperiences.com",
     "source_url": "https://www.banyantree.com/mexico/mayakoba",
     "as_of": "2026-10-05"
    },
    {
-    "value": "reservations.shishan@groupbanyan.com",
-    "source_url": "https://www.banyantree.com/contact-us",
-    "as_of": "2026-10-05"
-   },
-   {
-    "value": "reservations-bintan@banyantree.com",
-    "source_url": "https://www.banyantree.com/contact-us",
-    "as_of": "2026-10-05"
-   },
-   {
-    "value": "reservations.alula@banyantree.com",
-    "source_url": "https://www.banyantree.com/contact-us",
-    "as_of": "2026-10-05"
-   },
-   {
-    "value": "reservations-yangshuo@banyantree.com",
-    "source_url": "https://www.banyantree.com/contact-us",
-    "as_of": "2026-10-05"
-   },
-   {
-    "value": "sales-london@banyantree.com",
-    "source_url": "https://www.banyantree.com/contact-us",
-    "as_of": "2026-10-05"
-   },
-   {
-    "value": "reservations-mamulaisland@banyantree.com",
-    "source_url": "https://www.banyantree.com/contact-us",
-    "as_of": "2026-10-05"
-   },
-   {
-    "value": "reservations@banyantree.com",
-    "source_url": "https://www.banyantree.com/contact-us",
-    "as_of": "2026-10-05"
-   },
-   {
     "value": "reservations-mayakoba@banyantree.com",
-    "source_url": "https://www.banyantree.com/contact-us",
+    "source_url": "https://www.banyantree.com/mexico/mayakoba",
     "as_of": "2026-10-05"
    },
    {
     "value": "reservations.buahan@banyantree.com",
-    "source_url": "https://www.banyantree.com/contact-us",
-    "as_of": "2026-10-05"
-   },
-   {
-    "value": "reservations-mandairainforest@banyantree.com",
     "source_url": "https://www.banyantree.com/contact-us",
     "as_of": "2026-10-05"
    },
@@ -3267,22 +3763,12 @@
     "as_of": "2026-10-05"
    },
    {
-    "value": "info-doha@banyantree.com",
+    "value": "reservations-dubai@banyantree.com",
     "source_url": "https://www.banyantree.com/contact-us",
     "as_of": "2026-10-05"
    },
    {
-    "value": "puebla-reservations@banyantree.com",
-    "source_url": "https://www.banyantree.com/contact-us",
-    "as_of": "2026-10-05"
-   },
-   {
-    "value": "reservation@banyantreemacau.com",
-    "source_url": "https://www.banyantree.com/contact-us",
-    "as_of": "2026-10-05"
-   },
-   {
-    "value": "reservations-vabbinfaru@banyantree.com",
+    "value": "reservations-bintan@banyantree.com",
     "source_url": "https://www.banyantree.com/contact-us",
     "as_of": "2026-10-05"
    },
@@ -3292,17 +3778,52 @@
     "as_of": "2026-10-05"
    },
    {
-    "value": "reservations-langco@banyantree.com",
+    "value": "reservations-krabi@banyantree.com",
     "source_url": "https://www.banyantree.com/contact-us",
     "as_of": "2026-10-05"
    },
    {
-    "value": "reservations-emei@banyantree.com",
+    "value": "reservations-yangshuo@banyantree.com",
     "source_url": "https://www.banyantree.com/contact-us",
     "as_of": "2026-10-05"
    },
    {
-    "value": "reservations-dubai@banyantree.com",
+    "value": "reservations.alula@banyantree.com",
+    "source_url": "https://www.banyantree.com/contact-us",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "reservations@banyantree.com",
+    "source_url": "https://www.banyantree.com/contact-us",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "info-doha@banyantree.com",
+    "source_url": "https://www.banyantree.com/contact-us",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "reservations-mamulaisland@banyantree.com",
+    "source_url": "https://www.banyantree.com/contact-us",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "reservations-vabbinfaru@banyantree.com",
+    "source_url": "https://www.banyantree.com/contact-us",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "reservation@banyantreemacau.com",
+    "source_url": "https://www.banyantree.com/contact-us",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "puebla-reservations@banyantree.com",
+    "source_url": "https://www.banyantree.com/contact-us",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "reservations-mayakoba@banyantree.com",
     "source_url": "https://www.banyantree.com/contact-us",
     "as_of": "2026-10-05"
    },
@@ -3312,7 +3833,27 @@
     "as_of": "2026-10-05"
    },
    {
-    "value": "reservations-krabi@banyantree.com",
+    "value": "reservations-langco@banyantree.com",
+    "source_url": "https://www.banyantree.com/contact-us",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "reservations.shishan@groupbanyan.com",
+    "source_url": "https://www.banyantree.com/contact-us",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "reservations-emei@banyantree.com",
+    "source_url": "https://www.banyantree.com/contact-us",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sales-london@banyantree.com",
+    "source_url": "https://www.banyantree.com/contact-us",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "reservations-mandairainforest@banyantree.com",
     "source_url": "https://www.banyantree.com/contact-us",
     "as_of": "2026-10-05"
    },
@@ -3327,17 +3868,17 @@
     "as_of": "2026-10-05"
    },
    {
+    "value": "reservations-mandairainforest@banyantree.com",
+    "source_url": "https://www.banyantree.com/singapore/mandai-rainforest-resort-by-banyan-tree",
+    "as_of": "2026-10-05"
+   },
+   {
     "value": "spa-mandairainforest@banyantree.com",
     "source_url": "https://www.banyantree.com/singapore/mandai-rainforest-resort-by-banyan-tree",
     "as_of": "2026-10-05"
    },
    {
     "value": "concierge-mandairainforest@banyantree.com",
-    "source_url": "https://www.banyantree.com/singapore/mandai-rainforest-resort-by-banyan-tree",
-    "as_of": "2026-10-05"
-   },
-   {
-    "value": "reservations-mandairainforest@banyantree.com",
     "source_url": "https://www.banyantree.com/singapore/mandai-rainforest-resort-by-banyan-tree",
     "as_of": "2026-10-05"
    },
@@ -3367,6 +3908,11 @@
     "as_of": "2026-10-05"
    },
    {
+    "value": "reservations-mandairainforest@banyantree.com",
+    "source_url": "http://banyantree.com/singapore/mandai-rainforest-resort-by-banyan-tree",
+    "as_of": "2026-10-05"
+   },
+   {
     "value": "spa-mandairainforest@banyantree.com",
     "source_url": "http://banyantree.com/singapore/mandai-rainforest-resort-by-banyan-tree",
     "as_of": "2026-10-05"
@@ -3377,22 +3923,17 @@
     "as_of": "2026-10-05"
    },
    {
-    "value": "reservations-mandairainforest@banyantree.com",
-    "source_url": "http://banyantree.com/singapore/mandai-rainforest-resort-by-banyan-tree",
-    "as_of": "2026-10-05"
-   },
-   {
     "value": "reservations-langco@banyantree.com",
     "source_url": "http://banyantree.com/vietnam/lang-co",
     "as_of": "2026-10-05"
    },
    {
-    "value": "reservations-mayakoba@banyantree.com",
+    "value": "reservationsbt@mayakobaexperiences.com",
     "source_url": "http://banyantree.com/mexico/mayakoba",
     "as_of": "2026-10-05"
    },
    {
-    "value": "reservationsbt@mayakobaexperiences.com",
+    "value": "reservations-mayakoba@banyantree.com",
     "source_url": "http://banyantree.com/mexico/mayakoba",
     "as_of": "2026-10-05"
    },
@@ -3407,52 +3948,7 @@
     "as_of": "2026-10-05"
    },
    {
-    "value": "reservations.shishan@groupbanyan.com",
-    "source_url": "http://banyantree.com/contact-us",
-    "as_of": "2026-10-05"
-   },
-   {
-    "value": "reservations-bintan@banyantree.com",
-    "source_url": "http://banyantree.com/contact-us",
-    "as_of": "2026-10-05"
-   },
-   {
-    "value": "reservations.alula@banyantree.com",
-    "source_url": "http://banyantree.com/contact-us",
-    "as_of": "2026-10-05"
-   },
-   {
-    "value": "reservations-yangshuo@banyantree.com",
-    "source_url": "http://banyantree.com/contact-us",
-    "as_of": "2026-10-05"
-   },
-   {
-    "value": "sales-london@banyantree.com",
-    "source_url": "http://banyantree.com/contact-us",
-    "as_of": "2026-10-05"
-   },
-   {
-    "value": "reservations-mamulaisland@banyantree.com",
-    "source_url": "http://banyantree.com/contact-us",
-    "as_of": "2026-10-05"
-   },
-   {
-    "value": "reservations@banyantree.com",
-    "source_url": "http://banyantree.com/contact-us",
-    "as_of": "2026-10-05"
-   },
-   {
-    "value": "reservations-mayakoba@banyantree.com",
-    "source_url": "http://banyantree.com/contact-us",
-    "as_of": "2026-10-05"
-   },
-   {
     "value": "reservations.buahan@banyantree.com",
-    "source_url": "http://banyantree.com/contact-us",
-    "as_of": "2026-10-05"
-   },
-   {
-    "value": "reservations-mandairainforest@banyantree.com",
     "source_url": "http://banyantree.com/contact-us",
     "as_of": "2026-10-05"
    },
@@ -3462,22 +3958,12 @@
     "as_of": "2026-10-05"
    },
    {
-    "value": "info-doha@banyantree.com",
+    "value": "reservations-dubai@banyantree.com",
     "source_url": "http://banyantree.com/contact-us",
     "as_of": "2026-10-05"
    },
    {
-    "value": "puebla-reservations@banyantree.com",
-    "source_url": "http://banyantree.com/contact-us",
-    "as_of": "2026-10-05"
-   },
-   {
-    "value": "reservation@banyantreemacau.com",
-    "source_url": "http://banyantree.com/contact-us",
-    "as_of": "2026-10-05"
-   },
-   {
-    "value": "reservations-vabbinfaru@banyantree.com",
+    "value": "reservations-bintan@banyantree.com",
     "source_url": "http://banyantree.com/contact-us",
     "as_of": "2026-10-05"
    },
@@ -3487,17 +3973,52 @@
     "as_of": "2026-10-05"
    },
    {
-    "value": "reservations-langco@banyantree.com",
+    "value": "reservations-krabi@banyantree.com",
     "source_url": "http://banyantree.com/contact-us",
     "as_of": "2026-10-05"
    },
    {
-    "value": "reservations-emei@banyantree.com",
+    "value": "reservations-yangshuo@banyantree.com",
     "source_url": "http://banyantree.com/contact-us",
     "as_of": "2026-10-05"
    },
    {
-    "value": "reservations-dubai@banyantree.com",
+    "value": "reservations.alula@banyantree.com",
+    "source_url": "http://banyantree.com/contact-us",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "reservations@banyantree.com",
+    "source_url": "http://banyantree.com/contact-us",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "info-doha@banyantree.com",
+    "source_url": "http://banyantree.com/contact-us",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "reservations-mamulaisland@banyantree.com",
+    "source_url": "http://banyantree.com/contact-us",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "reservations-vabbinfaru@banyantree.com",
+    "source_url": "http://banyantree.com/contact-us",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "reservation@banyantreemacau.com",
+    "source_url": "http://banyantree.com/contact-us",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "puebla-reservations@banyantree.com",
+    "source_url": "http://banyantree.com/contact-us",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "reservations-mayakoba@banyantree.com",
     "source_url": "http://banyantree.com/contact-us",
     "as_of": "2026-10-05"
    },
@@ -3507,57 +4028,32 @@
     "as_of": "2026-10-05"
    },
    {
-    "value": "reservations-krabi@banyantree.com",
+    "value": "reservations-langco@banyantree.com",
     "source_url": "http://banyantree.com/contact-us",
     "as_of": "2026-10-05"
    },
    {
     "value": "reservations.shishan@groupbanyan.com",
-    "source_url": "https://www.banyantree.com/cn/contact-us",
+    "source_url": "http://banyantree.com/contact-us",
     "as_of": "2026-10-05"
    },
    {
-    "value": "reservations-bintan@banyantree.com",
-    "source_url": "https://www.banyantree.com/cn/contact-us",
-    "as_of": "2026-10-05"
-   },
-   {
-    "value": "reservations.alula@banyantree.com",
-    "source_url": "https://www.banyantree.com/cn/contact-us",
-    "as_of": "2026-10-05"
-   },
-   {
-    "value": "reservations-yangshuo@banyantree.com",
-    "source_url": "https://www.banyantree.com/cn/contact-us",
+    "value": "reservations-emei@banyantree.com",
+    "source_url": "http://banyantree.com/contact-us",
     "as_of": "2026-10-05"
    },
    {
     "value": "sales-london@banyantree.com",
-    "source_url": "https://www.banyantree.com/cn/contact-us",
-    "as_of": "2026-10-05"
-   },
-   {
-    "value": "reservations-mamulaisland@banyantree.com",
-    "source_url": "https://www.banyantree.com/cn/contact-us",
-    "as_of": "2026-10-05"
-   },
-   {
-    "value": "reservations@banyantree.com",
-    "source_url": "https://www.banyantree.com/cn/contact-us",
-    "as_of": "2026-10-05"
-   },
-   {
-    "value": "reservations-mayakoba@banyantree.com",
-    "source_url": "https://www.banyantree.com/cn/contact-us",
-    "as_of": "2026-10-05"
-   },
-   {
-    "value": "reservations.buahan@banyantree.com",
-    "source_url": "https://www.banyantree.com/cn/contact-us",
+    "source_url": "http://banyantree.com/contact-us",
     "as_of": "2026-10-05"
    },
    {
     "value": "reservations-mandairainforest@banyantree.com",
+    "source_url": "http://banyantree.com/contact-us",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "reservations.buahan@banyantree.com",
     "source_url": "https://www.banyantree.com/cn/contact-us",
     "as_of": "2026-10-05"
    },
@@ -3567,22 +4063,12 @@
     "as_of": "2026-10-05"
    },
    {
-    "value": "info-doha@banyantree.com",
+    "value": "reservations-dubai@banyantree.com",
     "source_url": "https://www.banyantree.com/cn/contact-us",
     "as_of": "2026-10-05"
    },
    {
-    "value": "puebla-reservations@banyantree.com",
-    "source_url": "https://www.banyantree.com/cn/contact-us",
-    "as_of": "2026-10-05"
-   },
-   {
-    "value": "reservation@banyantreemacau.com",
-    "source_url": "https://www.banyantree.com/cn/contact-us",
-    "as_of": "2026-10-05"
-   },
-   {
-    "value": "reservations-vabbinfaru@banyantree.com",
+    "value": "reservations-bintan@banyantree.com",
     "source_url": "https://www.banyantree.com/cn/contact-us",
     "as_of": "2026-10-05"
    },
@@ -3592,17 +4078,52 @@
     "as_of": "2026-10-05"
    },
    {
-    "value": "reservations-langco@banyantree.com",
+    "value": "reservations-krabi@banyantree.com",
     "source_url": "https://www.banyantree.com/cn/contact-us",
     "as_of": "2026-10-05"
    },
    {
-    "value": "reservations-emei@banyantree.com",
+    "value": "reservations-yangshuo@banyantree.com",
     "source_url": "https://www.banyantree.com/cn/contact-us",
     "as_of": "2026-10-05"
    },
    {
-    "value": "reservations-dubai@banyantree.com",
+    "value": "reservations.alula@banyantree.com",
+    "source_url": "https://www.banyantree.com/cn/contact-us",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "reservations@banyantree.com",
+    "source_url": "https://www.banyantree.com/cn/contact-us",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "info-doha@banyantree.com",
+    "source_url": "https://www.banyantree.com/cn/contact-us",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "reservations-mamulaisland@banyantree.com",
+    "source_url": "https://www.banyantree.com/cn/contact-us",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "reservations-vabbinfaru@banyantree.com",
+    "source_url": "https://www.banyantree.com/cn/contact-us",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "reservation@banyantreemacau.com",
+    "source_url": "https://www.banyantree.com/cn/contact-us",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "puebla-reservations@banyantree.com",
+    "source_url": "https://www.banyantree.com/cn/contact-us",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "reservations-mayakoba@banyantree.com",
     "source_url": "https://www.banyantree.com/cn/contact-us",
     "as_of": "2026-10-05"
    },
@@ -3612,42 +4133,32 @@
     "as_of": "2026-10-05"
    },
    {
-    "value": "reservations-krabi@banyantree.com",
+    "value": "reservations-langco@banyantree.com",
     "source_url": "https://www.banyantree.com/cn/contact-us",
     "as_of": "2026-10-05"
    },
    {
     "value": "reservations.shishan@groupbanyan.com",
-    "source_url": "https://www.banyantree.com/ko/contact-us",
+    "source_url": "https://www.banyantree.com/cn/contact-us",
     "as_of": "2026-10-05"
    },
    {
-    "value": "reservations-bintan@banyantree.com",
-    "source_url": "https://www.banyantree.com/ko/contact-us",
-    "as_of": "2026-10-05"
-   },
-   {
-    "value": "reservations.alula@banyantree.com",
-    "source_url": "https://www.banyantree.com/ko/contact-us",
-    "as_of": "2026-10-05"
-   },
-   {
-    "value": "reservations-yangshuo@banyantree.com",
-    "source_url": "https://www.banyantree.com/ko/contact-us",
+    "value": "reservations-emei@banyantree.com",
+    "source_url": "https://www.banyantree.com/cn/contact-us",
     "as_of": "2026-10-05"
    },
    {
     "value": "sales-london@banyantree.com",
-    "source_url": "https://www.banyantree.com/ko/contact-us",
+    "source_url": "https://www.banyantree.com/cn/contact-us",
     "as_of": "2026-10-05"
    },
    {
-    "value": "reservations@banyantree.com",
-    "source_url": "https://www.banyantree.com/ko/contact-us",
+    "value": "reservations-mandairainforest@banyantree.com",
+    "source_url": "https://www.banyantree.com/cn/contact-us",
     "as_of": "2026-10-05"
    },
    {
-    "value": "reservations-mayakoba@banyantree.com",
+    "value": "reservations-dubai@banyantree.com",
     "source_url": "https://www.banyantree.com/ko/contact-us",
     "as_of": "2026-10-05"
    },
@@ -3657,27 +4168,7 @@
     "as_of": "2026-10-05"
    },
    {
-    "value": "reservations-mandairainforest@banyantree.com",
-    "source_url": "https://www.banyantree.com/ko/contact-us",
-    "as_of": "2026-10-05"
-   },
-   {
-    "value": "info-doha@banyantree.com",
-    "source_url": "https://www.banyantree.com/ko/contact-us",
-    "as_of": "2026-10-05"
-   },
-   {
-    "value": "puebla-reservations@banyantree.com",
-    "source_url": "https://www.banyantree.com/ko/contact-us",
-    "as_of": "2026-10-05"
-   },
-   {
-    "value": "reservation@banyantreemacau.com",
-    "source_url": "https://www.banyantree.com/ko/contact-us",
-    "as_of": "2026-10-05"
-   },
-   {
-    "value": "reservations-vabbinfaru@banyantree.com",
+    "value": "reservations-bintan@banyantree.com",
     "source_url": "https://www.banyantree.com/ko/contact-us",
     "as_of": "2026-10-05"
    },
@@ -3687,17 +4178,47 @@
     "as_of": "2026-10-05"
    },
    {
-    "value": "reservations-langco@banyantree.com",
+    "value": "reservations-krabi@banyantree.com",
     "source_url": "https://www.banyantree.com/ko/contact-us",
     "as_of": "2026-10-05"
    },
    {
-    "value": "reservations-emei@banyantree.com",
+    "value": "reservations-yangshuo@banyantree.com",
     "source_url": "https://www.banyantree.com/ko/contact-us",
     "as_of": "2026-10-05"
    },
    {
-    "value": "reservations-dubai@banyantree.com",
+    "value": "reservations.alula@banyantree.com",
+    "source_url": "https://www.banyantree.com/ko/contact-us",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "reservations@banyantree.com",
+    "source_url": "https://www.banyantree.com/ko/contact-us",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "info-doha@banyantree.com",
+    "source_url": "https://www.banyantree.com/ko/contact-us",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "reservations-vabbinfaru@banyantree.com",
+    "source_url": "https://www.banyantree.com/ko/contact-us",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "reservation@banyantreemacau.com",
+    "source_url": "https://www.banyantree.com/ko/contact-us",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "puebla-reservations@banyantree.com",
+    "source_url": "https://www.banyantree.com/ko/contact-us",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "reservations-mayakoba@banyantree.com",
     "source_url": "https://www.banyantree.com/ko/contact-us",
     "as_of": "2026-10-05"
    },
@@ -3707,7 +4228,27 @@
     "as_of": "2026-10-05"
    },
    {
-    "value": "reservations-krabi@banyantree.com",
+    "value": "reservations-langco@banyantree.com",
+    "source_url": "https://www.banyantree.com/ko/contact-us",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "reservations.shishan@groupbanyan.com",
+    "source_url": "https://www.banyantree.com/ko/contact-us",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "reservations-emei@banyantree.com",
+    "source_url": "https://www.banyantree.com/ko/contact-us",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sales-london@banyantree.com",
+    "source_url": "https://www.banyantree.com/ko/contact-us",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "reservations-mandairainforest@banyantree.com",
     "source_url": "https://www.banyantree.com/ko/contact-us",
     "as_of": "2026-10-05"
    },
@@ -3832,6 +4373,13 @@
    {
     "value": "Dive Centre",
     "source_url": "https://www.mymaldives.com/resort-guide/dhawa-ihuru/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "destination_dining.sandbank_events": [
+   {
+    "value": true,
+    "source_url": "https://www.neoscapesmaldives.com/resort/angsana-ihuru/",
     "as_of": "2026-10-04"
    }
   ]

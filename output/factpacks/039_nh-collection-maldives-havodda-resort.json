@@ -97,6 +97,15 @@
   "packages": [],
   "brochure_doc": null
  },
+ "destination_dining": {
+  "experiences": [
+   "destination dining",
+   "romantic dinner"
+  ],
+  "packages": [],
+  "sandbank_events": null,
+  "doc": null
+ },
  "events_mice": {
   "venues": [],
   "capacity_max": null,
@@ -119,7 +128,8 @@
   "dining_menu": null,
   "dive_prices": null,
   "events": null,
-  "calendar": null
+  "calendar": null,
+  "destination_dining": null
  },
  "documents_count": 2,
  "gaps": [
@@ -368,6 +378,18 @@
   "weddings.offered": [
    {
     "value": true,
+    "source_url": "https://www.neoscapesmaldives.com/resort/amari-havodda-maldives/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "destination_dining.experiences": [
+   {
+    "value": "destination dining",
+    "source_url": "https://www.neoscapesmaldives.com/resort/amari-havodda-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "romantic dinner",
     "source_url": "https://www.neoscapesmaldives.com/resort/amari-havodda-maldives/",
     "as_of": "2026-10-04"
    }

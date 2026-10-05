@@ -45,7 +45,7 @@ All-inclusive: All-Inclusive Dine Around.
 - Operator: Dive Centre
 - House reef: house reef and sun-lit seclusion
 - Activities: scuba diving, sunset cruise, snorkelling, jet ski, seabob, kayaking, dolphin cruise, canoe, fishing, whale shark, manta, snorkeling, catamaran, sailing, surfing
-- Price list: https://www.sunsiyam.com/media/dv1fvxyl/ssvr-golden-week-gazette-260921.pdf
+- Price list: none
 - Excursions: turtle, cinema, local island, dolphin, sandbank, whale shark, manta, cooking class, picnic
 
 ## Kids & family
@@ -58,6 +58,12 @@ All-inclusive: All-Inclusive Dine Around.
 - Venues: n/a
 - Packages: n/a
 - Brochure: https://www.sunsiyam.com/media/jv5nmz43/ultimate-honeymoon-ssvr.pdf
+
+## Destination dining
+
+- Experiences: destination dining, private dining, romantic beach dinner, sunset cruise, beach barbecue, in-villa dining, floating breakfast, beach dinner, candlelit dinner, romantic dinner, sunset dinner
+- Packages: n/a
+- Sandbank events: None; document: none
 
 ## Events / MICE
 
@@ -79,12 +85,13 @@ All-inclusive: All-Inclusive Dine Around.
 - wedding: https://www.sunsiyam.com/media/jv5nmz43/ultimate-honeymoon-ssvr.pdf
 - spa_menu: none
 - dining_menu: https://www.sunsiyam.com/media/yqgbihlu/athireege.pdf
-- dive_prices: https://www.sunsiyam.com/media/dv1fvxyl/ssvr-golden-week-gazette-260921.pdf
+- dive_prices: none
 - events: none
 - calendar: https://www.sunsiyam.com/media/j1vp02dn/ssvr-festive-gazette-26-27-eutopia-r.pdf
+- destination_dining: none
 
 ## Gaps
 
 - events/MICE document
 
-_Facts extracted by rules from 21 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._
+_Facts extracted by rules from 22 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

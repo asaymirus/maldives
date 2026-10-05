@@ -58,6 +58,12 @@ All-inclusive: All Inclusive package, which provides you the best value and opti
 - Packages: Ceremony USD 5000 (2026); Family Bonanza Package USD 350 (2026); Photo Package USD 220 (2025)
 - Brochure: https://cdnm.heyzine.com/files/uploaded/v3/04df2b6e63a93cb41205ebd6ed21d4ba4359dce4-1.pdf
 
+## Destination dining
+
+- Experiences: private dining, in-villa dining, sandbank picnic, sunset cruise, romantic dinner, floating breakfast, romantic beach dinner, beach dinner, sandbank dinner, romantic candlelit dinner, beach bbq, romantic sunset dinner
+- Packages: n/a
+- Sandbank events: True; document: none
+
 ## Events / MICE
 
 - Venues: n/a; capacity max: n/a; buyout: None
@@ -81,9 +87,10 @@ All-inclusive: All Inclusive package, which provides you the best value and opti
 - dive_prices: https://cdnm.heyzine.com/files/uploaded/bf3b327762e3c4a482f3926ee4a6d5c54b92ccda-2.pdf
 - events: none
 - calendar: https://amilla.com/wp-content/uploads/Orthodox-Easter_2024.pdf
+- destination_dining: none
 
 ## Gaps
 
 - events/MICE document
 
-_Facts extracted by rules from 28 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._
+_Facts extracted by rules from 30 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

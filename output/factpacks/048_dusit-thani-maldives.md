@@ -67,6 +67,12 @@ Devarana Spa; treatment rooms: 8; menu: none
 - Packages: n/a
 - Brochure: none
 
+## Destination dining
+
+- Experiences: in-villa dining, sunset cruise, private chef, floating breakfast, sandbank trip
+- Packages: n/a
+- Sandbank events: True; document: none
+
 ## Events / MICE
 
 - Venues: n/a; capacity max: n/a; buyout: None
@@ -90,10 +96,11 @@ Devarana Spa; treatment rooms: 8; menu: none
 - dive_prices: none
 - events: none
 - calendar: https://letsgomaldives.com/wp-content/uploads/2026/09/Ocean-Carnival-Festive-Celebrations-at-Dusit-Thani-Maldives_LGM.pdf
+- destination_dining: none
 
 ## Gaps
 
 - wedding brochure
 - events/MICE document
 
-_Facts extracted by rules from 23 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._
+_Facts extracted by rules from 25 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

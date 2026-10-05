@@ -167,6 +167,19 @@
   "packages": [],
   "brochure_doc": null
  },
+ "destination_dining": {
+  "experiences": [
+   "wine pairing",
+   "private dining",
+   "dine under the stars",
+   "sandbank picnic",
+   "sunset cruise",
+   "in-villa dining"
+  ],
+  "packages": [],
+  "sandbank_events": true,
+  "doc": null
+ },
  "events_mice": {
   "venues": [],
   "capacity_max": null,
@@ -187,7 +200,8 @@
   "dining_menu": "https://letsgomaldives.com/wp-content/uploads/2026/03/The-St.-Regis-Maldives_Eid_FB.pdf",
   "dive_prices": null,
   "events": null,
-  "calendar": "https://letsgomaldives.com/wp-content/uploads/2026/02/The-St.-Regis-Maldives-Vommuli-Resort_Easter-Brochure-2026.pdf"
+  "calendar": "https://letsgomaldives.com/wp-content/uploads/2026/02/The-St.-Regis-Maldives-Vommuli-Resort_Easter-Brochure-2026.pdf",
+  "destination_dining": null
  },
  "documents_count": 6,
  "gaps": [
@@ -722,6 +736,53 @@
     "as_of": "2026-10-04"
    }
   ],
+  "destination_dining.experiences": [
+   {
+    "value": "wine pairing",
+    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/The-St.-Regis-Maldives-Fact-Sheet.pdf",
+    "as_of": 2021
+   },
+   {
+    "value": "private dining",
+    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/The-St.-Regis-Maldives-Fact-Sheet.pdf",
+    "as_of": 2021
+   },
+   {
+    "value": "private dining",
+    "source_url": "https://www.neoscapesmaldives.com/resort/the-st-regis-maldives-vommuli-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "private dining",
+    "source_url": "https://www.neoscapesmaldives.com/resort/the-st-regis-maldives-vommuli-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dine under the stars",
+    "source_url": "https://www.neoscapesmaldives.com/resort/the-st-regis-maldives-vommuli-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank picnic",
+    "source_url": "https://www.neoscapesmaldives.com/resort/the-st-regis-maldives-vommuli-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.neoscapesmaldives.com/resort/the-st-regis-maldives-vommuli-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "in-villa dining",
+    "source_url": "https://www.maldivesholidayoffers.com/blogs/blog-detail/the-best-st-regis-maldives-family-holiday-moments/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.maldivesholidayoffers.com/blogs/blog-detail/the-best-st-regis-maldives-family-holiday-moments/",
+    "as_of": "2026-10-04"
+   }
+  ],
   "contacts_public.reservations_email": [
    {
     "value": "reservations@neoscapesmaldives.com",
@@ -769,6 +830,13 @@
    {
     "value": true,
     "source_url": "https://www.maldivesholidayoffers.com/blogs/blog-detail/the-st-regis-maldives-to-host-celebrated-chef-jolly-for-exclusive-culinary-experience/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "destination_dining.sandbank_events": [
+   {
+    "value": true,
+    "source_url": "https://www.neoscapesmaldives.com/resort/the-st-regis-maldives-vommuli-resort/",
     "as_of": "2026-10-04"
    }
   ],

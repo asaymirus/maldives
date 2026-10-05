@@ -274,6 +274,27 @@
   "packages": [],
   "brochure_doc": "https://www.huvafenfushi.com/wp-content/uploads/2026/06/Sand-and-Romance.pdf"
  },
+ "destination_dining": {
+  "experiences": [
+   "sunset cruise",
+   "sandbank experience",
+   "sandbank dinner",
+   "beach dinner",
+   "sandbank lunch",
+   "private chef",
+   "romantic dining",
+   "floating breakfast",
+   "private dining",
+   "underwater dining",
+   "candlelit dinner",
+   "romantic dinner",
+   "destination dining",
+   "sandbank picnic"
+  ],
+  "packages": [],
+  "sandbank_events": true,
+  "doc": "https://www.huvafenfushi.com/wp-content/uploads/2026/06/Sandbank-dinner.pdf"
+ },
  "events_mice": {
   "venues": [],
   "capacity_max": null,
@@ -301,7 +322,8 @@
   "dining_menu": "https://www.huvafenfushi.com/wp-content/uploads/2026/07/UMbar-Beverage-Menu-2026-July.pdf",
   "dive_prices": "https://www.huvafenfushi.com/wp-content/uploads/2026/05/Pricelist-Updated-2026.pdf",
   "events": "https://www.huvafenfushi.com/wp-content/uploads/2026/06/HF-Corporate-Social-Responsibility.pdf",
-  "calendar": "https://www.huvafenfushi.com/wp-content/uploads/2026/07/Huvafen-Festive-brochure-2026-.pdf"
+  "calendar": "https://www.huvafenfushi.com/wp-content/uploads/2026/07/Huvafen-Festive-brochure-2026-.pdf",
+  "destination_dining": "https://www.huvafenfushi.com/wp-content/uploads/2026/06/Sandbank-dinner.pdf"
  },
  "documents_count": 91,
  "gaps": [
@@ -327,11 +349,6 @@
    {
     "value": "North Malé Atoll",
     "source_url": "https://www.huvafenfushi.com/wp-content/uploads/2026/06/HF-Child-Protection-Policy.pdf",
-    "as_of": 2017
-   },
-   {
-    "value": "North Malé Atoll",
-    "source_url": "https://www.huvafenfushi.com/wp-content/uploads/2026/06/HF-Harrassment-Policy.pdf",
     "as_of": 2017
    },
    {
@@ -1303,6 +1320,11 @@
     "as_of": 2017
    },
    {
+    "value": "sandbank",
+    "source_url": "https://www.huvafenfushi.com/wp-content/uploads/2026/06/Sandbank-dinner.pdf",
+    "as_of": 2026
+   },
+   {
     "value": "dolphin",
     "source_url": "https://www.huvafenfushi.com/wp-content/uploads/2026/05/Pricelist-Updated-2026.pdf",
     "as_of": 2026
@@ -1776,6 +1798,210 @@
     "as_of": "2026-10-04"
    }
   ],
+  "destination_dining.experiences": [
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.huvafenfushi.com/wp-content/uploads/2026/04/FLOAT-Brochure-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "sandbank experience",
+    "source_url": "https://www.huvafenfushi.com/wp-content/uploads/2026/04/FLOAT-Brochure-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "sandbank dinner",
+    "source_url": "https://www.huvafenfushi.com/wp-content/uploads/2026/06/Sandbank-dinner.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "beach dinner",
+    "source_url": "https://www.huvafenfushi.com/sitemap",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank lunch",
+    "source_url": "https://www.huvafenfushi.com/sitemap",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank dinner",
+    "source_url": "https://www.huvafenfushi.com/sitemap",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "beach dinner",
+    "source_url": "https://www.huvafenfushi.com/dining/digging-beach-dinner",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "private chef",
+    "source_url": "https://www.huvafenfushi.com/dining/digging-beach-dinner",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank lunch",
+    "source_url": "https://www.huvafenfushi.com/dining/sandbank-lunch",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "romantic dining",
+    "source_url": "https://www.huvafenfushi.com/dining/sandbank-lunch",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://www.huvafenfushi.com/offers/solo-mind-body-immersion",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://www.huvafenfushi.com/offers/solo-mind-body-immersion",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "beach dinner",
+    "source_url": "https://www.huvafenfushi.com/dining",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "private dining",
+    "source_url": "https://www.huvafenfushi.com/dining",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "underwater dining",
+    "source_url": "https://www.huvafenfushi.com/dining",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank lunch",
+    "source_url": "https://www.huvafenfushi.com/dining",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank dinner",
+    "source_url": "https://www.huvafenfushi.com/dining",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "underwater dining",
+    "source_url": "https://www.huvafenfushi.com/dining/immerse-latitude-4",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "candlelit dinner",
+    "source_url": "https://www.huvafenfushi.com/offers/a-huvafen-fushi-love-retreat",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "candlelit dinner",
+    "source_url": "https://www.huvafenfushi.com/offers/a-huvafen-fushi-love-retreat",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.huvafenfushi.com/offers/a-huvafen-fushi-love-retreat",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://www.huvafenfushi.com/offers/long-stay-deal",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://www.huvafenfushi.com/offers/long-stay-deal",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank dinner",
+    "source_url": "https://www.huvafenfushi.com/dining/sandbank-dinner",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "romantic dinner",
+    "source_url": "https://www.huvafenfushi.com/dining/sandbank-dinner",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://www.huvafenfushi.com/offers/soul-sanctuary-beach-house-pavilion",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://www.neoscapesmaldives.com/resort/huvafen-fushi-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "private chef",
+    "source_url": "https://www.neoscapesmaldives.com/resort/huvafen-fushi-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://www.turquoiseholidays.co.uk/destinations/indian-ocean/maldives/huvafen-fushi/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank picnic",
+    "source_url": "https://www.turquoiseholidays.co.uk/destinations/indian-ocean/maldives/huvafen-fushi/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "romantic dinner",
+    "source_url": "https://www.turquoiseholidays.co.uk/destinations/indian-ocean/maldives/huvafen-fushi/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "private dining",
+    "source_url": "https://malediven.de/malediven-hotels/huvafen-fushi/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://malediven.de/malediven-hotels/huvafen-fushi/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "destination_dining.sandbank_events": [
+   {
+    "value": true,
+    "source_url": "https://www.huvafenfushi.com/wp-content/uploads/2026/04/FLOAT-Brochure-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": true,
+    "source_url": "https://www.huvafenfushi.com/wp-content/uploads/2026/06/Sandbank-dinner.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": true,
+    "source_url": "https://www.huvafenfushi.com/sitemap",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.huvafenfushi.com/dining/sandbank-lunch",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.huvafenfushi.com/dining",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.huvafenfushi.com/dining/sandbank-dinner",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.turquoiseholidays.co.uk/destinations/indian-ocean/maldives/huvafen-fushi/",
+    "as_of": "2026-10-04"
+   }
+  ],
   "dining": [
    {
     "value": {
@@ -1889,11 +2115,6 @@
     "as_of": 2017
    },
    {
-    "value": "stay@huvafenfushi.com",
-    "source_url": "https://www.huvafenfushi.com/wp-content/uploads/2026/06/HF-Harrassment-Policy.pdf",
-    "as_of": 2017
-   },
-   {
     "value": "info@neoscapesmaldives.com",
     "source_url": "https://www.neoscapesmaldives.com/resort/huvafen-fushi-maldives/",
     "as_of": "2026-10-04"
@@ -1908,11 +2129,6 @@
    {
     "value": "+960 664 4222",
     "source_url": "https://www.huvafenfushi.com/wp-content/uploads/2026/06/HF-Child-Protection-Policy.pdf",
-    "as_of": 2017
-   },
-   {
-    "value": "+960 664 4222",
-    "source_url": "https://www.huvafenfushi.com/wp-content/uploads/2026/06/HF-Harrassment-Policy.pdf",
     "as_of": 2017
    },
    {

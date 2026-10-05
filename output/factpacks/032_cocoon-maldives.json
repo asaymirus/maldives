@@ -173,6 +173,31 @@
   "packages": [],
   "brochure_doc": null
  },
+ "destination_dining": {
+  "experiences": [
+   "sandbank picnic",
+   "beach bbq",
+   "anniversary dinner",
+   "wine dinner",
+   "candlelit dinner",
+   "sandbank dinner",
+   "floating breakfast",
+   "romantic dinner",
+   "destination dining",
+   "sunset dinner",
+   "beach dinner",
+   "romantic candlelit dining",
+   "sandbank party",
+   "sunset cruise",
+   "in-villa dining",
+   "sandbank escape",
+   "underwater restaurant",
+   "romantic dining"
+  ],
+  "packages": [],
+  "sandbank_events": true,
+  "doc": null
+ },
  "events_mice": {
   "venues": [],
   "capacity_max": null,
@@ -193,7 +218,8 @@
   "dining_menu": "https://cdnm.heyzine.com/files/uploaded/e4cbbb8c54b0ae734776b93f959202aa3da9dc60.pdf",
   "dive_prices": null,
   "events": null,
-  "calendar": null
+  "calendar": null,
+  "destination_dining": null
  },
  "documents_count": 8,
  "gaps": [
@@ -1591,6 +1617,280 @@
    {
     "value": true,
     "source_url": "https://www.cocoonmaldives.com/honeymoon-getaway",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.neoscapesmaldives.com/resort/cocoon-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.neoscapesmaldives.com/resort/you-me-by-cocoon-maldives/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "destination_dining.experiences": [
+   {
+    "value": "sandbank picnic",
+    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Cocoon-Maldives-_-Fact-Sheet.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "beach bbq",
+    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Cocoon-Maldives-_-Fact-Sheet.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "anniversary dinner",
+    "source_url": "https://cdnm.heyzine.com/files/uploaded/e4cbbb8c54b0ae734776b93f959202aa3da9dc60.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "beach bbq",
+    "source_url": "https://cdnm.heyzine.com/files/uploaded/e4cbbb8c54b0ae734776b93f959202aa3da9dc60.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "sandbank picnic",
+    "source_url": "https://cdnm.heyzine.com/files/uploaded/e4cbbb8c54b0ae734776b93f959202aa3da9dc60.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "wine dinner",
+    "source_url": "https://cdnm.heyzine.com/files/uploaded/e4cbbb8c54b0ae734776b93f959202aa3da9dc60.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "beach bbq",
+    "source_url": "https://cdnm.heyzine.com/files/uploaded/e4cbbb8c54b0ae734776b93f959202aa3da9dc60.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "candlelit dinner",
+    "source_url": "https://cdnm.heyzine.com/files/uploaded/e4cbbb8c54b0ae734776b93f959202aa3da9dc60.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "sandbank dinner",
+    "source_url": "https://cdnm.heyzine.com/files/uploaded/e4cbbb8c54b0ae734776b93f959202aa3da9dc60.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://cdnm.heyzine.com/files/uploaded/e4cbbb8c54b0ae734776b93f959202aa3da9dc60.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://cdnm.heyzine.com/files/uploaded/e4cbbb8c54b0ae734776b93f959202aa3da9dc60.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "romantic dinner",
+    "source_url": "https://cdnm.heyzine.com/files/uploaded/e4cbbb8c54b0ae734776b93f959202aa3da9dc60.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "romantic dinner",
+    "source_url": "https://www.cocoonmaldives.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://www.cocoonmaldives.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset dinner",
+    "source_url": "https://www.cocoonmaldives.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "romantic dinner",
+    "source_url": "https://www.cocoonmaldives.com",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://www.cocoonmaldives.com",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset dinner",
+    "source_url": "https://www.cocoonmaldives.com",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "candlelit dinner",
+    "source_url": "https://www.cocoonmaldives.com/offers",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "romantic dinner",
+    "source_url": "https://www.cocoonmaldives.com/meal-plan-overview",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "beach dinner",
+    "source_url": "https://www.cocoonmaldives.com/meal-plan-overview",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://www.cocoonmaldives.com/august-escape-offer",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://www.cocoonmaldives.com/dining",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset dinner",
+    "source_url": "https://www.cocoonmaldives.com/dining",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "romantic candlelit dining",
+    "source_url": "https://www.cocoonmaldives.com/dining",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "romantic candlelit dining",
+    "source_url": "https://www.cocoonmaldives.com/manta-restaurant",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "candlelit dinner",
+    "source_url": "https://www.cocoonmaldives.com/offer",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank picnic",
+    "source_url": "https://www.cocoonmaldives.com/experiences",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank party",
+    "source_url": "https://www.cocoonmaldives.com/experiences",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://www.cocoonmaldives.com/winter-bliss-offer",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "candlelit dinner",
+    "source_url": "https://www.cocoonmaldives.com/honeymoon-getaway",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.cocoonmaldives.com/festive",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://www.cocoonmaldives.com/festive",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://www.cocoonmaldives.com/festive",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "beach dinner",
+    "source_url": "https://www.cocoonmaldives.com/festive",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank picnic",
+    "source_url": "https://www.cocoonmaldives.com/excursions",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank picnic",
+    "source_url": "https://www.neoscapesmaldives.com/resort/cocoon-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "in-villa dining",
+    "source_url": "https://www.neoscapesmaldives.com/resort/cocoon-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank escape",
+    "source_url": "https://www.neoscapesmaldives.com/resort/cocoon-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "beach bbq",
+    "source_url": "https://www.neoscapesmaldives.com/resort/cocoon-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "underwater restaurant",
+    "source_url": "https://www.neoscapesmaldives.com/resort/you-me-by-cocoon-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.neoscapesmaldives.com/resort/you-me-by-cocoon-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "underwater restaurant",
+    "source_url": "https://www.neoscapesmaldives.com/resort/you-me-by-cocoon-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "in-villa dining",
+    "source_url": "https://www.neoscapesmaldives.com/resort/you-me-by-cocoon-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "underwater restaurant",
+    "source_url": "https://www.neoscapesmaldives.com/resort/you-me-by-cocoon-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "underwater restaurant",
+    "source_url": "https://www.neoscapesmaldives.com/resort/you-me-by-cocoon-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank dinner",
+    "source_url": "https://www.neoscapesmaldives.com/resort/you-me-by-cocoon-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "romantic dining",
+    "source_url": "https://letsgomaldives.com/news/cocoon-maldives-resort/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "destination_dining.sandbank_events": [
+   {
+    "value": true,
+    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Cocoon-Maldives-_-Fact-Sheet.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": true,
+    "source_url": "https://cdnm.heyzine.com/files/uploaded/e4cbbb8c54b0ae734776b93f959202aa3da9dc60.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": true,
+    "source_url": "https://www.cocoonmaldives.com/experiences",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.cocoonmaldives.com/excursions",
     "as_of": "2026-10-04"
    },
    {

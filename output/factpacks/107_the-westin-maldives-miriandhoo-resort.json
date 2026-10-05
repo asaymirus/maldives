@@ -64,6 +64,15 @@
   "packages": [],
   "brochure_doc": null
  },
+ "destination_dining": {
+  "experiences": [
+   "destination dining",
+   "sandbank dinner"
+  ],
+  "packages": [],
+  "sandbank_events": true,
+  "doc": null
+ },
  "events_mice": {
   "venues": [],
   "capacity_max": null,
@@ -86,7 +95,8 @@
   "dining_menu": null,
   "dive_prices": null,
   "events": null,
-  "calendar": "https://letsgomaldives.com/wp-content/uploads/2024/03/The-Westin-Maldives-2024-Easter-Celebration-Brochure.pdf"
+  "calendar": "https://letsgomaldives.com/wp-content/uploads/2024/03/The-Westin-Maldives-2024-Easter-Celebration-Brochure.pdf",
+  "destination_dining": null
  },
  "documents_count": 1,
  "gaps": [
@@ -124,6 +134,25 @@
   "excursions": [
    {
     "value": "sandbank",
+    "source_url": "https://letsgomaldives.com/news/the-westin-maldives-miriandhoo-resort-appoints-alberto-burgio-as-executive-chef/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "destination_dining.experiences": [
+   {
+    "value": "destination dining",
+    "source_url": "https://letsgomaldives.com/news/the-westin-maldives-miriandhoo-resort-appoints-alberto-burgio-as-executive-chef/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank dinner",
+    "source_url": "https://letsgomaldives.com/news/the-westin-maldives-miriandhoo-resort-appoints-alberto-burgio-as-executive-chef/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "destination_dining.sandbank_events": [
+   {
+    "value": true,
     "source_url": "https://letsgomaldives.com/news/the-westin-maldives-miriandhoo-resort-appoints-alberto-burgio-as-executive-chef/",
     "as_of": "2026-10-04"
    }

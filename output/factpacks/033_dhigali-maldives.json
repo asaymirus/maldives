@@ -303,6 +303,22 @@
   "packages": [],
   "brochure_doc": "https://www.nivahotelsandresorts.com/wp-content/uploads/2026/05/Wedding-Brochure-NIVA-LR-1.pdf"
  },
+ "destination_dining": {
+  "experiences": [
+   "destination dining",
+   "sandbank picnic",
+   "beach dinner",
+   "floating breakfast",
+   "sandbank trip",
+   "in-villa dining",
+   "private dining",
+   "sandbank escape",
+   "sunset cruise"
+  ],
+  "packages": [],
+  "sandbank_events": true,
+  "doc": "https://www.nivadhigali.com/wp-content/uploads/2026/02/Floating-Breakfast-NIVA-LR-1.pdf"
+ },
  "events_mice": {
   "venues": [],
   "capacity_max": null,
@@ -327,9 +343,10 @@
   "dining_menu": "https://www.nivadhigali.com/wp-content/uploads/2026/07/LIMESpaMenu-Dhigali.pdf",
   "dive_prices": "https://www.nivadhigali.com/wp-content/uploads/2026/08/Snorkeling-Pricelist_Rev200826.pdf",
   "events": null,
-  "calendar": "https://www.nivadhigali.com/wp-content/uploads/2026/05/Niva-Dhigali_Festive-2026_web-1.pdf"
+  "calendar": "https://www.nivadhigali.com/wp-content/uploads/2026/05/Niva-Dhigali_Festive-2026_web-1.pdf",
+  "destination_dining": "https://www.nivadhigali.com/wp-content/uploads/2026/02/Floating-Breakfast-NIVA-LR-1.pdf"
  },
- "documents_count": 104,
+ "documents_count": 107,
  "gaps": [
   "events/MICE document"
  ],
@@ -1861,6 +1878,145 @@
     "value": true,
     "source_url": "https://www.nivadhigali.com/wp-content/uploads/2026/01/DHIGALI_Factsheet.pdf",
     "as_of": 2026
+   }
+  ],
+  "destination_dining.experiences": [
+   {
+    "value": "destination dining",
+    "source_url": "https://www.nivadhigali.com/wp-content/uploads/2026/01/DHIGALI_Factsheet.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "sandbank picnic",
+    "source_url": "https://www.nivadhigali.com/wp-content/uploads/2026/01/DHIGALI_Factsheet.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "beach dinner",
+    "source_url": "https://www.nivadhigali.com/wp-content/uploads/2026/01/DHIGALI_Factsheet.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "beach dinner",
+    "source_url": "https://www.nivahotelsandresorts.com/wp-content/uploads/2026/05/Wedding-Brochure-NIVA-LR-1.pdf",
+    "as_of": 2027
+   },
+   {
+    "value": "beach dinner",
+    "source_url": "https://www.nivahotelsandresorts.com/wp-content/uploads/2026/05/Wedding-Brochure-NIVA-LR-1.pdf",
+    "as_of": 2027
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://www.nivadhigali.com/wp-content/uploads/2026/02/Floating-Breakfast-NIVA-LR-1.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "sandbank trip",
+    "source_url": "https://www.nivadhigali.com/wp-content/uploads/2026/08/Snorkeling-Pricelist_Rev200826.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "in-villa dining",
+    "source_url": "https://www.nivahotelsandresorts.com/loyalty/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://www.nivahotelsandresorts.com/loyalty/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "in-villa dining",
+    "source_url": "https://www.nivahotelsandresorts.com/loyalty/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://www.nivahotelsandresorts.com/loyalty/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "in-villa dining",
+    "source_url": "https://www.nivahotelsandresorts.com/loyalty/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "in-villa dining",
+    "source_url": "https://www.nivahotelsandresorts.com/loyalty/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "private dining",
+    "source_url": "https://www.nivahotelsandresorts.com/dining/haali-bar/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sandbank trip",
+    "source_url": "https://www.nivahotelsandresorts.com/experience/jetski/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sandbank trip",
+    "source_url": "https://www.nivahotelsandresorts.com/experience/manta-turtle-dolphin-trip/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sandbank trip",
+    "source_url": "https://www.nivahotelsandresorts.com/experience/manta-turtle-dolphin-sandbank-trip/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sandbank escape",
+    "source_url": "https://www.nivahotelsandresorts.com/experience/manta-turtle-dolphin-sandbank-trip/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.neoscapesmaldives.com/resort/dhigali-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank picnic",
+    "source_url": "https://www.dnatatravel.com/2-6817740-1/dhigali-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.dnatatravel.com/2-6817740-1/dhigali-maldives",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "destination_dining.sandbank_events": [
+   {
+    "value": true,
+    "source_url": "https://www.nivadhigali.com/wp-content/uploads/2026/01/DHIGALI_Factsheet.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": true,
+    "source_url": "https://www.nivadhigali.com/wp-content/uploads/2026/08/Snorkeling-Pricelist_Rev200826.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": true,
+    "source_url": "https://www.nivahotelsandresorts.com/experience/jetski/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.nivahotelsandresorts.com/experience/manta-turtle-dolphin-trip/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.nivahotelsandresorts.com/experience/manta-turtle-dolphin-sandbank-trip/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.dnatatravel.com/2-6817740-1/dhigali-maldives",
+    "as_of": "2026-10-04"
    }
   ],
   "contacts_public.reservations_email": [

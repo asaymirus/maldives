@@ -56,8 +56,8 @@
   "teens": null
  },
  "wellness_fitness": [
-  "yoga",
-  "steam"
+  "steam",
+  "yoga"
  ],
  "weddings": {
   "offered": null,
@@ -65,6 +65,12 @@
   "venues": [],
   "packages": [],
   "brochure_doc": null
+ },
+ "destination_dining": {
+  "experiences": [],
+  "packages": [],
+  "sandbank_events": null,
+  "doc": "https://cocogiri.com/wp-content/uploads/2025/04/Candlelight-Dining-Menu.pdf"
  },
  "events_mice": {
   "venues": [],
@@ -83,10 +89,11 @@
   "map": "https://cocogiri.com/wp-content/uploads/2025/07/ALL-INCLUSIVE-MEAL-PLAN.pdf",
   "wedding": null,
   "spa_menu": "https://cocogiri.com/wp-content/uploads/2025/04/Spa-Menu.pdf",
-  "dining_menu": "https://cocogiri.com/wp-content/uploads/2025/04/Candlelight-Dining-Menu.pdf",
+  "dining_menu": "https://cocogiri.com/wp-content/uploads/2025/04/WHITESANDS-MENU.pdf",
   "dive_prices": "https://cocogiri.com/wp-content/uploads/2025/04/Dive-list-1-merged.pdf",
   "events": null,
-  "calendar": null
+  "calendar": null,
+  "destination_dining": "https://cocogiri.com/wp-content/uploads/2025/04/Candlelight-Dining-Menu.pdf"
  },
  "documents_count": 11,
  "gaps": [
@@ -103,18 +110,12 @@
   "fact: contacts"
  ],
  "sources": {
-  "dining": [
-   {
-    "value": {
-     "name": "but es Deli",
-     "cuisine": null,
-     "type": "restaurant"
-    },
-    "source_url": "https://cocogiri.com/wp-content/uploads/2025/04/Spa-Menu.pdf",
-    "as_of": 2023
-   }
-  ],
   "wellness_fitness": [
+   {
+    "value": "steam",
+    "source_url": "https://cocogiri.com/wp-content/uploads/2025/04/Candlelight-Dining-Menu.pdf",
+    "as_of": 2024
+   },
    {
     "value": "yoga",
     "source_url": "https://cocogiri.com/wp-content/uploads/2025/04/Spa-Menu.pdf",
@@ -127,8 +128,19 @@
    },
    {
     "value": "steam",
-    "source_url": "https://cocogiri.com/wp-content/uploads/2025/04/Candlelight-Dining-Menu.pdf",
-    "as_of": 2024
+    "source_url": "https://cocogiri.com/wp-content/uploads/2025/04/WHITESANDS-MENU.pdf",
+    "as_of": 2023
+   }
+  ],
+  "dining": [
+   {
+    "value": {
+     "name": "but es Deli",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://cocogiri.com/wp-content/uploads/2025/04/Spa-Menu.pdf",
+    "as_of": 2023
    }
   ],
   "diving_watersports.activities": [

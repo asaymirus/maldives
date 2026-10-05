@@ -2,7 +2,7 @@
 
 **Official site:** https://www.adaaran.com/prestigevadoo/ (ok)  
 **Brand:** Adaaran  
-**Atoll:** South Malé Atoll  **Island:** n/a  
+**Atoll:** South Malé Atoll  **Island:** Meedhupparu  
 **Opened/renovated:** n/a  **Rating:** n/a  
 **Transfer:** speedboat, seaplane, domestic flight; minutes: {"speedboat": 15}  
 **Island size:** 200 m x 90 m  
@@ -45,7 +45,7 @@ All-inclusive: All Inclusive offering.
 - House reef: house reefs in the Malé Atoll below
 - Activities: snorkeling, scuba diving, catamaran, jet ski, parasailing, seabob, sunset cruise, sailing, fun tube, paddleboard, canoe, fishing, dolphin cruise, manta, water skiing, snorkelling
 - Price list: https://www.adaaran.com/prestigevadoo/view-download/?id=dive01
-- Excursions: local island, dolphin, turtle, manta, sunset fishing, sandbank, stargazing, picnic, night fishing
+- Excursions: local island, dolphin, turtle, manta, sunset fishing, sandbank, cinema, stargazing, picnic, night fishing
 
 ## Kids & family
 
@@ -55,8 +55,14 @@ All-inclusive: All Inclusive offering.
 
 - Offered: True; vow renewal: True
 - Venues: Outdoor beach venue
-- Packages: Wedding USD 240 (2026)
+- Packages: Wedding USD 240 (2026); Vow USD 500 (2026-10-05)
 - Brochure: https://www.adaaran.com/prestigevadoo/view-download/?id=PVW
+
+## Destination dining
+
+- Experiences: sunset cruise, romantic dinner, floating breakfast, beach dinner, private dining, romantic candlelit dinner, candlelit dinner, jetty dinner, romantic beach dinner, sand bank lunch, underwater restaurant, beach bbq
+- Packages: n/a
+- Sandbank events: True; document: none
 
 ## Events / MICE
 
@@ -69,7 +75,7 @@ All-inclusive: All Inclusive offering.
 
 ## Public contacts
 
-- Reservations: reservations@adaaran.com.mv; weddings: n/a; phone: +960 664 3976
+- Reservations: info@divepoint-maldives.com; weddings: n/a; phone: +960 664 3976
 
 ## Latest documents
 
@@ -77,14 +83,15 @@ All-inclusive: All Inclusive offering.
 - map: https://www.neoscapesmaldives.com/wp-content/uploads/Resort-Map-Adaara-Prestige-Vadoo.pdf
 - wedding: https://www.adaaran.com/prestigevadoo/view-download/?id=PVW
 - spa_menu: https://www.maldivesexperts.com/uploads/resorts/e89bfa9988523a35d42c99f97850d4b8.pdf
-- dining_menu: https://www.adaaran.com/prestigevadoo/view-download/?id=adaaran-prestig
+- dining_menu: https://www.adaaran.com/prestigevadoo/view-download/?id=apv-mand-spa
 - dive_prices: https://www.adaaran.com/prestigevadoo/view-download/?id=dive01
 - events: none
 - calendar: none
+- destination_dining: none
 
 ## Gaps
 
 - events/MICE document
 - fact: kids club
 
-_Facts extracted by rules from 22 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._
+_Facts extracted by rules from 25 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

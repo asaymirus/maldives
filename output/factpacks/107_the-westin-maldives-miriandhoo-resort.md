@@ -40,6 +40,12 @@ Meal plans: n/a
 - Packages: n/a
 - Brochure: none
 
+## Destination dining
+
+- Experiences: destination dining, sandbank dinner
+- Packages: n/a
+- Sandbank events: True; document: none
+
 ## Events / MICE
 
 - Venues: n/a; capacity max: n/a; buyout: None
@@ -63,6 +69,7 @@ Meal plans: n/a
 - dive_prices: none
 - events: none
 - calendar: https://letsgomaldives.com/wp-content/uploads/2024/03/The-Westin-Maldives-2024-Easter-Celebration-Brochure.pdf
+- destination_dining: none
 
 ## Gaps
 
@@ -78,4 +85,4 @@ Meal plans: n/a
 - fact: weddings
 - fact: contacts
 
-_Facts extracted by rules from 4 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._
+_Facts extracted by rules from 6 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

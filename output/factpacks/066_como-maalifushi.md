@@ -30,7 +30,7 @@ All-inclusive: all-inclusive island experience where meals, massages and curated
 - House reef: HOUSE REEF ADVENTURE
 - Activities: snorkelling, scuba diving, windsurfing, kayaking, catamaran, fishing, sailing, manta, sunset cruise, whale shark, surfing, stand-up paddle, paddleboard, wakeboarding, dolphin cruise, snorkeling, water skiing
 - Price list: https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/cmf_light_tackle_and_fly_fishing_rate_sheet.pdf
-- Excursions: local island, dolphin, turtle, picnic, manta, private dinner, castaway, whale shark, sandbank, sunset fishing, cinema
+- Excursions: local island, dolphin, turtle, picnic, manta, private dinner, castaway, whale shark, cinema, sandbank, sunset fishing
 
 ## Kids & family
 
@@ -42,6 +42,12 @@ All-inclusive: all-inclusive island experience where meals, massages and curated
 - Venues: Tropical-themed wedding ceremony set up on the beach
 - Packages: Wedding USD 2700 (2024)
 - Brochure: https://de87ve0y4m3tc.cloudfront.net/comohotels.dev.cendynecommerce.com-2459770069/cms/pressroom/cmf_wedding_brochure.pdf
+
+## Destination dining
+
+- Experiences: in-villa dining, sunset cruise, castaway picnic, romantic beach dinner, private dining, candlelit dinner, beach dinner, beach barbecue, floating breakfast, wine dinner
+- Packages: n/a
+- Sandbank events: None; document: https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/como_maalifushi_private_dining_brochure.pdf
 
 ## Events / MICE
 
@@ -66,9 +72,10 @@ All-inclusive: all-inclusive island experience where meals, massages and curated
 - dive_prices: https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/cmf_light_tackle_and_fly_fishing_rate_sheet.pdf
 - events: https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/como_maalifushi_brochure_privateislandbuyout.pdf
 - calendar: https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/cmf_festive_programme_dec_24_to_jan_1.pdf
+- destination_dining: https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/como_maalifushi_private_dining_brochure.pdf
 
 ## Gaps
 
 - fact: dive operator
 
-_Facts extracted by rules from 26 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._
+_Facts extracted by rules from 27 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

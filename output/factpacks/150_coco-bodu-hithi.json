@@ -111,6 +111,22 @@
   "packages": [],
   "brochure_doc": null
  },
+ "destination_dining": {
+  "experiences": [
+   "romantic dinner",
+   "sunset cruise",
+   "sandbank picnic",
+   "in-villa bbq",
+   "beach bbq",
+   "wine dinner",
+   "in-villa dining",
+   "beach barbecue",
+   "wine pairing"
+  ],
+  "packages": [],
+  "sandbank_events": true,
+  "doc": null
+ },
  "events_mice": {
   "venues": [],
   "capacity_max": null,
@@ -131,7 +147,8 @@
   "dining_menu": null,
   "dive_prices": null,
   "events": null,
-  "calendar": null
+  "calendar": null,
+  "destination_dining": null
  },
  "documents_count": 2,
  "gaps": [
@@ -594,6 +611,120 @@
     "value": true,
     "source_url": "https://letsgomaldives.com/news/celebrate-the-festive-season-at-coco-bodu-hithi/",
     "as_of": "2026-10-04"
+   }
+  ],
+  "destination_dining.experiences": [
+   {
+    "value": "romantic dinner",
+    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/02.-Coco-Bodu-Hithi-Factsheet.pdf",
+    "as_of": 2020
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/02.-Coco-Bodu-Hithi-Factsheet.pdf",
+    "as_of": 2020
+   },
+   {
+    "value": "sandbank picnic",
+    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/02.-Coco-Bodu-Hithi-Factsheet.pdf",
+    "as_of": 2020
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/02.-Coco-Bodu-Hithi-Factsheet.pdf",
+    "as_of": 2020
+   },
+   {
+    "value": "in-villa bbq",
+    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/02.-Coco-Bodu-Hithi-Factsheet.pdf",
+    "as_of": 2020
+   },
+   {
+    "value": "sandbank picnic",
+    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/02.-Coco-Bodu-Hithi-Factsheet.pdf",
+    "as_of": 2020
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/02.-Coco-Bodu-Hithi-Factsheet.pdf",
+    "as_of": 2020
+   },
+   {
+    "value": "in-villa bbq",
+    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/02.-Coco-Bodu-Hithi-Factsheet.pdf",
+    "as_of": 2020
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/02.-Coco-Bodu-Hithi-Factsheet.pdf",
+    "as_of": 2020
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.cococollection.com/bodu-hithi",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.cococollection.com/bodu-hithi/cbh_frequently_asked_questions",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "beach bbq",
+    "source_url": "https://www.cococollection.com/bodu-hithi/cbh_frequently_asked_questions",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "wine dinner",
+    "source_url": "https://www.cococollection.com/bodu-hithi/cbh_frequently_asked_questions",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "in-villa dining",
+    "source_url": "https://www.cococollection.com/bodu-hithi/cbh_frequently_asked_questions",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "beach bbq",
+    "source_url": "https://www.cococollection.com/bodu-hithi/cbh_frequently_asked_questions",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "wine dinner",
+    "source_url": "https://www.cococollection.com/bodu-hithi/cbh_frequently_asked_questions",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "in-villa dining",
+    "source_url": "https://www.cococollection.com/bodu-hithi/cbh_frequently_asked_questions",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "beach barbecue",
+    "source_url": "https://www.cococollection.com/bodu-hithi/wine-dine",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "wine pairing",
+    "source_url": "https://www.neoscapesmaldives.com/resort/coco-palm-bodu-hithi/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "wine pairing",
+    "source_url": "https://www.neoscapesmaldives.com/resort/coco-palm-bodu-hithi/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://letsgomaldives.com/news/celebrate-the-festive-season-at-coco-bodu-hithi/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "destination_dining.sandbank_events": [
+   {
+    "value": true,
+    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/02.-Coco-Bodu-Hithi-Factsheet.pdf",
+    "as_of": 2020
    }
   ],
   "kids_family.kids_club": [

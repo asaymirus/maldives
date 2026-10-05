@@ -2,7 +2,7 @@
 
 **Official site:** https://www.adaaran.com/selecthudhuranfushi/ (ok)  
 **Brand:** Adaaran  
-**Atoll:** North Malé Atoll  **Island:** Free  
+**Atoll:** North Malé Atoll  **Island:** Meedhupparu  
 **Opened/renovated:** n/a  **Rating:** 4-star  
 **Transfer:** speedboat, yacht, domestic flight, seaplane; minutes: {"seaplane": 45, "speedboat": 25}  
 **Island size:** 45 m x 12 m  
@@ -78,8 +78,14 @@ Koamas Kids Club; ages: n/a; teens: teens programme mentioned
 
 - Offered: True; vow renewal: True
 - Venues: Outdoor beach venue for wedding celebration; Beach wedding pavilion setup
-- Packages: Wedding USD 250 (2027); Vow USD 500 (2026-10-05)
+- Packages: Wedding USD 250 (2027); Day Package USD 450 (2026); Photo Package USD 150 (2026); Photo and Video Package USD 200 (2026); Vow USD 500 (2026-10-05)
 - Brochure: https://www.adaaran.com/selecthudhuranfushi/view-download/?id=ASHW
+
+## Destination dining
+
+- Experiences: sunset cruise, beach bbq, floating breakfast, romantic dinner, beach dinner, anniversary celebration, romantic candlelit dinner, sand bank picnic, candlelit dinner, sandbank picnic, private dining, wine dinner, in-villa dining, romantic beach dinner, jetty dinner, underwater restaurant
+- Packages: Beach BBQ USD 78 (2027)
+- Sandbank events: True; document: none
 
 ## Events / MICE
 
@@ -104,9 +110,10 @@ Koamas Kids Club; ages: n/a; teens: teens programme mentioned
 - dive_prices: https://www.adaaran.com/selecthudhuranfushi/view-download/?id=Menu-10
 - events: https://www.adaaran.com/selecthudhuranfushi/view-download/?id=hrf-mice
 - calendar: none
+- destination_dining: none
 
 ## Gaps
 
 - fact: villas.total
 
-_Facts extracted by rules from 28 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._
+_Facts extracted by rules from 31 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

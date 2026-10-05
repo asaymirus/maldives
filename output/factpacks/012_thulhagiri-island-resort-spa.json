@@ -154,7 +154,17 @@
     "as_of": "2026-10-04"
    }
   ],
-  "brochure_doc": "https://www.thulhagiri.com.mv/wp-content/uploads/2025/10/Romantic-Beach-Dinner.pdf"
+  "brochure_doc": null
+ },
+ "destination_dining": {
+  "experiences": [
+   "romantic beach dinner",
+   "sunset cruise",
+   "beach dinner"
+  ],
+  "packages": [],
+  "sandbank_events": null,
+  "doc": "https://www.thulhagiri.com.mv/wp-content/uploads/2025/10/Romantic-Beach-Dinner.pdf"
  },
  "events_mice": {
   "venues": [],
@@ -164,23 +174,25 @@
  },
  "sustainability": [],
  "contacts_public": {
-  "reservations_email": "reserve@thulhagiri.com.mv",
+  "reservations_email": "info@thulhagiri.com.mv",
   "weddings_email": null,
   "phone": "+960 6645930"
  },
  "documents_latest": {
   "factsheet": null,
   "map": "https://www.thulhagiri.com.mv/wp-content/uploads/2025/10/Thulhagiri-Map-Updated-2025.pdf",
-  "wedding": "https://www.thulhagiri.com.mv/wp-content/uploads/2025/10/Romantic-Beach-Dinner.pdf",
+  "wedding": null,
   "spa_menu": "https://www.thulhagiri.com.mv/wp-content/uploads/2024/01/Duny-Thai-Spa-Menu-2024-Thulhagiri.pdf",
   "dining_menu": "https://www.thulhagiri.com.mv/wp-content/uploads/2025/10/All-Inclusive-Drinks-Menu-2025-1.pdf",
   "dive_prices": "https://www.thulhagiri.com.mv/wp-content/uploads/2025/10/Dive-Center-Pricelist-2025.pdf",
   "events": null,
-  "calendar": null
+  "calendar": null,
+  "destination_dining": "https://www.thulhagiri.com.mv/wp-content/uploads/2025/10/Romantic-Beach-Dinner.pdf"
  },
  "documents_count": 19,
  "gaps": [
   "factsheet",
+  "wedding brochure",
   "events/MICE document",
   "fact: dive operator",
   "fact: kids club"
@@ -480,14 +492,81 @@
     "as_of": "2026-10-04"
    }
   ],
-  "contacts_public.reservations_email": [
+  "destination_dining.experiences": [
    {
-    "value": "reserve@thulhagiri.com.mv",
+    "value": "romantic beach dinner",
     "source_url": "https://www.thulhagiri.com.mv/wp-content/uploads/2025/10/Romantic-Beach-Dinner.pdf",
     "as_of": 2025
    },
    {
+    "value": "romantic beach dinner",
+    "source_url": "https://www.thulhagiri.com.mv/wp-content/uploads/2025/10/Romantic-Beach-Dinner.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "romantic beach dinner",
+    "source_url": "https://www.thulhagiri.com.mv/wp-content/uploads/2025/10/Romantic-Beach-Dinner.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "romantic beach dinner",
+    "source_url": "https://www.thulhagiri.com.mv/wp-content/uploads/2025/10/Romantic-Beach-Dinner.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "romantic beach dinner",
+    "source_url": "https://www.thulhagiri.com.mv/wp-content/uploads/2025/10/Romantic-Beach-Dinner.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.thulhagiri.com.mv/wp-content/uploads/2025/10/EXCUSION-TOURS-2025.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "romantic beach dinner",
+    "source_url": "https://www.thulhagiri.com.mv/downloads/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.thulhagiri.com.mv/activities/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.thulhagiri.com.mv/activities/excursions/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "beach dinner",
+    "source_url": "https://www.thulhagiri.com.mv/dine/main-restaurant/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "romantic beach dinner",
+    "source_url": "https://www.thulhagiri.com.mv/dine/main-restaurant/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "romantic beach dinner",
+    "source_url": "https://thulhagiri.com.mv/downloads/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://thulhagiri.com.mv/activities/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "contacts_public.reservations_email": [
+   {
     "value": "info@thulhagiri.com.mv",
+    "source_url": "https://www.thulhagiri.com.mv/wp-content/uploads/2025/10/Romantic-Beach-Dinner.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "reserve@thulhagiri.com.mv",
     "source_url": "https://www.thulhagiri.com.mv/wp-content/uploads/2025/10/Romantic-Beach-Dinner.pdf",
     "as_of": 2025
    },

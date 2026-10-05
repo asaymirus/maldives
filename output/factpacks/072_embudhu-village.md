@@ -43,6 +43,12 @@ All-inclusive: All Inclusive Package, encompassing meals, snacks and drinks.
 - Packages: n/a
 - Brochure: https://embuduvillage.eme-devops.com/2026/04/Simple-Wedding-Package.pdf
 
+## Destination dining
+
+- Experiences: romantic dinner, private dining, sunset cruise, lobster dinner
+- Packages: n/a
+- Sandbank events: None; document: none
+
 ## Events / MICE
 
 - Venues: n/a; capacity max: n/a; buyout: None
@@ -66,10 +72,11 @@ All-inclusive: All Inclusive Package, encompassing meals, snacks and drinks.
 - dive_prices: none
 - events: none
 - calendar: none
+- destination_dining: none
 
 ## Gaps
 
 - events/MICE document
 - fact: kids club
 
-_Facts extracted by rules from 22 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._
+_Facts extracted by rules from 23 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

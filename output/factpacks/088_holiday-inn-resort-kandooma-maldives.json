@@ -77,6 +77,14 @@
   "packages": [],
   "brochure_doc": null
  },
+ "destination_dining": {
+  "experiences": [
+   "sunset cruise"
+  ],
+  "packages": [],
+  "sandbank_events": null,
+  "doc": null
+ },
  "events_mice": {
   "venues": [],
   "capacity_max": null,
@@ -97,7 +105,8 @@
   "dining_menu": null,
   "dive_prices": null,
   "events": null,
-  "calendar": null
+  "calendar": null,
+  "destination_dining": null
  },
  "documents_count": 0,
  "gaps": [
@@ -222,6 +231,13 @@
    },
    {
     "value": "badminton",
+    "source_url": "https://www.mymaldives.com/resort-guide/holiday-inn-resort-kandooma-maldives/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "destination_dining.experiences": [
+   {
+    "value": "sunset cruise",
     "source_url": "https://www.mymaldives.com/resort-guide/holiday-inn-resort-kandooma-maldives/",
     "as_of": "2026-10-04"
    }

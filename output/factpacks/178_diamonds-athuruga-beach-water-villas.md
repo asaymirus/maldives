@@ -48,15 +48,15 @@ All-inclusive: all inclusive services, culinary journeys and exclusive features.
 
 ## Spa & wellness
 
-- Spa: Mvua Spa; treatment rooms: ?; menu: https://d1vp8nomjxwyf1.cloudfront.net/wp-content/uploads/sites/109/2017/03/03070503/mc05-maldive.pdf
+- Spa: Mvua Spa; treatment rooms: ?; menu: none
 - Wellness/fitness: yoga, gym, tennis, beach volleyball, pilates, ayurveda
 
 ## Diving, water sports & excursions
 
 - Operator: n/a
 - House reef: house reef
-- Activities: fishing, glass-bottom, snorkeling, snorkelling, windsurfing, whale shark, manta, sailing, canoe, scuba diving, kitesurfing, kayaking, stand-up paddle, paddleboard, sunset cruise, dolphin cruise, catamaran, water skiing
-- Price list: https://d1vp8nomjxwyf1.cloudfront.net/wp-content/uploads/sites/110/2017/03/13084012/Society-Magazine-2017-Diamonds-Resorts-5-2.pdf
+- Activities: fishing, glass-bottom, snorkelling, windsurfing, whale shark, manta, sailing, canoe, snorkeling, scuba diving, kitesurfing, kayaking, stand-up paddle, paddleboard, sunset cruise, dolphin cruise, catamaran, water skiing
+- Price list: none
 - Excursions: turtle, dolphin, whale shark, manta, picnic, stargazing, castaway, cooking class, big game fishing, sandbank
 
 ## Kids & family
@@ -69,6 +69,12 @@ All-inclusive: all inclusive services, culinary journeys and exclusive features.
 - Venues: n/a
 - Packages: n/a
 - Brochure: none
+
+## Destination dining
+
+- Experiences: private dining, sunset cruise, teppanyaki dinner, romantic dinner, beach dinner
+- Packages: n/a
+- Sandbank events: None; document: none
 
 ## Events / MICE
 
@@ -88,11 +94,12 @@ All-inclusive: all inclusive services, culinary journeys and exclusive features.
 - factsheet: https://d1vp8nomjxwyf1.cloudfront.net/wp-content/uploads/sites/544/2022/10/27105422/Diamonds-Leisure-Beach-Golf-Resort-Fact-Sheet-2026.pdf
 - map: https://www.neoscapesmaldives.com/wp-content/uploads/Diamonds-Athuruga_map.pdf
 - wedding: none
-- spa_menu: https://d1vp8nomjxwyf1.cloudfront.net/wp-content/uploads/sites/109/2017/03/03070503/mc05-maldive.pdf
+- spa_menu: none
 - dining_menu: https://d1vp8nomjxwyf1.cloudfront.net/wp-content/uploads/sites/109/2017/03/29131429/Diamonds-Resorts_Gastronomie-e-Turisme_MarchApril-2019.pdf
-- dive_prices: https://d1vp8nomjxwyf1.cloudfront.net/wp-content/uploads/sites/110/2017/03/13084012/Society-Magazine-2017-Diamonds-Resorts-5-2.pdf
+- dive_prices: none
 - events: none
 - calendar: none
+- destination_dining: none
 
 ## Gaps
 
@@ -100,4 +107,4 @@ All-inclusive: all inclusive services, culinary journeys and exclusive features.
 - events/MICE document
 - fact: dive operator
 
-_Facts extracted by rules from 24 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._
+_Facts extracted by rules from 25 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

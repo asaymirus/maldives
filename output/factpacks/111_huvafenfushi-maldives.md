@@ -64,6 +64,12 @@ Kids Club; ages: 6-14 years; teens: teens programme mentioned
 - Packages: n/a
 - Brochure: https://www.huvafenfushi.com/wp-content/uploads/2026/06/Sand-and-Romance.pdf
 
+## Destination dining
+
+- Experiences: sunset cruise, sandbank experience, sandbank dinner, beach dinner, sandbank lunch, private chef, romantic dining, floating breakfast, private dining, underwater dining, candlelit dinner, romantic dinner, destination dining, sandbank picnic
+- Packages: n/a
+- Sandbank events: True; document: https://www.huvafenfushi.com/wp-content/uploads/2026/06/Sandbank-dinner.pdf
+
 ## Events / MICE
 
 - Venues: n/a; capacity max: n/a; buyout: None
@@ -87,9 +93,10 @@ Kids Club; ages: 6-14 years; teens: teens programme mentioned
 - dive_prices: https://www.huvafenfushi.com/wp-content/uploads/2026/05/Pricelist-Updated-2026.pdf
 - events: https://www.huvafenfushi.com/wp-content/uploads/2026/06/HF-Corporate-Social-Responsibility.pdf
 - calendar: https://www.huvafenfushi.com/wp-content/uploads/2026/07/Huvafen-Festive-brochure-2026-.pdf
+- destination_dining: https://www.huvafenfushi.com/wp-content/uploads/2026/06/Sandbank-dinner.pdf
 
 ## Gaps
 
 - fact: dive operator
 
-_Facts extracted by rules from 23 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._
+_Facts extracted by rules from 25 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

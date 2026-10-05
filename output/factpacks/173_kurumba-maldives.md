@@ -30,7 +30,8 @@
 - Laguna Bar Champagne Loft (bar)
 - Sky Bar (bar)
 - pool, and a Pool Bar. (bar)
-- Main Convention Hall VIP Lounge Board Room (bar)
+- Conference Hall and VIP Lounge (bar)
+- Wine Cellar Experience (bar)
 - Kandu and Fez Lounge (bar)
 - Athiri, Kandu & Fez Bar (bar)
 - Lounge (bar)
@@ -55,15 +56,15 @@ All-inclusive: all inclusive packages.
 ## Spa & wellness
 
 - Spa: Spa; treatment rooms: ?; menu: https://www.nivakurumba.com/wp-content/uploads/2026/09/LIME-KurumbaSpaMenuWeb.pdf
-- Wellness/fitness: yoga, gym, fitness centre, tennis, badminton, sauna, steam, meditation, fitness center
+- Wellness/fitness: yoga, gym, fitness centre, tennis, badminton, sauna, steam, fitness center
 
 ## Diving, water sports & excursions
 
 - Operator: Dive Centre
 - House reef: house reef directly accessible
-- Activities: snorkelling, windsurfing, surfing, kayaking, paddleboard, catamaran, jet ski, parasailing, wakeboarding, fishing, manta, sailing, semi-submarine, fun tube, canoe, snorkeling, scuba diving, sunset cruise
+- Activities: snorkelling, windsurfing, surfing, kayaking, paddleboard, catamaran, jet ski, parasailing, wakeboarding, fishing, manta, sailing, semi-submarine, sunset cruise, snorkeling, fun tube, canoe, scuba diving
 - Price list: https://www.nivakurumba.com/wp-content/uploads/2026/03/Watersports-Pricelist-March-17-NIVA-LR.pdf
-- Excursions: island hopping, local island, sandbank, dolphin, big game fishing, manta, private dinner, cooking class, turtle, picnic
+- Excursions: island hopping, local island, sandbank, dolphin, big game fishing, manta, picnic, cinema, turtle, cooking class
 
 ## Kids & family
 
@@ -73,13 +74,19 @@ All-inclusive: all inclusive packages.
 
 - Offered: True; vow renewal: True
 - Venues: n/a
-- Packages: Family Fun Package USD 430 (2026); Extreme Package USD 330 (2026); Couple Adventure Package USD 360 (2026); Splash Seeker Package USD 150 (2026)
-- Brochure: https://www.nivakurumba.com/wp-content/uploads/2026/04/Kurumba-Event-Destinations-LR.pdf
+- Packages: Wedding USD 300 (2026); Signature Experience USD 700 (2023); Family Fun Package USD 430 (2026); Extreme Package USD 330 (2026); Couple Adventure Package USD 360 (2026); Splash Seeker Package USD 150 (2026)
+- Brochure: https://www.nivakurumba.com/wp-content/uploads/2026/01/ROV.pdf
+
+## Destination dining
+
+- Experiences: private dining, sunset cruise, private chef, sandbank picnic, beach dinner, sunset dinner, dinner under the stars, sandbank dinner, romantic dinner
+- Packages: n/a
+- Sandbank events: True; document: https://document-tc.galaxy.tf/wdpdf-3tpo10ggoy9g0srcocm84to7b/_cms-document.pdf
 
 ## Events / MICE
 
-- Venues: n/a; capacity max: 200; buyout: None
-- Document: https://www.nivakurumba.com/wp-content/uploads/2026/07/Kurumba-Key-Employment-Policies.pdf
+- Venues: STORE ROOM MEETING ROOM EQUIPMENT; capacity max: n/a; buyout: None
+- Document: https://www.nivakurumba.com/wp-content/uploads/2025/11/Conference-hall-and-VIP-Lounge.pdf
 
 ## Sustainability
 
@@ -93,14 +100,15 @@ All-inclusive: all inclusive packages.
 
 - factsheet: https://www.nivakurumba.com/wp-content/uploads/2026/02/Kuramathi-Fact-Sheet.pdf
 - map: https://www.nivakurumba.com/wp-content/uploads/2026/03/Dining-Plan.pdf
-- wedding: https://www.nivakurumba.com/wp-content/uploads/2026/04/Kurumba-Event-Destinations-LR.pdf
+- wedding: https://www.nivakurumba.com/wp-content/uploads/2026/01/ROV.pdf
 - spa_menu: https://www.nivakurumba.com/wp-content/uploads/2026/09/LIME-KurumbaSpaMenuWeb.pdf
 - dining_menu: https://www.nivakurumba.com/wp-content/uploads/2025/09/Kurumba-beverage-List-LR-1.pdf
 - dive_prices: https://www.nivakurumba.com/wp-content/uploads/2026/03/Watersports-Pricelist-March-17-NIVA-LR.pdf
-- events: https://www.nivakurumba.com/wp-content/uploads/2026/07/Kurumba-Key-Employment-Policies.pdf
+- events: https://www.nivakurumba.com/wp-content/uploads/2025/11/Conference-hall-and-VIP-Lounge.pdf
 - calendar: https://www.nivakurumba.com/wp-content/uploads/2026/07/Niva-Kurumba_Festive-2026-web-1.pdf
+- destination_dining: https://document-tc.galaxy.tf/wdpdf-3tpo10ggoy9g0srcocm84to7b/_cms-document.pdf
 
 ## Gaps
 
 
-_Facts extracted by rules from 28 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._
+_Facts extracted by rules from 30 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

@@ -20,6 +20,9 @@
 - Access to Hard Rock Cafe Beach (restaurant)
 - Island Lounge (bar)
 - Hard Rock Café Maldives (restaurant)
+- Ministry of Crab Restaurant (restaurant)
+- Nihonbashi Blue Restaurant (restaurant)
+- Carne Diem Grill Restaurant (restaurant)
 
 Meal plans: AI
 
@@ -47,6 +50,12 @@ Meal plans: AI
 - Packages: n/a
 - Brochure: none
 
+## Destination dining
+
+- Experiences: sunset cruise, romantic dinner, dine under the stars, private dining
+- Packages: n/a
+- Sandbank events: None; document: none
+
 ## Events / MICE
 
 - Venues: n/a; capacity max: 12; buyout: None
@@ -70,6 +79,7 @@ Meal plans: AI
 - dive_prices: https://www.saiihotels.com/wp-content/uploads/2025/12/2026-Crossroads-Water-sports-catalogue-18-12-25.pdf
 - events: none
 - calendar: https://crossroadsmaldives.com/wp-content/uploads/2026/01/Padel-Tennis-Membership-Programme_2026.pdf
+- destination_dining: none
 
 ## Gaps
 
@@ -80,4 +90,4 @@ Meal plans: AI
 - fact: kids club
 - fact: contacts
 
-_Facts extracted by rules from 16 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._
+_Facts extracted by rules from 17 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

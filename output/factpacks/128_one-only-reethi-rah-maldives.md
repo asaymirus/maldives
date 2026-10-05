@@ -44,6 +44,12 @@ Meal plans: AI
 - Packages: n/a
 - Brochure: none
 
+## Destination dining
+
+- Experiences: private dining, sandbank experience, sunset cruise, in-villa dining
+- Packages: n/a
+- Sandbank events: True; document: none
+
 ## Events / MICE
 
 - Venues: n/a; capacity max: 30; buyout: None
@@ -67,10 +73,11 @@ Meal plans: AI
 - dive_prices: none
 - events: none
 - calendar: none
+- destination_dining: none
 
 ## Gaps
 
 - wedding brochure
 - events/MICE document
 
-_Facts extracted by rules from 24 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._
+_Facts extracted by rules from 26 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

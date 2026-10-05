@@ -232,6 +232,15 @@
   "packages": [],
   "brochure_doc": null
  },
+ "destination_dining": {
+  "experiences": [
+   "candlelit dinner",
+   "romantic candlelit dinner"
+  ],
+  "packages": [],
+  "sandbank_events": null,
+  "doc": null
+ },
  "events_mice": {
   "venues": [],
   "capacity_max": null,
@@ -254,7 +263,8 @@
   "dining_menu": null,
   "dive_prices": null,
   "events": null,
-  "calendar": null
+  "calendar": null,
+  "destination_dining": null
  },
  "documents_count": 3,
  "gaps": [
@@ -884,6 +894,18 @@
   "kids_family.kids_club": [
    {
     "value": "Kids Club",
+    "source_url": "https://www.neoscapesmaldives.com/resort/nika-island-resort/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "destination_dining.experiences": [
+   {
+    "value": "candlelit dinner",
+    "source_url": "https://www.neoscapesmaldives.com/resort/nika-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "romantic candlelit dinner",
     "source_url": "https://www.neoscapesmaldives.com/resort/nika-island-resort/",
     "as_of": "2026-10-04"
    }

@@ -159,7 +159,12 @@
    "type": "bar"
   },
   {
-   "name": "Main Convention Hall VIP Lounge Board Room",
+   "name": "Conference Hall and VIP Lounge",
+   "cuisine": null,
+   "type": "bar"
+  },
+  {
+   "name": "Wine Cellar Experience",
    "cuisine": null,
    "type": "bar"
   },
@@ -277,11 +282,11 @@
    "manta",
    "sailing",
    "semi-submarine",
+   "sunset cruise",
+   "snorkeling",
    "fun tube",
    "canoe",
-   "snorkeling",
-   "scuba diving",
-   "sunset cruise"
+   "scuba diving"
   ],
   "price_list_doc": "https://www.nivakurumba.com/wp-content/uploads/2026/03/Watersports-Pricelist-March-17-NIVA-LR.pdf"
  },
@@ -292,10 +297,10 @@
   "dolphin",
   "big game fishing",
   "manta",
-  "private dinner",
-  "cooking class",
+  "picnic",
+  "cinema",
   "turtle",
-  "picnic"
+  "cooking class"
  ],
  "kids_family": {
   "kids_club": "Bageecha Kids Club",
@@ -310,7 +315,6 @@
   "badminton",
   "sauna",
   "steam",
-  "meditation",
   "fitness center"
  ],
  "weddings": {
@@ -318,6 +322,18 @@
   "vow_renewal": true,
   "venues": [],
   "packages": [
+   {
+    "name": "Wedding",
+    "price": "300",
+    "currency": "USD",
+    "as_of": 2026
+   },
+   {
+    "name": "Signature Experience",
+    "price": "700",
+    "currency": "USD",
+    "as_of": 2023
+   },
    {
     "name": "Family Fun Package",
     "price": "430",
@@ -343,13 +359,31 @@
     "as_of": 2026
    }
   ],
-  "brochure_doc": "https://www.nivakurumba.com/wp-content/uploads/2026/04/Kurumba-Event-Destinations-LR.pdf"
+  "brochure_doc": "https://www.nivakurumba.com/wp-content/uploads/2026/01/ROV.pdf"
+ },
+ "destination_dining": {
+  "experiences": [
+   "private dining",
+   "sunset cruise",
+   "private chef",
+   "sandbank picnic",
+   "beach dinner",
+   "sunset dinner",
+   "dinner under the stars",
+   "sandbank dinner",
+   "romantic dinner"
+  ],
+  "packages": [],
+  "sandbank_events": true,
+  "doc": "https://document-tc.galaxy.tf/wdpdf-3tpo10ggoy9g0srcocm84to7b/_cms-document.pdf"
  },
  "events_mice": {
-  "venues": [],
-  "capacity_max": 200,
+  "venues": [
+   "STORE ROOM MEETING ROOM EQUIPMENT"
+  ],
+  "capacity_max": null,
   "buyout": null,
-  "doc": "https://www.nivakurumba.com/wp-content/uploads/2026/07/Kurumba-Key-Employment-Policies.pdf"
+  "doc": "https://www.nivakurumba.com/wp-content/uploads/2025/11/Conference-hall-and-VIP-Lounge.pdf"
  },
  "sustainability": [
   "marine biologist"
@@ -362,14 +396,15 @@
  "documents_latest": {
   "factsheet": "https://www.nivakurumba.com/wp-content/uploads/2026/02/Kuramathi-Fact-Sheet.pdf",
   "map": "https://www.nivakurumba.com/wp-content/uploads/2026/03/Dining-Plan.pdf",
-  "wedding": "https://www.nivakurumba.com/wp-content/uploads/2026/04/Kurumba-Event-Destinations-LR.pdf",
+  "wedding": "https://www.nivakurumba.com/wp-content/uploads/2026/01/ROV.pdf",
   "spa_menu": "https://www.nivakurumba.com/wp-content/uploads/2026/09/LIME-KurumbaSpaMenuWeb.pdf",
   "dining_menu": "https://www.nivakurumba.com/wp-content/uploads/2025/09/Kurumba-beverage-List-LR-1.pdf",
   "dive_prices": "https://www.nivakurumba.com/wp-content/uploads/2026/03/Watersports-Pricelist-March-17-NIVA-LR.pdf",
-  "events": "https://www.nivakurumba.com/wp-content/uploads/2026/07/Kurumba-Key-Employment-Policies.pdf",
-  "calendar": "https://www.nivakurumba.com/wp-content/uploads/2026/07/Niva-Kurumba_Festive-2026-web-1.pdf"
+  "events": "https://www.nivakurumba.com/wp-content/uploads/2025/11/Conference-hall-and-VIP-Lounge.pdf",
+  "calendar": "https://www.nivakurumba.com/wp-content/uploads/2026/07/Niva-Kurumba_Festive-2026-web-1.pdf",
+  "destination_dining": "https://document-tc.galaxy.tf/wdpdf-3tpo10ggoy9g0srcocm84to7b/_cms-document.pdf"
  },
- "documents_count": 88,
+ "documents_count": 89,
  "gaps": [],
  "sources": {
   "atoll": [
@@ -722,12 +757,21 @@
    },
    {
     "value": {
-     "name": "Main Convention Hall VIP Lounge Board Room",
+     "name": "Conference Hall and VIP Lounge",
      "cuisine": null,
      "type": "bar"
     },
-    "source_url": "https://www.nivakurumba.com/wp-content/uploads/2026/04/Kurumba-Event-Destinations-LR.pdf",
+    "source_url": "https://www.nivakurumba.com/wp-content/uploads/2025/11/Conference-hall-and-VIP-Lounge.pdf",
     "as_of": 2026
+   },
+   {
+    "value": {
+     "name": "Wine Cellar Experience",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://document-tc.galaxy.tf/wdpdf-3tpo10ggoy9g0srcocm84to7b/_cms-document.pdf",
+    "as_of": 2023
    },
    {
     "value": {
@@ -981,11 +1025,6 @@
     "as_of": 2026
    },
    {
-    "value": "HOUSE REEF TOUR",
-    "source_url": "https://www.nivakurumba.com/wp-content/uploads/2026/01/NIVA-Kurumba_Kids_Activity_Schedule4-6-LR.pdf",
-    "as_of": 2026
-   },
-   {
     "value": "house reef",
     "source_url": "https://www.neoscapesmaldives.com/resort/kurumba-maldives/",
     "as_of": "2026-10-04"
@@ -1078,6 +1117,16 @@
     "as_of": 2026
    },
    {
+    "value": "sunset cruise",
+    "source_url": "https://www.nivakurumba.com/wp-content/uploads/2026/01/ROV.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://document-tc.galaxy.tf/wdpdf-3tpo10ggoy9g0srcocm84to7b/_cms-document.pdf",
+    "as_of": 2023
+   },
+   {
     "value": "snorkelling",
     "source_url": "https://www.nivakurumba.com/wp-content/uploads/2026/03/Watersports-Pricelist-March-17-NIVA-LR.pdf",
     "as_of": 2026
@@ -1105,16 +1154,6 @@
    {
     "value": "canoe",
     "source_url": "https://www.nivakurumba.com/wp-content/uploads/2026/03/Watersports-Pricelist-March-17-NIVA-LR.pdf",
-    "as_of": 2026
-   },
-   {
-    "value": "snorkeling",
-    "source_url": "https://www.nivakurumba.com/wp-content/uploads/2026/01/NIVA-Kurumba_Kids_Activity_Schedule4-6-LR.pdf",
-    "as_of": 2026
-   },
-   {
-    "value": "snorkelling",
-    "source_url": "https://www.nivakurumba.com/wp-content/uploads/2026/07/Kurumba-Responsible-Team-Member-Guide.pdf",
     "as_of": 2026
    },
    {
@@ -1270,9 +1309,19 @@
     "as_of": 2026
    },
    {
-    "value": "private dinner",
-    "source_url": "https://www.nivakurumba.com/wp-content/uploads/2026/04/Kurumba-Event-Destinations-LR.pdf",
-    "as_of": 2026
+    "value": "sandbank",
+    "source_url": "https://document-tc.galaxy.tf/wdpdf-3tpo10ggoy9g0srcocm84to7b/_cms-document.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": "picnic",
+    "source_url": "https://document-tc.galaxy.tf/wdpdf-3tpo10ggoy9g0srcocm84to7b/_cms-document.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": "cinema",
+    "source_url": "https://document-tc.galaxy.tf/wdpdf-3tpo10ggoy9g0srcocm84to7b/_cms-document.pdf",
+    "as_of": 2023
    },
    {
     "value": "sandbank",
@@ -1282,11 +1331,6 @@
    {
     "value": "dolphin",
     "source_url": "https://www.nivakurumba.com/wp-content/uploads/2026/03/Watersports-Pricelist-March-17-NIVA-LR.pdf",
-    "as_of": 2026
-   },
-   {
-    "value": "cooking class",
-    "source_url": "https://www.nivakurumba.com/wp-content/uploads/2026/01/NIVA-Kurumba_Kids_Activity_Schedule4-6-LR.pdf",
     "as_of": 2026
    },
    {
@@ -1404,9 +1448,9 @@
     "as_of": 2026
    },
    {
-    "value": "gym",
-    "source_url": "https://www.nivakurumba.com/wp-content/uploads/2026/07/Kurumba-Key-Employment-Policies.pdf",
-    "as_of": 2026
+    "value": "steam",
+    "source_url": "https://document-tc.galaxy.tf/wdpdf-3tpo10ggoy9g0srcocm84to7b/_cms-document.pdf",
+    "as_of": 2023
    },
    {
     "value": "yoga",
@@ -1414,13 +1458,8 @@
     "as_of": 2026
    },
    {
-    "value": "yoga",
-    "source_url": "https://www.nivakurumba.com/wp-content/uploads/2026/01/NIVA-Kurumba_Kids_Activity_Schedule4-6-LR.pdf",
-    "as_of": 2026
-   },
-   {
-    "value": "meditation",
-    "source_url": "https://www.nivakurumba.com/wp-content/uploads/2026/01/NIVA-Kurumba_Kids_Activity_Schedule4-6-LR.pdf",
+    "value": "gym",
+    "source_url": "https://www.nivakurumba.com/wp-content/uploads/2026/07/Kurumba-Key-Employment-Policies.pdf",
     "as_of": 2026
    },
    {
@@ -1497,7 +1536,7 @@
    },
    {
     "value": true,
-    "source_url": "https://www.nivakurumba.com/wp-content/uploads/2026/04/Kurumba-Event-Destinations-LR.pdf",
+    "source_url": "https://www.nivakurumba.com/wp-content/uploads/2026/01/ROV.pdf",
     "as_of": 2026
    },
    {
@@ -1519,8 +1558,110 @@
    },
    {
     "value": true,
-    "source_url": "https://www.nivakurumba.com/wp-content/uploads/2026/04/Kurumba-Event-Destinations-LR.pdf",
+    "source_url": "https://www.nivakurumba.com/wp-content/uploads/2026/01/ROV.pdf",
     "as_of": 2026
+   }
+  ],
+  "destination_dining.experiences": [
+   {
+    "value": "private dining",
+    "source_url": "https://www.nivakurumba.com/wp-content/uploads/2026/02/Kuramathi-Fact-Sheet.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.nivakurumba.com/wp-content/uploads/2026/01/ROV.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "private dining",
+    "source_url": "https://document-tc.galaxy.tf/wdpdf-3tpo10ggoy9g0srcocm84to7b/_cms-document.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": "private chef",
+    "source_url": "https://document-tc.galaxy.tf/wdpdf-3tpo10ggoy9g0srcocm84to7b/_cms-document.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": "sandbank picnic",
+    "source_url": "https://document-tc.galaxy.tf/wdpdf-3tpo10ggoy9g0srcocm84to7b/_cms-document.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": "sandbank picnic",
+    "source_url": "https://document-tc.galaxy.tf/wdpdf-3tpo10ggoy9g0srcocm84to7b/_cms-document.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": "beach dinner",
+    "source_url": "https://document-tc.galaxy.tf/wdpdf-3tpo10ggoy9g0srcocm84to7b/_cms-document.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": "sunset dinner",
+    "source_url": "https://document-tc.galaxy.tf/wdpdf-3tpo10ggoy9g0srcocm84to7b/_cms-document.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": "dinner under the stars",
+    "source_url": "https://document-tc.galaxy.tf/wdpdf-3tpo10ggoy9g0srcocm84to7b/_cms-document.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": "sandbank dinner",
+    "source_url": "https://document-tc.galaxy.tf/wdpdf-3tpo10ggoy9g0srcocm84to7b/_cms-document.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": "romantic dinner",
+    "source_url": "https://document-tc.galaxy.tf/wdpdf-3tpo10ggoy9g0srcocm84to7b/_cms-document.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": "private dining",
+    "source_url": "https://document-tc.galaxy.tf/wdpdf-3tpo10ggoy9g0srcocm84to7b/_cms-document.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": "private chef",
+    "source_url": "https://document-tc.galaxy.tf/wdpdf-3tpo10ggoy9g0srcocm84to7b/_cms-document.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": "private dining",
+    "source_url": "https://document-tc.galaxy.tf/wdpdf-3tpo10ggoy9g0srcocm84to7b/_cms-document.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": "private dining",
+    "source_url": "https://document-tc.galaxy.tf/wdpdf-3tpo10ggoy9g0srcocm84to7b/_cms-document.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": "private dining",
+    "source_url": "https://document-tc.galaxy.tf/wdpdf-3tpo10ggoy9g0srcocm84to7b/_cms-document.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.mymaldives.com/blog/kurumba-maldives-announces-40-activities-to-celebrate-its-40th-years-anniversary/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.mymaldives.com/blog/kurumba-maldives-announces-40-activities-to-celebrate-its-40th-years-anniversary/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "romantic dinner",
+    "source_url": "https://www.dnatatravel.com/2-218589-1/kurumba-maldives?oc=true",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.dnatatravel.com/2-218589-1/kurumba-maldives?oc=true",
+    "as_of": "2026-10-04"
    }
   ],
   "sustainability": [
@@ -1535,21 +1676,37 @@
     "as_of": "2026-10-04"
    }
   ],
-  "events_mice.capacity_max": [
-   {
-    "value": 200,
-    "source_url": "https://www.nivakurumba.com/wp-content/uploads/2026/04/Kurumba-Event-Destinations-LR.pdf",
-    "as_of": 2026
-   }
-  ],
-  "contacts_public.weddings_email": [
-   {
-    "value": "events@nivakurumba.com",
-    "source_url": "https://www.nivakurumba.com/wp-content/uploads/2026/04/Kurumba-Event-Destinations-LR.pdf",
-    "as_of": 2026
-   }
-  ],
   "weddings.packages": [
+   {
+    "value": {
+     "name": "Wedding",
+     "price": "300",
+     "currency": "USD",
+     "as_of": 2026
+    },
+    "source_url": "https://www.nivakurumba.com/wp-content/uploads/2026/01/ROV.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": {
+     "name": "Signature Experience",
+     "price": "700",
+     "currency": "USD",
+     "as_of": 2023
+    },
+    "source_url": "https://document-tc.galaxy.tf/wdpdf-3tpo10ggoy9g0srcocm84to7b/_cms-document.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": {
+     "name": "Signature Experience",
+     "price": "700",
+     "currency": "USD",
+     "as_of": 2023
+    },
+    "source_url": "https://document-tc.galaxy.tf/wdpdf-3tpo10ggoy9g0srcocm84to7b/_cms-document.pdf",
+    "as_of": 2023
+   },
    {
     "value": {
      "name": "Family Fun Package",
@@ -1589,6 +1746,27 @@
     },
     "source_url": "https://www.nivakurumba.com/wp-content/uploads/2026/03/Watersports-Pricelist-March-17-NIVA-LR.pdf",
     "as_of": 2026
+   }
+  ],
+  "contacts_public.weddings_email": [
+   {
+    "value": "events@nivakurumba.com",
+    "source_url": "https://www.nivakurumba.com/wp-content/uploads/2026/01/ROV.pdf",
+    "as_of": 2026
+   }
+  ],
+  "events_mice.venues": [
+   {
+    "value": "STORE ROOM MEETING ROOM EQUIPMENT",
+    "source_url": "https://www.nivakurumba.com/wp-content/uploads/2025/11/Conference-hall-and-VIP-Lounge.pdf",
+    "as_of": 2026
+   }
+  ],
+  "destination_dining.sandbank_events": [
+   {
+    "value": true,
+    "source_url": "https://document-tc.galaxy.tf/wdpdf-3tpo10ggoy9g0srcocm84to7b/_cms-document.pdf",
+    "as_of": 2023
    }
   ],
   "kids_family.teens": [

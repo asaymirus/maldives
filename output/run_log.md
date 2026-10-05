@@ -26,3 +26,4 @@
 | 2026-10-05 03:27 | D | archives: {'failed': 88} | 3344 |
 | 2026-10-05 03:31 | F | fact packs for 182 resorts | 3344 |
 | 2026-10-05 06:38 | B+ | destination-dining pass: {'duplicate': 20, 'stored': 54, 'failed': 40, 'unmatched': 37} | 3398 |
+| 2026-10-05 06:42 | F | fact packs for 182 resorts | 3398 |

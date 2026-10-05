@@ -157,6 +157,11 @@
    "name": "Asian Wok Bar",
    "cuisine": null,
    "type": "bar"
+  },
+  {
+   "name": "a refreshing cocktail or two at Bonthi Bar",
+   "cuisine": null,
+   "type": "bar"
   }
  ],
  "meal_plans": [
@@ -205,7 +210,8 @@
   "dolphin",
   "picnic",
   "island hopping",
-  "cooking class"
+  "cooking class",
+  "private dinner"
  ],
  "kids_family": {
   "kids_club": "Kids Club",
@@ -247,6 +253,31 @@
   ],
   "brochure_doc": "https://dra0pipbd8ype.cloudfront.net/2025/06/HoneymoonGuestInfoRatesVilamendhooVer020525.pdf"
  },
+ "destination_dining": {
+  "experiences": [
+   "sunset cruise",
+   "beach bbq",
+   "private chef",
+   "romantic beach dinner",
+   "lobster dinner",
+   "beach dinner",
+   "in-villa dining",
+   "candlelit dinner",
+   "romantic dinner",
+   "private dining",
+   "romantic private dinner"
+  ],
+  "packages": [
+   {
+    "name": "Romantic Candlelight Seafood Dinner",
+    "price": "255",
+    "currency": "USD",
+    "as_of": 2026
+   }
+  ],
+  "sandbank_events": null,
+  "doc": "https://dra0pipbd8ype.cloudfront.net/2025/07/Vilamendhoo-Candle-Light-Dinner-Menu-010725.pdf"
+ },
  "events_mice": {
   "venues": [],
   "capacity_max": 18,
@@ -274,9 +305,10 @@
   "dining_menu": "https://dra0pipbd8ype.cloudfront.net/2026/01/Valentines-info-dinner-menu_2026.pdf",
   "dive_prices": "https://dra0pipbd8ype.cloudfront.net/2025/12/Vilamendhoo-Dive-English_JAN26.pdf",
   "events": null,
-  "calendar": "https://d2qwq69i2ic1pk.cloudfront.net/2023/11/CCR_2024_Calendar_compressed.pdf"
+  "calendar": "https://d2qwq69i2ic1pk.cloudfront.net/2023/11/CCR_2024_Calendar_compressed.pdf",
+  "destination_dining": "https://dra0pipbd8ype.cloudfront.net/2025/07/Vilamendhoo-Candle-Light-Dinner-Menu-010725.pdf"
  },
- "documents_count": 106,
+ "documents_count": 108,
  "gaps": [
   "events/MICE document"
  ],
@@ -354,6 +386,11 @@
    },
    {
     "value": "Ari Atoll",
+    "source_url": "https://www.vilamendhoo.com/blog/category/romantic-experiences",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Ari Atoll",
     "source_url": "https://www.mymaldives.com/resort-guide/vilamendhoo-island-resort/",
     "as_of": "2026-10-04"
    },
@@ -400,6 +437,11 @@
     "value": "seaplane",
     "source_url": "https://www.vilamendhoo.com/offers.html",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "seaplane",
+    "source_url": "https://www.vilamendhoo.com/facilities/family-experience.html",
+    "as_of": "2026-10-05"
    },
    {
     "value": "seaplane",
@@ -759,6 +801,11 @@
    },
    {
     "value": "Spa",
+    "source_url": "https://www.vilamendhoo.com/blog/category/romantic-experiences",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Spa",
     "source_url": "https://www.mymaldives.com/resort-guide/vilamendhoo-island-resort/",
     "as_of": "2026-10-04"
    }
@@ -808,6 +855,11 @@
     "value": "house reef is our",
     "source_url": "https://www.vilamendhoo.com/blog/2021/11",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef teeming with sea life, breathtaking tropical views, and",
+    "source_url": "https://www.vilamendhoo.com/blog/category/romantic-experiences",
+    "as_of": "2026-10-05"
    },
    {
     "value": "House Reef fra i migliori e molto facile da raggiungere",
@@ -1307,6 +1359,36 @@
     "as_of": "2026-10-04"
    },
    {
+    "value": "snorkeling",
+    "source_url": "https://www.vilamendhoo.com/blog/category/destination-dining",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://www.vilamendhoo.com/blog/category/destination-dining",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.vilamendhoo.com/blog/category/romantic-experiences",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://www.vilamendhoo.com/blog/category/romantic-experiences",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "paddleboard",
+    "source_url": "https://www.vilamendhoo.com/blog/category/romantic-experiences",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.vilamendhoo.com/facilities/family-experience.html",
+    "as_of": "2026-10-05"
+   },
+   {
     "value": "whale shark",
     "source_url": "https://mondomaldive.it/it/villaggio/vilamendhoo-island-resort/recensione/5296",
     "as_of": "2026-10-04"
@@ -1654,6 +1736,16 @@
     "as_of": "2026-10-04"
    },
    {
+    "value": "turtle",
+    "source_url": "https://www.vilamendhoo.com/blog/category/romantic-experiences",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "private dinner",
+    "source_url": "https://www.vilamendhoo.com/romance/romantic-options.html",
+    "as_of": "2026-10-05"
+   },
+   {
     "value": "whale shark",
     "source_url": "https://mondomaldive.it/it/villaggio/vilamendhoo-island-resort/recensione/5296",
     "as_of": "2026-10-04"
@@ -1709,6 +1801,11 @@
     "value": "Kids Club",
     "source_url": "https://www.vilamendhoo.com/sitemap.html",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "Heron Kids Club",
+    "source_url": "https://www.vilamendhoo.com/facilities/family-experience.html",
+    "as_of": "2026-10-05"
    }
   ],
   "wellness_fitness": [
@@ -1843,6 +1940,11 @@
     "as_of": "2026-10-04"
    },
    {
+    "value": "gym",
+    "source_url": "https://www.vilamendhoo.com/facilities/family-experience.html",
+    "as_of": "2026-10-05"
+   },
+   {
     "value": "tennis",
     "source_url": "https://mondomaldive.it/it/villaggio/vilamendhoo-island-resort/recensione/5999",
     "as_of": "2026-10-04"
@@ -1928,6 +2030,16 @@
     "value": true,
     "source_url": "https://www.vilamendhoo.com/blog/2021",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.vilamendhoo.com/romance.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.vilamendhoo.com/romance/romantic-options.html",
+    "as_of": "2026-10-05"
    }
   ],
   "weddings.vow_renewal": [
@@ -1959,6 +2071,213 @@
    {
     "value": true,
     "source_url": "https://www.vilamendhoo.com/romance/symbolic-renewal-of-vows.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.vilamendhoo.com/blog/category/romantic-experiences",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.vilamendhoo.com/romance.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.vilamendhoo.com/romance/romantic-options.html",
+    "as_of": "2026-10-05"
+   }
+  ],
+  "destination_dining.experiences": [
+   {
+    "value": "sunset cruise",
+    "source_url": "https://img.crownandchamparesorts.com/vlm/VilamendhooFactsheet151126103127Rev050626.pdf",
+    "as_of": 2027
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://img.crownandchamparesorts.com/vlm/VilamendhooFactsheet151126103127Rev050626.pdf",
+    "as_of": 2027
+   },
+   {
+    "value": "beach bbq",
+    "source_url": "https://dra0pipbd8ype.cloudfront.net/2024/12/VILA-VoWs-Presentation-_Rev230424.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "beach bbq",
+    "source_url": "https://dra0pipbd8ype.cloudfront.net/2024/12/VILA-VoWs-Presentation-_Rev230424.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "private chef",
+    "source_url": "https://dra0pipbd8ype.cloudfront.net/2024/12/VILA-VoWs-Presentation-_Rev230424.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "beach bbq",
+    "source_url": "https://dra0pipbd8ype.cloudfront.net/2024/12/VILA-VoWs-Presentation-_Rev230424.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "romantic beach dinner",
+    "source_url": "https://dra0pipbd8ype.cloudfront.net/2024/12/VILA-VoWs-Presentation-_Rev230424.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "private chef",
+    "source_url": "https://dra0pipbd8ype.cloudfront.net/2024/12/VILA-VoWs-Presentation-_Rev230424.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "lobster dinner",
+    "source_url": "https://dra0pipbd8ype.cloudfront.net/2025/06/HoneymoonGuestInfoRatesVilamendhooVer020525.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "romantic beach dinner",
+    "source_url": "https://dra0pipbd8ype.cloudfront.net/2026/01/Valentines-info-dinner-menu_2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "beach dinner",
+    "source_url": "https://dra0pipbd8ype.cloudfront.net/2026/01/Valentines-info-dinner-menu_2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://dra0pipbd8ype.cloudfront.net/2026/02/ExcursionProgramVilamendhoo110124103125C.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://dra0pipbd8ype.cloudfront.net/2026/05/VilaAllInclusiveDineAroundPackage111526103127Rev050626.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "in-villa dining",
+    "source_url": "https://www.vilamendhoo.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "beach dinner",
+    "source_url": "https://www.vilamendhoo.com/blog/2021/page/4",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "beach bbq",
+    "source_url": "https://www.vilamendhoo.com/blog/2021/page/4",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "lobster dinner",
+    "source_url": "https://www.vilamendhoo.com/blog/2021/page/4",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.vilamendhoo.com/things-to-do/excursions.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.vilamendhoo.com/sitemap.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "candlelit dinner",
+    "source_url": "https://www.vilamendhoo.com/blog/2021/02",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.vilamendhoo.com/blog/2021/02",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.vilamendhoo.com/blog/category/wellness",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.vilamendhoo.com/dining/all-inclusive-package.html",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.vilamendhoo.com/blog/2019/page/2",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "romantic dinner",
+    "source_url": "https://www.vilamendhoo.com/blog/2019/page/2",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "beach dinner",
+    "source_url": "https://www.vilamendhoo.com/blog/category/message-from-general-manager/page/2",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "lobster dinner",
+    "source_url": "https://www.vilamendhoo.com/blog/category/destination-dining",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "private dining",
+    "source_url": "https://www.vilamendhoo.com/blog/category/destination-dining",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "romantic beach dinner",
+    "source_url": "https://www.vilamendhoo.com/blog/category/romantic-experiences",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "beach dinner",
+    "source_url": "https://www.vilamendhoo.com/dining/dinner-on-the-beach.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "lobster dinner",
+    "source_url": "https://www.vilamendhoo.com/dining/dinner-on-the-beach.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "beach bbq",
+    "source_url": "https://www.vilamendhoo.com/dining/dinner-on-the-beach.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "beach bbq",
+    "source_url": "https://www.vilamendhoo.com/dining/dinner-on-the-beach.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "romantic private dinner",
+    "source_url": "https://www.vilamendhoo.com/romance/romantic-options.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "beach bbq",
+    "source_url": "https://www.vilamendhoo.com/romance/romantic-options.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://mondomaldive.it/it/villaggio/vilamendhoo-island-resort/recensione/6155",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://mondomaldive.it/it/villaggio/vilamendhoo-island-resort/recensione/6149",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "candlelit dinner",
+    "source_url": "https://www.maldivestourism.net/resorts/vilamendhoo-island-resort/",
     "as_of": "2026-10-04"
    }
   ],
@@ -2043,6 +2362,18 @@
     "as_of": 2026
    }
   ],
+  "destination_dining.packages": [
+   {
+    "value": {
+     "name": "Romantic Candlelight Seafood Dinner",
+     "price": "255",
+     "currency": "USD",
+     "as_of": 2026
+    },
+    "source_url": "https://dra0pipbd8ype.cloudfront.net/2025/06/HoneymoonGuestInfoRatesVilamendhooVer020525.pdf",
+    "as_of": 2026
+   }
+  ],
   "contacts_public.reservations_email": [
    {
     "value": "reservations@vilamendhoo.com",
@@ -2113,6 +2444,21 @@
     "value": "reservations@vilamendhoo.com",
     "source_url": "https://www.vilamendhoo.com/blog/2021/11",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "reservations@vilamendhoo.com",
+    "source_url": "https://www.vilamendhoo.com/blog/category/destination-dining",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "reservations@vilamendhoo.com",
+    "source_url": "https://www.vilamendhoo.com/dining/dinner-on-the-beach.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "reservations@vilamendhoo.com",
+    "source_url": "https://www.vilamendhoo.com/romance/romantic-options.html",
+    "as_of": "2026-10-05"
    }
   ],
   "diving_watersports.operator": [
@@ -2170,6 +2516,16 @@
     "value": "Euro-Divers",
     "source_url": "https://www.vilamendhoo.com/blog/2021/11",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "Euro-Divers",
+    "source_url": "https://www.vilamendhoo.com/blog/category/romantic-experiences",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Euro-Divers",
+    "source_url": "https://www.vilamendhoo.com/facilities/family-experience.html",
+    "as_of": "2026-10-05"
    }
   ],
   "meal_plans": [
@@ -2483,6 +2839,33 @@
     },
     "source_url": "https://www.vilamendhoo.com/blog/2021",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "a refreshing cocktail or two at Bonthi Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.vilamendhoo.com/blog/category/romantic-experiences",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": {
+     "name": "Stocked Mini Bar with refrigerator",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.vilamendhoo.com/rooms/romantic-beachfront-villas.html",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": {
+     "name": "Stocked Mini Bar with refrigerator",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.vilamendhoo.com/rooms/romantic-ocean-villas.html",
+    "as_of": "2026-10-05"
    }
   ]
  },

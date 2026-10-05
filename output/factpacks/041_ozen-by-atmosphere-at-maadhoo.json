@@ -358,6 +358,18 @@
   "packages": [],
   "brochure_doc": null
  },
+ "destination_dining": {
+  "experiences": [
+   "underwater restaurant",
+   "floating breakfast",
+   "wine pairing",
+   "sandbank picnic",
+   "private dining"
+  ],
+  "packages": [],
+  "sandbank_events": true,
+  "doc": null
+ },
  "events_mice": {
   "venues": [],
   "capacity_max": null,
@@ -380,7 +392,8 @@
   "dining_menu": null,
   "dive_prices": null,
   "events": null,
-  "calendar": null
+  "calendar": null,
+  "destination_dining": null
  },
  "documents_count": 11,
  "gaps": [
@@ -2100,6 +2113,48 @@
     "as_of": "2026-10-04"
    }
   ],
+  "destination_dining.experiences": [
+   {
+    "value": "underwater restaurant",
+    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/OZEN-LIFE-MAADHOO-Fact-Sheet-2025.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://www.neoscapesmaldives.com/resort/ozen-life-maadhoo",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "wine pairing",
+    "source_url": "https://www.neoscapesmaldives.com/resort/ozen-life-maadhoo",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "underwater restaurant",
+    "source_url": "https://www.neoscapesmaldives.com/resort/ozen-life-maadhoo",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "underwater restaurant",
+    "source_url": "https://www.neoscapesmaldives.com/resort/ozen-life-maadhoo",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "underwater restaurant",
+    "source_url": "https://www.mymaldives.com/resort-guide/ozen-life-maadhoo/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank picnic",
+    "source_url": "https://www.mymaldives.com/resort-guide/ozen-life-maadhoo/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "private dining",
+    "source_url": "https://www.mymaldives.com/resort-guide/ozen-life-maadhoo/",
+    "as_of": "2026-10-04"
+   }
+  ],
   "transfer.modes": [
    {
     "value": "yacht",
@@ -2310,6 +2365,13 @@
    },
    {
     "value": "+960 400 2222",
+    "source_url": "https://www.mymaldives.com/resort-guide/ozen-life-maadhoo/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "destination_dining.sandbank_events": [
+   {
+    "value": true,
     "source_url": "https://www.mymaldives.com/resort-guide/ozen-life-maadhoo/",
     "as_of": "2026-10-04"
    }

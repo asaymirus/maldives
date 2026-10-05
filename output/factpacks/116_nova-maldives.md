@@ -4,7 +4,7 @@
 **Brand:** Nova  
 **Atoll:** Ari Atoll  **Island:** Nova Maldives  
 **Opened/renovated:** n/a  **Rating:** n/a  
-**Transfer:** seaplane, speedboat; minutes: {"seaplane": 25}  
+**Transfer:** seaplane, speedboat, yacht; minutes: {"seaplane": 25}  
 **Island size:** n/a  
 
 ## Villas (75 total)
@@ -49,6 +49,8 @@
 - SOLIS - Pool Bar (bar)
 - Soul Kitchen (restaurant)
 - Mizu – Overwater Teppanyaki (restaurant)
+- Teppanyaki Reimagined (restaurant)
+- Where the Grill Sets the Mood (restaurant)
 - Flames - Grill House (restaurant)
 
 Meal plans: AI, FB
@@ -78,6 +80,12 @@ All-inclusive: all-inclusive beverage menu.
 - Packages: Ceremony USD 375 (2025); Wedding USD 350 (2025)
 - Brochure: https://d7h9v39iheghu.cloudfront.net/previews/7837a234-9635-4da8-b132-476aacd9b4c1/3f5ac883-372b-4221-8214-04fc6f0a4991/3f5ac883-372b-4221-8214-04fc6f0a4991?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy83ODM3YTIzNC05NjM1LTRkYTgtYjEzMi00NzZhYWNkOWI0YzEqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjg0MDEwfX19XX0_&Signature=0NCrDHEtg~3Ag4tUAPQa6ilJ6cyZ~w4zVuMSD7cG~r-mqETwrHjP~ymbFvuB7vZlbnPnlWCA1ED5pRAzfLnrljg2GzmBKzehdZ5pgyEdg2DhUh1PdoH9P3mOCEtIvAjK8OJMABLlrsk9l-sKHGYMa1a1Cwv28E-vbs9wjG1faMxEGG67VKe8YrbKJea-zq31p-n-SwDxEgYcBaFhSoyAOtk-LQQh4YnbO4e3Mh1O3qhd1CUPoi~QB1~gR8sul5CK0VJQczSIV5ZAIetLpT6YzKJjTsyOlpvwM1Ndaf6IhiW6ocfSJj45JPk5h8YsmO05fa9p1P7DalJRXVD6AH0o6g__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA
 
+## Destination dining
+
+- Experiences: private dining, romantic dinner, floating breakfast, sunset cruise, sandbank escape, romantic dining, destination dining, romantic candlelit dinner, castaway dinner, beach dinner, dine under the stars, dinner under the stars, candlelit dinner, sandbank party, sandbank experience
+- Packages: n/a
+- Sandbank events: True; document: https://d7h9v39iheghu.cloudfront.net/previews/7837a234-9635-4da8-b132-476aacd9b4c1/82e5e5f7-46b7-4f71-b7c1-ade9221cae32/82e5e5f7-46b7-4f71-b7c1-ade9221cae32?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy83ODM3YTIzNC05NjM1LTRkYTgtYjEzMi00NzZhYWNkOWI0YzEqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjg0MDEwfX19XX0_&Signature=0NCrDHEtg~3Ag4tUAPQa6ilJ6cyZ~w4zVuMSD7cG~r-mqETwrHjP~ymbFvuB7vZlbnPnlWCA1ED5pRAzfLnrljg2GzmBKzehdZ5pgyEdg2DhUh1PdoH9P3mOCEtIvAjK8OJMABLlrsk9l-sKHGYMa1a1Cwv28E-vbs9wjG1faMxEGG67VKe8YrbKJea-zq31p-n-SwDxEgYcBaFhSoyAOtk-LQQh4YnbO4e3Mh1O3qhd1CUPoi~QB1~gR8sul5CK0VJQczSIV5ZAIetLpT6YzKJjTsyOlpvwM1Ndaf6IhiW6ocfSJj45JPk5h8YsmO05fa9p1P7DalJRXVD6AH0o6g__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA
+
 ## Events / MICE
 
 - Venues: n/a; capacity max: n/a; buyout: None
@@ -101,6 +109,7 @@ All-inclusive: all-inclusive beverage menu.
 - dive_prices: https://nova-maldives.com/wp-content/uploads/2026/06/Nova-Soulful-tales-2026.pdf
 - events: none
 - calendar: https://nova-maldives.com/wp-content/uploads/2023/02/MS_Nova-Easter-Press-Release-1.pdf
+- destination_dining: https://d7h9v39iheghu.cloudfront.net/previews/7837a234-9635-4da8-b132-476aacd9b4c1/82e5e5f7-46b7-4f71-b7c1-ade9221cae32/82e5e5f7-46b7-4f71-b7c1-ade9221cae32?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy83ODM3YTIzNC05NjM1LTRkYTgtYjEzMi00NzZhYWNkOWI0YzEqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjg0MDEwfX19XX0_&Signature=0NCrDHEtg~3Ag4tUAPQa6ilJ6cyZ~w4zVuMSD7cG~r-mqETwrHjP~ymbFvuB7vZlbnPnlWCA1ED5pRAzfLnrljg2GzmBKzehdZ5pgyEdg2DhUh1PdoH9P3mOCEtIvAjK8OJMABLlrsk9l-sKHGYMa1a1Cwv28E-vbs9wjG1faMxEGG67VKe8YrbKJea-zq31p-n-SwDxEgYcBaFhSoyAOtk-LQQh4YnbO4e3Mh1O3qhd1CUPoi~QB1~gR8sul5CK0VJQczSIV5ZAIetLpT6YzKJjTsyOlpvwM1Ndaf6IhiW6ocfSJj45JPk5h8YsmO05fa9p1P7DalJRXVD6AH0o6g__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA
 
 ## Gaps
 
@@ -108,4 +117,4 @@ All-inclusive: all-inclusive beverage menu.
 - fact: dive operator
 - fact: kids club
 
-_Facts extracted by rules from 20 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._
+_Facts extracted by rules from 22 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

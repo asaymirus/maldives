@@ -63,21 +63,32 @@
   "menu_doc": "https://so-hotels.com/wp-content/uploads/sites/19/2026/09/so_rasalkhaimah_spa-menu_0926.pdf"
  },
  "diving_watersports": {
-  "operator": null,
+  "operator": "Ocean Group",
   "house_reef": null,
   "activities": [
    "snorkeling",
+   "parasailing",
+   "fishing",
+   "sunset cruise",
+   "dolphin cruise",
+   "whale shark",
    "snorkelling",
    "paddleboard",
-   "jet ski",
-   "fishing"
+   "jet ski"
   ],
-  "price_list_doc": null
+  "price_list_doc": "https://so-hotels.com/wp-content/uploads/sites/19/2025/07/so_maldives_activities_watersports_sharks.pdf"
  },
  "excursions": [
   "castaway",
   "cinema",
   "local island",
+  "sandbank",
+  "dolphin",
+  "sunset fishing",
+  "big game fishing",
+  "whale shark",
+  "turtle",
+  "picnic",
   "cooking class"
  ],
  "kids_family": {
@@ -100,6 +111,21 @@
   "packages": [],
   "brochure_doc": "https://so-hotels.com/wp-content/uploads/sites/19/2026/03/SOWedding_Brochure.pdf"
  },
+ "destination_dining": {
+  "experiences": [
+   "in-villa dining",
+   "beach dinner",
+   "sand bank picnic",
+   "sunset cruise",
+   "floating breakfast",
+   "candlelit dinner",
+   "private dining",
+   "sunset dinner"
+  ],
+  "packages": [],
+  "sandbank_events": true,
+  "doc": "https://so-hotels.com/wp-content/uploads/sites/19/2024/08/so_maldives_destination-dining_1225.pdf"
+ },
  "events_mice": {
   "venues": [
    "ROOM SO BALLROOM VILLA"
@@ -113,7 +139,7 @@
   "Green Globe"
  ],
  "contacts_public": {
-  "reservations_email": "info@jasminerbas.com",
+  "reservations_email": "hello@encoreglobal.com",
   "weddings_email": "wien@eventwide.com",
   "phone": "+960 736 5425"
  },
@@ -123,15 +149,15 @@
   "wedding": "https://so-hotels.com/wp-content/uploads/sites/19/2026/03/SOWedding_Brochure.pdf",
   "spa_menu": "https://so-hotels.com/wp-content/uploads/sites/19/2026/09/so_rasalkhaimah_spa-menu_0926.pdf",
   "dining_menu": "https://so-hotels.com/wp-content/uploads/sites/19/2026/09/uptowndubai_offers_afternoontea_menu.pdf",
-  "dive_prices": null,
+  "dive_prices": "https://so-hotels.com/wp-content/uploads/sites/19/2025/07/so_maldives_activities_watersports_sharks.pdf",
   "events": "https://so-hotels.com/wp-content/uploads/sites/19/2026/04/so_vienna_meetings-and-celebrations_brochure_DE-2026.pdf",
-  "calendar": "https://so-hotels.com/wp-content/uploads/sites/19/2026/10/somaldives-festive_brochure-2026.pdf"
+  "calendar": "https://so-hotels.com/wp-content/uploads/sites/19/2026/10/somaldives-festive_brochure-2026.pdf",
+  "destination_dining": "https://so-hotels.com/wp-content/uploads/sites/19/2024/08/so_maldives_destination-dining_1225.pdf"
  },
- "documents_count": 53,
+ "documents_count": 58,
  "gaps": [
   "fact: villas.total",
-  "fact: spa",
-  "fact: dive operator"
+  "fact: spa"
  ],
  "sources": {
   "star_rating": [
@@ -145,6 +171,11 @@
    {
     "value": "speedboat",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/SO-Maldives-Factsheet_Eng.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://so-hotels.com/wp-content/uploads/sites/19/2025/07/so_maldives_activities_watersports_sharks.pdf",
     "as_of": 2025
    },
    {
@@ -203,6 +234,36 @@
    },
    {
     "value": "snorkeling",
+    "source_url": "https://so-hotels.com/wp-content/uploads/sites/19/2025/07/so_maldives_activities_watersports_sharks.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "parasailing",
+    "source_url": "https://so-hotels.com/wp-content/uploads/sites/19/2025/07/so_maldives_activities_watersports_sharks.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://so-hotels.com/wp-content/uploads/sites/19/2025/07/so_maldives_activities_watersports_sharks.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://so-hotels.com/wp-content/uploads/sites/19/2025/07/so_maldives_activities_watersports_sharks.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "dolphin cruise",
+    "source_url": "https://so-hotels.com/wp-content/uploads/sites/19/2025/07/so_maldives_activities_watersports_sharks.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://so-hotels.com/wp-content/uploads/sites/19/2025/07/so_maldives_activities_watersports_sharks.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "snorkeling",
     "source_url": "https://so-hotels.com/wp-content/uploads/sites/19/2025/10/so_maldives_green-key_environmental-policy_281025.pdf",
     "as_of": 2025
    },
@@ -237,6 +298,46 @@
     "value": "cinema",
     "source_url": "https://so-hotels.com/wp-content/uploads/sites/19/2026/03/SOWedding_Brochure.pdf",
     "as_of": 2026
+   },
+   {
+    "value": "local island",
+    "source_url": "https://so-hotels.com/wp-content/uploads/sites/19/2025/07/so_maldives_activities_watersports_sharks.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://so-hotels.com/wp-content/uploads/sites/19/2025/07/so_maldives_activities_watersports_sharks.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://so-hotels.com/wp-content/uploads/sites/19/2025/07/so_maldives_activities_watersports_sharks.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "sunset fishing",
+    "source_url": "https://so-hotels.com/wp-content/uploads/sites/19/2025/07/so_maldives_activities_watersports_sharks.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "big game fishing",
+    "source_url": "https://so-hotels.com/wp-content/uploads/sites/19/2025/07/so_maldives_activities_watersports_sharks.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://so-hotels.com/wp-content/uploads/sites/19/2025/07/so_maldives_activities_watersports_sharks.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://so-hotels.com/wp-content/uploads/sites/19/2025/07/so_maldives_activities_watersports_sharks.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "picnic",
+    "source_url": "https://so-hotels.com/wp-content/uploads/sites/19/2025/07/so_maldives_activities_watersports_sharks.pdf",
+    "as_of": 2025
    },
    {
     "value": "local island",
@@ -350,6 +451,93 @@
     "as_of": "2026-10-04"
    }
   ],
+  "destination_dining.experiences": [
+   {
+    "value": "in-villa dining",
+    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/SO-Maldives-Factsheet_Eng.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "beach dinner",
+    "source_url": "https://so-hotels.com/wp-content/uploads/sites/19/2024/08/so_maldives_destination-dining_1225.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "beach dinner",
+    "source_url": "https://so-hotels.com/wp-content/uploads/sites/19/2024/08/so_maldives_destination-dining_1225.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "sand bank picnic",
+    "source_url": "https://so-hotels.com/wp-content/uploads/sites/19/2025/07/so_maldives_activities_watersports_sharks.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://so-hotels.com/wp-content/uploads/sites/19/2025/07/so_maldives_activities_watersports_sharks.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://so-hotels.com/wp-content/uploads/sites/19/2025/07/so_maldives_activities_watersports_sharks.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://so-hotels.com/wp-content/uploads/sites/19/2025/07/so_maldives_activities_watersports_sharks.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://so-hotels.com/wp-content/uploads/sites/19/2025/07/so_maldives_activities_watersports_sharks.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "in-villa dining",
+    "source_url": "https://www.neoscapesmaldives.com/resort/so-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "in-villa dining",
+    "source_url": "https://www.neoscapesmaldives.com/resort/so-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://www.neoscapesmaldives.com/resort/so-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "candlelit dinner",
+    "source_url": "https://www.neoscapesmaldives.com/resort/so-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "private dining",
+    "source_url": "https://www.neoscapesmaldives.com/resort/so-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "private dining",
+    "source_url": "https://www.neoscapesmaldives.com/resort/so-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "beach dinner",
+    "source_url": "https://letsgomaldives.com/news/so-maldives-presents-savour-the-unexpected-a-four-day-fusion-culinary-showcase-with-chef-kareem-atef/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset dinner",
+    "source_url": "https://letsgomaldives.com/news/so-maldives-presents-savour-the-unexpected-a-four-day-fusion-culinary-showcase-with-chef-kareem-atef/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "in-villa dining",
+    "source_url": "https://letsgomaldives.com/news/so-maldives-unveils-a-refined-valentines-day-experience-for-2026-rose-all-the-way/",
+    "as_of": "2026-10-04"
+   }
+  ],
   "sustainability": [
    {
     "value": "solar",
@@ -384,17 +572,17 @@
     "as_of": 2025
    },
    {
+    "value": "hello@encoreglobal.com",
+    "source_url": "https://so-hotels.com/wp-content/uploads/sites/19/2026/03/SOWedding_Brochure.pdf",
+    "as_of": 2026
+   },
+   {
     "value": "info@jasminerbas.com",
     "source_url": "https://so-hotels.com/wp-content/uploads/sites/19/2026/03/SOWedding_Brochure.pdf",
     "as_of": 2026
    },
    {
     "value": "info@bettis-partywelt.com",
-    "source_url": "https://so-hotels.com/wp-content/uploads/sites/19/2026/03/SOWedding_Brochure.pdf",
-    "as_of": 2026
-   },
-   {
-    "value": "hello@encoreglobal.com",
     "source_url": "https://so-hotels.com/wp-content/uploads/sites/19/2026/03/SOWedding_Brochure.pdf",
     "as_of": 2026
    },
@@ -423,18 +611,37 @@
     "as_of": 2026
    }
   ],
+  "atoll": [
+   {
+    "value": "South Male Atoll",
+    "source_url": "https://so-hotels.com/wp-content/uploads/sites/19/2025/07/so_maldives_activities_watersports_sharks.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "South Male Atoll",
+    "source_url": "https://www.neoscapesmaldives.com/resort/so-maldives/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "diving_watersports.operator": [
+   {
+    "value": "Ocean Group",
+    "source_url": "https://so-hotels.com/wp-content/uploads/sites/19/2025/07/so_maldives_activities_watersports_sharks.pdf",
+    "as_of": 2025
+   }
+  ],
+  "destination_dining.sandbank_events": [
+   {
+    "value": true,
+    "source_url": "https://so-hotels.com/wp-content/uploads/sites/19/2025/07/so_maldives_activities_watersports_sharks.pdf",
+    "as_of": 2025
+   }
+  ],
   "events_mice.venues": [
    {
     "value": "ROOM SO BALLROOM VILLA",
     "source_url": "https://so-hotels.com/wp-content/uploads/sites/19/2026/02/so_huahin_fitness_cycling_map_0226.pdf",
     "as_of": 2026
-   }
-  ],
-  "atoll": [
-   {
-    "value": "South Male Atoll",
-    "source_url": "https://www.neoscapesmaldives.com/resort/so-maldives/",
-    "as_of": "2026-10-04"
    }
   ],
   "island_size": [

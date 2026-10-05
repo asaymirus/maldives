@@ -48,6 +48,12 @@ All-inclusive: All-Inclusive concept ensures an elevated dining journey, combini
 - Packages: Beach Ceremony USD 1500 (2026); Ceremony USD 2500 (2026)
 - Brochure: https://cdnm.heyzine.com/files/uploaded/ad6cddf745cb8d5aca3c2e28c2beece656b9b68f.pdf
 
+## Destination dining
+
+- Experiences: underwater restaurant, sunset cruise, sandbank trip, in-villa dining, romantic dinner, sandbank party, candlelit dinner, romantic candle lit dinner, dinner under the stars, floating breakfast
+- Packages: n/a
+- Sandbank events: True; document: none
+
 ## Events / MICE
 
 - Venues: n/a; capacity max: n/a; buyout: None
@@ -71,6 +77,7 @@ All-inclusive: All-Inclusive concept ensures an elevated dining journey, combini
 - dive_prices: https://cdnm.heyzine.com/files/uploaded/v3/5df5c124623a5fd8fc58bb0529806d378b131788.pdf
 - events: none
 - calendar: none
+- destination_dining: none
 
 ## Gaps
 
@@ -78,4 +85,4 @@ All-inclusive: All-Inclusive concept ensures an elevated dining journey, combini
 - fact: villa categories
 - fact: kids club
 
-_Facts extracted by rules from 23 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._
+_Facts extracted by rules from 25 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

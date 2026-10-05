@@ -138,6 +138,20 @@
   "packages": [],
   "brochure_doc": null
  },
+ "destination_dining": {
+  "experiences": [
+   "private chef",
+   "private dining",
+   "wine pairing",
+   "sunset cruise",
+   "underwater restaurant",
+   "underwater dining",
+   "sandbank picnic"
+  ],
+  "packages": [],
+  "sandbank_events": true,
+  "doc": null
+ },
  "events_mice": {
   "venues": [],
   "capacity_max": null,
@@ -166,7 +180,8 @@
   "dining_menu": null,
   "dive_prices": null,
   "events": null,
-  "calendar": null
+  "calendar": null,
+  "destination_dining": null
  },
  "documents_count": 2,
  "gaps": [
@@ -826,6 +841,93 @@
     "as_of": "2026-10-04"
    }
   ],
+  "destination_dining.experiences": [
+   {
+    "value": "private chef",
+    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Anantara_Kihavah_Maldives_Villas_Factsheet_Resort.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": "private dining",
+    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Anantara_Kihavah_Maldives_Villas_Factsheet_Resort.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": "wine pairing",
+    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Anantara_Kihavah_Maldives_Villas_Factsheet_Resort.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Anantara_Kihavah_Maldives_Villas_Factsheet_Resort.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": "underwater restaurant",
+    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Anantara_Kihavah_Maldives_Villas_Factsheet_Resort.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": "underwater dining",
+    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Anantara_Kihavah_Maldives_Villas_Factsheet_Resort.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": "underwater dining",
+    "source_url": "https://www.anantara.com/en/kihavah-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "underwater dining",
+    "source_url": "https://www.anantara.com/en/kihavah-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "underwater restaurant",
+    "source_url": "https://www.anantara.com/en/kihavah-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "underwater restaurant",
+    "source_url": "https://www.anantara.com/en/kihavah-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "underwater restaurant",
+    "source_url": "https://www.anantara.com/en/kihavah-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "underwater restaurant",
+    "source_url": "https://www.neoscapesmaldives.com/resort/anantara-kihavah-villas/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "underwater restaurant",
+    "source_url": "https://www.neoscapesmaldives.com/resort/anantara-kihavah-villas/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "underwater restaurant",
+    "source_url": "https://www.neoscapesmaldives.com/resort/anantara-kihavah-villas/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "underwater restaurant",
+    "source_url": "https://www.mymaldives.com/resort-guide/anantara-kihavah-villas/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank picnic",
+    "source_url": "https://www.mymaldives.com/resort-guide/anantara-kihavah-villas/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "private dining",
+    "source_url": "https://www.mymaldives.com/resort-guide/anantara-kihavah-villas/",
+    "as_of": "2026-10-04"
+   }
+  ],
   "sustainability": [
    {
     "value": "marine biologist",
@@ -977,6 +1079,13 @@
   "all_inclusive_details": [
    {
     "value": "all-inclusive, five-star resort situated on a secluded island in the Baa Atoll, just a 30-minute seaplane journey from Malé International Airport.",
+    "source_url": "https://www.mymaldives.com/resort-guide/anantara-kihavah-villas/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "destination_dining.sandbank_events": [
+   {
+    "value": true,
     "source_url": "https://www.mymaldives.com/resort-guide/anantara-kihavah-villas/",
     "as_of": "2026-10-04"
    }

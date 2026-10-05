@@ -197,6 +197,28 @@
   ],
   "brochure_doc": "https://www.kandolhu.com/wp-content/uploads/2026/08/Kandolhu-Renewal-of-Vows.pdf"
  },
+ "destination_dining": {
+  "experiences": [
+   "in-villa dining",
+   "beach dinner",
+   "sunset cruise",
+   "candlelit dinner",
+   "floating breakfast",
+   "private dining",
+   "sandbank trip",
+   "wine pairing"
+  ],
+  "packages": [
+   {
+    "name": "In Villa Floating Breakfast",
+    "price": "95",
+    "currency": "USD",
+    "as_of": 2025
+   }
+  ],
+  "sandbank_events": true,
+  "doc": "https://www.kandolhu.com/wp-content/uploads/2026/10/Kandolhu-Private-Dining-Poster.pdf"
+ },
  "events_mice": {
   "venues": [],
   "capacity_max": null,
@@ -221,9 +243,10 @@
   "dining_menu": "https://www.kandolhu.com/wp-content/uploads/2026/08/VILU-BAR-MENU.pdf",
   "dive_prices": "https://www.kandolhu.com/wp-content/uploads/2026/08/Water-Sports-Brochure.pdf",
   "events": "https://www.kandolhu.com/wp-content/uploads/2026/09/Kandolhu-Corporate-social-responsibility-policy-updated.pdf",
-  "calendar": "https://www.kandolhu.com/wp-content/uploads/2026/08/Kandolhu-Festive-Brochure-_Digital-2026.pdf"
+  "calendar": "https://www.kandolhu.com/wp-content/uploads/2026/08/Kandolhu-Festive-Brochure-_Digital-2026.pdf",
+  "destination_dining": "https://www.kandolhu.com/wp-content/uploads/2026/10/Kandolhu-Private-Dining-Poster.pdf"
  },
- "documents_count": 77,
+ "documents_count": 78,
  "gaps": [
   "fact: dive operator"
  ],
@@ -248,6 +271,11 @@
     "value": "Ari Atoll",
     "source_url": "https://www.kandolhu.com/wp-content/uploads/2026/08/Immersive-Experiences-in-Kandolhu-Maldives.pdf",
     "as_of": 2015
+   },
+   {
+    "value": "Ari Atoll",
+    "source_url": "https://www.kandolhu.com/wp-content/uploads/2026/08/Austrian-Magazine-AVIDA-2025-Kandolhu.pdf",
+    "as_of": 2025
    },
    {
     "value": "Ari Atoll",
@@ -1033,6 +1061,11 @@
    {
     "value": "Varu Spa",
     "source_url": "https://www.kandolhu.com/wp-content/uploads/2026/08/Spa-Menu.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.kandolhu.com/wp-content/uploads/2026/08/Austrian-Magazine-AVIDA-2025-Kandolhu.pdf",
     "as_of": 2025
    },
    {
@@ -1954,6 +1987,120 @@
     "as_of": "2026-10-04"
    }
   ],
+  "destination_dining.experiences": [
+   {
+    "value": "in-villa dining",
+    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/kandolhu-maldives-factsheet.pdf",
+    "as_of": 2019
+   },
+   {
+    "value": "beach dinner",
+    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/kandolhu-maldives-factsheet.pdf",
+    "as_of": 2019
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/kandolhu-maldives-factsheet.pdf",
+    "as_of": 2019
+   },
+   {
+    "value": "candlelit dinner",
+    "source_url": "https://www.kandolhu.com/wp-content/uploads/2026/08/Kandolhu-Renewal-of-Vows.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "candlelit dinner",
+    "source_url": "https://www.kandolhu.com/wp-content/uploads/2026/08/Kandolhu-Renewal-of-Vows.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://www.kandolhu.com/wp-content/uploads/2026/08/Kandolhu-Renewal-of-Vows.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "private dining",
+    "source_url": "https://www.kandolhu.com/wp-content/uploads/2026/10/Kandolhu-Private-Dining-Poster.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "private dining",
+    "source_url": "https://www.kandolhu.com/wp-content/uploads/2026/10/Kandolhu-Private-Dining-Poster.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.kandolhu.com/wp-content/uploads/2026/08/Water-Sports-Brochure.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "sandbank trip",
+    "source_url": "https://www.kandolhu.com/wp-content/uploads/2026/08/Water-Sports-Brochure.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.kandolhu.com/wp-content/uploads/2026/08/Water-Sports-Brochure.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.kandolhu.com/wp-content/uploads/2026/09/Kandolhu-Meal-Plan-Flyer.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.kandolhu.com/meal-plans/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "candlelit dinner",
+    "source_url": "https://www.kandolhu.com/maldives-special-offers/kandolhu-bliss-a-secluded-retreat-for-two/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.kandolhu.com/experience/excursions/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "beach dinner",
+    "source_url": "https://www.kandolhu.com/maldives-special-offers/summer-by-the-sea/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "wine pairing",
+    "source_url": "https://www.kandolhu.com/events/an-exclusive-culinary-experience-with-two-star-michelin-chef-benjamin-peifer/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "private dining",
+    "source_url": "https://www.neoscapesmaldives.com/resort/kandolhu-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "private dining",
+    "source_url": "https://www.neoscapesmaldives.com/resort/kandolhu-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.neoscapesmaldives.com/resort/kandolhu-maldives/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "destination_dining.sandbank_events": [
+   {
+    "value": true,
+    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/kandolhu-maldives-factsheet.pdf",
+    "as_of": 2019
+   },
+   {
+    "value": true,
+    "source_url": "https://www.kandolhu.com/wp-content/uploads/2026/08/Water-Sports-Brochure.pdf",
+    "as_of": 2025
+   }
+  ],
   "sustainability": [
    {
     "value": "marine biologist",
@@ -2022,7 +2169,24 @@
     "as_of": 2025
    }
   ],
+  "destination_dining.packages": [
+   {
+    "value": {
+     "name": "In Villa Floating Breakfast",
+     "price": "95",
+     "currency": "USD",
+     "as_of": 2025
+    },
+    "source_url": "https://www.kandolhu.com/wp-content/uploads/2026/08/Kandolhu-Renewal-of-Vows.pdf",
+    "as_of": 2025
+   }
+  ],
   "contacts_public.reservations_email": [
+   {
+    "value": "info@kandolhu.com",
+    "source_url": "https://www.kandolhu.com/wp-content/uploads/2026/10/Kandolhu-Private-Dining-Poster.pdf",
+    "as_of": 2026
+   },
    {
     "value": "info@kandolhu.com",
     "source_url": "https://www.kandolhu.com/wp-content/uploads/2026/08/Immersive-Experiences-in-Kandolhu-Maldives.pdf",

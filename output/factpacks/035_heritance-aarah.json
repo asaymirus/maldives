@@ -254,7 +254,10 @@
  "meal_plans": [
   "AI",
   "Premium AI",
-  "Dine Around"
+  "Dine Around",
+  "BB",
+  "HB",
+  "FB"
  ],
  "all_inclusive_details": "All-Inclusive Resort in maldives.",
  "spa": {
@@ -304,7 +307,9 @@
   "big game fishing",
   "sandbank",
   "cinema",
-  "stargazing"
+  "stargazing",
+  "picnic",
+  "private dinner"
  ],
  "kids_family": {
   "kids_club": "Koka Kids Club",
@@ -327,8 +332,54 @@
   "offered": true,
   "vow_renewal": null,
   "venues": [],
-  "packages": [],
+  "packages": [
+   {
+    "name": "The Classic Aarah Ceremony",
+    "price": "3200",
+    "currency": "USD",
+    "as_of": "2026-10-05"
+   },
+   {
+    "name": "The Premium Aarah Experience",
+    "price": "4750",
+    "currency": "USD",
+    "as_of": "2026-10-05"
+   }
+  ],
   "brochure_doc": "https://heritancehotels.eme-devops.com/2026/09/Heritance-Aarah-Wedding-Document.pdf"
+ },
+ "destination_dining": {
+  "experiences": [
+   "in-villa dining",
+   "romantic dinner",
+   "sunset cruise",
+   "wine pairing",
+   "wine dinner",
+   "floating breakfast",
+   "private dining",
+   "candlelit dinner",
+   "romantic candlelit dinner",
+   "lobster dinner",
+   "destination dining",
+   "anniversary celebration",
+   "sandbank picnic"
+  ],
+  "packages": [
+   {
+    "name": "Your Ultimate Floating Experience",
+    "price": "90",
+    "currency": "USD",
+    "as_of": "2026-10-04"
+   },
+   {
+    "name": "Dream Dhoni Destination Dinner",
+    "price": "1100",
+    "currency": "USD",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "sandbank_events": true,
+  "doc": null
  },
  "events_mice": {
   "venues": [],
@@ -356,7 +407,8 @@
   "dining_menu": "https://heritancehotels.eme-devops.com/2026/08/Premium-All-Inclusive-Wine-Beverage-List-25.08.2026.pdf",
   "dive_prices": "https://heritancehotels.eme-devops.com/sites/2/2026/03/Kaito-Water-Sports-Brochure_compressed.pdf",
   "events": null,
-  "calendar": null
+  "calendar": null,
+  "destination_dining": null
  },
  "documents_count": 189,
  "gaps": [
@@ -413,6 +465,31 @@
     "value": "Raa Atoll",
     "source_url": "https://www.heritancehotels.com/aarah/?lang=ru",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "Raa Atoll",
+    "source_url": "https://www.heritancehotels.com/blog/celebrate-100-days-to-christmas-with-heritance-aarah/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Raa Atoll",
+    "source_url": "https://www.heritancehotels.com/blog/experience-barefoot-tranquillity-at-heritance-aarah-maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Raa Atoll",
+    "source_url": "https://www.heritancehotels.com/blog/from-winter-breeze-to-tropical-magic-seasonal-celebrations-at-heritance-aarah-maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Raa Atoll",
+    "source_url": "https://www.heritancehotels.com/blog/heritance-aarah-for-the-picture-perfect-wedding-honeymoon/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Raa Atoll",
+    "source_url": "https://www.heritancehotels.com/blog/ocean-suites-at-heritance-aarah-maldives-experience-unmatched-seclusion-and-exquisite-offerings/",
+    "as_of": "2026-10-05"
    },
    {
     "value": "Raa Atoll",
@@ -1293,6 +1370,11 @@
    },
    {
     "value": "seaplane",
+    "source_url": "https://www.heritancehotels.com/blog/ocean-suites-at-heritance-aarah-maldives-experience-unmatched-seclusion-and-exquisite-offerings/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "seaplane",
     "source_url": "https://www.neoscapesmaldives.com/resort/heritance-aarah/",
     "as_of": "2026-10-04"
    }
@@ -1332,6 +1414,11 @@
     "value": 40,
     "source_url": "https://www.heritancehotels.com/aarah/?lang=ru",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": 40,
+    "source_url": "https://www.heritancehotels.com/blog/ocean-suites-at-heritance-aarah-maldives-experience-unmatched-seclusion-and-exquisite-offerings/",
+    "as_of": "2026-10-05"
    },
    {
     "value": 40,
@@ -2810,6 +2897,61 @@
     "as_of": "2026-10-04"
    },
    {
+    "value": "BB",
+    "source_url": "https://www.heritancehotels.com/ahungalla/offers/honeymoon-offer/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "HB",
+    "source_url": "https://www.heritancehotels.com/ahungalla/offers/honeymoon-offer/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "FB",
+    "source_url": "https://www.heritancehotels.com/ahungalla/offers/honeymoon-offer/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://www.heritancehotels.com/blog/experience-barefoot-tranquillity-at-heritance-aarah-maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Premium AI",
+    "source_url": "https://www.heritancehotels.com/blog/experience-barefoot-tranquillity-at-heritance-aarah-maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://www.heritancehotels.com/blog/from-winter-breeze-to-tropical-magic-seasonal-celebrations-at-heritance-aarah-maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Dine Around",
+    "source_url": "https://www.heritancehotels.com/blog/from-winter-breeze-to-tropical-magic-seasonal-celebrations-at-heritance-aarah-maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Premium AI",
+    "source_url": "https://www.heritancehotels.com/blog/from-winter-breeze-to-tropical-magic-seasonal-celebrations-at-heritance-aarah-maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://www.heritancehotels.com/blog/heritance-aarah-for-the-picture-perfect-wedding-honeymoon/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Premium AI",
+    "source_url": "https://www.heritancehotels.com/blog/heritance-aarah-for-the-picture-perfect-wedding-honeymoon/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Dine Around",
+    "source_url": "https://www.heritancehotels.com/blog/ocean-suites-at-heritance-aarah-maldives-experience-unmatched-seclusion-and-exquisite-offerings/",
+    "as_of": "2026-10-05"
+   },
+   {
     "value": "AI",
     "source_url": "https://www.neoscapesmaldives.com/resort/heritance-aarah/",
     "as_of": "2026-10-04"
@@ -3095,6 +3237,26 @@
     "value": "Spa",
     "source_url": "https://www.heritancehotels.com/aarah/dining/udaras-overwater-infinity-pool-bar/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "View\nMedi Spa",
+    "source_url": "https://www.heritancehotels.com/aarah-experiences-and-activities/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.heritancehotels.com/ahungalla/offers/honeymoon-offer/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "IASO Medi Spa",
+    "source_url": "https://www.heritancehotels.com/blog/heritance-aarah-for-the-picture-perfect-wedding-honeymoon/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Medi Spa",
+    "source_url": "https://www.heritancehotels.com/blog/ocean-suites-at-heritance-aarah-maldives-experience-unmatched-seclusion-and-exquisite-offerings/",
+    "as_of": "2026-10-05"
    },
    {
     "value": "Facilities\nMedi Spa",
@@ -4639,6 +4801,36 @@
     "as_of": "2026-10-04"
    },
    {
+    "value": "snorkelling",
+    "source_url": "https://www.heritancehotels.com/blog/heritance-aarah-for-the-picture-perfect-wedding-honeymoon/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.heritancehotels.com/blog/heritance-aarah-for-the-picture-perfect-wedding-honeymoon/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.heritancehotels.com/blog/heritance-aarah-for-the-picture-perfect-wedding-honeymoon/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sailing",
+    "source_url": "https://www.heritancehotels.com/blog/heritance-aarah-for-the-picture-perfect-wedding-honeymoon/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.heritancehotels.com/experiences/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "jet ski",
+    "source_url": "https://www.heritancehotels.com/experiences/",
+    "as_of": "2026-10-05"
+   },
+   {
     "value": "snorkeling",
     "source_url": "https://www.neoscapesmaldives.com/resort/heritance-aarah/",
     "as_of": "2026-10-04"
@@ -5092,6 +5284,51 @@
    },
    {
     "value": "dolphin",
+    "source_url": "https://www.heritancehotels.com/ahungalla/experiences/whale-watching/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "cooking class",
+    "source_url": "https://www.heritancehotels.com/ayurveda/experiences/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "cooking class",
+    "source_url": "https://www.heritancehotels.com/ayurveda/experiences/cooking-classes/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "local island",
+    "source_url": "https://www.heritancehotels.com/blog/heritance-aarah-for-the-picture-perfect-wedding-honeymoon/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://www.heritancehotels.com/blog/heritance-aarah-for-the-picture-perfect-wedding-honeymoon/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "picnic",
+    "source_url": "https://www.heritancehotels.com/blog/heritance-aarah-for-the-picture-perfect-wedding-honeymoon/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "stargazing",
+    "source_url": "https://www.heritancehotels.com/blog/heritance-aarah-for-the-picture-perfect-wedding-honeymoon/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "private dinner",
+    "source_url": "https://www.heritancehotels.com/blog/heritance-aarah-for-the-picture-perfect-wedding-honeymoon/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "cooking class",
+    "source_url": "https://www.heritancehotels.com/experiences/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "dolphin",
     "source_url": "https://www.neoscapesmaldives.com/resort/heritance-aarah/",
     "as_of": "2026-10-04"
    }
@@ -5224,6 +5461,66 @@
    },
    {
     "value": "yoga",
+    "source_url": "https://www.heritancehotels.com/ayurveda/experiences/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "ayurveda",
+    "source_url": "https://www.heritancehotels.com/ayurveda/experiences/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.heritancehotels.com/ayurveda/experiences/cooking-classes/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "ayurveda",
+    "source_url": "https://www.heritancehotels.com/ayurveda/experiences/cooking-classes/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "ayurveda",
+    "source_url": "https://www.heritancehotels.com/blog/category/experience/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "ayurveda",
+    "source_url": "https://www.heritancehotels.com/blog/category/experience/?curpage=1",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "ayurveda",
+    "source_url": "https://www.heritancehotels.com/blog/category/experience/?curpage=2",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "ayurveda",
+    "source_url": "https://www.heritancehotels.com/blog/category/experience/?curpage=3",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "ayurveda",
+    "source_url": "https://www.heritancehotels.com/blog/category/experience/?curpage=4",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "ayurveda",
+    "source_url": "https://www.heritancehotels.com/blog/category/experience/?curpage=5",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "ayurveda",
+    "source_url": "https://www.heritancehotels.com/blog/category/experience/?curpage=6",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "ayurveda",
+    "source_url": "https://www.heritancehotels.com/experiences/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "yoga",
     "source_url": "https://www.neoscapesmaldives.com/resort/heritance-aarah/",
     "as_of": "2026-10-04"
    },
@@ -5306,6 +5603,953 @@
    },
    {
     "value": true,
+    "source_url": "https://www.heritancehotels.com/ahungalla/offers/honeymoon-offer/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.heritancehotels.com/blog/category/experience/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.heritancehotels.com/blog/category/experience/?curpage=1",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.heritancehotels.com/blog/category/experience/?curpage=2",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.heritancehotels.com/blog/category/experience/?curpage=3",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.heritancehotels.com/blog/category/experience/?curpage=4",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.heritancehotels.com/blog/category/experience/?curpage=5",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.heritancehotels.com/blog/category/experience/?curpage=6",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.heritancehotels.com/blog/category/romance/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.heritancehotels.com/blog/category/romance/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.heritancehotels.com/blog/from-winter-breeze-to-tropical-magic-seasonal-celebrations-at-heritance-aarah-maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.heritancehotels.com/blog/heritance-aarah-for-the-picture-perfect-wedding-honeymoon/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.neoscapesmaldives.com/resort/heritance-aarah/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "destination_dining.experiences": [
+   {
+    "value": "in-villa dining",
+    "source_url": "https://heritancehotels.eme-devops.com/sites/2/2026/09/Heritance-Aarah-Fact-Sheet.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "in-villa dining",
+    "source_url": "https://heritancehotels.eme-devops.com/sites/2/2026/09/Heritance-Aarah-Fact-Sheet.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "romantic dinner",
+    "source_url": "https://heritancehotels.eme-devops.com/2026/09/Heritance-Aarah-Wedding-Document.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://heritancehotels.eme-devops.com/2026/09/Heritance-Aarah-Wedding-Document.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "wine pairing",
+    "source_url": "https://heritancehotels.eme-devops.com/2026/09/Heritance-Aarah-Wedding-Document.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "wine pairing",
+    "source_url": "https://heritancehotels.eme-devops.com/2026/09/Heritance-Aarah-Wedding-Document.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "wine dinner",
+    "source_url": "https://heritancehotels.eme-devops.com/2026/09/Heritance-Aarah-Wedding-Document.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://heritancehotels.eme-devops.com/sites/2/2026/09/Heritance-Aarah-Premium-All-Inclusive.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://heritancehotels.eme-devops.com/sites/2/2026/09/Heritance-Aarah-Premium-All-Inclusive.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "in-villa dining",
+    "source_url": "https://heritancehotels.eme-devops.com/sites/2/2026/09/Heritance-Aarah-Premium-All-Inclusive.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://heritancehotels.eme-devops.com/sites/2/2026/09/Heritance-Aarah-Premium-All-Inclusive.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://heritancehotels.eme-devops.com/sites/2/2026/09/Heritance-Aarah-Premium-All-Inclusive.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://www.heritancehotels.com/aarah/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.heritancehotels.com/aarah/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://www.heritancehotels.com/aarah/dining/ginifati-private-dining/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://www.heritancehotels.com/aarah/storrington-collective-family-getaway/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://www.heritancehotels.com/aarah/offers/family-getaway/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.heritancehotels.com/aarah/offers/family-getaway/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://www.heritancehotels.com/aarah/experiences/water-skiing/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.heritancehotels.com/aarah/experiences/water-skiing/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://www.heritancehotels.com/aarah/accommodation/ocean-villas/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.heritancehotels.com/aarah/accommodation/ocean-villas/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.heritancehotels.com/aarah/accommodation/ocean-villas/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://www.heritancehotels.com/aarah/accommodation/two-bedroom-family-pool-beach-villas/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.heritancehotels.com/aarah/accommodation/two-bedroom-family-pool-beach-villas/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://www.heritancehotels.com/aarah/accommodation/beach-villas/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.heritancehotels.com/aarah/accommodation/beach-villas/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.heritancehotels.com/aarah/accommodation/beach-villas/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://www.heritancehotels.com/aarah/experiences/diving/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.heritancehotels.com/aarah/experiences/diving/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://www.heritancehotels.com/aarah/offers/bologna-fc/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.heritancehotels.com/aarah/offers/bologna-fc/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://www.heritancehotels.com/aarah/experiences/photography-and-videography/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.heritancehotels.com/aarah/experiences/photography-and-videography/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://www.heritancehotels.com/aarah/facilities/transfers/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.heritancehotels.com/aarah/facilities/transfers/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://www.heritancehotels.com/aarah/dining/ralu-overwater-restaurant/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.heritancehotels.com/aarah/dining/ralu-overwater-restaurant/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "private dining",
+    "source_url": "https://www.heritancehotels.com/aarah/dining/ralu-overwater-restaurant/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "private dining",
+    "source_url": "https://www.heritancehotels.com/aarah/dining/ralu-overwater-restaurant/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://www.heritancehotels.com/aarah/accommodation/sunset-pool-and-beach-villas/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.heritancehotels.com/aarah/accommodation/sunset-pool-and-beach-villas/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.heritancehotels.com/aarah/accommodation/sunset-pool-and-beach-villas/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://www.heritancehotels.com/aarah/dining/hathaa-overwater-restaurant/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.heritancehotels.com/aarah/dining/hathaa-overwater-restaurant/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "private dining",
+    "source_url": "https://www.heritancehotels.com/aarah/dining/hathaa-overwater-restaurant/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "private dining",
+    "source_url": "https://www.heritancehotels.com/aarah/dining/hathaa-overwater-restaurant/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://www.heritancehotels.com/aarah/facilities/kokaa-kids-club/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.heritancehotels.com/aarah/facilities/kokaa-kids-club/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://www.heritancehotels.com/aarah/experiences/maldivian-village/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.heritancehotels.com/aarah/experiences/maldivian-village/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://www.heritancehotels.com/aarah/dining/ralu-overwater-lounge-bar/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.heritancehotels.com/aarah/dining/ralu-overwater-lounge-bar/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "private dining",
+    "source_url": "https://www.heritancehotels.com/aarah/dining/ralu-overwater-lounge-bar/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "private dining",
+    "source_url": "https://www.heritancehotels.com/aarah/dining/ralu-overwater-lounge-bar/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://www.heritancehotels.com/aarah/dining/baani-overwater-fine-dining/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.heritancehotels.com/aarah/dining/baani-overwater-fine-dining/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "private dining",
+    "source_url": "https://www.heritancehotels.com/aarah/dining/baani-overwater-fine-dining/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "private dining",
+    "source_url": "https://www.heritancehotels.com/aarah/dining/baani-overwater-fine-dining/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://www.heritancehotels.com/aarah/dining/ranba-restaurant/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.heritancehotels.com/aarah/dining/ranba-restaurant/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "private dining",
+    "source_url": "https://www.heritancehotels.com/aarah/dining/ranba-restaurant/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "private dining",
+    "source_url": "https://www.heritancehotels.com/aarah/dining/ranba-restaurant/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://www.heritancehotels.com/aarah/accommodation/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.heritancehotels.com/aarah/accommodation/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://www.heritancehotels.com/aarah/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.heritancehotels.com/aarah/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://www.heritancehotels.com/aarah/iaso-spa/aesthetics/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.heritancehotels.com/aarah/iaso-spa/aesthetics/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://www.heritancehotels.com/aarah/experiences/kite-surfing/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.heritancehotels.com/aarah/experiences/kite-surfing/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://www.heritancehotels.com/aarah/au-event/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.heritancehotels.com/aarah/au-event/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://www.heritancehotels.com/aarah/sustainability/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.heritancehotels.com/aarah/sustainability/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://www.heritancehotels.com/aarah/accommodation/ocean-residences-with-infinity-lap-pool/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.heritancehotels.com/aarah/accommodation/ocean-residences-with-infinity-lap-pool/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://www.heritancehotels.com/aarah/offers/romantic-getaway/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.heritancehotels.com/aarah/offers/romantic-getaway/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://www.heritancehotels.com/aarah/offers/romantic-getaway/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "candlelit dinner",
+    "source_url": "https://www.heritancehotels.com/aarah/offers/romantic-getaway/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "romantic candlelit dinner",
+    "source_url": "https://www.heritancehotels.com/aarah/offers/romantic-getaway/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://www.heritancehotels.com/aarah/offers/romantic-getaway/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://www.heritancehotels.com/aarah/iaso-spa/medical-assessment/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.heritancehotels.com/aarah/iaso-spa/medical-assessment/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://www.heritancehotels.com/aarah/experiences/jet-ski-tours/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.heritancehotels.com/aarah/experiences/jet-ski-tours/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://www.heritancehotels.com/aarah/experiences/photography-and-videography/request-acknowledgement-photography-and-videography/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.heritancehotels.com/aarah/experiences/photography-and-videography/request-acknowledgement-photography-and-videography/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://www.heritancehotels.com/aarah/facilities/weddings/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.heritancehotels.com/aarah/facilities/weddings/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://www.heritancehotels.com/aarah/accommodation/overwater-ocean-suites-with-infinity-pool/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.heritancehotels.com/aarah/accommodation/overwater-ocean-suites-with-infinity-pool/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://www.heritancehotels.com/aarah/iaso-spa/wellness-packages/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.heritancehotels.com/aarah/iaso-spa/wellness-packages/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://www.heritancehotels.com/aarah/dining/bandhi-pool-bar/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.heritancehotels.com/aarah/dining/bandhi-pool-bar/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "private dining",
+    "source_url": "https://www.heritancehotels.com/aarah/dining/bandhi-pool-bar/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "private dining",
+    "source_url": "https://www.heritancehotels.com/aarah/dining/bandhi-pool-bar/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://www.heritancehotels.com/aarah/gallery/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.heritancehotels.com/aarah/gallery/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://www.heritancehotels.com/aarah/experiences/catamaran-sailing/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.heritancehotels.com/aarah/experiences/catamaran-sailing/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://www.heritancehotels.com/aarah/offers/heritance-exclusive/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.heritancehotels.com/aarah/offers/heritance-exclusive/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "lobster dinner",
+    "source_url": "https://www.heritancehotels.com/aarah/offers/heritance-exclusive/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://www.heritancehotels.com/aarah/dining/sky-overwater-bar/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.heritancehotels.com/aarah/dining/sky-overwater-bar/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "private dining",
+    "source_url": "https://www.heritancehotels.com/aarah/dining/sky-overwater-bar/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "private dining",
+    "source_url": "https://www.heritancehotels.com/aarah/dining/sky-overwater-bar/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://www.heritancehotels.com/aarah/experiences/things-to-do/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.heritancehotels.com/aarah/experiences/things-to-do/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://www.heritancehotels.com/aarah/iaso-spa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.heritancehotels.com/aarah/iaso-spa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://www.heritancehotels.com/aarah/premium-all-inclusive-packages/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.heritancehotels.com/aarah/premium-all-inclusive-packages/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://www.heritancehotels.com/aarah/premium-all-inclusive-packages/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "private dining",
+    "source_url": "https://www.heritancehotels.com/aarah/premium-all-inclusive-packages/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "private dining",
+    "source_url": "https://www.heritancehotels.com/aarah/premium-all-inclusive-packages/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "private dining",
+    "source_url": "https://www.heritancehotels.com/aarah/premium-all-inclusive-packages/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "in-villa dining",
+    "source_url": "https://www.heritancehotels.com/aarah/premium-all-inclusive-packages/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.heritancehotels.com/aarah/premium-all-inclusive-packages/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.heritancehotels.com/aarah/premium-all-inclusive-packages/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "anniversary celebration",
+    "source_url": "https://www.heritancehotels.com/aarah/premium-all-inclusive-packages/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://www.heritancehotels.com/aarah/iaso-spa/iaso-spa-special-promotions/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.heritancehotels.com/aarah/iaso-spa/iaso-spa-special-promotions/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://www.heritancehotels.com/aarah/facilities/daily-activities-and-entertainment-in-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.heritancehotels.com/aarah/facilities/daily-activities-and-entertainment-in-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://www.heritancehotels.com/aarah/offers/free-transfers/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.heritancehotels.com/aarah/offers/free-transfers/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://www.heritancehotels.com/aarah/dining/pizza-shack/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.heritancehotels.com/aarah/dining/pizza-shack/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "private dining",
+    "source_url": "https://www.heritancehotels.com/aarah/dining/pizza-shack/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "private dining",
+    "source_url": "https://www.heritancehotels.com/aarah/dining/pizza-shack/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://www.heritancehotels.com/aarah/sitemap/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.heritancehotels.com/aarah/sitemap/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "private dining",
+    "source_url": "https://www.heritancehotels.com/aarah/sitemap/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://www.heritancehotels.com/aarah/experiences/snorkeling/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.heritancehotels.com/aarah/experiences/snorkeling/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://www.heritancehotels.com/aarah/location/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.heritancehotels.com/aarah/location/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://www.heritancehotels.com/aarah/iaso-spa/hair-salon-and-nail-services/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.heritancehotels.com/aarah/iaso-spa/hair-salon-and-nail-services/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://www.heritancehotels.com/aarah/dining/falhu-overwater-bar/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.heritancehotels.com/aarah/dining/falhu-overwater-bar/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "private dining",
+    "source_url": "https://www.heritancehotels.com/aarah/dining/falhu-overwater-bar/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "private dining",
+    "source_url": "https://www.heritancehotels.com/aarah/dining/falhu-overwater-bar/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://www.heritancehotels.com/aarah/dining/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.heritancehotels.com/aarah/dining/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "private dining",
+    "source_url": "https://www.heritancehotels.com/aarah/dining/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "private dining",
+    "source_url": "https://www.heritancehotels.com/aarah/dining/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://www.heritancehotels.com/aarah/offers/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.heritancehotels.com/aarah/offers/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://www.heritancehotels.com/aarah/?lang=zh-hans",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://www.heritancehotels.com/aarah/iaso-spa-in-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.heritancehotels.com/aarah/iaso-spa-in-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://www.heritancehotels.com/aarah/dining/udaras-overwater-infinity-pool-bar/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.heritancehotels.com/aarah/dining/udaras-overwater-infinity-pool-bar/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "private dining",
+    "source_url": "https://www.heritancehotels.com/aarah/dining/udaras-overwater-infinity-pool-bar/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "private dining",
+    "source_url": "https://www.heritancehotels.com/aarah/dining/udaras-overwater-infinity-pool-bar/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://www.heritancehotels.com/aarah/?lang=ja",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://www.heritancehotels.com/aarah/?lang=ru",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://www.heritancehotels.com/aarah/wind-surfing/?lang=ja",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://www.heritancehotels.com/aarah/dining/ginifati-private-dining/?lang=zh-hans",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://www.heritancehotels.com/aarah/dining/ginifati-private-dining/?lang=ja",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://www.heritancehotels.com/aarah/storrington-collective-family-getaway/?lang=ja",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://www.heritancehotels.com/aarah/storrington-collective-family-getaway/?lang=ru",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://www.heritancehotels.com/aarah/%d0%bf%d1%80%d0%b5%d0%b4%d0%bb%d0%be%d0%b6%d0%b5%d0%bd%d0%b8%d1%8f/family-getaway/?lang=ru",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "candlelit dinner",
+    "source_url": "https://www.heritancehotels.com/ahungalla/offers/honeymoon-offer/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://www.heritancehotels.com/blog/celebrate-100-days-to-christmas-with-heritance-aarah/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "romantic candlelit dinner",
+    "source_url": "https://www.heritancehotels.com/blog/celebrate-100-days-to-christmas-with-heritance-aarah/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "candlelit dinner",
+    "source_url": "https://www.heritancehotels.com/blog/celebrate-100-days-to-christmas-with-heritance-aarah/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.heritancehotels.com/blog/heritance-aarah-for-the-picture-perfect-wedding-honeymoon/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "wine pairing",
+    "source_url": "https://www.heritancehotels.com/blog/heritance-aarah-for-the-picture-perfect-wedding-honeymoon/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://www.heritancehotels.com/blog/heritance-aarah-for-the-picture-perfect-wedding-honeymoon/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sandbank picnic",
+    "source_url": "https://www.heritancehotels.com/blog/heritance-aarah-for-the-picture-perfect-wedding-honeymoon/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sunset cruise",
     "source_url": "https://www.neoscapesmaldives.com/resort/heritance-aarah/",
     "as_of": "2026-10-04"
    }
@@ -5389,6 +6633,21 @@
     "value": "KOKAA Kids Club",
     "source_url": "https://www.heritancehotels.com/aarah/%d0%bf%d1%80%d0%b5%d0%b4%d0%bb%d0%be%d0%b6%d0%b5%d0%bd%d0%b8%d1%8f/family-getaway/?lang=ru",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "View\nKids Club",
+    "source_url": "https://www.heritancehotels.com/aarah-experiences-and-activities/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Koka Kids Club",
+    "source_url": "https://www.heritancehotels.com/blog/celebrate-100-days-to-christmas-with-heritance-aarah/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Kokaa Kids Club",
+    "source_url": "https://www.heritancehotels.com/blog/from-winter-breeze-to-tropical-magic-seasonal-celebrations-at-heritance-aarah-maldives/",
+    "as_of": "2026-10-05"
    },
    {
     "value": "Kids Club",
@@ -5547,6 +6806,21 @@
     "as_of": "2026-10-04"
    },
    {
+    "value": "All-Inclusive experience, the resort unveils festive packages designed for families and couples alike, blending five-star comfort with island enchantment.",
+    "source_url": "https://www.heritancehotels.com/blog/celebrate-100-days-to-christmas-with-heritance-aarah/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "all-inclusive resort offers guests a unique opportunity to immerse themselves in the true essence of island living.",
+    "source_url": "https://www.heritancehotels.com/blog/experience-barefoot-tranquillity-at-heritance-aarah-maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "all-inclusive resort, offers a refreshing twist on seasonal celebrations.",
+    "source_url": "https://www.heritancehotels.com/blog/from-winter-breeze-to-tropical-magic-seasonal-celebrations-at-heritance-aarah-maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
     "value": "All-Inclusive offering, guests enjoy exceptional dining across multiple restaurants and bars, curated wellness experiences, exciting water sports, and unforgettable excursions.",
     "source_url": "https://www.neoscapesmaldives.com/resort/heritance-aarah/",
     "as_of": "2026-10-04"
@@ -5599,11 +6873,62 @@
     "as_of": "2026-10-04"
    }
   ],
+  "destination_dining.packages": [
+   {
+    "value": {
+     "name": "Your Ultimate Floating Experience",
+     "price": "90",
+     "currency": "USD",
+     "as_of": "2026-10-04"
+    },
+    "source_url": "https://www.heritancehotels.com/aarah/offers/heritance-exclusive/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Dream Dhoni Destination Dinner",
+     "price": "1100",
+     "currency": "USD",
+     "as_of": "2026-10-04"
+    },
+    "source_url": "https://www.heritancehotels.com/aarah/offers/heritance-exclusive/",
+    "as_of": "2026-10-04"
+   }
+  ],
   "island": [
    {
     "value": "Aarah",
     "source_url": "https://www.heritancehotels.com/aarah/location/",
     "as_of": "2026-10-04"
+   }
+  ],
+  "weddings.packages": [
+   {
+    "value": {
+     "name": "The Classic Aarah Ceremony",
+     "price": "3200",
+     "currency": "USD",
+     "as_of": "2026-10-05"
+    },
+    "source_url": "https://www.heritancehotels.com/blog/heritance-aarah-for-the-picture-perfect-wedding-honeymoon/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": {
+     "name": "The Premium Aarah Experience",
+     "price": "4750",
+     "currency": "USD",
+     "as_of": "2026-10-05"
+    },
+    "source_url": "https://www.heritancehotels.com/blog/heritance-aarah-for-the-picture-perfect-wedding-honeymoon/",
+    "as_of": "2026-10-05"
+   }
+  ],
+  "destination_dining.sandbank_events": [
+   {
+    "value": true,
+    "source_url": "https://www.heritancehotels.com/blog/heritance-aarah-for-the-picture-perfect-wedding-honeymoon/",
+    "as_of": "2026-10-05"
    }
   ],
   "island_size": [

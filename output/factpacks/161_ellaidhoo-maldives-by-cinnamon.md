@@ -47,6 +47,12 @@ All-inclusive: all inclusive (AI).
 - Packages: n/a
 - Brochure: none
 
+## Destination dining
+
+- Experiences: private dining
+- Packages: n/a
+- Sandbank events: None; document: none
+
 ## Events / MICE
 
 - Venues: n/a; capacity max: n/a; buyout: None
@@ -70,6 +76,7 @@ All-inclusive: all inclusive (AI).
 - dive_prices: none
 - events: none
 - calendar: https://letsgomaldives.com/wp-content/uploads/2026/08/Ellaidhoo_Festive-Brochure.pdf
+- destination_dining: none
 
 ## Gaps
 
@@ -83,4 +90,4 @@ All-inclusive: all inclusive (AI).
 - fact: kids club
 - fact: weddings
 
-_Facts extracted by rules from 13 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._
+_Facts extracted by rules from 14 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

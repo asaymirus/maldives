@@ -7,7 +7,7 @@
 **Transfer:** seaplane, speedboat, domestic flight, yacht; minutes: {"seaplane": 30, "speedboat": 30, "domestic flight": 30}  
 **Island size:** n/a  
 
-## Villas (? total)
+## Villas (125 total)
 
 - Reception RECREATION BEACH VILLAS AND RESIDENCES: count 1, ? sqm, max ?
 - Sand & Sea Beach Pool Residence: count 2, ? sqm, max ?, pool
@@ -47,20 +47,21 @@
 - Khufu De’ Recreation Lounge (bar)
 - Team Dining at Kaage Restaurant (restaurant)
 
-Meal plans: HB, Dine Around
+Meal plans: AI, HB, Dine Around
+All-inclusive: all-inclusive-retreat or a class-by-class session.
 
 ## Spa & wellness
 
 - Spa: Merana Spa; treatment rooms: 12; menu: https://www.vakkarumaldives.com/pdfs/spa-menus/merana-spa_menu_2026.pdf
-- Wellness/fitness: yoga, gym, fitness centre, tennis, padel, beach volleyball, sauna, steam, meditation, ayurveda, badminton, personal trainer, wellness programme, pilates, sound healing, fitness center
+- Wellness/fitness: yoga, gym, fitness centre, tennis, padel, beach volleyball, sauna, steam, badminton, personal trainer, meditation, pilates, ayurveda, wellness programme, sound healing, fitness center
 
 ## Diving, water sports & excursions
 
 - Operator: Dive Centre
 - House reef: House reef dive & all equipment)
 - Activities: snorkelling, snorkeling, scuba diving, windsurfing, surfing, jet ski, parasailing, wakeboarding, fishing, sunset cruise, dolphin cruise, manta, sailing, kayaking, whale shark
-- Price list: none
-- Excursions: sandbank, picnic, private dinner, castaway, cinema, dolphin, sunset fishing, big game fishing, manta, turtle, local island, stargazing, whale shark, cooking class
+- Price list: https://www.vakkarumaldives.com/pdfs/vakkaru-maldives_house-and-garden_june-2019.pdf
+- Excursions: sandbank, picnic, private dinner, castaway, cinema, dolphin, sunset fishing, big game fishing, manta, turtle, stargazing, local island, whale shark, cooking class
 
 ## Kids & family
 
@@ -72,7 +73,13 @@ Kids Club; ages: n/a; teens: teens programme mentioned
 - Offered: True; vow renewal: None
 - Venues: venue by the beach to savour our finest selection of
 - Packages: n/a
-- Brochure: https://www.vakkarumaldives.com/pdfs/news/valentines-day-2024.pdf
+- Brochure: https://www.vakkarumaldives.com/pdfs/vakkaru-maldives-awarded-favorite-romantic-getaway.pdf
+
+## Destination dining
+
+- Experiences: destination dining, wine dinner, castaway picnic, sunset cruise, private chef, private dining, beach barbecue, candlelit dinner, wine pairing, sandbank escape, romantic dining, beach bbq, floating breakfast, dinner under the stars, castaway dinner, beach dinner, sandbank picnic
+- Packages: n/a
+- Sandbank events: True; document: none
 
 ## Events / MICE
 
@@ -81,7 +88,7 @@ Kids Club; ages: n/a; teens: teens programme mentioned
 
 ## Sustainability
 
-- organic garden, marine biologist, single-use plastic, composting
+- marine biologist, organic garden, single-use plastic, composting
 
 ## Public contacts
 
@@ -91,16 +98,16 @@ Kids Club; ages: n/a; teens: teens programme mentioned
 
 - factsheet: https://www.vakkarumaldives.com/pdfs/vakkaru-maldives-fact-sheet-2025.pdf
 - map: https://www.neoscapesmaldives.com/wp-content/uploads/Vakkaru-Maldives-Resort-Map-A4.pdf
-- wedding: https://www.vakkarumaldives.com/pdfs/news/valentines-day-2024.pdf
+- wedding: https://www.vakkarumaldives.com/pdfs/vakkaru-maldives-awarded-favorite-romantic-getaway.pdf
 - spa_menu: https://www.vakkarumaldives.com/pdfs/spa-menus/merana-spa_menu_2026.pdf
 - dining_menu: https://www.vakkarumaldives.com/pdfs/dining-restaurant-menus/master-wine-list.-2026.pdf
-- dive_prices: none
+- dive_prices: https://www.vakkarumaldives.com/pdfs/vakkaru-maldives_house-and-garden_june-2019.pdf
 - events: none
 - calendar: https://www.vakkarumaldives.com/pdfs/news/easter-brochure-2024.pdf
+- destination_dining: none
 
 ## Gaps
 
 - events/MICE document
-- fact: villas.total
 
-_Facts extracted by rules from 22 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._
+_Facts extracted by rules from 26 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

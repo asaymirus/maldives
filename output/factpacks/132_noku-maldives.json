@@ -228,6 +228,15 @@
   "packages": [],
   "brochure_doc": null
  },
+ "destination_dining": {
+  "experiences": [
+   "private dining",
+   "in villa dining"
+  ],
+  "packages": [],
+  "sandbank_events": null,
+  "doc": null
+ },
  "events_mice": {
   "venues": [],
   "capacity_max": null,
@@ -250,7 +259,8 @@
   "dining_menu": null,
   "dive_prices": null,
   "events": null,
-  "calendar": "https://letsgomaldives.com/wp-content/uploads/2026/08/Noku-Maldives-Festive-Brochure-2026_2027.pdf"
+  "calendar": "https://letsgomaldives.com/wp-content/uploads/2026/08/Noku-Maldives-Festive-Brochure-2026_2027.pdf",
+  "destination_dining": null
  },
  "documents_count": 3,
  "gaps": [
@@ -919,6 +929,33 @@
    },
    {
     "value": "tennis",
+    "source_url": "https://www.maldivestourism.net/resorts/zitahli-resorts-kuda-funafaru/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "destination_dining.experiences": [
+   {
+    "value": "private dining",
+    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/NM-Factsheet-July2021.pdf",
+    "as_of": 2021
+   },
+   {
+    "value": "private dining",
+    "source_url": "https://www.neoscapesmaldives.com/resort/noku-maldives-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "private dining",
+    "source_url": "https://www.neoscapesmaldives.com/resort/noku-maldives-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "private dining",
+    "source_url": "https://www.neoscapesmaldives.com/resort/noku-maldives-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "in villa dining",
     "source_url": "https://www.maldivestourism.net/resorts/zitahli-resorts-kuda-funafaru/",
     "as_of": "2026-10-04"
    }

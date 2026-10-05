@@ -46,6 +46,12 @@ Baglioni Kids Club; ages: 4-12 years; teens: teens programme mentioned
 - Packages: n/a
 - Brochure: none
 
+## Destination dining
+
+- Experiences: private chef, in-villa dining, private dining, beach dinner, floating breakfast
+- Packages: n/a
+- Sandbank events: None; document: none
+
 ## Events / MICE
 
 - Venues: n/a; capacity max: n/a; buyout: None
@@ -69,6 +75,7 @@ Baglioni Kids Club; ages: 4-12 years; teens: teens programme mentioned
 - dive_prices: none
 - events: none
 - calendar: none
+- destination_dining: none
 
 ## Gaps
 
@@ -78,4 +85,4 @@ Baglioni Kids Club; ages: 4-12 years; teens: teens programme mentioned
 - fact: villa categories
 - fact: contacts
 
-_Facts extracted by rules from 20 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._
+_Facts extracted by rules from 21 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

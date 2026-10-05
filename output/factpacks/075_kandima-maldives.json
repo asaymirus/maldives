@@ -181,7 +181,7 @@
    "flyboard",
    "banana boat"
   ],
-  "price_list_doc": "https://kandima.com/images/News/2023/Kandima-dec.pdf"
+  "price_list_doc": null
  },
  "excursions": [
   "cinema",
@@ -233,6 +233,35 @@
   ],
   "brochure_doc": "https://d7h9v39iheghu.cloudfront.net/previews/7837a234-9635-4da8-b132-476aacd9b4c1/31206170-5ea3-465a-a437-631202d5a54d/31206170-5ea3-465a-a437-631202d5a54d?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy83ODM3YTIzNC05NjM1LTRkYTgtYjEzMi00NzZhYWNkOWI0YzEqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjg0MDEwfX19XX0_&Signature=0NCrDHEtg~3Ag4tUAPQa6ilJ6cyZ~w4zVuMSD7cG~r-mqETwrHjP~ymbFvuB7vZlbnPnlWCA1ED5pRAzfLnrljg2GzmBKzehdZ5pgyEdg2DhUh1PdoH9P3mOCEtIvAjK8OJMABLlrsk9l-sKHGYMa1a1Cwv28E-vbs9wjG1faMxEGG67VKe8YrbKJea-zq31p-n-SwDxEgYcBaFhSoyAOtk-LQQh4YnbO4e3Mh1O3qhd1CUPoi~QB1~gR8sul5CK0VJQczSIV5ZAIetLpT6YzKJjTsyOlpvwM1Ndaf6IhiW6ocfSJj45JPk5h8YsmO05fa9p1P7DalJRXVD6AH0o6g__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA"
  },
+ "destination_dining": {
+  "experiences": [
+   "destination dining",
+   "sunset cruise",
+   "floating breakfast",
+   "private dining",
+   "candlelit dinner",
+   "dinner under the stars",
+   "private chef",
+   "beach bbq",
+   "romantic dinner"
+  ],
+  "packages": [
+   {
+    "name": "Yummy Floating Breakfast",
+    "price": "180",
+    "currency": "USD",
+    "as_of": 2024
+   },
+   {
+    "name": "Destination Dining",
+    "price": "4887",
+    "currency": "USD",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "sandbank_events": null,
+  "doc": null
+ },
  "events_mice": {
   "venues": [],
   "capacity_max": null,
@@ -253,9 +282,10 @@
   "wedding": "https://d7h9v39iheghu.cloudfront.net/previews/7837a234-9635-4da8-b132-476aacd9b4c1/31206170-5ea3-465a-a437-631202d5a54d/31206170-5ea3-465a-a437-631202d5a54d?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy83ODM3YTIzNC05NjM1LTRkYTgtYjEzMi00NzZhYWNkOWI0YzEqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjg0MDEwfX19XX0_&Signature=0NCrDHEtg~3Ag4tUAPQa6ilJ6cyZ~w4zVuMSD7cG~r-mqETwrHjP~ymbFvuB7vZlbnPnlWCA1ED5pRAzfLnrljg2GzmBKzehdZ5pgyEdg2DhUh1PdoH9P3mOCEtIvAjK8OJMABLlrsk9l-sKHGYMa1a1Cwv28E-vbs9wjG1faMxEGG67VKe8YrbKJea-zq31p-n-SwDxEgYcBaFhSoyAOtk-LQQh4YnbO4e3Mh1O3qhd1CUPoi~QB1~gR8sul5CK0VJQczSIV5ZAIetLpT6YzKJjTsyOlpvwM1Ndaf6IhiW6ocfSJj45JPk5h8YsmO05fa9p1P7DalJRXVD6AH0o6g__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA",
   "spa_menu": null,
   "dining_menu": "https://d7h9v39iheghu.cloudfront.net/previews/7837a234-9635-4da8-b132-476aacd9b4c1/84e465ab-4226-4c7d-b4fd-780347f67f94/84e465ab-4226-4c7d-b4fd-780347f67f94?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy83ODM3YTIzNC05NjM1LTRkYTgtYjEzMi00NzZhYWNkOWI0YzEqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjg0MDEwfX19XX0_&Signature=0NCrDHEtg~3Ag4tUAPQa6ilJ6cyZ~w4zVuMSD7cG~r-mqETwrHjP~ymbFvuB7vZlbnPnlWCA1ED5pRAzfLnrljg2GzmBKzehdZ5pgyEdg2DhUh1PdoH9P3mOCEtIvAjK8OJMABLlrsk9l-sKHGYMa1a1Cwv28E-vbs9wjG1faMxEGG67VKe8YrbKJea-zq31p-n-SwDxEgYcBaFhSoyAOtk-LQQh4YnbO4e3Mh1O3qhd1CUPoi~QB1~gR8sul5CK0VJQczSIV5ZAIetLpT6YzKJjTsyOlpvwM1Ndaf6IhiW6ocfSJj45JPk5h8YsmO05fa9p1P7DalJRXVD6AH0o6g__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA",
-  "dive_prices": "https://kandima.com/images/News/2023/Kandima-dec.pdf",
+  "dive_prices": null,
   "events": null,
-  "calendar": "https://kandima.com/images/News/Festive_2023_Press_Release.pdf"
+  "calendar": "https://kandima.com/images/News/2023/Kandima-dec.pdf",
+  "destination_dining": null
  },
  "documents_count": 43,
  "gaps": [
@@ -1016,6 +1046,16 @@
     "as_of": "2026-10-04"
    },
    {
+    "value": "sunset cruise",
+    "source_url": "https://kandima.com/en/kool-things/kandima-blog/best-maldives-resort-for-honeymoon",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://kandima.com/en/kool-things/kandima-blog/honeymoon-in-maldives-an-oh-so-thrilling-romantic-adventure",
+    "as_of": "2026-10-05"
+   },
+   {
     "value": "jet ski",
     "source_url": "https://www.neoscapesmaldives.com/resort/kandima-maldives/",
     "as_of": "2026-10-04"
@@ -1330,11 +1370,6 @@
    },
    {
     "value": "yoga",
-    "source_url": "https://kandima.com/images/News/2023/Kandima-dec.pdf",
-    "as_of": 2024
-   },
-   {
-    "value": "yoga",
     "source_url": "https://kandima.com/images/News/2024/The%20Independent.pdf",
     "as_of": 2024
    },
@@ -1552,6 +1587,11 @@
    },
    {
     "value": true,
+    "source_url": "https://d7h9v39iheghu.cloudfront.net/previews/7837a234-9635-4da8-b132-476aacd9b4c1/e8815e61-7ac8-4f7b-88f1-4aad63213494/7ea6dde9-fb4c-4648-91a7-77b325f08809?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy83ODM3YTIzNC05NjM1LTRkYTgtYjEzMi00NzZhYWNkOWI0YzEqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjg0MDEwfX19XX0_&Signature=0NCrDHEtg~3Ag4tUAPQa6ilJ6cyZ~w4zVuMSD7cG~r-mqETwrHjP~ymbFvuB7vZlbnPnlWCA1ED5pRAzfLnrljg2GzmBKzehdZ5pgyEdg2DhUh1PdoH9P3mOCEtIvAjK8OJMABLlrsk9l-sKHGYMa1a1Cwv28E-vbs9wjG1faMxEGG67VKe8YrbKJea-zq31p-n-SwDxEgYcBaFhSoyAOtk-LQQh4YnbO4e3Mh1O3qhd1CUPoi~QB1~gR8sul5CK0VJQczSIV5ZAIetLpT6YzKJjTsyOlpvwM1Ndaf6IhiW6ocfSJj45JPk5h8YsmO05fa9p1P7DalJRXVD6AH0o6g__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA",
+    "as_of": 2026
+   },
+   {
+    "value": true,
     "source_url": "https://d7h9v39iheghu.cloudfront.net/previews/7837a234-9635-4da8-b132-476aacd9b4c1/31206170-5ea3-465a-a437-631202d5a54d/31206170-5ea3-465a-a437-631202d5a54d?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy83ODM3YTIzNC05NjM1LTRkYTgtYjEzMi00NzZhYWNkOWI0YzEqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjg0MDEwfX19XX0_&Signature=0NCrDHEtg~3Ag4tUAPQa6ilJ6cyZ~w4zVuMSD7cG~r-mqETwrHjP~ymbFvuB7vZlbnPnlWCA1ED5pRAzfLnrljg2GzmBKzehdZ5pgyEdg2DhUh1PdoH9P3mOCEtIvAjK8OJMABLlrsk9l-sKHGYMa1a1Cwv28E-vbs9wjG1faMxEGG67VKe8YrbKJea-zq31p-n-SwDxEgYcBaFhSoyAOtk-LQQh4YnbO4e3Mh1O3qhd1CUPoi~QB1~gR8sul5CK0VJQczSIV5ZAIetLpT6YzKJjTsyOlpvwM1Ndaf6IhiW6ocfSJj45JPk5h8YsmO05fa9p1P7DalJRXVD6AH0o6g__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA",
     "as_of": 2024
    },
@@ -1622,6 +1662,16 @@
    },
    {
     "value": true,
+    "source_url": "https://kandima.com/en/kool-things/kandima-blog/best-maldives-resort-for-honeymoon",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": true,
+    "source_url": "https://kandima.com/en/offers/luvperks-honeymoon-anniversary",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": true,
     "source_url": "https://www.neoscapesmaldives.com/resort/kandima-maldives/",
     "as_of": "2026-10-04"
    },
@@ -1663,6 +1713,133 @@
     "as_of": "2026-10-04"
    }
   ],
+  "spa.name": [
+   {
+    "value": "Spa",
+    "source_url": "https://d7h9v39iheghu.cloudfront.net/previews/7837a234-9635-4da8-b132-476aacd9b4c1/e8815e61-7ac8-4f7b-88f1-4aad63213494/7ea6dde9-fb4c-4648-91a7-77b325f08809?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy83ODM3YTIzNC05NjM1LTRkYTgtYjEzMi00NzZhYWNkOWI0YzEqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjg0MDEwfX19XX0_&Signature=0NCrDHEtg~3Ag4tUAPQa6ilJ6cyZ~w4zVuMSD7cG~r-mqETwrHjP~ymbFvuB7vZlbnPnlWCA1ED5pRAzfLnrljg2GzmBKzehdZ5pgyEdg2DhUh1PdoH9P3mOCEtIvAjK8OJMABLlrsk9l-sKHGYMa1a1Cwv28E-vbs9wjG1faMxEGG67VKe8YrbKJea-zq31p-n-SwDxEgYcBaFhSoyAOtk-LQQh4YnbO4e3Mh1O3qhd1CUPoi~QB1~gR8sul5CK0VJQczSIV5ZAIetLpT6YzKJjTsyOlpvwM1Ndaf6IhiW6ocfSJj45JPk5h8YsmO05fa9p1P7DalJRXVD6AH0o6g__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA",
+    "as_of": 2026
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://kandima.com/en/kool-things/kandima-blog/the-best-resort-for-solo-female-travel-in-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://kandima.com/en/maldives-for-ultimate-leisure",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://kandima.com/en/explore/k-experiences",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://kandima.com/en/kool-things/kandima-blog/love-is-in-the-air-at-kandima-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://kandima.com/en/kool-things/kandima-blog/places-to-explore-in-the-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://kandima.com/en/kool-things/kandima-blog/first-timer-s-spa-guide",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://kandima.com/en/kool-things/kandima-blog/how-many-days-are-enough-for-the-maldives-your-ultimate-guide",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "EsKape Spa",
+    "source_url": "https://kandima.com/en/kool-things/kandima-blog/one-week-in-the-maldives-the-ultimate-itinerary",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://kandima.com/en/kool-things/kandima-blog/elevate-your-stay-at-the-koolest-lifestyle-destination-in-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Eskape Spa",
+    "source_url": "https://kandima.com/en/kool-places/eskape-spa",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Ice Spa",
+    "source_url": "https://kandima.com/en/kool-things/kandima-blog/celebrate-festive-season-in-the-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://kandima.com/en/kool-things/kandima-blog/what-are-the-latest-maldives-trends",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Eskape Spa",
+    "source_url": "https://kandima.com/en/offers/kandima-festive-offer",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://kandima.com/en/kool-things/kandima-blog/swoon-and-sway-at-kandima-maldives-karnival-of-love",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://kandima.com/en/kool-things/kandima-blog/what-kind-of-activities-can-i-do-in-maldives-resorts",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://kandima.com/en/kool-things/kandima-blog/unleash-the-fun-with-kandima-maldives-special-summerkation-offer",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://kandima.com/en/kool-things/kandima-blog/plant-based-paradise-celebrate-veganuary-in-style",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Eskape Spa",
+    "source_url": "https://kandima.com/en/next-kool-offer",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Eskape Spa",
+    "source_url": "https://kandima.com/en/next-cool-offer",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Eskape Spa",
+    "source_url": "https://kandima.com/en/kool-things/kandima-blog/best-maldives-resort-for-honeymoon",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://kandima.com/en/kool-things/kandima-blog/honeymoon-in-maldives-an-oh-so-thrilling-romantic-adventure",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.neoscapesmaldives.com/resort/kandima-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Decades-Inspired Wellness\nEsKape Spa",
+    "source_url": "https://letsgomaldives.com/news/celebrate-the-holidays-with-rhythms-of-the-eras-at-kandima-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.maldivesholidayoffers.com/holidays/winter-package-kandima-maldives/",
+    "as_of": "2026-10-04"
+   }
+  ],
   "dining": [
    {
     "value": {
@@ -1699,6 +1876,15 @@
     },
     "source_url": "https://kandima.com/en/kool-things/kandima-blog/5-fun-beach-games-for-kids-and-adults",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Breeze Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://kandima.com/en/kool-things/kandima-blog/celebrate-halloween-in-maldives",
+    "as_of": "2026-10-05"
    },
    {
     "value": {
@@ -1746,6 +1932,250 @@
     },
     "source_url": "https://d7h9v39iheghu.cloudfront.net/previews/7837a234-9635-4da8-b132-476aacd9b4c1/31206170-5ea3-465a-a437-631202d5a54d/31206170-5ea3-465a-a437-631202d5a54d?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy83ODM3YTIzNC05NjM1LTRkYTgtYjEzMi00NzZhYWNkOWI0YzEqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjg0MDEwfX19XX0_&Signature=0NCrDHEtg~3Ag4tUAPQa6ilJ6cyZ~w4zVuMSD7cG~r-mqETwrHjP~ymbFvuB7vZlbnPnlWCA1ED5pRAzfLnrljg2GzmBKzehdZ5pgyEdg2DhUh1PdoH9P3mOCEtIvAjK8OJMABLlrsk9l-sKHGYMa1a1Cwv28E-vbs9wjG1faMxEGG67VKe8YrbKJea-zq31p-n-SwDxEgYcBaFhSoyAOtk-LQQh4YnbO4e3Mh1O3qhd1CUPoi~QB1~gR8sul5CK0VJQczSIV5ZAIetLpT6YzKJjTsyOlpvwM1Ndaf6IhiW6ocfSJj45JPk5h8YsmO05fa9p1P7DalJRXVD6AH0o6g__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA",
     "as_of": 2024
+   }
+  ],
+  "destination_dining.experiences": [
+   {
+    "value": "destination dining",
+    "source_url": "https://d7h9v39iheghu.cloudfront.net/previews/7837a234-9635-4da8-b132-476aacd9b4c1/31206170-5ea3-465a-a437-631202d5a54d/31206170-5ea3-465a-a437-631202d5a54d?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy83ODM3YTIzNC05NjM1LTRkYTgtYjEzMi00NzZhYWNkOWI0YzEqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjg0MDEwfX19XX0_&Signature=0NCrDHEtg~3Ag4tUAPQa6ilJ6cyZ~w4zVuMSD7cG~r-mqETwrHjP~ymbFvuB7vZlbnPnlWCA1ED5pRAzfLnrljg2GzmBKzehdZ5pgyEdg2DhUh1PdoH9P3mOCEtIvAjK8OJMABLlrsk9l-sKHGYMa1a1Cwv28E-vbs9wjG1faMxEGG67VKe8YrbKJea-zq31p-n-SwDxEgYcBaFhSoyAOtk-LQQh4YnbO4e3Mh1O3qhd1CUPoi~QB1~gR8sul5CK0VJQczSIV5ZAIetLpT6YzKJjTsyOlpvwM1Ndaf6IhiW6ocfSJj45JPk5h8YsmO05fa9p1P7DalJRXVD6AH0o6g__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA",
+    "as_of": 2024
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://d7h9v39iheghu.cloudfront.net/previews/7837a234-9635-4da8-b132-476aacd9b4c1/31206170-5ea3-465a-a437-631202d5a54d/31206170-5ea3-465a-a437-631202d5a54d?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy83ODM3YTIzNC05NjM1LTRkYTgtYjEzMi00NzZhYWNkOWI0YzEqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjg0MDEwfX19XX0_&Signature=0NCrDHEtg~3Ag4tUAPQa6ilJ6cyZ~w4zVuMSD7cG~r-mqETwrHjP~ymbFvuB7vZlbnPnlWCA1ED5pRAzfLnrljg2GzmBKzehdZ5pgyEdg2DhUh1PdoH9P3mOCEtIvAjK8OJMABLlrsk9l-sKHGYMa1a1Cwv28E-vbs9wjG1faMxEGG67VKe8YrbKJea-zq31p-n-SwDxEgYcBaFhSoyAOtk-LQQh4YnbO4e3Mh1O3qhd1CUPoi~QB1~gR8sul5CK0VJQczSIV5ZAIetLpT6YzKJjTsyOlpvwM1Ndaf6IhiW6ocfSJj45JPk5h8YsmO05fa9p1P7DalJRXVD6AH0o6g__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA",
+    "as_of": 2024
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://d7h9v39iheghu.cloudfront.net/previews/7837a234-9635-4da8-b132-476aacd9b4c1/31206170-5ea3-465a-a437-631202d5a54d/31206170-5ea3-465a-a437-631202d5a54d?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy83ODM3YTIzNC05NjM1LTRkYTgtYjEzMi00NzZhYWNkOWI0YzEqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjg0MDEwfX19XX0_&Signature=0NCrDHEtg~3Ag4tUAPQa6ilJ6cyZ~w4zVuMSD7cG~r-mqETwrHjP~ymbFvuB7vZlbnPnlWCA1ED5pRAzfLnrljg2GzmBKzehdZ5pgyEdg2DhUh1PdoH9P3mOCEtIvAjK8OJMABLlrsk9l-sKHGYMa1a1Cwv28E-vbs9wjG1faMxEGG67VKe8YrbKJea-zq31p-n-SwDxEgYcBaFhSoyAOtk-LQQh4YnbO4e3Mh1O3qhd1CUPoi~QB1~gR8sul5CK0VJQczSIV5ZAIetLpT6YzKJjTsyOlpvwM1Ndaf6IhiW6ocfSJj45JPk5h8YsmO05fa9p1P7DalJRXVD6AH0o6g__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA",
+    "as_of": 2024
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://d7h9v39iheghu.cloudfront.net/previews/7837a234-9635-4da8-b132-476aacd9b4c1/31206170-5ea3-465a-a437-631202d5a54d/31206170-5ea3-465a-a437-631202d5a54d?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy83ODM3YTIzNC05NjM1LTRkYTgtYjEzMi00NzZhYWNkOWI0YzEqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjg0MDEwfX19XX0_&Signature=0NCrDHEtg~3Ag4tUAPQa6ilJ6cyZ~w4zVuMSD7cG~r-mqETwrHjP~ymbFvuB7vZlbnPnlWCA1ED5pRAzfLnrljg2GzmBKzehdZ5pgyEdg2DhUh1PdoH9P3mOCEtIvAjK8OJMABLlrsk9l-sKHGYMa1a1Cwv28E-vbs9wjG1faMxEGG67VKe8YrbKJea-zq31p-n-SwDxEgYcBaFhSoyAOtk-LQQh4YnbO4e3Mh1O3qhd1CUPoi~QB1~gR8sul5CK0VJQczSIV5ZAIetLpT6YzKJjTsyOlpvwM1Ndaf6IhiW6ocfSJj45JPk5h8YsmO05fa9p1P7DalJRXVD6AH0o6g__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA",
+    "as_of": 2024
+   },
+   {
+    "value": "private dining",
+    "source_url": "https://d7h9v39iheghu.cloudfront.net/previews/7837a234-9635-4da8-b132-476aacd9b4c1/31206170-5ea3-465a-a437-631202d5a54d/31206170-5ea3-465a-a437-631202d5a54d?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy83ODM3YTIzNC05NjM1LTRkYTgtYjEzMi00NzZhYWNkOWI0YzEqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjg0MDEwfX19XX0_&Signature=0NCrDHEtg~3Ag4tUAPQa6ilJ6cyZ~w4zVuMSD7cG~r-mqETwrHjP~ymbFvuB7vZlbnPnlWCA1ED5pRAzfLnrljg2GzmBKzehdZ5pgyEdg2DhUh1PdoH9P3mOCEtIvAjK8OJMABLlrsk9l-sKHGYMa1a1Cwv28E-vbs9wjG1faMxEGG67VKe8YrbKJea-zq31p-n-SwDxEgYcBaFhSoyAOtk-LQQh4YnbO4e3Mh1O3qhd1CUPoi~QB1~gR8sul5CK0VJQczSIV5ZAIetLpT6YzKJjTsyOlpvwM1Ndaf6IhiW6ocfSJj45JPk5h8YsmO05fa9p1P7DalJRXVD6AH0o6g__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA",
+    "as_of": 2024
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://d7h9v39iheghu.cloudfront.net/previews/7837a234-9635-4da8-b132-476aacd9b4c1/31206170-5ea3-465a-a437-631202d5a54d/31206170-5ea3-465a-a437-631202d5a54d?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy83ODM3YTIzNC05NjM1LTRkYTgtYjEzMi00NzZhYWNkOWI0YzEqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjg0MDEwfX19XX0_&Signature=0NCrDHEtg~3Ag4tUAPQa6ilJ6cyZ~w4zVuMSD7cG~r-mqETwrHjP~ymbFvuB7vZlbnPnlWCA1ED5pRAzfLnrljg2GzmBKzehdZ5pgyEdg2DhUh1PdoH9P3mOCEtIvAjK8OJMABLlrsk9l-sKHGYMa1a1Cwv28E-vbs9wjG1faMxEGG67VKe8YrbKJea-zq31p-n-SwDxEgYcBaFhSoyAOtk-LQQh4YnbO4e3Mh1O3qhd1CUPoi~QB1~gR8sul5CK0VJQczSIV5ZAIetLpT6YzKJjTsyOlpvwM1Ndaf6IhiW6ocfSJj45JPk5h8YsmO05fa9p1P7DalJRXVD6AH0o6g__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA",
+    "as_of": 2024
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://d7h9v39iheghu.cloudfront.net/previews/7837a234-9635-4da8-b132-476aacd9b4c1/31206170-5ea3-465a-a437-631202d5a54d/31206170-5ea3-465a-a437-631202d5a54d?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy83ODM3YTIzNC05NjM1LTRkYTgtYjEzMi00NzZhYWNkOWI0YzEqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjg0MDEwfX19XX0_&Signature=0NCrDHEtg~3Ag4tUAPQa6ilJ6cyZ~w4zVuMSD7cG~r-mqETwrHjP~ymbFvuB7vZlbnPnlWCA1ED5pRAzfLnrljg2GzmBKzehdZ5pgyEdg2DhUh1PdoH9P3mOCEtIvAjK8OJMABLlrsk9l-sKHGYMa1a1Cwv28E-vbs9wjG1faMxEGG67VKe8YrbKJea-zq31p-n-SwDxEgYcBaFhSoyAOtk-LQQh4YnbO4e3Mh1O3qhd1CUPoi~QB1~gR8sul5CK0VJQczSIV5ZAIetLpT6YzKJjTsyOlpvwM1Ndaf6IhiW6ocfSJj45JPk5h8YsmO05fa9p1P7DalJRXVD6AH0o6g__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA",
+    "as_of": 2024
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://d7h9v39iheghu.cloudfront.net/previews/7837a234-9635-4da8-b132-476aacd9b4c1/84e465ab-4226-4c7d-b4fd-780347f67f94/84e465ab-4226-4c7d-b4fd-780347f67f94?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy83ODM3YTIzNC05NjM1LTRkYTgtYjEzMi00NzZhYWNkOWI0YzEqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjg0MDEwfX19XX0_&Signature=0NCrDHEtg~3Ag4tUAPQa6ilJ6cyZ~w4zVuMSD7cG~r-mqETwrHjP~ymbFvuB7vZlbnPnlWCA1ED5pRAzfLnrljg2GzmBKzehdZ5pgyEdg2DhUh1PdoH9P3mOCEtIvAjK8OJMABLlrsk9l-sKHGYMa1a1Cwv28E-vbs9wjG1faMxEGG67VKe8YrbKJea-zq31p-n-SwDxEgYcBaFhSoyAOtk-LQQh4YnbO4e3Mh1O3qhd1CUPoi~QB1~gR8sul5CK0VJQczSIV5ZAIetLpT6YzKJjTsyOlpvwM1Ndaf6IhiW6ocfSJj45JPk5h8YsmO05fa9p1P7DalJRXVD6AH0o6g__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA",
+    "as_of": 2026
+   },
+   {
+    "value": "candlelit dinner",
+    "source_url": "https://kandima.com/en/kool-things/kandima-blog/category/honeymoon",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://kandima.com/en/kool-things/kandima-blog/tie-the-knot-in-the-maldives-for-a-truly-unforgettable-wedding-experience",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://kandima.com/en/kool-things/kandima-blog/tie-the-knot-in-the-maldives-for-a-truly-unforgettable-wedding-experience",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://kandima.com/en/explore/k-experiences",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "private dining",
+    "source_url": "https://kandima.com/en/explore/k-experiences",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://kandima.com/en/excursions",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://kandima.com/en/kool-things/kandima-blog/love-is-in-the-air-at-kandima-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://kandima.com/en/kool-things/kandima-blog/places-to-explore-in-the-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://kandima.com/en/kool-things/kandima-blog/one-week-in-the-maldives-the-ultimate-itinerary",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://kandima.com/en/kool-things/kandima-blog/one-week-in-the-maldives-the-ultimate-itinerary",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://kandima.com/en/offers/kandima-festive-offer",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dinner under the stars",
+    "source_url": "https://kandima.com/en/offers/kandima-festive-offer",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "private chef",
+    "source_url": "https://kandima.com/en/kool-things/meetings-events",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "beach bbq",
+    "source_url": "https://kandima.com/en/kool-things/meetings-events",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://kandima.com/en/kool-things/kandima-blog/what-makes-maldives-a-dream-destination",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://kandima.com/en/kool-things/kandima-blog/what-makes-maldives-a-dream-destination",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://kandima.com/en/kool-things/kandima-blog/what-makes-maldives-a-dream-destination",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://kandima.com/en/kool-things/kandima-blog/the-best-family-holiday-in-the-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://kandima.com/en/kool-things/kandima-blog/the-best-family-holiday-in-the-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://kandima.com/en/kool-things/kandima-blog/the-best-family-holiday-in-the-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://kandima.com/en/kool-things/kandima-blog/top-10-things-to-tick-off-your-bucket-list-in-the-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://kandima.com/en/kool-things/kandima-blog/top-10-things-to-tick-off-your-bucket-list-in-the-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "romantic dinner",
+    "source_url": "https://kandima.com/en/kool-things/kandima-blog/top-10-things-to-tick-off-your-bucket-list-in-the-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://kandima.com/en/kool-things/kandima-blog/top-10-things-to-tick-off-your-bucket-list-in-the-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "romantic dinner",
+    "source_url": "https://kandima.com/en/kool-things/weddings",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://kandima.com/en/kool-things/weddings",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://kandima.com/en/next-kool-offer",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://kandima.com/en/next-cool-offer",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://kandima.com/en/kool-things/kandima-blog/best-maldives-resort-for-honeymoon",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "romantic dinner",
+    "source_url": "https://kandima.com/en/kool-things/kandima-blog/best-maldives-resort-for-honeymoon",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://www.neoscapesmaldives.com/resort/kandima-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "beach bbq",
+    "source_url": "https://www.neoscapesmaldives.com/resort/kandima-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "private chef",
+    "source_url": "https://www.neoscapesmaldives.com/resort/kandima-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://letsgomaldives.com/news/celebrate-the-holidays-with-rhythms-of-the-eras-at-kandima-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "romantic dinner",
+    "source_url": "https://www.maldivesholidayoffers.com/holidays/winter-package-kandima-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://www.maldivesholidayoffers.com/holidays/winter-package-kandima-maldives/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "destination_dining.packages": [
+   {
+    "value": {
+     "name": "Yummy Floating Breakfast",
+     "price": "180",
+     "currency": "USD",
+     "as_of": 2024
+    },
+    "source_url": "https://d7h9v39iheghu.cloudfront.net/previews/7837a234-9635-4da8-b132-476aacd9b4c1/31206170-5ea3-465a-a437-631202d5a54d/31206170-5ea3-465a-a437-631202d5a54d?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy83ODM3YTIzNC05NjM1LTRkYTgtYjEzMi00NzZhYWNkOWI0YzEqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjg0MDEwfX19XX0_&Signature=0NCrDHEtg~3Ag4tUAPQa6ilJ6cyZ~w4zVuMSD7cG~r-mqETwrHjP~ymbFvuB7vZlbnPnlWCA1ED5pRAzfLnrljg2GzmBKzehdZ5pgyEdg2DhUh1PdoH9P3mOCEtIvAjK8OJMABLlrsk9l-sKHGYMa1a1Cwv28E-vbs9wjG1faMxEGG67VKe8YrbKJea-zq31p-n-SwDxEgYcBaFhSoyAOtk-LQQh4YnbO4e3Mh1O3qhd1CUPoi~QB1~gR8sul5CK0VJQczSIV5ZAIetLpT6YzKJjTsyOlpvwM1Ndaf6IhiW6ocfSJj45JPk5h8YsmO05fa9p1P7DalJRXVD6AH0o6g__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA",
+    "as_of": 2024
+   },
+   {
+    "value": {
+     "name": "Destination Dining",
+     "price": "4887",
+     "currency": "USD",
+     "as_of": "2026-10-04"
+    },
+    "source_url": "https://www.maldivesholidayoffers.com/holidays/winter-package-kandima-maldives/",
+    "as_of": "2026-10-04"
    }
   ],
   "diving_watersports.house_reef": [
@@ -1909,6 +2339,11 @@
     "as_of": "2026-10-04"
    },
    {
+    "value": "yacht",
+    "source_url": "https://kandima.com/en/kool-things/kandima-blog/honeymoon-in-maldives-an-oh-so-thrilling-romantic-adventure",
+    "as_of": "2026-10-05"
+   },
+   {
     "value": "speedboat",
     "source_url": "https://www.neoscapesmaldives.com/resort/kandima-maldives/",
     "as_of": "2026-10-04"
@@ -2031,118 +2466,6 @@
    {
     "value": 20,
     "source_url": "https://www.neoscapesmaldives.com/resort/kandima-maldives/",
-    "as_of": "2026-10-04"
-   }
-  ],
-  "spa.name": [
-   {
-    "value": "Spa",
-    "source_url": "https://kandima.com/en/kool-things/kandima-blog/the-best-resort-for-solo-female-travel-in-maldives",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": "Spa",
-    "source_url": "https://kandima.com/en/maldives-for-ultimate-leisure",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": "Spa",
-    "source_url": "https://kandima.com/en/explore/k-experiences",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": "Spa",
-    "source_url": "https://kandima.com/en/kool-things/kandima-blog/love-is-in-the-air-at-kandima-maldives",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": "Spa",
-    "source_url": "https://kandima.com/en/kool-things/kandima-blog/places-to-explore-in-the-maldives",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": "Spa",
-    "source_url": "https://kandima.com/en/kool-things/kandima-blog/first-timer-s-spa-guide",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": "Spa",
-    "source_url": "https://kandima.com/en/kool-things/kandima-blog/how-many-days-are-enough-for-the-maldives-your-ultimate-guide",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": "EsKape Spa",
-    "source_url": "https://kandima.com/en/kool-things/kandima-blog/one-week-in-the-maldives-the-ultimate-itinerary",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": "Spa",
-    "source_url": "https://kandima.com/en/kool-things/kandima-blog/elevate-your-stay-at-the-koolest-lifestyle-destination-in-maldives",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": "Eskape Spa",
-    "source_url": "https://kandima.com/en/kool-places/eskape-spa",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": "Ice Spa",
-    "source_url": "https://kandima.com/en/kool-things/kandima-blog/celebrate-festive-season-in-the-maldives",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": "Spa",
-    "source_url": "https://kandima.com/en/kool-things/kandima-blog/what-are-the-latest-maldives-trends",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": "Eskape Spa",
-    "source_url": "https://kandima.com/en/offers/kandima-festive-offer",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": "Spa",
-    "source_url": "https://kandima.com/en/kool-things/kandima-blog/swoon-and-sway-at-kandima-maldives-karnival-of-love",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": "Spa",
-    "source_url": "https://kandima.com/en/kool-things/kandima-blog/what-kind-of-activities-can-i-do-in-maldives-resorts",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": "Spa",
-    "source_url": "https://kandima.com/en/kool-things/kandima-blog/unleash-the-fun-with-kandima-maldives-special-summerkation-offer",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": "Spa",
-    "source_url": "https://kandima.com/en/kool-things/kandima-blog/plant-based-paradise-celebrate-veganuary-in-style",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": "Eskape Spa",
-    "source_url": "https://kandima.com/en/next-kool-offer",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": "Eskape Spa",
-    "source_url": "https://kandima.com/en/next-cool-offer",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": "Spa",
-    "source_url": "https://www.neoscapesmaldives.com/resort/kandima-maldives/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": "Decades-Inspired Wellness\nEsKape Spa",
-    "source_url": "https://letsgomaldives.com/news/celebrate-the-holidays-with-rhythms-of-the-eras-at-kandima-maldives/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": "Spa",
-    "source_url": "https://www.maldivesholidayoffers.com/holidays/winter-package-kandima-maldives/",
     "as_of": "2026-10-04"
    }
   ],

@@ -55,6 +55,12 @@ inclusive.
 - Packages: Wedding USD 320 (2025)
 - Brochure: https://www.kandolhu.com/wp-content/uploads/2026/08/Kandolhu-Renewal-of-Vows.pdf
 
+## Destination dining
+
+- Experiences: in-villa dining, beach dinner, sunset cruise, candlelit dinner, floating breakfast, private dining, sandbank trip, wine pairing
+- Packages: In Villa Floating Breakfast USD 95 (2025)
+- Sandbank events: True; document: https://www.kandolhu.com/wp-content/uploads/2026/10/Kandolhu-Private-Dining-Poster.pdf
+
 ## Events / MICE
 
 - Venues: n/a; capacity max: n/a; buyout: None
@@ -78,9 +84,10 @@ inclusive.
 - dive_prices: https://www.kandolhu.com/wp-content/uploads/2026/08/Water-Sports-Brochure.pdf
 - events: https://www.kandolhu.com/wp-content/uploads/2026/09/Kandolhu-Corporate-social-responsibility-policy-updated.pdf
 - calendar: https://www.kandolhu.com/wp-content/uploads/2026/08/Kandolhu-Festive-Brochure-_Digital-2026.pdf
+- destination_dining: https://www.kandolhu.com/wp-content/uploads/2026/10/Kandolhu-Private-Dining-Poster.pdf
 
 ## Gaps
 
 - fact: dive operator
 
-_Facts extracted by rules from 21 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._
+_Facts extracted by rules from 24 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

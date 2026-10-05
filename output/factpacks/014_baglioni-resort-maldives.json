@@ -107,6 +107,18 @@
   "packages": [],
   "brochure_doc": null
  },
+ "destination_dining": {
+  "experiences": [
+   "private chef",
+   "in-villa dining",
+   "private dining",
+   "beach dinner",
+   "floating breakfast"
+  ],
+  "packages": [],
+  "sandbank_events": null,
+  "doc": null
+ },
  "events_mice": {
   "venues": [],
   "capacity_max": null,
@@ -129,7 +141,8 @@
   "dining_menu": null,
   "dive_prices": null,
   "events": null,
-  "calendar": null
+  "calendar": null,
+  "destination_dining": null
  },
  "documents_count": 0,
  "gaps": [
@@ -475,6 +488,43 @@
    {
     "value": "yoga",
     "source_url": "https://www.airtours.de/baglioni-maldives-luxury-all-inclusive/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "destination_dining.experiences": [
+   {
+    "value": "private chef",
+    "source_url": "https://www.tropicalsky.co.uk/indian-ocean-holidays/maldives/baglioni-maldives-luxury-all-inclusive-hotel",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "in-villa dining",
+    "source_url": "https://www.tropicalsky.co.uk/indian-ocean-holidays/maldives/baglioni-maldives-luxury-all-inclusive-hotel",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "private dining",
+    "source_url": "https://www.tropicalsky.co.uk/indian-ocean-holidays/maldives/baglioni-maldives-luxury-all-inclusive-hotel",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "beach dinner",
+    "source_url": "https://www.tropicalsky.co.uk/indian-ocean-holidays/maldives/baglioni-maldives-luxury-all-inclusive-hotel",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://www.tropicalsky.co.uk/indian-ocean-holidays/maldives/baglioni-maldives-luxury-all-inclusive-hotel",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://www.tropicalsky.co.uk/indian-ocean-holidays/maldives/baglioni-maldives-luxury-all-inclusive-hotel",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "in-villa dining",
+    "source_url": "https://www.tropicalsky.co.uk/indian-ocean-holidays/maldives/baglioni-maldives-luxury-all-inclusive-hotel",
     "as_of": "2026-10-04"
    }
   ],

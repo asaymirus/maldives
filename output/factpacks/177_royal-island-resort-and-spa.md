@@ -50,9 +50,9 @@ All-inclusive: all inclusive resort blends boutique charm with the soul of islan
 
 - Operator: DiveOceanus
 - House reef: House reef snorkelling accessible straight
-- Activities: snorkelling, snorkeling, scuba diving, windsurfing, fishing, sunset cruise, manta, canoe, whale shark, sailing, semi-submarine, surfing, stand-up paddle, paddleboard, parasailing
+- Activities: snorkelling, snorkeling, scuba diving, windsurfing, fishing, sunset cruise, manta, canoe, whale shark, sailing, semi-submarine, surfing, stand-up paddle, paddleboard, parasailing, seabob, jet ski, water skiing, wakeboarding, fun tube, catamaran
 - Price list: https://link.assetfile.io/4rxr0CUXGWIzxHbhFjrnvp/Royal+Island+-+Diving+-+Brochure.pdf
-- Excursions: local island, sandbank, dolphin, sunset fishing, manta, picnic, whale shark, big game fishing, turtle, stargazing, cooking class, castaway, cinema
+- Excursions: local island, sandbank, dolphin, sunset fishing, manta, picnic, turtle, stargazing, whale shark, big game fishing, cooking class, castaway, cinema
 
 ## Kids & family
 
@@ -64,6 +64,12 @@ All-inclusive: all inclusive resort blends boutique charm with the soul of islan
 - Venues: Curated wedding packages including beach and; sandbank ceremony options
 - Packages: n/a
 - Brochure: https://d7h9v39iheghu.cloudfront.net/previews/42de57ca-7efe-4d5a-8d86-d9172148eacf/a04cfb91-3093-47ad-959e-c293d7ec08a0/a04cfb91-3093-47ad-959e-c293d7ec08a0?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy80MmRlNTdjYS03ZWZlLTRkNWEtOGQ4Ni1kOTE3MjE0OGVhY2YqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjk2OTU2fX19XX0_&Signature=Vzs-zJl8tl5ac3bWITSsHUZQxqBbKumCntqITMi707QlgNawp35AYETVu1lHU6NlchvstDJ4ejGVpVOhrU-oyvcxqwRXcMBCp7gUdjvEIB7VYeYEz4xQfg2V14KAKWS4NIz4SlHdXWdqmlhoi2S0VtUKbJPqjYa95uNR2ltFKIDtBc5oDkrafWTKW4gIvesGI-rVf79HGAyP4qx871btzz2MdWwRRFNK5Od7jBPE25tRZSgCkrdsNMC6h0PaRFrpAUN4WSxvO4b93M2vvjFy-By6Rw27FQAVU3YHu~jhZ0RH0m-gTjcs4SVkM2Dd6IZ8K0g4UkB5mZwvYClMwvtn1Q__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA
+
+## Destination dining
+
+- Experiences: private dining, sunset cruise, romantic dinner, sandbank picnic, sandbank trip, floating breakfast, beach dinner, sunset dinner, candlelit dinner, treetop dining, beach barbecue, destination dining, dine under the stars, lagoon lunch, in-villa dining
+- Packages: n/a
+- Sandbank events: True; document: none
 
 ## Events / MICE
 
@@ -84,13 +90,14 @@ All-inclusive: all inclusive resort blends boutique charm with the soul of islan
 - map: https://d7h9v39iheghu.cloudfront.net/previews/42de57ca-7efe-4d5a-8d86-d9172148eacf/67de3d1c-28dd-4a7a-8849-d9b78f3e629d/49d97856-2f66-4ae4-93d6-d6980f5a7154?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy80MmRlNTdjYS03ZWZlLTRkNWEtOGQ4Ni1kOTE3MjE0OGVhY2YqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjk2OTU2fX19XX0_&Signature=Vzs-zJl8tl5ac3bWITSsHUZQxqBbKumCntqITMi707QlgNawp35AYETVu1lHU6NlchvstDJ4ejGVpVOhrU-oyvcxqwRXcMBCp7gUdjvEIB7VYeYEz4xQfg2V14KAKWS4NIz4SlHdXWdqmlhoi2S0VtUKbJPqjYa95uNR2ltFKIDtBc5oDkrafWTKW4gIvesGI-rVf79HGAyP4qx871btzz2MdWwRRFNK5Od7jBPE25tRZSgCkrdsNMC6h0PaRFrpAUN4WSxvO4b93M2vvjFy-By6Rw27FQAVU3YHu~jhZ0RH0m-gTjcs4SVkM2Dd6IZ8K0g4UkB5mZwvYClMwvtn1Q__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA
 - wedding: https://d7h9v39iheghu.cloudfront.net/previews/42de57ca-7efe-4d5a-8d86-d9172148eacf/a04cfb91-3093-47ad-959e-c293d7ec08a0/a04cfb91-3093-47ad-959e-c293d7ec08a0?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy80MmRlNTdjYS03ZWZlLTRkNWEtOGQ4Ni1kOTE3MjE0OGVhY2YqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjk2OTU2fX19XX0_&Signature=Vzs-zJl8tl5ac3bWITSsHUZQxqBbKumCntqITMi707QlgNawp35AYETVu1lHU6NlchvstDJ4ejGVpVOhrU-oyvcxqwRXcMBCp7gUdjvEIB7VYeYEz4xQfg2V14KAKWS4NIz4SlHdXWdqmlhoi2S0VtUKbJPqjYa95uNR2ltFKIDtBc5oDkrafWTKW4gIvesGI-rVf79HGAyP4qx871btzz2MdWwRRFNK5Od7jBPE25tRZSgCkrdsNMC6h0PaRFrpAUN4WSxvO4b93M2vvjFy-By6Rw27FQAVU3YHu~jhZ0RH0m-gTjcs4SVkM2Dd6IZ8K0g4UkB5mZwvYClMwvtn1Q__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA
 - spa_menu: https://link.assetfile.io/TqmixFgMTaixtn8pGTfuV/Royal+Island+-+Spa+-+Menu+%28April+2024%29.pdf
-- dining_menu: none
+- dining_menu: https://link.assetfile.io/64GqVO2NbpiYbO0QudyaN3/Royal+Island+-+Excursions+-+Menu.pdf
 - dive_prices: https://link.assetfile.io/4rxr0CUXGWIzxHbhFjrnvp/Royal+Island+-+Diving+-+Brochure.pdf
 - events: none
 - calendar: https://hotelcms-production.imgix.net/villaresorts.com/wp-content/uploads/2025/12/Royal-Island-Resort-Festive-Brochure-2025-2026.pdf?fm=pdf
+- destination_dining: none
 
 ## Gaps
 
 - events/MICE document
 
-_Facts extracted by rules from 29 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._
+_Facts extracted by rules from 31 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

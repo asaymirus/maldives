@@ -4,26 +4,12 @@
 **Brand:** Soneva  
 **Atoll:** Noonu Atoll  **Island:** n/a  
 **Opened/renovated:** n/a  **Rating:** n/a  
-**Transfer:** seaplane, speedboat, domestic flight, yacht; minutes: {"seaplane": 30, "speedboat": 10, "domestic flight": 12}  
+**Transfer:** seaplane, speedboat, domestic flight; minutes: {"seaplane": 30, "speedboat": 10, "domestic flight": 12}  
 **Island size:** n/a  
 
 ## Villas (85 total)
 
 - Villas &: count 42, ? sqm, max ?
-- Bedroom Residence . Bedroom Residence . Crusoe with Pool: count 3, ? sqm, max ?, pool
-- Bedroom Crusoe Suite with Pool . Crusoe Suite with Pool: count 2, ? sqm, max ?, pool
-- Bedroom Soneva Fushi Villa Suite . Bedroom Residence: count 4, ? sqm, max ?
-- Bedroom Villa: count 1, ? sqm, max ?
-- Bedroom Villa Suite: count 1, ? sqm, max ?
-- Bedroom Crusoe Villa Bedroom Crusoe with Pool pa A+ C or A: count 2, ? sqm, max ?, pool
-- Bedroom Crusoe Suite with Pool - pa A+ C or A: count 2, ? sqm, max ?, pool
-- Bedroom Crusoe Suite Villa pa A+ C or A: count 2, ? sqm, max ?
-- Bedroom Beach Retreat: count 3, ? sqm, max ?
-- Bedroom Residence Villa , pa A+ C or A: count 3, ? sqm, max ?
-- Bedroom Soneva Fushi Villa , pa A + C or A: count 4, ? sqm, max ?
-- Bedroom Residence: count 4, ? sqm, max ?
-- Bedroom Residence Sunset Reserve , pa A+ C or A: count 7, ? sqm, max ?
-- Bedroom Residence , pa A+ C or A: count 9, ? sqm, max ?
 - Three Bedroom Island Retreat with Slide South Jetty: count 101, ? sqm, max ?
 - Bedroom Sunset Water Reserve with Slide Villa: count 4, ? sqm, max ?
 - Bedroom Island Reserve with Slide Villa: count 3, ? sqm, max ?
@@ -41,7 +27,6 @@
 - Chinese Kitchen (restaurant)
 - The Wine Cellar (bar)
 - Bar(a)bara (bar)
-- B By The Bar (bar)
 - G TV Lounge (bar)
 - N Kitchen (restaurant)
 - M Asian Kitchen in the Garden G (restaurant)
@@ -68,10 +53,16 @@ Meal plans: HB, FB
 
 ## Weddings
 
-- Offered: True; vow renewal: None
+- Offered: True; vow renewal: True
 - Venues: n/a
 - Packages: n/a
 - Brochure: none
+
+## Destination dining
+
+- Experiences: sandbank dinner, candlelit dinner, in-villa dining, wine dinner, destination dining, beach dinner
+- Packages: n/a
+- Sandbank events: True; document: none
 
 ## Events / MICE
 
@@ -80,7 +71,7 @@ Meal plans: HB, FB
 
 ## Sustainability
 
-- marine biologist, carbon neutral, organic garden
+- marine biologist, organic garden
 
 ## Public contacts
 
@@ -96,10 +87,11 @@ Meal plans: HB, FB
 - dive_prices: https://soneva-offload-media-library.storage.googleapis.com/wp-content/uploads/2022/02/07163623/Soleni-Price-list24-25-SJR.pdf
 - events: none
 - calendar: https://soneva-offload-media-library.storage.googleapis.com/wp-content/uploads/2025/10/15143611/Festive-Brochure-Soneva-Jani.pdf
+- destination_dining: none
 
 ## Gaps
 
 - wedding brochure
 - events/MICE document
 
-_Facts extracted by rules from 21 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._
+_Facts extracted by rules from 24 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

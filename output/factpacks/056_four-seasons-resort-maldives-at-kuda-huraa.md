@@ -24,7 +24,7 @@ Meal plans: AI
 
 ## Spa & wellness
 
-- Spa: The Island Spa; treatment rooms: ?; menu: https://neoscapesmaldives.com/wp-content/uploads/facts-1.pdf
+- Spa: The Island Spa; treatment rooms: ?; menu: none
 - Wellness/fitness: yoga, meditation, gym, tennis, sauna
 
 ## Diving, water sports & excursions
@@ -46,6 +46,12 @@ Meal plans: AI
 - Packages: n/a
 - Brochure: none
 
+## Destination dining
+
+- Experiences: sandbank picnic, private dining, romantic dining, sunset cruise, sandbank dinner
+- Packages: n/a
+- Sandbank events: True; document: none
+
 ## Events / MICE
 
 - Venues: Meeting Room; capacity max: n/a; buyout: None
@@ -64,11 +70,12 @@ Meal plans: AI
 - factsheet: none
 - map: https://neoscapesmaldives.com/wp-content/uploads/KH-Resort-map_v2.pdf
 - wedding: none
-- spa_menu: https://neoscapesmaldives.com/wp-content/uploads/facts-1.pdf
-- dining_menu: none
+- spa_menu: none
+- dining_menu: https://neoscapesmaldives.com/wp-content/uploads/facts-1.pdf
 - dive_prices: none
 - events: none
 - calendar: none
+- destination_dining: none
 
 ## Gaps
 
@@ -78,4 +85,4 @@ Meal plans: AI
 - fact: villa categories
 - fact: dive operator
 
-_Facts extracted by rules from 20 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._
+_Facts extracted by rules from 22 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

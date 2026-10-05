@@ -3,8 +3,8 @@
 **Official site:** https://www.chevalblanc.com/en/maison/randheli/ (ok)  
 **Brand:** Cheval Blanc  
 **Atoll:** Noonu Atoll  **Island:** Maakurandhoo  
-**Opened/renovated:** n/a  **Rating:** n/a  
-**Transfer:** seaplane, speedboat, yacht; minutes: {"seaplane": 40}  
+**Opened/renovated:** opened 1936  **Rating:** n/a  
+**Transfer:** seaplane, yacht; minutes: {"seaplane": 40}  
 **Island size:** n/a  
 
 ## Villas (46 total)
@@ -17,6 +17,7 @@
 - Days Resynchronising Retreat: count 3, ? sqm, max ?
 - Days Rebirth Retreat: count 5, ? sqm, max ?
 - Days Joyful Retreat: count 7, ? sqm, max ?
+- entrance of this Villa, located directly on: count ?, 650 sqm, max ?
 - sq ft two-bedroom villa with ocean views: count 295, 295 sqm, max ?, overwater
 - Grand , sq ft villa with lagoon views: count ?, 220 sqm, max ?, overwater
 - Idyllic , sq ft two-bedroom villa: count ?, 315 sqm, max ?
@@ -26,10 +27,13 @@
 ## Dining
 
 - Swimming Pool & Spa Bar (bar)
-- Eclectic Grill (restaurant)
 - The Spa Bar (bar)
 - Wine Museum & Cigar Lounge (bar)
 - The White Bar (bar)
+- Le Grill Alpin (restaurant)
+- Contemporary Brasserie & Bar (bar)
+- Tiki Bar (bar)
+- Le Bar Restaurant (restaurant)
 
 Meal plans: n/a
 
@@ -42,13 +46,13 @@ Meal plans: n/a
 
 - Operator: Dive Centre
 - House reef: n/a
-- Activities: windsurfing, stand-up paddle, jet ski, water skiing, seabob, snorkelling, whale shark, manta, sailing, scuba diving, surfing, wakeboarding, fishing
+- Activities: windsurfing, stand-up paddle, jet ski, water skiing, seabob, snorkelling, scuba diving, surfing, wakeboarding, fishing, sailing, catamaran, whale shark
 - Price list: none
-- Excursions: cooking class, whale shark, manta, private dinner, cinema, local island, dolphin, big game fishing, turtle, picnic, sandbank
+- Excursions: turtle, picnic, cooking class, local island, dolphin, big game fishing, private dinner, sandbank, whale shark
 
 ## Kids & family
 
-- Kids club: Kids Club; ages: n/a; teens: teens programme mentioned
+- Kids club: Kids Club; ages: 4-7 years; teens: teens programme mentioned
 
 ## Weddings
 
@@ -57,9 +61,15 @@ Meal plans: n/a
 - Packages: Maakurandhoo Yoga Experience USD 100 (2026)
 - Brochure: none
 
+## Destination dining
+
+- Experiences: private dining, beach barbecue, in-villa dining, sandbank picnic, dinner under the stars, sandbank experience
+- Packages: n/a
+- Sandbank events: True; document: none
+
 ## Events / MICE
 
-- Venues: n/a; capacity max: n/a; buyout: None
+- Venues: n/a; capacity max: 40; buyout: None
 - Document: none
 
 ## Sustainability
@@ -68,7 +78,7 @@ Meal plans: n/a
 
 ## Public contacts
 
-- Reservations: info.randheli@chevalblanc.com; weddings: n/a; phone: + 960 656 15 15 2
+- Reservations: info.randheli@chevalblanc.com; weddings: events.stbarth@chevalblanc.com; phone: + 960 656 15 15 2
 
 ## Latest documents
 
@@ -76,14 +86,15 @@ Meal plans: n/a
 - map: none
 - wedding: none
 - spa_menu: https://lvmh-chevalblanc.cdn.prismic.io/lvmh-chevalblanc/b-V7Jr1jqx8IEXUF_BrochureSpa_ChevalBlancRandheli_EN.pdf
-- dining_menu: none
+- dining_menu: https://www.chevalblanc.com/service/download-media/?url=https%3A%2F%2Flvmh-chevalblanc.cdn.prismic.io%2Flvmh-chevalblanc%2FaAEXLOvxEdbNPMv2_CBI-PrivateOccasionsEN2.pdf&filename=CBI%20-%20Private%20Occasions%20EN%202.pdf
 - dive_prices: none
 - events: none
 - calendar: none
+- destination_dining: none
 
 ## Gaps
 
 - wedding brochure
 - events/MICE document
 
-_Facts extracted by rules from 20 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._
+_Facts extracted by rules from 26 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

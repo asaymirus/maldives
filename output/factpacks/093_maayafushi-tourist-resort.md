@@ -40,6 +40,12 @@ All-inclusive: all inclusive sono escluse bevande in bottiglia, caffe e gelati.
 - Packages: n/a
 - Brochure: none
 
+## Destination dining
+
+- Experiences: n/a
+- Packages: n/a
+- Sandbank events: None; document: none
+
 ## Events / MICE
 
 - Venues: n/a; capacity max: n/a; buyout: None
@@ -63,12 +69,14 @@ All-inclusive: all inclusive sono escluse bevande in bottiglia, caffe e gelati.
 - dive_prices: none
 - events: none
 - calendar: none
+- destination_dining: none
 
 ## Gaps
 
 - factsheet
 - wedding brochure
 - events/MICE document
+- destination dining (romantic/sandbank dinners)
 - fact: villas.total
 - fact: villa categories
 - fact: dining

@@ -60,6 +60,12 @@ All-inclusive: all-inclusive packages, with a buffet menu alternating with the Ã
 - Packages: n/a
 - Brochure: none
 
+## Destination dining
+
+- Experiences: candlelit dinner, romantic candlelit dinner
+- Packages: n/a
+- Sandbank events: None; document: none
+
 ## Events / MICE
 
 - Venues: n/a; capacity max: n/a; buyout: None
@@ -83,10 +89,11 @@ All-inclusive: all-inclusive packages, with a buffet menu alternating with the Ã
 - dive_prices: none
 - events: none
 - calendar: none
+- destination_dining: none
 
 ## Gaps
 
 - wedding brochure
 - events/MICE document
 
-_Facts extracted by rules from 19 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._
+_Facts extracted by rules from 20 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

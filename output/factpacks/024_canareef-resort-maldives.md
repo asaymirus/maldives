@@ -40,7 +40,7 @@ All-inclusive: All-Inclusive Package at Canareef Resort Maldives.
 
 - Operator: Diverland
 - House reef: house reef make it a favourite for both relaxation and adventure
-- Activities: dolphin cruise, manta, snorkelling, fishing, sunset cruise, snorkeling, scuba diving, canoe, windsurfing, catamaran, sailing
+- Activities: dolphin cruise, manta, snorkelling, fishing, sunset cruise, snorkeling, scuba diving, canoe, surfing, windsurfing, catamaran, sailing
 - Price list: none
 - Excursions: dolphin, manta, picnic, local island, turtle, island hopping, sunset fishing, big game fishing, cooking class, stargazing, night fishing
 
@@ -55,6 +55,12 @@ All-inclusive: All-Inclusive Package at Canareef Resort Maldives.
 - Packages: n/a
 - Brochure: none
 
+## Destination dining
+
+- Experiences: romantic dinner, in-villa dining, sunset cruise, dinner under the stars, beach barbecue, beach dinner, private dining, floating breakfast, romantic beach dinner
+- Packages: Course Romantic Beach Dinner USD 85 (2026-10-04)
+- Sandbank events: None; document: none
+
 ## Events / MICE
 
 - Venues: n/a; capacity max: 30; buyout: None
@@ -62,7 +68,7 @@ All-inclusive: All-Inclusive Package at Canareef Resort Maldives.
 
 ## Sustainability
 
-- solar, hydroponic, marine biologist
+- solar, hydroponic, marine biologist, single-use plastic
 
 ## Public contacts
 
@@ -78,6 +84,7 @@ All-inclusive: All-Inclusive Package at Canareef Resort Maldives.
 - dive_prices: none
 - events: none
 - calendar: https://canareef.com/wp-content/uploads/2024/12/Festive-Brochure-2024-Canareef-Resort-Maldives.pdf
+- destination_dining: none
 
 ## Gaps
 
@@ -85,4 +92,4 @@ All-inclusive: All-Inclusive Package at Canareef Resort Maldives.
 - wedding brochure
 - events/MICE document
 
-_Facts extracted by rules from 26 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._
+_Facts extracted by rules from 28 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

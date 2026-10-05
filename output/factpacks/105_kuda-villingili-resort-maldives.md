@@ -57,6 +57,12 @@ All-inclusive: all-inclusive escape designed for an unforgettable extended stay 
 - Packages: n/a
 - Brochure: https://dhshr15av118h.cloudfront.net/2026/03/Wedding-Brochure-2026-Kuda-Villingili-1.pdf
 
+## Destination dining
+
+- Experiences: in villa dining, destination dining, beach dinner, floating breakfast, sunset cruise, wine pairing, romantic beach dinner, candlelit dinner, teppanyaki dinner, romantic dinner, in-villa dining, beach bbq
+- Packages: n/a
+- Sandbank events: None; document: none
+
 ## Events / MICE
 
 - Venues: n/a; capacity max: n/a; buyout: None
@@ -80,9 +86,10 @@ All-inclusive: all-inclusive escape designed for an unforgettable extended stay 
 - dive_prices: none
 - events: none
 - calendar: https://dhshr15av118h.cloudfront.net/2026/02/Kuda-Villingili-Maldives-Easter-Brochure-2026.pdf
+- destination_dining: none
 
 ## Gaps
 
 - events/MICE document
 
-_Facts extracted by rules from 22 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._
+_Facts extracted by rules from 23 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

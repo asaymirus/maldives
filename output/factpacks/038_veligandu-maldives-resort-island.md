@@ -55,6 +55,12 @@ All-inclusive: All-
 - Packages: n/a
 - Brochure: https://veligandu.com/wp-content/uploads/2024/09/Veli-HoneymoonGuestInfoRenewalsOfVows_110124-103125_Rev081524-240924.pdf
 
+## Destination dining
+
+- Experiences: in-villa dining, in villa dining, destination dining, beach dinner, romantic dinner, romantic beach dinner, sunset cruise, floating breakfast, in-villa dinner, wine pairing, beach bbq, sandbank picnic, anniversary celebration, lagoon lunch, sandbank experience, wine dinner
+- Packages: n/a
+- Sandbank events: True; document: none
+
 ## Events / MICE
 
 - Venues: n/a; capacity max: n/a; buyout: None
@@ -78,10 +84,11 @@ All-inclusive: All-
 - dive_prices: https://veligandu.com/wp-content/uploads/2026/01/VeliWaterSportsCentre2026_010126-123126.pdf
 - events: none
 - calendar: https://d2qwq69i2ic1pk.cloudfront.net/2023/11/CCR_2024_Calendar_compressed.pdf
+- destination_dining: none
 
 ## Gaps
 
 - events/MICE document
 - fact: kids club
 
-_Facts extracted by rules from 23 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._
+_Facts extracted by rules from 25 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

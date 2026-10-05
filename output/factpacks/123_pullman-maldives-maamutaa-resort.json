@@ -110,6 +110,16 @@
   "packages": [],
   "brochure_doc": null
  },
+ "destination_dining": {
+  "experiences": [
+   "sunset cruise",
+   "floating breakfast",
+   "destination dining"
+  ],
+  "packages": [],
+  "sandbank_events": null,
+  "doc": null
+ },
  "events_mice": {
   "venues": [],
   "capacity_max": null,
@@ -135,7 +145,8 @@
   "dining_menu": null,
   "dive_prices": null,
   "events": null,
-  "calendar": null
+  "calendar": null,
+  "destination_dining": null
  },
  "documents_count": 5,
  "gaps": [
@@ -345,6 +356,36 @@
     "value": "snorkelling",
     "source_url": "https://www.pullmanmaldivesmaamutaa.com/media-tag/diving/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "paddleboard",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/zh-hans/experiences/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "catamaran",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/zh-hans/experiences/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/zh-hans/experiences/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/zh-hans/experiences/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sailing",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/zh-hans/experiences/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "flyboard",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/zh-hans/experiences/",
+    "as_of": "2026-10-05"
    }
   ],
   "excursions": [
@@ -412,6 +453,21 @@
     "value": "whale shark",
     "source_url": "https://www.pullmanmaldivesmaamutaa.com/the-hotel/family-resort-maldives/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/zh-hans/experiences/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sunset fishing",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/zh-hans/experiences/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/zh-hans/experiences/",
+    "as_of": "2026-10-05"
    }
   ],
   "sustainability": [
@@ -464,6 +520,11 @@
     "value": "marine biologist",
     "source_url": "https://www.pullmanmaldivesmaamutaa.com/marine-biologist-new/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "marine biologist",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/zh-hans/experiences/",
+    "as_of": "2026-10-05"
    }
   ],
   "atoll": [
@@ -611,6 +672,11 @@
     "value": "Gaafu Alifu Atoll",
     "source_url": "https://www.pullmanmaldivesmaamutaa.com/restaurants-bars-maldives/saffron-affair/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "Gaafu Alifu Atoll",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/zh-hans/experiences/",
+    "as_of": "2026-10-05"
    }
   ],
   "star_rating": [
@@ -643,6 +709,11 @@
     "value": "5-star",
     "source_url": "https://www.pullmanmaldivesmaamutaa.com/the-hotel/family-resort-maldives/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "5-star",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/zh-hans/experiences/",
+    "as_of": "2026-10-05"
    }
   ],
   "island_size": [
@@ -755,6 +826,11 @@
    },
    {
     "value": "AI",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/zh-hans/experiences/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "AI",
     "source_url": "https://mondomaldive.it/it/villaggio/pullman-maldives-maamutaa-resort/racconti",
     "as_of": "2026-10-04"
    }
@@ -825,6 +901,73 @@
    {
     "value": "Dive Centre",
     "source_url": "https://www.pullmanmaldivesmaamutaa.com/diving-center-maldives/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "destination_dining.experiences": [
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/villas-suites/ocean-pool-villa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/restaurants-bars-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/restaurants-bars-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/villas-suites/beach-pool-villa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/restaurants-bars-maldives/destination-dining/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/restaurants-bars-maldives/destination-dining/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/restaurants-bars-maldives/destination-dining/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/restaurants-bars-maldives/destination-dining/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/restaurants-bars-maldives/destination-dining/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/restaurants-bars-maldives/destination-dining/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/womens-day-offer-2024/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.pullmanmaldivesmaamutaa.com/the-hotel/the-most-generous-all-inclusive-resort-in-the-maldives/",
     "as_of": "2026-10-04"
    }
   ],

@@ -46,6 +46,12 @@ All-inclusive: all-inclusive vacations.
 - Packages: n/a
 - Brochure: none
 
+## Destination dining
+
+- Experiences: beach barbecue, in-villa dining, private dining, wine dinner, sunset cruise
+- Packages: n/a
+- Sandbank events: None; document: none
+
 ## Events / MICE
 
 - Venues: n/a; capacity max: n/a; buyout: None
@@ -69,6 +75,7 @@ All-inclusive: all-inclusive vacations.
 - dive_prices: none
 - events: none
 - calendar: none
+- destination_dining: none
 
 ## Gaps
 
@@ -77,4 +84,4 @@ All-inclusive: all-inclusive vacations.
 - fact: dive operator
 - fact: kids club
 
-_Facts extracted by rules from 18 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._
+_Facts extracted by rules from 19 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

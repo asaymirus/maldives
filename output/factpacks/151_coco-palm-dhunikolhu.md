@@ -40,6 +40,12 @@ All-inclusive: All-Inclusive and more festive benefits.
 - Packages: n/a
 - Brochure: none
 
+## Destination dining
+
+- Experiences: n/a
+- Packages: n/a
+- Sandbank events: None; document: none
+
 ## Events / MICE
 
 - Venues: n/a; capacity max: n/a; buyout: None
@@ -63,12 +69,14 @@ All-inclusive: All-Inclusive and more festive benefits.
 - dive_prices: none
 - events: none
 - calendar: none
+- destination_dining: none
 
 ## Gaps
 
 - factsheet
 - wedding brochure
 - events/MICE document
+- destination dining (romantic/sandbank dinners)
 - fact: villa categories
 - fact: dining
 - fact: dive operator

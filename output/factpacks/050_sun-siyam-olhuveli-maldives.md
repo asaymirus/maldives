@@ -74,9 +74,9 @@ All-inclusive: All-Inclusive Dine Around across 2 restaurants and 2 bars.
 
 - Operator: Dive Centre
 - House reef: house reef and
-- Activities: windsurfing, kitesurfing, fishing, whale shark, manta, sunset cruise, snorkelling, dolphin cruise, surfing, sailing, snorkeling, jet ski, kayaking, canoe, scuba diving, catamaran, stand-up paddle, paddleboard, parasailing, water skiing
+- Activities: windsurfing, kitesurfing, fishing, whale shark, manta, sunset cruise, snorkelling, dolphin cruise, surfing, sailing, fun tube, snorkeling, jet ski, kayaking, canoe, scuba diving, catamaran, stand-up paddle, paddleboard, parasailing, water skiing
 - Price list: https://www.sunsiyam.com/media/ijlfprg1/oktoberfest-sun-siyam-olhuveli-sep-2026.pdf
-- Excursions: whale shark, manta, cinema, sandbank, dolphin, local island, turtle, sunset fishing, stargazing, island hopping, night fishing, big game fishing
+- Excursions: whale shark, manta, cinema, sandbank, dolphin, local island, turtle, cooking class, sunset fishing, stargazing, island hopping, night fishing, big game fishing
 
 ## Kids & family
 
@@ -88,6 +88,12 @@ All-inclusive: All-Inclusive Dine Around across 2 restaurants and 2 bars.
 - Venues: An all-day-dining venue on the beach and over water
 - Packages: Bridal Package USD 192 (2025); Wedding USD 700 (2025)
 - Brochure: https://www.sunsiyam.com/media/g0lnezdr/wedding-package-ssom-2024-2025-direct.pdf
+
+## Destination dining
+
+- Experiences: romantic beach dinner, floating breakfast, sunset cruise, private dining, destination dining, beach bbq, beach dinner, in-villa dining, romantic dinner
+- Packages: Floating Breakfast USD 94 (2025)
+- Sandbank events: None; document: none
 
 ## Events / MICE
 
@@ -108,12 +114,13 @@ All-inclusive: All-Inclusive Dine Around across 2 restaurants and 2 bars.
 - map: https://www.sunsiyam.com/media/qiflblcy/sso-ai-meal-plan-2026.pdf
 - wedding: https://www.sunsiyam.com/media/g0lnezdr/wedding-package-ssom-2024-2025-direct.pdf
 - spa_menu: https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf
-- dining_menu: https://www.sunsiyam.com/media/etufj3oc/sun-siyam-olhuveli-diwali.pdf
+- dining_menu: https://www.sunsiyam.com/media/sluirhj5/sso-repeater-guest-entitlements-2025pdf.pdf
 - dive_prices: https://www.sunsiyam.com/media/ijlfprg1/oktoberfest-sun-siyam-olhuveli-sep-2026.pdf
 - events: https://www.sunsiyam.com/media/gkhhf31k/ssr-mice-digital-book-2026.pdf
 - calendar: https://www.sunsiyam.com/media/zirlx1ub/carnival-of-the-isles-festive-programme-2026-2027.pdf
+- destination_dining: none
 
 ## Gaps
 
 
-_Facts extracted by rules from 28 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._
+_Facts extracted by rules from 30 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

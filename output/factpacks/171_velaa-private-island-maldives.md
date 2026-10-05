@@ -54,20 +54,20 @@ Meal plans: n/a
 
 - Spa: Spa
 Spa; treatment rooms: ?; menu: https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf
-- Wellness/fitness: yoga, meditation, gym, tennis, beach volleyball, padel, pilates, personal trainer, badminton, sound healing, ayurveda, hammam, steam
+- Wellness/fitness: yoga, meditation, gym, tennis, beach volleyball, padel, pilates, personal trainer, sound healing, ayurveda, hammam, steam
 
 ## Diving, water sports & excursions
 
 - Operator: Dive Centre
-- House reef: house reef tour by Seabob 9 AM – 11 AM WATER SPORTS CENTRE • 2 hour jetski adventure
-- Activities: snorkeling, windsurfing, surfing, catamaran, jet ski, wakeboarding, seabob, fishing, dolphin cruise, manta, sailing, semi-submarine, snorkelling, scuba diving, banana boat, flyboard, kayaking, sunset cruise
+- House reef: n/a
+- Activities: snorkeling, windsurfing, surfing, catamaran, jet ski, wakeboarding, seabob, fishing, dolphin cruise, manta, sailing, semi-submarine, snorkelling, kayaking, sunset cruise
 - Price list: none
-- Excursions: dolphin, big game fishing, manta, turtle, local island, picnic, sunset fishing, sandbank
+- Excursions: dolphin, big game fishing, manta, turtle, local island, sunset fishing, sandbank
 
 ## Kids & family
 
 - Kids club: Kids Club
-Kids Club; ages: n/a; teens: teens programme mentioned
+Kids Club; ages: n/a; teens: n/a
 
 ## Weddings
 
@@ -76,9 +76,15 @@ Kids Club; ages: n/a; teens: teens programme mentioned
 - Packages: n/a
 - Brochure: none
 
+## Destination dining
+
+- Experiences: private chef, destination dining, in-villa dining, wine dinner, anniversary celebration, sunset cruise
+- Packages: n/a
+- Sandbank events: None; document: none
+
 ## Events / MICE
 
-- Venues: the tradition of ballroom & Latin dance; capacity max: n/a; buyout: None
+- Venues: the tradition of ballroom & Latin dance; capacity max: n/a; buyout: True
 - Document: none
 
 ## Sustainability
@@ -98,7 +104,8 @@ Kids Club; ages: n/a; teens: teens programme mentioned
 - dining_menu: https://framerusercontent.com/assets/P7OmVcMbnISlYoyJP0lcoPp3l4.pdf
 - dive_prices: none
 - events: none
-- calendar: https://framerusercontent.com/assets/NDdHLKWbKRWEGzFBd6OxEgn0obk.pdf
+- calendar: https://framerusercontent.com/assets/iiMt0QlX9FKHzhJmO6mIrkCM.pdf
+- destination_dining: none
 
 ## Gaps
 

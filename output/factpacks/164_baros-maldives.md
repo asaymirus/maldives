@@ -69,6 +69,12 @@ REEF SNORKELLING
 - Packages: Vow USD 2500 (2026); Maldivian Experience USD 1310 (2026-10-04); Sri Lankan Experience USD 1345 (2026-10-04); Indian Experience USD 1345 (2026-10-04)
 - Brochure: https://www.baros.com/wp-content/uploads/2026/04/Renewal-of-Vows-Baros-Maldives-2026.pdf
 
+## Destination dining
+
+- Experiences: destination dining, private chef, sunset cruise, wine pairing, in-villa dining, private dining, candlelit dinner, floating breakfast, romantic private dining, in villa dining, romantic dinner, dine under the stars, sunset dinner, sandbank dinner, beach dinner, romantic sunset dinner, romantic dining, dinner under the stars, sandbank picnic, romantic candlelit dinner, sandbank experience
+- Packages: n/a
+- Sandbank events: True; document: none
+
 ## Events / MICE
 
 - Venues: BALLROOM; capacity max: n/a; buyout: None
@@ -76,7 +82,7 @@ REEF SNORKELLING
 
 ## Sustainability
 
-- marine biologist, single-use plastic, coral restoration, solar, coral nursery, reef restoration
+- marine biologist, single-use plastic, coral restoration, solar, coral nursery, reef restoration, desalination
 
 ## Public contacts
 
@@ -92,10 +98,11 @@ REEF SNORKELLING
 - dive_prices: https://www.baros.com/wp-content/uploads/2026/02/Frequently-Asked-Questions-FAQ.pdf
 - events: none
 - calendar: https://www.baros.com/wp-content/uploads/2026/05/Baros_Events-Calendar-2026.pdf
+- destination_dining: none
 
 ## Gaps
 
 - events/MICE document
 - fact: kids club
 
-_Facts extracted by rules from 24 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._
+_Facts extracted by rules from 26 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

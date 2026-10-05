@@ -209,6 +209,18 @@
   ],
   "brochure_doc": null
  },
+ "destination_dining": {
+  "experiences": [
+   "sunset cruise",
+   "floating breakfast",
+   "destination dining",
+   "romantic dinner",
+   "romantic candlelit dinner"
+  ],
+  "packages": [],
+  "sandbank_events": null,
+  "doc": null
+ },
  "events_mice": {
   "venues": [
    "(Classroom & U-Style Boardroom)"
@@ -231,7 +243,8 @@
   "dining_menu": null,
   "dive_prices": null,
   "events": null,
-  "calendar": "https://document-tc.galaxy.tf/wdpdf-4cfy3bydqr5cqsmudllu289sl/ifuru-fanatic_cms-document.pdf"
+  "calendar": "https://document-tc.galaxy.tf/wdpdf-4cfy3bydqr5cqsmudllu289sl/ifuru-fanatic_cms-document.pdf",
+  "destination_dining": null
  },
  "documents_count": 6,
  "gaps": [
@@ -1456,6 +1469,53 @@
    {
     "value": true,
     "source_url": "https://letsgomaldives.com/news/experience-a-sweet-escape-at-ifuru-island-maldives-candyland-easter-celebration/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "destination_dining.experiences": [
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/IFURU-ISLAND-MALDIVES-Fact-Sheet.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://document-tc.galaxy.tf/wdpdf-22myhtt9dpea6fzx80dqt16hs/brochure.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://document-tc.galaxy.tf/wdpdf-59txyl7cqri9u969y5hcstqcx/file.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://www.ifuruisland.com/cool-things-to-do/blend",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "romantic dinner",
+    "source_url": "https://www.ifuruisland.com/free-weddings-celebrations/free-wedding-ceremony",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.ifuruisland.com/sunset-suites-villas/32-bedroom-island-reserve",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.ifuruisland.com/cool-things-to-do/excursions",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.ifuruisland.com/sunset-suites-villas/20-bedroom-island-reserve",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "romantic candlelit dinner",
+    "source_url": "https://www.neoscapesmaldives.com/resort/ifuru-island-maldives",
     "as_of": "2026-10-04"
    }
   ],

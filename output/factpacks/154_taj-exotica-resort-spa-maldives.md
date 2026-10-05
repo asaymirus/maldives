@@ -45,6 +45,12 @@ Taj Kids Club; ages: n/a; teens: n/a
 - Packages: n/a
 - Brochure: none
 
+## Destination dining
+
+- Experiences: private dining
+- Packages: n/a
+- Sandbank events: None; document: none
+
 ## Events / MICE
 
 - Venues: Muraka Boardroom; capacity max: n/a; buyout: None
@@ -68,6 +74,7 @@ Taj Kids Club; ages: n/a; teens: n/a
 - dive_prices: none
 - events: none
 - calendar: none
+- destination_dining: none
 
 ## Gaps
 
@@ -76,4 +83,4 @@ Taj Kids Club; ages: n/a; teens: n/a
 - fact: villas.total
 - fact: dive operator
 
-_Facts extracted by rules from 20 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._
+_Facts extracted by rules from 21 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

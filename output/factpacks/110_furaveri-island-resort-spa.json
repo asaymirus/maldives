@@ -99,6 +99,17 @@
   "packages": [],
   "brochure_doc": "https://furaveri.com/wp-content/uploads/2022/05/FM_Website_SignatureWeddingPackage-min.pdf"
  },
+ "destination_dining": {
+  "experiences": [
+   "lagoon lunch",
+   "wine pairing",
+   "in-villa dining",
+   "sunset cruise"
+  ],
+  "packages": [],
+  "sandbank_events": null,
+  "doc": null
+ },
  "events_mice": {
   "venues": [],
   "capacity_max": null,
@@ -119,7 +130,8 @@
   "dining_menu": "https://furaveri.com/wp-content/uploads/2025/12/INTO-THE-BLUES.pdf",
   "dive_prices": "https://furaveri.com/wp-content/uploads/2026/01/DCF-Price-List-new.pdf",
   "events": null,
-  "calendar": null
+  "calendar": null,
+  "destination_dining": null
  },
  "documents_count": 32,
  "gaps": [
@@ -392,6 +404,53 @@
    },
    {
     "value": "dolphin",
+    "source_url": "https://furaveri.com/wp-content/uploads/2026/07/Furaveri_Maldives-_Premium-All-Inclusive-plan_2027-2028_rev04072026_243.pdf",
+    "as_of": 2028
+   }
+  ],
+  "destination_dining.experiences": [
+   {
+    "value": "lagoon lunch",
+    "source_url": "https://furaveri.com/wp-content/uploads/2025/12/INTO-THE-BLUES.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "wine pairing",
+    "source_url": "https://furaveri.com/wp-content/uploads/2025/12/INTO-THE-BLUES.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "lagoon lunch",
+    "source_url": "https://furaveri.com/wp-content/uploads/2025/12/INTO-THE-BLUES.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "wine pairing",
+    "source_url": "https://furaveri.com/wp-content/uploads/2025/12/INTO-THE-BLUES.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "lagoon lunch",
+    "source_url": "https://furaveri.com/wp-content/uploads/2025/12/INTO-THE-BLUES.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "in-villa dining",
+    "source_url": "https://furaveri.com/wp-content/uploads/2026/07/Furaveri_Maldives-_Premium-All-Inclusive-plan_2027-2028_rev04072026_243.pdf",
+    "as_of": 2028
+   },
+   {
+    "value": "in-villa dining",
+    "source_url": "https://furaveri.com/wp-content/uploads/2026/07/Furaveri_Maldives-_Premium-All-Inclusive-plan_2027-2028_rev04072026_243.pdf",
+    "as_of": 2028
+   },
+   {
+    "value": "in-villa dining",
+    "source_url": "https://furaveri.com/wp-content/uploads/2026/07/Furaveri_Maldives-_Premium-All-Inclusive-plan_2027-2028_rev04072026_243.pdf",
+    "as_of": 2028
+   },
+   {
+    "value": "sunset cruise",
     "source_url": "https://furaveri.com/wp-content/uploads/2026/07/Furaveri_Maldives-_Premium-All-Inclusive-plan_2027-2028_rev04072026_243.pdf",
     "as_of": 2028
    }

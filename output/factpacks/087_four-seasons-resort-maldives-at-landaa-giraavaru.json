@@ -126,6 +126,16 @@
   "packages": [],
   "brochure_doc": null
  },
+ "destination_dining": {
+  "experiences": [
+   "in-villa dining",
+   "romantic dinner",
+   "sandbank dinner"
+  ],
+  "packages": [],
+  "sandbank_events": true,
+  "doc": null
+ },
  "events_mice": {
   "venues": [],
   "capacity_max": null,
@@ -152,7 +162,8 @@
   "dining_menu": null,
   "dive_prices": null,
   "events": null,
-  "calendar": null
+  "calendar": null,
+  "destination_dining": null
  },
  "documents_count": 4,
  "gaps": [
@@ -577,6 +588,35 @@
   "kids_family.teens": [
    {
     "value": "teens programme mentioned",
+    "source_url": "https://www.neoscapesmaldives.com/resort/landaa-giraavaru-four-seasons/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "destination_dining.experiences": [
+   {
+    "value": "in-villa dining",
+    "source_url": "https://www.neoscapesmaldives.com/resort/landaa-giraavaru-four-seasons/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "romantic dinner",
+    "source_url": "https://www.neoscapesmaldives.com/resort/landaa-giraavaru-four-seasons/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank dinner",
+    "source_url": "https://www.neoscapesmaldives.com/resort/landaa-giraavaru-four-seasons/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank dinner",
+    "source_url": "https://www.neoscapesmaldives.com/resort/landaa-giraavaru-four-seasons/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "destination_dining.sandbank_events": [
+   {
+    "value": true,
     "source_url": "https://www.neoscapesmaldives.com/resort/landaa-giraavaru-four-seasons/",
     "as_of": "2026-10-04"
    }

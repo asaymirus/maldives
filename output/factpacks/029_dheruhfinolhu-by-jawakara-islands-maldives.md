@@ -40,6 +40,12 @@ Meal plans: n/a
 - Packages: n/a
 - Brochure: none
 
+## Destination dining
+
+- Experiences: n/a
+- Packages: n/a
+- Sandbank events: None; document: none
+
 ## Events / MICE
 
 - Venues: n/a; capacity max: n/a; buyout: None
@@ -63,12 +69,14 @@ Meal plans: n/a
 - dive_prices: none
 - events: none
 - calendar: https://wp-jawakara.eleanorapp.com/download/Jawa_Festive_Brochure_Final_2025_2026.pdf?t=1757232211
+- destination_dining: none
 
 ## Gaps
 
 - factsheet
 - wedding brochure
 - events/MICE document
+- destination dining (romantic/sandbank dinners)
 - fact: villas.total
 - fact: villa categories
 - fact: dining

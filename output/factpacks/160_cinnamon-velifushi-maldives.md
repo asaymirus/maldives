@@ -56,6 +56,12 @@ Mandara Spa; treatment rooms: ?; menu: none
 - Packages: n/a
 - Brochure: none
 
+## Destination dining
+
+- Experiences: private dining, romantic dinner, candlelit dinner, sandbank escape, sunset cruise
+- Packages: n/a
+- Sandbank events: True; document: none
+
 ## Events / MICE
 
 - Venues: Wifi Voltage 220/240v Conference Room; capacity max: 40; buyout: None
@@ -79,6 +85,7 @@ Mandara Spa; treatment rooms: ?; menu: none
 - dive_prices: none
 - events: none
 - calendar: https://letsgomaldives.com/wp-content/uploads/2026/08/Velifushi_Festive-Brochure-.pdf
+- destination_dining: none
 
 ## Gaps
 
@@ -86,4 +93,4 @@ Mandara Spa; treatment rooms: ?; menu: none
 - events/MICE document
 - fact: dive operator
 
-_Facts extracted by rules from 23 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._
+_Facts extracted by rules from 25 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

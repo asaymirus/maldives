@@ -16,10 +16,11 @@
 
 - Café Latte (restaurant)
 - Compass Pool Bar (bar)
+- – A Floating Lounge and Restaurant (restaurant)
+- Ocean Restaurant (restaurant)
 - The Shoreline Grill (restaurant)
 - Shoreline Grill Chef’s Table (restaurant)
 - Shoreline Grill Wine Room (restaurant)
-- Ocean Restaurant (restaurant)
 - Shoreline Grill (restaurant)
 - The Compass Pool Bar (bar)
 - Ba’theli Lounge & Restaurant (restaurant)
@@ -38,9 +39,9 @@ Meal plans: HB, Dine Around, AI
 
 - Operator: n/a
 - House reef: house reef to meet its colourful residents
-- Activities: fishing, dolphin cruise, snorkelling, sailing, scuba diving, windsurfing, catamaran, manta, whale shark, stand-up paddle, sunset cruise, snorkeling
+- Activities: fishing, dolphin cruise, snorkelling, sailing, scuba diving, windsurfing, catamaran, manta, sunset cruise, whale shark, stand-up paddle, snorkeling, surfing, paddleboard, kayaking
 - Price list: https://d1l3wviaauwkfu.cloudfront.net/2019/01/OceanStories_July-2025.pdf
-- Excursions: local island, sandbank, dolphin, turtle, picnic, manta, whale shark, castaway, private dinner, cinema, island hopping, stargazing, cooking class, big game fishing
+- Excursions: local island, sandbank, dolphin, turtle, picnic, manta, private dinner, cinema, whale shark, castaway, island hopping, stargazing, cooking class, sunset fishing, big game fishing
 
 ## Kids & family
 
@@ -48,10 +49,16 @@ Meal plans: HB, Dine Around, AI
 
 ## Weddings
 
-- Offered: True; vow renewal: None
+- Offered: True; vow renewal: True
 - Venues: n/a
 - Packages: n/a
 - Brochure: https://d1l3wviaauwkfu.cloudfront.net/2026/03/Greg-Finck-to-Host-Exclusive-Photography-Workshop-at-Milaidhoo-Maldives.pdf
+
+## Destination dining
+
+- Experiences: in villa dining, sandbank escape, sunset cruise, sandbank dinner, sandbank breakfast, floating breakfast, private dining, destination dining, candlelit dinner, romantic dining, romantic dinner, in-villa dining, beach dinner, romantic beach dinner, anniversary celebration, dinner under the stars, sandbank picnic, sandbank experience, private chef, chefs table, wine pairing
+- Packages: n/a
+- Sandbank events: True; document: https://d1l3wviaauwkfu.cloudfront.net/2025/07/Destination-Dining-2025.pdf
 
 ## Events / MICE
 
@@ -60,7 +67,7 @@ Meal plans: HB, Dine Around, AI
 
 ## Sustainability
 
-- marine biologist, coral regeneration, composting, reef restoration, coral nursery
+- marine biologist, coral regeneration, composting, reef restoration, coral nursery, single-use plastic
 
 ## Public contacts
 
@@ -76,6 +83,7 @@ Meal plans: HB, Dine Around, AI
 - dive_prices: https://d1l3wviaauwkfu.cloudfront.net/2019/01/OceanStories_July-2025.pdf
 - events: none
 - calendar: https://d1l3wviaauwkfu.cloudfront.net/2026/07/Festive27-Digital_2.pdf
+- destination_dining: https://d1l3wviaauwkfu.cloudfront.net/2025/07/Destination-Dining-2025.pdf
 
 ## Gaps
 
@@ -83,4 +91,4 @@ Meal plans: HB, Dine Around, AI
 - events/MICE document
 - fact: dive operator
 
-_Facts extracted by rules from 23 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._
+_Facts extracted by rules from 26 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

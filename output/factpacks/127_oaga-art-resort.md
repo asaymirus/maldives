@@ -46,6 +46,12 @@ Meal plans: AI
 - Packages: n/a
 - Brochure: none
 
+## Destination dining
+
+- Experiences: in-villa dining, destination dining, floating breakfast
+- Packages: n/a
+- Sandbank events: None; document: none
+
 ## Events / MICE
 
 - Venues: n/a; capacity max: n/a; buyout: None
@@ -69,6 +75,7 @@ Meal plans: AI
 - dive_prices: none
 - events: none
 - calendar: https://oagaresorts.com/wp-content/uploads/2024/09/Festive-brochure-24-25-Oaga-Art.pdf
+- destination_dining: none
 
 ## Gaps
 
@@ -79,4 +86,4 @@ Meal plans: AI
 - fact: dive operator
 - fact: contacts
 
-_Facts extracted by rules from 14 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._
+_Facts extracted by rules from 15 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

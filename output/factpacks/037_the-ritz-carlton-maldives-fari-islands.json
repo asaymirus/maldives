@@ -171,6 +171,14 @@
   "packages": [],
   "brochure_doc": null
  },
+ "destination_dining": {
+  "experiences": [
+   "lobster dinner"
+  ],
+  "packages": [],
+  "sandbank_events": null,
+  "doc": null
+ },
  "events_mice": {
   "venues": [],
   "capacity_max": null,
@@ -195,7 +203,8 @@
   "dining_menu": null,
   "dive_prices": null,
   "events": null,
-  "calendar": null
+  "calendar": null,
+  "destination_dining": null
  },
  "documents_count": 2,
  "gaps": [
@@ -662,6 +671,13 @@
   "weddings.offered": [
    {
     "value": true,
+    "source_url": "https://www.neoscapesmaldives.com/resort/the-ritz-carlton-maldives/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "destination_dining.experiences": [
+   {
+    "value": "lobster dinner",
     "source_url": "https://www.neoscapesmaldives.com/resort/the-ritz-carlton-maldives/",
     "as_of": "2026-10-04"
    }

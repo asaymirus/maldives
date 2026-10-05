@@ -72,6 +72,12 @@ Kids Club; ages: n/a; teens: teens programme mentioned
 - Packages: n/a
 - Brochure: none
 
+## Destination dining
+
+- Experiences: floating breakfast, candlelit dinner, in villa barbecue, in-villa dining, sunset cruise, castaway picnic, destination dining, sandbank experience, dinner under the stars
+- Packages: n/a
+- Sandbank events: True; document: none
+
 ## Events / MICE
 
 - Venues: n/a; capacity max: 50; buyout: True
@@ -95,10 +101,11 @@ Kids Club; ages: n/a; teens: teens programme mentioned
 - dive_prices: none
 - events: none
 - calendar: https://soneva-offload-media-library.storage.googleapis.com/wp-content/uploads/2025/10/15143604/Festive-Brochure-Soneva-Fushi.pdf
+- destination_dining: none
 
 ## Gaps
 
 - wedding brochure
 - events/MICE document
 
-_Facts extracted by rules from 25 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._
+_Facts extracted by rules from 27 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

@@ -96,6 +96,15 @@
   "packages": [],
   "brochure_doc": null
  },
+ "destination_dining": {
+  "experiences": [
+   "private dining",
+   "beach bbq"
+  ],
+  "packages": [],
+  "sandbank_events": null,
+  "doc": null
+ },
  "events_mice": {
   "venues": [
    "Meeting Room – Capacity of 20 people"
@@ -118,7 +127,8 @@
   "dining_menu": "https://www.equatorvillage.com/wp-content/uploads/2023/12/excursions-menu_compressed.pdf",
   "dive_prices": null,
   "events": null,
-  "calendar": null
+  "calendar": null,
+  "destination_dining": null
  },
  "documents_count": 6,
  "gaps": [
@@ -1201,6 +1211,38 @@
      "cuisine": null,
      "type": "bar"
     },
+    "source_url": "https://www.equatorvillage.com/wine-dine/private-dining",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "destination_dining.experiences": [
+   {
+    "value": "private dining",
+    "source_url": "https://www.equatorvillage.com/sitemap",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "private dining",
+    "source_url": "https://www.equatorvillage.com/wine-dine/veragan-bar",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "private dining",
+    "source_url": "https://www.equatorvillage.com/wine-dine/vaivaru-restaurant",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "private dining",
+    "source_url": "https://www.equatorvillage.com/wine-dine",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "beach bbq",
+    "source_url": "https://www.equatorvillage.com/wine-dine",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "private dining",
     "source_url": "https://www.equatorvillage.com/wine-dine/private-dining",
     "as_of": "2026-10-04"
    }

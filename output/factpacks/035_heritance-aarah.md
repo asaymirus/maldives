@@ -48,7 +48,7 @@
 - Ralu Lounge Bar (bar)
 - Dinner im Sand: Ginifati Restaurant. (restaurant)
 
-Meal plans: AI, Premium AI, Dine Around
+Meal plans: AI, Premium AI, Dine Around, BB, HB, FB
 All-inclusive: All-Inclusive Resort in maldives.
 
 ## Spa & wellness
@@ -62,7 +62,7 @@ All-inclusive: All-Inclusive Resort in maldives.
 - House reef: house reef (thrice a week)
 - Activities: snorkeling, catamaran, jet ski, parasailing, water skiing, dolphin cruise, sailing, flyboard, canoe, snorkelling, scuba diving, sunset cruise, windsurfing, surfing, fishing, kayaking, whale shark, paddleboard, glass-bottom, manta, banana boat, fun tube, kitesurfing
 - Price list: https://heritancehotels.eme-devops.com/sites/2/2026/03/Kaito-Water-Sports-Brochure_compressed.pdf
-- Excursions: dolphin, local island, night fishing, turtle, cooking class, whale shark, manta, big game fishing, sandbank, cinema, stargazing
+- Excursions: dolphin, local island, night fishing, turtle, cooking class, whale shark, manta, big game fishing, sandbank, cinema, stargazing, picnic, private dinner
 
 ## Kids & family
 
@@ -72,8 +72,14 @@ All-inclusive: All-Inclusive Resort in maldives.
 
 - Offered: True; vow renewal: None
 - Venues: n/a
-- Packages: n/a
+- Packages: The Classic Aarah Ceremony USD 3200 (2026-10-05); The Premium Aarah Experience USD 4750 (2026-10-05)
 - Brochure: https://heritancehotels.eme-devops.com/2026/09/Heritance-Aarah-Wedding-Document.pdf
+
+## Destination dining
+
+- Experiences: in-villa dining, romantic dinner, sunset cruise, wine pairing, wine dinner, floating breakfast, private dining, candlelit dinner, romantic candlelit dinner, lobster dinner, destination dining, anniversary celebration, sandbank picnic
+- Packages: Your Ultimate Floating Experience USD 90 (2026-10-04); Dream Dhoni Destination Dinner USD 1100 (2026-10-04)
+- Sandbank events: True; document: none
 
 ## Events / MICE
 
@@ -98,9 +104,10 @@ All-inclusive: All-Inclusive Resort in maldives.
 - dive_prices: https://heritancehotels.eme-devops.com/sites/2/2026/03/Kaito-Water-Sports-Brochure_compressed.pdf
 - events: none
 - calendar: none
+- destination_dining: none
 
 ## Gaps
 
 - events/MICE document
 
-_Facts extracted by rules from 23 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._
+_Facts extracted by rules from 27 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

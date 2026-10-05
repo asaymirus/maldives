@@ -202,6 +202,16 @@
   "packages": [],
   "brochure_doc": null
  },
+ "destination_dining": {
+  "experiences": [
+   "destination dining",
+   "in-villa dining",
+   "candlelit dinner"
+  ],
+  "packages": [],
+  "sandbank_events": null,
+  "doc": null
+ },
  "events_mice": {
   "venues": [],
   "capacity_max": null,
@@ -225,7 +235,8 @@
   "dining_menu": null,
   "dive_prices": null,
   "events": null,
-  "calendar": null
+  "calendar": null,
+  "destination_dining": null
  },
  "documents_count": 5,
  "gaps": [
@@ -766,6 +777,38 @@
    {
     "value": true,
     "source_url": "https://malediven.de/malediven-hotels/joali-maldives/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "destination_dining.experiences": [
+   {
+    "value": "destination dining",
+    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/JOALI-Maldives-Factsheet.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": "in-villa dining",
+    "source_url": "https://letsgomaldives.com/wp-content/uploads/2026/03/Joali-Eid-Al-Fitr-Digital-Flyer_V2-002-1.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://awesomegetawaymaldives.com/wp-content/uploads/2026/03/Joali-Maldives.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://www.neoscapesmaldives.com/resort/joali-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://www.neoscapesmaldives.com/resort/joali-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "candlelit dinner",
+    "source_url": "https://www.neoscapesmaldives.com/resort/joali-maldives/",
     "as_of": "2026-10-04"
    }
   ],

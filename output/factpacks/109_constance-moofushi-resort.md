@@ -49,6 +49,12 @@ All-inclusive: all-inclusive plans in the Maldives, which includes everything fr
 - Packages: n/a
 - Brochure: none
 
+## Destination dining
+
+- Experiences: sunset cruise, sandbank experience, lagoon lunch
+- Packages: n/a
+- Sandbank events: True; document: none
+
 ## Events / MICE
 
 - Venues: n/a; capacity max: n/a; buyout: None
@@ -72,10 +78,11 @@ All-inclusive: all-inclusive plans in the Maldives, which includes everything fr
 - dive_prices: none
 - events: none
 - calendar: none
+- destination_dining: none
 
 ## Gaps
 
 - wedding brochure
 - events/MICE document
 
-_Facts extracted by rules from 21 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._
+_Facts extracted by rules from 23 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

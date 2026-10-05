@@ -287,6 +287,18 @@
   "packages": [],
   "brochure_doc": null
  },
+ "destination_dining": {
+  "experiences": [
+   "in-villa dining",
+   "sunset cruise",
+   "private chef",
+   "floating breakfast",
+   "sandbank trip"
+  ],
+  "packages": [],
+  "sandbank_events": true,
+  "doc": null
+ },
  "events_mice": {
   "venues": [],
   "capacity_max": null,
@@ -309,7 +321,8 @@
   "dining_menu": null,
   "dive_prices": null,
   "events": null,
-  "calendar": "https://letsgomaldives.com/wp-content/uploads/2026/09/Ocean-Carnival-Festive-Celebrations-at-Dusit-Thani-Maldives_LGM.pdf"
+  "calendar": "https://letsgomaldives.com/wp-content/uploads/2026/09/Ocean-Carnival-Festive-Celebrations-at-Dusit-Thani-Maldives_LGM.pdf",
+  "destination_dining": null
  },
  "documents_count": 6,
  "gaps": [
@@ -1009,6 +1022,53 @@
     "as_of": "2026-10-04"
    }
   ],
+  "destination_dining.experiences": [
+   {
+    "value": "in-villa dining",
+    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/New-Dusit-Thani-Maldives-Property-Fact-Sheet-1.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/New-Dusit-Thani-Maldives-Property-Fact-Sheet-1.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "private chef",
+    "source_url": "https://www.neoscapesmaldives.com/resort/dusit-thani-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://www.neoscapesmaldives.com/resort/dusit-thani-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://www.neoscapesmaldives.com/resort/dusit-thani-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank trip",
+    "source_url": "https://www.neoscapesmaldives.com/resort/dusit-thani-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://www.maldivesholidayoffers.com/blogs/blog-detail/why-devarana-spa-at-dusit-thani-maldives-is-wellness-bliss/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://www.maldivesholidayoffers.com/blogs/blog-detail/why-devarana-spa-at-dusit-thani-maldives-is-wellness-bliss/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://www.maldivesholidayoffers.com/blogs/blog-detail/why-devarana-spa-at-dusit-thani-maldives-is-wellness-bliss/",
+    "as_of": "2026-10-04"
+   }
+  ],
   "contacts_public.phone": [
    {
     "value": "+960 660 8888",
@@ -1068,6 +1128,13 @@
    }
   ],
   "weddings.offered": [
+   {
+    "value": true,
+    "source_url": "https://www.neoscapesmaldives.com/resort/dusit-thani-maldives/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "destination_dining.sandbank_events": [
    {
     "value": true,
     "source_url": "https://www.neoscapesmaldives.com/resort/dusit-thani-maldives/",

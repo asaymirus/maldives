@@ -24,9 +24,10 @@
 - Piano Bar (bar)
 - Le Restaurant (restaurant)
 - Poolside Bar (bar)
+- The Pool Bar (bar)
 - The Sunset Grill (restaurant)
 
-Meal plans: BB, AI, FB, HB
+Meal plans: BB, AI, FB, HB, Premium AI
 All-inclusive: All-Inclusive meal plan.
 
 ## Spa & wellness
@@ -40,7 +41,7 @@ All-inclusive: All-Inclusive meal plan.
 - House reef: house reef begins just meters from shore, offering effortless access to some of the Maldives’ most vibrant marine life
 - Activities: snorkelling, windsurfing, kayaking, catamaran, fishing, dolphin cruise, sailing, snorkeling, surfing, scuba diving, stand-up paddle, jet ski, water skiing, fun tube, manta, paddleboard, parasailing
 - Price list: https://www.cenizaro.com/docs/maldives-dg/Dive_Centre_Price_List-March_2026.pdf
-- Excursions: dolphin, castaway, local island, cooking class, turtle, island hopping, big game fishing, picnic, manta, sandbank, cinema
+- Excursions: dolphin, castaway, local island, cooking class, turtle, island hopping, big game fishing, picnic, manta, sandbank, cinema, private dinner
 
 ## Kids & family
 
@@ -53,6 +54,12 @@ All-inclusive: All-Inclusive meal plan.
 - Packages: Wedding Ceremony Package USD 1200 (2026); Grand Celebration USD 799 (2026); Wedding USD 1200 (2026); Ceremony USD 599 (2026); Single Package EUR 1770 (2026-10-05); Double Package EUR 2095 (2026-10-05); VIBES Destination Dining Experience USD 500 (2026-10-05); Island Summer Savings Package USD 450 (2026-10-05)
 - Brochure: https://www.cenizaro.com/docs/maldives-fm/Maldives_Wedding_Ceremony_Packages-2026.pdf
 
+## Destination dining
+
+- Experiences: beach dinner, romantic dinner, private dining, castaway picnic, floating breakfast, dine under the stars, in-villa dining, candlelit dinner, romantic candlelit dinner, sandbank escape, dinner under the stars, sand bank trip, romantic beach dinner, destination dining, private chef, in-villa bbq
+- Packages: VIBES Destination Dining USD 500 (2026-10-05)
+- Sandbank events: True; document: https://www.cenizaro.com/docs/bintan/Private_Dinner_-_Island_Inspired_Menu.pdf
+
 ## Events / MICE
 
 - Venues: MEETING ROOM FLOOR PLAN FACILITIES & SERVICES AT A GLANCE; capacity max: 50; buyout: None
@@ -60,7 +67,7 @@ All-inclusive: All-Inclusive meal plan.
 
 ## Sustainability
 
-- Blue Marine Foundation, solar, composting
+- Blue Marine Foundation, marine biologist, solar, composting
 
 ## Public contacts
 
@@ -76,9 +83,10 @@ All-inclusive: All-Inclusive meal plan.
 - dive_prices: https://www.cenizaro.com/docs/maldives-dg/Dive_Centre_Price_List-March_2026.pdf
 - events: https://www.cenizaro.com//docs/maldives-fm/2024_TR_MALDIVES_MICE_FACTSHEET_FA_v3_PAGEBYPAGE.pdf
 - calendar: https://www.cenizaro.com/docs/pressclippings/luxurytravelmagazine.com%2C_06.07.22.pdf
+- destination_dining: https://www.cenizaro.com/docs/bintan/Private_Dinner_-_Island_Inspired_Menu.pdf
 
 ## Gaps
 
 - factsheet
 
-_Facts extracted by rules from 32 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._
+_Facts extracted by rules from 35 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

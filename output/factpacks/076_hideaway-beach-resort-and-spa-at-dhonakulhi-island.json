@@ -197,6 +197,18 @@
   "packages": [],
   "brochure_doc": null
  },
+ "destination_dining": {
+  "experiences": [
+   "in villa dining",
+   "sunset cruise",
+   "in-villa dining",
+   "private dining",
+   "romantic candlelit dinner"
+  ],
+  "packages": [],
+  "sandbank_events": true,
+  "doc": null
+ },
  "events_mice": {
   "venues": [],
   "capacity_max": null,
@@ -221,7 +233,8 @@
   "dining_menu": null,
   "dive_prices": null,
   "events": null,
-  "calendar": null
+  "calendar": null,
+  "destination_dining": null
  },
  "documents_count": 2,
  "gaps": [
@@ -817,6 +830,73 @@
     "as_of": "2026-10-04"
    }
   ],
+  "destination_dining.experiences": [
+   {
+    "value": "in villa dining",
+    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Factsheet-Hideaway-Beach-Maldives-NEO.pdf",
+    "as_of": 2020
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Factsheet-Hideaway-Beach-Maldives-NEO.pdf",
+    "as_of": 2020
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Resort-Map-Hideaway-Beach-Maldives.pdf",
+    "as_of": 2018
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Resort-Map-Hideaway-Beach-Maldives.pdf",
+    "as_of": 2018
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Resort-Map-Hideaway-Beach-Maldives.pdf",
+    "as_of": 2018
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Resort-Map-Hideaway-Beach-Maldives.pdf",
+    "as_of": 2018
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://lilyhotels.com/ttm-awards-2025-vote",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "in-villa dining",
+    "source_url": "https://www.neoscapesmaldives.com/resort/hideaway-beach-resort-spa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "private dining",
+    "source_url": "https://www.neoscapesmaldives.com/resort/hideaway-beach-resort-spa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "private dining",
+    "source_url": "https://www.neoscapesmaldives.com/resort/hideaway-beach-resort-spa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "romantic candlelit dinner",
+    "source_url": "https://www.neoscapesmaldives.com/resort/hideaway-beach-resort-spa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "in-villa dining",
+    "source_url": "https://www.neoscapesmaldives.com/resort/hideaway-beach-resort-spa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "in-villa dining",
+    "source_url": "https://www.neoscapesmaldives.com/resort/hideaway-beach-resort-spa/",
+    "as_of": "2026-10-04"
+   }
+  ],
   "diving_watersports.house_reef": [
    {
     "value": "housereef $190 per person",
@@ -880,6 +960,13 @@
   "kids_family.kids_club": [
    {
     "value": "Kids Club",
+    "source_url": "https://www.neoscapesmaldives.com/resort/hideaway-beach-resort-spa/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "destination_dining.sandbank_events": [
+   {
+    "value": true,
     "source_url": "https://www.neoscapesmaldives.com/resort/hideaway-beach-resort-spa/",
     "as_of": "2026-10-04"
    }

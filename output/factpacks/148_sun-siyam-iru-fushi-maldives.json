@@ -353,6 +353,30 @@
   "packages": [],
   "brochure_doc": "https://www.sunsiyam.com/media/dzmlvgtf/ultimate-honeymoon-ssif.pdf"
  },
+ "destination_dining": {
+  "experiences": [
+   "wine pairing",
+   "private dining",
+   "in-villa dining",
+   "floating breakfast",
+   "sunset cruise",
+   "romantic dinner",
+   "destination dining",
+   "candlelit dinner",
+   "beach bbq",
+   "dinner under the stars"
+  ],
+  "packages": [
+   {
+    "name": "Floating Breakfast",
+    "price": "100",
+    "currency": "USD",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "sandbank_events": null,
+  "doc": null
+ },
  "events_mice": {
   "venues": [],
   "capacity_max": 10,
@@ -376,7 +400,8 @@
   "dining_menu": "https://www.nivahotelsandresorts.com/wp-content/uploads/2026/06/La-Belle-Vie-Menu_Digital.pdf",
   "dive_prices": null,
   "events": null,
-  "calendar": "https://letsgomaldives.com/wp-content/uploads/2026/08/Sun-Siyam-Iru-Fushi-Our-Festive-Brochure-2026-2027.pdf"
+  "calendar": "https://letsgomaldives.com/wp-content/uploads/2026/08/Sun-Siyam-Iru-Fushi-Our-Festive-Brochure-2026-2027.pdf",
+  "destination_dining": null
  },
  "documents_count": 24,
  "gaps": [
@@ -2003,11 +2028,228 @@
     "as_of": "2026-10-04"
    }
   ],
+  "destination_dining.experiences": [
+   {
+    "value": "wine pairing",
+    "source_url": "https://www.sunsiyam.com/media/kt3el3ns/iru-fushi_factsheet.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "private dining",
+    "source_url": "https://www.sunsiyam.com/media/kt3el3ns/iru-fushi_factsheet.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "in-villa dining",
+    "source_url": "https://www.sunsiyam.com/media/kt3el3ns/iru-fushi_factsheet.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://www.sunsiyam.com/media/kt3el3ns/iru-fushi_factsheet.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://www.sunsiyam.com/media/dzmlvgtf/ultimate-honeymoon-ssif.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "in-villa dining",
+    "source_url": "https://www.sunsiyam.com/media/yp5hluk1/iru-fushi-24-hour-premium-all-inclusive-dine-around.pdf",
+    "as_of": 2027
+   },
+   {
+    "value": "in-villa dining",
+    "source_url": "https://www.sunsiyam.com/media/yp5hluk1/iru-fushi-24-hour-premium-all-inclusive-dine-around.pdf",
+    "as_of": 2027
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.sunsiyam.com/media/yp5hluk1/iru-fushi-24-hour-premium-all-inclusive-dine-around.pdf",
+    "as_of": 2027
+   },
+   {
+    "value": "in-villa dining",
+    "source_url": "https://www.sunsiyam.com/media/owkd2eb1/iru-fushi-bespoke-meal-plan.pdf",
+    "as_of": 2027
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.sunsiyam.com/media/owkd2eb1/iru-fushi-bespoke-meal-plan.pdf",
+    "as_of": 2027
+   },
+   {
+    "value": "in-villa dining",
+    "source_url": "https://www.sunsiyam.com/media/owkd2eb1/iru-fushi-bespoke-meal-plan.pdf",
+    "as_of": 2027
+   },
+   {
+    "value": "wine pairing",
+    "source_url": "https://www.sunsiyam.com/media/owkd2eb1/iru-fushi-bespoke-meal-plan.pdf",
+    "as_of": 2027
+   },
+   {
+    "value": "private dining",
+    "source_url": "https://www.sunsiyam.com/media/owkd2eb1/iru-fushi-bespoke-meal-plan.pdf",
+    "as_of": 2027
+   },
+   {
+    "value": "private dining",
+    "source_url": "https://www.sunsiyam.com/media/owkd2eb1/iru-fushi-bespoke-meal-plan.pdf",
+    "as_of": 2027
+   },
+   {
+    "value": "romantic dinner",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-iru-fushi/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-iru-fushi/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-iru-fushi/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "romantic dinner",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-iru-fushi/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-iru-fushi/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-iru-fushi/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-iru-fushi/offers/free-transfer-offer/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-iru-fushi/offers/free-transfer-offer/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-iru-fushi/offers/free-transfer-offer/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-iru-fushi/experiences/destination-dining-on-our-maldivian-shores/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-iru-fushi/experiences/destination-dining-on-our-maldivian-shores/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "romantic dinner",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-iru-fushi/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-iru-fushi/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-iru-fushi/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-iru-fushi/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-iru-fushi/offers/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-iru-fushi/offers/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "private dining",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-iru-fushi/restaurants-bars/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-iru-fushi/offers/oktoberfest-offer/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-iru-fushi/offers/oktoberfest-offer/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-iru-fushi/offers/oktoberfest-offer/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "in-villa dining",
+    "source_url": "https://www.neoscapesmaldives.com/resort/the-sun-siyam-irufushi/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://www.neoscapesmaldives.com/resort/the-sun-siyam-irufushi/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "candlelit dinner",
+    "source_url": "https://www.neoscapesmaldives.com/resort/the-sun-siyam-irufushi/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "in-villa dining",
+    "source_url": "https://www.neoscapesmaldives.com/resort/the-sun-siyam-irufushi/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "beach bbq",
+    "source_url": "https://letsgomaldives.com/news/celebrate-easter-in-paradise-at-sun-siyam-iru-fushi/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dinner under the stars",
+    "source_url": "https://www.maldivestourism.net/resorts/irufushi-beach-spa-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "in-villa dining",
+    "source_url": "https://www.maldivestourism.net/resorts/irufushi-beach-spa-resort/",
+    "as_of": "2026-10-04"
+   }
+  ],
   "contacts_public.reservations_email": [
    {
     "value": "info.irufushi@sunsiyam.com",
     "source_url": "https://www.sunsiyam.com/media/kt3el3ns/iru-fushi_factsheet.pdf",
     "as_of": 2026
+   },
+   {
+    "value": "info@visitmaldives.com",
+    "source_url": "https://visitmaldives.s3.amazonaws.com/e8qe4VYP/9cskgcn7.pdf",
+    "as_of": 2020
    },
    {
     "value": "info@neoscapesmaldives.com",
@@ -2025,6 +2267,11 @@
     "value": "+960 656 0591",
     "source_url": "https://www.sunsiyam.com/media/kt3el3ns/iru-fushi_factsheet.pdf",
     "as_of": 2026
+   },
+   {
+    "value": "+960 332 3228",
+    "source_url": "https://visitmaldives.s3.amazonaws.com/e8qe4VYP/9cskgcn7.pdf",
+    "as_of": 2020
    },
    {
     "value": "+960 736 5425",
@@ -2112,6 +2359,28 @@
    {
     "value": "house reef",
     "source_url": "https://www.sunsiyam.com/sun-siyam-iru-fushi/experiences/conservation-snorkeling/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "destination_dining.packages": [
+   {
+    "value": {
+     "name": "Floating Breakfast",
+     "price": "100",
+     "currency": "USD",
+     "as_of": "2026-10-04"
+    },
+    "source_url": "https://www.sunsiyam.com/sun-siyam-iru-fushi/offers/free-transfer-offer/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Floating Breakfast",
+     "price": "100",
+     "currency": "USD",
+     "as_of": "2026-10-04"
+    },
+    "source_url": "https://www.sunsiyam.com/sun-siyam-iru-fushi/offers/oktoberfest-offer/",
     "as_of": "2026-10-04"
    }
   ],

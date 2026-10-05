@@ -291,6 +291,14 @@
   "packages": [],
   "brochure_doc": null
  },
+ "destination_dining": {
+  "experiences": [
+   "destination dining"
+  ],
+  "packages": [],
+  "sandbank_events": null,
+  "doc": null
+ },
  "events_mice": {
   "venues": [],
   "capacity_max": null,
@@ -311,7 +319,8 @@
   "dining_menu": null,
   "dive_prices": null,
   "events": null,
-  "calendar": null
+  "calendar": null,
+  "destination_dining": null
  },
  "documents_count": 4,
  "gaps": [
@@ -817,6 +826,13 @@
     "value": true,
     "source_url": "https://www.neoscapesmaldives.com/resort/the-standard-huruvalhi-maldives/",
     "as_of": "2026-10-04"
+   }
+  ],
+  "destination_dining.experiences": [
+   {
+    "value": "destination dining",
+    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/STMV_Factsheet__Eng-.pdf",
+    "as_of": 2025
    }
   ],
   "contacts_public.reservations_email": [

@@ -188,7 +188,7 @@
    "sailing",
    "surfing"
   ],
-  "price_list_doc": "https://www.sunsiyam.com/media/dv1fvxyl/ssvr-golden-week-gazette-260921.pdf"
+  "price_list_doc": null
  },
  "excursions": [
   "turtle",
@@ -222,6 +222,24 @@
   "packages": [],
   "brochure_doc": "https://www.sunsiyam.com/media/jv5nmz43/ultimate-honeymoon-ssvr.pdf"
  },
+ "destination_dining": {
+  "experiences": [
+   "destination dining",
+   "private dining",
+   "romantic beach dinner",
+   "sunset cruise",
+   "beach barbecue",
+   "in-villa dining",
+   "floating breakfast",
+   "beach dinner",
+   "candlelit dinner",
+   "romantic dinner",
+   "sunset dinner"
+  ],
+  "packages": [],
+  "sandbank_events": null,
+  "doc": null
+ },
  "events_mice": {
   "venues": [],
   "capacity_max": null,
@@ -240,9 +258,10 @@
   "wedding": "https://www.sunsiyam.com/media/jv5nmz43/ultimate-honeymoon-ssvr.pdf",
   "spa_menu": null,
   "dining_menu": "https://www.sunsiyam.com/media/yqgbihlu/athireege.pdf",
-  "dive_prices": "https://www.sunsiyam.com/media/dv1fvxyl/ssvr-golden-week-gazette-260921.pdf",
+  "dive_prices": null,
   "events": null,
-  "calendar": "https://www.sunsiyam.com/media/j1vp02dn/ssvr-festive-gazette-26-27-eutopia-r.pdf"
+  "calendar": "https://www.sunsiyam.com/media/j1vp02dn/ssvr-festive-gazette-26-27-eutopia-r.pdf",
+  "destination_dining": null
  },
  "documents_count": 8,
  "gaps": [
@@ -1166,6 +1185,173 @@
    {
     "value": true,
     "source_url": "https://letsgomaldives.com/news/celebrate-the-holidays-at-sun-siyam-vilu-reef-ocean-odyssey-festive-2025/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "destination_dining.experiences": [
+   {
+    "value": "destination dining",
+    "source_url": "https://www.sunsiyam.com/media/5q0hgbtr/factsheet-vilu-reef-2026-hr.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "private dining",
+    "source_url": "https://www.sunsiyam.com/media/5q0hgbtr/factsheet-vilu-reef-2026-hr.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "private dining",
+    "source_url": "https://www.sunsiyam.com/media/5q0hgbtr/factsheet-vilu-reef-2026-hr.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "romantic beach dinner",
+    "source_url": "https://www.sunsiyam.com/media/5q0hgbtr/factsheet-vilu-reef-2026-hr.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.sunsiyam.com/media/5q0hgbtr/factsheet-vilu-reef-2026-hr.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "beach barbecue",
+    "source_url": "https://www.sunsiyam.com/media/dv1fvxyl/ssvr-golden-week-gazette-260921.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "beach barbecue",
+    "source_url": "https://www.sunsiyam.com/media/dv1fvxyl/ssvr-golden-week-gazette-260921.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "in-villa dining",
+    "source_url": "https://www.sunsiyam.com/media/jn3h3idp/ssvr-ai-meal-plan-26.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-vilu-reef/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-vilu-reef/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-vilu-reef/offers/ocean-signature-escape/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-vilu-reef/offers/ocean-signature-escape/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "beach dinner",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-vilu-reef/offers/ocean-signature-escape/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-vilu-reef/offers/ocean-signature-escape/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "candlelit dinner",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-vilu-reef/offers/romantic-honeymoon-escape/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "romantic beach dinner",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-vilu-reef/weddings-celebrations/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-vilu-reef/weddings-celebrations/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "romantic dinner",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-vilu-reef/weddings-celebrations/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "in-villa dining",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-vilu-reef/weddings-celebrations/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-vilu-reef/weddings-celebrations/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-vilu-reef/weddings-celebrations/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-vilu-reef/leisure-activities/excursions/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "private dining",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-vilu-reef/restaurants-bars/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-vilu-reef/offers/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "candlelit dinner",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-vilu-reef/offers/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-vilu-reef/offers/free-transfer-offer/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-vilu-reef/offers/free-transfer-offer/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://www.neoscapesmaldives.com/resort/sun-siyam-vilu-reef/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "beach barbecue",
+    "source_url": "https://www.neoscapesmaldives.com/resort/sun-siyam-vilu-reef/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "romantic dinner",
+    "source_url": "https://www.neoscapesmaldives.com/resort/sun-siyam-vilu-reef/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.neoscapesmaldives.com/resort/sun-siyam-vilu-reef/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://www.neoscapesmaldives.com/resort/sun-siyam-vilu-reef/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset dinner",
+    "source_url": "https://www.neoscapesmaldives.com/resort/sun-siyam-vilu-reef/",
     "as_of": "2026-10-04"
    }
   ],

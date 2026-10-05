@@ -16,7 +16,6 @@
 
 ## Dining
 
-- International Grill & (restaurant)
 - Teppanyaki experience (restaurant)
 - Rum Bar (bar)
 - Dolphin Bar (bar)
@@ -46,9 +45,9 @@ All-inclusive: all-inclusive package at least once.
 
 - Operator: n/a
 - House reef: House Reef
-- Activities: snorkelling, snorkeling, sunset cruise, fishing, manta, stand-up paddle, paddleboard, whale shark, canoe, scuba diving, sailing, kayaking, windsurfing, catamaran
+- Activities: snorkeling, snorkelling, sunset cruise, fishing, manta, stand-up paddle, paddleboard, whale shark, canoe, scuba diving, sailing, kayaking, windsurfing, catamaran, parasailing, water skiing, banana boat, semi-submarine, wakeboarding
 - Price list: none
-- Excursions: dolphin, cinema, turtle, local island, sunset fishing, manta, whale shark, cooking class, island hopping, picnic, stargazing, private dinner
+- Excursions: dolphin, turtle, local island, sunset fishing, manta, whale shark, cooking class, island hopping, cinema, picnic, stargazing, private dinner
 
 ## Kids & family
 
@@ -61,10 +60,16 @@ All-inclusive: all-inclusive package at least once.
 - Packages: n/a
 - Brochure: none
 
+## Destination dining
+
+- Experiences: floating breakfast, in-villa dining, private dining, sunset cruise, anniversary celebration, in-villa bbq, chef's table, candlelit dinner, wine dinner, romantic beach dinner, romantic dining, romantic dinner
+- Packages: n/a
+- Sandbank events: None; document: https://www.centarahotelsresorts.com/centara/sites/centara-centara/files/2025-09/cmlm-floating-breakfast.pdf
+
 ## Events / MICE
 
 - Venues: n/a; capacity max: 200; buyout: None
-- Document: https://investor.centarahotelsresorts.com/storage/download/cg-document/20190108-centel-cg-2018-en.pdf
+- Document: none
 
 ## Sustainability
 
@@ -82,12 +87,14 @@ All-inclusive: all-inclusive package at least once.
 - spa_menu: none
 - dining_menu: none
 - dive_prices: none
-- events: https://investor.centarahotelsresorts.com/storage/download/cg-document/20190108-centel-cg-2018-en.pdf
+- events: none
 - calendar: none
+- destination_dining: https://www.centarahotelsresorts.com/centara/sites/centara-centara/files/2025-09/cmlm-floating-breakfast.pdf
 
 ## Gaps
 
 - wedding brochure
+- events/MICE document
 - fact: dive operator
 
-_Facts extracted by rules from 26 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._
+_Facts extracted by rules from 27 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

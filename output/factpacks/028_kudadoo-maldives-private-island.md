@@ -29,7 +29,7 @@ All-inclusive: all-inclusive plan is available in Hurawalhi.
 
 - Operator: Euro Divers
 - House reef: house reef and Maldivian hospitality
-- Activities: snorkelling, windsurfing, paddleboard, catamaran, jet ski, water skiing, wakeboarding, manta, sailing, snorkeling, scuba diving, kitesurfing, fishing, seabob, flyboard, dolphin cruise, whale shark, kayaking, sunset cruise, parasailing
+- Activities: snorkelling, windsurfing, paddleboard, catamaran, jet ski, water skiing, wakeboarding, manta, sailing, parasailing, flyboard, snorkeling, scuba diving, kitesurfing, fishing, seabob, dolphin cruise, whale shark, kayaking, sunset cruise
 - Price list: none
 - Excursions: sandbank, dolphin, manta, turtle, picnic, big game fishing, whale shark
 
@@ -39,10 +39,16 @@ All-inclusive: all-inclusive plan is available in Hurawalhi.
 
 ## Weddings
 
-- Offered: True; vow renewal: None
+- Offered: True; vow renewal: True
 - Venues: n/a
 - Packages: n/a
 - Brochure: none
+
+## Destination dining
+
+- Experiences: sunset dinner, underwater restaurant, underwater dining, floating breakfast, sunset cruise, destination dining, beach dinner, sandbank dinner
+- Packages: n/a
+- Sandbank events: True; document: none
 
 ## Events / MICE
 
@@ -55,7 +61,7 @@ All-inclusive: all-inclusive plan is available in Hurawalhi.
 
 ## Public contacts
 
-- Reservations: reservations@kudadoo.com; weddings: n/a; phone: +960 664 3157
+- Reservations: reservations@hurawalhi.com; weddings: n/a; phone: +960 664 3157
 
 ## Latest documents
 
@@ -63,10 +69,11 @@ All-inclusive: all-inclusive plan is available in Hurawalhi.
 - map: https://sales.crownandchamparesorts.com/wp-content/uploads/2025/12/KudadooMap110125103126Ver070125.pdf
 - wedding: none
 - spa_menu: https://sales.crownandchamparesorts.com/wp-content/uploads/2025/12/KudadooSulhaSpaMenu110125103126Ver112023.pdf
-- dining_menu: none
+- dining_menu: https://sales.crownandchamparesorts.com/wp-content/uploads/2020/10/KUD_AAA1.pdf
 - dive_prices: none
 - events: none
 - calendar: https://d2qwq69i2ic1pk.cloudfront.net/2023/11/CCR_2024_Calendar_compressed.pdf
+- destination_dining: none
 
 ## Gaps
 
@@ -74,4 +81,4 @@ All-inclusive: all-inclusive plan is available in Hurawalhi.
 - events/MICE document
 - fact: kids club
 
-_Facts extracted by rules from 26 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._
+_Facts extracted by rules from 29 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

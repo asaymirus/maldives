@@ -182,6 +182,15 @@
   "packages": [],
   "brochure_doc": null
  },
+ "destination_dining": {
+  "experiences": [
+   "private dining",
+   "destination dining"
+  ],
+  "packages": [],
+  "sandbank_events": null,
+  "doc": null
+ },
  "events_mice": {
   "venues": [],
   "capacity_max": null,
@@ -207,7 +216,8 @@
   "dining_menu": null,
   "dive_prices": null,
   "events": null,
-  "calendar": null
+  "calendar": null,
+  "destination_dining": null
  },
  "documents_count": 2,
  "gaps": [
@@ -565,6 +575,23 @@
    },
    {
     "value": "sauna",
+    "source_url": "https://www.neoscapesmaldives.com/resort/joali-being/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "destination_dining.experiences": [
+   {
+    "value": "private dining",
+    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/JoaliBeing_Factsheet_V13.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/JoaliBeing_Factsheet_V13.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": "destination dining",
     "source_url": "https://www.neoscapesmaldives.com/resort/joali-being/",
     "as_of": "2026-10-04"
    }

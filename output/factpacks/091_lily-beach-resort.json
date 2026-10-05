@@ -154,6 +154,17 @@
   "packages": [],
   "brochure_doc": null
  },
+ "destination_dining": {
+  "experiences": [
+   "sunset cruise",
+   "sandbank picnic",
+   "beach bbq",
+   "private dining"
+  ],
+  "packages": [],
+  "sandbank_events": true,
+  "doc": null
+ },
  "events_mice": {
   "venues": [],
   "capacity_max": null,
@@ -174,7 +185,8 @@
   "dining_menu": null,
   "dive_prices": null,
   "events": null,
-  "calendar": null
+  "calendar": null,
+  "destination_dining": null
  },
  "documents_count": 2,
  "gaps": [
@@ -835,6 +847,55 @@
     "value": true,
     "source_url": "https://lilyhotels.com/ttm-awards-2025-vote",
     "as_of": "2026-10-05"
+   }
+  ],
+  "destination_dining.experiences": [
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/LilyBeach-Factsheet-Resort-NEO.pdf",
+    "as_of": 2019
+   },
+   {
+    "value": "sandbank picnic",
+    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/LilyBeach-Factsheet-Resort-NEO.pdf",
+    "as_of": 2019
+   },
+   {
+    "value": "beach bbq",
+    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/LilyBeach-Factsheet-Resort-NEO.pdf",
+    "as_of": 2019
+   },
+   {
+    "value": "private dining",
+    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/LilyBeach-Factsheet-Resort-NEO.pdf",
+    "as_of": 2019
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/LilyBeach-Factsheet-Resort-NEO.pdf",
+    "as_of": 2019
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://lilyhotels.com/ttm-awards-2025-vote",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "private dining",
+    "source_url": "https://www.neoscapesmaldives.com/resort/lily-beach-resort-spa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "private dining",
+    "source_url": "https://www.neoscapesmaldives.com/resort/lily-beach-resort-spa/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "destination_dining.sandbank_events": [
+   {
+    "value": true,
+    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/LilyBeach-Factsheet-Resort-NEO.pdf",
+    "as_of": 2019
    }
   ],
   "meal_plans": [

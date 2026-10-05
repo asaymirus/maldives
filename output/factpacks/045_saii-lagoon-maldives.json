@@ -11,7 +11,7 @@
  "operator_brand": "SAii",
  "atoll": "South Malé Atoll",
  "island": null,
- "opened_or_renovated": null,
+ "opened_or_renovated": "opened 2019",
  "star_rating": null,
  "transfer": {
   "modes": [
@@ -27,7 +27,7 @@
  },
  "island_size": "160 m x 440 m",
  "villas": {
-  "total": null,
+  "total": 600,
   "categories": [
    {
     "name": "BR OVERWATER POOL VILLA",
@@ -77,6 +77,11 @@
    "type": "restaurant"
   },
   {
+   "name": "Twilight Grill Dinner",
+   "cuisine": null,
+   "type": "restaurant"
+  },
+  {
    "name": "Mr. Tomyam – Poolside Trattoria",
    "cuisine": null,
    "type": "restaurant"
@@ -111,7 +116,7 @@
  },
  "diving_watersports": {
   "operator": "Ocean Group",
-  "house_reef": "House Reef Tour | Meeting Point at Koimala & Maalimi’s Junior Beach Club & Camp (b)",
+  "house_reef": "house reef and the colourful sealife that depends in it",
   "activities": [
    "snorkelling",
    "snorkeling",
@@ -119,6 +124,9 @@
    "kayaking",
    "sailing",
    "manta",
+   "sunset cruise",
+   "paddleboard",
+   "whale shark",
    "dolphin cruise"
   ],
   "price_list_doc": "https://www.saiihotels.com/wp-content/uploads/2026/09/Tennis-Price-List-Sep-Dec-2026.pdf"
@@ -128,7 +136,11 @@
   "local island",
   "dolphin",
   "manta",
-  "picnic"
+  "island hopping",
+  "cooking class",
+  "picnic",
+  "stargazing",
+  "whale shark"
  ],
  "kids_family": {
   "kids_club": "Kids Club",
@@ -139,8 +151,8 @@
   "tennis",
   "padel",
   "yoga",
-  "beach volleyball",
   "fitness center",
+  "beach volleyball",
   "pilates",
   "personal trainer",
   "fitness centre",
@@ -149,23 +161,42 @@
  "weddings": {
   "offered": true,
   "vow_renewal": true,
-  "venues": [],
+  "venues": [
+   "Variety of venue choices from the beach to the event hall"
+  ],
   "packages": [],
   "brochure_doc": null
+ },
+ "destination_dining": {
+  "experiences": [
+   "private dining",
+   "dinner under the stars",
+   "floating breakfast",
+   "beach dinner",
+   "in-villa dining",
+   "candlelit dinner",
+   "romantic dining",
+   "beach bbq",
+   "romantic dinner",
+   "sunset cruise"
+  ],
+  "packages": [],
+  "sandbank_events": null,
+  "doc": "https://www.saiihotels.com/wp-content/uploads/2025/10/Dinner-on-the-beach.pdf"
  },
  "events_mice": {
   "venues": [
    "Boardroom / Theatre Style / Round Table / Classroom"
   ],
-  "capacity_max": null,
-  "buyout": null,
-  "doc": "https://www.saiihotels.com/wp-content/uploads/2026/06/June-Recreation-English.pdf"
+  "capacity_max": 308,
+  "buyout": true,
+  "doc": null
  },
  "sustainability": [
   "Green Globe",
-  "organic garden",
   "solar",
-  "marine biologist"
+  "marine biologist",
+  "single-use plastic"
  ],
  "contacts_public": {
   "reservations_email": "info@neoscapesmaldives.com",
@@ -179,13 +210,14 @@
   "spa_menu": "https://www.saiihotels.com/wp-content/uploads/2025/11/SAii-Spa-Menu.pdf",
   "dining_menu": "https://www.saiihotels.com/wp-content/uploads/2026/02/SPP_WineDrinks-2026.pdf",
   "dive_prices": "https://www.saiihotels.com/wp-content/uploads/2026/09/Tennis-Price-List-Sep-Dec-2026.pdf",
-  "events": "https://www.saiihotels.com/wp-content/uploads/2026/06/June-Recreation-English.pdf",
-  "calendar": "https://crossroadsmaldives.com/wp-content/uploads/2026/01/Padel-Tennis-Membership-Programme_2026.pdf"
+  "events": null,
+  "calendar": "https://crossroadsmaldives.com/wp-content/uploads/2026/01/Padel-Tennis-Membership-Programme_2026.pdf",
+  "destination_dining": "https://www.saiihotels.com/wp-content/uploads/2025/10/Dinner-on-the-beach.pdf"
  },
- "documents_count": 72,
+ "documents_count": 73,
  "gaps": [
   "wedding brochure",
-  "fact: villas.total"
+  "events/MICE document"
  ],
  "sources": {
   "villas.categories": [
@@ -304,6 +336,33 @@
    },
    {
     "value": {
+     "name": "Twilight Grill Dinner",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.saiihotels.com/phiphiisland-village/offers/private-beach-bbq/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": {
+     "name": "Twilight Grill Dinner",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.saiihotels.com/phiphiisland-village/offers/twilight-grill-dinner/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": {
+     "name": "Twilight Grill Dinner",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://www.saiihotels.com/phiphiisland-village/offers/twilight-grill-dinner/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": {
      "name": "Mr. Tomyam – Poolside Trattoria",
      "cuisine": null,
      "type": "restaurant"
@@ -356,6 +415,31 @@
     "as_of": "2026-10-04"
    },
    {
+    "value": "Lèn Forest Spa",
+    "source_url": "https://www.saiihotels.com/design-your-perfect-honeymoon-getaway-with-saii-resorts/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Discover More\nSerene Spa",
+    "source_url": "https://www.saiihotels.com/laguna-phuket/offers/beachfront-romantic-dining/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "SAii Spa",
+    "source_url": "https://www.saiihotels.com/press/saii-laguna-phuket-unveils-a-stunning-transformation-blending-traditional-thai-design-with-modern-innovation-for-an-enhanced-guest-experience/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "World Luxury Spa",
+    "source_url": "https://www.saiihotels.com/press/saii-makes-an-instant-impression-as-two-inaugural-island-resorts-in-thailand-receive-rave-reviews-from-experience-seeking-guests/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Lèn Spa",
+    "source_url": "https://www.saiihotels.com/press/saii-resorts-invites-guests-to-experience-a-free-spirited-festive-season-in-southern-thailands-idyllic-islands/",
+    "as_of": "2026-10-05"
+   },
+   {
     "value": "Lèn Be Well Spa",
     "source_url": "https://www.neoscapesmaldives.com/resort/saii-lagoon-maldives/",
     "as_of": "2026-10-04"
@@ -371,11 +455,6 @@
     "value": "snorkeling",
     "source_url": "https://www.saiihotels.com/wp-content/uploads/2025/10/SAii-Lagoon-Maldives-Factsheet-2025.pdf",
     "as_of": 2025
-   },
-   {
-    "value": "snorkelling",
-    "source_url": "https://www.saiihotels.com/wp-content/uploads/2026/06/June-Recreation-English.pdf",
-    "as_of": 2026
    },
    {
     "value": "fishing",
@@ -411,6 +490,91 @@
     "value": "manta",
     "source_url": "https://www.saiihotels.com/lagoon-maldives/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "sailing",
+    "source_url": "https://www.saiihotels.com/design-your-perfect-honeymoon-getaway-with-saii-resorts/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.saiihotels.com/phiphiisland-village/offers/private-beach-bbq/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.saiihotels.com/phiphiisland-village/offers/private-beach-bbq/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.saiihotels.com/phiphiisland-village/offers/romance-in-paradise/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.saiihotels.com/phiphiisland-village/offers/romantic-rendezvous-by-longtail-boat/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.saiihotels.com/phiphiisland-village/offers/romantic-rendezvous-by-longtail-boat/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.saiihotels.com/phiphiisland-village/offers/romantic-rendezvous-by-longtail-boat/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.saiihotels.com/phiphiisland-village/offers/twilight-grill-dinner/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.saiihotels.com/phiphiisland-village/offers/twilight-grill-dinner/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.saiihotels.com/press/a-vital-mission-saii-phi-phi-island-village-celebrates-global-shark-awareness-day-with-preservation-milestone-and-a-new-guest-experience/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.saiihotels.com/press/from-constellations-to-zodiac-adventures-saii-phi-phi-island-village-unveils-the-new-astro-moments-experience/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "kayaking",
+    "source_url": "https://www.saiihotels.com/press/from-constellations-to-zodiac-adventures-saii-phi-phi-island-village-unveils-the-new-astro-moments-experience/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "paddleboard",
+    "source_url": "https://www.saiihotels.com/press/from-constellations-to-zodiac-adventures-saii-phi-phi-island-village-unveils-the-new-astro-moments-experience/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.saiihotels.com/press/saii-phi-phi-island-village-brings-marine-conservation-to-life-with-dedicated-diving-experiences/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.saiihotels.com/press/saii-phi-phi-island-village-brings-marine-conservation-to-life-with-dedicated-diving-experiences/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.saiihotels.com/press/saii-resorts-invites-guests-to-experience-a-free-spirited-festive-season-in-southern-thailands-idyllic-islands/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "kayaking",
+    "source_url": "https://www.saiihotels.com/press/saii-resorts-invites-guests-to-experience-a-free-spirited-festive-season-in-southern-thailands-idyllic-islands/",
+    "as_of": "2026-10-05"
    },
    {
     "value": "snorkelling",
@@ -455,6 +619,51 @@
     "as_of": "2026-10-04"
    },
    {
+    "value": "island hopping",
+    "source_url": "https://www.saiihotels.com/design-your-perfect-honeymoon-getaway-with-saii-resorts/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "cooking class",
+    "source_url": "https://www.saiihotels.com/phiphiisland-village/offers/private-beach-bbq/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "cooking class",
+    "source_url": "https://www.saiihotels.com/phiphiisland-village/offers/twilight-grill-dinner/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "picnic",
+    "source_url": "https://www.saiihotels.com/press/from-constellations-to-zodiac-adventures-saii-phi-phi-island-village-unveils-the-new-astro-moments-experience/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "stargazing",
+    "source_url": "https://www.saiihotels.com/press/from-constellations-to-zodiac-adventures-saii-phi-phi-island-village-unveils-the-new-astro-moments-experience/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.saiihotels.com/press/saii-phi-phi-island-village-brings-marine-conservation-to-life-with-dedicated-diving-experiences/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.saiihotels.com/press/saii-phi-phi-island-village-brings-marine-conservation-to-life-with-dedicated-diving-experiences/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "stargazing",
+    "source_url": "https://www.saiihotels.com/press/saii-phi-phi-island-village-launches-astro-moments-a-mystical-stargazing-tarot-experience-under-the-andaman-sky/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "cooking class",
+    "source_url": "https://www.saiihotels.com/press/saii-resorts-invites-guests-to-experience-a-free-spirited-festive-season-in-southern-thailands-idyllic-islands/",
+    "as_of": "2026-10-05"
+   },
+   {
     "value": "dolphin",
     "source_url": "https://www.neoscapesmaldives.com/resort/saii-lagoon-maldives/",
     "as_of": "2026-10-04"
@@ -475,26 +684,6 @@
     "value": "padel",
     "source_url": "https://www.saiihotels.com/wp-content/uploads/2025/10/SAii-Lagoon-Maldives-Factsheet-2025.pdf",
     "as_of": 2025
-   },
-   {
-    "value": "yoga",
-    "source_url": "https://www.saiihotels.com/wp-content/uploads/2026/06/June-Recreation-English.pdf",
-    "as_of": 2026
-   },
-   {
-    "value": "tennis",
-    "source_url": "https://www.saiihotels.com/wp-content/uploads/2026/06/June-Recreation-English.pdf",
-    "as_of": 2026
-   },
-   {
-    "value": "padel",
-    "source_url": "https://www.saiihotels.com/wp-content/uploads/2026/06/June-Recreation-English.pdf",
-    "as_of": 2026
-   },
-   {
-    "value": "beach volleyball",
-    "source_url": "https://www.saiihotels.com/wp-content/uploads/2026/06/June-Recreation-English.pdf",
-    "as_of": 2026
    },
    {
     "value": "tennis",
@@ -552,6 +741,11 @@
     "as_of": "2026-10-04"
    },
    {
+    "value": "tennis",
+    "source_url": "https://www.saiihotels.com/press/saii-resorts-invites-guests-to-experience-a-free-spirited-festive-season-in-southern-thailands-idyllic-islands/",
+    "as_of": "2026-10-05"
+   },
+   {
     "value": "yoga",
     "source_url": "https://www.neoscapesmaldives.com/resort/saii-lagoon-maldives/",
     "as_of": "2026-10-04"
@@ -580,6 +774,76 @@
    },
    {
     "value": true,
+    "source_url": "https://www.saiihotels.com/celebrate-love-with-saii-lgbtq-destination-weddings-in-thailand/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.saiihotels.com/celebrate-love-with-saii-lgbtq-destination-weddings-in-thailand/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.saiihotels.com/kohsamui-villas/offers/island-celebrations/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.saiihotels.com/kohsamui-villas/weddings/intimate-celebration/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.saiihotels.com/lagoon-maldives/weddings-and-meetings/celebrations-events/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.saiihotels.com/laguna-phuket/offers/island-celebrations/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.saiihotels.com/laguna-phuket/weddings/intimate-celebration/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.saiihotels.com/laguna-phuket/weddings/intimate-celebration/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.saiihotels.com/phiphiisland-village/offers/island-celebrations/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.saiihotels.com/press/a-vital-mission-saii-phi-phi-island-village-celebrates-global-shark-awareness-day-with-preservation-milestone-and-a-new-guest-experience/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.saiihotels.com/press/s-hotels-resorts-free-spirited-lifestyle-brand-saii-celebrates-homecoming-as-two-beachfront-resorts-open-in-thailand-2/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.saiihotels.com/press/s-hotels-resorts-free-spirited-lifestyle-brand-saii-celebrates-homecoming-as-two-beachfront-resorts-open-in-thailand-2/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.saiihotels.com/press/s-hotels-resorts-free-spirited-lifestyle-brand-saii-celebrates-homecoming-as-two-beachfront-resorts-open-in-thailand/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.saiihotels.com/press/s-hotels-resorts-free-spirited-lifestyle-brand-saii-celebrates-homecoming-as-two-beachfront-resorts-open-in-thailand/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": true,
     "source_url": "https://www.neoscapesmaldives.com/resort/saii-lagoon-maldives/",
     "as_of": "2026-10-04"
    }
@@ -593,6 +857,153 @@
    {
     "value": true,
     "source_url": "https://www.saiihotels.com/lagoon-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.saiihotels.com/laguna-phuket/weddings/intimate-celebration/",
+    "as_of": "2026-10-05"
+   }
+  ],
+  "destination_dining.experiences": [
+   {
+    "value": "private dining",
+    "source_url": "https://www.saiihotels.com/wp-content/uploads/2025/10/SAii-Lagoon-Maldives-Factsheet-2025.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "dinner under the stars",
+    "source_url": "https://www.saiihotels.com/wp-content/uploads/2025/10/SAii-Lagoon-Maldives-Factsheet-2025.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://www.saiihotels.com/wp-content/uploads/2025/10/SAii-Lagoon-Maldives-Factsheet-2025.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "beach dinner",
+    "source_url": "https://www.saiihotels.com/wp-content/uploads/2025/10/SAii-Lagoon-Maldives-Factsheet-2025.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://www.saiihotels.com/wp-content/uploads/2025/10/SAii-Lagoon-Maldives-Factsheet-2025.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "in-villa dining",
+    "source_url": "https://www.saiihotels.com/wp-content/uploads/2025/10/SAii-Lagoon-Maldives-Factsheet-2025.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "beach dinner",
+    "source_url": "https://www.saiihotels.com/design-your-perfect-honeymoon-getaway-with-saii-resorts/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "private dining",
+    "source_url": "https://www.saiihotels.com/design-your-perfect-honeymoon-getaway-with-saii-resorts/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "private dining",
+    "source_url": "https://www.saiihotels.com/design-your-perfect-honeymoon-getaway-with-saii-resorts/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "private dining",
+    "source_url": "https://www.saiihotels.com/design-your-perfect-honeymoon-getaway-with-saii-resorts/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "candlelit dinner",
+    "source_url": "https://www.saiihotels.com/kohsamui-villas/weddings/intimate-celebration/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "romantic dining",
+    "source_url": "https://www.saiihotels.com/laguna-phuket/offers/beachfront-romantic-dining/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "private dining",
+    "source_url": "https://www.saiihotels.com/laguna-phuket/offers/beachfront-romantic-dining/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "romantic dining",
+    "source_url": "https://www.saiihotels.com/laguna-phuket/offers/beachfront-romantic-dining/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "private dining",
+    "source_url": "https://www.saiihotels.com/laguna-phuket/offers/beachfront-romantic-dining/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "dinner under the stars",
+    "source_url": "https://www.saiihotels.com/phiphiisland-village/dining/dinner-under-the-stars/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "beach bbq",
+    "source_url": "https://www.saiihotels.com/phiphiisland-village/offers/private-beach-bbq/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "private dining",
+    "source_url": "https://www.saiihotels.com/phiphiisland-village/offers/private-beach-bbq/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "beach bbq",
+    "source_url": "https://www.saiihotels.com/phiphiisland-village/offers/private-beach-bbq/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "private dining",
+    "source_url": "https://www.saiihotels.com/phiphiisland-village/offers/romance-in-paradise/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "romantic dinner",
+    "source_url": "https://www.saiihotels.com/phiphiisland-village/offers/romance-in-paradise/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.saiihotels.com/phiphiisland-village/offers/romantic-rendezvous-by-longtail-boat/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "private dining",
+    "source_url": "https://www.saiihotels.com/phiphiisland-village/offers/twilight-grill-dinner/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "private dining",
+    "source_url": "https://www.saiihotels.com/phiphiisland-village/offers/twilight-grill-dinner/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "beach bbq",
+    "source_url": "https://www.saiihotels.com/phiphiisland-village/offers/twilight-grill-dinner/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "beach bbq",
+    "source_url": "https://www.saiihotels.com/press/saii-resorts-invites-guests-to-experience-a-free-spirited-festive-season-in-southern-thailands-idyllic-islands/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "private dining",
+    "source_url": "https://www.neoscapesmaldives.com/resort/saii-lagoon-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://www.neoscapesmaldives.com/resort/saii-lagoon-maldives/",
     "as_of": "2026-10-04"
    }
   ],
@@ -610,11 +1021,6 @@
     "as_of": 2025
    },
    {
-    "value": "organic garden",
-    "source_url": "https://www.saiihotels.com/wp-content/uploads/2026/06/June-Recreation-English.pdf",
-    "as_of": 2026
-   },
-   {
     "value": "solar",
     "source_url": "https://www.saiihotels.com/wp-content/uploads/2025/11/SAii-Green-Book.pdf",
     "as_of": 2024
@@ -623,6 +1029,36 @@
     "value": "marine biologist",
     "source_url": "https://www.saiihotels.com/lagoon-maldives/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "marine biologist",
+    "source_url": "https://www.saiihotels.com/press/a-vital-mission-saii-phi-phi-island-village-celebrates-global-shark-awareness-day-with-preservation-milestone-and-a-new-guest-experience/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Green Globe",
+    "source_url": "https://www.saiihotels.com/press/a-vital-mission-saii-phi-phi-island-village-celebrates-global-shark-awareness-day-with-preservation-milestone-and-a-new-guest-experience/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "marine biologist",
+    "source_url": "https://www.saiihotels.com/press/saii-makes-an-instant-impression-as-two-inaugural-island-resorts-in-thailand-receive-rave-reviews-from-experience-seeking-guests/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "marine biologist",
+    "source_url": "https://www.saiihotels.com/press/saii-phi-phi-island-village-brings-marine-conservation-to-life-with-dedicated-diving-experiences/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "single-use plastic",
+    "source_url": "https://www.saiihotels.com/press/saii-phi-phi-island-village-brings-marine-conservation-to-life-with-dedicated-diving-experiences/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "marine biologist",
+    "source_url": "https://www.saiihotels.com/press/saii-resorts-invites-guests-to-experience-a-free-spirited-festive-season-in-southern-thailands-idyllic-islands/",
+    "as_of": "2026-10-05"
    }
   ],
   "contacts_public.phone": [
@@ -645,13 +1081,6 @@
     "value": "+960 736 5425",
     "source_url": "https://www.neoscapesmaldives.com/resort/saii-lagoon-maldives/",
     "as_of": "2026-10-04"
-   }
-  ],
-  "diving_watersports.house_reef": [
-   {
-    "value": "House Reef Tour | Meeting Point at Koimala & Maalimi’s Junior Beach Club & Camp (b)",
-    "source_url": "https://www.saiihotels.com/wp-content/uploads/2026/06/June-Recreation-English.pdf",
-    "as_of": 2026
    }
   ],
   "kids_family.teens": [
@@ -713,6 +1142,11 @@
    },
    {
     "value": "Dive Centre",
+    "source_url": "https://www.saiihotels.com/press/saii-phi-phi-island-village-brings-marine-conservation-to-life-with-dedicated-diving-experiences/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Dive Centre",
     "source_url": "https://www.neoscapesmaldives.com/resort/saii-lagoon-maldives/",
     "as_of": "2026-10-04"
    }
@@ -722,6 +1156,31 @@
     "value": "speedboat",
     "source_url": "https://www.saiihotels.com/lagoon-maldives/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "yacht",
+    "source_url": "https://www.saiihotels.com/lagoon-maldives/weddings-and-meetings/celebrations-events/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.saiihotels.com/phiphiisland-village/offers/private-beach-bbq/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.saiihotels.com/phiphiisland-village/offers/romance-in-paradise/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.saiihotels.com/phiphiisland-village/offers/romantic-rendezvous-by-longtail-boat/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.saiihotels.com/phiphiisland-village/offers/twilight-grill-dinner/",
+    "as_of": "2026-10-05"
    },
    {
     "value": "speedboat",
@@ -744,6 +1203,68 @@
     "value": 15,
     "source_url": "https://www.neoscapesmaldives.com/resort/saii-lagoon-maldives/",
     "as_of": "2026-10-04"
+   }
+  ],
+  "events_mice.buyout": [
+   {
+    "value": true,
+    "source_url": "https://www.saiihotels.com/kohsamui-villas/offers/island-celebrations/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.saiihotels.com/phiphiisland-village/offers/island-celebrations/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.saiihotels.com/phiphiisland-village/offers/romance-in-paradise/",
+    "as_of": "2026-10-05"
+   }
+  ],
+  "weddings.venues": [
+   {
+    "value": "Variety of venue choices from the beach to the event hall",
+    "source_url": "https://www.saiihotels.com/lagoon-maldives/weddings-and-meetings/celebrations-events/",
+    "as_of": "2026-10-05"
+   }
+  ],
+  "events_mice.capacity_max": [
+   {
+    "value": 308,
+    "source_url": "https://www.saiihotels.com/lagoon-maldives/weddings-and-meetings/celebrations-events/",
+    "as_of": "2026-10-05"
+   }
+  ],
+  "villas.total": [
+   {
+    "value": 600,
+    "source_url": "https://www.saiihotels.com/press/s-hotels-resorts-free-spirited-lifestyle-brand-saii-celebrates-homecoming-as-two-beachfront-resorts-open-in-thailand-2/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": 600,
+    "source_url": "https://www.saiihotels.com/press/s-hotels-resorts-free-spirited-lifestyle-brand-saii-celebrates-homecoming-as-two-beachfront-resorts-open-in-thailand/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": 600,
+    "source_url": "https://www.saiihotels.com/press/saii-makes-an-instant-impression-as-two-inaugural-island-resorts-in-thailand-receive-rave-reviews-from-experience-seeking-guests/",
+    "as_of": "2026-10-05"
+   }
+  ],
+  "opened_or_renovated": [
+   {
+    "value": "opened 2019",
+    "source_url": "https://www.saiihotels.com/press/saii-makes-an-instant-impression-as-two-inaugural-island-resorts-in-thailand-receive-rave-reviews-from-experience-seeking-guests/",
+    "as_of": "2026-10-05"
+   }
+  ],
+  "diving_watersports.house_reef": [
+   {
+    "value": "house reef and the colourful sealife that depends in it",
+    "source_url": "https://www.saiihotels.com/press/saii-phi-phi-island-village-brings-marine-conservation-to-life-with-dedicated-diving-experiences/",
+    "as_of": "2026-10-05"
    }
   ],
   "island_size": [

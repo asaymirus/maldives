@@ -125,7 +125,7 @@
    "sailing",
    "canoe"
   ],
-  "price_list_doc": "https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/cci_ocean_culture_life_como_journey.pdf"
+  "price_list_doc": "https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/como_cocoa_island_como_yacht_pricelist_may_2023.pdf"
  },
  "excursions": [
   "sandbank",
@@ -133,11 +133,11 @@
   "whale shark",
   "picnic",
   "private dinner",
+  "cinema",
   "dolphin",
   "turtle",
-  "local island",
-  "cinema",
   "cooking class",
+  "local island",
   "big game fishing"
  ],
  "kids_family": {
@@ -173,6 +173,38 @@
   ],
   "brochure_doc": "https://de87ve0y4m3tc.cloudfront.net/comohotels.dev.cendynecommerce.com-2459770069/cms/pressroom/cci_wedding_brochure.pdf"
  },
+ "destination_dining": {
+  "experiences": [
+   "sunset cruise",
+   "private dining",
+   "candlelit dinner",
+   "floating breakfast",
+   "sandbank dinner",
+   "sandbank picnic",
+   "jetty dinner",
+   "sandbank breakfast",
+   "private chef",
+   "sandbank experience",
+   "romantic dining",
+   "romantic dinner"
+  ],
+  "packages": [
+   {
+    "name": "Champagne breakfast or Floating Breakfast",
+    "price": "5888",
+    "currency": "USD",
+    "as_of": 2024
+   },
+   {
+    "name": "SANDBANK BBQ",
+    "price": "788",
+    "currency": "USD",
+    "as_of": 2026
+   }
+  ],
+  "sandbank_events": true,
+  "doc": "https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/como_cocoa_island_dining_privatediningbrochure.pdf"
+ },
  "events_mice": {
   "venues": [],
   "capacity_max": 72,
@@ -195,9 +227,10 @@
   "wedding": "https://de87ve0y4m3tc.cloudfront.net/comohotels.dev.cendynecommerce.com-2459770069/cms/pressroom/cci_wedding_brochure.pdf",
   "spa_menu": "https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/cci_cs_vp_matteo_pasquali_treatment_menu.pdf",
   "dining_menu": "https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/cci_como_compass_activities_menu.pdf",
-  "dive_prices": "https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/cci_ocean_culture_life_como_journey.pdf",
+  "dive_prices": "https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/como_cocoa_island_como_yacht_pricelist_may_2023.pdf",
   "events": "https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/como_cocoa_island_privateisland_buyout_brochure.pdf",
-  "calendar": "https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/cci_pre_festive_programme_dec_20_to_23.pdf"
+  "calendar": "https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/cci_pre_festive_programme_dec_20_to_23.pdf",
+  "destination_dining": "https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/como_cocoa_island_dining_privatediningbrochure.pdf"
  },
  "documents_count": 40,
  "gaps": [
@@ -214,6 +247,11 @@
     "value": "South Malé Atoll",
     "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/cci_como_compass_activities_menu.pdf",
     "as_of": 2026
+   },
+   {
+    "value": "South Malé Atoll",
+    "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/como_cocoa_island_como_yacht_pricelist_may_2023.pdf",
+    "as_of": 2023
    },
    {
     "value": "South Malé Atoll",
@@ -276,6 +314,11 @@
     "value": "yacht",
     "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/cci_como_compass_activities_menu.pdf",
     "as_of": 2026
+   },
+   {
+    "value": "yacht",
+    "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/como_cocoa_island_como_yacht_pricelist_may_2023.pdf",
+    "as_of": 2023
    },
    {
     "value": "seaplane",
@@ -506,6 +549,11 @@
     "as_of": 2022
    },
    {
+    "value": "snorkelling",
+    "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/cci_ocean_culture_life_como_journey.pdf",
+    "as_of": 2026
+   },
+   {
     "value": "sunset cruise",
     "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.dev.cendynecommerce.com-2459770069/cms/pressroom/cci_wedding_brochure.pdf",
     "as_of": 2024
@@ -582,8 +630,18 @@
    },
    {
     "value": "snorkelling",
-    "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/cci_ocean_culture_life_como_journey.pdf",
-    "as_of": 2026
+    "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/como_cocoa_island_como_yacht_pricelist_may_2023.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/como_cocoa_island_como_yacht_pricelist_may_2023.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/como_cocoa_island_como_yacht_pricelist_may_2023.pdf",
+    "as_of": 2023
    },
    {
     "value": "snorkelling",
@@ -778,6 +836,11 @@
     "as_of": 2022
    },
    {
+    "value": "cinema",
+    "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/cci_ocean_culture_life_como_journey.pdf",
+    "as_of": 2026
+   },
+   {
     "value": "sandbank",
     "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.dev.cendynecommerce.com-2459770069/cms/pressroom/cci_wedding_brochure.pdf",
     "as_of": 2024
@@ -796,6 +859,26 @@
     "value": "turtle",
     "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/como_cocoa_island_privateisland_buyout_brochure.pdf",
     "as_of": 2025
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/como_cocoa_island_dining_privatediningbrochure.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": "picnic",
+    "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/como_cocoa_island_dining_privatediningbrochure.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": "cinema",
+    "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/como_cocoa_island_dining_privatediningbrochure.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": "cooking class",
+    "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/como_cocoa_island_dining_privatediningbrochure.pdf",
+    "as_of": 2023
    },
    {
     "value": "local island",
@@ -833,9 +916,9 @@
     "as_of": 2026
    },
    {
-    "value": "cinema",
-    "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/cci_ocean_culture_life_como_journey.pdf",
-    "as_of": 2026
+    "value": "dolphin",
+    "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/como_cocoa_island_como_yacht_pricelist_may_2023.pdf",
+    "as_of": 2023
    },
    {
     "value": "sandbank",
@@ -1174,6 +1257,335 @@
     "as_of": 2024
    }
   ],
+  "destination_dining.experiences": [
+   {
+    "value": "sunset cruise",
+    "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.dev.cendynecommerce.com-2459770069/cms/pressroom/cci_groups_and_events_fact_sheet.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.dev.cendynecommerce.com-2459770069/cms/pressroom/cci_groups_and_events_fact_sheet.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.dev.cendynecommerce.com-2459770069/cms/pressroom/cci_groups_and_events_fact_sheet.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": "private dining",
+    "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.dev.cendynecommerce.com-2459770069/cms/pressroom/cci_groups_and_events_fact_sheet.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": "candlelit dinner",
+    "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.dev.cendynecommerce.com-2459770069/cms/pressroom/cci_wedding_brochure.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.dev.cendynecommerce.com-2459770069/cms/pressroom/cci_wedding_brochure.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "sandbank dinner",
+    "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.dev.cendynecommerce.com-2459770069/cms/pressroom/cci_wedding_brochure.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.dev.cendynecommerce.com-2459770069/cms/pressroom/cci_wedding_brochure.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.dev.cendynecommerce.com-2459770069/cms/pressroom/cci_wedding_brochure.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "sandbank dinner",
+    "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.dev.cendynecommerce.com-2459770069/cms/pressroom/cci_wedding_brochure.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.dev.cendynecommerce.com-2459770069/cms/pressroom/cci_wedding_brochure.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "sandbank dinner",
+    "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.dev.cendynecommerce.com-2459770069/cms/pressroom/cci_wedding_brochure.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.dev.cendynecommerce.com-2459770069/cms/pressroom/cci_wedding_brochure.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "sandbank dinner",
+    "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/como_cocoa_island_privateisland_buyout_brochure.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "private dining",
+    "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/como_cocoa_island_dining_privatediningbrochure.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": "sandbank dinner",
+    "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/como_cocoa_island_dining_privatediningbrochure.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": "candlelit dinner",
+    "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/como_cocoa_island_dining_privatediningbrochure.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": "sandbank picnic",
+    "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/como_cocoa_island_dining_privatediningbrochure.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": "candlelit dinner",
+    "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/como_cocoa_island_dining_privatediningbrochure.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": "sandbank dinner",
+    "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/como_cocoa_island_dining_privatediningbrochure.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": "candlelit dinner",
+    "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/como_cocoa_island_dining_privatediningbrochure.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": "jetty dinner",
+    "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/como_cocoa_island_dining_privatediningbrochure.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": "sandbank breakfast",
+    "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/cci_como_compass_activities_menu.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "sandbank dinner",
+    "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/cci_como_compass_activities_menu.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "sandbank picnic",
+    "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/cci_como_compass_activities_menu.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "private dining",
+    "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/cci_como_compass_activities_menu.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/cci_como_compass_activities_menu.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "sandbank picnic",
+    "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/cci_como_compass_activities_menu.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "private dining",
+    "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/cci_como_compass_activities_menu.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "private dining",
+    "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/cci_como_compass_activities_menu.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "private dining",
+    "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/cci_como_compass_activities_menu.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "candlelit dinner",
+    "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/cci_como_compass_activities_menu.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "private dining",
+    "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/cci_como_compass_activities_menu.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "private dining",
+    "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/cci_como_compass_activities_menu.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "private dining",
+    "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/cci_como_compass_activities_menu.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "private dining",
+    "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/cci_como_compass_activities_menu.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "private chef",
+    "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/cci_como_compass_activities_menu.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "private dining",
+    "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/cci_como_compass_activities_menu.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "private dining",
+    "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/cci_como_compass_activities_menu.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "private dining",
+    "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/cci_como_compass_activities_menu.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "private dining",
+    "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/cci_como_compass_activities_menu.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/como_cocoa_island_como_yacht_pricelist_may_2023.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": "sandbank experience",
+    "source_url": "https://www.comohotels.com/maldives/como-cocoa-island",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank experience",
+    "source_url": "https://www.comohotels.com/maldives/como-cocoa-island",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "romantic dining",
+    "source_url": "https://www.comohotels.com/maldives/como-cocoa-island",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.comohotels.com/maldives/como-cocoa-island/experiences/festive",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.comohotels.com/maldives/como-cocoa-island/experiences/festive",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.comohotels.com/maldives/como-cocoa-island/experiences/festive",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank experience",
+    "source_url": "https://www.comohotels.com/maldives/como-cocoa-island/www.comohotels.com/como-cocoa-island-activity-schedule",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank experience",
+    "source_url": "https://www.comohotels.com/maldives/como-cocoa-island/www.comohotels.com/como-cocoa-island-activity-schedule",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "romantic dining",
+    "source_url": "https://www.comohotels.com/maldives/como-cocoa-island/www.comohotels.com/como-cocoa-island-activity-schedule",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "private dining",
+    "source_url": "https://www.neoscapesmaldives.com/resort/como-cocoa-island/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "private dining",
+    "source_url": "https://www.neoscapesmaldives.com/resort/como-cocoa-island/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.neoscapesmaldives.com/resort/como-cocoa-island/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.neoscapesmaldives.com/resort/como-cocoa-island/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "romantic dinner",
+    "source_url": "https://unihotel.org/como-cocoa-island",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank picnic",
+    "source_url": "https://www.maldivesholidayoffers.com/blogs/blog-detail/cocoa-island-maldives-greatest-water-villa-resort/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "destination_dining.sandbank_events": [
+   {
+    "value": true,
+    "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.dev.cendynecommerce.com-2459770069/cms/pressroom/cci_groups_and_events_fact_sheet.pdf",
+    "as_of": 2022
+   },
+   {
+    "value": true,
+    "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.dev.cendynecommerce.com-2459770069/cms/pressroom/cci_wedding_brochure.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": true,
+    "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/como_cocoa_island_privateisland_buyout_brochure.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": true,
+    "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/como_cocoa_island_dining_privatediningbrochure.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": true,
+    "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/cci_como_compass_activities_menu.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": true,
+    "source_url": "https://www.comohotels.com/maldives/como-cocoa-island",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.comohotels.com/maldives/como-cocoa-island/www.comohotels.com/como-cocoa-island-activity-schedule",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.maldivesholidayoffers.com/blogs/blog-detail/cocoa-island-maldives-greatest-water-villa-resort/",
+    "as_of": "2026-10-04"
+   }
+  ],
   "events_mice.capacity_max": [
    {
     "value": 30,
@@ -1251,6 +1663,11 @@
    },
    {
     "value": "+960 664 1818",
+    "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/cci_ocean_culture_life_como_journey.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "+960 664 1818",
     "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/como_cocoa_island_privateisland_buyout_brochure.pdf",
     "as_of": 2025
    },
@@ -1261,8 +1678,8 @@
    },
    {
     "value": "+960 664 1818",
-    "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/cci_ocean_culture_life_como_journey.pdf",
-    "as_of": 2026
+    "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/como_cocoa_island_como_yacht_pricelist_may_2023.pdf",
+    "as_of": 2023
    },
    {
     "value": "+960 664 1818",
@@ -1285,11 +1702,23 @@
     "as_of": "2026-10-04"
    }
   ],
+  "kids_family.teens": [
+   {
+    "value": "teens programme mentioned",
+    "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/cci_ocean_culture_life_como_journey.pdf",
+    "as_of": 2026
+   }
+  ],
   "meal_plans": [
    {
     "value": "HB",
     "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.dev.cendynecommerce.com-2459770069/cms/pressroom/cci_wedding_brochure.pdf",
     "as_of": 2024
+   },
+   {
+    "value": "HB",
+    "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/como_cocoa_island_dining_privatediningbrochure.pdf",
+    "as_of": 2023
    },
    {
     "value": "HB",
@@ -1379,6 +1808,28 @@
     "as_of": 2024
    }
   ],
+  "destination_dining.packages": [
+   {
+    "value": {
+     "name": "Champagne breakfast or Floating Breakfast",
+     "price": "5888",
+     "currency": "USD",
+     "as_of": 2024
+    },
+    "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.dev.cendynecommerce.com-2459770069/cms/pressroom/cci_wedding_brochure.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": {
+     "name": "SANDBANK BBQ",
+     "price": "788",
+     "currency": "USD",
+     "as_of": 2026
+    },
+    "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/cci_como_compass_activities_menu.pdf",
+    "as_of": 2026
+   }
+  ],
   "events_mice.buyout": [
    {
     "value": true,
@@ -1421,13 +1872,6 @@
     "value": "House Reef",
     "source_url": "https://www.neoscapesmaldives.com/resort/como-cocoa-island/",
     "as_of": "2026-10-04"
-   }
-  ],
-  "kids_family.teens": [
-   {
-    "value": "teens programme mentioned",
-    "source_url": "https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/cci_ocean_culture_life_como_journey.pdf",
-    "as_of": 2026
    }
   ],
   "island": [

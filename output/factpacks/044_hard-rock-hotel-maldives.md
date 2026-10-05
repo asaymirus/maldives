@@ -50,6 +50,7 @@
 - + Kinkao Thai Bistro @ The Marina (restaurant)
 - Location: Hard Rock Cafe (restaurant)
 - The Pool Bar (bar)
+- Rock Royalty® Lounge (bar)
 - Hard Rock Cafe Maldives (restaurant)
 - Hard Rock Cafe at Hard Rock Hotel Maldives (restaurant)
 - The Elephant and the Butterfly Pool Bar (bar)
@@ -62,7 +63,7 @@ All-inclusive: All-Inclusive experience.
 ## Spa & wellness
 
 - Spa: Rock Spa; treatment rooms: ?; menu: https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf
-- Wellness/fitness: yoga, meditation, gym, fitness center, beach volleyball, personal trainer, steam, tennis, padel, fitness centre
+- Wellness/fitness: yoga, meditation, gym, fitness center, beach volleyball, personal trainer, steam, tennis, padel, sauna, pilates, fitness centre
 
 ## Diving, water sports & excursions
 
@@ -82,6 +83,12 @@ All-inclusive: All-Inclusive experience.
 - Venues: n/a
 - Packages: Hard Rock Wedding Package USD 2800 (2026-10-04); Wedding USD 999 (2026-10-04)
 - Brochure: https://hotel.hardrock.com/maldives/files/6016/HRH_Wedding_Brochure_2026.pdf
+
+## Destination dining
+
+- Experiences: in-villa dining, floating breakfast, private chef, private dining, romantic dinner, destination dining, beach dinner, sunset cruise, in villa dining, honeymoon dinner
+- Packages: n/a
+- Sandbank events: None; document: https://hotel.hardrock.com/los-cabos/files/6148/Romantic-Dinner-Hard-Rock-Hotel-Los-Cabos.pdf
 
 ## Events / MICE
 
@@ -106,10 +113,11 @@ All-inclusive: All-Inclusive experience.
 - dive_prices: none
 - events: none
 - calendar: none
+- destination_dining: https://hotel.hardrock.com/los-cabos/files/6148/Romantic-Dinner-Hard-Rock-Hotel-Los-Cabos.pdf
 
 ## Gaps
 
 - factsheet
 - events/MICE document
 
-_Facts extracted by rules from 24 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._
+_Facts extracted by rules from 25 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

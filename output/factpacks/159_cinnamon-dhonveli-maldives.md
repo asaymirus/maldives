@@ -56,6 +56,12 @@ All-inclusive: all-inclusive con upgrade in o.
 - Packages: n/a
 - Brochure: none
 
+## Destination dining
+
+- Experiences: private dining, sunset cruise
+- Packages: n/a
+- Sandbank events: None; document: none
+
 ## Events / MICE
 
 - Venues: Conference Room; capacity max: 50; buyout: None
@@ -79,6 +85,7 @@ All-inclusive: all-inclusive con upgrade in o.
 - dive_prices: none
 - events: none
 - calendar: https://letsgomaldives.com/wp-content/uploads/2026/08/Dhonveli_Festive-Brochure.pdf
+- destination_dining: none
 
 ## Gaps
 
@@ -86,4 +93,4 @@ All-inclusive: all-inclusive con upgrade in o.
 - events/MICE document
 - fact: dive operator
 
-_Facts extracted by rules from 23 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._
+_Facts extracted by rules from 24 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

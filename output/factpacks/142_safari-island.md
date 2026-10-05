@@ -39,6 +39,12 @@ Meal plans: AI
 - Packages: n/a
 - Brochure: none
 
+## Destination dining
+
+- Experiences: n/a
+- Packages: n/a
+- Sandbank events: None; document: none
+
 ## Events / MICE
 
 - Venues: n/a; capacity max: n/a; buyout: None
@@ -62,12 +68,14 @@ Meal plans: AI
 - dive_prices: https://dreamland.com.mv/wp-content/uploads/2024/08/DREAMLAND-Diving-FAQs-English.pdf
 - events: none
 - calendar: none
+- destination_dining: none
 
 ## Gaps
 
 - factsheet
 - wedding brochure
 - events/MICE document
+- destination dining (romantic/sandbank dinners)
 - fact: villas.total
 - fact: villa categories
 - fact: dining

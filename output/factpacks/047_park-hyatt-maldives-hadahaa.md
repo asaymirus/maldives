@@ -40,6 +40,12 @@ All-inclusive: All Inclusive Urlaub und erhalten alle Mahlzeiten, Frühstück, M
 - Packages: n/a
 - Brochure: none
 
+## Destination dining
+
+- Experiences: in-villa dining, sunset cruise
+- Packages: n/a
+- Sandbank events: None; document: none
+
 ## Events / MICE
 
 - Venues: n/a; capacity max: n/a; buyout: None
@@ -63,6 +69,7 @@ All-inclusive: All Inclusive Urlaub und erhalten alle Mahlzeiten, Frühstück, M
 - dive_prices: none
 - events: none
 - calendar: none
+- destination_dining: none
 
 ## Gaps
 
@@ -75,4 +82,4 @@ All-inclusive: All Inclusive Urlaub und erhalten alle Mahlzeiten, Frühstück, M
 - fact: kids club
 - fact: contacts
 
-_Facts extracted by rules from 12 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._
+_Facts extracted by rules from 13 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

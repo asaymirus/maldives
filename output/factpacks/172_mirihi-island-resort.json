@@ -88,6 +88,25 @@
   "packages": [],
   "brochure_doc": null
  },
+ "destination_dining": {
+  "experiences": [
+   "romantic dining",
+   "private dining",
+   "sunset cruise",
+   "sandbank picnic",
+   "sandbank experience"
+  ],
+  "packages": [
+   {
+    "name": "Private Sandbank Picnic",
+    "price": "290",
+    "currency": "USD",
+    "as_of": 2026
+   }
+  ],
+  "sandbank_events": true,
+  "doc": null
+ },
  "events_mice": {
   "venues": [],
   "capacity_max": null,
@@ -108,7 +127,8 @@
   "dining_menu": null,
   "dive_prices": "https://www.vvillasmaldivesatmirihi.com/wp-content/uploads/sites/14/2026/03/Ocean-Pro-Mirihi-Diving-Rates-2026-Revised-14-03-26.pdf",
   "events": null,
-  "calendar": "https://d2qwq69i2ic1pk.cloudfront.net/2023/11/CCR_2024_Calendar_compressed.pdf"
+  "calendar": "https://d2qwq69i2ic1pk.cloudfront.net/2023/11/CCR_2024_Calendar_compressed.pdf",
+  "destination_dining": null
  },
  "documents_count": 8,
  "gaps": [
@@ -227,6 +247,63 @@
     "as_of": "2026-10-04"
    }
   ],
+  "destination_dining.experiences": [
+   {
+    "value": "romantic dining",
+    "source_url": "https://www.vvillasmaldivesatmirihi.com/wp-content/uploads/sites/14/2026/03/Mirihi-FB-Brochure-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "private dining",
+    "source_url": "https://www.vvillasmaldivesatmirihi.com/wp-content/uploads/sites/14/2026/03/Mirihi-FB-Brochure-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.vvillasmaldivesatmirihi.com/wp-content/uploads/sites/14/2026/03/VVM-Excursions-Brochure-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.vvillasmaldivesatmirihi.com/wp-content/uploads/sites/14/2026/03/VVM-Excursions-Brochure-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "sandbank picnic",
+    "source_url": "https://www.vvillasmaldivesatmirihi.com/wp-content/uploads/sites/14/2026/03/VVM-Excursions-Brochure-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "sandbank picnic",
+    "source_url": "https://www.vvillasmaldivesatmirihi.com/wp-content/uploads/sites/14/2026/03/VVM-Excursions-Brochure-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.vvillasmaldivesatmirihi.com/wp-content/uploads/sites/14/2026/03/VVM-Excursions-Brochure-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.vvillasmaldivesatmirihi.com/wp-content/uploads/sites/14/2026/03/VVM-Excursions-Brochure-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.vvillasmaldivesatmirihi.com/wp-content/uploads/sites/14/2026/03/VVM-Excursions-Brochure-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "sandbank experience",
+    "source_url": "https://www.vvillasmaldivesatmirihi.com/wp-content/uploads/sites/14/2026/03/VVM-Excursions-Brochure-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "sandbank picnic",
+    "source_url": "https://www.vvillasmaldivesatmirihi.com/wp-content/uploads/sites/14/2026/03/VVM-Excursions-Brochure-2026.pdf",
+    "as_of": 2026
+   }
+  ],
   "wellness_fitness": [
    {
     "value": "yoga",
@@ -340,6 +417,25 @@
     "value": "house reef steps from overwater villas",
     "source_url": "https://www.mirihi.com/",
     "as_of": "2026-10-04"
+   }
+  ],
+  "destination_dining.packages": [
+   {
+    "value": {
+     "name": "Private Sandbank Picnic",
+     "price": "290",
+     "currency": "USD",
+     "as_of": 2026
+    },
+    "source_url": "https://www.vvillasmaldivesatmirihi.com/wp-content/uploads/sites/14/2026/03/VVM-Excursions-Brochure-2026.pdf",
+    "as_of": 2026
+   }
+  ],
+  "destination_dining.sandbank_events": [
+   {
+    "value": true,
+    "source_url": "https://www.vvillasmaldivesatmirihi.com/wp-content/uploads/sites/14/2026/03/VVM-Excursions-Brochure-2026.pdf",
+    "as_of": 2026
    }
   ],
   "island": [

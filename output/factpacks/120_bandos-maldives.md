@@ -57,6 +57,12 @@ All-inclusive: all-inclusive package.
 - Packages: Dives Package USD 701 (2026)
 - Brochure: https://bandosmaldives.com/wp-content/uploads/2024/02/Wedding-Packages.pdf
 
+## Destination dining
+
+- Experiences: in-villa dining, private dining, candlelit dinner, romantic private dinner, candle lit dinner, sunset cruise, beach dinner, floating breakfast, sand bank picnic, sandbank picnic, lobster dinner, private chef, beach bbq
+- Packages: n/a
+- Sandbank events: True; document: none
+
 ## Events / MICE
 
 - Venues: BOARDROOM; Meeting Room Booking; capacity max: 350; buyout: None
@@ -80,8 +86,9 @@ All-inclusive: all-inclusive package.
 - dive_prices: https://bandosmaldives.com/wp-content/uploads/2026/01/Dive-Bandos-Price-List.pdf
 - events: https://bandosmaldives.com/wp-content/uploads/2026/01/Festive-Event-Brochure-19.12.25.pdf
 - calendar: https://bandosmaldives.com/wp-content/uploads/2026/04/Easter-at-Bandos.pdf
+- destination_dining: none
 
 ## Gaps
 
 
-_Facts extracted by rules from 28 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._
+_Facts extracted by rules from 30 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

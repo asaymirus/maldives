@@ -37,7 +37,7 @@ Spa; treatment rooms: ?; menu: https://coracoraresorts.com/wp-content/uploads/20
 
 - Operator: TGI
 - House reef: house reef
-- Activities: windsurfing, stand-up paddle, paddleboard, catamaran, parasailing, snorkeling, fun tube, banana boat, snorkelling, manta, fishing, sunset cruise
+- Activities: windsurfing, stand-up paddle, paddleboard, catamaran, parasailing, snorkeling, fun tube, banana boat, snorkelling, manta, fishing, sunset cruise, wakeboarding, scuba diving, jet ski
 - Price list: https://coracoraresorts.com/wp-content/uploads/2026/01/CCM-Full-TGI-List-Price-Lists-2026.pdf
 - Excursions: turtle, picnic, local island, manta, dolphin, private dinner, cinema
 
@@ -49,9 +49,15 @@ Kids Club; ages: n/a; teens: teens programme mentioned
 ## Weddings
 
 - Offered: True; vow renewal: None
-- Venues: on the beach during the ceremony and ﬂower decoration on
+- Venues: on the beach during the ceremony and ﬂower decoration on; Decorated beach venue
 - Packages: n/a
 - Brochure: https://coracoraresorts.com/wp-content/uploads/2026/01/CCM_Wedding-Package_2026.pdf
+
+## Destination dining
+
+- Experiences: romantic dinner, sunset cruise, private dining, anniversary celebration
+- Packages: Beach Cabana Dinner USD 200 (2026)
+- Sandbank events: None; document: none
 
 ## Events / MICE
 
@@ -76,10 +82,11 @@ Kids Club; ages: n/a; teens: teens programme mentioned
 - dive_prices: https://coracoraresorts.com/wp-content/uploads/2026/01/CCM-Full-TGI-List-Price-Lists-2026.pdf
 - events: none
 - calendar: https://coracoraresorts.com/wp-content/uploads/2025/12/CCM-Welcome-to-the-Northpole-Festive-Program-2025-2026.pdf
+- destination_dining: none
 
 ## Gaps
 
 - events/MICE document
 - fact: villas.total
 
-_Facts extracted by rules from 24 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._
+_Facts extracted by rules from 26 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

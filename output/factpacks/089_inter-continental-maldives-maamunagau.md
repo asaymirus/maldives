@@ -28,22 +28,23 @@
 
 - 每日在 Café Umi 享用早餐及多家餐厅晚餐 (restaurant)
 - Private Seaplane Lounge Access (bar)
+- Zugang zur privaten Wasserflugzeug-Lounge (bar)
 
-Meal plans: AI
+Meal plans: AI, Dine Around
 All-inclusive: All-Inclusive private island escape with breakfast, lunch and dinner, selected beverages and .
 
 ## Spa & wellness
 
 - Spa: AVI Spa; treatment rooms: ?; menu: none
-- Wellness/fitness: yoga, meditation, sound healing, beach volleyball, fitness centre, personal trainer
+- Wellness/fitness: yoga, meditation, sound healing, beach volleyball, fitness centre, personal trainer, pilates, wellness programme
 
 ## Diving, water sports & excursions
 
 - Operator: n/a
 - House reef: House Reef
-- Activities: sunset cruise, manta, windsurfing, catamaran, sailing, snorkelling, snorkeling, jet ski, surfing, fishing, kayaking, stand-up paddle
+- Activities: sunset cruise, manta, windsurfing, catamaran, sailing, snorkelling, snorkeling, jet ski, surfing, fishing, kayaking, stand-up paddle, paddleboard
 - Price list: none
-- Excursions: manta, turtle, sandbank, cooking class, dolphin, local island
+- Excursions: manta, turtle, sandbank, cooking class, dolphin, local island, stargazing, picnic
 
 ## Kids & family
 
@@ -56,6 +57,12 @@ All-inclusive: All-Inclusive private island escape with breakfast, lunch and din
 - Packages: n/a
 - Brochure: none
 
+## Destination dining
+
+- Experiences: sunset cruise, romantic dinner, floating breakfast, in-villa dining, wine dinner, private dining, wine pairing, candlelit dinner, beach dinner, romantic dining
+- Packages: n/a
+- Sandbank events: None; document: none
+
 ## Events / MICE
 
 - Venues: n/a; capacity max: n/a; buyout: True
@@ -63,7 +70,7 @@ All-inclusive: All-Inclusive private island escape with breakfast, lunch and din
 
 ## Sustainability
 
-- manta trust, solar, single-use plastic, reef restoration
+- manta trust, solar, single-use plastic, reef restoration, marine biologist
 
 ## Public contacts
 
@@ -79,6 +86,7 @@ All-inclusive: All-Inclusive private island escape with breakfast, lunch and din
 - dive_prices: none
 - events: none
 - calendar: none
+- destination_dining: none
 
 ## Gaps
 
@@ -88,4 +96,4 @@ All-inclusive: All-Inclusive private island escape with breakfast, lunch and din
 - fact: dive operator
 - fact: contacts
 
-_Facts extracted by rules from 20 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._
+_Facts extracted by rules from 21 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

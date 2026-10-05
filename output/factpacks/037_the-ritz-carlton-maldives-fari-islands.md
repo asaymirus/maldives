@@ -52,6 +52,12 @@ The Ritz-Carlton Spa; treatment rooms: 9; menu: none
 - Packages: n/a
 - Brochure: none
 
+## Destination dining
+
+- Experiences: lobster dinner
+- Packages: n/a
+- Sandbank events: None; document: none
+
 ## Events / MICE
 
 - Venues: n/a; capacity max: n/a; buyout: None
@@ -75,10 +81,11 @@ The Ritz-Carlton Spa; treatment rooms: 9; menu: none
 - dive_prices: none
 - events: none
 - calendar: none
+- destination_dining: none
 
 ## Gaps
 
 - wedding brochure
 - events/MICE document
 
-_Facts extracted by rules from 19 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._
+_Facts extracted by rules from 20 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

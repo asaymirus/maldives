@@ -64,7 +64,7 @@
    "banana boat",
    "fun tube"
   ],
-  "price_list_doc": "https://letsgomaldives.com/wp-content/uploads/2026/03/Eid-Al-Fitr-Sirru-Fen-Fushi.pdf"
+  "price_list_doc": "https://neoscapesmaldives.com/wp-content/uploads/Fairmont-Maldives_House-Reef-Snorkeling-and-Diving-Spots.pdf"
  },
  "excursions": [
   "dolphin",
@@ -97,6 +97,17 @@
   "packages": [],
   "brochure_doc": null
  },
+ "destination_dining": {
+  "experiences": [
+   "in-villa dining",
+   "destination dining",
+   "candlelit dinner",
+   "beach barbecue"
+  ],
+  "packages": [],
+  "sandbank_events": null,
+  "doc": null
+ },
  "events_mice": {
   "venues": [],
   "capacity_max": null,
@@ -115,9 +126,10 @@
   "wedding": null,
   "spa_menu": null,
   "dining_menu": null,
-  "dive_prices": "https://letsgomaldives.com/wp-content/uploads/2026/03/Eid-Al-Fitr-Sirru-Fen-Fushi.pdf",
+  "dive_prices": "https://neoscapesmaldives.com/wp-content/uploads/Fairmont-Maldives_House-Reef-Snorkeling-and-Diving-Spots.pdf",
   "events": null,
-  "calendar": null
+  "calendar": null,
+  "destination_dining": null
  },
  "documents_count": 4,
  "gaps": [
@@ -206,6 +218,11 @@
     "as_of": 2023
    },
    {
+    "value": "HOUSE REEF",
+    "source_url": "https://neoscapesmaldives.com/wp-content/uploads/Fairmont-Maldives_House-Reef-Snorkeling-and-Diving-Spots.pdf",
+    "as_of": 2019
+   },
+   {
     "value": "house reef with our resident turtles and the never-ending Indian Ocean",
     "source_url": "https://www.neoscapesmaldives.com/resort/fairmont-maldives-sirru-fen-fushi/",
     "as_of": "2026-10-04"
@@ -241,6 +258,16 @@
     "value": "sailing",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Fairmont-Maldives-Fact-Sheet-2023.pdf",
     "as_of": 2023
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://neoscapesmaldives.com/wp-content/uploads/Fairmont-Maldives_House-Reef-Snorkeling-and-Diving-Spots.pdf",
+    "as_of": 2019
+   },
+   {
+    "value": "manta",
+    "source_url": "https://neoscapesmaldives.com/wp-content/uploads/Fairmont-Maldives_House-Reef-Snorkeling-and-Diving-Spots.pdf",
+    "as_of": 2019
    },
    {
     "value": "snorkeling",
@@ -313,6 +340,16 @@
     "value": "manta",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Fairmont-Maldives-Fact-Sheet-2023.pdf",
     "as_of": 2023
+   },
+   {
+    "value": "manta",
+    "source_url": "https://neoscapesmaldives.com/wp-content/uploads/Fairmont-Maldives_House-Reef-Snorkeling-and-Diving-Spots.pdf",
+    "as_of": 2019
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://neoscapesmaldives.com/wp-content/uploads/Fairmont-Maldives_House-Reef-Snorkeling-and-Diving-Spots.pdf",
+    "as_of": 2019
    },
    {
     "value": "dolphin",
@@ -511,6 +548,38 @@
    },
    {
     "value": true,
+    "source_url": "https://www.neoscapesmaldives.com/resort/fairmont-maldives-sirru-fen-fushi/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "destination_dining.experiences": [
+   {
+    "value": "in-villa dining",
+    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Fairmont-Maldives-Fact-Sheet-2023.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": "in-villa dining",
+    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Fairmont-Maldives-Fact-Sheet-2023.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Fairmont-Maldives-Fact-Sheet-2023.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": "candlelit dinner",
+    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Fairmont-Maldives-Fact-Sheet-2023.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": "beach barbecue",
+    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Fairmont-Maldives-Fact-Sheet-2023.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": "in-villa dining",
     "source_url": "https://www.neoscapesmaldives.com/resort/fairmont-maldives-sirru-fen-fushi/",
     "as_of": "2026-10-04"
    }

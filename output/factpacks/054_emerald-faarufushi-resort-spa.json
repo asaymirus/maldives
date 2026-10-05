@@ -295,6 +295,19 @@
   "packages": [],
   "brochure_doc": null
  },
+ "destination_dining": {
+  "experiences": [
+   "sunset dinner",
+   "sunset cruise",
+   "in-villa dining",
+   "romantic sunset dinner",
+   "romantic dinner",
+   "private dining"
+  ],
+  "packages": [],
+  "sandbank_events": null,
+  "doc": null
+ },
  "events_mice": {
   "venues": [],
   "capacity_max": null,
@@ -319,7 +332,8 @@
   "dining_menu": null,
   "dive_prices": "https://cdn.prod.website-files.com/614dd23228b0182a7ae09c18/671236c0675bb0d2c5ac8504_Farufushi%20DC%20%26amp%3B%20WS%20PRICE%20LIST%20from%2008.04.2023.pdf",
   "events": null,
-  "calendar": null
+  "calendar": null,
+  "destination_dining": null
  },
  "documents_count": 15,
  "gaps": [
@@ -2135,6 +2149,98 @@
    },
    {
     "value": "steam",
+    "source_url": "https://www.neoscapesmaldives.com/resort/emerald-faarufushi-resort-spa/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "destination_dining.experiences": [
+   {
+    "value": "sunset dinner",
+    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Emerald-Faarufushi-Brochure-Web.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://cdn.prod.website-files.com/614dd23228b0182a7ae09c18/671236c0675bb0d2c5ac8504_Farufushi%20DC%20%26amp%3B%20WS%20PRICE%20LIST%20from%2008.04.2023.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": "in-villa dining",
+    "source_url": "https://cdn.prod.website-files.com/614dd23228b0182a7ae09c18/68a5899fa91a1971564ee4e4_082025Emerald%20Faarufushi%20Deluxe%20All-Inclusive%20Package_EN.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "romantic sunset dinner",
+    "source_url": "https://emerald-faarufushi.com/restaurants/mediterraneo-restaurant",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "romantic sunset dinner",
+    "source_url": "https://emerald-faarufushi.com/restaurants/mediterraneo-restaurant",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "romantic dinner",
+    "source_url": "https://emerald-faarufushi.com/lp/deluxe-all-inclusive-family-vacation",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "romantic dinner",
+    "source_url": "https://emerald-faarufushi.com/special-offers/honeymoon-special-offer-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "romantic dinner",
+    "source_url": "https://emerald-faarufushi.com/special-offers/honeymoon-special-offer-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "romantic sunset dinner",
+    "source_url": "https://www.emerald-faarufushi.com/restaurants/mediterraneo-restaurant",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "romantic sunset dinner",
+    "source_url": "https://www.emerald-faarufushi.com/restaurants/mediterraneo-restaurant",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "romantic dinner",
+    "source_url": "https://www.emerald-faarufushi.com/special-offers/honeymoon-special-offer-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "romantic dinner",
+    "source_url": "https://www.emerald-faarufushi.com/special-offers/honeymoon-special-offer-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "romantic sunset dinner",
+    "source_url": "https://www.neoscapesmaldives.com/resort/emerald-faarufushi-resort-spa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "private dining",
+    "source_url": "https://www.neoscapesmaldives.com/resort/emerald-faarufushi-resort-spa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "private dining",
+    "source_url": "https://www.neoscapesmaldives.com/resort/emerald-faarufushi-resort-spa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "romantic dinner",
+    "source_url": "https://www.neoscapesmaldives.com/resort/emerald-faarufushi-resort-spa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "romantic dinner",
+    "source_url": "https://www.neoscapesmaldives.com/resort/emerald-faarufushi-resort-spa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "romantic dinner",
     "source_url": "https://www.neoscapesmaldives.com/resort/emerald-faarufushi-resort-spa/",
     "as_of": "2026-10-04"
    }

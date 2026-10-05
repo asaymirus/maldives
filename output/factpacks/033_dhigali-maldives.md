@@ -72,6 +72,12 @@ All-inclusive: all-inclusive escape.
 - Packages: n/a
 - Brochure: https://www.nivahotelsandresorts.com/wp-content/uploads/2026/05/Wedding-Brochure-NIVA-LR-1.pdf
 
+## Destination dining
+
+- Experiences: destination dining, sandbank picnic, beach dinner, floating breakfast, sandbank trip, in-villa dining, private dining, sandbank escape, sunset cruise
+- Packages: n/a
+- Sandbank events: True; document: https://www.nivadhigali.com/wp-content/uploads/2026/02/Floating-Breakfast-NIVA-LR-1.pdf
+
 ## Events / MICE
 
 - Venues: n/a; capacity max: n/a; buyout: None
@@ -95,9 +101,10 @@ All-inclusive: all-inclusive escape.
 - dive_prices: https://www.nivadhigali.com/wp-content/uploads/2026/08/Snorkeling-Pricelist_Rev200826.pdf
 - events: none
 - calendar: https://www.nivadhigali.com/wp-content/uploads/2026/05/Niva-Dhigali_Festive-2026_web-1.pdf
+- destination_dining: https://www.nivadhigali.com/wp-content/uploads/2026/02/Floating-Breakfast-NIVA-LR-1.pdf
 
 ## Gaps
 
 - events/MICE document
 
-_Facts extracted by rules from 25 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._
+_Facts extracted by rules from 27 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

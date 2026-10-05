@@ -11,8 +11,8 @@
  "operator_brand": "Centara",
  "atoll": "Ari Atoll",
  "island": null,
- "opened_or_renovated": null,
- "star_rating": null,
+ "opened_or_renovated": "opened 2021",
+ "star_rating": "5-star",
  "transfer": {
   "modes": [
    "seaplane",
@@ -20,14 +20,14 @@
   ],
   "minutes": {
    "seaplane": 25,
-   "speedboat": null,
+   "speedboat": 20,
    "domestic flight": null,
    "yacht": null
   }
  },
  "island_size": null,
  "villas": {
-  "total": null,
+  "total": 515,
   "categories": [
    {
     "name": "Villas",
@@ -73,7 +73,9 @@
   }
  ],
  "meal_plans": [
-  "AI"
+  "AI",
+  "HB",
+  "FB"
  ],
  "all_inclusive_details": "all-inclusive resort in the beautiful Maldives, we cater to the desires of every traveller, from couples seeking a romantic getaway to families looking for an adventurous holiday.",
  "spa": {
@@ -100,7 +102,12 @@
    "sunset cruise",
    "dolphin cruise",
    "snorkeling",
-   "manta"
+   "scuba diving",
+   "water skiing",
+   "manta",
+   "semi-submarine",
+   "sailing",
+   "canoe"
   ],
   "price_list_doc": null
  },
@@ -112,35 +119,56 @@
   "local island",
   "sunset fishing",
   "manta",
+  "cinema",
+  "cooking class",
   "private dinner"
  ],
  "kids_family": {
   "kids_club": "Kids Club",
   "age_range": null,
-  "teens": null
+  "teens": "teens programme mentioned"
  },
  "wellness_fitness": [
   "fitness centre",
   "tennis",
   "badminton",
+  "yoga",
   "steam",
   "personal trainer"
  ],
  "weddings": {
   "offered": true,
-  "vow_renewal": null,
+  "vow_renewal": true,
   "venues": [],
   "packages": [],
   "brochure_doc": null
+ },
+ "destination_dining": {
+  "experiences": [
+   "in-villa dining",
+   "romantic dinner",
+   "sunset cruise",
+   "dinner under the stars",
+   "beach dinner",
+   "floating breakfast",
+   "anniversary celebration",
+   "wine dinner",
+   "romantic beach dinner",
+   "romantic dining"
+  ],
+  "packages": [],
+  "sandbank_events": null,
+  "doc": null
  },
  "events_mice": {
   "venues": [],
   "capacity_max": null,
   "buyout": null,
-  "doc": "https://investor.centarahotelsresorts.com/storage/download/cg-document/20190108-centel-cg-2018-en.pdf"
+  "doc": null
  },
  "sustainability": [
-  "coral restoration"
+  "coral restoration",
+  "single-use plastic"
  ],
  "contacts_public": {
   "reservations_email": "info@neoscapesmaldives.com",
@@ -154,13 +182,14 @@
   "spa_menu": null,
   "dining_menu": null,
   "dive_prices": null,
-  "events": "https://investor.centarahotelsresorts.com/storage/download/cg-document/20190108-centel-cg-2018-en.pdf",
-  "calendar": null
+  "events": null,
+  "calendar": null,
+  "destination_dining": null
  },
  "documents_count": 20,
  "gaps": [
   "wedding brochure",
-  "fact: villas.total"
+  "events/MICE document"
  ],
  "sources": {
   "atoll": [
@@ -173,6 +202,31 @@
     "value": "Ari Atoll",
     "source_url": "https://www.centarahotelsresorts.com/the-centara-collection/cirm",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "North Male Atoll",
+    "source_url": "https://www.centarahotelsresorts.com/celebrate-diwali-centara-hotels",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "North Malé Atoll",
+    "source_url": "https://www.centarahotelsresorts.com/centara-spotlight/all-inclusive-marine-experiences",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Ari Atoll",
+    "source_url": "https://www.centarahotelsresorts.com/centara-spotlight/celebrate-the-spirit-of-songkran-with-centara",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "North Malé Atoll",
+    "source_url": "https://www.centarahotelsresorts.com/journal/adults-only-honeymoon-maldives-reasons",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Ari Atoll",
+    "source_url": "https://www.centarahotelsresorts.com/journal/an-unforgettable-honeymoon-in-the-maldives",
+    "as_of": "2026-10-05"
    },
    {
     "value": "Ari Atoll",
@@ -203,6 +257,66 @@
    },
    {
     "value": "Spa",
+    "source_url": "https://www.centarahotelsresorts.com/celebrate-diwali-centara-hotels",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.centarahotelsresorts.com/centara-spotlight/36th-anniversary-kick-off",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.centarahotelsresorts.com/centara-spotlight/all-inclusive-marine-experiences",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.centarahotelsresorts.com/centara-spotlight/celebrate-the-spirit-of-songkran-with-centara",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.centarahotelsresorts.com/centara-spotlight/centara-celebrates-accolades-at-travel-leisure-luxury-awards-asia-pacific-2025",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Reserve Spa",
+    "source_url": "https://www.centarahotelsresorts.com/centara-spotlight/centara-reserve-samui-marks-its-first-year-anniversary",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.centarahotelsresorts.com/centara-spotlight/enjoy-phuket-ultimate-island-experience",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.centarahotelsresorts.com/centara-spotlight/experience-holiday-cheer-with-centara-spectacular-festive-escapes",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Reserve Spa",
+    "source_url": "https://www.centarahotelsresorts.com/centarareserve/crs/the-suite-reserve-experience",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.centarahotelsresorts.com/centarareserve/romantic-events",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.centarahotelsresorts.com/journal/adults-only-honeymoon-maldives-reasons",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.centarahotelsresorts.com/journal/an-unforgettable-honeymoon-in-the-maldives",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Spa",
     "source_url": "https://www.neoscapesmaldives.com/resort/centara-grand-island-resort/",
     "as_of": "2026-10-04"
    },
@@ -227,6 +341,21 @@
     "value": "house reef, enriched with vibrant island life",
     "source_url": "https://www.centarahotelsresorts.com/the-centara-collection/cirm",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef is a breathtaking underwater world, just off the coast of the island",
+    "source_url": "https://www.centarahotelsresorts.com/centara-spotlight/all-inclusive-marine-experiences",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "house reef",
+    "source_url": "https://www.centarahotelsresorts.com/centara-spotlight/celebrate-the-spirit-of-songkran-with-centara",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "House Reef in the Maldives, praised for its pristine marine ecosystem and effortless reef access that captivates snorkellers and divers alike",
+    "source_url": "https://www.centarahotelsresorts.com/centara-spotlight/centara-celebrates-accolades-at-travel-leisure-luxury-awards-asia-pacific-2025",
+    "as_of": "2026-10-05"
    },
    {
     "value": "house reef which has its own submerged shipwreck to some of the Maldives’ best snorkelling and diving sites within a stone’s throw of the resort",
@@ -317,6 +446,111 @@
    },
    {
     "value": "snorkelling",
+    "source_url": "https://www.centarahotelsresorts.com/centara-spotlight/all-inclusive-marine-experiences",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://www.centarahotelsresorts.com/centara-spotlight/all-inclusive-marine-experiences",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "parasailing",
+    "source_url": "https://www.centarahotelsresorts.com/centara-spotlight/all-inclusive-marine-experiences",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "water skiing",
+    "source_url": "https://www.centarahotelsresorts.com/centara-spotlight/all-inclusive-marine-experiences",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.centarahotelsresorts.com/centara-spotlight/all-inclusive-marine-experiences",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.centarahotelsresorts.com/centara-spotlight/all-inclusive-marine-experiences",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.centarahotelsresorts.com/centara-spotlight/all-inclusive-marine-experiences",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.centarahotelsresorts.com/centara-spotlight/all-inclusive-marine-experiences",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "banana boat",
+    "source_url": "https://www.centarahotelsresorts.com/centara-spotlight/all-inclusive-marine-experiences",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "semi-submarine",
+    "source_url": "https://www.centarahotelsresorts.com/centara-spotlight/all-inclusive-marine-experiences",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "paddleboard",
+    "source_url": "https://www.centarahotelsresorts.com/centara-spotlight/enjoy-phuket-ultimate-island-experience",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.centarahotelsresorts.com/journal/adults-only-honeymoon-maldives-reasons",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://www.centarahotelsresorts.com/journal/an-unforgettable-honeymoon-in-the-maldives",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://www.centarahotelsresorts.com/journal/an-unforgettable-honeymoon-in-the-maldives",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "windsurfing",
+    "source_url": "https://www.centarahotelsresorts.com/journal/an-unforgettable-honeymoon-in-the-maldives",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "wakeboarding",
+    "source_url": "https://www.centarahotelsresorts.com/journal/an-unforgettable-honeymoon-in-the-maldives",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://www.centarahotelsresorts.com/journal/an-unforgettable-honeymoon-in-the-maldives",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.centarahotelsresorts.com/journal/an-unforgettable-honeymoon-in-the-maldives",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.centarahotelsresorts.com/journal/an-unforgettable-honeymoon-in-the-maldives",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sailing",
+    "source_url": "https://www.centarahotelsresorts.com/journal/an-unforgettable-honeymoon-in-the-maldives",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "canoe",
+    "source_url": "https://www.centarahotelsresorts.com/journal/an-unforgettable-honeymoon-in-the-maldives",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "snorkelling",
     "source_url": "https://www.neoscapesmaldives.com/resort/centara-grand-island-resort/",
     "as_of": "2026-10-04"
    },
@@ -394,6 +628,56 @@
    },
    {
     "value": "local island",
+    "source_url": "https://www.centarahotelsresorts.com/centara-spotlight/all-inclusive-marine-experiences",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sunset fishing",
+    "source_url": "https://www.centarahotelsresorts.com/centara-spotlight/all-inclusive-marine-experiences",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.centarahotelsresorts.com/centara-spotlight/all-inclusive-marine-experiences",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://www.centarahotelsresorts.com/centara-spotlight/all-inclusive-marine-experiences",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.centarahotelsresorts.com/centara-spotlight/all-inclusive-marine-experiences",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "cinema",
+    "source_url": "https://www.centarahotelsresorts.com/centara-spotlight/celebrate-the-spirit-of-songkran-with-centara",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "cooking class",
+    "source_url": "https://www.centarahotelsresorts.com/centara-spotlight/enjoy-phuket-ultimate-island-experience",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.centarahotelsresorts.com/journal/an-unforgettable-honeymoon-in-the-maldives",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://www.centarahotelsresorts.com/journal/an-unforgettable-honeymoon-in-the-maldives",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "cooking class",
+    "source_url": "https://www.centarahotelsresorts.com/journal/an-unforgettable-honeymoon-in-the-maldives",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "local island",
     "source_url": "https://www.neoscapesmaldives.com/resort/centara-grand-island-resort/",
     "as_of": "2026-10-04"
    },
@@ -441,6 +725,31 @@
    },
    {
     "value": "fitness centre",
+    "source_url": "https://www.centarahotelsresorts.com/centara-spotlight/centara-cosi-celebration-offer",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.centarahotelsresorts.com/centara-spotlight/centara-reserve-samui-marks-its-first-year-anniversary",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "fitness centre",
+    "source_url": "https://www.centarahotelsresorts.com/centara-spotlight/centara-reserve-samui-marks-its-first-year-anniversary",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.centarahotelsresorts.com/centara-spotlight/enjoy-phuket-ultimate-island-experience",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://www.centarahotelsresorts.com/journal/an-unforgettable-honeymoon-in-the-maldives",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "fitness centre",
     "source_url": "https://www.neoscapesmaldives.com/resort/centara-grand-island-resort/",
     "as_of": "2026-10-04"
    },
@@ -465,11 +774,123 @@
     "as_of": "2026-10-04"
    }
   ],
+  "destination_dining.experiences": [
+   {
+    "value": "in-villa dining",
+    "source_url": "https://www.centarahotelsresorts.com/the-centara-collection/sites/centara-the-centara-collection/files/2025-05/CIRM_FactSheet_2025_05_14.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "romantic dinner",
+    "source_url": "https://www.centarahotelsresorts.com/the-centara-collection/cirm",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "in-villa dining",
+    "source_url": "https://www.centarahotelsresorts.com/the-centara-collection/cirm",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.centarahotelsresorts.com/the-centara-collection/cirm",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dinner under the stars",
+    "source_url": "https://www.centarahotelsresorts.com/centaragrand/cirm/centara-grand-island-maldives-offer",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dinner under the stars",
+    "source_url": "https://www.centarahotelsresorts.com/centaragrand/cirm/centara-grand-island-maldives-offer",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "beach dinner",
+    "source_url": "https://www.centarahotelsresorts.com/centaragrand/cirm/centara-grand-island-maldives-offer",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://www.centarahotelsresorts.com/centaragrand/cirm/centara-grand-island-maldives-offer",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "anniversary celebration",
+    "source_url": "https://www.centarahotelsresorts.com/centara-spotlight/36th-anniversary-kick-off",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "anniversary celebration",
+    "source_url": "https://www.centarahotelsresorts.com/centara-spotlight/36th-anniversary-kick-off",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.centarahotelsresorts.com/centara-spotlight/all-inclusive-marine-experiences",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "wine dinner",
+    "source_url": "https://www.centarahotelsresorts.com/centara-spotlight/partnership-with-land-rover-to-deliver-personalised-experiences",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "romantic beach dinner",
+    "source_url": "https://www.centarahotelsresorts.com/centaragrand/cpbr/romantic-escape-phuket",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "anniversary celebration",
+    "source_url": "https://www.centarahotelsresorts.com/centarareserve/40th-anniversary",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "romantic dining",
+    "source_url": "https://www.centarahotelsresorts.com/journal/adults-only-honeymoon-maldives-reasons",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.centarahotelsresorts.com/journal/an-unforgettable-honeymoon-in-the-maldives",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.centarahotelsresorts.com/journal/an-unforgettable-honeymoon-in-the-maldives",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "in-villa dining",
+    "source_url": "https://www.neoscapesmaldives.com/resort/centara-grand-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.neoscapesmaldives.com/resort/centara-grand-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.neoscapesmaldives.com/resort/centara-grand-island-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.neoscapesmaldives.com/resort/centara-grand-island-resort/",
+    "as_of": "2026-10-04"
+   }
+  ],
   "sustainability": [
    {
     "value": "coral restoration",
     "source_url": "https://www.centarahotelsresorts.com/the-centara-collection/sites/centara-the-centara-collection/files/2025-05/CIRM_FactSheet_2025_05_14.pdf",
     "as_of": 2025
+   },
+   {
+    "value": "single-use plastic",
+    "source_url": "https://www.centarahotelsresorts.com/centarareserve/40th-anniversary",
+    "as_of": "2026-10-05"
    },
    {
     "value": "coral restoration",
@@ -504,6 +925,16 @@
     "value": "seaplane",
     "source_url": "https://www.centarahotelsresorts.com/centaragrand/cirm/centara-grand-island-maldives-offer",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.centarahotelsresorts.com/celebrate-diwali-centara-hotels",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://www.centarahotelsresorts.com/journal/adults-only-honeymoon-maldives-reasons",
+    "as_of": "2026-10-05"
    },
    {
     "value": "seaplane",
@@ -553,6 +984,31 @@
    },
    {
     "value": "AI",
+    "source_url": "https://www.centarahotelsresorts.com/centara-spotlight/all-inclusive-marine-experiences",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "HB",
+    "source_url": "https://www.centarahotelsresorts.com/centara-spotlight/enjoy-phuket-ultimate-island-experience",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "FB",
+    "source_url": "https://www.centarahotelsresorts.com/centara-spotlight/enjoy-phuket-ultimate-island-experience",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "HB",
+    "source_url": "https://www.centarahotelsresorts.com/centara-spotlight/experience-holiday-cheer-with-centara-spectacular-festive-escapes",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://www.centarahotelsresorts.com/centara-spotlight/experience-holiday-cheer-with-centara-spectacular-festive-escapes",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "AI",
     "source_url": "https://www.neoscapesmaldives.com/resort/centara-grand-island-resort/",
     "as_of": "2026-10-04"
    }
@@ -562,6 +1018,21 @@
     "value": "all-inclusive resort in the beautiful Maldives, we cater to the desires of every traveller, from couples seeking a romantic getaway to families looking for an adventurous holiday.",
     "source_url": "https://www.centarahotelsresorts.com/the-centara-collection/cirm",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "all-inclusive packages include options for Scuba Diving, as well as unique experiences such as whale shark spotting and underwater adventures in a semi-submarine.",
+    "source_url": "https://www.centarahotelsresorts.com/centara-spotlight/all-inclusive-marine-experiences",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "all-inclusive meal plan options during booking.",
+    "source_url": "https://www.centarahotelsresorts.com/centara-spotlight/experience-holiday-cheer-with-centara-spectacular-festive-escapes",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "All-Inclusive programme, while other sports like wakeboarding are available for a fee.",
+    "source_url": "https://www.centarahotelsresorts.com/journal/an-unforgettable-honeymoon-in-the-maldives",
+    "as_of": "2026-10-05"
    },
    {
     "value": "all-inclusive” holiday experience besides the crystal-clear waters of the Indian Ocean.",
@@ -577,8 +1048,147 @@
    },
    {
     "value": "Kids Club",
+    "source_url": "https://www.centarahotelsresorts.com/journal/adults-only-honeymoon-maldives-reasons",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Kids Club",
+    "source_url": "https://www.centarahotelsresorts.com/journal/an-unforgettable-honeymoon-in-the-maldives",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Kids Club",
     "source_url": "https://www.neoscapesmaldives.com/resort/centara-grand-island-resort/",
     "as_of": "2026-10-04"
+   }
+  ],
+  "weddings.offered": [
+   {
+    "value": true,
+    "source_url": "https://www.centarahotelsresorts.com/1-million-point-celebration",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.centarahotelsresorts.com/celebrate-diwali-centara-hotels",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.centarahotelsresorts.com/centara-spotlight/celebrate-the-spirit-of-songkran-with-centara",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.centarahotelsresorts.com/centara-spotlight/celebrated-chef-paolo-vitaletti-unveils-eppina-verde-at-centara-hotel-udon-thani",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.centarahotelsresorts.com/centara-spotlight/centara-celebrates-accolades-at-travel-leisure-luxury-awards-asia-pacific-2025",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.centarahotelsresorts.com/centara-spotlight/centara-cosi-celebration-offer",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.centarahotelsresorts.com/centara-spotlight/centara-reserve-samui-marks-its-first-year-anniversary",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.centarahotelsresorts.com/centarareserve/1-million-point-celebration",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.centarahotelsresorts.com/centarareserve/romantic-events",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.centarahotelsresorts.com/journal/best-spots-in-bangkok-to-celebrate-songkran",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.centarahotelsresorts.com/journal/celebrate-songkran-in-pattaya",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.neoscapesmaldives.com/resort/centara-grand-island-resort/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "star_rating": [
+   {
+    "value": "5-star",
+    "source_url": "https://www.centarahotelsresorts.com/celebrate-diwali-centara-hotels",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "5-star",
+    "source_url": "https://www.centarahotelsresorts.com/centara-spotlight/36th-anniversary-kick-off",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "5-star",
+    "source_url": "https://www.centarahotelsresorts.com/centarareserve/40th-anniversary",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "5-star",
+    "source_url": "https://www.centarahotelsresorts.com/journal/celebrate-songkran-in-pattaya",
+    "as_of": "2026-10-05"
+   }
+  ],
+  "villas.total": [
+   {
+    "value": 515,
+    "source_url": "https://www.centarahotelsresorts.com/centara-spotlight/centara-grand-osaka-one-year-anniversary-offering",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": 140,
+    "source_url": "https://www.centarahotelsresorts.com/journal/adults-only-honeymoon-maldives-reasons",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": 140,
+    "source_url": "https://www.centarahotelsresorts.com/journal/adults-only-honeymoon-maldives-reasons",
+    "as_of": "2026-10-05"
+   }
+  ],
+  "opened_or_renovated": [
+   {
+    "value": "opened 2021",
+    "source_url": "https://www.centarahotelsresorts.com/centara-spotlight/centara-reserve-samui-marks-its-first-year-anniversary",
+    "as_of": "2026-10-05"
+   }
+  ],
+  "weddings.vow_renewal": [
+   {
+    "value": true,
+    "source_url": "https://www.centarahotelsresorts.com/centarareserve/romantic-events",
+    "as_of": "2026-10-05"
+   }
+  ],
+  "transfer.minutes.speedboat": [
+   {
+    "value": 20,
+    "source_url": "https://www.centarahotelsresorts.com/journal/adults-only-honeymoon-maldives-reasons",
+    "as_of": "2026-10-05"
+   }
+  ],
+  "kids_family.teens": [
+   {
+    "value": "teens programme mentioned",
+    "source_url": "https://www.centarahotelsresorts.com/journal/best-spots-in-bangkok-to-celebrate-songkran",
+    "as_of": "2026-10-05"
    }
   ],
   "transfer.minutes.seaplane": [
@@ -701,13 +1311,6 @@
   "diving_watersports.operator": [
    {
     "value": "Best Dives",
-    "source_url": "https://www.neoscapesmaldives.com/resort/centara-grand-island-resort/",
-    "as_of": "2026-10-04"
-   }
-  ],
-  "weddings.offered": [
-   {
-    "value": true,
     "source_url": "https://www.neoscapesmaldives.com/resort/centara-grand-island-resort/",
     "as_of": "2026-10-04"
    }

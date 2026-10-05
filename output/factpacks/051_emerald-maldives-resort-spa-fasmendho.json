@@ -285,6 +285,23 @@
   "packages": [],
   "brochure_doc": null
  },
+ "destination_dining": {
+  "experiences": [
+   "sunset cruise",
+   "in-villa dining",
+   "wine dinner",
+   "private chef",
+   "romantic dining",
+   "romantic dinner",
+   "romantic sunset dinner",
+   "floating breakfast",
+   "romantic beach dinner",
+   "sandbank lunch"
+  ],
+  "packages": [],
+  "sandbank_events": true,
+  "doc": null
+ },
  "events_mice": {
   "venues": [],
   "capacity_max": null,
@@ -314,7 +331,8 @@
   "dining_menu": null,
   "dive_prices": "https://cdn.prod.website-files.com/5d39ad82040fc87640dfdea6/69e9c7ea3f1ba46570ef6d9d_PriceList_2026_Fasmendhoo_070426.pdf",
   "events": null,
-  "calendar": null
+  "calendar": null,
+  "destination_dining": null
  },
  "documents_count": 18,
  "gaps": [
@@ -2177,6 +2195,11 @@
    },
    {
     "value": "dolphin",
+    "source_url": "https://www.emerald-maldives.com/experiences/dolphin-club",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "dolphin",
     "source_url": "https://www.neoscapesmaldives.com/resort/emerald-maldives-resort-spa/",
     "as_of": "2026-10-04"
    }
@@ -2251,6 +2274,11 @@
     "value": "From Dolphin Kids Club",
     "source_url": "https://www.emerald-maldives.com/blog-posts/from-dolphin-kids-club-to-you",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "EMERALD EXPERIENCES\nDolphin Kids Club",
+    "source_url": "https://www.emerald-maldives.com/experiences/dolphin-club",
+    "as_of": "2026-10-05"
    },
    {
     "value": "Water Sports Center\nKids Club",
@@ -2505,6 +2533,11 @@
     "value": "gym",
     "source_url": "https://www.emerald-maldives.com/blog-posts/emerald-maldives-resort-spa-blog-enhancing-your-holiday-at-the-emerald-spa",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "gym",
+    "source_url": "https://www.emerald-maldives.com/experiences/dolphin-club",
+    "as_of": "2026-10-05"
    },
    {
     "value": "gym",
@@ -2766,6 +2799,98 @@
    {
     "value": "info@neoscapesmaldives.com",
     "source_url": "https://www.neoscapesmaldives.com/resort/emerald-maldives-resort-spa/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "destination_dining.experiences": [
+   {
+    "value": "sunset cruise",
+    "source_url": "https://cdn.prod.website-files.com/5d39ad82040fc87640dfdea6/69e9c7ea3f1ba46570ef6d9d_PriceList_2026_Fasmendhoo_070426.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "in-villa dining",
+    "source_url": "https://cdn.prod.website-files.com/5d39ad82040fc87640dfdea6/6242d361af5d5510091fc463_DELUXE%20ALL%20INCLUSIVE%20PACKAGE_EN.pdf",
+    "as_of": 2020
+   },
+   {
+    "value": "wine dinner",
+    "source_url": "https://www.emerald-maldives.com/blog-posts/easter-at-emerald-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "private chef",
+    "source_url": "https://www.emerald-maldives.com/blog-posts/russian-cuisine-landed-at-emerald-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "wine dinner",
+    "source_url": "https://www.emerald-maldives.com/blog-posts/russian-cuisine-landed-at-emerald-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "romantic dining",
+    "source_url": "https://www.emerald-maldives.com/blog-posts/rajeshwar-rao-kalakuntla-front-office-manager",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "romantic dinner",
+    "source_url": "https://www.emerald-maldives.com/lp/deluxe-all-inclusive-family-vacation",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "romantic dinner",
+    "source_url": "https://www.emerald-maldives.com/special-offers/honeymoon-special-offer-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "romantic dinner",
+    "source_url": "https://www.emerald-maldives.com/special-offers/honeymoon-special-offer-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.emerald-maldives.com/blog-posts/more-than-a-romance",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "romantic sunset dinner",
+    "source_url": "https://www.emerald-maldives.com/blog-posts/more-than-a-romance",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://www.emerald-maldives.com/blog-posts/more-than-a-romance",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.emerald-maldives.com/blog-posts/5-star-padi-diving-center",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "romantic dinner",
+    "source_url": "https://www.emerald-maldives.com/blog-posts/emerald-maldives-resort-spa-blog-love-paradise-destination",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.emerald-maldives.com/blog-posts/emerald-maldives-resort-spa-blog-love-paradise-destination",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "romantic dining",
+    "source_url": "https://www.emerald-maldives.com/blog-posts/maldives-resort-general-manager-interview",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "romantic beach dinner",
+    "source_url": "https://www.emerald-maldives.com/blog-posts/five-reasons-spend-holidays-maldives",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank lunch",
+    "source_url": "https://www.emerald-maldives.com/blog-posts/emerald-maldives-resort-spa-blog-feeling-blue-think-emerald",
     "as_of": "2026-10-04"
    }
   ],
@@ -3288,6 +3413,13 @@
    {
     "value": "opened 2019",
     "source_url": "https://www.emerald-maldives.com/blog-posts/a-family-friendly-destination",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "destination_dining.sandbank_events": [
+   {
+    "value": true,
+    "source_url": "https://www.emerald-maldives.com/blog-posts/emerald-maldives-resort-spa-blog-feeling-blue-think-emerald",
     "as_of": "2026-10-04"
    }
   ]

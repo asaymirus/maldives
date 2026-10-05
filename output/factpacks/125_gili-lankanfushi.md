@@ -13,6 +13,9 @@
 ## Dining
 
 - Overwater Bar (bar)
+- Underground Wine Cellar (bar)
+- Wine tasting in the Underground Wine Cellar (bar)
+- Private Dinner in the Wine Cellar (bar)
 
 Meal plans: HB
 
@@ -25,20 +28,26 @@ Meal plans: HB
 
 - Operator: Ocean Paradise
 - House reef: house reef
-- Activities: surfing, snorkelling, snorkeling, dolphin cruise, whale shark, manta, windsurfing, sailing, fishing, paddleboard, jet ski, kayaking, catamaran, canoe, scuba diving, sunset cruise, wakeboarding
+- Activities: surfing, snorkelling, snorkeling, dolphin cruise, whale shark, manta, windsurfing, sailing, fishing, paddleboard, jet ski, kayaking, catamaran, canoe, scuba diving, sunset cruise, stand-up paddle, water skiing, wakeboarding
 - Price list: none
-- Excursions: local island, private dinner, dolphin, whale shark, manta, picnic, castaway, turtle, cooking class, cinema, sandbank
+- Excursions: local island, private dinner, dolphin, whale shark, manta, picnic, castaway, turtle, cooking class, cinema, sandbank, sunset fishing, big game fishing
 
 ## Kids & family
 
-- Kids club: n/a; ages: n/a; teens: n/a
+- Kids club: n/a; ages: n/a; teens: teens programme mentioned
 
 ## Weddings
 
 - Offered: True; vow renewal: None
-- Venues: n/a
-- Packages: n/a
+- Venues: Lagoon Champa Wedding; Palm Beach Wedding
+- Packages: The Solo Travel Package USD 4896 (2026-10-05); A Secret Wedding Experience USD 13489 (2026-10-05)
 - Brochure: none
+
+## Destination dining
+
+- Experiences: castaway picnic, private dining, in-villa dining, dine under the stars, candlelit dinner, private chef, destination dining, sunset cruise, wine pairing, wine dinner
+- Packages: Destination Dining USD 100 (2026-10-04)
+- Sandbank events: None; document: https://gili-lankanfushi.com/wp-content/uploads/2026/01/Destination-Dining-Package-Jan-2025.pdf
 
 ## Events / MICE
 
@@ -63,6 +72,7 @@ Meal plans: HB
 - dive_prices: none
 - events: none
 - calendar: https://gili-lankanfushi.com/wp-content/uploads/2026/03/GLM-Apr-Easter-in-Gili-website.pdf
+- destination_dining: https://gili-lankanfushi.com/wp-content/uploads/2026/01/Destination-Dining-Package-Jan-2025.pdf
 
 ## Gaps
 
@@ -73,4 +83,4 @@ Meal plans: HB
 - fact: kids club
 - fact: contacts
 
-_Facts extracted by rules from 18 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._
+_Facts extracted by rules from 23 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

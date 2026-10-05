@@ -28,7 +28,7 @@ Meal plans: n/a
 - Operator: Dive Centre
 - House reef: house reef with our resident turtles and the never-ending Indian Ocean
 - Activities: kayaking, catamaran, dolphin cruise, manta, sailing, snorkeling, jet ski, banana boat, fun tube
-- Price list: https://letsgomaldives.com/wp-content/uploads/2026/03/Eid-Al-Fitr-Sirru-Fen-Fushi.pdf
+- Price list: https://neoscapesmaldives.com/wp-content/uploads/Fairmont-Maldives_House-Reef-Snorkeling-and-Diving-Spots.pdf
 - Excursions: dolphin, manta, turtle, stargazing, picnic, castaway
 
 ## Kids & family
@@ -41,6 +41,12 @@ Meal plans: n/a
 - Venues: Beach Wedding Services; Romantic beach wedding and renewal of vows
 - Packages: n/a
 - Brochure: none
+
+## Destination dining
+
+- Experiences: in-villa dining, destination dining, candlelit dinner, beach barbecue
+- Packages: n/a
+- Sandbank events: None; document: none
 
 ## Events / MICE
 
@@ -62,9 +68,10 @@ Meal plans: n/a
 - wedding: none
 - spa_menu: none
 - dining_menu: none
-- dive_prices: https://letsgomaldives.com/wp-content/uploads/2026/03/Eid-Al-Fitr-Sirru-Fen-Fushi.pdf
+- dive_prices: https://neoscapesmaldives.com/wp-content/uploads/Fairmont-Maldives_House-Reef-Snorkeling-and-Diving-Spots.pdf
 - events: none
 - calendar: none
+- destination_dining: none
 
 ## Gaps
 
@@ -72,4 +79,4 @@ Meal plans: n/a
 - events/MICE document
 - fact: villa categories
 
-_Facts extracted by rules from 19 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._
+_Facts extracted by rules from 20 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

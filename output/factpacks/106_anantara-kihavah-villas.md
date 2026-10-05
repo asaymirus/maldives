@@ -46,6 +46,12 @@ Anantara Spa; treatment rooms: ?; menu: none
 - Packages: n/a
 - Brochure: none
 
+## Destination dining
+
+- Experiences: private chef, private dining, wine pairing, sunset cruise, underwater restaurant, underwater dining, sandbank picnic
+- Packages: n/a
+- Sandbank events: True; document: none
+
 ## Events / MICE
 
 - Venues: n/a; capacity max: n/a; buyout: None
@@ -69,6 +75,7 @@ Anantara Spa; treatment rooms: ?; menu: none
 - dive_prices: none
 - events: none
 - calendar: none
+- destination_dining: none
 
 ## Gaps
 
@@ -76,4 +83,4 @@ Anantara Spa; treatment rooms: ?; menu: none
 - events/MICE document
 - fact: dive operator
 
-_Facts extracted by rules from 21 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._
+_Facts extracted by rules from 23 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

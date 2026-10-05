@@ -47,6 +47,12 @@ All-inclusive: All Inclusive guests can enjoy their entitled drinks till 00:00 m
 - Packages: Dreamland Wedding Package USD 1200 (2023)
 - Brochure: https://dreamland.com.mv/wp-content/uploads/2024/08/DREAMLAND-VOW-CEREMONY-2023.pdf
 
+## Destination dining
+
+- Experiences: honeymoon dinner, lobster dinner, romantic dinner, wine pairing, romantic candlelit dinner, sunset cruise
+- Packages: n/a
+- Sandbank events: None; document: https://dreamland.com.mv/wp-content/uploads/2024/08/DreamLand-Private-BBQ-Seafood-Menu-2023.pdf
+
 ## Events / MICE
 
 - Venues: n/a; capacity max: n/a; buyout: None
@@ -70,6 +76,7 @@ All-inclusive: All Inclusive guests can enjoy their entitled drinks till 00:00 m
 - dive_prices: https://dreamland.com.mv/wp-content/uploads/2023/08/DC-Pricelist-2023-Dreamland.pdf
 - events: none
 - calendar: none
+- destination_dining: https://dreamland.com.mv/wp-content/uploads/2024/08/DreamLand-Private-BBQ-Seafood-Menu-2023.pdf
 
 ## Gaps
 
@@ -78,4 +85,4 @@ All-inclusive: All Inclusive guests can enjoy their entitled drinks till 00:00 m
 - fact: kids club
 - fact: contacts
 
-_Facts extracted by rules from 21 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._
+_Facts extracted by rules from 22 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

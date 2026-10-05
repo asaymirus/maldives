@@ -214,6 +214,16 @@
   "packages": [],
   "brochure_doc": null
  },
+ "destination_dining": {
+  "experiences": [
+   "in-villa dining",
+   "wine pairing",
+   "sandbank picnic"
+  ],
+  "packages": [],
+  "sandbank_events": true,
+  "doc": null
+ },
  "events_mice": {
   "venues": [],
   "capacity_max": null,
@@ -236,7 +246,8 @@
   "dining_menu": null,
   "dive_prices": null,
   "events": null,
-  "calendar": null
+  "calendar": null,
+  "destination_dining": null
  },
  "documents_count": 2,
  "gaps": [
@@ -823,6 +834,50 @@
     "value": "exchange vows in the exquisite overwater Wedding",
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/OZEN-RESERVE-BOLIFUSHI-Fact-Sheet.pdf",
     "as_of": 2023
+   }
+  ],
+  "destination_dining.experiences": [
+   {
+    "value": "in-villa dining",
+    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/OZEN-RESERVE-BOLIFUSHI-Fact-Sheet.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": "wine pairing",
+    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/OZEN-RESERVE-BOLIFUSHI-Fact-Sheet.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": "in-villa dining",
+    "source_url": "https://www.neoscapesmaldives.com/resort/ozen-reserve-bolifushi/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "in-villa dining",
+    "source_url": "https://www.neoscapesmaldives.com/resort/ozen-reserve-bolifushi/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank picnic",
+    "source_url": "https://www.neoscapesmaldives.com/resort/ozen-reserve-bolifushi/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "in-villa dining",
+    "source_url": "https://www.neoscapesmaldives.com/resort/ozen-reserve-bolifushi/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "destination_dining.sandbank_events": [
+   {
+    "value": true,
+    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/OZEN-RESERVE-BOLIFUSHI-Fact-Sheet.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": true,
+    "source_url": "https://www.neoscapesmaldives.com/resort/ozen-reserve-bolifushi/",
+    "as_of": "2026-10-04"
    }
   ],
   "sustainability": [

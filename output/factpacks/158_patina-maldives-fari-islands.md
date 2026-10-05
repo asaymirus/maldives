@@ -3,7 +3,7 @@
 **Official site:** https://patinahotels.com/maldives (ok)  
 **Brand:** Patina  
 **Atoll:** North Malé Atoll  **Island:** Patina Osaka  
-**Opened/renovated:** n/a  **Rating:** 5-star  
+**Opened/renovated:** opened 2018  **Rating:** 5-star  
 **Transfer:** speedboat, yacht, seaplane; minutes: {"seaplane": 10, "speedboat": 45}  
 **Island size:** 180 m x 650 m  
 
@@ -31,7 +31,7 @@ Meal plans: AI, Dine Around
 ## Spa & wellness
 
 - Spa: Spa; treatment rooms: ?; menu: none
-- Wellness/fitness: yoga, tennis, padel, pilates, sound healing, steam, hammam, gym, meditation
+- Wellness/fitness: yoga, tennis, padel, pilates, sound healing, steam, hammam, gym, meditation, sauna
 
 ## Diving, water sports & excursions
 
@@ -39,7 +39,7 @@ Meal plans: AI, Dine Around
 - House reef: house reef at Patina Maldives, Fari Islands?
 - Activities: snorkelling, stand-up paddle, paddleboard, snorkeling, scuba diving, surfing, fishing
 - Price list: none
-- Excursions: turtle, cinema, private dinner, cooking class, dolphin, sandbank, picnic
+- Excursions: turtle, cinema, private dinner, cooking class, dolphin, stargazing, sandbank, picnic
 
 ## Kids & family
 
@@ -51,6 +51,12 @@ Meal plans: AI, Dine Around
 - Venues: n/a
 - Packages: n/a
 - Brochure: none
+
+## Destination dining
+
+- Experiences: private dining, private chef, in-villa dining, destination dining, anniversary celebration, wine pairing, wine dinner, beach dinner, sandbank picnic, floating breakfast
+- Packages: n/a
+- Sandbank events: True; document: none
 
 ## Events / MICE
 
@@ -75,10 +81,11 @@ Meal plans: AI, Dine Around
 - dive_prices: none
 - events: none
 - calendar: https://letsgomaldives.com/wp-content/uploads/2026/08/Patina_Maldives_Festive_Brochure.pdf
+- destination_dining: none
 
 ## Gaps
 
 - wedding brochure
 - events/MICE document
 
-_Facts extracted by rules from 23 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._
+_Facts extracted by rules from 26 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

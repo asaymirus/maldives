@@ -56,6 +56,12 @@ The Coconut Kids Club; ages: 2-11 years; teens: n/a
 - Packages: Wedding USD 100 (2026-10-04)
 - Brochure: none
 
+## Destination dining
+
+- Experiences: sunset cruise, floating breakfast, destination dining, romantic dinner, romantic candlelit dinner
+- Packages: n/a
+- Sandbank events: None; document: none
+
 ## Events / MICE
 
 - Venues: (Classroom & U-Style Boardroom); capacity max: n/a; buyout: None
@@ -79,10 +85,11 @@ The Coconut Kids Club; ages: 2-11 years; teens: n/a
 - dive_prices: none
 - events: none
 - calendar: https://document-tc.galaxy.tf/wdpdf-4cfy3bydqr5cqsmudllu289sl/ifuru-fanatic_cms-document.pdf
+- destination_dining: none
 
 ## Gaps
 
 - wedding brochure
 - events/MICE document
 
-_Facts extracted by rules from 25 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._
+_Facts extracted by rules from 26 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

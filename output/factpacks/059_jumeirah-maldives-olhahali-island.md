@@ -42,6 +42,7 @@
 
 ## Dining
 
+- Club Lounge (bar)
 - Café Lounge (bar)
 
 Meal plans: n/a
@@ -49,19 +50,19 @@ Meal plans: n/a
 ## Spa & wellness
 
 - Spa: Talise Spa; treatment rooms: ?; menu: https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf
-- Wellness/fitness: yoga, fitness centre, tennis, beach volleyball, sauna, steam, gym, badminton, sound healing
+- Wellness/fitness: yoga, fitness centre, tennis, beach volleyball, sauna, steam, meditation, sound healing, hammam, gym, wellness programme, pilates, badminton
 
 ## Diving, water sports & excursions
 
 - Operator: Dive Centre
 - House reef: n/a
-- Activities: snorkelling, scuba diving, windsurfing, surfing, stand-up paddle, catamaran, parasailing, seabob, fishing, sunset cruise, manta, banana boat, flyboard, semi-submarine, canoe, sailing, whale shark, water skiing, wakeboarding
+- Activities: snorkelling, scuba diving, windsurfing, surfing, stand-up paddle, catamaran, parasailing, seabob, fishing, sunset cruise, manta, banana boat, flyboard, semi-submarine, canoe, sailing, kayaking, paddleboard, wakeboarding, whale shark, water skiing
 - Price list: none
-- Excursions: local island, sandbank, dolphin, sunset fishing, manta, turtle, cinema, whale shark, picnic
+- Excursions: local island, sandbank, dolphin, sunset fishing, manta, turtle, cinema, cooking class, whale shark, picnic
 
 ## Kids & family
 
-- Kids club: Kids Club; ages: n/a; teens: n/a
+- Kids club: Teens Club; ages: n/a; teens: teens programme mentioned
 
 ## Weddings
 
@@ -70,18 +71,24 @@ Meal plans: n/a
 - Packages: n/a
 - Brochure: none
 
+## Destination dining
+
+- Experiences: private dining, romantic dinner, sunset cruise, in-villa dining, sandbank experience, beach barbecue
+- Packages: n/a
+- Sandbank events: True; document: none
+
 ## Events / MICE
 
-- Venues: n/a; capacity max: n/a; buyout: None
+- Venues: Godolphin Ballroom and Terrace at The Towers; Godolphin Ballroom; capacity max: 850; buyout: None
 - Document: none
 
 ## Sustainability
 
-- n/a
+- turtle rehabilitation
 
 ## Public contacts
 
-- Reservations: info@neoscapesmaldives.com; weddings: n/a; phone: +960 736 5425
+- Reservations: jetinfo@jumeirah.com; weddings: n/a; phone: +960 736 5425
 
 ## Latest documents
 
@@ -93,6 +100,7 @@ Meal plans: n/a
 - dive_prices: none
 - events: none
 - calendar: https://letsgomaldives.com/wp-content/uploads/2026/03/Jumeirah-Olhahali-Island-From-Seasons-to-Stories-Eid-Al-Fitr-2026-1.pdf
+- destination_dining: none
 
 ## Gaps
 
@@ -100,4 +108,4 @@ Meal plans: n/a
 - events/MICE document
 - fact: villas.total
 
-_Facts extracted by rules from 17 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._
+_Facts extracted by rules from 23 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

@@ -342,6 +342,22 @@
   "packages": [],
   "brochure_doc": null
  },
+ "destination_dining": {
+  "experiences": [
+   "floating breakfast",
+   "candlelit dinner",
+   "in villa barbecue",
+   "in-villa dining",
+   "sunset cruise",
+   "castaway picnic",
+   "destination dining",
+   "sandbank experience",
+   "dinner under the stars"
+  ],
+  "packages": [],
+  "sandbank_events": true,
+  "doc": null
+ },
  "events_mice": {
   "venues": [],
   "capacity_max": 50,
@@ -372,7 +388,8 @@
   "dining_menu": "https://soneva-offload-media-library.storage.googleapis.com/wp-content/uploads/2026/01/29113418/Soneva-Fushi-Valentines-Day-2026.pdf",
   "dive_prices": null,
   "events": null,
-  "calendar": "https://soneva-offload-media-library.storage.googleapis.com/wp-content/uploads/2025/10/15143604/Festive-Brochure-Soneva-Fushi.pdf"
+  "calendar": "https://soneva-offload-media-library.storage.googleapis.com/wp-content/uploads/2025/10/15143604/Festive-Brochure-Soneva-Fushi.pdf",
+  "destination_dining": null
  },
  "documents_count": 42,
  "gaps": [
@@ -1286,6 +1303,178 @@
     "value": true,
     "source_url": "https://soneva.com/resorts/soneva-secret/events/",
     "as_of": "2026-10-05"
+   },
+   {
+    "value": true,
+    "source_url": "https://soneva.com/celebrations-and-events/",
+    "as_of": "2026-10-05"
+   }
+  ],
+  "destination_dining.experiences": [
+   {
+    "value": "floating breakfast",
+    "source_url": "https://soneva-offload-media-library.storage.googleapis.com/wp-content/uploads/2026/01/29113418/Soneva-Fushi-Valentines-Day-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://soneva-offload-media-library.storage.googleapis.com/wp-content/uploads/2026/01/29113418/Soneva-Fushi-Valentines-Day-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "candlelit dinner",
+    "source_url": "https://soneva-offload-media-library.storage.googleapis.com/wp-content/uploads/2026/01/29113418/Soneva-Fushi-Valentines-Day-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "candlelit dinner",
+    "source_url": "https://soneva-offload-media-library.storage.googleapis.com/wp-content/uploads/2026/01/29113418/Soneva-Fushi-Valentines-Day-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "in villa barbecue",
+    "source_url": "https://soneva.com/resorts/soneva-fushi/dining/soneva-fushi-meal-plans/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "in-villa dining",
+    "source_url": "https://soneva.com/resorts/soneva-fushi/dining/soneva-fushi-meal-plans/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "in-villa dining",
+    "source_url": "https://soneva.com/resorts/soneva-fushi/dining/soneva-fushi-meal-plans/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "candlelit dinner",
+    "source_url": "https://soneva.com/offer/summer-at-soneva-jani/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://soneva.com/offer/summer-at-soneva-jani/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "candlelit dinner",
+    "source_url": "https://soneva.com/offer/romance-away-at-soneva-jani/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://soneva.com/offer/romance-away-at-soneva-jani/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "candlelit dinner",
+    "source_url": "https://soneva.com/offer/romance-away-at-soneva-jani/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://soneva.com/offer/romance-away-at-soneva-jani/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "castaway picnic",
+    "source_url": "https://soneva.com/experience/soneva-in-aqua/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://soneva.com/experience/soneva-in-aqua/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "candlelit dinner",
+    "source_url": "https://soneva.com/offer/stay-longer-on-us/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "candlelit dinner",
+    "source_url": "https://soneva.com/press-release/eid-at-soneva-2026/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://soneva.com/press-release/eid-at-soneva-2026/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "in-villa dining",
+    "source_url": "https://soneva.com/press-release/eid-at-soneva-2026/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "candlelit dinner",
+    "source_url": "https://soneva.com/offer/gather-together-at-soneva-fushi/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://soneva.com/offer/gather-together-at-soneva-fushi/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "candlelit dinner",
+    "source_url": "https://soneva.com/offer/gather-together-at-soneva-jani/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://soneva.com/offer/gather-together-at-soneva-jani/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "candlelit dinner",
+    "source_url": "https://soneva.com/offer/summer-at-soneva-secret/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://soneva.com/offer/summer-at-soneva-secret/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "candlelit dinner",
+    "source_url": "https://soneva.com/offer/island-to-island/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://soneva.com/offer/island-to-island/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://www.neoscapesmaldives.com/resort/soneva-fushi/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "in-villa dining",
+    "source_url": "https://www.neoscapesmaldives.com/resort/soneva-fushi/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "in-villa dining",
+    "source_url": "https://www.neoscapesmaldives.com/resort/soneva-fushi/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank experience",
+    "source_url": "https://www.neoscapesmaldives.com/resort/soneva-fushi/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "candlelit dinner",
+    "source_url": "https://www.neoscapesmaldives.com/resort/soneva-fushi/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dinner under the stars",
+    "source_url": "https://letsgomaldives.com/maldives-vacation-packages/our-trip-to-soneva-fushi/",
+    "as_of": "2026-10-04"
    }
   ],
   "contacts_public.phone": [
@@ -3724,6 +3913,11 @@
    },
    {
     "value": true,
+    "source_url": "https://soneva.com/celebrations-and-events/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": true,
     "source_url": "https://www.neoscapesmaldives.com/resort/soneva-fushi/",
     "as_of": "2026-10-04"
    },
@@ -3808,6 +4002,13 @@
    },
    {
     "value": "Beach Ceremony",
+    "source_url": "https://www.neoscapesmaldives.com/resort/soneva-fushi/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "destination_dining.sandbank_events": [
+   {
+    "value": true,
     "source_url": "https://www.neoscapesmaldives.com/resort/soneva-fushi/",
     "as_of": "2026-10-04"
    }

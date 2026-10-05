@@ -42,6 +42,12 @@ All-inclusive: all inclusive you will get free snorkelling, bicycle rental and a
 - Packages: n/a
 - Brochure: none
 
+## Destination dining
+
+- Experiences: private dining, beach bbq
+- Packages: n/a
+- Sandbank events: None; document: none
+
 ## Events / MICE
 
 - Venues: Meeting Room – Capacity of 20 people; capacity max: 20; buyout: None
@@ -65,6 +71,7 @@ All-inclusive: all inclusive you will get free snorkelling, bicycle rental and a
 - dive_prices: none
 - events: none
 - calendar: none
+- destination_dining: none
 
 ## Gaps
 
@@ -74,4 +81,4 @@ All-inclusive: all inclusive you will get free snorkelling, bicycle rental and a
 - fact: villa categories
 - fact: kids club
 
-_Facts extracted by rules from 19 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._
+_Facts extracted by rules from 20 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

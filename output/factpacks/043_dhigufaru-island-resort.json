@@ -134,6 +134,17 @@
   "packages": [],
   "brochure_doc": "https://dhigufaru.com/app/wp-content/uploads/2024/12/Dhigufaru-Wedding-Proposal-Packages-2024.pdf"
  },
+ "destination_dining": {
+  "experiences": [
+   "sunset cruise",
+   "sand bank picnic",
+   "dinner under the stars",
+   "in-villa dining"
+  ],
+  "packages": [],
+  "sandbank_events": true,
+  "doc": null
+ },
  "events_mice": {
   "venues": [],
   "capacity_max": null,
@@ -154,7 +165,8 @@
   "dining_menu": null,
   "dive_prices": null,
   "events": null,
-  "calendar": null
+  "calendar": null,
+  "destination_dining": null
  },
  "documents_count": 10,
  "gaps": [
@@ -193,6 +205,11 @@
     "value": "domestic flight",
     "source_url": "https://dhigufaru.com/terms-conditions",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://dhigufaru.com/experiences",
+    "as_of": "2026-10-05"
    }
   ],
   "dining": [
@@ -1189,6 +1206,61 @@
     "value": "canoe",
     "source_url": "https://dhigufaru.com/experiences/fulhangi-dive-school/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://dhigufaru.com/experiences",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://dhigufaru.com/experiences",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "dolphin cruise",
+    "source_url": "https://dhigufaru.com/experiences",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "canoe",
+    "source_url": "https://dhigufaru.com/experiences",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://dhigufaru.com/experiences/dolphin-watching",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://dhigufaru.com/experiences/dolphin-watching",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "dolphin cruise",
+    "source_url": "https://dhigufaru.com/experiences/dolphin-watching",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://dhigufaru.com/experiences/dolphin-watching",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://dhigufaru.com/experiences/local-island-visits",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://dhigufaru.com/experiences/local-island-visits",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "dolphin cruise",
+    "source_url": "https://dhigufaru.com/experiences/local-island-visits",
+    "as_of": "2026-10-05"
    }
   ],
   "excursions": [
@@ -1571,6 +1643,81 @@
     "value": "stargazing",
     "source_url": "https://dhigufaru.com/experiences/fulhangi-dive-school/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "local island",
+    "source_url": "https://dhigufaru.com/experiences",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://dhigufaru.com/experiences",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://dhigufaru.com/experiences",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sunset fishing",
+    "source_url": "https://dhigufaru.com/experiences",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "picnic",
+    "source_url": "https://dhigufaru.com/experiences",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "stargazing",
+    "source_url": "https://dhigufaru.com/experiences",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "local island",
+    "source_url": "https://dhigufaru.com/experiences/dolphin-watching",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://dhigufaru.com/experiences/dolphin-watching",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://dhigufaru.com/experiences/dolphin-watching",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "picnic",
+    "source_url": "https://dhigufaru.com/experiences/dolphin-watching",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "stargazing",
+    "source_url": "https://dhigufaru.com/experiences/dolphin-watching",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "local island",
+    "source_url": "https://dhigufaru.com/experiences/local-island-visits",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://dhigufaru.com/experiences/local-island-visits",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "picnic",
+    "source_url": "https://dhigufaru.com/experiences/local-island-visits",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "stargazing",
+    "source_url": "https://dhigufaru.com/experiences/local-island-visits",
+    "as_of": "2026-10-05"
    }
   ],
   "weddings.offered": [
@@ -1598,6 +1745,313 @@
     "value": true,
     "source_url": "https://dhigufaru.com/weddings",
     "as_of": "2026-10-04"
+   }
+  ],
+  "destination_dining.experiences": [
+   {
+    "value": "sunset cruise",
+    "source_url": "https://dhigufaru.com/app/wp-content/uploads/2024/12/Dhigufaru-Wedding-Proposal-Packages-2024.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://dhigufaru.com/experiences/stargazing-cruise/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sand bank picnic",
+    "source_url": "https://dhigufaru.com/experiences/stargazing-cruise/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://dhigufaru.com/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://dhigufaru.com/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sand bank picnic",
+    "source_url": "https://dhigufaru.com/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dinner under the stars",
+    "source_url": "https://dhigufaru.com/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "in-villa dining",
+    "source_url": "https://dhigufaru.com/wine-dine/dhandifulhu-restaurant/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://dhigufaru.com/experiences/fishing-excursions/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sand bank picnic",
+    "source_url": "https://dhigufaru.com/experiences/fishing-excursions/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://dhigufaru.com/experiences/recreation-center/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sand bank picnic",
+    "source_url": "https://dhigufaru.com/experiences/recreation-center/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://dhigufaru.com/experiences/dolphin-cruise/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sand bank picnic",
+    "source_url": "https://dhigufaru.com/experiences/dolphin-cruise/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://dhigufaru.com/experiences/baraveli-kids-club/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sand bank picnic",
+    "source_url": "https://dhigufaru.com/experiences/baraveli-kids-club/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "in-villa dining",
+    "source_url": "https://dhigufaru.com/wine-dine/in-villa-dining/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "in-villa dining",
+    "source_url": "https://dhigufaru.com/wine-dine/in-villa-dining/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "in-villa dining",
+    "source_url": "https://dhigufaru.com/wine-dine/in-villa-dining/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "in-villa dining",
+    "source_url": "https://dhigufaru.com/wine-dine/thundi-pool-bar/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://dhigufaru.com/experiences/local-island-visits/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sand bank picnic",
+    "source_url": "https://dhigufaru.com/experiences/local-island-visits/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://dhigufaru.com/experiences/multi-purpose-court/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sand bank picnic",
+    "source_url": "https://dhigufaru.com/experiences/multi-purpose-court/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://dhigufaru.com/experiences/sunset-cruise/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://dhigufaru.com/experiences/sunset-cruise/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://dhigufaru.com/experiences/sunset-cruise/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://dhigufaru.com/experiences/sunset-cruise/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sand bank picnic",
+    "source_url": "https://dhigufaru.com/experiences/sunset-cruise/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "in-villa dining",
+    "source_url": "https://dhigufaru.com/wine-dine/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "in-villa dining",
+    "source_url": "https://dhigufaru.com/wine-dine/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sand bank picnic",
+    "source_url": "https://dhigufaru.com/experiences/sand-bank-picnic/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dinner under the stars",
+    "source_url": "https://dhigufaru.com/experiences/sand-bank-picnic/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://dhigufaru.com/experiences/sand-bank-picnic/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sand bank picnic",
+    "source_url": "https://dhigufaru.com/experiences/sand-bank-picnic/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "in-villa dining",
+    "source_url": "https://dhigufaru.com/wine-dine/raagudi-bar/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://dhigufaru.com/experiences/dive-school-water-sports-center/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sand bank picnic",
+    "source_url": "https://dhigufaru.com/experiences/dive-school-water-sports-center/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "in-villa dining",
+    "source_url": "https://dhigufaru.com/wine-dine/muraka-fine-dining-restaurant/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "in-villa dining",
+    "source_url": "https://dhigufaru.com/wine-dine/athiri-speciality-restaurant",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sand bank picnic",
+    "source_url": "https://dhigufaru.com/experiences/sand-bank-picnic",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dinner under the stars",
+    "source_url": "https://dhigufaru.com/experiences/sand-bank-picnic",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://dhigufaru.com/experiences/sand-bank-picnic",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sand bank picnic",
+    "source_url": "https://dhigufaru.com/experiences/sand-bank-picnic",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "in-villa dining",
+    "source_url": "https://dhigufaru.com/wine-dine/muraka-fine-dining-restaurant",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://dhigufaru.com/experiences/fishing-excursions",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sand bank picnic",
+    "source_url": "https://dhigufaru.com/experiences/fishing-excursions",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://dhigufaru.com/experiences/dive-school-water-sports-center",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sand bank picnic",
+    "source_url": "https://dhigufaru.com/experiences/dive-school-water-sports-center",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "in-villa dining",
+    "source_url": "https://dhigufaru.com/wine-dine/thundi-pool-bar",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "in-villa dining",
+    "source_url": "https://dhigufaru.com/wine-dine/dhandifulhu-restaurant",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://dhigufaru.com/experiences/fulhangi-dive-school/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sand bank picnic",
+    "source_url": "https://dhigufaru.com/experiences/fulhangi-dive-school/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://dhigufaru.com/experiences",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://dhigufaru.com/experiences",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sand bank picnic",
+    "source_url": "https://dhigufaru.com/experiences",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "dinner under the stars",
+    "source_url": "https://dhigufaru.com/experiences",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://dhigufaru.com/experiences/dolphin-watching",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sand bank picnic",
+    "source_url": "https://dhigufaru.com/experiences/dolphin-watching",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://dhigufaru.com/experiences/local-island-visits",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sand bank picnic",
+    "source_url": "https://dhigufaru.com/experiences/local-island-visits",
+    "as_of": "2026-10-05"
    }
   ],
   "wellness_fitness": [
@@ -1740,6 +2194,11 @@
     "value": "steam",
     "source_url": "https://dhigufaru.com/spa/sauna-steam-room",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://dhigufaru.com/experiences",
+    "as_of": "2026-10-05"
    }
   ],
   "atoll": [
@@ -1782,6 +2241,16 @@
     "value": "Baa Atoll",
     "source_url": "https://dhigufaru.com/inquiry",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "Baa Atoll",
+    "source_url": "https://dhigufaru.com/experiences",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Baa Atoll",
+    "source_url": "https://dhigufaru.com/experiences/dolphin-watching",
+    "as_of": "2026-10-05"
    }
   ],
   "spa.name": [
@@ -1931,6 +2400,21 @@
     "value": "Recreation Center\nBaraveli Kids Club",
     "source_url": "https://dhigufaru.com/experiences/fulhangi-dive-school/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "Baraveli Kids Club",
+    "source_url": "https://dhigufaru.com/experiences",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Recreation Center\nBaraveli Kids Club",
+    "source_url": "https://dhigufaru.com/experiences/dolphin-watching",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Recreation Center\nBaraveli Kids Club",
+    "source_url": "https://dhigufaru.com/experiences/local-island-visits",
+    "as_of": "2026-10-05"
    }
   ],
   "contacts_public.reservations_email": [
@@ -2052,6 +2536,113 @@
     "value": "Ocean Dimensions",
     "source_url": "https://dhigufaru.com/experiences/fulhangi-dive-school/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "Ocean Dimensions",
+    "source_url": "https://dhigufaru.com/experiences",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Ocean Dimensions",
+    "source_url": "https://dhigufaru.com/experiences/dolphin-watching",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Ocean Dimensions",
+    "source_url": "https://dhigufaru.com/experiences/local-island-visits",
+    "as_of": "2026-10-05"
+   }
+  ],
+  "destination_dining.sandbank_events": [
+   {
+    "value": true,
+    "source_url": "https://dhigufaru.com/experiences/stargazing-cruise/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://dhigufaru.com/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://dhigufaru.com/experiences/fishing-excursions/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://dhigufaru.com/experiences/recreation-center/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://dhigufaru.com/experiences/dolphin-cruise/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://dhigufaru.com/experiences/baraveli-kids-club/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://dhigufaru.com/experiences/local-island-visits/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://dhigufaru.com/experiences/multi-purpose-court/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://dhigufaru.com/experiences/sunset-cruise/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://dhigufaru.com/experiences/sand-bank-picnic/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://dhigufaru.com/experiences/dive-school-water-sports-center/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://dhigufaru.com/experiences/sand-bank-picnic",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://dhigufaru.com/experiences/fishing-excursions",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://dhigufaru.com/experiences/dive-school-water-sports-center",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://dhigufaru.com/experiences/fulhangi-dive-school/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://dhigufaru.com/experiences",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": true,
+    "source_url": "https://dhigufaru.com/experiences/dolphin-watching",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": true,
+    "source_url": "https://dhigufaru.com/experiences/local-island-visits",
+    "as_of": "2026-10-05"
    }
   ]
  },

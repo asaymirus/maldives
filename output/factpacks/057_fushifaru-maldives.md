@@ -58,6 +58,12 @@ Kokko Kids Club; ages: n/a; teens: n/a
 - Packages: n/a
 - Brochure: none
 
+## Destination dining
+
+- Experiences: sandbank experience, in-villa dining, destination dining, floating breakfast, sandbank picnic, sunset cruise, romantic beach dinner, candlelit dinner, anniversary celebration, romantic dinner, sunset dinner, beach dinner, sandbank dinner, sandbank escape, underwater dining, castaway picnic, dinner under the stars, romantic dining
+- Packages: n/a
+- Sandbank events: True; document: none
+
 ## Events / MICE
 
 - Venues: n/a; capacity max: n/a; buyout: None
@@ -81,6 +87,7 @@ Kokko Kids Club; ages: n/a; teens: n/a
 - dive_prices: none
 - events: none
 - calendar: https://letsgomaldives.com/wp-content/uploads/2024/03/Easter-2024-Programme-Fushifaru-Maldives-mail-version-v2.pdf
+- destination_dining: none
 
 ## Gaps
 
@@ -88,4 +95,4 @@ Kokko Kids Club; ages: n/a; teens: n/a
 - wedding brochure
 - events/MICE document
 
-_Facts extracted by rules from 22 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._
+_Facts extracted by rules from 24 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

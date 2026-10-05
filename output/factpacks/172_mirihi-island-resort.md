@@ -42,6 +42,12 @@ Spa; treatment rooms: ?; menu: https://www.vvillasmaldivesatmirihi.com/wp-conten
 - Packages: n/a
 - Brochure: none
 
+## Destination dining
+
+- Experiences: romantic dining, private dining, sunset cruise, sandbank picnic, sandbank experience
+- Packages: Private Sandbank Picnic USD 290 (2026)
+- Sandbank events: True; document: none
+
 ## Events / MICE
 
 - Venues: n/a; capacity max: n/a; buyout: None
@@ -65,6 +71,7 @@ Spa; treatment rooms: ?; menu: https://www.vvillasmaldivesatmirihi.com/wp-conten
 - dive_prices: https://www.vvillasmaldivesatmirihi.com/wp-content/uploads/sites/14/2026/03/Ocean-Pro-Mirihi-Diving-Rates-2026-Revised-14-03-26.pdf
 - events: none
 - calendar: https://d2qwq69i2ic1pk.cloudfront.net/2023/11/CCR_2024_Calendar_compressed.pdf
+- destination_dining: none
 
 ## Gaps
 
@@ -76,4 +83,4 @@ Spa; treatment rooms: ?; menu: https://www.vvillasmaldivesatmirihi.com/wp-conten
 - fact: weddings
 - fact: contacts
 
-_Facts extracted by rules from 12 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._
+_Facts extracted by rules from 15 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

@@ -334,6 +334,7 @@
   "gym",
   "fitness center",
   "sauna",
+  "steam",
   "meditation",
   "fitness centre"
  ],
@@ -344,17 +345,31 @@
   "packages": [],
   "brochure_doc": null
  },
+ "destination_dining": {
+  "experiences": [
+   "dinner under the stars",
+   "in-villa dining",
+   "private dining",
+   "sunset dinner",
+   "private chef",
+   "dine under the stars",
+   "romantic dinner"
+  ],
+  "packages": [],
+  "sandbank_events": null,
+  "doc": null
+ },
  "events_mice": {
   "venues": [],
   "capacity_max": null,
   "buyout": null,
-  "doc": null
+  "doc": "https://document-tc.galaxy.tf/wdpdf-e3qcqstd984ityrjewx07jy6/corporate-social-events_cms-document.pdf"
  },
  "sustainability": [
   "solar"
  ],
  "contacts_public": {
-  "reservations_email": "info@neoscapesmaldives.com",
+  "reservations_email": "hello@tablescape.sg",
   "weddings_email": null,
   "phone": "+960 736 5425"
  },
@@ -363,15 +378,15 @@
   "map": "https://www.neoscapesmaldives.com/wp-content/uploads/Grand-Park-Kodhipparu-Maldives-Resort-Map.pdf",
   "wedding": null,
   "spa_menu": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
-  "dining_menu": null,
+  "dining_menu": "https://document-tc.galaxy.tf/wdpdf-2ht0xdr1fw2qrpwruotzv1wj8/catering_cms-document.pdf",
   "dive_prices": null,
-  "events": null,
-  "calendar": "https://letsgomaldives.com/wp-content/uploads/2026/08/Grand-Park-Kodhipparu.pdf"
+  "events": "https://document-tc.galaxy.tf/wdpdf-e3qcqstd984ityrjewx07jy6/corporate-social-events_cms-document.pdf",
+  "calendar": "https://letsgomaldives.com/wp-content/uploads/2026/08/Grand-Park-Kodhipparu.pdf",
+  "destination_dining": null
  },
- "documents_count": 14,
+ "documents_count": 21,
  "gaps": [
-  "wedding brochure",
-  "events/MICE document"
+  "wedding brochure"
  ],
  "sources": {
   "atoll": [
@@ -2084,6 +2099,11 @@
     "as_of": 2023
    },
    {
+    "value": "steam",
+    "source_url": "https://document-tc.galaxy.tf/wdpdf-e3qcqstd984ityrjewx07jy6/corporate-social-events_cms-document.pdf",
+    "as_of": 2027
+   },
+   {
     "value": "yoga",
     "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
     "as_of": 2022
@@ -2121,6 +2141,68 @@
    {
     "value": "yoga",
     "source_url": "https://mondomaldive.it/it/villaggio/grand-park-kodhipparu",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "destination_dining.experiences": [
+   {
+    "value": "dinner under the stars",
+    "source_url": "https://maldives.ru/doc/GrandPark-Kodiparru-Resort-Factsheet-2023.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": "in-villa dining",
+    "source_url": "https://maldives.ru/doc/GrandPark-Kodiparru-Resort-Factsheet-2023.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": "private dining",
+    "source_url": "https://maldives.ru/doc/GrandPark-Kodiparru-Resort-Factsheet-2023.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": "private dining",
+    "source_url": "https://maldives.ru/doc/GrandPark-Kodiparru-Resort-Factsheet-2023.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": "sunset dinner",
+    "source_url": "https://maldives.ru/doc/GrandPark-Kodiparru-Resort-Factsheet-2023.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": "private dining",
+    "source_url": "https://maldives.ru/doc/GrandPark-Kodiparru-Resort-Factsheet-2023.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": "private chef",
+    "source_url": "https://maldives.ru/doc/GrandPark-Kodiparru-Resort-Factsheet-2023.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": "private dining",
+    "source_url": "https://maldives.ru/doc/GrandPark-Kodiparru-Resort-Factsheet-2023.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": "dine under the stars",
+    "source_url": "https://www.neoscapesmaldives.com/resort/grand-park-kodhipparu-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "romantic dinner",
+    "source_url": "https://www.neoscapesmaldives.com/resort/grand-park-kodhipparu-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "private dining",
+    "source_url": "https://www.neoscapesmaldives.com/resort/grand-park-kodhipparu-resort/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "private dining",
+    "source_url": "https://www.neoscapesmaldives.com/resort/grand-park-kodhipparu-resort/",
     "as_of": "2026-10-04"
    }
   ],
@@ -2165,6 +2247,11 @@
     "value": "info@tourism.gov.mv",
     "source_url": "https://visitmaldives.s3.amazonaws.com/KqrvXKqg/mggoe5ku.pdf",
     "as_of": 2022
+   },
+   {
+    "value": "hello@tablescape.sg",
+    "source_url": "https://document-tc.galaxy.tf/wdpdf-2ht0xdr1fw2qrpwruotzv1wj8/catering_cms-document.pdf",
+    "as_of": 2026
    },
    {
     "value": "info@neoscapesmaldives.com",

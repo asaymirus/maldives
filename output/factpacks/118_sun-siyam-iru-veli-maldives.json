@@ -133,12 +133,12 @@
    "type": "restaurant"
   },
   {
-   "name": "lunch served at Chemistry Bar.",
+   "name": "Location: Chemistry Bar",
    "cuisine": null,
    "type": "bar"
   },
   {
-   "name": "Location: Chemistry Bar",
+   "name": "lunch served at Chemistry Bar.",
    "cuisine": null,
    "type": "bar"
   },
@@ -219,7 +219,7 @@
    "parasailing",
    "water skiing"
   ],
-  "price_list_doc": "https://www.sunsiyam.com/media/mz3pv4nj/ssiv-golden-week-gazette-26.pdf"
+  "price_list_doc": "https://www.sunsiyam.com/media/vtun4ndb/ssiv-halloween-2026-1.pdf"
  },
  "excursions": [
   "dolphin",
@@ -264,6 +264,23 @@
   "packages": [],
   "brochure_doc": "https://www.sunsiyam.com/media/tbdbylep/ultimate-honeymoon-ssiv.pdf"
  },
+ "destination_dining": {
+  "experiences": [
+   "wine pairing",
+   "private dining",
+   "romantic beach dinner",
+   "floating breakfast",
+   "beach bbq",
+   "sunset cruise",
+   "sand bank picnic",
+   "romantic dinner",
+   "dinner under the stars",
+   "destination dining"
+  ],
+  "packages": [],
+  "sandbank_events": true,
+  "doc": null
+ },
  "events_mice": {
   "venues": [],
   "capacity_max": null,
@@ -282,9 +299,10 @@
   "wedding": "https://www.sunsiyam.com/media/tbdbylep/ultimate-honeymoon-ssiv.pdf",
   "spa_menu": "https://www.sunsiyam.com/media/0akcxrid/sun-siyam-iru-veli-spa-menu-2025.pdf",
   "dining_menu": null,
-  "dive_prices": "https://www.sunsiyam.com/media/mz3pv4nj/ssiv-golden-week-gazette-26.pdf",
+  "dive_prices": "https://www.sunsiyam.com/media/vtun4ndb/ssiv-halloween-2026-1.pdf",
   "events": null,
-  "calendar": "https://www.sunsiyam.com/media/vmlphvhg/festive-gazette-26_27-prism.pdf"
+  "calendar": "https://www.sunsiyam.com/media/vmlphvhg/festive-gazette-26_27-prism.pdf",
+  "destination_dining": null
  },
  "documents_count": 11,
  "gaps": [
@@ -647,6 +665,15 @@
      "type": "restaurant"
     },
     "source_url": "https://www.sunsiyam.com/media/z0yluoa4/factsheet-iru-veli-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": {
+     "name": "Location: Chemistry Bar",
+     "cuisine": null,
+     "type": "bar"
+    },
+    "source_url": "https://www.sunsiyam.com/media/vtun4ndb/ssiv-halloween-2026-1.pdf",
     "as_of": 2026
    },
    {
@@ -1160,6 +1187,11 @@
     "value": "cinema",
     "source_url": "https://www.sunsiyam.com/media/tbdbylep/ultimate-honeymoon-ssiv.pdf",
     "as_of": 2025
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://www.sunsiyam.com/media/vtun4ndb/ssiv-halloween-2026-1.pdf",
+    "as_of": 2026
    },
    {
     "value": "whale shark",
@@ -1708,6 +1740,188 @@
     "as_of": "2026-10-04"
    }
   ],
+  "destination_dining.experiences": [
+   {
+    "value": "wine pairing",
+    "source_url": "https://www.sunsiyam.com/media/z0yluoa4/factsheet-iru-veli-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "private dining",
+    "source_url": "https://www.sunsiyam.com/media/z0yluoa4/factsheet-iru-veli-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "romantic beach dinner",
+    "source_url": "https://www.sunsiyam.com/media/z0yluoa4/factsheet-iru-veli-2026.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://www.sunsiyam.com/media/tbdbylep/ultimate-honeymoon-ssiv.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "beach bbq",
+    "source_url": "https://www.sunsiyam.com/media/vtun4ndb/ssiv-halloween-2026-1.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "beach bbq",
+    "source_url": "https://www.sunsiyam.com/media/mz3pv4nj/ssiv-golden-week-gazette-26.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.sunsiyam.com/media/nv4ljrub/ssiv_247-all-inclusive-dine-around-meal-plan.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-iru-veli/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-iru-veli/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-iru-veli/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-iru-veli/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sand bank picnic",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-iru-veli/offers/family-offer/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-iru-veli/experiences/pool-party/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "private dining",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-iru-veli/restaurants-bars/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-iru-veli/offers/free-transfer-offer/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-iru-veli/experiences/sandbank-bbq/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-iru-veli/offers/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-iru-veli/experiences/movie-under-the-stars/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-iru-veli/experiences/pool-parties/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-iru-veli/experiences/cinema-by-moonlight/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-iru-veli/experiences/sunset-fishing-bbq-on-sandbank/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-iru-veli/experiences/local-island-experience/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-iru-veli/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-iru-veli/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-iru-veli/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-iru-veli/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-iru-veli/leisure-activities/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://www.sunsiyam.com/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "romantic dinner",
+    "source_url": "https://www.sunsiyam.com/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://www.sunsiyam.com/sun-siyam-iru-veli/experiences/cinema-by-moonlight/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "dinner under the stars",
+    "source_url": "https://www.neoscapesmaldives.com/resort/sun-siyam-iru-veli/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://www.neoscapesmaldives.com/resort/sun-siyam-iru-veli/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.neoscapesmaldives.com/resort/sun-siyam-iru-veli/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.neoscapesmaldives.com/resort/sun-siyam-iru-veli/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://www.neoscapesmaldives.com/resort/sun-siyam-iru-veli/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://www.neoscapesmaldives.com/resort/sun-siyam-iru-veli/",
+    "as_of": "2026-10-04"
+   }
+  ],
   "contacts_public.reservations_email": [
    {
     "value": "info.iruveli@sunsiyam.com",
@@ -1787,6 +2001,13 @@
    {
     "value": "Dine Around",
     "source_url": "https://www.sunsiyam.com/sun-siyam-iru-veli/offers/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "destination_dining.sandbank_events": [
+   {
+    "value": true,
+    "source_url": "https://www.sunsiyam.com/sun-siyam-iru-veli/offers/family-offer/",
     "as_of": "2026-10-04"
    }
   ],

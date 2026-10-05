@@ -25,11 +25,11 @@ Meal plans: n/a
 
 ## Diving, water sports & excursions
 
-- Operator: n/a
+- Operator: Ocean Group
 - House reef: n/a
-- Activities: snorkeling, snorkelling, paddleboard, jet ski, fishing
-- Price list: none
-- Excursions: castaway, cinema, local island, cooking class
+- Activities: snorkeling, parasailing, fishing, sunset cruise, dolphin cruise, whale shark, snorkelling, paddleboard, jet ski
+- Price list: https://so-hotels.com/wp-content/uploads/sites/19/2025/07/so_maldives_activities_watersports_sharks.pdf
+- Excursions: castaway, cinema, local island, sandbank, dolphin, sunset fishing, big game fishing, whale shark, turtle, picnic, cooking class
 
 ## Kids & family
 
@@ -42,6 +42,12 @@ Meal plans: n/a
 - Packages: n/a
 - Brochure: https://so-hotels.com/wp-content/uploads/sites/19/2026/03/SOWedding_Brochure.pdf
 
+## Destination dining
+
+- Experiences: in-villa dining, beach dinner, sand bank picnic, sunset cruise, floating breakfast, candlelit dinner, private dining, sunset dinner
+- Packages: n/a
+- Sandbank events: True; document: https://so-hotels.com/wp-content/uploads/sites/19/2024/08/so_maldives_destination-dining_1225.pdf
+
 ## Events / MICE
 
 - Venues: ROOM SO BALLROOM VILLA; capacity max: n/a; buyout: None
@@ -53,7 +59,7 @@ Meal plans: n/a
 
 ## Public contacts
 
-- Reservations: info@jasminerbas.com; weddings: wien@eventwide.com; phone: +960 736 5425
+- Reservations: hello@encoreglobal.com; weddings: wien@eventwide.com; phone: +960 736 5425
 
 ## Latest documents
 
@@ -62,14 +68,14 @@ Meal plans: n/a
 - wedding: https://so-hotels.com/wp-content/uploads/sites/19/2026/03/SOWedding_Brochure.pdf
 - spa_menu: https://so-hotels.com/wp-content/uploads/sites/19/2026/09/so_rasalkhaimah_spa-menu_0926.pdf
 - dining_menu: https://so-hotels.com/wp-content/uploads/sites/19/2026/09/uptowndubai_offers_afternoontea_menu.pdf
-- dive_prices: none
+- dive_prices: https://so-hotels.com/wp-content/uploads/sites/19/2025/07/so_maldives_activities_watersports_sharks.pdf
 - events: https://so-hotels.com/wp-content/uploads/sites/19/2026/04/so_vienna_meetings-and-celebrations_brochure_DE-2026.pdf
 - calendar: https://so-hotels.com/wp-content/uploads/sites/19/2026/10/somaldives-festive_brochure-2026.pdf
+- destination_dining: https://so-hotels.com/wp-content/uploads/sites/19/2024/08/so_maldives_destination-dining_1225.pdf
 
 ## Gaps
 
 - fact: villas.total
 - fact: spa
-- fact: dive operator
 
-_Facts extracted by rules from 18 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._
+_Facts extracted by rules from 21 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

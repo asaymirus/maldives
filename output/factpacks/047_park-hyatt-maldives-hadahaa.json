@@ -75,6 +75,15 @@
   "packages": [],
   "brochure_doc": null
  },
+ "destination_dining": {
+  "experiences": [
+   "in-villa dining",
+   "sunset cruise"
+  ],
+  "packages": [],
+  "sandbank_events": null,
+  "doc": null
+ },
  "events_mice": {
   "venues": [],
   "capacity_max": null,
@@ -95,7 +104,8 @@
   "dining_menu": null,
   "dive_prices": null,
   "events": null,
-  "calendar": null
+  "calendar": null,
+  "destination_dining": null
  },
  "documents_count": 0,
  "gaps": [
@@ -234,6 +244,18 @@
    },
    {
     "value": "turtle",
+    "source_url": "https://www.mymaldives.com/blog/hyatt-introduces-park-hyatt-maldives-hadahaa/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "destination_dining.experiences": [
+   {
+    "value": "in-villa dining",
+    "source_url": "https://www.mymaldives.com/blog/hyatt-introduces-park-hyatt-maldives-hadahaa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
     "source_url": "https://www.mymaldives.com/blog/hyatt-introduces-park-hyatt-maldives-hadahaa/",
     "as_of": "2026-10-04"
    }

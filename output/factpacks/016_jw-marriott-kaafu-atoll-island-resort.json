@@ -182,6 +182,14 @@
   "packages": [],
   "brochure_doc": null
  },
+ "destination_dining": {
+  "experiences": [
+   "underwater restaurant"
+  ],
+  "packages": [],
+  "sandbank_events": null,
+  "doc": null
+ },
  "events_mice": {
   "venues": [],
   "capacity_max": null,
@@ -202,7 +210,8 @@
   "dining_menu": null,
   "dive_prices": null,
   "events": null,
-  "calendar": null
+  "calendar": null,
+  "destination_dining": null
  },
  "documents_count": 2,
  "gaps": [
@@ -672,6 +681,13 @@
     "value": "steam",
     "source_url": "https://www.neoscapesmaldives.com/resort/jw-marriott-kaafu-atoll-island-resort/",
     "as_of": "2026-10-04"
+   }
+  ],
+  "destination_dining.experiences": [
+   {
+    "value": "underwater restaurant",
+    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/RESORT-MAP_Original.pdf",
+    "as_of": 2024
    }
   ],
   "island_size": [

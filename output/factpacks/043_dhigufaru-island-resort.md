@@ -51,6 +51,12 @@ Baraveli Kids Club; ages: n/a; teens: n/a
 - Packages: n/a
 - Brochure: https://dhigufaru.com/app/wp-content/uploads/2024/12/Dhigufaru-Wedding-Proposal-Packages-2024.pdf
 
+## Destination dining
+
+- Experiences: sunset cruise, sand bank picnic, dinner under the stars, in-villa dining
+- Packages: n/a
+- Sandbank events: True; document: none
+
 ## Events / MICE
 
 - Venues: n/a; capacity max: n/a; buyout: None
@@ -74,6 +80,7 @@ Baraveli Kids Club; ages: n/a; teens: n/a
 - dive_prices: none
 - events: none
 - calendar: none
+- destination_dining: none
 
 ## Gaps
 
@@ -81,4 +88,4 @@ Baraveli Kids Club; ages: n/a; teens: n/a
 - fact: villas.total
 - fact: villa categories
 
-_Facts extracted by rules from 12 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._
+_Facts extracted by rules from 14 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

@@ -63,6 +63,12 @@ All-inclusive: all inclusive packages.
 - Packages: Vow USD 4430 (2026)
 - Brochure: https://www.nivahotelsandresorts.com/wp-content/uploads/2026/05/Renewal-of-Vows-Niva-Kuramathi.pdf
 
+## Destination dining
+
+- Experiences: private dining, candlelit dinner, lobster dinner, sunset cruise
+- Packages: n/a
+- Sandbank events: None; document: none
+
 ## Events / MICE
 
 - Venues: n/a; capacity max: n/a; buyout: None
@@ -86,10 +92,11 @@ All-inclusive: all inclusive packages.
 - dive_prices: none
 - events: none
 - calendar: https://letsgomaldives.com/wp-content/uploads/2026/02/Easter-on-Niva-Kuramathi.pdf
+- destination_dining: none
 
 ## Gaps
 
 - events/MICE document
 - fact: villas.total
 
-_Facts extracted by rules from 24 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._
+_Facts extracted by rules from 25 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

@@ -53,6 +53,12 @@ All-inclusive: all-inclusive luxury in the Maldives.
 - Packages: n/a
 - Brochure: none
 
+## Destination dining
+
+- Experiences: in villa dining, sunset cruise, in-villa dining, private dining, romantic candlelit dinner
+- Packages: n/a
+- Sandbank events: True; document: none
+
 ## Events / MICE
 
 - Venues: n/a; capacity max: n/a; buyout: None
@@ -76,6 +82,7 @@ All-inclusive: all-inclusive luxury in the Maldives.
 - dive_prices: none
 - events: none
 - calendar: none
+- destination_dining: none
 
 ## Gaps
 
@@ -83,4 +90,4 @@ All-inclusive: all-inclusive luxury in the Maldives.
 - events/MICE document
 - fact: dive operator
 
-_Facts extracted by rules from 21 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._
+_Facts extracted by rules from 23 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

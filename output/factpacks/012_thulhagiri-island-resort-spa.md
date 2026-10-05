@@ -49,7 +49,13 @@ Spa; treatment rooms: ?; menu: https://www.thulhagiri.com.mv/wp-content/uploads/
 - Offered: True; vow renewal: None
 - Venues: n/a
 - Packages: Thulhagiri Wedding Package USD 3500 (2026-10-04)
-- Brochure: https://www.thulhagiri.com.mv/wp-content/uploads/2025/10/Romantic-Beach-Dinner.pdf
+- Brochure: none
+
+## Destination dining
+
+- Experiences: romantic beach dinner, sunset cruise, beach dinner
+- Packages: n/a
+- Sandbank events: None; document: https://www.thulhagiri.com.mv/wp-content/uploads/2025/10/Romantic-Beach-Dinner.pdf
 
 ## Events / MICE
 
@@ -62,24 +68,26 @@ Spa; treatment rooms: ?; menu: https://www.thulhagiri.com.mv/wp-content/uploads/
 
 ## Public contacts
 
-- Reservations: reserve@thulhagiri.com.mv; weddings: n/a; phone: +960 6645930
+- Reservations: info@thulhagiri.com.mv; weddings: n/a; phone: +960 6645930
 
 ## Latest documents
 
 - factsheet: none
 - map: https://www.thulhagiri.com.mv/wp-content/uploads/2025/10/Thulhagiri-Map-Updated-2025.pdf
-- wedding: https://www.thulhagiri.com.mv/wp-content/uploads/2025/10/Romantic-Beach-Dinner.pdf
+- wedding: none
 - spa_menu: https://www.thulhagiri.com.mv/wp-content/uploads/2024/01/Duny-Thai-Spa-Menu-2024-Thulhagiri.pdf
 - dining_menu: https://www.thulhagiri.com.mv/wp-content/uploads/2025/10/All-Inclusive-Drinks-Menu-2025-1.pdf
 - dive_prices: https://www.thulhagiri.com.mv/wp-content/uploads/2025/10/Dive-Center-Pricelist-2025.pdf
 - events: none
 - calendar: none
+- destination_dining: https://www.thulhagiri.com.mv/wp-content/uploads/2025/10/Romantic-Beach-Dinner.pdf
 
 ## Gaps
 
 - factsheet
+- wedding brochure
 - events/MICE document
 - fact: dive operator
 - fact: kids club
 
-_Facts extracted by rules from 19 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._
+_Facts extracted by rules from 20 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

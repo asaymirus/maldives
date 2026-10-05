@@ -35,8 +35,8 @@ Meal plans: HB, FB
 - Operator: n/a
 - House reef: house reef
 - Activities: snorkelling, scuba diving, catamaran, fishing, sunset cruise, whale shark, snorkeling, windsurfing, surfing, kayaking, stand-up paddle, paddleboard, dolphin cruise, sailing, canoe
-- Price list: https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/cci_ocean_culture_life_como_journey.pdf
-- Excursions: sandbank, sunset fishing, whale shark, picnic, private dinner, dolphin, turtle, local island, cinema, cooking class, big game fishing
+- Price list: https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/como_cocoa_island_como_yacht_pricelist_may_2023.pdf
+- Excursions: sandbank, sunset fishing, whale shark, picnic, private dinner, cinema, dolphin, turtle, cooking class, local island, big game fishing
 
 ## Kids & family
 
@@ -49,6 +49,12 @@ Kids Club; ages: n/a; teens: teens programme mentioned
 - Venues: Aerial view of pool Wedding couple walking on sandbank; Wedding ceremony beach set up: wedding arch decorated with
 - Packages: Wedding USD 2888 (2024)
 - Brochure: https://de87ve0y4m3tc.cloudfront.net/comohotels.dev.cendynecommerce.com-2459770069/cms/pressroom/cci_wedding_brochure.pdf
+
+## Destination dining
+
+- Experiences: sunset cruise, private dining, candlelit dinner, floating breakfast, sandbank dinner, sandbank picnic, jetty dinner, sandbank breakfast, private chef, sandbank experience, romantic dining, romantic dinner
+- Packages: Champagne breakfast or Floating Breakfast USD 5888 (2024); SANDBANK BBQ USD 788 (2026)
+- Sandbank events: True; document: https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/como_cocoa_island_dining_privatediningbrochure.pdf
 
 ## Events / MICE
 
@@ -70,12 +76,13 @@ Kids Club; ages: n/a; teens: teens programme mentioned
 - wedding: https://de87ve0y4m3tc.cloudfront.net/comohotels.dev.cendynecommerce.com-2459770069/cms/pressroom/cci_wedding_brochure.pdf
 - spa_menu: https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/cci_cs_vp_matteo_pasquali_treatment_menu.pdf
 - dining_menu: https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/cci_como_compass_activities_menu.pdf
-- dive_prices: https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/cci_ocean_culture_life_como_journey.pdf
+- dive_prices: https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/como_cocoa_island_como_yacht_pricelist_may_2023.pdf
 - events: https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/como_cocoa_island_privateisland_buyout_brochure.pdf
 - calendar: https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/cci_pre_festive_programme_dec_20_to_23.pdf
+- destination_dining: https://de87ve0y4m3tc.cloudfront.net/comohotels.com-2459770069/cms/pressroom/como_cocoa_island_dining_privatediningbrochure.pdf
 
 ## Gaps
 
 - fact: dive operator
 
-_Facts extracted by rules from 24 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._
+_Facts extracted by rules from 27 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

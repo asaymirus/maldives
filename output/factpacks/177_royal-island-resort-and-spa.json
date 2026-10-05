@@ -216,7 +216,13 @@
    "surfing",
    "stand-up paddle",
    "paddleboard",
-   "parasailing"
+   "parasailing",
+   "seabob",
+   "jet ski",
+   "water skiing",
+   "wakeboarding",
+   "fun tube",
+   "catamaran"
   ],
   "price_list_doc": "https://link.assetfile.io/4rxr0CUXGWIzxHbhFjrnvp/Royal+Island+-+Diving+-+Brochure.pdf"
  },
@@ -227,10 +233,10 @@
   "sunset fishing",
   "manta",
   "picnic",
-  "whale shark",
-  "big game fishing",
   "turtle",
   "stargazing",
+  "whale shark",
+  "big game fishing",
   "cooking class",
   "castaway",
   "cinema"
@@ -264,6 +270,28 @@
   "packages": [],
   "brochure_doc": "https://d7h9v39iheghu.cloudfront.net/previews/42de57ca-7efe-4d5a-8d86-d9172148eacf/a04cfb91-3093-47ad-959e-c293d7ec08a0/a04cfb91-3093-47ad-959e-c293d7ec08a0?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy80MmRlNTdjYS03ZWZlLTRkNWEtOGQ4Ni1kOTE3MjE0OGVhY2YqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjk2OTU2fX19XX0_&Signature=Vzs-zJl8tl5ac3bWITSsHUZQxqBbKumCntqITMi707QlgNawp35AYETVu1lHU6NlchvstDJ4ejGVpVOhrU-oyvcxqwRXcMBCp7gUdjvEIB7VYeYEz4xQfg2V14KAKWS4NIz4SlHdXWdqmlhoi2S0VtUKbJPqjYa95uNR2ltFKIDtBc5oDkrafWTKW4gIvesGI-rVf79HGAyP4qx871btzz2MdWwRRFNK5Od7jBPE25tRZSgCkrdsNMC6h0PaRFrpAUN4WSxvO4b93M2vvjFy-By6Rw27FQAVU3YHu~jhZ0RH0m-gTjcs4SVkM2Dd6IZ8K0g4UkB5mZwvYClMwvtn1Q__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA"
  },
+ "destination_dining": {
+  "experiences": [
+   "private dining",
+   "sunset cruise",
+   "romantic dinner",
+   "sandbank picnic",
+   "sandbank trip",
+   "floating breakfast",
+   "beach dinner",
+   "sunset dinner",
+   "candlelit dinner",
+   "treetop dining",
+   "beach barbecue",
+   "destination dining",
+   "dine under the stars",
+   "lagoon lunch",
+   "in-villa dining"
+  ],
+  "packages": [],
+  "sandbank_events": true,
+  "doc": null
+ },
  "events_mice": {
   "venues": [
    "Dhinasha - Conference room",
@@ -293,12 +321,13 @@
   "map": "https://d7h9v39iheghu.cloudfront.net/previews/42de57ca-7efe-4d5a-8d86-d9172148eacf/67de3d1c-28dd-4a7a-8849-d9b78f3e629d/49d97856-2f66-4ae4-93d6-d6980f5a7154?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy80MmRlNTdjYS03ZWZlLTRkNWEtOGQ4Ni1kOTE3MjE0OGVhY2YqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjk2OTU2fX19XX0_&Signature=Vzs-zJl8tl5ac3bWITSsHUZQxqBbKumCntqITMi707QlgNawp35AYETVu1lHU6NlchvstDJ4ejGVpVOhrU-oyvcxqwRXcMBCp7gUdjvEIB7VYeYEz4xQfg2V14KAKWS4NIz4SlHdXWdqmlhoi2S0VtUKbJPqjYa95uNR2ltFKIDtBc5oDkrafWTKW4gIvesGI-rVf79HGAyP4qx871btzz2MdWwRRFNK5Od7jBPE25tRZSgCkrdsNMC6h0PaRFrpAUN4WSxvO4b93M2vvjFy-By6Rw27FQAVU3YHu~jhZ0RH0m-gTjcs4SVkM2Dd6IZ8K0g4UkB5mZwvYClMwvtn1Q__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA",
   "wedding": "https://d7h9v39iheghu.cloudfront.net/previews/42de57ca-7efe-4d5a-8d86-d9172148eacf/a04cfb91-3093-47ad-959e-c293d7ec08a0/a04cfb91-3093-47ad-959e-c293d7ec08a0?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy80MmRlNTdjYS03ZWZlLTRkNWEtOGQ4Ni1kOTE3MjE0OGVhY2YqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjk2OTU2fX19XX0_&Signature=Vzs-zJl8tl5ac3bWITSsHUZQxqBbKumCntqITMi707QlgNawp35AYETVu1lHU6NlchvstDJ4ejGVpVOhrU-oyvcxqwRXcMBCp7gUdjvEIB7VYeYEz4xQfg2V14KAKWS4NIz4SlHdXWdqmlhoi2S0VtUKbJPqjYa95uNR2ltFKIDtBc5oDkrafWTKW4gIvesGI-rVf79HGAyP4qx871btzz2MdWwRRFNK5Od7jBPE25tRZSgCkrdsNMC6h0PaRFrpAUN4WSxvO4b93M2vvjFy-By6Rw27FQAVU3YHu~jhZ0RH0m-gTjcs4SVkM2Dd6IZ8K0g4UkB5mZwvYClMwvtn1Q__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA",
   "spa_menu": "https://link.assetfile.io/TqmixFgMTaixtn8pGTfuV/Royal+Island+-+Spa+-+Menu+%28April+2024%29.pdf",
-  "dining_menu": null,
+  "dining_menu": "https://link.assetfile.io/64GqVO2NbpiYbO0QudyaN3/Royal+Island+-+Excursions+-+Menu.pdf",
   "dive_prices": "https://link.assetfile.io/4rxr0CUXGWIzxHbhFjrnvp/Royal+Island+-+Diving+-+Brochure.pdf",
   "events": null,
-  "calendar": "https://hotelcms-production.imgix.net/villaresorts.com/wp-content/uploads/2025/12/Royal-Island-Resort-Festive-Brochure-2025-2026.pdf?fm=pdf"
+  "calendar": "https://hotelcms-production.imgix.net/villaresorts.com/wp-content/uploads/2025/12/Royal-Island-Resort-Festive-Brochure-2025-2026.pdf?fm=pdf",
+  "destination_dining": null
  },
- "documents_count": 17,
+ "documents_count": 18,
  "gaps": [
   "events/MICE document"
  ],
@@ -307,6 +336,11 @@
    {
     "value": "Baa Atoll",
     "source_url": "https://d7h9v39iheghu.cloudfront.net/previews/42de57ca-7efe-4d5a-8d86-d9172148eacf/20af4d23-8283-4d93-8324-afc58428a875/8ef05306-025c-4c59-ade0-6c4b5eac4b00?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy80MmRlNTdjYS03ZWZlLTRkNWEtOGQ4Ni1kOTE3MjE0OGVhY2YqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjk2OTU2fX19XX0_&Signature=Vzs-zJl8tl5ac3bWITSsHUZQxqBbKumCntqITMi707QlgNawp35AYETVu1lHU6NlchvstDJ4ejGVpVOhrU-oyvcxqwRXcMBCp7gUdjvEIB7VYeYEz4xQfg2V14KAKWS4NIz4SlHdXWdqmlhoi2S0VtUKbJPqjYa95uNR2ltFKIDtBc5oDkrafWTKW4gIvesGI-rVf79HGAyP4qx871btzz2MdWwRRFNK5Od7jBPE25tRZSgCkrdsNMC6h0PaRFrpAUN4WSxvO4b93M2vvjFy-By6Rw27FQAVU3YHu~jhZ0RH0m-gTjcs4SVkM2Dd6IZ8K0g4UkB5mZwvYClMwvtn1Q__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA",
+    "as_of": 2026
+   },
+   {
+    "value": "Baa Atoll",
+    "source_url": "https://link.assetfile.io/64GqVO2NbpiYbO0QudyaN3/Royal+Island+-+Excursions+-+Menu.pdf",
     "as_of": 2026
    },
    {
@@ -406,6 +440,26 @@
    },
    {
     "value": "Baa Atoll",
+    "source_url": "https://villaresorts.com/royal-island/experiences/excursions/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Baa Atoll",
+    "source_url": "https://villaresorts.com/royal-island/festive-celebrations/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Baa Atoll",
+    "source_url": "https://villaresorts.com/royal-island/occasions/celebrations/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Baa Atoll",
+    "source_url": "https://villaresorts.com/royal-island/romantic-getaways/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Baa Atoll",
     "source_url": "https://mondomaldive.it/it/villaggio/royal-island-resort/recensione/6602",
     "as_of": "2026-10-04"
    },
@@ -446,6 +500,11 @@
    {
     "value": "domestic flight",
     "source_url": "https://d7h9v39iheghu.cloudfront.net/previews/42de57ca-7efe-4d5a-8d86-d9172148eacf/20af4d23-8283-4d93-8324-afc58428a875/8ef05306-025c-4c59-ade0-6c4b5eac4b00?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy80MmRlNTdjYS03ZWZlLTRkNWEtOGQ4Ni1kOTE3MjE0OGVhY2YqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjk2OTU2fX19XX0_&Signature=Vzs-zJl8tl5ac3bWITSsHUZQxqBbKumCntqITMi707QlgNawp35AYETVu1lHU6NlchvstDJ4ejGVpVOhrU-oyvcxqwRXcMBCp7gUdjvEIB7VYeYEz4xQfg2V14KAKWS4NIz4SlHdXWdqmlhoi2S0VtUKbJPqjYa95uNR2ltFKIDtBc5oDkrafWTKW4gIvesGI-rVf79HGAyP4qx871btzz2MdWwRRFNK5Od7jBPE25tRZSgCkrdsNMC6h0PaRFrpAUN4WSxvO4b93M2vvjFy-By6Rw27FQAVU3YHu~jhZ0RH0m-gTjcs4SVkM2Dd6IZ8K0g4UkB5mZwvYClMwvtn1Q__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA",
+    "as_of": 2026
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://link.assetfile.io/64GqVO2NbpiYbO0QudyaN3/Royal+Island+-+Excursions+-+Menu.pdf",
     "as_of": 2026
    },
    {
@@ -569,6 +628,16 @@
     "as_of": "2026-10-04"
    },
    {
+    "value": "speedboat",
+    "source_url": "https://villaresorts.com/royal-island/experiences/excursions/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "speedboat",
+    "source_url": "https://villaresorts.com/royal-island/occasions/honeymoons/",
+    "as_of": "2026-10-05"
+   },
+   {
     "value": "seaplane",
     "source_url": "https://www.maldivestourism.net/resorts/royal-island-resort/",
     "as_of": "2026-10-04"
@@ -578,6 +647,11 @@
    {
     "value": 20,
     "source_url": "https://d7h9v39iheghu.cloudfront.net/previews/42de57ca-7efe-4d5a-8d86-d9172148eacf/20af4d23-8283-4d93-8324-afc58428a875/8ef05306-025c-4c59-ade0-6c4b5eac4b00?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy80MmRlNTdjYS03ZWZlLTRkNWEtOGQ4Ni1kOTE3MjE0OGVhY2YqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjk2OTU2fX19XX0_&Signature=Vzs-zJl8tl5ac3bWITSsHUZQxqBbKumCntqITMi707QlgNawp35AYETVu1lHU6NlchvstDJ4ejGVpVOhrU-oyvcxqwRXcMBCp7gUdjvEIB7VYeYEz4xQfg2V14KAKWS4NIz4SlHdXWdqmlhoi2S0VtUKbJPqjYa95uNR2ltFKIDtBc5oDkrafWTKW4gIvesGI-rVf79HGAyP4qx871btzz2MdWwRRFNK5Od7jBPE25tRZSgCkrdsNMC6h0PaRFrpAUN4WSxvO4b93M2vvjFy-By6Rw27FQAVU3YHu~jhZ0RH0m-gTjcs4SVkM2Dd6IZ8K0g4UkB5mZwvYClMwvtn1Q__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA",
+    "as_of": 2026
+   },
+   {
+    "value": 15,
+    "source_url": "https://link.assetfile.io/64GqVO2NbpiYbO0QudyaN3/Royal+Island+-+Excursions+-+Menu.pdf",
     "as_of": 2026
    },
    {
@@ -682,6 +756,18 @@
      "overwater": null
     },
     "source_url": "https://d7h9v39iheghu.cloudfront.net/previews/42de57ca-7efe-4d5a-8d86-d9172148eacf/20af4d23-8283-4d93-8324-afc58428a875/8ef05306-025c-4c59-ade0-6c4b5eac4b00?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy80MmRlNTdjYS03ZWZlLTRkNWEtOGQ4Ni1kOTE3MjE0OGVhY2YqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjk2OTU2fX19XX0_&Signature=Vzs-zJl8tl5ac3bWITSsHUZQxqBbKumCntqITMi707QlgNawp35AYETVu1lHU6NlchvstDJ4ejGVpVOhrU-oyvcxqwRXcMBCp7gUdjvEIB7VYeYEz4xQfg2V14KAKWS4NIz4SlHdXWdqmlhoi2S0VtUKbJPqjYa95uNR2ltFKIDtBc5oDkrafWTKW4gIvesGI-rVf79HGAyP4qx871btzz2MdWwRRFNK5Od7jBPE25tRZSgCkrdsNMC6h0PaRFrpAUN4WSxvO4b93M2vvjFy-By6Rw27FQAVU3YHu~jhZ0RH0m-gTjcs4SVkM2Dd6IZ8K0g4UkB5mZwvYClMwvtn1Q__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA",
+    "as_of": 2026
+   },
+   {
+    "value": {
+     "name": "hello@villaresorts.com",
+     "count": 960,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://link.assetfile.io/64GqVO2NbpiYbO0QudyaN3/Royal+Island+-+Excursions+-+Menu.pdf",
     "as_of": 2026
    },
    {
@@ -1082,6 +1168,21 @@
    },
    {
     "value": "AI",
+    "source_url": "https://villaresorts.com/blog/a-stay-in-the-life-our-guide-to-romantic-couple-holidays-in-the-maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "FB",
+    "source_url": "https://villaresorts.com/royal-island/festive-celebrations/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://villaresorts.com/royal-island/occasions/honeymoons/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "AI",
     "source_url": "https://mondomaldive.it/it/villaggio/royal-island-resort/recensione/6602",
     "as_of": "2026-10-04"
    },
@@ -1153,6 +1254,26 @@
     "as_of": "2026-10-04"
    },
    {
+    "value": "Araamu Spa",
+    "source_url": "https://villaresorts.com/blog/a-stay-in-the-life-our-guide-to-romantic-couple-holidays-in-the-maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Araamu Spa",
+    "source_url": "https://villaresorts.com/blog/the-top-honeymoon-destination/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "At Araamu Spa",
+    "source_url": "https://villaresorts.com/royal-island/festive-celebrations/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Araamu Spa",
+    "source_url": "https://villaresorts.com/royal-island/romantic-getaways/",
+    "as_of": "2026-10-05"
+   },
+   {
     "value": "Spa",
     "source_url": "https://www.maldivestourism.net/resorts/royal-island-resort/",
     "as_of": "2026-10-04"
@@ -1210,6 +1331,11 @@
     "value": "house reef or head out on a boat dive",
     "source_url": "https://villaresorts.com/royal-island/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef or head out on a boat dive",
+    "source_url": "https://villaresorts.com/royal-island/festive-celebrations/",
+    "as_of": "2026-10-05"
    }
   ],
   "diving_watersports.activities": [
@@ -1251,6 +1377,16 @@
    {
     "value": "canoe",
     "source_url": "https://d7h9v39iheghu.cloudfront.net/previews/42de57ca-7efe-4d5a-8d86-d9172148eacf/20af4d23-8283-4d93-8324-afc58428a875/8ef05306-025c-4c59-ade0-6c4b5eac4b00?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy80MmRlNTdjYS03ZWZlLTRkNWEtOGQ4Ni1kOTE3MjE0OGVhY2YqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjk2OTU2fX19XX0_&Signature=Vzs-zJl8tl5ac3bWITSsHUZQxqBbKumCntqITMi707QlgNawp35AYETVu1lHU6NlchvstDJ4ejGVpVOhrU-oyvcxqwRXcMBCp7gUdjvEIB7VYeYEz4xQfg2V14KAKWS4NIz4SlHdXWdqmlhoi2S0VtUKbJPqjYa95uNR2ltFKIDtBc5oDkrafWTKW4gIvesGI-rVf79HGAyP4qx871btzz2MdWwRRFNK5Od7jBPE25tRZSgCkrdsNMC6h0PaRFrpAUN4WSxvO4b93M2vvjFy-By6Rw27FQAVU3YHu~jhZ0RH0m-gTjcs4SVkM2Dd6IZ8K0g4UkB5mZwvYClMwvtn1Q__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA",
+    "as_of": 2026
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://link.assetfile.io/64GqVO2NbpiYbO0QudyaN3/Royal+Island+-+Excursions+-+Menu.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://link.assetfile.io/64GqVO2NbpiYbO0QudyaN3/Royal+Island+-+Excursions+-+Menu.pdf",
     "as_of": 2026
    },
    {
@@ -1484,6 +1620,161 @@
     "as_of": "2026-10-04"
    },
    {
+    "value": "snorkeling",
+    "source_url": "https://villaresorts.com/activity/royal-island-sandbank-picnics/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://villaresorts.com/activity/royal-island-sandbank-sunset-cocktails/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "seabob",
+    "source_url": "https://villaresorts.com/blog/a-stay-in-the-life-our-guide-to-romantic-couple-holidays-in-the-maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://villaresorts.com/blog/the-top-honeymoon-destination/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://villaresorts.com/blog/the-top-honeymoon-destination/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://villaresorts.com/blog/the-top-honeymoon-destination/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://villaresorts.com/blog/the-top-honeymoon-destination/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://villaresorts.com/royal-island/experiences/excursions/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://villaresorts.com/royal-island/experiences/excursions/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "fishing",
+    "source_url": "https://villaresorts.com/royal-island/experiences/excursions/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://villaresorts.com/royal-island/experiences/water-sports/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "windsurfing",
+    "source_url": "https://villaresorts.com/royal-island/experiences/water-sports/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "surfing",
+    "source_url": "https://villaresorts.com/royal-island/experiences/water-sports/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "stand-up paddle",
+    "source_url": "https://villaresorts.com/royal-island/experiences/water-sports/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "paddleboard",
+    "source_url": "https://villaresorts.com/royal-island/experiences/water-sports/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "jet ski",
+    "source_url": "https://villaresorts.com/royal-island/experiences/water-sports/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "parasailing",
+    "source_url": "https://villaresorts.com/royal-island/experiences/water-sports/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "water skiing",
+    "source_url": "https://villaresorts.com/royal-island/experiences/water-sports/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "wakeboarding",
+    "source_url": "https://villaresorts.com/royal-island/experiences/water-sports/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "seabob",
+    "source_url": "https://villaresorts.com/royal-island/experiences/water-sports/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://villaresorts.com/royal-island/experiences/water-sports/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "fun tube",
+    "source_url": "https://villaresorts.com/royal-island/experiences/water-sports/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "canoe",
+    "source_url": "https://villaresorts.com/royal-island/experiences/water-sports/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://villaresorts.com/royal-island/festive-celebrations/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://villaresorts.com/royal-island/occasions/honeymoons/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://villaresorts.com/royal-island/offers-and-packages/romantic-honeymoon-and-retreat-benefits/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://villaresorts.com/royal-island/romantic-getaways/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "windsurfing",
+    "source_url": "https://villaresorts.com/villa-haven/experiences-at-villa-haven/water-sports/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "catamaran",
+    "source_url": "https://villaresorts.com/villa-haven/experiences-at-villa-haven/water-sports/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "parasailing",
+    "source_url": "https://villaresorts.com/villa-haven/experiences-at-villa-haven/water-sports/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "seabob",
+    "source_url": "https://villaresorts.com/villa-haven/experiences-at-villa-haven/water-sports/",
+    "as_of": "2026-10-05"
+   },
+   {
     "value": "whale shark",
     "source_url": "https://www.maldivestourism.net/resorts/royal-island-resort/",
     "as_of": "2026-10-04"
@@ -1529,6 +1820,36 @@
     "value": "sandbank",
     "source_url": "https://d7h9v39iheghu.cloudfront.net/previews/42de57ca-7efe-4d5a-8d86-d9172148eacf/a04cfb91-3093-47ad-959e-c293d7ec08a0/a04cfb91-3093-47ad-959e-c293d7ec08a0?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy80MmRlNTdjYS03ZWZlLTRkNWEtOGQ4Ni1kOTE3MjE0OGVhY2YqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjk2OTU2fX19XX0_&Signature=Vzs-zJl8tl5ac3bWITSsHUZQxqBbKumCntqITMi707QlgNawp35AYETVu1lHU6NlchvstDJ4ejGVpVOhrU-oyvcxqwRXcMBCp7gUdjvEIB7VYeYEz4xQfg2V14KAKWS4NIz4SlHdXWdqmlhoi2S0VtUKbJPqjYa95uNR2ltFKIDtBc5oDkrafWTKW4gIvesGI-rVf79HGAyP4qx871btzz2MdWwRRFNK5Od7jBPE25tRZSgCkrdsNMC6h0PaRFrpAUN4WSxvO4b93M2vvjFy-By6Rw27FQAVU3YHu~jhZ0RH0m-gTjcs4SVkM2Dd6IZ8K0g4UkB5mZwvYClMwvtn1Q__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA",
     "as_of": 2022
+   },
+   {
+    "value": "local island",
+    "source_url": "https://link.assetfile.io/64GqVO2NbpiYbO0QudyaN3/Royal+Island+-+Excursions+-+Menu.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://link.assetfile.io/64GqVO2NbpiYbO0QudyaN3/Royal+Island+-+Excursions+-+Menu.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://link.assetfile.io/64GqVO2NbpiYbO0QudyaN3/Royal+Island+-+Excursions+-+Menu.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "sunset fishing",
+    "source_url": "https://link.assetfile.io/64GqVO2NbpiYbO0QudyaN3/Royal+Island+-+Excursions+-+Menu.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://link.assetfile.io/64GqVO2NbpiYbO0QudyaN3/Royal+Island+-+Excursions+-+Menu.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "stargazing",
+    "source_url": "https://link.assetfile.io/64GqVO2NbpiYbO0QudyaN3/Royal+Island+-+Excursions+-+Menu.pdf",
+    "as_of": 2026
    },
    {
     "value": "whale shark",
@@ -1791,6 +2112,176 @@
     "as_of": "2026-10-04"
    },
    {
+    "value": "sandbank",
+    "source_url": "https://villaresorts.com/activity/royal-island-sandbank-picnics/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "picnic",
+    "source_url": "https://villaresorts.com/activity/royal-island-sandbank-picnics/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "stargazing",
+    "source_url": "https://villaresorts.com/activity/royal-island-sandbank-picnics/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://villaresorts.com/activity/royal-island-sandbank-sunset-cocktails/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "stargazing",
+    "source_url": "https://villaresorts.com/activity/royal-island-sandbank-sunset-cocktails/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "picnic",
+    "source_url": "https://villaresorts.com/blog/a-stay-in-the-life-our-guide-to-romantic-couple-holidays-in-the-maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "stargazing",
+    "source_url": "https://villaresorts.com/blog/a-stay-in-the-life-our-guide-to-romantic-couple-holidays-in-the-maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://villaresorts.com/blog/the-top-honeymoon-destination/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://villaresorts.com/blog/the-top-honeymoon-destination/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://villaresorts.com/blog/the-top-honeymoon-destination/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "picnic",
+    "source_url": "https://villaresorts.com/blog/the-top-honeymoon-destination/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "local island",
+    "source_url": "https://villaresorts.com/royal-island/experiences/excursions/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://villaresorts.com/royal-island/experiences/excursions/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://villaresorts.com/royal-island/experiences/excursions/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sunset fishing",
+    "source_url": "https://villaresorts.com/royal-island/experiences/excursions/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "big game fishing",
+    "source_url": "https://villaresorts.com/royal-island/experiences/excursions/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://villaresorts.com/royal-island/experiences/excursions/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "picnic",
+    "source_url": "https://villaresorts.com/royal-island/experiences/excursions/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "stargazing",
+    "source_url": "https://villaresorts.com/royal-island/experiences/excursions/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://villaresorts.com/royal-island/experiences/water-sports/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://villaresorts.com/royal-island/experiences/water-sports/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://villaresorts.com/royal-island/experiences/water-sports/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://villaresorts.com/royal-island/experiences/water-sports/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://villaresorts.com/royal-island/festive-celebrations/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://villaresorts.com/royal-island/festive-celebrations/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://villaresorts.com/royal-island/occasions/celebrations/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://villaresorts.com/royal-island/occasions/celebrations/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "local island",
+    "source_url": "https://villaresorts.com/royal-island/occasions/honeymoons/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://villaresorts.com/royal-island/occasions/honeymoons/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://villaresorts.com/royal-island/occasions/honeymoons/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "stargazing",
+    "source_url": "https://villaresorts.com/royal-island/occasions/honeymoons/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://villaresorts.com/royal-island/romantic-getaways/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "picnic",
+    "source_url": "https://villaresorts.com/royal-island/romantic-getaways/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "stargazing",
+    "source_url": "https://villaresorts.com/royal-island/romantic-getaways/",
+    "as_of": "2026-10-05"
+   },
+   {
     "value": "whale shark",
     "source_url": "https://www.maldivestourism.net/resorts/royal-island-resort/",
     "as_of": "2026-10-04"
@@ -1941,6 +2432,31 @@
     "value": "tennis",
     "source_url": "https://villaresorts.com/villa-nautica/experiences/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "gym",
+    "source_url": "https://villaresorts.com/royal-island/offers-and-packages/romantic-honeymoon-and-retreat-benefits/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "ayurveda",
+    "source_url": "https://villaresorts.com/royal-island/romantic-getaways/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "steam",
+    "source_url": "https://villaresorts.com/royal-island/romantic-getaways/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://villaresorts.com/villa-haven/experiences-at-villa-haven/land-sports/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "badminton",
+    "source_url": "https://villaresorts.com/villa-haven/experiences-at-villa-haven/land-sports/",
+    "as_of": "2026-10-05"
    }
   ],
   "weddings.offered": [
@@ -1988,6 +2504,16 @@
     "value": true,
     "source_url": "https://villaresorts.com/blog/the-maldives-made-for-honeymoons/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://villaresorts.com/royal-island/occasions/celebrations/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": true,
+    "source_url": "https://villaresorts.com/royal-island/romantic-getaways/",
+    "as_of": "2026-10-05"
    }
   ],
   "weddings.vow_renewal": [
@@ -2000,6 +2526,16 @@
     "value": true,
     "source_url": "https://villaresorts.com/royal-island/occasions/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://villaresorts.com/royal-island/occasions/celebrations/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": true,
+    "source_url": "https://villaresorts.com/royal-island/romantic-getaways/",
+    "as_of": "2026-10-05"
    }
   ],
   "weddings.venues": [
@@ -2014,6 +2550,340 @@
     "as_of": 2026
    }
   ],
+  "destination_dining.experiences": [
+   {
+    "value": "private dining",
+    "source_url": "https://d7h9v39iheghu.cloudfront.net/previews/42de57ca-7efe-4d5a-8d86-d9172148eacf/20af4d23-8283-4d93-8324-afc58428a875/8ef05306-025c-4c59-ade0-6c4b5eac4b00?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy80MmRlNTdjYS03ZWZlLTRkNWEtOGQ4Ni1kOTE3MjE0OGVhY2YqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjk2OTU2fX19XX0_&Signature=Vzs-zJl8tl5ac3bWITSsHUZQxqBbKumCntqITMi707QlgNawp35AYETVu1lHU6NlchvstDJ4ejGVpVOhrU-oyvcxqwRXcMBCp7gUdjvEIB7VYeYEz4xQfg2V14KAKWS4NIz4SlHdXWdqmlhoi2S0VtUKbJPqjYa95uNR2ltFKIDtBc5oDkrafWTKW4gIvesGI-rVf79HGAyP4qx871btzz2MdWwRRFNK5Od7jBPE25tRZSgCkrdsNMC6h0PaRFrpAUN4WSxvO4b93M2vvjFy-By6Rw27FQAVU3YHu~jhZ0RH0m-gTjcs4SVkM2Dd6IZ8K0g4UkB5mZwvYClMwvtn1Q__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA",
+    "as_of": 2026
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://d7h9v39iheghu.cloudfront.net/previews/42de57ca-7efe-4d5a-8d86-d9172148eacf/20af4d23-8283-4d93-8324-afc58428a875/8ef05306-025c-4c59-ade0-6c4b5eac4b00?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy80MmRlNTdjYS03ZWZlLTRkNWEtOGQ4Ni1kOTE3MjE0OGVhY2YqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjk2OTU2fX19XX0_&Signature=Vzs-zJl8tl5ac3bWITSsHUZQxqBbKumCntqITMi707QlgNawp35AYETVu1lHU6NlchvstDJ4ejGVpVOhrU-oyvcxqwRXcMBCp7gUdjvEIB7VYeYEz4xQfg2V14KAKWS4NIz4SlHdXWdqmlhoi2S0VtUKbJPqjYa95uNR2ltFKIDtBc5oDkrafWTKW4gIvesGI-rVf79HGAyP4qx871btzz2MdWwRRFNK5Od7jBPE25tRZSgCkrdsNMC6h0PaRFrpAUN4WSxvO4b93M2vvjFy-By6Rw27FQAVU3YHu~jhZ0RH0m-gTjcs4SVkM2Dd6IZ8K0g4UkB5mZwvYClMwvtn1Q__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA",
+    "as_of": 2026
+   },
+   {
+    "value": "private dining",
+    "source_url": "https://d7h9v39iheghu.cloudfront.net/previews/42de57ca-7efe-4d5a-8d86-d9172148eacf/20af4d23-8283-4d93-8324-afc58428a875/8ef05306-025c-4c59-ade0-6c4b5eac4b00?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy80MmRlNTdjYS03ZWZlLTRkNWEtOGQ4Ni1kOTE3MjE0OGVhY2YqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjk2OTU2fX19XX0_&Signature=Vzs-zJl8tl5ac3bWITSsHUZQxqBbKumCntqITMi707QlgNawp35AYETVu1lHU6NlchvstDJ4ejGVpVOhrU-oyvcxqwRXcMBCp7gUdjvEIB7VYeYEz4xQfg2V14KAKWS4NIz4SlHdXWdqmlhoi2S0VtUKbJPqjYa95uNR2ltFKIDtBc5oDkrafWTKW4gIvesGI-rVf79HGAyP4qx871btzz2MdWwRRFNK5Od7jBPE25tRZSgCkrdsNMC6h0PaRFrpAUN4WSxvO4b93M2vvjFy-By6Rw27FQAVU3YHu~jhZ0RH0m-gTjcs4SVkM2Dd6IZ8K0g4UkB5mZwvYClMwvtn1Q__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA",
+    "as_of": 2026
+   },
+   {
+    "value": "private dining",
+    "source_url": "https://d7h9v39iheghu.cloudfront.net/previews/42de57ca-7efe-4d5a-8d86-d9172148eacf/20af4d23-8283-4d93-8324-afc58428a875/8ef05306-025c-4c59-ade0-6c4b5eac4b00?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy80MmRlNTdjYS03ZWZlLTRkNWEtOGQ4Ni1kOTE3MjE0OGVhY2YqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjk2OTU2fX19XX0_&Signature=Vzs-zJl8tl5ac3bWITSsHUZQxqBbKumCntqITMi707QlgNawp35AYETVu1lHU6NlchvstDJ4ejGVpVOhrU-oyvcxqwRXcMBCp7gUdjvEIB7VYeYEz4xQfg2V14KAKWS4NIz4SlHdXWdqmlhoi2S0VtUKbJPqjYa95uNR2ltFKIDtBc5oDkrafWTKW4gIvesGI-rVf79HGAyP4qx871btzz2MdWwRRFNK5Od7jBPE25tRZSgCkrdsNMC6h0PaRFrpAUN4WSxvO4b93M2vvjFy-By6Rw27FQAVU3YHu~jhZ0RH0m-gTjcs4SVkM2Dd6IZ8K0g4UkB5mZwvYClMwvtn1Q__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA",
+    "as_of": 2026
+   },
+   {
+    "value": "romantic dinner",
+    "source_url": "https://d7h9v39iheghu.cloudfront.net/previews/42de57ca-7efe-4d5a-8d86-d9172148eacf/20af4d23-8283-4d93-8324-afc58428a875/8ef05306-025c-4c59-ade0-6c4b5eac4b00?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy80MmRlNTdjYS03ZWZlLTRkNWEtOGQ4Ni1kOTE3MjE0OGVhY2YqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjk2OTU2fX19XX0_&Signature=Vzs-zJl8tl5ac3bWITSsHUZQxqBbKumCntqITMi707QlgNawp35AYETVu1lHU6NlchvstDJ4ejGVpVOhrU-oyvcxqwRXcMBCp7gUdjvEIB7VYeYEz4xQfg2V14KAKWS4NIz4SlHdXWdqmlhoi2S0VtUKbJPqjYa95uNR2ltFKIDtBc5oDkrafWTKW4gIvesGI-rVf79HGAyP4qx871btzz2MdWwRRFNK5Od7jBPE25tRZSgCkrdsNMC6h0PaRFrpAUN4WSxvO4b93M2vvjFy-By6Rw27FQAVU3YHu~jhZ0RH0m-gTjcs4SVkM2Dd6IZ8K0g4UkB5mZwvYClMwvtn1Q__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA",
+    "as_of": 2026
+   },
+   {
+    "value": "sandbank picnic",
+    "source_url": "https://d7h9v39iheghu.cloudfront.net/previews/42de57ca-7efe-4d5a-8d86-d9172148eacf/20af4d23-8283-4d93-8324-afc58428a875/8ef05306-025c-4c59-ade0-6c4b5eac4b00?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy80MmRlNTdjYS03ZWZlLTRkNWEtOGQ4Ni1kOTE3MjE0OGVhY2YqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjk2OTU2fX19XX0_&Signature=Vzs-zJl8tl5ac3bWITSsHUZQxqBbKumCntqITMi707QlgNawp35AYETVu1lHU6NlchvstDJ4ejGVpVOhrU-oyvcxqwRXcMBCp7gUdjvEIB7VYeYEz4xQfg2V14KAKWS4NIz4SlHdXWdqmlhoi2S0VtUKbJPqjYa95uNR2ltFKIDtBc5oDkrafWTKW4gIvesGI-rVf79HGAyP4qx871btzz2MdWwRRFNK5Od7jBPE25tRZSgCkrdsNMC6h0PaRFrpAUN4WSxvO4b93M2vvjFy-By6Rw27FQAVU3YHu~jhZ0RH0m-gTjcs4SVkM2Dd6IZ8K0g4UkB5mZwvYClMwvtn1Q__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA",
+    "as_of": 2026
+   },
+   {
+    "value": "sandbank trip",
+    "source_url": "https://link.assetfile.io/64GqVO2NbpiYbO0QudyaN3/Royal+Island+-+Excursions+-+Menu.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://villaresorts.com/royal-island/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "beach dinner",
+    "source_url": "https://villaresorts.com/villa-nautica/occasions/celebrations/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset dinner",
+    "source_url": "https://villaresorts.com/villa-park/occasions/honeymoons/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "candlelit dinner",
+    "source_url": "https://villaresorts.com/villa-park/occasions/honeymoons/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "private dining",
+    "source_url": "https://villaresorts.com/villa-park/occasions/honeymoons/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "treetop dining",
+    "source_url": "https://villaresorts.com/villa-park/occasions/honeymoons/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset dinner",
+    "source_url": "https://villaresorts.com/villa-park/occasions/honeymoons/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "private dining",
+    "source_url": "https://villaresorts.com/villa-nautica/dining/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "candlelit dinner",
+    "source_url": "https://villaresorts.com/royal-island/dining/raabondhi/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "beach barbecue",
+    "source_url": "https://villaresorts.com/villa-park/family-activities/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "private dining",
+    "source_url": "https://villaresorts.com/blog/a-food-lovers-guide-to-dining-across-villa-resorts/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "candlelit dinner",
+    "source_url": "https://villaresorts.com/blog/a-food-lovers-guide-to-dining-across-villa-resorts/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://villaresorts.com/villa-haven/experiences-at-villa-haven/destination-dining/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://villaresorts.com/villa-haven/experiences-at-villa-haven/destination-dining/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "private dining",
+    "source_url": "https://villaresorts.com/villa-nautica/experiences/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dine under the stars",
+    "source_url": "https://villaresorts.com/villa-nautica/diwali/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "candlelit dinner",
+    "source_url": "https://villaresorts.com/blog/the-maldives-made-for-honeymoons/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://villaresorts.com/blog/the-maldives-made-for-honeymoons/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank picnic",
+    "source_url": "https://villaresorts.com/activity/royal-island-sandbank-picnics/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sandbank picnic",
+    "source_url": "https://villaresorts.com/activity/royal-island-sandbank-picnics/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://villaresorts.com/blog/the-top-honeymoon-destination/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "candlelit dinner",
+    "source_url": "https://villaresorts.com/blog/the-top-honeymoon-destination/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://villaresorts.com/blog/the-top-honeymoon-destination/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://villaresorts.com/blog/the-top-honeymoon-destination/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sandbank picnic",
+    "source_url": "https://villaresorts.com/royal-island/experiences/excursions/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sandbank picnic",
+    "source_url": "https://villaresorts.com/royal-island/experiences/excursions/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sandbank picnic",
+    "source_url": "https://villaresorts.com/royal-island/experiences/excursions/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sandbank picnic",
+    "source_url": "https://villaresorts.com/royal-island/experiences/excursions/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "private dining",
+    "source_url": "https://villaresorts.com/royal-island/experiences/private-dining/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "beach dinner",
+    "source_url": "https://villaresorts.com/royal-island/experiences/private-dining/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "beach dinner",
+    "source_url": "https://villaresorts.com/royal-island/experiences/private-dining/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://villaresorts.com/royal-island/experiences/private-dining/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://villaresorts.com/royal-island/experiences/private-dining/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "lagoon lunch",
+    "source_url": "https://villaresorts.com/royal-island/experiences/private-dining/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://villaresorts.com/royal-island/festive-celebrations/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "candlelit dinner",
+    "source_url": "https://villaresorts.com/royal-island/occasions/celebrations/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "beach dinner",
+    "source_url": "https://villaresorts.com/royal-island/occasions/celebrations/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "candlelit dinner",
+    "source_url": "https://villaresorts.com/royal-island/occasions/honeymoons/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "private dining",
+    "source_url": "https://villaresorts.com/royal-island/offers-and-packages/romantic-honeymoon-and-retreat-benefits/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://villaresorts.com/royal-island/offers-and-packages/romantic-honeymoon-and-retreat-benefits/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "romantic dinner",
+    "source_url": "https://villaresorts.com/royal-island/offers-and-packages/romantic-honeymoon-and-retreat-benefits/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://villaresorts.com/royal-island/offers-and-packages/romantic-honeymoon-and-retreat-benefits/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sandbank picnic",
+    "source_url": "https://villaresorts.com/royal-island/romantic-getaways/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://villaresorts.com/royal-island/romantic-getaways/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "beach dinner",
+    "source_url": "https://villaresorts.com/royal-island/romantic-getaways/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://villaresorts.com/royal-island/romantic-getaways/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "private dining",
+    "source_url": "https://villaresorts.com/royal-island/romantic-getaways/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "candlelit dinner",
+    "source_url": "https://villaresorts.com/royal-island/romantic-getaways/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sandbank picnic",
+    "source_url": "https://villaresorts.com/royal-island/romantic-getaways/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sunset dinner",
+    "source_url": "https://villaresorts.com/royal-island/romantic-getaways/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://villaresorts.com/royal-island/romantic-getaways/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "beach barbecue",
+    "source_url": "https://villaresorts.com/royal-island/romantic-getaways/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "in-villa dining",
+    "source_url": "https://villaresorts.com/villa-haven/dining/in-villa-dining/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "romantic dinner",
+    "source_url": "https://villaresorts.com/villa-haven/dining/in-villa-dining/",
+    "as_of": "2026-10-05"
+   }
+  ],
+  "destination_dining.sandbank_events": [
+   {
+    "value": true,
+    "source_url": "https://d7h9v39iheghu.cloudfront.net/previews/42de57ca-7efe-4d5a-8d86-d9172148eacf/20af4d23-8283-4d93-8324-afc58428a875/8ef05306-025c-4c59-ade0-6c4b5eac4b00?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy80MmRlNTdjYS03ZWZlLTRkNWEtOGQ4Ni1kOTE3MjE0OGVhY2YqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjk2OTU2fX19XX0_&Signature=Vzs-zJl8tl5ac3bWITSsHUZQxqBbKumCntqITMi707QlgNawp35AYETVu1lHU6NlchvstDJ4ejGVpVOhrU-oyvcxqwRXcMBCp7gUdjvEIB7VYeYEz4xQfg2V14KAKWS4NIz4SlHdXWdqmlhoi2S0VtUKbJPqjYa95uNR2ltFKIDtBc5oDkrafWTKW4gIvesGI-rVf79HGAyP4qx871btzz2MdWwRRFNK5Od7jBPE25tRZSgCkrdsNMC6h0PaRFrpAUN4WSxvO4b93M2vvjFy-By6Rw27FQAVU3YHu~jhZ0RH0m-gTjcs4SVkM2Dd6IZ8K0g4UkB5mZwvYClMwvtn1Q__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA",
+    "as_of": 2026
+   },
+   {
+    "value": true,
+    "source_url": "https://link.assetfile.io/64GqVO2NbpiYbO0QudyaN3/Royal+Island+-+Excursions+-+Menu.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": true,
+    "source_url": "https://villaresorts.com/activity/royal-island-sandbank-picnics/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": true,
+    "source_url": "https://villaresorts.com/royal-island/experiences/excursions/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": true,
+    "source_url": "https://villaresorts.com/royal-island/romantic-getaways/",
+    "as_of": "2026-10-05"
+   }
+  ],
   "contacts_public.reservations_email": [
    {
     "value": "hello@villaresorts.com",
@@ -2023,6 +2893,11 @@
    {
     "value": "hello@villaresorts.com",
     "source_url": "https://d7h9v39iheghu.cloudfront.net/previews/42de57ca-7efe-4d5a-8d86-d9172148eacf/20af4d23-8283-4d93-8324-afc58428a875/8ef05306-025c-4c59-ade0-6c4b5eac4b00?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy80MmRlNTdjYS03ZWZlLTRkNWEtOGQ4Ni1kOTE3MjE0OGVhY2YqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjk2OTU2fX19XX0_&Signature=Vzs-zJl8tl5ac3bWITSsHUZQxqBbKumCntqITMi707QlgNawp35AYETVu1lHU6NlchvstDJ4ejGVpVOhrU-oyvcxqwRXcMBCp7gUdjvEIB7VYeYEz4xQfg2V14KAKWS4NIz4SlHdXWdqmlhoi2S0VtUKbJPqjYa95uNR2ltFKIDtBc5oDkrafWTKW4gIvesGI-rVf79HGAyP4qx871btzz2MdWwRRFNK5Od7jBPE25tRZSgCkrdsNMC6h0PaRFrpAUN4WSxvO4b93M2vvjFy-By6Rw27FQAVU3YHu~jhZ0RH0m-gTjcs4SVkM2Dd6IZ8K0g4UkB5mZwvYClMwvtn1Q__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA",
+    "as_of": 2026
+   },
+   {
+    "value": "hello@villaresorts.com",
+    "source_url": "https://link.assetfile.io/64GqVO2NbpiYbO0QudyaN3/Royal+Island+-+Excursions+-+Menu.pdf",
     "as_of": 2026
    },
    {
@@ -2091,16 +2966,6 @@
     "as_of": "2026-10-04"
    },
    {
-    "value": "sales@villaresorts.com",
-    "source_url": "https://villaresorts.com/contact/",
-    "as_of": "2026-10-04"
-   },
-   {
-    "value": "reservations.park@villaresorts.com",
-    "source_url": "https://villaresorts.com/contact/",
-    "as_of": "2026-10-04"
-   },
-   {
     "value": "hello@villaresorts.com",
     "source_url": "https://villaresorts.com/contact/",
     "as_of": "2026-10-04"
@@ -2112,6 +2977,16 @@
    },
    {
     "value": "reservations.royal@villaresorts.com",
+    "source_url": "https://villaresorts.com/contact/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sales@villaresorts.com",
+    "source_url": "https://villaresorts.com/contact/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "reservations.park@villaresorts.com",
     "source_url": "https://villaresorts.com/contact/",
     "as_of": "2026-10-04"
    },
@@ -2134,6 +3009,31 @@
     "value": "hello@villaresorts.com",
     "source_url": "https://villaresorts.com/villa-haven/dining/nook/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "info@qadventure.com.mv",
+    "source_url": "https://villaresorts.com/royal-island/experiences/excursions/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "hello@villaresorts.com",
+    "source_url": "https://villaresorts.com/royal-island/experiences/private-dining/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "info@qadventure.com.mv",
+    "source_url": "https://villaresorts.com/royal-island/experiences/water-sports/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "hello@villaresorts.com",
+    "source_url": "https://villaresorts.com/villa-haven/dining/in-villa-dining/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "hello@villaresorts.com",
+    "source_url": "https://villaresorts.com/villa-haven/experiences-at-villa-haven/water-sports/",
+    "as_of": "2026-10-05"
    }
   ],
   "all_inclusive_details": [
@@ -2171,6 +3071,16 @@
     "value": "all-inclusive or full board are available upon arrival.",
     "source_url": "https://villaresorts.com/villa-haven/about/faqs/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "all-inclusive resort.",
+    "source_url": "https://villaresorts.com/blog/a-stay-in-the-life-our-guide-to-romantic-couple-holidays-in-the-maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "all-inclusive resort is the perfect place to begin your new life together.",
+    "source_url": "https://villaresorts.com/royal-island/occasions/honeymoons/",
+    "as_of": "2026-10-05"
    }
   ],
   "contacts_public.phone": [
@@ -2253,6 +3163,31 @@
     "value": "+960 668 0088",
     "source_url": "https://villaresorts.com/villa-haven/dining/nook/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "+960 660 0088",
+    "source_url": "https://villaresorts.com/royal-island/experiences/excursions/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "+960 660 0088",
+    "source_url": "https://villaresorts.com/royal-island/experiences/private-dining/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "+960 660 0088",
+    "source_url": "https://villaresorts.com/royal-island/experiences/water-sports/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "+960 668 0011",
+    "source_url": "https://villaresorts.com/villa-haven/dining/in-villa-dining/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "+960 668 0011",
+    "source_url": "https://villaresorts.com/villa-haven/experiences-at-villa-haven/water-sports/",
+    "as_of": "2026-10-05"
    }
   ],
   "kids_family.kids_club": [
@@ -2280,6 +3215,11 @@
     "value": "Wavy Navy Kids Club",
     "source_url": "https://villaresorts.com/villa-nautica/diwali/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "Kids Club",
+    "source_url": "https://villaresorts.com/royal-island/festive-celebrations/",
+    "as_of": "2026-10-05"
    }
   ],
   "kids_family.teens": [
@@ -2376,6 +3316,16 @@
     "value": "solar",
     "source_url": "https://villaresorts.com/villa-haven/about/faqs/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "solar",
+    "source_url": "https://villaresorts.com/blog/the-top-honeymoon-destination/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "solar",
+    "source_url": "https://villaresorts.com/villa-haven/dining/in-villa-dining/",
+    "as_of": "2026-10-05"
    }
   ],
   "transfer.minutes.seaplane": [

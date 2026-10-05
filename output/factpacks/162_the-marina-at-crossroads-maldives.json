@@ -78,6 +78,21 @@
    "name": "Hard Rock Café Maldives",
    "cuisine": null,
    "type": "restaurant"
+  },
+  {
+   "name": "Ministry of Crab Restaurant",
+   "cuisine": null,
+   "type": "restaurant"
+  },
+  {
+   "name": "Nihonbashi Blue Restaurant",
+   "cuisine": null,
+   "type": "restaurant"
+  },
+  {
+   "name": "Carne Diem Grill Restaurant",
+   "cuisine": null,
+   "type": "restaurant"
   }
  ],
  "meal_plans": [
@@ -141,6 +156,17 @@
   "packages": [],
   "brochure_doc": null
  },
+ "destination_dining": {
+  "experiences": [
+   "sunset cruise",
+   "romantic dinner",
+   "dine under the stars",
+   "private dining"
+  ],
+  "packages": [],
+  "sandbank_events": null,
+  "doc": null
+ },
  "events_mice": {
   "venues": [],
   "capacity_max": 12,
@@ -167,7 +193,8 @@
   "dining_menu": "https://crossroadsmaldives.com/wp-content/uploads/2026/09/SunRay_Drink_AllDay_297x105mm_01.pdf",
   "dive_prices": "https://www.saiihotels.com/wp-content/uploads/2025/12/2026-Crossroads-Water-sports-catalogue-18-12-25.pdf",
   "events": null,
-  "calendar": "https://crossroadsmaldives.com/wp-content/uploads/2026/01/Padel-Tennis-Membership-Programme_2026.pdf"
+  "calendar": "https://crossroadsmaldives.com/wp-content/uploads/2026/01/Padel-Tennis-Membership-Programme_2026.pdf",
+  "destination_dining": null
  },
  "documents_count": 93,
  "gaps": [
@@ -489,6 +516,38 @@
     "as_of": "2026-10-04"
    }
   ],
+  "destination_dining.experiences": [
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.saiihotels.com/wp-content/uploads/2025/12/2026-Crossroads-Recreation-Catalog-.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.saiihotels.com/wp-content/uploads/2025/12/2026-Crossroads-Recreation-Catalog-.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "romantic dinner",
+    "source_url": "https://crossroadsmaldives.com/offers/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dine under the stars",
+    "source_url": "https://crossroadsmaldives.com/offers/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "private dining",
+    "source_url": "https://crossroadsmaldives.com/offers/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "private dining",
+    "source_url": "https://crossroadsmaldives.com/offers/",
+    "as_of": "2026-10-04"
+   }
+  ],
   "spa.name": [
    {
     "value": "SAii Spa",
@@ -504,6 +563,11 @@
     "value": "Activities\nDining\nShopping\nSpa",
     "source_url": "https://crossroadsmaldives.com/offers/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "Beach Club\nSAii Spa",
+    "source_url": "https://crossroadsmaldives.com/event/valentines-day-celebrations-the-marina/",
+    "as_of": "2026-10-05"
    },
    {
     "value": "Spa",
@@ -774,6 +838,33 @@
     },
     "source_url": "https://crossroadsmaldives.com/event/deviate-band-live-a-night-of-dynamic-tunes-2/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Ministry of Crab Restaurant",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://crossroadsmaldives.com/event/valentines-day-celebrations-the-marina/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": {
+     "name": "Nihonbashi Blue Restaurant",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://crossroadsmaldives.com/event/valentines-day-celebrations-the-marina/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": {
+     "name": "Carne Diem Grill Restaurant",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://crossroadsmaldives.com/event/valentines-day-celebrations-the-marina/",
+    "as_of": "2026-10-05"
    }
   ],
   "events_mice.capacity_max": [
@@ -788,6 +879,11 @@
     "value": true,
     "source_url": "https://crossroadsmaldives.com/event/new-years-kids-art-celebration-with-art-soul/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://crossroadsmaldives.com/event/valentines-day-celebrations-the-marina/",
+    "as_of": "2026-10-05"
    },
    {
     "value": true,

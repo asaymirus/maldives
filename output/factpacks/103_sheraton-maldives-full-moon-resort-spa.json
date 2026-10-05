@@ -79,7 +79,13 @@
    }
   ]
  },
- "dining": [],
+ "dining": [
+  {
+   "name": "LOCATION: Ahima Restaurant Beach",
+   "cuisine": null,
+   "type": "restaurant"
+  }
+ ],
  "meal_plans": [
   "HB",
   "FB",
@@ -134,6 +140,22 @@
   "packages": [],
   "brochure_doc": null
  },
+ "destination_dining": {
+  "experiences": [
+   "romantic dinner",
+   "beach dinner",
+   "destination dining",
+   "lagoon lunch",
+   "sunset dinner",
+   "dine under the stars",
+   "romantic beach dinner",
+   "sandbank picnic",
+   "floating breakfast"
+  ],
+  "packages": [],
+  "sandbank_events": true,
+  "doc": null
+ },
  "events_mice": {
   "venues": [],
   "capacity_max": null,
@@ -154,16 +176,16 @@
   "map": "https://www.neoscapesmaldives.com/wp-content/uploads/Resort-Map_EN.pdf",
   "wedding": null,
   "spa_menu": null,
-  "dining_menu": null,
+  "dining_menu": "https://dra0pipbd8ype.cloudfront.net/sites/3/2020/12/FullMoonBBQBuffetMenu-min.pdf",
   "dive_prices": null,
   "events": null,
-  "calendar": "https://www.finolhu.com/wp-content/uploads/2026/03/finolhu-easter-program-2026.pdf"
+  "calendar": "https://www.finolhu.com/wp-content/uploads/2026/03/finolhu-easter-program-2026.pdf",
+  "destination_dining": null
  },
- "documents_count": 4,
+ "documents_count": 5,
  "gaps": [
   "wedding brochure",
-  "events/MICE document",
-  "fact: dining"
+  "events/MICE document"
  ],
  "sources": {
   "atoll": [
@@ -510,6 +532,123 @@
     "as_of": "2026-10-04"
    }
   ],
+  "destination_dining.experiences": [
+   {
+    "value": "romantic dinner",
+    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Fact-Sheet_EN.pdf",
+    "as_of": 2018
+   },
+   {
+    "value": "beach dinner",
+    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Fact-Sheet_EN.pdf",
+    "as_of": 2018
+   },
+   {
+    "value": "beach dinner",
+    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Fact-Sheet_EN.pdf",
+    "as_of": 2018
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Fact-Sheet_EN.pdf",
+    "as_of": 2018
+   },
+   {
+    "value": "lagoon lunch",
+    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Fact-Sheet_EN.pdf",
+    "as_of": 2018
+   },
+   {
+    "value": "sunset dinner",
+    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Fact-Sheet_EN.pdf",
+    "as_of": 2018
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Fact-Sheet_EN.pdf",
+    "as_of": 2018
+   },
+   {
+    "value": "dine under the stars",
+    "source_url": "https://dra0pipbd8ype.cloudfront.net/sites/3/2020/12/FullMoonBBQBuffetMenu-min.pdf",
+    "as_of": 2020
+   },
+   {
+    "value": "beach dinner",
+    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/Resort-Map_EN.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "romantic dinner",
+    "source_url": "https://www.neoscapesmaldives.com/resort/sheraton-maldives-full-moon-resort-spa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://www.neoscapesmaldives.com/resort/sheraton-maldives-full-moon-resort-spa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "lagoon lunch",
+    "source_url": "https://www.neoscapesmaldives.com/resort/sheraton-maldives-full-moon-resort-spa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "romantic beach dinner",
+    "source_url": "https://www.neoscapesmaldives.com/resort/sheraton-maldives-full-moon-resort-spa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank picnic",
+    "source_url": "https://www.neoscapesmaldives.com/resort/sheraton-maldives-full-moon-resort-spa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://www.neoscapesmaldives.com/resort/sheraton-maldives-full-moon-resort-spa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://www.neoscapesmaldives.com/resort/sheraton-maldives-full-moon-resort-spa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://www.neoscapesmaldives.com/resort/sheraton-maldives-full-moon-resort-spa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://www.neoscapesmaldives.com/resort/sheraton-maldives-full-moon-resort-spa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://www.neoscapesmaldives.com/resort/sheraton-maldives-full-moon-resort-spa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://www.neoscapesmaldives.com/resort/sheraton-maldives-full-moon-resort-spa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://www.neoscapesmaldives.com/resort/sheraton-maldives-full-moon-resort-spa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://www.neoscapesmaldives.com/resort/sheraton-maldives-full-moon-resort-spa/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://www.neoscapesmaldives.com/resort/sheraton-maldives-full-moon-resort-spa/",
+    "as_of": "2026-10-04"
+   }
+  ],
   "sustainability": [
    {
     "value": "marine biologist",
@@ -537,6 +676,17 @@
     "value": "+960 736 5425",
     "source_url": "https://www.neoscapesmaldives.com/resort/sheraton-maldives-full-moon-resort-spa/",
     "as_of": "2026-10-04"
+   }
+  ],
+  "dining": [
+   {
+    "value": {
+     "name": "LOCATION: Ahima Restaurant Beach",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://dra0pipbd8ype.cloudfront.net/sites/3/2020/12/FullMoonBBQBuffetMenu-min.pdf",
+    "as_of": 2020
    }
   ],
   "island_size": [
@@ -578,6 +728,13 @@
    }
   ],
   "weddings.offered": [
+   {
+    "value": true,
+    "source_url": "https://www.neoscapesmaldives.com/resort/sheraton-maldives-full-moon-resort-spa/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "destination_dining.sandbank_events": [
    {
     "value": true,
     "source_url": "https://www.neoscapesmaldives.com/resort/sheraton-maldives-full-moon-resort-spa/",

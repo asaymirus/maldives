@@ -47,21 +47,21 @@ All-inclusive: All Inclusive option.
 ## Spa & wellness
 
 - Spa: Spa; treatment rooms: ?; menu: none
-- Wellness/fitness: yoga, meditation, fitness centre, tennis, badminton, beach volleyball, ayurveda, sauna, steam, gym
+- Wellness/fitness: yoga, meditation, fitness centre, tennis, badminton, beach volleyball, ayurveda, sauna, steam, padel, gym
 
 ## Diving, water sports & excursions
 
 - Operator: n/a
 - House reef: House reef snorkeling directly from your villa or beach
-- Activities: snorkeling, sailing, stand-up paddle, paddleboard, catamaran, parasailing, wakeboarding, seabob, fishing, fun tube
+- Activities: snorkeling, sailing, fishing, stand-up paddle, paddleboard, catamaran, parasailing, wakeboarding, seabob, fun tube
 - Price list: none
-- Excursions: local island, dolphin, turtle, picnic, castaway, big game fishing, private dinner
+- Excursions: local island, dolphin, turtle, picnic, castaway, sunset fishing, cinema, big game fishing, private dinner
 
 ## Kids & family
 
 - Kids club: Classes
 Reef Diving
-Kids Club; ages: n/a; teens: n/a
+Kids Club; ages: 6-12 years; teens: n/a
 
 ## Weddings
 
@@ -70,9 +70,15 @@ Kids Club; ages: n/a; teens: n/a
 - Packages: n/a
 - Brochure: none
 
+## Destination dining
+
+- Experiences: destination dining, in-villa dining, private dining, candlelit dinner
+- Packages: n/a
+- Sandbank events: None; document: https://jaweb2019cdn.azureedge.net/assets/docs/default-source/jarh/siteredesign-docs/ja-mar-hall-menu/sample-private-dinner-menu.pdf?sfvrsn=2488d2a6_9
+
 ## Events / MICE
 
-- Venues: n/a; capacity max: n/a; buyout: None
+- Venues: n/a; capacity max: 125; buyout: None
 - Document: none
 
 ## Sustainability
@@ -81,7 +87,7 @@ Kids Club; ages: n/a; teens: n/a
 
 ## Public contacts
 
-- Reservations: reservations.manafaru@jaresorts.com; weddings: n/a; phone: +960 6500 456
+- Reservations: reservations.manafaru@jaresorts.com; weddings: events@marhall.com; phone: +960 6500 456
 
 ## Latest documents
 
@@ -93,6 +99,7 @@ Kids Club; ages: n/a; teens: n/a
 - dive_prices: none
 - events: none
 - calendar: https://letsgomaldives.com/wp-content/uploads/2026/08/JA-Manafaru.pdf
+- destination_dining: https://jaweb2019cdn.azureedge.net/assets/docs/default-source/jarh/siteredesign-docs/ja-mar-hall-menu/sample-private-dinner-menu.pdf?sfvrsn=2488d2a6_9
 
 ## Gaps
 
@@ -101,4 +108,4 @@ Kids Club; ages: n/a; teens: n/a
 - fact: villas.total
 - fact: dive operator
 
-_Facts extracted by rules from 18 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._
+_Facts extracted by rules from 22 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

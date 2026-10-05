@@ -16,7 +16,8 @@
  "transfer": {
   "modes": [
    "seaplane",
-   "speedboat"
+   "speedboat",
+   "yacht"
   ],
   "minutes": {
    "seaplane": 25,
@@ -308,6 +309,16 @@
    "type": "restaurant"
   },
   {
+   "name": "Teppanyaki Reimagined",
+   "cuisine": null,
+   "type": "restaurant"
+  },
+  {
+   "name": "Where the Grill Sets the Mood",
+   "cuisine": null,
+   "type": "restaurant"
+  },
+  {
    "name": "Flames - Grill House",
    "cuisine": null,
    "type": "restaurant"
@@ -399,6 +410,28 @@
   ],
   "brochure_doc": "https://d7h9v39iheghu.cloudfront.net/previews/7837a234-9635-4da8-b132-476aacd9b4c1/3f5ac883-372b-4221-8214-04fc6f0a4991/3f5ac883-372b-4221-8214-04fc6f0a4991?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy83ODM3YTIzNC05NjM1LTRkYTgtYjEzMi00NzZhYWNkOWI0YzEqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjg0MDEwfX19XX0_&Signature=0NCrDHEtg~3Ag4tUAPQa6ilJ6cyZ~w4zVuMSD7cG~r-mqETwrHjP~ymbFvuB7vZlbnPnlWCA1ED5pRAzfLnrljg2GzmBKzehdZ5pgyEdg2DhUh1PdoH9P3mOCEtIvAjK8OJMABLlrsk9l-sKHGYMa1a1Cwv28E-vbs9wjG1faMxEGG67VKe8YrbKJea-zq31p-n-SwDxEgYcBaFhSoyAOtk-LQQh4YnbO4e3Mh1O3qhd1CUPoi~QB1~gR8sul5CK0VJQczSIV5ZAIetLpT6YzKJjTsyOlpvwM1Ndaf6IhiW6ocfSJj45JPk5h8YsmO05fa9p1P7DalJRXVD6AH0o6g__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA"
  },
+ "destination_dining": {
+  "experiences": [
+   "private dining",
+   "romantic dinner",
+   "floating breakfast",
+   "sunset cruise",
+   "sandbank escape",
+   "romantic dining",
+   "destination dining",
+   "romantic candlelit dinner",
+   "castaway dinner",
+   "beach dinner",
+   "dine under the stars",
+   "dinner under the stars",
+   "candlelit dinner",
+   "sandbank party",
+   "sandbank experience"
+  ],
+  "packages": [],
+  "sandbank_events": true,
+  "doc": "https://d7h9v39iheghu.cloudfront.net/previews/7837a234-9635-4da8-b132-476aacd9b4c1/82e5e5f7-46b7-4f71-b7c1-ade9221cae32/82e5e5f7-46b7-4f71-b7c1-ade9221cae32?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy83ODM3YTIzNC05NjM1LTRkYTgtYjEzMi00NzZhYWNkOWI0YzEqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjg0MDEwfX19XX0_&Signature=0NCrDHEtg~3Ag4tUAPQa6ilJ6cyZ~w4zVuMSD7cG~r-mqETwrHjP~ymbFvuB7vZlbnPnlWCA1ED5pRAzfLnrljg2GzmBKzehdZ5pgyEdg2DhUh1PdoH9P3mOCEtIvAjK8OJMABLlrsk9l-sKHGYMa1a1Cwv28E-vbs9wjG1faMxEGG67VKe8YrbKJea-zq31p-n-SwDxEgYcBaFhSoyAOtk-LQQh4YnbO4e3Mh1O3qhd1CUPoi~QB1~gR8sul5CK0VJQczSIV5ZAIetLpT6YzKJjTsyOlpvwM1Ndaf6IhiW6ocfSJj45JPk5h8YsmO05fa9p1P7DalJRXVD6AH0o6g__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA"
+ },
  "events_mice": {
   "venues": [],
   "capacity_max": null,
@@ -425,7 +458,8 @@
   "dining_menu": "https://nova-maldives.com/wp-content/uploads/2026/04/Soulful-tales-2026-2.pdf",
   "dive_prices": "https://nova-maldives.com/wp-content/uploads/2026/06/Nova-Soulful-tales-2026.pdf",
   "events": null,
-  "calendar": "https://nova-maldives.com/wp-content/uploads/2023/02/MS_Nova-Easter-Press-Release-1.pdf"
+  "calendar": "https://nova-maldives.com/wp-content/uploads/2023/02/MS_Nova-Easter-Press-Release-1.pdf",
+  "destination_dining": "https://d7h9v39iheghu.cloudfront.net/previews/7837a234-9635-4da8-b132-476aacd9b4c1/82e5e5f7-46b7-4f71-b7c1-ade9221cae32/82e5e5f7-46b7-4f71-b7c1-ade9221cae32?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy83ODM3YTIzNC05NjM1LTRkYTgtYjEzMi00NzZhYWNkOWI0YzEqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjg0MDEwfX19XX0_&Signature=0NCrDHEtg~3Ag4tUAPQa6ilJ6cyZ~w4zVuMSD7cG~r-mqETwrHjP~ymbFvuB7vZlbnPnlWCA1ED5pRAzfLnrljg2GzmBKzehdZ5pgyEdg2DhUh1PdoH9P3mOCEtIvAjK8OJMABLlrsk9l-sKHGYMa1a1Cwv28E-vbs9wjG1faMxEGG67VKe8YrbKJea-zq31p-n-SwDxEgYcBaFhSoyAOtk-LQQh4YnbO4e3Mh1O3qhd1CUPoi~QB1~gR8sul5CK0VJQczSIV5ZAIetLpT6YzKJjTsyOlpvwM1Ndaf6IhiW6ocfSJj45JPk5h8YsmO05fa9p1P7DalJRXVD6AH0o6g__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA"
  },
  "documents_count": 69,
  "gaps": [
@@ -542,6 +576,41 @@
    },
    {
     "value": "Ari Atoll",
+    "source_url": "https://nova-maldives.com/blog/post/a-truly-unique-meditation-and-underwater-experience-in-the-indian-ocean/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Ari Atoll",
+    "source_url": "https://nova-maldives.com/blog/post/best-honeymoon-resorts-in-maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Ari Atoll",
+    "source_url": "https://nova-maldives.com/blog/post/honeymoon-in-the-maldives-your-soulful-romantic-getaway/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Ari Atoll",
+    "source_url": "https://nova-maldives.com/blog/post/plan-your-honeymoon-in-the-maldives-at-nova/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Ari Atoll",
+    "source_url": "https://nova-maldives.com/blog/post/scuba-diving-in-south-ari-atoll-celebrate-womens-dive-day-at-nova-maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Ari Atoll",
+    "source_url": "https://nova-maldives.com/blog/post/top-5-experiences-to-have-in-the-maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Ari Atoll",
+    "source_url": "https://nova-maldives.com/blog/post/why-the-maldives-is-famous-for-honeymoons/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Ari Atoll",
     "source_url": "https://www.neoscapesmaldives.com/resort/nova-maldives/",
     "as_of": "2026-10-04"
    },
@@ -581,6 +650,11 @@
     "value": "seaplane",
     "source_url": "https://nova-maldives.com/blog/post/how-to-get-to-nova-maldives/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "yacht",
+    "source_url": "https://nova-maldives.com/blog/post/say-i-do-celebrating-weddings-in-the-maldives/",
+    "as_of": "2026-10-05"
    },
    {
     "value": "seaplane",
@@ -1391,6 +1465,78 @@
    },
    {
     "value": {
+     "name": "Teppanyaki Reimagined",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://nova-maldives.com/blog/post/a-unique-overwater-dining-experience-at-nova-maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": {
+     "name": "Soul Kitchen",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://nova-maldives.com/blog/post/earth-hour-celebrations-in-the-maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": {
+     "name": "Soul Kitchen",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://nova-maldives.com/blog/post/exceptional-dining-experiences-at-nova-maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": {
+     "name": "Where the Grill Sets the Mood",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://nova-maldives.com/blog/post/exceptional-dining-experiences-at-nova-maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": {
+     "name": "Soul Kitchen",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://nova-maldives.com/blog/post/festive-celebrations-in-the-maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": {
+     "name": "Soul Kitchen",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://nova-maldives.com/blog/post/plan-your-honeymoon-in-the-maldives-at-nova/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": {
+     "name": "Soul Kitchen",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://nova-maldives.com/blog/post/romantic-honeymoon-resorts-in-the-maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": {
+     "name": "Soul Kitchen,",
+     "cuisine": null,
+     "type": "restaurant"
+    },
+    "source_url": "https://nova-maldives.com/blog/post/why-overwater-villas-are-a-must-try-experience/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": {
      "name": "Flames - Grill House",
      "cuisine": null,
      "type": "restaurant"
@@ -1589,6 +1735,51 @@
     "as_of": "2026-10-04"
    },
    {
+    "value": "Eskape Spa",
+    "source_url": "https://nova-maldives.com/blog/post/best-honeymoon-resorts-in-maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Eskape Spa",
+    "source_url": "https://nova-maldives.com/blog/post/experience-a-magical-maldives-festive-season/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Our\nEskape Spa",
+    "source_url": "https://nova-maldives.com/blog/post/honeymoon-in-the-maldives-your-soulful-romantic-getaway/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "EsKape Spa",
+    "source_url": "https://nova-maldives.com/blog/post/plan-your-honeymoon-in-the-maldives-at-nova/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Eskape Spa",
+    "source_url": "https://nova-maldives.com/blog/post/romantic-experiences-at-nova-maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Eskape Spa",
+    "source_url": "https://nova-maldives.com/blog/post/romantic-honeymoon-resorts-in-the-maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Our\nEskape Spa",
+    "source_url": "https://nova-maldives.com/blog/post/say-i-do-celebrating-weddings-in-the-maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Eskape Spa",
+    "source_url": "https://nova-maldives.com/blog/post/top-5-experiences-to-have-in-the-maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Eskape Spa",
+    "source_url": "https://nova-maldives.com/blog/post/why-the-maldives-is-famous-for-honeymoons/",
+    "as_of": "2026-10-05"
+   },
+   {
     "value": "Facilities\nEskape Spa",
     "source_url": "https://www.neoscapesmaldives.com/resort/nova-maldives/",
     "as_of": "2026-10-04"
@@ -1664,6 +1855,16 @@
     "value": "house reef, where you can swim alongside manta rays, sea turtles, and colourful schools of fish",
     "source_url": "https://nova-maldives.com/blog/post/best-time-to-visit-maldives/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "house reef and discovering the beauty of the Maldives beneath the surface",
+    "source_url": "https://nova-maldives.com/blog/post/plan-your-honeymoon-in-the-maldives-at-nova/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "house reef with a",
+    "source_url": "https://nova-maldives.com/blog/post/scuba-diving-in-south-ari-atoll-celebrate-womens-dive-day-at-nova-maldives/",
+    "as_of": "2026-10-05"
    },
    {
     "value": "house reef brimming with colourful fishes and thriving corals",
@@ -2189,6 +2390,156 @@
    },
    {
     "value": "snorkelling",
+    "source_url": "https://nova-maldives.com/blog/post/a-truly-unique-meditation-and-underwater-experience-in-the-indian-ocean/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://nova-maldives.com/blog/post/a-truly-unique-meditation-and-underwater-experience-in-the-indian-ocean/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://nova-maldives.com/blog/post/a-truly-unique-meditation-and-underwater-experience-in-the-indian-ocean/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://nova-maldives.com/blog/post/best-honeymoon-resorts-in-maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://nova-maldives.com/blog/post/best-honeymoon-resorts-in-maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://nova-maldives.com/blog/post/best-honeymoon-resorts-in-maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://nova-maldives.com/blog/post/honeymoon-in-the-maldives-your-soulful-romantic-getaway/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "dolphin cruise",
+    "source_url": "https://nova-maldives.com/blog/post/honeymoon-in-the-maldives-your-soulful-romantic-getaway/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://nova-maldives.com/blog/post/honeymoon-in-the-maldives-your-soulful-romantic-getaway/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://nova-maldives.com/blog/post/honeymoon-in-the-maldives-your-soulful-romantic-getaway/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://nova-maldives.com/blog/post/plan-your-honeymoon-in-the-maldives-at-nova/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://nova-maldives.com/blog/post/plan-your-honeymoon-in-the-maldives-at-nova/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://nova-maldives.com/blog/post/romantic-experiences-at-nova-maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://nova-maldives.com/blog/post/romantic-experiences-at-nova-maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "dolphin cruise",
+    "source_url": "https://nova-maldives.com/blog/post/romantic-experiences-at-nova-maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://nova-maldives.com/blog/post/romantic-experiences-at-nova-maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "snorkelling",
+    "source_url": "https://nova-maldives.com/blog/post/romantic-honeymoon-resorts-in-the-maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://nova-maldives.com/blog/post/romantic-valentines-day-ideas-in-the-maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://nova-maldives.com/blog/post/scuba-diving-in-south-ari-atoll-celebrate-womens-dive-day-at-nova-maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://nova-maldives.com/blog/post/scuba-diving-in-south-ari-atoll-celebrate-womens-dive-day-at-nova-maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "dolphin cruise",
+    "source_url": "https://nova-maldives.com/blog/post/scuba-diving-in-south-ari-atoll-celebrate-womens-dive-day-at-nova-maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://nova-maldives.com/blog/post/scuba-diving-in-south-ari-atoll-celebrate-womens-dive-day-at-nova-maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://nova-maldives.com/blog/post/scuba-diving-in-south-ari-atoll-celebrate-womens-dive-day-at-nova-maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://nova-maldives.com/blog/post/top-5-experiences-to-have-in-the-maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "dolphin cruise",
+    "source_url": "https://nova-maldives.com/blog/post/top-5-experiences-to-have-in-the-maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://nova-maldives.com/blog/post/top-5-experiences-to-have-in-the-maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://nova-maldives.com/blog/post/why-overwater-villas-are-a-must-try-experience/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://nova-maldives.com/blog/post/why-the-maldives-is-famous-for-honeymoons/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://nova-maldives.com/blog/post/why-the-maldives-is-famous-for-honeymoons/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://nova-maldives.com/blog/post/why-the-maldives-is-famous-for-honeymoons/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "snorkelling",
     "source_url": "https://www.neoscapesmaldives.com/resort/nova-maldives/",
     "as_of": "2026-10-04"
    },
@@ -2710,6 +3061,156 @@
     "as_of": "2026-10-04"
    },
    {
+    "value": "sandbank",
+    "source_url": "https://nova-maldives.com/blog/post/5-unique-dining-experiences-at-nova-maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://nova-maldives.com/blog/post/a-truly-unique-meditation-and-underwater-experience-in-the-indian-ocean/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://nova-maldives.com/blog/post/a-truly-unique-meditation-and-underwater-experience-in-the-indian-ocean/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://nova-maldives.com/blog/post/best-honeymoon-resorts-in-maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://nova-maldives.com/blog/post/best-honeymoon-resorts-in-maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://nova-maldives.com/blog/post/feed-your-soul-destination-dining-experiences-at-nova-maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://nova-maldives.com/blog/post/honeymoon-in-the-maldives-your-soulful-romantic-getaway/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://nova-maldives.com/blog/post/honeymoon-in-the-maldives-your-soulful-romantic-getaway/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://nova-maldives.com/blog/post/honeymoon-in-the-maldives-your-soulful-romantic-getaway/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://nova-maldives.com/blog/post/honeymoon-in-the-maldives-your-soulful-romantic-getaway/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "turtle",
+    "source_url": "https://nova-maldives.com/blog/post/honeymoon-in-the-maldives-your-soulful-romantic-getaway/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://nova-maldives.com/blog/post/plan-your-honeymoon-in-the-maldives-at-nova/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://nova-maldives.com/blog/post/romantic-experiences-at-nova-maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://nova-maldives.com/blog/post/romantic-experiences-at-nova-maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://nova-maldives.com/blog/post/romantic-honeymoon-resorts-in-the-maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://nova-maldives.com/blog/post/romantic-valentines-day-ideas-in-the-maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "stargazing",
+    "source_url": "https://nova-maldives.com/blog/post/romantic-valentines-day-ideas-in-the-maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://nova-maldives.com/blog/post/say-i-do-celebrating-weddings-in-the-maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "local island",
+    "source_url": "https://nova-maldives.com/blog/post/scuba-diving-in-south-ari-atoll-celebrate-womens-dive-day-at-nova-maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://nova-maldives.com/blog/post/scuba-diving-in-south-ari-atoll-celebrate-womens-dive-day-at-nova-maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://nova-maldives.com/blog/post/scuba-diving-in-south-ari-atoll-celebrate-womens-dive-day-at-nova-maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://nova-maldives.com/blog/post/scuba-diving-in-south-ari-atoll-celebrate-womens-dive-day-at-nova-maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://nova-maldives.com/blog/post/top-5-experiences-to-have-in-the-maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://nova-maldives.com/blog/post/top-5-experiences-to-have-in-the-maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sandbank",
+    "source_url": "https://nova-maldives.com/blog/post/unique-sandbank-experiences-in-the-maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "picnic",
+    "source_url": "https://nova-maldives.com/blog/post/unique-sandbank-experiences-in-the-maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://nova-maldives.com/blog/post/why-overwater-villas-are-a-must-try-experience/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "whale shark",
+    "source_url": "https://nova-maldives.com/blog/post/why-the-maldives-is-famous-for-honeymoons/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "manta",
+    "source_url": "https://nova-maldives.com/blog/post/why-the-maldives-is-famous-for-honeymoons/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "castaway",
+    "source_url": "https://nova-maldives.com/things-to-do/destination-dining/",
+    "as_of": "2026-10-05"
+   },
+   {
     "value": "whale shark",
     "source_url": "https://www.neoscapesmaldives.com/resort/nova-maldives/",
     "as_of": "2026-10-04"
@@ -2847,6 +3348,36 @@
     "as_of": "2026-10-04"
    },
    {
+    "value": "meditation",
+    "source_url": "https://nova-maldives.com/blog/post/a-truly-unique-meditation-and-underwater-experience-in-the-indian-ocean/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://nova-maldives.com/blog/post/experience-a-magical-maldives-festive-season/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "meditation",
+    "source_url": "https://nova-maldives.com/blog/post/honeymoon-in-the-maldives-your-soulful-romantic-getaway/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://nova-maldives.com/blog/post/romantic-valentines-day-ideas-in-the-maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://nova-maldives.com/blog/post/unique-sandbank-experiences-in-the-maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "meditation",
+    "source_url": "https://nova-maldives.com/blog/post/unique-sandbank-experiences-in-the-maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
     "value": "yoga",
     "source_url": "https://www.neoscapesmaldives.com/resort/nova-maldives/",
     "as_of": "2026-10-04"
@@ -2904,6 +3435,21 @@
     "as_of": "2026-10-04"
    },
    {
+    "value": "coral nursery",
+    "source_url": "https://nova-maldives.com/blog/post/best-honeymoon-resorts-in-maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "marine biologist",
+    "source_url": "https://nova-maldives.com/blog/post/best-honeymoon-resorts-in-maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "marine biologist",
+    "source_url": "https://nova-maldives.com/blog/post/scuba-diving-in-south-ari-atoll-celebrate-womens-dive-day-at-nova-maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
     "value": "reef restoration",
     "source_url": "https://www.maldivestourism.net/blog/nova-maldives-is-making-a-difference-on-world-ocean-day/",
     "as_of": "2026-10-04"
@@ -2956,6 +3502,363 @@
     "as_of": "2026-10-04"
    }
   ],
+  "destination_dining.experiences": [
+   {
+    "value": "private dining",
+    "source_url": "https://d7h9v39iheghu.cloudfront.net/previews/7837a234-9635-4da8-b132-476aacd9b4c1/673003fa-d33f-488f-92a9-e8eee12edbe8/96297ecf-6ff1-4aa7-8710-a8593470da83?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy83ODM3YTIzNC05NjM1LTRkYTgtYjEzMi00NzZhYWNkOWI0YzEqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjg0MDEwfX19XX0_&Signature=0NCrDHEtg~3Ag4tUAPQa6ilJ6cyZ~w4zVuMSD7cG~r-mqETwrHjP~ymbFvuB7vZlbnPnlWCA1ED5pRAzfLnrljg2GzmBKzehdZ5pgyEdg2DhUh1PdoH9P3mOCEtIvAjK8OJMABLlrsk9l-sKHGYMa1a1Cwv28E-vbs9wjG1faMxEGG67VKe8YrbKJea-zq31p-n-SwDxEgYcBaFhSoyAOtk-LQQh4YnbO4e3Mh1O3qhd1CUPoi~QB1~gR8sul5CK0VJQczSIV5ZAIetLpT6YzKJjTsyOlpvwM1Ndaf6IhiW6ocfSJj45JPk5h8YsmO05fa9p1P7DalJRXVD6AH0o6g__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA",
+    "as_of": 2026
+   },
+   {
+    "value": "romantic dinner",
+    "source_url": "https://d7h9v39iheghu.cloudfront.net/previews/7837a234-9635-4da8-b132-476aacd9b4c1/3f5ac883-372b-4221-8214-04fc6f0a4991/3f5ac883-372b-4221-8214-04fc6f0a4991?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy83ODM3YTIzNC05NjM1LTRkYTgtYjEzMi00NzZhYWNkOWI0YzEqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjg0MDEwfX19XX0_&Signature=0NCrDHEtg~3Ag4tUAPQa6ilJ6cyZ~w4zVuMSD7cG~r-mqETwrHjP~ymbFvuB7vZlbnPnlWCA1ED5pRAzfLnrljg2GzmBKzehdZ5pgyEdg2DhUh1PdoH9P3mOCEtIvAjK8OJMABLlrsk9l-sKHGYMa1a1Cwv28E-vbs9wjG1faMxEGG67VKe8YrbKJea-zq31p-n-SwDxEgYcBaFhSoyAOtk-LQQh4YnbO4e3Mh1O3qhd1CUPoi~QB1~gR8sul5CK0VJQczSIV5ZAIetLpT6YzKJjTsyOlpvwM1Ndaf6IhiW6ocfSJj45JPk5h8YsmO05fa9p1P7DalJRXVD6AH0o6g__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA",
+    "as_of": 2025
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://d7h9v39iheghu.cloudfront.net/previews/7837a234-9635-4da8-b132-476aacd9b4c1/3f5ac883-372b-4221-8214-04fc6f0a4991/3f5ac883-372b-4221-8214-04fc6f0a4991?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy83ODM3YTIzNC05NjM1LTRkYTgtYjEzMi00NzZhYWNkOWI0YzEqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjg0MDEwfX19XX0_&Signature=0NCrDHEtg~3Ag4tUAPQa6ilJ6cyZ~w4zVuMSD7cG~r-mqETwrHjP~ymbFvuB7vZlbnPnlWCA1ED5pRAzfLnrljg2GzmBKzehdZ5pgyEdg2DhUh1PdoH9P3mOCEtIvAjK8OJMABLlrsk9l-sKHGYMa1a1Cwv28E-vbs9wjG1faMxEGG67VKe8YrbKJea-zq31p-n-SwDxEgYcBaFhSoyAOtk-LQQh4YnbO4e3Mh1O3qhd1CUPoi~QB1~gR8sul5CK0VJQczSIV5ZAIetLpT6YzKJjTsyOlpvwM1Ndaf6IhiW6ocfSJj45JPk5h8YsmO05fa9p1P7DalJRXVD6AH0o6g__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA",
+    "as_of": 2025
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://d7h9v39iheghu.cloudfront.net/previews/7837a234-9635-4da8-b132-476aacd9b4c1/3f5ac883-372b-4221-8214-04fc6f0a4991/3f5ac883-372b-4221-8214-04fc6f0a4991?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy83ODM3YTIzNC05NjM1LTRkYTgtYjEzMi00NzZhYWNkOWI0YzEqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjg0MDEwfX19XX0_&Signature=0NCrDHEtg~3Ag4tUAPQa6ilJ6cyZ~w4zVuMSD7cG~r-mqETwrHjP~ymbFvuB7vZlbnPnlWCA1ED5pRAzfLnrljg2GzmBKzehdZ5pgyEdg2DhUh1PdoH9P3mOCEtIvAjK8OJMABLlrsk9l-sKHGYMa1a1Cwv28E-vbs9wjG1faMxEGG67VKe8YrbKJea-zq31p-n-SwDxEgYcBaFhSoyAOtk-LQQh4YnbO4e3Mh1O3qhd1CUPoi~QB1~gR8sul5CK0VJQczSIV5ZAIetLpT6YzKJjTsyOlpvwM1Ndaf6IhiW6ocfSJj45JPk5h8YsmO05fa9p1P7DalJRXVD6AH0o6g__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA",
+    "as_of": 2025
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://d7h9v39iheghu.cloudfront.net/previews/7837a234-9635-4da8-b132-476aacd9b4c1/82e5e5f7-46b7-4f71-b7c1-ade9221cae32/82e5e5f7-46b7-4f71-b7c1-ade9221cae32?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy83ODM3YTIzNC05NjM1LTRkYTgtYjEzMi00NzZhYWNkOWI0YzEqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjg0MDEwfX19XX0_&Signature=0NCrDHEtg~3Ag4tUAPQa6ilJ6cyZ~w4zVuMSD7cG~r-mqETwrHjP~ymbFvuB7vZlbnPnlWCA1ED5pRAzfLnrljg2GzmBKzehdZ5pgyEdg2DhUh1PdoH9P3mOCEtIvAjK8OJMABLlrsk9l-sKHGYMa1a1Cwv28E-vbs9wjG1faMxEGG67VKe8YrbKJea-zq31p-n-SwDxEgYcBaFhSoyAOtk-LQQh4YnbO4e3Mh1O3qhd1CUPoi~QB1~gR8sul5CK0VJQczSIV5ZAIetLpT6YzKJjTsyOlpvwM1Ndaf6IhiW6ocfSJj45JPk5h8YsmO05fa9p1P7DalJRXVD6AH0o6g__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA",
+    "as_of": 2025
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://d7h9v39iheghu.cloudfront.net/previews/7837a234-9635-4da8-b132-476aacd9b4c1/6fa34e59-2ded-4eb9-8109-5ecfe50c251e/6fa34e59-2ded-4eb9-8109-5ecfe50c251e?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy83ODM3YTIzNC05NjM1LTRkYTgtYjEzMi00NzZhYWNkOWI0YzEqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjg0MDEwfX19XX0_&Signature=0NCrDHEtg~3Ag4tUAPQa6ilJ6cyZ~w4zVuMSD7cG~r-mqETwrHjP~ymbFvuB7vZlbnPnlWCA1ED5pRAzfLnrljg2GzmBKzehdZ5pgyEdg2DhUh1PdoH9P3mOCEtIvAjK8OJMABLlrsk9l-sKHGYMa1a1Cwv28E-vbs9wjG1faMxEGG67VKe8YrbKJea-zq31p-n-SwDxEgYcBaFhSoyAOtk-LQQh4YnbO4e3Mh1O3qhd1CUPoi~QB1~gR8sul5CK0VJQczSIV5ZAIetLpT6YzKJjTsyOlpvwM1Ndaf6IhiW6ocfSJj45JPk5h8YsmO05fa9p1P7DalJRXVD6AH0o6g__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA",
+    "as_of": 2026
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://d7h9v39iheghu.cloudfront.net/previews/7837a234-9635-4da8-b132-476aacd9b4c1/6fa34e59-2ded-4eb9-8109-5ecfe50c251e/6fa34e59-2ded-4eb9-8109-5ecfe50c251e?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy83ODM3YTIzNC05NjM1LTRkYTgtYjEzMi00NzZhYWNkOWI0YzEqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjg0MDEwfX19XX0_&Signature=0NCrDHEtg~3Ag4tUAPQa6ilJ6cyZ~w4zVuMSD7cG~r-mqETwrHjP~ymbFvuB7vZlbnPnlWCA1ED5pRAzfLnrljg2GzmBKzehdZ5pgyEdg2DhUh1PdoH9P3mOCEtIvAjK8OJMABLlrsk9l-sKHGYMa1a1Cwv28E-vbs9wjG1faMxEGG67VKe8YrbKJea-zq31p-n-SwDxEgYcBaFhSoyAOtk-LQQh4YnbO4e3Mh1O3qhd1CUPoi~QB1~gR8sul5CK0VJQczSIV5ZAIetLpT6YzKJjTsyOlpvwM1Ndaf6IhiW6ocfSJj45JPk5h8YsmO05fa9p1P7DalJRXVD6AH0o6g__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA",
+    "as_of": 2026
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://d7h9v39iheghu.cloudfront.net/previews/7837a234-9635-4da8-b132-476aacd9b4c1/6fa34e59-2ded-4eb9-8109-5ecfe50c251e/6fa34e59-2ded-4eb9-8109-5ecfe50c251e?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy83ODM3YTIzNC05NjM1LTRkYTgtYjEzMi00NzZhYWNkOWI0YzEqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjg0MDEwfX19XX0_&Signature=0NCrDHEtg~3Ag4tUAPQa6ilJ6cyZ~w4zVuMSD7cG~r-mqETwrHjP~ymbFvuB7vZlbnPnlWCA1ED5pRAzfLnrljg2GzmBKzehdZ5pgyEdg2DhUh1PdoH9P3mOCEtIvAjK8OJMABLlrsk9l-sKHGYMa1a1Cwv28E-vbs9wjG1faMxEGG67VKe8YrbKJea-zq31p-n-SwDxEgYcBaFhSoyAOtk-LQQh4YnbO4e3Mh1O3qhd1CUPoi~QB1~gR8sul5CK0VJQczSIV5ZAIetLpT6YzKJjTsyOlpvwM1Ndaf6IhiW6ocfSJj45JPk5h8YsmO05fa9p1P7DalJRXVD6AH0o6g__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA",
+    "as_of": 2026
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://d7h9v39iheghu.cloudfront.net/previews/7837a234-9635-4da8-b132-476aacd9b4c1/6fa34e59-2ded-4eb9-8109-5ecfe50c251e/6fa34e59-2ded-4eb9-8109-5ecfe50c251e?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZDdoOXYzOWloZWdodS5jbG91ZGZyb250Lm5ldC9wcmV2aWV3cy83ODM3YTIzNC05NjM1LTRkYTgtYjEzMi00NzZhYWNkOWI0YzEqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjg0MDEwfX19XX0_&Signature=0NCrDHEtg~3Ag4tUAPQa6ilJ6cyZ~w4zVuMSD7cG~r-mqETwrHjP~ymbFvuB7vZlbnPnlWCA1ED5pRAzfLnrljg2GzmBKzehdZ5pgyEdg2DhUh1PdoH9P3mOCEtIvAjK8OJMABLlrsk9l-sKHGYMa1a1Cwv28E-vbs9wjG1faMxEGG67VKe8YrbKJea-zq31p-n-SwDxEgYcBaFhSoyAOtk-LQQh4YnbO4e3Mh1O3qhd1CUPoi~QB1~gR8sul5CK0VJQczSIV5ZAIetLpT6YzKJjTsyOlpvwM1Ndaf6IhiW6ocfSJj45JPk5h8YsmO05fa9p1P7DalJRXVD6AH0o6g__&Key-Pair-Id=APKAJXJN6VNR3OLZJXJA",
+    "as_of": 2026
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://nova-maldives.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://nova-maldives.com/blog/post/the-ultimate-romantic-escape-in-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://nova-maldives.com/blog/post/where-can-you-eat-in-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank escape",
+    "source_url": "https://nova-maldives.com/blog/post/where-can-you-eat-in-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "private dining",
+    "source_url": "https://nova-maldives.com/blog/post/how-to-plan-the-perfect-maldives-vacation-a-complete-guide/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "romantic dining",
+    "source_url": "https://nova-maldives.com/blog/post/glowing-beaches-in-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "romantic dinner",
+    "source_url": "https://nova-maldives.com/blog/post/glowing-beaches-in-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://nova-maldives.com/blog/post/your-vegan-honeymoon-at-nova-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://nova-maldives.com/blog/post/your-vegan-honeymoon-at-nova-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "romantic candlelit dinner",
+    "source_url": "https://nova-maldives.com/blog/post/soulful-noctourism-adventures-in-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://nova-maldives.com/blog/post/indulge-your-senses-dining-in-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://nova-maldives.com/blog/post/indulge-your-senses-dining-in-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "castaway dinner",
+    "source_url": "https://nova-maldives.com/blog/post/indulge-your-senses-dining-in-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://nova-maldives.com/blog/post/indulge-your-senses-dining-in-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://nova-maldives.com/blog/post/indulge-your-senses-dining-in-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://nova-maldives.com/blog/post/must-try-excursions-at-nova-maldives-a-journey-for-the-soul/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://nova-maldives.com/blog/post/honeymoon-in-the-maldives-a-soulful-romance/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "beach dinner",
+    "source_url": "https://nova-maldives.com/blog/post/honeymoon-in-the-maldives-a-soulful-romance/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://nova-maldives.com/blog/post/honeymoon-in-the-maldives-a-soulful-romance/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://nova-maldives.com/blog/post/best-time-to-visit-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://nova-maldives.com/blog/post/best-time-to-visit-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://nova-maldives.com/blog/post/5-unique-dining-experiences-at-nova-maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://nova-maldives.com/blog/post/5-unique-dining-experiences-at-nova-maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "dine under the stars",
+    "source_url": "https://nova-maldives.com/blog/post/5-unique-dining-experiences-at-nova-maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "romantic dinner",
+    "source_url": "https://nova-maldives.com/blog/post/5-unique-dining-experiences-at-nova-maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "dinner under the stars",
+    "source_url": "https://nova-maldives.com/blog/post/best-honeymoon-resorts-in-maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://nova-maldives.com/blog/post/best-honeymoon-resorts-in-maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "dinner under the stars",
+    "source_url": "https://nova-maldives.com/blog/post/earth-hour-celebrations-in-the-maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://nova-maldives.com/blog/post/feed-your-soul-destination-dining-experiences-at-nova-maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "romantic dinner",
+    "source_url": "https://nova-maldives.com/blog/post/feed-your-soul-destination-dining-experiences-at-nova-maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://nova-maldives.com/blog/post/feed-your-soul-destination-dining-experiences-at-nova-maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://nova-maldives.com/blog/post/feed-your-soul-destination-dining-experiences-at-nova-maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "dine under the stars",
+    "source_url": "https://nova-maldives.com/blog/post/feed-your-soul-destination-dining-experiences-at-nova-maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "romantic dinner",
+    "source_url": "https://nova-maldives.com/blog/post/feed-your-soul-destination-dining-experiences-at-nova-maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://nova-maldives.com/blog/post/honeymoon-in-the-maldives-your-soulful-romantic-getaway/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://nova-maldives.com/blog/post/honeymoon-in-the-maldives-your-soulful-romantic-getaway/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "dine under the stars",
+    "source_url": "https://nova-maldives.com/blog/post/honeymoon-in-the-maldives-your-soulful-romantic-getaway/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "candlelit dinner",
+    "source_url": "https://nova-maldives.com/blog/post/honeymoon-in-the-maldives-your-soulful-romantic-getaway/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "candlelit dinner",
+    "source_url": "https://nova-maldives.com/blog/post/plan-your-honeymoon-in-the-maldives-at-nova/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://nova-maldives.com/blog/post/plan-your-honeymoon-in-the-maldives-at-nova/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "romantic dinner",
+    "source_url": "https://nova-maldives.com/blog/post/plan-your-honeymoon-in-the-maldives-at-nova/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://nova-maldives.com/blog/post/romantic-experiences-at-nova-maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "dinner under the stars",
+    "source_url": "https://nova-maldives.com/blog/post/romantic-experiences-at-nova-maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "romantic dinner",
+    "source_url": "https://nova-maldives.com/blog/post/romantic-experiences-at-nova-maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "dine under the stars",
+    "source_url": "https://nova-maldives.com/blog/post/romantic-honeymoon-resorts-in-the-maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "beach dinner",
+    "source_url": "https://nova-maldives.com/blog/post/romantic-valentines-day-ideas-in-the-maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sandbank party",
+    "source_url": "https://nova-maldives.com/blog/post/romantic-valentines-day-ideas-in-the-maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://nova-maldives.com/blog/post/romantic-valentines-day-ideas-in-the-maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "dine under the stars",
+    "source_url": "https://nova-maldives.com/blog/post/say-i-do-celebrating-weddings-in-the-maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://nova-maldives.com/blog/post/scuba-diving-in-south-ari-atoll-celebrate-womens-dive-day-at-nova-maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sandbank experience",
+    "source_url": "https://nova-maldives.com/blog/post/unique-sandbank-experiences-in-the-maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sandbank party",
+    "source_url": "https://nova-maldives.com/blog/post/unique-sandbank-experiences-in-the-maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sandbank experience",
+    "source_url": "https://nova-maldives.com/blog/post/unique-sandbank-experiences-in-the-maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://nova-maldives.com/blog/post/why-the-maldives-is-famous-for-honeymoons/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "beach dinner",
+    "source_url": "https://nova-maldives.com/blog/post/why-the-maldives-is-famous-for-honeymoons/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://nova-maldives.com/dining/floating-breakfast/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://nova-maldives.com/dining/floating-breakfast/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://nova-maldives.com/things-to-do/destination-dining/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://nova-maldives.com/things-to-do/destination-dining/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "castaway dinner",
+    "source_url": "https://nova-maldives.com/things-to-do/destination-dining/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://nova-maldives.com/things-to-do/destination-dining/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://nova-maldives.com/things-to-do/destination-dining/",
+    "as_of": "2026-10-05"
+   }
+  ],
   "weddings.offered": [
    {
     "value": true,
@@ -2986,6 +3889,21 @@
     "value": true,
     "source_url": "https://nova-maldives.com/blog/post/celebrating-maldivian-language-and-culture/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://nova-maldives.com/blog/post/romantic-experiences-at-nova-maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": true,
+    "source_url": "https://nova-maldives.com/blog/post/romantic-honeymoon-resorts-in-the-maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": true,
+    "source_url": "https://nova-maldives.com/blog/post/say-i-do-celebrating-weddings-in-the-maldives/",
+    "as_of": "2026-10-05"
    },
    {
     "value": true,
@@ -3274,9 +4192,141 @@
     "as_of": "2026-10-04"
    },
    {
+    "value": "+960 66 88 777",
+    "source_url": "https://nova-maldives.com/blog/post/5-unique-dining-experiences-at-nova-maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "+960 66 88 777",
+    "source_url": "https://nova-maldives.com/blog/post/a-first-timers-experience-of-staying-in-an-overwater-bungalow/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "+960 66 88 777",
+    "source_url": "https://nova-maldives.com/blog/post/a-truly-unique-meditation-and-underwater-experience-in-the-indian-ocean/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "+960 66 88 777",
+    "source_url": "https://nova-maldives.com/blog/post/a-unique-overwater-dining-experience-at-nova-maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "+960 66 88 777",
+    "source_url": "https://nova-maldives.com/blog/post/best-honeymoon-resorts-in-maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "+960 66 88 777",
+    "source_url": "https://nova-maldives.com/blog/post/earth-hour-celebrations-in-the-maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "+960 66 88 777",
+    "source_url": "https://nova-maldives.com/blog/post/eid-al-fitr-celebrations-in-maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "+960 66 88 777",
+    "source_url": "https://nova-maldives.com/blog/post/exceptional-dining-experiences-at-nova-maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "+960 66 88 777",
+    "source_url": "https://nova-maldives.com/blog/post/experience-a-magical-maldives-festive-season/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "+960 66 88 777",
+    "source_url": "https://nova-maldives.com/blog/post/feed-your-soul-destination-dining-experiences-at-nova-maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "+960 66 88 777",
+    "source_url": "https://nova-maldives.com/blog/post/festive-celebrations-in-the-maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "+960 66 88 777",
+    "source_url": "https://nova-maldives.com/blog/post/from-christmas-to-new-years-festive-celebrations-at-nova-maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "+960 66 88 777",
+    "source_url": "https://nova-maldives.com/blog/post/honeymoon-in-the-maldives-your-soulful-romantic-getaway/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "+960 66 88 777",
+    "source_url": "https://nova-maldives.com/blog/post/plan-your-honeymoon-in-the-maldives-at-nova/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "+960 66 88 777",
+    "source_url": "https://nova-maldives.com/blog/post/romantic-experiences-at-nova-maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "+960 66 88 777",
+    "source_url": "https://nova-maldives.com/blog/post/romantic-honeymoon-resorts-in-the-maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "+960 66 88 777",
+    "source_url": "https://nova-maldives.com/blog/post/romantic-valentines-day-ideas-in-the-maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "+960 66 88 777",
+    "source_url": "https://nova-maldives.com/blog/post/say-i-do-celebrating-weddings-in-the-maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "+960 66 88 777",
+    "source_url": "https://nova-maldives.com/blog/post/scuba-diving-in-south-ari-atoll-celebrate-womens-dive-day-at-nova-maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "+960 66 88 777",
+    "source_url": "https://nova-maldives.com/blog/post/top-5-experiences-to-have-in-the-maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "+960 66 88 777",
+    "source_url": "https://nova-maldives.com/blog/post/unique-sandbank-experiences-in-the-maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "+960 66 88 777",
+    "source_url": "https://nova-maldives.com/blog/post/why-overwater-villas-are-a-must-try-experience/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "+960 66 88 777",
+    "source_url": "https://nova-maldives.com/blog/post/why-the-maldives-is-famous-for-honeymoons/",
+    "as_of": "2026-10-05"
+   },
+   {
     "value": "+960 736 5425",
     "source_url": "https://www.neoscapesmaldives.com/resort/nova-maldives/",
     "as_of": "2026-10-04"
+   }
+  ],
+  "destination_dining.sandbank_events": [
+   {
+    "value": true,
+    "source_url": "https://nova-maldives.com/blog/post/where-can-you-eat-in-the-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": true,
+    "source_url": "https://nova-maldives.com/blog/post/romantic-valentines-day-ideas-in-the-maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": true,
+    "source_url": "https://nova-maldives.com/blog/post/unique-sandbank-experiences-in-the-maldives/",
+    "as_of": "2026-10-05"
    }
   ],
   "island": [
@@ -3284,6 +4334,11 @@
     "value": "Nova Maldives",
     "source_url": "https://nova-maldives.com/blog/post/glowing-beaches-in-the-maldives/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "Nova Maldives",
+    "source_url": "https://nova-maldives.com/blog/post/top-5-experiences-to-have-in-the-maldives/",
+    "as_of": "2026-10-05"
    }
   ],
   "contacts_public.reservations_email": [

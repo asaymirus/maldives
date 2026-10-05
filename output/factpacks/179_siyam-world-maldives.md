@@ -67,6 +67,12 @@ All-inclusive: All-Inclusive Meal Plan.
 - Packages: n/a
 - Brochure: https://www.sunsiyam.com/media/grbf53ce/ultimate-honeymoon-sw.pdf
 
+## Destination dining
+
+- Experiences: private dining, wine pairing, floating breakfast, romantic beach dinner, sunset cruise, chef's table, honeymoon dinner
+- Packages: n/a
+- Sandbank events: None; document: none
+
 ## Events / MICE
 
 - Venues: n/a; capacity max: n/a; buyout: None
@@ -90,9 +96,10 @@ All-inclusive: All-Inclusive Meal Plan.
 - dive_prices: none
 - events: none
 - calendar: none
+- destination_dining: none
 
 ## Gaps
 
 - events/MICE document
 
-_Facts extracted by rules from 25 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._
+_Facts extracted by rules from 26 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

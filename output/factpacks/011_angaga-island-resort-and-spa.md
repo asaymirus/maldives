@@ -52,6 +52,12 @@ Spa; treatment rooms: ?; menu: https://www.angaga.com.mv/wp-content/uploads/2018
 - Packages: Angaga Island Wedding Package USD 1500 (2026-10-04)
 - Brochure: https://www.angaga.com.mv/wp-content/uploads/2018/12/Angaga-Wedding-Package.pdf
 
+## Destination dining
+
+- Experiences: sunset cruise, romantic dinner
+- Packages: n/a
+- Sandbank events: None; document: none
+
 ## Events / MICE
 
 - Venues: n/a; capacity max: n/a; buyout: None
@@ -75,6 +81,7 @@ Spa; treatment rooms: ?; menu: https://www.angaga.com.mv/wp-content/uploads/2018
 - dive_prices: https://www.angaga.com.mv/wp-content/uploads/2018/12/Angaga-Water-Sports-Activities-Information.pdf
 - events: none
 - calendar: none
+- destination_dining: none
 
 ## Gaps
 
@@ -84,4 +91,4 @@ Spa; treatment rooms: ?; menu: https://www.angaga.com.mv/wp-content/uploads/2018
 - fact: kids club
 - fact: contacts
 
-_Facts extracted by rules from 15 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._
+_Facts extracted by rules from 16 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

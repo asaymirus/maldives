@@ -226,6 +226,16 @@
   "packages": [],
   "brochure_doc": null
  },
+ "destination_dining": {
+  "experiences": [
+   "sunset cruise",
+   "dine under the stars",
+   "beach dinner"
+  ],
+  "packages": [],
+  "sandbank_events": null,
+  "doc": null
+ },
  "events_mice": {
   "venues": [],
   "capacity_max": null,
@@ -246,7 +256,8 @@
   "dining_menu": null,
   "dive_prices": null,
   "events": null,
-  "calendar": null
+  "calendar": null,
+  "destination_dining": null
  },
  "documents_count": 2,
  "gaps": [
@@ -715,6 +726,23 @@
    },
    {
     "value": "fitness centre",
+    "source_url": "https://www.neoscapesmaldives.com/resort/raaya-by-atmosphere/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "destination_dining.experiences": [
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/RAAYA-by-Atmosphere-Brochure-APR-2025.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "dine under the stars",
+    "source_url": "https://www.neoscapesmaldives.com/resort/raaya-by-atmosphere/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "beach dinner",
     "source_url": "https://www.neoscapesmaldives.com/resort/raaya-by-atmosphere/",
     "as_of": "2026-10-04"
    }

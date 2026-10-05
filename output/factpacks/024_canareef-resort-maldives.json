@@ -135,6 +135,7 @@
    "snorkeling",
    "scuba diving",
    "canoe",
+   "surfing",
    "windsurfing",
    "catamaran",
    "sailing"
@@ -177,6 +178,29 @@
   "packages": [],
   "brochure_doc": null
  },
+ "destination_dining": {
+  "experiences": [
+   "romantic dinner",
+   "in-villa dining",
+   "sunset cruise",
+   "dinner under the stars",
+   "beach barbecue",
+   "beach dinner",
+   "private dining",
+   "floating breakfast",
+   "romantic beach dinner"
+  ],
+  "packages": [
+   {
+    "name": "Course Romantic Beach Dinner",
+    "price": "85",
+    "currency": "USD",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "sandbank_events": null,
+  "doc": null
+ },
  "events_mice": {
   "venues": [],
   "capacity_max": 30,
@@ -186,7 +210,8 @@
  "sustainability": [
   "solar",
   "hydroponic",
-  "marine biologist"
+  "marine biologist",
+  "single-use plastic"
  ],
  "contacts_public": {
   "reservations_email": "info@canareef.com",
@@ -201,7 +226,8 @@
   "dining_menu": "https://canareef.com/wp-content/uploads/2025/02/Valentines-Day-Dinner-Menu-2025.pdf",
   "dive_prices": null,
   "events": null,
-  "calendar": "https://canareef.com/wp-content/uploads/2024/12/Festive-Brochure-2024-Canareef-Resort-Maldives.pdf"
+  "calendar": "https://canareef.com/wp-content/uploads/2024/12/Festive-Brochure-2024-Canareef-Resort-Maldives.pdf",
+  "destination_dining": null
  },
  "documents_count": 5,
  "gaps": [
@@ -601,6 +627,16 @@
     "as_of": "2026-10-04"
    },
    {
+    "value": "Addu Atoll",
+    "source_url": "https://canareef.com/canareef-resort-maldives-celebrates-environmental-awareness-week/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Noonu Atoll",
+    "source_url": "https://canareef.com/shizmee-amir-transforms-guest-transport-experience-at-canareef-maldives/",
+    "as_of": "2026-10-05"
+   },
+   {
     "value": "Seenu Atoll",
     "source_url": "https://www.mymaldives.com/resort-guide/herathera-island-resort/",
     "as_of": "2026-10-04"
@@ -791,6 +827,11 @@
     "value": "manta",
     "source_url": "https://canareef.com/vote-canareef-sata-2026/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "surfing",
+    "source_url": "https://canareef.com/canareef-resort-maldives-celebrates-environmental-awareness-week/",
+    "as_of": "2026-10-05"
    },
    {
     "value": "scuba diving",
@@ -1075,6 +1116,148 @@
     "as_of": "2026-10-04"
    }
   ],
+  "destination_dining.experiences": [
+   {
+    "value": "romantic dinner",
+    "source_url": "https://canareef.com/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "in-villa dining",
+    "source_url": "https://canareef.com/canareef-resort-maldives-receives-recommended-on-holidaycheck-award-for-2024/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "romantic dinner",
+    "source_url": "https://canareef.com/keymaa-restaurant/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://canareef.com/occasions/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "in-villa dining",
+    "source_url": "https://canareef.com/canareef-resort-maldives-receives-prestigious-schauinsland-reisen-awards-2023/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://canareef.com/guide-choosing-best-romantic-getaway-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://canareef.com/guide-choosing-best-romantic-getaway-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "dinner under the stars",
+    "source_url": "https://canareef.com/guide-choosing-best-romantic-getaway-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "beach barbecue",
+    "source_url": "https://canareef.com/guide-choosing-best-romantic-getaway-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "beach dinner",
+    "source_url": "https://canareef.com/guide-choosing-best-romantic-getaway-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "romantic dinner",
+    "source_url": "https://canareef.com/guide-choosing-best-romantic-getaway-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://canareef.com/guide-choosing-best-romantic-getaway-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://canareef.com/guide-choosing-best-romantic-getaway-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://canareef.com/guide-choosing-best-romantic-getaway-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "beach dinner",
+    "source_url": "https://canareef.com/guide-choosing-best-romantic-getaway-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "in-villa dining",
+    "source_url": "https://canareef.com/guide-choosing-best-romantic-getaway-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "private dining",
+    "source_url": "https://canareef.com/guide-choosing-best-romantic-getaway-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "in-villa dining",
+    "source_url": "https://canareef.com/canareef-resort-maldives-wins-tripadvisor-travellers-choice-award-2024/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://canareef.com/https-canareef-com-tripadvisor-travellers-choice-award-2025/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://canareef.com/https-canareef-com-tripadvisor-travellers-choice-award-2025/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "romantic beach dinner",
+    "source_url": "https://canareef.com/maldives-weddings/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "romantic beach dinner",
+    "source_url": "https://canareef.com/maldives-weddings/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "romantic beach dinner",
+    "source_url": "https://canareef.com/maldives-weddings/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "romantic dinner",
+    "source_url": "https://canareef.com/canareef-resort-maldives-family-honeymooners-experience/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "beach dinner",
+    "source_url": "https://www.maldivestourism.net/resorts/herathera-island/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "beach dinner",
+    "source_url": "https://www.maldivestourism.net/resorts/herathera-island/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.maldivestourism.net/resorts/herathera-island/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.maldivestourism.net/resorts/herathera-island/",
+    "as_of": "2026-10-04"
+   }
+  ],
   "transfer.modes": [
    {
     "value": "speedboat",
@@ -1227,6 +1410,11 @@
     "value": "AI",
     "source_url": "https://canareef.com/island-getaway-locals-and-expats/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://canareef.com/oktoberfest-celebration-canareef-maldives-2025/",
+    "as_of": "2026-10-05"
    }
   ],
   "kids_family.kids_club": [
@@ -1538,6 +1726,11 @@
     "value": "all-inclusive meal plans.",
     "source_url": "https://canareef.com/canareef-resort-maldives-welcomes-sea-company-as-its-sales-representative-in-russia-and-the-cis-countries/",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "all-inclusive packages wishing to join the party will be subject to a cover charge, ensuring exclusivity and quality entertainment throughout the celebration.",
+    "source_url": "https://canareef.com/oktoberfest-celebration-canareef-maldives-2025/",
+    "as_of": "2026-10-05"
    }
   ],
   "weddings.offered": [
@@ -1618,6 +1811,11 @@
    },
    {
     "value": true,
+    "source_url": "https://canareef.com/anniversary-offer-15-off/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": true,
     "source_url": "https://www.maldivestourism.net/resorts/herathera-island/",
     "as_of": "2026-10-04"
    }
@@ -1692,6 +1890,38 @@
    {
     "value": "marine biologist",
     "source_url": "https://canareef.com/celebrating-world-reef-day-with-coral-transplantation-at-canareef/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "solar",
+    "source_url": "https://canareef.com/celebrating-earth-day-at-canareef-maldives-a-beach-cleaning-event-to-remember/",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "single-use plastic",
+    "source_url": "https://canareef.com/celebrating-earth-day-at-canareef-maldives-a-beach-cleaning-event-to-remember/",
+    "as_of": "2026-10-05"
+   }
+  ],
+  "destination_dining.packages": [
+   {
+    "value": {
+     "name": "Course Romantic Beach Dinner",
+     "price": "85",
+     "currency": "USD",
+     "as_of": "2026-10-04"
+    },
+    "source_url": "https://canareef.com/maldives-weddings/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": {
+     "name": "Course Romantic Beach Dinner",
+     "price": "85",
+     "currency": "USD",
+     "as_of": "2026-10-04"
+    },
+    "source_url": "https://canareef.com/maldives-weddings/",
     "as_of": "2026-10-04"
    }
   ],

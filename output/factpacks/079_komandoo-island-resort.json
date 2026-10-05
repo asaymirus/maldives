@@ -124,6 +124,16 @@
   "packages": [],
   "brochure_doc": null
  },
+ "destination_dining": {
+  "experiences": [
+   "in-villa dining",
+   "destination dining",
+   "sunset cruise"
+  ],
+  "packages": [],
+  "sandbank_events": null,
+  "doc": null
+ },
  "events_mice": {
   "venues": [],
   "capacity_max": null,
@@ -144,7 +154,8 @@
   "dining_menu": null,
   "dive_prices": null,
   "events": null,
-  "calendar": "https://d2qwq69i2ic1pk.cloudfront.net/2023/11/CCR_2024_Calendar_compressed.pdf"
+  "calendar": "https://d2qwq69i2ic1pk.cloudfront.net/2023/11/CCR_2024_Calendar_compressed.pdf",
+  "destination_dining": null
  },
  "documents_count": 9,
  "gaps": [
@@ -425,6 +436,28 @@
    {
     "value": true,
     "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2025/12/KomandooFactsheet110125103126Ver170824.pdf",
+    "as_of": 2025
+   }
+  ],
+  "destination_dining.experiences": [
+   {
+    "value": "in-villa dining",
+    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2025/12/KomandooFactsheet110125103126Ver170824.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2025/12/KomandooFactsheet110125103126Ver170824.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2025/12/KomandooFactsheet110125103126Ver170824.pdf",
+    "as_of": 2025
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://sales.crownandchamparesorts.com/wp-content/uploads/2025/12/KomandooAll-InclusivePlus110125103126Ver081724.pdf",
     "as_of": 2025
    }
   ],

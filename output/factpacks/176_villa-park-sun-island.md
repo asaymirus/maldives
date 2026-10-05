@@ -62,6 +62,12 @@ All-inclusive: All-Inclusive Guests: Complimentary equipment rentals are include
 - Packages: Kite Package USD 570 (2026); Photography Package USD 177 (2026)
 - Brochure: none
 
+## Destination dining
+
+- Experiences: sandbank trip, romantic dinner, private dining, lagoon lunch, floating breakfast, beach dinner, sunset dinner, candlelit dinner, treetop dining, beach barbecue, destination dining, dine under the stars, sandbank picnic, romantic sunset dinner, private chef, sunset cruise, romantic dining, romantic beach dinner, in-villa dining
+- Packages: Private Moments FULL MOON BBQ USD 130 (2026)
+- Sandbank events: True; document: none
+
 ## Events / MICE
 
 - Venues: Dhinasha - Conference room; Burunu - Conference room; Adha - Boardroom; Fura - Meeting Room; Reyva - Boardroom; capacity max: 14; buyout: None
@@ -85,9 +91,10 @@ All-inclusive: All-Inclusive Guests: Complimentary equipment rentals are include
 - dive_prices: https://link.assetfile.io/4miHZXDkN37q1dqlAvAxvK/Villa+Park+-+Diving+-+Brochure.pdf
 - events: https://link.assetfile.io/3VHQAkKs9LVEglOEYEH45Y/Villa+Park+-+MICE.pdf
 - calendar: none
+- destination_dining: none
 
 ## Gaps
 
 - wedding brochure
 
-_Facts extracted by rules from 27 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._
+_Facts extracted by rules from 30 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

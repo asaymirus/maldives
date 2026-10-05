@@ -150,6 +150,28 @@
   "packages": [],
   "brochure_doc": "https://makunudu.com/wp-content/uploads/2024/05/SimplyRomanticPackage.pdf"
  },
+ "destination_dining": {
+  "experiences": [
+   "private dining",
+   "romantic dining",
+   "sandbank dinner",
+   "romantic dinner",
+   "lobster dinner",
+   "romantic beach dinner",
+   "in-villa dining",
+   "sandbank escape"
+  ],
+  "packages": [
+   {
+    "name": "Sunset and Sandbank Escape",
+    "price": "64",
+    "currency": "USD",
+    "as_of": 2025
+   }
+  ],
+  "sandbank_events": true,
+  "doc": null
+ },
  "events_mice": {
   "venues": [],
   "capacity_max": null,
@@ -170,7 +192,8 @@
   "dining_menu": "https://makunudu.com/wp-content/uploads/2025/05/Watersports-Menu-_-2025-New.pdf",
   "dive_prices": "https://makunudu.com/wp-content/uploads/2026/05/Dive-Ocean-Price-List.pdf",
   "events": null,
-  "calendar": "https://makunudu.com/wp-content/uploads/2025/11/Makunudu-Festive-2025-2026.pdf"
+  "calendar": "https://makunudu.com/wp-content/uploads/2025/11/Makunudu-Festive-2025-2026.pdf",
+  "destination_dining": null
  },
  "documents_count": 15,
  "gaps": [
@@ -552,6 +575,80 @@
     "as_of": 2024
    }
   ],
+  "destination_dining.experiences": [
+   {
+    "value": "private dining",
+    "source_url": "https://makunudu.com/wp-content/uploads/2024/11/Maknudu-Factsheet.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "private dining",
+    "source_url": "https://makunudu.com/wp-content/uploads/2024/11/Maknudu-Factsheet.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "romantic dining",
+    "source_url": "https://makunudu.com/wp-content/uploads/2024/11/Maknudu-Factsheet.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "sandbank dinner",
+    "source_url": "https://makunudu.com/wp-content/uploads/2024/11/Maknudu-Factsheet.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "romantic dinner",
+    "source_url": "https://makunudu.com/wp-content/uploads/2024/11/Maknudu-Factsheet.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "lobster dinner",
+    "source_url": "https://makunudu.com/wp-content/uploads/2024/11/Maknudu-Factsheet.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "romantic dinner",
+    "source_url": "https://makunudu.com/wp-content/uploads/2024/11/Maknudu-Factsheet.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "romantic beach dinner",
+    "source_url": "https://makunudu.com/wp-content/uploads/2024/11/Maknudu-Factsheet.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "lobster dinner",
+    "source_url": "https://makunudu.com/wp-content/uploads/2024/11/Maknudu-Factsheet.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "in-villa dining",
+    "source_url": "https://makunudu.com/wp-content/uploads/2024/11/Maknudu-Factsheet.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": "romantic beach dinner",
+    "source_url": "https://makunudu.com/wp-content/uploads/2024/05/SimplyRomanticPackage.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": "sandbank escape",
+    "source_url": "https://makunudu.com/wp-content/uploads/2025/05/Watersports-Menu-_-2025-New.pdf",
+    "as_of": 2025
+   }
+  ],
+  "destination_dining.sandbank_events": [
+   {
+    "value": true,
+    "source_url": "https://makunudu.com/wp-content/uploads/2024/11/Maknudu-Factsheet.pdf",
+    "as_of": 2024
+   },
+   {
+    "value": true,
+    "source_url": "https://makunudu.com/wp-content/uploads/2025/05/Watersports-Menu-_-2025-New.pdf",
+    "as_of": 2025
+   }
+  ],
   "contacts_public.reservations_email": [
    {
     "value": "reservations@makunudu.com",
@@ -601,6 +698,18 @@
   "diving_watersports.house_reef": [
    {
     "value": "House Reef Guided Snorkelling $39",
+    "source_url": "https://makunudu.com/wp-content/uploads/2025/05/Watersports-Menu-_-2025-New.pdf",
+    "as_of": 2025
+   }
+  ],
+  "destination_dining.packages": [
+   {
+    "value": {
+     "name": "Sunset and Sandbank Escape",
+     "price": "64",
+     "currency": "USD",
+     "as_of": 2025
+    },
     "source_url": "https://makunudu.com/wp-content/uploads/2025/05/Watersports-Menu-_-2025-New.pdf",
     "as_of": 2025
    }

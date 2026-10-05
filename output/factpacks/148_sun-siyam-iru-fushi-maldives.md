@@ -82,6 +82,12 @@ All-inclusive: All-Inclusive Dine Around.
 - Packages: n/a
 - Brochure: https://www.sunsiyam.com/media/dzmlvgtf/ultimate-honeymoon-ssif.pdf
 
+## Destination dining
+
+- Experiences: wine pairing, private dining, in-villa dining, floating breakfast, sunset cruise, romantic dinner, destination dining, candlelit dinner, beach bbq, dinner under the stars
+- Packages: Floating Breakfast USD 100 (2026-10-04)
+- Sandbank events: None; document: none
+
 ## Events / MICE
 
 - Venues: n/a; capacity max: 10; buyout: None
@@ -105,9 +111,10 @@ All-inclusive: All-Inclusive Dine Around.
 - dive_prices: none
 - events: none
 - calendar: https://letsgomaldives.com/wp-content/uploads/2026/08/Sun-Siyam-Iru-Fushi-Our-Festive-Brochure-2026-2027.pdf
+- destination_dining: none
 
 ## Gaps
 
 - events/MICE document
 
-_Facts extracted by rules from 26 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._
+_Facts extracted by rules from 28 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

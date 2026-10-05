@@ -41,6 +41,12 @@ All-inclusive: all-inclusive offers.
 - Packages: n/a
 - Brochure: none
 
+## Destination dining
+
+- Experiences: in-villa dining, floating breakfast, romantic dinner
+- Packages: n/a
+- Sandbank events: None; document: none
+
 ## Events / MICE
 
 - Venues: n/a; capacity max: n/a; buyout: None
@@ -64,6 +70,7 @@ All-inclusive: all-inclusive offers.
 - dive_prices: none
 - events: none
 - calendar: https://letsgomaldives.com/wp-content/uploads/2026/08/Avani-Fares-Maldives-Festive-Brochure-2026-1.pdf
+- destination_dining: none
 
 ## Gaps
 
@@ -75,4 +82,4 @@ All-inclusive: all-inclusive offers.
 - fact: kids club
 - fact: weddings
 
-_Facts extracted by rules from 18 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._
+_Facts extracted by rules from 19 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

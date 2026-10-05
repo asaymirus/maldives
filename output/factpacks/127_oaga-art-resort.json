@@ -108,6 +108,16 @@
   "packages": [],
   "brochure_doc": null
  },
+ "destination_dining": {
+  "experiences": [
+   "in-villa dining",
+   "destination dining",
+   "floating breakfast"
+  ],
+  "packages": [],
+  "sandbank_events": null,
+  "doc": null
+ },
  "events_mice": {
   "venues": [],
   "capacity_max": null,
@@ -128,7 +138,8 @@
   "dining_menu": "https://oagaresorts.com/wp-content/uploads/2025/11/VGV_Itinirary_Detailed_OPS.pdf",
   "dive_prices": null,
   "events": null,
-  "calendar": "https://oagaresorts.com/wp-content/uploads/2024/09/Festive-brochure-24-25-Oaga-Art.pdf"
+  "calendar": "https://oagaresorts.com/wp-content/uploads/2024/09/Festive-brochure-24-25-Oaga-Art.pdf",
+  "destination_dining": null
  },
  "documents_count": 24,
  "gaps": [
@@ -263,6 +274,23 @@
     "value": true,
     "source_url": "https://oagaresorts.com/wp-content/uploads/2026/08/1.-ENG-Oaga-Fact-sheet-2026_compressed.pdf",
     "as_of": 2026
+   }
+  ],
+  "destination_dining.experiences": [
+   {
+    "value": "in-villa dining",
+    "source_url": "https://oagaresorts.com/wp-content/uploads/2026/08/1.-ENG-Oaga-Fact-sheet-2026_compressed.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://oagaresorts.com/wp-content/uploads/2026/08/1.-ENG-Oaga-Fact-sheet-2026_compressed.pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "floating breakfast",
+    "source_url": "https://letsgomaldives.com/news/this-summer-rediscover-the-art-of-doing-nothing-at-oaga-art-resort/",
+    "as_of": "2026-10-04"
    }
   ],
   "diving_watersports.activities": [

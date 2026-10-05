@@ -238,6 +238,16 @@
   "packages": [],
   "brochure_doc": null
  },
+ "destination_dining": {
+  "experiences": [
+   "sunset cruise",
+   "dine under the stars",
+   "candlelit dinner"
+  ],
+  "packages": [],
+  "sandbank_events": null,
+  "doc": null
+ },
  "events_mice": {
   "venues": [],
   "capacity_max": null,
@@ -258,7 +268,8 @@
   "dining_menu": null,
   "dive_prices": null,
   "events": "https://maldives.ru/doc/static/Constance-Hotels-Resorts-Corporate-Brochure-En_removed%20(1).pdf",
-  "calendar": null
+  "calendar": null,
+  "destination_dining": null
  },
  "documents_count": 4,
  "gaps": [
@@ -993,6 +1004,28 @@
     "value": true,
     "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/halaveli-factsheet-en-24april2023.pdf",
     "as_of": 2023
+   }
+  ],
+  "destination_dining.experiences": [
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.neoscapesmaldives.com/wp-content/uploads/halaveli-factsheet-en-24april2023.pdf",
+    "as_of": 2023
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://maldives.ru/doc/static/Constance-Hotels-Resorts-Corporate-Brochure-En_removed%20(1).pdf",
+    "as_of": 2026
+   },
+   {
+    "value": "dine under the stars",
+    "source_url": "https://www.neoscapesmaldives.com/resort/constance-halaveli-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "candlelit dinner",
+    "source_url": "https://www.neoscapesmaldives.com/resort/constance-halaveli-maldives/",
+    "as_of": "2026-10-04"
    }
   ],
   "contacts_public.reservations_email": [

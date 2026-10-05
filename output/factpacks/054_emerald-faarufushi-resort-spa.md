@@ -73,6 +73,12 @@ All-inclusive: all-inclusive formula, exclusive SPA treatment and magical sunset
 - Packages: n/a
 - Brochure: none
 
+## Destination dining
+
+- Experiences: sunset dinner, sunset cruise, in-villa dining, romantic sunset dinner, romantic dinner, private dining
+- Packages: n/a
+- Sandbank events: None; document: none
+
 ## Events / MICE
 
 - Venues: n/a; capacity max: n/a; buyout: None
@@ -96,6 +102,7 @@ All-inclusive: all-inclusive formula, exclusive SPA treatment and magical sunset
 - dive_prices: https://cdn.prod.website-files.com/614dd23228b0182a7ae09c18/671236c0675bb0d2c5ac8504_Farufushi%20DC%20%26amp%3B%20WS%20PRICE%20LIST%20from%2008.04.2023.pdf
 - events: none
 - calendar: none
+- destination_dining: none
 
 ## Gaps
 
@@ -103,4 +110,4 @@ All-inclusive: all-inclusive formula, exclusive SPA treatment and magical sunset
 - wedding brochure
 - events/MICE document
 
-_Facts extracted by rules from 25 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._
+_Facts extracted by rules from 26 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

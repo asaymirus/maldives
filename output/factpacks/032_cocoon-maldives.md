@@ -53,6 +53,12 @@ Kids Club; ages: n/a; teens: teens programme mentioned
 - Packages: n/a
 - Brochure: none
 
+## Destination dining
+
+- Experiences: sandbank picnic, beach bbq, anniversary dinner, wine dinner, candlelit dinner, sandbank dinner, floating breakfast, romantic dinner, destination dining, sunset dinner, beach dinner, romantic candlelit dining, sandbank party, sunset cruise, in-villa dining, sandbank escape, underwater restaurant, romantic dining
+- Packages: n/a
+- Sandbank events: True; document: none
+
 ## Events / MICE
 
 - Venues: n/a; capacity max: n/a; buyout: None
@@ -76,10 +82,11 @@ Kids Club; ages: n/a; teens: teens programme mentioned
 - dive_prices: none
 - events: none
 - calendar: none
+- destination_dining: none
 
 ## Gaps
 
 - wedding brochure
 - events/MICE document
 
-_Facts extracted by rules from 23 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._
+_Facts extracted by rules from 25 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

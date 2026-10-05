@@ -53,6 +53,12 @@ Th-ari Spa; treatment rooms: ?; menu: none
 - Packages: n/a
 - Brochure: none
 
+## Destination dining
+
+- Experiences: private dining
+- Packages: n/a
+- Sandbank events: None; document: none
+
 ## Events / MICE
 
 - Venues: n/a; capacity max: n/a; buyout: None
@@ -76,6 +82,7 @@ Th-ari Spa; treatment rooms: ?; menu: none
 - dive_prices: none
 - events: none
 - calendar: https://letsgomaldives.com/wp-content/uploads/2026/02/Easter-Brochure-2026-1.pdf
+- destination_dining: none
 
 ## Gaps
 
@@ -84,4 +91,4 @@ Th-ari Spa; treatment rooms: ?; menu: none
 - fact: villas.total
 - fact: dive operator
 
-_Facts extracted by rules from 16 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._
+_Facts extracted by rules from 17 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

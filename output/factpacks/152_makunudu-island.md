@@ -49,6 +49,12 @@ Meal plans: AI
 - Packages: n/a
 - Brochure: https://makunudu.com/wp-content/uploads/2024/05/SimplyRomanticPackage.pdf
 
+## Destination dining
+
+- Experiences: private dining, romantic dining, sandbank dinner, romantic dinner, lobster dinner, romantic beach dinner, in-villa dining, sandbank escape
+- Packages: Sunset and Sandbank Escape USD 64 (2025)
+- Sandbank events: True; document: none
+
 ## Events / MICE
 
 - Venues: n/a; capacity max: n/a; buyout: None
@@ -72,10 +78,11 @@ Meal plans: AI
 - dive_prices: https://makunudu.com/wp-content/uploads/2026/05/Dive-Ocean-Price-List.pdf
 - events: none
 - calendar: https://makunudu.com/wp-content/uploads/2025/11/Makunudu-Festive-2025-2026.pdf
+- destination_dining: none
 
 ## Gaps
 
 - events/MICE document
 - fact: kids club
 
-_Facts extracted by rules from 18 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._
+_Facts extracted by rules from 21 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

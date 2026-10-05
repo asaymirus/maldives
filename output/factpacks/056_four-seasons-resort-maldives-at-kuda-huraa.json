@@ -76,7 +76,7 @@
   "name": "The Island Spa",
   "treatment_rooms": null,
   "signature_treatments": [],
-  "menu_doc": "https://neoscapesmaldives.com/wp-content/uploads/facts-1.pdf"
+  "menu_doc": null
  },
  "diving_watersports": {
   "operator": null,
@@ -130,6 +130,18 @@
   "packages": [],
   "brochure_doc": null
  },
+ "destination_dining": {
+  "experiences": [
+   "sandbank picnic",
+   "private dining",
+   "romantic dining",
+   "sunset cruise",
+   "sandbank dinner"
+  ],
+  "packages": [],
+  "sandbank_events": true,
+  "doc": null
+ },
  "events_mice": {
   "venues": [
    "Meeting Room"
@@ -151,11 +163,12 @@
   "factsheet": null,
   "map": "https://neoscapesmaldives.com/wp-content/uploads/KH-Resort-map_v2.pdf",
   "wedding": null,
-  "spa_menu": "https://neoscapesmaldives.com/wp-content/uploads/facts-1.pdf",
-  "dining_menu": null,
+  "spa_menu": null,
+  "dining_menu": "https://neoscapesmaldives.com/wp-content/uploads/facts-1.pdf",
   "dive_prices": null,
   "events": null,
-  "calendar": null
+  "calendar": null,
+  "destination_dining": null
  },
  "documents_count": 2,
  "gaps": [
@@ -568,6 +581,45 @@
    },
    {
     "value": "meditation",
+    "source_url": "https://www.maldivestourism.net/resorts/four-seasons-resort-maldives-at-kuda-huraa/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "destination_dining.experiences": [
+   {
+    "value": "sandbank picnic",
+    "source_url": "https://neoscapesmaldives.com/wp-content/uploads/facts-1.pdf",
+    "as_of": 2019
+   },
+   {
+    "value": "private dining",
+    "source_url": "https://www.neoscapesmaldives.com/resort/four-seasons-kuda-huraa-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "romantic dining",
+    "source_url": "https://www.neoscapesmaldives.com/resort/four-seasons-kuda-huraa-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sunset cruise",
+    "source_url": "https://www.neoscapesmaldives.com/resort/four-seasons-kuda-huraa-maldives/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "sandbank dinner",
+    "source_url": "https://www.maldivestourism.net/resorts/four-seasons-resort-maldives-at-kuda-huraa/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "destination_dining.sandbank_events": [
+   {
+    "value": true,
+    "source_url": "https://neoscapesmaldives.com/wp-content/uploads/facts-1.pdf",
+    "as_of": 2019
+   },
+   {
+    "value": true,
     "source_url": "https://www.maldivestourism.net/resorts/four-seasons-resort-maldives-at-kuda-huraa/",
     "as_of": "2026-10-04"
    }

@@ -54,6 +54,12 @@ Meal plans: AI
 - Packages: Photography Package USD 130 (2026)
 - Brochure: https://kudafushiresort.com/en/wp-content/uploads/2026/08/KUDAFUSHI-WEDDING-PACKAGES.pdf
 
+## Destination dining
+
+- Experiences: sunset cruise, romantic dinner, sandbank experience
+- Packages: n/a
+- Sandbank events: True; document: https://kudafushiresort.com/en/wp-content/uploads/2026/08/ROMANTIC-DINNER-MENU.pdf
+
 ## Events / MICE
 
 - Venues: n/a; capacity max: n/a; buyout: None
@@ -77,10 +83,11 @@ Meal plans: AI
 - dive_prices: https://kudafushiresort.com/en/wp-content/uploads/2026/08/AQUASOULS_WATERSPORTS.pdf
 - events: none
 - calendar: https://kudafushiresort.com/en/wp-content/uploads/2026/08/PADEL-COURT-RENTAL.pdf
+- destination_dining: https://kudafushiresort.com/en/wp-content/uploads/2026/08/ROMANTIC-DINNER-MENU.pdf
 
 ## Gaps
 
 - events/MICE document
 - fact: dive operator
 
-_Facts extracted by rules from 22 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._
+_Facts extracted by rules from 24 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

@@ -59,6 +59,12 @@ All-inclusive: all-inclusive package ensures guests can get the very best out of
 - Packages: n/a
 - Brochure: none
 
+## Destination dining
+
+- Experiences: sand bank trip, beach dinner, floating breakfast, treetop dining, destination dining, in villa dining, dinner under the stars, private dining
+- Packages: n/a
+- Sandbank events: True; document: none
+
 ## Events / MICE
 
 - Venues: n/a; capacity max: n/a; buyout: None
@@ -82,6 +88,7 @@ All-inclusive: all-inclusive package ensures guests can get the very best out of
 - dive_prices: https://d3w0d8jk0ek7xo.cloudfront.net/files/18ef7b26-c172-43c8-9756-9b69c690280c.pdf
 - events: none
 - calendar: none
+- destination_dining: none
 
 ## Gaps
 
@@ -89,4 +96,4 @@ All-inclusive: all-inclusive package ensures guests can get the very best out of
 - events/MICE document
 - fact: villas.total
 
-_Facts extracted by rules from 19 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._
+_Facts extracted by rules from 21 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

@@ -47,6 +47,12 @@ All-inclusive: All Inclusive.
 - Packages: n/a
 - Brochure: none
 
+## Destination dining
+
+- Experiences: private dining, in-villa dining, sunset cruise
+- Packages: n/a
+- Sandbank events: None; document: none
+
 ## Events / MICE
 
 - Venues: n/a; capacity max: n/a; buyout: None
@@ -70,10 +76,11 @@ All-inclusive: All Inclusive.
 - dive_prices: none
 - events: none
 - calendar: https://letsgomaldives.com/wp-content/uploads/2026/08/LSAA_-FESTIVE-BROCHURE_2627.pdf
+- destination_dining: none
 
 ## Gaps
 
 - wedding brochure
 - events/MICE document
 
-_Facts extracted by rules from 21 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._
+_Facts extracted by rules from 22 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

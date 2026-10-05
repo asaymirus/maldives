@@ -88,6 +88,12 @@ All-inclusive: all-inclusive family friendly packages.
 - Packages: Photography Package USD 177 (2026); Oriental Night Experience USD 163 (2026)
 - Brochure: https://link.assetfile.io/7BzPFO2yqv4Xg3GX5igc4B/Villa+Nautica+-+Weddings+-+Menu.pdf
 
+## Destination dining
+
+- Experiences: sunset cruise, private dining, romantic beach dinner, sandbank picnic, lagoon lunch, candlelit dinner, beach dinner, sunset dinner, treetop dining, beach barbecue, destination dining, floating breakfast, dine under the stars, romantic sunset dinner, private chef, romantic dining, in-villa dining, romantic dinner, romantic candlelit dinner, underwater restaurant, in villa dining
+- Packages: Candle Light Dinner USD 100 (2026); Vegetarian Candle Light Dinner USD 217 (2026); Private BBQ USD 235 (2026)
+- Sandbank events: True; document: none
+
 ## Events / MICE
 
 - Venues: Fura - Boardroom; Reyva - Boardroom; Dhinasha - Conference room; Burunu - Conference room; Adha - Boardroom; Fura - Meeting Room; Conference Room (Capacity 250 pax); capacity max: 14; buyout: None
@@ -111,8 +117,9 @@ All-inclusive: all-inclusive family friendly packages.
 - dive_prices: https://link.assetfile.io/1MFq4VqR8haG2R35ZB9oll/Villa+Nautica+-+Diving+-+Brochure.pdf
 - events: https://link.assetfile.io/5mM1mCnBIDWvfTyEaE52r7/Villa+Nautica+-+Meetings+and+Events+-+June+2023.pdf
 - calendar: none
+- destination_dining: none
 
 ## Gaps
 
 
-_Facts extracted by rules from 29 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._
+_Facts extracted by rules from 32 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

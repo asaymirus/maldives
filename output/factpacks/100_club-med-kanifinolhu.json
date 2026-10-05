@@ -11,7 +11,7 @@
  "official_site_status": "ok",
  "operator_brand": "Club Med",
  "atoll": "North Malé Atoll",
- "island": null,
+ "island": "San Salvador",
  "opened_or_renovated": "opened 2024",
  "star_rating": null,
  "transfer": {
@@ -29,7 +29,16 @@
  "island_size": "60 ha",
  "villas": {
   "total": null,
-  "categories": []
+  "categories": [
+   {
+    "name": "e clusive suites",
+    "count": 43,
+    "size_sqm": null,
+    "max_occupancy": null,
+    "pool": null,
+    "overwater": null
+   }
+  ]
  },
  "dining": [
   {
@@ -59,7 +68,8 @@
   }
  ],
  "meal_plans": [
-  "AI"
+  "AI",
+  "FB"
  ],
  "all_inclusive_details": "All-Inclusive resort in the Maldives is simply paradise.",
  "spa": {
@@ -82,6 +92,10 @@
    "snorkelling",
    "kayaking",
    "paddleboard",
+   "windsurfing",
+   "kitesurfing",
+   "water skiing",
+   "wakeboarding",
    "stand-up paddle"
   ],
   "price_list_doc": null
@@ -91,7 +105,8 @@
   "manta",
   "picnic",
   "dolphin",
-  "turtle"
+  "turtle",
+  "cinema"
  ],
  "kids_family": {
   "kids_club": "Teens Club",
@@ -106,11 +121,23 @@
   "beach volleyball"
  ],
  "weddings": {
-  "offered": null,
+  "offered": true,
   "vow_renewal": null,
   "venues": [],
   "packages": [],
   "brochure_doc": null
+ },
+ "destination_dining": {
+  "experiences": [
+   "anniversary celebration",
+   "sunset dinner",
+   "romantic dinner",
+   "dinner under the stars",
+   "underwater restaurant"
+  ],
+  "packages": [],
+  "sandbank_events": null,
+  "doc": null
  },
  "events_mice": {
   "venues": [],
@@ -139,16 +166,15 @@
   "dining_menu": null,
   "dive_prices": null,
   "events": null,
-  "calendar": null
+  "calendar": null,
+  "destination_dining": null
  },
  "documents_count": 3,
  "gaps": [
   "wedding brochure",
   "events/MICE document",
   "fact: villas.total",
-  "fact: villa categories",
   "fact: dive operator",
-  "fact: weddings",
   "fact: contacts"
  ],
  "sources": {
@@ -219,6 +245,16 @@
     "value": "Club Med Spa",
     "source_url": "https://www.clubmed.us/r/kani/y/exclusive-collection-space",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.clubmed.us/l/honeymoon",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Spa",
+    "source_url": "https://www.clubmed.us/l/ski-experience",
+    "as_of": "2026-10-05"
    }
   ],
   "diving_watersports.activities": [
@@ -358,6 +394,66 @@
     "as_of": "2026-10-04"
    },
    {
+    "value": "scuba diving",
+    "source_url": "https://www.clubmed.us/l/cancun-50-year-anniversary",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.clubmed.us/l/honeymoon",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "scuba diving",
+    "source_url": "https://www.clubmed.us/l/honeymoon",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "windsurfing",
+    "source_url": "https://www.clubmed.us/l/honeymoon",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "kitesurfing",
+    "source_url": "https://www.clubmed.us/l/honeymoon",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "water skiing",
+    "source_url": "https://www.clubmed.us/l/honeymoon",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "wakeboarding",
+    "source_url": "https://www.clubmed.us/l/honeymoon",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "snorkeling",
+    "source_url": "https://www.clubmed.us/l/luxury-family-travel-experience-driven-vacations",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "kayaking",
+    "source_url": "https://www.clubmed.us/l/luxury-family-travel-experience-driven-vacations",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "stand-up paddle",
+    "source_url": "https://www.clubmed.us/l/luxury-family-travel-experience-driven-vacations",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "paddleboard",
+    "source_url": "https://www.clubmed.us/l/luxury-family-travel-experience-driven-vacations",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sailing",
+    "source_url": "https://www.clubmed.us/l/luxury-family-travel-experience-driven-vacations",
+    "as_of": "2026-10-05"
+   },
+   {
     "value": "snorkelling",
     "source_url": "https://maldivestraveller.mv/en/holidays/maldives-tours/day-visit-to-club-med-kani",
     "as_of": "2026-10-04"
@@ -465,6 +561,21 @@
     "as_of": "2026-10-04"
    },
    {
+    "value": "turtle",
+    "source_url": "https://www.clubmed.us/l/cancun-50-year-anniversary",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "cinema",
+    "source_url": "https://www.clubmed.us/l/cancun-50-year-anniversary",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "dolphin",
+    "source_url": "https://www.clubmed.us/l/honeymoon",
+    "as_of": "2026-10-05"
+   },
+   {
     "value": "dolphin",
     "source_url": "https://maldivestraveller.mv/en/holidays/maldives-tours/day-visit-to-club-med-kani",
     "as_of": "2026-10-04"
@@ -475,6 +586,16 @@
     "value": "Teens Club",
     "source_url": "https://factsheets.clubmed/en-us/factsheet_kanc.pdf",
     "as_of": 2026
+   },
+   {
+    "value": "Kids Club",
+    "source_url": "https://www.clubmed.us/l/celebrations",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "Teens Club",
+    "source_url": "https://www.clubmed.us/l/luxury-family-travel-experience-driven-vacations",
+    "as_of": "2026-10-05"
    }
   ],
   "kids_family.teens": [
@@ -482,6 +603,21 @@
     "value": "teens programme mentioned",
     "source_url": "https://factsheets.clubmed/en-us/factsheet_kanc.pdf",
     "as_of": 2026
+   },
+   {
+    "value": "teens programme mentioned",
+    "source_url": "https://www.clubmed.us/l/cancun-50-year-anniversary",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "teens programme mentioned",
+    "source_url": "https://www.clubmed.us/l/luxury-family-travel-experience-driven-vacations",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "teens programme mentioned",
+    "source_url": "https://www.clubmed.us/l/ski-experience",
+    "as_of": "2026-10-05"
    }
   ],
   "wellness_fitness": [
@@ -529,6 +665,26 @@
     "value": "padel",
     "source_url": "https://www.clubmed.us/r/kani/y/exclusive-collection-space",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.clubmed.us/l/honeymoon",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "tennis",
+    "source_url": "https://www.clubmed.us/l/honeymoon",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.clubmed.us/l/luxury-family-travel-experience-driven-vacations",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "yoga",
+    "source_url": "https://www.clubmed.us/l/ski-experience",
+    "as_of": "2026-10-05"
    },
    {
     "value": "tennis",
@@ -620,6 +776,36 @@
    },
    {
     "value": "AI",
+    "source_url": "https://www.clubmed.us/l/cancun-50-year-anniversary",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://www.clubmed.us/l/celebrations",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "FB",
+    "source_url": "https://www.clubmed.us/l/honeymoon",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://www.clubmed.us/l/honeymoon",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://www.clubmed.us/l/luxury-family-travel-experience-driven-vacations",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "AI",
+    "source_url": "https://www.clubmed.us/l/ski-experience",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "AI",
     "source_url": "https://maldivestraveller.mv/en/holidays/maldives-tours/day-visit-to-club-med-kani",
     "as_of": "2026-10-04"
    },
@@ -639,6 +825,31 @@
     "value": "All-Inclusive resort in the Maldives is simply paradise.",
     "source_url": "https://www.clubmed.us/r/kani/y",
     "as_of": "2026-10-04"
+   },
+   {
+    "value": "all-inclusive resort.",
+    "source_url": "https://www.clubmed.us/l/cancun-50-year-anniversary",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "all-inclusive getaway for Thanksgiving, Christmas, New Year’s, or any special occasion.",
+    "source_url": "https://www.clubmed.us/l/celebrations",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "all-inclusive package perfect for couples.",
+    "source_url": "https://www.clubmed.us/l/honeymoon",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "all inclusive stay is there, but the vacation feels much richer and more cultural.",
+    "source_url": "https://www.clubmed.us/l/luxury-family-travel-experience-driven-vacations",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "all-inclusive luxury, with every detail thoughtfully curated for a seamless and stress-free holiday experience.",
+    "source_url": "https://www.clubmed.us/l/ski-experience",
+    "as_of": "2026-10-05"
    },
    {
     "value": "all-inclusive Maldives resort without booking overnight accommodation.",
@@ -740,6 +951,76 @@
     "value": 25,
     "source_url": "https://www.clubmed.us/r/kani/y/exclusive-collection-space",
     "as_of": "2026-10-04"
+   }
+  ],
+  "destination_dining.experiences": [
+   {
+    "value": "anniversary celebration",
+    "source_url": "https://www.clubmed.us/l/cancun-50-year-anniversary",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "anniversary celebration",
+    "source_url": "https://www.clubmed.us/l/cancun-50-year-anniversary",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "sunset dinner",
+    "source_url": "https://www.clubmed.us/l/honeymoon",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "romantic dinner",
+    "source_url": "https://www.clubmed.us/l/honeymoon",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "dinner under the stars",
+    "source_url": "https://www.clubmed.us/l/honeymoon",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "romantic dinner",
+    "source_url": "https://www.clubmed.us/l/honeymoon",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": "underwater restaurant",
+    "source_url": "https://maldivestraveller.mv/en/holidays/maldives-tours/day-visit-to-club-med-kani",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "weddings.offered": [
+   {
+    "value": true,
+    "source_url": "https://www.clubmed.us/l/celebrations",
+    "as_of": "2026-10-05"
+   },
+   {
+    "value": true,
+    "source_url": "https://www.clubmed.us/l/honeymoon",
+    "as_of": "2026-10-05"
+   }
+  ],
+  "island": [
+   {
+    "value": "San Salvador",
+    "source_url": "https://www.clubmed.us/l/honeymoon",
+    "as_of": "2026-10-05"
+   }
+  ],
+  "villas.categories": [
+   {
+    "value": {
+     "name": "e clusive suites",
+     "count": 43,
+     "size_sqm": null,
+     "max_occupancy": null,
+     "pool": null,
+     "overwater": null
+    },
+    "source_url": "https://www.clubmed.us/l/ski-experience",
+    "as_of": "2026-10-05"
    }
   ],
   "diving_watersports.house_reef": [

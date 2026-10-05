@@ -66,6 +66,12 @@ All-inclusive: all-inclusive island experience with dining, beverages, minibar, 
 - Packages: n/a
 - Brochure: none
 
+## Destination dining
+
+- Experiences: floating breakfast, sunset dinner, romantic dining, candlelit dinner, underwater restaurant, sunset cruise, romantic beach dinner, romantic dinner, private dining
+- Packages: n/a
+- Sandbank events: None; document: none
+
 ## Events / MICE
 
 - Venues: n/a; capacity max: n/a; buyout: None
@@ -85,10 +91,11 @@ All-inclusive: all-inclusive island experience with dining, beverages, minibar, 
 - map: https://www.neoscapesmaldives.com/wp-content/uploads/OBLU-SELECT-Lobigili-Island-Map-MAY-2025.pdf
 - wedding: none
 - spa_menu: none
-- dining_menu: https://cob-ucmsapi.coloursofoblu.com/OBLU/images/pdflinkd0d15eb6-736a-4194-8844-1d146f52d641file.pdf.pdf
+- dining_menu: none
 - dive_prices: none
 - events: none
 - calendar: none
+- destination_dining: none
 
 ## Gaps
 
@@ -96,4 +103,4 @@ All-inclusive: all-inclusive island experience with dining, beverages, minibar, 
 - wedding brochure
 - events/MICE document
 
-_Facts extracted by rules from 24 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._
+_Facts extracted by rules from 25 fields' sources; see the JSON `sources` map for source_url / as_of per fact. Last updated 2026-10-05._

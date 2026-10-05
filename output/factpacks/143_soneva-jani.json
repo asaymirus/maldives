@@ -17,8 +17,7 @@
   "modes": [
    "seaplane",
    "speedboat",
-   "domestic flight",
-   "yacht"
+   "domestic flight"
   ],
   "minutes": {
    "seaplane": 30,
@@ -34,118 +33,6 @@
    {
     "name": "Villas &",
     "count": 42,
-    "size_sqm": null,
-    "max_occupancy": null,
-    "pool": null,
-    "overwater": null
-   },
-   {
-    "name": "Bedroom Residence . Bedroom Residence . Crusoe with Pool",
-    "count": 3,
-    "size_sqm": null,
-    "max_occupancy": null,
-    "pool": true,
-    "overwater": null
-   },
-   {
-    "name": "Bedroom Crusoe Suite with Pool . Crusoe Suite with Pool",
-    "count": 2,
-    "size_sqm": null,
-    "max_occupancy": null,
-    "pool": true,
-    "overwater": null
-   },
-   {
-    "name": "Bedroom Soneva Fushi Villa Suite . Bedroom Residence",
-    "count": 4,
-    "size_sqm": null,
-    "max_occupancy": null,
-    "pool": null,
-    "overwater": null
-   },
-   {
-    "name": "Bedroom Villa",
-    "count": 1,
-    "size_sqm": null,
-    "max_occupancy": null,
-    "pool": null,
-    "overwater": null
-   },
-   {
-    "name": "Bedroom Villa Suite",
-    "count": 1,
-    "size_sqm": null,
-    "max_occupancy": null,
-    "pool": null,
-    "overwater": null
-   },
-   {
-    "name": "Bedroom Crusoe Villa Bedroom Crusoe with Pool pa A+ C or A",
-    "count": 2,
-    "size_sqm": null,
-    "max_occupancy": null,
-    "pool": true,
-    "overwater": null
-   },
-   {
-    "name": "Bedroom Crusoe Suite with Pool - pa A+ C or A",
-    "count": 2,
-    "size_sqm": null,
-    "max_occupancy": null,
-    "pool": true,
-    "overwater": null
-   },
-   {
-    "name": "Bedroom Crusoe Suite Villa pa A+ C or A",
-    "count": 2,
-    "size_sqm": null,
-    "max_occupancy": null,
-    "pool": null,
-    "overwater": null
-   },
-   {
-    "name": "Bedroom Beach Retreat",
-    "count": 3,
-    "size_sqm": null,
-    "max_occupancy": null,
-    "pool": null,
-    "overwater": null
-   },
-   {
-    "name": "Bedroom Residence Villa , pa A+ C or A",
-    "count": 3,
-    "size_sqm": null,
-    "max_occupancy": null,
-    "pool": null,
-    "overwater": null
-   },
-   {
-    "name": "Bedroom Soneva Fushi Villa , pa A + C or A",
-    "count": 4,
-    "size_sqm": null,
-    "max_occupancy": null,
-    "pool": null,
-    "overwater": null
-   },
-   {
-    "name": "Bedroom Residence",
-    "count": 4,
-    "size_sqm": null,
-    "max_occupancy": null,
-    "pool": null,
-    "overwater": null
-   },
-   {
-    "name": "Bedroom Residence Sunset Reserve , pa A+ C or A",
-    "count": 7,
-    "size_sqm": null,
-    "max_occupancy": null,
-    "pool": null,
-    "overwater": null
-   },
-   {
-    "name": "Bedroom Residence , pa A+ C or A",
-    "count": 9,
     "size_sqm": null,
     "max_occupancy": null,
     "pool": null,
@@ -249,11 +136,6 @@
    "type": "bar"
   },
   {
-   "name": "B By The Bar",
-   "cuisine": null,
-   "type": "bar"
-  },
-  {
    "name": "G TV Lounge",
    "cuisine": null,
    "type": "bar"
@@ -325,10 +207,23 @@
  ],
  "weddings": {
   "offered": true,
-  "vow_renewal": null,
+  "vow_renewal": true,
   "venues": [],
   "packages": [],
   "brochure_doc": null
+ },
+ "destination_dining": {
+  "experiences": [
+   "sandbank dinner",
+   "candlelit dinner",
+   "in-villa dining",
+   "wine dinner",
+   "destination dining",
+   "beach dinner"
+  ],
+  "packages": [],
+  "sandbank_events": true,
+  "doc": null
  },
  "events_mice": {
   "venues": [],
@@ -338,7 +233,6 @@
  },
  "sustainability": [
   "marine biologist",
-  "carbon neutral",
   "organic garden"
  ],
  "contacts_public": {
@@ -354,7 +248,8 @@
   "dining_menu": null,
   "dive_prices": "https://soneva-offload-media-library.storage.googleapis.com/wp-content/uploads/2022/02/07163623/Soleni-Price-list24-25-SJR.pdf",
   "events": null,
-  "calendar": "https://soneva-offload-media-library.storage.googleapis.com/wp-content/uploads/2025/10/15143611/Festive-Brochure-Soneva-Jani.pdf"
+  "calendar": "https://soneva-offload-media-library.storage.googleapis.com/wp-content/uploads/2025/10/15143611/Festive-Brochure-Soneva-Jani.pdf",
+  "destination_dining": null
  },
  "documents_count": 21,
  "gaps": [
@@ -367,11 +262,6 @@
     "value": "Baa Atoll",
     "source_url": "https://neoscapesmaldives.com/wp-content/uploads/11747_Soneva-Fushi-Factsheet-2019.pdf",
     "as_of": 2019
-   },
-   {
-    "value": "Baa Atoll",
-    "source_url": "https://awesomegetawaymaldives.com/wp-content/uploads/2026/03/Soneva-Fushi.pdf",
-    "as_of": 2025
    },
    {
     "value": "Noonu Atoll",
@@ -401,21 +291,6 @@
     "as_of": 2019
    },
    {
-    "value": "seaplane",
-    "source_url": "https://awesomegetawaymaldives.com/wp-content/uploads/2026/03/Soneva-Fushi.pdf",
-    "as_of": 2025
-   },
-   {
-    "value": "speedboat",
-    "source_url": "https://awesomegetawaymaldives.com/wp-content/uploads/2026/03/Soneva-Fushi.pdf",
-    "as_of": 2025
-   },
-   {
-    "value": "yacht",
-    "source_url": "https://awesomegetawaymaldives.com/wp-content/uploads/2026/03/Soneva-Fushi.pdf",
-    "as_of": 2025
-   },
-   {
     "value": "speedboat",
     "source_url": "https://soneva.com/resorts/soneva-jani/your-journey-soneva-jani/",
     "as_of": "2026-10-04"
@@ -438,11 +313,6 @@
     "as_of": 2019
    },
    {
-    "value": 20,
-    "source_url": "https://awesomegetawaymaldives.com/wp-content/uploads/2026/03/Soneva-Fushi.pdf",
-    "as_of": 2025
-   },
-   {
     "value": 30,
     "source_url": "https://www.neoscapesmaldives.com/resort/soneva-jani/",
     "as_of": "2026-10-04"
@@ -453,11 +323,6 @@
     "value": 12,
     "source_url": "https://neoscapesmaldives.com/wp-content/uploads/11747_Soneva-Fushi-Factsheet-2019.pdf",
     "as_of": 2019
-   },
-   {
-    "value": 15,
-    "source_url": "https://awesomegetawaymaldives.com/wp-content/uploads/2026/03/Soneva-Fushi.pdf",
-    "as_of": 2025
    },
    {
     "value": 10,
@@ -484,16 +349,6 @@
     "as_of": 2019
    },
    {
-    "value": 71,
-    "source_url": "https://awesomegetawaymaldives.com/wp-content/uploads/2026/03/Soneva-Fushi.pdf",
-    "as_of": 2025
-   },
-   {
-    "value": 71,
-    "source_url": "https://awesomegetawaymaldives.com/wp-content/uploads/2026/03/Soneva-Fushi.pdf",
-    "as_of": 2025
-   },
-   {
     "value": 85,
     "source_url": "https://soneva-offload-media-library.storage.googleapis.com/wp-content/uploads/2022/10/09101434/SJR-Map-H.pdf",
     "as_of": 2026
@@ -511,198 +366,6 @@
     },
     "source_url": "https://neoscapesmaldives.com/wp-content/uploads/11747_Soneva-Fushi-Factsheet-2019.pdf",
     "as_of": 2019
-   },
-   {
-    "value": {
-     "name": "Bedroom Residence . Bedroom Residence . Crusoe with Pool",
-     "count": 3,
-     "size_sqm": null,
-     "max_occupancy": null,
-     "pool": true,
-     "overwater": null
-    },
-    "source_url": "https://awesomegetawaymaldives.com/wp-content/uploads/2026/03/Soneva-Fushi.pdf",
-    "as_of": 2025
-   },
-   {
-    "value": {
-     "name": "Bedroom Crusoe Suite with Pool . Crusoe Suite with Pool",
-     "count": 2,
-     "size_sqm": null,
-     "max_occupancy": null,
-     "pool": true,
-     "overwater": null
-    },
-    "source_url": "https://awesomegetawaymaldives.com/wp-content/uploads/2026/03/Soneva-Fushi.pdf",
-    "as_of": 2025
-   },
-   {
-    "value": {
-     "name": "Bedroom Soneva Fushi Villa Suite . Bedroom Residence",
-     "count": 4,
-     "size_sqm": null,
-     "max_occupancy": null,
-     "pool": null,
-     "overwater": null
-    },
-    "source_url": "https://awesomegetawaymaldives.com/wp-content/uploads/2026/03/Soneva-Fushi.pdf",
-    "as_of": 2025
-   },
-   {
-    "value": {
-     "name": "Bedroom Villa",
-     "count": 1,
-     "size_sqm": null,
-     "max_occupancy": null,
-     "pool": null,
-     "overwater": null
-    },
-    "source_url": "https://awesomegetawaymaldives.com/wp-content/uploads/2026/03/Soneva-Fushi.pdf",
-    "as_of": 2025
-   },
-   {
-    "value": {
-     "name": "Bedroom Villa Suite",
-     "count": 1,
-     "size_sqm": null,
-     "max_occupancy": null,
-     "pool": null,
-     "overwater": null
-    },
-    "source_url": "https://awesomegetawaymaldives.com/wp-content/uploads/2026/03/Soneva-Fushi.pdf",
-    "as_of": 2025
-   },
-   {
-    "value": {
-     "name": "Bedroom Crusoe Villa Bedroom Crusoe with Pool pa A+ C or A",
-     "count": 2,
-     "size_sqm": null,
-     "max_occupancy": null,
-     "pool": true,
-     "overwater": null
-    },
-    "source_url": "https://awesomegetawaymaldives.com/wp-content/uploads/2026/03/Soneva-Fushi.pdf",
-    "as_of": 2025
-   },
-   {
-    "value": {
-     "name": "Bedroom Crusoe Suite with Pool - pa A+ C or A",
-     "count": 2,
-     "size_sqm": null,
-     "max_occupancy": null,
-     "pool": true,
-     "overwater": null
-    },
-    "source_url": "https://awesomegetawaymaldives.com/wp-content/uploads/2026/03/Soneva-Fushi.pdf",
-    "as_of": 2025
-   },
-   {
-    "value": {
-     "name": "Bedroom Crusoe Suite Villa pa A+ C or A",
-     "count": 2,
-     "size_sqm": null,
-     "max_occupancy": null,
-     "pool": null,
-     "overwater": null
-    },
-    "source_url": "https://awesomegetawaymaldives.com/wp-content/uploads/2026/03/Soneva-Fushi.pdf",
-    "as_of": 2025
-   },
-   {
-    "value": {
-     "name": "Bedroom Beach Retreat",
-     "count": 3,
-     "size_sqm": null,
-     "max_occupancy": null,
-     "pool": null,
-     "overwater": null
-    },
-    "source_url": "https://awesomegetawaymaldives.com/wp-content/uploads/2026/03/Soneva-Fushi.pdf",
-    "as_of": 2025
-   },
-   {
-    "value": {
-     "name": "Bedroom Residence Villa , pa A+ C or A",
-     "count": 3,
-     "size_sqm": null,
-     "max_occupancy": null,
-     "pool": null,
-     "overwater": null
-    },
-    "source_url": "https://awesomegetawaymaldives.com/wp-content/uploads/2026/03/Soneva-Fushi.pdf",
-    "as_of": 2025
-   },
-   {
-    "value": {
-     "name": "Bedroom Soneva Fushi Villa , pa A + C or A",
-     "count": 4,
-     "size_sqm": null,
-     "max_occupancy": null,
-     "pool": null,
-     "overwater": null
-    },
-    "source_url": "https://awesomegetawaymaldives.com/wp-content/uploads/2026/03/Soneva-Fushi.pdf",
-    "as_of": 2025
-   },
-   {
-    "value": {
-     "name": "Bedroom Residence",
-     "count": 4,
-     "size_sqm": null,
-     "max_occupancy": null,
-     "pool": null,
-     "overwater": null
-    },
-    "source_url": "https://awesomegetawaymaldives.com/wp-content/uploads/2026/03/Soneva-Fushi.pdf",
-    "as_of": 2025
-   },
-   {
-    "value": {
-     "name": "Bedroom Residence",
-     "count": 5,
-     "size_sqm": null,
-     "max_occupancy": null,
-     "pool": null,
-     "overwater": null
-    },
-    "source_url": "https://awesomegetawaymaldives.com/wp-content/uploads/2026/03/Soneva-Fushi.pdf",
-    "as_of": 2025
-   },
-   {
-    "value": {
-     "name": "Bedroom Residence",
-     "count": 6,
-     "size_sqm": null,
-     "max_occupancy": null,
-     "pool": null,
-     "overwater": null
-    },
-    "source_url": "https://awesomegetawaymaldives.com/wp-content/uploads/2026/03/Soneva-Fushi.pdf",
-    "as_of": 2025
-   },
-   {
-    "value": {
-     "name": "Bedroom Residence Sunset Reserve , pa A+ C or A",
-     "count": 7,
-     "size_sqm": null,
-     "max_occupancy": null,
-     "pool": null,
-     "overwater": null
-    },
-    "source_url": "https://awesomegetawaymaldives.com/wp-content/uploads/2026/03/Soneva-Fushi.pdf",
-    "as_of": 2025
-   },
-   {
-    "value": {
-     "name": "Bedroom Residence , pa A+ C or A",
-     "count": 9,
-     "size_sqm": null,
-     "max_occupancy": null,
-     "pool": null,
-     "overwater": null
-    },
-    "source_url": "https://awesomegetawaymaldives.com/wp-content/uploads/2026/03/Soneva-Fushi.pdf",
-    "as_of": 2025
    },
    {
     "value": {
@@ -1002,15 +665,6 @@
    },
    {
     "value": {
-     "name": "B By The Bar",
-     "cuisine": null,
-     "type": "bar"
-    },
-    "source_url": "https://awesomegetawaymaldives.com/wp-content/uploads/2026/03/Soneva-Fushi.pdf",
-    "as_of": 2025
-   },
-   {
-    "value": {
      "name": "G TV Lounge",
      "cuisine": null,
      "type": "bar"
@@ -1077,11 +731,6 @@
     "value": "Dive Centre",
     "source_url": "https://neoscapesmaldives.com/wp-content/uploads/11747_Soneva-Fushi-Factsheet-2019.pdf",
     "as_of": 2019
-   },
-   {
-    "value": "Dive Centre",
-    "source_url": "https://awesomegetawaymaldives.com/wp-content/uploads/2026/03/Soneva-Fushi.pdf",
-    "as_of": 2025
    }
   ],
   "diving_watersports.activities": [
@@ -1119,26 +768,6 @@
     "value": "scuba diving",
     "source_url": "https://soneva-offload-media-library.storage.googleapis.com/wp-content/uploads/2022/02/07163623/Soleni-Price-list24-25-SJR.pdf",
     "as_of": 2024
-   },
-   {
-    "value": "snorkelling",
-    "source_url": "https://awesomegetawaymaldives.com/wp-content/uploads/2026/03/Soneva-Fushi.pdf",
-    "as_of": 2025
-   },
-   {
-    "value": "surfing",
-    "source_url": "https://awesomegetawaymaldives.com/wp-content/uploads/2026/03/Soneva-Fushi.pdf",
-    "as_of": 2025
-   },
-   {
-    "value": "dolphin cruise",
-    "source_url": "https://awesomegetawaymaldives.com/wp-content/uploads/2026/03/Soneva-Fushi.pdf",
-    "as_of": 2025
-   },
-   {
-    "value": "manta",
-    "source_url": "https://awesomegetawaymaldives.com/wp-content/uploads/2026/03/Soneva-Fushi.pdf",
-    "as_of": 2025
    },
    {
     "value": "manta",
@@ -1208,41 +837,6 @@
     "as_of": 2019
    },
    {
-    "value": "sandbank",
-    "source_url": "https://awesomegetawaymaldives.com/wp-content/uploads/2026/03/Soneva-Fushi.pdf",
-    "as_of": 2025
-   },
-   {
-    "value": "dolphin",
-    "source_url": "https://awesomegetawaymaldives.com/wp-content/uploads/2026/03/Soneva-Fushi.pdf",
-    "as_of": 2025
-   },
-   {
-    "value": "manta",
-    "source_url": "https://awesomegetawaymaldives.com/wp-content/uploads/2026/03/Soneva-Fushi.pdf",
-    "as_of": 2025
-   },
-   {
-    "value": "turtle",
-    "source_url": "https://awesomegetawaymaldives.com/wp-content/uploads/2026/03/Soneva-Fushi.pdf",
-    "as_of": 2025
-   },
-   {
-    "value": "picnic",
-    "source_url": "https://awesomegetawaymaldives.com/wp-content/uploads/2026/03/Soneva-Fushi.pdf",
-    "as_of": 2025
-   },
-   {
-    "value": "castaway",
-    "source_url": "https://awesomegetawaymaldives.com/wp-content/uploads/2026/03/Soneva-Fushi.pdf",
-    "as_of": 2025
-   },
-   {
-    "value": "cinema",
-    "source_url": "https://awesomegetawaymaldives.com/wp-content/uploads/2026/03/Soneva-Fushi.pdf",
-    "as_of": 2025
-   },
-   {
     "value": "turtle",
     "source_url": "https://soneva-offload-media-library.storage.googleapis.com/wp-content/uploads/2022/10/09101434/SJR-Map-H.pdf",
     "as_of": 2026
@@ -1300,11 +894,6 @@
     "value": "teens programme mentioned",
     "source_url": "https://neoscapesmaldives.com/wp-content/uploads/11747_Soneva-Fushi-Factsheet-2019.pdf",
     "as_of": 2019
-   },
-   {
-    "value": "teens programme mentioned",
-    "source_url": "https://awesomegetawaymaldives.com/wp-content/uploads/2026/03/Soneva-Fushi.pdf",
-    "as_of": 2025
    }
   ],
   "wellness_fitness": [
@@ -1332,31 +921,6 @@
     "value": "steam",
     "source_url": "https://neoscapesmaldives.com/wp-content/uploads/11747_Soneva-Fushi-Factsheet-2019.pdf",
     "as_of": 2019
-   },
-   {
-    "value": "yoga",
-    "source_url": "https://awesomegetawaymaldives.com/wp-content/uploads/2026/03/Soneva-Fushi.pdf",
-    "as_of": 2025
-   },
-   {
-    "value": "gym",
-    "source_url": "https://awesomegetawaymaldives.com/wp-content/uploads/2026/03/Soneva-Fushi.pdf",
-    "as_of": 2025
-   },
-   {
-    "value": "tennis",
-    "source_url": "https://awesomegetawaymaldives.com/wp-content/uploads/2026/03/Soneva-Fushi.pdf",
-    "as_of": 2025
-   },
-   {
-    "value": "sauna",
-    "source_url": "https://awesomegetawaymaldives.com/wp-content/uploads/2026/03/Soneva-Fushi.pdf",
-    "as_of": 2025
-   },
-   {
-    "value": "steam",
-    "source_url": "https://awesomegetawaymaldives.com/wp-content/uploads/2026/03/Soneva-Fushi.pdf",
-    "as_of": 2025
    },
    {
     "value": "gym",
@@ -1407,8 +971,8 @@
    },
    {
     "value": true,
-    "source_url": "https://awesomegetawaymaldives.com/wp-content/uploads/2026/03/Soneva-Fushi.pdf",
-    "as_of": 2025
+    "source_url": "https://soneva.com/celebrations-and-events/",
+    "as_of": "2026-10-05"
    },
    {
     "value": true,
@@ -1416,21 +980,85 @@
     "as_of": "2026-10-04"
    }
   ],
+  "destination_dining.experiences": [
+   {
+    "value": "sandbank dinner",
+    "source_url": "https://neoscapesmaldives.com/wp-content/uploads/11747_Soneva-Fushi-Factsheet-2019.pdf",
+    "as_of": 2019
+   },
+   {
+    "value": "candlelit dinner",
+    "source_url": "https://neoscapesmaldives.com/wp-content/uploads/11747_Soneva-Fushi-Factsheet-2019.pdf",
+    "as_of": 2019
+   },
+   {
+    "value": "in-villa dining",
+    "source_url": "https://soneva.com/resorts/soneva-jani/dining/soneva-jani-meal-plans/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "in-villa dining",
+    "source_url": "https://soneva.com/resorts/soneva-jani/dining/soneva-jani-meal-plans/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "wine dinner",
+    "source_url": "https://www.neoscapesmaldives.com/resort/soneva-jani/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "wine dinner",
+    "source_url": "https://www.neoscapesmaldives.com/resort/soneva-jani/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "destination dining",
+    "source_url": "https://www.neoscapesmaldives.com/resort/soneva-jani/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "candlelit dinner",
+    "source_url": "https://www.neoscapesmaldives.com/resort/soneva-jani/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "in-villa dining",
+    "source_url": "https://www.neoscapesmaldives.com/resort/soneva-jani/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "in-villa dining",
+    "source_url": "https://www.neoscapesmaldives.com/resort/soneva-jani/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "beach dinner",
+    "source_url": "https://www.neoscapesmaldives.com/resort/soneva-jani/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "beach dinner",
+    "source_url": "https://www.neoscapesmaldives.com/resort/soneva-jani/",
+    "as_of": "2026-10-04"
+   },
+   {
+    "value": "beach dinner",
+    "source_url": "https://www.neoscapesmaldives.com/resort/soneva-jani/",
+    "as_of": "2026-10-04"
+   }
+  ],
+  "destination_dining.sandbank_events": [
+   {
+    "value": true,
+    "source_url": "https://neoscapesmaldives.com/wp-content/uploads/11747_Soneva-Fushi-Factsheet-2019.pdf",
+    "as_of": 2019
+   }
+  ],
   "sustainability": [
    {
     "value": "marine biologist",
     "source_url": "https://neoscapesmaldives.com/wp-content/uploads/11747_Soneva-Fushi-Factsheet-2019.pdf",
     "as_of": 2019
-   },
-   {
-    "value": "carbon neutral",
-    "source_url": "https://awesomegetawaymaldives.com/wp-content/uploads/2026/03/Soneva-Fushi.pdf",
-    "as_of": 2025
-   },
-   {
-    "value": "organic garden",
-    "source_url": "https://awesomegetawaymaldives.com/wp-content/uploads/2026/03/Soneva-Fushi.pdf",
-    "as_of": 2025
    },
    {
     "value": "organic garden",
@@ -1487,6 +1115,13 @@
     "value": "FB",
     "source_url": "https://soneva.com/resorts/soneva-jani/dining/soneva-jani-meal-plans/",
     "as_of": "2026-10-04"
+   }
+  ],
+  "weddings.vow_renewal": [
+   {
+    "value": true,
+    "source_url": "https://soneva.com/celebrations-and-events/",
+    "as_of": "2026-10-05"
    }
   ],
   "contacts_public.phone": [
