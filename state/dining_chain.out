@@ -240,3 +240,10 @@ Coverage sheet, first rows after recalculation:
 
 - ['#', 'Resort', 'Official site status', 'factsheet (latest yr)', 'wedding (latest yr)', 'events (latest yr)', 'destination_dining (latest yr)', 'map (latest yr)']
 + git add -A
++ git commit -q -m 'Destination-dining pass: reclassified library, new pages, fact packs, outputs
+
+Co-Authored-By: Claude Fable 5.1 <noreply@anthropic.com>
+Claude-Session: https://claude.ai/code/session_01HuKfdgdkSVamDCtYV6eLkT'
++ git push -q -u origin claude/gallant-johnson-ktui6q
++ echo DINING_DONE
+DINING_DONE
