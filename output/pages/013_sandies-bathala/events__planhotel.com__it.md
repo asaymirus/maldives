@@ -1,7 +1,7 @@
 # Planhotel Hospitality group - Prenotazione di un resort esclusivo di lusso nell'oceano indiano
 
 Source: https://www.planhotel.com/it
-Scraped: 2026-10-04
+Scraped: 2026-10-05
 Resort: Sandies Bathala
 Page type: events
 
@@ -45,9 +45,9 @@ Sandies Nungwi Beach
 The View
 Hotel Italia
 Da
-4 Ottobre 2026
-Al
 5 Ottobre 2026
+Al
+6 Ottobre 2026
 Prenota ora
 INNOVATIVI HOTEL E RESORT PER
 LUSSUOSI SOGGIORNI ED ESPERIENZE UNICHE

@@ -1,6 +1,6 @@
 # Spa & Wellbeing I Banyan Tree Hotels & Resorts
 
-Source: https://www.banyantree.com/spa-wellbeing
+Source: http://banyantree.com/spa-wellbeing
 Scraped: 2026-10-05
 Resort: Banyan Tree Maldives Vabbinfaru
 Page type: spa

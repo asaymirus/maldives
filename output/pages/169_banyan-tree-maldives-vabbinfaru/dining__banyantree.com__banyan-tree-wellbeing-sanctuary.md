@@ -1,6 +1,6 @@
 # Wellbeing Retreats & Spa Stays | Banyan Tree Hotels and Resorts
 
-Source: https://www.banyantree.com/banyan-tree-wellbeing-sanctuary
+Source: http://banyantree.com/banyan-tree-wellbeing-sanctuary
 Scraped: 2026-10-05
 Resort: Banyan Tree Maldives Vabbinfaru
 Page type: dining

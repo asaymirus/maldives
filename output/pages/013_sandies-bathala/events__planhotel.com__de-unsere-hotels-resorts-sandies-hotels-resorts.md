@@ -1,7 +1,7 @@
 # Unsere Hotels & Resorts - Sandies Hotels and Resorts Hotel -  Planhotel Hospitality group der Indischen Ozean
 
 Source: https://www.planhotel.com/de/unsere-hotels-resorts/sandies-hotels-resorts/
-Scraped: 2026-10-04
+Scraped: 2026-10-05
 Resort: Sandies Bathala
 Page type: events
 

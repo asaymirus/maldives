@@ -1,6 +1,6 @@
 # Under the Banyan Tree - Banyan Tree Hotels and Resorts
 
-Source: https://www.banyantree.com/under-the-banyan-tree
+Source: http://banyantree.com/under-the-banyan-tree
 Scraped: 2026-10-05
 Resort: Banyan Tree Maldives Vabbinfaru
 Page type: overview

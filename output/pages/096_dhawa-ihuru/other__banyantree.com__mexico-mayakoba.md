@@ -1,6 +1,6 @@
 # Luxury 5-Star Hotel in Playa del Carmen | Banyan Tree Mayakoba
 
-Source: https://www.banyantree.com/mexico/mayakoba
+Source: http://banyantree.com/mexico/mayakoba
 Scraped: 2026-10-05
 Resort: Dhawa Ihuru
 Page type: other

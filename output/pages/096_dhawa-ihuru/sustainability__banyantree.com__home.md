@@ -1,6 +1,6 @@
 # Banyan Tree: Sustainable Hotels and Resorts
 
-Source: http://banyantree.com
+Source: https://www.banyantree.com
 Scraped: 2026-10-05
 Resort: Dhawa Ihuru
 Page type: sustainability

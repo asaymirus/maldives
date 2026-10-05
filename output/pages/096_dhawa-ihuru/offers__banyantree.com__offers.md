@@ -1,6 +1,6 @@
 # International Hotel Deals and Offers | Banyan Tree Hotels and Resorts
 
-Source: https://www.banyantree.com/offers
+Source: http://banyantree.com/offers
 Scraped: 2026-10-05
 Resort: Dhawa Ihuru
 Page type: offers

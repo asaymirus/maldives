@@ -1,7 +1,7 @@
 # Sandies Hotels and Resorts - Sandies Bathala Maldives  Hotel - Planhotel Hospitality group  in the Indian Ocean
 
 Source: https://www.planhotel.com/group-hotels/sandies-hotels-and-resorts/sandies-bathala-maldives/
-Scraped: 2026-10-04
+Scraped: 2026-10-05
 Resort: Sandies Bathala
 Page type: events
 

@@ -1,7 +1,7 @@
 # Sitemap Hotel  -  Planhotel Hospitality group der Indischen Ozean
 
 Source: https://www.planhotel.com/de/sitemap/
-Scraped: 2026-10-04
+Scraped: 2026-10-05
 Resort: Sandies Bathala
 Page type: events
 

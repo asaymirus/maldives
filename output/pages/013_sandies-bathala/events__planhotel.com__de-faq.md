@@ -1,7 +1,7 @@
 # Faq Hotel  -  Planhotel Hospitality group der Indischen Ozean
 
 Source: https://www.planhotel.com/de/faq/
-Scraped: 2026-10-04
+Scraped: 2026-10-05
 Resort: Sandies Bathala
 Page type: events
 

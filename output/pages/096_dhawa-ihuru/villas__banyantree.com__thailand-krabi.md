@@ -1,6 +1,6 @@
 # 5-Star Krabi Beachfront Villa Resort | Banyan Tree Krabi
 
-Source: https://www.banyantree.com/thailand/krabi
+Source: http://banyantree.com/thailand/krabi
 Scraped: 2026-10-05
 Resort: Dhawa Ihuru
 Page type: villas

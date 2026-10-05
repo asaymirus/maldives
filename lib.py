@@ -529,7 +529,7 @@ def process_candidate(item, docs, source_rank):
             res["status"] = "duplicate"
             res["doc"] = h
             return res
-    cache = os.path.join(STATE, "pdfcache", h + ".pdf")
+    cache = os.path.join(STATE, "pdfcache", f"{h}_{threading.get_ident()}.pdf")
     with open(cache, "wb") as f:
         f.write(data)
     info = pdfinfo(cache)

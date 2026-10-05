@@ -1,7 +1,7 @@
 # Restaurant Maldives l The Residence Dhigurah Dining Room
 
 Source: https://www.cenizaro.com/theresidence/maldives-dg/dining/the-dining-room
-Scraped: 2026-10-04
+Scraped: 2026-10-05
 Resort: The Residence Maldives At Dhigurah
 Page type: dining
 

@@ -1,7 +1,7 @@
 # Meeting & Incentive - Sandies Tropical Village Hotel  -  Planhotel Hospitality group dans l'Océan Indien
 
 Source: https://www.planhotel.com/fr/solutions-professionnelles/meeting-incentive/sandies-tropical-village/
-Scraped: 2026-10-04
+Scraped: 2026-10-05
 Resort: Sandies Bathala
 Page type: events
 

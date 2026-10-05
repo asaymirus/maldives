@@ -1,7 +1,7 @@
 # Best Things to Do in Maldives | The Residence Dhigurah
 
 Source: https://www.cenizaro.com/theresidence/maldives-dg/experiences
-Scraped: 2026-10-04
+Scraped: 2026-10-05
 Resort: The Residence Maldives At Dhigurah
 Page type: diving
 

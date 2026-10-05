@@ -1,6 +1,6 @@
 # Banyan Tree Hotel and Resort Locations | Discover Where to Stay
 
-Source: https://www.banyantree.com/hotels
+Source: http://banyantree.com/hotels
 Scraped: 2026-10-05
 Resort: Banyan Tree Maldives Vabbinfaru
 Page type: excursions

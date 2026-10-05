@@ -1,7 +1,7 @@
 # Diamonds Hotels and Resorts - DIAMONDS LEISURE BEACH & GOLF RESORT Hotel  -  Planhotel Hospitality group dans l'Océan Indien
 
 Source: https://www.planhotel.com/fr/nos-hotels-resorts/diamonds-hotels-resorts/diamonds-leisure-beach-golf-resort/
-Scraped: 2026-10-04
+Scraped: 2026-10-05
 Resort: Sandies Bathala
 Page type: events
 

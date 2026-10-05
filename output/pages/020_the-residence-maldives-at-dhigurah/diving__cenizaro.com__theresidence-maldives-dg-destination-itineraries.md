@@ -1,7 +1,7 @@
 # Maldives Resort Activities l The Residence Maldives Dhigurah
 
 Source: https://www.cenizaro.com/theresidence/maldives-dg/destination/itineraries
-Scraped: 2026-10-04
+Scraped: 2026-10-05
 Resort: The Residence Maldives At Dhigurah
 Page type: diving
 

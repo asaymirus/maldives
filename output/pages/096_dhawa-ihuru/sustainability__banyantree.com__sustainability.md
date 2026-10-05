@@ -1,6 +1,6 @@
 # Sustainability Impact | Banyan Tree Hotels & Resorts
 
-Source: https://www.banyantree.com/sustainability
+Source: http://banyantree.com/sustainability
 Scraped: 2026-10-05
 Resort: Dhawa Ihuru
 Page type: sustainability

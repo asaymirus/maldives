@@ -1,7 +1,7 @@
 # Weddings & Ceremonies - Sandies Tropical Village  Hotel - Planhotel Hospitality group  in the Indian Ocean
 
 Source: https://www.planhotel.com/travel-professional/weddings-ceremonies/sandies-tropical-village/
-Scraped: 2026-10-04
+Scraped: 2026-10-05
 Resort: Sandies Bathala
 Page type: wedding
 

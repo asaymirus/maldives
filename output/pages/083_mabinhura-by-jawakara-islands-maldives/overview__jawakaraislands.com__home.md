@@ -1,7 +1,7 @@
 # jawakaraislands.com is registered at Namecheap
 
 Source: https://www.jawakaraislands.com/
-Scraped: 2026-10-04
+Scraped: 2026-10-05
 Resort: Mabinhura by Jawakara Islands Maldives
 Page type: overview
 
@@ -13,20 +13,20 @@ See all auctions
 gxld.com
 $2,247
 Ends in
-3d 15h
+3d 13h
 Bid now
 verde.net
 $3,050
 Ends in
-15h
+13h
 Bid now
 zmle.com
 $304
 Ends in
-1d 15h
+1d 13h
 Bid now
 pokerbet.to
 $5
 Ends in
-15h
+13h
 Bid now

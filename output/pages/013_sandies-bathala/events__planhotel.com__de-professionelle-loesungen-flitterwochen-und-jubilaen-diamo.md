@@ -1,7 +1,7 @@
 # Flitterwochen und Jubilaen - Diamonds Mapenzi Beach Hotel -  Planhotel Hospitality group der Indischen Ozean
 
 Source: https://www.planhotel.com/de/professionelle-loesungen/flitterwochen-und-jubilaen/diamonds-mapenzi-beach/
-Scraped: 2026-10-04
+Scraped: 2026-10-05
 Resort: Sandies Bathala
 Page type: events
 

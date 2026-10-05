@@ -1,7 +1,7 @@
 # Diamonds Hotels and Resorts - DIAMONDS MAPENZI BEACH  Hotel - Planhotel Hospitality group  in the Indian Ocean
 
 Source: https://www.planhotel.com/group-hotels/diamonds-hotels-and-resorts/diamonds-mapenzi-beach/
-Scraped: 2026-10-04
+Scraped: 2026-10-05
 Resort: Sandies Bathala
 Page type: events
 

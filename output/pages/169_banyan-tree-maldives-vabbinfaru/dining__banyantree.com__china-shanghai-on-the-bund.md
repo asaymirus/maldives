@@ -1,6 +1,6 @@
 # Urban Retreat | Banyan Tree Shanghai On The Bund Hotel
 
-Source: https://www.banyantree.com/china/shanghai-on-the-bund
+Source: http://banyantree.com/china/shanghai-on-the-bund
 Scraped: 2026-10-05
 Resort: Banyan Tree Maldives Vabbinfaru
 Page type: dining

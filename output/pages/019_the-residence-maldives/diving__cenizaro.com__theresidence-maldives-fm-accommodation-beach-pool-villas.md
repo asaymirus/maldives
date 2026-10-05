@@ -1,7 +1,7 @@
 # Maldives Villas with Private Pool | The Residence Maldives
 
 Source: https://www.cenizaro.com/theresidence/maldives-fm/accommodation/beach-pool-villas
-Scraped: 2026-10-04
+Scraped: 2026-10-05
 Resort: The Residence Maldives
 Page type: diving
 

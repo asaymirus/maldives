@@ -1,7 +1,7 @@
 # Weddings & Ceremonies - Diamonds Dream of Africa  Hotel - Planhotel Hospitality group  in the Indian Ocean
 
 Source: https://www.planhotel.com/travel-professional/weddings-ceremonies/diamonds-dream-africa/
-Scraped: 2026-10-04
+Scraped: 2026-10-05
 Resort: Sandies Bathala
 Page type: wedding
 

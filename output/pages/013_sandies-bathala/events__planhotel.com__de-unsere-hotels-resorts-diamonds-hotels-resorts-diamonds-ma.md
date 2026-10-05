@@ -1,7 +1,7 @@
 # Diamonds Hotels and Resorts - DIAMONDS MALINDI Hotel -  Planhotel Hospitality group der Indischen Ozean
 
 Source: https://www.planhotel.com/de/unsere-hotels-resorts/diamonds-hotels-resorts/diamonds-malindi/
-Scraped: 2026-10-04
+Scraped: 2026-10-05
 Resort: Sandies Bathala
 Page type: events
 

@@ -1,6 +1,6 @@
 # Our Brand Story | Banyan Tree Hotels and Resorts
 
-Source: https://www.banyantree.com/our-brand-story
+Source: http://banyantree.com/our-brand-story
 Scraped: 2026-10-05
 Resort: Dhawa Ihuru
 Page type: overview

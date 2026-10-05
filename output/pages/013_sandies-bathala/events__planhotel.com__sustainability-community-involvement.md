@@ -1,7 +1,7 @@
 # SUSTAINABILITY - COMMUNITY INVOLVEMENT  Hotel - Planhotel Hospitality group  in the Indian Ocean
 
 Source: https://www.planhotel.com/sustainability/community-involvement/
-Scraped: 2026-10-04
+Scraped: 2026-10-05
 Resort: Sandies Bathala
 Page type: events
 

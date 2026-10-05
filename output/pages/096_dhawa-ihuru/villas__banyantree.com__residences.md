@@ -1,6 +1,6 @@
 # Villas, Townhouses and Apartments | Banyan Tree Hotels and Resorts
 
-Source: https://www.banyantree.com/residences
+Source: http://banyantree.com/residences
 Scraped: 2026-10-05
 Resort: Dhawa Ihuru
 Page type: villas

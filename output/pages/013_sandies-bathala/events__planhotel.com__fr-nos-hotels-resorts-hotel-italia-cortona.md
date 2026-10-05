@@ -1,7 +1,7 @@
 # Nos Hôtels & Resorts - Hôtel Italia Cortona Hotel  -  Planhotel Hospitality group dans l'Océan Indien
 
 Source: https://www.planhotel.com/fr/nos-hotels-resorts/hotel-italia-cortona/
-Scraped: 2026-10-04
+Scraped: 2026-10-05
 Resort: Sandies Bathala
 Page type: events
 

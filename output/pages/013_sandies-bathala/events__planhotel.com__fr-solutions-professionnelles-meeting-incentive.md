@@ -1,7 +1,7 @@
 # Solutions Professionnelles - Meeting & Incentive Hotel  -  Planhotel Hospitality group dans l'Océan Indien
 
 Source: https://www.planhotel.com/fr/solutions-professionnelles/meeting-incentive/
-Scraped: 2026-10-04
+Scraped: 2026-10-05
 Resort: Sandies Bathala
 Page type: events
 
@@ -47,9 +47,9 @@ Sandies Nungwi Beach
 The View
 Hotel Italia
 De
-4 octobre 2026
-À
 5 octobre 2026
+À
+6 octobre 2026
 Réservez
 Meeting & Incentive
 nos structures ne sont pas seulement d’excellentes destinations pour des vacances et des moments de détente

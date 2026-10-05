@@ -1,6 +1,6 @@
 # Luxury Hotel in Sathorn, Bangkok | Banyan Tree Bangkok
 
-Source: https://www.banyantree.com/thailand/bangkok
+Source: http://banyantree.com/thailand/bangkok
 Scraped: 2026-10-05
 Resort: Dhawa Ihuru
 Page type: other

@@ -1,6 +1,6 @@
 # Hotel Restaurants & Bars | Banyan Tree Hotels & Resorts
 
-Source: https://www.banyantree.com/dining
+Source: http://banyantree.com/dining
 Scraped: 2026-10-05
 Resort: Banyan Tree Maldives Vabbinfaru
 Page type: dining

@@ -1,7 +1,7 @@
 # SUSTAINABILITY - INVESTING IN OUR PEOPLE  Hotel - Planhotel Hospitality group  in the Indian Ocean
 
 Source: https://www.planhotel.com/sustainability/investing-in-our-people/
-Scraped: 2026-10-04
+Scraped: 2026-10-05
 Resort: Sandies Bathala
 Page type: events
 

@@ -1,6 +1,6 @@
 # Unique Hotel in Singapore | Mandai Rainforest Resort by Banyan Tree
 
-Source: https://www.banyantree.com/singapore/mandai-rainforest-resort-by-banyan-tree
+Source: http://banyantree.com/singapore/mandai-rainforest-resort-by-banyan-tree
 Scraped: 2026-10-05
 Resort: Banyan Tree Maldives Vabbinfaru
 Page type: overview

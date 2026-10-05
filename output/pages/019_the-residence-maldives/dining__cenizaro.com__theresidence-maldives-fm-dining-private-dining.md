@@ -1,7 +1,7 @@
 # Private Dining Maldives | The Residence Maldives
 
 Source: https://www.cenizaro.com/theresidence/maldives-fm/dining/private-dining
-Scraped: 2026-10-04
+Scraped: 2026-10-05
 Resort: The Residence Maldives
 Page type: dining
 

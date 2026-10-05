@@ -1,6 +1,6 @@
 # Acapulco Luxury Resort | Banyan Tree Cabo Marqués
 
-Source: https://www.banyantree.com/mexico/cabo-marques
+Source: http://banyantree.com/mexico/cabo-marques
 Scraped: 2026-10-05
 Resort: Banyan Tree Maldives Vabbinfaru
 Page type: overview

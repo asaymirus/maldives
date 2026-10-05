@@ -1,7 +1,7 @@
 # Events in Maldives l The Residence Maldives Dhigurah Events
 
 Source: https://www.cenizaro.com/theresidence/maldives-dg/events-meetings
-Scraped: 2026-10-04
+Scraped: 2026-10-05
 Resort: The Residence Maldives At Dhigurah
 Page type: events
 

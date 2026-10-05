@@ -1,6 +1,6 @@
 # Luxury Beach Resort Hue and Da Nang Vietnam | Banyan Tree Lang Co
 
-Source: https://www.banyantree.com/vietnam/lang-co
+Source: http://banyantree.com/vietnam/lang-co
 Scraped: 2026-10-05
 Resort: Dhawa Ihuru
 Page type: overview

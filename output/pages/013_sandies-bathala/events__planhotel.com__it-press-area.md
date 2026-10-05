@@ -1,7 +1,7 @@
 # Press Area Hotel   - Planhotel Hospitality group  nell' Oceano Indiano
 
 Source: https://www.planhotel.com/it/press-area/
-Scraped: 2026-10-04
+Scraped: 2026-10-05
 Resort: Sandies Bathala
 Page type: events
 
@@ -46,9 +46,9 @@ Sandies Nungwi Beach
 The View
 Hotel Italia
 Da
-4 Ottobre 2026
-Al
 5 Ottobre 2026
+Al
+6 Ottobre 2026
 Prenota ora
 AWARDS
 Switzerland’s Leading Design Hotel Award

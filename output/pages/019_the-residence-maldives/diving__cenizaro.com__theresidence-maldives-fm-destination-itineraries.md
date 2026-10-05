@@ -1,7 +1,7 @@
 # Sightseeing in Maldives | The Residence Maldives Itineraries
 
 Source: https://www.cenizaro.com/theresidence/maldives-fm/destination/itineraries
-Scraped: 2026-10-04
+Scraped: 2026-10-05
 Resort: The Residence Maldives
 Page type: diving
 

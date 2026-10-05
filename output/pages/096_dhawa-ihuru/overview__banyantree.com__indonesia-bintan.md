@@ -1,6 +1,6 @@
 # Luxury Golf & Private Beach Resort I Banyan Tree Bintan
 
-Source: https://www.banyantree.com/indonesia/bintan
+Source: http://banyantree.com/indonesia/bintan
 Scraped: 2026-10-05
 Resort: Dhawa Ihuru
 Page type: overview

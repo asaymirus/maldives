@@ -1,7 +1,7 @@
 # Maldives Villa with Pool | One Bedroom Water Pool Villa
 
 Source: https://www.cenizaro.com/theresidence/maldives-fm/accommodation/water-water-pool-villas
-Scraped: 2026-10-04
+Scraped: 2026-10-05
 Resort: The Residence Maldives
 Page type: diving
 

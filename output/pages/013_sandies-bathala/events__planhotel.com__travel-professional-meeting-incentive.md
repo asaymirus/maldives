@@ -1,7 +1,7 @@
 # Travel Professional - Meeting & Incentive  Hotel - Planhotel Hospitality group  in the Indian Ocean
 
 Source: https://www.planhotel.com/travel-professional/meeting-incentive/
-Scraped: 2026-10-04
+Scraped: 2026-10-05
 Resort: Sandies Bathala
 Page type: events
 

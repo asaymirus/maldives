@@ -924,3 +924,36 @@ openpyxl.utils.exceptions.IllegalCharacterError:  IN-ROOM DINING POUR COMMANDER,
 2026-10-05 00:59:44,594 INFO BLOCKED www.constancehotels.com (403)
 2026-10-05 00:59:51,666 INFO BLOCKED www.constancehotels.com (403)
 2026-10-05 00:59:51,902 INFO B group constance      blocked-partial pages=1 pdfs=0
+2026-10-05 01:02:05,103 INFO B group banyantree     ok         pages=120 pdfs=36
+2026-10-05 01:06:06,199 INFO B group cenizaro       ok         pages=120 pdfs=14
+2026-10-05 01:09:09,231 INFO B group jawakara       ok         pages=1 pdfs=0
+2026-10-05 01:09:15,927 INFO B group joali          unreachable pages=0 pdfs=0
+2026-10-05 01:09:49,153 INFO B group lilyhotels     ok         pages=4 pdfs=0
+2026-10-05 01:12:51,352 INFO B group planhotel      ok         pages=120 pdfs=0
+2026-10-05 01:18:30,307 INFO B group centara        ok         pages=120 pdfs=20
+2026-10-05 01:18:30,392 INFO queue: 433 candidates to process
+2026-10-05 01:18:36,688 INFO progress 25/433 {'rejected': 22, 'unmatched': 1, 'failed': 2}
+2026-10-05 01:18:49,479 INFO progress 50/433 {'rejected': 22, 'unmatched': 1, 'failed': 26, 'stored': 1}
+2026-10-05 01:19:06,987 INFO progress 75/433 {'rejected': 22, 'unmatched': 1, 'failed': 51, 'stored': 1}
+2026-10-05 01:19:23,785 INFO progress 100/433 {'rejected': 22, 'unmatched': 1, 'failed': 75, 'stored': 2}
+2026-10-05 01:19:38,430 INFO progress 125/433 {'rejected': 22, 'unmatched': 1, 'failed': 98, 'stored': 2, 'duplicate': 2}
+2026-10-05 01:19:51,135 INFO progress 150/433 {'rejected': 22, 'unmatched': 1, 'failed': 104, 'stored': 16, 'duplicate': 7}
+2026-10-05 01:19:52,618 ERROR candidate failed https://wp-jawakara.eleanorapp.com/download/JAWA_Easter_2026_Final.pdf
+Traceback (most recent call last):
+  File "/home/user/maldives/lib.py", line 663, in run_queue
+    res = fut.result()
+          ^^^^^^^^^^^^
+  File "/usr/lib/python3.11/concurrent/futures/_base.py", line 449, in result
+    return self.__get_result()
+           ^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.11/concurrent/futures/_base.py", line 401, in __get_result
+    raise self._exception
+  File "/usr/lib/python3.11/concurrent/futures/thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/user/maldives/lib.py", line 598, in process_candidate
+    os.replace(cache, dest)
+FileNotFoundError: [Errno 2] No such file or directory: '/home/user/maldives/state/pdfcache/d0cfefac4af69f9e0e5ebd856810a44a93bad97f21d895b896163337d5f0043e.pdf' -> '/home/user/maldives/library/029_dheruhfinolhu-by-jawakara-islands-maldives/calendar/2026_d0cfefac_JAWA_Easter_2026_Final.pdf'
+2026-10-05 01:20:03,300 INFO progress 175/433 {'rejected': 22, 'unmatched': 1, 'failed': 123, 'stored': 21, 'duplicate': 7, 'error FileNotFoundError': 1}
+2026-10-05 01:20:19,458 INFO progress 200/433 {'rejected': 23, 'unmatched': 3, 'failed': 138, 'stored': 28, 'duplicate': 7, 'error FileNotFoundError': 1}
+2026-10-05 01:20:34,958 INFO progress 225/433 {'rejected': 23, 'unmatched': 6, 'failed': 141, 'stored': 47, 'duplicate': 7, 'error FileNotFoundError': 1}

@@ -1,7 +1,7 @@
 # Media Centre  Hotel - Planhotel Hospitality group  in the Indian Ocean
 
 Source: https://www.planhotel.com/media-centre/
-Scraped: 2026-10-04
+Scraped: 2026-10-05
 Resort: Sandies Bathala
 Page type: events
 
@@ -47,9 +47,9 @@ Sandies Nungwi Beach
 The View Lugano
 Hotel Italia Cortona
 From
-4 October 2026
-To
 5 October 2026
+To
+6 October 2026
 Book now
 Media Centre
 This section contains images, logos, services and facilities information. To enable you to enter this area you are required to have a User Name and Password. Please contact us at

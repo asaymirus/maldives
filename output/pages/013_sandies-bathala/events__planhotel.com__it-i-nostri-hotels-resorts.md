@@ -1,7 +1,7 @@
 # I Nostri Hotels & Resorts Hotel   - Planhotel Hospitality group  nell' Oceano Indiano
 
 Source: https://www.planhotel.com/it/i-nostri-hotels-resorts/
-Scraped: 2026-10-04
+Scraped: 2026-10-05
 Resort: Sandies Bathala
 Page type: events
 

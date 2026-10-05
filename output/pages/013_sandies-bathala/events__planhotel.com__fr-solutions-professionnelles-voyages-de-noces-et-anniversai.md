@@ -1,7 +1,7 @@
 # Voyages de noces et anniversaires - Sandies Tropical Village Hotel  -  Planhotel Hospitality group dans l'Océan Indien
 
 Source: https://www.planhotel.com/fr/solutions-professionnelles/voyages-de-noces-et-anniversaires/sandies-tropical-village/
-Scraped: 2026-10-04
+Scraped: 2026-10-05
 Resort: Sandies Bathala
 Page type: events
 

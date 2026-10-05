@@ -1,7 +1,7 @@
 # Privacy  Hotel - Planhotel Hospitality group  in the Indian Ocean
 
 Source: https://www.planhotel.com/privacy/
-Scraped: 2026-10-04
+Scraped: 2026-10-05
 Resort: Sandies Bathala
 Page type: events
 
@@ -47,9 +47,9 @@ Sandies Nungwi Beach
 The View Lugano
 Hotel Italia Cortona
 From
-4 October 2026
-To
 5 October 2026
+To
+6 October 2026
 Book now
 Privacy
 Information on Art. 13 of the Italian law. n. 196/2003 and on Art. 13 of

@@ -1,6 +1,6 @@
 # Best Price Guarantee - Banyan Tree Hotels and Resorts
 
-Source: https://www.banyantree.com/best-price-guarantee
+Source: http://banyantree.com/best-price-guarantee
 Scraped: 2026-10-05
 Resort: Dhawa Ihuru
 Page type: overview

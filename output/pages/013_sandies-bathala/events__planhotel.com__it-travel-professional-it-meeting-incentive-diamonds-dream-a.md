@@ -1,7 +1,7 @@
 # Meeting & Incentive - Diamonds Dream of Africa Hotel  - Planhotel Hospitality group  nell' Oceano Indiano
 
 Source: https://www.planhotel.com/it/travel-professional-it/meeting-incentive/diamonds-dream-africa/
-Scraped: 2026-10-04
+Scraped: 2026-10-05
 Resort: Sandies Bathala
 Page type: events
 

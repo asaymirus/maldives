@@ -1,6 +1,6 @@
 # Luxury Hotel In Higashiyama, Kyoto | Banyan Tree Higashiyama Kyoto
 
-Source: https://www.banyantree.com/japan/kyoto
+Source: http://banyantree.com/japan/kyoto
 Scraped: 2026-10-05
 Resort: Dhawa Ihuru
 Page type: other

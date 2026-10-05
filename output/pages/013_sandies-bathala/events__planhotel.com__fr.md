@@ -1,7 +1,7 @@
 # Planhotel Hospitality group - Réserver un resort exclusive de luxe dans l'Océan Indien
 
 Source: https://www.planhotel.com/fr
-Scraped: 2026-10-04
+Scraped: 2026-10-05
 Resort: Sandies Bathala
 Page type: events
 

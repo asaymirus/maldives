@@ -1,6 +1,6 @@
 # 반얀트리: 럭셔리 및 지속 가능한 호텔 및 리조트
 
-Source: https://www.banyantree.com/ko
+Source: http://banyantree.com/ko
 Scraped: 2026-10-05
 Resort: Banyan Tree Maldives Vabbinfaru
 Page type: other

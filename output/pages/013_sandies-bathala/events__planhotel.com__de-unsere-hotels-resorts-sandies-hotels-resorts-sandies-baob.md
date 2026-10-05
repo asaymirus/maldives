@@ -1,7 +1,7 @@
 # Sandies Hotels and Resorts - Sandies Baobab Beach Zanzibar Hotel -  Planhotel Hospitality group der Indischen Ozean
 
 Source: https://www.planhotel.com/de/unsere-hotels-resorts/sandies-hotels-resorts/sandies-baobab-zanzibar/
-Scraped: 2026-10-04
+Scraped: 2026-10-05
 Resort: Sandies Bathala
 Page type: events
 

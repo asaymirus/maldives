@@ -1,13 +1,13 @@
-# Diamonds Hotels and Resorts - DIAMONDS MALINDI Hotel  - Planhotel Hospitality group  nell' Oceano Indiano
+# Diamonds Hotels and Resorts - DIAMONDS THUDUFUSHI Hotel  - Planhotel Hospitality group  nell' Oceano Indiano
 
-Source: https://www.planhotel.com/it/i-nostri-hotels-resorts/diamonds-hotels-and-resorts/diamonds-malindi/
-Scraped: 2026-10-04
+Source: https://www.planhotel.com/it/i-nostri-hotels-resorts/diamonds-hotels-and-resorts/diamonds-thudufushi/
+Scraped: 2026-10-05
 Resort: Sandies Bathala
 Page type: events
 
 ---
 
-Diamonds Hotels and Resorts - DIAMONDS MALINDI Hotel
+Diamonds Hotels and Resorts - DIAMONDS THUDUFUSHI Hotel
 Planhotel Hospitality group
 I Nostri Hotels & Resorts
 Italiano
@@ -30,8 +30,8 @@ Sandies Nungwi Beach
 The View
 Hotel Italia
 Please select a hotel to begin your booking
-DIAMONDS MALINDI
-KENYA
+DIAMONDS THUDUFUSHI
+MALDIVE
 Vedi immagine
 Vedi immagine
 Vedi immagine
@@ -49,9 +49,9 @@ DIAMONDS MAPENZI BEACH
 Più info
 DIAMONDS ATHURUGA
 Più info
-DIAMONDS THUDUFUSHI
-Più info
 DIAMONDS LEISURE BEACH & GOLF RESORT
+Più info
+DIAMONDS MALINDI
 Più info
 SUPERIOR IN STYLE, EXCELLENCE IN VALUE
 FAMILY, FRIENDS

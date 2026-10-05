@@ -1,7 +1,7 @@
 # Maldives Luxury Beachfront Villa Resort | Banyan Tree Vabbinfaru
 
-Source: https://www.banyantree.com/maldives/vabbinfaru
-Scraped: 2026-10-04
+Source: http://banyantree.com/maldives/vabbinfaru
+Scraped: 2026-10-05
 Resort: Banyan Tree Maldives Vabbinfaru
 Page type: diving
 
