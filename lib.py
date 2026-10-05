@@ -257,6 +257,7 @@ def clean_page_text(html):
 
 
 PAGE_TYPES = [
+    ("destination_dining", r"destination-?dining|private-?dining|romantic-?(dinner|dining)|sandbank|sand-bank|dining-?experience|beach-?dinner|dinner|picnic|castaway|special-?occasion|celebration-?dinner"),
     ("wedding", r"wedd|celebrat|romance|vow|honeymoon|renewal|marry"),
     ("events", r"event|meeting|mice|incentive|conference|group"),
     ("dining", r"dining|restaurant|menu|bar|culinar|gastronom|food|cuisine|eat"),
@@ -388,6 +389,7 @@ def parse_pdf_date(s):
 # doc type patterns, checked IN ORDER
 DOC_TYPE_RULES = [
     ("obsolete", r"covid|corona|sars-cov|health.?protocol|safety.?guideline|hygiene.?protocol|new.?normal|quarantine"),
+    ("destination_dining", r"destination.?dining|(romantic|honeymoon|anniversary|private|beach|sand.?bank|candle.?li[tg]ht|star.?li[tg]ht|sunset|lagoon|jetty|treetop|underwater|floating|castaway|secluded|intimate|celebration|special.?occasion)\W{0,3}(dinner|dining|breakfast|lunch|picnic|bbq|barbecue|dine|brunch|high.?tea)|dine.?(under|beneath).?the.?stars|dinner.?(on|at|under).?the.?(beach|sandbank|sand.?bank|stars|jetty)|sand.?bank.?(experience|event|celebration|escape|trip|party|picnic|dinner|lunch|breakfast)|private.?(chef|barbecue|bbq)|in.?villa.?(dinner|bbq|barbecue)|dining.?experience|celebrat\w*.?(dinner|dining|package)|dinner.?package"),
     ("wedding", r"wedd|ceremon|vow|renewal.?of|honeymoon|romance|romantic|proposal|elope|bride|marry|marriage|celebration.?of.?love"),
     ("events", r"\bmice\b|meeting|incentive|conference|corporate|group.?event|events?.?(brochure|kit|guide|factsheet)|team.?building|buyout"),
     ("dive_map", r"\b(snorkel\w*|dive|diving|reef|house.?reef)\b.{0,15}\b(map|sites?|chart)\b|\bdive.?sites?\b"),
@@ -429,9 +431,11 @@ def classify_doc(filename, title, text):
             hits.append((dt, n))
     if hits:
         top = max(n for _, n in hits)
-        for dt, n in hits:
-            if n >= max(2, top * 0.5):
-                return dt, "text"
+        if top >= 2:
+            # most frequent type wins; the rule order only breaks ties
+            for dt, n in hits:
+                if n == top:
+                    return dt, "text"
     return "other", "none"
 
 

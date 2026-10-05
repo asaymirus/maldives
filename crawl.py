@@ -13,7 +13,7 @@ PAGE_KEYS = re.compile(r"wedd|celebrat|romance|vow|honeymoon|event|meeting|mice|
                        r"children|villa|accommodation|room|suite|residence|factsheet|fact-sheet|download|brochure|media|press|"
                        r"gallery|offer|package|transfer|location|getting|about|overview|resort|island|sustainab|marine|"
                        r"conservation|wellbeing|retreat|yoga|fitness|surf|fishing|cruise|discover|explore|guide|map|plan|"
-                       r"festive|calendar|programme|program|what|news|blog|faq|info", re.I)
+                       r"festive|calendar|programme|program|what|news|blog|faq|info|romantic|romance|honeymoon|anniversary|sandbank|sand-bank|private-dining|destination-dining|celebrat|occasion|picnic|castaway|dinner", re.I)
 SKIP_EXT = re.compile(r"\.(jpe?g|png|gif|webp|svg|css|js|ico|mp4|mov|woff2?|ttf|zip|xml|json|avif)(\?|$)", re.I)
 SKIP_PATH = re.compile(r"/(wp-json|wp-admin|wp-login|feed|tag|author|cart|checkout|account|login|signin|booking|book-now|"
                        r"reservations?/|search|lang=|/fr/|/de/|/it/|/es/|/ru/|/zh/|/ja/|/ko/|/ar/|/pt/|/nl/|/pl/|/cs/|/tr/|/zh-)", re.I)

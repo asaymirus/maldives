@@ -208,6 +208,15 @@ def extract_from_text(pk, text, url, as_of, kind):
         pk.add("weddings.packages", {"name": m.group(1).strip(), "price": m.group(3).replace(",", ""), "currency": "USD" if "$" in m.group(2) or "USD" in m.group(2) else "EUR", "as_of": as_of}, url, as_of)
     for m in re.finditer(r"(US\$|USD|\$|EUR|€)\s?([\d,]{3,7})\D{0,60}?(wedding|ceremony|vow)", tn, re.I):
         pk.add("weddings.packages", {"name": m.group(3).title(), "price": m.group(2).replace(",", ""), "currency": "USD" if "$" in m.group(1) or "USD" in m.group(1).upper() else "EUR", "as_of": as_of}, url, as_of)
+    # destination dining (romantic / honeymoon / anniversary / beach / sandbank dinners, sandbank events)
+    DD_RX = r"(destination dining|private dining|romantic (?:beach |candle ?lit |sunset |private )?(?:dinner|dining)|honeymoon dinner|anniversary (?:dinner|celebration)|beach (?:dinner|bbq|barbecue)|sand ?bank (?:dinner|lunch|breakfast|picnic|escape|experience|event|celebration|party|trip)|candle ?lit dinner|dine under the stars|dinner under the stars|floating breakfast|private chef|in[- ]villa (?:dinner|bbq|barbecue|dining)|castaway (?:picnic|lunch|dinner)|lagoon (?:dinner|lunch)|jetty dinner|treetop dining|underwater (?:dining|restaurant)|chef'?s table|wine (?:pairing|dinner)|teppanyaki dinner|lobster dinner|sunset (?:cruise|dinner))"
+    for m in re.finditer(DD_RX, tn, re.I):
+        pk.add("destination_dining.experiences", m.group(1).lower().replace("  ", " "), url, as_of)
+    for m in re.finditer(r"([A-Z][\w' ]{3,50}?(?:Dinner|Dining|Picnic|Breakfast|Barbecue|BBQ|Escape|Experience))\D{0,60}?(US\$|USD|\$|EUR|€)\s?([\d,]{2,7})", tn):
+        if re.search(r"romantic|honeymoon|anniversary|beach|sand ?bank|private|destination|candle|star|sunset|lagoon|castaway|floating|jetty", m.group(1), re.I):
+            pk.add("destination_dining.packages", {"name": m.group(1).strip(), "price": m.group(3).replace(",", ""), "currency": "USD" if "$" in m.group(2) or "USD" in m.group(2).upper() else "EUR", "as_of": as_of}, url, as_of)
+    if re.search(r"sand ?bank", tn, re.I) and re.search(r"sand ?bank\W{0,20}(event|celebration|party|wedding|dinner|lunch|picnic|breakfast|experience|escape|trip|excursion)", tn, re.I):
+        pk.add("destination_dining.sandbank_events", True, url, as_of)
     # events / MICE
     m = re.search(r"(?:up\s*to|maximum|max\.?|capacity\s*(?:of|for)?)\s*(\d{2,4})\s*(?:guests|people|persons|pax|delegates|attendees)", tn, re.I)
     if m and re.search(r"meeting|conference|event|mice|incentive|banquet", tn, re.I):
@@ -267,7 +276,7 @@ def build_pack(r, docs, sites):
             if d["is_latest"] or (d["edition_year"] or 0) >= (latest.get(d["doc_type"], {}).get("edition_year") or 0):
                 latest[d["doc_type"]] = d
     # documents first (factsheet, then others), then pages
-    for dt in ("factsheet", "brochure", "wedding", "events", "spa_menu", "dining_menu", "dive_prices", "excursions", "kids", "villa_plans", "all_inclusive", "sustainability", "map"):
+    for dt in ("factsheet", "brochure", "wedding", "events", "destination_dining", "spa_menu", "dining_menu", "dive_prices", "excursions", "kids", "villa_plans", "all_inclusive", "sustainability", "map"):
         d = latest.get(dt)
         if not d:
             continue
@@ -301,13 +310,15 @@ def build_pack(r, docs, sites):
         "wellness_fitness": pick_list(pk, "wellness_fitness"),
         "weddings": {"offered": pick(pk, "weddings.offered"), "vow_renewal": pick(pk, "weddings.vow_renewal"), "venues": pick_list(pk, "weddings.venues", 12),
                      "packages": pick_list(pk, "weddings.packages", 12), "brochure_doc": latest.get("wedding", {}).get("url")},
+        "destination_dining": {"experiences": pick_list(pk, "destination_dining.experiences", 25), "packages": pick_list(pk, "destination_dining.packages", 15),
+                               "sandbank_events": pick(pk, "destination_dining.sandbank_events"), "doc": latest.get("destination_dining", {}).get("url")},
         "events_mice": {"venues": pick_list(pk, "events_mice.venues", 12), "capacity_max": pick(pk, "events_mice.capacity_max"),
                         "buyout": pick(pk, "events_mice.buyout"), "doc": latest.get("events", {}).get("url")},
         "sustainability": pick_list(pk, "sustainability"),
         "contacts_public": {"reservations_email": pick(pk, "contacts_public.reservations_email"), "weddings_email": pick(pk, "contacts_public.weddings_email"),
                             "phone": pick(pk, "contacts_public.phone")},
         "documents_latest": {k: (latest.get(t, {}).get("url")) for k, t in (("factsheet", "factsheet"), ("map", "map"), ("wedding", "wedding"), ("spa_menu", "spa_menu"),
-                                                                           ("dining_menu", "dining_menu"), ("dive_prices", "dive_prices"), ("events", "events"), ("calendar", "calendar"))},
+                                                                           ("dining_menu", "dining_menu"), ("dive_prices", "dive_prices"), ("events", "events"), ("calendar", "calendar"), ("destination_dining", "destination_dining"))},
         "documents_count": len(mine),
         "gaps": [], "sources": {k: v for k, v in pk.sources.items()}, "last_updated": lib.TODAY,
     }
@@ -333,6 +344,8 @@ def build_pack(r, docs, sites):
         gaps.append("wedding brochure")
     if not latest.get("events"):
         gaps.append("events/MICE document")
+    if not latest.get("destination_dining") and not pack["destination_dining"]["experiences"]:
+        gaps.append("destination dining (romantic/sandbank dinners)")
     for f, v in (("villas.total", pack["villas"]["total"]), ("villa categories", pack["villas"]["categories"]), ("dining", pack["dining"]),
                  ("transfer", pack["transfer"]["modes"]), ("atoll", pack["atoll"]), ("spa", pack["spa"]["name"]), ("dive operator", pack["diving_watersports"]["operator"]),
                  ("kids club", pack["kids_family"]["kids_club"]), ("weddings", pack["weddings"]["offered"]), ("contacts", pack["contacts_public"]["reservations_email"])):
@@ -347,7 +360,7 @@ def build_pack(r, docs, sites):
 def validate(pack):
     """Light schema validation (types / required keys)."""
     req = ["resort_id", "name", "aliases", "transfer", "villas", "dining", "meal_plans", "spa", "diving_watersports", "excursions", "kids_family",
-           "wellness_fitness", "weddings", "events_mice", "sustainability", "contacts_public", "documents_latest", "gaps", "last_updated"]
+           "wellness_fitness", "weddings", "destination_dining", "events_mice", "sustainability", "contacts_public", "documents_latest", "gaps", "last_updated"]
     for k in req:
         assert k in pack, k
     assert isinstance(pack["resort_id"], int)
@@ -381,7 +394,10 @@ def to_md(p):
           f"- Kids club: {p['kids_family']['kids_club'] or 'n/a'}; ages: {p['kids_family']['age_range'] or 'n/a'}; teens: {p['kids_family']['teens'] or 'n/a'}", "",
           "## Weddings", "", f"- Offered: {p['weddings']['offered']}; vow renewal: {p['weddings']['vow_renewal']}", f"- Venues: {'; '.join(p['weddings']['venues']) or 'n/a'}",
           "- Packages: " + ("; ".join("%s %s %s (%s)" % (x["name"], x["currency"], x["price"], x["as_of"]) for x in p["weddings"]["packages"]) or "n/a"),
-          f"- Brochure: {p['weddings']['brochure_doc'] or 'none'}", "", "## Events / MICE", "",
+          f"- Brochure: {p['weddings']['brochure_doc'] or 'none'}", "", "## Destination dining", "",
+          f"- Experiences: {', '.join(p['destination_dining']['experiences']) or 'n/a'}",
+          "- Packages: " + ("; ".join("%s %s %s (%s)" % (x["name"], x["currency"], x["price"], x["as_of"]) for x in p["destination_dining"]["packages"]) or "n/a"),
+          f"- Sandbank events: {p['destination_dining']['sandbank_events']}; document: {p['destination_dining']['doc'] or 'none'}", "", "## Events / MICE", "",
           f"- Venues: {'; '.join(p['events_mice']['venues']) or 'n/a'}; capacity max: {p['events_mice']['capacity_max'] or 'n/a'}; buyout: {p['events_mice']['buyout']}",
           f"- Document: {p['events_mice']['doc'] or 'none'}", "", "## Sustainability", "", f"- {', '.join(p['sustainability']) or 'n/a'}", "", "## Public contacts", "",
           f"- Reservations: {p['contacts_public']['reservations_email'] or 'n/a'}; weddings: {p['contacts_public']['weddings_email'] or 'n/a'}; phone: {p['contacts_public']['phone'] or 'n/a'}",
@@ -408,7 +424,7 @@ def main():
                      "island_size": p["island_size"], "villas_total": p["villas"]["total"], "villa_categories": len(p["villas"]["categories"]), "restaurants_bars": len(p["dining"]),
                      "meal_plans": ", ".join(p["meal_plans"]), "spa": p["spa"]["name"], "dive_operator": p["diving_watersports"]["operator"], "kids_club": p["kids_family"]["kids_club"],
                      "weddings": p["weddings"]["offered"], "vow_renewal": p["weddings"]["vow_renewal"], "wedding_packages": len(p["weddings"]["packages"]),
-                     "mice_capacity": p["events_mice"]["capacity_max"], "buyout": p["events_mice"]["buyout"], "reservations_email": p["contacts_public"]["reservations_email"],
+                     "destination_dining": "; ".join(p["destination_dining"]["experiences"]), "dd_packages": len(p["destination_dining"]["packages"]), "sandbank_events": p["destination_dining"]["sandbank_events"], "dd_doc": p["destination_dining"]["doc"], "mice_capacity": p["events_mice"]["capacity_max"], "buyout": p["events_mice"]["buyout"], "reservations_email": p["contacts_public"]["reservations_email"],
                      "weddings_email": p["contacts_public"]["weddings_email"], "phone": p["contacts_public"]["phone"], "factsheet": p["documents_latest"]["factsheet"],
                      "wedding_doc": p["documents_latest"]["wedding"], "events_doc": p["documents_latest"]["events"], "docs": p["documents_count"], "gaps": "; ".join(p["gaps"])})
         print(f"F {r['resort_id']:3d} {r['name'][:38]:38s} docs={p['documents_count']:3d} villas={p['villas']['total']} dining={len(p['dining'])} gaps={len(p['gaps'])}")

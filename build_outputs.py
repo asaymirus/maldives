@@ -8,7 +8,7 @@ from openpyxl import Workbook
 from openpyxl.styles import Font, PatternFill, Alignment
 from openpyxl.utils import get_column_letter
 
-DOC_TYPES = ["factsheet", "wedding", "events", "map", "dive_map", "spa_menu", "dining_menu", "dive_prices", "excursions",
+DOC_TYPES = ["factsheet", "wedding", "events", "destination_dining", "map", "dive_map", "spa_menu", "dining_menu", "dive_prices", "excursions",
              "kids", "villa_plans", "all_inclusive", "sustainability", "calendar", "brochure", "press_kit", "other", "obsolete"]
 DOC_FIELDS = ["resort_id", "resort_name", "doc_type", "file_name", "edition_year", "valid_from", "valid_to", "pages", "size_kb",
               "text_layer", "source", "source_type", "url", "all_urls", "sha256", "local_path", "r2_key", "status", "is_latest",
