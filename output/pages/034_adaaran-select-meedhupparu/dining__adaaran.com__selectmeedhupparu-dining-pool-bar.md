@@ -1,7 +1,7 @@
 # Maldives Beach Bar | Adaaran Select Meedhupparu | Pool Bar
 
 Source: https://www.adaaran.com/selectmeedhupparu/dining/pool-bar/
-Scraped: 2026-10-04
+Scraped: 2026-10-05
 Resort: Adaaran Select Meedhupparu
 Page type: dining
 

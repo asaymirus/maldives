@@ -1,7 +1,7 @@
 # Maldives Things to do | Excursions at Adaaran Select Hudhuranfushi
 
 Source: https://www.adaaran.com/selecthudhuranfushi/experiences/excursions/
-Scraped: 2026-10-04
+Scraped: 2026-10-05
 Resort: Adaaran Select Hudhuranfushi
 Page type: diving
 

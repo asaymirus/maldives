@@ -1,7 +1,7 @@
 # Maldives Luxury Villas | Deluxe Beach Villa at Adaaran Select Hudhuranfushi
 
 Source: https://www.adaaran.com/selecthudhuranfushi/villas/deluxe-beach-villa/
-Scraped: 2026-10-04
+Scraped: 2026-10-05
 Resort: Adaaran Select Hudhuranfushi
 Page type: diving
 

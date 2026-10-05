@@ -1,7 +1,7 @@
 # Maldives Resort Island | Location | Adaaran Select Meedhupparu
 
 Source: https://www.adaaran.com/selectmeedhupparu/location/
-Scraped: 2026-10-04
+Scraped: 2026-10-05
 Resort: Adaaran Select Meedhupparu
 Page type: diving
 

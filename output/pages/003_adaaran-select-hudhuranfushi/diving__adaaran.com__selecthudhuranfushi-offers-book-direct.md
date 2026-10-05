@@ -1,7 +1,7 @@
 # Maldives Resort Deals | Adaaran Hudhuranfushi | Book Direct
 
 Source: https://www.adaaran.com/selecthudhuranfushi/offers/book-direct/
-Scraped: 2026-10-04
+Scraped: 2026-10-05
 Resort: Adaaran Select Hudhuranfushi
 Page type: diving
 

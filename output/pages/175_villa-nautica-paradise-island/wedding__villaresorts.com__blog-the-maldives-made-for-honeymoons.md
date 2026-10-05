@@ -1,7 +1,7 @@
 # The Maldives, made for honeymoons | Villa Resorts
 
 Source: https://villaresorts.com/blog/the-maldives-made-for-honeymoons/
-Scraped: 2026-10-04
+Scraped: 2026-10-05
 Resort: Villa Nautica Paradise Island
 Page type: wedding
 

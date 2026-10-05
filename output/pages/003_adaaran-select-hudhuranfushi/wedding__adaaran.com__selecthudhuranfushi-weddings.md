@@ -1,7 +1,7 @@
 # Maldives Wedding Resorts | Renew your vows at Adaaran Select Hudhuranfushi
 
 Source: https://www.adaaran.com/selecthudhuranfushi/weddings/
-Scraped: 2026-10-04
+Scraped: 2026-10-05
 Resort: Adaaran Select Hudhuranfushi
 Page type: wedding
 

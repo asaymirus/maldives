@@ -1,0 +1,71 @@
+# 1 Bedroom Crusoe with Pool | Soneva Fushi | Baa Atoll, Maldives
+
+Source: https://soneva.com/villa/soneva-fushi-1-bedroom-crusoe-with-pool/
+Scraped: 2026-10-05
+Resort: Soneva Secret
+Page type: diving
+
+---
+
+Sleeps 3 Adults (2 Adults 2 Child) • Beach Villa • 145 m2
+1 Bedroom Crusoe with Pool
+Tucked among palms near the beach, this Crusoe villa blends castaway charm with open living. A private pool and outdoor deck invite slow mornings and barefoot afternoons beneath island skies.
+Bedroom
+King Bed
+Feature
+Outdoor Dining Area
+Feature
+Open-air Garden Bathroom
+Check availability
+1 Bedroom Crusoe with Pool
+Perch over your private pool, sheltered in the trees, with peaceful views across to the neighbouring island of Eydhafushi. The clear Maldivian ocean awaits only steps away, inviting you to explore its underwater wonders. Relax amidst the playfully rustic-chic rooms and terraces, and surrender to the castaway spirit.
+Download Floor Plan
+Download Resort Map
+A Barefoot Butler for personalised service
+Children stay and dine for free
+24/7 access to unlimited chocolates, ice creams and gourmet delicacies
+Access to our award winning kids club, The Den
+Complimentary wellbeing experiences
+Bicycles & tricycles
+Soneva Fushi
+Sleeps 9 Adults (6 Adults 3 Child)  •  3 Bedrooms  •  1,032 m
+2
+3 Bedroom Residence (Villa 32)
+Designed to embrace its natural surroundings, this three Bedroom Residence is set on the sunrise side and integrates its natural surroundings with refined, contemporary design.
+Soneva Fushi
+Sleeps 12 Adults (10 Adults 5 Child)  •  5 Bedrooms  •  1,430 m
+2
+5 Bedroom Estate (Villa 31)
+Hidden in expansive island gardens, this five-bedroom residence is designed for gathering. A private pool and open living spaces create relaxed days shaped by sun and sand.
+Soneva Fushi
+Sleeps 8 Adults (6 Adults 2 Child)  •  3 Bedrooms  •  721 m
+2
+3 Bedroom Beach Villa with Pool (Villa 68)
+Set within quiet island gardens, this spacious villa feels secluded and serene. A private pool and generous outdoor areas invite unhurried days surrounded by sand and shade.
+Soneva Fushi
+Sleeps 9 Adults (6 Adults 3 Child)  •  3 Bedrooms  •  565 m
+2
+3 Bedroom Beach Villa with Pool (Villa 9)
+Tucked among lush palms steps from the sand, this tranquil villa offers space to unwind. A private pool and open-air living create a gentle rhythm guided by sea and breeze.
+Soneva Fushi
+Sleeps 5 Adults (4 Adults 2 Child)  •  2 Bedrooms  •  365 m
+2
+2 Bedroom Crusoe Residence with Pool (Villa 45)
+Set close to powder-soft sand, this two-bedroom residence offers privacy and comfort. A private pool, shaded terraces and generous living spaces shape easy island days.
+Soneva Fushi
+Sleeps 5 Adults (4 Adults 2 Child)  •  2 Bedrooms  •  486 m
+2
+2 Bedroom Crusoe Residence with Pool (Villa 70)
+Nestled in tropical foliage near the shoreline, this two-bedroom residence feels calm and secluded. A private pool and expansive decks create space to gather beneath wide island skies.
+Soneva Fushi
+Sleeps 9 Adults (6 Adults 3 Child)  •  3 Bedrooms  •  728 m
+2
+3 Bedroom Residence (Villa 71)
+Set on the sunset side, this three Bedroom Residence is designed for effortless island living, where contemporary elegance meets the surrounding natural beauty.
+Soneva Fushi
+Sleeps 5 Adults (4 Adults 3 Child)  •  2 Bedrooms  •  521 m
+2
+2 Bedroom Crusoe Residence with Pool (Villa 44)
+Tucked within lush gardens steps from the beach, this two-bedroom residence balances space and seclusion. A private pool and open living areas invite relaxed days together at nature’s pace.
+View all villas
+Just What Matters.

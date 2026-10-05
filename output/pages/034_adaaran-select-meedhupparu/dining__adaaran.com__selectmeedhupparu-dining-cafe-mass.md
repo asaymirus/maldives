@@ -1,7 +1,7 @@
 # Cafes in Maldives | Adaaran Select Meedhupparu  | Café Mass
 
 Source: https://www.adaaran.com/selectmeedhupparu/dining/cafe-mass/
-Scraped: 2026-10-04
+Scraped: 2026-10-05
 Resort: Adaaran Select Meedhupparu
 Page type: dining
 

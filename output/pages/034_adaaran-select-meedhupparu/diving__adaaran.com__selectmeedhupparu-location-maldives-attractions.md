@@ -1,7 +1,7 @@
 # Maldives Sightseeing | Maldives Attractions | Adaaran Meedhupparu
 
 Source: https://www.adaaran.com/selectmeedhupparu/location/maldives-attractions/
-Scraped: 2026-10-04
+Scraped: 2026-10-05
 Resort: Adaaran Select Meedhupparu
 Page type: diving
 

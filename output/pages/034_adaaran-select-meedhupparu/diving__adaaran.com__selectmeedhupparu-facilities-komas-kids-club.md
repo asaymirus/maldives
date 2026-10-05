@@ -1,7 +1,7 @@
 # Family Holiday Maldives | Komas Kids Club | Adaaran Meedhupparu
 
 Source: https://www.adaaran.com/selectmeedhupparu/facilities/komas-kids-club/
-Scraped: 2026-10-04
+Scraped: 2026-10-05
 Resort: Adaaran Select Meedhupparu
 Page type: diving
 

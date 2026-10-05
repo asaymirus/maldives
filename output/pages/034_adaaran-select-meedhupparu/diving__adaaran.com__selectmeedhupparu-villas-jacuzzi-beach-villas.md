@@ -1,7 +1,7 @@
 # Beach Villas in Maldives | Jacuzzi Villas | Adaaran Meedhupparu
 
 Source: https://www.adaaran.com/selectmeedhupparu/villas/jacuzzi-beach-villas/
-Scraped: 2026-10-04
+Scraped: 2026-10-05
 Resort: Adaaran Select Meedhupparu
 Page type: diving
 

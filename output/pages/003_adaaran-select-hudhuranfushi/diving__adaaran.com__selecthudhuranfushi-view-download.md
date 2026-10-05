@@ -1,7 +1,7 @@
 # Maldives Resorts | Adaaran All Inclusive Resorts Official Site
 
 Source: https://www.adaaran.com/selecthudhuranfushi/view-download/?id=menu-12
-Scraped: 2026-10-04
+Scraped: 2026-10-05
 Resort: Adaaran Select Hudhuranfushi
 Page type: diving
 

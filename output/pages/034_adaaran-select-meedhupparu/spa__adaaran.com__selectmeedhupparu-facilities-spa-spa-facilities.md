@@ -1,7 +1,7 @@
 # Maldives Spa Resort | Spa Facilities | Adaaran Select Meedhupparu
 
 Source: https://www.adaaran.com/selectmeedhupparu/facilities/spa/spa-facilities/
-Scraped: 2026-10-04
+Scraped: 2026-10-05
 Resort: Adaaran Select Meedhupparu
 Page type: spa
 

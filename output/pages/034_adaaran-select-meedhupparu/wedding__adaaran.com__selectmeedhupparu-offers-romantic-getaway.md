@@ -1,7 +1,7 @@
 # Honeymoon Offers Maldives | Adaaran Meedhupparu | Romantic Gateway
 
 Source: https://www.adaaran.com/selectmeedhupparu/offers/romantic-getaway/
-Scraped: 2026-10-04
+Scraped: 2026-10-05
 Resort: Adaaran Select Meedhupparu
 Page type: wedding
 

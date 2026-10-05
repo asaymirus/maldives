@@ -1,7 +1,7 @@
 # Bars in Maldives | Tiki Bar at Adaaran Select Hudhuranfushi
 
 Source: https://www.adaaran.com/selecthudhuranfushi/dining/tiki-bar/
-Scraped: 2026-10-04
+Scraped: 2026-10-05
 Resort: Adaaran Select Hudhuranfushi
 Page type: dining
 

@@ -1,7 +1,7 @@
 # Meetings and Conferences | Villa Park Resort Maldives
 
 Source: https://villaresorts.com/villa-park/occasions/meetings-and-conferences/
-Scraped: 2026-10-04
+Scraped: 2026-10-05
 Resort: Villa Park Sun Island
 Page type: events
 

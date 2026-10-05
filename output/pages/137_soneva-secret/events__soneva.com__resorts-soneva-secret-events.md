@@ -1,7 +1,7 @@
 # Events at Soneva Secret, Maldives
 
 Source: https://soneva.com/resorts/soneva-secret/events/
-Scraped: 2026-10-04
+Scraped: 2026-10-05
 Resort: Soneva Secret
 Page type: events
 

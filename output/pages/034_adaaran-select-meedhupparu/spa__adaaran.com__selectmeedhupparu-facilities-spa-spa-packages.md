@@ -1,7 +1,7 @@
 # Maldives Spa Holiday | Spa Packages | Adaaran Select Meedhupparu
 
 Source: https://www.adaaran.com/selectmeedhupparu/facilities/spa/spa-packages/
-Scraped: 2026-10-04
+Scraped: 2026-10-05
 Resort: Adaaran Select Meedhupparu
 Page type: spa
 

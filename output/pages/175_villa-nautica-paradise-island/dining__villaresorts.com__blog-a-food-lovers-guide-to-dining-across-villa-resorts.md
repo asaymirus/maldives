@@ -1,7 +1,7 @@
 # A Foodie’s Guide to Dining in the Maldives | Villa Resorts
 
 Source: https://villaresorts.com/blog/a-food-lovers-guide-to-dining-across-villa-resorts/
-Scraped: 2026-10-04
+Scraped: 2026-10-05
 Resort: Villa Nautica Paradise Island
 Page type: dining
 

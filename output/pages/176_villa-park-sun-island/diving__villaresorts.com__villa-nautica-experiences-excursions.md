@@ -1,7 +1,7 @@
 # Excursions | Villa Nautica Resort Maldives
 
 Source: https://villaresorts.com/villa-nautica/experiences/excursions/
-Scraped: 2026-10-04
+Scraped: 2026-10-05
 Resort: Villa Park Sun Island
 Page type: diving
 

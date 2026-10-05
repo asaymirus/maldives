@@ -1,7 +1,7 @@
 # Royal Island Maldives Resort | Beach Villas & Suites
 
 Source: https://villaresorts.com/royal-island/accommodation/
-Scraped: 2026-10-04
+Scraped: 2026-10-05
 Resort: Villa Nautica Paradise Island
 Page type: diving
 

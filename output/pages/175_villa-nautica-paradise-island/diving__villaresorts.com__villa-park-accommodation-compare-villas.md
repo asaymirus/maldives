@@ -1,7 +1,7 @@
 # Compare Villas | Villa Park Resort Maldives
 
 Source: https://villaresorts.com/villa-park/accommodation/compare-villas/
-Scraped: 2026-10-04
+Scraped: 2026-10-05
 Resort: Villa Nautica Paradise Island
 Page type: diving
 

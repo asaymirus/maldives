@@ -1,7 +1,7 @@
 # Diving Holidays Maldives | Adaaran Select Meedhupparu | Diving
 
 Source: https://www.adaaran.com/selectmeedhupparu/experiences/dive-point/
-Scraped: 2026-10-04
+Scraped: 2026-10-05
 Resort: Adaaran Select Meedhupparu
 Page type: diving
 

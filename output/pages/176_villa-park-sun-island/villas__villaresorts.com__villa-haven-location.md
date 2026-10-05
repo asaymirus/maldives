@@ -1,7 +1,7 @@
 # Location | Villa Resorts
 
 Source: https://villaresorts.com/villa-haven/location/
-Scraped: 2026-10-04
+Scraped: 2026-10-05
 Resort: Villa Park Sun Island
 Page type: villas
 

@@ -1,7 +1,7 @@
 # All Inclusive Resorts in Maldives for Couples | Adaaran Meedhapparu
 
 Source: https://www.adaaran.com/selectmeedhupparu/villas/duplex-honeymoon-suite/
-Scraped: 2026-10-04
+Scraped: 2026-10-05
 Resort: Adaaran Select Meedhupparu
 Page type: wedding
 

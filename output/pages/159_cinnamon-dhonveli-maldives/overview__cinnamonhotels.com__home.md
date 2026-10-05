@@ -1,7 +1,7 @@
 # Sri Lanka Hotels | Cinnamon Hotels & Resorts Official Site
 
 Source: https://www.cinnamonhotels.com/
-Scraped: 2026-10-04
+Scraped: 2026-10-05
 Resort: Cinnamon Dhonveli Maldives
 Page type: overview
 

@@ -1,7 +1,7 @@
 # Maldives Weddings All Inclusive | Wedding | Adaaran Meedhupparu
 
 Source: https://www.adaaran.com/selectmeedhupparu/weddings/
-Scraped: 2026-10-04
+Scraped: 2026-10-05
 Resort: Adaaran Select Meedhupparu
 Page type: wedding
 

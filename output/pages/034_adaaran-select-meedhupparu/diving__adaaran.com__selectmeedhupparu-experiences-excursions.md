@@ -1,7 +1,7 @@
 # Maldives Things to do and See | Excursions at Adaaran Meedhupparu
 
 Source: https://www.adaaran.com/selectmeedhupparu/experiences/excursions/
-Scraped: 2026-10-04
+Scraped: 2026-10-05
 Resort: Adaaran Select Meedhupparu
 Page type: diving
 

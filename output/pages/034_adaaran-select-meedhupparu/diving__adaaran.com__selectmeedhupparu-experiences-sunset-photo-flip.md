@@ -1,7 +1,7 @@
 # Maldives Sunset Cruise | Photo Flip | Adaaran Meedhupparu
 
 Source: https://www.adaaran.com/selectmeedhupparu/experiences/sunset-photo-flip/
-Scraped: 2026-10-04
+Scraped: 2026-10-05
 Resort: Adaaran Select Meedhupparu
 Page type: diving
 

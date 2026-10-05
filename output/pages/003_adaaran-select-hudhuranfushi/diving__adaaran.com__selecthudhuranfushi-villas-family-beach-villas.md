@@ -1,7 +1,7 @@
 # Maldives Family Beach Villas | Family Beach Villas at Adaaran Select Hudhuranfushi
 
 Source: https://www.adaaran.com/selecthudhuranfushi/villas/family-beach-villas/
-Scraped: 2026-10-04
+Scraped: 2026-10-05
 Resort: Adaaran Select Hudhuranfushi
 Page type: diving
 

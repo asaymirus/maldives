@@ -1,7 +1,7 @@
 # Your Journey - Soneva Secret - Soneva
 
 Source: https://soneva.com/resorts/soneva-secret/your-journey-soneva-secret/
-Scraped: 2026-10-04
+Scraped: 2026-10-05
 Resort: Soneva Secret
 Page type: overview
 

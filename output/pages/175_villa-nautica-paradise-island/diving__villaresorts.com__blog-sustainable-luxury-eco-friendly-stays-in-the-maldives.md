@@ -1,7 +1,7 @@
 # Blog | Sustainable Luxury In The Maldives | Villa Resorts
 
 Source: https://villaresorts.com/blog/sustainable-luxury-eco-friendly-stays-in-the-maldives/
-Scraped: 2026-10-04
+Scraped: 2026-10-05
 Resort: Villa Nautica Paradise Island
 Page type: diving
 

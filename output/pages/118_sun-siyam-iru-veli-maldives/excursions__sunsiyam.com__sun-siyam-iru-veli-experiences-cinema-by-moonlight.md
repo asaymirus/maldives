@@ -1,7 +1,7 @@
 # Movie Under the Stars at Sun Siyam Iru Veli
 
 Source: https://www.sunsiyam.com/sun-siyam-iru-veli/experiences/cinema-by-moonlight/
-Scraped: 2026-10-04
+Scraped: 2026-10-05
 Resort: Sun Siyam Iru Veli Maldives
 Page type: excursions
 

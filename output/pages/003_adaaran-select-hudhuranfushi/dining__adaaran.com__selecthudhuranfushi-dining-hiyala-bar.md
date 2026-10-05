@@ -1,7 +1,7 @@
 # Resort Bars Maldives | Hiyala Bar at Adaaran Select Hudhuranfushi
 
 Source: https://www.adaaran.com/selecthudhuranfushi/dining/hiyala-bar/
-Scraped: 2026-10-04
+Scraped: 2026-10-05
 Resort: Adaaran Select Hudhuranfushi
 Page type: dining
 

@@ -1,7 +1,7 @@
 # Maldives Water Sports | Watersports | Adaaran Select Meedhupparu
 
 Source: https://www.adaaran.com/selectmeedhupparu/experiences/watersports/
-Scraped: 2026-10-04
+Scraped: 2026-10-05
 Resort: Adaaran Select Meedhupparu
 Page type: diving
 

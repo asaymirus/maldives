@@ -1,7 +1,7 @@
 # Offers & Packages | Villa Haven Resort Maldives
 
 Source: https://villaresorts.com/villa-haven/offers/
-Scraped: 2026-10-04
+Scraped: 2026-10-05
 Resort: Villa Nautica Paradise Island
 Page type: diving
 

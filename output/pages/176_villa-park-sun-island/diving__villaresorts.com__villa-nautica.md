@@ -1,7 +1,7 @@
 # Villa Nautica Maldives Resort | Official Website
 
 Source: https://villaresorts.com/villa-nautica/
-Scraped: 2026-10-04
+Scraped: 2026-10-05
 Resort: Villa Park Sun Island
 Page type: diving
 

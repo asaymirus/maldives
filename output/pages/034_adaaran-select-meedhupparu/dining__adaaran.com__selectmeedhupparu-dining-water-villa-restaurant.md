@@ -1,7 +1,7 @@
 # Water Villa Restaurant & Lounge | Adaaran Select Meedhupparu
 
 Source: https://www.adaaran.com/selectmeedhupparu/dining/water-villa-restaurant/
-Scraped: 2026-10-04
+Scraped: 2026-10-05
 Resort: Adaaran Select Meedhupparu
 Page type: dining
 

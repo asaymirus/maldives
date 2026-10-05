@@ -1,7 +1,7 @@
 # Indian Restaurant in Maldives | Adaaran Select Hudhuranfushi
 
 Source: https://www.adaaran.com/selecthudhuranfushi/dining/indian-pavilion/
-Scraped: 2026-10-04
+Scraped: 2026-10-05
 Resort: Adaaran Select Hudhuranfushi
 Page type: dining
 

@@ -1,7 +1,7 @@
 # Luxury Overwater & Island Villas in the Maldives | Soneva Fushi
 
 Source: https://soneva.com/resorts/soneva-fushi/villas/
-Scraped: 2026-10-04
+Scraped: 2026-10-05
 Resort: Soneva Fushi Resort
 Page type: diving
 

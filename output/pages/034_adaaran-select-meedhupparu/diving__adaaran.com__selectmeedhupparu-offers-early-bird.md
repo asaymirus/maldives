@@ -1,7 +1,7 @@
 # Maldives Island Hotel Offer | Early Bird Offer at Adaaran Meedhupparu
 
 Source: https://www.adaaran.com/selectmeedhupparu/offers/early-bird/
-Scraped: 2026-10-04
+Scraped: 2026-10-05
 Resort: Adaaran Select Meedhupparu
 Page type: diving
 

@@ -1,7 +1,7 @@
 # Things to do in Maldives for Couples | Adaaran Meedhupparu
 
 Source: https://www.adaaran.com/selectmeedhupparu/experiences/lovers-paradise/
-Scraped: 2026-10-04
+Scraped: 2026-10-05
 Resort: Adaaran Select Meedhupparu
 Page type: diving
 

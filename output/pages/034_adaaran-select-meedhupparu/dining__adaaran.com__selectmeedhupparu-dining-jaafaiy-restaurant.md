@@ -1,7 +1,7 @@
 # Restaurant in Maldives | Jaafaiy Restaurant | Adaaran Meedhupparu
 
 Source: https://www.adaaran.com/selectmeedhupparu/dining/jaafaiy-restaurant/
-Scraped: 2026-10-04
+Scraped: 2026-10-05
 Resort: Adaaran Select Meedhupparu
 Page type: dining
 

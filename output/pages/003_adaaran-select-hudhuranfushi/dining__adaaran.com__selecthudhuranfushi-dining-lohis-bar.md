@@ -1,7 +1,7 @@
 # Maldives Bar | Lohis Wave at Adaaran Select Hudhuranfushi
 
 Source: https://www.adaaran.com/selecthudhuranfushi/dining/lohis-bar/
-Scraped: 2026-10-04
+Scraped: 2026-10-05
 Resort: Adaaran Select Hudhuranfushi
 Page type: dining
 

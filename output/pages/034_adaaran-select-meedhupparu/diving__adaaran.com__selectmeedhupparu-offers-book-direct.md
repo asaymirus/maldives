@@ -1,7 +1,7 @@
 # Maldives Resort All Inclusive Deals | Book Direct | Adaaran Meedhupparu
 
 Source: https://www.adaaran.com/selectmeedhupparu/offers/book-direct/
-Scraped: 2026-10-04
+Scraped: 2026-10-05
 Resort: Adaaran Select Meedhupparu
 Page type: diving
 
