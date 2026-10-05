@@ -661,3 +661,5 @@ Traceback (most recent call last):
   File "/usr/local/lib/python3.11/dist-packages/openpyxl/cell/cell.py", line 165, in check_string
     raise IllegalCharacterError(f"{value} cannot be used in worksheets.")
 openpyxl.utils.exceptions.IllegalCharacterError:  IN-ROOM DINING POUR COMMANDER, CONTACTEZ IN-ROOM DINING READY TO ORDER, JUST DIAL IN-ROOM DINING PICNIC POUR COMMANDER, CONTACTEZ IN-ROOM DINING   cannot be used in worksheets.
+2026-10-05 00:01:39,533 INFO === Phase B batch 121-140
+2026-10-05 00:01:39,952 INFO BLOCKED www.avanihotels.com (403)
