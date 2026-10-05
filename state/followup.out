@@ -68,3 +68,6 @@ FileNotFoundError: [Errno 2] No such file or directory: '/home/user/maldives/sta
 == coverage: factsheet 122/182  wedding 53  events 22  map 125  nothing 24  docs 3274
 
 {"factsheet": 122, "wedding": 53, "events": 22, "spa_menu": 76, "dining_menu": 77, "dive_prices": 57, "map": 125, "nothing": 24, "docs": 3274, "resorts_with_docs": 158}
++ python3 dam_dash.py
++ python3 phase_b.py dam
+2026-10-05 01:23:07,767 INFO DAM https://ayada2.squarespace.com/s/Diamond-All-Inclusive.pdf -> 1 pdfs
