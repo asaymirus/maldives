@@ -53,7 +53,7 @@ Meal plans: n/a
 
 ## Public contacts
 
-- Reservations: info@bettis-partywelt.com; weddings: wien@eventwide.com; phone: +960 736 5425
+- Reservations: info@jasminerbas.com; weddings: wien@eventwide.com; phone: +960 736 5425
 
 ## Latest documents
 

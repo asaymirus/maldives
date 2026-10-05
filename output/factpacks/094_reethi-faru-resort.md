@@ -88,7 +88,7 @@ All-inclusive: all-inclusive: molti resort offrono pacchetti all-inclusive che c
 
 ## Public contacts
 
-- Reservations: inquiry@reethifaru.com; weddings: n/a; phone: +960 400 4000
+- Reservations: reservation@reethifaru.com; weddings: n/a; phone: +960 400 4000
 
 ## Latest documents
 
