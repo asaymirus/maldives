@@ -62,7 +62,7 @@ Spa; treatment rooms: ?; menu: https://www.thulhagiri.com.mv/wp-content/uploads/
 
 ## Public contacts
 
-- Reservations: info@thulhagiri.com.mv; weddings: n/a; phone: +960 6645930
+- Reservations: reserve@thulhagiri.com.mv; weddings: n/a; phone: +960 6645930
 
 ## Latest documents
 

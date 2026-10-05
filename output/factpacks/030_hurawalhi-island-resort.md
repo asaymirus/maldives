@@ -60,7 +60,7 @@ All-inclusive: all-inclusive plan is available in Hurawalhi.
 
 ## Public contacts
 
-- Reservations: reservations@kagimaldives.com; weddings: n/a; phone: +960 664 3157
+- Reservations: reservations@kudadoo.com; weddings: n/a; phone: +960 664 3157
 
 ## Latest documents
 

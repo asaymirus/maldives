@@ -418,3 +418,4 @@
 {"domain": "aanugandu.mv", "method": "commoncrawl CC-MAIN-2026-39", "status": "ok", "pdf_found": 0, "pdf_matched": 0, "notes": "", "date": "2026-10-05"}
 {"domain": "adaaran.com", "method": "commoncrawl CC-MAIN-2026-39", "status": "index-unavailable", "pdf_found": 0, "pdf_matched": 0, "notes": "", "date": "2026-10-05"}
 {"domain": "index.commoncrawl.org", "method": "commoncrawl", "status": "index-unavailable", "pdf_found": 0, "pdf_matched": 0, "notes": "503/504 at run time; re-run later", "date": "2026-10-05"}
+{"domain": "web.archive.org", "method": "wayback-fetch", "status": "blocked-egress", "pdf_found": 88, "pdf_matched": 0, "notes": "availability API works, but web.archive.org resets connections through this egress (CDX 403, fetch connection reset); 88 archived copies located but not retrievable", "date": "2026-10-05"}

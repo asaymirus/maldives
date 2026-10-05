@@ -88,7 +88,7 @@ All-inclusive: all-inclusive package.
 
 ## Public contacts
 
-- Reservations: mlewi.reservation@westinhotels.com; weddings: n/a; phone: +960 3313256
+- Reservations: info@ritzyholidays.com; weddings: n/a; phone: +960 3313256
 
 ## Latest documents
 
